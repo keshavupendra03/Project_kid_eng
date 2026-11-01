@@ -1,0 +1,203 @@
+{
+  "lessons": [
+    {
+      "id": "L1.U04",
+      "intro": { "hi": "चार नई आवाज़ें: m, d, g और o. इनसे और भी शब्द बनेंगे!", "hl": "Chaar nayi awaazein: m, d, g aur o. Inse aur bhi shabd banenge!", "en": "Four new sounds: m, d, g and o. They help us make more words!" },
+      "sounds": [
+        { "letters": "m", "hint": "म", "hint_hl": "m", "example": ["monkey", "🐒", "बंदर", "bandar"] },
+        { "letters": "d", "hint": "ड", "hint_hl": "d", "example": ["duck", "🦆", "बत्तख", "battakh"] },
+        { "letters": "g", "hint": "ग", "hint_hl": "g", "example": ["goat", "🐐", "बकरी", "bakri"] },
+        { "letters": "o", "hint": "ऑ", "hint_hl": "o", "example": ["octopus", "🐙", "ऑक्टोपस", "octopus"] }
+      ],
+      "blends": [
+        { "word": "dog", "emoji": "🐕", "parts": "d-o-g" },
+        { "word": "man", "emoji": "👨", "parts": "m-a-n" },
+        { "word": "map", "emoji": "🗺️", "parts": "m-a-p" },
+        { "word": "pig", "emoji": "🐖", "parts": "p-i-g" }
+      ],
+      "outro": { "hi": "बढ़िया! तुमने dog, man, map और pig पढ़ लिए!", "hl": "Badhiya! Tumne dog, man, map aur pig padh liye!", "en": "Great! You read dog, man, map and pig!" }
+    },
+    {
+      "id": "L1.U05",
+      "intro": { "hi": "आज की आवाज़ें: c, e, u और r.", "hl": "Aaj ki awaazein: c, e, u aur r.", "en": "Today's sounds: c, e, u and r." },
+      "sounds": [
+        { "letters": "c", "hint": "क", "hint_hl": "k", "example": ["cat", "🐈", "बिल्ली", "billi"],
+          "text": { "hi": "यह ‘c’ है। यहाँ इसकी आवाज़ है ‘क्’, जैसे cat में।", "hl": "Yeh ‘c’ hai. Yahan iski awaaz hai ‘k’, jaise cat mein.", "en": "This is ‘c’. Here it sounds like ‘k’, as in cat." } },
+        { "letters": "e", "hint": "ए", "hint_hl": "e", "example": ["egg", "🥚", "अंडा", "anda"] },
+        { "letters": "u", "hint": "अ", "hint_hl": "a", "example": ["umbrella", "☂️", "छाता", "chhaata"] },
+        { "letters": "r", "hint": "र", "hint_hl": "r", "example": ["rabbit", "🐇", "खरगोश", "khargosh"] }
+      ],
+      "blends": [
+        { "word": "cat", "emoji": "🐈", "parts": "c-a-t" },
+        { "word": "cup", "emoji": "☕", "parts": "c-u-p" },
+        { "word": "red", "emoji": "🔴", "parts": "r-e-d" },
+        { "word": "net", "emoji": "🥅", "parts": "n-e-t" },
+        { "word": "rat", "emoji": "🐀", "parts": "r-a-t" },
+        { "word": "sun", "emoji": "☀️", "parts": "s-u-n", "accept": ["son"] }
+      ],
+      "outro": { "hi": "शाबाश! cat, cup, red, net, rat, sun — तुमने छह नए शब्द पढ़ लिए!", "hl": "Shabaash! cat, cup, red, net, rat, sun — tumne chhe naye shabd padh liye!", "en": "Well done! cat, cup, red, net, rat, sun — you read six new words!" }
+    },
+    {
+      "id": "L1.U06",
+      "intro": { "hi": "अब h, b, f और l की बारी!", "hl": "Ab h, b, f aur l ki baari!", "en": "Now it's time for h, b, f and l!" },
+      "sounds": [
+        { "letters": "h", "hint": "ह", "hint_hl": "h", "example": ["hat", "🎩", "टोपी", "topi"] },
+        { "letters": "b", "hint": "ब", "hint_hl": "b", "example": ["ball", "⚽", "गेंद", "gend"] },
+        { "letters": "f", "hint": "फ़", "hint_hl": "f", "example": ["fish", "🐟", "मछली", "machhli"],
+          "text": { "hi": "यह ‘f’ है। ऊपर के दाँत नीचे वाले होंठ पर रखो और हवा छोड़ो: फ़्फ़्फ़। जैसे fish में।", "hl": "Yeh ‘f’ hai. Upar ke daant neeche waale honth par rakho aur hawa chhodo: fff. Jaise fish mein.", "en": "This is ‘f’. Put your top teeth on your bottom lip and blow: fff, like in fish." } },
+        { "letters": "l", "hint": "ल", "hint_hl": "l", "example": ["lion", "🦁", "शेर", "sher"] }
+      ],
+      "blends": [
+        { "word": "hat", "emoji": "🎩", "parts": "h-a-t" },
+        { "word": "bat", "emoji": "🦇", "parts": "b-a-t" },
+        { "word": "bed", "emoji": "🛏️", "parts": "b-e-d" },
+        { "word": "bus", "emoji": "🚌", "parts": "b-u-s" },
+        { "word": "leg", "emoji": "🦵", "parts": "l-e-g" },
+        { "word": "hen", "emoji": "🐔", "parts": "h-e-n" }
+      ],
+      "pairs": [ { "answer": "fan", "options": ["fan", "pan"], "skills": ["sound.f"] } ],
+      "outro": { "hi": "वाह! अब तुम्हें 18 आवाज़ें आती हैं!", "hl": "Waah! Ab tumhe 18 awaazein aati hain!", "en": "Wow! Now you know 18 sounds!" }
+    },
+    {
+      "id": "L1.U07",
+      "intro": { "hi": "आज j, y और z. ध्यान दो: z की आवाज़ ‘ज’ से अलग है!", "hl": "Aaj j, y aur z. Dhyaan do: z ki awaaz ‘ja’ se alag hai!", "en": "Today: j, y and z. Careful: z sounds different from j!" },
+      "sounds": [
+        { "letters": "j", "hint": "ज", "hint_hl": "j", "example": ["juice", "🧃", "जूस", "juice"] },
+        { "letters": "y", "hint": "य", "hint_hl": "y", "example": ["yellow", "🟡", "पीला", "peela"] },
+        { "letters": "z", "hint": "ज़", "hint_hl": "z", "example": ["zebra", "🦓", "ज़ेबरा", "zebra"],
+          "text": { "hi": "यह ‘z’ है। मधुमक्खी जैसी आवाज़ करो: ज़्ज़्ज़। जैसे zebra में।", "hl": "Yeh ‘z’ hai. Madhumakkhi jaisi awaaz karo: zzz. Jaise zebra mein.", "en": "This is ‘z’. Buzz like a bee: zzz, like in zebra." } }
+      ],
+      "blends": [
+        { "word": "jet", "emoji": "🛩️", "parts": "j-e-t" },
+        { "word": "yes", "emoji": "✅", "parts": "y-e-s" },
+        { "word": "zip", "emoji": "🤐", "parts": "z-i-p" },
+        { "word": "jam", "emoji": "🍯", "parts": "j-a-m" }
+      ],
+      "outro": { "hi": "बहुत बढ़िया! याद रखना: z में मधुमक्खी वाली आवाज़ — zebra!", "hl": "Bahut badhiya! Yaad rakhna: z mein madhumakkhi waali awaaz — zebra!", "en": "Great! Remember: z buzzes like a bee — zebra!" }
+    },
+    {
+      "id": "L1.U08",
+      "intro": { "hi": "दो अक्षर मिलकर एक नई आवाज़ बनाते हैं! s और h मिलकर ‘sh’ = श।", "hl": "Do akshar milkar ek nayi awaaz banaate hain! s aur h milkar ‘sh’ = sh.", "en": "Two letters can join to make one new sound! s and h make ‘sh’." },
+      "sounds": [
+        { "letters": "sh", "hint": "श", "hint_hl": "sh", "example": ["ship", "🚢", "जहाज़", "jahaaz"] },
+        { "letters": "ch", "hint": "च", "hint_hl": "ch", "example": ["chair", "🪑", "कुर्सी", "kursi"] },
+        { "letters": "ng", "hint": "ङ", "hint_hl": "ng", "example": ["ring", "💍", "अँगूठी", "angoothi"],
+          "text": { "hi": "यह ‘ng’ है। आवाज़ नाक से निकलती है, जैसे ring के आख़िर में।", "hl": "Yeh ‘ng’ hai. Awaaz naak se nikalti hai, jaise ring ke aakhir mein.", "en": "This is ‘ng’. The sound comes through your nose, like at the end of ring." } }
+      ],
+      "blends": [
+        { "word": "ship", "emoji": "🚢", "parts": "sh-i-p" },
+        { "word": "shop", "emoji": "🏪", "parts": "sh-o-p" },
+        { "word": "chip", "emoji": "🍟", "parts": "ch-i-p" },
+        { "word": "fish", "emoji": "🐟", "parts": "f-i-sh" },
+        { "word": "king", "emoji": "🤴", "parts": "k-i-ng" },
+        { "word": "ring", "emoji": "💍", "parts": "r-i-ng" }
+      ],
+      "pairs": [
+        { "answer": "sip", "options": ["ship", "sip"], "skills": ["sound.sh"] },
+        { "answer": "chip", "options": ["chip", "ship"], "skills": ["sound.sh"] }
+      ],
+      "outro": { "hi": "शाबाश! sh, ch और ng — दो अक्षर, एक आवाज़!", "hl": "Shabaash! sh, ch aur ng — do akshar, ek awaaz!", "en": "Well done! sh, ch and ng — two letters, one sound!" }
+    },
+    {
+      "id": "L1.U09",
+      "raw": [
+        { "type": "learn_card", "skills": ["phonics.magic_e"],
+          "text": { "hi": "जादुई ‘e’! शब्द के आख़िर में ‘e’ खुद नहीं बोलता, पर पहले वाले अक्षर से उसका नाम बुलवाता है। kit बन जाता है kite!", "hl": "Jaadui ‘e’! Shabd ke aakhir mein ‘e’ khud nahi bolta, par pehle waale akshar se uska naam bulwaata hai. kit ban jaata hai kite!", "en": "Magic ‘e’! An ‘e’ at the end is silent, but it makes the letter before it say its name. kit becomes kite!" } },
+        { "type": "learn_card", "skills": ["phonics.magic_e"],
+          "text": { "hi": "kit में ‘i’ छोटा है: इ. kite में ‘e’ के जादू से ‘i’ बोलता है: आइ।", "hl": "kit mein ‘i’ chhota hai: i. kite mein ‘e’ ke jaadoo se ‘i’ bolta hai: aai.", "en": "In kit, ‘i’ is short. In kite, magic ‘e’ makes ‘i’ say its name." },
+          "word": ["kite", "🪁", "पतंग", "patang"] },
+        { "type": "minimal_pair", "skills": ["listen.minimal_pair", "phonics.magic_e"], "answer": "kite", "options": ["kit", "kite"] },
+        { "type": "learn_card", "skills": ["phonics.magic_e"],
+          "text": { "hi": "cap में ‘a’ = ऐ. cake में ‘a’ = एइ, क्योंकि आख़िर में ‘e’ है!", "hl": "cap mein ‘a’ = ae. cake mein ‘a’ = ei, kyonki aakhir mein ‘e’ hai!", "en": "In cap, ‘a’ is short. In cake, ‘a’ says its name, because of the ‘e’ at the end!" },
+          "word": ["cake", "🎂", "केक", "cake"] },
+        { "type": "minimal_pair", "skills": ["listen.minimal_pair", "phonics.magic_e"], "answer": "tape", "options": ["tap", "tape"] },
+        { "type": "word_pick", "skills": ["read.word", "phonics.magic_e"], "emoji": "🪁", "answer": "kite", "options": ["kite", "kit", "cat"] },
+        { "type": "minimal_pair", "skills": ["listen.minimal_pair", "phonics.magic_e"], "answer": "cube", "options": ["cub", "cube"] },
+        { "type": "word_pick", "skills": ["read.word", "phonics.magic_e"], "emoji": "🧊", "answer": "cube", "options": ["cube", "cub", "cup"] },
+        { "type": "learn_card", "skills": ["phonics.magic_e"],
+          "text": { "hi": "o के साथ भी यही जादू: hop से hope, not से note, और bone!", "hl": "o ke saath bhi yahi jaadoo: hop se hope, not se note, aur bone!", "en": "The same magic works with o: hop becomes hope, not becomes note, and bone!" },
+          "word": ["bone", "🦴", "हड्डी", "haddi"] },
+        { "type": "minimal_pair", "skills": ["listen.minimal_pair", "phonics.magic_e"], "answer": "hope", "options": ["hop", "hope"] },
+        { "type": "say_word", "skills": ["speak.word", "phonics.magic_e"], "word": ["kite", "🪁", "पतंग", "patang"] },
+        { "type": "say_word", "skills": ["speak.word", "phonics.magic_e"], "word": ["cake", "🎂", "केक", "cake"] },
+        { "type": "listen_read", "skills": ["read.word", "phonics.magic_e"], "answer": "note", "options": ["note", "not", "nut"] },
+        { "type": "word_pick", "skills": ["read.word", "phonics.magic_e"], "emoji": "🦴", "answer": "bone", "options": ["bone", "bun", "ban"] },
+        { "type": "learn_card",
+          "text": { "hi": "कमाल! जादुई e का राज़ अब तुम्हें पता है!", "hl": "Kamaal! Jaadui e ka raaz ab tumhe pata hai!", "en": "Amazing! Now you know the secret of magic e!" } }
+      ]
+    },
+    {
+      "id": "L1.U10",
+      "intro": { "hi": "कभी-कभी दो स्वर मिलकर एक आवाज़ बनाते हैं: ee, oa, ai, oo. चलो सुनते हैं!", "hl": "Kabhi-kabhi do swar milkar ek awaaz banaate hain: ee, oa, ai, oo. Chalo sunte hain!", "en": "Sometimes two vowels team up to make one sound: ee, oa, ai, oo. Let's listen!" },
+      "sounds": [
+        { "letters": "ee", "hint": "ई", "hint_hl": "ee", "example": ["tree", "🌳", "पेड़", "ped"] },
+        { "letters": "oa", "hint": "ओ", "hint_hl": "o", "example": ["boat", "⛵", "नाव", "naav"] },
+        { "letters": "ai", "hint": "एइ", "hint_hl": "ei", "example": ["rain", "🌧️", "बारिश", "baarish"] },
+        { "letters": "oo", "hint": "ऊ", "hint_hl": "oo", "example": ["moon", "🌙", "चाँद", "chaand"] }
+      ],
+      "blends": [
+        { "word": "bee", "emoji": "🐝", "parts": "b-ee" },
+        { "word": "sheep", "emoji": "🐑", "parts": "sh-ee-p" },
+        { "word": "goat", "emoji": "🐐", "parts": "g-oa-t" },
+        { "word": "snail", "emoji": "🐌", "parts": "s-n-ai-l" },
+        { "word": "spoon", "emoji": "🥄", "parts": "s-p-oo-n" },
+        { "word": "food", "emoji": "🍲", "parts": "f-oo-d" }
+      ],
+      "pairs": [
+        { "answer": "sheep", "options": ["sheep", "ship"] },
+        { "answer": "boat", "options": ["boat", "boot"] }
+      ],
+      "outro": { "hi": "शाबाश! ee, oa, ai, oo — जोड़ी वाले स्वर अब तुम्हारे दोस्त हैं!", "hl": "Shabaash! ee, oa, ai, oo — jodi waale swar ab tumhare dost hain!", "en": "Well done! ee, oa, ai, oo — vowel teams are your friends now!" }
+    },
+    {
+      "id": "L1.U11",
+      "raw": [
+        { "type": "learn_card", "skills": ["read.sight_words"],
+          "text": { "hi": "कुछ शब्द आवाज़ें जोड़कर नहीं पढ़े जाते। इन्हें देखते ही पहचानना होता है, जैसे: the, is, you, said.", "hl": "Kuch shabd awaazein jodkar nahi padhe jaate. Inhe dekhte hi pehchaanna hota hai, jaise: the, is, you, said.", "en": "Some words can't be sounded out. We learn to know them on sight, like: the, is, you, said." } },
+        { "type": "listen_read", "skills": ["read.sight_words"], "answer": "the", "options": ["the", "then", "they"] },
+        { "type": "listen_read", "skills": ["read.sight_words"], "answer": "is", "options": ["is", "it", "in"] },
+        { "type": "listen_read", "skills": ["read.sight_words"], "answer": "you", "options": ["you", "your", "yes"] },
+        { "type": "fill_blank", "skills": ["read.sight_words"], "sentence": "This ___ my bag.", "answer": "is", "options": ["is", "the", "you"],
+          "meaning": { "hi": "यह मेरा बैग है।", "hl": "Yeh mera bag hai." } },
+        { "type": "listen_read", "skills": ["read.sight_words"], "answer": "are", "options": ["are", "and", "air"] },
+        { "type": "listen_read", "skills": ["read.sight_words"], "answer": "was", "options": ["was", "saw", "has"] },
+        { "type": "listen_read", "skills": ["read.sight_words"], "answer": "said", "options": ["said", "sad", "sand"] },
+        { "type": "fill_blank", "skills": ["read.sight_words"], "sentence": "Where are ___?", "answer": "you", "options": ["you", "was", "the"],
+          "meaning": { "hi": "तुम कहाँ हो?", "hl": "Tum kahan ho?" } },
+        { "type": "listen_read", "skills": ["read.sight_words"], "answer": "what", "options": ["what", "want", "white"] },
+        { "type": "listen_read", "skills": ["read.sight_words"], "answer": "they", "options": ["they", "the", "then"] },
+        { "type": "listen_read", "skills": ["read.sight_words"], "answer": "where", "options": ["where", "were", "here"] },
+        { "type": "say_word", "skills": ["speak.word", "read.sight_words"], "word": ["the", "", "", ""] },
+        { "type": "learn_card",
+          "text": { "hi": "बढ़िया! ये छोटे शब्द हर किताब में आते हैं। अब तुम इन्हें झट से पहचान लोगे!", "hl": "Badhiya! Yeh chhote shabd har kitaab mein aate hain. Ab tum inhe jhat se pehchaan loge!", "en": "Great! These little words are in every book. Now you'll spot them in a flash!" } }
+      ]
+    },
+    {
+      "id": "L1.U12",
+      "raw": [
+        { "type": "learn_card",
+          "text": { "hi": "कुछ और आवाज़ें जो हम हिंदी बोलने वाले अक्सर बदल देते हैं। चलो इन्हें पक्का करें!", "hl": "Kuch aur awaazein jo hum Hindi bolne waale aksar badal dete hain. Chalo inhe pakka karein!", "en": "A few more sounds we Hindi speakers often change. Let's master them!" } },
+        { "type": "learn_card", "skills": ["sound.s_cluster"],
+          "text": { "hi": "school को इस्कूल मत बोलो! s के बाद सीधे अगली आवाज़: s-chool, s-tar, s-nake.", "hl": "School ko ischool mat bolo! s ke baad seedhe agli awaaz: s-chool, s-tar, s-nake.", "en": "Don't say ‘ischool’! After s, go straight on: s-chool, s-tar, s-nake." },
+          "word": ["star", "⭐", "तारा", "taara"] },
+        { "type": "say_word", "skills": ["speak.word", "sound.s_cluster"], "word": ["star", "⭐", "तारा", "taara"] },
+        { "type": "say_word", "skills": ["speak.word", "sound.s_cluster"], "word": ["snake", "🐍", "साँप", "saanp"] },
+        { "type": "say_word", "skills": ["speak.word", "sound.s_cluster"], "word": ["spoon", "🥄", "चम्मच", "chammach"] },
+        { "type": "learn_card", "skills": ["sound.z"],
+          "text": { "hi": "‘z’ और ‘j’ अलग हैं। zoo में मधुमक्खी वाली आवाज़ आती है: ज़ू, जू नहीं!", "hl": "‘z’ aur ‘j’ alag hain. zoo mein madhumakkhi waali awaaz aati hai: zoo, joo nahi!", "en": "‘z’ and ‘j’ are different. zoo buzzes like a bee — not ‘joo’!" },
+          "word": ["zebra", "🦓", "ज़ेबरा", "zebra"] },
+        { "type": "say_word", "skills": ["speak.word", "sound.z"], "word": ["zero", "0️⃣", "शून्य", "shoonya"], "accept": ["0"] },
+        { "type": "say_word", "skills": ["speak.word", "sound.z"], "word": ["zebra", "🦓", "ज़ेबरा", "zebra"] },
+        { "type": "learn_card", "skills": ["sound.f"],
+          "text": { "hi": "‘f’ में होंठ नहीं मिलते, ‘p’ में मिलते हैं। fan और pan अलग शब्द हैं!", "hl": "‘f’ mein honth nahi milte, ‘p’ mein milte hain. fan aur pan alag shabd hain!", "en": "For ‘f’ your lips don't touch; for ‘p’ they do. fan and pan are different words!" } },
+        { "type": "minimal_pair", "skills": ["listen.minimal_pair", "sound.f"], "answer": "pan", "options": ["fan", "pan"] },
+        { "type": "say_word", "skills": ["speak.word", "sound.f"], "word": ["fish", "🐟", "मछली", "machhli"] },
+        { "type": "say_word", "skills": ["speak.word", "sound.f"], "word": ["five", "5️⃣", "पाँच", "paanch"], "accept": ["5"] },
+        { "type": "minimal_pair", "skills": ["listen.minimal_pair", "sound.sh"], "answer": "ship", "options": ["ship", "sip"] },
+        { "type": "say_word", "skills": ["speak.word", "sound.sh"], "word": ["shoe", "👟", "जूता", "joota"] },
+        { "type": "learn_card",
+          "text": { "hi": "शाबाश! अब तुम्हारी इंग्लिश और साफ़ सुनाई देगी!", "hl": "Shabaash! Ab tumhari English aur saaf sunaai degi!", "en": "Well done! Your English will sound even clearer now!" } }
+      ]
+    }
+  ]
+}

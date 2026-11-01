@@ -1,0 +1,477 @@
+{
+  "id": "L2.U23",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U23.S01",
+      "text": {
+        "hi": "बाहर की दुनिया: आसमान, पेड़ और फूल।",
+        "hinglish": "Baahar ki duniya: aasmaan, ped aur phool.",
+        "en": "The world outside: sky, trees and flowers."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U23.S02",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘sun’ मतलब ‘सूरज’।",
+        "hinglish": "‘sun’ matlab ‘sooraj’.",
+        "en": "Say it with me: sun!"
+      },
+      "word": {
+        "english": "sun",
+        "emoji": "☀️",
+        "hindi": "सूरज",
+        "hinglish": "sooraj"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U23.S03",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘moon’ मतलब ‘चाँद’।",
+        "hinglish": "‘moon’ matlab ‘chaand’.",
+        "en": "Say it with me: moon!"
+      },
+      "word": {
+        "english": "moon",
+        "emoji": "🌙",
+        "hindi": "चाँद",
+        "hinglish": "chaand"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U23.S04",
+      "skills": [
+        "listen.word",
+        "vocab.nature"
+      ],
+      "answer": "sun",
+      "options": [
+        {
+          "english": "sun",
+          "emoji": "☀️",
+          "hindi": "सूरज",
+          "hinglish": "sooraj"
+        },
+        {
+          "english": "flower",
+          "emoji": "🌸",
+          "hindi": "फूल",
+          "hinglish": "phool"
+        },
+        {
+          "english": "mountain",
+          "emoji": "⛰️",
+          "hindi": "पहाड़",
+          "hinglish": "pahaad"
+        },
+        {
+          "english": "cloud",
+          "emoji": "☁️",
+          "hindi": "बादल",
+          "hinglish": "baadal"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U23.S05",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "emoji": "🌙",
+      "answer": "moon",
+      "options": [
+        "moon",
+        "mountain",
+        "tree"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U23.S06",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘star’ मतलब ‘तारा’।",
+        "hinglish": "‘star’ matlab ‘taara’.",
+        "en": "Say it with me: star!"
+      },
+      "word": {
+        "english": "star",
+        "emoji": "⭐",
+        "hindi": "तारा",
+        "hinglish": "taara"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U23.S07",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘cloud’ मतलब ‘बादल’।",
+        "hinglish": "‘cloud’ matlab ‘baadal’.",
+        "en": "Say it with me: cloud!"
+      },
+      "word": {
+        "english": "cloud",
+        "emoji": "☁️",
+        "hindi": "बादल",
+        "hinglish": "baadal"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U23.S08",
+      "skills": [
+        "listen.word",
+        "vocab.nature"
+      ],
+      "answer": "star",
+      "options": [
+        {
+          "english": "star",
+          "emoji": "⭐",
+          "hindi": "तारा",
+          "hinglish": "taara"
+        },
+        {
+          "english": "rain",
+          "emoji": "🌧️",
+          "hindi": "बारिश",
+          "hinglish": "baarish"
+        },
+        {
+          "english": "mountain",
+          "emoji": "⛰️",
+          "hindi": "पहाड़",
+          "hinglish": "pahaad"
+        },
+        {
+          "english": "tree",
+          "emoji": "🌳",
+          "hindi": "पेड़",
+          "hinglish": "ped"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U23.S09",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "emoji": "☁️",
+      "answer": "cloud",
+      "options": [
+        "cloud",
+        "moon",
+        "rain"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U23.S10",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘rain’ मतलब ‘बारिश’।",
+        "hinglish": "‘rain’ matlab ‘baarish’.",
+        "en": "Say it with me: rain!"
+      },
+      "word": {
+        "english": "rain",
+        "emoji": "🌧️",
+        "hindi": "बारिश",
+        "hinglish": "baarish"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U23.S11",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘tree’ मतलब ‘पेड़’।",
+        "hinglish": "‘tree’ matlab ‘ped’.",
+        "en": "Say it with me: tree!"
+      },
+      "word": {
+        "english": "tree",
+        "emoji": "🌳",
+        "hindi": "पेड़",
+        "hinglish": "ped"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U23.S12",
+      "skills": [
+        "listen.word",
+        "vocab.nature"
+      ],
+      "answer": "rain",
+      "options": [
+        {
+          "english": "rain",
+          "emoji": "🌧️",
+          "hindi": "बारिश",
+          "hinglish": "baarish"
+        },
+        {
+          "english": "moon",
+          "emoji": "🌙",
+          "hindi": "चाँद",
+          "hinglish": "chaand"
+        },
+        {
+          "english": "flower",
+          "emoji": "🌸",
+          "hindi": "फूल",
+          "hinglish": "phool"
+        },
+        {
+          "english": "mountain",
+          "emoji": "⛰️",
+          "hindi": "पहाड़",
+          "hinglish": "pahaad"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U23.S13",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "emoji": "🌳",
+      "answer": "tree",
+      "options": [
+        "tree",
+        "mountain",
+        "cloud"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U23.S14",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘flower’ मतलब ‘फूल’।",
+        "hinglish": "‘flower’ matlab ‘phool’.",
+        "en": "Say it with me: flower!"
+      },
+      "word": {
+        "english": "flower",
+        "emoji": "🌸",
+        "hindi": "फूल",
+        "hinglish": "phool"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U23.S15",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘mountain’ मतलब ‘पहाड़’।",
+        "hinglish": "‘mountain’ matlab ‘pahaad’.",
+        "en": "Say it with me: mountain!"
+      },
+      "word": {
+        "english": "mountain",
+        "emoji": "⛰️",
+        "hindi": "पहाड़",
+        "hinglish": "pahaad"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U23.S16",
+      "skills": [
+        "listen.word",
+        "vocab.nature"
+      ],
+      "answer": "flower",
+      "options": [
+        {
+          "english": "flower",
+          "emoji": "🌸",
+          "hindi": "फूल",
+          "hinglish": "phool"
+        },
+        {
+          "english": "star",
+          "emoji": "⭐",
+          "hindi": "तारा",
+          "hinglish": "taara"
+        },
+        {
+          "english": "sun",
+          "emoji": "☀️",
+          "hindi": "सूरज",
+          "hinglish": "sooraj"
+        },
+        {
+          "english": "cloud",
+          "emoji": "☁️",
+          "hindi": "बादल",
+          "hinglish": "baadal"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U23.S17",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "emoji": "⛰️",
+      "answer": "mountain",
+      "options": [
+        "mountain",
+        "star",
+        "cloud"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U23.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "moon",
+        "emoji": "🌙",
+        "hindi": "चाँद",
+        "hinglish": "chaand"
+      },
+      "answer": {
+        "hi": "चाँद",
+        "hinglish": "chaand"
+      },
+      "options": [
+        {
+          "hi": "चाँद",
+          "hinglish": "chaand"
+        },
+        {
+          "hi": "सूरज",
+          "hinglish": "sooraj"
+        },
+        {
+          "hi": "पेड़",
+          "hinglish": "ped"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U23.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "cloud",
+        "emoji": "☁️",
+        "hindi": "बादल",
+        "hinglish": "baadal"
+      },
+      "answer": {
+        "hi": "बादल",
+        "hinglish": "baadal"
+      },
+      "options": [
+        {
+          "hi": "बादल",
+          "hinglish": "baadal"
+        },
+        {
+          "hi": "चाँद",
+          "hinglish": "chaand"
+        },
+        {
+          "hi": "बारिश",
+          "hinglish": "baarish"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U23.S20",
+      "skills": [
+        "speak.word",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "sun",
+        "emoji": "☀️",
+        "hindi": "सूरज",
+        "hinglish": "sooraj"
+      },
+      "accept": [
+        "son"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U23.S21",
+      "skills": [
+        "speak.word",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "moon",
+        "emoji": "🌙",
+        "hindi": "चाँद",
+        "hinglish": "chaand"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U23.S22",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "answer": "tree",
+      "options": [
+        "tree",
+        "flower",
+        "star"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U23.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: sun, moon, star, cloud, rain, tree, flower, mountain।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: sun, moon, star, cloud, rain, tree, flower, mountain.",
+        "en": "Well done! Today's new words: sun, moon, star, cloud, rain, tree, flower, mountain."
+      }
+    }
+  ]
+}

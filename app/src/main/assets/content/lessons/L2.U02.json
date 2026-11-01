@@ -1,0 +1,474 @@
+{
+  "id": "L2.U02",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U02.S01",
+      "text": {
+        "hi": "शरीर के कुछ और अंग!",
+        "hinglish": "Shareer ke kuch aur ang!",
+        "en": "More parts of the body!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U02.S02",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘face’ मतलब ‘चेहरा’।",
+        "hinglish": "‘face’ matlab ‘chehra’.",
+        "en": "Say it with me: face!"
+      },
+      "word": {
+        "english": "face",
+        "emoji": "😊",
+        "hindi": "चेहरा",
+        "hinglish": "chehra"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U02.S03",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘leg’ मतलब ‘टाँग’।",
+        "hinglish": "‘leg’ matlab ‘taang’.",
+        "en": "Say it with me: leg!"
+      },
+      "word": {
+        "english": "leg",
+        "emoji": "🦵",
+        "hindi": "टाँग",
+        "hinglish": "taang"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U02.S04",
+      "skills": [
+        "listen.word",
+        "vocab.body"
+      ],
+      "answer": "face",
+      "options": [
+        {
+          "english": "face",
+          "emoji": "😊",
+          "hindi": "चेहरा",
+          "hinglish": "chehra"
+        },
+        {
+          "english": "finger",
+          "emoji": "☝️",
+          "hindi": "उँगली",
+          "hinglish": "ungli"
+        },
+        {
+          "english": "tongue",
+          "emoji": "👅",
+          "hindi": "जीभ",
+          "hinglish": "jeebh"
+        },
+        {
+          "english": "thumb",
+          "emoji": "👍",
+          "hindi": "अँगूठा",
+          "hinglish": "angootha"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U02.S05",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "emoji": "🦵",
+      "answer": "leg",
+      "options": [
+        "leg",
+        "heart",
+        "face"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U02.S06",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘finger’ मतलब ‘उँगली’।",
+        "hinglish": "‘finger’ matlab ‘ungli’.",
+        "en": "Say it with me: finger!"
+      },
+      "word": {
+        "english": "finger",
+        "emoji": "☝️",
+        "hindi": "उँगली",
+        "hinglish": "ungli"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U02.S07",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘arm’ मतलब ‘बाँह’।",
+        "hinglish": "‘arm’ matlab ‘baanh’.",
+        "en": "Say it with me: arm!"
+      },
+      "word": {
+        "english": "arm",
+        "emoji": "💪",
+        "hindi": "बाँह",
+        "hinglish": "baanh"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U02.S08",
+      "skills": [
+        "listen.word",
+        "vocab.body"
+      ],
+      "answer": "finger",
+      "options": [
+        {
+          "english": "finger",
+          "emoji": "☝️",
+          "hindi": "उँगली",
+          "hinglish": "ungli"
+        },
+        {
+          "english": "leg",
+          "emoji": "🦵",
+          "hindi": "टाँग",
+          "hinglish": "taang"
+        },
+        {
+          "english": "arm",
+          "emoji": "💪",
+          "hindi": "बाँह",
+          "hinglish": "baanh"
+        },
+        {
+          "english": "bone",
+          "emoji": "🦴",
+          "hindi": "हड्डी",
+          "hinglish": "haddi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U02.S09",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "emoji": "💪",
+      "answer": "arm",
+      "options": [
+        "arm",
+        "finger",
+        "face"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U02.S10",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘tongue’ मतलब ‘जीभ’।",
+        "hinglish": "‘tongue’ matlab ‘jeebh’.",
+        "en": "Say it with me: tongue!"
+      },
+      "word": {
+        "english": "tongue",
+        "emoji": "👅",
+        "hindi": "जीभ",
+        "hinglish": "jeebh"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U02.S11",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘heart’ मतलब ‘दिल’।",
+        "hinglish": "‘heart’ matlab ‘dil’.",
+        "en": "Say it with me: heart!"
+      },
+      "word": {
+        "english": "heart",
+        "emoji": "❤️",
+        "hindi": "दिल",
+        "hinglish": "dil"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U02.S12",
+      "skills": [
+        "listen.word",
+        "vocab.body"
+      ],
+      "answer": "tongue",
+      "options": [
+        {
+          "english": "tongue",
+          "emoji": "👅",
+          "hindi": "जीभ",
+          "hinglish": "jeebh"
+        },
+        {
+          "english": "arm",
+          "emoji": "💪",
+          "hindi": "बाँह",
+          "hinglish": "baanh"
+        },
+        {
+          "english": "face",
+          "emoji": "😊",
+          "hindi": "चेहरा",
+          "hinglish": "chehra"
+        },
+        {
+          "english": "bone",
+          "emoji": "🦴",
+          "hindi": "हड्डी",
+          "hinglish": "haddi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U02.S13",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "emoji": "❤️",
+      "answer": "heart",
+      "options": [
+        "heart",
+        "leg",
+        "face"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U02.S14",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘bone’ मतलब ‘हड्डी’।",
+        "hinglish": "‘bone’ matlab ‘haddi’.",
+        "en": "Say it with me: bone!"
+      },
+      "word": {
+        "english": "bone",
+        "emoji": "🦴",
+        "hindi": "हड्डी",
+        "hinglish": "haddi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U02.S15",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘thumb’ मतलब ‘अँगूठा’।",
+        "hinglish": "‘thumb’ matlab ‘angootha’.",
+        "en": "Say it with me: thumb!"
+      },
+      "word": {
+        "english": "thumb",
+        "emoji": "👍",
+        "hindi": "अँगूठा",
+        "hinglish": "angootha"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U02.S16",
+      "skills": [
+        "listen.word",
+        "vocab.body"
+      ],
+      "answer": "bone",
+      "options": [
+        {
+          "english": "bone",
+          "emoji": "🦴",
+          "hindi": "हड्डी",
+          "hinglish": "haddi"
+        },
+        {
+          "english": "face",
+          "emoji": "😊",
+          "hindi": "चेहरा",
+          "hinglish": "chehra"
+        },
+        {
+          "english": "leg",
+          "emoji": "🦵",
+          "hindi": "टाँग",
+          "hinglish": "taang"
+        },
+        {
+          "english": "finger",
+          "emoji": "☝️",
+          "hindi": "उँगली",
+          "hinglish": "ungli"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U02.S17",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "emoji": "👍",
+      "answer": "thumb",
+      "options": [
+        "thumb",
+        "arm",
+        "heart"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U02.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "finger",
+        "emoji": "☝️",
+        "hindi": "उँगली",
+        "hinglish": "ungli"
+      },
+      "answer": {
+        "hi": "उँगली",
+        "hinglish": "ungli"
+      },
+      "options": [
+        {
+          "hi": "उँगली",
+          "hinglish": "ungli"
+        },
+        {
+          "hi": "हड्डी",
+          "hinglish": "haddi"
+        },
+        {
+          "hi": "दिल",
+          "hinglish": "dil"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U02.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "heart",
+        "emoji": "❤️",
+        "hindi": "दिल",
+        "hinglish": "dil"
+      },
+      "answer": {
+        "hi": "दिल",
+        "hinglish": "dil"
+      },
+      "options": [
+        {
+          "hi": "दिल",
+          "hinglish": "dil"
+        },
+        {
+          "hi": "हड्डी",
+          "hinglish": "haddi"
+        },
+        {
+          "hi": "टाँग",
+          "hinglish": "taang"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U02.S20",
+      "skills": [
+        "speak.word",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "leg",
+        "emoji": "🦵",
+        "hindi": "टाँग",
+        "hinglish": "taang"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U02.S21",
+      "skills": [
+        "speak.word",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "arm",
+        "emoji": "💪",
+        "hindi": "बाँह",
+        "hinglish": "baanh"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U02.S22",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "answer": "bone",
+      "options": [
+        "bone",
+        "tongue",
+        "heart"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U02.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: face, leg, finger, arm, tongue, heart, bone, thumb।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: face, leg, finger, arm, tongue, heart, bone, thumb.",
+        "en": "Well done! Today's new words: face, leg, finger, arm, tongue, heart, bone, thumb."
+      }
+    }
+  ]
+}

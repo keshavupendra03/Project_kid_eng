@@ -1,0 +1,480 @@
+{
+  "id": "L2.U17",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U17.S01",
+      "text": {
+        "hi": "और गिनती! nine, ten… और पहला, दूसरा, तीसरा।",
+        "hinglish": "Aur ginti! nine, ten… aur pehla, doosra, teesra.",
+        "en": "More counting! nine, ten… and first, second, third."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U17.S02",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘nine’ मतलब ‘नौ’।",
+        "hinglish": "‘nine’ matlab ‘nau’.",
+        "en": "Say it with me: nine!"
+      },
+      "word": {
+        "english": "nine",
+        "emoji": "9️⃣",
+        "hindi": "नौ",
+        "hinglish": "nau"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U17.S03",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘ten’ मतलब ‘दस’।",
+        "hinglish": "‘ten’ matlab ‘das’.",
+        "en": "Say it with me: ten!"
+      },
+      "word": {
+        "english": "ten",
+        "emoji": "🔟",
+        "hindi": "दस",
+        "hinglish": "das"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U17.S04",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "nine",
+      "options": [
+        {
+          "english": "nine",
+          "emoji": "9️⃣",
+          "hindi": "नौ",
+          "hinglish": "nau"
+        },
+        {
+          "english": "third",
+          "emoji": "🥉",
+          "hindi": "तीसरा",
+          "hinglish": "teesra"
+        },
+        {
+          "english": "first",
+          "emoji": "🥇",
+          "hindi": "पहला",
+          "hinglish": "pehla"
+        },
+        {
+          "english": "ten",
+          "emoji": "🔟",
+          "hindi": "दस",
+          "hinglish": "das"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U17.S05",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "🔟",
+      "answer": "ten",
+      "options": [
+        "ten",
+        "zero",
+        "first"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U17.S06",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘zero’ मतलब ‘शून्य’।",
+        "hinglish": "‘zero’ matlab ‘shoonya’.",
+        "en": "Say it with me: zero!"
+      },
+      "word": {
+        "english": "zero",
+        "emoji": "0️⃣",
+        "hindi": "शून्य",
+        "hinglish": "shoonya"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U17.S07",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘hundred’ मतलब ‘सौ’।",
+        "hinglish": "‘hundred’ matlab ‘sau’.",
+        "en": "Say it with me: hundred!"
+      },
+      "word": {
+        "english": "hundred",
+        "emoji": "💯",
+        "hindi": "सौ",
+        "hinglish": "sau"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U17.S08",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "zero",
+      "options": [
+        {
+          "english": "zero",
+          "emoji": "0️⃣",
+          "hindi": "शून्य",
+          "hinglish": "shoonya"
+        },
+        {
+          "english": "second",
+          "emoji": "🥈",
+          "hindi": "दूसरा",
+          "hinglish": "doosra"
+        },
+        {
+          "english": "hundred",
+          "emoji": "💯",
+          "hindi": "सौ",
+          "hinglish": "sau"
+        },
+        {
+          "english": "third",
+          "emoji": "🥉",
+          "hindi": "तीसरा",
+          "hinglish": "teesra"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U17.S09",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "💯",
+      "answer": "hundred",
+      "options": [
+        "hundred",
+        "second",
+        "zero"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U17.S10",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘first’ मतलब ‘पहला’।",
+        "hinglish": "‘first’ matlab ‘pehla’.",
+        "en": "Say it with me: first!"
+      },
+      "word": {
+        "english": "first",
+        "emoji": "🥇",
+        "hindi": "पहला",
+        "hinglish": "pehla"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U17.S11",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘second’ मतलब ‘दूसरा’।",
+        "hinglish": "‘second’ matlab ‘doosra’.",
+        "en": "Say it with me: second!"
+      },
+      "word": {
+        "english": "second",
+        "emoji": "🥈",
+        "hindi": "दूसरा",
+        "hinglish": "doosra"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U17.S12",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "first",
+      "options": [
+        {
+          "english": "first",
+          "emoji": "🥇",
+          "hindi": "पहला",
+          "hinglish": "pehla"
+        },
+        {
+          "english": "nine",
+          "emoji": "9️⃣",
+          "hindi": "नौ",
+          "hinglish": "nau"
+        },
+        {
+          "english": "hundred",
+          "emoji": "💯",
+          "hindi": "सौ",
+          "hinglish": "sau"
+        },
+        {
+          "english": "third",
+          "emoji": "🥉",
+          "hindi": "तीसरा",
+          "hinglish": "teesra"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U17.S13",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "🥈",
+      "answer": "second",
+      "options": [
+        "second",
+        "nine",
+        "ten"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U17.S14",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘third’ मतलब ‘तीसरा’।",
+        "hinglish": "‘third’ matlab ‘teesra’.",
+        "en": "Say it with me: third!"
+      },
+      "word": {
+        "english": "third",
+        "emoji": "🥉",
+        "hindi": "तीसरा",
+        "hinglish": "teesra"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U17.S15",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘half’ मतलब ‘आधा’।",
+        "hinglish": "‘half’ matlab ‘aadha’.",
+        "en": "Say it with me: half!"
+      },
+      "word": {
+        "english": "half",
+        "emoji": "🌓",
+        "hindi": "आधा",
+        "hinglish": "aadha"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U17.S16",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "third",
+      "options": [
+        {
+          "english": "third",
+          "emoji": "🥉",
+          "hindi": "तीसरा",
+          "hinglish": "teesra"
+        },
+        {
+          "english": "nine",
+          "emoji": "9️⃣",
+          "hindi": "नौ",
+          "hinglish": "nau"
+        },
+        {
+          "english": "hundred",
+          "emoji": "💯",
+          "hindi": "सौ",
+          "hinglish": "sau"
+        },
+        {
+          "english": "ten",
+          "emoji": "🔟",
+          "hindi": "दस",
+          "hinglish": "das"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U17.S17",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "🌓",
+      "answer": "half",
+      "options": [
+        "half",
+        "zero",
+        "ten"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U17.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "third",
+        "emoji": "🥉",
+        "hindi": "तीसरा",
+        "hinglish": "teesra"
+      },
+      "answer": {
+        "hi": "तीसरा",
+        "hinglish": "teesra"
+      },
+      "options": [
+        {
+          "hi": "तीसरा",
+          "hinglish": "teesra"
+        },
+        {
+          "hi": "दूसरा",
+          "hinglish": "doosra"
+        },
+        {
+          "hi": "दस",
+          "hinglish": "das"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U17.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "zero",
+        "emoji": "0️⃣",
+        "hindi": "शून्य",
+        "hinglish": "shoonya"
+      },
+      "answer": {
+        "hi": "शून्य",
+        "hinglish": "shoonya"
+      },
+      "options": [
+        {
+          "hi": "शून्य",
+          "hinglish": "shoonya"
+        },
+        {
+          "hi": "आधा",
+          "hinglish": "aadha"
+        },
+        {
+          "hi": "नौ",
+          "hinglish": "nau"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U17.S20",
+      "skills": [
+        "speak.word",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "ten",
+        "emoji": "🔟",
+        "hindi": "दस",
+        "hinglish": "das"
+      },
+      "accept": [
+        "10"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U17.S21",
+      "skills": [
+        "speak.word",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "nine",
+        "emoji": "9️⃣",
+        "hindi": "नौ",
+        "hinglish": "nau"
+      },
+      "accept": [
+        "9"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U17.S22",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "answer": "zero",
+      "options": [
+        "zero",
+        "nine",
+        "hundred"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U17.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: nine, ten, zero, hundred, first, second, third, half।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: nine, ten, zero, hundred, first, second, third, half.",
+        "en": "Well done! Today's new words: nine, ten, zero, hundred, first, second, third, half."
+      }
+    }
+  ]
+}

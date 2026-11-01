@@ -1,0 +1,301 @@
+{
+  "id": "L3.U03",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U03.S01",
+      "skills": [
+        "grammar.he_she_it"
+      ],
+      "text": {
+        "hi": "लड़के के लिए ‘He’, लड़की के लिए ‘She’, चीज़ या जानवर के लिए ‘It’. तीनों के साथ ‘is’ आता है।",
+        "hinglish": "Ladke ke liye ‘He’, ladki ke liye ‘She’, cheez ya jaanwar ke liye ‘It’. Teeno ke saath ‘is’ aata hai.",
+        "en": "Use ‘He’ for a boy, ‘She’ for a girl, and ‘It’ for a thing or animal. All three go with ‘is’."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U03.S02",
+      "skills": [
+        "grammar.he_she_it"
+      ],
+      "text": {
+        "hi": "हिंदी में ‘वह’ सबके लिए है, पर इंग्लिश में तीन शब्द हैं: He, She, It. ‘लंबा’ या ‘लंबी’ से पता चलता है कौन!",
+        "hinglish": "Hindi mein ‘woh’ sabke liye hai, par English mein teen shabd hain: He, She, It. ‘Lamba’ ya ‘lambi’ se pata chalta hai kaun!",
+        "en": "Hindi uses ‘woh’ for everyone, but English has three words: He, She, It."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U03.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.he_she_it"
+      ],
+      "hindi": [
+        {
+          "hi": "वह",
+          "hinglish": "Woh",
+          "role": "s"
+        },
+        {
+          "hi": "लंबा",
+          "hinglish": "lamba",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "He",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "tall",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "She"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U03.S04",
+      "skills": [
+        "grammar.he_she_it"
+      ],
+      "sentence": "Ravi is my friend. ___ is ten.",
+      "answer": "He",
+      "options": [
+        "He",
+        "She",
+        "It"
+      ],
+      "meaning": {
+        "hi": "रवि मेरा दोस्त है। वह दस साल का है।",
+        "hinglish": "Ravi mera dost hai. Woh das saal ka hai."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U03.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.he_she_it"
+      ],
+      "hindi": [
+        {
+          "hi": "वह",
+          "hinglish": "Woh",
+          "role": "s"
+        },
+        {
+          "hi": "मेरी",
+          "hinglish": "meri",
+          "role": "x"
+        },
+        {
+          "hi": "बहन",
+          "hinglish": "behen",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "She",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "my",
+          "role": "x"
+        },
+        {
+          "text": "sister",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "He"
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U03.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.he_she_it"
+      ],
+      "words": [
+        "She",
+        "am",
+        "my",
+        "teacher."
+      ],
+      "wrong": 1,
+      "fix": "is",
+      "meaning": {
+        "hi": "वह मेरी टीचर है।",
+        "hinglish": "Woh meri teacher hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U03.S07",
+      "skills": [
+        "grammar.he_she_it"
+      ],
+      "sentence": "Sita is my sister. ___ is kind.",
+      "answer": "She",
+      "options": [
+        "He",
+        "She",
+        "It"
+      ],
+      "meaning": {
+        "hi": "सीता मेरी बहन है। वह अच्छी है।",
+        "hinglish": "Sita meri behen hai. Woh achhi hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U03.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.he_she_it"
+      ],
+      "sentence": "She is my sister.",
+      "meaning": {
+        "hi": "वह मेरी बहन है।",
+        "hinglish": "Woh meri behen hai.",
+        "en": "She is my sister."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U03.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.he_she_it"
+      ],
+      "hindi": [
+        {
+          "hi": "यह",
+          "hinglish": "Yeh",
+          "role": "s"
+        },
+        {
+          "hi": "एक",
+          "hinglish": "ek",
+          "role": "x"
+        },
+        {
+          "hi": "बिल्ली",
+          "hinglish": "billi",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "It",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "cat",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U03.S10",
+      "skills": [
+        "grammar.he_she_it"
+      ],
+      "sentence": "This is my dog. ___ is small.",
+      "answer": "It",
+      "options": [
+        "He",
+        "She",
+        "It"
+      ],
+      "meaning": {
+        "hi": "यह मेरा कुत्ता है। वह छोटा है।",
+        "hinglish": "Yeh mera kutta hai. Woh chhota hai."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U03.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.he_she_it"
+      ],
+      "words": [
+        "He",
+        "are",
+        "tall."
+      ],
+      "wrong": 1,
+      "fix": "is",
+      "meaning": {
+        "hi": "वह लंबा है।",
+        "hinglish": "Woh lamba hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U03.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.he_she_it"
+      ],
+      "sentence": "It is a cat.",
+      "meaning": {
+        "hi": "यह एक बिल्ली है।",
+        "hinglish": "Yeh ek billi hai.",
+        "en": "It is a cat."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U03.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

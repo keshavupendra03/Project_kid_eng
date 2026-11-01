@@ -1,0 +1,288 @@
+{
+  "id": "L3.U08",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U08.S01",
+      "skills": [
+        "grammar.can"
+      ],
+      "text": {
+        "hi": "‘कर सकता हूँ / कर सकती हूँ’ = can. I can swim = मैं तैर सकता हूँ / सकती हूँ।",
+        "hinglish": "‘Kar sakta hoon / kar sakti hoon’ = can. I can swim = Main tair sakta hoon / sakti hoon.",
+        "en": "Use ‘can’ for things you are able to do: I can swim."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U08.S02",
+      "skills": [
+        "grammar.can"
+      ],
+      "text": {
+        "hi": "अच्छी बात: ‘can’ कभी नहीं बदलता — I can, he can, she can. और ‘can’ के बाद काम वाला शब्द सीधा आता है: can run.",
+        "hinglish": "Achhi baat: ‘can’ kabhi nahi badalta — I can, he can, she can. Aur ‘can’ ke baad kaam waala shabd seedha aata hai: can run.",
+        "en": "Good news: ‘can’ never changes — I can, he can, she can. And the action word comes straight after it: can run."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U08.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.can"
+      ],
+      "hindi": [
+        {
+          "hi": "मैं",
+          "hinglish": "Main",
+          "role": "s"
+        },
+        {
+          "hi": "तैर",
+          "hinglish": "tair",
+          "role": "v"
+        },
+        {
+          "hi": "सकती हूँ",
+          "hinglish": "sakti hoon",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "can",
+          "role": "v"
+        },
+        {
+          "text": "swim",
+          "role": "v"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U08.S04",
+      "skills": [
+        "grammar.can"
+      ],
+      "sentence": "I ___ read English.",
+      "answer": "can",
+      "options": [
+        "can",
+        "is",
+        "am"
+      ],
+      "meaning": {
+        "hi": "मैं इंग्लिश पढ़ सकता हूँ।",
+        "hinglish": "Main English padh sakta hoon."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U08.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.can"
+      ],
+      "hindi": [
+        {
+          "hi": "वह",
+          "hinglish": "Woh",
+          "role": "s"
+        },
+        {
+          "hi": "तेज़",
+          "hinglish": "tez",
+          "role": "o"
+        },
+        {
+          "hi": "दौड़",
+          "hinglish": "daud",
+          "role": "v"
+        },
+        {
+          "hi": "सकता है",
+          "hinglish": "sakta hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "He",
+          "role": "s"
+        },
+        {
+          "text": "can",
+          "role": "v"
+        },
+        {
+          "text": "run",
+          "role": "v"
+        },
+        {
+          "text": "fast",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "runs"
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U08.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.can"
+      ],
+      "words": [
+        "He",
+        "can",
+        "runs."
+      ],
+      "wrong": 2,
+      "fix": "run.",
+      "meaning": {
+        "hi": "वह दौड़ सकता है।",
+        "hinglish": "Woh daud sakta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U08.S07",
+      "skills": [
+        "grammar.can"
+      ],
+      "sentence": "She can ___.",
+      "answer": "dance",
+      "options": [
+        "dance",
+        "dances",
+        "dancing"
+      ],
+      "meaning": {
+        "hi": "वह नाच सकती है।",
+        "hinglish": "Woh naach sakti hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U08.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.can"
+      ],
+      "sentence": "I can swim.",
+      "meaning": {
+        "hi": "मैं तैर सकती हूँ।",
+        "hinglish": "Main tair sakti hoon.",
+        "en": "I can swim."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U08.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.can"
+      ],
+      "hindi": [
+        {
+          "hi": "पक्षी",
+          "hinglish": "Pakshi",
+          "role": "s"
+        },
+        {
+          "hi": "उड़",
+          "hinglish": "ud",
+          "role": "v"
+        },
+        {
+          "hi": "सकते हैं",
+          "hinglish": "sakte hain",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "Birds",
+          "role": "s"
+        },
+        {
+          "text": "can",
+          "role": "v"
+        },
+        {
+          "text": "fly",
+          "role": "v"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U08.S10",
+      "skills": [
+        "grammar.can"
+      ],
+      "sentence": "A fish can ___.",
+      "answer": "swim",
+      "options": [
+        "swim",
+        "fly",
+        "walk"
+      ],
+      "meaning": {
+        "hi": "मछली तैर सकती है।",
+        "hinglish": "Machhli tair sakti hai."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U08.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.can"
+      ],
+      "words": [
+        "I",
+        "can",
+        "sings."
+      ],
+      "wrong": 2,
+      "fix": "sing.",
+      "meaning": {
+        "hi": "मैं गा सकती हूँ।",
+        "hinglish": "Main gaa sakti hoon."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U08.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.can"
+      ],
+      "sentence": "I can read English.",
+      "meaning": {
+        "hi": "मैं इंग्लिश पढ़ सकता हूँ।",
+        "hinglish": "Main English padh sakta hoon.",
+        "en": "I can read English."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U08.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

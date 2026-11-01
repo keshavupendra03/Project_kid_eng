@@ -1,0 +1,306 @@
+{
+  "id": "L3.U11",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U11.S01",
+      "skills": [
+        "grammar.want"
+      ],
+      "text": {
+        "hi": "‘मुझे चाहिए’ = I want. I want water = मुझे पानी चाहिए।",
+        "hinglish": "‘Mujhe chahiye’ = I want. I want water = Mujhe paani chahiye.",
+        "en": "Say ‘I want’ when you need or wish for something: I want water."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U11.S02",
+      "skills": [
+        "grammar.want"
+      ],
+      "text": {
+        "hi": "प्यार से माँगो! आख़िर में ‘please’ लगाओ: I want water, please.",
+        "hinglish": "Pyaar se maango! Aakhir mein ‘please’ lagao: I want water, please.",
+        "en": "Ask nicely! Add ‘please’: I want water, please."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U11.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.want"
+      ],
+      "hindi": [
+        {
+          "hi": "मुझे",
+          "hinglish": "Mujhe",
+          "role": "s"
+        },
+        {
+          "hi": "पानी",
+          "hinglish": "paani",
+          "role": "o"
+        },
+        {
+          "hi": "चाहिए",
+          "hinglish": "chahiye",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "want",
+          "role": "v"
+        },
+        {
+          "text": "water",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U11.S04",
+      "skills": [
+        "grammar.want"
+      ],
+      "sentence": "I ___ some milk.",
+      "answer": "want",
+      "options": [
+        "want",
+        "wants"
+      ],
+      "meaning": {
+        "hi": "मुझे थोड़ा दूध चाहिए।",
+        "hinglish": "Mujhe thoda doodh chahiye."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U11.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.want"
+      ],
+      "hindi": [
+        {
+          "hi": "मुझे",
+          "hinglish": "Mujhe",
+          "role": "s"
+        },
+        {
+          "hi": "एक",
+          "hinglish": "ek",
+          "role": "x"
+        },
+        {
+          "hi": "नई",
+          "hinglish": "nayi",
+          "role": "o"
+        },
+        {
+          "hi": "पेंसिल",
+          "hinglish": "pencil",
+          "role": "o"
+        },
+        {
+          "hi": "चाहिए",
+          "hinglish": "chahiye",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "want",
+          "role": "v"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "new",
+          "role": "o"
+        },
+        {
+          "text": "pencil",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U11.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.want"
+      ],
+      "words": [
+        "I",
+        "wants",
+        "a",
+        "toffee."
+      ],
+      "wrong": 1,
+      "fix": "want",
+      "meaning": {
+        "hi": "मुझे एक टॉफ़ी चाहिए।",
+        "hinglish": "Mujhe ek toffee chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U11.S07",
+      "skills": [
+        "grammar.want"
+      ],
+      "sentence": "He ___ a ball.",
+      "answer": "wants",
+      "options": [
+        "want",
+        "wants"
+      ],
+      "meaning": {
+        "hi": "उसे एक गेंद चाहिए।",
+        "hinglish": "Use ek gend chahiye."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U11.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.want"
+      ],
+      "sentence": "I want water, please.",
+      "meaning": {
+        "hi": "मुझे पानी चाहिए, प्लीज़।",
+        "hinglish": "Mujhe paani chahiye, please.",
+        "en": "I want water, please."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U11.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.want"
+      ],
+      "hindi": [
+        {
+          "hi": "उसे",
+          "hinglish": "Use",
+          "role": "s"
+        },
+        {
+          "hi": "एक",
+          "hinglish": "ek",
+          "role": "x"
+        },
+        {
+          "hi": "किताब",
+          "hinglish": "kitaab",
+          "role": "o"
+        },
+        {
+          "hi": "चाहिए",
+          "hinglish": "chahiye",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "She",
+          "role": "s"
+        },
+        {
+          "text": "wants",
+          "role": "v"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "book",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "want"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U11.S10",
+      "skills": [
+        "grammar.want"
+      ],
+      "sentence": "I want water, ___.",
+      "answer": "please",
+      "options": [
+        "please",
+        "sorry",
+        "hello"
+      ],
+      "meaning": {
+        "hi": "मुझे पानी चाहिए, प्लीज़।",
+        "hinglish": "Mujhe paani chahiye, please."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U11.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.want"
+      ],
+      "words": [
+        "She",
+        "want",
+        "a",
+        "pen."
+      ],
+      "wrong": 1,
+      "fix": "wants",
+      "meaning": {
+        "hi": "उसे एक पेन चाहिए।",
+        "hinglish": "Use ek pen chahiye."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U11.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.want"
+      ],
+      "sentence": "I want a new pencil.",
+      "meaning": {
+        "hi": "मुझे एक नई पेंसिल चाहिए।",
+        "hinglish": "Mujhe ek nayi pencil chahiye.",
+        "en": "I want a new pencil."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U11.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

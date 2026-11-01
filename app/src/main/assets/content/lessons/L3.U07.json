@@ -1,0 +1,279 @@
+{
+  "id": "L3.U07",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U07.S01",
+      "skills": [
+        "grammar.like"
+      ],
+      "text": {
+        "hi": "‘मुझे पसंद है’ = I like. जैसे: I like mangoes = मुझे आम पसंद हैं।",
+        "hinglish": "‘Mujhe pasand hai’ = I like. Jaise: I like mangoes = Mujhe aam pasand hain.",
+        "en": "Say ‘I like’ for things you enjoy: I like mangoes."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U07.S02",
+      "skills": [
+        "grammar.like"
+      ],
+      "text": {
+        "hi": "हिंदी: मुझे + चीज़ + पसंद है। इंग्लिश: I + like + चीज़। ‘like’ बीच में आता है!",
+        "hinglish": "Hindi: mujhe + cheez + pasand hai. English: I + like + cheez. ‘like’ beech mein aata hai!",
+        "en": "Hindi says the thing first, then ‘pasand hai’. English says: I + like + the thing."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U07.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.like"
+      ],
+      "hindi": [
+        {
+          "hi": "मुझे",
+          "hinglish": "Mujhe",
+          "role": "s"
+        },
+        {
+          "hi": "आम",
+          "hinglish": "aam",
+          "role": "o"
+        },
+        {
+          "hi": "पसंद हैं",
+          "hinglish": "pasand hain",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "like",
+          "role": "v"
+        },
+        {
+          "text": "mangoes",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U07.S04",
+      "skills": [
+        "grammar.like"
+      ],
+      "sentence": "I ___ ice cream.",
+      "answer": "like",
+      "options": [
+        "like",
+        "likes",
+        "am"
+      ],
+      "meaning": {
+        "hi": "मुझे आइसक्रीम पसंद है।",
+        "hinglish": "Mujhe ice cream pasand hai."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U07.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.like"
+      ],
+      "hindi": [
+        {
+          "hi": "मुझे",
+          "hinglish": "Mujhe",
+          "role": "s"
+        },
+        {
+          "hi": "क्रिकेट",
+          "hinglish": "cricket",
+          "role": "o"
+        },
+        {
+          "hi": "पसंद है",
+          "hinglish": "pasand hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "like",
+          "role": "v"
+        },
+        {
+          "text": "cricket",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U07.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.like"
+      ],
+      "words": [
+        "I",
+        "likes",
+        "cricket."
+      ],
+      "wrong": 1,
+      "fix": "like",
+      "meaning": {
+        "hi": "मुझे क्रिकेट पसंद है।",
+        "hinglish": "Mujhe cricket pasand hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U07.S07",
+      "skills": [
+        "grammar.like"
+      ],
+      "sentence": "He ___ dogs.",
+      "answer": "likes",
+      "options": [
+        "like",
+        "likes",
+        "is"
+      ],
+      "meaning": {
+        "hi": "उसे कुत्ते पसंद हैं।",
+        "hinglish": "Use kutte pasand hain."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U07.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.like"
+      ],
+      "sentence": "I like mangoes.",
+      "meaning": {
+        "hi": "मुझे आम पसंद हैं।",
+        "hinglish": "Mujhe aam pasand hain.",
+        "en": "I like mangoes."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U07.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.like"
+      ],
+      "hindi": [
+        {
+          "hi": "उसे",
+          "hinglish": "Use",
+          "role": "s"
+        },
+        {
+          "hi": "गाना",
+          "hinglish": "gaana",
+          "role": "o"
+        },
+        {
+          "hi": "पसंद है",
+          "hinglish": "pasand hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "She",
+          "role": "s"
+        },
+        {
+          "text": "likes",
+          "role": "v"
+        },
+        {
+          "text": "music",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "like"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U07.S10",
+      "skills": [
+        "grammar.like"
+      ],
+      "sentence": "I like ___.",
+      "answer": "apples",
+      "options": [
+        "apples",
+        "happy",
+        "is"
+      ],
+      "meaning": {
+        "hi": "मुझे सेब पसंद हैं।",
+        "hinglish": "Mujhe seb pasand hain."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U07.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.like"
+      ],
+      "words": [
+        "She",
+        "like",
+        "music."
+      ],
+      "wrong": 1,
+      "fix": "likes",
+      "meaning": {
+        "hi": "उसे गाना पसंद है।",
+        "hinglish": "Use gaana pasand hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U07.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.like"
+      ],
+      "sentence": "I like cricket.",
+      "meaning": {
+        "hi": "मुझे क्रिकेट पसंद है।",
+        "hinglish": "Mujhe cricket pasand hai.",
+        "en": "I like cricket."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U07.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

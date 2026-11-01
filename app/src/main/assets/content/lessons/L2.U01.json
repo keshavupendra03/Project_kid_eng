@@ -1,0 +1,477 @@
+{
+  "id": "L2.U01",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U01.S01",
+      "text": {
+        "hi": "चलो अपने शरीर के अंगों के इंग्लिश नाम सीखें!",
+        "hinglish": "Chalo apne shareer ke angon ke English naam seekhein!",
+        "en": "Let's learn the English names for parts of our body!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U01.S02",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘eye’ मतलब ‘आँख’।",
+        "hinglish": "‘eye’ matlab ‘aankh’.",
+        "en": "Say it with me: eye!"
+      },
+      "word": {
+        "english": "eye",
+        "emoji": "👁️",
+        "hindi": "आँख",
+        "hinglish": "aankh"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U01.S03",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘ear’ मतलब ‘कान’।",
+        "hinglish": "‘ear’ matlab ‘kaan’.",
+        "en": "Say it with me: ear!"
+      },
+      "word": {
+        "english": "ear",
+        "emoji": "👂",
+        "hindi": "कान",
+        "hinglish": "kaan"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U01.S04",
+      "skills": [
+        "listen.word",
+        "vocab.body"
+      ],
+      "answer": "eye",
+      "options": [
+        {
+          "english": "eye",
+          "emoji": "👁️",
+          "hindi": "आँख",
+          "hinglish": "aankh"
+        },
+        {
+          "english": "ear",
+          "emoji": "👂",
+          "hindi": "कान",
+          "hinglish": "kaan"
+        },
+        {
+          "english": "nose",
+          "emoji": "👃",
+          "hindi": "नाक",
+          "hinglish": "naak"
+        },
+        {
+          "english": "foot",
+          "emoji": "🦶",
+          "hindi": "पैर",
+          "hinglish": "pair"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U01.S05",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "emoji": "👂",
+      "answer": "ear",
+      "options": [
+        "ear",
+        "nose",
+        "mouth"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U01.S06",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘nose’ मतलब ‘नाक’।",
+        "hinglish": "‘nose’ matlab ‘naak’.",
+        "en": "Say it with me: nose!"
+      },
+      "word": {
+        "english": "nose",
+        "emoji": "👃",
+        "hindi": "नाक",
+        "hinglish": "naak"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U01.S07",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘mouth’ मतलब ‘मुँह’।",
+        "hinglish": "‘mouth’ matlab ‘munh’.",
+        "en": "Say it with me: mouth!"
+      },
+      "word": {
+        "english": "mouth",
+        "emoji": "👄",
+        "hindi": "मुँह",
+        "hinglish": "munh"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U01.S08",
+      "skills": [
+        "listen.word",
+        "vocab.body"
+      ],
+      "answer": "nose",
+      "options": [
+        {
+          "english": "nose",
+          "emoji": "👃",
+          "hindi": "नाक",
+          "hinglish": "naak"
+        },
+        {
+          "english": "mouth",
+          "emoji": "👄",
+          "hindi": "मुँह",
+          "hinglish": "munh"
+        },
+        {
+          "english": "foot",
+          "emoji": "🦶",
+          "hindi": "पैर",
+          "hinglish": "pair"
+        },
+        {
+          "english": "ear",
+          "emoji": "👂",
+          "hindi": "कान",
+          "hinglish": "kaan"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U01.S09",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "emoji": "👄",
+      "answer": "mouth",
+      "options": [
+        "mouth",
+        "ear",
+        "foot"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U01.S10",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘hand’ मतलब ‘हाथ’।",
+        "hinglish": "‘hand’ matlab ‘haath’.",
+        "en": "Say it with me: hand!"
+      },
+      "word": {
+        "english": "hand",
+        "emoji": "✋",
+        "hindi": "हाथ",
+        "hinglish": "haath"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U01.S11",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘foot’ मतलब ‘पैर’।",
+        "hinglish": "‘foot’ matlab ‘pair’.",
+        "en": "Say it with me: foot!"
+      },
+      "word": {
+        "english": "foot",
+        "emoji": "🦶",
+        "hindi": "पैर",
+        "hinglish": "pair"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U01.S12",
+      "skills": [
+        "listen.word",
+        "vocab.body"
+      ],
+      "answer": "hand",
+      "options": [
+        {
+          "english": "hand",
+          "emoji": "✋",
+          "hindi": "हाथ",
+          "hinglish": "haath"
+        },
+        {
+          "english": "hair",
+          "emoji": "💇",
+          "hindi": "बाल",
+          "hinglish": "baal"
+        },
+        {
+          "english": "nose",
+          "emoji": "👃",
+          "hindi": "नाक",
+          "hinglish": "naak"
+        },
+        {
+          "english": "eye",
+          "emoji": "👁️",
+          "hindi": "आँख",
+          "hinglish": "aankh"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U01.S13",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "emoji": "🦶",
+      "answer": "foot",
+      "options": [
+        "foot",
+        "nose",
+        "eye"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U01.S14",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘tooth’ मतलब ‘दाँत’।",
+        "hinglish": "‘tooth’ matlab ‘daant’.",
+        "en": "Say it with me: tooth!"
+      },
+      "word": {
+        "english": "tooth",
+        "emoji": "🦷",
+        "hindi": "दाँत",
+        "hinglish": "daant"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U01.S15",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘hair’ मतलब ‘बाल’।",
+        "hinglish": "‘hair’ matlab ‘baal’.",
+        "en": "Say it with me: hair!"
+      },
+      "word": {
+        "english": "hair",
+        "emoji": "💇",
+        "hindi": "बाल",
+        "hinglish": "baal"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U01.S16",
+      "skills": [
+        "listen.word",
+        "vocab.body"
+      ],
+      "answer": "tooth",
+      "options": [
+        {
+          "english": "tooth",
+          "emoji": "🦷",
+          "hindi": "दाँत",
+          "hinglish": "daant"
+        },
+        {
+          "english": "eye",
+          "emoji": "👁️",
+          "hindi": "आँख",
+          "hinglish": "aankh"
+        },
+        {
+          "english": "hair",
+          "emoji": "💇",
+          "hindi": "बाल",
+          "hinglish": "baal"
+        },
+        {
+          "english": "hand",
+          "emoji": "✋",
+          "hindi": "हाथ",
+          "hinglish": "haath"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U01.S17",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "emoji": "💇",
+      "answer": "hair",
+      "options": [
+        "hair",
+        "nose",
+        "eye"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U01.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "ear",
+        "emoji": "👂",
+        "hindi": "कान",
+        "hinglish": "kaan"
+      },
+      "answer": {
+        "hi": "कान",
+        "hinglish": "kaan"
+      },
+      "options": [
+        {
+          "hi": "कान",
+          "hinglish": "kaan"
+        },
+        {
+          "hi": "मुँह",
+          "hinglish": "munh"
+        },
+        {
+          "hi": "बाल",
+          "hinglish": "baal"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U01.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "eye",
+        "emoji": "👁️",
+        "hindi": "आँख",
+        "hinglish": "aankh"
+      },
+      "answer": {
+        "hi": "आँख",
+        "hinglish": "aankh"
+      },
+      "options": [
+        {
+          "hi": "आँख",
+          "hinglish": "aankh"
+        },
+        {
+          "hi": "नाक",
+          "hinglish": "naak"
+        },
+        {
+          "hi": "कान",
+          "hinglish": "kaan"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U01.S20",
+      "skills": [
+        "speak.word",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "eye",
+        "emoji": "👁️",
+        "hindi": "आँख",
+        "hinglish": "aankh"
+      },
+      "accept": [
+        "i"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U01.S21",
+      "skills": [
+        "speak.word",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "ear",
+        "emoji": "👂",
+        "hindi": "कान",
+        "hinglish": "kaan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U01.S22",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "answer": "hair",
+      "options": [
+        "hair",
+        "hand",
+        "nose"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U01.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: eye, ear, nose, mouth, hand, foot, tooth, hair।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: eye, ear, nose, mouth, hand, foot, tooth, hair.",
+        "en": "Well done! Today's new words: eye, ear, nose, mouth, hand, foot, tooth, hair."
+      }
+    }
+  ]
+}

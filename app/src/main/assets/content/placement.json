@@ -1,0 +1,121 @@
+{
+  "sections": [
+    {
+      "level": 0,
+      "steps": [
+        {
+          "type": "listen_tap", "id": "P.L0.S01", "skills": ["listen.word"],
+          "answer": "bus",
+          "options": [
+            { "english": "bus", "emoji": "🚌" },
+            { "english": "phone", "emoji": "📱" },
+            { "english": "cake", "emoji": "🎂" },
+            { "english": "doctor", "emoji": "👩‍⚕️" }
+          ]
+        },
+        {
+          "type": "word_pick", "id": "P.L0.S02", "skills": ["read.word"],
+          "emoji": "🏏", "answer": "cricket", "options": ["cricket", "cake", "cycle"]
+        },
+        {
+          "type": "listen_tap", "id": "P.L0.S03", "skills": ["listen.word"],
+          "answer": "teacher",
+          "options": [
+            { "english": "teacher", "emoji": "👩‍🏫" },
+            { "english": "police", "emoji": "👮" },
+            { "english": "train", "emoji": "🚆" },
+            { "english": "doctor", "emoji": "👩‍⚕️" }
+          ]
+        },
+        {
+          "type": "word_pick", "id": "P.L0.S04", "skills": ["read.word"],
+          "emoji": "📱", "answer": "phone", "options": ["phone", "pen", "bag"]
+        },
+        {
+          "type": "listen_tap", "id": "P.L0.S05", "skills": ["listen.word"],
+          "answer": "chocolate",
+          "options": [
+            { "english": "chocolate", "emoji": "🍫" },
+            { "english": "ice cream", "emoji": "🍦" },
+            { "english": "ball", "emoji": "⚽" },
+            { "english": "school", "emoji": "🏫" }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "steps": [
+        {
+          "type": "word_pick", "id": "P.L1.S01", "skills": ["phonics.blend"],
+          "emoji": "📌", "answer": "pin", "options": ["pin", "pan", "pen"]
+        },
+        {
+          "type": "minimal_pair", "id": "P.L1.S02", "skills": ["sound.th"],
+          "answer": "thin", "options": ["thin", "tin"]
+        },
+        {
+          "type": "word_pick", "id": "P.L1.S03", "skills": ["phonics.blend"],
+          "emoji": "🍳", "answer": "pan", "options": ["pan", "pin", "tap"]
+        },
+        {
+          "type": "minimal_pair", "id": "P.L1.S04", "skills": ["sound.v"],
+          "answer": "vet", "options": ["vet", "wet"]
+        },
+        {
+          "type": "word_pick", "id": "P.L1.S05", "skills": ["phonics.blend"],
+          "emoji": "🐜", "answer": "ant", "options": ["ant", "tin", "sit"]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "steps": [
+        {
+          "type": "listen_tap", "id": "P.L2.S01", "skills": ["vocab.animals"],
+          "answer": "elephant",
+          "options": [
+            { "english": "elephant", "emoji": "🐘" },
+            { "english": "camel", "emoji": "🐫" },
+            { "english": "monkey", "emoji": "🐒" },
+            { "english": "bear", "emoji": "🐻" }
+          ]
+        },
+        {
+          "type": "match_meaning", "id": "P.L2.S02", "skills": ["vocab.time"],
+          "word": { "english": "Monday" },
+          "answer": { "hi": "सोमवार", "hinglish": "somvaar" },
+          "options": [
+            { "hi": "सोमवार", "hinglish": "somvaar" },
+            { "hi": "शुक्रवार", "hinglish": "shukravaar" },
+            { "hi": "रविवार", "hinglish": "ravivaar" }
+          ]
+        },
+        {
+          "type": "word_pick", "id": "P.L2.S03", "skills": ["vocab.food"],
+          "emoji": "🍌", "answer": "banana", "options": ["banana", "mango", "orange"]
+        },
+        {
+          "type": "listen_tap", "id": "P.L2.S04", "skills": ["vocab.colours"],
+          "answer": "green",
+          "options": [
+            { "english": "green", "emoji": "🟢" },
+            { "english": "red", "emoji": "🔴" },
+            { "english": "yellow", "emoji": "🟡" },
+            { "english": "blue", "emoji": "🔵" }
+          ]
+        },
+        {
+          "type": "match_meaning", "id": "P.L2.S05", "skills": ["vocab.actions"],
+          "word": { "english": "sleep", "emoji": "😴" },
+          "answer": { "hi": "सोना", "hinglish": "sona" },
+          "options": [
+            { "hi": "सोना", "hinglish": "sona" },
+            { "hi": "दौड़ना", "hinglish": "daudna" },
+            { "hi": "खाना", "hinglish": "khaana" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "id": "L2.U21",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U21.S01",
+      "text": {
+        "hi": "और काम: देखो, सुनो, सोचो!",
+        "hinglish": "Aur kaam: dekho, suno, socho!",
+        "en": "More actions: look, listen, think!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U21.S02",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘open’ मतलब ‘खोलना’।",
+        "hinglish": "‘open’ matlab ‘kholna’.",
+        "en": "Say it with me: open!"
+      },
+      "word": {
+        "english": "open",
+        "emoji": "🔓",
+        "hindi": "खोलना",
+        "hinglish": "kholna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U21.S03",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘close’ मतलब ‘बंद करना’।",
+        "hinglish": "‘close’ matlab ‘band karna’.",
+        "en": "Say it with me: close!"
+      },
+      "word": {
+        "english": "close",
+        "emoji": "🔒",
+        "hindi": "बंद करना",
+        "hinglish": "band karna"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U21.S04",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "open",
+      "options": [
+        {
+          "english": "open",
+          "emoji": "🔓",
+          "hindi": "खोलना",
+          "hinglish": "kholna"
+        },
+        {
+          "english": "clap",
+          "emoji": "👏",
+          "hindi": "ताली बजाना",
+          "hinglish": "taali bajaana"
+        },
+        {
+          "english": "look",
+          "emoji": "👀",
+          "hindi": "देखना",
+          "hinglish": "dekhna"
+        },
+        {
+          "english": "think",
+          "emoji": "🤔",
+          "hindi": "सोचना",
+          "hinglish": "sochna"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U21.S05",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "🔒",
+      "answer": "close",
+      "options": [
+        "close",
+        "wave",
+        "clap"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U21.S06",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘think’ मतलब ‘सोचना’।",
+        "hinglish": "‘think’ matlab ‘sochna’.",
+        "en": "Say it with me: think!"
+      },
+      "word": {
+        "english": "think",
+        "emoji": "🤔",
+        "hindi": "सोचना",
+        "hinglish": "sochna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U21.S07",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘listen’ मतलब ‘सुनना’।",
+        "hinglish": "‘listen’ matlab ‘sunna’.",
+        "en": "Say it with me: listen!"
+      },
+      "word": {
+        "english": "listen",
+        "emoji": "👂",
+        "hindi": "सुनना",
+        "hinglish": "sunna"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U21.S08",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "think",
+      "options": [
+        {
+          "english": "think",
+          "emoji": "🤔",
+          "hindi": "सोचना",
+          "hinglish": "sochna"
+        },
+        {
+          "english": "look",
+          "emoji": "👀",
+          "hindi": "देखना",
+          "hinglish": "dekhna"
+        },
+        {
+          "english": "clap",
+          "emoji": "👏",
+          "hindi": "ताली बजाना",
+          "hinglish": "taali bajaana"
+        },
+        {
+          "english": "listen",
+          "emoji": "👂",
+          "hindi": "सुनना",
+          "hinglish": "sunna"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U21.S09",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "👂",
+      "answer": "listen",
+      "options": [
+        "listen",
+        "talk",
+        "look"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U21.S10",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘look’ मतलब ‘देखना’।",
+        "hinglish": "‘look’ matlab ‘dekhna’.",
+        "en": "Say it with me: look!"
+      },
+      "word": {
+        "english": "look",
+        "emoji": "👀",
+        "hindi": "देखना",
+        "hinglish": "dekhna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U21.S11",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘talk’ मतलब ‘बात करना’।",
+        "hinglish": "‘talk’ matlab ‘baat karna’.",
+        "en": "Say it with me: talk!"
+      },
+      "word": {
+        "english": "talk",
+        "emoji": "🗣️",
+        "hindi": "बात करना",
+        "hinglish": "baat karna"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U21.S12",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "look",
+      "options": [
+        {
+          "english": "look",
+          "emoji": "👀",
+          "hindi": "देखना",
+          "hinglish": "dekhna"
+        },
+        {
+          "english": "open",
+          "emoji": "🔓",
+          "hindi": "खोलना",
+          "hinglish": "kholna"
+        },
+        {
+          "english": "clap",
+          "emoji": "👏",
+          "hindi": "ताली बजाना",
+          "hinglish": "taali bajaana"
+        },
+        {
+          "english": "listen",
+          "emoji": "👂",
+          "hindi": "सुनना",
+          "hinglish": "sunna"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U21.S13",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "🗣️",
+      "answer": "talk",
+      "options": [
+        "talk",
+        "look",
+        "clap"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U21.S14",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘clap’ मतलब ‘ताली बजाना’।",
+        "hinglish": "‘clap’ matlab ‘taali bajaana’.",
+        "en": "Say it with me: clap!"
+      },
+      "word": {
+        "english": "clap",
+        "emoji": "👏",
+        "hindi": "ताली बजाना",
+        "hinglish": "taali bajaana"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U21.S15",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘wave’ मतलब ‘हाथ हिलाना’।",
+        "hinglish": "‘wave’ matlab ‘haath hilaana’.",
+        "en": "Say it with me: wave!"
+      },
+      "word": {
+        "english": "wave",
+        "emoji": "👋",
+        "hindi": "हाथ हिलाना",
+        "hinglish": "haath hilaana"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U21.S16",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "clap",
+      "options": [
+        {
+          "english": "clap",
+          "emoji": "👏",
+          "hindi": "ताली बजाना",
+          "hinglish": "taali bajaana"
+        },
+        {
+          "english": "wave",
+          "emoji": "👋",
+          "hindi": "हाथ हिलाना",
+          "hinglish": "haath hilaana"
+        },
+        {
+          "english": "look",
+          "emoji": "👀",
+          "hindi": "देखना",
+          "hinglish": "dekhna"
+        },
+        {
+          "english": "close",
+          "emoji": "🔒",
+          "hindi": "बंद करना",
+          "hinglish": "band karna"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U21.S17",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "👋",
+      "answer": "wave",
+      "options": [
+        "wave",
+        "look",
+        "listen"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U21.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "wave",
+        "emoji": "👋",
+        "hindi": "हाथ हिलाना",
+        "hinglish": "haath hilaana"
+      },
+      "answer": {
+        "hi": "हाथ हिलाना",
+        "hinglish": "haath hilaana"
+      },
+      "options": [
+        {
+          "hi": "हाथ हिलाना",
+          "hinglish": "haath hilaana"
+        },
+        {
+          "hi": "खोलना",
+          "hinglish": "kholna"
+        },
+        {
+          "hi": "बंद करना",
+          "hinglish": "band karna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U21.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "think",
+        "emoji": "🤔",
+        "hindi": "सोचना",
+        "hinglish": "sochna"
+      },
+      "answer": {
+        "hi": "सोचना",
+        "hinglish": "sochna"
+      },
+      "options": [
+        {
+          "hi": "सोचना",
+          "hinglish": "sochna"
+        },
+        {
+          "hi": "सुनना",
+          "hinglish": "sunna"
+        },
+        {
+          "hi": "ताली बजाना",
+          "hinglish": "taali bajaana"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U21.S20",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "open",
+        "emoji": "🔓",
+        "hindi": "खोलना",
+        "hinglish": "kholna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U21.S21",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "look",
+        "emoji": "👀",
+        "hindi": "देखना",
+        "hinglish": "dekhna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U21.S22",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "clap",
+      "options": [
+        "clap",
+        "close",
+        "open"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U21.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: open, close, think, listen, look, talk, clap, wave।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: open, close, think, listen, look, talk, clap, wave.",
+        "en": "Well done! Today's new words: open, close, think, listen, look, talk, clap, wave."
+      }
+    }
+  ]
+}

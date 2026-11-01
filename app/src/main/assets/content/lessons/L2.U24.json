@@ -1,0 +1,474 @@
+{
+  "id": "L2.U24",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U24.S01",
+      "text": {
+        "hi": "आज तुम्हें कैसा लग रहा है? मन की बातों के इंग्लिश शब्द!",
+        "hinglish": "Aaj tumhe kaisa lag raha hai? Mann ki baaton ke English shabd!",
+        "en": "How do you feel today? Words for feelings!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U24.S02",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘happy’ मतलब ‘खुश’।",
+        "hinglish": "‘happy’ matlab ‘khush’.",
+        "en": "Say it with me: happy!"
+      },
+      "word": {
+        "english": "happy",
+        "emoji": "😀",
+        "hindi": "खुश",
+        "hinglish": "khush"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U24.S03",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘sad’ मतलब ‘उदास’।",
+        "hinglish": "‘sad’ matlab ‘udaas’.",
+        "en": "Say it with me: sad!"
+      },
+      "word": {
+        "english": "sad",
+        "emoji": "😢",
+        "hindi": "उदास",
+        "hinglish": "udaas"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U24.S04",
+      "skills": [
+        "listen.word",
+        "vocab.feelings"
+      ],
+      "answer": "happy",
+      "options": [
+        {
+          "english": "happy",
+          "emoji": "😀",
+          "hindi": "खुश",
+          "hinglish": "khush"
+        },
+        {
+          "english": "sad",
+          "emoji": "😢",
+          "hindi": "उदास",
+          "hinglish": "udaas"
+        },
+        {
+          "english": "surprised",
+          "emoji": "😲",
+          "hindi": "हैरान",
+          "hinglish": "hairaan"
+        },
+        {
+          "english": "angry",
+          "emoji": "😠",
+          "hindi": "गुस्से में",
+          "hinglish": "gusse mein"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U24.S05",
+      "skills": [
+        "read.word",
+        "vocab.feelings"
+      ],
+      "emoji": "😢",
+      "answer": "sad",
+      "options": [
+        "sad",
+        "surprised",
+        "happy"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U24.S06",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘angry’ मतलब ‘गुस्से में’।",
+        "hinglish": "‘angry’ matlab ‘gusse mein’.",
+        "en": "Say it with me: angry!"
+      },
+      "word": {
+        "english": "angry",
+        "emoji": "😠",
+        "hindi": "गुस्से में",
+        "hinglish": "gusse mein"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U24.S07",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘scared’ मतलब ‘डरा हुआ’।",
+        "hinglish": "‘scared’ matlab ‘dara hua’.",
+        "en": "Say it with me: scared!"
+      },
+      "word": {
+        "english": "scared",
+        "emoji": "😨",
+        "hindi": "डरा हुआ",
+        "hinglish": "dara hua"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U24.S08",
+      "skills": [
+        "listen.word",
+        "vocab.feelings"
+      ],
+      "answer": "angry",
+      "options": [
+        {
+          "english": "angry",
+          "emoji": "😠",
+          "hindi": "गुस्से में",
+          "hinglish": "gusse mein"
+        },
+        {
+          "english": "scared",
+          "emoji": "😨",
+          "hindi": "डरा हुआ",
+          "hinglish": "dara hua"
+        },
+        {
+          "english": "sick",
+          "emoji": "🤒",
+          "hindi": "बीमार",
+          "hinglish": "beemaar"
+        },
+        {
+          "english": "tired",
+          "emoji": "😫",
+          "hindi": "थका हुआ",
+          "hinglish": "thaka hua"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U24.S09",
+      "skills": [
+        "read.word",
+        "vocab.feelings"
+      ],
+      "emoji": "😨",
+      "answer": "scared",
+      "options": [
+        "scared",
+        "sad",
+        "sick"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U24.S10",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘tired’ मतलब ‘थका हुआ’।",
+        "hinglish": "‘tired’ matlab ‘thaka hua’.",
+        "en": "Say it with me: tired!"
+      },
+      "word": {
+        "english": "tired",
+        "emoji": "😫",
+        "hindi": "थका हुआ",
+        "hinglish": "thaka hua"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U24.S11",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘sick’ मतलब ‘बीमार’।",
+        "hinglish": "‘sick’ matlab ‘beemaar’.",
+        "en": "Say it with me: sick!"
+      },
+      "word": {
+        "english": "sick",
+        "emoji": "🤒",
+        "hindi": "बीमार",
+        "hinglish": "beemaar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U24.S12",
+      "skills": [
+        "listen.word",
+        "vocab.feelings"
+      ],
+      "answer": "tired",
+      "options": [
+        {
+          "english": "tired",
+          "emoji": "😫",
+          "hindi": "थका हुआ",
+          "hinglish": "thaka hua"
+        },
+        {
+          "english": "sleepy",
+          "emoji": "😴",
+          "hindi": "नींद आ रही",
+          "hinglish": "neend aa rahi"
+        },
+        {
+          "english": "happy",
+          "emoji": "😀",
+          "hindi": "खुश",
+          "hinglish": "khush"
+        },
+        {
+          "english": "surprised",
+          "emoji": "😲",
+          "hindi": "हैरान",
+          "hinglish": "hairaan"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U24.S13",
+      "skills": [
+        "read.word",
+        "vocab.feelings"
+      ],
+      "emoji": "🤒",
+      "answer": "sick",
+      "options": [
+        "sick",
+        "angry",
+        "surprised"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U24.S14",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘surprised’ मतलब ‘हैरान’।",
+        "hinglish": "‘surprised’ matlab ‘hairaan’.",
+        "en": "Say it with me: surprised!"
+      },
+      "word": {
+        "english": "surprised",
+        "emoji": "😲",
+        "hindi": "हैरान",
+        "hinglish": "hairaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U24.S15",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘sleepy’ मतलब ‘नींद आ रही’।",
+        "hinglish": "‘sleepy’ matlab ‘neend aa rahi’.",
+        "en": "Say it with me: sleepy!"
+      },
+      "word": {
+        "english": "sleepy",
+        "emoji": "😴",
+        "hindi": "नींद आ रही",
+        "hinglish": "neend aa rahi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U24.S16",
+      "skills": [
+        "listen.word",
+        "vocab.feelings"
+      ],
+      "answer": "surprised",
+      "options": [
+        {
+          "english": "surprised",
+          "emoji": "😲",
+          "hindi": "हैरान",
+          "hinglish": "hairaan"
+        },
+        {
+          "english": "sad",
+          "emoji": "😢",
+          "hindi": "उदास",
+          "hinglish": "udaas"
+        },
+        {
+          "english": "tired",
+          "emoji": "😫",
+          "hindi": "थका हुआ",
+          "hinglish": "thaka hua"
+        },
+        {
+          "english": "sleepy",
+          "emoji": "😴",
+          "hindi": "नींद आ रही",
+          "hinglish": "neend aa rahi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U24.S17",
+      "skills": [
+        "read.word",
+        "vocab.feelings"
+      ],
+      "emoji": "😴",
+      "answer": "sleepy",
+      "options": [
+        "sleepy",
+        "angry",
+        "happy"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U24.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "sick",
+        "emoji": "🤒",
+        "hindi": "बीमार",
+        "hinglish": "beemaar"
+      },
+      "answer": {
+        "hi": "बीमार",
+        "hinglish": "beemaar"
+      },
+      "options": [
+        {
+          "hi": "बीमार",
+          "hinglish": "beemaar"
+        },
+        {
+          "hi": "हैरान",
+          "hinglish": "hairaan"
+        },
+        {
+          "hi": "उदास",
+          "hinglish": "udaas"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U24.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "surprised",
+        "emoji": "😲",
+        "hindi": "हैरान",
+        "hinglish": "hairaan"
+      },
+      "answer": {
+        "hi": "हैरान",
+        "hinglish": "hairaan"
+      },
+      "options": [
+        {
+          "hi": "हैरान",
+          "hinglish": "hairaan"
+        },
+        {
+          "hi": "खुश",
+          "hinglish": "khush"
+        },
+        {
+          "hi": "थका हुआ",
+          "hinglish": "thaka hua"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U24.S20",
+      "skills": [
+        "speak.word",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "sad",
+        "emoji": "😢",
+        "hindi": "उदास",
+        "hinglish": "udaas"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U24.S21",
+      "skills": [
+        "speak.word",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "sick",
+        "emoji": "🤒",
+        "hindi": "बीमार",
+        "hinglish": "beemaar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U24.S22",
+      "skills": [
+        "read.word",
+        "vocab.feelings"
+      ],
+      "answer": "happy",
+      "options": [
+        "happy",
+        "scared",
+        "angry"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U24.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: happy, sad, angry, scared, tired, sick, surprised, sleepy।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: happy, sad, angry, scared, tired, sick, surprised, sleepy.",
+        "en": "Well done! Today's new words: happy, sad, angry, scared, tired, sick, surprised, sleepy."
+      }
+    }
+  ]
+}

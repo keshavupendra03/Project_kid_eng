@@ -1,0 +1,302 @@
+{
+  "id": "L3.U02",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U02.S01",
+      "skills": [
+        "grammar.i_am"
+      ],
+      "text": {
+        "hi": "अपने बारे में बोलना हो तो ‘I am’. मैं = I, हूँ = am. जैसे: I am happy = मैं खुश हूँ।",
+        "hinglish": "Apne baare mein bolna ho to ‘I am’. Main = I, hoon = am. Jaise: I am happy = Main khush hoon.",
+        "en": "To talk about yourself, say ‘I am’. Like: I am happy."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U02.S02",
+      "skills": [
+        "grammar.i_am"
+      ],
+      "text": {
+        "hi": "ध्यान दो: ‘I’ के साथ हमेशा ‘am’ आता है, कभी ‘is’ नहीं। I is ❌ I am ✅",
+        "hinglish": "Dhyaan do: ‘I’ ke saath hamesha ‘am’ aata hai, kabhi ‘is’ nahi. I is ❌ I am ✅",
+        "en": "Remember: ‘I’ always goes with ‘am’, never ‘is’. I is ❌ I am ✅"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U02.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.i_am"
+      ],
+      "hindi": [
+        {
+          "hi": "मैं",
+          "hinglish": "Main",
+          "role": "s"
+        },
+        {
+          "hi": "खुश",
+          "hinglish": "khush",
+          "role": "o"
+        },
+        {
+          "hi": "हूँ",
+          "hinglish": "hoon",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "am",
+          "role": "v"
+        },
+        {
+          "text": "happy",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "is"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U02.S04",
+      "skills": [
+        "grammar.i_am"
+      ],
+      "sentence": "I ___ happy.",
+      "answer": "am",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "meaning": {
+        "hi": "मैं खुश हूँ।",
+        "hinglish": "Main khush hoon."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U02.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.i_am"
+      ],
+      "hindi": [
+        {
+          "hi": "मैं",
+          "hinglish": "Main",
+          "role": "s"
+        },
+        {
+          "hi": "स्टूडेंट",
+          "hinglish": "student",
+          "role": "o"
+        },
+        {
+          "hi": "हूँ",
+          "hinglish": "hoon",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "am",
+          "role": "v"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "student",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U02.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.i_am"
+      ],
+      "words": [
+        "I",
+        "is",
+        "happy."
+      ],
+      "wrong": 1,
+      "fix": "am",
+      "meaning": {
+        "hi": "मैं खुश हूँ।",
+        "hinglish": "Main khush hoon."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U02.S07",
+      "skills": [
+        "grammar.i_am"
+      ],
+      "sentence": "I am ___ student.",
+      "answer": "a",
+      "options": [
+        "a",
+        "am",
+        "I"
+      ],
+      "meaning": {
+        "hi": "मैं स्टूडेंट हूँ।",
+        "hinglish": "Main student hoon."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U02.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.i_am"
+      ],
+      "sentence": "I am happy.",
+      "meaning": {
+        "hi": "मैं खुश हूँ।",
+        "hinglish": "Main khush hoon.",
+        "en": "I am happy."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U02.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.i_am"
+      ],
+      "hindi": [
+        {
+          "hi": "मैं",
+          "hinglish": "Main",
+          "role": "s"
+        },
+        {
+          "hi": "पाँचवीं",
+          "hinglish": "paanchvi",
+          "role": "o"
+        },
+        {
+          "hi": "क्लास",
+          "hinglish": "class",
+          "role": "o"
+        },
+        {
+          "hi": "में",
+          "hinglish": "mein",
+          "role": "x"
+        },
+        {
+          "hi": "हूँ",
+          "hinglish": "hoon",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "am",
+          "role": "v"
+        },
+        {
+          "text": "in",
+          "role": "x"
+        },
+        {
+          "text": "class",
+          "role": "o"
+        },
+        {
+          "text": "five",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U02.S10",
+      "skills": [
+        "grammar.i_am"
+      ],
+      "sentence": "___ am in class five.",
+      "answer": "I",
+      "options": [
+        "I",
+        "He",
+        "They"
+      ],
+      "meaning": {
+        "hi": "मैं पाँचवीं क्लास में हूँ।",
+        "hinglish": "Main paanchvi class mein hoon."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U02.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.i_am"
+      ],
+      "words": [
+        "I",
+        "are",
+        "a",
+        "student."
+      ],
+      "wrong": 1,
+      "fix": "am",
+      "meaning": {
+        "hi": "मैं स्टूडेंट हूँ।",
+        "hinglish": "Main student hoon."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U02.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.i_am"
+      ],
+      "sentence": "I am a student.",
+      "meaning": {
+        "hi": "मैं स्टूडेंट हूँ।",
+        "hinglish": "Main student hoon.",
+        "en": "I am a student."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U02.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

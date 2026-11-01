@@ -1,0 +1,474 @@
+{
+  "id": "L2.U05",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U05.S01",
+      "text": {
+        "hi": "हमारा घर! घर की चीज़ों के इंग्लिश नाम।",
+        "hinglish": "Hamara ghar! Ghar ki cheezon ke English naam.",
+        "en": "Our home! English names for things in the house."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U05.S02",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘house’ मतलब ‘घर’।",
+        "hinglish": "‘house’ matlab ‘ghar’.",
+        "en": "Say it with me: house!"
+      },
+      "word": {
+        "english": "house",
+        "emoji": "🏠",
+        "hindi": "घर",
+        "hinglish": "ghar"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U05.S03",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘door’ मतलब ‘दरवाज़ा’।",
+        "hinglish": "‘door’ matlab ‘darwaaza’.",
+        "en": "Say it with me: door!"
+      },
+      "word": {
+        "english": "door",
+        "emoji": "🚪",
+        "hindi": "दरवाज़ा",
+        "hinglish": "darwaaza"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U05.S04",
+      "skills": [
+        "listen.word",
+        "vocab.home"
+      ],
+      "answer": "house",
+      "options": [
+        {
+          "english": "house",
+          "emoji": "🏠",
+          "hindi": "घर",
+          "hinglish": "ghar"
+        },
+        {
+          "english": "bulb",
+          "emoji": "💡",
+          "hindi": "बल्ब",
+          "hinglish": "bulb"
+        },
+        {
+          "english": "key",
+          "emoji": "🔑",
+          "hindi": "चाबी",
+          "hinglish": "chaabi"
+        },
+        {
+          "english": "bed",
+          "emoji": "🛏️",
+          "hindi": "बिस्तर",
+          "hinglish": "bistar"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U05.S05",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "🚪",
+      "answer": "door",
+      "options": [
+        "door",
+        "clock",
+        "key"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U05.S06",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘window’ मतलब ‘खिड़की’।",
+        "hinglish": "‘window’ matlab ‘khidki’.",
+        "en": "Say it with me: window!"
+      },
+      "word": {
+        "english": "window",
+        "emoji": "🪟",
+        "hindi": "खिड़की",
+        "hinglish": "khidki"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U05.S07",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘bed’ मतलब ‘बिस्तर’।",
+        "hinglish": "‘bed’ matlab ‘bistar’.",
+        "en": "Say it with me: bed!"
+      },
+      "word": {
+        "english": "bed",
+        "emoji": "🛏️",
+        "hindi": "बिस्तर",
+        "hinglish": "bistar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U05.S08",
+      "skills": [
+        "listen.word",
+        "vocab.home"
+      ],
+      "answer": "window",
+      "options": [
+        {
+          "english": "window",
+          "emoji": "🪟",
+          "hindi": "खिड़की",
+          "hinglish": "khidki"
+        },
+        {
+          "english": "key",
+          "emoji": "🔑",
+          "hindi": "चाबी",
+          "hinglish": "chaabi"
+        },
+        {
+          "english": "house",
+          "emoji": "🏠",
+          "hindi": "घर",
+          "hinglish": "ghar"
+        },
+        {
+          "english": "bed",
+          "emoji": "🛏️",
+          "hindi": "बिस्तर",
+          "hinglish": "bistar"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U05.S09",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "🛏️",
+      "answer": "bed",
+      "options": [
+        "bed",
+        "bulb",
+        "house"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U05.S10",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘chair’ मतलब ‘कुर्सी’।",
+        "hinglish": "‘chair’ matlab ‘kursi’.",
+        "en": "Say it with me: chair!"
+      },
+      "word": {
+        "english": "chair",
+        "emoji": "🪑",
+        "hindi": "कुर्सी",
+        "hinglish": "kursi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U05.S11",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘bulb’ मतलब ‘बल्ब’।",
+        "hinglish": "‘bulb’ matlab ‘bulb’.",
+        "en": "Say it with me: bulb!"
+      },
+      "word": {
+        "english": "bulb",
+        "emoji": "💡",
+        "hindi": "बल्ब",
+        "hinglish": "bulb"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U05.S12",
+      "skills": [
+        "listen.word",
+        "vocab.home"
+      ],
+      "answer": "chair",
+      "options": [
+        {
+          "english": "chair",
+          "emoji": "🪑",
+          "hindi": "कुर्सी",
+          "hinglish": "kursi"
+        },
+        {
+          "english": "clock",
+          "emoji": "⏰",
+          "hindi": "घड़ी",
+          "hinglish": "ghadi"
+        },
+        {
+          "english": "key",
+          "emoji": "🔑",
+          "hindi": "चाबी",
+          "hinglish": "chaabi"
+        },
+        {
+          "english": "door",
+          "emoji": "🚪",
+          "hindi": "दरवाज़ा",
+          "hinglish": "darwaaza"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U05.S13",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "💡",
+      "answer": "bulb",
+      "options": [
+        "bulb",
+        "window",
+        "house"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U05.S14",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘key’ मतलब ‘चाबी’।",
+        "hinglish": "‘key’ matlab ‘chaabi’.",
+        "en": "Say it with me: key!"
+      },
+      "word": {
+        "english": "key",
+        "emoji": "🔑",
+        "hindi": "चाबी",
+        "hinglish": "chaabi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U05.S15",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘clock’ मतलब ‘घड़ी’।",
+        "hinglish": "‘clock’ matlab ‘ghadi’.",
+        "en": "Say it with me: clock!"
+      },
+      "word": {
+        "english": "clock",
+        "emoji": "⏰",
+        "hindi": "घड़ी",
+        "hinglish": "ghadi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U05.S16",
+      "skills": [
+        "listen.word",
+        "vocab.home"
+      ],
+      "answer": "key",
+      "options": [
+        {
+          "english": "key",
+          "emoji": "🔑",
+          "hindi": "चाबी",
+          "hinglish": "chaabi"
+        },
+        {
+          "english": "bed",
+          "emoji": "🛏️",
+          "hindi": "बिस्तर",
+          "hinglish": "bistar"
+        },
+        {
+          "english": "chair",
+          "emoji": "🪑",
+          "hindi": "कुर्सी",
+          "hinglish": "kursi"
+        },
+        {
+          "english": "clock",
+          "emoji": "⏰",
+          "hindi": "घड़ी",
+          "hinglish": "ghadi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U05.S17",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "⏰",
+      "answer": "clock",
+      "options": [
+        "clock",
+        "chair",
+        "key"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U05.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "chair",
+        "emoji": "🪑",
+        "hindi": "कुर्सी",
+        "hinglish": "kursi"
+      },
+      "answer": {
+        "hi": "कुर्सी",
+        "hinglish": "kursi"
+      },
+      "options": [
+        {
+          "hi": "कुर्सी",
+          "hinglish": "kursi"
+        },
+        {
+          "hi": "खिड़की",
+          "hinglish": "khidki"
+        },
+        {
+          "hi": "घर",
+          "hinglish": "ghar"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U05.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "window",
+        "emoji": "🪟",
+        "hindi": "खिड़की",
+        "hinglish": "khidki"
+      },
+      "answer": {
+        "hi": "खिड़की",
+        "hinglish": "khidki"
+      },
+      "options": [
+        {
+          "hi": "खिड़की",
+          "hinglish": "khidki"
+        },
+        {
+          "hi": "बिस्तर",
+          "hinglish": "bistar"
+        },
+        {
+          "hi": "दरवाज़ा",
+          "hinglish": "darwaaza"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U05.S20",
+      "skills": [
+        "speak.word",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "bed",
+        "emoji": "🛏️",
+        "hindi": "बिस्तर",
+        "hinglish": "bistar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U05.S21",
+      "skills": [
+        "speak.word",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "key",
+        "emoji": "🔑",
+        "hindi": "चाबी",
+        "hinglish": "chaabi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U05.S22",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "key",
+      "options": [
+        "key",
+        "bed",
+        "chair"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U05.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: house, door, window, bed, chair, bulb, key, clock।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: house, door, window, bed, chair, bulb, key, clock.",
+        "en": "Well done! Today's new words: house, door, window, bed, chair, bulb, key, clock."
+      }
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "id": "L2.U03",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U03.S01",
+      "text": {
+        "hi": "मेरा परिवार! घर के लोगों के इंग्लिश नाम।",
+        "hinglish": "Mera parivaar! Ghar ke logon ke English naam.",
+        "en": "My family! English names for the people at home."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U03.S02",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘mother’ मतलब ‘माँ’।",
+        "hinglish": "‘mother’ matlab ‘maa’.",
+        "en": "Say it with me: mother!"
+      },
+      "word": {
+        "english": "mother",
+        "emoji": "👩",
+        "hindi": "माँ",
+        "hinglish": "maa"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U03.S03",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘father’ मतलब ‘पिता’।",
+        "hinglish": "‘father’ matlab ‘pita’.",
+        "en": "Say it with me: father!"
+      },
+      "word": {
+        "english": "father",
+        "emoji": "👨",
+        "hindi": "पिता",
+        "hinglish": "pita"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U03.S04",
+      "skills": [
+        "listen.word",
+        "vocab.family"
+      ],
+      "answer": "mother",
+      "options": [
+        {
+          "english": "mother",
+          "emoji": "👩",
+          "hindi": "माँ",
+          "hinglish": "maa"
+        },
+        {
+          "english": "family",
+          "emoji": "👪",
+          "hindi": "परिवार",
+          "hinglish": "parivaar"
+        },
+        {
+          "english": "grandmother",
+          "emoji": "👵",
+          "hindi": "दादी / नानी",
+          "hinglish": "daadi / naani"
+        },
+        {
+          "english": "baby",
+          "emoji": "👶",
+          "hindi": "छोटा बच्चा",
+          "hinglish": "chhota bachcha"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U03.S05",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "emoji": "👨",
+      "answer": "father",
+      "options": [
+        "father",
+        "grandmother",
+        "grandfather"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U03.S06",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘sister’ मतलब ‘बहन’।",
+        "hinglish": "‘sister’ matlab ‘behen’.",
+        "en": "Say it with me: sister!"
+      },
+      "word": {
+        "english": "sister",
+        "emoji": "👧",
+        "hindi": "बहन",
+        "hinglish": "behen"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U03.S07",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘brother’ मतलब ‘भाई’।",
+        "hinglish": "‘brother’ matlab ‘bhai’.",
+        "en": "Say it with me: brother!"
+      },
+      "word": {
+        "english": "brother",
+        "emoji": "👦",
+        "hindi": "भाई",
+        "hinglish": "bhai"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U03.S08",
+      "skills": [
+        "listen.word",
+        "vocab.family"
+      ],
+      "answer": "sister",
+      "options": [
+        {
+          "english": "sister",
+          "emoji": "👧",
+          "hindi": "बहन",
+          "hinglish": "behen"
+        },
+        {
+          "english": "mother",
+          "emoji": "👩",
+          "hindi": "माँ",
+          "hinglish": "maa"
+        },
+        {
+          "english": "brother",
+          "emoji": "👦",
+          "hindi": "भाई",
+          "hinglish": "bhai"
+        },
+        {
+          "english": "father",
+          "emoji": "👨",
+          "hindi": "पिता",
+          "hinglish": "pita"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U03.S09",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "emoji": "👦",
+      "answer": "brother",
+      "options": [
+        "brother",
+        "father",
+        "grandfather"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U03.S10",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘baby’ मतलब ‘छोटा बच्चा’।",
+        "hinglish": "‘baby’ matlab ‘chhota bachcha’.",
+        "en": "Say it with me: baby!"
+      },
+      "word": {
+        "english": "baby",
+        "emoji": "👶",
+        "hindi": "छोटा बच्चा",
+        "hinglish": "chhota bachcha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U03.S11",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘grandmother’ मतलब ‘दादी / नानी’।",
+        "hinglish": "‘grandmother’ matlab ‘daadi / naani’.",
+        "en": "Say it with me: grandmother!"
+      },
+      "word": {
+        "english": "grandmother",
+        "emoji": "👵",
+        "hindi": "दादी / नानी",
+        "hinglish": "daadi / naani"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U03.S12",
+      "skills": [
+        "listen.word",
+        "vocab.family"
+      ],
+      "answer": "baby",
+      "options": [
+        {
+          "english": "baby",
+          "emoji": "👶",
+          "hindi": "छोटा बच्चा",
+          "hinglish": "chhota bachcha"
+        },
+        {
+          "english": "grandfather",
+          "emoji": "👴",
+          "hindi": "दादा / नाना",
+          "hinglish": "daada / naana"
+        },
+        {
+          "english": "sister",
+          "emoji": "👧",
+          "hindi": "बहन",
+          "hinglish": "behen"
+        },
+        {
+          "english": "grandmother",
+          "emoji": "👵",
+          "hindi": "दादी / नानी",
+          "hinglish": "daadi / naani"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U03.S13",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "emoji": "👵",
+      "answer": "grandmother",
+      "options": [
+        "grandmother",
+        "sister",
+        "grandfather"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U03.S14",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘grandfather’ मतलब ‘दादा / नाना’।",
+        "hinglish": "‘grandfather’ matlab ‘daada / naana’.",
+        "en": "Say it with me: grandfather!"
+      },
+      "word": {
+        "english": "grandfather",
+        "emoji": "👴",
+        "hindi": "दादा / नाना",
+        "hinglish": "daada / naana"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U03.S15",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘family’ मतलब ‘परिवार’।",
+        "hinglish": "‘family’ matlab ‘parivaar’.",
+        "en": "Say it with me: family!"
+      },
+      "word": {
+        "english": "family",
+        "emoji": "👪",
+        "hindi": "परिवार",
+        "hinglish": "parivaar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U03.S16",
+      "skills": [
+        "listen.word",
+        "vocab.family"
+      ],
+      "answer": "grandfather",
+      "options": [
+        {
+          "english": "grandfather",
+          "emoji": "👴",
+          "hindi": "दादा / नाना",
+          "hinglish": "daada / naana"
+        },
+        {
+          "english": "brother",
+          "emoji": "👦",
+          "hindi": "भाई",
+          "hinglish": "bhai"
+        },
+        {
+          "english": "sister",
+          "emoji": "👧",
+          "hindi": "बहन",
+          "hinglish": "behen"
+        },
+        {
+          "english": "baby",
+          "emoji": "👶",
+          "hindi": "छोटा बच्चा",
+          "hinglish": "chhota bachcha"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U03.S17",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "emoji": "👪",
+      "answer": "family",
+      "options": [
+        "family",
+        "mother",
+        "grandmother"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U03.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "baby",
+        "emoji": "👶",
+        "hindi": "छोटा बच्चा",
+        "hinglish": "chhota bachcha"
+      },
+      "answer": {
+        "hi": "छोटा बच्चा",
+        "hinglish": "chhota bachcha"
+      },
+      "options": [
+        {
+          "hi": "छोटा बच्चा",
+          "hinglish": "chhota bachcha"
+        },
+        {
+          "hi": "पिता",
+          "hinglish": "pita"
+        },
+        {
+          "hi": "दादा / नाना",
+          "hinglish": "daada / naana"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U03.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "grandfather",
+        "emoji": "👴",
+        "hindi": "दादा / नाना",
+        "hinglish": "daada / naana"
+      },
+      "answer": {
+        "hi": "दादा / नाना",
+        "hinglish": "daada / naana"
+      },
+      "options": [
+        {
+          "hi": "दादा / नाना",
+          "hinglish": "daada / naana"
+        },
+        {
+          "hi": "पिता",
+          "hinglish": "pita"
+        },
+        {
+          "hi": "दादी / नानी",
+          "hinglish": "daadi / naani"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U03.S20",
+      "skills": [
+        "speak.word",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "baby",
+        "emoji": "👶",
+        "hindi": "छोटा बच्चा",
+        "hinglish": "chhota bachcha"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U03.S21",
+      "skills": [
+        "speak.word",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "mother",
+        "emoji": "👩",
+        "hindi": "माँ",
+        "hinglish": "maa"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U03.S22",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "answer": "baby",
+      "options": [
+        "baby",
+        "grandfather",
+        "grandmother"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U03.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: mother, father, sister, brother, baby, grandmother, grandfather, family।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: mother, father, sister, brother, baby, grandmother, grandfather, family.",
+        "en": "Well done! Today's new words: mother, father, sister, brother, baby, grandmother, grandfather, family."
+      }
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "id": "L2.U16",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U16.S01",
+      "text": {
+        "hi": "इंग्लिश में गिनती: one, two, three…",
+        "hinglish": "English mein ginti: one, two, three…",
+        "en": "Counting in English: one, two, three…"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U16.S02",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘one’ मतलब ‘एक’।",
+        "hinglish": "‘one’ matlab ‘ek’.",
+        "en": "Say it with me: one!"
+      },
+      "word": {
+        "english": "one",
+        "emoji": "1️⃣",
+        "hindi": "एक",
+        "hinglish": "ek"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U16.S03",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘two’ मतलब ‘दो’।",
+        "hinglish": "‘two’ matlab ‘do’.",
+        "en": "Say it with me: two!"
+      },
+      "word": {
+        "english": "two",
+        "emoji": "2️⃣",
+        "hindi": "दो",
+        "hinglish": "do"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U16.S04",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "one",
+      "options": [
+        {
+          "english": "one",
+          "emoji": "1️⃣",
+          "hindi": "एक",
+          "hinglish": "ek"
+        },
+        {
+          "english": "eight",
+          "emoji": "8️⃣",
+          "hindi": "आठ",
+          "hinglish": "aath"
+        },
+        {
+          "english": "seven",
+          "emoji": "7️⃣",
+          "hindi": "सात",
+          "hinglish": "saat"
+        },
+        {
+          "english": "five",
+          "emoji": "5️⃣",
+          "hindi": "पाँच",
+          "hinglish": "paanch"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U16.S05",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "2️⃣",
+      "answer": "two",
+      "options": [
+        "two",
+        "four",
+        "three"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U16.S06",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘three’ मतलब ‘तीन’।",
+        "hinglish": "‘three’ matlab ‘teen’.",
+        "en": "Say it with me: three!"
+      },
+      "word": {
+        "english": "three",
+        "emoji": "3️⃣",
+        "hindi": "तीन",
+        "hinglish": "teen"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U16.S07",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘four’ मतलब ‘चार’।",
+        "hinglish": "‘four’ matlab ‘chaar’.",
+        "en": "Say it with me: four!"
+      },
+      "word": {
+        "english": "four",
+        "emoji": "4️⃣",
+        "hindi": "चार",
+        "hinglish": "chaar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U16.S08",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "three",
+      "options": [
+        {
+          "english": "three",
+          "emoji": "3️⃣",
+          "hindi": "तीन",
+          "hinglish": "teen"
+        },
+        {
+          "english": "eight",
+          "emoji": "8️⃣",
+          "hindi": "आठ",
+          "hinglish": "aath"
+        },
+        {
+          "english": "two",
+          "emoji": "2️⃣",
+          "hindi": "दो",
+          "hinglish": "do"
+        },
+        {
+          "english": "five",
+          "emoji": "5️⃣",
+          "hindi": "पाँच",
+          "hinglish": "paanch"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U16.S09",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "4️⃣",
+      "answer": "four",
+      "options": [
+        "four",
+        "five",
+        "seven"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U16.S10",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘five’ मतलब ‘पाँच’।",
+        "hinglish": "‘five’ matlab ‘paanch’.",
+        "en": "Say it with me: five!"
+      },
+      "word": {
+        "english": "five",
+        "emoji": "5️⃣",
+        "hindi": "पाँच",
+        "hinglish": "paanch"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U16.S11",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘six’ मतलब ‘छह’।",
+        "hinglish": "‘six’ matlab ‘chhah’.",
+        "en": "Say it with me: six!"
+      },
+      "word": {
+        "english": "six",
+        "emoji": "6️⃣",
+        "hindi": "छह",
+        "hinglish": "chhah"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U16.S12",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "five",
+      "options": [
+        {
+          "english": "five",
+          "emoji": "5️⃣",
+          "hindi": "पाँच",
+          "hinglish": "paanch"
+        },
+        {
+          "english": "four",
+          "emoji": "4️⃣",
+          "hindi": "चार",
+          "hinglish": "chaar"
+        },
+        {
+          "english": "eight",
+          "emoji": "8️⃣",
+          "hindi": "आठ",
+          "hinglish": "aath"
+        },
+        {
+          "english": "seven",
+          "emoji": "7️⃣",
+          "hindi": "सात",
+          "hinglish": "saat"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U16.S13",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "6️⃣",
+      "answer": "six",
+      "options": [
+        "six",
+        "five",
+        "eight"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U16.S14",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘seven’ मतलब ‘सात’।",
+        "hinglish": "‘seven’ matlab ‘saat’.",
+        "en": "Say it with me: seven!"
+      },
+      "word": {
+        "english": "seven",
+        "emoji": "7️⃣",
+        "hindi": "सात",
+        "hinglish": "saat"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U16.S15",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘eight’ मतलब ‘आठ’।",
+        "hinglish": "‘eight’ matlab ‘aath’.",
+        "en": "Say it with me: eight!"
+      },
+      "word": {
+        "english": "eight",
+        "emoji": "8️⃣",
+        "hindi": "आठ",
+        "hinglish": "aath"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U16.S16",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "seven",
+      "options": [
+        {
+          "english": "seven",
+          "emoji": "7️⃣",
+          "hindi": "सात",
+          "hinglish": "saat"
+        },
+        {
+          "english": "two",
+          "emoji": "2️⃣",
+          "hindi": "दो",
+          "hinglish": "do"
+        },
+        {
+          "english": "eight",
+          "emoji": "8️⃣",
+          "hindi": "आठ",
+          "hinglish": "aath"
+        },
+        {
+          "english": "one",
+          "emoji": "1️⃣",
+          "hindi": "एक",
+          "hinglish": "ek"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U16.S17",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "8️⃣",
+      "answer": "eight",
+      "options": [
+        "eight",
+        "seven",
+        "six"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U16.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "five",
+        "emoji": "5️⃣",
+        "hindi": "पाँच",
+        "hinglish": "paanch"
+      },
+      "answer": {
+        "hi": "पाँच",
+        "hinglish": "paanch"
+      },
+      "options": [
+        {
+          "hi": "पाँच",
+          "hinglish": "paanch"
+        },
+        {
+          "hi": "तीन",
+          "hinglish": "teen"
+        },
+        {
+          "hi": "छह",
+          "hinglish": "chhah"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U16.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "seven",
+        "emoji": "7️⃣",
+        "hindi": "सात",
+        "hinglish": "saat"
+      },
+      "answer": {
+        "hi": "सात",
+        "hinglish": "saat"
+      },
+      "options": [
+        {
+          "hi": "सात",
+          "hinglish": "saat"
+        },
+        {
+          "hi": "तीन",
+          "hinglish": "teen"
+        },
+        {
+          "hi": "दो",
+          "hinglish": "do"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U16.S20",
+      "skills": [
+        "speak.word",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "one",
+        "emoji": "1️⃣",
+        "hindi": "एक",
+        "hinglish": "ek"
+      },
+      "accept": [
+        "1",
+        "won"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U16.S21",
+      "skills": [
+        "speak.word",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "two",
+        "emoji": "2️⃣",
+        "hindi": "दो",
+        "hinglish": "do"
+      },
+      "accept": [
+        "2",
+        "to",
+        "too"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U16.S22",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "answer": "three",
+      "options": [
+        "three",
+        "six",
+        "seven"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U16.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: one, two, three, four, five, six, seven, eight।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: one, two, three, four, five, six, seven, eight.",
+        "en": "Well done! Today's new words: one, two, three, four, five, six, seven, eight."
+      }
+    }
+  ]
+}

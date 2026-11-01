@@ -1,0 +1,302 @@
+{
+  "id": "L3.U15",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U15.S01",
+      "skills": [
+        "grammar.simple_present"
+      ],
+      "text": {
+        "hi": "रोज़ की बातें: I play every day = मैं रोज़ खेलता हूँ / खेलती हूँ।",
+        "hinglish": "Roz ki baatein: I play every day = Main roz khelta hoon / khelti hoon.",
+        "en": "For things you do every day: I play every day."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U15.S02",
+      "skills": [
+        "grammar.simple_present"
+      ],
+      "text": {
+        "hi": "He, She, It के साथ काम वाले शब्द के आख़िर में ‘s’ लगता है: He plays, She reads. I, We, You, They के साथ नहीं!",
+        "hinglish": "He, She, It ke saath kaam waale shabd ke aakhir mein ‘s’ lagta hai: He plays, She reads. I, We, You, They ke saath nahi!",
+        "en": "With He, She and It, add ‘s’ to the action word: He plays, She reads. Not with I, We, You, They!"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U15.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.simple_present"
+      ],
+      "hindi": [
+        {
+          "hi": "मैं",
+          "hinglish": "Main",
+          "role": "s"
+        },
+        {
+          "hi": "रोज़",
+          "hinglish": "roz",
+          "role": "o"
+        },
+        {
+          "hi": "स्कूल",
+          "hinglish": "school",
+          "role": "o"
+        },
+        {
+          "hi": "जाता हूँ",
+          "hinglish": "jaata hoon",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "go",
+          "role": "v"
+        },
+        {
+          "text": "to",
+          "role": "x"
+        },
+        {
+          "text": "school",
+          "role": "o"
+        },
+        {
+          "text": "every day",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "goes"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U15.S04",
+      "skills": [
+        "grammar.simple_present"
+      ],
+      "sentence": "He ___ milk every day.",
+      "answer": "drinks",
+      "options": [
+        "drink",
+        "drinks"
+      ],
+      "meaning": {
+        "hi": "वह रोज़ दूध पीता है।",
+        "hinglish": "Woh roz doodh peeta hai."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U15.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.simple_present"
+      ],
+      "hindi": [
+        {
+          "hi": "वह",
+          "hinglish": "Woh",
+          "role": "s"
+        },
+        {
+          "hi": "किताब",
+          "hinglish": "kitaab",
+          "role": "o"
+        },
+        {
+          "hi": "पढ़ती है",
+          "hinglish": "padhti hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "She",
+          "role": "s"
+        },
+        {
+          "text": "reads",
+          "role": "v"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "book",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "read"
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U15.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.simple_present"
+      ],
+      "words": [
+        "She",
+        "play",
+        "with",
+        "her",
+        "doll."
+      ],
+      "wrong": 1,
+      "fix": "plays",
+      "meaning": {
+        "hi": "वह अपनी गुड़िया से खेलती है।",
+        "hinglish": "Woh apni gudiya se khelti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U15.S07",
+      "skills": [
+        "grammar.simple_present"
+      ],
+      "sentence": "I ___ my teeth every morning.",
+      "answer": "brush",
+      "options": [
+        "brush",
+        "brushes"
+      ],
+      "meaning": {
+        "hi": "मैं रोज़ सुबह दाँत साफ़ करती हूँ।",
+        "hinglish": "Main roz subah daant saaf karti hoon."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U15.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.simple_present"
+      ],
+      "sentence": "I go to school every day.",
+      "meaning": {
+        "hi": "मैं रोज़ स्कूल जाता हूँ।",
+        "hinglish": "Main roz school jaata hoon.",
+        "en": "I go to school every day."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U15.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.simple_present"
+      ],
+      "hindi": [
+        {
+          "hi": "हम",
+          "hinglish": "Hum",
+          "role": "s"
+        },
+        {
+          "hi": "क्रिकेट",
+          "hinglish": "cricket",
+          "role": "o"
+        },
+        {
+          "hi": "खेलते हैं",
+          "hinglish": "khelte hain",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "We",
+          "role": "s"
+        },
+        {
+          "text": "play",
+          "role": "v"
+        },
+        {
+          "text": "cricket",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "plays"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U15.S10",
+      "skills": [
+        "grammar.simple_present"
+      ],
+      "sentence": "My mother ___ food.",
+      "answer": "cooks",
+      "options": [
+        "cook",
+        "cooks"
+      ],
+      "meaning": {
+        "hi": "मेरी माँ खाना बनाती हैं।",
+        "hinglish": "Meri maa khaana banaati hain."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U15.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.simple_present"
+      ],
+      "words": [
+        "I",
+        "goes",
+        "to",
+        "school."
+      ],
+      "wrong": 1,
+      "fix": "go",
+      "meaning": {
+        "hi": "मैं स्कूल जाता हूँ।",
+        "hinglish": "Main school jaata hoon."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U15.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.simple_present"
+      ],
+      "sentence": "She reads a book.",
+      "meaning": {
+        "hi": "वह किताब पढ़ती है।",
+        "hinglish": "Woh kitaab padhti hai.",
+        "en": "She reads a book."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U15.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

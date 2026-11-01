@@ -1,0 +1,474 @@
+{
+  "id": "L2.U04",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U04.S01",
+      "text": {
+        "hi": "दोस्त और आस-पास के लोग।",
+        "hinglish": "Dost aur aas-paas ke log.",
+        "en": "Friends and the people around us."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U04.S02",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘friend’ मतलब ‘दोस्त’।",
+        "hinglish": "‘friend’ matlab ‘dost’.",
+        "en": "Say it with me: friend!"
+      },
+      "word": {
+        "english": "friend",
+        "emoji": "🤝",
+        "hindi": "दोस्त",
+        "hinglish": "dost"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U04.S03",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘uncle’ मतलब ‘चाचा / मामा’।",
+        "hinglish": "‘uncle’ matlab ‘chacha / mama’.",
+        "en": "Say it with me: uncle!"
+      },
+      "word": {
+        "english": "uncle",
+        "emoji": "🧔",
+        "hindi": "चाचा / मामा",
+        "hinglish": "chacha / mama"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U04.S04",
+      "skills": [
+        "listen.word",
+        "vocab.family"
+      ],
+      "answer": "friend",
+      "options": [
+        {
+          "english": "friend",
+          "emoji": "🤝",
+          "hindi": "दोस्त",
+          "hinglish": "dost"
+        },
+        {
+          "english": "child",
+          "emoji": "🧒",
+          "hindi": "बच्चा",
+          "hinglish": "bachcha"
+        },
+        {
+          "english": "girl",
+          "emoji": "👧",
+          "hindi": "लड़की",
+          "hinglish": "ladki"
+        },
+        {
+          "english": "woman",
+          "emoji": "👩",
+          "hindi": "औरत",
+          "hinglish": "aurat"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U04.S05",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "emoji": "🧔",
+      "answer": "uncle",
+      "options": [
+        "uncle",
+        "girl",
+        "boy"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U04.S06",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘aunt’ मतलब ‘चाची / मौसी’।",
+        "hinglish": "‘aunt’ matlab ‘chachi / mausi’.",
+        "en": "Say it with me: aunt!"
+      },
+      "word": {
+        "english": "aunt",
+        "emoji": "👩‍🦰",
+        "hindi": "चाची / मौसी",
+        "hinglish": "chachi / mausi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U04.S07",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘boy’ मतलब ‘लड़का’।",
+        "hinglish": "‘boy’ matlab ‘ladka’.",
+        "en": "Say it with me: boy!"
+      },
+      "word": {
+        "english": "boy",
+        "emoji": "👦",
+        "hindi": "लड़का",
+        "hinglish": "ladka"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U04.S08",
+      "skills": [
+        "listen.word",
+        "vocab.family"
+      ],
+      "answer": "aunt",
+      "options": [
+        {
+          "english": "aunt",
+          "emoji": "👩‍🦰",
+          "hindi": "चाची / मौसी",
+          "hinglish": "chachi / mausi"
+        },
+        {
+          "english": "friend",
+          "emoji": "🤝",
+          "hindi": "दोस्त",
+          "hinglish": "dost"
+        },
+        {
+          "english": "uncle",
+          "emoji": "🧔",
+          "hindi": "चाचा / मामा",
+          "hinglish": "chacha / mama"
+        },
+        {
+          "english": "man",
+          "emoji": "👨",
+          "hindi": "आदमी",
+          "hinglish": "aadmi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U04.S09",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "emoji": "👦",
+      "answer": "boy",
+      "options": [
+        "boy",
+        "woman",
+        "aunt"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U04.S10",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘girl’ मतलब ‘लड़की’।",
+        "hinglish": "‘girl’ matlab ‘ladki’.",
+        "en": "Say it with me: girl!"
+      },
+      "word": {
+        "english": "girl",
+        "emoji": "👧",
+        "hindi": "लड़की",
+        "hinglish": "ladki"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U04.S11",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘man’ मतलब ‘आदमी’।",
+        "hinglish": "‘man’ matlab ‘aadmi’.",
+        "en": "Say it with me: man!"
+      },
+      "word": {
+        "english": "man",
+        "emoji": "👨",
+        "hindi": "आदमी",
+        "hinglish": "aadmi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U04.S12",
+      "skills": [
+        "listen.word",
+        "vocab.family"
+      ],
+      "answer": "girl",
+      "options": [
+        {
+          "english": "girl",
+          "emoji": "👧",
+          "hindi": "लड़की",
+          "hinglish": "ladki"
+        },
+        {
+          "english": "boy",
+          "emoji": "👦",
+          "hindi": "लड़का",
+          "hinglish": "ladka"
+        },
+        {
+          "english": "uncle",
+          "emoji": "🧔",
+          "hindi": "चाचा / मामा",
+          "hinglish": "chacha / mama"
+        },
+        {
+          "english": "aunt",
+          "emoji": "👩‍🦰",
+          "hindi": "चाची / मौसी",
+          "hinglish": "chachi / mausi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U04.S13",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "emoji": "👨",
+      "answer": "man",
+      "options": [
+        "man",
+        "child",
+        "girl"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U04.S14",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘woman’ मतलब ‘औरत’।",
+        "hinglish": "‘woman’ matlab ‘aurat’.",
+        "en": "Say it with me: woman!"
+      },
+      "word": {
+        "english": "woman",
+        "emoji": "👩",
+        "hindi": "औरत",
+        "hinglish": "aurat"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U04.S15",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘child’ मतलब ‘बच्चा’।",
+        "hinglish": "‘child’ matlab ‘bachcha’.",
+        "en": "Say it with me: child!"
+      },
+      "word": {
+        "english": "child",
+        "emoji": "🧒",
+        "hindi": "बच्चा",
+        "hinglish": "bachcha"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U04.S16",
+      "skills": [
+        "listen.word",
+        "vocab.family"
+      ],
+      "answer": "woman",
+      "options": [
+        {
+          "english": "woman",
+          "emoji": "👩",
+          "hindi": "औरत",
+          "hinglish": "aurat"
+        },
+        {
+          "english": "girl",
+          "emoji": "👧",
+          "hindi": "लड़की",
+          "hinglish": "ladki"
+        },
+        {
+          "english": "friend",
+          "emoji": "🤝",
+          "hindi": "दोस्त",
+          "hinglish": "dost"
+        },
+        {
+          "english": "man",
+          "emoji": "👨",
+          "hindi": "आदमी",
+          "hinglish": "aadmi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U04.S17",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "emoji": "🧒",
+      "answer": "child",
+      "options": [
+        "child",
+        "friend",
+        "uncle"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U04.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "friend",
+        "emoji": "🤝",
+        "hindi": "दोस्त",
+        "hinglish": "dost"
+      },
+      "answer": {
+        "hi": "दोस्त",
+        "hinglish": "dost"
+      },
+      "options": [
+        {
+          "hi": "दोस्त",
+          "hinglish": "dost"
+        },
+        {
+          "hi": "लड़की",
+          "hinglish": "ladki"
+        },
+        {
+          "hi": "आदमी",
+          "hinglish": "aadmi"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U04.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "aunt",
+        "emoji": "👩‍🦰",
+        "hindi": "चाची / मौसी",
+        "hinglish": "chachi / mausi"
+      },
+      "answer": {
+        "hi": "चाची / मौसी",
+        "hinglish": "chachi / mausi"
+      },
+      "options": [
+        {
+          "hi": "चाची / मौसी",
+          "hinglish": "chachi / mausi"
+        },
+        {
+          "hi": "लड़की",
+          "hinglish": "ladki"
+        },
+        {
+          "hi": "लड़का",
+          "hinglish": "ladka"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U04.S20",
+      "skills": [
+        "speak.word",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "boy",
+        "emoji": "👦",
+        "hindi": "लड़का",
+        "hinglish": "ladka"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U04.S21",
+      "skills": [
+        "speak.word",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "man",
+        "emoji": "👨",
+        "hindi": "आदमी",
+        "hinglish": "aadmi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U04.S22",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "answer": "man",
+      "options": [
+        "man",
+        "woman",
+        "friend"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U04.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: friend, uncle, aunt, boy, girl, man, woman, child।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: friend, uncle, aunt, boy, girl, man, woman, child.",
+        "en": "Well done! Today's new words: friend, uncle, aunt, boy, girl, man, woman, child."
+      }
+    }
+  ]
+}

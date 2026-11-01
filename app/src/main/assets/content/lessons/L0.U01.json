@@ -1,0 +1,160 @@
+{
+  "id": "L0.U01",
+  "level": 0,
+  "steps": [
+    {
+      "type": "learn_card", "id": "L0.U01.S01",
+      "text": {
+        "hi": "एक राज़ की बात बताऊँ? तुम रोज़ इंग्लिश बोलते हो! चलो देखते हैं कैसे।",
+        "hinglish": "Ek raaz ki baat bataun? Tum roz English bolte ho! Chalo dekhte hain kaise.",
+        "en": "Shall I tell you a secret? You speak English every day! Let's see how."
+      }
+    },
+    {
+      "type": "learn_card", "id": "L0.U01.S02", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "तुम इसे बस बोलते हो। बस इंग्लिश का शब्द है!",
+        "hinglish": "Tum ise bus bolte ho. Bus English ka shabd hai!",
+        "en": "You call this a bus. Bus is an English word!"
+      },
+      "word": { "english": "bus", "emoji": "🚌", "hindi": "बस" }
+    },
+    {
+      "type": "learn_card", "id": "L0.U01.S03", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "फ़ोन भी इंग्लिश का शब्द है। मम्मी-पापा रोज़ फ़ोन पर बात करते हैं!",
+        "hinglish": "Phone bhi English ka shabd hai. Mummy-Papa roz phone par baat karte hain!",
+        "en": "Phone is also an English word. Mummy and Papa talk on the phone every day!"
+      },
+      "word": { "english": "phone", "emoji": "📱", "hindi": "फ़ोन" }
+    },
+    {
+      "type": "listen_tap", "id": "L0.U01.S04", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "bus",
+      "options": [
+        { "english": "bus", "emoji": "🚌" },
+        { "english": "phone", "emoji": "📱" },
+        { "english": "pen", "emoji": "🖊️" },
+        { "english": "bag", "emoji": "🎒" }
+      ]
+    },
+    {
+      "type": "word_pick", "id": "L0.U01.S05", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "📱", "answer": "phone", "options": ["phone", "bus", "TV"]
+    },
+    {
+      "type": "learn_card", "id": "L0.U01.S06", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "टीवी! इंग्लिश में इसे दो अक्षरों से लिखते हैं: T और V.",
+        "hinglish": "TV! English mein ise do letters se likhte hain: T aur V.",
+        "en": "TV! In English we write it with two letters: T and V."
+      },
+      "word": { "english": "TV", "emoji": "📺", "hindi": "टीवी" }
+    },
+    {
+      "type": "learn_card", "id": "L0.U01.S07", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "पेन से तुम स्कूल में लिखते हो। पेन भी इंग्लिश है!",
+        "hinglish": "Pen se tum school mein likhte ho. Pen bhi English hai!",
+        "en": "You write with a pen at school. Pen is English too!"
+      },
+      "word": { "english": "pen", "emoji": "🖊️", "hindi": "पेन" }
+    },
+    {
+      "type": "listen_tap", "id": "L0.U01.S08", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "TV",
+      "options": [
+        { "english": "TV", "emoji": "📺" },
+        { "english": "phone", "emoji": "📱" },
+        { "english": "school", "emoji": "🏫" },
+        { "english": "pen", "emoji": "🖊️" }
+      ]
+    },
+    {
+      "type": "word_pick", "id": "L0.U01.S09", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "🖊️", "answer": "pen", "options": ["pen", "bag", "bus"]
+    },
+    {
+      "type": "listen_tap", "id": "L0.U01.S10", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "phone",
+      "options": [
+        { "english": "phone", "emoji": "📱" },
+        { "english": "bag", "emoji": "🎒" },
+        { "english": "TV", "emoji": "📺" },
+        { "english": "school", "emoji": "🏫" }
+      ]
+    },
+    {
+      "type": "learn_card", "id": "L0.U01.S11", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "बैग में तुम किताबें रखते हो। बैग भी इंग्लिश का शब्द है!",
+        "hinglish": "Bag mein tum kitaabein rakhte ho. Bag bhi English ka shabd hai!",
+        "en": "You keep your books in a bag. Bag is an English word too!"
+      },
+      "word": { "english": "bag", "emoji": "🎒", "hindi": "बैग" }
+    },
+    {
+      "type": "learn_card", "id": "L0.U01.S12", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "और स्कूल? हाँ, स्कूल भी इंग्लिश है!",
+        "hinglish": "Aur school? Haan, school bhi English hai!",
+        "en": "And school? Yes, school is English too!"
+      },
+      "word": { "english": "school", "emoji": "🏫", "hindi": "स्कूल" }
+    },
+    {
+      "type": "word_pick", "id": "L0.U01.S13", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "🏫", "answer": "school", "options": ["school", "phone", "TV"]
+    },
+    {
+      "type": "listen_tap", "id": "L0.U01.S14", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "bag",
+      "options": [
+        { "english": "bag", "emoji": "🎒" },
+        { "english": "bus", "emoji": "🚌" },
+        { "english": "pen", "emoji": "🖊️" },
+        { "english": "school", "emoji": "🏫" }
+      ]
+    },
+    {
+      "type": "word_pick", "id": "L0.U01.S15", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "🚌", "answer": "bus", "options": ["bus", "bag", "pen"]
+    },
+    {
+      "type": "say_word", "id": "L0.U01.S19", "skills": ["speak.word", "vocab.loanwords"],
+      "word": { "english": "bus", "emoji": "🚌", "hindi": "बस" }
+    },
+    {
+      "type": "say_word", "id": "L0.U01.S20", "skills": ["speak.word", "sound.s_cluster"],
+      "word": { "english": "school", "emoji": "🏫", "hindi": "स्कूल" }
+    },
+    {
+      "type": "find_english", "id": "L0.U01.S16", "skills": ["notice.english_in_hindi"],
+      "words": [
+        { "hi": "राजू", "hinglish": "Raju" },
+        { "hi": "बस", "hinglish": "bus", "en": "bus" },
+        { "hi": "से", "hinglish": "se" },
+        { "hi": "स्कूल", "hinglish": "school", "en": "school" },
+        { "hi": "गया।", "hinglish": "gaya." }
+      ]
+    },
+    {
+      "type": "find_english", "id": "L0.U01.S17", "skills": ["notice.english_in_hindi"],
+      "words": [
+        { "hi": "मेरा", "hinglish": "Mera" },
+        { "hi": "फ़ोन", "hinglish": "phone", "en": "phone" },
+        { "hi": "बैग", "hinglish": "bag", "en": "bag" },
+        { "hi": "में", "hinglish": "mein" },
+        { "hi": "है।", "hinglish": "hai." }
+      ]
+    },
+    {
+      "type": "learn_card", "id": "L0.U01.S18",
+      "text": {
+        "hi": "शाबाश! आज तुमने 6 इंग्लिश शब्द पक्के कर लिए। देखा, तुम पहले से इंग्लिश जानते हो!",
+        "hinglish": "Shabaash! Aaj tumne 6 English shabd pakke kar liye. Dekha, tum pehle se English jaante ho!",
+        "en": "Well done! Today you learned 6 English words. See, you already know English!"
+      }
+    }
+  ]
+}

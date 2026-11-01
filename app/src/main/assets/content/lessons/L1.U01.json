@@ -1,0 +1,116 @@
+{
+  "id": "L1.U01",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card", "id": "L1.U01.S01", "skills": ["phonics.name_vs_sound"],
+      "text": {
+        "hi": "इंग्लिश के हर अक्षर का एक नाम है और एक आवाज़। जैसे ‘s’ का नाम है ‘एस’, पर उसकी आवाज़ है ‘स्’। पढ़ने में आवाज़ काम आती है!",
+        "hinglish": "English ke har akshar ka ek naam hai aur ek awaaz. Jaise ‘s’ ka naam hai ‘es’, par uski awaaz hai ‘s’. Padhne mein awaaz kaam aati hai!",
+        "en": "Every English letter has a name and a sound. The name of ‘s’ is ‘ess’, but its sound is ‘sss’. For reading, we use the sound!"
+      }
+    },
+    {
+      "type": "learn_sound", "id": "L1.U01.S02", "skills": ["phonics.s"],
+      "letters": "s", "sound": "c13_s", "hint": "स",
+      "text": {
+        "hi": "यह ‘s’ है। इसकी आवाज़ साँप जैसी है: स्स्स। sun में पहली आवाज़ यही है।",
+        "hinglish": "Yeh ‘s’ hai. Iski awaaz saanp jaisi hai: sss. Sun mein pehli awaaz yahi hai.",
+        "en": "This is ‘s’. It sounds like a snake: sss. It is the first sound in sun."
+      },
+      "example": { "english": "sun", "emoji": "☀️", "hindi": "सन" }
+    },
+    {
+      "type": "learn_sound", "id": "L1.U01.S03", "skills": ["phonics.a"],
+      "letters": "a", "sound": "v01_a_apple", "hint": "ऐ",
+      "text": {
+        "hi": "यह ‘a’ है। मुँह खोलकर बोलो: ऐ। जैसे apple में।",
+        "hinglish": "Yeh ‘a’ hai. Munh kholkar bolo: ae. Jaise apple mein.",
+        "en": "This is ‘a’. Open your mouth wide and say ‘a’, like in apple."
+      },
+      "example": { "english": "apple", "emoji": "🍎", "hindi": "ऐपल" }
+    },
+    {
+      "type": "say_word", "id": "L1.U01.S04", "skills": ["speak.word", "phonics.s"],
+      "word": { "english": "sun", "emoji": "☀️", "hindi": "सन" },
+      "accept": ["son"]
+    },
+    {
+      "type": "learn_sound", "id": "L1.U01.S05", "skills": ["phonics.t"],
+      "letters": "t", "sound": "c14_t", "hint": "ट",
+      "text": {
+        "hi": "यह ‘t’ है। छोटी सी आवाज़: ट्। जैसे tiger में।",
+        "hinglish": "Yeh ‘t’ hai. Chhoti si awaaz: t. Jaise tiger mein.",
+        "en": "This is ‘t’. A short little sound: t, like in tiger."
+      },
+      "example": { "english": "tiger", "emoji": "🐯", "hindi": "टाइगर" }
+    },
+    {
+      "type": "learn_sound", "id": "L1.U01.S06", "skills": ["phonics.p"],
+      "letters": "p", "sound": "c11_p", "hint": "प",
+      "text": {
+        "hi": "यह ‘p’ है। होंठ बंद करो और हवा छोड़ो: प्। जैसे pen में।",
+        "hinglish": "Yeh ‘p’ hai. Honth band karo aur hawa chhodo: p. Jaise pen mein.",
+        "en": "This is ‘p’. Close your lips and pop the air out: p, like in pen."
+      },
+      "example": { "english": "pen", "emoji": "🖊️", "hindi": "पेन" }
+    },
+    {
+      "type": "listen_tap", "id": "L1.U01.S07", "skills": ["listen.word", "phonics.a"],
+      "answer": "apple",
+      "options": [
+        { "english": "apple", "emoji": "🍎" },
+        { "english": "sun", "emoji": "☀️" },
+        { "english": "tiger", "emoji": "🐯" },
+        { "english": "pen", "emoji": "🖊️" }
+      ]
+    },
+    {
+      "type": "say_word", "id": "L1.U01.S08", "skills": ["speak.word", "phonics.t"],
+      "word": { "english": "tiger", "emoji": "🐯", "hindi": "टाइगर" }
+    },
+    {
+      "type": "learn_sound", "id": "L1.U01.S09", "skills": ["phonics.i"],
+      "letters": "i", "sound": "v03_i_ink", "hint": "इ",
+      "text": {
+        "hi": "यह ‘i’ है। छोटी सी ‘इ’, जैसे insect में।",
+        "hinglish": "Yeh ‘i’ hai. Chhoti si ‘i’, jaise insect mein.",
+        "en": "This is ‘i’. A short ‘i’ sound, like in insect."
+      },
+      "example": { "english": "insect", "emoji": "🐛", "hindi": "इन्सेक्ट" }
+    },
+    {
+      "type": "learn_sound", "id": "L1.U01.S10", "skills": ["phonics.n"],
+      "letters": "n", "sound": "c10_n", "hint": "न",
+      "text": {
+        "hi": "यह ‘n’ है। नाक से आवाज़ निकालो: न्न्न। जैसे nose में।",
+        "hinglish": "Yeh ‘n’ hai. Naak se awaaz nikaalo: nnn. Jaise nose mein.",
+        "en": "This is ‘n’. Hum through your nose: nnn, like in nose."
+      },
+      "example": { "english": "nose", "emoji": "👃", "hindi": "नोज़" }
+    },
+    {
+      "type": "listen_tap", "id": "L1.U01.S11", "skills": ["listen.word", "phonics.n"],
+      "answer": "nose",
+      "options": [
+        { "english": "nose", "emoji": "👃" },
+        { "english": "insect", "emoji": "🐛" },
+        { "english": "sun", "emoji": "☀️" },
+        { "english": "tiger", "emoji": "🐯" }
+      ]
+    },
+    {
+      "type": "say_word", "id": "L1.U01.S12", "skills": ["speak.word", "phonics.n"],
+      "word": { "english": "nose", "emoji": "👃", "hindi": "नोज़" },
+      "accept": ["knows"]
+    },
+    {
+      "type": "learn_card", "id": "L1.U01.S13",
+      "text": {
+        "hi": "शाबाश! अब तुम 6 आवाज़ें जानते हो: s, a, t, p, i, n. अगले लेसन में इनसे शब्द बनाएँगे!",
+        "hinglish": "Shabaash! Ab tum 6 awaazein jaante ho: s, a, t, p, i, n. Agle lesson mein inse shabd banayenge!",
+        "en": "Well done! Now you know 6 sounds: s, a, t, p, i, n. In the next lesson we'll make words with them!"
+      }
+    }
+  ]
+}

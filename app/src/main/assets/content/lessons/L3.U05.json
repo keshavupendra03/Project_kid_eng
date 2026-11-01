@@ -1,0 +1,304 @@
+{
+  "id": "L3.U05",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U05.S01",
+      "skills": [
+        "grammar.articles"
+      ],
+      "text": {
+        "hi": "‘a’ मतलब कोई एक: a book = एक किताब। शब्द a, e, i, o, u की आवाज़ से शुरू हो, तो ‘an’: an apple, an egg.",
+        "hinglish": "‘a’ matlab koi ek: a book = ek kitaab. Shabd a, e, i, o, u ki awaaz se shuru ho, to ‘an’: an apple, an egg.",
+        "en": "‘a’ means any one: a book. If the word starts with an a, e, i, o, u sound, use ‘an’: an apple, an egg."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U05.S02",
+      "skills": [
+        "grammar.articles"
+      ],
+      "text": {
+        "hi": "‘the’ मतलब ‘वो वाला’, जिसकी बात हो रही है: the sun, the book on the table.",
+        "hinglish": "‘the’ matlab ‘woh waala’, jiski baat ho rahi hai: the sun, the book on the table.",
+        "en": "‘the’ means one particular thing we both know: the sun, the book on the table."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U05.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.articles"
+      ],
+      "hindi": [
+        {
+          "hi": "यह",
+          "hinglish": "Yeh",
+          "role": "s"
+        },
+        {
+          "hi": "एक",
+          "hinglish": "ek",
+          "role": "x"
+        },
+        {
+          "hi": "सेब",
+          "hinglish": "seb",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "This",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "an",
+          "role": "x"
+        },
+        {
+          "text": "apple",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "a"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U05.S04",
+      "skills": [
+        "grammar.articles"
+      ],
+      "sentence": "This is ___ orange.",
+      "answer": "an",
+      "options": [
+        "a",
+        "an"
+      ],
+      "meaning": {
+        "hi": "यह एक संतरा है।",
+        "hinglish": "Yeh ek santra hai."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U05.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.articles"
+      ],
+      "hindi": [
+        {
+          "hi": "यह",
+          "hinglish": "Yeh",
+          "role": "s"
+        },
+        {
+          "hi": "एक",
+          "hinglish": "ek",
+          "role": "x"
+        },
+        {
+          "hi": "अंडा",
+          "hinglish": "anda",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "It",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "an",
+          "role": "x"
+        },
+        {
+          "text": "egg",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "a"
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U05.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.articles"
+      ],
+      "words": [
+        "This",
+        "is",
+        "a",
+        "egg."
+      ],
+      "wrong": 2,
+      "fix": "an",
+      "meaning": {
+        "hi": "यह एक अंडा है।",
+        "hinglish": "Yeh ek anda hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U05.S07",
+      "skills": [
+        "grammar.articles"
+      ],
+      "sentence": "I see ___ dog.",
+      "answer": "a",
+      "options": [
+        "a",
+        "an"
+      ],
+      "meaning": {
+        "hi": "मुझे एक कुत्ता दिख रहा है।",
+        "hinglish": "Mujhe ek kutta dikh raha hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U05.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.articles"
+      ],
+      "sentence": "This is an apple.",
+      "meaning": {
+        "hi": "यह एक सेब है।",
+        "hinglish": "Yeh ek seb hai.",
+        "en": "This is an apple."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U05.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.articles"
+      ],
+      "hindi": [
+        {
+          "hi": "सूरज",
+          "hinglish": "Sooraj",
+          "role": "s"
+        },
+        {
+          "hi": "गरम",
+          "hinglish": "garam",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "The",
+          "role": "x"
+        },
+        {
+          "text": "sun",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "hot",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U05.S10",
+      "skills": [
+        "grammar.articles"
+      ],
+      "sentence": "___ moon is white.",
+      "answer": "The",
+      "options": [
+        "A",
+        "An",
+        "The"
+      ],
+      "meaning": {
+        "hi": "चाँद सफ़ेद है।",
+        "hinglish": "Chaand safed hai."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U05.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.articles"
+      ],
+      "words": [
+        "It",
+        "is",
+        "an",
+        "cat."
+      ],
+      "wrong": 2,
+      "fix": "a",
+      "meaning": {
+        "hi": "यह एक बिल्ली है।",
+        "hinglish": "Yeh ek billi hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U05.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.articles"
+      ],
+      "sentence": "The sun is hot.",
+      "meaning": {
+        "hi": "सूरज गरम है।",
+        "hinglish": "Sooraj garam hai.",
+        "en": "The sun is hot."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U05.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

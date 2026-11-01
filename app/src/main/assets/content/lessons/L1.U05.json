@@ -1,0 +1,384 @@
+{
+  "id": "L1.U05",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U05.S01",
+      "text": {
+        "hi": "आज की आवाज़ें: c, e, u और r.",
+        "hinglish": "Aaj ki awaazein: c, e, u aur r.",
+        "en": "Today's sounds: c, e, u and r."
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U05.S02",
+      "skills": [
+        "phonics.c"
+      ],
+      "letters": "c",
+      "sound": "c07_k",
+      "hint": "क",
+      "text": {
+        "hi": "यह ‘c’ है। यहाँ इसकी आवाज़ है ‘क्’, जैसे cat में।",
+        "hinglish": "Yeh ‘c’ hai. Yahan iski awaaz hai ‘k’, jaise cat mein.",
+        "en": "This is ‘c’. Here it sounds like ‘k’, as in cat."
+      },
+      "example": {
+        "english": "cat",
+        "emoji": "🐈",
+        "hindi": "बिल्ली",
+        "hinglish": "billi"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U05.S03",
+      "skills": [
+        "phonics.e"
+      ],
+      "letters": "e",
+      "sound": "v02_e_egg",
+      "hint": "ए",
+      "text": {
+        "hi": "यह ‘e’ है। इसकी आवाज़ है ‘ए’, जैसे egg में।",
+        "hinglish": "Yeh ‘e’ hai. Iski awaaz hai ‘e’, jaise egg mein.",
+        "en": "This is ‘e’. Listen to its sound, like at the start of egg."
+      },
+      "example": {
+        "english": "egg",
+        "emoji": "🥚",
+        "hindi": "अंडा",
+        "hinglish": "anda"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U05.S04",
+      "skills": [
+        "listen.word",
+        "phonics.e"
+      ],
+      "answer": "egg",
+      "options": [
+        {
+          "english": "egg",
+          "emoji": "🥚",
+          "hindi": "अंडा",
+          "hinglish": "anda"
+        },
+        {
+          "english": "cat",
+          "emoji": "🐈",
+          "hindi": "बिल्ली",
+          "hinglish": "billi"
+        }
+      ]
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U05.S05",
+      "skills": [
+        "phonics.u"
+      ],
+      "letters": "u",
+      "sound": "v05_u_cup",
+      "hint": "अ",
+      "text": {
+        "hi": "यह ‘u’ है। इसकी आवाज़ है ‘अ’, जैसे umbrella में।",
+        "hinglish": "Yeh ‘u’ hai. Iski awaaz hai ‘a’, jaise umbrella mein.",
+        "en": "This is ‘u’. Listen to its sound, like at the start of umbrella."
+      },
+      "example": {
+        "english": "umbrella",
+        "emoji": "☂️",
+        "hindi": "छाता",
+        "hinglish": "chhaata"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U05.S06",
+      "skills": [
+        "phonics.r"
+      ],
+      "letters": "r",
+      "sound": "c12_r",
+      "hint": "र",
+      "text": {
+        "hi": "यह ‘r’ है। इसकी आवाज़ है ‘र’, जैसे rabbit में।",
+        "hinglish": "Yeh ‘r’ hai. Iski awaaz hai ‘r’, jaise rabbit mein.",
+        "en": "This is ‘r’. Listen to its sound, like at the start of rabbit."
+      },
+      "example": {
+        "english": "rabbit",
+        "emoji": "🐇",
+        "hindi": "खरगोश",
+        "hinglish": "khargosh"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U05.S07",
+      "skills": [
+        "listen.word",
+        "phonics.r"
+      ],
+      "answer": "rabbit",
+      "options": [
+        {
+          "english": "rabbit",
+          "emoji": "🐇",
+          "hindi": "खरगोश",
+          "hinglish": "khargosh"
+        },
+        {
+          "english": "egg",
+          "emoji": "🥚",
+          "hindi": "अंडा",
+          "hinglish": "anda"
+        },
+        {
+          "english": "cat",
+          "emoji": "🐈",
+          "hindi": "बिल्ली",
+          "hinglish": "billi"
+        },
+        {
+          "english": "umbrella",
+          "emoji": "☂️",
+          "hindi": "छाता",
+          "hinglish": "chhaata"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U05.S08",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "cat",
+        "emoji": "🐈",
+        "hindi": "बिल्ली",
+        "hinglish": "billi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U05.S09",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "egg",
+        "emoji": "🥚",
+        "hindi": "अंडा",
+        "hinglish": "anda"
+      }
+    },
+    {
+      "type": "blend",
+      "id": "L1.U05.S10",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "cat",
+      "emoji": "🐈",
+      "parts": [
+        {
+          "letters": "c",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "a",
+          "sound": "v01_a_apple"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U05.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "cup",
+      "emoji": "☕",
+      "parts": [
+        {
+          "letters": "c",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "u",
+          "sound": "v05_u_cup"
+        },
+        {
+          "letters": "p",
+          "sound": "c11_p"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U05.S12",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "☕",
+      "answer": "cup",
+      "options": [
+        "cup",
+        "sun",
+        "rat"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U05.S13",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "red",
+      "emoji": "🔴",
+      "parts": [
+        {
+          "letters": "r",
+          "sound": "c12_r"
+        },
+        {
+          "letters": "e",
+          "sound": "v02_e_egg"
+        },
+        {
+          "letters": "d",
+          "sound": "c02_d"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U05.S14",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "net",
+      "emoji": "🥅",
+      "parts": [
+        {
+          "letters": "n",
+          "sound": "c10_n"
+        },
+        {
+          "letters": "e",
+          "sound": "v02_e_egg"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U05.S15",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🥅",
+      "answer": "net",
+      "options": [
+        "net",
+        "sun",
+        "red"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U05.S16",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "rat",
+      "emoji": "🐀",
+      "parts": [
+        {
+          "letters": "r",
+          "sound": "c12_r"
+        },
+        {
+          "letters": "a",
+          "sound": "v01_a_apple"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U05.S17",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "sun",
+      "emoji": "☀️",
+      "parts": [
+        {
+          "letters": "s",
+          "sound": "c13_s"
+        },
+        {
+          "letters": "u",
+          "sound": "v05_u_cup"
+        },
+        {
+          "letters": "n",
+          "sound": "c10_n"
+        }
+      ],
+      "accept": [
+        "son"
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U05.S18",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "☀️",
+      "answer": "sun",
+      "options": [
+        "sun",
+        "cat",
+        "net"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U05.S19",
+      "text": {
+        "hi": "शाबाश! cat, cup, red, net, rat, sun — तुमने छह नए शब्द पढ़ लिए!",
+        "hinglish": "Shabaash! cat, cup, red, net, rat, sun — tumne chhe naye shabd padh liye!",
+        "en": "Well done! cat, cup, red, net, rat, sun — you read six new words!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "id": "L3.U06",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U06.S01",
+      "skills": [
+        "grammar.have_has"
+      ],
+      "text": {
+        "hi": "‘मेरे पास है’ = I have. ‘उसके पास है’ = He has / She has.",
+        "hinglish": "‘Mere paas hai’ = I have. ‘Uske paas hai’ = He has / She has.",
+        "en": "Use ‘I have’ for things you own, and ‘He has’ or ‘She has’ for someone else."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U06.S02",
+      "skills": [
+        "grammar.have_has"
+      ],
+      "text": {
+        "hi": "हिंदी में ‘है’ आख़िर में आता है। इंग्लिश में: I have a cat — ‘have’ बीच में!",
+        "hinglish": "Hindi mein ‘hai’ aakhir mein aata hai. English mein: I have a cat — ‘have’ beech mein!",
+        "en": "In Hindi, ‘hai’ comes last. In English: I have a cat — ‘have’ goes in the middle!"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U06.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.have_has"
+      ],
+      "hindi": [
+        {
+          "hi": "मेरे पास",
+          "hinglish": "Mere paas",
+          "role": "s"
+        },
+        {
+          "hi": "एक",
+          "hinglish": "ek",
+          "role": "x"
+        },
+        {
+          "hi": "बिल्ली",
+          "hinglish": "billi",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "have",
+          "role": "v"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "cat",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "has"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U06.S04",
+      "skills": [
+        "grammar.have_has"
+      ],
+      "sentence": "I ___ a pen.",
+      "answer": "have",
+      "options": [
+        "have",
+        "has"
+      ],
+      "meaning": {
+        "hi": "मेरे पास एक पेन है।",
+        "hinglish": "Mere paas ek pen hai."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U06.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.have_has"
+      ],
+      "hindi": [
+        {
+          "hi": "उसके पास",
+          "hinglish": "Uske paas",
+          "role": "s"
+        },
+        {
+          "hi": "एक",
+          "hinglish": "ek",
+          "role": "x"
+        },
+        {
+          "hi": "लाल",
+          "hinglish": "laal",
+          "role": "o"
+        },
+        {
+          "hi": "बैग",
+          "hinglish": "bag",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "She",
+          "role": "s"
+        },
+        {
+          "text": "has",
+          "role": "v"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "red",
+          "role": "o"
+        },
+        {
+          "text": "bag",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "have"
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U06.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.have_has"
+      ],
+      "words": [
+        "She",
+        "have",
+        "a",
+        "doll."
+      ],
+      "wrong": 1,
+      "fix": "has",
+      "meaning": {
+        "hi": "उसके पास एक गुड़िया है।",
+        "hinglish": "Uske paas ek gudiya hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U06.S07",
+      "skills": [
+        "grammar.have_has"
+      ],
+      "sentence": "He ___ a ball.",
+      "answer": "has",
+      "options": [
+        "have",
+        "has"
+      ],
+      "meaning": {
+        "hi": "उसके पास एक गेंद है।",
+        "hinglish": "Uske paas ek gend hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U06.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.have_has"
+      ],
+      "sentence": "I have a cat.",
+      "meaning": {
+        "hi": "मेरे पास एक बिल्ली है।",
+        "hinglish": "Mere paas ek billi hai.",
+        "en": "I have a cat."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U06.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.have_has"
+      ],
+      "hindi": [
+        {
+          "hi": "हमारे पास",
+          "hinglish": "Hamare paas",
+          "role": "s"
+        },
+        {
+          "hi": "दो",
+          "hinglish": "do",
+          "role": "o"
+        },
+        {
+          "hi": "किताबें",
+          "hinglish": "kitaabein",
+          "role": "o"
+        },
+        {
+          "hi": "हैं",
+          "hinglish": "hain",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "We",
+          "role": "s"
+        },
+        {
+          "text": "have",
+          "role": "v"
+        },
+        {
+          "text": "two",
+          "role": "o"
+        },
+        {
+          "text": "books",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U06.S10",
+      "skills": [
+        "grammar.have_has"
+      ],
+      "sentence": "They ___ a big house.",
+      "answer": "have",
+      "options": [
+        "have",
+        "has"
+      ],
+      "meaning": {
+        "hi": "उनके पास एक बड़ा घर है।",
+        "hinglish": "Unke paas ek bada ghar hai."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U06.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.have_has"
+      ],
+      "words": [
+        "I",
+        "has",
+        "two",
+        "pencils."
+      ],
+      "wrong": 1,
+      "fix": "have",
+      "meaning": {
+        "hi": "मेरे पास दो पेंसिल हैं।",
+        "hinglish": "Mere paas do pencil hain."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U06.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.have_has"
+      ],
+      "sentence": "She has a red bag.",
+      "meaning": {
+        "hi": "उसके पास एक लाल बैग है।",
+        "hinglish": "Uske paas ek laal bag hai.",
+        "en": "She has a red bag."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U06.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "_format": "words: [english, emoji (or empty), Hindi, Hinglish, optional list of other accepted recogniser outputs]",
+  "lessons": [
+    { "id": "L2.U01", "skill": "vocab.body",
+      "intro": { "hi": "चलो अपने शरीर के अंगों के इंग्लिश नाम सीखें!", "hl": "Chalo apne shareer ke angon ke English naam seekhein!", "en": "Let's learn the English names for parts of our body!" },
+      "words": [
+        ["eye", "👁️", "आँख", "aankh", ["i"]], ["ear", "👂", "कान", "kaan"], ["nose", "👃", "नाक", "naak", ["knows"]], ["mouth", "👄", "मुँह", "munh"],
+        ["hand", "✋", "हाथ", "haath"], ["foot", "🦶", "पैर", "pair"], ["tooth", "🦷", "दाँत", "daant"], ["hair", "💇", "बाल", "baal"]
+      ] },
+    { "id": "L2.U02", "skill": "vocab.body",
+      "intro": { "hi": "शरीर के कुछ और अंग!", "hl": "Shareer ke kuch aur ang!", "en": "More parts of the body!" },
+      "words": [
+        ["face", "😊", "चेहरा", "chehra"], ["leg", "🦵", "टाँग", "taang"], ["finger", "☝️", "उँगली", "ungli"], ["arm", "💪", "बाँह", "baanh"],
+        ["tongue", "👅", "जीभ", "jeebh"], ["heart", "❤️", "दिल", "dil"], ["bone", "🦴", "हड्डी", "haddi"], ["thumb", "👍", "अँगूठा", "angootha"]
+      ] },
+    { "id": "L2.U03", "skill": "vocab.family",
+      "intro": { "hi": "मेरा परिवार! घर के लोगों के इंग्लिश नाम।", "hl": "Mera parivaar! Ghar ke logon ke English naam.", "en": "My family! English names for the people at home." },
+      "words": [
+        ["mother", "👩", "माँ", "maa"], ["father", "👨", "पिता", "pita"], ["sister", "👧", "बहन", "behen"], ["brother", "👦", "भाई", "bhai"],
+        ["baby", "👶", "छोटा बच्चा", "chhota bachcha"], ["grandmother", "👵", "दादी / नानी", "daadi / naani"], ["grandfather", "👴", "दादा / नाना", "daada / naana"], ["family", "👪", "परिवार", "parivaar"]
+      ] },
+    { "id": "L2.U04", "skill": "vocab.family",
+      "intro": { "hi": "दोस्त और आस-पास के लोग।", "hl": "Dost aur aas-paas ke log.", "en": "Friends and the people around us." },
+      "words": [
+        ["friend", "🤝", "दोस्त", "dost"], ["uncle", "🧔", "चाचा / मामा", "chacha / mama"], ["aunt", "👩‍🦰", "चाची / मौसी", "chachi / mausi", ["ant"]], ["boy", "👦", "लड़का", "ladka"],
+        ["girl", "👧", "लड़की", "ladki"], ["man", "👨", "आदमी", "aadmi"], ["woman", "👩", "औरत", "aurat"], ["child", "🧒", "बच्चा", "bachcha"]
+      ] },
+    { "id": "L2.U05", "skill": "vocab.home",
+      "intro": { "hi": "हमारा घर! घर की चीज़ों के इंग्लिश नाम।", "hl": "Hamara ghar! Ghar ki cheezon ke English naam.", "en": "Our home! English names for things in the house." },
+      "words": [
+        ["house", "🏠", "घर", "ghar"], ["door", "🚪", "दरवाज़ा", "darwaaza"], ["window", "🪟", "खिड़की", "khidki"], ["bed", "🛏️", "बिस्तर", "bistar"],
+        ["chair", "🪑", "कुर्सी", "kursi"], ["bulb", "💡", "बल्ब", "bulb"], ["key", "🔑", "चाबी", "chaabi"], ["clock", "⏰", "घड़ी", "ghadi"]
+      ] },
+    { "id": "L2.U06", "skill": "vocab.home",
+      "intro": { "hi": "रसोई और बाथरूम की चीज़ें।", "hl": "Rasoi aur bathroom ki cheezein.", "en": "Things in the kitchen and bathroom." },
+      "words": [
+        ["cup", "☕", "कप", "cup"], ["plate", "🍽️", "थाली", "thaali"], ["spoon", "🥄", "चम्मच", "chammach"], ["glass", "🥛", "गिलास", "gilaas"],
+        ["bucket", "🪣", "बाल्टी", "baalti"], ["soap", "🧼", "साबुन", "saabun"], ["broom", "🧹", "झाड़ू", "jhaadu"], ["mirror", "🪞", "शीशा", "sheesha"]
+      ] },
+    { "id": "L2.U07", "skill": "vocab.school",
+      "intro": { "hi": "स्कूल बैग में क्या-क्या है?", "hl": "School bag mein kya-kya hai?", "en": "What's in your school bag?" },
+      "words": [
+        ["book", "📖", "किताब", "kitaab"], ["pencil", "✏️", "पेंसिल", "pencil"], ["ruler", "📏", "स्केल", "scale"], ["scissors", "✂️", "कैंची", "kainchi"],
+        ["crayon", "🖍️", "क्रेयॉन", "crayon"], ["notebook", "📓", "कॉपी", "copy"], ["bell", "🔔", "घंटी", "ghanti"], ["computer", "💻", "कंप्यूटर", "computer"]
+      ] },
+    { "id": "L2.U08", "skill": "vocab.school",
+      "intro": { "hi": "स्कूल की कुछ और चीज़ें।", "hl": "School ki kuch aur cheezein.", "en": "More things at school." },
+      "words": [
+        ["map", "🗺️", "नक्शा", "naksha"], ["globe", "🌍", "ग्लोब", "globe"], ["paper", "📄", "कागज़", "kaagaz"], ["letter", "✉️", "चिट्ठी", "chitthi"],
+        ["calendar", "📅", "कैलेंडर", "calendar"], ["flag", "🇮🇳", "झंडा", "jhanda"], ["trophy", "🏆", "ट्रॉफ़ी", "trophy"], ["gift", "🎁", "तोहफ़ा", "tohfa"]
+      ] },
+    { "id": "L2.U09", "skill": "vocab.food",
+      "intro": { "hi": "मीठे-मीठे फल!", "hl": "Meethe-meethe phal!", "en": "Sweet, juicy fruits!" },
+      "words": [
+        ["apple", "🍎", "सेब", "seb"], ["banana", "🍌", "केला", "kela"], ["mango", "🥭", "आम", "aam"], ["grapes", "🍇", "अंगूर", "angoor"],
+        ["orange", "🍊", "संतरा", "santra"], ["watermelon", "🍉", "तरबूज़", "tarbooz"], ["pineapple", "🍍", "अनानास", "ananaas"], ["coconut", "🥥", "नारियल", "naariyal"]
+      ] },
+    { "id": "L2.U10", "skill": "vocab.food",
+      "intro": { "hi": "रोज़ का खाना-पीना।", "hl": "Roz ka khaana-peena.", "en": "Everyday food and drinks." },
+      "words": [
+        ["rice", "🍚", "चावल", "chaawal"], ["bread", "🍞", "डबलरोटी", "double roti"], ["milk", "🥛", "दूध", "doodh"], ["egg", "🥚", "अंडा", "anda"],
+        ["water", "💧", "पानी", "paani"], ["tea", "🍵", "चाय", "chai"], ["salt", "🧂", "नमक", "namak"], ["honey", "🍯", "शहद", "shahad"]
+      ] },
+    { "id": "L2.U11", "skill": "vocab.food",
+      "intro": { "hi": "सब्ज़ियाँ खाओ, ताकतवर बनो!", "hl": "Sabziyaan khao, taakatwar bano!", "en": "Eat your vegetables, grow strong!" },
+      "words": [
+        ["potato", "🥔", "आलू", "aaloo"], ["tomato", "🍅", "टमाटर", "tamaatar"], ["onion", "🧅", "प्याज़", "pyaaz"], ["corn", "🌽", "भुट्टा", "bhutta"],
+        ["chilli", "🌶️", "मिर्च", "mirch", ["chili", "chilly"]], ["cucumber", "🥒", "खीरा", "kheera"], ["carrot", "🥕", "गाजर", "gaajar"], ["garlic", "🧄", "लहसुन", "lehsun"]
+      ] },
+    { "id": "L2.U12", "skill": "vocab.animals",
+      "intro": { "hi": "गाँव और घर के जानवर।", "hl": "Gaon aur ghar ke jaanwar.", "en": "Animals at home and on the farm." },
+      "words": [
+        ["dog", "🐕", "कुत्ता", "kutta"], ["cat", "🐈", "बिल्ली", "billi"], ["cow", "🐄", "गाय", "gaay"], ["horse", "🐎", "घोड़ा", "ghoda"],
+        ["goat", "🐐", "बकरी", "bakri"], ["hen", "🐔", "मुर्गी", "murgi"], ["duck", "🦆", "बत्तख", "battakh"], ["fish", "🐟", "मछली", "machhli"]
+      ] },
+    { "id": "L2.U13", "skill": "vocab.animals",
+      "intro": { "hi": "जंगल के जानवर!", "hl": "Jungle ke jaanwar!", "en": "Animals of the jungle!" },
+      "words": [
+        ["lion", "🦁", "शेर", "sher"], ["tiger", "🐅", "बाघ", "baagh"], ["elephant", "🐘", "हाथी", "haathi"], ["monkey", "🐒", "बंदर", "bandar"],
+        ["bear", "🐻", "भालू", "bhaaloo", ["bare"]], ["snake", "🐍", "साँप", "saanp"], ["camel", "🐫", "ऊँट", "oont"], ["rabbit", "🐇", "खरगोश", "khargosh"]
+      ] },
+    { "id": "L2.U14", "skill": "vocab.animals",
+      "intro": { "hi": "पक्षी और छोटे जीव।", "hl": "Pakshi aur chhote jeev.", "en": "Birds and little creatures." },
+      "words": [
+        ["bird", "🐦", "चिड़िया", "chidiya"], ["parrot", "🦜", "तोता", "tota"], ["peacock", "🦚", "मोर", "mor"], ["butterfly", "🦋", "तितली", "titli"],
+        ["ant", "🐜", "चींटी", "cheenti", ["aunt"]], ["bee", "🐝", "मधुमक्खी", "madhumakkhi", ["b"]], ["frog", "🐸", "मेंढक", "mendhak"], ["mouse", "🐁", "चूहा", "chooha"]
+      ] },
+    { "id": "L2.U15", "skill": "vocab.colours",
+      "intro": { "hi": "रंग-बिरंगी दुनिया! रंगों के इंग्लिश नाम।", "hl": "Rang-birangi duniya! Rangon ke English naam.", "en": "A colourful world! English names for colours." },
+      "words": [
+        ["red", "🔴", "लाल", "laal", ["read"]], ["blue", "🔵", "नीला", "neela", ["blew"]], ["green", "🟢", "हरा", "hara"], ["yellow", "🟡", "पीला", "peela"],
+        ["black", "⚫", "काला", "kaala"], ["white", "⚪", "सफ़ेद", "safed"], ["brown", "🟤", "भूरा", "bhoora"], ["pink", "🌸", "गुलाबी", "gulaabi"]
+      ] },
+    { "id": "L2.U16", "skill": "vocab.numbers",
+      "intro": { "hi": "इंग्लिश में गिनती: one, two, three…", "hl": "English mein ginti: one, two, three…", "en": "Counting in English: one, two, three…" },
+      "words": [
+        ["one", "1️⃣", "एक", "ek", ["1", "won"]], ["two", "2️⃣", "दो", "do", ["2", "to", "too"]], ["three", "3️⃣", "तीन", "teen", ["3"]], ["four", "4️⃣", "चार", "chaar", ["4", "for"]],
+        ["five", "5️⃣", "पाँच", "paanch", ["5"]], ["six", "6️⃣", "छह", "chhah", ["6"]], ["seven", "7️⃣", "सात", "saat", ["7"]], ["eight", "8️⃣", "आठ", "aath", ["8", "ate"]]
+      ] },
+    { "id": "L2.U17", "skill": "vocab.numbers",
+      "intro": { "hi": "और गिनती! nine, ten… और पहला, दूसरा, तीसरा।", "hl": "Aur ginti! nine, ten… aur pehla, doosra, teesra.", "en": "More counting! nine, ten… and first, second, third." },
+      "words": [
+        ["nine", "9️⃣", "नौ", "nau", ["9"]], ["ten", "🔟", "दस", "das", ["10"]], ["zero", "0️⃣", "शून्य", "shoonya", ["0"]], ["hundred", "💯", "सौ", "sau", ["100"]],
+        ["first", "🥇", "पहला", "pehla", ["1st"]], ["second", "🥈", "दूसरा", "doosra", ["2nd"]], ["third", "🥉", "तीसरा", "teesra", ["3rd"]], ["half", "🌓", "आधा", "aadha"]
+      ] },
+    { "id": "L2.U18", "skill": "vocab.clothes",
+      "intro": { "hi": "हम क्या पहनते हैं?", "hl": "Hum kya pehente hain?", "en": "What do we wear?" },
+      "words": [
+        ["shirt", "👕", "कमीज़", "kameez"], ["jeans", "👖", "जींस", "jeans"], ["dress", "👗", "फ़्रॉक", "frock"], ["cap", "🧢", "टोपी", "topi"],
+        ["shoes", "👟", "जूते", "joote"], ["socks", "🧦", "मोज़े", "moze"], ["coat", "🧥", "कोट", "coat"], ["saree", "🥻", "साड़ी", "saadi", ["sari"]]
+      ] },
+    { "id": "L2.U19", "skill": "vocab.actions",
+      "intro": { "hi": "काम वाले शब्द! हम रोज़ क्या-क्या करते हैं?", "hl": "Kaam waale shabd! Hum roz kya-kya karte hain?", "en": "Action words! What do we do every day?" },
+      "words": [
+        ["eat", "😋", "खाना", "khaana"], ["drink", "🥤", "पीना", "peena"], ["sleep", "😴", "सोना", "sona"], ["run", "🏃", "दौड़ना", "daudna"],
+        ["walk", "🚶", "चलना", "chalna"], ["swim", "🏊", "तैरना", "tairna"], ["dance", "💃", "नाचना", "naachna"], ["laugh", "😂", "हँसना", "hansna"]
+      ] },
+    { "id": "L2.U20", "skill": "vocab.actions",
+      "intro": { "hi": "कुछ और काम वाले शब्द!", "hl": "Kuch aur kaam waale shabd!", "en": "More action words!" },
+      "words": [
+        ["read", "📖", "पढ़ना", "padhna"], ["write", "✍️", "लिखना", "likhna", ["right"]], ["sing", "🎤", "गाना", "gaana"], ["cook", "🍳", "खाना बनाना", "khaana banaana"],
+        ["play", "⚽", "खेलना", "khelna"], ["wash", "🧼", "धोना", "dhona"], ["climb", "🧗", "चढ़ना", "chadhna"], ["cry", "😢", "रोना", "rona"]
+      ] },
+    { "id": "L2.U21", "skill": "vocab.actions",
+      "intro": { "hi": "और काम: देखो, सुनो, सोचो!", "hl": "Aur kaam: dekho, suno, socho!", "en": "More actions: look, listen, think!" },
+      "words": [
+        ["open", "🔓", "खोलना", "kholna"], ["close", "🔒", "बंद करना", "band karna", ["clothes"]], ["think", "🤔", "सोचना", "sochna"], ["listen", "👂", "सुनना", "sunna"],
+        ["look", "👀", "देखना", "dekhna"], ["talk", "🗣️", "बात करना", "baat karna"], ["clap", "👏", "ताली बजाना", "taali bajaana"], ["wave", "👋", "हाथ हिलाना", "haath hilaana"]
+      ] },
+    { "id": "L2.U22", "skill": "vocab.places",
+      "intro": { "hi": "हम कहाँ-कहाँ जाते हैं?", "hl": "Hum kahan-kahan jaate hain?", "en": "Where do we go?" },
+      "words": [
+        ["shop", "🏪", "दुकान", "dukaan"], ["garden", "🌳", "बगीचा", "bageecha"], ["bank", "🏦", "बैंक", "bank"], ["market", "🛒", "बाज़ार", "baazaar"],
+        ["village", "🏘️", "गाँव", "gaon"], ["city", "🏙️", "शहर", "shehar"], ["farm", "🚜", "खेत", "khet"], ["airport", "✈️", "हवाई अड्डा", "hawaai adda"]
+      ] },
+    { "id": "L2.U23", "skill": "vocab.nature",
+      "intro": { "hi": "बाहर की दुनिया: आसमान, पेड़ और फूल।", "hl": "Baahar ki duniya: aasmaan, ped aur phool.", "en": "The world outside: sky, trees and flowers." },
+      "words": [
+        ["sun", "☀️", "सूरज", "sooraj", ["son"]], ["moon", "🌙", "चाँद", "chaand"], ["star", "⭐", "तारा", "taara"], ["cloud", "☁️", "बादल", "baadal"],
+        ["rain", "🌧️", "बारिश", "baarish"], ["tree", "🌳", "पेड़", "ped"], ["flower", "🌸", "फूल", "phool", ["flour"]], ["mountain", "⛰️", "पहाड़", "pahaad"]
+      ] },
+    { "id": "L2.U24", "skill": "vocab.feelings",
+      "intro": { "hi": "आज तुम्हें कैसा लग रहा है? मन की बातों के इंग्लिश शब्द!", "hl": "Aaj tumhe kaisa lag raha hai? Mann ki baaton ke English shabd!", "en": "How do you feel today? Words for feelings!" },
+      "words": [
+        ["happy", "😀", "खुश", "khush"], ["sad", "😢", "उदास", "udaas"], ["angry", "😠", "गुस्से में", "gusse mein"], ["scared", "😨", "डरा हुआ", "dara hua"],
+        ["tired", "😫", "थका हुआ", "thaka hua"], ["sick", "🤒", "बीमार", "beemaar"], ["surprised", "😲", "हैरान", "hairaan"], ["sleepy", "😴", "नींद आ रही", "neend aa rahi"]
+      ] },
+    { "id": "L2.U25", "skill": "vocab.time",
+      "intro": { "hi": "सुबह, शाम, आज, कल — समय के शब्द।", "hl": "Subah, shaam, aaj, kal — samay ke shabd.", "en": "Morning, evening, today, tomorrow — words about time." },
+      "words": [
+        ["morning", "🌅", "सुबह", "subah"], ["evening", "🌆", "शाम", "shaam"], ["night", "🌃", "रात", "raat", ["knight"]], ["day", "🌞", "दिन", "din"],
+        ["today", "", "आज", "aaj"], ["tomorrow", "", "आने वाला कल", "aane waala kal"], ["yesterday", "", "बीता हुआ कल", "beeta hua kal"], ["week", "", "हफ़्ता", "hafta"]
+      ] },
+    { "id": "L2.U26", "skill": "vocab.time",
+      "intro": { "hi": "हफ़्ते के सात दिन!", "hl": "Hafte ke saat din!", "en": "The seven days of the week!" },
+      "words": [
+        ["Monday", "", "सोमवार", "somvaar"], ["Tuesday", "", "मंगलवार", "mangalvaar"], ["Wednesday", "", "बुधवार", "budhvaar"], ["Thursday", "", "गुरुवार", "guruvaar"],
+        ["Friday", "", "शुक्रवार", "shukravaar"], ["Saturday", "", "शनिवार", "shanivaar"], ["Sunday", "", "रविवार", "ravivaar"]
+      ] },
+    { "id": "L2.U27", "skill": "vocab.opposites",
+      "intro": { "hi": "उल्टे शब्द! बड़ा-छोटा, गरम-ठंडा।", "hl": "Ulte shabd! Bada-chhota, garam-thanda.", "en": "Opposites! Big and small, hot and cold." },
+      "words": [
+        ["big", "🐘", "बड़ा", "bada"], ["small", "🐜", "छोटा", "chhota"], ["hot", "🔥", "गरम", "garam"], ["cold", "🧊", "ठंडा", "thanda"],
+        ["fast", "🚀", "तेज़", "tez"], ["slow", "🐢", "धीमा", "dheema"], ["up", "⬆️", "ऊपर", "upar"], ["down", "⬇️", "नीचे", "neeche"]
+      ] },
+    { "id": "L2.U28", "skill": "vocab.opposites",
+      "intro": { "hi": "और उल्टे शब्द!", "hl": "Aur ulte shabd!", "en": "More opposites!" },
+      "words": [
+        ["tall", "🦒", "लंबा", "lamba"], ["new", "🆕", "नया", "naya", ["knew"]], ["old", "🏚️", "पुराना", "puraana"], ["wet", "💦", "गीला", "geela"],
+        ["dry", "🏜️", "सूखा", "sookha"], ["heavy", "🏋️", "भारी", "bhaari"], ["loud", "📢", "ज़ोर से", "zor se"], ["quiet", "🤫", "चुप", "chup", ["quite"]]
+      ] }
+  ]
+}

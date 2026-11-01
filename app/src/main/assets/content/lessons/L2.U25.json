@@ -1,0 +1,463 @@
+{
+  "id": "L2.U25",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U25.S01",
+      "text": {
+        "hi": "सुबह, शाम, आज, कल — समय के शब्द।",
+        "hinglish": "Subah, shaam, aaj, kal — samay ke shabd.",
+        "en": "Morning, evening, today, tomorrow — words about time."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U25.S02",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘morning’ मतलब ‘सुबह’।",
+        "hinglish": "‘morning’ matlab ‘subah’.",
+        "en": "Say it with me: morning!"
+      },
+      "word": {
+        "english": "morning",
+        "emoji": "🌅",
+        "hindi": "सुबह",
+        "hinglish": "subah"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U25.S03",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘evening’ मतलब ‘शाम’।",
+        "hinglish": "‘evening’ matlab ‘shaam’.",
+        "en": "Say it with me: evening!"
+      },
+      "word": {
+        "english": "evening",
+        "emoji": "🌆",
+        "hindi": "शाम",
+        "hinglish": "shaam"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U25.S04",
+      "skills": [
+        "listen.word",
+        "vocab.time"
+      ],
+      "answer": "morning",
+      "options": [
+        {
+          "english": "morning",
+          "emoji": "🌅",
+          "hindi": "सुबह",
+          "hinglish": "subah"
+        },
+        {
+          "english": "evening",
+          "emoji": "🌆",
+          "hindi": "शाम",
+          "hinglish": "shaam"
+        },
+        {
+          "english": "day",
+          "emoji": "🌞",
+          "hindi": "दिन",
+          "hinglish": "din"
+        },
+        {
+          "english": "night",
+          "emoji": "🌃",
+          "hindi": "रात",
+          "hinglish": "raat"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U25.S05",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "emoji": "🌆",
+      "answer": "evening",
+      "options": [
+        "evening",
+        "night",
+        "today"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U25.S06",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘night’ मतलब ‘रात’।",
+        "hinglish": "‘night’ matlab ‘raat’.",
+        "en": "Say it with me: night!"
+      },
+      "word": {
+        "english": "night",
+        "emoji": "🌃",
+        "hindi": "रात",
+        "hinglish": "raat"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U25.S07",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘day’ मतलब ‘दिन’।",
+        "hinglish": "‘day’ matlab ‘din’.",
+        "en": "Say it with me: day!"
+      },
+      "word": {
+        "english": "day",
+        "emoji": "🌞",
+        "hindi": "दिन",
+        "hinglish": "din"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U25.S08",
+      "skills": [
+        "listen.word",
+        "vocab.time"
+      ],
+      "answer": "night",
+      "options": [
+        {
+          "english": "night",
+          "emoji": "🌃",
+          "hindi": "रात",
+          "hinglish": "raat"
+        },
+        {
+          "english": "day",
+          "emoji": "🌞",
+          "hindi": "दिन",
+          "hinglish": "din"
+        },
+        {
+          "english": "morning",
+          "emoji": "🌅",
+          "hindi": "सुबह",
+          "hinglish": "subah"
+        },
+        {
+          "english": "evening",
+          "emoji": "🌆",
+          "hindi": "शाम",
+          "hinglish": "shaam"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U25.S09",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "emoji": "🌞",
+      "answer": "day",
+      "options": [
+        "day",
+        "evening",
+        "today"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U25.S10",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘today’ मतलब ‘आज’।",
+        "hinglish": "‘today’ matlab ‘aaj’.",
+        "en": "Say it with me: today!"
+      },
+      "word": {
+        "english": "today",
+        "hindi": "आज",
+        "hinglish": "aaj"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U25.S11",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘tomorrow’ मतलब ‘आने वाला कल’।",
+        "hinglish": "‘tomorrow’ matlab ‘aane waala kal’.",
+        "en": "Say it with me: tomorrow!"
+      },
+      "word": {
+        "english": "tomorrow",
+        "hindi": "आने वाला कल",
+        "hinglish": "aane waala kal"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U25.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "today",
+        "hindi": "आज",
+        "hinglish": "aaj"
+      },
+      "answer": {
+        "hi": "आज",
+        "hinglish": "aaj"
+      },
+      "options": [
+        {
+          "hi": "आज",
+          "hinglish": "aaj"
+        },
+        {
+          "hi": "रात",
+          "hinglish": "raat"
+        },
+        {
+          "hi": "हफ़्ता",
+          "hinglish": "hafta"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U25.S13",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "answer": "tomorrow",
+      "options": [
+        "tomorrow",
+        "night",
+        "week"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U25.S14",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘yesterday’ मतलब ‘बीता हुआ कल’।",
+        "hinglish": "‘yesterday’ matlab ‘beeta hua kal’.",
+        "en": "Say it with me: yesterday!"
+      },
+      "word": {
+        "english": "yesterday",
+        "hindi": "बीता हुआ कल",
+        "hinglish": "beeta hua kal"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U25.S15",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘week’ मतलब ‘हफ़्ता’।",
+        "hinglish": "‘week’ matlab ‘hafta’.",
+        "en": "Say it with me: week!"
+      },
+      "word": {
+        "english": "week",
+        "hindi": "हफ़्ता",
+        "hinglish": "hafta"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U25.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "yesterday",
+        "hindi": "बीता हुआ कल",
+        "hinglish": "beeta hua kal"
+      },
+      "answer": {
+        "hi": "बीता हुआ कल",
+        "hinglish": "beeta hua kal"
+      },
+      "options": [
+        {
+          "hi": "बीता हुआ कल",
+          "hinglish": "beeta hua kal"
+        },
+        {
+          "hi": "हफ़्ता",
+          "hinglish": "hafta"
+        },
+        {
+          "hi": "आने वाला कल",
+          "hinglish": "aane waala kal"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U25.S17",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "answer": "week",
+      "options": [
+        "week",
+        "yesterday",
+        "today"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U25.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "night",
+        "emoji": "🌃",
+        "hindi": "रात",
+        "hinglish": "raat"
+      },
+      "answer": {
+        "hi": "रात",
+        "hinglish": "raat"
+      },
+      "options": [
+        {
+          "hi": "रात",
+          "hinglish": "raat"
+        },
+        {
+          "hi": "आज",
+          "hinglish": "aaj"
+        },
+        {
+          "hi": "हफ़्ता",
+          "hinglish": "hafta"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U25.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "day",
+        "emoji": "🌞",
+        "hindi": "दिन",
+        "hinglish": "din"
+      },
+      "answer": {
+        "hi": "दिन",
+        "hinglish": "din"
+      },
+      "options": [
+        {
+          "hi": "दिन",
+          "hinglish": "din"
+        },
+        {
+          "hi": "आज",
+          "hinglish": "aaj"
+        },
+        {
+          "hi": "आने वाला कल",
+          "hinglish": "aane waala kal"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U25.S20",
+      "skills": [
+        "speak.word",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "day",
+        "emoji": "🌞",
+        "hindi": "दिन",
+        "hinglish": "din"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U25.S21",
+      "skills": [
+        "speak.word",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "night",
+        "emoji": "🌃",
+        "hindi": "रात",
+        "hinglish": "raat"
+      },
+      "accept": [
+        "knight"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U25.S22",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "answer": "night",
+      "options": [
+        "night",
+        "today",
+        "day"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U25.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: morning, evening, night, day, today, tomorrow, yesterday, week।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: morning, evening, night, day, today, tomorrow, yesterday, week.",
+        "en": "Well done! Today's new words: morning, evening, night, day, today, tomorrow, yesterday, week."
+      }
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "id": "L1.U06",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U06.S01",
+      "text": {
+        "hi": "अब h, b, f और l की बारी!",
+        "hinglish": "Ab h, b, f aur l ki baari!",
+        "en": "Now it's time for h, b, f and l!"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U06.S02",
+      "skills": [
+        "phonics.h"
+      ],
+      "letters": "h",
+      "sound": "c05_h",
+      "hint": "ह",
+      "text": {
+        "hi": "यह ‘h’ है। इसकी आवाज़ है ‘ह’, जैसे hat में।",
+        "hinglish": "Yeh ‘h’ hai. Iski awaaz hai ‘h’, jaise hat mein.",
+        "en": "This is ‘h’. Listen to its sound, like at the start of hat."
+      },
+      "example": {
+        "english": "hat",
+        "emoji": "🎩",
+        "hindi": "टोपी",
+        "hinglish": "topi"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U06.S03",
+      "skills": [
+        "phonics.b"
+      ],
+      "letters": "b",
+      "sound": "c01_b",
+      "hint": "ब",
+      "text": {
+        "hi": "यह ‘b’ है। इसकी आवाज़ है ‘ब’, जैसे ball में।",
+        "hinglish": "Yeh ‘b’ hai. Iski awaaz hai ‘b’, jaise ball mein.",
+        "en": "This is ‘b’. Listen to its sound, like at the start of ball."
+      },
+      "example": {
+        "english": "ball",
+        "emoji": "⚽",
+        "hindi": "गेंद",
+        "hinglish": "gend"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U06.S04",
+      "skills": [
+        "listen.word",
+        "phonics.b"
+      ],
+      "answer": "ball",
+      "options": [
+        {
+          "english": "ball",
+          "emoji": "⚽",
+          "hindi": "गेंद",
+          "hinglish": "gend"
+        },
+        {
+          "english": "hat",
+          "emoji": "🎩",
+          "hindi": "टोपी",
+          "hinglish": "topi"
+        }
+      ]
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U06.S05",
+      "skills": [
+        "phonics.f"
+      ],
+      "letters": "f",
+      "sound": "c03_f",
+      "hint": "फ़",
+      "text": {
+        "hi": "यह ‘f’ है। ऊपर के दाँत नीचे वाले होंठ पर रखो और हवा छोड़ो: फ़्फ़्फ़। जैसे fish में।",
+        "hinglish": "Yeh ‘f’ hai. Upar ke daant neeche waale honth par rakho aur hawa chhodo: fff. Jaise fish mein.",
+        "en": "This is ‘f’. Put your top teeth on your bottom lip and blow: fff, like in fish."
+      },
+      "example": {
+        "english": "fish",
+        "emoji": "🐟",
+        "hindi": "मछली",
+        "hinglish": "machhli"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U06.S06",
+      "skills": [
+        "phonics.l"
+      ],
+      "letters": "l",
+      "sound": "c08_l",
+      "hint": "ल",
+      "text": {
+        "hi": "यह ‘l’ है। इसकी आवाज़ है ‘ल’, जैसे lion में।",
+        "hinglish": "Yeh ‘l’ hai. Iski awaaz hai ‘l’, jaise lion mein.",
+        "en": "This is ‘l’. Listen to its sound, like at the start of lion."
+      },
+      "example": {
+        "english": "lion",
+        "emoji": "🦁",
+        "hindi": "शेर",
+        "hinglish": "sher"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U06.S07",
+      "skills": [
+        "listen.word",
+        "phonics.l"
+      ],
+      "answer": "lion",
+      "options": [
+        {
+          "english": "lion",
+          "emoji": "🦁",
+          "hindi": "शेर",
+          "hinglish": "sher"
+        },
+        {
+          "english": "fish",
+          "emoji": "🐟",
+          "hindi": "मछली",
+          "hinglish": "machhli"
+        },
+        {
+          "english": "hat",
+          "emoji": "🎩",
+          "hindi": "टोपी",
+          "hinglish": "topi"
+        },
+        {
+          "english": "ball",
+          "emoji": "⚽",
+          "hindi": "गेंद",
+          "hinglish": "gend"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U06.S08",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "hat",
+        "emoji": "🎩",
+        "hindi": "टोपी",
+        "hinglish": "topi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U06.S09",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "ball",
+        "emoji": "⚽",
+        "hindi": "गेंद",
+        "hinglish": "gend"
+      }
+    },
+    {
+      "type": "blend",
+      "id": "L1.U06.S10",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "hat",
+      "emoji": "🎩",
+      "parts": [
+        {
+          "letters": "h",
+          "sound": "c05_h"
+        },
+        {
+          "letters": "a",
+          "sound": "v01_a_apple"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U06.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "bat",
+      "emoji": "🦇",
+      "parts": [
+        {
+          "letters": "b",
+          "sound": "c01_b"
+        },
+        {
+          "letters": "a",
+          "sound": "v01_a_apple"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U06.S12",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🦇",
+      "answer": "bat",
+      "options": [
+        "bat",
+        "bus",
+        "bed"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U06.S13",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "bed",
+      "emoji": "🛏️",
+      "parts": [
+        {
+          "letters": "b",
+          "sound": "c01_b"
+        },
+        {
+          "letters": "e",
+          "sound": "v02_e_egg"
+        },
+        {
+          "letters": "d",
+          "sound": "c02_d"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U06.S14",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "bus",
+      "emoji": "🚌",
+      "parts": [
+        {
+          "letters": "b",
+          "sound": "c01_b"
+        },
+        {
+          "letters": "u",
+          "sound": "v05_u_cup"
+        },
+        {
+          "letters": "s",
+          "sound": "c13_s"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U06.S15",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🚌",
+      "answer": "bus",
+      "options": [
+        "bus",
+        "leg",
+        "bat"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U06.S16",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "leg",
+      "emoji": "🦵",
+      "parts": [
+        {
+          "letters": "l",
+          "sound": "c08_l"
+        },
+        {
+          "letters": "e",
+          "sound": "v02_e_egg"
+        },
+        {
+          "letters": "g",
+          "sound": "c04_g"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U06.S17",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "hen",
+      "emoji": "🐔",
+      "parts": [
+        {
+          "letters": "h",
+          "sound": "c05_h"
+        },
+        {
+          "letters": "e",
+          "sound": "v02_e_egg"
+        },
+        {
+          "letters": "n",
+          "sound": "c10_n"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U06.S18",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🐔",
+      "answer": "hen",
+      "options": [
+        "hen",
+        "bed",
+        "bus"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U06.S19",
+      "skills": [
+        "listen.minimal_pair",
+        "sound.f"
+      ],
+      "answer": "fan",
+      "options": [
+        "fan",
+        "pan"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U06.S20",
+      "text": {
+        "hi": "वाह! अब तुम्हें 18 आवाज़ें आती हैं!",
+        "hinglish": "Waah! Ab tumhe 18 awaazein aati hain!",
+        "en": "Wow! Now you know 18 sounds!"
+      }
+    }
+  ]
+}

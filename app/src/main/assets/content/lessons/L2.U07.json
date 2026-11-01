@@ -1,0 +1,474 @@
+{
+  "id": "L2.U07",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U07.S01",
+      "text": {
+        "hi": "स्कूल बैग में क्या-क्या है?",
+        "hinglish": "School bag mein kya-kya hai?",
+        "en": "What's in your school bag?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U07.S02",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘book’ मतलब ‘किताब’।",
+        "hinglish": "‘book’ matlab ‘kitaab’.",
+        "en": "Say it with me: book!"
+      },
+      "word": {
+        "english": "book",
+        "emoji": "📖",
+        "hindi": "किताब",
+        "hinglish": "kitaab"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U07.S03",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘pencil’ मतलब ‘पेंसिल’।",
+        "hinglish": "‘pencil’ matlab ‘pencil’.",
+        "en": "Say it with me: pencil!"
+      },
+      "word": {
+        "english": "pencil",
+        "emoji": "✏️",
+        "hindi": "पेंसिल",
+        "hinglish": "pencil"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U07.S04",
+      "skills": [
+        "listen.word",
+        "vocab.school"
+      ],
+      "answer": "book",
+      "options": [
+        {
+          "english": "book",
+          "emoji": "📖",
+          "hindi": "किताब",
+          "hinglish": "kitaab"
+        },
+        {
+          "english": "bell",
+          "emoji": "🔔",
+          "hindi": "घंटी",
+          "hinglish": "ghanti"
+        },
+        {
+          "english": "scissors",
+          "emoji": "✂️",
+          "hindi": "कैंची",
+          "hinglish": "kainchi"
+        },
+        {
+          "english": "crayon",
+          "emoji": "🖍️",
+          "hindi": "क्रेयॉन",
+          "hinglish": "crayon"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U07.S05",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "emoji": "✏️",
+      "answer": "pencil",
+      "options": [
+        "pencil",
+        "bell",
+        "crayon"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U07.S06",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘ruler’ मतलब ‘स्केल’।",
+        "hinglish": "‘ruler’ matlab ‘scale’.",
+        "en": "Say it with me: ruler!"
+      },
+      "word": {
+        "english": "ruler",
+        "emoji": "📏",
+        "hindi": "स्केल",
+        "hinglish": "scale"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U07.S07",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘scissors’ मतलब ‘कैंची’।",
+        "hinglish": "‘scissors’ matlab ‘kainchi’.",
+        "en": "Say it with me: scissors!"
+      },
+      "word": {
+        "english": "scissors",
+        "emoji": "✂️",
+        "hindi": "कैंची",
+        "hinglish": "kainchi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U07.S08",
+      "skills": [
+        "listen.word",
+        "vocab.school"
+      ],
+      "answer": "ruler",
+      "options": [
+        {
+          "english": "ruler",
+          "emoji": "📏",
+          "hindi": "स्केल",
+          "hinglish": "scale"
+        },
+        {
+          "english": "crayon",
+          "emoji": "🖍️",
+          "hindi": "क्रेयॉन",
+          "hinglish": "crayon"
+        },
+        {
+          "english": "computer",
+          "emoji": "💻",
+          "hindi": "कंप्यूटर",
+          "hinglish": "computer"
+        },
+        {
+          "english": "scissors",
+          "emoji": "✂️",
+          "hindi": "कैंची",
+          "hinglish": "kainchi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U07.S09",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "emoji": "✂️",
+      "answer": "scissors",
+      "options": [
+        "scissors",
+        "crayon",
+        "computer"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U07.S10",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘crayon’ मतलब ‘क्रेयॉन’।",
+        "hinglish": "‘crayon’ matlab ‘crayon’.",
+        "en": "Say it with me: crayon!"
+      },
+      "word": {
+        "english": "crayon",
+        "emoji": "🖍️",
+        "hindi": "क्रेयॉन",
+        "hinglish": "crayon"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U07.S11",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘notebook’ मतलब ‘कॉपी’।",
+        "hinglish": "‘notebook’ matlab ‘copy’.",
+        "en": "Say it with me: notebook!"
+      },
+      "word": {
+        "english": "notebook",
+        "emoji": "📓",
+        "hindi": "कॉपी",
+        "hinglish": "copy"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U07.S12",
+      "skills": [
+        "listen.word",
+        "vocab.school"
+      ],
+      "answer": "crayon",
+      "options": [
+        {
+          "english": "crayon",
+          "emoji": "🖍️",
+          "hindi": "क्रेयॉन",
+          "hinglish": "crayon"
+        },
+        {
+          "english": "scissors",
+          "emoji": "✂️",
+          "hindi": "कैंची",
+          "hinglish": "kainchi"
+        },
+        {
+          "english": "book",
+          "emoji": "📖",
+          "hindi": "किताब",
+          "hinglish": "kitaab"
+        },
+        {
+          "english": "bell",
+          "emoji": "🔔",
+          "hindi": "घंटी",
+          "hinglish": "ghanti"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U07.S13",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "emoji": "📓",
+      "answer": "notebook",
+      "options": [
+        "notebook",
+        "crayon",
+        "computer"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U07.S14",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘bell’ मतलब ‘घंटी’।",
+        "hinglish": "‘bell’ matlab ‘ghanti’.",
+        "en": "Say it with me: bell!"
+      },
+      "word": {
+        "english": "bell",
+        "emoji": "🔔",
+        "hindi": "घंटी",
+        "hinglish": "ghanti"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U07.S15",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘computer’ मतलब ‘कंप्यूटर’।",
+        "hinglish": "‘computer’ matlab ‘computer’.",
+        "en": "Say it with me: computer!"
+      },
+      "word": {
+        "english": "computer",
+        "emoji": "💻",
+        "hindi": "कंप्यूटर",
+        "hinglish": "computer"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U07.S16",
+      "skills": [
+        "listen.word",
+        "vocab.school"
+      ],
+      "answer": "bell",
+      "options": [
+        {
+          "english": "bell",
+          "emoji": "🔔",
+          "hindi": "घंटी",
+          "hinglish": "ghanti"
+        },
+        {
+          "english": "computer",
+          "emoji": "💻",
+          "hindi": "कंप्यूटर",
+          "hinglish": "computer"
+        },
+        {
+          "english": "scissors",
+          "emoji": "✂️",
+          "hindi": "कैंची",
+          "hinglish": "kainchi"
+        },
+        {
+          "english": "book",
+          "emoji": "📖",
+          "hindi": "किताब",
+          "hinglish": "kitaab"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U07.S17",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "emoji": "💻",
+      "answer": "computer",
+      "options": [
+        "computer",
+        "bell",
+        "pencil"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U07.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "bell",
+        "emoji": "🔔",
+        "hindi": "घंटी",
+        "hinglish": "ghanti"
+      },
+      "answer": {
+        "hi": "घंटी",
+        "hinglish": "ghanti"
+      },
+      "options": [
+        {
+          "hi": "घंटी",
+          "hinglish": "ghanti"
+        },
+        {
+          "hi": "कॉपी",
+          "hinglish": "copy"
+        },
+        {
+          "hi": "कंप्यूटर",
+          "hinglish": "computer"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U07.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "ruler",
+        "emoji": "📏",
+        "hindi": "स्केल",
+        "hinglish": "scale"
+      },
+      "answer": {
+        "hi": "स्केल",
+        "hinglish": "scale"
+      },
+      "options": [
+        {
+          "hi": "स्केल",
+          "hinglish": "scale"
+        },
+        {
+          "hi": "कॉपी",
+          "hinglish": "copy"
+        },
+        {
+          "hi": "क्रेयॉन",
+          "hinglish": "crayon"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U07.S20",
+      "skills": [
+        "speak.word",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "book",
+        "emoji": "📖",
+        "hindi": "किताब",
+        "hinglish": "kitaab"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U07.S21",
+      "skills": [
+        "speak.word",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "bell",
+        "emoji": "🔔",
+        "hindi": "घंटी",
+        "hinglish": "ghanti"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U07.S22",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "crayon",
+      "options": [
+        "crayon",
+        "computer",
+        "scissors"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U07.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: book, pencil, ruler, scissors, crayon, notebook, bell, computer।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: book, pencil, ruler, scissors, crayon, notebook, bell, computer.",
+        "en": "Well done! Today's new words: book, pencil, ruler, scissors, crayon, notebook, bell, computer."
+      }
+    }
+  ]
+}

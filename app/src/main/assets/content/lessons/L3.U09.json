@@ -1,0 +1,313 @@
+{
+  "id": "L3.U09",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U09.S01",
+      "skills": [
+        "grammar.there_is"
+      ],
+      "text": {
+        "hi": "किसी जगह कुछ होने की बात: एक चीज़ के लिए ‘There is’, एक से ज़्यादा के लिए ‘There are’।",
+        "hinglish": "Kisi jagah kuch hone ki baat: ek cheez ke liye ‘There is’, ek se zyaada ke liye ‘There are’.",
+        "en": "To say something is somewhere: ‘There is’ for one thing, ‘There are’ for more than one."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U09.S02",
+      "skills": [
+        "grammar.there_is"
+      ],
+      "text": {
+        "hi": "मेज़ पर एक किताब है = There is a book on the table. पेड़ पर दो चिड़िया हैं = There are two birds on the tree.",
+        "hinglish": "Mez par ek kitaab hai = There is a book on the table. Ped par do chidiya hain = There are two birds on the tree.",
+        "en": "There is a book on the table. There are two birds on the tree."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U09.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.there_is"
+      ],
+      "hindi": [
+        {
+          "hi": "वहाँ",
+          "hinglish": "Wahan",
+          "role": "s"
+        },
+        {
+          "hi": "एक",
+          "hinglish": "ek",
+          "role": "x"
+        },
+        {
+          "hi": "बिल्ली",
+          "hinglish": "billi",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "There",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "cat",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U09.S04",
+      "skills": [
+        "grammar.there_is"
+      ],
+      "sentence": "There ___ a dog in the park.",
+      "answer": "is",
+      "options": [
+        "is",
+        "are"
+      ],
+      "meaning": {
+        "hi": "पार्क में एक कुत्ता है।",
+        "hinglish": "Park mein ek kutta hai."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U09.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.there_is"
+      ],
+      "hindi": [
+        {
+          "hi": "वहाँ",
+          "hinglish": "Wahan",
+          "role": "s"
+        },
+        {
+          "hi": "तीन",
+          "hinglish": "teen",
+          "role": "o"
+        },
+        {
+          "hi": "किताबें",
+          "hinglish": "kitaabein",
+          "role": "o"
+        },
+        {
+          "hi": "हैं",
+          "hinglish": "hain",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "There",
+          "role": "s"
+        },
+        {
+          "text": "are",
+          "role": "v"
+        },
+        {
+          "text": "three",
+          "role": "o"
+        },
+        {
+          "text": "books",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "is"
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U09.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.there_is"
+      ],
+      "words": [
+        "There",
+        "is",
+        "four",
+        "chairs."
+      ],
+      "wrong": 1,
+      "fix": "are",
+      "meaning": {
+        "hi": "चार कुर्सियाँ हैं।",
+        "hinglish": "Chaar kursiyaan hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U09.S07",
+      "skills": [
+        "grammar.there_is"
+      ],
+      "sentence": "There ___ five apples.",
+      "answer": "are",
+      "options": [
+        "is",
+        "are"
+      ],
+      "meaning": {
+        "hi": "पाँच सेब हैं।",
+        "hinglish": "Paanch seb hain."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U09.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.there_is"
+      ],
+      "sentence": "There is a cat.",
+      "meaning": {
+        "hi": "वहाँ एक बिल्ली है।",
+        "hinglish": "Wahan ek billi hai.",
+        "en": "There is a cat."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U09.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.there_is"
+      ],
+      "hindi": [
+        {
+          "hi": "गिलास",
+          "hinglish": "Gilaas",
+          "role": "o"
+        },
+        {
+          "hi": "में",
+          "hinglish": "mein",
+          "role": "x"
+        },
+        {
+          "hi": "दूध",
+          "hinglish": "doodh",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "There",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "milk",
+          "role": "o"
+        },
+        {
+          "text": "in",
+          "role": "x"
+        },
+        {
+          "text": "the",
+          "role": "x"
+        },
+        {
+          "text": "glass",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U09.S10",
+      "skills": [
+        "grammar.there_is"
+      ],
+      "sentence": "There are two ___ on the tree.",
+      "answer": "birds",
+      "options": [
+        "bird",
+        "birds"
+      ],
+      "meaning": {
+        "hi": "पेड़ पर दो चिड़िया हैं।",
+        "hinglish": "Ped par do chidiya hain."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U09.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.there_is"
+      ],
+      "words": [
+        "There",
+        "are",
+        "a",
+        "fan."
+      ],
+      "wrong": 1,
+      "fix": "is",
+      "meaning": {
+        "hi": "एक पंखा है।",
+        "hinglish": "Ek pankha hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U09.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.there_is"
+      ],
+      "sentence": "There are three books.",
+      "meaning": {
+        "hi": "वहाँ तीन किताबें हैं।",
+        "hinglish": "Wahan teen kitaabein hain.",
+        "en": "There are three books."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U09.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

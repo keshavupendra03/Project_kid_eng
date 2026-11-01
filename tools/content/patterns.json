@@ -1,0 +1,380 @@
+{
+  "_format": "Sentence tokens are word|role (s=who, v=action/is, o=rest, q=question word, x=helper); _ joins two words into one block. Each lesson needs 3 train, 3 blanks, 2 mistakes (w = index of the wrong word), 2 say.",
+  "lessons": [
+    {
+      "id": "L3.U01", "skill": "grammar.this_that",
+      "explain": [
+        { "hi": "पास की चीज़ के लिए ‘This is’, दूर की चीज़ के लिए ‘That is’। यह = this, वह = that.", "hl": "Paas ki cheez ke liye ‘This is’, door ki cheez ke liye ‘That is’. Yeh = this, woh = that.", "en": "Use ‘This is’ for something near you, and ‘That is’ for something far away." },
+        { "hi": "रंगों को देखो! हिंदी में ‘है’ आख़िर में आता है: यह पेन है। इंग्लिश में ‘is’ बीच में: This is a pen.", "hl": "Rangon ko dekho! Hindi mein ‘hai’ aakhir mein aata hai: Yeh pen hai. English mein ‘is’ beech mein: This is a pen.", "en": "Look at the colours! In Hindi, ‘hai’ comes at the end. In English, ‘is’ comes in the middle: This is a pen." }
+      ],
+      "train": [
+        { "en": "This|s is|v a|x pen|o", "hi": "यह|s पेन|o है|v", "hl": "Yeh|s pen|o hai|v" },
+        { "en": "That|s is|v a|x tree|o", "hi": "वह|s पेड़|o है|v", "hl": "Woh|s ped|o hai|v" },
+        { "en": "This|s is|v my|x book|o", "hi": "यह|s मेरी|x किताब|o है|v", "hl": "Yeh|s meri|x kitaab|o hai|v" }
+      ],
+      "blanks": [
+        { "s": "___ is a cat.", "a": "This", "o": ["This", "Am", "Are"], "hi": "यह बिल्ली है।", "hl": "Yeh billi hai." },
+        { "s": "That ___ a bus.", "a": "is", "o": ["is", "am", "are"], "hi": "वह बस है।", "hl": "Woh bus hai." },
+        { "s": "This is ___ dog.", "a": "a", "o": ["a", "is", "am"], "hi": "यह एक कुत्ता है।", "hl": "Yeh ek kutta hai." }
+      ],
+      "mistakes": [
+        { "s": "This are a pen.", "w": 1, "f": "is", "hi": "यह पेन है।", "hl": "Yeh pen hai." },
+        { "s": "That am a ball.", "w": 1, "f": "is", "hi": "वह गेंद है।", "hl": "Woh gend hai." }
+      ],
+      "say": [
+        { "en": "This is a pen.", "hi": "यह पेन है।", "hl": "Yeh pen hai." },
+        { "en": "That is a tree.", "hi": "वह पेड़ है।", "hl": "Woh ped hai." }
+      ]
+    },
+    {
+      "id": "L3.U02", "skill": "grammar.i_am",
+      "explain": [
+        { "hi": "अपने बारे में बोलना हो तो ‘I am’. मैं = I, हूँ = am. जैसे: I am happy = मैं खुश हूँ।", "hl": "Apne baare mein bolna ho to ‘I am’. Main = I, hoon = am. Jaise: I am happy = Main khush hoon.", "en": "To talk about yourself, say ‘I am’. Like: I am happy." },
+        { "hi": "ध्यान दो: ‘I’ के साथ हमेशा ‘am’ आता है, कभी ‘is’ नहीं। I is ❌ I am ✅", "hl": "Dhyaan do: ‘I’ ke saath hamesha ‘am’ aata hai, kabhi ‘is’ nahi. I is ❌ I am ✅", "en": "Remember: ‘I’ always goes with ‘am’, never ‘is’. I is ❌ I am ✅" }
+      ],
+      "train": [
+        { "en": "I|s am|v happy|o", "hi": "मैं|s खुश|o हूँ|v", "hl": "Main|s khush|o hoon|v", "extra": ["is"] },
+        { "en": "I|s am|v a|x student|o", "hi": "मैं|s स्टूडेंट|o हूँ|v", "hl": "Main|s student|o hoon|v" },
+        { "en": "I|s am|v in|x class|o five|o", "hi": "मैं|s पाँचवीं|o क्लास|o में|x हूँ|v", "hl": "Main|s paanchvi|o class|o mein|x hoon|v" }
+      ],
+      "blanks": [
+        { "s": "I ___ happy.", "a": "am", "o": ["am", "is", "are"], "hi": "मैं खुश हूँ।", "hl": "Main khush hoon." },
+        { "s": "I am ___ student.", "a": "a", "o": ["a", "am", "I"], "hi": "मैं स्टूडेंट हूँ।", "hl": "Main student hoon." },
+        { "s": "___ am in class five.", "a": "I", "o": ["I", "He", "They"], "hi": "मैं पाँचवीं क्लास में हूँ।", "hl": "Main paanchvi class mein hoon." }
+      ],
+      "mistakes": [
+        { "s": "I is happy.", "w": 1, "f": "am", "hi": "मैं खुश हूँ।", "hl": "Main khush hoon." },
+        { "s": "I are a student.", "w": 1, "f": "am", "hi": "मैं स्टूडेंट हूँ।", "hl": "Main student hoon." }
+      ],
+      "say": [
+        { "en": "I am happy.", "hi": "मैं खुश हूँ।", "hl": "Main khush hoon." },
+        { "en": "I am a student.", "hi": "मैं स्टूडेंट हूँ।", "hl": "Main student hoon." }
+      ]
+    },
+    {
+      "id": "L3.U03", "skill": "grammar.he_she_it",
+      "explain": [
+        { "hi": "लड़के के लिए ‘He’, लड़की के लिए ‘She’, चीज़ या जानवर के लिए ‘It’. तीनों के साथ ‘is’ आता है।", "hl": "Ladke ke liye ‘He’, ladki ke liye ‘She’, cheez ya jaanwar ke liye ‘It’. Teeno ke saath ‘is’ aata hai.", "en": "Use ‘He’ for a boy, ‘She’ for a girl, and ‘It’ for a thing or animal. All three go with ‘is’." },
+        { "hi": "हिंदी में ‘वह’ सबके लिए है, पर इंग्लिश में तीन शब्द हैं: He, She, It. ‘लंबा’ या ‘लंबी’ से पता चलता है कौन!", "hl": "Hindi mein ‘woh’ sabke liye hai, par English mein teen shabd hain: He, She, It. ‘Lamba’ ya ‘lambi’ se pata chalta hai kaun!", "en": "Hindi uses ‘woh’ for everyone, but English has three words: He, She, It." }
+      ],
+      "train": [
+        { "en": "He|s is|v tall|o", "hi": "वह|s लंबा|o है|v", "hl": "Woh|s lamba|o hai|v", "extra": ["She"] },
+        { "en": "She|s is|v my|x sister|o", "hi": "वह|s मेरी|x बहन|o है|v", "hl": "Woh|s meri|x behen|o hai|v", "extra": ["He"] },
+        { "en": "It|s is|v a|x cat|o", "hi": "यह|s एक|x बिल्ली|o है|v", "hl": "Yeh|s ek|x billi|o hai|v" }
+      ],
+      "blanks": [
+        { "s": "Ravi is my friend. ___ is ten.", "a": "He", "o": ["He", "She", "It"], "hi": "रवि मेरा दोस्त है। वह दस साल का है।", "hl": "Ravi mera dost hai. Woh das saal ka hai." },
+        { "s": "Sita is my sister. ___ is kind.", "a": "She", "o": ["He", "She", "It"], "hi": "सीता मेरी बहन है। वह अच्छी है।", "hl": "Sita meri behen hai. Woh achhi hai." },
+        { "s": "This is my dog. ___ is small.", "a": "It", "o": ["He", "She", "It"], "hi": "यह मेरा कुत्ता है। वह छोटा है।", "hl": "Yeh mera kutta hai. Woh chhota hai." }
+      ],
+      "mistakes": [
+        { "s": "She am my teacher.", "w": 1, "f": "is", "hi": "वह मेरी टीचर है।", "hl": "Woh meri teacher hai." },
+        { "s": "He are tall.", "w": 1, "f": "is", "hi": "वह लंबा है।", "hl": "Woh lamba hai." }
+      ],
+      "say": [
+        { "en": "She is my sister.", "hi": "वह मेरी बहन है।", "hl": "Woh meri behen hai." },
+        { "en": "It is a cat.", "hi": "यह एक बिल्ली है।", "hl": "Yeh ek billi hai." }
+      ]
+    },
+    {
+      "id": "L3.U04", "skill": "grammar.we_you_they",
+      "explain": [
+        { "hi": "एक से ज़्यादा लोग हों, या ‘तुम’ से बात कर रहे हो, तो ‘are’: We are, You are, They are.", "hl": "Ek se zyaada log hon, ya ‘tum’ se baat kar rahe ho, to ‘are’: We are, You are, They are.", "en": "For more than one person, or when talking to ‘you’, use ‘are’: We are, You are, They are." },
+        { "hi": "हम = We, तुम = You, वे = They. याद रखो: I am, He/She/It is, बाकी सब are!", "hl": "Hum = We, tum = You, woh log = They. Yaad rakho: I am, He/She/It is, baaki sab are!", "en": "Remember: I am, He/She/It is, and all the rest use are!" }
+      ],
+      "train": [
+        { "en": "We|s are|v friends|o", "hi": "हम|s दोस्त|o हैं|v", "hl": "Hum|s dost|o hain|v", "extra": ["is"] },
+        { "en": "You|s are|v my|x friend|o", "hi": "तुम|s मेरे|x दोस्त|o हो|v", "hl": "Tum|s mere|x dost|o ho|v" },
+        { "en": "They|s are|v in|x the|x park|o", "hi": "वे|s पार्क|o में|x हैं|v", "hl": "Woh|s park|o mein|x hain|v" }
+      ],
+      "blanks": [
+        { "s": "We ___ happy.", "a": "are", "o": ["am", "is", "are"], "hi": "हम खुश हैं।", "hl": "Hum khush hain." },
+        { "s": "You ___ my best friend.", "a": "are", "o": ["am", "is", "are"], "hi": "तुम मेरे सबसे अच्छे दोस्त हो।", "hl": "Tum mere sabse achhe dost ho." },
+        { "s": "___ are at school.", "a": "They", "o": ["They", "He", "I"], "hi": "वे स्कूल में हैं।", "hl": "Woh school mein hain." }
+      ],
+      "mistakes": [
+        { "s": "We is friends.", "w": 1, "f": "are", "hi": "हम दोस्त हैं।", "hl": "Hum dost hain." },
+        { "s": "They am at home.", "w": 1, "f": "are", "hi": "वे घर पर हैं।", "hl": "Woh ghar par hain." }
+      ],
+      "say": [
+        { "en": "We are friends.", "hi": "हम दोस्त हैं।", "hl": "Hum dost hain." },
+        { "en": "You are my friend.", "hi": "तुम मेरे दोस्त हो।", "hl": "Tum mere dost ho." }
+      ]
+    },
+    {
+      "id": "L3.U05", "skill": "grammar.articles",
+      "explain": [
+        { "hi": "‘a’ मतलब कोई एक: a book = एक किताब। शब्द a, e, i, o, u की आवाज़ से शुरू हो, तो ‘an’: an apple, an egg.", "hl": "‘a’ matlab koi ek: a book = ek kitaab. Shabd a, e, i, o, u ki awaaz se shuru ho, to ‘an’: an apple, an egg.", "en": "‘a’ means any one: a book. If the word starts with an a, e, i, o, u sound, use ‘an’: an apple, an egg." },
+        { "hi": "‘the’ मतलब ‘वो वाला’, जिसकी बात हो रही है: the sun, the book on the table.", "hl": "‘the’ matlab ‘woh waala’, jiski baat ho rahi hai: the sun, the book on the table.", "en": "‘the’ means one particular thing we both know: the sun, the book on the table." }
+      ],
+      "train": [
+        { "en": "This|s is|v an|x apple|o", "hi": "यह|s एक|x सेब|o है|v", "hl": "Yeh|s ek|x seb|o hai|v", "extra": ["a"] },
+        { "en": "It|s is|v an|x egg|o", "hi": "यह|s एक|x अंडा|o है|v", "hl": "Yeh|s ek|x anda|o hai|v", "extra": ["a"] },
+        { "en": "The|x sun|s is|v hot|o", "hi": "सूरज|s गरम|o है|v", "hl": "Sooraj|s garam|o hai|v" }
+      ],
+      "blanks": [
+        { "s": "This is ___ orange.", "a": "an", "o": ["a", "an"], "hi": "यह एक संतरा है।", "hl": "Yeh ek santra hai." },
+        { "s": "I see ___ dog.", "a": "a", "o": ["a", "an"], "hi": "मुझे एक कुत्ता दिख रहा है।", "hl": "Mujhe ek kutta dikh raha hai." },
+        { "s": "___ moon is white.", "a": "The", "o": ["A", "An", "The"], "hi": "चाँद सफ़ेद है।", "hl": "Chaand safed hai." }
+      ],
+      "mistakes": [
+        { "s": "This is a egg.", "w": 2, "f": "an", "hi": "यह एक अंडा है।", "hl": "Yeh ek anda hai." },
+        { "s": "It is an cat.", "w": 2, "f": "a", "hi": "यह एक बिल्ली है।", "hl": "Yeh ek billi hai." }
+      ],
+      "say": [
+        { "en": "This is an apple.", "hi": "यह एक सेब है।", "hl": "Yeh ek seb hai." },
+        { "en": "The sun is hot.", "hi": "सूरज गरम है।", "hl": "Sooraj garam hai." }
+      ]
+    },
+    {
+      "id": "L3.U06", "skill": "grammar.have_has",
+      "explain": [
+        { "hi": "‘मेरे पास है’ = I have. ‘उसके पास है’ = He has / She has.", "hl": "‘Mere paas hai’ = I have. ‘Uske paas hai’ = He has / She has.", "en": "Use ‘I have’ for things you own, and ‘He has’ or ‘She has’ for someone else." },
+        { "hi": "हिंदी में ‘है’ आख़िर में आता है। इंग्लिश में: I have a cat — ‘have’ बीच में!", "hl": "Hindi mein ‘hai’ aakhir mein aata hai. English mein: I have a cat — ‘have’ beech mein!", "en": "In Hindi, ‘hai’ comes last. In English: I have a cat — ‘have’ goes in the middle!" }
+      ],
+      "train": [
+        { "en": "I|s have|v a|x cat|o", "hi": "मेरे_पास|s एक|x बिल्ली|o है|v", "hl": "Mere_paas|s ek|x billi|o hai|v", "extra": ["has"] },
+        { "en": "She|s has|v a|x red|o bag|o", "hi": "उसके_पास|s एक|x लाल|o बैग|o है|v", "hl": "Uske_paas|s ek|x laal|o bag|o hai|v", "extra": ["have"] },
+        { "en": "We|s have|v two|o books|o", "hi": "हमारे_पास|s दो|o किताबें|o हैं|v", "hl": "Hamare_paas|s do|o kitaabein|o hain|v" }
+      ],
+      "blanks": [
+        { "s": "I ___ a pen.", "a": "have", "o": ["have", "has"], "hi": "मेरे पास एक पेन है।", "hl": "Mere paas ek pen hai." },
+        { "s": "He ___ a ball.", "a": "has", "o": ["have", "has"], "hi": "उसके पास एक गेंद है।", "hl": "Uske paas ek gend hai." },
+        { "s": "They ___ a big house.", "a": "have", "o": ["have", "has"], "hi": "उनके पास एक बड़ा घर है।", "hl": "Unke paas ek bada ghar hai." }
+      ],
+      "mistakes": [
+        { "s": "She have a doll.", "w": 1, "f": "has", "hi": "उसके पास एक गुड़िया है।", "hl": "Uske paas ek gudiya hai." },
+        { "s": "I has two pencils.", "w": 1, "f": "have", "hi": "मेरे पास दो पेंसिल हैं।", "hl": "Mere paas do pencil hain." }
+      ],
+      "say": [
+        { "en": "I have a cat.", "hi": "मेरे पास एक बिल्ली है।", "hl": "Mere paas ek billi hai." },
+        { "en": "She has a red bag.", "hi": "उसके पास एक लाल बैग है।", "hl": "Uske paas ek laal bag hai." }
+      ]
+    },
+    {
+      "id": "L3.U07", "skill": "grammar.like",
+      "explain": [
+        { "hi": "‘मुझे पसंद है’ = I like. जैसे: I like mangoes = मुझे आम पसंद हैं।", "hl": "‘Mujhe pasand hai’ = I like. Jaise: I like mangoes = Mujhe aam pasand hain.", "en": "Say ‘I like’ for things you enjoy: I like mangoes." },
+        { "hi": "हिंदी: मुझे + चीज़ + पसंद है। इंग्लिश: I + like + चीज़। ‘like’ बीच में आता है!", "hl": "Hindi: mujhe + cheez + pasand hai. English: I + like + cheez. ‘like’ beech mein aata hai!", "en": "Hindi says the thing first, then ‘pasand hai’. English says: I + like + the thing." }
+      ],
+      "train": [
+        { "en": "I|s like|v mangoes|o", "hi": "मुझे|s आम|o पसंद_हैं|v", "hl": "Mujhe|s aam|o pasand_hain|v" },
+        { "en": "I|s like|v cricket|o", "hi": "मुझे|s क्रिकेट|o पसंद_है|v", "hl": "Mujhe|s cricket|o pasand_hai|v" },
+        { "en": "She|s likes|v music|o", "hi": "उसे|s गाना|o पसंद_है|v", "hl": "Use|s gaana|o pasand_hai|v", "extra": ["like"] }
+      ],
+      "blanks": [
+        { "s": "I ___ ice cream.", "a": "like", "o": ["like", "likes", "am"], "hi": "मुझे आइसक्रीम पसंद है।", "hl": "Mujhe ice cream pasand hai." },
+        { "s": "He ___ dogs.", "a": "likes", "o": ["like", "likes", "is"], "hi": "उसे कुत्ते पसंद हैं।", "hl": "Use kutte pasand hain." },
+        { "s": "I like ___.", "a": "apples", "o": ["apples", "happy", "is"], "hi": "मुझे सेब पसंद हैं।", "hl": "Mujhe seb pasand hain." }
+      ],
+      "mistakes": [
+        { "s": "I likes cricket.", "w": 1, "f": "like", "hi": "मुझे क्रिकेट पसंद है।", "hl": "Mujhe cricket pasand hai." },
+        { "s": "She like music.", "w": 1, "f": "likes", "hi": "उसे गाना पसंद है।", "hl": "Use gaana pasand hai." }
+      ],
+      "say": [
+        { "en": "I like mangoes.", "hi": "मुझे आम पसंद हैं।", "hl": "Mujhe aam pasand hain." },
+        { "en": "I like cricket.", "hi": "मुझे क्रिकेट पसंद है।", "hl": "Mujhe cricket pasand hai." }
+      ]
+    },
+    {
+      "id": "L3.U08", "skill": "grammar.can",
+      "explain": [
+        { "hi": "‘कर सकता हूँ / कर सकती हूँ’ = can. I can swim = मैं तैर सकता हूँ / सकती हूँ।", "hl": "‘Kar sakta hoon / kar sakti hoon’ = can. I can swim = Main tair sakta hoon / sakti hoon.", "en": "Use ‘can’ for things you are able to do: I can swim." },
+        { "hi": "अच्छी बात: ‘can’ कभी नहीं बदलता — I can, he can, she can. और ‘can’ के बाद काम वाला शब्द सीधा आता है: can run.", "hl": "Achhi baat: ‘can’ kabhi nahi badalta — I can, he can, she can. Aur ‘can’ ke baad kaam waala shabd seedha aata hai: can run.", "en": "Good news: ‘can’ never changes — I can, he can, she can. And the action word comes straight after it: can run." }
+      ],
+      "train": [
+        { "en": "I|s can|v swim|v", "hi": "मैं|s तैर|v सकती_हूँ|v", "hl": "Main|s tair|v sakti_hoon|v" },
+        { "en": "He|s can|v run|v fast|o", "hi": "वह|s तेज़|o दौड़|v सकता_है|v", "hl": "Woh|s tez|o daud|v sakta_hai|v", "extra": ["runs"] },
+        { "en": "Birds|s can|v fly|v", "hi": "पक्षी|s उड़|v सकते_हैं|v", "hl": "Pakshi|s ud|v sakte_hain|v" }
+      ],
+      "blanks": [
+        { "s": "I ___ read English.", "a": "can", "o": ["can", "is", "am"], "hi": "मैं इंग्लिश पढ़ सकता हूँ।", "hl": "Main English padh sakta hoon." },
+        { "s": "She can ___.", "a": "dance", "o": ["dance", "dances", "dancing"], "hi": "वह नाच सकती है।", "hl": "Woh naach sakti hai." },
+        { "s": "A fish can ___.", "a": "swim", "o": ["swim", "fly", "walk"], "hi": "मछली तैर सकती है।", "hl": "Machhli tair sakti hai." }
+      ],
+      "mistakes": [
+        { "s": "He can runs.", "w": 2, "f": "run", "hi": "वह दौड़ सकता है।", "hl": "Woh daud sakta hai." },
+        { "s": "I can sings.", "w": 2, "f": "sing", "hi": "मैं गा सकती हूँ।", "hl": "Main gaa sakti hoon." }
+      ],
+      "say": [
+        { "en": "I can swim.", "hi": "मैं तैर सकती हूँ।", "hl": "Main tair sakti hoon." },
+        { "en": "I can read English.", "hi": "मैं इंग्लिश पढ़ सकता हूँ।", "hl": "Main English padh sakta hoon." }
+      ]
+    },
+    {
+      "id": "L3.U09", "skill": "grammar.there_is",
+      "explain": [
+        { "hi": "किसी जगह कुछ होने की बात: एक चीज़ के लिए ‘There is’, एक से ज़्यादा के लिए ‘There are’।", "hl": "Kisi jagah kuch hone ki baat: ek cheez ke liye ‘There is’, ek se zyaada ke liye ‘There are’.", "en": "To say something is somewhere: ‘There is’ for one thing, ‘There are’ for more than one." },
+        { "hi": "मेज़ पर एक किताब है = There is a book on the table. पेड़ पर दो चिड़िया हैं = There are two birds on the tree.", "hl": "Mez par ek kitaab hai = There is a book on the table. Ped par do chidiya hain = There are two birds on the tree.", "en": "There is a book on the table. There are two birds on the tree." }
+      ],
+      "train": [
+        { "en": "There|s is|v a|x cat|o", "hi": "वहाँ|s एक|x बिल्ली|o है|v", "hl": "Wahan|s ek|x billi|o hai|v" },
+        { "en": "There|s are|v three|o books|o", "hi": "वहाँ|s तीन|o किताबें|o हैं|v", "hl": "Wahan|s teen|o kitaabein|o hain|v", "extra": ["is"] },
+        { "en": "There|s is|v milk|o in|x the|x glass|o", "hi": "गिलास|o में|x दूध|o है|v", "hl": "Gilaas|o mein|x doodh|o hai|v" }
+      ],
+      "blanks": [
+        { "s": "There ___ a dog in the park.", "a": "is", "o": ["is", "are"], "hi": "पार्क में एक कुत्ता है।", "hl": "Park mein ek kutta hai." },
+        { "s": "There ___ five apples.", "a": "are", "o": ["is", "are"], "hi": "पाँच सेब हैं।", "hl": "Paanch seb hain." },
+        { "s": "There are two ___ on the tree.", "a": "birds", "o": ["bird", "birds"], "hi": "पेड़ पर दो चिड़िया हैं।", "hl": "Ped par do chidiya hain." }
+      ],
+      "mistakes": [
+        { "s": "There is four chairs.", "w": 1, "f": "are", "hi": "चार कुर्सियाँ हैं।", "hl": "Chaar kursiyaan hain." },
+        { "s": "There are a fan.", "w": 1, "f": "is", "hi": "एक पंखा है।", "hl": "Ek pankha hai." }
+      ],
+      "say": [
+        { "en": "There is a cat.", "hi": "वहाँ एक बिल्ली है।", "hl": "Wahan ek billi hai." },
+        { "en": "There are three books.", "hi": "वहाँ तीन किताबें हैं।", "hl": "Wahan teen kitaabein hain." }
+      ]
+    },
+    {
+      "id": "L3.U10", "skill": "grammar.where_prepositions",
+      "explain": [
+        { "hi": "कुछ ढूँढ रहे हो? पूछो: Where is …? = … कहाँ है?", "hl": "Kuch dhoondh rahe ho? Poochho: Where is …? = … kahan hai?", "en": "Looking for something? Ask: Where is …?" },
+        { "hi": "हिंदी में ‘में, पर, नीचे’ बाद में आते हैं: बैग में। इंग्लिश में पहले: in the bag, on the table, under the bed.", "hl": "Hindi mein ‘mein, par, neeche’ baad mein aate hain: bag mein. English mein pehle: in the bag, on the table, under the bed.", "en": "In Hindi, ‘mein, par, neeche’ come after the word. In English, they come before: in the bag, on the table, under the bed." }
+      ],
+      "train": [
+        { "en": "Where|q is|v my|x pen|s", "hi": "मेरा|x पेन|s कहाँ|q है|v", "hl": "Mera|x pen|s kahan|q hai|v" },
+        { "en": "The|x pen|s is|v in|o the|x bag|o", "hi": "पेन|s बैग|o में|o है|v", "hl": "Pen|s bag|o mein|o hai|v" },
+        { "en": "The|x cat|s is|v under|o the|x bed|o", "hi": "बिल्ली|s बिस्तर_के|o नीचे|o है|v", "hl": "Billi|s bistar_ke|o neeche|o hai|v" }
+      ],
+      "blanks": [
+        { "s": "The book is ___ the table.", "a": "on", "o": ["in", "on", "under"], "hi": "किताब मेज़ पर है।", "hl": "Kitaab mez par hai." },
+        { "s": "The ball is ___ the box.", "a": "in", "o": ["in", "on", "under"], "hi": "गेंद डिब्बे में है।", "hl": "Gend dibbe mein hai." },
+        { "s": "___ is my bag?", "a": "Where", "o": ["Where", "What", "Who"], "hi": "मेरा बैग कहाँ है?", "hl": "Mera bag kahan hai?" }
+      ],
+      "mistakes": [
+        { "s": "Where are my pen?", "w": 1, "f": "is", "hi": "मेरा पेन कहाँ है?", "hl": "Mera pen kahan hai?" },
+        { "s": "The shoes is under the bed.", "w": 2, "f": "are", "hi": "जूते बिस्तर के नीचे हैं।", "hl": "Joote bistar ke neeche hain." }
+      ],
+      "say": [
+        { "en": "Where is my pen?", "hi": "मेरा पेन कहाँ है?", "hl": "Mera pen kahan hai?" },
+        { "en": "The pen is in the bag.", "hi": "पेन बैग में है।", "hl": "Pen bag mein hai." }
+      ]
+    },
+    {
+      "id": "L3.U11", "skill": "grammar.want",
+      "explain": [
+        { "hi": "‘मुझे चाहिए’ = I want. I want water = मुझे पानी चाहिए।", "hl": "‘Mujhe chahiye’ = I want. I want water = Mujhe paani chahiye.", "en": "Say ‘I want’ when you need or wish for something: I want water." },
+        { "hi": "प्यार से माँगो! आख़िर में ‘please’ लगाओ: I want water, please.", "hl": "Pyaar se maango! Aakhir mein ‘please’ lagao: I want water, please.", "en": "Ask nicely! Add ‘please’: I want water, please." }
+      ],
+      "train": [
+        { "en": "I|s want|v water|o", "hi": "मुझे|s पानी|o चाहिए|v", "hl": "Mujhe|s paani|o chahiye|v" },
+        { "en": "I|s want|v a|x new|o pencil|o", "hi": "मुझे|s एक|x नई|o पेंसिल|o चाहिए|v", "hl": "Mujhe|s ek|x nayi|o pencil|o chahiye|v" },
+        { "en": "She|s wants|v a|x book|o", "hi": "उसे|s एक|x किताब|o चाहिए|v", "hl": "Use|s ek|x kitaab|o chahiye|v", "extra": ["want"] }
+      ],
+      "blanks": [
+        { "s": "I ___ some milk.", "a": "want", "o": ["want", "wants"], "hi": "मुझे थोड़ा दूध चाहिए।", "hl": "Mujhe thoda doodh chahiye." },
+        { "s": "He ___ a ball.", "a": "wants", "o": ["want", "wants"], "hi": "उसे एक गेंद चाहिए।", "hl": "Use ek gend chahiye." },
+        { "s": "I want water, ___.", "a": "please", "o": ["please", "sorry", "hello"], "hi": "मुझे पानी चाहिए, प्लीज़।", "hl": "Mujhe paani chahiye, please." }
+      ],
+      "mistakes": [
+        { "s": "I wants a toffee.", "w": 1, "f": "want", "hi": "मुझे एक टॉफ़ी चाहिए।", "hl": "Mujhe ek toffee chahiye." },
+        { "s": "She want a pen.", "w": 1, "f": "wants", "hi": "उसे एक पेन चाहिए।", "hl": "Use ek pen chahiye." }
+      ],
+      "say": [
+        { "en": "I want water, please.", "hi": "मुझे पानी चाहिए, प्लीज़।", "hl": "Mujhe paani chahiye, please." },
+        { "en": "I want a new pencil.", "hi": "मुझे एक नई पेंसिल चाहिए।", "hl": "Mujhe ek nayi pencil chahiye." }
+      ]
+    },
+    {
+      "id": "L3.U12", "skill": "grammar.not",
+      "explain": [
+        { "hi": "‘नहीं’ = not. ‘not’ हमेशा am, is, are के बाद आता है: I am not sad.", "hl": "‘Nahi’ = not. ‘not’ hamesha am, is, are ke baad aata hai: I am not sad.", "en": "‘not’ makes a sentence negative. It comes after am, is, are: I am not sad." },
+        { "hi": "हिंदी: मैं उदास नहीं हूँ। इंग्लिश: I am not sad. ‘not’ बीच में!", "hl": "Hindi: Main udaas nahi hoon. English: I am not sad. ‘not’ beech mein!", "en": "Compare: Main udaas nahi hoon = I am not sad. ‘not’ goes in the middle!" }
+      ],
+      "train": [
+        { "en": "I|s am|v not|v sad|o", "hi": "मैं|s उदास|o नहीं|v हूँ|v", "hl": "Main|s udaas|o nahi|v hoon|v" },
+        { "en": "It|s is|v not|v cold|o", "hi": "यह|s ठंडा|o नहीं|v है|v", "hl": "Yeh|s thanda|o nahi|v hai|v" },
+        { "en": "They|s are|v not|v here|o", "hi": "वे|s यहाँ|o नहीं|v हैं|v", "hl": "Woh|s yahan|o nahi|v hain|v" }
+      ],
+      "blanks": [
+        { "s": "I am ___ tired.", "a": "not", "o": ["not", "no", "is"], "hi": "मैं थका हुआ नहीं हूँ।", "hl": "Main thaka hua nahi hoon." },
+        { "s": "She is ___ at home.", "a": "not", "o": ["not", "no", "am"], "hi": "वह घर पर नहीं है।", "hl": "Woh ghar par nahi hai." },
+        { "s": "The tea ___ not hot.", "a": "is", "o": ["is", "are", "am"], "hi": "चाय गरम नहीं है।", "hl": "Chai garam nahi hai." }
+      ],
+      "mistakes": [
+        { "s": "I am no sad.", "w": 2, "f": "not", "hi": "मैं उदास नहीं हूँ।", "hl": "Main udaas nahi hoon." },
+        { "s": "He are not here.", "w": 1, "f": "is", "hi": "वह यहाँ नहीं है।", "hl": "Woh yahan nahi hai." }
+      ],
+      "say": [
+        { "en": "I am not sad.", "hi": "मैं उदास नहीं हूँ।", "hl": "Main udaas nahi hoon." },
+        { "en": "It is not cold.", "hi": "यह ठंडा नहीं है।", "hl": "Yeh thanda nahi hai." }
+      ]
+    },
+    {
+      "id": "L3.U13", "skill": "grammar.yes_no_questions",
+      "explain": [
+        { "hi": "सवाल पूछना आसान है! ‘is’ या ‘are’ को आगे ले आओ: It is a cat → Is it a cat?", "hl": "Sawaal poochna aasaan hai! ‘is’ ya ‘are’ ko aage le aao: It is a cat → Is it a cat?", "en": "Asking a question is easy! Move ‘is’ or ‘are’ to the front: It is a cat → Is it a cat?" },
+        { "hi": "हिंदी में ‘क्या’ लगाते हैं, इंग्लिश में ‘is/are’ आगे आता है। जवाब छोटा दो: Yes, it is. / No, it is not.", "hl": "Hindi mein ‘kya’ lagaate hain, English mein ‘is/are’ aage aata hai. Jawab chhota do: Yes, it is. / No, it is not.", "en": "Hindi adds ‘kya’; English moves ‘is/are’ to the front. Give a short answer: Yes, it is. / No, it is not." }
+      ],
+      "train": [
+        { "en": "Is|v it|s a|x cat|o", "hi": "क्या|q यह|s बिल्ली|o है|v", "hl": "Kya|q yeh|s billi|o hai|v" },
+        { "en": "Are|v you|s happy|o", "hi": "क्या|q तुम|s खुश|o हो|v", "hl": "Kya|q tum|s khush|o ho|v" },
+        { "en": "Is|v he|s your|x brother|o", "hi": "क्या|q वह|s तुम्हारा|x भाई|o है|v", "hl": "Kya|q woh|s tumhara|x bhai|o hai|v" }
+      ],
+      "blanks": [
+        { "s": "___ it a dog?", "a": "Is", "o": ["Is", "Are", "Am"], "hi": "क्या यह कुत्ता है?", "hl": "Kya yeh kutta hai?" },
+        { "s": "___ you ready?", "a": "Are", "o": ["Is", "Are", "Am"], "hi": "क्या तुम तैयार हो?", "hl": "Kya tum taiyaar ho?" },
+        { "s": "Is it hot? Yes, it ___.", "a": "is", "o": ["is", "are", "not"], "hi": "क्या यह गरम है? हाँ, है।", "hl": "Kya yeh garam hai? Haan, hai." }
+      ],
+      "mistakes": [
+        { "s": "Are he your friend?", "w": 0, "f": "Is", "hi": "क्या वह तुम्हारा दोस्त है?", "hl": "Kya woh tumhara dost hai?" },
+        { "s": "Is they at school?", "w": 0, "f": "Are", "hi": "क्या वे स्कूल में हैं?", "hl": "Kya woh school mein hain?" }
+      ],
+      "say": [
+        { "en": "Are you happy?", "hi": "क्या तुम खुश हो?", "hl": "Kya tum khush ho?" },
+        { "en": "Is it a cat?", "hi": "क्या यह बिल्ली है?", "hl": "Kya yeh billi hai?" }
+      ]
+    },
+    {
+      "id": "L3.U14", "skill": "grammar.wh_questions",
+      "explain": [
+        { "hi": "क्या = What, कौन = Who, कहाँ = Where. ये सवाल वाले शब्द सबसे आगे आते हैं!", "hl": "Kya = What, kaun = Who, kahan = Where. Yeh sawaal waale shabd sabse aage aate hain!", "en": "What, Who and Where are question words. They come first in the question!" },
+        { "hi": "हिंदी: तुम्हारा नाम क्या है? इंग्लिश: What is your name? ‘What’ सबसे पहले!", "hl": "Hindi: Tumhara naam kya hai? English: What is your name? ‘What’ sabse pehle!", "en": "Compare: Tumhara naam kya hai? = What is your name? ‘What’ comes first!" }
+      ],
+      "train": [
+        { "en": "What|q is|v your|x name|s", "hi": "तुम्हारा|x नाम|s क्या|q है|v", "hl": "Tumhara|x naam|s kya|q hai|v" },
+        { "en": "Who|q is|v your|x teacher|s", "hi": "तुम्हारी|x टीचर|s कौन|q हैं|v", "hl": "Tumhari|x teacher|s kaun|q hain|v" },
+        { "en": "Where|q do|v you|s live|v", "hi": "तुम|s कहाँ|q रहते_हो|v", "hl": "Tum|s kahan|q rehte_ho|v" }
+      ],
+      "blanks": [
+        { "s": "___ is your name?", "a": "What", "o": ["What", "Who", "Where"], "hi": "तुम्हारा नाम क्या है?", "hl": "Tumhara naam kya hai?" },
+        { "s": "___ is your best friend?", "a": "Who", "o": ["What", "Who", "Where"], "hi": "तुम्हारा सबसे अच्छा दोस्त कौन है?", "hl": "Tumhara sabse achha dost kaun hai?" },
+        { "s": "___ is the school?", "a": "Where", "o": ["What", "Who", "Where"], "hi": "स्कूल कहाँ है?", "hl": "School kahan hai?" }
+      ],
+      "mistakes": [
+        { "s": "What are your name?", "w": 1, "f": "is", "hi": "तुम्हारा नाम क्या है?", "hl": "Tumhara naam kya hai?" },
+        { "s": "Who is your name?", "w": 0, "f": "What", "hi": "तुम्हारा नाम क्या है?", "hl": "Tumhara naam kya hai?" }
+      ],
+      "say": [
+        { "en": "What is your name?", "hi": "तुम्हारा नाम क्या है?", "hl": "Tumhara naam kya hai?" },
+        { "en": "Where do you live?", "hi": "तुम कहाँ रहते हो?", "hl": "Tum kahan rehte ho?" }
+      ]
+    },
+    {
+      "id": "L3.U15", "skill": "grammar.simple_present",
+      "explain": [
+        { "hi": "रोज़ की बातें: I play every day = मैं रोज़ खेलता हूँ / खेलती हूँ।", "hl": "Roz ki baatein: I play every day = Main roz khelta hoon / khelti hoon.", "en": "For things you do every day: I play every day." },
+        { "hi": "He, She, It के साथ काम वाले शब्द के आख़िर में ‘s’ लगता है: He plays, She reads. I, We, You, They के साथ नहीं!", "hl": "He, She, It ke saath kaam waale shabd ke aakhir mein ‘s’ lagta hai: He plays, She reads. I, We, You, They ke saath nahi!", "en": "With He, She and It, add ‘s’ to the action word: He plays, She reads. Not with I, We, You, They!" }
+      ],
+      "train": [
+        { "en": "I|s go|v to|x school|o every_day|o", "hi": "मैं|s रोज़|o स्कूल|o जाता_हूँ|v", "hl": "Main|s roz|o school|o jaata_hoon|v", "extra": ["goes"] },
+        { "en": "She|s reads|v a|x book|o", "hi": "वह|s किताब|o पढ़ती_है|v", "hl": "Woh|s kitaab|o padhti_hai|v", "extra": ["read"] },
+        { "en": "We|s play|v cricket|o", "hi": "हम|s क्रिकेट|o खेलते_हैं|v", "hl": "Hum|s cricket|o khelte_hain|v", "extra": ["plays"] }
+      ],
+      "blanks": [
+        { "s": "He ___ milk every day.", "a": "drinks", "o": ["drink", "drinks"], "hi": "वह रोज़ दूध पीता है।", "hl": "Woh roz doodh peeta hai." },
+        { "s": "I ___ my teeth every morning.", "a": "brush", "o": ["brush", "brushes"], "hi": "मैं रोज़ सुबह दाँत साफ़ करती हूँ।", "hl": "Main roz subah daant saaf karti hoon." },
+        { "s": "My mother ___ food.", "a": "cooks", "o": ["cook", "cooks"], "hi": "मेरी माँ खाना बनाती हैं।", "hl": "Meri maa khaana banaati hain." }
+      ],
+      "mistakes": [
+        { "s": "She play with her doll.", "w": 1, "f": "plays", "hi": "वह अपनी गुड़िया से खेलती है।", "hl": "Woh apni gudiya se khelti hai." },
+        { "s": "I goes to school.", "w": 1, "f": "go", "hi": "मैं स्कूल जाता हूँ।", "hl": "Main school jaata hoon." }
+      ],
+      "say": [
+        { "en": "I go to school every day.", "hi": "मैं रोज़ स्कूल जाता हूँ।", "hl": "Main roz school jaata hoon." },
+        { "en": "She reads a book.", "hi": "वह किताब पढ़ती है।", "hl": "Woh kitaab padhti hai." }
+      ]
+    }
+  ]
+}

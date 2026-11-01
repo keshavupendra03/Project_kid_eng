@@ -1,0 +1,474 @@
+{
+  "id": "L2.U06",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U06.S01",
+      "text": {
+        "hi": "रसोई और बाथरूम की चीज़ें।",
+        "hinglish": "Rasoi aur bathroom ki cheezein.",
+        "en": "Things in the kitchen and bathroom."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U06.S02",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘cup’ मतलब ‘कप’।",
+        "hinglish": "‘cup’ matlab ‘cup’.",
+        "en": "Say it with me: cup!"
+      },
+      "word": {
+        "english": "cup",
+        "emoji": "☕",
+        "hindi": "कप",
+        "hinglish": "cup"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U06.S03",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘plate’ मतलब ‘थाली’।",
+        "hinglish": "‘plate’ matlab ‘thaali’.",
+        "en": "Say it with me: plate!"
+      },
+      "word": {
+        "english": "plate",
+        "emoji": "🍽️",
+        "hindi": "थाली",
+        "hinglish": "thaali"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U06.S04",
+      "skills": [
+        "listen.word",
+        "vocab.home"
+      ],
+      "answer": "cup",
+      "options": [
+        {
+          "english": "cup",
+          "emoji": "☕",
+          "hindi": "कप",
+          "hinglish": "cup"
+        },
+        {
+          "english": "plate",
+          "emoji": "🍽️",
+          "hindi": "थाली",
+          "hinglish": "thaali"
+        },
+        {
+          "english": "spoon",
+          "emoji": "🥄",
+          "hindi": "चम्मच",
+          "hinglish": "chammach"
+        },
+        {
+          "english": "soap",
+          "emoji": "🧼",
+          "hindi": "साबुन",
+          "hinglish": "saabun"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U06.S05",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "🍽️",
+      "answer": "plate",
+      "options": [
+        "plate",
+        "broom",
+        "spoon"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U06.S06",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘spoon’ मतलब ‘चम्मच’।",
+        "hinglish": "‘spoon’ matlab ‘chammach’.",
+        "en": "Say it with me: spoon!"
+      },
+      "word": {
+        "english": "spoon",
+        "emoji": "🥄",
+        "hindi": "चम्मच",
+        "hinglish": "chammach"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U06.S07",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘glass’ मतलब ‘गिलास’।",
+        "hinglish": "‘glass’ matlab ‘gilaas’.",
+        "en": "Say it with me: glass!"
+      },
+      "word": {
+        "english": "glass",
+        "emoji": "🥛",
+        "hindi": "गिलास",
+        "hinglish": "gilaas"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U06.S08",
+      "skills": [
+        "listen.word",
+        "vocab.home"
+      ],
+      "answer": "spoon",
+      "options": [
+        {
+          "english": "spoon",
+          "emoji": "🥄",
+          "hindi": "चम्मच",
+          "hinglish": "chammach"
+        },
+        {
+          "english": "broom",
+          "emoji": "🧹",
+          "hindi": "झाड़ू",
+          "hinglish": "jhaadu"
+        },
+        {
+          "english": "glass",
+          "emoji": "🥛",
+          "hindi": "गिलास",
+          "hinglish": "gilaas"
+        },
+        {
+          "english": "bucket",
+          "emoji": "🪣",
+          "hindi": "बाल्टी",
+          "hinglish": "baalti"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U06.S09",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "🥛",
+      "answer": "glass",
+      "options": [
+        "glass",
+        "mirror",
+        "bucket"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U06.S10",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘bucket’ मतलब ‘बाल्टी’।",
+        "hinglish": "‘bucket’ matlab ‘baalti’.",
+        "en": "Say it with me: bucket!"
+      },
+      "word": {
+        "english": "bucket",
+        "emoji": "🪣",
+        "hindi": "बाल्टी",
+        "hinglish": "baalti"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U06.S11",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘soap’ मतलब ‘साबुन’।",
+        "hinglish": "‘soap’ matlab ‘saabun’.",
+        "en": "Say it with me: soap!"
+      },
+      "word": {
+        "english": "soap",
+        "emoji": "🧼",
+        "hindi": "साबुन",
+        "hinglish": "saabun"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U06.S12",
+      "skills": [
+        "listen.word",
+        "vocab.home"
+      ],
+      "answer": "bucket",
+      "options": [
+        {
+          "english": "bucket",
+          "emoji": "🪣",
+          "hindi": "बाल्टी",
+          "hinglish": "baalti"
+        },
+        {
+          "english": "soap",
+          "emoji": "🧼",
+          "hindi": "साबुन",
+          "hinglish": "saabun"
+        },
+        {
+          "english": "spoon",
+          "emoji": "🥄",
+          "hindi": "चम्मच",
+          "hinglish": "chammach"
+        },
+        {
+          "english": "mirror",
+          "emoji": "🪞",
+          "hindi": "शीशा",
+          "hinglish": "sheesha"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U06.S13",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "🧼",
+      "answer": "soap",
+      "options": [
+        "soap",
+        "glass",
+        "cup"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U06.S14",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘broom’ मतलब ‘झाड़ू’।",
+        "hinglish": "‘broom’ matlab ‘jhaadu’.",
+        "en": "Say it with me: broom!"
+      },
+      "word": {
+        "english": "broom",
+        "emoji": "🧹",
+        "hindi": "झाड़ू",
+        "hinglish": "jhaadu"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U06.S15",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘mirror’ मतलब ‘शीशा’।",
+        "hinglish": "‘mirror’ matlab ‘sheesha’.",
+        "en": "Say it with me: mirror!"
+      },
+      "word": {
+        "english": "mirror",
+        "emoji": "🪞",
+        "hindi": "शीशा",
+        "hinglish": "sheesha"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U06.S16",
+      "skills": [
+        "listen.word",
+        "vocab.home"
+      ],
+      "answer": "broom",
+      "options": [
+        {
+          "english": "broom",
+          "emoji": "🧹",
+          "hindi": "झाड़ू",
+          "hinglish": "jhaadu"
+        },
+        {
+          "english": "glass",
+          "emoji": "🥛",
+          "hindi": "गिलास",
+          "hinglish": "gilaas"
+        },
+        {
+          "english": "spoon",
+          "emoji": "🥄",
+          "hindi": "चम्मच",
+          "hinglish": "chammach"
+        },
+        {
+          "english": "soap",
+          "emoji": "🧼",
+          "hindi": "साबुन",
+          "hinglish": "saabun"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U06.S17",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "🪞",
+      "answer": "mirror",
+      "options": [
+        "mirror",
+        "glass",
+        "spoon"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U06.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "mirror",
+        "emoji": "🪞",
+        "hindi": "शीशा",
+        "hinglish": "sheesha"
+      },
+      "answer": {
+        "hi": "शीशा",
+        "hinglish": "sheesha"
+      },
+      "options": [
+        {
+          "hi": "शीशा",
+          "hinglish": "sheesha"
+        },
+        {
+          "hi": "कप",
+          "hinglish": "cup"
+        },
+        {
+          "hi": "चम्मच",
+          "hinglish": "chammach"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U06.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "soap",
+        "emoji": "🧼",
+        "hindi": "साबुन",
+        "hinglish": "saabun"
+      },
+      "answer": {
+        "hi": "साबुन",
+        "hinglish": "saabun"
+      },
+      "options": [
+        {
+          "hi": "साबुन",
+          "hinglish": "saabun"
+        },
+        {
+          "hi": "कप",
+          "hinglish": "cup"
+        },
+        {
+          "hi": "थाली",
+          "hinglish": "thaali"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U06.S20",
+      "skills": [
+        "speak.word",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "cup",
+        "emoji": "☕",
+        "hindi": "कप",
+        "hinglish": "cup"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U06.S21",
+      "skills": [
+        "speak.word",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "soap",
+        "emoji": "🧼",
+        "hindi": "साबुन",
+        "hinglish": "saabun"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U06.S22",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "spoon",
+      "options": [
+        "spoon",
+        "cup",
+        "glass"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U06.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: cup, plate, spoon, glass, bucket, soap, broom, mirror।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: cup, plate, spoon, glass, bucket, soap, broom, mirror.",
+        "en": "Well done! Today's new words: cup, plate, spoon, glass, bucket, soap, broom, mirror."
+      }
+    }
+  ]
+}

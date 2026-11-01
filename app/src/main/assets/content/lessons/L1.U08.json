@@ -1,0 +1,351 @@
+{
+  "id": "L1.U08",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U08.S01",
+      "text": {
+        "hi": "दो अक्षर मिलकर एक नई आवाज़ बनाते हैं! s और h मिलकर ‘sh’ = श।",
+        "hinglish": "Do akshar milkar ek nayi awaaz banaate hain! s aur h milkar ‘sh’ = sh.",
+        "en": "Two letters can join to make one new sound! s and h make ‘sh’."
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U08.S02",
+      "skills": [
+        "phonics.sh"
+      ],
+      "letters": "sh",
+      "sound": "c19_sh",
+      "hint": "श",
+      "text": {
+        "hi": "यह ‘sh’ है। इसकी आवाज़ है ‘श’, जैसे ship में।",
+        "hinglish": "Yeh ‘sh’ hai. Iski awaaz hai ‘sh’, jaise ship mein.",
+        "en": "This is ‘sh’. Listen to its sound, like at the start of ship."
+      },
+      "example": {
+        "english": "ship",
+        "emoji": "🚢",
+        "hindi": "जहाज़",
+        "hinglish": "jahaaz"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U08.S03",
+      "skills": [
+        "phonics.ch"
+      ],
+      "letters": "ch",
+      "sound": "c20_ch",
+      "hint": "च",
+      "text": {
+        "hi": "यह ‘ch’ है। इसकी आवाज़ है ‘च’, जैसे chair में।",
+        "hinglish": "Yeh ‘ch’ hai. Iski awaaz hai ‘ch’, jaise chair mein.",
+        "en": "This is ‘ch’. Listen to its sound, like at the start of chair."
+      },
+      "example": {
+        "english": "chair",
+        "emoji": "🪑",
+        "hindi": "कुर्सी",
+        "hinglish": "kursi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U08.S04",
+      "skills": [
+        "listen.word",
+        "phonics.ch"
+      ],
+      "answer": "chair",
+      "options": [
+        {
+          "english": "chair",
+          "emoji": "🪑",
+          "hindi": "कुर्सी",
+          "hinglish": "kursi"
+        },
+        {
+          "english": "ship",
+          "emoji": "🚢",
+          "hindi": "जहाज़",
+          "hinglish": "jahaaz"
+        }
+      ]
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U08.S05",
+      "skills": [
+        "phonics.ng"
+      ],
+      "letters": "ng",
+      "sound": "c23_ng",
+      "hint": "ङ",
+      "text": {
+        "hi": "यह ‘ng’ है। आवाज़ नाक से निकलती है, जैसे ring के आख़िर में।",
+        "hinglish": "Yeh ‘ng’ hai. Awaaz naak se nikalti hai, jaise ring ke aakhir mein.",
+        "en": "This is ‘ng’. The sound comes through your nose, like at the end of ring."
+      },
+      "example": {
+        "english": "ring",
+        "emoji": "💍",
+        "hindi": "अँगूठी",
+        "hinglish": "angoothi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U08.S06",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "ship",
+        "emoji": "🚢",
+        "hindi": "जहाज़",
+        "hinglish": "jahaaz"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U08.S07",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "chair",
+        "emoji": "🪑",
+        "hindi": "कुर्सी",
+        "hinglish": "kursi"
+      }
+    },
+    {
+      "type": "blend",
+      "id": "L1.U08.S08",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "ship",
+      "emoji": "🚢",
+      "parts": [
+        {
+          "letters": "sh",
+          "sound": "c19_sh"
+        },
+        {
+          "letters": "i",
+          "sound": "v03_i_ink"
+        },
+        {
+          "letters": "p",
+          "sound": "c11_p"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U08.S09",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "shop",
+      "emoji": "🏪",
+      "parts": [
+        {
+          "letters": "sh",
+          "sound": "c19_sh"
+        },
+        {
+          "letters": "o",
+          "sound": "v04_o_pot"
+        },
+        {
+          "letters": "p",
+          "sound": "c11_p"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U08.S10",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🏪",
+      "answer": "shop",
+      "options": [
+        "shop",
+        "chip",
+        "fish"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U08.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "chip",
+      "emoji": "🍟",
+      "parts": [
+        {
+          "letters": "ch",
+          "sound": "c20_ch"
+        },
+        {
+          "letters": "i",
+          "sound": "v03_i_ink"
+        },
+        {
+          "letters": "p",
+          "sound": "c11_p"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U08.S12",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "fish",
+      "emoji": "🐟",
+      "parts": [
+        {
+          "letters": "f",
+          "sound": "c03_f"
+        },
+        {
+          "letters": "i",
+          "sound": "v03_i_ink"
+        },
+        {
+          "letters": "sh",
+          "sound": "c19_sh"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U08.S13",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🐟",
+      "answer": "fish",
+      "options": [
+        "fish",
+        "shop",
+        "chip"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U08.S14",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "king",
+      "emoji": "🤴",
+      "parts": [
+        {
+          "letters": "k",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "i",
+          "sound": "v03_i_ink"
+        },
+        {
+          "letters": "ng",
+          "sound": "c23_ng"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U08.S15",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "ring",
+      "emoji": "💍",
+      "parts": [
+        {
+          "letters": "r",
+          "sound": "c12_r"
+        },
+        {
+          "letters": "i",
+          "sound": "v03_i_ink"
+        },
+        {
+          "letters": "ng",
+          "sound": "c23_ng"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U08.S16",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "💍",
+      "answer": "ring",
+      "options": [
+        "ring",
+        "shop",
+        "chip"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U08.S17",
+      "skills": [
+        "listen.minimal_pair",
+        "sound.sh"
+      ],
+      "answer": "sip",
+      "options": [
+        "ship",
+        "sip"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U08.S18",
+      "skills": [
+        "listen.minimal_pair",
+        "sound.sh"
+      ],
+      "answer": "chip",
+      "options": [
+        "chip",
+        "ship"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U08.S19",
+      "text": {
+        "hi": "शाबाश! sh, ch और ng — दो अक्षर, एक आवाज़!",
+        "hinglish": "Shabaash! sh, ch aur ng — do akshar, ek awaaz!",
+        "en": "Well done! sh, ch and ng — two letters, one sound!"
+      }
+    }
+  ]
+}

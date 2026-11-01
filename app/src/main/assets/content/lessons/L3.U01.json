@@ -1,0 +1,295 @@
+{
+  "id": "L3.U01",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U01.S01",
+      "skills": [
+        "grammar.this_that"
+      ],
+      "text": {
+        "hi": "पास की चीज़ के लिए ‘This is’, दूर की चीज़ के लिए ‘That is’। यह = this, वह = that.",
+        "hinglish": "Paas ki cheez ke liye ‘This is’, door ki cheez ke liye ‘That is’. Yeh = this, woh = that.",
+        "en": "Use ‘This is’ for something near you, and ‘That is’ for something far away."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U01.S02",
+      "skills": [
+        "grammar.this_that"
+      ],
+      "text": {
+        "hi": "रंगों को देखो! हिंदी में ‘है’ आख़िर में आता है: यह पेन है। इंग्लिश में ‘is’ बीच में: This is a pen.",
+        "hinglish": "Rangon ko dekho! Hindi mein ‘hai’ aakhir mein aata hai: Yeh pen hai. English mein ‘is’ beech mein: This is a pen.",
+        "en": "Look at the colours! In Hindi, ‘hai’ comes at the end. In English, ‘is’ comes in the middle: This is a pen."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U01.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.this_that"
+      ],
+      "hindi": [
+        {
+          "hi": "यह",
+          "hinglish": "Yeh",
+          "role": "s"
+        },
+        {
+          "hi": "पेन",
+          "hinglish": "pen",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "This",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "pen",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U01.S04",
+      "skills": [
+        "grammar.this_that"
+      ],
+      "sentence": "___ is a cat.",
+      "answer": "This",
+      "options": [
+        "This",
+        "Am",
+        "Are"
+      ],
+      "meaning": {
+        "hi": "यह बिल्ली है।",
+        "hinglish": "Yeh billi hai."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U01.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.this_that"
+      ],
+      "hindi": [
+        {
+          "hi": "वह",
+          "hinglish": "Woh",
+          "role": "s"
+        },
+        {
+          "hi": "पेड़",
+          "hinglish": "ped",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "That",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "tree",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U01.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.this_that"
+      ],
+      "words": [
+        "This",
+        "are",
+        "a",
+        "pen."
+      ],
+      "wrong": 1,
+      "fix": "is",
+      "meaning": {
+        "hi": "यह पेन है।",
+        "hinglish": "Yeh pen hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U01.S07",
+      "skills": [
+        "grammar.this_that"
+      ],
+      "sentence": "That ___ a bus.",
+      "answer": "is",
+      "options": [
+        "is",
+        "am",
+        "are"
+      ],
+      "meaning": {
+        "hi": "वह बस है।",
+        "hinglish": "Woh bus hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U01.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.this_that"
+      ],
+      "sentence": "This is a pen.",
+      "meaning": {
+        "hi": "यह पेन है।",
+        "hinglish": "Yeh pen hai.",
+        "en": "This is a pen."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U01.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.this_that"
+      ],
+      "hindi": [
+        {
+          "hi": "यह",
+          "hinglish": "Yeh",
+          "role": "s"
+        },
+        {
+          "hi": "मेरी",
+          "hinglish": "meri",
+          "role": "x"
+        },
+        {
+          "hi": "किताब",
+          "hinglish": "kitaab",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "This",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "my",
+          "role": "x"
+        },
+        {
+          "text": "book",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U01.S10",
+      "skills": [
+        "grammar.this_that"
+      ],
+      "sentence": "This is ___ dog.",
+      "answer": "a",
+      "options": [
+        "a",
+        "is",
+        "am"
+      ],
+      "meaning": {
+        "hi": "यह एक कुत्ता है।",
+        "hinglish": "Yeh ek kutta hai."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U01.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.this_that"
+      ],
+      "words": [
+        "That",
+        "am",
+        "a",
+        "ball."
+      ],
+      "wrong": 1,
+      "fix": "is",
+      "meaning": {
+        "hi": "वह गेंद है।",
+        "hinglish": "Woh gend hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U01.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.this_that"
+      ],
+      "sentence": "That is a tree.",
+      "meaning": {
+        "hi": "वह पेड़ है।",
+        "hinglish": "Woh ped hai.",
+        "en": "That is a tree."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U01.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

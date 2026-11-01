@@ -1,0 +1,306 @@
+{
+  "id": "L3.U13",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U13.S01",
+      "skills": [
+        "grammar.yes_no_questions"
+      ],
+      "text": {
+        "hi": "सवाल पूछना आसान है! ‘is’ या ‘are’ को आगे ले आओ: It is a cat → Is it a cat?",
+        "hinglish": "Sawaal poochna aasaan hai! ‘is’ ya ‘are’ ko aage le aao: It is a cat → Is it a cat?",
+        "en": "Asking a question is easy! Move ‘is’ or ‘are’ to the front: It is a cat → Is it a cat?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U13.S02",
+      "skills": [
+        "grammar.yes_no_questions"
+      ],
+      "text": {
+        "hi": "हिंदी में ‘क्या’ लगाते हैं, इंग्लिश में ‘is/are’ आगे आता है। जवाब छोटा दो: Yes, it is. / No, it is not.",
+        "hinglish": "Hindi mein ‘kya’ lagaate hain, English mein ‘is/are’ aage aata hai. Jawab chhota do: Yes, it is. / No, it is not.",
+        "en": "Hindi adds ‘kya’; English moves ‘is/are’ to the front. Give a short answer: Yes, it is. / No, it is not."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U13.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.yes_no_questions"
+      ],
+      "hindi": [
+        {
+          "hi": "क्या",
+          "hinglish": "Kya",
+          "role": "q"
+        },
+        {
+          "hi": "यह",
+          "hinglish": "yeh",
+          "role": "s"
+        },
+        {
+          "hi": "बिल्ली",
+          "hinglish": "billi",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "Is",
+          "role": "v"
+        },
+        {
+          "text": "it",
+          "role": "s"
+        },
+        {
+          "text": "a",
+          "role": "x"
+        },
+        {
+          "text": "cat",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U13.S04",
+      "skills": [
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "___ it a dog?",
+      "answer": "Is",
+      "options": [
+        "Is",
+        "Are",
+        "Am"
+      ],
+      "meaning": {
+        "hi": "क्या यह कुत्ता है?",
+        "hinglish": "Kya yeh kutta hai?"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U13.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.yes_no_questions"
+      ],
+      "hindi": [
+        {
+          "hi": "क्या",
+          "hinglish": "Kya",
+          "role": "q"
+        },
+        {
+          "hi": "तुम",
+          "hinglish": "tum",
+          "role": "s"
+        },
+        {
+          "hi": "खुश",
+          "hinglish": "khush",
+          "role": "o"
+        },
+        {
+          "hi": "हो",
+          "hinglish": "ho",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "Are",
+          "role": "v"
+        },
+        {
+          "text": "you",
+          "role": "s"
+        },
+        {
+          "text": "happy",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U13.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.yes_no_questions"
+      ],
+      "words": [
+        "Are",
+        "he",
+        "your",
+        "friend?"
+      ],
+      "wrong": 0,
+      "fix": "Is",
+      "meaning": {
+        "hi": "क्या वह तुम्हारा दोस्त है?",
+        "hinglish": "Kya woh tumhara dost hai?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U13.S07",
+      "skills": [
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "___ you ready?",
+      "answer": "Are",
+      "options": [
+        "Is",
+        "Are",
+        "Am"
+      ],
+      "meaning": {
+        "hi": "क्या तुम तैयार हो?",
+        "hinglish": "Kya tum taiyaar ho?"
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U13.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "Are you happy?",
+      "meaning": {
+        "hi": "क्या तुम खुश हो?",
+        "hinglish": "Kya tum khush ho?",
+        "en": "Are you happy?"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U13.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.yes_no_questions"
+      ],
+      "hindi": [
+        {
+          "hi": "क्या",
+          "hinglish": "Kya",
+          "role": "q"
+        },
+        {
+          "hi": "वह",
+          "hinglish": "woh",
+          "role": "s"
+        },
+        {
+          "hi": "तुम्हारा",
+          "hinglish": "tumhara",
+          "role": "x"
+        },
+        {
+          "hi": "भाई",
+          "hinglish": "bhai",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "Is",
+          "role": "v"
+        },
+        {
+          "text": "he",
+          "role": "s"
+        },
+        {
+          "text": "your",
+          "role": "x"
+        },
+        {
+          "text": "brother",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U13.S10",
+      "skills": [
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "Is it hot? Yes, it ___.",
+      "answer": "is",
+      "options": [
+        "is",
+        "are",
+        "not"
+      ],
+      "meaning": {
+        "hi": "क्या यह गरम है? हाँ, है।",
+        "hinglish": "Kya yeh garam hai? Haan, hai."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U13.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.yes_no_questions"
+      ],
+      "words": [
+        "Is",
+        "they",
+        "at",
+        "school?"
+      ],
+      "wrong": 0,
+      "fix": "Are",
+      "meaning": {
+        "hi": "क्या वे स्कूल में हैं?",
+        "hinglish": "Kya woh school mein hain?"
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U13.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "Is it a cat?",
+      "meaning": {
+        "hi": "क्या यह बिल्ली है?",
+        "hinglish": "Kya yeh billi hai?",
+        "en": "Is it a cat?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U13.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

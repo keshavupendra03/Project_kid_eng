@@ -1,0 +1,480 @@
+{
+  "id": "L2.U14",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U14.S01",
+      "text": {
+        "hi": "पक्षी और छोटे जीव।",
+        "hinglish": "Pakshi aur chhote jeev.",
+        "en": "Birds and little creatures."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U14.S02",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘bird’ मतलब ‘चिड़िया’।",
+        "hinglish": "‘bird’ matlab ‘chidiya’.",
+        "en": "Say it with me: bird!"
+      },
+      "word": {
+        "english": "bird",
+        "emoji": "🐦",
+        "hindi": "चिड़िया",
+        "hinglish": "chidiya"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U14.S03",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘parrot’ मतलब ‘तोता’।",
+        "hinglish": "‘parrot’ matlab ‘tota’.",
+        "en": "Say it with me: parrot!"
+      },
+      "word": {
+        "english": "parrot",
+        "emoji": "🦜",
+        "hindi": "तोता",
+        "hinglish": "tota"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U14.S04",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "bird",
+      "options": [
+        {
+          "english": "bird",
+          "emoji": "🐦",
+          "hindi": "चिड़िया",
+          "hinglish": "chidiya"
+        },
+        {
+          "english": "frog",
+          "emoji": "🐸",
+          "hindi": "मेंढक",
+          "hinglish": "mendhak"
+        },
+        {
+          "english": "mouse",
+          "emoji": "🐁",
+          "hindi": "चूहा",
+          "hinglish": "chooha"
+        },
+        {
+          "english": "parrot",
+          "emoji": "🦜",
+          "hindi": "तोता",
+          "hinglish": "tota"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U14.S05",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🦜",
+      "answer": "parrot",
+      "options": [
+        "parrot",
+        "ant",
+        "bird"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U14.S06",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘peacock’ मतलब ‘मोर’।",
+        "hinglish": "‘peacock’ matlab ‘mor’.",
+        "en": "Say it with me: peacock!"
+      },
+      "word": {
+        "english": "peacock",
+        "emoji": "🦚",
+        "hindi": "मोर",
+        "hinglish": "mor"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U14.S07",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘butterfly’ मतलब ‘तितली’।",
+        "hinglish": "‘butterfly’ matlab ‘titli’.",
+        "en": "Say it with me: butterfly!"
+      },
+      "word": {
+        "english": "butterfly",
+        "emoji": "🦋",
+        "hindi": "तितली",
+        "hinglish": "titli"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U14.S08",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "peacock",
+      "options": [
+        {
+          "english": "peacock",
+          "emoji": "🦚",
+          "hindi": "मोर",
+          "hinglish": "mor"
+        },
+        {
+          "english": "parrot",
+          "emoji": "🦜",
+          "hindi": "तोता",
+          "hinglish": "tota"
+        },
+        {
+          "english": "ant",
+          "emoji": "🐜",
+          "hindi": "चींटी",
+          "hinglish": "cheenti"
+        },
+        {
+          "english": "bird",
+          "emoji": "🐦",
+          "hindi": "चिड़िया",
+          "hinglish": "chidiya"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U14.S09",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🦋",
+      "answer": "butterfly",
+      "options": [
+        "butterfly",
+        "mouse",
+        "bird"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U14.S10",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘ant’ मतलब ‘चींटी’।",
+        "hinglish": "‘ant’ matlab ‘cheenti’.",
+        "en": "Say it with me: ant!"
+      },
+      "word": {
+        "english": "ant",
+        "emoji": "🐜",
+        "hindi": "चींटी",
+        "hinglish": "cheenti"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U14.S11",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘bee’ मतलब ‘मधुमक्खी’।",
+        "hinglish": "‘bee’ matlab ‘madhumakkhi’.",
+        "en": "Say it with me: bee!"
+      },
+      "word": {
+        "english": "bee",
+        "emoji": "🐝",
+        "hindi": "मधुमक्खी",
+        "hinglish": "madhumakkhi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U14.S12",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "ant",
+      "options": [
+        {
+          "english": "ant",
+          "emoji": "🐜",
+          "hindi": "चींटी",
+          "hinglish": "cheenti"
+        },
+        {
+          "english": "parrot",
+          "emoji": "🦜",
+          "hindi": "तोता",
+          "hinglish": "tota"
+        },
+        {
+          "english": "bird",
+          "emoji": "🐦",
+          "hindi": "चिड़िया",
+          "hinglish": "chidiya"
+        },
+        {
+          "english": "butterfly",
+          "emoji": "🦋",
+          "hindi": "तितली",
+          "hinglish": "titli"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U14.S13",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐝",
+      "answer": "bee",
+      "options": [
+        "bee",
+        "ant",
+        "frog"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U14.S14",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘frog’ मतलब ‘मेंढक’।",
+        "hinglish": "‘frog’ matlab ‘mendhak’.",
+        "en": "Say it with me: frog!"
+      },
+      "word": {
+        "english": "frog",
+        "emoji": "🐸",
+        "hindi": "मेंढक",
+        "hinglish": "mendhak"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U14.S15",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘mouse’ मतलब ‘चूहा’।",
+        "hinglish": "‘mouse’ matlab ‘chooha’.",
+        "en": "Say it with me: mouse!"
+      },
+      "word": {
+        "english": "mouse",
+        "emoji": "🐁",
+        "hindi": "चूहा",
+        "hinglish": "chooha"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U14.S16",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "frog",
+      "options": [
+        {
+          "english": "frog",
+          "emoji": "🐸",
+          "hindi": "मेंढक",
+          "hinglish": "mendhak"
+        },
+        {
+          "english": "mouse",
+          "emoji": "🐁",
+          "hindi": "चूहा",
+          "hinglish": "chooha"
+        },
+        {
+          "english": "butterfly",
+          "emoji": "🦋",
+          "hindi": "तितली",
+          "hinglish": "titli"
+        },
+        {
+          "english": "peacock",
+          "emoji": "🦚",
+          "hindi": "मोर",
+          "hinglish": "mor"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U14.S17",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐁",
+      "answer": "mouse",
+      "options": [
+        "mouse",
+        "bee",
+        "peacock"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U14.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "frog",
+        "emoji": "🐸",
+        "hindi": "मेंढक",
+        "hinglish": "mendhak"
+      },
+      "answer": {
+        "hi": "मेंढक",
+        "hinglish": "mendhak"
+      },
+      "options": [
+        {
+          "hi": "मेंढक",
+          "hinglish": "mendhak"
+        },
+        {
+          "hi": "मोर",
+          "hinglish": "mor"
+        },
+        {
+          "hi": "चिड़िया",
+          "hinglish": "chidiya"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U14.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "peacock",
+        "emoji": "🦚",
+        "hindi": "मोर",
+        "hinglish": "mor"
+      },
+      "answer": {
+        "hi": "मोर",
+        "hinglish": "mor"
+      },
+      "options": [
+        {
+          "hi": "मोर",
+          "hinglish": "mor"
+        },
+        {
+          "hi": "मधुमक्खी",
+          "hinglish": "madhumakkhi"
+        },
+        {
+          "hi": "चींटी",
+          "hinglish": "cheenti"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U14.S20",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "ant",
+        "emoji": "🐜",
+        "hindi": "चींटी",
+        "hinglish": "cheenti"
+      },
+      "accept": [
+        "aunt"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U14.S21",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "bee",
+        "emoji": "🐝",
+        "hindi": "मधुमक्खी",
+        "hinglish": "madhumakkhi"
+      },
+      "accept": [
+        "b"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U14.S22",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "answer": "mouse",
+      "options": [
+        "mouse",
+        "bird",
+        "butterfly"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U14.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: bird, parrot, peacock, butterfly, ant, bee, frog, mouse।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: bird, parrot, peacock, butterfly, ant, bee, frog, mouse.",
+        "en": "Well done! Today's new words: bird, parrot, peacock, butterfly, ant, bee, frog, mouse."
+      }
+    }
+  ]
+}

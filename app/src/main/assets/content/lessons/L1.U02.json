@@ -1,0 +1,105 @@
+{
+  "id": "L1.U02",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card", "id": "L1.U02.S01", "skills": ["phonics.blend"],
+      "text": {
+        "hi": "अब जादू देखो! आवाज़ें जोड़ने से शब्द बनता है: t + a + p = tap!",
+        "hinglish": "Ab jaadoo dekho! Awaazein jodne se shabd banta hai: t + a + p = tap!",
+        "en": "Now watch the magic! Joining sounds makes a word: t + a + p = tap!"
+      }
+    },
+    {
+      "type": "blend", "id": "L1.U02.S02", "skills": ["phonics.blend", "speak.word"],
+      "word": "tap", "emoji": "🚰",
+      "parts": [
+        { "letters": "t", "sound": "c14_t" },
+        { "letters": "a", "sound": "v01_a_apple" },
+        { "letters": "p", "sound": "c11_p" }
+      ]
+    },
+    {
+      "type": "blend", "id": "L1.U02.S03", "skills": ["phonics.blend", "speak.word"],
+      "word": "pin", "emoji": "📌",
+      "parts": [
+        { "letters": "p", "sound": "c11_p" },
+        { "letters": "i", "sound": "v03_i_ink" },
+        { "letters": "n", "sound": "c10_n" }
+      ]
+    },
+    {
+      "type": "listen_tap", "id": "L1.U02.S04", "skills": ["listen.word", "phonics.blend"],
+      "answer": "pin",
+      "options": [
+        { "english": "pin", "emoji": "📌" },
+        { "english": "tap", "emoji": "🚰" },
+        { "english": "pan", "emoji": "🍳" },
+        { "english": "ant", "emoji": "🐜" }
+      ]
+    },
+    {
+      "type": "blend", "id": "L1.U02.S05", "skills": ["phonics.blend", "speak.word"],
+      "word": "pan", "emoji": "🍳",
+      "parts": [
+        { "letters": "p", "sound": "c11_p" },
+        { "letters": "a", "sound": "v01_a_apple" },
+        { "letters": "n", "sound": "c10_n" }
+      ]
+    },
+    {
+      "type": "blend", "id": "L1.U02.S06", "skills": ["phonics.blend", "speak.word"],
+      "word": "ant", "emoji": "🐜",
+      "parts": [
+        { "letters": "a", "sound": "v01_a_apple" },
+        { "letters": "n", "sound": "c10_n" },
+        { "letters": "t", "sound": "c14_t" }
+      ],
+      "accept": ["aunt"]
+    },
+    {
+      "type": "word_pick", "id": "L1.U02.S07", "skills": ["read.word", "phonics.blend"],
+      "emoji": "🐜", "answer": "ant", "options": ["ant", "pan", "tin"]
+    },
+    {
+      "type": "blend", "id": "L1.U02.S08", "skills": ["phonics.blend", "speak.word"],
+      "word": "tin", "emoji": "🥫",
+      "parts": [
+        { "letters": "t", "sound": "c14_t" },
+        { "letters": "i", "sound": "v03_i_ink" },
+        { "letters": "n", "sound": "c10_n" }
+      ]
+    },
+    {
+      "type": "blend", "id": "L1.U02.S09", "skills": ["phonics.blend", "speak.word"],
+      "word": "sit", "emoji": "🪑",
+      "parts": [
+        { "letters": "s", "sound": "c13_s" },
+        { "letters": "i", "sound": "v03_i_ink" },
+        { "letters": "t", "sound": "c14_t" }
+      ]
+    },
+    {
+      "type": "say_word", "id": "L1.U02.S10", "skills": ["speak.word", "phonics.a"],
+      "word": { "english": "pan", "emoji": "🍳", "hindi": "पैन" }
+    },
+    {
+      "type": "listen_tap", "id": "L1.U02.S11", "skills": ["listen.word", "phonics.blend"],
+      "answer": "tin",
+      "options": [
+        { "english": "tin", "emoji": "🥫" },
+        { "english": "sit", "emoji": "🪑" },
+        { "english": "tap", "emoji": "🚰" },
+        { "english": "pin", "emoji": "📌" }
+      ]
+    },
+    {
+      "type": "learn_card", "id": "L1.U02.S12",
+      "text": {
+        "hi": "कमाल! तुमने आवाज़ें जोड़कर शब्द पढ़ लिए। यही तो पढ़ना है!",
+        "hinglish": "Kamaal! Tumne awaazein jodkar shabd padh liye. Yahi to padhna hai!",
+        "en": "Amazing! You joined sounds and read words. That is what reading is!"
+      }
+    }
+  ]
+}

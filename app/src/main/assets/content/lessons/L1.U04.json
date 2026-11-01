@@ -1,0 +1,318 @@
+{
+  "id": "L1.U04",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U04.S01",
+      "text": {
+        "hi": "चार नई आवाज़ें: m, d, g और o. इनसे और भी शब्द बनेंगे!",
+        "hinglish": "Chaar nayi awaazein: m, d, g aur o. Inse aur bhi shabd banenge!",
+        "en": "Four new sounds: m, d, g and o. They help us make more words!"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U04.S02",
+      "skills": [
+        "phonics.m"
+      ],
+      "letters": "m",
+      "sound": "c09_m",
+      "hint": "म",
+      "text": {
+        "hi": "यह ‘m’ है। इसकी आवाज़ है ‘म’, जैसे monkey में।",
+        "hinglish": "Yeh ‘m’ hai. Iski awaaz hai ‘m’, jaise monkey mein.",
+        "en": "This is ‘m’. Listen to its sound, like at the start of monkey."
+      },
+      "example": {
+        "english": "monkey",
+        "emoji": "🐒",
+        "hindi": "बंदर",
+        "hinglish": "bandar"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U04.S03",
+      "skills": [
+        "phonics.d"
+      ],
+      "letters": "d",
+      "sound": "c02_d",
+      "hint": "ड",
+      "text": {
+        "hi": "यह ‘d’ है। इसकी आवाज़ है ‘ड’, जैसे duck में।",
+        "hinglish": "Yeh ‘d’ hai. Iski awaaz hai ‘d’, jaise duck mein.",
+        "en": "This is ‘d’. Listen to its sound, like at the start of duck."
+      },
+      "example": {
+        "english": "duck",
+        "emoji": "🦆",
+        "hindi": "बत्तख",
+        "hinglish": "battakh"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U04.S04",
+      "skills": [
+        "listen.word",
+        "phonics.d"
+      ],
+      "answer": "duck",
+      "options": [
+        {
+          "english": "duck",
+          "emoji": "🦆",
+          "hindi": "बत्तख",
+          "hinglish": "battakh"
+        },
+        {
+          "english": "monkey",
+          "emoji": "🐒",
+          "hindi": "बंदर",
+          "hinglish": "bandar"
+        }
+      ]
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U04.S05",
+      "skills": [
+        "phonics.g"
+      ],
+      "letters": "g",
+      "sound": "c04_g",
+      "hint": "ग",
+      "text": {
+        "hi": "यह ‘g’ है। इसकी आवाज़ है ‘ग’, जैसे goat में।",
+        "hinglish": "Yeh ‘g’ hai. Iski awaaz hai ‘g’, jaise goat mein.",
+        "en": "This is ‘g’. Listen to its sound, like at the start of goat."
+      },
+      "example": {
+        "english": "goat",
+        "emoji": "🐐",
+        "hindi": "बकरी",
+        "hinglish": "bakri"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U04.S06",
+      "skills": [
+        "phonics.o"
+      ],
+      "letters": "o",
+      "sound": "v04_o_pot",
+      "hint": "ऑ",
+      "text": {
+        "hi": "यह ‘o’ है। इसकी आवाज़ है ‘ऑ’, जैसे octopus में।",
+        "hinglish": "Yeh ‘o’ hai. Iski awaaz hai ‘o’, jaise octopus mein.",
+        "en": "This is ‘o’. Listen to its sound, like at the start of octopus."
+      },
+      "example": {
+        "english": "octopus",
+        "emoji": "🐙",
+        "hindi": "ऑक्टोपस",
+        "hinglish": "octopus"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U04.S07",
+      "skills": [
+        "listen.word",
+        "phonics.o"
+      ],
+      "answer": "octopus",
+      "options": [
+        {
+          "english": "octopus",
+          "emoji": "🐙",
+          "hindi": "ऑक्टोपस",
+          "hinglish": "octopus"
+        },
+        {
+          "english": "duck",
+          "emoji": "🦆",
+          "hindi": "बत्तख",
+          "hinglish": "battakh"
+        },
+        {
+          "english": "monkey",
+          "emoji": "🐒",
+          "hindi": "बंदर",
+          "hinglish": "bandar"
+        },
+        {
+          "english": "goat",
+          "emoji": "🐐",
+          "hindi": "बकरी",
+          "hinglish": "bakri"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U04.S08",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "monkey",
+        "emoji": "🐒",
+        "hindi": "बंदर",
+        "hinglish": "bandar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U04.S09",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "duck",
+        "emoji": "🦆",
+        "hindi": "बत्तख",
+        "hinglish": "battakh"
+      }
+    },
+    {
+      "type": "blend",
+      "id": "L1.U04.S10",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "dog",
+      "emoji": "🐕",
+      "parts": [
+        {
+          "letters": "d",
+          "sound": "c02_d"
+        },
+        {
+          "letters": "o",
+          "sound": "v04_o_pot"
+        },
+        {
+          "letters": "g",
+          "sound": "c04_g"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U04.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "man",
+      "emoji": "👨",
+      "parts": [
+        {
+          "letters": "m",
+          "sound": "c09_m"
+        },
+        {
+          "letters": "a",
+          "sound": "v01_a_apple"
+        },
+        {
+          "letters": "n",
+          "sound": "c10_n"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U04.S12",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "👨",
+      "answer": "man",
+      "options": [
+        "man",
+        "dog",
+        "map"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U04.S13",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "map",
+      "emoji": "🗺️",
+      "parts": [
+        {
+          "letters": "m",
+          "sound": "c09_m"
+        },
+        {
+          "letters": "a",
+          "sound": "v01_a_apple"
+        },
+        {
+          "letters": "p",
+          "sound": "c11_p"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U04.S14",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "pig",
+      "emoji": "🐖",
+      "parts": [
+        {
+          "letters": "p",
+          "sound": "c11_p"
+        },
+        {
+          "letters": "i",
+          "sound": "v03_i_ink"
+        },
+        {
+          "letters": "g",
+          "sound": "c04_g"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U04.S15",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🐖",
+      "answer": "pig",
+      "options": [
+        "pig",
+        "dog",
+        "map"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U04.S16",
+      "text": {
+        "hi": "बढ़िया! तुमने dog, man, map और pig पढ़ लिए!",
+        "hinglish": "Badhiya! Tumne dog, man, map aur pig padh liye!",
+        "en": "Great! You read dog, man, map and pig!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "id": "L2.U22",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U22.S01",
+      "text": {
+        "hi": "हम कहाँ-कहाँ जाते हैं?",
+        "hinglish": "Hum kahan-kahan jaate hain?",
+        "en": "Where do we go?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U22.S02",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘shop’ मतलब ‘दुकान’।",
+        "hinglish": "‘shop’ matlab ‘dukaan’.",
+        "en": "Say it with me: shop!"
+      },
+      "word": {
+        "english": "shop",
+        "emoji": "🏪",
+        "hindi": "दुकान",
+        "hinglish": "dukaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U22.S03",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘garden’ मतलब ‘बगीचा’।",
+        "hinglish": "‘garden’ matlab ‘bageecha’.",
+        "en": "Say it with me: garden!"
+      },
+      "word": {
+        "english": "garden",
+        "emoji": "🌳",
+        "hindi": "बगीचा",
+        "hinglish": "bageecha"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U22.S04",
+      "skills": [
+        "listen.word",
+        "vocab.places"
+      ],
+      "answer": "shop",
+      "options": [
+        {
+          "english": "shop",
+          "emoji": "🏪",
+          "hindi": "दुकान",
+          "hinglish": "dukaan"
+        },
+        {
+          "english": "airport",
+          "emoji": "✈️",
+          "hindi": "हवाई अड्डा",
+          "hinglish": "hawaai adda"
+        },
+        {
+          "english": "garden",
+          "emoji": "🌳",
+          "hindi": "बगीचा",
+          "hinglish": "bageecha"
+        },
+        {
+          "english": "market",
+          "emoji": "🛒",
+          "hindi": "बाज़ार",
+          "hinglish": "baazaar"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U22.S05",
+      "skills": [
+        "read.word",
+        "vocab.places"
+      ],
+      "emoji": "🌳",
+      "answer": "garden",
+      "options": [
+        "garden",
+        "city",
+        "shop"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U22.S06",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘bank’ मतलब ‘बैंक’।",
+        "hinglish": "‘bank’ matlab ‘bank’.",
+        "en": "Say it with me: bank!"
+      },
+      "word": {
+        "english": "bank",
+        "emoji": "🏦",
+        "hindi": "बैंक",
+        "hinglish": "bank"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U22.S07",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘market’ मतलब ‘बाज़ार’।",
+        "hinglish": "‘market’ matlab ‘baazaar’.",
+        "en": "Say it with me: market!"
+      },
+      "word": {
+        "english": "market",
+        "emoji": "🛒",
+        "hindi": "बाज़ार",
+        "hinglish": "baazaar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U22.S08",
+      "skills": [
+        "listen.word",
+        "vocab.places"
+      ],
+      "answer": "bank",
+      "options": [
+        {
+          "english": "bank",
+          "emoji": "🏦",
+          "hindi": "बैंक",
+          "hinglish": "bank"
+        },
+        {
+          "english": "garden",
+          "emoji": "🌳",
+          "hindi": "बगीचा",
+          "hinglish": "bageecha"
+        },
+        {
+          "english": "shop",
+          "emoji": "🏪",
+          "hindi": "दुकान",
+          "hinglish": "dukaan"
+        },
+        {
+          "english": "village",
+          "emoji": "🏘️",
+          "hindi": "गाँव",
+          "hinglish": "gaon"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U22.S09",
+      "skills": [
+        "read.word",
+        "vocab.places"
+      ],
+      "emoji": "🛒",
+      "answer": "market",
+      "options": [
+        "market",
+        "village",
+        "bank"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U22.S10",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘village’ मतलब ‘गाँव’।",
+        "hinglish": "‘village’ matlab ‘gaon’.",
+        "en": "Say it with me: village!"
+      },
+      "word": {
+        "english": "village",
+        "emoji": "🏘️",
+        "hindi": "गाँव",
+        "hinglish": "gaon"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U22.S11",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘city’ मतलब ‘शहर’।",
+        "hinglish": "‘city’ matlab ‘shehar’.",
+        "en": "Say it with me: city!"
+      },
+      "word": {
+        "english": "city",
+        "emoji": "🏙️",
+        "hindi": "शहर",
+        "hinglish": "shehar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U22.S12",
+      "skills": [
+        "listen.word",
+        "vocab.places"
+      ],
+      "answer": "village",
+      "options": [
+        {
+          "english": "village",
+          "emoji": "🏘️",
+          "hindi": "गाँव",
+          "hinglish": "gaon"
+        },
+        {
+          "english": "shop",
+          "emoji": "🏪",
+          "hindi": "दुकान",
+          "hinglish": "dukaan"
+        },
+        {
+          "english": "garden",
+          "emoji": "🌳",
+          "hindi": "बगीचा",
+          "hinglish": "bageecha"
+        },
+        {
+          "english": "bank",
+          "emoji": "🏦",
+          "hindi": "बैंक",
+          "hinglish": "bank"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U22.S13",
+      "skills": [
+        "read.word",
+        "vocab.places"
+      ],
+      "emoji": "🏙️",
+      "answer": "city",
+      "options": [
+        "city",
+        "bank",
+        "farm"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U22.S14",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘farm’ मतलब ‘खेत’।",
+        "hinglish": "‘farm’ matlab ‘khet’.",
+        "en": "Say it with me: farm!"
+      },
+      "word": {
+        "english": "farm",
+        "emoji": "🚜",
+        "hindi": "खेत",
+        "hinglish": "khet"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U22.S15",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘airport’ मतलब ‘हवाई अड्डा’।",
+        "hinglish": "‘airport’ matlab ‘hawaai adda’.",
+        "en": "Say it with me: airport!"
+      },
+      "word": {
+        "english": "airport",
+        "emoji": "✈️",
+        "hindi": "हवाई अड्डा",
+        "hinglish": "hawaai adda"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U22.S16",
+      "skills": [
+        "listen.word",
+        "vocab.places"
+      ],
+      "answer": "farm",
+      "options": [
+        {
+          "english": "farm",
+          "emoji": "🚜",
+          "hindi": "खेत",
+          "hinglish": "khet"
+        },
+        {
+          "english": "village",
+          "emoji": "🏘️",
+          "hindi": "गाँव",
+          "hinglish": "gaon"
+        },
+        {
+          "english": "bank",
+          "emoji": "🏦",
+          "hindi": "बैंक",
+          "hinglish": "bank"
+        },
+        {
+          "english": "shop",
+          "emoji": "🏪",
+          "hindi": "दुकान",
+          "hinglish": "dukaan"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U22.S17",
+      "skills": [
+        "read.word",
+        "vocab.places"
+      ],
+      "emoji": "✈️",
+      "answer": "airport",
+      "options": [
+        "airport",
+        "shop",
+        "market"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U22.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.places"
+      ],
+      "word": {
+        "english": "garden",
+        "emoji": "🌳",
+        "hindi": "बगीचा",
+        "hinglish": "bageecha"
+      },
+      "answer": {
+        "hi": "बगीचा",
+        "hinglish": "bageecha"
+      },
+      "options": [
+        {
+          "hi": "बगीचा",
+          "hinglish": "bageecha"
+        },
+        {
+          "hi": "खेत",
+          "hinglish": "khet"
+        },
+        {
+          "hi": "हवाई अड्डा",
+          "hinglish": "hawaai adda"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U22.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.places"
+      ],
+      "word": {
+        "english": "market",
+        "emoji": "🛒",
+        "hindi": "बाज़ार",
+        "hinglish": "baazaar"
+      },
+      "answer": {
+        "hi": "बाज़ार",
+        "hinglish": "baazaar"
+      },
+      "options": [
+        {
+          "hi": "बाज़ार",
+          "hinglish": "baazaar"
+        },
+        {
+          "hi": "बगीचा",
+          "hinglish": "bageecha"
+        },
+        {
+          "hi": "खेत",
+          "hinglish": "khet"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U22.S20",
+      "skills": [
+        "speak.word",
+        "vocab.places"
+      ],
+      "word": {
+        "english": "shop",
+        "emoji": "🏪",
+        "hindi": "दुकान",
+        "hinglish": "dukaan"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U22.S21",
+      "skills": [
+        "speak.word",
+        "vocab.places"
+      ],
+      "word": {
+        "english": "bank",
+        "emoji": "🏦",
+        "hindi": "बैंक",
+        "hinglish": "bank"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U22.S22",
+      "skills": [
+        "read.word",
+        "vocab.places"
+      ],
+      "answer": "farm",
+      "options": [
+        "farm",
+        "village",
+        "city"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U22.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: shop, garden, bank, market, village, city, farm, airport।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: shop, garden, bank, market, village, city, farm, airport.",
+        "en": "Well done! Today's new words: shop, garden, bank, market, village, city, farm, airport."
+      }
+    }
+  ]
+}

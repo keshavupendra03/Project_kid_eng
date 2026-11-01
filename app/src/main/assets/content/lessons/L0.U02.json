@@ -1,0 +1,172 @@
+{
+  "id": "L0.U02",
+  "level": 0,
+  "steps": [
+    {
+      "type": "learn_card", "id": "L0.U02.S01",
+      "text": {
+        "hi": "अब खाने और खेल के इंग्लिश शब्द! इनमें से कई तुम्हारे फ़ेवरेट होंगे।",
+        "hinglish": "Ab khaane aur khel ke English shabd! Inmein se kai tumhare favourite honge.",
+        "en": "Now English words for food and games! Many of them will be your favourites."
+      }
+    },
+    {
+      "type": "learn_card", "id": "L0.U02.S02", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "क्रिकेट! भारत का सबसे प्यारा खेल, और इसका नाम इंग्लिश में है!",
+        "hinglish": "Cricket! Bharat ka sabse pyaara khel, aur iska naam English mein hai!",
+        "en": "Cricket! India's favourite game, and its name is English!"
+      },
+      "word": { "english": "cricket", "emoji": "🏏", "hindi": "क्रिकेट" }
+    },
+    {
+      "type": "learn_card", "id": "L0.U02.S03", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "बॉल से हम क्रिकेट और फ़ुटबॉल खेलते हैं। बॉल भी इंग्लिश है!",
+        "hinglish": "Ball se hum cricket aur football khelte hain. Ball bhi English hai!",
+        "en": "We play cricket and football with a ball. Ball is English too!"
+      },
+      "word": { "english": "ball", "emoji": "⚽", "hindi": "बॉल" }
+    },
+    {
+      "type": "listen_tap", "id": "L0.U02.S04", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "cricket",
+      "options": [
+        { "english": "cricket", "emoji": "🏏" },
+        { "english": "ball", "emoji": "⚽" },
+        { "english": "cake", "emoji": "🎂" },
+        { "english": "cycle", "emoji": "🚲" }
+      ]
+    },
+    {
+      "type": "word_pick", "id": "L0.U02.S05", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "⚽", "answer": "ball", "options": ["ball", "cake", "cycle"]
+    },
+    {
+      "type": "learn_card", "id": "L0.U02.S06", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "बर्थडे पर हम केक काटते हैं। केक और बर्थडे, दोनों इंग्लिश के शब्द हैं!",
+        "hinglish": "Birthday par hum cake kaatte hain. Cake aur birthday, dono English ke shabd hain!",
+        "en": "We cut a cake on a birthday. Cake and birthday are both English words!"
+      },
+      "word": { "english": "cake", "emoji": "🎂", "hindi": "केक" }
+    },
+    {
+      "type": "learn_card", "id": "L0.U02.S07", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "चॉकलेट किसे पसंद नहीं? यह भी इंग्लिश है!",
+        "hinglish": "Chocolate kise pasand nahi? Yeh bhi English hai!",
+        "en": "Who doesn't love chocolate? It's English too!"
+      },
+      "word": { "english": "chocolate", "emoji": "🍫", "hindi": "चॉकलेट" }
+    },
+    {
+      "type": "listen_tap", "id": "L0.U02.S08", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "cake",
+      "options": [
+        { "english": "cake", "emoji": "🎂" },
+        { "english": "chocolate", "emoji": "🍫" },
+        { "english": "ball", "emoji": "⚽" },
+        { "english": "cricket", "emoji": "🏏" }
+      ]
+    },
+    {
+      "type": "word_pick", "id": "L0.U02.S09", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "🍫", "answer": "chocolate", "options": ["chocolate", "ball", "cycle"]
+    },
+    {
+      "type": "listen_tap", "id": "L0.U02.S10", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "ball",
+      "options": [
+        { "english": "ball", "emoji": "⚽" },
+        { "english": "cycle", "emoji": "🚲" },
+        { "english": "chocolate", "emoji": "🍫" },
+        { "english": "cake", "emoji": "🎂" }
+      ]
+    },
+    {
+      "type": "learn_card", "id": "L0.U02.S11", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "गर्मी में ठंडी-ठंडी आइसक्रीम! इंग्लिश में ये दो शब्द हैं: ice और cream.",
+        "hinglish": "Garmi mein thandi-thandi ice cream! English mein yeh do shabd hain: ice aur cream.",
+        "en": "Cold ice cream in summer! In English it is two words: ice and cream."
+      },
+      "word": { "english": "ice cream", "emoji": "🍦", "hindi": "आइसक्रीम" }
+    },
+    {
+      "type": "learn_card", "id": "L0.U02.S12", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "साइकिल चलाना मज़ेदार है! देखो, इंग्लिश में इसे ऐसे लिखते हैं।",
+        "hinglish": "Cycle chalaana mazedaar hai! Dekho, English mein ise aise likhte hain.",
+        "en": "Riding a cycle is fun! Look, this is how we write it in English."
+      },
+      "word": { "english": "cycle", "emoji": "🚲", "hindi": "साइकिल" }
+    },
+    {
+      "type": "word_pick", "id": "L0.U02.S13", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "🚲", "answer": "cycle", "options": ["cycle", "cake", "ball"]
+    },
+    {
+      "type": "listen_tap", "id": "L0.U02.S14", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "ice cream",
+      "options": [
+        { "english": "ice cream", "emoji": "🍦" },
+        { "english": "cake", "emoji": "🎂" },
+        { "english": "chocolate", "emoji": "🍫" },
+        { "english": "cricket", "emoji": "🏏" }
+      ]
+    },
+    {
+      "type": "word_pick", "id": "L0.U02.S15", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "🏏", "answer": "cricket", "options": ["cricket", "ice cream", "ball"]
+    },
+    {
+      "type": "say_word", "id": "L0.U02.S20", "skills": ["speak.word", "vocab.loanwords"],
+      "word": { "english": "cake", "emoji": "🎂", "hindi": "केक" }
+    },
+    {
+      "type": "say_word", "id": "L0.U02.S21", "skills": ["speak.word", "vocab.loanwords"],
+      "word": { "english": "chocolate", "emoji": "🍫", "hindi": "चॉकलेट" }
+    },
+    {
+      "type": "find_english", "id": "L0.U02.S16", "skills": ["notice.english_in_hindi"],
+      "words": [
+        { "hi": "दीदी", "hinglish": "Didi" },
+        { "hi": "ने", "hinglish": "ne" },
+        { "hi": "टीवी", "hinglish": "TV", "en": "TV" },
+        { "hi": "पर", "hinglish": "par" },
+        { "hi": "क्रिकेट", "hinglish": "cricket", "en": "cricket" },
+        { "hi": "देखा।", "hinglish": "dekha." }
+      ]
+    },
+    {
+      "type": "find_english", "id": "L0.U02.S17", "skills": ["notice.english_in_hindi"],
+      "words": [
+        { "hi": "मैंने", "hinglish": "Maine" },
+        { "hi": "केक", "hinglish": "cake", "en": "cake" },
+        { "hi": "और", "hinglish": "aur" },
+        { "hi": "चॉकलेट", "hinglish": "chocolate", "en": "chocolate" },
+        { "hi": "खाई।", "hinglish": "khaayi." }
+      ]
+    },
+    {
+      "type": "find_english", "id": "L0.U02.S18", "skills": ["notice.english_in_hindi"],
+      "words": [
+        { "hi": "बच्चे", "hinglish": "Bachche" },
+        { "hi": "बॉल", "hinglish": "ball", "en": "ball" },
+        { "hi": "से", "hinglish": "se" },
+        { "hi": "खेल", "hinglish": "khel" },
+        { "hi": "रहे", "hinglish": "rahe" },
+        { "hi": "हैं।", "hinglish": "hain." }
+      ]
+    },
+    {
+      "type": "learn_card", "id": "L0.U02.S19",
+      "text": {
+        "hi": "वाह! खाने और खेल के 6 इंग्लिश शब्द पक्के हो गए!",
+        "hinglish": "Waah! Khaane aur khel ke 6 English shabd pakke ho gaye!",
+        "en": "Wow! You learned 6 English words for food and games!"
+      }
+    }
+  ]
+}

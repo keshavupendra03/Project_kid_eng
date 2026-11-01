@@ -1,0 +1,570 @@
+{
+  "levels": [
+    {
+      "number": 0,
+      "emoji": "🚌",
+      "title": {
+        "hi": "तुम इंग्लिश पहले से जानते हो!",
+        "hinglish": "Tum English pehle se jaante ho!",
+        "en": "You already know English!"
+      },
+      "lessons": [
+        {
+          "id": "L0.U01",
+          "emoji": "🎒",
+          "title": {
+            "hi": "रोज़ की चीज़ें",
+            "hinglish": "Roz ki cheezein",
+            "en": "Everyday things"
+          }
+        },
+        {
+          "id": "L0.U02",
+          "emoji": "🏏",
+          "title": {
+            "hi": "खाना और खेल",
+            "hinglish": "Khaana aur khel",
+            "en": "Food and games"
+          }
+        },
+        {
+          "id": "L0.U03",
+          "emoji": "🏥",
+          "title": {
+            "hi": "लोग और जगहें",
+            "hinglish": "Log aur jagahein",
+            "en": "People and places"
+          }
+        }
+      ]
+    },
+    {
+      "number": 1,
+      "emoji": "🔤",
+      "title": {
+        "hi": "आवाज़ें और पढ़ना",
+        "hinglish": "Awaazein aur padhna",
+        "en": "Sounds and reading"
+      },
+      "lessons": [
+        {
+          "id": "L1.U01",
+          "emoji": "🐍",
+          "title": {
+            "hi": "पहली छह आवाज़ें",
+            "hinglish": "Pehli chhe awaazein",
+            "en": "The first six sounds"
+          }
+        },
+        {
+          "id": "L1.U02",
+          "emoji": "🧩",
+          "title": {
+            "hi": "आवाज़ें जोड़ो, शब्द बनाओ",
+            "hinglish": "Awaazein jodo, shabd banao",
+            "en": "Join sounds, make words"
+          }
+        },
+        {
+          "id": "L1.U03",
+          "emoji": "👅",
+          "title": {
+            "hi": "मुश्किल आवाज़ें: v, w, th",
+            "hinglish": "Mushkil awaazein: v, w, th",
+            "en": "Tricky sounds: v, w, th"
+          }
+        },
+        {
+          "id": "L1.U04",
+          "emoji": "🐒",
+          "title": {
+            "hi": "नई आवाज़ें: m, d, g, o",
+            "hinglish": "Nayi awaazein: m, d, g, o",
+            "en": "New sounds: m, d, g, o"
+          }
+        },
+        {
+          "id": "L1.U05",
+          "emoji": "🐈",
+          "title": {
+            "hi": "नई आवाज़ें: c, e, u, r",
+            "hinglish": "Nayi awaazein: c, e, u, r",
+            "en": "New sounds: c, e, u, r"
+          }
+        },
+        {
+          "id": "L1.U06",
+          "emoji": "🦁",
+          "title": {
+            "hi": "नई आवाज़ें: h, b, f, l",
+            "hinglish": "Nayi awaazein: h, b, f, l",
+            "en": "New sounds: h, b, f, l"
+          }
+        },
+        {
+          "id": "L1.U07",
+          "emoji": "🦓",
+          "title": {
+            "hi": "नई आवाज़ें: j, y, z",
+            "hinglish": "Nayi awaazein: j, y, z",
+            "en": "New sounds: j, y, z"
+          }
+        },
+        {
+          "id": "L1.U08",
+          "emoji": "🚢",
+          "title": {
+            "hi": "दो अक्षर, एक आवाज़: sh, ch, ng",
+            "hinglish": "Do akshar, ek awaaz: sh, ch, ng",
+            "en": "Two letters, one sound: sh, ch, ng"
+          }
+        },
+        {
+          "id": "L1.U09",
+          "emoji": "🪁",
+          "title": {
+            "hi": "जादुई e",
+            "hinglish": "Jaadui e",
+            "en": "Magic e"
+          }
+        },
+        {
+          "id": "L1.U10",
+          "emoji": "🌳",
+          "title": {
+            "hi": "जोड़ी वाले स्वर: ee, oa, ai, oo",
+            "hinglish": "Jodi waale swar: ee, oa, ai, oo",
+            "en": "Vowel teams: ee, oa, ai, oo"
+          }
+        },
+        {
+          "id": "L1.U11",
+          "emoji": "👀",
+          "title": {
+            "hi": "देखो और पहचानो",
+            "hinglish": "Dekho aur pehchaano",
+            "en": "Words to know on sight"
+          }
+        },
+        {
+          "id": "L1.U12",
+          "emoji": "🗣️",
+          "title": {
+            "hi": "साफ़ बोलो: s, z, f, sh",
+            "hinglish": "Saaf bolo: s, z, f, sh",
+            "en": "Speak clearly: s, z, f, sh"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "emoji": "🍎",
+      "title": {
+        "hi": "नए शब्द",
+        "hinglish": "Naye shabd",
+        "en": "New words"
+      },
+      "lessons": [
+        {
+          "id": "L2.U01",
+          "emoji": "👁️",
+          "title": {
+            "hi": "शरीर के अंग",
+            "hinglish": "Shareer ke ang",
+            "en": "My body"
+          }
+        },
+        {
+          "id": "L2.U02",
+          "emoji": "💪",
+          "title": {
+            "hi": "शरीर के और अंग",
+            "hinglish": "Shareer ke aur ang",
+            "en": "More body parts"
+          }
+        },
+        {
+          "id": "L2.U03",
+          "emoji": "👪",
+          "title": {
+            "hi": "मेरा परिवार",
+            "hinglish": "Mera parivaar",
+            "en": "My family"
+          }
+        },
+        {
+          "id": "L2.U04",
+          "emoji": "🤝",
+          "title": {
+            "hi": "दोस्त और लोग",
+            "hinglish": "Dost aur log",
+            "en": "Friends and people"
+          }
+        },
+        {
+          "id": "L2.U05",
+          "emoji": "🏠",
+          "title": {
+            "hi": "मेरा घर",
+            "hinglish": "Mera ghar",
+            "en": "My home"
+          }
+        },
+        {
+          "id": "L2.U06",
+          "emoji": "🥄",
+          "title": {
+            "hi": "रसोई और बाथरूम",
+            "hinglish": "Rasoi aur bathroom",
+            "en": "Kitchen and bathroom"
+          }
+        },
+        {
+          "id": "L2.U07",
+          "emoji": "📚",
+          "title": {
+            "hi": "स्कूल बैग",
+            "hinglish": "School bag",
+            "en": "My school bag"
+          }
+        },
+        {
+          "id": "L2.U08",
+          "emoji": "🗺️",
+          "title": {
+            "hi": "स्कूल की चीज़ें",
+            "hinglish": "School ki cheezein",
+            "en": "Things at school"
+          }
+        },
+        {
+          "id": "L2.U09",
+          "emoji": "🍎",
+          "title": {
+            "hi": "फल",
+            "hinglish": "Phal",
+            "en": "Fruits"
+          }
+        },
+        {
+          "id": "L2.U10",
+          "emoji": "🍚",
+          "title": {
+            "hi": "खाना-पीना",
+            "hinglish": "Khaana-peena",
+            "en": "Food and drinks"
+          }
+        },
+        {
+          "id": "L2.U11",
+          "emoji": "🥕",
+          "title": {
+            "hi": "सब्ज़ियाँ",
+            "hinglish": "Sabziyaan",
+            "en": "Vegetables"
+          }
+        },
+        {
+          "id": "L2.U12",
+          "emoji": "🐄",
+          "title": {
+            "hi": "घर के जानवर",
+            "hinglish": "Ghar ke jaanwar",
+            "en": "Farm animals"
+          }
+        },
+        {
+          "id": "L2.U13",
+          "emoji": "🦁",
+          "title": {
+            "hi": "जंगल के जानवर",
+            "hinglish": "Jungle ke jaanwar",
+            "en": "Jungle animals"
+          }
+        },
+        {
+          "id": "L2.U14",
+          "emoji": "🦋",
+          "title": {
+            "hi": "पक्षी और छोटे जीव",
+            "hinglish": "Pakshi aur chhote jeev",
+            "en": "Birds and bugs"
+          }
+        },
+        {
+          "id": "L2.U15",
+          "emoji": "🎨",
+          "title": {
+            "hi": "रंग",
+            "hinglish": "Rang",
+            "en": "Colours"
+          }
+        },
+        {
+          "id": "L2.U16",
+          "emoji": "🔢",
+          "title": {
+            "hi": "गिनती 1 से 8",
+            "hinglish": "Ginti 1 se 8",
+            "en": "Numbers 1 to 8"
+          }
+        },
+        {
+          "id": "L2.U17",
+          "emoji": "💯",
+          "title": {
+            "hi": "और गिनती",
+            "hinglish": "Aur ginti",
+            "en": "More numbers"
+          }
+        },
+        {
+          "id": "L2.U18",
+          "emoji": "👕",
+          "title": {
+            "hi": "कपड़े",
+            "hinglish": "Kapde",
+            "en": "Clothes"
+          }
+        },
+        {
+          "id": "L2.U19",
+          "emoji": "🏃",
+          "title": {
+            "hi": "काम वाले शब्द",
+            "hinglish": "Kaam waale shabd",
+            "en": "Action words"
+          }
+        },
+        {
+          "id": "L2.U20",
+          "emoji": "✍️",
+          "title": {
+            "hi": "और काम वाले शब्द",
+            "hinglish": "Aur kaam waale shabd",
+            "en": "More action words"
+          }
+        },
+        {
+          "id": "L2.U21",
+          "emoji": "👀",
+          "title": {
+            "hi": "देखो, सुनो, सोचो",
+            "hinglish": "Dekho, suno, socho",
+            "en": "Look, listen, think"
+          }
+        },
+        {
+          "id": "L2.U22",
+          "emoji": "🏪",
+          "title": {
+            "hi": "जगहें",
+            "hinglish": "Jagahein",
+            "en": "Places"
+          }
+        },
+        {
+          "id": "L2.U23",
+          "emoji": "🌳",
+          "title": {
+            "hi": "बाहर की दुनिया",
+            "hinglish": "Baahar ki duniya",
+            "en": "Nature"
+          }
+        },
+        {
+          "id": "L2.U24",
+          "emoji": "😀",
+          "title": {
+            "hi": "मन की बातें",
+            "hinglish": "Mann ki baatein",
+            "en": "Feelings"
+          }
+        },
+        {
+          "id": "L2.U25",
+          "emoji": "🌅",
+          "title": {
+            "hi": "समय",
+            "hinglish": "Samay",
+            "en": "Time"
+          }
+        },
+        {
+          "id": "L2.U26",
+          "emoji": "📅",
+          "title": {
+            "hi": "हफ़्ते के दिन",
+            "hinglish": "Hafte ke din",
+            "en": "Days of the week"
+          }
+        },
+        {
+          "id": "L2.U27",
+          "emoji": "🔥",
+          "title": {
+            "hi": "उल्टे शब्द",
+            "hinglish": "Ulte shabd",
+            "en": "Opposites"
+          }
+        },
+        {
+          "id": "L2.U28",
+          "emoji": "🦒",
+          "title": {
+            "hi": "और उल्टे शब्द",
+            "hinglish": "Aur ulte shabd",
+            "en": "More opposites"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "emoji": "🚂",
+      "title": {
+        "hi": "सेंटेंस बनाओ",
+        "hinglish": "Sentence banao",
+        "en": "Build sentences"
+      },
+      "lessons": [
+        {
+          "id": "L3.U01",
+          "emoji": "👉",
+          "title": {
+            "hi": "यह / वह: This is, That is",
+            "hinglish": "Yeh / Woh: This is, That is",
+            "en": "This is, That is"
+          }
+        },
+        {
+          "id": "L3.U02",
+          "emoji": "🙋",
+          "title": {
+            "hi": "मैं हूँ: I am",
+            "hinglish": "Main hoon: I am",
+            "en": "I am"
+          }
+        },
+        {
+          "id": "L3.U03",
+          "emoji": "👦",
+          "title": {
+            "hi": "वह है: He, She, It is",
+            "hinglish": "Woh hai: He, She, It is",
+            "en": "He is, She is, It is"
+          }
+        },
+        {
+          "id": "L3.U04",
+          "emoji": "👨‍👩‍👧",
+          "title": {
+            "hi": "हम, तुम, वे: are",
+            "hinglish": "Hum, tum, woh: are",
+            "en": "We, You, They are"
+          }
+        },
+        {
+          "id": "L3.U05",
+          "emoji": "🍏",
+          "title": {
+            "hi": "a, an, the का खेल",
+            "hinglish": "a, an, the ka khel",
+            "en": "a, an, the"
+          }
+        },
+        {
+          "id": "L3.U06",
+          "emoji": "🎒",
+          "title": {
+            "hi": "मेरे पास है: I have",
+            "hinglish": "Mere paas hai: I have",
+            "en": "I have, He has"
+          }
+        },
+        {
+          "id": "L3.U07",
+          "emoji": "❤️",
+          "title": {
+            "hi": "मुझे पसंद है: I like",
+            "hinglish": "Mujhe pasand hai: I like",
+            "en": "I like"
+          }
+        },
+        {
+          "id": "L3.U08",
+          "emoji": "🏊",
+          "title": {
+            "hi": "कर सकना: I can",
+            "hinglish": "Kar sakna: I can",
+            "en": "I can"
+          }
+        },
+        {
+          "id": "L3.U09",
+          "emoji": "📦",
+          "title": {
+            "hi": "वहाँ है: There is, There are",
+            "hinglish": "Wahan hai: There is, There are",
+            "en": "There is, There are"
+          }
+        },
+        {
+          "id": "L3.U10",
+          "emoji": "🔍",
+          "title": {
+            "hi": "कहाँ है? in, on, under",
+            "hinglish": "Kahan hai? in, on, under",
+            "en": "Where is? in, on, under"
+          }
+        },
+        {
+          "id": "L3.U11",
+          "emoji": "🙏",
+          "title": {
+            "hi": "मुझे चाहिए: I want",
+            "hinglish": "Mujhe chahiye: I want",
+            "en": "I want"
+          }
+        },
+        {
+          "id": "L3.U12",
+          "emoji": "🚫",
+          "title": {
+            "hi": "नहीं: not",
+            "hinglish": "Nahi: not",
+            "en": "not"
+          }
+        },
+        {
+          "id": "L3.U13",
+          "emoji": "❓",
+          "title": {
+            "hi": "हाँ या ना वाले सवाल",
+            "hinglish": "Haan ya na waale sawaal",
+            "en": "Yes/No questions"
+          }
+        },
+        {
+          "id": "L3.U14",
+          "emoji": "🤔",
+          "title": {
+            "hi": "क्या, कौन, कहाँ",
+            "hinglish": "Kya, kaun, kahan",
+            "en": "What, Who, Where"
+          }
+        },
+        {
+          "id": "L3.U15",
+          "emoji": "📆",
+          "title": {
+            "hi": "रोज़ की बातें",
+            "hinglish": "Roz ki baatein",
+            "en": "Every day: I play, He plays"
+          }
+        }
+      ]
+    }
+  ]
+}

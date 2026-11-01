@@ -1,0 +1,477 @@
+{
+  "id": "L2.U13",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U13.S01",
+      "text": {
+        "hi": "जंगल के जानवर!",
+        "hinglish": "Jungle ke jaanwar!",
+        "en": "Animals of the jungle!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U13.S02",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘lion’ मतलब ‘शेर’।",
+        "hinglish": "‘lion’ matlab ‘sher’.",
+        "en": "Say it with me: lion!"
+      },
+      "word": {
+        "english": "lion",
+        "emoji": "🦁",
+        "hindi": "शेर",
+        "hinglish": "sher"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U13.S03",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘tiger’ मतलब ‘बाघ’।",
+        "hinglish": "‘tiger’ matlab ‘baagh’.",
+        "en": "Say it with me: tiger!"
+      },
+      "word": {
+        "english": "tiger",
+        "emoji": "🐅",
+        "hindi": "बाघ",
+        "hinglish": "baagh"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U13.S04",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "lion",
+      "options": [
+        {
+          "english": "lion",
+          "emoji": "🦁",
+          "hindi": "शेर",
+          "hinglish": "sher"
+        },
+        {
+          "english": "snake",
+          "emoji": "🐍",
+          "hindi": "साँप",
+          "hinglish": "saanp"
+        },
+        {
+          "english": "rabbit",
+          "emoji": "🐇",
+          "hindi": "खरगोश",
+          "hinglish": "khargosh"
+        },
+        {
+          "english": "monkey",
+          "emoji": "🐒",
+          "hindi": "बंदर",
+          "hinglish": "bandar"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U13.S05",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐅",
+      "answer": "tiger",
+      "options": [
+        "tiger",
+        "lion",
+        "elephant"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U13.S06",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘elephant’ मतलब ‘हाथी’।",
+        "hinglish": "‘elephant’ matlab ‘haathi’.",
+        "en": "Say it with me: elephant!"
+      },
+      "word": {
+        "english": "elephant",
+        "emoji": "🐘",
+        "hindi": "हाथी",
+        "hinglish": "haathi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U13.S07",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘monkey’ मतलब ‘बंदर’।",
+        "hinglish": "‘monkey’ matlab ‘bandar’.",
+        "en": "Say it with me: monkey!"
+      },
+      "word": {
+        "english": "monkey",
+        "emoji": "🐒",
+        "hindi": "बंदर",
+        "hinglish": "bandar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U13.S08",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "elephant",
+      "options": [
+        {
+          "english": "elephant",
+          "emoji": "🐘",
+          "hindi": "हाथी",
+          "hinglish": "haathi"
+        },
+        {
+          "english": "monkey",
+          "emoji": "🐒",
+          "hindi": "बंदर",
+          "hinglish": "bandar"
+        },
+        {
+          "english": "rabbit",
+          "emoji": "🐇",
+          "hindi": "खरगोश",
+          "hinglish": "khargosh"
+        },
+        {
+          "english": "bear",
+          "emoji": "🐻",
+          "hindi": "भालू",
+          "hinglish": "bhaaloo"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U13.S09",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐒",
+      "answer": "monkey",
+      "options": [
+        "monkey",
+        "snake",
+        "camel"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U13.S10",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘bear’ मतलब ‘भालू’।",
+        "hinglish": "‘bear’ matlab ‘bhaaloo’.",
+        "en": "Say it with me: bear!"
+      },
+      "word": {
+        "english": "bear",
+        "emoji": "🐻",
+        "hindi": "भालू",
+        "hinglish": "bhaaloo"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U13.S11",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘snake’ मतलब ‘साँप’।",
+        "hinglish": "‘snake’ matlab ‘saanp’.",
+        "en": "Say it with me: snake!"
+      },
+      "word": {
+        "english": "snake",
+        "emoji": "🐍",
+        "hindi": "साँप",
+        "hinglish": "saanp"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U13.S12",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "bear",
+      "options": [
+        {
+          "english": "bear",
+          "emoji": "🐻",
+          "hindi": "भालू",
+          "hinglish": "bhaaloo"
+        },
+        {
+          "english": "camel",
+          "emoji": "🐫",
+          "hindi": "ऊँट",
+          "hinglish": "oont"
+        },
+        {
+          "english": "elephant",
+          "emoji": "🐘",
+          "hindi": "हाथी",
+          "hinglish": "haathi"
+        },
+        {
+          "english": "tiger",
+          "emoji": "🐅",
+          "hindi": "बाघ",
+          "hinglish": "baagh"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U13.S13",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐍",
+      "answer": "snake",
+      "options": [
+        "snake",
+        "camel",
+        "tiger"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U13.S14",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘camel’ मतलब ‘ऊँट’।",
+        "hinglish": "‘camel’ matlab ‘oont’.",
+        "en": "Say it with me: camel!"
+      },
+      "word": {
+        "english": "camel",
+        "emoji": "🐫",
+        "hindi": "ऊँट",
+        "hinglish": "oont"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U13.S15",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘rabbit’ मतलब ‘खरगोश’।",
+        "hinglish": "‘rabbit’ matlab ‘khargosh’.",
+        "en": "Say it with me: rabbit!"
+      },
+      "word": {
+        "english": "rabbit",
+        "emoji": "🐇",
+        "hindi": "खरगोश",
+        "hinglish": "khargosh"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U13.S16",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "camel",
+      "options": [
+        {
+          "english": "camel",
+          "emoji": "🐫",
+          "hindi": "ऊँट",
+          "hinglish": "oont"
+        },
+        {
+          "english": "tiger",
+          "emoji": "🐅",
+          "hindi": "बाघ",
+          "hinglish": "baagh"
+        },
+        {
+          "english": "lion",
+          "emoji": "🦁",
+          "hindi": "शेर",
+          "hinglish": "sher"
+        },
+        {
+          "english": "bear",
+          "emoji": "🐻",
+          "hindi": "भालू",
+          "hinglish": "bhaaloo"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U13.S17",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐇",
+      "answer": "rabbit",
+      "options": [
+        "rabbit",
+        "elephant",
+        "monkey"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U13.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "snake",
+        "emoji": "🐍",
+        "hindi": "साँप",
+        "hinglish": "saanp"
+      },
+      "answer": {
+        "hi": "साँप",
+        "hinglish": "saanp"
+      },
+      "options": [
+        {
+          "hi": "साँप",
+          "hinglish": "saanp"
+        },
+        {
+          "hi": "बाघ",
+          "hinglish": "baagh"
+        },
+        {
+          "hi": "हाथी",
+          "hinglish": "haathi"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U13.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "tiger",
+        "emoji": "🐅",
+        "hindi": "बाघ",
+        "hinglish": "baagh"
+      },
+      "answer": {
+        "hi": "बाघ",
+        "hinglish": "baagh"
+      },
+      "options": [
+        {
+          "hi": "बाघ",
+          "hinglish": "baagh"
+        },
+        {
+          "hi": "बंदर",
+          "hinglish": "bandar"
+        },
+        {
+          "hi": "शेर",
+          "hinglish": "sher"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U13.S20",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "lion",
+        "emoji": "🦁",
+        "hindi": "शेर",
+        "hinglish": "sher"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U13.S21",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "bear",
+        "emoji": "🐻",
+        "hindi": "भालू",
+        "hinglish": "bhaaloo"
+      },
+      "accept": [
+        "bare"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U13.S22",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "answer": "tiger",
+      "options": [
+        "tiger",
+        "snake",
+        "elephant"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U13.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: lion, tiger, elephant, monkey, bear, snake, camel, rabbit।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: lion, tiger, elephant, monkey, bear, snake, camel, rabbit.",
+        "en": "Well done! Today's new words: lion, tiger, elephant, monkey, bear, snake, camel, rabbit."
+      }
+    }
+  ]
+}

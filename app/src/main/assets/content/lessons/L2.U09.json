@@ -1,0 +1,474 @@
+{
+  "id": "L2.U09",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U09.S01",
+      "text": {
+        "hi": "मीठे-मीठे फल!",
+        "hinglish": "Meethe-meethe phal!",
+        "en": "Sweet, juicy fruits!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U09.S02",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘apple’ मतलब ‘सेब’।",
+        "hinglish": "‘apple’ matlab ‘seb’.",
+        "en": "Say it with me: apple!"
+      },
+      "word": {
+        "english": "apple",
+        "emoji": "🍎",
+        "hindi": "सेब",
+        "hinglish": "seb"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U09.S03",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘banana’ मतलब ‘केला’।",
+        "hinglish": "‘banana’ matlab ‘kela’.",
+        "en": "Say it with me: banana!"
+      },
+      "word": {
+        "english": "banana",
+        "emoji": "🍌",
+        "hindi": "केला",
+        "hinglish": "kela"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U09.S04",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "apple",
+      "options": [
+        {
+          "english": "apple",
+          "emoji": "🍎",
+          "hindi": "सेब",
+          "hinglish": "seb"
+        },
+        {
+          "english": "mango",
+          "emoji": "🥭",
+          "hindi": "आम",
+          "hinglish": "aam"
+        },
+        {
+          "english": "grapes",
+          "emoji": "🍇",
+          "hindi": "अंगूर",
+          "hinglish": "angoor"
+        },
+        {
+          "english": "coconut",
+          "emoji": "🥥",
+          "hindi": "नारियल",
+          "hinglish": "naariyal"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U09.S05",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍌",
+      "answer": "banana",
+      "options": [
+        "banana",
+        "grapes",
+        "apple"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U09.S06",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘mango’ मतलब ‘आम’।",
+        "hinglish": "‘mango’ matlab ‘aam’.",
+        "en": "Say it with me: mango!"
+      },
+      "word": {
+        "english": "mango",
+        "emoji": "🥭",
+        "hindi": "आम",
+        "hinglish": "aam"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U09.S07",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘grapes’ मतलब ‘अंगूर’।",
+        "hinglish": "‘grapes’ matlab ‘angoor’.",
+        "en": "Say it with me: grapes!"
+      },
+      "word": {
+        "english": "grapes",
+        "emoji": "🍇",
+        "hindi": "अंगूर",
+        "hinglish": "angoor"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U09.S08",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "mango",
+      "options": [
+        {
+          "english": "mango",
+          "emoji": "🥭",
+          "hindi": "आम",
+          "hinglish": "aam"
+        },
+        {
+          "english": "banana",
+          "emoji": "🍌",
+          "hindi": "केला",
+          "hinglish": "kela"
+        },
+        {
+          "english": "orange",
+          "emoji": "🍊",
+          "hindi": "संतरा",
+          "hinglish": "santra"
+        },
+        {
+          "english": "apple",
+          "emoji": "🍎",
+          "hindi": "सेब",
+          "hinglish": "seb"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U09.S09",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍇",
+      "answer": "grapes",
+      "options": [
+        "grapes",
+        "watermelon",
+        "mango"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U09.S10",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘orange’ मतलब ‘संतरा’।",
+        "hinglish": "‘orange’ matlab ‘santra’.",
+        "en": "Say it with me: orange!"
+      },
+      "word": {
+        "english": "orange",
+        "emoji": "🍊",
+        "hindi": "संतरा",
+        "hinglish": "santra"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U09.S11",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘watermelon’ मतलब ‘तरबूज़’।",
+        "hinglish": "‘watermelon’ matlab ‘tarbooz’.",
+        "en": "Say it with me: watermelon!"
+      },
+      "word": {
+        "english": "watermelon",
+        "emoji": "🍉",
+        "hindi": "तरबूज़",
+        "hinglish": "tarbooz"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U09.S12",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "orange",
+      "options": [
+        {
+          "english": "orange",
+          "emoji": "🍊",
+          "hindi": "संतरा",
+          "hinglish": "santra"
+        },
+        {
+          "english": "coconut",
+          "emoji": "🥥",
+          "hindi": "नारियल",
+          "hinglish": "naariyal"
+        },
+        {
+          "english": "apple",
+          "emoji": "🍎",
+          "hindi": "सेब",
+          "hinglish": "seb"
+        },
+        {
+          "english": "pineapple",
+          "emoji": "🍍",
+          "hindi": "अनानास",
+          "hinglish": "ananaas"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U09.S13",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍉",
+      "answer": "watermelon",
+      "options": [
+        "watermelon",
+        "mango",
+        "pineapple"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U09.S14",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘pineapple’ मतलब ‘अनानास’।",
+        "hinglish": "‘pineapple’ matlab ‘ananaas’.",
+        "en": "Say it with me: pineapple!"
+      },
+      "word": {
+        "english": "pineapple",
+        "emoji": "🍍",
+        "hindi": "अनानास",
+        "hinglish": "ananaas"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U09.S15",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘coconut’ मतलब ‘नारियल’।",
+        "hinglish": "‘coconut’ matlab ‘naariyal’.",
+        "en": "Say it with me: coconut!"
+      },
+      "word": {
+        "english": "coconut",
+        "emoji": "🥥",
+        "hindi": "नारियल",
+        "hinglish": "naariyal"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U09.S16",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "pineapple",
+      "options": [
+        {
+          "english": "pineapple",
+          "emoji": "🍍",
+          "hindi": "अनानास",
+          "hinglish": "ananaas"
+        },
+        {
+          "english": "grapes",
+          "emoji": "🍇",
+          "hindi": "अंगूर",
+          "hinglish": "angoor"
+        },
+        {
+          "english": "apple",
+          "emoji": "🍎",
+          "hindi": "सेब",
+          "hinglish": "seb"
+        },
+        {
+          "english": "banana",
+          "emoji": "🍌",
+          "hindi": "केला",
+          "hinglish": "kela"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U09.S17",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🥥",
+      "answer": "coconut",
+      "options": [
+        "coconut",
+        "grapes",
+        "watermelon"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U09.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "apple",
+        "emoji": "🍎",
+        "hindi": "सेब",
+        "hinglish": "seb"
+      },
+      "answer": {
+        "hi": "सेब",
+        "hinglish": "seb"
+      },
+      "options": [
+        {
+          "hi": "सेब",
+          "hinglish": "seb"
+        },
+        {
+          "hi": "तरबूज़",
+          "hinglish": "tarbooz"
+        },
+        {
+          "hi": "आम",
+          "hinglish": "aam"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U09.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "grapes",
+        "emoji": "🍇",
+        "hindi": "अंगूर",
+        "hinglish": "angoor"
+      },
+      "answer": {
+        "hi": "अंगूर",
+        "hinglish": "angoor"
+      },
+      "options": [
+        {
+          "hi": "अंगूर",
+          "hinglish": "angoor"
+        },
+        {
+          "hi": "तरबूज़",
+          "hinglish": "tarbooz"
+        },
+        {
+          "hi": "आम",
+          "hinglish": "aam"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U09.S20",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "apple",
+        "emoji": "🍎",
+        "hindi": "सेब",
+        "hinglish": "seb"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U09.S21",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "mango",
+        "emoji": "🥭",
+        "hindi": "आम",
+        "hinglish": "aam"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U09.S22",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "pineapple",
+      "options": [
+        "pineapple",
+        "apple",
+        "mango"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U09.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: apple, banana, mango, grapes, orange, watermelon, pineapple, coconut।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: apple, banana, mango, grapes, orange, watermelon, pineapple, coconut.",
+        "en": "Well done! Today's new words: apple, banana, mango, grapes, orange, watermelon, pineapple, coconut."
+      }
+    }
+  ]
+}

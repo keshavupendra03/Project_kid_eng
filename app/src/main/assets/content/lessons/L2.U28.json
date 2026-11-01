@@ -1,0 +1,477 @@
+{
+  "id": "L2.U28",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U28.S01",
+      "text": {
+        "hi": "और उल्टे शब्द!",
+        "hinglish": "Aur ulte shabd!",
+        "en": "More opposites!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U28.S02",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘tall’ मतलब ‘लंबा’।",
+        "hinglish": "‘tall’ matlab ‘lamba’.",
+        "en": "Say it with me: tall!"
+      },
+      "word": {
+        "english": "tall",
+        "emoji": "🦒",
+        "hindi": "लंबा",
+        "hinglish": "lamba"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U28.S03",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘new’ मतलब ‘नया’।",
+        "hinglish": "‘new’ matlab ‘naya’.",
+        "en": "Say it with me: new!"
+      },
+      "word": {
+        "english": "new",
+        "emoji": "🆕",
+        "hindi": "नया",
+        "hinglish": "naya"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U28.S04",
+      "skills": [
+        "listen.word",
+        "vocab.opposites"
+      ],
+      "answer": "tall",
+      "options": [
+        {
+          "english": "tall",
+          "emoji": "🦒",
+          "hindi": "लंबा",
+          "hinglish": "lamba"
+        },
+        {
+          "english": "old",
+          "emoji": "🏚️",
+          "hindi": "पुराना",
+          "hinglish": "puraana"
+        },
+        {
+          "english": "loud",
+          "emoji": "📢",
+          "hindi": "ज़ोर से",
+          "hinglish": "zor se"
+        },
+        {
+          "english": "wet",
+          "emoji": "💦",
+          "hindi": "गीला",
+          "hinglish": "geela"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U28.S05",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "emoji": "🆕",
+      "answer": "new",
+      "options": [
+        "new",
+        "heavy",
+        "dry"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U28.S06",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘old’ मतलब ‘पुराना’।",
+        "hinglish": "‘old’ matlab ‘puraana’.",
+        "en": "Say it with me: old!"
+      },
+      "word": {
+        "english": "old",
+        "emoji": "🏚️",
+        "hindi": "पुराना",
+        "hinglish": "puraana"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U28.S07",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘wet’ मतलब ‘गीला’।",
+        "hinglish": "‘wet’ matlab ‘geela’.",
+        "en": "Say it with me: wet!"
+      },
+      "word": {
+        "english": "wet",
+        "emoji": "💦",
+        "hindi": "गीला",
+        "hinglish": "geela"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U28.S08",
+      "skills": [
+        "listen.word",
+        "vocab.opposites"
+      ],
+      "answer": "old",
+      "options": [
+        {
+          "english": "old",
+          "emoji": "🏚️",
+          "hindi": "पुराना",
+          "hinglish": "puraana"
+        },
+        {
+          "english": "heavy",
+          "emoji": "🏋️",
+          "hindi": "भारी",
+          "hinglish": "bhaari"
+        },
+        {
+          "english": "loud",
+          "emoji": "📢",
+          "hindi": "ज़ोर से",
+          "hinglish": "zor se"
+        },
+        {
+          "english": "tall",
+          "emoji": "🦒",
+          "hindi": "लंबा",
+          "hinglish": "lamba"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U28.S09",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "emoji": "💦",
+      "answer": "wet",
+      "options": [
+        "wet",
+        "quiet",
+        "new"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U28.S10",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘dry’ मतलब ‘सूखा’।",
+        "hinglish": "‘dry’ matlab ‘sookha’.",
+        "en": "Say it with me: dry!"
+      },
+      "word": {
+        "english": "dry",
+        "emoji": "🏜️",
+        "hindi": "सूखा",
+        "hinglish": "sookha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U28.S11",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘heavy’ मतलब ‘भारी’।",
+        "hinglish": "‘heavy’ matlab ‘bhaari’.",
+        "en": "Say it with me: heavy!"
+      },
+      "word": {
+        "english": "heavy",
+        "emoji": "🏋️",
+        "hindi": "भारी",
+        "hinglish": "bhaari"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U28.S12",
+      "skills": [
+        "listen.word",
+        "vocab.opposites"
+      ],
+      "answer": "dry",
+      "options": [
+        {
+          "english": "dry",
+          "emoji": "🏜️",
+          "hindi": "सूखा",
+          "hinglish": "sookha"
+        },
+        {
+          "english": "wet",
+          "emoji": "💦",
+          "hindi": "गीला",
+          "hinglish": "geela"
+        },
+        {
+          "english": "old",
+          "emoji": "🏚️",
+          "hindi": "पुराना",
+          "hinglish": "puraana"
+        },
+        {
+          "english": "tall",
+          "emoji": "🦒",
+          "hindi": "लंबा",
+          "hinglish": "lamba"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U28.S13",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "emoji": "🏋️",
+      "answer": "heavy",
+      "options": [
+        "heavy",
+        "new",
+        "loud"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U28.S14",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘loud’ मतलब ‘ज़ोर से’।",
+        "hinglish": "‘loud’ matlab ‘zor se’.",
+        "en": "Say it with me: loud!"
+      },
+      "word": {
+        "english": "loud",
+        "emoji": "📢",
+        "hindi": "ज़ोर से",
+        "hinglish": "zor se"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U28.S15",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘quiet’ मतलब ‘चुप’।",
+        "hinglish": "‘quiet’ matlab ‘chup’.",
+        "en": "Say it with me: quiet!"
+      },
+      "word": {
+        "english": "quiet",
+        "emoji": "🤫",
+        "hindi": "चुप",
+        "hinglish": "chup"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U28.S16",
+      "skills": [
+        "listen.word",
+        "vocab.opposites"
+      ],
+      "answer": "loud",
+      "options": [
+        {
+          "english": "loud",
+          "emoji": "📢",
+          "hindi": "ज़ोर से",
+          "hinglish": "zor se"
+        },
+        {
+          "english": "heavy",
+          "emoji": "🏋️",
+          "hindi": "भारी",
+          "hinglish": "bhaari"
+        },
+        {
+          "english": "new",
+          "emoji": "🆕",
+          "hindi": "नया",
+          "hinglish": "naya"
+        },
+        {
+          "english": "wet",
+          "emoji": "💦",
+          "hindi": "गीला",
+          "hinglish": "geela"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U28.S17",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "emoji": "🤫",
+      "answer": "quiet",
+      "options": [
+        "quiet",
+        "tall",
+        "heavy"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U28.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "dry",
+        "emoji": "🏜️",
+        "hindi": "सूखा",
+        "hinglish": "sookha"
+      },
+      "answer": {
+        "hi": "सूखा",
+        "hinglish": "sookha"
+      },
+      "options": [
+        {
+          "hi": "सूखा",
+          "hinglish": "sookha"
+        },
+        {
+          "hi": "भारी",
+          "hinglish": "bhaari"
+        },
+        {
+          "hi": "गीला",
+          "hinglish": "geela"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U28.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "tall",
+        "emoji": "🦒",
+        "hindi": "लंबा",
+        "hinglish": "lamba"
+      },
+      "answer": {
+        "hi": "लंबा",
+        "hinglish": "lamba"
+      },
+      "options": [
+        {
+          "hi": "लंबा",
+          "hinglish": "lamba"
+        },
+        {
+          "hi": "गीला",
+          "hinglish": "geela"
+        },
+        {
+          "hi": "पुराना",
+          "hinglish": "puraana"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U28.S20",
+      "skills": [
+        "speak.word",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "new",
+        "emoji": "🆕",
+        "hindi": "नया",
+        "hinglish": "naya"
+      },
+      "accept": [
+        "knew"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U28.S21",
+      "skills": [
+        "speak.word",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "old",
+        "emoji": "🏚️",
+        "hindi": "पुराना",
+        "hinglish": "puraana"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U28.S22",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "quiet",
+      "options": [
+        "quiet",
+        "new",
+        "old"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U28.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: tall, new, old, wet, dry, heavy, loud, quiet।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: tall, new, old, wet, dry, heavy, loud, quiet.",
+        "en": "Well done! Today's new words: tall, new, old, wet, dry, heavy, loud, quiet."
+      }
+    }
+  ]
+}

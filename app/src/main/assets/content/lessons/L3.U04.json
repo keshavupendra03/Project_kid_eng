@@ -1,0 +1,302 @@
+{
+  "id": "L3.U04",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U04.S01",
+      "skills": [
+        "grammar.we_you_they"
+      ],
+      "text": {
+        "hi": "एक से ज़्यादा लोग हों, या ‘तुम’ से बात कर रहे हो, तो ‘are’: We are, You are, They are.",
+        "hinglish": "Ek se zyaada log hon, ya ‘tum’ se baat kar rahe ho, to ‘are’: We are, You are, They are.",
+        "en": "For more than one person, or when talking to ‘you’, use ‘are’: We are, You are, They are."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U04.S02",
+      "skills": [
+        "grammar.we_you_they"
+      ],
+      "text": {
+        "hi": "हम = We, तुम = You, वे = They. याद रखो: I am, He/She/It is, बाकी सब are!",
+        "hinglish": "Hum = We, tum = You, woh log = They. Yaad rakho: I am, He/She/It is, baaki sab are!",
+        "en": "Remember: I am, He/She/It is, and all the rest use are!"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U04.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.we_you_they"
+      ],
+      "hindi": [
+        {
+          "hi": "हम",
+          "hinglish": "Hum",
+          "role": "s"
+        },
+        {
+          "hi": "दोस्त",
+          "hinglish": "dost",
+          "role": "o"
+        },
+        {
+          "hi": "हैं",
+          "hinglish": "hain",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "We",
+          "role": "s"
+        },
+        {
+          "text": "are",
+          "role": "v"
+        },
+        {
+          "text": "friends",
+          "role": "o"
+        }
+      ],
+      "extra": [
+        "is"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U04.S04",
+      "skills": [
+        "grammar.we_you_they"
+      ],
+      "sentence": "We ___ happy.",
+      "answer": "are",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "meaning": {
+        "hi": "हम खुश हैं।",
+        "hinglish": "Hum khush hain."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U04.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.we_you_they"
+      ],
+      "hindi": [
+        {
+          "hi": "तुम",
+          "hinglish": "Tum",
+          "role": "s"
+        },
+        {
+          "hi": "मेरे",
+          "hinglish": "mere",
+          "role": "x"
+        },
+        {
+          "hi": "दोस्त",
+          "hinglish": "dost",
+          "role": "o"
+        },
+        {
+          "hi": "हो",
+          "hinglish": "ho",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "You",
+          "role": "s"
+        },
+        {
+          "text": "are",
+          "role": "v"
+        },
+        {
+          "text": "my",
+          "role": "x"
+        },
+        {
+          "text": "friend",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U04.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.we_you_they"
+      ],
+      "words": [
+        "We",
+        "is",
+        "friends."
+      ],
+      "wrong": 1,
+      "fix": "are",
+      "meaning": {
+        "hi": "हम दोस्त हैं।",
+        "hinglish": "Hum dost hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U04.S07",
+      "skills": [
+        "grammar.we_you_they"
+      ],
+      "sentence": "You ___ my best friend.",
+      "answer": "are",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "meaning": {
+        "hi": "तुम मेरे सबसे अच्छे दोस्त हो।",
+        "hinglish": "Tum mere sabse achhe dost ho."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U04.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.we_you_they"
+      ],
+      "sentence": "We are friends.",
+      "meaning": {
+        "hi": "हम दोस्त हैं।",
+        "hinglish": "Hum dost hain.",
+        "en": "We are friends."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U04.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.we_you_they"
+      ],
+      "hindi": [
+        {
+          "hi": "वे",
+          "hinglish": "Woh",
+          "role": "s"
+        },
+        {
+          "hi": "पार्क",
+          "hinglish": "park",
+          "role": "o"
+        },
+        {
+          "hi": "में",
+          "hinglish": "mein",
+          "role": "x"
+        },
+        {
+          "hi": "हैं",
+          "hinglish": "hain",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "They",
+          "role": "s"
+        },
+        {
+          "text": "are",
+          "role": "v"
+        },
+        {
+          "text": "in",
+          "role": "x"
+        },
+        {
+          "text": "the",
+          "role": "x"
+        },
+        {
+          "text": "park",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U04.S10",
+      "skills": [
+        "grammar.we_you_they"
+      ],
+      "sentence": "___ are at school.",
+      "answer": "They",
+      "options": [
+        "They",
+        "He",
+        "I"
+      ],
+      "meaning": {
+        "hi": "वे स्कूल में हैं।",
+        "hinglish": "Woh school mein hain."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U04.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.we_you_they"
+      ],
+      "words": [
+        "They",
+        "am",
+        "at",
+        "home."
+      ],
+      "wrong": 1,
+      "fix": "are",
+      "meaning": {
+        "hi": "वे घर पर हैं।",
+        "hinglish": "Woh ghar par hain."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U04.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.we_you_they"
+      ],
+      "sentence": "You are my friend.",
+      "meaning": {
+        "hi": "तुम मेरे दोस्त हो।",
+        "hinglish": "Tum mere dost ho.",
+        "en": "You are my friend."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U04.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

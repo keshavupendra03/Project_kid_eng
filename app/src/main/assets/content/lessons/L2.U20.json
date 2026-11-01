@@ -1,0 +1,474 @@
+{
+  "id": "L2.U20",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U20.S01",
+      "text": {
+        "hi": "कुछ और काम वाले शब्द!",
+        "hinglish": "Kuch aur kaam waale shabd!",
+        "en": "More action words!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U20.S02",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘read’ मतलब ‘पढ़ना’।",
+        "hinglish": "‘read’ matlab ‘padhna’.",
+        "en": "Say it with me: read!"
+      },
+      "word": {
+        "english": "read",
+        "emoji": "📖",
+        "hindi": "पढ़ना",
+        "hinglish": "padhna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U20.S03",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘write’ मतलब ‘लिखना’।",
+        "hinglish": "‘write’ matlab ‘likhna’.",
+        "en": "Say it with me: write!"
+      },
+      "word": {
+        "english": "write",
+        "emoji": "✍️",
+        "hindi": "लिखना",
+        "hinglish": "likhna"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U20.S04",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "read",
+      "options": [
+        {
+          "english": "read",
+          "emoji": "📖",
+          "hindi": "पढ़ना",
+          "hinglish": "padhna"
+        },
+        {
+          "english": "write",
+          "emoji": "✍️",
+          "hindi": "लिखना",
+          "hinglish": "likhna"
+        },
+        {
+          "english": "play",
+          "emoji": "⚽",
+          "hindi": "खेलना",
+          "hinglish": "khelna"
+        },
+        {
+          "english": "sing",
+          "emoji": "🎤",
+          "hindi": "गाना",
+          "hinglish": "gaana"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U20.S05",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "✍️",
+      "answer": "write",
+      "options": [
+        "write",
+        "sing",
+        "read"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U20.S06",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘sing’ मतलब ‘गाना’।",
+        "hinglish": "‘sing’ matlab ‘gaana’.",
+        "en": "Say it with me: sing!"
+      },
+      "word": {
+        "english": "sing",
+        "emoji": "🎤",
+        "hindi": "गाना",
+        "hinglish": "gaana"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U20.S07",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘cook’ मतलब ‘खाना बनाना’।",
+        "hinglish": "‘cook’ matlab ‘khaana banaana’.",
+        "en": "Say it with me: cook!"
+      },
+      "word": {
+        "english": "cook",
+        "emoji": "🍳",
+        "hindi": "खाना बनाना",
+        "hinglish": "khaana banaana"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U20.S08",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "sing",
+      "options": [
+        {
+          "english": "sing",
+          "emoji": "🎤",
+          "hindi": "गाना",
+          "hinglish": "gaana"
+        },
+        {
+          "english": "play",
+          "emoji": "⚽",
+          "hindi": "खेलना",
+          "hinglish": "khelna"
+        },
+        {
+          "english": "read",
+          "emoji": "📖",
+          "hindi": "पढ़ना",
+          "hinglish": "padhna"
+        },
+        {
+          "english": "cook",
+          "emoji": "🍳",
+          "hindi": "खाना बनाना",
+          "hinglish": "khaana banaana"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U20.S09",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "🍳",
+      "answer": "cook",
+      "options": [
+        "cook",
+        "cry",
+        "play"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U20.S10",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘play’ मतलब ‘खेलना’।",
+        "hinglish": "‘play’ matlab ‘khelna’.",
+        "en": "Say it with me: play!"
+      },
+      "word": {
+        "english": "play",
+        "emoji": "⚽",
+        "hindi": "खेलना",
+        "hinglish": "khelna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U20.S11",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘wash’ मतलब ‘धोना’।",
+        "hinglish": "‘wash’ matlab ‘dhona’.",
+        "en": "Say it with me: wash!"
+      },
+      "word": {
+        "english": "wash",
+        "emoji": "🧼",
+        "hindi": "धोना",
+        "hinglish": "dhona"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U20.S12",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "play",
+      "options": [
+        {
+          "english": "play",
+          "emoji": "⚽",
+          "hindi": "खेलना",
+          "hinglish": "khelna"
+        },
+        {
+          "english": "wash",
+          "emoji": "🧼",
+          "hindi": "धोना",
+          "hinglish": "dhona"
+        },
+        {
+          "english": "climb",
+          "emoji": "🧗",
+          "hindi": "चढ़ना",
+          "hinglish": "chadhna"
+        },
+        {
+          "english": "cook",
+          "emoji": "🍳",
+          "hindi": "खाना बनाना",
+          "hinglish": "khaana banaana"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U20.S13",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "🧼",
+      "answer": "wash",
+      "options": [
+        "wash",
+        "sing",
+        "write"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U20.S14",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘climb’ मतलब ‘चढ़ना’।",
+        "hinglish": "‘climb’ matlab ‘chadhna’.",
+        "en": "Say it with me: climb!"
+      },
+      "word": {
+        "english": "climb",
+        "emoji": "🧗",
+        "hindi": "चढ़ना",
+        "hinglish": "chadhna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U20.S15",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘cry’ मतलब ‘रोना’।",
+        "hinglish": "‘cry’ matlab ‘rona’.",
+        "en": "Say it with me: cry!"
+      },
+      "word": {
+        "english": "cry",
+        "emoji": "😢",
+        "hindi": "रोना",
+        "hinglish": "rona"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U20.S16",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "climb",
+      "options": [
+        {
+          "english": "climb",
+          "emoji": "🧗",
+          "hindi": "चढ़ना",
+          "hinglish": "chadhna"
+        },
+        {
+          "english": "cook",
+          "emoji": "🍳",
+          "hindi": "खाना बनाना",
+          "hinglish": "khaana banaana"
+        },
+        {
+          "english": "write",
+          "emoji": "✍️",
+          "hindi": "लिखना",
+          "hinglish": "likhna"
+        },
+        {
+          "english": "wash",
+          "emoji": "🧼",
+          "hindi": "धोना",
+          "hinglish": "dhona"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U20.S17",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "😢",
+      "answer": "cry",
+      "options": [
+        "cry",
+        "write",
+        "play"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U20.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "cook",
+        "emoji": "🍳",
+        "hindi": "खाना बनाना",
+        "hinglish": "khaana banaana"
+      },
+      "answer": {
+        "hi": "खाना बनाना",
+        "hinglish": "khaana banaana"
+      },
+      "options": [
+        {
+          "hi": "खाना बनाना",
+          "hinglish": "khaana banaana"
+        },
+        {
+          "hi": "पढ़ना",
+          "hinglish": "padhna"
+        },
+        {
+          "hi": "धोना",
+          "hinglish": "dhona"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U20.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "climb",
+        "emoji": "🧗",
+        "hindi": "चढ़ना",
+        "hinglish": "chadhna"
+      },
+      "answer": {
+        "hi": "चढ़ना",
+        "hinglish": "chadhna"
+      },
+      "options": [
+        {
+          "hi": "चढ़ना",
+          "hinglish": "chadhna"
+        },
+        {
+          "hi": "रोना",
+          "hinglish": "rona"
+        },
+        {
+          "hi": "खेलना",
+          "hinglish": "khelna"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U20.S20",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "cry",
+        "emoji": "😢",
+        "hindi": "रोना",
+        "hinglish": "rona"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U20.S21",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "read",
+        "emoji": "📖",
+        "hindi": "पढ़ना",
+        "hinglish": "padhna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U20.S22",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "climb",
+      "options": [
+        "climb",
+        "sing",
+        "cook"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U20.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: read, write, sing, cook, play, wash, climb, cry।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: read, write, sing, cook, play, wash, climb, cry.",
+        "en": "Well done! Today's new words: read, write, sing, cook, play, wash, climb, cry."
+      }
+    }
+  ]
+}

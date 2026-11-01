@@ -1,0 +1,474 @@
+{
+  "id": "L2.U11",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U11.S01",
+      "text": {
+        "hi": "सब्ज़ियाँ खाओ, ताकतवर बनो!",
+        "hinglish": "Sabziyaan khao, taakatwar bano!",
+        "en": "Eat your vegetables, grow strong!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U11.S02",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘potato’ मतलब ‘आलू’।",
+        "hinglish": "‘potato’ matlab ‘aaloo’.",
+        "en": "Say it with me: potato!"
+      },
+      "word": {
+        "english": "potato",
+        "emoji": "🥔",
+        "hindi": "आलू",
+        "hinglish": "aaloo"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U11.S03",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘tomato’ मतलब ‘टमाटर’।",
+        "hinglish": "‘tomato’ matlab ‘tamaatar’.",
+        "en": "Say it with me: tomato!"
+      },
+      "word": {
+        "english": "tomato",
+        "emoji": "🍅",
+        "hindi": "टमाटर",
+        "hinglish": "tamaatar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U11.S04",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "potato",
+      "options": [
+        {
+          "english": "potato",
+          "emoji": "🥔",
+          "hindi": "आलू",
+          "hinglish": "aaloo"
+        },
+        {
+          "english": "cucumber",
+          "emoji": "🥒",
+          "hindi": "खीरा",
+          "hinglish": "kheera"
+        },
+        {
+          "english": "carrot",
+          "emoji": "🥕",
+          "hindi": "गाजर",
+          "hinglish": "gaajar"
+        },
+        {
+          "english": "garlic",
+          "emoji": "🧄",
+          "hindi": "लहसुन",
+          "hinglish": "lehsun"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U11.S05",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍅",
+      "answer": "tomato",
+      "options": [
+        "tomato",
+        "potato",
+        "cucumber"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U11.S06",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘onion’ मतलब ‘प्याज़’।",
+        "hinglish": "‘onion’ matlab ‘pyaaz’.",
+        "en": "Say it with me: onion!"
+      },
+      "word": {
+        "english": "onion",
+        "emoji": "🧅",
+        "hindi": "प्याज़",
+        "hinglish": "pyaaz"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U11.S07",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘corn’ मतलब ‘भुट्टा’।",
+        "hinglish": "‘corn’ matlab ‘bhutta’.",
+        "en": "Say it with me: corn!"
+      },
+      "word": {
+        "english": "corn",
+        "emoji": "🌽",
+        "hindi": "भुट्टा",
+        "hinglish": "bhutta"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U11.S08",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "onion",
+      "options": [
+        {
+          "english": "onion",
+          "emoji": "🧅",
+          "hindi": "प्याज़",
+          "hinglish": "pyaaz"
+        },
+        {
+          "english": "carrot",
+          "emoji": "🥕",
+          "hindi": "गाजर",
+          "hinglish": "gaajar"
+        },
+        {
+          "english": "corn",
+          "emoji": "🌽",
+          "hindi": "भुट्टा",
+          "hinglish": "bhutta"
+        },
+        {
+          "english": "chilli",
+          "emoji": "🌶️",
+          "hindi": "मिर्च",
+          "hinglish": "mirch"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U11.S09",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🌽",
+      "answer": "corn",
+      "options": [
+        "corn",
+        "onion",
+        "chilli"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U11.S10",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘chilli’ मतलब ‘मिर्च’।",
+        "hinglish": "‘chilli’ matlab ‘mirch’.",
+        "en": "Say it with me: chilli!"
+      },
+      "word": {
+        "english": "chilli",
+        "emoji": "🌶️",
+        "hindi": "मिर्च",
+        "hinglish": "mirch"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U11.S11",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘cucumber’ मतलब ‘खीरा’।",
+        "hinglish": "‘cucumber’ matlab ‘kheera’.",
+        "en": "Say it with me: cucumber!"
+      },
+      "word": {
+        "english": "cucumber",
+        "emoji": "🥒",
+        "hindi": "खीरा",
+        "hinglish": "kheera"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U11.S12",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "chilli",
+      "options": [
+        {
+          "english": "chilli",
+          "emoji": "🌶️",
+          "hindi": "मिर्च",
+          "hinglish": "mirch"
+        },
+        {
+          "english": "onion",
+          "emoji": "🧅",
+          "hindi": "प्याज़",
+          "hinglish": "pyaaz"
+        },
+        {
+          "english": "carrot",
+          "emoji": "🥕",
+          "hindi": "गाजर",
+          "hinglish": "gaajar"
+        },
+        {
+          "english": "potato",
+          "emoji": "🥔",
+          "hindi": "आलू",
+          "hinglish": "aaloo"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U11.S13",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🥒",
+      "answer": "cucumber",
+      "options": [
+        "cucumber",
+        "carrot",
+        "corn"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U11.S14",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘carrot’ मतलब ‘गाजर’।",
+        "hinglish": "‘carrot’ matlab ‘gaajar’.",
+        "en": "Say it with me: carrot!"
+      },
+      "word": {
+        "english": "carrot",
+        "emoji": "🥕",
+        "hindi": "गाजर",
+        "hinglish": "gaajar"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U11.S15",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘garlic’ मतलब ‘लहसुन’।",
+        "hinglish": "‘garlic’ matlab ‘lehsun’.",
+        "en": "Say it with me: garlic!"
+      },
+      "word": {
+        "english": "garlic",
+        "emoji": "🧄",
+        "hindi": "लहसुन",
+        "hinglish": "lehsun"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U11.S16",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "carrot",
+      "options": [
+        {
+          "english": "carrot",
+          "emoji": "🥕",
+          "hindi": "गाजर",
+          "hinglish": "gaajar"
+        },
+        {
+          "english": "tomato",
+          "emoji": "🍅",
+          "hindi": "टमाटर",
+          "hinglish": "tamaatar"
+        },
+        {
+          "english": "cucumber",
+          "emoji": "🥒",
+          "hindi": "खीरा",
+          "hinglish": "kheera"
+        },
+        {
+          "english": "potato",
+          "emoji": "🥔",
+          "hindi": "आलू",
+          "hinglish": "aaloo"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U11.S17",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🧄",
+      "answer": "garlic",
+      "options": [
+        "garlic",
+        "corn",
+        "onion"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U11.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "chilli",
+        "emoji": "🌶️",
+        "hindi": "मिर्च",
+        "hinglish": "mirch"
+      },
+      "answer": {
+        "hi": "मिर्च",
+        "hinglish": "mirch"
+      },
+      "options": [
+        {
+          "hi": "मिर्च",
+          "hinglish": "mirch"
+        },
+        {
+          "hi": "लहसुन",
+          "hinglish": "lehsun"
+        },
+        {
+          "hi": "गाजर",
+          "hinglish": "gaajar"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U11.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "tomato",
+        "emoji": "🍅",
+        "hindi": "टमाटर",
+        "hinglish": "tamaatar"
+      },
+      "answer": {
+        "hi": "टमाटर",
+        "hinglish": "tamaatar"
+      },
+      "options": [
+        {
+          "hi": "टमाटर",
+          "hinglish": "tamaatar"
+        },
+        {
+          "hi": "प्याज़",
+          "hinglish": "pyaaz"
+        },
+        {
+          "hi": "भुट्टा",
+          "hinglish": "bhutta"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U11.S20",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "corn",
+        "emoji": "🌽",
+        "hindi": "भुट्टा",
+        "hinglish": "bhutta"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U11.S21",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "onion",
+        "emoji": "🧅",
+        "hindi": "प्याज़",
+        "hinglish": "pyaaz"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U11.S22",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "garlic",
+      "options": [
+        "garlic",
+        "cucumber",
+        "chilli"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U11.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: potato, tomato, onion, corn, chilli, cucumber, carrot, garlic।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: potato, tomato, onion, corn, chilli, cucumber, carrot, garlic.",
+        "en": "Well done! Today's new words: potato, tomato, onion, corn, chilli, cucumber, carrot, garlic."
+      }
+    }
+  ]
+}

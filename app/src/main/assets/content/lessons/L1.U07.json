@@ -1,0 +1,262 @@
+{
+  "id": "L1.U07",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U07.S01",
+      "text": {
+        "hi": "आज j, y और z. ध्यान दो: z की आवाज़ ‘ज’ से अलग है!",
+        "hinglish": "Aaj j, y aur z. Dhyaan do: z ki awaaz ‘ja’ se alag hai!",
+        "en": "Today: j, y and z. Careful: z sounds different from j!"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U07.S02",
+      "skills": [
+        "phonics.j"
+      ],
+      "letters": "j",
+      "sound": "c06_j",
+      "hint": "ज",
+      "text": {
+        "hi": "यह ‘j’ है। इसकी आवाज़ है ‘ज’, जैसे juice में।",
+        "hinglish": "Yeh ‘j’ hai. Iski awaaz hai ‘j’, jaise juice mein.",
+        "en": "This is ‘j’. Listen to its sound, like at the start of juice."
+      },
+      "example": {
+        "english": "juice",
+        "emoji": "🧃",
+        "hindi": "जूस",
+        "hinglish": "juice"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U07.S03",
+      "skills": [
+        "phonics.y"
+      ],
+      "letters": "y",
+      "sound": "c17_y",
+      "hint": "य",
+      "text": {
+        "hi": "यह ‘y’ है। इसकी आवाज़ है ‘य’, जैसे yellow में।",
+        "hinglish": "Yeh ‘y’ hai. Iski awaaz hai ‘y’, jaise yellow mein.",
+        "en": "This is ‘y’. Listen to its sound, like at the start of yellow."
+      },
+      "example": {
+        "english": "yellow",
+        "emoji": "🟡",
+        "hindi": "पीला",
+        "hinglish": "peela"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U07.S04",
+      "skills": [
+        "listen.word",
+        "phonics.y"
+      ],
+      "answer": "yellow",
+      "options": [
+        {
+          "english": "yellow",
+          "emoji": "🟡",
+          "hindi": "पीला",
+          "hinglish": "peela"
+        },
+        {
+          "english": "juice",
+          "emoji": "🧃",
+          "hindi": "जूस",
+          "hinglish": "juice"
+        }
+      ]
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U07.S05",
+      "skills": [
+        "phonics.z"
+      ],
+      "letters": "z",
+      "sound": "c18_z",
+      "hint": "ज़",
+      "text": {
+        "hi": "यह ‘z’ है। मधुमक्खी जैसी आवाज़ करो: ज़्ज़्ज़। जैसे zebra में।",
+        "hinglish": "Yeh ‘z’ hai. Madhumakkhi jaisi awaaz karo: zzz. Jaise zebra mein.",
+        "en": "This is ‘z’. Buzz like a bee: zzz, like in zebra."
+      },
+      "example": {
+        "english": "zebra",
+        "emoji": "🦓",
+        "hindi": "ज़ेबरा",
+        "hinglish": "zebra"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U07.S06",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "juice",
+        "emoji": "🧃",
+        "hindi": "जूस",
+        "hinglish": "juice"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U07.S07",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "yellow",
+        "emoji": "🟡",
+        "hindi": "पीला",
+        "hinglish": "peela"
+      }
+    },
+    {
+      "type": "blend",
+      "id": "L1.U07.S08",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "jet",
+      "emoji": "🛩️",
+      "parts": [
+        {
+          "letters": "j",
+          "sound": "c06_j"
+        },
+        {
+          "letters": "e",
+          "sound": "v02_e_egg"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U07.S09",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "yes",
+      "emoji": "✅",
+      "parts": [
+        {
+          "letters": "y",
+          "sound": "c17_y"
+        },
+        {
+          "letters": "e",
+          "sound": "v02_e_egg"
+        },
+        {
+          "letters": "s",
+          "sound": "c13_s"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U07.S10",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "✅",
+      "answer": "yes",
+      "options": [
+        "yes",
+        "jet",
+        "jam"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U07.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "zip",
+      "emoji": "🤐",
+      "parts": [
+        {
+          "letters": "z",
+          "sound": "c18_z"
+        },
+        {
+          "letters": "i",
+          "sound": "v03_i_ink"
+        },
+        {
+          "letters": "p",
+          "sound": "c11_p"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U07.S12",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "jam",
+      "emoji": "🍯",
+      "parts": [
+        {
+          "letters": "j",
+          "sound": "c06_j"
+        },
+        {
+          "letters": "a",
+          "sound": "v01_a_apple"
+        },
+        {
+          "letters": "m",
+          "sound": "c09_m"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U07.S13",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🍯",
+      "answer": "jam",
+      "options": [
+        "jam",
+        "yes",
+        "zip"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U07.S14",
+      "text": {
+        "hi": "बहुत बढ़िया! याद रखना: z में मधुमक्खी वाली आवाज़ — zebra!",
+        "hinglish": "Bahut badhiya! Yaad rakhna: z mein madhumakkhi waali awaaz — zebra!",
+        "en": "Great! Remember: z buzzes like a bee — zebra!"
+      }
+    }
+  ]
+}

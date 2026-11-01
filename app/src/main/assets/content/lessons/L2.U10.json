@@ -1,0 +1,474 @@
+{
+  "id": "L2.U10",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U10.S01",
+      "text": {
+        "hi": "रोज़ का खाना-पीना।",
+        "hinglish": "Roz ka khaana-peena.",
+        "en": "Everyday food and drinks."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U10.S02",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘rice’ मतलब ‘चावल’।",
+        "hinglish": "‘rice’ matlab ‘chaawal’.",
+        "en": "Say it with me: rice!"
+      },
+      "word": {
+        "english": "rice",
+        "emoji": "🍚",
+        "hindi": "चावल",
+        "hinglish": "chaawal"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U10.S03",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘bread’ मतलब ‘डबलरोटी’।",
+        "hinglish": "‘bread’ matlab ‘double roti’.",
+        "en": "Say it with me: bread!"
+      },
+      "word": {
+        "english": "bread",
+        "emoji": "🍞",
+        "hindi": "डबलरोटी",
+        "hinglish": "double roti"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U10.S04",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "rice",
+      "options": [
+        {
+          "english": "rice",
+          "emoji": "🍚",
+          "hindi": "चावल",
+          "hinglish": "chaawal"
+        },
+        {
+          "english": "egg",
+          "emoji": "🥚",
+          "hindi": "अंडा",
+          "hinglish": "anda"
+        },
+        {
+          "english": "bread",
+          "emoji": "🍞",
+          "hindi": "डबलरोटी",
+          "hinglish": "double roti"
+        },
+        {
+          "english": "honey",
+          "emoji": "🍯",
+          "hindi": "शहद",
+          "hinglish": "shahad"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U10.S05",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍞",
+      "answer": "bread",
+      "options": [
+        "bread",
+        "honey",
+        "tea"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U10.S06",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘milk’ मतलब ‘दूध’।",
+        "hinglish": "‘milk’ matlab ‘doodh’.",
+        "en": "Say it with me: milk!"
+      },
+      "word": {
+        "english": "milk",
+        "emoji": "🥛",
+        "hindi": "दूध",
+        "hinglish": "doodh"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U10.S07",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘egg’ मतलब ‘अंडा’।",
+        "hinglish": "‘egg’ matlab ‘anda’.",
+        "en": "Say it with me: egg!"
+      },
+      "word": {
+        "english": "egg",
+        "emoji": "🥚",
+        "hindi": "अंडा",
+        "hinglish": "anda"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U10.S08",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "milk",
+      "options": [
+        {
+          "english": "milk",
+          "emoji": "🥛",
+          "hindi": "दूध",
+          "hinglish": "doodh"
+        },
+        {
+          "english": "tea",
+          "emoji": "🍵",
+          "hindi": "चाय",
+          "hinglish": "chai"
+        },
+        {
+          "english": "water",
+          "emoji": "💧",
+          "hindi": "पानी",
+          "hinglish": "paani"
+        },
+        {
+          "english": "bread",
+          "emoji": "🍞",
+          "hindi": "डबलरोटी",
+          "hinglish": "double roti"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U10.S09",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🥚",
+      "answer": "egg",
+      "options": [
+        "egg",
+        "rice",
+        "water"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U10.S10",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘water’ मतलब ‘पानी’।",
+        "hinglish": "‘water’ matlab ‘paani’.",
+        "en": "Say it with me: water!"
+      },
+      "word": {
+        "english": "water",
+        "emoji": "💧",
+        "hindi": "पानी",
+        "hinglish": "paani"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U10.S11",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘tea’ मतलब ‘चाय’।",
+        "hinglish": "‘tea’ matlab ‘chai’.",
+        "en": "Say it with me: tea!"
+      },
+      "word": {
+        "english": "tea",
+        "emoji": "🍵",
+        "hindi": "चाय",
+        "hinglish": "chai"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U10.S12",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "water",
+      "options": [
+        {
+          "english": "water",
+          "emoji": "💧",
+          "hindi": "पानी",
+          "hinglish": "paani"
+        },
+        {
+          "english": "tea",
+          "emoji": "🍵",
+          "hindi": "चाय",
+          "hinglish": "chai"
+        },
+        {
+          "english": "bread",
+          "emoji": "🍞",
+          "hindi": "डबलरोटी",
+          "hinglish": "double roti"
+        },
+        {
+          "english": "egg",
+          "emoji": "🥚",
+          "hindi": "अंडा",
+          "hinglish": "anda"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U10.S13",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍵",
+      "answer": "tea",
+      "options": [
+        "tea",
+        "egg",
+        "bread"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U10.S14",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘salt’ मतलब ‘नमक’।",
+        "hinglish": "‘salt’ matlab ‘namak’.",
+        "en": "Say it with me: salt!"
+      },
+      "word": {
+        "english": "salt",
+        "emoji": "🧂",
+        "hindi": "नमक",
+        "hinglish": "namak"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U10.S15",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘honey’ मतलब ‘शहद’।",
+        "hinglish": "‘honey’ matlab ‘shahad’.",
+        "en": "Say it with me: honey!"
+      },
+      "word": {
+        "english": "honey",
+        "emoji": "🍯",
+        "hindi": "शहद",
+        "hinglish": "shahad"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U10.S16",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "salt",
+      "options": [
+        {
+          "english": "salt",
+          "emoji": "🧂",
+          "hindi": "नमक",
+          "hinglish": "namak"
+        },
+        {
+          "english": "water",
+          "emoji": "💧",
+          "hindi": "पानी",
+          "hinglish": "paani"
+        },
+        {
+          "english": "tea",
+          "emoji": "🍵",
+          "hindi": "चाय",
+          "hinglish": "chai"
+        },
+        {
+          "english": "egg",
+          "emoji": "🥚",
+          "hindi": "अंडा",
+          "hinglish": "anda"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U10.S17",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍯",
+      "answer": "honey",
+      "options": [
+        "honey",
+        "rice",
+        "water"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U10.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "milk",
+        "emoji": "🥛",
+        "hindi": "दूध",
+        "hinglish": "doodh"
+      },
+      "answer": {
+        "hi": "दूध",
+        "hinglish": "doodh"
+      },
+      "options": [
+        {
+          "hi": "दूध",
+          "hinglish": "doodh"
+        },
+        {
+          "hi": "पानी",
+          "hinglish": "paani"
+        },
+        {
+          "hi": "अंडा",
+          "hinglish": "anda"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U10.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "egg",
+        "emoji": "🥚",
+        "hindi": "अंडा",
+        "hinglish": "anda"
+      },
+      "answer": {
+        "hi": "अंडा",
+        "hinglish": "anda"
+      },
+      "options": [
+        {
+          "hi": "अंडा",
+          "hinglish": "anda"
+        },
+        {
+          "hi": "पानी",
+          "hinglish": "paani"
+        },
+        {
+          "hi": "डबलरोटी",
+          "hinglish": "double roti"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U10.S20",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "egg",
+        "emoji": "🥚",
+        "hindi": "अंडा",
+        "hinglish": "anda"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U10.S21",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "tea",
+        "emoji": "🍵",
+        "hindi": "चाय",
+        "hinglish": "chai"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U10.S22",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "salt",
+      "options": [
+        "salt",
+        "rice",
+        "milk"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U10.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: rice, bread, milk, egg, water, tea, salt, honey।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: rice, bread, milk, egg, water, tea, salt, honey.",
+        "en": "Well done! Today's new words: rice, bread, milk, egg, water, tea, salt, honey."
+      }
+    }
+  ]
+}

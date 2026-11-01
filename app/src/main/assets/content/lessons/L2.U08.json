@@ -1,0 +1,474 @@
+{
+  "id": "L2.U08",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U08.S01",
+      "text": {
+        "hi": "स्कूल की कुछ और चीज़ें।",
+        "hinglish": "School ki kuch aur cheezein.",
+        "en": "More things at school."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U08.S02",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘map’ मतलब ‘नक्शा’।",
+        "hinglish": "‘map’ matlab ‘naksha’.",
+        "en": "Say it with me: map!"
+      },
+      "word": {
+        "english": "map",
+        "emoji": "🗺️",
+        "hindi": "नक्शा",
+        "hinglish": "naksha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U08.S03",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘globe’ मतलब ‘ग्लोब’।",
+        "hinglish": "‘globe’ matlab ‘globe’.",
+        "en": "Say it with me: globe!"
+      },
+      "word": {
+        "english": "globe",
+        "emoji": "🌍",
+        "hindi": "ग्लोब",
+        "hinglish": "globe"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U08.S04",
+      "skills": [
+        "listen.word",
+        "vocab.school"
+      ],
+      "answer": "map",
+      "options": [
+        {
+          "english": "map",
+          "emoji": "🗺️",
+          "hindi": "नक्शा",
+          "hinglish": "naksha"
+        },
+        {
+          "english": "flag",
+          "emoji": "🇮🇳",
+          "hindi": "झंडा",
+          "hinglish": "jhanda"
+        },
+        {
+          "english": "trophy",
+          "emoji": "🏆",
+          "hindi": "ट्रॉफ़ी",
+          "hinglish": "trophy"
+        },
+        {
+          "english": "letter",
+          "emoji": "✉️",
+          "hindi": "चिट्ठी",
+          "hinglish": "chitthi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U08.S05",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "emoji": "🌍",
+      "answer": "globe",
+      "options": [
+        "globe",
+        "map",
+        "flag"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U08.S06",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘paper’ मतलब ‘कागज़’।",
+        "hinglish": "‘paper’ matlab ‘kaagaz’.",
+        "en": "Say it with me: paper!"
+      },
+      "word": {
+        "english": "paper",
+        "emoji": "📄",
+        "hindi": "कागज़",
+        "hinglish": "kaagaz"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U08.S07",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘letter’ मतलब ‘चिट्ठी’।",
+        "hinglish": "‘letter’ matlab ‘chitthi’.",
+        "en": "Say it with me: letter!"
+      },
+      "word": {
+        "english": "letter",
+        "emoji": "✉️",
+        "hindi": "चिट्ठी",
+        "hinglish": "chitthi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U08.S08",
+      "skills": [
+        "listen.word",
+        "vocab.school"
+      ],
+      "answer": "paper",
+      "options": [
+        {
+          "english": "paper",
+          "emoji": "📄",
+          "hindi": "कागज़",
+          "hinglish": "kaagaz"
+        },
+        {
+          "english": "flag",
+          "emoji": "🇮🇳",
+          "hindi": "झंडा",
+          "hinglish": "jhanda"
+        },
+        {
+          "english": "letter",
+          "emoji": "✉️",
+          "hindi": "चिट्ठी",
+          "hinglish": "chitthi"
+        },
+        {
+          "english": "gift",
+          "emoji": "🎁",
+          "hindi": "तोहफ़ा",
+          "hinglish": "tohfa"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U08.S09",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "emoji": "✉️",
+      "answer": "letter",
+      "options": [
+        "letter",
+        "trophy",
+        "paper"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U08.S10",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘calendar’ मतलब ‘कैलेंडर’।",
+        "hinglish": "‘calendar’ matlab ‘calendar’.",
+        "en": "Say it with me: calendar!"
+      },
+      "word": {
+        "english": "calendar",
+        "emoji": "📅",
+        "hindi": "कैलेंडर",
+        "hinglish": "calendar"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U08.S11",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘flag’ मतलब ‘झंडा’।",
+        "hinglish": "‘flag’ matlab ‘jhanda’.",
+        "en": "Say it with me: flag!"
+      },
+      "word": {
+        "english": "flag",
+        "emoji": "🇮🇳",
+        "hindi": "झंडा",
+        "hinglish": "jhanda"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U08.S12",
+      "skills": [
+        "listen.word",
+        "vocab.school"
+      ],
+      "answer": "calendar",
+      "options": [
+        {
+          "english": "calendar",
+          "emoji": "📅",
+          "hindi": "कैलेंडर",
+          "hinglish": "calendar"
+        },
+        {
+          "english": "gift",
+          "emoji": "🎁",
+          "hindi": "तोहफ़ा",
+          "hinglish": "tohfa"
+        },
+        {
+          "english": "flag",
+          "emoji": "🇮🇳",
+          "hindi": "झंडा",
+          "hinglish": "jhanda"
+        },
+        {
+          "english": "paper",
+          "emoji": "📄",
+          "hindi": "कागज़",
+          "hinglish": "kaagaz"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U08.S13",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "emoji": "🇮🇳",
+      "answer": "flag",
+      "options": [
+        "flag",
+        "globe",
+        "calendar"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U08.S14",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘trophy’ मतलब ‘ट्रॉफ़ी’।",
+        "hinglish": "‘trophy’ matlab ‘trophy’.",
+        "en": "Say it with me: trophy!"
+      },
+      "word": {
+        "english": "trophy",
+        "emoji": "🏆",
+        "hindi": "ट्रॉफ़ी",
+        "hinglish": "trophy"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U08.S15",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘gift’ मतलब ‘तोहफ़ा’।",
+        "hinglish": "‘gift’ matlab ‘tohfa’.",
+        "en": "Say it with me: gift!"
+      },
+      "word": {
+        "english": "gift",
+        "emoji": "🎁",
+        "hindi": "तोहफ़ा",
+        "hinglish": "tohfa"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U08.S16",
+      "skills": [
+        "listen.word",
+        "vocab.school"
+      ],
+      "answer": "trophy",
+      "options": [
+        {
+          "english": "trophy",
+          "emoji": "🏆",
+          "hindi": "ट्रॉफ़ी",
+          "hinglish": "trophy"
+        },
+        {
+          "english": "flag",
+          "emoji": "🇮🇳",
+          "hindi": "झंडा",
+          "hinglish": "jhanda"
+        },
+        {
+          "english": "paper",
+          "emoji": "📄",
+          "hindi": "कागज़",
+          "hinglish": "kaagaz"
+        },
+        {
+          "english": "calendar",
+          "emoji": "📅",
+          "hindi": "कैलेंडर",
+          "hinglish": "calendar"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U08.S17",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "emoji": "🎁",
+      "answer": "gift",
+      "options": [
+        "gift",
+        "globe",
+        "map"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U08.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "map",
+        "emoji": "🗺️",
+        "hindi": "नक्शा",
+        "hinglish": "naksha"
+      },
+      "answer": {
+        "hi": "नक्शा",
+        "hinglish": "naksha"
+      },
+      "options": [
+        {
+          "hi": "नक्शा",
+          "hinglish": "naksha"
+        },
+        {
+          "hi": "कागज़",
+          "hinglish": "kaagaz"
+        },
+        {
+          "hi": "तोहफ़ा",
+          "hinglish": "tohfa"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U08.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "paper",
+        "emoji": "📄",
+        "hindi": "कागज़",
+        "hinglish": "kaagaz"
+      },
+      "answer": {
+        "hi": "कागज़",
+        "hinglish": "kaagaz"
+      },
+      "options": [
+        {
+          "hi": "कागज़",
+          "hinglish": "kaagaz"
+        },
+        {
+          "hi": "ग्लोब",
+          "hinglish": "globe"
+        },
+        {
+          "hi": "तोहफ़ा",
+          "hinglish": "tohfa"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U08.S20",
+      "skills": [
+        "speak.word",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "map",
+        "emoji": "🗺️",
+        "hindi": "नक्शा",
+        "hinglish": "naksha"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U08.S21",
+      "skills": [
+        "speak.word",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "flag",
+        "emoji": "🇮🇳",
+        "hindi": "झंडा",
+        "hinglish": "jhanda"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U08.S22",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "letter",
+      "options": [
+        "letter",
+        "gift",
+        "globe"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U08.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: map, globe, paper, letter, calendar, flag, trophy, gift।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: map, globe, paper, letter, calendar, flag, trophy, gift.",
+        "en": "Well done! Today's new words: map, globe, paper, letter, calendar, flag, trophy, gift."
+      }
+    }
+  ]
+}

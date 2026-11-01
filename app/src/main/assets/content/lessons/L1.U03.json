@@ -1,0 +1,94 @@
+{
+  "id": "L1.U03",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card", "id": "L1.U03.S01", "skills": ["sound.v", "sound.w"],
+      "text": {
+        "hi": "हिंदी में ‘व’ एक ही है, पर इंग्लिश में दो आवाज़ें हैं: v और w. चलो फ़र्क समझते हैं!",
+        "hinglish": "Hindi mein ‘va’ ek hi hai, par English mein do awaazein hain: v aur w. Chalo farq samajhte hain!",
+        "en": "Hindi has one ‘va’ sound, but English has two: v and w. Let's learn the difference!"
+      }
+    },
+    {
+      "type": "learn_sound", "id": "L1.U03.S02", "skills": ["sound.v"],
+      "letters": "v", "sound": "c15_v", "hint": "व",
+      "text": {
+        "hi": "‘v’ के लिए ऊपर के दाँत नीचे वाले होंठ पर रखो और बोलो: व्व्व। होंठ में गुदगुदी होगी!",
+        "hinglish": "‘v’ ke liye upar ke daant neeche waale honth par rakho aur bolo: vvv. Honth mein gudgudi hogi!",
+        "en": "For ‘v’, put your top teeth on your bottom lip and say: vvv. Your lip will tickle!"
+      },
+      "example": { "english": "van", "emoji": "🚐", "hindi": "वैन" }
+    },
+    {
+      "type": "learn_sound", "id": "L1.U03.S03", "skills": ["sound.w"],
+      "letters": "w", "sound": "c16_w", "hint": "व",
+      "text": {
+        "hi": "‘w’ के लिए होंठ गोल करो, जैसे ‘ऊ’ बोलते हैं, फिर खोलो। दाँत होंठ पर नहीं लगेंगे।",
+        "hinglish": "‘w’ ke liye honth gol karo, jaise ‘oo’ bolte hain, phir kholo. Daant honth par nahi lagenge.",
+        "en": "For ‘w’, make your lips round like ‘oo’, then open them. Your teeth don't touch your lip."
+      },
+      "example": { "english": "web", "emoji": "🕸️", "hindi": "वेब" }
+    },
+    {
+      "type": "minimal_pair", "id": "L1.U03.S04", "skills": ["listen.minimal_pair", "sound.v"],
+      "answer": "vet", "options": ["vet", "wet"]
+    },
+    {
+      "type": "say_word", "id": "L1.U03.S05", "skills": ["speak.word", "sound.v"],
+      "word": { "english": "van", "emoji": "🚐", "hindi": "वैन" }
+    },
+    {
+      "type": "say_word", "id": "L1.U03.S06", "skills": ["speak.word", "sound.w"],
+      "word": { "english": "web", "emoji": "🕸️", "hindi": "वेब" }
+    },
+    {
+      "type": "minimal_pair", "id": "L1.U03.S07", "skills": ["listen.minimal_pair", "sound.w"],
+      "answer": "west", "options": ["vest", "west"]
+    },
+    {
+      "type": "learn_card", "id": "L1.U03.S08", "skills": ["sound.th"],
+      "text": {
+        "hi": "अब ‘th’ की बारी! हिंदी में ऐसी आवाज़ नहीं है, इसलिए यह नई है। जीभ को दाँतों के बीच हल्का सा बाहर निकालो और हवा छोड़ो।",
+        "hinglish": "Ab ‘th’ ki baari! Hindi mein aisi awaaz nahi hai, isliye yeh nayi hai. Jeebh ko daanton ke beech halka sa bahar nikaalo aur hawa chhodo.",
+        "en": "Now it's ‘th’! Hindi doesn't have this sound, so it's new. Put your tongue a little between your teeth and blow air."
+      }
+    },
+    {
+      "type": "learn_sound", "id": "L1.U03.S09", "skills": ["sound.th"],
+      "letters": "th", "sound": "c21_th_thin", "hint": "थ",
+      "text": {
+        "hi": "‘th’ बोलकर देखो। जीभ थोड़ी दिखनी चाहिए! जैसे three में।",
+        "hinglish": "‘th’ bolkar dekho. Jeebh thodi dikhni chahiye! Jaise three mein.",
+        "en": "Try saying ‘th’. Your tongue should peek out a little! Like in three."
+      },
+      "example": { "english": "three", "emoji": "3️⃣", "hindi": "थ्री" }
+    },
+    {
+      "type": "minimal_pair", "id": "L1.U03.S10", "skills": ["listen.minimal_pair", "sound.th"],
+      "answer": "thin", "options": ["thin", "tin"]
+    },
+    {
+      "type": "say_word", "id": "L1.U03.S11", "skills": ["speak.word", "sound.th"],
+      "word": { "english": "three", "emoji": "3️⃣", "hindi": "थ्री" },
+      "accept": ["3"]
+    },
+    {
+      "type": "say_word", "id": "L1.U03.S12", "skills": ["speak.word", "sound.th"],
+      "word": { "english": "thumb", "emoji": "👍", "hindi": "थम्ब" }
+    },
+    {
+      "type": "say_sentence", "id": "L1.U03.S13", "skills": ["speak.sentence", "sound.th"],
+      "sentence": "Thank you",
+      "meaning": { "hi": "धन्यवाद, शुक्रिया", "hinglish": "Dhanyavaad, shukriya", "en": "Saying thanks" }
+    },
+    {
+      "type": "learn_card", "id": "L1.U03.S14",
+      "text": {
+        "hi": "वाह! v, w और th बहुत लोगों के लिए मुश्किल हैं, पर तुमने सीख लिए! रोज़ थोड़ी प्रैक्टिस करो।",
+        "hinglish": "Waah! v, w aur th bahut logon ke liye mushkil hain, par tumne seekh liye! Roz thodi practice karo.",
+        "en": "Wow! v, w and th are hard for many people, but you learned them! Practise a little every day."
+      }
+    }
+  ]
+}

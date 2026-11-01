@@ -1,0 +1,172 @@
+{
+  "id": "L0.U03",
+  "level": 0,
+  "steps": [
+    {
+      "type": "learn_card", "id": "L0.U03.S01",
+      "text": {
+        "hi": "आज हम लोगों और जगहों के इंग्लिश नाम देखेंगे। तुम इन्हें पहले से जानते हो!",
+        "hinglish": "Aaj hum logon aur jagahon ke English naam dekhenge. Tum inhein pehle se jaante ho!",
+        "en": "Today we will see English names of people and places. You already know them!"
+      }
+    },
+    {
+      "type": "learn_card", "id": "L0.U03.S02", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "बीमार होने पर हम डॉक्टर के पास जाते हैं। डॉक्टर इंग्लिश का शब्द है!",
+        "hinglish": "Beemar hone par hum doctor ke paas jaate hain. Doctor English ka shabd hai!",
+        "en": "When we are sick, we go to the doctor. Doctor is an English word!"
+      },
+      "word": { "english": "doctor", "emoji": "👩‍⚕️", "hindi": "डॉक्टर" }
+    },
+    {
+      "type": "learn_card", "id": "L0.U03.S03", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "डॉक्टर हॉस्पिटल में काम करते हैं। हॉस्पिटल भी इंग्लिश है!",
+        "hinglish": "Doctor hospital mein kaam karte hain. Hospital bhi English hai!",
+        "en": "Doctors work in a hospital. Hospital is English too!"
+      },
+      "word": { "english": "hospital", "emoji": "🏥", "hindi": "हॉस्पिटल" }
+    },
+    {
+      "type": "listen_tap", "id": "L0.U03.S04", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "doctor",
+      "options": [
+        { "english": "doctor", "emoji": "👩‍⚕️" },
+        { "english": "hospital", "emoji": "🏥" },
+        { "english": "police", "emoji": "👮" },
+        { "english": "train", "emoji": "🚆" }
+      ]
+    },
+    {
+      "type": "word_pick", "id": "L0.U03.S05", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "🏥", "answer": "hospital", "options": ["hospital", "teacher", "train"]
+    },
+    {
+      "type": "learn_card", "id": "L0.U03.S06", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "स्कूल में टीचर हमें पढ़ाते हैं। टीचर भी इंग्लिश है!",
+        "hinglish": "School mein teacher humein padhaate hain. Teacher bhi English hai!",
+        "en": "At school, the teacher teaches us. Teacher is English too!"
+      },
+      "word": { "english": "teacher", "emoji": "👩‍🏫", "hindi": "टीचर" }
+    },
+    {
+      "type": "learn_card", "id": "L0.U03.S07", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "पुलिस हमारी मदद करती है। पुलिस इंग्लिश का शब्द है!",
+        "hinglish": "Police hamari madad karti hai. Police English ka shabd hai!",
+        "en": "The police help us. Police is an English word!"
+      },
+      "word": { "english": "police", "emoji": "👮", "hindi": "पुलिस" }
+    },
+    {
+      "type": "listen_tap", "id": "L0.U03.S08", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "teacher",
+      "options": [
+        { "english": "teacher", "emoji": "👩‍🏫" },
+        { "english": "doctor", "emoji": "👩‍⚕️" },
+        { "english": "station", "emoji": "🚉" },
+        { "english": "police", "emoji": "👮" }
+      ]
+    },
+    {
+      "type": "word_pick", "id": "L0.U03.S09", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "👮", "answer": "police", "options": ["police", "doctor", "station"]
+    },
+    {
+      "type": "listen_tap", "id": "L0.U03.S10", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "hospital",
+      "options": [
+        { "english": "hospital", "emoji": "🏥" },
+        { "english": "police", "emoji": "👮" },
+        { "english": "teacher", "emoji": "👩‍🏫" },
+        { "english": "train", "emoji": "🚆" }
+      ]
+    },
+    {
+      "type": "learn_card", "id": "L0.U03.S11", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "छुक-छुक ट्रेन! ट्रेन इंग्लिश का शब्द है।",
+        "hinglish": "Chhuk-chhuk train! Train English ka shabd hai.",
+        "en": "Choo-choo train! Train is an English word."
+      },
+      "word": { "english": "train", "emoji": "🚆", "hindi": "ट्रेन" }
+    },
+    {
+      "type": "learn_card", "id": "L0.U03.S12", "skills": ["vocab.loanwords"],
+      "text": {
+        "hi": "ट्रेन स्टेशन पर रुकती है। स्टेशन भी इंग्लिश है!",
+        "hinglish": "Train station par rukti hai. Station bhi English hai!",
+        "en": "The train stops at the station. Station is English too!"
+      },
+      "word": { "english": "station", "emoji": "🚉", "hindi": "स्टेशन" }
+    },
+    {
+      "type": "word_pick", "id": "L0.U03.S13", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "🚆", "answer": "train", "options": ["train", "teacher", "police"]
+    },
+    {
+      "type": "listen_tap", "id": "L0.U03.S14", "skills": ["listen.word", "vocab.loanwords"],
+      "answer": "station",
+      "options": [
+        { "english": "station", "emoji": "🚉" },
+        { "english": "train", "emoji": "🚆" },
+        { "english": "hospital", "emoji": "🏥" },
+        { "english": "doctor", "emoji": "👩‍⚕️" }
+      ]
+    },
+    {
+      "type": "word_pick", "id": "L0.U03.S15", "skills": ["read.word", "vocab.loanwords"],
+      "emoji": "👩‍⚕️", "answer": "doctor", "options": ["doctor", "station", "hospital"]
+    },
+    {
+      "type": "say_word", "id": "L0.U03.S20", "skills": ["speak.word", "vocab.loanwords"],
+      "word": { "english": "doctor", "emoji": "👩‍⚕️", "hindi": "डॉक्टर" }
+    },
+    {
+      "type": "say_word", "id": "L0.U03.S21", "skills": ["speak.word", "vocab.loanwords"],
+      "word": { "english": "train", "emoji": "🚆", "hindi": "ट्रेन" }
+    },
+    {
+      "type": "find_english", "id": "L0.U03.S16", "skills": ["notice.english_in_hindi"],
+      "words": [
+        { "hi": "स्टेशन", "hinglish": "Station", "en": "station" },
+        { "hi": "पर", "hinglish": "par" },
+        { "hi": "ट्रेन", "hinglish": "train", "en": "train" },
+        { "hi": "आ", "hinglish": "aa" },
+        { "hi": "गई।", "hinglish": "gayi." }
+      ]
+    },
+    {
+      "type": "find_english", "id": "L0.U03.S17", "skills": ["notice.english_in_hindi"],
+      "words": [
+        { "hi": "टीचर", "hinglish": "Teacher", "en": "teacher" },
+        { "hi": "ने", "hinglish": "ne" },
+        { "hi": "डॉक्टर", "hinglish": "doctor", "en": "doctor" },
+        { "hi": "को", "hinglish": "ko" },
+        { "hi": "फ़ोन", "hinglish": "phone", "en": "phone" },
+        { "hi": "किया।", "hinglish": "kiya." }
+      ]
+    },
+    {
+      "type": "find_english", "id": "L0.U03.S18", "skills": ["notice.english_in_hindi"],
+      "words": [
+        { "hi": "बैग", "hinglish": "Bag", "en": "bag" },
+        { "hi": "में", "hinglish": "mein" },
+        { "hi": "पेन", "hinglish": "pen", "en": "pen" },
+        { "hi": "और", "hinglish": "aur" },
+        { "hi": "कॉपी", "hinglish": "copy", "en": "copy" },
+        { "hi": "है।", "hinglish": "hai." }
+      ]
+    },
+    {
+      "type": "learn_card", "id": "L0.U03.S19",
+      "text": {
+        "hi": "कमाल! पता है, कॉपी भी इंग्लिश का शब्द है! तुम जितना सोचते हो, उससे ज़्यादा इंग्लिश जानते हो।",
+        "hinglish": "Kamaal! Pata hai, copy bhi English ka shabd hai! Tum jitna sochte ho, usse zyaada English jaante ho.",
+        "en": "Amazing! Did you know copy is an English word too? You know more English than you think."
+      }
+    }
+  ]
+}

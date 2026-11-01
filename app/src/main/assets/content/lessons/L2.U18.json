@@ -1,0 +1,474 @@
+{
+  "id": "L2.U18",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U18.S01",
+      "text": {
+        "hi": "हम क्या पहनते हैं?",
+        "hinglish": "Hum kya pehente hain?",
+        "en": "What do we wear?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U18.S02",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘shirt’ मतलब ‘कमीज़’।",
+        "hinglish": "‘shirt’ matlab ‘kameez’.",
+        "en": "Say it with me: shirt!"
+      },
+      "word": {
+        "english": "shirt",
+        "emoji": "👕",
+        "hindi": "कमीज़",
+        "hinglish": "kameez"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U18.S03",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘jeans’ मतलब ‘जींस’।",
+        "hinglish": "‘jeans’ matlab ‘jeans’.",
+        "en": "Say it with me: jeans!"
+      },
+      "word": {
+        "english": "jeans",
+        "emoji": "👖",
+        "hindi": "जींस",
+        "hinglish": "jeans"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U18.S04",
+      "skills": [
+        "listen.word",
+        "vocab.clothes"
+      ],
+      "answer": "shirt",
+      "options": [
+        {
+          "english": "shirt",
+          "emoji": "👕",
+          "hindi": "कमीज़",
+          "hinglish": "kameez"
+        },
+        {
+          "english": "coat",
+          "emoji": "🧥",
+          "hindi": "कोट",
+          "hinglish": "coat"
+        },
+        {
+          "english": "shoes",
+          "emoji": "👟",
+          "hindi": "जूते",
+          "hinglish": "joote"
+        },
+        {
+          "english": "saree",
+          "emoji": "🥻",
+          "hindi": "साड़ी",
+          "hinglish": "saadi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U18.S05",
+      "skills": [
+        "read.word",
+        "vocab.clothes"
+      ],
+      "emoji": "👖",
+      "answer": "jeans",
+      "options": [
+        "jeans",
+        "shoes",
+        "dress"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U18.S06",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘dress’ मतलब ‘फ़्रॉक’।",
+        "hinglish": "‘dress’ matlab ‘frock’.",
+        "en": "Say it with me: dress!"
+      },
+      "word": {
+        "english": "dress",
+        "emoji": "👗",
+        "hindi": "फ़्रॉक",
+        "hinglish": "frock"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U18.S07",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘cap’ मतलब ‘टोपी’।",
+        "hinglish": "‘cap’ matlab ‘topi’.",
+        "en": "Say it with me: cap!"
+      },
+      "word": {
+        "english": "cap",
+        "emoji": "🧢",
+        "hindi": "टोपी",
+        "hinglish": "topi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U18.S08",
+      "skills": [
+        "listen.word",
+        "vocab.clothes"
+      ],
+      "answer": "dress",
+      "options": [
+        {
+          "english": "dress",
+          "emoji": "👗",
+          "hindi": "फ़्रॉक",
+          "hinglish": "frock"
+        },
+        {
+          "english": "coat",
+          "emoji": "🧥",
+          "hindi": "कोट",
+          "hinglish": "coat"
+        },
+        {
+          "english": "cap",
+          "emoji": "🧢",
+          "hindi": "टोपी",
+          "hinglish": "topi"
+        },
+        {
+          "english": "jeans",
+          "emoji": "👖",
+          "hindi": "जींस",
+          "hinglish": "jeans"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U18.S09",
+      "skills": [
+        "read.word",
+        "vocab.clothes"
+      ],
+      "emoji": "🧢",
+      "answer": "cap",
+      "options": [
+        "cap",
+        "coat",
+        "saree"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U18.S10",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘shoes’ मतलब ‘जूते’।",
+        "hinglish": "‘shoes’ matlab ‘joote’.",
+        "en": "Say it with me: shoes!"
+      },
+      "word": {
+        "english": "shoes",
+        "emoji": "👟",
+        "hindi": "जूते",
+        "hinglish": "joote"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U18.S11",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘socks’ मतलब ‘मोज़े’।",
+        "hinglish": "‘socks’ matlab ‘moze’.",
+        "en": "Say it with me: socks!"
+      },
+      "word": {
+        "english": "socks",
+        "emoji": "🧦",
+        "hindi": "मोज़े",
+        "hinglish": "moze"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U18.S12",
+      "skills": [
+        "listen.word",
+        "vocab.clothes"
+      ],
+      "answer": "shoes",
+      "options": [
+        {
+          "english": "shoes",
+          "emoji": "👟",
+          "hindi": "जूते",
+          "hinglish": "joote"
+        },
+        {
+          "english": "saree",
+          "emoji": "🥻",
+          "hindi": "साड़ी",
+          "hinglish": "saadi"
+        },
+        {
+          "english": "coat",
+          "emoji": "🧥",
+          "hindi": "कोट",
+          "hinglish": "coat"
+        },
+        {
+          "english": "cap",
+          "emoji": "🧢",
+          "hindi": "टोपी",
+          "hinglish": "topi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U18.S13",
+      "skills": [
+        "read.word",
+        "vocab.clothes"
+      ],
+      "emoji": "🧦",
+      "answer": "socks",
+      "options": [
+        "socks",
+        "saree",
+        "shirt"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U18.S14",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘coat’ मतलब ‘कोट’।",
+        "hinglish": "‘coat’ matlab ‘coat’.",
+        "en": "Say it with me: coat!"
+      },
+      "word": {
+        "english": "coat",
+        "emoji": "🧥",
+        "hindi": "कोट",
+        "hinglish": "coat"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U18.S15",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘saree’ मतलब ‘साड़ी’।",
+        "hinglish": "‘saree’ matlab ‘saadi’.",
+        "en": "Say it with me: saree!"
+      },
+      "word": {
+        "english": "saree",
+        "emoji": "🥻",
+        "hindi": "साड़ी",
+        "hinglish": "saadi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U18.S16",
+      "skills": [
+        "listen.word",
+        "vocab.clothes"
+      ],
+      "answer": "coat",
+      "options": [
+        {
+          "english": "coat",
+          "emoji": "🧥",
+          "hindi": "कोट",
+          "hinglish": "coat"
+        },
+        {
+          "english": "saree",
+          "emoji": "🥻",
+          "hindi": "साड़ी",
+          "hinglish": "saadi"
+        },
+        {
+          "english": "shirt",
+          "emoji": "👕",
+          "hindi": "कमीज़",
+          "hinglish": "kameez"
+        },
+        {
+          "english": "socks",
+          "emoji": "🧦",
+          "hindi": "मोज़े",
+          "hinglish": "moze"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U18.S17",
+      "skills": [
+        "read.word",
+        "vocab.clothes"
+      ],
+      "emoji": "🥻",
+      "answer": "saree",
+      "options": [
+        "saree",
+        "coat",
+        "socks"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U18.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "cap",
+        "emoji": "🧢",
+        "hindi": "टोपी",
+        "hinglish": "topi"
+      },
+      "answer": {
+        "hi": "टोपी",
+        "hinglish": "topi"
+      },
+      "options": [
+        {
+          "hi": "टोपी",
+          "hinglish": "topi"
+        },
+        {
+          "hi": "कोट",
+          "hinglish": "coat"
+        },
+        {
+          "hi": "फ़्रॉक",
+          "hinglish": "frock"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U18.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "dress",
+        "emoji": "👗",
+        "hindi": "फ़्रॉक",
+        "hinglish": "frock"
+      },
+      "answer": {
+        "hi": "फ़्रॉक",
+        "hinglish": "frock"
+      },
+      "options": [
+        {
+          "hi": "फ़्रॉक",
+          "hinglish": "frock"
+        },
+        {
+          "hi": "टोपी",
+          "hinglish": "topi"
+        },
+        {
+          "hi": "जूते",
+          "hinglish": "joote"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U18.S20",
+      "skills": [
+        "speak.word",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "cap",
+        "emoji": "🧢",
+        "hindi": "टोपी",
+        "hinglish": "topi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U18.S21",
+      "skills": [
+        "speak.word",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "coat",
+        "emoji": "🧥",
+        "hindi": "कोट",
+        "hinglish": "coat"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U18.S22",
+      "skills": [
+        "read.word",
+        "vocab.clothes"
+      ],
+      "answer": "cap",
+      "options": [
+        "cap",
+        "coat",
+        "jeans"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U18.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: shirt, jeans, dress, cap, shoes, socks, coat, saree।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: shirt, jeans, dress, cap, shoes, socks, coat, saree.",
+        "en": "Well done! Today's new words: shirt, jeans, dress, cap, shoes, socks, coat, saree."
+      }
+    }
+  ]
+}

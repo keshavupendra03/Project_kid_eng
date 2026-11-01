@@ -1,0 +1,323 @@
+{
+  "id": "L3.U10",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U10.S01",
+      "skills": [
+        "grammar.where_prepositions"
+      ],
+      "text": {
+        "hi": "कुछ ढूँढ रहे हो? पूछो: Where is …? = … कहाँ है?",
+        "hinglish": "Kuch dhoondh rahe ho? Poochho: Where is …? = … kahan hai?",
+        "en": "Looking for something? Ask: Where is …?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U10.S02",
+      "skills": [
+        "grammar.where_prepositions"
+      ],
+      "text": {
+        "hi": "हिंदी में ‘में, पर, नीचे’ बाद में आते हैं: बैग में। इंग्लिश में पहले: in the bag, on the table, under the bed.",
+        "hinglish": "Hindi mein ‘mein, par, neeche’ baad mein aate hain: bag mein. English mein pehle: in the bag, on the table, under the bed.",
+        "en": "In Hindi, ‘mein, par, neeche’ come after the word. In English, they come before: in the bag, on the table, under the bed."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U10.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.where_prepositions"
+      ],
+      "hindi": [
+        {
+          "hi": "मेरा",
+          "hinglish": "Mera",
+          "role": "x"
+        },
+        {
+          "hi": "पेन",
+          "hinglish": "pen",
+          "role": "s"
+        },
+        {
+          "hi": "कहाँ",
+          "hinglish": "kahan",
+          "role": "q"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "Where",
+          "role": "q"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "my",
+          "role": "x"
+        },
+        {
+          "text": "pen",
+          "role": "s"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U10.S04",
+      "skills": [
+        "grammar.where_prepositions"
+      ],
+      "sentence": "The book is ___ the table.",
+      "answer": "on",
+      "options": [
+        "in",
+        "on",
+        "under"
+      ],
+      "meaning": {
+        "hi": "किताब मेज़ पर है।",
+        "hinglish": "Kitaab mez par hai."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U10.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.where_prepositions"
+      ],
+      "hindi": [
+        {
+          "hi": "पेन",
+          "hinglish": "Pen",
+          "role": "s"
+        },
+        {
+          "hi": "बैग",
+          "hinglish": "bag",
+          "role": "o"
+        },
+        {
+          "hi": "में",
+          "hinglish": "mein",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "The",
+          "role": "x"
+        },
+        {
+          "text": "pen",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "in",
+          "role": "o"
+        },
+        {
+          "text": "the",
+          "role": "x"
+        },
+        {
+          "text": "bag",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U10.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.where_prepositions"
+      ],
+      "words": [
+        "Where",
+        "are",
+        "my",
+        "pen?"
+      ],
+      "wrong": 1,
+      "fix": "is",
+      "meaning": {
+        "hi": "मेरा पेन कहाँ है?",
+        "hinglish": "Mera pen kahan hai?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U10.S07",
+      "skills": [
+        "grammar.where_prepositions"
+      ],
+      "sentence": "The ball is ___ the box.",
+      "answer": "in",
+      "options": [
+        "in",
+        "on",
+        "under"
+      ],
+      "meaning": {
+        "hi": "गेंद डिब्बे में है।",
+        "hinglish": "Gend dibbe mein hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U10.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Where is my pen?",
+      "meaning": {
+        "hi": "मेरा पेन कहाँ है?",
+        "hinglish": "Mera pen kahan hai?",
+        "en": "Where is my pen?"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U10.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.where_prepositions"
+      ],
+      "hindi": [
+        {
+          "hi": "बिल्ली",
+          "hinglish": "Billi",
+          "role": "s"
+        },
+        {
+          "hi": "बिस्तर के",
+          "hinglish": "bistar ke",
+          "role": "o"
+        },
+        {
+          "hi": "नीचे",
+          "hinglish": "neeche",
+          "role": "o"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "The",
+          "role": "x"
+        },
+        {
+          "text": "cat",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "under",
+          "role": "o"
+        },
+        {
+          "text": "the",
+          "role": "x"
+        },
+        {
+          "text": "bed",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U10.S10",
+      "skills": [
+        "grammar.where_prepositions"
+      ],
+      "sentence": "___ is my bag?",
+      "answer": "Where",
+      "options": [
+        "Where",
+        "What",
+        "Who"
+      ],
+      "meaning": {
+        "hi": "मेरा बैग कहाँ है?",
+        "hinglish": "Mera bag kahan hai?"
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U10.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.where_prepositions"
+      ],
+      "words": [
+        "The",
+        "shoes",
+        "is",
+        "under",
+        "the",
+        "bed."
+      ],
+      "wrong": 2,
+      "fix": "are",
+      "meaning": {
+        "hi": "जूते बिस्तर के नीचे हैं।",
+        "hinglish": "Joote bistar ke neeche hain."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U10.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "The pen is in the bag.",
+      "meaning": {
+        "hi": "पेन बैग में है।",
+        "hinglish": "Pen bag mein hai.",
+        "en": "The pen is in the bag."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U10.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

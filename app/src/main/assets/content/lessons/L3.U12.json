@@ -1,0 +1,305 @@
+{
+  "id": "L3.U12",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U12.S01",
+      "skills": [
+        "grammar.not"
+      ],
+      "text": {
+        "hi": "‘नहीं’ = not. ‘not’ हमेशा am, is, are के बाद आता है: I am not sad.",
+        "hinglish": "‘Nahi’ = not. ‘not’ hamesha am, is, are ke baad aata hai: I am not sad.",
+        "en": "‘not’ makes a sentence negative. It comes after am, is, are: I am not sad."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U12.S02",
+      "skills": [
+        "grammar.not"
+      ],
+      "text": {
+        "hi": "हिंदी: मैं उदास नहीं हूँ। इंग्लिश: I am not sad. ‘not’ बीच में!",
+        "hinglish": "Hindi: Main udaas nahi hoon. English: I am not sad. ‘not’ beech mein!",
+        "en": "Compare: Main udaas nahi hoon = I am not sad. ‘not’ goes in the middle!"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U12.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.not"
+      ],
+      "hindi": [
+        {
+          "hi": "मैं",
+          "hinglish": "Main",
+          "role": "s"
+        },
+        {
+          "hi": "उदास",
+          "hinglish": "udaas",
+          "role": "o"
+        },
+        {
+          "hi": "नहीं",
+          "hinglish": "nahi",
+          "role": "v"
+        },
+        {
+          "hi": "हूँ",
+          "hinglish": "hoon",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "I",
+          "role": "s"
+        },
+        {
+          "text": "am",
+          "role": "v"
+        },
+        {
+          "text": "not",
+          "role": "v"
+        },
+        {
+          "text": "sad",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U12.S04",
+      "skills": [
+        "grammar.not"
+      ],
+      "sentence": "I am ___ tired.",
+      "answer": "not",
+      "options": [
+        "not",
+        "no",
+        "is"
+      ],
+      "meaning": {
+        "hi": "मैं थका हुआ नहीं हूँ।",
+        "hinglish": "Main thaka hua nahi hoon."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U12.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.not"
+      ],
+      "hindi": [
+        {
+          "hi": "यह",
+          "hinglish": "Yeh",
+          "role": "s"
+        },
+        {
+          "hi": "ठंडा",
+          "hinglish": "thanda",
+          "role": "o"
+        },
+        {
+          "hi": "नहीं",
+          "hinglish": "nahi",
+          "role": "v"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "It",
+          "role": "s"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "not",
+          "role": "v"
+        },
+        {
+          "text": "cold",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U12.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.not"
+      ],
+      "words": [
+        "I",
+        "am",
+        "no",
+        "sad."
+      ],
+      "wrong": 2,
+      "fix": "not",
+      "meaning": {
+        "hi": "मैं उदास नहीं हूँ।",
+        "hinglish": "Main udaas nahi hoon."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U12.S07",
+      "skills": [
+        "grammar.not"
+      ],
+      "sentence": "She is ___ at home.",
+      "answer": "not",
+      "options": [
+        "not",
+        "no",
+        "am"
+      ],
+      "meaning": {
+        "hi": "वह घर पर नहीं है।",
+        "hinglish": "Woh ghar par nahi hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U12.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.not"
+      ],
+      "sentence": "I am not sad.",
+      "meaning": {
+        "hi": "मैं उदास नहीं हूँ।",
+        "hinglish": "Main udaas nahi hoon.",
+        "en": "I am not sad."
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U12.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.not"
+      ],
+      "hindi": [
+        {
+          "hi": "वे",
+          "hinglish": "Woh",
+          "role": "s"
+        },
+        {
+          "hi": "यहाँ",
+          "hinglish": "yahan",
+          "role": "o"
+        },
+        {
+          "hi": "नहीं",
+          "hinglish": "nahi",
+          "role": "v"
+        },
+        {
+          "hi": "हैं",
+          "hinglish": "hain",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "They",
+          "role": "s"
+        },
+        {
+          "text": "are",
+          "role": "v"
+        },
+        {
+          "text": "not",
+          "role": "v"
+        },
+        {
+          "text": "here",
+          "role": "o"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U12.S10",
+      "skills": [
+        "grammar.not"
+      ],
+      "sentence": "The tea ___ not hot.",
+      "answer": "is",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "meaning": {
+        "hi": "चाय गरम नहीं है।",
+        "hinglish": "Chai garam nahi hai."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U12.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.not"
+      ],
+      "words": [
+        "He",
+        "are",
+        "not",
+        "here."
+      ],
+      "wrong": 1,
+      "fix": "is",
+      "meaning": {
+        "hi": "वह यहाँ नहीं है।",
+        "hinglish": "Woh yahan nahi hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U12.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.not"
+      ],
+      "sentence": "It is not cold.",
+      "meaning": {
+        "hi": "यह ठंडा नहीं है।",
+        "hinglish": "Yeh thanda nahi hai.",
+        "en": "It is not cold."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U12.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

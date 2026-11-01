@@ -1,0 +1,220 @@
+{
+  "id": "L1.U09",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U09.S01",
+      "skills": [
+        "phonics.magic_e"
+      ],
+      "text": {
+        "hi": "जादुई ‘e’! शब्द के आख़िर में ‘e’ खुद नहीं बोलता, पर पहले वाले अक्षर से उसका नाम बुलवाता है। kit बन जाता है kite!",
+        "hinglish": "Jaadui ‘e’! Shabd ke aakhir mein ‘e’ khud nahi bolta, par pehle waale akshar se uska naam bulwaata hai. kit ban jaata hai kite!",
+        "en": "Magic ‘e’! An ‘e’ at the end is silent, but it makes the letter before it say its name. kit becomes kite!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U09.S02",
+      "skills": [
+        "phonics.magic_e"
+      ],
+      "text": {
+        "hi": "kit में ‘i’ छोटा है: इ. kite में ‘e’ के जादू से ‘i’ बोलता है: आइ।",
+        "hinglish": "kit mein ‘i’ chhota hai: i. kite mein ‘e’ ke jaadoo se ‘i’ bolta hai: aai.",
+        "en": "In kit, ‘i’ is short. In kite, magic ‘e’ makes ‘i’ say its name."
+      },
+      "word": {
+        "english": "kite",
+        "emoji": "🪁",
+        "hindi": "पतंग",
+        "hinglish": "patang"
+      }
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U09.S03",
+      "skills": [
+        "listen.minimal_pair",
+        "phonics.magic_e"
+      ],
+      "answer": "kite",
+      "options": [
+        "kit",
+        "kite"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U09.S04",
+      "skills": [
+        "phonics.magic_e"
+      ],
+      "text": {
+        "hi": "cap में ‘a’ = ऐ. cake में ‘a’ = एइ, क्योंकि आख़िर में ‘e’ है!",
+        "hinglish": "cap mein ‘a’ = ae. cake mein ‘a’ = ei, kyonki aakhir mein ‘e’ hai!",
+        "en": "In cap, ‘a’ is short. In cake, ‘a’ says its name, because of the ‘e’ at the end!"
+      },
+      "word": {
+        "english": "cake",
+        "emoji": "🎂",
+        "hindi": "केक",
+        "hinglish": "cake"
+      }
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U09.S05",
+      "skills": [
+        "listen.minimal_pair",
+        "phonics.magic_e"
+      ],
+      "answer": "tape",
+      "options": [
+        "tap",
+        "tape"
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U09.S06",
+      "skills": [
+        "read.word",
+        "phonics.magic_e"
+      ],
+      "emoji": "🪁",
+      "answer": "kite",
+      "options": [
+        "kite",
+        "kit",
+        "cat"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U09.S07",
+      "skills": [
+        "listen.minimal_pair",
+        "phonics.magic_e"
+      ],
+      "answer": "cube",
+      "options": [
+        "cub",
+        "cube"
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U09.S08",
+      "skills": [
+        "read.word",
+        "phonics.magic_e"
+      ],
+      "emoji": "🧊",
+      "answer": "cube",
+      "options": [
+        "cube",
+        "cub",
+        "cup"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U09.S09",
+      "skills": [
+        "phonics.magic_e"
+      ],
+      "text": {
+        "hi": "o के साथ भी यही जादू: hop से hope, not से note, और bone!",
+        "hinglish": "o ke saath bhi yahi jaadoo: hop se hope, not se note, aur bone!",
+        "en": "The same magic works with o: hop becomes hope, not becomes note, and bone!"
+      },
+      "word": {
+        "english": "bone",
+        "emoji": "🦴",
+        "hindi": "हड्डी",
+        "hinglish": "haddi"
+      }
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U09.S10",
+      "skills": [
+        "listen.minimal_pair",
+        "phonics.magic_e"
+      ],
+      "answer": "hope",
+      "options": [
+        "hop",
+        "hope"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U09.S11",
+      "skills": [
+        "speak.word",
+        "phonics.magic_e"
+      ],
+      "word": {
+        "english": "kite",
+        "emoji": "🪁",
+        "hindi": "पतंग",
+        "hinglish": "patang"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U09.S12",
+      "skills": [
+        "speak.word",
+        "phonics.magic_e"
+      ],
+      "word": {
+        "english": "cake",
+        "emoji": "🎂",
+        "hindi": "केक",
+        "hinglish": "cake"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U09.S13",
+      "skills": [
+        "read.word",
+        "phonics.magic_e"
+      ],
+      "answer": "note",
+      "options": [
+        "note",
+        "not",
+        "nut"
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U09.S14",
+      "skills": [
+        "read.word",
+        "phonics.magic_e"
+      ],
+      "emoji": "🦴",
+      "answer": "bone",
+      "options": [
+        "bone",
+        "bun",
+        "ban"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U09.S15",
+      "text": {
+        "hi": "कमाल! जादुई e का राज़ अब तुम्हें पता है!",
+        "hinglish": "Kamaal! Jaadui e ka raaz ab tumhe pata hai!",
+        "en": "Amazing! Now you know the secret of magic e!"
+      }
+    }
+  ]
+}

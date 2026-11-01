@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Tinku's face, drawn inside the 66dp safe zone of a 108dp adaptive icon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- antenna -->
+    <path
+        android:pathData="M54,36 L54,27"
+        android:strokeWidth="3"
+        android:strokeColor="#FF2E8FDB"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#FFFFC93C"
+        android:pathData="M49,25 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+    <!-- ears -->
+    <path
+        android:fillColor="#FFFF8A3D"
+        android:pathData="M26,48 h6 v14 h-6 z M76,48 h6 v14 h-6 z" />
+    <!-- head -->
+    <path
+        android:fillColor="#FF4FB3FF"
+        android:pathData="M42,36 h24 a12,12 0 0 1 12,12 v14 a12,12 0 0 1 -12,12 h-24 a12,12 0 0 1 -12,-12 v-14 a12,12 0 0 1 12,-12 z" />
+    <!-- screen -->
+    <path
+        android:fillColor="#FF1E2A4A"
+        android:pathData="M43,41 h22 a8,8 0 0 1 8,8 v12 a8,8 0 0 1 -8,8 h-22 a8,8 0 0 1 -8,-8 v-12 a8,8 0 0 1 8,-8 z" />
+    <!-- eyes -->
+    <path
+        android:fillColor="#FF7DF9FF"
+        android:pathData="M43.5,52 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0 M57.5,52 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <!-- smile -->
+    <path
+        android:pathData="M47,60 Q54,66 61,60"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FF7DF9FF"
+        android:strokeLineCap="round" />
+</vector>

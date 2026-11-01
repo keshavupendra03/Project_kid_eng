@@ -1,0 +1,191 @@
+{
+  "id": "L1.U11",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U11.S01",
+      "skills": [
+        "read.sight_words"
+      ],
+      "text": {
+        "hi": "कुछ शब्द आवाज़ें जोड़कर नहीं पढ़े जाते। इन्हें देखते ही पहचानना होता है, जैसे: the, is, you, said.",
+        "hinglish": "Kuch shabd awaazein jodkar nahi padhe jaate. Inhe dekhte hi pehchaanna hota hai, jaise: the, is, you, said.",
+        "en": "Some words can't be sounded out. We learn to know them on sight, like: the, is, you, said."
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U11.S02",
+      "skills": [
+        "read.sight_words"
+      ],
+      "answer": "the",
+      "options": [
+        "the",
+        "then",
+        "they"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U11.S03",
+      "skills": [
+        "read.sight_words"
+      ],
+      "answer": "is",
+      "options": [
+        "is",
+        "it",
+        "in"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U11.S04",
+      "skills": [
+        "read.sight_words"
+      ],
+      "answer": "you",
+      "options": [
+        "you",
+        "your",
+        "yes"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L1.U11.S05",
+      "skills": [
+        "read.sight_words"
+      ],
+      "sentence": "This ___ my bag.",
+      "answer": "is",
+      "options": [
+        "is",
+        "the",
+        "you"
+      ],
+      "meaning": {
+        "hi": "यह मेरा बैग है।",
+        "hinglish": "Yeh mera bag hai."
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U11.S06",
+      "skills": [
+        "read.sight_words"
+      ],
+      "answer": "are",
+      "options": [
+        "are",
+        "and",
+        "air"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U11.S07",
+      "skills": [
+        "read.sight_words"
+      ],
+      "answer": "was",
+      "options": [
+        "was",
+        "saw",
+        "has"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U11.S08",
+      "skills": [
+        "read.sight_words"
+      ],
+      "answer": "said",
+      "options": [
+        "said",
+        "sad",
+        "sand"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L1.U11.S09",
+      "skills": [
+        "read.sight_words"
+      ],
+      "sentence": "Where are ___?",
+      "answer": "you",
+      "options": [
+        "you",
+        "was",
+        "the"
+      ],
+      "meaning": {
+        "hi": "तुम कहाँ हो?",
+        "hinglish": "Tum kahan ho?"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U11.S10",
+      "skills": [
+        "read.sight_words"
+      ],
+      "answer": "what",
+      "options": [
+        "what",
+        "want",
+        "white"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U11.S11",
+      "skills": [
+        "read.sight_words"
+      ],
+      "answer": "they",
+      "options": [
+        "they",
+        "the",
+        "then"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U11.S12",
+      "skills": [
+        "read.sight_words"
+      ],
+      "answer": "where",
+      "options": [
+        "where",
+        "were",
+        "here"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U11.S13",
+      "skills": [
+        "speak.word",
+        "read.sight_words"
+      ],
+      "word": {
+        "english": "the"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U11.S14",
+      "text": {
+        "hi": "बढ़िया! ये छोटे शब्द हर किताब में आते हैं। अब तुम इन्हें झट से पहचान लोगे!",
+        "hinglish": "Badhiya! Yeh chhote shabd har kitaab mein aate hain. Ab tum inhe jhat se pehchaan loge!",
+        "en": "Great! These little words are in every book. Now you'll spot them in a flash!"
+      }
+    }
+  ]
+}

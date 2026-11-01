@@ -1,0 +1,300 @@
+{
+  "id": "L3.U14",
+  "level": 3,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L3.U14.S01",
+      "skills": [
+        "grammar.wh_questions"
+      ],
+      "text": {
+        "hi": "क्या = What, कौन = Who, कहाँ = Where. ये सवाल वाले शब्द सबसे आगे आते हैं!",
+        "hinglish": "Kya = What, kaun = Who, kahan = Where. Yeh sawaal waale shabd sabse aage aate hain!",
+        "en": "What, Who and Where are question words. They come first in the question!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U14.S02",
+      "skills": [
+        "grammar.wh_questions"
+      ],
+      "text": {
+        "hi": "हिंदी: तुम्हारा नाम क्या है? इंग्लिश: What is your name? ‘What’ सबसे पहले!",
+        "hinglish": "Hindi: Tumhara naam kya hai? English: What is your name? ‘What’ sabse pehle!",
+        "en": "Compare: Tumhara naam kya hai? = What is your name? ‘What’ comes first!"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U14.S03",
+      "skills": [
+        "grammar.word_order",
+        "grammar.wh_questions"
+      ],
+      "hindi": [
+        {
+          "hi": "तुम्हारा",
+          "hinglish": "Tumhara",
+          "role": "x"
+        },
+        {
+          "hi": "नाम",
+          "hinglish": "naam",
+          "role": "s"
+        },
+        {
+          "hi": "क्या",
+          "hinglish": "kya",
+          "role": "q"
+        },
+        {
+          "hi": "है",
+          "hinglish": "hai",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "What",
+          "role": "q"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "your",
+          "role": "x"
+        },
+        {
+          "text": "name",
+          "role": "s"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U14.S04",
+      "skills": [
+        "grammar.wh_questions"
+      ],
+      "sentence": "___ is your name?",
+      "answer": "What",
+      "options": [
+        "What",
+        "Who",
+        "Where"
+      ],
+      "meaning": {
+        "hi": "तुम्हारा नाम क्या है?",
+        "hinglish": "Tumhara naam kya hai?"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U14.S05",
+      "skills": [
+        "grammar.word_order",
+        "grammar.wh_questions"
+      ],
+      "hindi": [
+        {
+          "hi": "तुम्हारी",
+          "hinglish": "Tumhari",
+          "role": "x"
+        },
+        {
+          "hi": "टीचर",
+          "hinglish": "teacher",
+          "role": "s"
+        },
+        {
+          "hi": "कौन",
+          "hinglish": "kaun",
+          "role": "q"
+        },
+        {
+          "hi": "हैं",
+          "hinglish": "hain",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "Who",
+          "role": "q"
+        },
+        {
+          "text": "is",
+          "role": "v"
+        },
+        {
+          "text": "your",
+          "role": "x"
+        },
+        {
+          "text": "teacher",
+          "role": "s"
+        }
+      ]
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U14.S06",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.wh_questions"
+      ],
+      "words": [
+        "What",
+        "are",
+        "your",
+        "name?"
+      ],
+      "wrong": 1,
+      "fix": "is",
+      "meaning": {
+        "hi": "तुम्हारा नाम क्या है?",
+        "hinglish": "Tumhara naam kya hai?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U14.S07",
+      "skills": [
+        "grammar.wh_questions"
+      ],
+      "sentence": "___ is your best friend?",
+      "answer": "Who",
+      "options": [
+        "What",
+        "Who",
+        "Where"
+      ],
+      "meaning": {
+        "hi": "तुम्हारा सबसे अच्छा दोस्त कौन है?",
+        "hinglish": "Tumhara sabse achha dost kaun hai?"
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U14.S08",
+      "skills": [
+        "speak.sentence",
+        "grammar.wh_questions"
+      ],
+      "sentence": "What is your name?",
+      "meaning": {
+        "hi": "तुम्हारा नाम क्या है?",
+        "hinglish": "Tumhara naam kya hai?",
+        "en": "What is your name?"
+      }
+    },
+    {
+      "type": "sentence_train",
+      "id": "L3.U14.S09",
+      "skills": [
+        "grammar.word_order",
+        "grammar.wh_questions"
+      ],
+      "hindi": [
+        {
+          "hi": "तुम",
+          "hinglish": "Tum",
+          "role": "s"
+        },
+        {
+          "hi": "कहाँ",
+          "hinglish": "kahan",
+          "role": "q"
+        },
+        {
+          "hi": "रहते हो",
+          "hinglish": "rehte ho",
+          "role": "v"
+        }
+      ],
+      "answer": [
+        {
+          "text": "Where",
+          "role": "q"
+        },
+        {
+          "text": "do",
+          "role": "v"
+        },
+        {
+          "text": "you",
+          "role": "s"
+        },
+        {
+          "text": "live",
+          "role": "v"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "L3.U14.S10",
+      "skills": [
+        "grammar.wh_questions"
+      ],
+      "sentence": "___ is the school?",
+      "answer": "Where",
+      "options": [
+        "What",
+        "Who",
+        "Where"
+      ],
+      "meaning": {
+        "hi": "स्कूल कहाँ है?",
+        "hinglish": "School kahan hai?"
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "L3.U14.S11",
+      "skills": [
+        "grammar.spot_mistake",
+        "grammar.wh_questions"
+      ],
+      "words": [
+        "Who",
+        "is",
+        "your",
+        "name?"
+      ],
+      "wrong": 0,
+      "fix": "What",
+      "meaning": {
+        "hi": "तुम्हारा नाम क्या है?",
+        "hinglish": "Tumhara naam kya hai?"
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "L3.U14.S12",
+      "skills": [
+        "speak.sentence",
+        "grammar.wh_questions"
+      ],
+      "sentence": "Where do you live?",
+      "meaning": {
+        "hi": "तुम कहाँ रहते हो?",
+        "hinglish": "Tum kahan rehte ho?",
+        "en": "Where do you live?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U14.S13",
+      "text": {
+        "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
+        "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
+        "en": "Well done! Now these sentences are easy for you. Practise saying them every day!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "id": "L1.U12",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U12.S01",
+      "text": {
+        "hi": "कुछ और आवाज़ें जो हम हिंदी बोलने वाले अक्सर बदल देते हैं। चलो इन्हें पक्का करें!",
+        "hinglish": "Kuch aur awaazein jo hum Hindi bolne waale aksar badal dete hain. Chalo inhe pakka karein!",
+        "en": "A few more sounds we Hindi speakers often change. Let's master them!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U12.S02",
+      "skills": [
+        "sound.s_cluster"
+      ],
+      "text": {
+        "hi": "school को इस्कूल मत बोलो! s के बाद सीधे अगली आवाज़: s-chool, s-tar, s-nake.",
+        "hinglish": "School ko ischool mat bolo! s ke baad seedhe agli awaaz: s-chool, s-tar, s-nake.",
+        "en": "Don't say ‘ischool’! After s, go straight on: s-chool, s-tar, s-nake."
+      },
+      "word": {
+        "english": "star",
+        "emoji": "⭐",
+        "hindi": "तारा",
+        "hinglish": "taara"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U12.S03",
+      "skills": [
+        "speak.word",
+        "sound.s_cluster"
+      ],
+      "word": {
+        "english": "star",
+        "emoji": "⭐",
+        "hindi": "तारा",
+        "hinglish": "taara"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U12.S04",
+      "skills": [
+        "speak.word",
+        "sound.s_cluster"
+      ],
+      "word": {
+        "english": "snake",
+        "emoji": "🐍",
+        "hindi": "साँप",
+        "hinglish": "saanp"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U12.S05",
+      "skills": [
+        "speak.word",
+        "sound.s_cluster"
+      ],
+      "word": {
+        "english": "spoon",
+        "emoji": "🥄",
+        "hindi": "चम्मच",
+        "hinglish": "chammach"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U12.S06",
+      "skills": [
+        "sound.z"
+      ],
+      "text": {
+        "hi": "‘z’ और ‘j’ अलग हैं। zoo में मधुमक्खी वाली आवाज़ आती है: ज़ू, जू नहीं!",
+        "hinglish": "‘z’ aur ‘j’ alag hain. zoo mein madhumakkhi waali awaaz aati hai: zoo, joo nahi!",
+        "en": "‘z’ and ‘j’ are different. zoo buzzes like a bee — not ‘joo’!"
+      },
+      "word": {
+        "english": "zebra",
+        "emoji": "🦓",
+        "hindi": "ज़ेबरा",
+        "hinglish": "zebra"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U12.S07",
+      "skills": [
+        "speak.word",
+        "sound.z"
+      ],
+      "word": {
+        "english": "zero",
+        "emoji": "0️⃣",
+        "hindi": "शून्य",
+        "hinglish": "shoonya"
+      },
+      "accept": [
+        "0"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U12.S08",
+      "skills": [
+        "speak.word",
+        "sound.z"
+      ],
+      "word": {
+        "english": "zebra",
+        "emoji": "🦓",
+        "hindi": "ज़ेबरा",
+        "hinglish": "zebra"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U12.S09",
+      "skills": [
+        "sound.f"
+      ],
+      "text": {
+        "hi": "‘f’ में होंठ नहीं मिलते, ‘p’ में मिलते हैं। fan और pan अलग शब्द हैं!",
+        "hinglish": "‘f’ mein honth nahi milte, ‘p’ mein milte hain. fan aur pan alag shabd hain!",
+        "en": "For ‘f’ your lips don't touch; for ‘p’ they do. fan and pan are different words!"
+      }
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U12.S10",
+      "skills": [
+        "listen.minimal_pair",
+        "sound.f"
+      ],
+      "answer": "pan",
+      "options": [
+        "fan",
+        "pan"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U12.S11",
+      "skills": [
+        "speak.word",
+        "sound.f"
+      ],
+      "word": {
+        "english": "fish",
+        "emoji": "🐟",
+        "hindi": "मछली",
+        "hinglish": "machhli"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U12.S12",
+      "skills": [
+        "speak.word",
+        "sound.f"
+      ],
+      "word": {
+        "english": "five",
+        "emoji": "5️⃣",
+        "hindi": "पाँच",
+        "hinglish": "paanch"
+      },
+      "accept": [
+        "5"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U12.S13",
+      "skills": [
+        "listen.minimal_pair",
+        "sound.sh"
+      ],
+      "answer": "ship",
+      "options": [
+        "ship",
+        "sip"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U12.S14",
+      "skills": [
+        "speak.word",
+        "sound.sh"
+      ],
+      "word": {
+        "english": "shoe",
+        "emoji": "👟",
+        "hindi": "जूता",
+        "hinglish": "joota"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U12.S15",
+      "text": {
+        "hi": "शाबाश! अब तुम्हारी इंग्लिश और साफ़ सुनाई देगी!",
+        "hinglish": "Shabaash! Ab tumhari English aur saaf sunaai degi!",
+        "en": "Well done! Your English will sound even clearer now!"
+      }
+    }
+  ]
+}

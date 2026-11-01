@@ -1,0 +1,409 @@
+{
+  "id": "L1.U10",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U10.S01",
+      "text": {
+        "hi": "कभी-कभी दो स्वर मिलकर एक आवाज़ बनाते हैं: ee, oa, ai, oo. चलो सुनते हैं!",
+        "hinglish": "Kabhi-kabhi do swar milkar ek awaaz banaate hain: ee, oa, ai, oo. Chalo sunte hain!",
+        "en": "Sometimes two vowels team up to make one sound: ee, oa, ai, oo. Let's listen!"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U10.S02",
+      "skills": [
+        "phonics.ee"
+      ],
+      "letters": "ee",
+      "sound": "v08_ee_tree",
+      "hint": "ई",
+      "text": {
+        "hi": "यह ‘ee’ है। इसकी आवाज़ है ‘ई’, जैसे tree में।",
+        "hinglish": "Yeh ‘ee’ hai. Iski awaaz hai ‘ee’, jaise tree mein.",
+        "en": "This is ‘ee’. Listen to its sound, like at the start of tree."
+      },
+      "example": {
+        "english": "tree",
+        "emoji": "🌳",
+        "hindi": "पेड़",
+        "hinglish": "ped"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U10.S03",
+      "skills": [
+        "phonics.oa"
+      ],
+      "letters": "oa",
+      "sound": "v10_oa_boat",
+      "hint": "ओ",
+      "text": {
+        "hi": "यह ‘oa’ है। इसकी आवाज़ है ‘ओ’, जैसे boat में।",
+        "hinglish": "Yeh ‘oa’ hai. Iski awaaz hai ‘o’, jaise boat mein.",
+        "en": "This is ‘oa’. Listen to its sound, like at the start of boat."
+      },
+      "example": {
+        "english": "boat",
+        "emoji": "⛵",
+        "hindi": "नाव",
+        "hinglish": "naav"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U10.S04",
+      "skills": [
+        "listen.word",
+        "phonics.oa"
+      ],
+      "answer": "boat",
+      "options": [
+        {
+          "english": "boat",
+          "emoji": "⛵",
+          "hindi": "नाव",
+          "hinglish": "naav"
+        },
+        {
+          "english": "tree",
+          "emoji": "🌳",
+          "hindi": "पेड़",
+          "hinglish": "ped"
+        }
+      ]
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U10.S05",
+      "skills": [
+        "phonics.ai"
+      ],
+      "letters": "ai",
+      "sound": "v07_ai_cake",
+      "hint": "एइ",
+      "text": {
+        "hi": "यह ‘ai’ है। इसकी आवाज़ है ‘एइ’, जैसे rain में।",
+        "hinglish": "Yeh ‘ai’ hai. Iski awaaz hai ‘ei’, jaise rain mein.",
+        "en": "This is ‘ai’. Listen to its sound, like at the start of rain."
+      },
+      "example": {
+        "english": "rain",
+        "emoji": "🌧️",
+        "hindi": "बारिश",
+        "hinglish": "baarish"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U10.S06",
+      "skills": [
+        "phonics.oo"
+      ],
+      "letters": "oo",
+      "sound": "v11_oo_moon",
+      "hint": "ऊ",
+      "text": {
+        "hi": "यह ‘oo’ है। इसकी आवाज़ है ‘ऊ’, जैसे moon में।",
+        "hinglish": "Yeh ‘oo’ hai. Iski awaaz hai ‘oo’, jaise moon mein.",
+        "en": "This is ‘oo’. Listen to its sound, like at the start of moon."
+      },
+      "example": {
+        "english": "moon",
+        "emoji": "🌙",
+        "hindi": "चाँद",
+        "hinglish": "chaand"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U10.S07",
+      "skills": [
+        "listen.word",
+        "phonics.oo"
+      ],
+      "answer": "moon",
+      "options": [
+        {
+          "english": "moon",
+          "emoji": "🌙",
+          "hindi": "चाँद",
+          "hinglish": "chaand"
+        },
+        {
+          "english": "tree",
+          "emoji": "🌳",
+          "hindi": "पेड़",
+          "hinglish": "ped"
+        },
+        {
+          "english": "rain",
+          "emoji": "🌧️",
+          "hindi": "बारिश",
+          "hinglish": "baarish"
+        },
+        {
+          "english": "boat",
+          "emoji": "⛵",
+          "hindi": "नाव",
+          "hinglish": "naav"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U10.S08",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "tree",
+        "emoji": "🌳",
+        "hindi": "पेड़",
+        "hinglish": "ped"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U10.S09",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "boat",
+        "emoji": "⛵",
+        "hindi": "नाव",
+        "hinglish": "naav"
+      }
+    },
+    {
+      "type": "blend",
+      "id": "L1.U10.S10",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "bee",
+      "emoji": "🐝",
+      "parts": [
+        {
+          "letters": "b",
+          "sound": "c01_b"
+        },
+        {
+          "letters": "ee",
+          "sound": "v08_ee_tree"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U10.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "sheep",
+      "emoji": "🐑",
+      "parts": [
+        {
+          "letters": "sh",
+          "sound": "c19_sh"
+        },
+        {
+          "letters": "ee",
+          "sound": "v08_ee_tree"
+        },
+        {
+          "letters": "p",
+          "sound": "c11_p"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U10.S12",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🐑",
+      "answer": "sheep",
+      "options": [
+        "sheep",
+        "spoon",
+        "goat"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U10.S13",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "goat",
+      "emoji": "🐐",
+      "parts": [
+        {
+          "letters": "g",
+          "sound": "c04_g"
+        },
+        {
+          "letters": "oa",
+          "sound": "v10_oa_boat"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U10.S14",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "snail",
+      "emoji": "🐌",
+      "parts": [
+        {
+          "letters": "s",
+          "sound": "c13_s"
+        },
+        {
+          "letters": "n",
+          "sound": "c10_n"
+        },
+        {
+          "letters": "ai",
+          "sound": "v07_ai_cake"
+        },
+        {
+          "letters": "l",
+          "sound": "c08_l"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U10.S15",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🐌",
+      "answer": "snail",
+      "options": [
+        "snail",
+        "bee",
+        "food"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U10.S16",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "spoon",
+      "emoji": "🥄",
+      "parts": [
+        {
+          "letters": "s",
+          "sound": "c13_s"
+        },
+        {
+          "letters": "p",
+          "sound": "c11_p"
+        },
+        {
+          "letters": "oo",
+          "sound": "v11_oo_moon"
+        },
+        {
+          "letters": "n",
+          "sound": "c10_n"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U10.S17",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "food",
+      "emoji": "🍲",
+      "parts": [
+        {
+          "letters": "f",
+          "sound": "c03_f"
+        },
+        {
+          "letters": "oo",
+          "sound": "v11_oo_moon"
+        },
+        {
+          "letters": "d",
+          "sound": "c02_d"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U10.S18",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🍲",
+      "answer": "food",
+      "options": [
+        "food",
+        "spoon",
+        "snail"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U10.S19",
+      "skills": [
+        "listen.minimal_pair"
+      ],
+      "answer": "sheep",
+      "options": [
+        "sheep",
+        "ship"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U10.S20",
+      "skills": [
+        "listen.minimal_pair"
+      ],
+      "answer": "boat",
+      "options": [
+        "boat",
+        "boot"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U10.S21",
+      "text": {
+        "hi": "शाबाश! ee, oa, ai, oo — जोड़ी वाले स्वर अब तुम्हारे दोस्त हैं!",
+        "hinglish": "Shabaash! ee, oa, ai, oo — jodi waale swar ab tumhare dost hain!",
+        "en": "Well done! ee, oa, ai, oo — vowel teams are your friends now!"
+      }
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "id": "L2.U27",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U27.S01",
+      "text": {
+        "hi": "उल्टे शब्द! बड़ा-छोटा, गरम-ठंडा।",
+        "hinglish": "Ulte shabd! Bada-chhota, garam-thanda.",
+        "en": "Opposites! Big and small, hot and cold."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U27.S02",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘big’ मतलब ‘बड़ा’।",
+        "hinglish": "‘big’ matlab ‘bada’.",
+        "en": "Say it with me: big!"
+      },
+      "word": {
+        "english": "big",
+        "emoji": "🐘",
+        "hindi": "बड़ा",
+        "hinglish": "bada"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U27.S03",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘small’ मतलब ‘छोटा’।",
+        "hinglish": "‘small’ matlab ‘chhota’.",
+        "en": "Say it with me: small!"
+      },
+      "word": {
+        "english": "small",
+        "emoji": "🐜",
+        "hindi": "छोटा",
+        "hinglish": "chhota"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U27.S04",
+      "skills": [
+        "listen.word",
+        "vocab.opposites"
+      ],
+      "answer": "big",
+      "options": [
+        {
+          "english": "big",
+          "emoji": "🐘",
+          "hindi": "बड़ा",
+          "hinglish": "bada"
+        },
+        {
+          "english": "fast",
+          "emoji": "🚀",
+          "hindi": "तेज़",
+          "hinglish": "tez"
+        },
+        {
+          "english": "hot",
+          "emoji": "🔥",
+          "hindi": "गरम",
+          "hinglish": "garam"
+        },
+        {
+          "english": "cold",
+          "emoji": "🧊",
+          "hindi": "ठंडा",
+          "hinglish": "thanda"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U27.S05",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "emoji": "🐜",
+      "answer": "small",
+      "options": [
+        "small",
+        "slow",
+        "hot"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U27.S06",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘hot’ मतलब ‘गरम’।",
+        "hinglish": "‘hot’ matlab ‘garam’.",
+        "en": "Say it with me: hot!"
+      },
+      "word": {
+        "english": "hot",
+        "emoji": "🔥",
+        "hindi": "गरम",
+        "hinglish": "garam"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U27.S07",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘cold’ मतलब ‘ठंडा’।",
+        "hinglish": "‘cold’ matlab ‘thanda’.",
+        "en": "Say it with me: cold!"
+      },
+      "word": {
+        "english": "cold",
+        "emoji": "🧊",
+        "hindi": "ठंडा",
+        "hinglish": "thanda"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U27.S08",
+      "skills": [
+        "listen.word",
+        "vocab.opposites"
+      ],
+      "answer": "hot",
+      "options": [
+        {
+          "english": "hot",
+          "emoji": "🔥",
+          "hindi": "गरम",
+          "hinglish": "garam"
+        },
+        {
+          "english": "cold",
+          "emoji": "🧊",
+          "hindi": "ठंडा",
+          "hinglish": "thanda"
+        },
+        {
+          "english": "slow",
+          "emoji": "🐢",
+          "hindi": "धीमा",
+          "hinglish": "dheema"
+        },
+        {
+          "english": "fast",
+          "emoji": "🚀",
+          "hindi": "तेज़",
+          "hinglish": "tez"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U27.S09",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "emoji": "🧊",
+      "answer": "cold",
+      "options": [
+        "cold",
+        "big",
+        "hot"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U27.S10",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘fast’ मतलब ‘तेज़’।",
+        "hinglish": "‘fast’ matlab ‘tez’.",
+        "en": "Say it with me: fast!"
+      },
+      "word": {
+        "english": "fast",
+        "emoji": "🚀",
+        "hindi": "तेज़",
+        "hinglish": "tez"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U27.S11",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘slow’ मतलब ‘धीमा’।",
+        "hinglish": "‘slow’ matlab ‘dheema’.",
+        "en": "Say it with me: slow!"
+      },
+      "word": {
+        "english": "slow",
+        "emoji": "🐢",
+        "hindi": "धीमा",
+        "hinglish": "dheema"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U27.S12",
+      "skills": [
+        "listen.word",
+        "vocab.opposites"
+      ],
+      "answer": "fast",
+      "options": [
+        {
+          "english": "fast",
+          "emoji": "🚀",
+          "hindi": "तेज़",
+          "hinglish": "tez"
+        },
+        {
+          "english": "down",
+          "emoji": "⬇️",
+          "hindi": "नीचे",
+          "hinglish": "neeche"
+        },
+        {
+          "english": "big",
+          "emoji": "🐘",
+          "hindi": "बड़ा",
+          "hinglish": "bada"
+        },
+        {
+          "english": "hot",
+          "emoji": "🔥",
+          "hindi": "गरम",
+          "hinglish": "garam"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U27.S13",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "emoji": "🐢",
+      "answer": "slow",
+      "options": [
+        "slow",
+        "fast",
+        "up"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U27.S14",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘up’ मतलब ‘ऊपर’।",
+        "hinglish": "‘up’ matlab ‘upar’.",
+        "en": "Say it with me: up!"
+      },
+      "word": {
+        "english": "up",
+        "emoji": "⬆️",
+        "hindi": "ऊपर",
+        "hinglish": "upar"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U27.S15",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘down’ मतलब ‘नीचे’।",
+        "hinglish": "‘down’ matlab ‘neeche’.",
+        "en": "Say it with me: down!"
+      },
+      "word": {
+        "english": "down",
+        "emoji": "⬇️",
+        "hindi": "नीचे",
+        "hinglish": "neeche"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U27.S16",
+      "skills": [
+        "listen.word",
+        "vocab.opposites"
+      ],
+      "answer": "up",
+      "options": [
+        {
+          "english": "up",
+          "emoji": "⬆️",
+          "hindi": "ऊपर",
+          "hinglish": "upar"
+        },
+        {
+          "english": "slow",
+          "emoji": "🐢",
+          "hindi": "धीमा",
+          "hinglish": "dheema"
+        },
+        {
+          "english": "fast",
+          "emoji": "🚀",
+          "hindi": "तेज़",
+          "hinglish": "tez"
+        },
+        {
+          "english": "down",
+          "emoji": "⬇️",
+          "hindi": "नीचे",
+          "hinglish": "neeche"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U27.S17",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "emoji": "⬇️",
+      "answer": "down",
+      "options": [
+        "down",
+        "hot",
+        "fast"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U27.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "up",
+        "emoji": "⬆️",
+        "hindi": "ऊपर",
+        "hinglish": "upar"
+      },
+      "answer": {
+        "hi": "ऊपर",
+        "hinglish": "upar"
+      },
+      "options": [
+        {
+          "hi": "ऊपर",
+          "hinglish": "upar"
+        },
+        {
+          "hi": "नीचे",
+          "hinglish": "neeche"
+        },
+        {
+          "hi": "छोटा",
+          "hinglish": "chhota"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U27.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "down",
+        "emoji": "⬇️",
+        "hindi": "नीचे",
+        "hinglish": "neeche"
+      },
+      "answer": {
+        "hi": "नीचे",
+        "hinglish": "neeche"
+      },
+      "options": [
+        {
+          "hi": "नीचे",
+          "hinglish": "neeche"
+        },
+        {
+          "hi": "छोटा",
+          "hinglish": "chhota"
+        },
+        {
+          "hi": "तेज़",
+          "hinglish": "tez"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U27.S20",
+      "skills": [
+        "speak.word",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "up",
+        "emoji": "⬆️",
+        "hindi": "ऊपर",
+        "hinglish": "upar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U27.S21",
+      "skills": [
+        "speak.word",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "big",
+        "emoji": "🐘",
+        "hindi": "बड़ा",
+        "hinglish": "bada"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U27.S22",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "big",
+      "options": [
+        "big",
+        "slow",
+        "small"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U27.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: big, small, hot, cold, fast, slow, up, down।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: big, small, hot, cold, fast, slow, up, down.",
+        "en": "Well done! Today's new words: big, small, hot, cold, fast, slow, up, down."
+      }
+    }
+  ]
+}

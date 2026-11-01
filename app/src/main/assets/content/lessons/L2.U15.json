@@ -1,0 +1,480 @@
+{
+  "id": "L2.U15",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U15.S01",
+      "text": {
+        "hi": "रंग-बिरंगी दुनिया! रंगों के इंग्लिश नाम।",
+        "hinglish": "Rang-birangi duniya! Rangon ke English naam.",
+        "en": "A colourful world! English names for colours."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U15.S02",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘red’ मतलब ‘लाल’।",
+        "hinglish": "‘red’ matlab ‘laal’.",
+        "en": "Say it with me: red!"
+      },
+      "word": {
+        "english": "red",
+        "emoji": "🔴",
+        "hindi": "लाल",
+        "hinglish": "laal"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U15.S03",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘blue’ मतलब ‘नीला’।",
+        "hinglish": "‘blue’ matlab ‘neela’.",
+        "en": "Say it with me: blue!"
+      },
+      "word": {
+        "english": "blue",
+        "emoji": "🔵",
+        "hindi": "नीला",
+        "hinglish": "neela"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U15.S04",
+      "skills": [
+        "listen.word",
+        "vocab.colours"
+      ],
+      "answer": "red",
+      "options": [
+        {
+          "english": "red",
+          "emoji": "🔴",
+          "hindi": "लाल",
+          "hinglish": "laal"
+        },
+        {
+          "english": "brown",
+          "emoji": "🟤",
+          "hindi": "भूरा",
+          "hinglish": "bhoora"
+        },
+        {
+          "english": "pink",
+          "emoji": "🌸",
+          "hindi": "गुलाबी",
+          "hinglish": "gulaabi"
+        },
+        {
+          "english": "yellow",
+          "emoji": "🟡",
+          "hindi": "पीला",
+          "hinglish": "peela"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U15.S05",
+      "skills": [
+        "read.word",
+        "vocab.colours"
+      ],
+      "emoji": "🔵",
+      "answer": "blue",
+      "options": [
+        "blue",
+        "brown",
+        "white"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U15.S06",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘green’ मतलब ‘हरा’।",
+        "hinglish": "‘green’ matlab ‘hara’.",
+        "en": "Say it with me: green!"
+      },
+      "word": {
+        "english": "green",
+        "emoji": "🟢",
+        "hindi": "हरा",
+        "hinglish": "hara"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U15.S07",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘yellow’ मतलब ‘पीला’।",
+        "hinglish": "‘yellow’ matlab ‘peela’.",
+        "en": "Say it with me: yellow!"
+      },
+      "word": {
+        "english": "yellow",
+        "emoji": "🟡",
+        "hindi": "पीला",
+        "hinglish": "peela"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U15.S08",
+      "skills": [
+        "listen.word",
+        "vocab.colours"
+      ],
+      "answer": "green",
+      "options": [
+        {
+          "english": "green",
+          "emoji": "🟢",
+          "hindi": "हरा",
+          "hinglish": "hara"
+        },
+        {
+          "english": "white",
+          "emoji": "⚪",
+          "hindi": "सफ़ेद",
+          "hinglish": "safed"
+        },
+        {
+          "english": "brown",
+          "emoji": "🟤",
+          "hindi": "भूरा",
+          "hinglish": "bhoora"
+        },
+        {
+          "english": "yellow",
+          "emoji": "🟡",
+          "hindi": "पीला",
+          "hinglish": "peela"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U15.S09",
+      "skills": [
+        "read.word",
+        "vocab.colours"
+      ],
+      "emoji": "🟡",
+      "answer": "yellow",
+      "options": [
+        "yellow",
+        "white",
+        "blue"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U15.S10",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘black’ मतलब ‘काला’।",
+        "hinglish": "‘black’ matlab ‘kaala’.",
+        "en": "Say it with me: black!"
+      },
+      "word": {
+        "english": "black",
+        "emoji": "⚫",
+        "hindi": "काला",
+        "hinglish": "kaala"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U15.S11",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘white’ मतलब ‘सफ़ेद’।",
+        "hinglish": "‘white’ matlab ‘safed’.",
+        "en": "Say it with me: white!"
+      },
+      "word": {
+        "english": "white",
+        "emoji": "⚪",
+        "hindi": "सफ़ेद",
+        "hinglish": "safed"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U15.S12",
+      "skills": [
+        "listen.word",
+        "vocab.colours"
+      ],
+      "answer": "black",
+      "options": [
+        {
+          "english": "black",
+          "emoji": "⚫",
+          "hindi": "काला",
+          "hinglish": "kaala"
+        },
+        {
+          "english": "pink",
+          "emoji": "🌸",
+          "hindi": "गुलाबी",
+          "hinglish": "gulaabi"
+        },
+        {
+          "english": "blue",
+          "emoji": "🔵",
+          "hindi": "नीला",
+          "hinglish": "neela"
+        },
+        {
+          "english": "brown",
+          "emoji": "🟤",
+          "hindi": "भूरा",
+          "hinglish": "bhoora"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U15.S13",
+      "skills": [
+        "read.word",
+        "vocab.colours"
+      ],
+      "emoji": "⚪",
+      "answer": "white",
+      "options": [
+        "white",
+        "black",
+        "red"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U15.S14",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘brown’ मतलब ‘भूरा’।",
+        "hinglish": "‘brown’ matlab ‘bhoora’.",
+        "en": "Say it with me: brown!"
+      },
+      "word": {
+        "english": "brown",
+        "emoji": "🟤",
+        "hindi": "भूरा",
+        "hinglish": "bhoora"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U15.S15",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘pink’ मतलब ‘गुलाबी’।",
+        "hinglish": "‘pink’ matlab ‘gulaabi’.",
+        "en": "Say it with me: pink!"
+      },
+      "word": {
+        "english": "pink",
+        "emoji": "🌸",
+        "hindi": "गुलाबी",
+        "hinglish": "gulaabi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U15.S16",
+      "skills": [
+        "listen.word",
+        "vocab.colours"
+      ],
+      "answer": "brown",
+      "options": [
+        {
+          "english": "brown",
+          "emoji": "🟤",
+          "hindi": "भूरा",
+          "hinglish": "bhoora"
+        },
+        {
+          "english": "red",
+          "emoji": "🔴",
+          "hindi": "लाल",
+          "hinglish": "laal"
+        },
+        {
+          "english": "green",
+          "emoji": "🟢",
+          "hindi": "हरा",
+          "hinglish": "hara"
+        },
+        {
+          "english": "white",
+          "emoji": "⚪",
+          "hindi": "सफ़ेद",
+          "hinglish": "safed"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U15.S17",
+      "skills": [
+        "read.word",
+        "vocab.colours"
+      ],
+      "emoji": "🌸",
+      "answer": "pink",
+      "options": [
+        "pink",
+        "black",
+        "red"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U15.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "brown",
+        "emoji": "🟤",
+        "hindi": "भूरा",
+        "hinglish": "bhoora"
+      },
+      "answer": {
+        "hi": "भूरा",
+        "hinglish": "bhoora"
+      },
+      "options": [
+        {
+          "hi": "भूरा",
+          "hinglish": "bhoora"
+        },
+        {
+          "hi": "गुलाबी",
+          "hinglish": "gulaabi"
+        },
+        {
+          "hi": "काला",
+          "hinglish": "kaala"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U15.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "white",
+        "emoji": "⚪",
+        "hindi": "सफ़ेद",
+        "hinglish": "safed"
+      },
+      "answer": {
+        "hi": "सफ़ेद",
+        "hinglish": "safed"
+      },
+      "options": [
+        {
+          "hi": "सफ़ेद",
+          "hinglish": "safed"
+        },
+        {
+          "hi": "भूरा",
+          "hinglish": "bhoora"
+        },
+        {
+          "hi": "पीला",
+          "hinglish": "peela"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U15.S20",
+      "skills": [
+        "speak.word",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "red",
+        "emoji": "🔴",
+        "hindi": "लाल",
+        "hinglish": "laal"
+      },
+      "accept": [
+        "read"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U15.S21",
+      "skills": [
+        "speak.word",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "blue",
+        "emoji": "🔵",
+        "hindi": "नीला",
+        "hinglish": "neela"
+      },
+      "accept": [
+        "blew"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U15.S22",
+      "skills": [
+        "read.word",
+        "vocab.colours"
+      ],
+      "answer": "pink",
+      "options": [
+        "pink",
+        "black",
+        "white"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U15.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: red, blue, green, yellow, black, white, brown, pink।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: red, blue, green, yellow, black, white, brown, pink.",
+        "en": "Well done! Today's new words: red, blue, green, yellow, black, white, brown, pink."
+      }
+    }
+  ]
+}

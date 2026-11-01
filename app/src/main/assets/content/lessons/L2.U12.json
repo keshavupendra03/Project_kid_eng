@@ -1,0 +1,474 @@
+{
+  "id": "L2.U12",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U12.S01",
+      "text": {
+        "hi": "गाँव और घर के जानवर।",
+        "hinglish": "Gaon aur ghar ke jaanwar.",
+        "en": "Animals at home and on the farm."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U12.S02",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘dog’ मतलब ‘कुत्ता’।",
+        "hinglish": "‘dog’ matlab ‘kutta’.",
+        "en": "Say it with me: dog!"
+      },
+      "word": {
+        "english": "dog",
+        "emoji": "🐕",
+        "hindi": "कुत्ता",
+        "hinglish": "kutta"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U12.S03",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘cat’ मतलब ‘बिल्ली’।",
+        "hinglish": "‘cat’ matlab ‘billi’.",
+        "en": "Say it with me: cat!"
+      },
+      "word": {
+        "english": "cat",
+        "emoji": "🐈",
+        "hindi": "बिल्ली",
+        "hinglish": "billi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U12.S04",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "dog",
+      "options": [
+        {
+          "english": "dog",
+          "emoji": "🐕",
+          "hindi": "कुत्ता",
+          "hinglish": "kutta"
+        },
+        {
+          "english": "hen",
+          "emoji": "🐔",
+          "hindi": "मुर्गी",
+          "hinglish": "murgi"
+        },
+        {
+          "english": "fish",
+          "emoji": "🐟",
+          "hindi": "मछली",
+          "hinglish": "machhli"
+        },
+        {
+          "english": "horse",
+          "emoji": "🐎",
+          "hindi": "घोड़ा",
+          "hinglish": "ghoda"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U12.S05",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐈",
+      "answer": "cat",
+      "options": [
+        "cat",
+        "fish",
+        "hen"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U12.S06",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘cow’ मतलब ‘गाय’।",
+        "hinglish": "‘cow’ matlab ‘gaay’.",
+        "en": "Say it with me: cow!"
+      },
+      "word": {
+        "english": "cow",
+        "emoji": "🐄",
+        "hindi": "गाय",
+        "hinglish": "gaay"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U12.S07",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘horse’ मतलब ‘घोड़ा’।",
+        "hinglish": "‘horse’ matlab ‘ghoda’.",
+        "en": "Say it with me: horse!"
+      },
+      "word": {
+        "english": "horse",
+        "emoji": "🐎",
+        "hindi": "घोड़ा",
+        "hinglish": "ghoda"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U12.S08",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "cow",
+      "options": [
+        {
+          "english": "cow",
+          "emoji": "🐄",
+          "hindi": "गाय",
+          "hinglish": "gaay"
+        },
+        {
+          "english": "duck",
+          "emoji": "🦆",
+          "hindi": "बत्तख",
+          "hinglish": "battakh"
+        },
+        {
+          "english": "cat",
+          "emoji": "🐈",
+          "hindi": "बिल्ली",
+          "hinglish": "billi"
+        },
+        {
+          "english": "goat",
+          "emoji": "🐐",
+          "hindi": "बकरी",
+          "hinglish": "bakri"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U12.S09",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐎",
+      "answer": "horse",
+      "options": [
+        "horse",
+        "hen",
+        "goat"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U12.S10",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘goat’ मतलब ‘बकरी’।",
+        "hinglish": "‘goat’ matlab ‘bakri’.",
+        "en": "Say it with me: goat!"
+      },
+      "word": {
+        "english": "goat",
+        "emoji": "🐐",
+        "hindi": "बकरी",
+        "hinglish": "bakri"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U12.S11",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘hen’ मतलब ‘मुर्गी’।",
+        "hinglish": "‘hen’ matlab ‘murgi’.",
+        "en": "Say it with me: hen!"
+      },
+      "word": {
+        "english": "hen",
+        "emoji": "🐔",
+        "hindi": "मुर्गी",
+        "hinglish": "murgi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U12.S12",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "goat",
+      "options": [
+        {
+          "english": "goat",
+          "emoji": "🐐",
+          "hindi": "बकरी",
+          "hinglish": "bakri"
+        },
+        {
+          "english": "hen",
+          "emoji": "🐔",
+          "hindi": "मुर्गी",
+          "hinglish": "murgi"
+        },
+        {
+          "english": "duck",
+          "emoji": "🦆",
+          "hindi": "बत्तख",
+          "hinglish": "battakh"
+        },
+        {
+          "english": "cat",
+          "emoji": "🐈",
+          "hindi": "बिल्ली",
+          "hinglish": "billi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U12.S13",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐔",
+      "answer": "hen",
+      "options": [
+        "hen",
+        "dog",
+        "cat"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U12.S14",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘duck’ मतलब ‘बत्तख’।",
+        "hinglish": "‘duck’ matlab ‘battakh’.",
+        "en": "Say it with me: duck!"
+      },
+      "word": {
+        "english": "duck",
+        "emoji": "🦆",
+        "hindi": "बत्तख",
+        "hinglish": "battakh"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U12.S15",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘fish’ मतलब ‘मछली’।",
+        "hinglish": "‘fish’ matlab ‘machhli’.",
+        "en": "Say it with me: fish!"
+      },
+      "word": {
+        "english": "fish",
+        "emoji": "🐟",
+        "hindi": "मछली",
+        "hinglish": "machhli"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U12.S16",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "duck",
+      "options": [
+        {
+          "english": "duck",
+          "emoji": "🦆",
+          "hindi": "बत्तख",
+          "hinglish": "battakh"
+        },
+        {
+          "english": "horse",
+          "emoji": "🐎",
+          "hindi": "घोड़ा",
+          "hinglish": "ghoda"
+        },
+        {
+          "english": "hen",
+          "emoji": "🐔",
+          "hindi": "मुर्गी",
+          "hinglish": "murgi"
+        },
+        {
+          "english": "goat",
+          "emoji": "🐐",
+          "hindi": "बकरी",
+          "hinglish": "bakri"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U12.S17",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐟",
+      "answer": "fish",
+      "options": [
+        "fish",
+        "dog",
+        "goat"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U12.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "hen",
+        "emoji": "🐔",
+        "hindi": "मुर्गी",
+        "hinglish": "murgi"
+      },
+      "answer": {
+        "hi": "मुर्गी",
+        "hinglish": "murgi"
+      },
+      "options": [
+        {
+          "hi": "मुर्गी",
+          "hinglish": "murgi"
+        },
+        {
+          "hi": "बकरी",
+          "hinglish": "bakri"
+        },
+        {
+          "hi": "कुत्ता",
+          "hinglish": "kutta"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U12.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "cow",
+        "emoji": "🐄",
+        "hindi": "गाय",
+        "hinglish": "gaay"
+      },
+      "answer": {
+        "hi": "गाय",
+        "hinglish": "gaay"
+      },
+      "options": [
+        {
+          "hi": "गाय",
+          "hinglish": "gaay"
+        },
+        {
+          "hi": "बिल्ली",
+          "hinglish": "billi"
+        },
+        {
+          "hi": "बकरी",
+          "hinglish": "bakri"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U12.S20",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "dog",
+        "emoji": "🐕",
+        "hindi": "कुत्ता",
+        "hinglish": "kutta"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U12.S21",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "cat",
+        "emoji": "🐈",
+        "hindi": "बिल्ली",
+        "hinglish": "billi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U12.S22",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "answer": "cat",
+      "options": [
+        "cat",
+        "fish",
+        "hen"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U12.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: dog, cat, cow, horse, goat, hen, duck, fish।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: dog, cat, cow, horse, goat, hen, duck, fish.",
+        "en": "Well done! Today's new words: dog, cat, cow, horse, goat, hen, duck, fish."
+      }
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "id": "L2.U19",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U19.S01",
+      "text": {
+        "hi": "काम वाले शब्द! हम रोज़ क्या-क्या करते हैं?",
+        "hinglish": "Kaam waale shabd! Hum roz kya-kya karte hain?",
+        "en": "Action words! What do we do every day?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U19.S02",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘eat’ मतलब ‘खाना’।",
+        "hinglish": "‘eat’ matlab ‘khaana’.",
+        "en": "Say it with me: eat!"
+      },
+      "word": {
+        "english": "eat",
+        "emoji": "😋",
+        "hindi": "खाना",
+        "hinglish": "khaana"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U19.S03",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘drink’ मतलब ‘पीना’।",
+        "hinglish": "‘drink’ matlab ‘peena’.",
+        "en": "Say it with me: drink!"
+      },
+      "word": {
+        "english": "drink",
+        "emoji": "🥤",
+        "hindi": "पीना",
+        "hinglish": "peena"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U19.S04",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "eat",
+      "options": [
+        {
+          "english": "eat",
+          "emoji": "😋",
+          "hindi": "खाना",
+          "hinglish": "khaana"
+        },
+        {
+          "english": "laugh",
+          "emoji": "😂",
+          "hindi": "हँसना",
+          "hinglish": "hansna"
+        },
+        {
+          "english": "walk",
+          "emoji": "🚶",
+          "hindi": "चलना",
+          "hinglish": "chalna"
+        },
+        {
+          "english": "drink",
+          "emoji": "🥤",
+          "hindi": "पीना",
+          "hinglish": "peena"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U19.S05",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "🥤",
+      "answer": "drink",
+      "options": [
+        "drink",
+        "dance",
+        "laugh"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U19.S06",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘sleep’ मतलब ‘सोना’।",
+        "hinglish": "‘sleep’ matlab ‘sona’.",
+        "en": "Say it with me: sleep!"
+      },
+      "word": {
+        "english": "sleep",
+        "emoji": "😴",
+        "hindi": "सोना",
+        "hinglish": "sona"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U19.S07",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘run’ मतलब ‘दौड़ना’।",
+        "hinglish": "‘run’ matlab ‘daudna’.",
+        "en": "Say it with me: run!"
+      },
+      "word": {
+        "english": "run",
+        "emoji": "🏃",
+        "hindi": "दौड़ना",
+        "hinglish": "daudna"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U19.S08",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "sleep",
+      "options": [
+        {
+          "english": "sleep",
+          "emoji": "😴",
+          "hindi": "सोना",
+          "hinglish": "sona"
+        },
+        {
+          "english": "walk",
+          "emoji": "🚶",
+          "hindi": "चलना",
+          "hinglish": "chalna"
+        },
+        {
+          "english": "laugh",
+          "emoji": "😂",
+          "hindi": "हँसना",
+          "hinglish": "hansna"
+        },
+        {
+          "english": "eat",
+          "emoji": "😋",
+          "hindi": "खाना",
+          "hinglish": "khaana"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U19.S09",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "🏃",
+      "answer": "run",
+      "options": [
+        "run",
+        "drink",
+        "dance"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U19.S10",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘walk’ मतलब ‘चलना’।",
+        "hinglish": "‘walk’ matlab ‘chalna’.",
+        "en": "Say it with me: walk!"
+      },
+      "word": {
+        "english": "walk",
+        "emoji": "🚶",
+        "hindi": "चलना",
+        "hinglish": "chalna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U19.S11",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘swim’ मतलब ‘तैरना’।",
+        "hinglish": "‘swim’ matlab ‘tairna’.",
+        "en": "Say it with me: swim!"
+      },
+      "word": {
+        "english": "swim",
+        "emoji": "🏊",
+        "hindi": "तैरना",
+        "hinglish": "tairna"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U19.S12",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "walk",
+      "options": [
+        {
+          "english": "walk",
+          "emoji": "🚶",
+          "hindi": "चलना",
+          "hinglish": "chalna"
+        },
+        {
+          "english": "eat",
+          "emoji": "😋",
+          "hindi": "खाना",
+          "hinglish": "khaana"
+        },
+        {
+          "english": "run",
+          "emoji": "🏃",
+          "hindi": "दौड़ना",
+          "hinglish": "daudna"
+        },
+        {
+          "english": "laugh",
+          "emoji": "😂",
+          "hindi": "हँसना",
+          "hinglish": "hansna"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U19.S13",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "🏊",
+      "answer": "swim",
+      "options": [
+        "swim",
+        "sleep",
+        "eat"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U19.S14",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘dance’ मतलब ‘नाचना’।",
+        "hinglish": "‘dance’ matlab ‘naachna’.",
+        "en": "Say it with me: dance!"
+      },
+      "word": {
+        "english": "dance",
+        "emoji": "💃",
+        "hindi": "नाचना",
+        "hinglish": "naachna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U19.S15",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘laugh’ मतलब ‘हँसना’।",
+        "hinglish": "‘laugh’ matlab ‘hansna’.",
+        "en": "Say it with me: laugh!"
+      },
+      "word": {
+        "english": "laugh",
+        "emoji": "😂",
+        "hindi": "हँसना",
+        "hinglish": "hansna"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U19.S16",
+      "skills": [
+        "listen.word",
+        "vocab.actions"
+      ],
+      "answer": "dance",
+      "options": [
+        {
+          "english": "dance",
+          "emoji": "💃",
+          "hindi": "नाचना",
+          "hinglish": "naachna"
+        },
+        {
+          "english": "laugh",
+          "emoji": "😂",
+          "hindi": "हँसना",
+          "hinglish": "hansna"
+        },
+        {
+          "english": "drink",
+          "emoji": "🥤",
+          "hindi": "पीना",
+          "hinglish": "peena"
+        },
+        {
+          "english": "walk",
+          "emoji": "🚶",
+          "hindi": "चलना",
+          "hinglish": "chalna"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U19.S17",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "😂",
+      "answer": "laugh",
+      "options": [
+        "laugh",
+        "walk",
+        "dance"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U19.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "run",
+        "emoji": "🏃",
+        "hindi": "दौड़ना",
+        "hinglish": "daudna"
+      },
+      "answer": {
+        "hi": "दौड़ना",
+        "hinglish": "daudna"
+      },
+      "options": [
+        {
+          "hi": "दौड़ना",
+          "hinglish": "daudna"
+        },
+        {
+          "hi": "चलना",
+          "hinglish": "chalna"
+        },
+        {
+          "hi": "तैरना",
+          "hinglish": "tairna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U19.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "dance",
+        "emoji": "💃",
+        "hindi": "नाचना",
+        "hinglish": "naachna"
+      },
+      "answer": {
+        "hi": "नाचना",
+        "hinglish": "naachna"
+      },
+      "options": [
+        {
+          "hi": "नाचना",
+          "hinglish": "naachna"
+        },
+        {
+          "hi": "दौड़ना",
+          "hinglish": "daudna"
+        },
+        {
+          "hi": "चलना",
+          "hinglish": "chalna"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U19.S20",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "eat",
+        "emoji": "😋",
+        "hindi": "खाना",
+        "hinglish": "khaana"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U19.S21",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "run",
+        "emoji": "🏃",
+        "hindi": "दौड़ना",
+        "hinglish": "daudna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U19.S22",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "walk",
+      "options": [
+        "walk",
+        "sleep",
+        "run"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U19.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: eat, drink, sleep, run, walk, swim, dance, laugh।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: eat, drink, sleep, run, walk, swim, dance, laugh.",
+        "en": "Well done! Today's new words: eat, drink, sleep, run, walk, swim, dance, laugh."
+      }
+    }
+  ]
+}
