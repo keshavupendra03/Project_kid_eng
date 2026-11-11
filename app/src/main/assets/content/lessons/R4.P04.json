@@ -1,0 +1,142 @@
+{
+  "id": "R4.P04",
+  "level": 104,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R4.P04.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘At the Doctor’ (डॉक्टर के पास)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘At the Doctor’ (Doctor ke paas). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘At the Doctor’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P04.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘fever’ मतलब बुखार। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘fever’ matlab bukhaar. Chhookar suno, phir bolo.",
+        "en": "‘fever’ means बुखार. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "fever",
+        "emoji": "🤒",
+        "hindi": "बुखार",
+        "hinglish": "bukhaar"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P04.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘doctor’ मतलब डॉक्टर। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘doctor’ matlab doctor. Chhookar suno, phir bolo.",
+        "en": "‘doctor’ means डॉक्टर. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "doctor",
+        "emoji": "👩‍⚕️",
+        "hindi": "डॉक्टर",
+        "hinglish": "doctor"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P04.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘medicine’ मतलब दवाई। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘medicine’ matlab dawai. Chhookar suno, phir bolo.",
+        "en": "‘medicine’ means दवाई. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "medicine",
+        "emoji": "💊",
+        "hindi": "दवाई",
+        "hinglish": "dawai"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R4.P04.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "डॉक्टर के पास",
+        "hinglish": "Doctor ke paas",
+        "en": "At the Doctor"
+      },
+      "sentences": [
+        "Last week I had a fever.",
+        "Mummy took me to the doctor.",
+        "The doctor was very kind.",
+        "She checked my throat and said, \"Open your mouth wide.\"",
+        "Then she gave me some medicine.",
+        "\"Drink warm water and take rest,\" she said.",
+        "I took the medicine for three days.",
+        "Now I am fine and I can go to school again."
+      ],
+      "words": [
+        {
+          "english": "fever",
+          "emoji": "🤒",
+          "hindi": "बुखार",
+          "hinglish": "bukhaar"
+        },
+        {
+          "english": "doctor",
+          "emoji": "👩‍⚕️",
+          "hindi": "डॉक्टर",
+          "hinglish": "doctor"
+        },
+        {
+          "english": "medicine",
+          "emoji": "💊",
+          "hindi": "दवाई",
+          "hinglish": "dawai"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P04.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बच्चे को क्या हुआ था?",
+        "hinglish": "Bachche ko kya hua tha?",
+        "en": "What did the child have?"
+      },
+      "options": [
+        "a fever",
+        "a ball",
+        "a prize"
+      ],
+      "answer": "a fever"
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P04.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "डॉक्टर ने क्या पीने को कहा?",
+        "hinglish": "Doctor ne kya peene ko kaha?",
+        "en": "What did the doctor say to drink?"
+      },
+      "options": [
+        "warm water",
+        "cold milk",
+        "tea"
+      ],
+      "answer": "warm water"
+    }
+  ]
+}

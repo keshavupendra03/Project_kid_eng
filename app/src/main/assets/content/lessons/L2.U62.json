@@ -1,0 +1,450 @@
+{
+  "id": "L2.U62",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U62.S01",
+      "text": {
+        "hi": "पास-दूर, अंदर-बाहर, दायाँ-बायाँ!",
+        "hinglish": "Paas-door, andar-baahar, daayaan-baayaan!",
+        "en": "Near and far, in and out, right and left!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U62.S02",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘full’ मतलब ‘भरा हुआ’।",
+        "hinglish": "‘full’ matlab ‘bhara hua’.",
+        "en": "Say it with me: full!"
+      },
+      "word": {
+        "english": "full",
+        "hindi": "भरा हुआ",
+        "hinglish": "bhara hua"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U62.S03",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘empty’ मतलब ‘खाली’।",
+        "hinglish": "‘empty’ matlab ‘khaali’.",
+        "en": "Say it with me: empty!"
+      },
+      "word": {
+        "english": "empty",
+        "hindi": "खाली",
+        "hinglish": "khaali"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U62.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "full",
+        "hindi": "भरा हुआ",
+        "hinglish": "bhara hua"
+      },
+      "answer": {
+        "hi": "भरा हुआ",
+        "hinglish": "bhara hua"
+      },
+      "options": [
+        {
+          "hi": "भरा हुआ",
+          "hinglish": "bhara hua"
+        },
+        {
+          "hi": "खाली",
+          "hinglish": "khaali"
+        },
+        {
+          "hi": "पास",
+          "hinglish": "paas"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U62.S05",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "empty",
+      "options": [
+        "empty",
+        "far",
+        "full"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U62.S06",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘near’ मतलब ‘पास’।",
+        "hinglish": "‘near’ matlab ‘paas’.",
+        "en": "Say it with me: near!"
+      },
+      "word": {
+        "english": "near",
+        "hindi": "पास",
+        "hinglish": "paas"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U62.S07",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘far’ मतलब ‘दूर’।",
+        "hinglish": "‘far’ matlab ‘door’.",
+        "en": "Say it with me: far!"
+      },
+      "word": {
+        "english": "far",
+        "hindi": "दूर",
+        "hinglish": "door"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U62.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "near",
+        "hindi": "पास",
+        "hinglish": "paas"
+      },
+      "answer": {
+        "hi": "पास",
+        "hinglish": "paas"
+      },
+      "options": [
+        {
+          "hi": "पास",
+          "hinglish": "paas"
+        },
+        {
+          "hi": "दायाँ",
+          "hinglish": "daayaan"
+        },
+        {
+          "hi": "बायाँ",
+          "hinglish": "baayaan"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U62.S09",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "far",
+      "options": [
+        "far",
+        "inside",
+        "empty"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U62.S10",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘inside’ मतलब ‘अंदर’।",
+        "hinglish": "‘inside’ matlab ‘andar’.",
+        "en": "Say it with me: inside!"
+      },
+      "word": {
+        "english": "inside",
+        "hindi": "अंदर",
+        "hinglish": "andar"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U62.S11",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘outside’ मतलब ‘बाहर’।",
+        "hinglish": "‘outside’ matlab ‘baahar’.",
+        "en": "Say it with me: outside!"
+      },
+      "word": {
+        "english": "outside",
+        "hindi": "बाहर",
+        "hinglish": "baahar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U62.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "inside",
+        "hindi": "अंदर",
+        "hinglish": "andar"
+      },
+      "answer": {
+        "hi": "अंदर",
+        "hinglish": "andar"
+      },
+      "options": [
+        {
+          "hi": "अंदर",
+          "hinglish": "andar"
+        },
+        {
+          "hi": "भरा हुआ",
+          "hinglish": "bhara hua"
+        },
+        {
+          "hi": "बाहर",
+          "hinglish": "baahar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U62.S13",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "outside",
+      "options": [
+        "outside",
+        "near",
+        "far"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U62.S14",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘right’ मतलब ‘दायाँ’।",
+        "hinglish": "‘right’ matlab ‘daayaan’.",
+        "en": "Say it with me: right!"
+      },
+      "word": {
+        "english": "right",
+        "emoji": "➡️",
+        "hindi": "दायाँ",
+        "hinglish": "daayaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U62.S15",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘left’ मतलब ‘बायाँ’।",
+        "hinglish": "‘left’ matlab ‘baayaan’.",
+        "en": "Say it with me: left!"
+      },
+      "word": {
+        "english": "left",
+        "emoji": "⬅️",
+        "hindi": "बायाँ",
+        "hinglish": "baayaan"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U62.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "right",
+        "emoji": "➡️",
+        "hindi": "दायाँ",
+        "hinglish": "daayaan"
+      },
+      "answer": {
+        "hi": "दायाँ",
+        "hinglish": "daayaan"
+      },
+      "options": [
+        {
+          "hi": "दायाँ",
+          "hinglish": "daayaan"
+        },
+        {
+          "hi": "दूर",
+          "hinglish": "door"
+        },
+        {
+          "hi": "बायाँ",
+          "hinglish": "baayaan"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U62.S17",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "left",
+      "options": [
+        "left",
+        "right",
+        "far"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U62.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "inside",
+        "hindi": "अंदर",
+        "hinglish": "andar"
+      },
+      "answer": {
+        "hi": "अंदर",
+        "hinglish": "andar"
+      },
+      "options": [
+        {
+          "hi": "अंदर",
+          "hinglish": "andar"
+        },
+        {
+          "hi": "दूर",
+          "hinglish": "door"
+        },
+        {
+          "hi": "दायाँ",
+          "hinglish": "daayaan"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U62.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "outside",
+        "hindi": "बाहर",
+        "hinglish": "baahar"
+      },
+      "answer": {
+        "hi": "बाहर",
+        "hinglish": "baahar"
+      },
+      "options": [
+        {
+          "hi": "बाहर",
+          "hinglish": "baahar"
+        },
+        {
+          "hi": "दायाँ",
+          "hinglish": "daayaan"
+        },
+        {
+          "hi": "खाली",
+          "hinglish": "khaali"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U62.S20",
+      "skills": [
+        "speak.word",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "left",
+        "emoji": "⬅️",
+        "hindi": "बायाँ",
+        "hinglish": "baayaan"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U62.S21",
+      "skills": [
+        "speak.word",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "right",
+        "emoji": "➡️",
+        "hindi": "दायाँ",
+        "hinglish": "daayaan"
+      },
+      "accept": [
+        "write"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U62.S22",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "left",
+      "options": [
+        "left",
+        "near",
+        "outside"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U62.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: full, empty, near, far, inside, outside, right, left।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: full, empty, near, far, inside, outside, right, left.",
+        "en": "Well done! Today's new words: full, empty, near, far, inside, outside, right, left."
+      }
+    }
+  ]
+}

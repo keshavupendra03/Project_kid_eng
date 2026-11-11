@@ -1,0 +1,480 @@
+{
+  "id": "W78.P04",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P04.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: शब्द परिवार: -tion और -ment। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Shabd parivaar: -tion aur -ment. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Word families: -tion and -ment. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P04.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "decision",
+        "emoji": "🤔",
+        "hindi": "फ़ैसला",
+        "hinglish": "faisla"
+      },
+      "meaning": "decide → decision: what you choose",
+      "example": "It was a hard decision.",
+      "exampleMeaning": {
+        "hi": "यह एक मुश्किल फ़ैसला था।",
+        "hinglish": "Yeh ek mushkil faisla tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P04.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "education",
+        "emoji": "🎓",
+        "hindi": "शिक्षा",
+        "hinglish": "shiksha"
+      },
+      "meaning": "educate → education: learning in school",
+      "example": "Education helps us grow.",
+      "exampleMeaning": {
+        "hi": "शिक्षा हमें आगे बढ़ने में मदद करती है।",
+        "hinglish": "Shiksha hamein aage badhne mein madad karti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P04.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "information",
+        "emoji": "ℹ️",
+        "hindi": "जानकारी",
+        "hinglish": "jaankaari"
+      },
+      "meaning": "inform → information: facts about something",
+      "example": "The guide gave us information about the fort.",
+      "exampleMeaning": {
+        "hi": "गाइड ने हमें किले के बारे में जानकारी दी।",
+        "hinglish": "Guide ne hamein kile ke baare mein jaankaari di."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P04.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "celebration",
+        "emoji": "🎉",
+        "hindi": "उत्सव",
+        "hinglish": "utsav"
+      },
+      "meaning": "celebrate → celebration: a happy event",
+      "example": "The celebration went on till night.",
+      "exampleMeaning": {
+        "hi": "उत्सव रात तक चलता रहा।",
+        "hinglish": "Utsav raat tak chalta raha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P04.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "protection",
+        "emoji": "🛡️",
+        "hindi": "सुरक्षा",
+        "hinglish": "suraksha"
+      },
+      "meaning": "protect → protection: keeping safe",
+      "example": "A helmet gives protection to your head.",
+      "exampleMeaning": {
+        "hi": "हेलमेट सिर को सुरक्षा देता है।",
+        "hinglish": "Helmet sir ko suraksha deta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P04.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "invitation",
+        "emoji": "💌",
+        "hindi": "निमंत्रण",
+        "hinglish": "nimantran"
+      },
+      "meaning": "invite → invitation: asking someone to come",
+      "example": "We got an invitation to the wedding.",
+      "exampleMeaning": {
+        "hi": "हमें शादी का निमंत्रण मिला।",
+        "hinglish": "Hamein shaadi ka nimantran mila."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P04.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "movement",
+        "emoji": "🏃",
+        "hindi": "हलचल",
+        "hinglish": "halchal"
+      },
+      "meaning": "move → movement: moving",
+      "example": "The cat watched every movement of the mouse.",
+      "exampleMeaning": {
+        "hi": "बिल्ली चूहे की हर हलचल पर नज़र रख रही थी।",
+        "hinglish": "Billi choohe ki har halchal par nazar rakh rahi thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P04.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "agreement",
+        "emoji": "🤝",
+        "hindi": "समझौता",
+        "hinglish": "samjhauta"
+      },
+      "meaning": "agree → agreement: when people agree",
+      "example": "The two friends made an agreement.",
+      "exampleMeaning": {
+        "hi": "दोनों दोस्तों ने आपस में समझौता किया।",
+        "hinglish": "Dono doston ne aapas mein samjhauta kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P04.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "improvement",
+        "emoji": "📈",
+        "hindi": "सुधार",
+        "hinglish": "sudhaar"
+      },
+      "meaning": "improve → improvement: getting better",
+      "example": "There is a big improvement in your handwriting.",
+      "exampleMeaning": {
+        "hi": "तुम्हारी लिखावट में बहुत सुधार है।",
+        "hinglish": "Tumhari likhaavat mein bahut sudhaar hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P04.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "achievement",
+        "emoji": "🏅",
+        "hindi": "उपलब्धि",
+        "hinglish": "uplabdhi"
+      },
+      "meaning": "achieve → achievement: something great you did",
+      "example": "Winning the quiz was a big achievement.",
+      "exampleMeaning": {
+        "hi": "क्विज़ जीतना एक बड़ी उपलब्धि थी।",
+        "hinglish": "Quiz jeetna ek badi uplabdhi thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P04.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The two friends made an ___.",
+      "answer": "agreement",
+      "options": [
+        "agreement",
+        "movement",
+        "improvement"
+      ],
+      "meaning": {
+        "hi": "समझौता",
+        "hinglish": "samjhauta"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P04.S13",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "education",
+        "emoji": "🎓",
+        "hindi": "शिक्षा",
+        "hinglish": "shiksha"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P04.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "information",
+        "emoji": "ℹ️",
+        "hindi": "जानकारी",
+        "hinglish": "jaankaari"
+      },
+      "answer": {
+        "hi": "जानकारी",
+        "hinglish": "jaankaari"
+      },
+      "options": [
+        {
+          "hi": "जानकारी",
+          "hinglish": "jaankaari"
+        },
+        {
+          "hi": "निमंत्रण",
+          "hinglish": "nimantran"
+        },
+        {
+          "hi": "समझौता",
+          "hinglish": "samjhauta"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P04.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "improvement",
+      "options": [
+        "improvement",
+        "invitation",
+        "achievement"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P04.S16",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "information",
+        "emoji": "ℹ️",
+        "hindi": "जानकारी",
+        "hinglish": "jaankaari"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P04.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ went on till night.",
+      "answer": "celebration",
+      "options": [
+        "celebration",
+        "movement",
+        "protection"
+      ],
+      "meaning": {
+        "hi": "उत्सव",
+        "hinglish": "utsav"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P04.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "protection",
+        "emoji": "🛡️",
+        "hindi": "सुरक्षा",
+        "hinglish": "suraksha"
+      },
+      "answer": {
+        "hi": "सुरक्षा",
+        "hinglish": "suraksha"
+      },
+      "options": [
+        {
+          "hi": "सुरक्षा",
+          "hinglish": "suraksha"
+        },
+        {
+          "hi": "उपलब्धि",
+          "hinglish": "uplabdhi"
+        },
+        {
+          "hi": "फ़ैसला",
+          "hinglish": "faisla"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P04.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We got an ___ to the wedding.",
+      "answer": "invitation",
+      "options": [
+        "invitation",
+        "protection",
+        "movement"
+      ],
+      "meaning": {
+        "hi": "निमंत्रण",
+        "hinglish": "nimantran"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P04.S20",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "decision",
+        "emoji": "🤔",
+        "hindi": "फ़ैसला",
+        "hinglish": "faisla"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P04.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "movement",
+        "emoji": "🏃",
+        "hindi": "हलचल",
+        "hinglish": "halchal"
+      },
+      "answer": {
+        "hi": "हलचल",
+        "hinglish": "halchal"
+      },
+      "options": [
+        {
+          "hi": "हलचल",
+          "hinglish": "halchal"
+        },
+        {
+          "hi": "सुधार",
+          "hinglish": "sudhaar"
+        },
+        {
+          "hi": "शिक्षा",
+          "hinglish": "shiksha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P04.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "achievement",
+      "options": [
+        "achievement",
+        "movement",
+        "protection"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P04.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "decision",
+        "emoji": "🤔",
+        "hindi": "फ़ैसला",
+        "hinglish": "faisla"
+      },
+      "answer": {
+        "hi": "फ़ैसला",
+        "hinglish": "faisla"
+      },
+      "options": [
+        {
+          "hi": "फ़ैसला",
+          "hinglish": "faisla"
+        },
+        {
+          "hi": "उत्सव",
+          "hinglish": "utsav"
+        },
+        {
+          "hi": "शिक्षा",
+          "hinglish": "shiksha"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P04.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "celebration",
+        "emoji": "🎉",
+        "hindi": "उत्सव",
+        "hinglish": "utsav"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P04.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ helps us grow.",
+      "answer": "education",
+      "options": [
+        "education",
+        "improvement",
+        "information"
+      ],
+      "meaning": {
+        "hi": "शिक्षा",
+        "hinglish": "shiksha"
+      }
+    }
+  ]
+}

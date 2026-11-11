@@ -1,0 +1,142 @@
+{
+  "id": "R3.P03",
+  "level": 103,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R3.P03.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Cricket in the Park’ (पार्क में क्रिकेट)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Cricket in the Park’ (Park mein cricket). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Cricket in the Park’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P03.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘cricket’ मतलब क्रिकेट। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘cricket’ matlab cricket. Chhookar suno, phir bolo.",
+        "en": "‘cricket’ means क्रिकेट. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "cricket",
+        "emoji": "🏏",
+        "hindi": "क्रिकेट",
+        "hinglish": "cricket"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P03.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘catch’ मतलब पकड़ना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘catch’ matlab pakadna. Chhookar suno, phir bolo.",
+        "en": "‘catch’ means पकड़ना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "catch",
+        "emoji": "🧤",
+        "hindi": "पकड़ना",
+        "hinglish": "pakadna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P03.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘laugh’ मतलब हँसना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘laugh’ matlab hansna. Chhookar suno, phir bolo.",
+        "en": "‘laugh’ means हँसना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "laugh",
+        "emoji": "😂",
+        "hindi": "हँसना",
+        "hinglish": "hansna"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R3.P03.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "पार्क में क्रिकेट",
+        "hinglish": "Park mein cricket",
+        "en": "Cricket in the Park"
+      },
+      "sentences": [
+        "Every evening we play cricket in the park.",
+        "Sonu bats first.",
+        "He hits the ball very far.",
+        "\"Catch it!\"",
+        "I shout.",
+        "Munna runs and catches the ball.",
+        "Sonu is out.",
+        "We all laugh and play again."
+      ],
+      "words": [
+        {
+          "english": "cricket",
+          "emoji": "🏏",
+          "hindi": "क्रिकेट",
+          "hinglish": "cricket"
+        },
+        {
+          "english": "catch",
+          "emoji": "🧤",
+          "hindi": "पकड़ना",
+          "hinglish": "pakadna"
+        },
+        {
+          "english": "laugh",
+          "emoji": "😂",
+          "hindi": "हँसना",
+          "hinglish": "hansna"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P03.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "पहले बल्लेबाज़ी कौन करता है?",
+        "hinglish": "Pehle ballebaazi kaun karta hai?",
+        "en": "Who bats first?"
+      },
+      "options": [
+        "Sonu",
+        "Munna",
+        "Amit"
+      ],
+      "answer": "Sonu"
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P03.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "गेंद कौन पकड़ता है?",
+        "hinglish": "Gend kaun pakadta hai?",
+        "en": "Who catches the ball?"
+      },
+      "options": [
+        "Munna",
+        "Sonu",
+        "Papa"
+      ],
+      "answer": "Munna"
+    }
+  ]
+}

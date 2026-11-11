@@ -1,0 +1,365 @@
+{
+  "id": "L1.U15",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U15.S01",
+      "text": {
+        "hi": "अब ‘r’ वाली आवाज़ें: ar, or, ur. यहाँ ‘r’ साफ़ बोलना है!",
+        "hinglish": "Ab ‘r’ waali awaazein: ar, or, ur. Yahan ‘r’ saaf bolna hai!",
+        "en": "Now sounds with ‘r’: ar, or, ur. Say the ‘r’ clearly!"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U15.S02",
+      "skills": [
+        "phonics.ar"
+      ],
+      "letters": "ar",
+      "sound": "v12_ar_car",
+      "hint": "आर",
+      "text": {
+        "hi": "यह ‘ar’ है। इसकी आवाज़ है ‘आर’, जैसे car में।",
+        "hinglish": "Yeh ‘ar’ hai. Iski awaaz hai ‘aar’, jaise car mein.",
+        "en": "This is ‘ar’. Listen to its sound, as in car."
+      },
+      "example": {
+        "english": "car",
+        "emoji": "🚗",
+        "hindi": "गाड़ी",
+        "hinglish": "gaadi"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U15.S03",
+      "skills": [
+        "phonics.or"
+      ],
+      "letters": "or",
+      "sound": "v13_or_fork",
+      "hint": "ऑर",
+      "text": {
+        "hi": "यह ‘or’ है। इसकी आवाज़ है ‘ऑर’, जैसे fork में।",
+        "hinglish": "Yeh ‘or’ hai. Iski awaaz hai ‘or’, jaise fork mein.",
+        "en": "This is ‘or’. Listen to its sound, as in fork."
+      },
+      "example": {
+        "english": "fork",
+        "emoji": "🍴",
+        "hindi": "काँटा",
+        "hinglish": "kaanta"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U15.S04",
+      "skills": [
+        "listen.word",
+        "phonics.or"
+      ],
+      "answer": "fork",
+      "options": [
+        {
+          "english": "fork",
+          "emoji": "🍴",
+          "hindi": "काँटा",
+          "hinglish": "kaanta"
+        },
+        {
+          "english": "car",
+          "emoji": "🚗",
+          "hindi": "गाड़ी",
+          "hinglish": "gaadi"
+        }
+      ]
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U15.S05",
+      "skills": [
+        "phonics.ur"
+      ],
+      "letters": "ur",
+      "sound": "v14_ur_bird",
+      "hint": "अर",
+      "text": {
+        "hi": "‘ur’ और ‘ir’ की एक ही आवाज़ है: अर। जैसे turtle और bird में।",
+        "hinglish": "‘ur’ aur ‘ir’ ki ek hi awaaz hai: ur. Jaise turtle aur bird mein.",
+        "en": "‘ur’ and ‘ir’ make the same sound, as in turtle and bird."
+      },
+      "example": {
+        "english": "turtle",
+        "emoji": "🐢",
+        "hindi": "कछुआ",
+        "hinglish": "kachhua"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U15.S06",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "car",
+        "emoji": "🚗",
+        "hindi": "गाड़ी",
+        "hinglish": "gaadi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U15.S07",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "fork",
+        "emoji": "🍴",
+        "hindi": "काँटा",
+        "hinglish": "kaanta"
+      }
+    },
+    {
+      "type": "blend",
+      "id": "L1.U15.S08",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "car",
+      "emoji": "🚗",
+      "parts": [
+        {
+          "letters": "c",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "ar",
+          "sound": "v12_ar_car"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U15.S09",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "star",
+      "emoji": "⭐",
+      "parts": [
+        {
+          "letters": "s",
+          "sound": "c13_s"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        },
+        {
+          "letters": "ar",
+          "sound": "v12_ar_car"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U15.S10",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "⭐",
+      "answer": "star",
+      "options": [
+        "star",
+        "car",
+        "corn"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U15.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "arm",
+      "emoji": "💪",
+      "parts": [
+        {
+          "letters": "ar",
+          "sound": "v12_ar_car"
+        },
+        {
+          "letters": "m",
+          "sound": "c09_m"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U15.S12",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "fork",
+      "emoji": "🍴",
+      "parts": [
+        {
+          "letters": "f",
+          "sound": "c03_f"
+        },
+        {
+          "letters": "or",
+          "sound": "v13_or_fork"
+        },
+        {
+          "letters": "k",
+          "sound": "c07_k"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U15.S13",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🍴",
+      "answer": "fork",
+      "options": [
+        "fork",
+        "car",
+        "star"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U15.S14",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "corn",
+      "emoji": "🌽",
+      "parts": [
+        {
+          "letters": "c",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "or",
+          "sound": "v13_or_fork"
+        },
+        {
+          "letters": "n",
+          "sound": "c10_n"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U15.S15",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "bird",
+      "emoji": "🐦",
+      "parts": [
+        {
+          "letters": "b",
+          "sound": "c01_b"
+        },
+        {
+          "letters": "ir",
+          "sound": "v14_ur_bird"
+        },
+        {
+          "letters": "d",
+          "sound": "c02_d"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U15.S16",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🐦",
+      "answer": "bird",
+      "options": [
+        "bird",
+        "star",
+        "corn"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U15.S17",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "girl",
+      "emoji": "👧",
+      "parts": [
+        {
+          "letters": "g",
+          "sound": "c04_g"
+        },
+        {
+          "letters": "ir",
+          "sound": "v14_ur_bird"
+        },
+        {
+          "letters": "l",
+          "sound": "c08_l"
+        }
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U15.S18",
+      "skills": [
+        "listen.minimal_pair"
+      ],
+      "answer": "farm",
+      "options": [
+        "farm",
+        "form"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U15.S19",
+      "skills": [
+        "listen.minimal_pair"
+      ],
+      "answer": "bird",
+      "options": [
+        "bird",
+        "board"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U15.S20",
+      "text": {
+        "hi": "शाबाश! car, fork, bird — अब ‘r’ साफ़ सुनाई देगा!",
+        "hinglish": "Shabaash! car, fork, bird — ab ‘r’ saaf sunaai dega!",
+        "en": "Well done! car, fork, bird — now your ‘r’ will be clear!"
+      }
+    }
+  ]
+}

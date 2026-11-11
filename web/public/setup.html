@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Owner setup</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main class="narrow">
+    <h1>Owner setup</h1>
+    <p class="muted">Creates the software owner's account. This works only once.</p>
+    <form id="setup" class="card stack">
+      <label>Setup key<input name="key" type="password" required></label>
+      <label>Your name<input name="name" required></label>
+      <label>Username<input name="username" required autocomplete="off"></label>
+      <label>Password (8 or more characters)<input name="password" type="password" minlength="8" required></label>
+      <button class="primary">Create owner account</button>
+      <p id="message" role="status"></p>
+    </form>
+  </main>
+  <script type="module" src="/setup.js"></script>
+</body>
+</html>

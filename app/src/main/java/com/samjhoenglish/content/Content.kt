@@ -33,6 +33,14 @@ data class PlacementFile(val sections: List<PlacementSection>)
 @Serializable
 data class PlacementSection(val level: Int, val steps: List<Step>)
 
+/** assets/content/missions.json — small English tasks for real life, in order. */
+@Serializable
+data class MissionsFile(val missions: List<Mission>)
+
+/** [needLessons] is how many lessons the child must have passed before this mission appears. */
+@Serializable
+data class Mission(val id: String, val emoji: String, val needLessons: Int, val text: L)
+
 /** All lesson ids in learning order, across levels. */
 val List<LevelInfo>.lessonOrder: List<String> get() = flatMap { level -> level.lessons.map { it.id } }
 
@@ -240,6 +248,103 @@ data class SpotMistake(
     val meaning: Meaning? = null,
 ) : Step
 
+/** Teach Tinku: Tinku says something wrong and the child corrects it aloud. */
+@Serializable
+@SerialName("teach_tinku")
+data class TeachTinku(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val wrong: String,
+    val answer: String,
+    val accept: List<String> = emptyList(),
+    val meaning: Meaning,
+) : Step
+
+/** One thing the child can say. [next] is the turn it leads to; null means the following turn. */
+@Serializable
+data class RoleplayReply(
+    /** Shown and read as the model answer. {child} becomes the child's name. */
+    val say: String,
+    val meaning: Meaning,
+    /** What counts as this reply. "*" stands for any words: "my name is *". */
+    val patterns: List<String>,
+    val next: String? = null,
+)
+
+@Serializable
+data class RoleplayTurn(
+    val id: String,
+    /** What Tinku says. {child} becomes the child's name. */
+    val tinku: String,
+    val meaning: Meaning,
+    val replies: List<RoleplayReply>,
+)
+
+/** A scripted spoken conversation with Tinku that branches on what the child says. */
+@Serializable
+@SerialName("roleplay")
+data class Roleplay(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val scene: String,
+    val turns: List<RoleplayTurn>,
+) : Step
+
+/**
+ * Read along: Tinku reads the passage first, then the child reads it aloud and each word turns
+ * green as it is heard. [sentences] may contain "" for a paragraph break. [words] are the key
+ * words taught before reading, with their Hindi meanings.
+ */
+@Serializable
+@SerialName("read_along")
+data class ReadAlong(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val title: L,
+    val sentences: List<String>,
+    val words: List<Word> = emptyList(),
+) : Step {
+    /** The words the child reads, in order, with their punctuation. */
+    val readingWords: List<String> get() = sentences.filter { it.isNotBlank() }.flatMap { it.split(" ") }.filter { it.isNotBlank() }
+}
+
+/** A question about the passage just read, asked in the app language, answered in English. */
+@Serializable
+@SerialName("story_question")
+data class StoryQuestion(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val question: L,
+    val options: List<String>,
+    val answer: String,
+) : Step
+
+/** Word Power: a new word with its Hindi, a simple English meaning and an example sentence. */
+@Serializable
+@SerialName("learn_word")
+data class LearnWord(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val word: Word,
+    val meaning: String,
+    val example: String,
+    /** The example sentence in Hindi, shown under the English. */
+    val exampleMeaning: Meaning? = null,
+) : Step
+
+/** Spell the word you hear: letter tiles, or the keyboard when [typed] (Classes 5–8). */
+@Serializable
+@SerialName("spell_word")
+data class SpellWord(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val word: Word,
+    val typed: Boolean = false,
+) : Step
+
+/** Used as a reply's [RoleplayReply.next] to finish the conversation. */
+const val END_CONVERSATION = "end"
+
 const val BLANK = "___"
 
 val FillBlank.filled: String get() = sentence.replace(BLANK, answer)
@@ -249,7 +354,7 @@ val SpotMistake.corrected: String
 
 val SentenceTrain.sentence: String get() = answer.joinToString(" ") { it.text }
 
-val Step.isQuestion: Boolean get() = this !is LearnCard && this !is LearnSound
+val Step.isQuestion: Boolean get() = this !is LearnCard && this !is LearnSound && this !is LearnWord
 
 /** English the app says aloud after the question is answered or revealed. */
 val Step.answerSpeech: String?
@@ -266,5 +371,11 @@ val Step.answerSpeech: String?
         is SentenceTrain -> sentence
         is FillBlank -> filled
         is SpotMistake -> corrected
-        is LearnCard, is LearnSound -> null
+        is TeachTinku -> answer
+        is StoryQuestion -> answer
+        is SpellWord -> word.english
+        is LearnCard, is LearnSound, is Roleplay, is ReadAlong, is LearnWord -> null
     }
+
+/** Reading passages have their own ladder (R1.P01 …), separate from the lesson journey. */
+val String.isReadingLesson: Boolean get() = startsWith("R") && contains(".P")

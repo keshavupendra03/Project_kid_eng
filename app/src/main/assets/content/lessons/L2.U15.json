@@ -69,16 +69,16 @@
           "hinglish": "bhoora"
         },
         {
-          "english": "pink",
-          "emoji": "🌸",
-          "hindi": "गुलाबी",
-          "hinglish": "gulaabi"
-        },
-        {
           "english": "yellow",
           "emoji": "🟡",
           "hindi": "पीला",
           "hinglish": "peela"
+        },
+        {
+          "english": "white",
+          "emoji": "⚪",
+          "hindi": "सफ़ेद",
+          "hinglish": "safed"
         }
       ]
     },
@@ -93,8 +93,8 @@
       "answer": "blue",
       "options": [
         "blue",
-        "brown",
-        "white"
+        "white",
+        "green"
       ]
     },
     {
@@ -149,10 +149,10 @@
           "hinglish": "hara"
         },
         {
-          "english": "white",
-          "emoji": "⚪",
-          "hindi": "सफ़ेद",
-          "hinglish": "safed"
+          "english": "blue",
+          "emoji": "🔵",
+          "hindi": "नीला",
+          "hinglish": "neela"
         },
         {
           "english": "brown",
@@ -161,10 +161,10 @@
           "hinglish": "bhoora"
         },
         {
-          "english": "yellow",
-          "emoji": "🟡",
-          "hindi": "पीला",
-          "hinglish": "peela"
+          "english": "red",
+          "emoji": "🔴",
+          "hindi": "लाल",
+          "hinglish": "laal"
         }
       ]
     },
@@ -179,8 +179,8 @@
       "answer": "yellow",
       "options": [
         "yellow",
-        "white",
-        "blue"
+        "red",
+        "green"
       ]
     },
     {
@@ -235,22 +235,22 @@
           "hinglish": "kaala"
         },
         {
-          "english": "pink",
-          "emoji": "🌸",
-          "hindi": "गुलाबी",
-          "hinglish": "gulaabi"
+          "english": "green",
+          "emoji": "🟢",
+          "hindi": "हरा",
+          "hinglish": "hara"
         },
         {
-          "english": "blue",
-          "emoji": "🔵",
-          "hindi": "नीला",
-          "hinglish": "neela"
+          "english": "white",
+          "emoji": "⚪",
+          "hindi": "सफ़ेद",
+          "hinglish": "safed"
         },
         {
-          "english": "brown",
-          "emoji": "🟤",
-          "hindi": "भूरा",
-          "hinglish": "bhoora"
+          "english": "red",
+          "emoji": "🔴",
+          "hindi": "लाल",
+          "hinglish": "laal"
         }
       ]
     },
@@ -265,8 +265,8 @@
       "answer": "white",
       "options": [
         "white",
-        "black",
-        "red"
+        "yellow",
+        "brown"
       ]
     },
     {
@@ -321,16 +321,16 @@
           "hinglish": "bhoora"
         },
         {
-          "english": "red",
-          "emoji": "🔴",
-          "hindi": "लाल",
-          "hinglish": "laal"
+          "english": "black",
+          "emoji": "⚫",
+          "hindi": "काला",
+          "hinglish": "kaala"
         },
         {
-          "english": "green",
-          "emoji": "🟢",
-          "hindi": "हरा",
-          "hinglish": "hara"
+          "english": "yellow",
+          "emoji": "🟡",
+          "hindi": "पीला",
+          "hinglish": "peela"
         },
         {
           "english": "white",
@@ -341,18 +341,17 @@
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U15.S17",
       "skills": [
         "read.word",
         "vocab.colours"
       ],
-      "emoji": "🌸",
       "answer": "pink",
       "options": [
         "pink",
         "black",
-        "red"
+        "yellow"
       ]
     },
     {
@@ -363,27 +362,27 @@
         "vocab.colours"
       ],
       "word": {
-        "english": "brown",
-        "emoji": "🟤",
-        "hindi": "भूरा",
-        "hinglish": "bhoora"
+        "english": "blue",
+        "emoji": "🔵",
+        "hindi": "नीला",
+        "hinglish": "neela"
       },
       "answer": {
-        "hi": "भूरा",
-        "hinglish": "bhoora"
+        "hi": "नीला",
+        "hinglish": "neela"
       },
       "options": [
         {
-          "hi": "भूरा",
-          "hinglish": "bhoora"
+          "hi": "नीला",
+          "hinglish": "neela"
         },
         {
-          "hi": "गुलाबी",
-          "hinglish": "gulaabi"
+          "hi": "सफ़ेद",
+          "hinglish": "safed"
         },
         {
-          "hi": "काला",
-          "hinglish": "kaala"
+          "hi": "लाल",
+          "hinglish": "laal"
         }
       ]
     },
@@ -395,23 +394,23 @@
         "vocab.colours"
       ],
       "word": {
-        "english": "white",
-        "emoji": "⚪",
-        "hindi": "सफ़ेद",
-        "hinglish": "safed"
+        "english": "green",
+        "emoji": "🟢",
+        "hindi": "हरा",
+        "hinglish": "hara"
       },
       "answer": {
-        "hi": "सफ़ेद",
-        "hinglish": "safed"
+        "hi": "हरा",
+        "hinglish": "hara"
       },
       "options": [
         {
-          "hi": "सफ़ेद",
-          "hinglish": "safed"
+          "hi": "हरा",
+          "hinglish": "hara"
         },
         {
-          "hi": "भूरा",
-          "hinglish": "bhoora"
+          "hi": "सफ़ेद",
+          "hinglish": "safed"
         },
         {
           "hi": "पीला",
@@ -460,11 +459,11 @@
         "read.word",
         "vocab.colours"
       ],
-      "answer": "pink",
+      "answer": "blue",
       "options": [
-        "pink",
-        "black",
-        "white"
+        "blue",
+        "brown",
+        "pink"
       ]
     },
     {

@@ -1,0 +1,124 @@
+{
+  "levels": [
+    {
+      "number": 1, "emoji": "🐌", "wpm": 25,
+      "title": {"hi": "धीमी गाड़ी", "hinglish": "Dheemi gaadi", "en": "Slow train"},
+      "passages": [
+        {"id": "X01.P1", "emoji": "🐶", "title": {"hi": "पिप पिल्ला", "hinglish": "Pip pilla", "en": "Pip the Pup"},
+         "text": "Pip is a pup. Pip can run. Pip can sit. Pip has a red ball. Good pup, Pip!", "golden": ["run", "ball"]},
+        {"id": "X01.P2", "emoji": "📦", "title": {"hi": "डिब्बे में", "hinglish": "Dibbe mein", "en": "In the Box"},
+         "text": "A cat is in the box. A hen is on the box. The cat and the hen nap. Shh!", "golden": ["hen", "nap"]},
+        {"id": "X01.P3", "emoji": "☕", "title": {"hi": "मेरा मग", "hinglish": "Mera mug", "en": "My Mug"},
+         "text": "I have a big mug. It is red. I sip milk from my mug. Yum, yum, yum!", "golden": ["sip", "milk"]}
+      ]
+    },
+    {
+      "number": 2, "emoji": "🐢", "wpm": 30,
+      "title": {"hi": "छुक-छुक", "hinglish": "Chhuk-chhuk", "en": "Chug-chug"},
+      "passages": [
+        {"id": "X02.P1", "emoji": "🐟", "title": {"hi": "मछली", "hinglish": "Machhli", "en": "The Fish"},
+         "text": "A fish is in the tank. It is red and pink. It can swim and swim. I feed the fish. It is my pet.", "golden": ["fish", "swim"]},
+        {"id": "X02.P2", "emoji": "🛝", "title": {"hi": "पार्क में", "hinglish": "Park mein", "en": "At the Park"},
+         "text": "We go to the park. I sit on the swing. Up and up I go. Mummy pushes me. It is fun!", "golden": ["swing", "pushes"]},
+        {"id": "X02.P3", "emoji": "🌧️", "title": {"hi": "बारिश की बूँदें", "hinglish": "Baarish ki boondein", "en": "Rain Drops"},
+         "text": "Drip, drip, drop. The rain is here. I see a frog jump in the mud. It is wet and happy.", "golden": ["drop", "frog"]}
+      ]
+    },
+    {
+      "number": 3, "emoji": "🚂", "wpm": 35,
+      "title": {"hi": "छोटी रेल", "hinglish": "Chhoti rail", "en": "Little train"},
+      "passages": [
+        {"id": "X03.P1", "emoji": "🚢", "title": {"hi": "जहाज़", "hinglish": "Jahaaz", "en": "The Ship"},
+         "text": "Look at the ship. It is big and white. It sails on the sea. Fish swim under the ship. Birds fly over it.", "golden": ["ship", "sea", "fish"]},
+        {"id": "X03.P2", "emoji": "🍟", "title": {"hi": "चिप्स", "hinglish": "Chips", "en": "Chips"},
+         "text": "Chintu likes chips. He has a bag of chips. He shares them with his friend. They munch and crunch. Yum!", "golden": ["chips", "shares", "crunch"]},
+        {"id": "X03.P3", "emoji": "🦆", "title": {"hi": "तीन बत्तखें", "hinglish": "Teen battakhein", "en": "Three Ducks"},
+         "text": "Three ducks go to the pond. They quack and splash. The thin duck is last. Then they all rest in the sun.", "golden": ["three", "thin", "then"]}
+      ]
+    },
+    {
+      "number": 4, "emoji": "🚃", "wpm": 45, "lives": true,
+      "title": {"hi": "पैसेंजर गाड़ी", "hinglish": "Passenger gaadi", "en": "Passenger train"},
+      "passages": [
+        {"id": "X04.P1", "emoji": "🚐", "title": {"hi": "वैन", "hinglish": "Van", "en": "The Van"},
+         "text": "A big van stops at our house. A man brings a box. It is very heavy. Inside there is a new fan. Now our room is cool.", "golden": ["van", "very", "heavy"]},
+        {"id": "X04.P2", "emoji": "🧴", "title": {"hi": "पानी की बोतल", "hinglish": "Paani ki botal", "en": "Water Bottle"},
+         "text": "Every day I take my water bottle to school. When I am thirsty, I drink water. Water keeps us well. I never waste it.", "golden": ["water", "thirsty", "waste"]},
+        {"id": "X04.P3", "emoji": "🦓", "title": {"hi": "चिड़ियाघर", "hinglish": "Chidiyaghar", "en": "The Zoo"},
+         "text": "We went to the zoo with Papa. We saw a zebra with black and white stripes. A monkey waved at us. The lion was asleep.", "golden": ["zoo", "zebra", "stripes"]}
+      ]
+    },
+    {
+      "number": 5, "emoji": "🚆", "wpm": 50, "lives": true,
+      "title": {"hi": "मेल गाड़ी", "hinglish": "Mail gaadi", "en": "Mail train"},
+      "passages": [
+        {"id": "X05.P1", "emoji": "🪁", "title": {"hi": "पतंग का दिन", "hinglish": "Patang ka din", "en": "Kite Day"},
+         "text": "Today is kite day. The sky is full of kites. My kite is yellow and green. I hold the string tight. The wind lifts my kite high. Up it goes, over the trees!", "golden": ["kite", "string", "wind"]},
+        {"id": "X05.P2", "emoji": "🍅", "title": {"hi": "दादाजी का बगीचा", "hinglish": "Dadaji ka bageecha", "en": "Grandpa's Garden"},
+         "text": "Grandpa has a small garden. He grows tomatoes, beans and flowers. Every morning I help him. I fill the can and water the plants. Grandpa smiles and says thank you.", "golden": ["garden", "tomatoes", "thank"]},
+        {"id": "X05.P3", "emoji": "👟", "title": {"hi": "खोया जूता", "hinglish": "Khoya joota", "en": "The Lost Shoe"},
+         "text": "I could not find my shoe. I looked under the bed. I looked behind the door. Then my sister laughed. The shoe was on the shelf, next to my bag!", "golden": ["shoe", "behind", "shelf"]}
+      ]
+    },
+    {
+      "number": 6, "emoji": "🚄", "wpm": 60, "lives": true,
+      "title": {"hi": "एक्सप्रेस", "hinglish": "Express", "en": "Express"},
+      "passages": [
+        {"id": "X06.P1", "emoji": "🐦‍⬛", "title": {"hi": "चतुर कौआ", "hinglish": "Chatur kauaa", "en": "The Clever Crow"},
+         "text": "A crow was very thirsty. It found a pot with a little water at the bottom. The crow could not reach it. So it dropped small stones into the pot, one by one. The water came up, and the crow drank happily.", "golden": ["thirsty", "bottom", "stones"]},
+        {"id": "X06.P2", "emoji": "🏃‍♀️", "title": {"hi": "खेल दिवस", "hinglish": "Khel diwas", "en": "Sports Day"},
+         "text": "On sports day, the whole school was on the ground. Meena ran in the race. Her friends shouted her name. She ran faster and faster. She did not come first, but she finished with a smile.", "golden": ["sports", "race", "finished"]},
+        {"id": "X06.P3", "emoji": "🌙", "title": {"hi": "रात का आसमान", "hinglish": "Raat ka aasmaan", "en": "Night Sky"},
+         "text": "At night, I sit on the roof with Dadi. We look at the moon and the stars. Dadi tells me stories about the sky. Some stars look like a bear. I count them until I fall asleep.", "golden": ["night", "moon", "stories"]}
+      ]
+    },
+    {
+      "number": 7, "emoji": "🚅", "wpm": 70, "lives": true,
+      "title": {"hi": "सुपरफ़ास्ट", "hinglish": "Superfast", "en": "Superfast"},
+      "passages": [
+        {"id": "X07.P1", "emoji": "🪓", "title": {"hi": "ईमानदार लकड़हारा", "hinglish": "Imaandaar lakadhaara", "en": "The Honest Woodcutter"},
+         "text": "A poor woodcutter was cutting a tree near a river. His axe slipped and fell into the water. He sat down and cried. A kind fairy came out of the river. She showed him a gold axe, then a silver axe. He said they were not his. The fairy liked his honesty and gave him all three.", "golden": ["woodcutter", "silver", "honesty"]},
+        {"id": "X07.P2", "emoji": "🎡", "title": {"hi": "गाँव का मेला", "hinglish": "Gaon ka mela", "en": "Our Village Fair"},
+         "text": "Every winter there is a fair in our village. There are swings, toy shops and sweet stalls. The air smells of hot jalebis. I ride the giant wheel with my cousins. From the top, the whole village looks tiny. We come home tired but very happy.", "golden": ["village", "giant", "tired"]},
+        {"id": "X07.P3", "emoji": "🐝", "title": {"hi": "मधुमक्खियाँ", "hinglish": "Madhumakkhiyan", "en": "Bees"},
+         "text": "Bees are small, but they work very hard. They fly from flower to flower and collect nectar. They take it back to the hive and make honey. Bees also help plants to grow fruit. Without bees, we would have fewer fruits and vegetables.", "golden": ["collect", "honey", "vegetables"]}
+      ]
+    },
+    {
+      "number": 8, "emoji": "🚝", "wpm": 80, "lives": true,
+      "title": {"hi": "राजधानी", "hinglish": "Rajdhani", "en": "Rajdhani"},
+      "passages": [
+        {"id": "X08.P1", "emoji": "🌈", "title": {"hi": "इंद्रधनुष", "hinglish": "Indradhanush", "en": "The Rainbow"},
+         "text": "After the rain, the sun came out and a rainbow appeared in the sky. It had seven beautiful colours: violet, indigo, blue, green, yellow, orange and red. A rainbow forms when sunlight passes through tiny drops of water. The drops bend the light and split it into colours. Next time it rains, look for a rainbow!", "golden": ["rainbow", "violet", "sunlight"]},
+        {"id": "X08.P2", "emoji": "👛", "title": {"hi": "मददगार लड़की", "hinglish": "Madadgaar ladki", "en": "A Helpful Stranger"},
+         "text": "Rohan dropped his wallet on a busy street. He did not notice and walked on. A young girl picked it up and ran after him. Excuse me, she called, you dropped this. Rohan thanked her again and again. That day he decided that he would also help others whenever he could.", "golden": ["wallet", "excuse", "decided"]},
+        {"id": "X08.P3", "emoji": "🌳", "title": {"hi": "पेड़ हमारे दोस्त", "hinglish": "Ped hamare dost", "en": "Trees are Friends"},
+         "text": "Trees give us fresh air to breathe. They give shade on hot afternoons and homes to birds and squirrels. Their roots hold the soil together, so the rain does not wash it away. We get fruit, wood and medicine from trees. That is why we should plant more trees and never cut them without reason.", "golden": ["breathe", "squirrels", "medicine"]}
+      ]
+    },
+    {
+      "number": 9, "emoji": "🚀", "wpm": 90, "lives": true,
+      "title": {"hi": "वंदे भारत", "hinglish": "Vande Bharat", "en": "Vande Bharat"},
+      "passages": [
+        {"id": "X09.P1", "emoji": "🐢", "title": {"hi": "कछुआ और खरगोश", "hinglish": "Kachhua aur khargosh", "en": "The Tortoise and the Hare"},
+         "text": "A hare laughed at a tortoise for being slow. The tortoise said, let us have a race. The hare ran very fast and was soon far ahead. Feeling sure of winning, he lay down under a tree and fell asleep. The tortoise kept walking, slowly and steadily. When the hare woke up, the tortoise was already at the finish line. Slow and steady wins the race.", "golden": ["tortoise", "steadily", "finish"]},
+        {"id": "X09.P2", "emoji": "🪐", "title": {"hi": "सौर मंडल", "hinglish": "Saur mandal", "en": "Our Solar System"},
+         "text": "Our solar system has eight planets that travel around the sun. Mercury is the closest to the sun, and the hottest is Venus. Earth is the only planet where we know life exists. Jupiter is the biggest planet, and Saturn is famous for its beautiful rings. The planets far from the sun are very cold and dark.", "golden": ["planets", "Jupiter", "Saturn"]},
+        {"id": "X09.P3", "emoji": "📮", "title": {"hi": "डाकघर", "hinglish": "Daakghar", "en": "A Visit to the Post Office"},
+         "text": "Last Saturday I went to the post office with my father. We wanted to send a parcel to my aunt in Pune. The clerk weighed the parcel and put stamps on it. Papa wrote the address clearly in big letters. The clerk said it would reach in three days. I felt excited thinking about my aunt opening it.", "golden": ["parcel", "weighed", "address"]}
+      ]
+    },
+    {
+      "number": 10, "emoji": "🛸", "wpm": 100, "lives": true,
+      "title": {"hi": "बुलेट ट्रेन", "hinglish": "Bullet train", "en": "Bullet train"},
+      "passages": [
+        {"id": "X10.P1", "emoji": "👩‍🚀", "title": {"hi": "कल्पना चावला", "hinglish": "Kalpana Chawla", "en": "Kalpana Chawla"},
+         "text": "Kalpana Chawla was born in Karnal, a small town in Haryana. As a child, she loved watching aeroplanes and dreamed of flying. She studied hard and became an engineer. Later she joined NASA and became the first woman of Indian origin to go to space. Her story teaches us that big dreams can come true with hard work and courage.", "golden": ["engineer", "origin", "courage"]},
+        {"id": "X10.P2", "emoji": "💡", "title": {"hi": "बिजली बचाओ", "hinglish": "Bijli bachao", "en": "Save Electricity"},
+         "text": "Electricity runs our lights, fans, televisions and phones. But making electricity uses coal and water, and it can harm our environment. We can save electricity in simple ways. Switch off the lights and fans when you leave a room. Use sunlight during the day instead of lamps. Small steps by every family can make a big difference.", "golden": ["electricity", "environment", "difference"]},
+        {"id": "X10.P3", "emoji": "👑", "title": {"hi": "समझदार राजा", "hinglish": "Samajhdaar raja", "en": "The Wise King"},
+         "text": "A king wanted to find the wisest person in his kingdom. He placed a large stone in the middle of the road and hid nearby. Many rich merchants and soldiers walked around the stone and complained. Finally, a poor farmer came, pushed the stone aside and cleared the road. Under the stone he found a bag of gold coins with a note. The gold was for the one who helps others.", "golden": ["kingdom", "merchants", "complained"]}
+      ]
+    }
+  ]
+}

@@ -63,10 +63,10 @@
           "hinglish": "sher"
         },
         {
-          "english": "snake",
-          "emoji": "🐍",
-          "hindi": "साँप",
-          "hinglish": "saanp"
+          "english": "camel",
+          "emoji": "🐫",
+          "hindi": "ऊँट",
+          "hinglish": "oont"
         },
         {
           "english": "rabbit",
@@ -75,10 +75,10 @@
           "hinglish": "khargosh"
         },
         {
-          "english": "monkey",
-          "emoji": "🐒",
-          "hindi": "बंदर",
-          "hinglish": "bandar"
+          "english": "bear",
+          "emoji": "🐻",
+          "hindi": "भालू",
+          "hinglish": "bhaaloo"
         }
       ]
     },
@@ -134,37 +134,34 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U13.S08",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.animals"
       ],
-      "answer": "elephant",
+      "word": {
+        "english": "elephant",
+        "emoji": "🐘",
+        "hindi": "हाथी",
+        "hinglish": "haathi"
+      },
+      "answer": {
+        "hi": "हाथी",
+        "hinglish": "haathi"
+      },
       "options": [
         {
-          "english": "elephant",
-          "emoji": "🐘",
-          "hindi": "हाथी",
+          "hi": "हाथी",
           "hinglish": "haathi"
         },
         {
-          "english": "monkey",
-          "emoji": "🐒",
-          "hindi": "बंदर",
-          "hinglish": "bandar"
+          "hi": "साँप",
+          "hinglish": "saanp"
         },
         {
-          "english": "rabbit",
-          "emoji": "🐇",
-          "hindi": "खरगोश",
-          "hinglish": "khargosh"
-        },
-        {
-          "english": "bear",
-          "emoji": "🐻",
-          "hindi": "भालू",
-          "hinglish": "bhaaloo"
+          "hi": "ऊँट",
+          "hinglish": "oont"
         }
       ]
     },
@@ -179,8 +176,8 @@
       "answer": "monkey",
       "options": [
         "monkey",
-        "snake",
-        "camel"
+        "camel",
+        "elephant"
       ]
     },
     {
@@ -235,22 +232,22 @@
           "hinglish": "bhaaloo"
         },
         {
-          "english": "camel",
-          "emoji": "🐫",
-          "hindi": "ऊँट",
-          "hinglish": "oont"
-        },
-        {
-          "english": "elephant",
-          "emoji": "🐘",
-          "hindi": "हाथी",
-          "hinglish": "haathi"
+          "english": "rabbit",
+          "emoji": "🐇",
+          "hindi": "खरगोश",
+          "hinglish": "khargosh"
         },
         {
           "english": "tiger",
           "emoji": "🐅",
           "hindi": "बाघ",
           "hinglish": "baagh"
+        },
+        {
+          "english": "camel",
+          "emoji": "🐫",
+          "hindi": "ऊँट",
+          "hinglish": "oont"
         }
       ]
     },
@@ -265,8 +262,8 @@
       "answer": "snake",
       "options": [
         "snake",
-        "camel",
-        "tiger"
+        "tiger",
+        "lion"
       ]
     },
     {
@@ -321,16 +318,16 @@
           "hinglish": "oont"
         },
         {
-          "english": "tiger",
-          "emoji": "🐅",
-          "hindi": "बाघ",
-          "hinglish": "baagh"
+          "english": "snake",
+          "emoji": "🐍",
+          "hindi": "साँप",
+          "hinglish": "saanp"
         },
         {
-          "english": "lion",
-          "emoji": "🦁",
-          "hindi": "शेर",
-          "hinglish": "sher"
+          "english": "monkey",
+          "emoji": "🐒",
+          "hindi": "बंदर",
+          "hinglish": "bandar"
         },
         {
           "english": "bear",
@@ -351,8 +348,8 @@
       "answer": "rabbit",
       "options": [
         "rabbit",
-        "elephant",
-        "monkey"
+        "snake",
+        "bear"
       ]
     },
     {

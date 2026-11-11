@@ -22,23 +22,32 @@ class PhonicsPlayer(private val assets: AssetManager) {
 
     fun isRecorded(sound: String): Boolean = sound in recorded
 
-    /** Plays [sound], then calls [onDone]. If it isn't recorded yet, calls [onDone] straight away. */
+    /**
+     * Plays [sound], then calls [onDone]. Two sounds joined with "+" play one after the other
+     * ("x" is k + s). Sounds that aren't recorded yet are skipped.
+     */
     fun play(sound: String, onDone: () -> Unit = {}) {
         stop()
-        val path = recorded[sound] ?: return onDone()
+        playInOrder(sound.split("+"), onDone)
+    }
+
+    private fun playInOrder(sounds: List<String>, onDone: () -> Unit) {
+        if (sounds.isEmpty()) return onDone()
+        val rest = sounds.drop(1)
+        val path = recorded[sounds.first()] ?: return playInOrder(rest, onDone)
         runCatching {
             assets.openFd(path).use { fd ->
                 MediaPlayer().apply {
                     setDataSource(fd.fileDescriptor, fd.startOffset, fd.length)
                     setOnCompletionListener {
                         stop()
-                        onDone()
+                        playInOrder(rest, onDone)
                     }
                     prepare()
                     start()
                 }
             }
-        }.onSuccess { player = it }.onFailure { onDone() }
+        }.onSuccess { player = it }.onFailure { playInOrder(rest, onDone) }
     }
 
     fun stop() {

@@ -1,0 +1,467 @@
+{
+  "id": "L2.U42",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U42.S01",
+      "text": {
+        "hi": "और जानवर!",
+        "hinglish": "Aur jaanwar!",
+        "en": "More animals!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U42.S02",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘sheep’ मतलब ‘भेड़’।",
+        "hinglish": "‘sheep’ matlab ‘bhed’.",
+        "en": "Say it with me: sheep!"
+      },
+      "word": {
+        "english": "sheep",
+        "emoji": "🐑",
+        "hindi": "भेड़",
+        "hinglish": "bhed"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U42.S03",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘pig’ मतलब ‘सूअर’।",
+        "hinglish": "‘pig’ matlab ‘sooar’.",
+        "en": "Say it with me: pig!"
+      },
+      "word": {
+        "english": "pig",
+        "emoji": "🐖",
+        "hindi": "सूअर",
+        "hinglish": "sooar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U42.S04",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "sheep",
+      "options": [
+        {
+          "english": "sheep",
+          "emoji": "🐑",
+          "hindi": "भेड़",
+          "hinglish": "bhed"
+        },
+        {
+          "english": "wolf",
+          "emoji": "🐺",
+          "hindi": "भेड़िया",
+          "hinglish": "bhediya"
+        },
+        {
+          "english": "buffalo",
+          "emoji": "🐃",
+          "hindi": "भैंस",
+          "hinglish": "bhains"
+        },
+        {
+          "english": "deer",
+          "emoji": "🦌",
+          "hindi": "हिरण",
+          "hinglish": "hiran"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U42.S05",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐖",
+      "answer": "pig",
+      "options": [
+        "pig",
+        "buffalo",
+        "wolf"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U42.S06",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘donkey’ मतलब ‘गधा’।",
+        "hinglish": "‘donkey’ matlab ‘gadha’.",
+        "en": "Say it with me: donkey!"
+      },
+      "word": {
+        "english": "donkey",
+        "hindi": "गधा",
+        "hinglish": "gadha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U42.S07",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘buffalo’ मतलब ‘भैंस’।",
+        "hinglish": "‘buffalo’ matlab ‘bhains’.",
+        "en": "Say it with me: buffalo!"
+      },
+      "word": {
+        "english": "buffalo",
+        "emoji": "🐃",
+        "hindi": "भैंस",
+        "hinglish": "bhains"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U42.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "donkey",
+        "hindi": "गधा",
+        "hinglish": "gadha"
+      },
+      "answer": {
+        "hi": "गधा",
+        "hinglish": "gadha"
+      },
+      "options": [
+        {
+          "hi": "गधा",
+          "hinglish": "gadha"
+        },
+        {
+          "hi": "लोमड़ी",
+          "hinglish": "lomdi"
+        },
+        {
+          "hi": "जिराफ़",
+          "hinglish": "giraffe"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U42.S09",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐃",
+      "answer": "buffalo",
+      "options": [
+        "buffalo",
+        "giraffe",
+        "wolf"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U42.S10",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘deer’ मतलब ‘हिरण’।",
+        "hinglish": "‘deer’ matlab ‘hiran’.",
+        "en": "Say it with me: deer!"
+      },
+      "word": {
+        "english": "deer",
+        "emoji": "🦌",
+        "hindi": "हिरण",
+        "hinglish": "hiran"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U42.S11",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘fox’ मतलब ‘लोमड़ी’।",
+        "hinglish": "‘fox’ matlab ‘lomdi’.",
+        "en": "Say it with me: fox!"
+      },
+      "word": {
+        "english": "fox",
+        "emoji": "🦊",
+        "hindi": "लोमड़ी",
+        "hinglish": "lomdi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U42.S12",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "deer",
+      "options": [
+        {
+          "english": "deer",
+          "emoji": "🦌",
+          "hindi": "हिरण",
+          "hinglish": "hiran"
+        },
+        {
+          "english": "wolf",
+          "emoji": "🐺",
+          "hindi": "भेड़िया",
+          "hinglish": "bhediya"
+        },
+        {
+          "english": "buffalo",
+          "emoji": "🐃",
+          "hindi": "भैंस",
+          "hinglish": "bhains"
+        },
+        {
+          "english": "pig",
+          "emoji": "🐖",
+          "hindi": "सूअर",
+          "hinglish": "sooar"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U42.S13",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🦊",
+      "answer": "fox",
+      "options": [
+        "fox",
+        "giraffe",
+        "deer"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U42.S14",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘wolf’ मतलब ‘भेड़िया’।",
+        "hinglish": "‘wolf’ matlab ‘bhediya’.",
+        "en": "Say it with me: wolf!"
+      },
+      "word": {
+        "english": "wolf",
+        "emoji": "🐺",
+        "hindi": "भेड़िया",
+        "hinglish": "bhediya"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U42.S15",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘giraffe’ मतलब ‘जिराफ़’।",
+        "hinglish": "‘giraffe’ matlab ‘giraffe’.",
+        "en": "Say it with me: giraffe!"
+      },
+      "word": {
+        "english": "giraffe",
+        "emoji": "🦒",
+        "hindi": "जिराफ़",
+        "hinglish": "giraffe"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U42.S16",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "wolf",
+      "options": [
+        {
+          "english": "wolf",
+          "emoji": "🐺",
+          "hindi": "भेड़िया",
+          "hinglish": "bhediya"
+        },
+        {
+          "english": "pig",
+          "emoji": "🐖",
+          "hindi": "सूअर",
+          "hinglish": "sooar"
+        },
+        {
+          "english": "buffalo",
+          "emoji": "🐃",
+          "hindi": "भैंस",
+          "hinglish": "bhains"
+        },
+        {
+          "english": "sheep",
+          "emoji": "🐑",
+          "hindi": "भेड़",
+          "hinglish": "bhed"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U42.S17",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "answer": "giraffe",
+      "options": [
+        "giraffe",
+        "buffalo",
+        "fox"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U42.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "donkey",
+        "hindi": "गधा",
+        "hinglish": "gadha"
+      },
+      "answer": {
+        "hi": "गधा",
+        "hinglish": "gadha"
+      },
+      "options": [
+        {
+          "hi": "गधा",
+          "hinglish": "gadha"
+        },
+        {
+          "hi": "जिराफ़",
+          "hinglish": "giraffe"
+        },
+        {
+          "hi": "हिरण",
+          "hinglish": "hiran"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U42.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "giraffe",
+        "emoji": "🦒",
+        "hindi": "जिराफ़",
+        "hinglish": "giraffe"
+      },
+      "answer": {
+        "hi": "जिराफ़",
+        "hinglish": "giraffe"
+      },
+      "options": [
+        {
+          "hi": "जिराफ़",
+          "hinglish": "giraffe"
+        },
+        {
+          "hi": "लोमड़ी",
+          "hinglish": "lomdi"
+        },
+        {
+          "hi": "गधा",
+          "hinglish": "gadha"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U42.S20",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "pig",
+        "emoji": "🐖",
+        "hindi": "सूअर",
+        "hinglish": "sooar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U42.S21",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "fox",
+        "emoji": "🦊",
+        "hindi": "लोमड़ी",
+        "hinglish": "lomdi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U42.S22",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "answer": "sheep",
+      "options": [
+        "sheep",
+        "deer",
+        "giraffe"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U42.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: sheep, pig, donkey, buffalo, deer, fox, wolf, giraffe।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: sheep, pig, donkey, buffalo, deer, fox, wolf, giraffe.",
+        "en": "Well done! Today's new words: sheep, pig, donkey, buffalo, deer, fox, wolf, giraffe."
+      }
+    }
+  ]
+}

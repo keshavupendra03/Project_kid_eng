@@ -1,12 +1,17 @@
 package com.samjhoenglish.ui.lesson
 
 import androidx.activity.compose.BackHandler
+import androidx.compose.animation.AnimatedContent
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.spring
+import androidx.compose.animation.core.tween
 import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.slideInHorizontally
 import androidx.compose.animation.slideInVertically
+import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -28,9 +33,9 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.key
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
@@ -52,14 +57,15 @@ import com.samjhoenglish.i18n.UiStrings
 import com.samjhoenglish.i18n.text
 import com.samjhoenglish.speech.LocalSoundFx
 import com.samjhoenglish.speech.LocalSpeaker
+import com.samjhoenglish.speech.Speaker
 import com.samjhoenglish.speech.rememberSay
 import com.samjhoenglish.ui.components.BigButton
+import com.samjhoenglish.ui.components.Confetti
 import com.samjhoenglish.ui.components.EmojiButton
 import com.samjhoenglish.ui.components.Tinku
 import com.samjhoenglish.ui.components.TinkuMood
 import com.samjhoenglish.ui.components.TinkuSays
 import com.samjhoenglish.ui.theme.Leaf
-import com.samjhoenglish.ui.theme.Peach
 import com.samjhoenglish.ui.theme.Teal
 import kotlinx.coroutines.delay
 
@@ -85,13 +91,15 @@ fun LessonScreen(
                 onHome = onHome,
                 onNextLesson = onNextLesson,
             )
-            else -> LessonPlayer(
-                state = state,
-                onAnswer = viewModel::answer,
-                onSkip = viewModel::skip,
-                onNext = viewModel::next,
-                onClose = { confirmExit = true },
-            )
+            else -> CompositionLocalProvider(LocalReadingReporter provides viewModel::recordReading) {
+                LessonPlayer(
+                    state = state,
+                    onAnswer = viewModel::answer,
+                    onSkip = viewModel::skip,
+                    onNext = viewModel::next,
+                    onClose = { confirmExit = true },
+                )
+            }
         }
     }
 
@@ -130,16 +138,18 @@ private fun LessonPlayer(
     val sounds = LocalSoundFx.current
 
     // Pick one praise/encouragement per answer so what Tinku says matches what's on screen.
-    // A recognised pronunciation slip gets its specific tip instead of a generic "try again".
+    // A recognised pronunciation slip gets its specific tip first; after that, the hint ladder takes over.
     val message: L? = remember(state.position, state.feedback, state.wrongTries) {
         when (state.feedback) {
             Feedback.CORRECT -> UiStrings.praise.random()
-            Feedback.TRY_AGAIN -> state.mistake?.tip ?: UiStrings.tryAgain.random()
-            Feedback.REVEALED -> if (state.skipped) UiStrings.skipped else UiStrings.revealed
+            Feedback.TRY_AGAIN -> state.mistake?.tip?.takeIf { state.wrongTries == 1 } ?: state.hint?.text ?: UiStrings.tryAgain.random()
+            Feedback.REVEALED -> if (state.skipped) UiStrings.skipped else state.hint?.text ?: UiStrings.revealed
             Feedback.NONE -> null
         }
     }
     LaunchedEffect(state.position, state.feedback, state.wrongTries) {
+        val slow = state.hint?.slowEnglish.orEmpty().map { it to Speaker.ENGLISH }
+        val playSlowly: (() -> Unit)? = if (slow.isEmpty()) null else ({ speaker.speakAll(slow, slow = true) })
         when (state.feedback) {
             Feedback.CORRECT -> {
                 sounds.playCorrect()
@@ -149,9 +159,10 @@ private fun LessonPlayer(
             Feedback.TRY_AGAIN -> {
                 sounds.playTryAgain()
                 delay(250)
-                speaker.say(message!!, language)
+                speaker.say(message!!, language, onDone = playSlowly)
             }
-            Feedback.REVEALED -> speaker.say(message!!, language, thenEnglish = step.answerSpeech)
+            // When words are played slowly, those already include the answer.
+            Feedback.REVEALED -> speaker.say(message!!, language, thenEnglish = step.answerSpeech.takeIf { slow.isEmpty() }, onDone = playSlowly)
             Feedback.NONE -> Unit
         }
     }
@@ -179,16 +190,24 @@ private fun LessonPlayer(
             }
         }
 
-        Column(
-            Modifier
+        // Each position is its own content, so every step (including second chances) starts fresh.
+        AnimatedContent(
+            targetState = state.position,
+            transitionSpec = { (fadeIn(tween(220)) + slideInHorizontally(tween(220)) { it / 8 }) togetherWith fadeOut(tween(120)) },
+            modifier = Modifier
                 .weight(1f)
-                .fillMaxWidth()
-                .verticalScroll(rememberScrollState())
-                .padding(horizontal = 20.dp, vertical = 12.dp),
-        ) {
-            // New key per position: each step (including second chances) starts fresh.
-            key(state.position) {
-                StepContent(step, state.feedback, onAnswer, onSkip)
+                .fillMaxWidth(),
+            label = "step",
+        ) { position ->
+            val shown = state.steps.getOrNull(position) ?: return@AnimatedContent
+            Column(
+                Modifier
+                    .fillMaxSize()
+                    .verticalScroll(rememberScrollState())
+                    .padding(horizontal = 20.dp, vertical = 12.dp),
+            ) {
+                // The outgoing step is shown as finished so it can't take taps while it fades.
+                StepContent(shown, if (position == state.position) state.feedback else Feedback.REVEALED, onAnswer, onSkip)
             }
         }
 
@@ -231,20 +250,22 @@ private fun ProgressBar(progress: Float, modifier: Modifier = Modifier) {
 
 @Composable
 private fun FeedbackPanel(feedback: Feedback, message: L) {
-    val (emoji, color) = when (feedback) {
-        Feedback.CORRECT -> "✅" to Leaf.copy(alpha = 0.15f)
-        Feedback.TRY_AGAIN -> "💪" to Peach
-        else -> "👉" to Peach
-    }
+    val color = if (feedback == Feedback.CORRECT) Leaf.copy(alpha = 0.15f) else MaterialTheme.colorScheme.primaryContainer
     AnimatedVisibility(visible = true, enter = fadeIn() + slideInVertically { it / 2 }) {
         Surface(shape = RoundedCornerShape(20.dp), color = color, modifier = Modifier.fillMaxWidth()) {
-            val text = message.text()
-            Text(
-                "$emoji  $text",
-                // Pronunciation tips are long; keep them readable without pushing the Next button off screen.
-                style = if (text.length > 40) MaterialTheme.typography.titleMedium else MaterialTheme.typography.titleLarge,
-                modifier = Modifier.padding(horizontal = 18.dp, vertical = 10.dp),
-            )
+            Row(
+                Modifier.padding(horizontal = 12.dp, vertical = 6.dp),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.spacedBy(10.dp),
+            ) {
+                Tinku(mood = if (feedback == Feedback.CORRECT) TinkuMood.CHEER else TinkuMood.HAPPY, size = 44.dp)
+                val text = message.text()
+                Text(
+                    text,
+                    // Pronunciation tips are long; keep them readable without pushing the Next button off screen.
+                    style = if (text.length > 40) MaterialTheme.typography.titleMedium else MaterialTheme.typography.titleLarge,
+                )
+            }
         }
     }
 }
@@ -272,6 +293,7 @@ private fun LessonComplete(
         }
     }
 
+    Box(Modifier.fillMaxSize()) {
     Column(
         Modifier
             .fillMaxSize()
@@ -324,13 +346,17 @@ private fun LessonComplete(
             }
         }
     }
+    if (revisionOnly || state.stars >= 2) Confetti()
+    }
 }
 
 @Composable
 private fun Star(earned: Boolean, delayMs: Long) {
     val scale = remember { Animatable(0f) }
+    val sounds = LocalSoundFx.current
     LaunchedEffect(Unit) {
         delay(delayMs)
+        if (earned) sounds.playStar()
         scale.animateTo(1f, spring(dampingRatio = 0.35f))
     }
     Text(

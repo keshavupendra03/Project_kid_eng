@@ -1,0 +1,450 @@
+{
+  "id": "L2.U34",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U34.S01",
+      "text": {
+        "hi": "कमरे की चीज़ें।",
+        "hinglish": "Kamre ki cheezein.",
+        "en": "Things in a room."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U34.S02",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘table’ मतलब ‘मेज़’।",
+        "hinglish": "‘table’ matlab ‘mez’.",
+        "en": "Say it with me: table!"
+      },
+      "word": {
+        "english": "table",
+        "hindi": "मेज़",
+        "hinglish": "mez"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U34.S03",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘fan’ मतलब ‘पंखा’।",
+        "hinglish": "‘fan’ matlab ‘pankha’.",
+        "en": "Say it with me: fan!"
+      },
+      "word": {
+        "english": "fan",
+        "hindi": "पंखा",
+        "hinglish": "pankha"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U34.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "table",
+        "hindi": "मेज़",
+        "hinglish": "mez"
+      },
+      "answer": {
+        "hi": "मेज़",
+        "hinglish": "mez"
+      },
+      "options": [
+        {
+          "hi": "मेज़",
+          "hinglish": "mez"
+        },
+        {
+          "hi": "तौलिया",
+          "hinglish": "tauliya"
+        },
+        {
+          "hi": "पंखा",
+          "hinglish": "pankha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U34.S05",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "fan",
+      "options": [
+        "fan",
+        "lock",
+        "candle"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U34.S06",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘sofa’ मतलब ‘सोफ़ा’।",
+        "hinglish": "‘sofa’ matlab ‘sofa’.",
+        "en": "Say it with me: sofa!"
+      },
+      "word": {
+        "english": "sofa",
+        "emoji": "🛋️",
+        "hindi": "सोफ़ा",
+        "hinglish": "sofa"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U34.S07",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘pillow’ मतलब ‘तकिया’।",
+        "hinglish": "‘pillow’ matlab ‘takiya’.",
+        "en": "Say it with me: pillow!"
+      },
+      "word": {
+        "english": "pillow",
+        "hindi": "तकिया",
+        "hinglish": "takiya"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U34.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "sofa",
+        "emoji": "🛋️",
+        "hindi": "सोफ़ा",
+        "hinglish": "sofa"
+      },
+      "answer": {
+        "hi": "सोफ़ा",
+        "hinglish": "sofa"
+      },
+      "options": [
+        {
+          "hi": "सोफ़ा",
+          "hinglish": "sofa"
+        },
+        {
+          "hi": "ताला",
+          "hinglish": "taala"
+        },
+        {
+          "hi": "मोमबत्ती",
+          "hinglish": "mombatti"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U34.S09",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "pillow",
+      "options": [
+        "pillow",
+        "candle",
+        "blanket"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U34.S10",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘blanket’ मतलब ‘कंबल’।",
+        "hinglish": "‘blanket’ matlab ‘kambal’.",
+        "en": "Say it with me: blanket!"
+      },
+      "word": {
+        "english": "blanket",
+        "hindi": "कंबल",
+        "hinglish": "kambal"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U34.S11",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘towel’ मतलब ‘तौलिया’।",
+        "hinglish": "‘towel’ matlab ‘tauliya’.",
+        "en": "Say it with me: towel!"
+      },
+      "word": {
+        "english": "towel",
+        "hindi": "तौलिया",
+        "hinglish": "tauliya"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U34.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "blanket",
+        "hindi": "कंबल",
+        "hinglish": "kambal"
+      },
+      "answer": {
+        "hi": "कंबल",
+        "hinglish": "kambal"
+      },
+      "options": [
+        {
+          "hi": "कंबल",
+          "hinglish": "kambal"
+        },
+        {
+          "hi": "तकिया",
+          "hinglish": "takiya"
+        },
+        {
+          "hi": "पंखा",
+          "hinglish": "pankha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U34.S13",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "towel",
+      "options": [
+        "towel",
+        "lock",
+        "pillow"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U34.S14",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘lock’ मतलब ‘ताला’।",
+        "hinglish": "‘lock’ matlab ‘taala’.",
+        "en": "Say it with me: lock!"
+      },
+      "word": {
+        "english": "lock",
+        "emoji": "🔒",
+        "hindi": "ताला",
+        "hinglish": "taala"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U34.S15",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘candle’ मतलब ‘मोमबत्ती’।",
+        "hinglish": "‘candle’ matlab ‘mombatti’.",
+        "en": "Say it with me: candle!"
+      },
+      "word": {
+        "english": "candle",
+        "emoji": "🕯️",
+        "hindi": "मोमबत्ती",
+        "hinglish": "mombatti"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U34.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "lock",
+        "emoji": "🔒",
+        "hindi": "ताला",
+        "hinglish": "taala"
+      },
+      "answer": {
+        "hi": "ताला",
+        "hinglish": "taala"
+      },
+      "options": [
+        {
+          "hi": "ताला",
+          "hinglish": "taala"
+        },
+        {
+          "hi": "सोफ़ा",
+          "hinglish": "sofa"
+        },
+        {
+          "hi": "पंखा",
+          "hinglish": "pankha"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U34.S17",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "🕯️",
+      "answer": "candle",
+      "options": [
+        "candle",
+        "fan",
+        "sofa"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U34.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "table",
+        "hindi": "मेज़",
+        "hinglish": "mez"
+      },
+      "answer": {
+        "hi": "मेज़",
+        "hinglish": "mez"
+      },
+      "options": [
+        {
+          "hi": "मेज़",
+          "hinglish": "mez"
+        },
+        {
+          "hi": "तकिया",
+          "hinglish": "takiya"
+        },
+        {
+          "hi": "तौलिया",
+          "hinglish": "tauliya"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U34.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "blanket",
+        "hindi": "कंबल",
+        "hinglish": "kambal"
+      },
+      "answer": {
+        "hi": "कंबल",
+        "hinglish": "kambal"
+      },
+      "options": [
+        {
+          "hi": "कंबल",
+          "hinglish": "kambal"
+        },
+        {
+          "hi": "तौलिया",
+          "hinglish": "tauliya"
+        },
+        {
+          "hi": "पंखा",
+          "hinglish": "pankha"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U34.S20",
+      "skills": [
+        "speak.word",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "sofa",
+        "emoji": "🛋️",
+        "hindi": "सोफ़ा",
+        "hinglish": "sofa"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U34.S21",
+      "skills": [
+        "speak.word",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "lock",
+        "emoji": "🔒",
+        "hindi": "ताला",
+        "hinglish": "taala"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U34.S22",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "pillow",
+      "options": [
+        "pillow",
+        "sofa",
+        "towel"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U34.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: table, fan, sofa, pillow, blanket, towel, lock, candle।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: table, fan, sofa, pillow, blanket, towel, lock, candle.",
+        "en": "Well done! Today's new words: table, fan, sofa, pillow, blanket, towel, lock, candle."
+      }
+    }
+  ]
+}

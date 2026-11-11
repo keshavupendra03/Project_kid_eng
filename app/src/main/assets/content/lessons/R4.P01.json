@@ -1,0 +1,142 @@
+{
+  "id": "R4.P01",
+  "level": 104,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R4.P01.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Mango Tree’ (आम का पेड़)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Mango Tree’ (Aam ka ped). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Mango Tree’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P01.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘mango’ मतलब आम। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘mango’ matlab aam. Chhookar suno, phir bolo.",
+        "en": "‘mango’ means आम. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "mango",
+        "emoji": "🥭",
+        "hindi": "आम",
+        "hinglish": "aam"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P01.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘summer’ मतलब गर्मी का मौसम। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘summer’ matlab garmi ka mausam. Chhookar suno, phir bolo.",
+        "en": "‘summer’ means गर्मी का मौसम. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "summer",
+        "emoji": "☀️",
+        "hindi": "गर्मी का मौसम",
+        "hinglish": "garmi ka mausam"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P01.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘neighbours’ मतलब पड़ोसी। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘neighbours’ matlab padosi. Chhookar suno, phir bolo.",
+        "en": "‘neighbours’ means पड़ोसी. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "neighbours",
+        "emoji": "🏘️",
+        "hindi": "पड़ोसी",
+        "hinglish": "padosi"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R4.P01.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "आम का पेड़",
+        "hinglish": "Aam ka ped",
+        "en": "The Mango Tree"
+      },
+      "sentences": [
+        "There is a big mango tree near my house.",
+        "In summer it is full of mangoes.",
+        "My brother and I wait under the tree.",
+        "When a mango falls, we run to get it.",
+        "The mangoes are sweet and yellow.",
+        "Sometimes a monkey comes to the tree, because he also likes mangoes!",
+        "We share the mangoes with our neighbours.",
+        "Everyone loves our mango tree."
+      ],
+      "words": [
+        {
+          "english": "mango",
+          "emoji": "🥭",
+          "hindi": "आम",
+          "hinglish": "aam"
+        },
+        {
+          "english": "summer",
+          "emoji": "☀️",
+          "hindi": "गर्मी का मौसम",
+          "hinglish": "garmi ka mausam"
+        },
+        {
+          "english": "neighbours",
+          "emoji": "🏘️",
+          "hindi": "पड़ोसी",
+          "hinglish": "padosi"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P01.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "आम कब आते हैं?",
+        "hinglish": "Aam kab aate hain?",
+        "en": "When is the tree full of mangoes?"
+      },
+      "options": [
+        "in summer",
+        "in winter",
+        "at night"
+      ],
+      "answer": "in summer"
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P01.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "पेड़ पर कभी-कभी कौन आता है?",
+        "hinglish": "Ped par kabhi-kabhi kaun aata hai?",
+        "en": "Who sometimes comes to the tree?"
+      },
+      "options": [
+        "a monkey",
+        "a cow",
+        "a frog"
+      ],
+      "answer": "a monkey"
+    }
+  ]
+}

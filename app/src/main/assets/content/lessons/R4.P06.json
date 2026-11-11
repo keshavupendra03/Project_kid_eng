@@ -1,0 +1,144 @@
+{
+  "id": "R4.P06",
+  "level": 104,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R4.P06.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Lion and the Mouse’ (शेर और चूहा)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Lion and the Mouse’ (Sher aur chooha). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Lion and the Mouse’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P06.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘forest’ मतलब जंगल। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘forest’ matlab jungle. Chhookar suno, phir bolo.",
+        "en": "‘forest’ means जंगल. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "forest",
+        "emoji": "🌲",
+        "hindi": "जंगल",
+        "hinglish": "jungle"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P06.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘net’ मतलब जाल। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘net’ matlab jaal. Chhookar suno, phir bolo.",
+        "en": "‘net’ means जाल. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "net",
+        "emoji": "🕸️",
+        "hindi": "जाल",
+        "hinglish": "jaal"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P06.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘free’ मतलब आज़ाद। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘free’ matlab aazaad. Chhookar suno, phir bolo.",
+        "en": "‘free’ means आज़ाद. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "free",
+        "emoji": "🕊️",
+        "hindi": "आज़ाद",
+        "hinglish": "aazaad"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R4.P06.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "शेर और चूहा",
+        "hinglish": "Sher aur chooha",
+        "en": "The Lion and the Mouse"
+      },
+      "sentences": [
+        "A lion was sleeping in the forest.",
+        "A small mouse ran over his nose.",
+        "The lion woke up and caught the mouse.",
+        "\"Please let me go,\" said the mouse.",
+        "\"One day I will help you.\"",
+        "The lion laughed, but he let the mouse go.",
+        "After some days, the lion was caught in a hunter's net.",
+        "The mouse came and cut the net with his sharp teeth.",
+        "The lion was free.",
+        "Small friends can be big helpers."
+      ],
+      "words": [
+        {
+          "english": "forest",
+          "emoji": "🌲",
+          "hindi": "जंगल",
+          "hinglish": "jungle"
+        },
+        {
+          "english": "net",
+          "emoji": "🕸️",
+          "hindi": "जाल",
+          "hinglish": "jaal"
+        },
+        {
+          "english": "free",
+          "emoji": "🕊️",
+          "hindi": "आज़ाद",
+          "hinglish": "aazaad"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P06.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "शेर कहाँ सो रहा था?",
+        "hinglish": "Sher kahan so raha tha?",
+        "en": "Where was the lion sleeping?"
+      },
+      "options": [
+        "in the forest",
+        "in a garden",
+        "at a station"
+      ],
+      "answer": "in the forest"
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P06.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "चूहे ने जाल कैसे काटा?",
+        "hinglish": "Choohe ne jaal kaise kaata?",
+        "en": "How did the mouse cut the net?"
+      },
+      "options": [
+        "with his teeth",
+        "with a knife",
+        "with a stone"
+      ],
+      "answer": "with his teeth"
+    }
+  ]
+}

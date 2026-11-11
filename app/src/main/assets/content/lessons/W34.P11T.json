@@ -1,0 +1,185 @@
+{
+  "id": "W34.P11T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "listen_read",
+      "id": "W34.P11T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "stir",
+      "options": [
+        "stir",
+        "spicy",
+        "hungry"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P11T.S02",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "bitter",
+        "emoji": "🥒",
+        "hindi": "कड़वा",
+        "hinglish": "kadwa"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P11T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "delicious",
+        "emoji": "😋",
+        "hindi": "स्वादिष्ट",
+        "hinglish": "swaadisht"
+      },
+      "answer": {
+        "hi": "स्वादिष्ट",
+        "hinglish": "swaadisht"
+      },
+      "options": [
+        {
+          "hi": "स्वादिष्ट",
+          "hinglish": "swaadisht"
+        },
+        {
+          "hi": "भूखा",
+          "hinglish": "bhookha"
+        },
+        {
+          "hi": "खट्टा",
+          "hinglish": "khatta"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P11T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The raw mango is ___.",
+      "answer": "sour",
+      "options": [
+        "sour",
+        "stir",
+        "hungry"
+      ],
+      "meaning": {
+        "hi": "खट्टा",
+        "hinglish": "khatta"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P11T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "thirsty",
+      "options": [
+        "thirsty",
+        "spicy",
+        "delicious"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P11T.S06",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "hungry",
+        "emoji": "🍽️",
+        "hindi": "भूखा",
+        "hinglish": "bhookha"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P11T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "spicy",
+        "emoji": "🌶️",
+        "hindi": "तीखा",
+        "hinglish": "teekha"
+      },
+      "answer": {
+        "hi": "तीखा",
+        "hinglish": "teekha"
+      },
+      "options": [
+        {
+          "hi": "तीखा",
+          "hinglish": "teekha"
+        },
+        {
+          "hi": "भूखा",
+          "hinglish": "bhookha"
+        },
+        {
+          "hi": "नाश्ता",
+          "hinglish": "naashta"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P11T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Mummy wrote the ___ for laddoos.",
+      "answer": "recipe",
+      "options": [
+        "recipe",
+        "spicy",
+        "thirsty"
+      ],
+      "meaning": {
+        "hi": "बनाने का तरीका",
+        "hinglish": "banaane ka tareeka"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P11T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "bowl",
+      "options": [
+        "bowl",
+        "breakfast",
+        "hungry"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P11T.S10",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "breakfast",
+        "emoji": "🍳",
+        "hindi": "नाश्ता",
+        "hinglish": "naashta"
+      },
+      "typed": false
+    }
+  ]
+}

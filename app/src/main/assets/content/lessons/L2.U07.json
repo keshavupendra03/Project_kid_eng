@@ -48,36 +48,33 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U07.S04",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.school"
       ],
-      "answer": "book",
+      "word": {
+        "english": "book",
+        "emoji": "📖",
+        "hindi": "किताब",
+        "hinglish": "kitaab"
+      },
+      "answer": {
+        "hi": "किताब",
+        "hinglish": "kitaab"
+      },
       "options": [
         {
-          "english": "book",
-          "emoji": "📖",
-          "hindi": "किताब",
+          "hi": "किताब",
           "hinglish": "kitaab"
         },
         {
-          "english": "bell",
-          "emoji": "🔔",
-          "hindi": "घंटी",
+          "hi": "घंटी",
           "hinglish": "ghanti"
         },
         {
-          "english": "scissors",
-          "emoji": "✂️",
-          "hindi": "कैंची",
-          "hinglish": "kainchi"
-        },
-        {
-          "english": "crayon",
-          "emoji": "🖍️",
-          "hindi": "क्रेयॉन",
+          "hi": "क्रेयॉन",
           "hinglish": "crayon"
         }
       ]
@@ -93,8 +90,8 @@
       "answer": "pencil",
       "options": [
         "pencil",
-        "bell",
-        "crayon"
+        "crayon",
+        "computer"
       ]
     },
     {
@@ -149,38 +146,37 @@
           "hinglish": "scale"
         },
         {
+          "english": "notebook",
+          "emoji": "📓",
+          "hindi": "कॉपी",
+          "hinglish": "copy"
+        },
+        {
+          "english": "bell",
+          "emoji": "🔔",
+          "hindi": "घंटी",
+          "hinglish": "ghanti"
+        },
+        {
           "english": "crayon",
           "emoji": "🖍️",
           "hindi": "क्रेयॉन",
           "hinglish": "crayon"
-        },
-        {
-          "english": "computer",
-          "emoji": "💻",
-          "hindi": "कंप्यूटर",
-          "hinglish": "computer"
-        },
-        {
-          "english": "scissors",
-          "emoji": "✂️",
-          "hindi": "कैंची",
-          "hinglish": "kainchi"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U07.S09",
       "skills": [
         "read.word",
         "vocab.school"
       ],
-      "emoji": "✂️",
       "answer": "scissors",
       "options": [
         "scissors",
-        "crayon",
-        "computer"
+        "book",
+        "notebook"
       ]
     },
     {
@@ -235,22 +231,22 @@
           "hinglish": "crayon"
         },
         {
-          "english": "scissors",
-          "emoji": "✂️",
-          "hindi": "कैंची",
-          "hinglish": "kainchi"
-        },
-        {
-          "english": "book",
-          "emoji": "📖",
-          "hindi": "किताब",
-          "hinglish": "kitaab"
+          "english": "computer",
+          "emoji": "💻",
+          "hindi": "कंप्यूटर",
+          "hinglish": "computer"
         },
         {
           "english": "bell",
           "emoji": "🔔",
           "hindi": "घंटी",
           "hinglish": "ghanti"
+        },
+        {
+          "english": "pencil",
+          "emoji": "✏️",
+          "hindi": "पेंसिल",
+          "hinglish": "pencil"
         }
       ]
     },
@@ -265,8 +261,8 @@
       "answer": "notebook",
       "options": [
         "notebook",
-        "crayon",
-        "computer"
+        "computer",
+        "pencil"
       ]
     },
     {
@@ -327,16 +323,16 @@
           "hinglish": "computer"
         },
         {
-          "english": "scissors",
-          "emoji": "✂️",
-          "hindi": "कैंची",
-          "hinglish": "kainchi"
+          "english": "notebook",
+          "emoji": "📓",
+          "hindi": "कॉपी",
+          "hinglish": "copy"
         },
         {
-          "english": "book",
-          "emoji": "📖",
-          "hindi": "किताब",
-          "hinglish": "kitaab"
+          "english": "ruler",
+          "emoji": "📏",
+          "hindi": "स्केल",
+          "hinglish": "scale"
         }
       ]
     },
@@ -351,8 +347,8 @@
       "answer": "computer",
       "options": [
         "computer",
-        "bell",
-        "pencil"
+        "notebook",
+        "bell"
       ]
     },
     {
@@ -363,27 +359,27 @@
         "vocab.school"
       ],
       "word": {
-        "english": "bell",
-        "emoji": "🔔",
-        "hindi": "घंटी",
-        "hinglish": "ghanti"
+        "english": "computer",
+        "emoji": "💻",
+        "hindi": "कंप्यूटर",
+        "hinglish": "computer"
       },
       "answer": {
-        "hi": "घंटी",
-        "hinglish": "ghanti"
+        "hi": "कंप्यूटर",
+        "hinglish": "computer"
       },
       "options": [
+        {
+          "hi": "कंप्यूटर",
+          "hinglish": "computer"
+        },
         {
           "hi": "घंटी",
           "hinglish": "ghanti"
         },
         {
-          "hi": "कॉपी",
-          "hinglish": "copy"
-        },
-        {
-          "hi": "कंप्यूटर",
-          "hinglish": "computer"
+          "hi": "कैंची",
+          "hinglish": "kainchi"
         }
       ]
     },
@@ -410,8 +406,8 @@
           "hinglish": "scale"
         },
         {
-          "hi": "कॉपी",
-          "hinglish": "copy"
+          "hi": "कंप्यूटर",
+          "hinglish": "computer"
         },
         {
           "hi": "क्रेयॉन",
@@ -454,11 +450,11 @@
         "read.word",
         "vocab.school"
       ],
-      "answer": "crayon",
+      "answer": "scissors",
       "options": [
-        "crayon",
+        "scissors",
         "computer",
-        "scissors"
+        "bell"
       ]
     },
     {

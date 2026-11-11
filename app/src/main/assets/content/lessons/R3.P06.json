@@ -1,0 +1,141 @@
+{
+  "id": "R3.P06",
+  "level": 103,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R3.P06.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Train Ride’ (रेल का सफ़र)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Train Ride’ (Rail ka safar). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Train Ride’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P06.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘train’ मतलब रेलगाड़ी। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘train’ matlab railgaadi. Chhookar suno, phir bolo.",
+        "en": "‘train’ means रेलगाड़ी. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "train",
+        "emoji": "🚂",
+        "hindi": "रेलगाड़ी",
+        "hinglish": "railgaadi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P06.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘window’ मतलब खिड़की। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘window’ matlab khidki. Chhookar suno, phir bolo.",
+        "en": "‘window’ means खिड़की. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "window",
+        "emoji": "🪟",
+        "hindi": "खिड़की",
+        "hinglish": "khidki"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P06.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘station’ मतलब स्टेशन। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘station’ matlab station. Chhookar suno, phir bolo.",
+        "en": "‘station’ means स्टेशन. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "station",
+        "emoji": "🚉",
+        "hindi": "स्टेशन",
+        "hinglish": "station"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R3.P06.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "रेल का सफ़र",
+        "hinglish": "Rail ka safar",
+        "en": "The Train Ride"
+      },
+      "sentences": [
+        "We go to Nani's house by train.",
+        "The train is very long.",
+        "I sit near the window.",
+        "I see green fields and white cows.",
+        "The train stops at a big station.",
+        "Nani is waiting for us.",
+        "I run to her and hug her tight."
+      ],
+      "words": [
+        {
+          "english": "train",
+          "emoji": "🚂",
+          "hindi": "रेलगाड़ी",
+          "hinglish": "railgaadi"
+        },
+        {
+          "english": "window",
+          "emoji": "🪟",
+          "hindi": "खिड़की",
+          "hinglish": "khidki"
+        },
+        {
+          "english": "station",
+          "emoji": "🚉",
+          "hindi": "स्टेशन",
+          "hinglish": "station"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P06.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "वे किसके घर जाते हैं?",
+        "hinglish": "Woh kiske ghar jaate hain?",
+        "en": "Whose house do they go to?"
+      },
+      "options": [
+        "Nani's house",
+        "Dadi's house",
+        "a friend's house"
+      ],
+      "answer": "Nani's house"
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P06.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "खिड़की से बच्चा क्या देखता है?",
+        "hinglish": "Khidki se bachcha kya dekhta hai?",
+        "en": "What does the child see from the window?"
+      },
+      "options": [
+        "fields and cows",
+        "a shop",
+        "a cake"
+      ],
+      "answer": "fields and cows"
+    }
+  ]
+}

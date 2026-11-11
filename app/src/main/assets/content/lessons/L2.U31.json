@@ -1,0 +1,447 @@
+{
+  "id": "L2.U31",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U31.S01",
+      "text": {
+        "hi": "रिश्ते और पड़ोस के शब्द।",
+        "hinglish": "Rishte aur pados ke shabd.",
+        "en": "Words for relatives and neighbours."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U31.S02",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘son’ मतलब ‘बेटा’।",
+        "hinglish": "‘son’ matlab ‘beta’.",
+        "en": "Say it with me: son!"
+      },
+      "word": {
+        "english": "son",
+        "hindi": "बेटा",
+        "hinglish": "beta"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U31.S03",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘daughter’ मतलब ‘बेटी’।",
+        "hinglish": "‘daughter’ matlab ‘beti’.",
+        "en": "Say it with me: daughter!"
+      },
+      "word": {
+        "english": "daughter",
+        "hindi": "बेटी",
+        "hinglish": "beti"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U31.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "son",
+        "hindi": "बेटा",
+        "hinglish": "beta"
+      },
+      "answer": {
+        "hi": "बेटा",
+        "hinglish": "beta"
+      },
+      "options": [
+        {
+          "hi": "बेटा",
+          "hinglish": "beta"
+        },
+        {
+          "hi": "पत्नी",
+          "hinglish": "patni"
+        },
+        {
+          "hi": "लोग",
+          "hinglish": "log"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U31.S05",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "answer": "daughter",
+      "options": [
+        "daughter",
+        "wife",
+        "cousin"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U31.S06",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘husband’ मतलब ‘पति’।",
+        "hinglish": "‘husband’ matlab ‘pati’.",
+        "en": "Say it with me: husband!"
+      },
+      "word": {
+        "english": "husband",
+        "hindi": "पति",
+        "hinglish": "pati"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U31.S07",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘wife’ मतलब ‘पत्नी’।",
+        "hinglish": "‘wife’ matlab ‘patni’.",
+        "en": "Say it with me: wife!"
+      },
+      "word": {
+        "english": "wife",
+        "hindi": "पत्नी",
+        "hinglish": "patni"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U31.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "husband",
+        "hindi": "पति",
+        "hinglish": "pati"
+      },
+      "answer": {
+        "hi": "पति",
+        "hinglish": "pati"
+      },
+      "options": [
+        {
+          "hi": "पति",
+          "hinglish": "pati"
+        },
+        {
+          "hi": "चचेरा भाई / बहन",
+          "hinglish": "chachera bhai / behen"
+        },
+        {
+          "hi": "बेटी",
+          "hinglish": "beti"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U31.S09",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "answer": "wife",
+      "options": [
+        "wife",
+        "daughter",
+        "people"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U31.S10",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘cousin’ मतलब ‘चचेरा भाई / बहन’।",
+        "hinglish": "‘cousin’ matlab ‘chachera bhai / behen’.",
+        "en": "Say it with me: cousin!"
+      },
+      "word": {
+        "english": "cousin",
+        "hindi": "चचेरा भाई / बहन",
+        "hinglish": "chachera bhai / behen"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U31.S11",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘neighbour’ मतलब ‘पड़ोसी’।",
+        "hinglish": "‘neighbour’ matlab ‘padosi’.",
+        "en": "Say it with me: neighbour!"
+      },
+      "word": {
+        "english": "neighbour",
+        "hindi": "पड़ोसी",
+        "hinglish": "padosi"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U31.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "cousin",
+        "hindi": "चचेरा भाई / बहन",
+        "hinglish": "chachera bhai / behen"
+      },
+      "answer": {
+        "hi": "चचेरा भाई / बहन",
+        "hinglish": "chachera bhai / behen"
+      },
+      "options": [
+        {
+          "hi": "चचेरा भाई / बहन",
+          "hinglish": "chachera bhai / behen"
+        },
+        {
+          "hi": "बेटा",
+          "hinglish": "beta"
+        },
+        {
+          "hi": "मेहमान",
+          "hinglish": "mehmaan"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U31.S13",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "answer": "neighbour",
+      "options": [
+        "neighbour",
+        "son",
+        "husband"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U31.S14",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘guest’ मतलब ‘मेहमान’।",
+        "hinglish": "‘guest’ matlab ‘mehmaan’.",
+        "en": "Say it with me: guest!"
+      },
+      "word": {
+        "english": "guest",
+        "hindi": "मेहमान",
+        "hinglish": "mehmaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U31.S15",
+      "skills": [
+        "vocab.family"
+      ],
+      "text": {
+        "hi": "‘people’ मतलब ‘लोग’।",
+        "hinglish": "‘people’ matlab ‘log’.",
+        "en": "Say it with me: people!"
+      },
+      "word": {
+        "english": "people",
+        "emoji": "👥",
+        "hindi": "लोग",
+        "hinglish": "log"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U31.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "guest",
+        "hindi": "मेहमान",
+        "hinglish": "mehmaan"
+      },
+      "answer": {
+        "hi": "मेहमान",
+        "hinglish": "mehmaan"
+      },
+      "options": [
+        {
+          "hi": "मेहमान",
+          "hinglish": "mehmaan"
+        },
+        {
+          "hi": "पड़ोसी",
+          "hinglish": "padosi"
+        },
+        {
+          "hi": "पत्नी",
+          "hinglish": "patni"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U31.S17",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "answer": "people",
+      "options": [
+        "people",
+        "neighbour",
+        "son"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U31.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "son",
+        "hindi": "बेटा",
+        "hinglish": "beta"
+      },
+      "answer": {
+        "hi": "बेटा",
+        "hinglish": "beta"
+      },
+      "options": [
+        {
+          "hi": "बेटा",
+          "hinglish": "beta"
+        },
+        {
+          "hi": "मेहमान",
+          "hinglish": "mehmaan"
+        },
+        {
+          "hi": "लोग",
+          "hinglish": "log"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U31.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "husband",
+        "hindi": "पति",
+        "hinglish": "pati"
+      },
+      "answer": {
+        "hi": "पति",
+        "hinglish": "pati"
+      },
+      "options": [
+        {
+          "hi": "पति",
+          "hinglish": "pati"
+        },
+        {
+          "hi": "मेहमान",
+          "hinglish": "mehmaan"
+        },
+        {
+          "hi": "लोग",
+          "hinglish": "log"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U31.S20",
+      "skills": [
+        "speak.word",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "people",
+        "emoji": "👥",
+        "hindi": "लोग",
+        "hinglish": "log"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U31.S21",
+      "skills": [
+        "speak.word",
+        "vocab.family"
+      ],
+      "word": {
+        "english": "son",
+        "hindi": "बेटा",
+        "hinglish": "beta"
+      },
+      "accept": [
+        "sun"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U31.S22",
+      "skills": [
+        "read.word",
+        "vocab.family"
+      ],
+      "answer": "guest",
+      "options": [
+        "guest",
+        "neighbour",
+        "daughter"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U31.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: son, daughter, husband, wife, cousin, neighbour, guest, people।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: son, daughter, husband, wife, cousin, neighbour, guest, people.",
+        "en": "Well done! Today's new words: son, daughter, husband, wife, cousin, neighbour, guest, people."
+      }
+    }
+  ]
+}

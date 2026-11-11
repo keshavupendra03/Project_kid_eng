@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "lessonsPassed": 12,
+    "stars": 30,
+    "wordsLearned": 45,
+    "sentencesSpoken": 6,
+    "streak": 3,
+    "level": 1,
+    "lessonId": "L1.U10",
+    "readingLevel": 2,
+    "passagesRead": 7,
+    "readingAccuracy": 86,
+    "wordsPerMinute": 41,
+    "expressBestWpm": 55,
+    "powerWordsLearned": 30,
+    "powerWordsMastered": 12,
+    "monthlyTestStars": 2
+  },
+  "days": [
+    { "day": 0, "minutes": 25 }
+  ],
+  "skills": [
+    { "skill": "sound.th", "mastery": 0.25, "attempts": 6 },
+    { "skill": "vocab.body", "mastery": 0.9, "attempts": 8 }
+  ]
+}

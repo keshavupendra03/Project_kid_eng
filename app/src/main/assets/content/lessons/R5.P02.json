@@ -1,0 +1,143 @@
+{
+  "id": "R5.P02",
+  "level": 105,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R5.P02.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Road Safety’ (सड़क पर सावधानी)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Road Safety’ (Sadak par saavdhani). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Road Safety’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P02.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘cross’ मतलब पार करना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘cross’ matlab paar karna. Chhookar suno, phir bolo.",
+        "en": "‘cross’ means पार करना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "cross",
+        "emoji": "🚸",
+        "hindi": "पार करना",
+        "hinglish": "paar karna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P02.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘signal’ मतलब सिग्नल। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘signal’ matlab signal. Chhookar suno, phir bolo.",
+        "en": "‘signal’ means सिग्नल. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "signal",
+        "emoji": "🚦",
+        "hindi": "सिग्नल",
+        "hinglish": "signal"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P02.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘helmet’ मतलब हेलमेट। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘helmet’ matlab helmet. Chhookar suno, phir bolo.",
+        "en": "‘helmet’ means हेलमेट. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "helmet",
+        "emoji": "⛑️",
+        "hindi": "हेलमेट",
+        "hinglish": "helmet"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R5.P02.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "सड़क पर सावधानी",
+        "hinglish": "Sadak par saavdhani",
+        "en": "Road Safety"
+      },
+      "sentences": [
+        "Look right, look left, then look right again.",
+        "Cross the road only at the zebra crossing.",
+        "Wait for the green signal.",
+        "Never run on the road.",
+        "",
+        "When you ride a bicycle, wear a helmet.",
+        "Keep to the left side of the road.",
+        "Do not look at a phone while walking on the road.",
+        "Safety first, always."
+      ],
+      "words": [
+        {
+          "english": "cross",
+          "emoji": "🚸",
+          "hindi": "पार करना",
+          "hinglish": "paar karna"
+        },
+        {
+          "english": "signal",
+          "emoji": "🚦",
+          "hindi": "सिग्नल",
+          "hinglish": "signal"
+        },
+        {
+          "english": "helmet",
+          "emoji": "⛑️",
+          "hindi": "हेलमेट",
+          "hinglish": "helmet"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P02.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "सड़क कहाँ पार करनी चाहिए?",
+        "hinglish": "Sadak kahan paar karni chahiye?",
+        "en": "Where should you cross the road?"
+      },
+      "options": [
+        "at the zebra crossing",
+        "anywhere",
+        "near a bus"
+      ],
+      "answer": "at the zebra crossing"
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P02.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "साइकिल चलाते समय क्या पहनना चाहिए?",
+        "hinglish": "Cycle chalate samay kya pehnna chahiye?",
+        "en": "What should you wear when you ride a bicycle?"
+      },
+      "options": [
+        "a helmet",
+        "a hat",
+        "new clothes"
+      ],
+      "answer": "a helmet"
+    }
+  ]
+}

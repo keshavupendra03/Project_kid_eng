@@ -1,0 +1,480 @@
+{
+  "id": "W78.P05",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P05.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: शब्द की शुरुआत: im-, in-, mis-, pre-, over-। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Shabd ki shuruaat: im-, in-, mis-, pre-, over-. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Prefixes: im-, in-, mis-, pre-, over-. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P05.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "impossible",
+        "emoji": "🚫",
+        "hindi": "असंभव",
+        "hinglish": "asambhav"
+      },
+      "meaning": "im + possible: cannot happen",
+      "example": "Nothing is impossible if you keep trying.",
+      "exampleMeaning": {
+        "hi": "कोशिश करते रहो तो कुछ भी असंभव नहीं।",
+        "hinglish": "Koshish karte raho to kuch bhi asambhav nahi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P05.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "impatient",
+        "emoji": "⏰",
+        "hindi": "अधीर",
+        "hinglish": "adheer"
+      },
+      "meaning": "im + patient: not able to wait",
+      "example": "The impatient boy kept asking for his turn.",
+      "exampleMeaning": {
+        "hi": "अधीर लड़का बार-बार अपनी बारी माँगता रहा।",
+        "hinglish": "Adheer ladka baar-baar apni baari maangta raha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P05.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "incorrect",
+        "emoji": "❌",
+        "hindi": "गलत",
+        "hinglish": "galat"
+      },
+      "meaning": "in + correct: not right",
+      "example": "This answer is incorrect.",
+      "exampleMeaning": {
+        "hi": "यह जवाब गलत है।",
+        "hinglish": "Yeh jawaab galat hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P05.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "invisible",
+        "emoji": "👻",
+        "hindi": "अदृश्य",
+        "hinglish": "adrishya"
+      },
+      "meaning": "in + visible: cannot be seen",
+      "example": "Air is invisible.",
+      "exampleMeaning": {
+        "hi": "हवा दिखाई नहीं देती।",
+        "hinglish": "Hawa dikhaai nahi deti."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P05.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "misunderstand",
+        "emoji": "😕",
+        "hindi": "गलत समझना",
+        "hinglish": "galat samajhna"
+      },
+      "meaning": "mis + understand: to understand wrongly",
+      "example": "Please do not misunderstand my words.",
+      "exampleMeaning": {
+        "hi": "प्लीज़ मेरी बात को गलत मत समझना।",
+        "hinglish": "Please meri baat ko galat mat samajhna."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P05.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "misplace",
+        "emoji": "🔍",
+        "hindi": "रखकर भूल जाना",
+        "hinglish": "rakhkar bhool jaana"
+      },
+      "meaning": "mis + place: to put something somewhere and forget",
+      "example": "I often misplace my keys.",
+      "exampleMeaning": {
+        "hi": "मैं अक्सर अपनी चाबियाँ कहीं रखकर भूल जाता/जाती हूँ।",
+        "hinglish": "Main aksar apni chaabiyaan kahin rakhkar bhool jaata/jaati hoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P05.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "preview",
+        "emoji": "👀",
+        "hindi": "झलक",
+        "hinglish": "jhalak"
+      },
+      "meaning": "pre + view: a look before",
+      "example": "We watched the preview of the film.",
+      "exampleMeaning": {
+        "hi": "हमने फ़िल्म की झलक देखी।",
+        "hinglish": "Humne film ki jhalak dekhi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P05.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "prepaid",
+        "emoji": "💳",
+        "hindi": "पहले से भुगतान किया",
+        "hinglish": "pehle se bhugtaan kiya"
+      },
+      "meaning": "pre + paid: paid before",
+      "example": "Papa has a prepaid phone card.",
+      "exampleMeaning": {
+        "hi": "पापा के पास पहले से पैसे भरा हुआ फ़ोन कार्ड है।",
+        "hinglish": "Papa ke paas pehle se paise bhara hua phone card hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P05.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "overload",
+        "emoji": "📦",
+        "hindi": "ज़्यादा भार",
+        "hinglish": "zyaada bhaar"
+      },
+      "meaning": "over + load: too much load",
+      "example": "Do not overload the auto with bags.",
+      "exampleMeaning": {
+        "hi": "ऑटो में बहुत सारे बैग भरकर बोझ मत बढ़ाओ।",
+        "hinglish": "Auto mein bahut saare bag bharkar bojh mat badhao."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P05.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "overcome",
+        "emoji": "💪",
+        "hindi": "पार पाना",
+        "hinglish": "paar paana"
+      },
+      "meaning": "over + come: to win against a problem",
+      "example": "She worked hard to overcome her fear.",
+      "exampleMeaning": {
+        "hi": "उसने अपने डर पर काबू पाने के लिए बहुत मेहनत की।",
+        "hinglish": "Usne apne dar par kaabu paane ke liye bahut mehnat ki."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P05.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "impossible",
+        "emoji": "🚫",
+        "hindi": "असंभव",
+        "hinglish": "asambhav"
+      },
+      "answer": {
+        "hi": "असंभव",
+        "hinglish": "asambhav"
+      },
+      "options": [
+        {
+          "hi": "असंभव",
+          "hinglish": "asambhav"
+        },
+        {
+          "hi": "रखकर भूल जाना",
+          "hinglish": "rakhkar bhool jaana"
+        },
+        {
+          "hi": "पार पाना",
+          "hinglish": "paar paana"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P05.S13",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "impossible",
+        "emoji": "🚫",
+        "hindi": "असंभव",
+        "hinglish": "asambhav"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P05.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "preview",
+        "emoji": "👀",
+        "hindi": "झलक",
+        "hinglish": "jhalak"
+      },
+      "answer": {
+        "hi": "झलक",
+        "hinglish": "jhalak"
+      },
+      "options": [
+        {
+          "hi": "झलक",
+          "hinglish": "jhalak"
+        },
+        {
+          "hi": "पार पाना",
+          "hinglish": "paar paana"
+        },
+        {
+          "hi": "गलत समझना",
+          "hinglish": "galat samajhna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P05.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "misunderstand",
+        "emoji": "😕",
+        "hindi": "गलत समझना",
+        "hinglish": "galat samajhna"
+      },
+      "answer": {
+        "hi": "गलत समझना",
+        "hinglish": "galat samajhna"
+      },
+      "options": [
+        {
+          "hi": "गलत समझना",
+          "hinglish": "galat samajhna"
+        },
+        {
+          "hi": "पहले से भुगतान किया",
+          "hinglish": "pehle se bhugtaan kiya"
+        },
+        {
+          "hi": "अधीर",
+          "hinglish": "adheer"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P05.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "incorrect",
+        "emoji": "❌",
+        "hindi": "गलत",
+        "hinglish": "galat"
+      },
+      "answer": {
+        "hi": "गलत",
+        "hinglish": "galat"
+      },
+      "options": [
+        {
+          "hi": "गलत",
+          "hinglish": "galat"
+        },
+        {
+          "hi": "रखकर भूल जाना",
+          "hinglish": "rakhkar bhool jaana"
+        },
+        {
+          "hi": "ज़्यादा भार",
+          "hinglish": "zyaada bhaar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P05.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "overload",
+      "options": [
+        "overload",
+        "misplace",
+        "incorrect"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P05.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "impatient",
+        "emoji": "⏰",
+        "hindi": "अधीर",
+        "hinglish": "adheer"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P05.S19",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "incorrect",
+        "emoji": "❌",
+        "hindi": "गलत",
+        "hinglish": "galat"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P05.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I often ___ my keys.",
+      "answer": "misplace",
+      "options": [
+        "misplace",
+        "misunderstand",
+        "overcome"
+      ],
+      "meaning": {
+        "hi": "रखकर भूल जाना",
+        "hinglish": "rakhkar bhool jaana"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P05.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ boy kept asking for his turn.",
+      "answer": "impatient",
+      "options": [
+        "impatient",
+        "overcome",
+        "misunderstand"
+      ],
+      "meaning": {
+        "hi": "अधीर",
+        "hinglish": "adheer"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P05.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Papa has a ___ phone card.",
+      "answer": "prepaid",
+      "options": [
+        "prepaid",
+        "incorrect",
+        "overcome"
+      ],
+      "meaning": {
+        "hi": "पहले से भुगतान किया",
+        "hinglish": "pehle se bhugtaan kiya"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P05.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "overcome",
+      "options": [
+        "overcome",
+        "overload",
+        "impatient"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P05.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "invisible",
+        "emoji": "👻",
+        "hindi": "अदृश्य",
+        "hinglish": "adrishya"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P05.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Air is ___.",
+      "answer": "invisible",
+      "options": [
+        "invisible",
+        "incorrect",
+        "impossible"
+      ],
+      "meaning": {
+        "hi": "अदृश्य",
+        "hinglish": "adrishya"
+      }
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "id": "L2.U49",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U49.S01",
+      "text": {
+        "hi": "और कपड़े और चीज़ें।",
+        "hinglish": "Aur kapde aur cheezein.",
+        "en": "More clothes and things we wear."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U49.S02",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘belt’ मतलब ‘बेल्ट’।",
+        "hinglish": "‘belt’ matlab ‘belt’.",
+        "en": "Say it with me: belt!"
+      },
+      "word": {
+        "english": "belt",
+        "hindi": "बेल्ट",
+        "hinglish": "belt"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U49.S03",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘button’ मतलब ‘बटन’।",
+        "hinglish": "‘button’ matlab ‘button’.",
+        "en": "Say it with me: button!"
+      },
+      "word": {
+        "english": "button",
+        "emoji": "🔘",
+        "hindi": "बटन",
+        "hinglish": "button"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U49.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "belt",
+        "hindi": "बेल्ट",
+        "hinglish": "belt"
+      },
+      "answer": {
+        "hi": "बेल्ट",
+        "hinglish": "belt"
+      },
+      "options": [
+        {
+          "hi": "बेल्ट",
+          "hinglish": "belt"
+        },
+        {
+          "hi": "टाई",
+          "hinglish": "tie"
+        },
+        {
+          "hi": "दस्ताने",
+          "hinglish": "dastaane"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U49.S05",
+      "skills": [
+        "read.word",
+        "vocab.clothes"
+      ],
+      "emoji": "🔘",
+      "answer": "button",
+      "options": [
+        "button",
+        "gloves",
+        "scarf"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U49.S06",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘pocket’ मतलब ‘जेब’।",
+        "hinglish": "‘pocket’ matlab ‘jeb’.",
+        "en": "Say it with me: pocket!"
+      },
+      "word": {
+        "english": "pocket",
+        "hindi": "जेब",
+        "hinglish": "jeb"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U49.S07",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘tie’ मतलब ‘टाई’।",
+        "hinglish": "‘tie’ matlab ‘tie’.",
+        "en": "Say it with me: tie!"
+      },
+      "word": {
+        "english": "tie",
+        "emoji": "👔",
+        "hindi": "टाई",
+        "hinglish": "tie"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U49.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "pocket",
+        "hindi": "जेब",
+        "hinglish": "jeb"
+      },
+      "answer": {
+        "hi": "जेब",
+        "hinglish": "jeb"
+      },
+      "options": [
+        {
+          "hi": "जेब",
+          "hinglish": "jeb"
+        },
+        {
+          "hi": "मफ़लर",
+          "hinglish": "muffler"
+        },
+        {
+          "hi": "बेल्ट",
+          "hinglish": "belt"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U49.S09",
+      "skills": [
+        "read.word",
+        "vocab.clothes"
+      ],
+      "emoji": "👔",
+      "answer": "tie",
+      "options": [
+        "tie",
+        "sweater",
+        "button"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U49.S10",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘scarf’ मतलब ‘मफ़लर’।",
+        "hinglish": "‘scarf’ matlab ‘muffler’.",
+        "en": "Say it with me: scarf!"
+      },
+      "word": {
+        "english": "scarf",
+        "emoji": "🧣",
+        "hindi": "मफ़लर",
+        "hinglish": "muffler"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U49.S11",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘gloves’ मतलब ‘दस्ताने’।",
+        "hinglish": "‘gloves’ matlab ‘dastaane’.",
+        "en": "Say it with me: gloves!"
+      },
+      "word": {
+        "english": "gloves",
+        "emoji": "🧤",
+        "hindi": "दस्ताने",
+        "hinglish": "dastaane"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U49.S12",
+      "skills": [
+        "listen.word",
+        "vocab.clothes"
+      ],
+      "answer": "scarf",
+      "options": [
+        {
+          "english": "scarf",
+          "emoji": "🧣",
+          "hindi": "मफ़लर",
+          "hinglish": "muffler"
+        },
+        {
+          "english": "shorts",
+          "emoji": "🩳",
+          "hindi": "निक्कर",
+          "hinglish": "nikkar"
+        },
+        {
+          "english": "tie",
+          "emoji": "👔",
+          "hindi": "टाई",
+          "hinglish": "tie"
+        },
+        {
+          "english": "gloves",
+          "emoji": "🧤",
+          "hindi": "दस्ताने",
+          "hinglish": "dastaane"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U49.S13",
+      "skills": [
+        "read.word",
+        "vocab.clothes"
+      ],
+      "emoji": "🧤",
+      "answer": "gloves",
+      "options": [
+        "gloves",
+        "tie",
+        "scarf"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U49.S14",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘sweater’ मतलब ‘स्वेटर’।",
+        "hinglish": "‘sweater’ matlab ‘sweater’.",
+        "en": "Say it with me: sweater!"
+      },
+      "word": {
+        "english": "sweater",
+        "hindi": "स्वेटर",
+        "hinglish": "sweater"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U49.S15",
+      "skills": [
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "‘shorts’ मतलब ‘निक्कर’।",
+        "hinglish": "‘shorts’ matlab ‘nikkar’.",
+        "en": "Say it with me: shorts!"
+      },
+      "word": {
+        "english": "shorts",
+        "emoji": "🩳",
+        "hindi": "निक्कर",
+        "hinglish": "nikkar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U49.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "sweater",
+        "hindi": "स्वेटर",
+        "hinglish": "sweater"
+      },
+      "answer": {
+        "hi": "स्वेटर",
+        "hinglish": "sweater"
+      },
+      "options": [
+        {
+          "hi": "स्वेटर",
+          "hinglish": "sweater"
+        },
+        {
+          "hi": "बटन",
+          "hinglish": "button"
+        },
+        {
+          "hi": "बेल्ट",
+          "hinglish": "belt"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U49.S17",
+      "skills": [
+        "read.word",
+        "vocab.clothes"
+      ],
+      "emoji": "🩳",
+      "answer": "shorts",
+      "options": [
+        "shorts",
+        "button",
+        "pocket"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U49.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "sweater",
+        "hindi": "स्वेटर",
+        "hinglish": "sweater"
+      },
+      "answer": {
+        "hi": "स्वेटर",
+        "hinglish": "sweater"
+      },
+      "options": [
+        {
+          "hi": "स्वेटर",
+          "hinglish": "sweater"
+        },
+        {
+          "hi": "दस्ताने",
+          "hinglish": "dastaane"
+        },
+        {
+          "hi": "बटन",
+          "hinglish": "button"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U49.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "pocket",
+        "hindi": "जेब",
+        "hinglish": "jeb"
+      },
+      "answer": {
+        "hi": "जेब",
+        "hinglish": "jeb"
+      },
+      "options": [
+        {
+          "hi": "जेब",
+          "hinglish": "jeb"
+        },
+        {
+          "hi": "मफ़लर",
+          "hinglish": "muffler"
+        },
+        {
+          "hi": "दस्ताने",
+          "hinglish": "dastaane"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U49.S20",
+      "skills": [
+        "speak.word",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "tie",
+        "emoji": "👔",
+        "hindi": "टाई",
+        "hinglish": "tie"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U49.S21",
+      "skills": [
+        "speak.word",
+        "vocab.clothes"
+      ],
+      "word": {
+        "english": "scarf",
+        "emoji": "🧣",
+        "hindi": "मफ़लर",
+        "hinglish": "muffler"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U49.S22",
+      "skills": [
+        "read.word",
+        "vocab.clothes"
+      ],
+      "answer": "pocket",
+      "options": [
+        "pocket",
+        "scarf",
+        "shorts"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U49.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: belt, button, pocket, tie, scarf, gloves, sweater, shorts।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: belt, button, pocket, tie, scarf, gloves, sweater, shorts.",
+        "en": "Well done! Today's new words: belt, button, pocket, tie, scarf, gloves, sweater, shorts."
+      }
+    }
+  ]
+}

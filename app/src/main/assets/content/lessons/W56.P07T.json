@@ -1,0 +1,185 @@
+{
+  "id": "W56.P07T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "listen_read",
+      "id": "W56.P07T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "thankful",
+      "options": [
+        "thankful",
+        "fearless",
+        "painless"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P07T.S02",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "useful",
+        "emoji": "🛠️",
+        "hindi": "उपयोगी",
+        "hinglish": "upyogi"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P07T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "helpful",
+        "emoji": "🤝",
+        "hindi": "मददगार",
+        "hinglish": "madadgaar"
+      },
+      "answer": {
+        "hi": "मददगार",
+        "hinglish": "madadgaar"
+      },
+      "options": [
+        {
+          "hi": "मददगार",
+          "hinglish": "madadgaar"
+        },
+        {
+          "hi": "बेकार",
+          "hinglish": "bekaar"
+        },
+        {
+          "hi": "उपयोगी",
+          "hinglish": "upyogi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P07T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ soldier saved many lives.",
+      "answer": "fearless",
+      "options": [
+        "fearless",
+        "thankful",
+        "useful"
+      ],
+      "meaning": {
+        "hi": "निडर",
+        "hinglish": "nidar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P07T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "useless",
+      "options": [
+        "useless",
+        "painful",
+        "fearless"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P07T.S06",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "painful",
+        "emoji": "🤕",
+        "hindi": "दर्दनाक",
+        "hinglish": "dardnaak"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P07T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hopeless",
+        "emoji": "😞",
+        "hindi": "निराशाजनक",
+        "hinglish": "niraashajanak"
+      },
+      "answer": {
+        "hi": "निराशाजनक",
+        "hinglish": "niraashajanak"
+      },
+      "options": [
+        {
+          "hi": "निराशाजनक",
+          "hinglish": "niraashajanak"
+        },
+        {
+          "hi": "बेबस",
+          "hinglish": "bebas"
+        },
+        {
+          "hi": "उपयोगी",
+          "hinglish": "upyogi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P07T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We are ___ about the match.",
+      "answer": "hopeful",
+      "options": [
+        "hopeful",
+        "useless",
+        "useful"
+      ],
+      "meaning": {
+        "hi": "आशावान",
+        "hinglish": "aashaavaan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P07T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "painless",
+      "options": [
+        "painless",
+        "useful",
+        "hopeful"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P07T.S10",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "helpless",
+        "emoji": "😢",
+        "hindi": "बेबस",
+        "hinglish": "bebas"
+      },
+      "typed": true
+    }
+  ]
+}

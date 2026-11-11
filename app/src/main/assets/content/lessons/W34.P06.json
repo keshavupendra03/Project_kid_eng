@@ -1,0 +1,480 @@
+{
+  "id": "W34.P06",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P06.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: शरीर और सेहत। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Shareer aur sehat. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Body and health. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P06.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "healthy",
+        "emoji": "💪",
+        "hindi": "स्वस्थ",
+        "hinglish": "swasth"
+      },
+      "meaning": "strong and not ill",
+      "example": "Fruits keep us healthy.",
+      "exampleMeaning": {
+        "hi": "फल हमें स्वस्थ रखते हैं।",
+        "hinglish": "Phal hamein swasth rakhte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P06.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "fever",
+        "emoji": "🤒",
+        "hindi": "बुखार",
+        "hinglish": "bukhaar"
+      },
+      "meaning": "when your body becomes too hot because you are ill",
+      "example": "Riya has a fever, so she is at home.",
+      "exampleMeaning": {
+        "hi": "रिया को बुखार है, इसलिए वह घर पर है।",
+        "hinglish": "Riya ko bukhaar hai, isliye woh ghar par hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P06.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "cough",
+        "emoji": "😷",
+        "hindi": "खाँसी",
+        "hinglish": "khaansi"
+      },
+      "meaning": "pushing air out of your throat with a sound",
+      "example": "Cover your mouth when you cough.",
+      "exampleMeaning": {
+        "hi": "खाँसते समय मुँह ढको।",
+        "hinglish": "Khaanste samay munh dhako."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P06.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "injury",
+        "emoji": "🩹",
+        "hindi": "चोट",
+        "hinglish": "chot"
+      },
+      "meaning": "a hurt part of the body",
+      "example": "He got an injury while playing football.",
+      "exampleMeaning": {
+        "hi": "फ़ुटबॉल खेलते हुए उसे चोट लग गई।",
+        "hinglish": "Football khelte hue use chot lag gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P06.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "medicine",
+        "emoji": "💊",
+        "hindi": "दवाई",
+        "hinglish": "dawaai"
+      },
+      "meaning": "something you take to get better when you are ill",
+      "example": "Take your medicine after food.",
+      "exampleMeaning": {
+        "hi": "खाने के बाद अपनी दवाई लो।",
+        "hinglish": "Khaane ke baad apni dawaai lo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P06.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "exercise",
+        "emoji": "🤸",
+        "hindi": "व्यायाम",
+        "hinglish": "vyaayaam"
+      },
+      "meaning": "moving your body to stay fit",
+      "example": "We exercise in the school ground every morning.",
+      "exampleMeaning": {
+        "hi": "हम हर सुबह स्कूल के मैदान में व्यायाम करते हैं।",
+        "hinglish": "Hum har subah school ke maidaan mein vyaayaam karte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P06.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "tongue",
+        "emoji": "👅",
+        "hindi": "जीभ",
+        "hinglish": "jeebh"
+      },
+      "meaning": "the part inside your mouth that tastes food",
+      "example": "The doctor looked at my tongue.",
+      "exampleMeaning": {
+        "hi": "डॉक्टर ने मेरी जीभ देखी।",
+        "hinglish": "Doctor ne meri jeebh dekhi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P06.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "elbow",
+        "emoji": "🦾",
+        "hindi": "कोहनी",
+        "hinglish": "kohni"
+      },
+      "meaning": "the middle part of your arm where it bends",
+      "example": "I hit my elbow on the door.",
+      "exampleMeaning": {
+        "hi": "मेरी कोहनी दरवाज़े से टकरा गई।",
+        "hinglish": "Meri kohni darwaaze se takra gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P06.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "wrist",
+        "emoji": "⌚",
+        "hindi": "कलाई",
+        "hinglish": "kalaai"
+      },
+      "meaning": "the part between your hand and arm",
+      "example": "Papa wears a watch on his wrist.",
+      "exampleMeaning": {
+        "hi": "पापा अपनी कलाई पर घड़ी पहनते हैं।",
+        "hinglish": "Papa apni kalaai par ghadi pehente hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P06.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "germs",
+        "emoji": "🦠",
+        "hindi": "कीटाणु",
+        "hinglish": "keetaanu"
+      },
+      "meaning": "very small living things that can make you ill",
+      "example": "Wash your hands to remove germs.",
+      "exampleMeaning": {
+        "hi": "कीटाणु हटाने के लिए हाथ धो लो।",
+        "hinglish": "Keetaanu hataane ke liye haath dho lo."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P06.S12",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "healthy",
+        "emoji": "💪",
+        "hindi": "स्वस्थ",
+        "hinglish": "swasth"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P06.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "He got an ___ while playing football.",
+      "answer": "injury",
+      "options": [
+        "injury",
+        "medicine",
+        "wrist"
+      ],
+      "meaning": {
+        "hi": "चोट",
+        "hinglish": "chot"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P06.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "tongue",
+        "emoji": "👅",
+        "hindi": "जीभ",
+        "hinglish": "jeebh"
+      },
+      "answer": {
+        "hi": "जीभ",
+        "hinglish": "jeebh"
+      },
+      "options": [
+        {
+          "hi": "जीभ",
+          "hinglish": "jeebh"
+        },
+        {
+          "hi": "कलाई",
+          "hinglish": "kalaai"
+        },
+        {
+          "hi": "कीटाणु",
+          "hinglish": "keetaanu"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P06.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "cough",
+        "emoji": "😷",
+        "hindi": "खाँसी",
+        "hinglish": "khaansi"
+      },
+      "answer": {
+        "hi": "खाँसी",
+        "hinglish": "khaansi"
+      },
+      "options": [
+        {
+          "hi": "खाँसी",
+          "hinglish": "khaansi"
+        },
+        {
+          "hi": "दवाई",
+          "hinglish": "dawaai"
+        },
+        {
+          "hi": "बुखार",
+          "hinglish": "bukhaar"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P06.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "healthy",
+        "emoji": "💪",
+        "hindi": "स्वस्थ",
+        "hinglish": "swasth"
+      },
+      "answer": {
+        "hi": "स्वस्थ",
+        "hinglish": "swasth"
+      },
+      "options": [
+        {
+          "hi": "स्वस्थ",
+          "hinglish": "swasth"
+        },
+        {
+          "hi": "कोहनी",
+          "hinglish": "kohni"
+        },
+        {
+          "hi": "चोट",
+          "hinglish": "chot"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P06.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Riya has a ___, so she is at home.",
+      "answer": "fever",
+      "options": [
+        "fever",
+        "injury",
+        "exercise"
+      ],
+      "meaning": {
+        "hi": "बुखार",
+        "hinglish": "bukhaar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P06.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "cough",
+        "emoji": "😷",
+        "hindi": "खाँसी",
+        "hinglish": "khaansi"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P06.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "medicine",
+        "emoji": "💊",
+        "hindi": "दवाई",
+        "hinglish": "dawaai"
+      },
+      "answer": {
+        "hi": "दवाई",
+        "hinglish": "dawaai"
+      },
+      "options": [
+        {
+          "hi": "दवाई",
+          "hinglish": "dawaai"
+        },
+        {
+          "hi": "कीटाणु",
+          "hinglish": "keetaanu"
+        },
+        {
+          "hi": "चोट",
+          "hinglish": "chot"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P06.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I hit my ___ on the door.",
+      "answer": "elbow",
+      "options": [
+        "elbow",
+        "fever",
+        "wrist"
+      ],
+      "meaning": {
+        "hi": "कोहनी",
+        "hinglish": "kohni"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P06.S21",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "fever",
+        "emoji": "🤒",
+        "hindi": "बुखार",
+        "hinglish": "bukhaar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P06.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "injury",
+        "emoji": "🩹",
+        "hindi": "चोट",
+        "hinglish": "chot"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P06.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We ___ in the school ground every morning.",
+      "answer": "exercise",
+      "options": [
+        "exercise",
+        "germs",
+        "medicine"
+      ],
+      "meaning": {
+        "hi": "व्यायाम",
+        "hinglish": "vyaayaam"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P06.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "wrist",
+      "options": [
+        "wrist",
+        "medicine",
+        "healthy"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P06.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "germs",
+      "options": [
+        "germs",
+        "exercise",
+        "elbow"
+      ]
+    }
+  ]
+}

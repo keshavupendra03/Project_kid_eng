@@ -7,7 +7,8 @@ import androidx.activity.SystemBarStyle
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import com.samjhoenglish.ui.SamjhoApp
-import com.samjhoenglish.ui.theme.SamjhoTheme
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.launch
 
 class MainActivity : ComponentActivity() {
     private val container get() = (application as SamjhoApplication).container
@@ -19,20 +20,29 @@ class MainActivity : ComponentActivity() {
             navigationBarStyle = SystemBarStyle.light(Color.TRANSPARENT, Color.TRANSPARENT),
         )
         setContent {
-            SamjhoTheme {
-                SamjhoApp(container)
-            }
+            SamjhoApp(container)
         }
     }
 
     override fun onStart() {
         super.onStart()
         container.studyTimer.resume()
+        syncSchool()
     }
 
     override fun onStop() {
         super.onStop()
         container.stopAudio()
         container.studyTimer.pause()
+        syncSchool()
+    }
+
+    /** Does nothing for children not connected to a school. Runs after study time has been saved. */
+    private fun syncSchool() {
+        container.appScope.launch {
+            delay(1_500)
+            // A failed send must never disturb a child's lesson. It is retried next time.
+            runCatching { container.school.syncAll() }
+        }
     }
 }

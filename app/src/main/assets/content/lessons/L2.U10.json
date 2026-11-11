@@ -63,10 +63,10 @@
           "hinglish": "chaawal"
         },
         {
-          "english": "egg",
-          "emoji": "🥚",
-          "hindi": "अंडा",
-          "hinglish": "anda"
+          "english": "water",
+          "emoji": "💧",
+          "hindi": "पानी",
+          "hinglish": "paani"
         },
         {
           "english": "bread",
@@ -75,10 +75,10 @@
           "hinglish": "double roti"
         },
         {
-          "english": "honey",
-          "emoji": "🍯",
-          "hindi": "शहद",
-          "hinglish": "shahad"
+          "english": "egg",
+          "emoji": "🥚",
+          "hindi": "अंडा",
+          "hinglish": "anda"
         }
       ]
     },
@@ -134,37 +134,34 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U10.S08",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.food"
       ],
-      "answer": "milk",
+      "word": {
+        "english": "milk",
+        "emoji": "🥛",
+        "hindi": "दूध",
+        "hinglish": "doodh"
+      },
+      "answer": {
+        "hi": "दूध",
+        "hinglish": "doodh"
+      },
       "options": [
         {
-          "english": "milk",
-          "emoji": "🥛",
-          "hindi": "दूध",
+          "hi": "दूध",
           "hinglish": "doodh"
         },
         {
-          "english": "tea",
-          "emoji": "🍵",
-          "hindi": "चाय",
-          "hinglish": "chai"
+          "hi": "चावल",
+          "hinglish": "chaawal"
         },
         {
-          "english": "water",
-          "emoji": "💧",
-          "hindi": "पानी",
+          "hi": "पानी",
           "hinglish": "paani"
-        },
-        {
-          "english": "bread",
-          "emoji": "🍞",
-          "hindi": "डबलरोटी",
-          "hinglish": "double roti"
         }
       ]
     },
@@ -179,8 +176,8 @@
       "answer": "egg",
       "options": [
         "egg",
-        "rice",
-        "water"
+        "tea",
+        "bread"
       ]
     },
     {
@@ -241,16 +238,16 @@
           "hinglish": "chai"
         },
         {
-          "english": "bread",
-          "emoji": "🍞",
-          "hindi": "डबलरोटी",
-          "hinglish": "double roti"
+          "english": "salt",
+          "emoji": "🧂",
+          "hindi": "नमक",
+          "hinglish": "namak"
         },
         {
-          "english": "egg",
-          "emoji": "🥚",
-          "hindi": "अंडा",
-          "hinglish": "anda"
+          "english": "rice",
+          "emoji": "🍚",
+          "hindi": "चावल",
+          "hinglish": "chaawal"
         }
       ]
     },
@@ -265,8 +262,8 @@
       "answer": "tea",
       "options": [
         "tea",
-        "egg",
-        "bread"
+        "water",
+        "salt"
       ]
     },
     {
@@ -327,10 +324,10 @@
           "hinglish": "paani"
         },
         {
-          "english": "tea",
-          "emoji": "🍵",
-          "hindi": "चाय",
-          "hinglish": "chai"
+          "english": "rice",
+          "emoji": "🍚",
+          "hindi": "चावल",
+          "hinglish": "chaawal"
         },
         {
           "english": "egg",
@@ -341,18 +338,17 @@
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U10.S17",
       "skills": [
         "read.word",
         "vocab.food"
       ],
-      "emoji": "🍯",
       "answer": "honey",
       "options": [
         "honey",
-        "rice",
-        "water"
+        "egg",
+        "salt"
       ]
     },
     {
@@ -363,27 +359,27 @@
         "vocab.food"
       ],
       "word": {
-        "english": "milk",
-        "emoji": "🥛",
-        "hindi": "दूध",
-        "hinglish": "doodh"
+        "english": "water",
+        "emoji": "💧",
+        "hindi": "पानी",
+        "hinglish": "paani"
       },
       "answer": {
-        "hi": "दूध",
-        "hinglish": "doodh"
+        "hi": "पानी",
+        "hinglish": "paani"
       },
       "options": [
-        {
-          "hi": "दूध",
-          "hinglish": "doodh"
-        },
         {
           "hi": "पानी",
           "hinglish": "paani"
         },
         {
-          "hi": "अंडा",
-          "hinglish": "anda"
+          "hi": "शहद",
+          "hinglish": "shahad"
+        },
+        {
+          "hi": "डबलरोटी",
+          "hinglish": "double roti"
         }
       ]
     },
@@ -410,12 +406,12 @@
           "hinglish": "anda"
         },
         {
-          "hi": "पानी",
-          "hinglish": "paani"
+          "hi": "नमक",
+          "hinglish": "namak"
         },
         {
-          "hi": "डबलरोटी",
-          "hinglish": "double roti"
+          "hi": "चाय",
+          "hinglish": "chai"
         }
       ]
     },

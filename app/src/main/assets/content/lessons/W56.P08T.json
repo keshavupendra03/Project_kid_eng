@@ -1,0 +1,203 @@
+{
+  "id": "W56.P08T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "spell_word",
+      "id": "W56.P08T.S01",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "rebuild",
+        "emoji": "🏗️",
+        "hindi": "फिर से बनाना",
+        "hinglish": "phir se banaana"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P08T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "unlock",
+        "emoji": "🔓",
+        "hindi": "ताला खोलना",
+        "hinglish": "taala kholna"
+      },
+      "answer": {
+        "hi": "ताला खोलना",
+        "hinglish": "taala kholna"
+      },
+      "options": [
+        {
+          "hi": "ताला खोलना",
+          "hinglish": "taala kholna"
+        },
+        {
+          "hi": "गायब होना",
+          "hinglish": "gaayab hona"
+        },
+        {
+          "hi": "लौटाना",
+          "hinglish": "lautaana"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P08T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I ___ bitter food.",
+      "answer": "dislike",
+      "options": [
+        "dislike",
+        "rebuild",
+        "disagree"
+      ],
+      "meaning": {
+        "hi": "नापसंद करना",
+        "hinglish": "naapasand karna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P08T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "disappear",
+      "options": [
+        "disappear",
+        "dislike",
+        "rebuild"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P08T.S05",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "reuse",
+        "emoji": "♻️",
+        "hindi": "फिर से इस्तेमाल करना",
+        "hinglish": "phir se istemaal karna"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P08T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "disagree",
+        "emoji": "🙅",
+        "hindi": "असहमत होना",
+        "hinglish": "asahmat hona"
+      },
+      "answer": {
+        "hi": "असहमत होना",
+        "hinglish": "asahmat hona"
+      },
+      "options": [
+        {
+          "hi": "असहमत होना",
+          "hinglish": "asahmat hona"
+        },
+        {
+          "hi": "फिर से बनाना",
+          "hinglish": "phir se banaana"
+        },
+        {
+          "hi": "ताला खोलना",
+          "hinglish": "taala kholna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P08T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Please ___ this answer neatly.",
+      "answer": "rewrite",
+      "options": [
+        "rewrite",
+        "unhappy",
+        "unkind"
+      ],
+      "meaning": {
+        "hi": "फिर से लिखना",
+        "hinglish": "phir se likhna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P08T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "unkind",
+      "options": [
+        "unkind",
+        "unhappy",
+        "return"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P08T.S09",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "return",
+        "emoji": "↩️",
+        "hindi": "लौटाना",
+        "hinglish": "lautaana"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P08T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "unhappy",
+        "emoji": "😞",
+        "hindi": "दुखी",
+        "hinglish": "dukhi"
+      },
+      "answer": {
+        "hi": "दुखी",
+        "hinglish": "dukhi"
+      },
+      "options": [
+        {
+          "hi": "दुखी",
+          "hinglish": "dukhi"
+        },
+        {
+          "hi": "फिर से बनाना",
+          "hinglish": "phir se banaana"
+        },
+        {
+          "hi": "ताला खोलना",
+          "hinglish": "taala kholna"
+        }
+      ]
+    }
+  ]
+}

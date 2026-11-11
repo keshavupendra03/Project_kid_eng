@@ -1,0 +1,465 @@
+{
+  "id": "L2.U38",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U38.S01",
+      "text": {
+        "hi": "रसोई का सामान।",
+        "hinglish": "Rasoi ka saamaan.",
+        "en": "Food in the kitchen."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U38.S02",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘butter’ मतलब ‘मक्खन’।",
+        "hinglish": "‘butter’ matlab ‘makkhan’.",
+        "en": "Say it with me: butter!"
+      },
+      "word": {
+        "english": "butter",
+        "emoji": "🧈",
+        "hindi": "मक्खन",
+        "hinglish": "makkhan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U38.S03",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘curd’ मतलब ‘दही’।",
+        "hinglish": "‘curd’ matlab ‘dahi’.",
+        "en": "Say it with me: curd!"
+      },
+      "word": {
+        "english": "curd",
+        "hindi": "दही",
+        "hinglish": "dahi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U38.S04",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "butter",
+      "options": [
+        {
+          "english": "butter",
+          "emoji": "🧈",
+          "hindi": "मक्खन",
+          "hinglish": "makkhan"
+        },
+        {
+          "english": "oil",
+          "emoji": "🛢️",
+          "hindi": "तेल",
+          "hinglish": "tel"
+        },
+        {
+          "english": "meat",
+          "emoji": "🍖",
+          "hindi": "मांस",
+          "hinglish": "maans"
+        },
+        {
+          "english": "sweets",
+          "emoji": "🍬",
+          "hindi": "मिठाई",
+          "hinglish": "mithaai"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U38.S05",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "curd",
+      "options": [
+        "curd",
+        "flour",
+        "sweets"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U38.S06",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘oil’ मतलब ‘तेल’।",
+        "hinglish": "‘oil’ matlab ‘tel’.",
+        "en": "Say it with me: oil!"
+      },
+      "word": {
+        "english": "oil",
+        "emoji": "🛢️",
+        "hindi": "तेल",
+        "hinglish": "tel"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U38.S07",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘sugar’ मतलब ‘चीनी’।",
+        "hinglish": "‘sugar’ matlab ‘cheeni’.",
+        "en": "Say it with me: sugar!"
+      },
+      "word": {
+        "english": "sugar",
+        "hindi": "चीनी",
+        "hinglish": "cheeni"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U38.S08",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "oil",
+      "options": [
+        {
+          "english": "oil",
+          "emoji": "🛢️",
+          "hindi": "तेल",
+          "hinglish": "tel"
+        },
+        {
+          "english": "sweets",
+          "emoji": "🍬",
+          "hindi": "मिठाई",
+          "hinglish": "mithaai"
+        },
+        {
+          "english": "butter",
+          "emoji": "🧈",
+          "hindi": "मक्खन",
+          "hinglish": "makkhan"
+        },
+        {
+          "english": "meat",
+          "emoji": "🍖",
+          "hindi": "मांस",
+          "hinglish": "maans"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U38.S09",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "sugar",
+      "options": [
+        "sugar",
+        "sweets",
+        "butter"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U38.S10",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘flour’ मतलब ‘आटा’।",
+        "hinglish": "‘flour’ matlab ‘aata’.",
+        "en": "Say it with me: flour!"
+      },
+      "word": {
+        "english": "flour",
+        "hindi": "आटा",
+        "hinglish": "aata"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U38.S11",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘lentils’ मतलब ‘दाल’।",
+        "hinglish": "‘lentils’ matlab ‘daal’.",
+        "en": "Say it with me: lentils!"
+      },
+      "word": {
+        "english": "lentils",
+        "hindi": "दाल",
+        "hinglish": "daal"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U38.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "flour",
+        "hindi": "आटा",
+        "hinglish": "aata"
+      },
+      "answer": {
+        "hi": "आटा",
+        "hinglish": "aata"
+      },
+      "options": [
+        {
+          "hi": "आटा",
+          "hinglish": "aata"
+        },
+        {
+          "hi": "मांस",
+          "hinglish": "maans"
+        },
+        {
+          "hi": "तेल",
+          "hinglish": "tel"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U38.S13",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "lentils",
+      "options": [
+        "lentils",
+        "sweets",
+        "flour"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U38.S14",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘meat’ मतलब ‘मांस’।",
+        "hinglish": "‘meat’ matlab ‘maans’.",
+        "en": "Say it with me: meat!"
+      },
+      "word": {
+        "english": "meat",
+        "emoji": "🍖",
+        "hindi": "मांस",
+        "hinglish": "maans"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U38.S15",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘sweets’ मतलब ‘मिठाई’।",
+        "hinglish": "‘sweets’ matlab ‘mithaai’.",
+        "en": "Say it with me: sweets!"
+      },
+      "word": {
+        "english": "sweets",
+        "emoji": "🍬",
+        "hindi": "मिठाई",
+        "hinglish": "mithaai"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U38.S16",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "meat",
+      "options": [
+        {
+          "english": "meat",
+          "emoji": "🍖",
+          "hindi": "मांस",
+          "hinglish": "maans"
+        },
+        {
+          "english": "sweets",
+          "emoji": "🍬",
+          "hindi": "मिठाई",
+          "hinglish": "mithaai"
+        },
+        {
+          "english": "butter",
+          "emoji": "🧈",
+          "hindi": "मक्खन",
+          "hinglish": "makkhan"
+        },
+        {
+          "english": "oil",
+          "emoji": "🛢️",
+          "hindi": "तेल",
+          "hinglish": "tel"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U38.S17",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍬",
+      "answer": "sweets",
+      "options": [
+        "sweets",
+        "sugar",
+        "flour"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U38.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "sugar",
+        "hindi": "चीनी",
+        "hinglish": "cheeni"
+      },
+      "answer": {
+        "hi": "चीनी",
+        "hinglish": "cheeni"
+      },
+      "options": [
+        {
+          "hi": "चीनी",
+          "hinglish": "cheeni"
+        },
+        {
+          "hi": "मांस",
+          "hinglish": "maans"
+        },
+        {
+          "hi": "तेल",
+          "hinglish": "tel"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U38.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "sweets",
+        "emoji": "🍬",
+        "hindi": "मिठाई",
+        "hinglish": "mithaai"
+      },
+      "answer": {
+        "hi": "मिठाई",
+        "hinglish": "mithaai"
+      },
+      "options": [
+        {
+          "hi": "मिठाई",
+          "hinglish": "mithaai"
+        },
+        {
+          "hi": "मांस",
+          "hinglish": "maans"
+        },
+        {
+          "hi": "आटा",
+          "hinglish": "aata"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U38.S20",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "oil",
+        "emoji": "🛢️",
+        "hindi": "तेल",
+        "hinglish": "tel"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U38.S21",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "meat",
+        "emoji": "🍖",
+        "hindi": "मांस",
+        "hinglish": "maans"
+      },
+      "accept": [
+        "meet"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U38.S22",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "flour",
+      "options": [
+        "flour",
+        "butter",
+        "sweets"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U38.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: butter, curd, oil, sugar, flour, lentils, meat, sweets।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: butter, curd, oil, sugar, flour, lentils, meat, sweets.",
+        "en": "Well done! Today's new words: butter, curd, oil, sugar, flour, lentils, meat, sweets."
+      }
+    }
+  ]
+}

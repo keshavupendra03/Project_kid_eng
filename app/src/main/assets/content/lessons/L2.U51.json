@@ -1,0 +1,450 @@
+{
+  "id": "L2.U51",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U51.S01",
+      "text": {
+        "hi": "हाथों से होने वाले काम।",
+        "hinglish": "Haathon se hone waale kaam.",
+        "en": "Things we do with our hands."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U51.S02",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘buy’ मतलब ‘ख़रीदना’।",
+        "hinglish": "‘buy’ matlab ‘khareedna’.",
+        "en": "Say it with me: buy!"
+      },
+      "word": {
+        "english": "buy",
+        "hindi": "ख़रीदना",
+        "hinglish": "khareedna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U51.S03",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘sell’ मतलब ‘बेचना’।",
+        "hinglish": "‘sell’ matlab ‘bechna’.",
+        "en": "Say it with me: sell!"
+      },
+      "word": {
+        "english": "sell",
+        "hindi": "बेचना",
+        "hinglish": "bechna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U51.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "buy",
+        "hindi": "ख़रीदना",
+        "hinglish": "khareedna"
+      },
+      "answer": {
+        "hi": "ख़रीदना",
+        "hinglish": "khareedna"
+      },
+      "options": [
+        {
+          "hi": "ख़रीदना",
+          "hinglish": "khareedna"
+        },
+        {
+          "hi": "उठाकर ले जाना",
+          "hinglish": "uthaakar le jaana"
+        },
+        {
+          "hi": "काटना",
+          "hinglish": "kaatna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U51.S05",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "sell",
+      "options": [
+        "sell",
+        "push",
+        "break"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U51.S06",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘make’ मतलब ‘बनाना’।",
+        "hinglish": "‘make’ matlab ‘banaana’.",
+        "en": "Say it with me: make!"
+      },
+      "word": {
+        "english": "make",
+        "hindi": "बनाना",
+        "hinglish": "banaana"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U51.S07",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘break’ मतलब ‘तोड़ना’।",
+        "hinglish": "‘break’ matlab ‘todna’.",
+        "en": "Say it with me: break!"
+      },
+      "word": {
+        "english": "break",
+        "hindi": "तोड़ना",
+        "hinglish": "todna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U51.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "make",
+        "hindi": "बनाना",
+        "hinglish": "banaana"
+      },
+      "answer": {
+        "hi": "बनाना",
+        "hinglish": "banaana"
+      },
+      "options": [
+        {
+          "hi": "बनाना",
+          "hinglish": "banaana"
+        },
+        {
+          "hi": "उठाकर ले जाना",
+          "hinglish": "uthaakar le jaana"
+        },
+        {
+          "hi": "तोड़ना",
+          "hinglish": "todna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U51.S09",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "break",
+      "options": [
+        "break",
+        "buy",
+        "sell"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U51.S10",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘cut’ मतलब ‘काटना’।",
+        "hinglish": "‘cut’ matlab ‘kaatna’.",
+        "en": "Say it with me: cut!"
+      },
+      "word": {
+        "english": "cut",
+        "emoji": "✂️",
+        "hindi": "काटना",
+        "hinglish": "kaatna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U51.S11",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘push’ मतलब ‘धक्का देना’।",
+        "hinglish": "‘push’ matlab ‘dhakka dena’.",
+        "en": "Say it with me: push!"
+      },
+      "word": {
+        "english": "push",
+        "hindi": "धक्का देना",
+        "hinglish": "dhakka dena"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U51.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "cut",
+        "emoji": "✂️",
+        "hindi": "काटना",
+        "hinglish": "kaatna"
+      },
+      "answer": {
+        "hi": "काटना",
+        "hinglish": "kaatna"
+      },
+      "options": [
+        {
+          "hi": "काटना",
+          "hinglish": "kaatna"
+        },
+        {
+          "hi": "उठाकर ले जाना",
+          "hinglish": "uthaakar le jaana"
+        },
+        {
+          "hi": "बेचना",
+          "hinglish": "bechna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U51.S13",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "push",
+      "options": [
+        "push",
+        "break",
+        "make"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U51.S14",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘pull’ मतलब ‘खींचना’।",
+        "hinglish": "‘pull’ matlab ‘kheenchna’.",
+        "en": "Say it with me: pull!"
+      },
+      "word": {
+        "english": "pull",
+        "hindi": "खींचना",
+        "hinglish": "kheenchna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U51.S15",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘carry’ मतलब ‘उठाकर ले जाना’।",
+        "hinglish": "‘carry’ matlab ‘uthaakar le jaana’.",
+        "en": "Say it with me: carry!"
+      },
+      "word": {
+        "english": "carry",
+        "hindi": "उठाकर ले जाना",
+        "hinglish": "uthaakar le jaana"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U51.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "pull",
+        "hindi": "खींचना",
+        "hinglish": "kheenchna"
+      },
+      "answer": {
+        "hi": "खींचना",
+        "hinglish": "kheenchna"
+      },
+      "options": [
+        {
+          "hi": "खींचना",
+          "hinglish": "kheenchna"
+        },
+        {
+          "hi": "उठाकर ले जाना",
+          "hinglish": "uthaakar le jaana"
+        },
+        {
+          "hi": "ख़रीदना",
+          "hinglish": "khareedna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U51.S17",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "carry",
+      "options": [
+        "carry",
+        "cut",
+        "pull"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U51.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "pull",
+        "hindi": "खींचना",
+        "hinglish": "kheenchna"
+      },
+      "answer": {
+        "hi": "खींचना",
+        "hinglish": "kheenchna"
+      },
+      "options": [
+        {
+          "hi": "खींचना",
+          "hinglish": "kheenchna"
+        },
+        {
+          "hi": "उठाकर ले जाना",
+          "hinglish": "uthaakar le jaana"
+        },
+        {
+          "hi": "धक्का देना",
+          "hinglish": "dhakka dena"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U51.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "cut",
+        "emoji": "✂️",
+        "hindi": "काटना",
+        "hinglish": "kaatna"
+      },
+      "answer": {
+        "hi": "काटना",
+        "hinglish": "kaatna"
+      },
+      "options": [
+        {
+          "hi": "काटना",
+          "hinglish": "kaatna"
+        },
+        {
+          "hi": "खींचना",
+          "hinglish": "kheenchna"
+        },
+        {
+          "hi": "बनाना",
+          "hinglish": "banaana"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U51.S20",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "cut",
+        "emoji": "✂️",
+        "hindi": "काटना",
+        "hinglish": "kaatna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U51.S21",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "buy",
+        "hindi": "ख़रीदना",
+        "hinglish": "khareedna"
+      },
+      "accept": [
+        "by",
+        "bye"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U51.S22",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "sell",
+      "options": [
+        "sell",
+        "carry",
+        "break"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U51.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: buy, sell, make, break, cut, push, pull, carry।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: buy, sell, make, break, cut, push, pull, carry.",
+        "en": "Well done! Today's new words: buy, sell, make, break, cut, push, pull, carry."
+      }
+    }
+  ]
+}

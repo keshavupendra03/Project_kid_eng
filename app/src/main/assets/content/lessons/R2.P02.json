@@ -1,0 +1,139 @@
+{
+  "id": "R2.P02",
+  "level": 102,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R2.P02.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Lunch Time’ (लंच टाइम)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Lunch Time’ (Lunch time). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Lunch Time’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P02.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘lunch’ मतलब दोपहर का खाना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘lunch’ matlab dopahar ka khana. Chhookar suno, phir bolo.",
+        "en": "‘lunch’ means दोपहर का खाना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "lunch",
+        "emoji": "🍱",
+        "hindi": "दोपहर का खाना",
+        "hinglish": "dopahar ka khana"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P02.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘box’ मतलब डिब्बा। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘box’ matlab dibba. Chhookar suno, phir bolo.",
+        "en": "‘box’ means डिब्बा. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "box",
+        "emoji": "📦",
+        "hindi": "डिब्बा",
+        "hinglish": "dibba"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P02.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘share’ मतलब बाँटना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘share’ matlab baantna. Chhookar suno, phir bolo.",
+        "en": "‘share’ means बाँटना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "share",
+        "emoji": "🤝",
+        "hindi": "बाँटना",
+        "hinglish": "baantna"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R2.P02.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "लंच टाइम",
+        "hinglish": "Lunch time",
+        "en": "Lunch Time"
+      },
+      "sentences": [
+        "It is lunch time.",
+        "Meera opens her lunch box.",
+        "She has roti and dal.",
+        "She shares with Neha.",
+        "Yum, yum!"
+      ],
+      "words": [
+        {
+          "english": "lunch",
+          "emoji": "🍱",
+          "hindi": "दोपहर का खाना",
+          "hinglish": "dopahar ka khana"
+        },
+        {
+          "english": "box",
+          "emoji": "📦",
+          "hindi": "डिब्बा",
+          "hinglish": "dibba"
+        },
+        {
+          "english": "share",
+          "emoji": "🤝",
+          "hindi": "बाँटना",
+          "hinglish": "baantna"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P02.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "मीरा के डिब्बे में क्या है?",
+        "hinglish": "Meera ke dibbe mein kya hai?",
+        "en": "What is in Meera's lunch box?"
+      },
+      "options": [
+        "roti and dal",
+        "rice and fish",
+        "cake"
+      ],
+      "answer": "roti and dal"
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P02.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "मीरा किसके साथ बाँटती है?",
+        "hinglish": "Meera kiske saath baantti hai?",
+        "en": "Who does Meera share with?"
+      },
+      "options": [
+        "Neha",
+        "Asha",
+        "Ravi"
+      ],
+      "answer": "Neha"
+    }
+  ]
+}

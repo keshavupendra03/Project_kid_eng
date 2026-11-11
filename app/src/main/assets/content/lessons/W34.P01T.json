@@ -1,0 +1,207 @@
+{
+  "id": "W34.P01T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "match_meaning",
+      "id": "W34.P01T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "practice",
+        "emoji": "✍️",
+        "hindi": "अभ्यास",
+        "hinglish": "abhyaas"
+      },
+      "answer": {
+        "hi": "अभ्यास",
+        "hinglish": "abhyaas"
+      },
+      "options": [
+        {
+          "hi": "अभ्यास",
+          "hinglish": "abhyaas"
+        },
+        {
+          "hi": "गैरहाज़िर",
+          "hinglish": "gairhaazir"
+        },
+        {
+          "hi": "जवाब",
+          "hinglish": "jawaab"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P01T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Our school ___ has many story books.",
+      "answer": "library",
+      "options": [
+        "library",
+        "neat",
+        "absent"
+      ],
+      "meaning": {
+        "hi": "पुस्तकालय",
+        "hinglish": "pustakaalay"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P01T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "neat",
+      "options": [
+        "neat",
+        "timetable",
+        "borrow"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P01T.S04",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "explain",
+        "emoji": "🧑‍🏫",
+        "hindi": "समझाना",
+        "hinglish": "samjhana"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P01T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "remember",
+        "emoji": "🧠",
+        "hindi": "याद रखना",
+        "hinglish": "yaad rakhna"
+      },
+      "answer": {
+        "hi": "याद रखना",
+        "hinglish": "yaad rakhna"
+      },
+      "options": [
+        {
+          "hi": "याद रखना",
+          "hinglish": "yaad rakhna"
+        },
+        {
+          "hi": "जवाब",
+          "hinglish": "jawaab"
+        },
+        {
+          "hi": "समझाना",
+          "hinglish": "samjhana"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P01T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Can I ___ your eraser?",
+      "answer": "borrow",
+      "options": [
+        "borrow",
+        "remember",
+        "timetable"
+      ],
+      "meaning": {
+        "hi": "उधार लेना",
+        "hinglish": "udhaar lena"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P01T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "absent",
+      "options": [
+        "absent",
+        "explain",
+        "practice"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P01T.S08",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "lend",
+        "emoji": "🤝",
+        "hindi": "उधार देना",
+        "hinglish": "udhaar dena"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P01T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "timetable",
+        "emoji": "🗓️",
+        "hindi": "समय-सारणी",
+        "hinglish": "samay-saarni"
+      },
+      "answer": {
+        "hi": "समय-सारणी",
+        "hinglish": "samay-saarni"
+      },
+      "options": [
+        {
+          "hi": "समय-सारणी",
+          "hinglish": "samay-saarni"
+        },
+        {
+          "hi": "पुस्तकालय",
+          "hinglish": "pustakaalay"
+        },
+        {
+          "hi": "जवाब",
+          "hinglish": "jawaab"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P01T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I know the ___ to this question.",
+      "answer": "answer",
+      "options": [
+        "answer",
+        "explain",
+        "library"
+      ],
+      "meaning": {
+        "hi": "जवाब",
+        "hinglish": "jawaab"
+      }
+    }
+  ]
+}

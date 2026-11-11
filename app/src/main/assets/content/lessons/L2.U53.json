@@ -1,0 +1,458 @@
+{
+  "id": "L2.U53",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U53.S01",
+      "text": {
+        "hi": "रोज़ सुबह से शाम तक के काम।",
+        "hinglish": "Roz subah se shaam tak ke kaam.",
+        "en": "Things we do from morning to evening."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U53.S02",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘wake’ मतलब ‘जागना’।",
+        "hinglish": "‘wake’ matlab ‘jaagna’.",
+        "en": "Say it with me: wake!"
+      },
+      "word": {
+        "english": "wake",
+        "hindi": "जागना",
+        "hinglish": "jaagna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U53.S03",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘bathe’ मतलब ‘नहाना’।",
+        "hinglish": "‘bathe’ matlab ‘nahaana’.",
+        "en": "Say it with me: bathe!"
+      },
+      "word": {
+        "english": "bathe",
+        "emoji": "🛀",
+        "hindi": "नहाना",
+        "hinglish": "nahaana"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U53.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "wake",
+        "hindi": "जागना",
+        "hinglish": "jaagna"
+      },
+      "answer": {
+        "hi": "जागना",
+        "hinglish": "jaagna"
+      },
+      "options": [
+        {
+          "hi": "जागना",
+          "hinglish": "jaagna"
+        },
+        {
+          "hi": "कंघी करना",
+          "hinglish": "kanghi karna"
+        },
+        {
+          "hi": "इंतज़ार करना",
+          "hinglish": "intezaar karna"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U53.S05",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "emoji": "🛀",
+      "answer": "bathe",
+      "options": [
+        "bathe",
+        "wait",
+        "clean"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U53.S06",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘brush’ मतलब ‘ब्रश करना’।",
+        "hinglish": "‘brush’ matlab ‘brush karna’.",
+        "en": "Say it with me: brush!"
+      },
+      "word": {
+        "english": "brush",
+        "hindi": "ब्रश करना",
+        "hinglish": "brush karna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U53.S07",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘comb’ मतलब ‘कंघी करना’।",
+        "hinglish": "‘comb’ matlab ‘kanghi karna’.",
+        "en": "Say it with me: comb!"
+      },
+      "word": {
+        "english": "comb",
+        "hindi": "कंघी करना",
+        "hinglish": "kanghi karna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U53.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "brush",
+        "hindi": "ब्रश करना",
+        "hinglish": "brush karna"
+      },
+      "answer": {
+        "hi": "ब्रश करना",
+        "hinglish": "brush karna"
+      },
+      "options": [
+        {
+          "hi": "ब्रश करना",
+          "hinglish": "brush karna"
+        },
+        {
+          "hi": "ढूँढना",
+          "hinglish": "dhoondhna"
+        },
+        {
+          "hi": "जागना",
+          "hinglish": "jaagna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U53.S09",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "comb",
+      "options": [
+        "comb",
+        "clean",
+        "brush"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U53.S10",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘paint’ मतलब ‘रंग भरना’।",
+        "hinglish": "‘paint’ matlab ‘rang bharna’.",
+        "en": "Say it with me: paint!"
+      },
+      "word": {
+        "english": "paint",
+        "emoji": "🎨",
+        "hindi": "रंग भरना",
+        "hinglish": "rang bharna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U53.S11",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘clean’ मतलब ‘साफ़ करना’।",
+        "hinglish": "‘clean’ matlab ‘saaf karna’.",
+        "en": "Say it with me: clean!"
+      },
+      "word": {
+        "english": "clean",
+        "emoji": "🧹",
+        "hindi": "साफ़ करना",
+        "hinglish": "saaf karna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U53.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "paint",
+        "emoji": "🎨",
+        "hindi": "रंग भरना",
+        "hinglish": "rang bharna"
+      },
+      "answer": {
+        "hi": "रंग भरना",
+        "hinglish": "rang bharna"
+      },
+      "options": [
+        {
+          "hi": "रंग भरना",
+          "hinglish": "rang bharna"
+        },
+        {
+          "hi": "जागना",
+          "hinglish": "jaagna"
+        },
+        {
+          "hi": "इंतज़ार करना",
+          "hinglish": "intezaar karna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U53.S13",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "clean",
+      "options": [
+        "clean",
+        "find",
+        "comb"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U53.S14",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘wait’ मतलब ‘इंतज़ार करना’।",
+        "hinglish": "‘wait’ matlab ‘intezaar karna’.",
+        "en": "Say it with me: wait!"
+      },
+      "word": {
+        "english": "wait",
+        "emoji": "⏳",
+        "hindi": "इंतज़ार करना",
+        "hinglish": "intezaar karna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U53.S15",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘find’ मतलब ‘ढूँढना’।",
+        "hinglish": "‘find’ matlab ‘dhoondhna’.",
+        "en": "Say it with me: find!"
+      },
+      "word": {
+        "english": "find",
+        "emoji": "🔍",
+        "hindi": "ढूँढना",
+        "hinglish": "dhoondhna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U53.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "wait",
+        "emoji": "⏳",
+        "hindi": "इंतज़ार करना",
+        "hinglish": "intezaar karna"
+      },
+      "answer": {
+        "hi": "इंतज़ार करना",
+        "hinglish": "intezaar karna"
+      },
+      "options": [
+        {
+          "hi": "इंतज़ार करना",
+          "hinglish": "intezaar karna"
+        },
+        {
+          "hi": "रंग भरना",
+          "hinglish": "rang bharna"
+        },
+        {
+          "hi": "ब्रश करना",
+          "hinglish": "brush karna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U53.S17",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "find",
+      "options": [
+        "find",
+        "bathe",
+        "brush"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U53.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "comb",
+        "hindi": "कंघी करना",
+        "hinglish": "kanghi karna"
+      },
+      "answer": {
+        "hi": "कंघी करना",
+        "hinglish": "kanghi karna"
+      },
+      "options": [
+        {
+          "hi": "कंघी करना",
+          "hinglish": "kanghi karna"
+        },
+        {
+          "hi": "रंग भरना",
+          "hinglish": "rang bharna"
+        },
+        {
+          "hi": "साफ़ करना",
+          "hinglish": "saaf karna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U53.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "brush",
+        "hindi": "ब्रश करना",
+        "hinglish": "brush karna"
+      },
+      "answer": {
+        "hi": "ब्रश करना",
+        "hinglish": "brush karna"
+      },
+      "options": [
+        {
+          "hi": "ब्रश करना",
+          "hinglish": "brush karna"
+        },
+        {
+          "hi": "नहाना",
+          "hinglish": "nahaana"
+        },
+        {
+          "hi": "जागना",
+          "hinglish": "jaagna"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U53.S20",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "wait",
+        "emoji": "⏳",
+        "hindi": "इंतज़ार करना",
+        "hinglish": "intezaar karna"
+      },
+      "accept": [
+        "weight"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U53.S21",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "find",
+        "emoji": "🔍",
+        "hindi": "ढूँढना",
+        "hinglish": "dhoondhna"
+      },
+      "accept": [
+        "fined"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U53.S22",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "clean",
+      "options": [
+        "clean",
+        "wake",
+        "bathe"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U53.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: wake, bathe, brush, comb, paint, clean, wait, find।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: wake, bathe, brush, comb, paint, clean, wait, find.",
+        "en": "Well done! Today's new words: wake, bathe, brush, comb, paint, clean, wait, find."
+      }
+    }
+  ]
+}

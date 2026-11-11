@@ -1,0 +1,189 @@
+{
+  "id": "W56.P10T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "W56.P10T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Rest well and you will ___ soon.",
+      "answer": "recover",
+      "options": [
+        "recover",
+        "heart",
+        "skeleton"
+      ],
+      "meaning": {
+        "hi": "ठीक होना",
+        "hinglish": "theek hona"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P10T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "appetite",
+      "options": [
+        "appetite",
+        "muscle",
+        "vitamin"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P10T.S03",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "nutrition",
+        "emoji": "🥗",
+        "hindi": "पोषण",
+        "hinglish": "poshan"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P10T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lungs",
+        "emoji": "🫁",
+        "hindi": "फेफड़े",
+        "hinglish": "phephde"
+      },
+      "answer": {
+        "hi": "फेफड़े",
+        "hinglish": "phephde"
+      },
+      "options": [
+        {
+          "hi": "फेफड़े",
+          "hinglish": "phephde"
+        },
+        {
+          "hi": "पोषण",
+          "hinglish": "poshan"
+        },
+        {
+          "hi": "विटामिन",
+          "hinglish": "vitamin"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P10T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ keeps our body in shape.",
+      "answer": "skeleton",
+      "options": [
+        "skeleton",
+        "lungs",
+        "nutrition"
+      ],
+      "meaning": {
+        "hi": "कंकाल",
+        "hinglish": "kankaal"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P10T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "muscle",
+      "options": [
+        "muscle",
+        "lungs",
+        "hygiene"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P10T.S07",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "allergy",
+        "emoji": "🤧",
+        "hindi": "एलर्जी",
+        "hinglish": "allergy"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P10T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hygiene",
+        "emoji": "🧼",
+        "hindi": "साफ़-सफ़ाई",
+        "hinglish": "saaf-safaai"
+      },
+      "answer": {
+        "hi": "साफ़-सफ़ाई",
+        "hinglish": "saaf-safaai"
+      },
+      "options": [
+        {
+          "hi": "साफ़-सफ़ाई",
+          "hinglish": "saaf-safaai"
+        },
+        {
+          "hi": "दिल",
+          "hinglish": "dil"
+        },
+        {
+          "hi": "फेफड़े",
+          "hinglish": "phephde"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P10T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Oranges are rich in ___ C.",
+      "answer": "vitamin",
+      "options": [
+        "vitamin",
+        "appetite",
+        "heart"
+      ],
+      "meaning": {
+        "hi": "विटामिन",
+        "hinglish": "vitamin"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P10T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "heart",
+      "options": [
+        "heart",
+        "recover",
+        "vitamin"
+      ]
+    }
+  ]
+}

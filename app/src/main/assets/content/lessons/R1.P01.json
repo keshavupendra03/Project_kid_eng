@@ -1,0 +1,137 @@
+{
+  "id": "R1.P01",
+  "level": 101,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R1.P01.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Cat’ (बिल्ली)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Cat’ (Billi). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Cat’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P01.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘cat’ मतलब बिल्ली। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘cat’ matlab billi. Chhookar suno, phir bolo.",
+        "en": "‘cat’ means बिल्ली. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "cat",
+        "emoji": "🐱",
+        "hindi": "बिल्ली",
+        "hinglish": "billi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P01.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘fat’ मतलब मोटी। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘fat’ matlab moti. Chhookar suno, phir bolo.",
+        "en": "‘fat’ means मोटी. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "fat",
+        "emoji": "🐷",
+        "hindi": "मोटी",
+        "hinglish": "moti"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P01.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘mat’ मतलब चटाई। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘mat’ matlab chatai. Chhookar suno, phir bolo.",
+        "en": "‘mat’ means चटाई. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "mat",
+        "emoji": "🟫",
+        "hindi": "चटाई",
+        "hinglish": "chatai"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R1.P01.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "बिल्ली",
+        "hinglish": "Billi",
+        "en": "The Cat"
+      },
+      "sentences": [
+        "Sam has a cat.",
+        "The cat is fat.",
+        "The cat sat on a mat."
+      ],
+      "words": [
+        {
+          "english": "cat",
+          "emoji": "🐱",
+          "hindi": "बिल्ली",
+          "hinglish": "billi"
+        },
+        {
+          "english": "fat",
+          "emoji": "🐷",
+          "hindi": "मोटी",
+          "hinglish": "moti"
+        },
+        {
+          "english": "mat",
+          "emoji": "🟫",
+          "hindi": "चटाई",
+          "hinglish": "chatai"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P01.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "सैम के पास क्या है?",
+        "hinglish": "Sam ke paas kya hai?",
+        "en": "What does Sam have?"
+      },
+      "options": [
+        "a cat",
+        "a dog",
+        "a hat"
+      ],
+      "answer": "a cat"
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P01.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बिल्ली कहाँ बैठी?",
+        "hinglish": "Billi kahan baithi?",
+        "en": "Where did the cat sit?"
+      },
+      "options": [
+        "on a mat",
+        "on a bus",
+        "in a bag"
+      ],
+      "answer": "on a mat"
+    }
+  ]
+}

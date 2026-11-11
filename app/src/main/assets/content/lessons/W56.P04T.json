@@ -1,0 +1,203 @@
+{
+  "id": "W56.P04T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "spell_word",
+      "id": "W56.P04T.S01",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "suggest",
+        "emoji": "💡",
+        "hindi": "सुझाव देना",
+        "hinglish": "sujhaav dena"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P04T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "request",
+        "emoji": "🙏",
+        "hindi": "अनुरोध करना",
+        "hinglish": "anurodh karna"
+      },
+      "answer": {
+        "hi": "अनुरोध करना",
+        "hinglish": "anurodh karna"
+      },
+      "options": [
+        {
+          "hi": "अनुरोध करना",
+          "hinglish": "anurodh karna"
+        },
+        {
+          "hi": "चर्चा करना",
+          "hinglish": "charcha karna"
+        },
+        {
+          "hi": "बहस करना",
+          "hinglish": "bahas karna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P04T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "It is rude to ___ others.",
+      "answer": "interrupt",
+      "options": [
+        "interrupt",
+        "reply",
+        "argue"
+      ],
+      "meaning": {
+        "hi": "बीच में टोकना",
+        "hinglish": "beech mein tokna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P04T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "whisper",
+      "options": [
+        "whisper",
+        "describe",
+        "suggest"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P04T.S05",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "discuss",
+        "emoji": "💬",
+        "hindi": "चर्चा करना",
+        "hinglish": "charcha karna"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P04T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "describe",
+        "emoji": "📝",
+        "hindi": "वर्णन करना",
+        "hinglish": "varnan karna"
+      },
+      "answer": {
+        "hi": "वर्णन करना",
+        "hinglish": "varnan karna"
+      },
+      "options": [
+        {
+          "hi": "वर्णन करना",
+          "hinglish": "varnan karna"
+        },
+        {
+          "hi": "फुसफुसाना",
+          "hinglish": "phusphusaana"
+        },
+        {
+          "hi": "बहस करना",
+          "hinglish": "bahas karna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P04T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Please ___ to my letter soon.",
+      "answer": "reply",
+      "options": [
+        "reply",
+        "interrupt",
+        "announce"
+      ],
+      "meaning": {
+        "hi": "उत्तर देना",
+        "hinglish": "uttar dena"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P04T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "argue",
+      "options": [
+        "argue",
+        "complain",
+        "announce"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P04T.S09",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "announce",
+        "emoji": "📢",
+        "hindi": "घोषणा करना",
+        "hinglish": "ghoshna karna"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P04T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "complain",
+        "emoji": "😒",
+        "hindi": "शिकायत करना",
+        "hinglish": "shikaayat karna"
+      },
+      "answer": {
+        "hi": "शिकायत करना",
+        "hinglish": "shikaayat karna"
+      },
+      "options": [
+        {
+          "hi": "शिकायत करना",
+          "hinglish": "shikaayat karna"
+        },
+        {
+          "hi": "सुझाव देना",
+          "hinglish": "sujhaav dena"
+        },
+        {
+          "hi": "उत्तर देना",
+          "hinglish": "uttar dena"
+        }
+      ]
+    }
+  ]
+}

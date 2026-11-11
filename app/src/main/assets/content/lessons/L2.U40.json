@@ -1,0 +1,464 @@
+{
+  "id": "L2.U40",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U40.S01",
+      "text": {
+        "hi": "और फल!",
+        "hinglish": "Aur phal!",
+        "en": "More fruits!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U40.S02",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘lemon’ मतलब ‘नींबू’।",
+        "hinglish": "‘lemon’ matlab ‘neemboo’.",
+        "en": "Say it with me: lemon!"
+      },
+      "word": {
+        "english": "lemon",
+        "emoji": "🍋",
+        "hindi": "नींबू",
+        "hinglish": "neemboo"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U40.S03",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘guava’ मतलब ‘अमरूद’।",
+        "hinglish": "‘guava’ matlab ‘amrood’.",
+        "en": "Say it with me: guava!"
+      },
+      "word": {
+        "english": "guava",
+        "hindi": "अमरूद",
+        "hinglish": "amrood"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U40.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "lemon",
+        "emoji": "🍋",
+        "hindi": "नींबू",
+        "hinglish": "neemboo"
+      },
+      "answer": {
+        "hi": "नींबू",
+        "hinglish": "neemboo"
+      },
+      "options": [
+        {
+          "hi": "नींबू",
+          "hinglish": "neemboo"
+        },
+        {
+          "hi": "अनार",
+          "hinglish": "anaar"
+        },
+        {
+          "hi": "नाशपाती",
+          "hinglish": "naashpaati"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U40.S05",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "guava",
+      "options": [
+        "guava",
+        "papaya",
+        "strawberry"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U40.S06",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘papaya’ मतलब ‘पपीता’।",
+        "hinglish": "‘papaya’ matlab ‘papeeta’.",
+        "en": "Say it with me: papaya!"
+      },
+      "word": {
+        "english": "papaya",
+        "hindi": "पपीता",
+        "hinglish": "papeeta"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U40.S07",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘pomegranate’ मतलब ‘अनार’।",
+        "hinglish": "‘pomegranate’ matlab ‘anaar’.",
+        "en": "Say it with me: pomegranate!"
+      },
+      "word": {
+        "english": "pomegranate",
+        "hindi": "अनार",
+        "hinglish": "anaar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U40.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "papaya",
+        "hindi": "पपीता",
+        "hinglish": "papeeta"
+      },
+      "answer": {
+        "hi": "पपीता",
+        "hinglish": "papeeta"
+      },
+      "options": [
+        {
+          "hi": "पपीता",
+          "hinglish": "papeeta"
+        },
+        {
+          "hi": "नाशपाती",
+          "hinglish": "naashpaati"
+        },
+        {
+          "hi": "स्ट्रॉबेरी",
+          "hinglish": "strawberry"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U40.S09",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "pomegranate",
+      "options": [
+        "pomegranate",
+        "pear",
+        "peach"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U40.S10",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘cherry’ मतलब ‘चेरी’।",
+        "hinglish": "‘cherry’ matlab ‘cherry’.",
+        "en": "Say it with me: cherry!"
+      },
+      "word": {
+        "english": "cherry",
+        "emoji": "🍒",
+        "hindi": "चेरी",
+        "hinglish": "cherry"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U40.S11",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘strawberry’ मतलब ‘स्ट्रॉबेरी’।",
+        "hinglish": "‘strawberry’ matlab ‘strawberry’.",
+        "en": "Say it with me: strawberry!"
+      },
+      "word": {
+        "english": "strawberry",
+        "emoji": "🍓",
+        "hindi": "स्ट्रॉबेरी",
+        "hinglish": "strawberry"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U40.S12",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "cherry",
+      "options": [
+        {
+          "english": "cherry",
+          "emoji": "🍒",
+          "hindi": "चेरी",
+          "hinglish": "cherry"
+        },
+        {
+          "english": "strawberry",
+          "emoji": "🍓",
+          "hindi": "स्ट्रॉबेरी",
+          "hinglish": "strawberry"
+        },
+        {
+          "english": "peach",
+          "emoji": "🍑",
+          "hindi": "आड़ू",
+          "hinglish": "aadoo"
+        },
+        {
+          "english": "pear",
+          "emoji": "🍐",
+          "hindi": "नाशपाती",
+          "hinglish": "naashpaati"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U40.S13",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍓",
+      "answer": "strawberry",
+      "options": [
+        "strawberry",
+        "lemon",
+        "guava"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U40.S14",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘peach’ मतलब ‘आड़ू’।",
+        "hinglish": "‘peach’ matlab ‘aadoo’.",
+        "en": "Say it with me: peach!"
+      },
+      "word": {
+        "english": "peach",
+        "emoji": "🍑",
+        "hindi": "आड़ू",
+        "hinglish": "aadoo"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U40.S15",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘pear’ मतलब ‘नाशपाती’।",
+        "hinglish": "‘pear’ matlab ‘naashpaati’.",
+        "en": "Say it with me: pear!"
+      },
+      "word": {
+        "english": "pear",
+        "emoji": "🍐",
+        "hindi": "नाशपाती",
+        "hinglish": "naashpaati"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U40.S16",
+      "skills": [
+        "listen.word",
+        "vocab.food"
+      ],
+      "answer": "peach",
+      "options": [
+        {
+          "english": "peach",
+          "emoji": "🍑",
+          "hindi": "आड़ू",
+          "hinglish": "aadoo"
+        },
+        {
+          "english": "pear",
+          "emoji": "🍐",
+          "hindi": "नाशपाती",
+          "hinglish": "naashpaati"
+        },
+        {
+          "english": "strawberry",
+          "emoji": "🍓",
+          "hindi": "स्ट्रॉबेरी",
+          "hinglish": "strawberry"
+        },
+        {
+          "english": "cherry",
+          "emoji": "🍒",
+          "hindi": "चेरी",
+          "hinglish": "cherry"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U40.S17",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍐",
+      "answer": "pear",
+      "options": [
+        "pear",
+        "pomegranate",
+        "cherry"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U40.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "lemon",
+        "emoji": "🍋",
+        "hindi": "नींबू",
+        "hinglish": "neemboo"
+      },
+      "answer": {
+        "hi": "नींबू",
+        "hinglish": "neemboo"
+      },
+      "options": [
+        {
+          "hi": "नींबू",
+          "hinglish": "neemboo"
+        },
+        {
+          "hi": "अमरूद",
+          "hinglish": "amrood"
+        },
+        {
+          "hi": "स्ट्रॉबेरी",
+          "hinglish": "strawberry"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U40.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "guava",
+        "hindi": "अमरूद",
+        "hinglish": "amrood"
+      },
+      "answer": {
+        "hi": "अमरूद",
+        "hinglish": "amrood"
+      },
+      "options": [
+        {
+          "hi": "अमरूद",
+          "hinglish": "amrood"
+        },
+        {
+          "hi": "पपीता",
+          "hinglish": "papeeta"
+        },
+        {
+          "hi": "आड़ू",
+          "hinglish": "aadoo"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U40.S20",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "pear",
+        "emoji": "🍐",
+        "hindi": "नाशपाती",
+        "hinglish": "naashpaati"
+      },
+      "accept": [
+        "pair"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U40.S21",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "lemon",
+        "emoji": "🍋",
+        "hindi": "नींबू",
+        "hinglish": "neemboo"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U40.S22",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "papaya",
+      "options": [
+        "papaya",
+        "pear",
+        "pomegranate"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U40.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: lemon, guava, papaya, pomegranate, cherry, strawberry, peach, pear।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: lemon, guava, papaya, pomegranate, cherry, strawberry, peach, pear.",
+        "en": "Well done! Today's new words: lemon, guava, papaya, pomegranate, cherry, strawberry, peach, pear."
+      }
+    }
+  ]
+}

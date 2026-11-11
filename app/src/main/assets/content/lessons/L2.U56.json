@@ -1,0 +1,470 @@
+{
+  "id": "L2.U56",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U56.S01",
+      "text": {
+        "hi": "धरती पर क्या-क्या है?",
+        "hinglish": "Dharti par kya-kya hai?",
+        "en": "What is on the earth?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U56.S02",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘leaf’ मतलब ‘पत्ता’।",
+        "hinglish": "‘leaf’ matlab ‘patta’.",
+        "en": "Say it with me: leaf!"
+      },
+      "word": {
+        "english": "leaf",
+        "emoji": "🍃",
+        "hindi": "पत्ता",
+        "hinglish": "patta"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U56.S03",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘grass’ मतलब ‘घास’।",
+        "hinglish": "‘grass’ matlab ‘ghaas’.",
+        "en": "Say it with me: grass!"
+      },
+      "word": {
+        "english": "grass",
+        "hindi": "घास",
+        "hinglish": "ghaas"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U56.S04",
+      "skills": [
+        "listen.word",
+        "vocab.nature"
+      ],
+      "answer": "leaf",
+      "options": [
+        {
+          "english": "leaf",
+          "emoji": "🍃",
+          "hindi": "पत्ता",
+          "hinglish": "patta"
+        },
+        {
+          "english": "seed",
+          "emoji": "🌱",
+          "hindi": "बीज",
+          "hinglish": "beej"
+        },
+        {
+          "english": "earth",
+          "emoji": "🌏",
+          "hindi": "धरती",
+          "hinglish": "dharti"
+        },
+        {
+          "english": "forest",
+          "emoji": "🌲",
+          "hindi": "जंगल",
+          "hinglish": "jungle"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U56.S05",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "answer": "grass",
+      "options": [
+        "grass",
+        "leaf",
+        "earth"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U56.S06",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘seed’ मतलब ‘बीज’।",
+        "hinglish": "‘seed’ matlab ‘beej’.",
+        "en": "Say it with me: seed!"
+      },
+      "word": {
+        "english": "seed",
+        "emoji": "🌱",
+        "hindi": "बीज",
+        "hinglish": "beej"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U56.S07",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘fruit’ मतलब ‘फल’।",
+        "hinglish": "‘fruit’ matlab ‘phal’.",
+        "en": "Say it with me: fruit!"
+      },
+      "word": {
+        "english": "fruit",
+        "hindi": "फल",
+        "hinglish": "phal"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U56.S08",
+      "skills": [
+        "listen.word",
+        "vocab.nature"
+      ],
+      "answer": "seed",
+      "options": [
+        {
+          "english": "seed",
+          "emoji": "🌱",
+          "hindi": "बीज",
+          "hinglish": "beej"
+        },
+        {
+          "english": "earth",
+          "emoji": "🌏",
+          "hindi": "धरती",
+          "hinglish": "dharti"
+        },
+        {
+          "english": "forest",
+          "emoji": "🌲",
+          "hindi": "जंगल",
+          "hinglish": "jungle"
+        },
+        {
+          "english": "sand",
+          "emoji": "🏖️",
+          "hindi": "रेत",
+          "hinglish": "ret"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U56.S09",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "answer": "fruit",
+      "options": [
+        "fruit",
+        "earth",
+        "forest"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U56.S10",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘forest’ मतलब ‘जंगल’।",
+        "hinglish": "‘forest’ matlab ‘jungle’.",
+        "en": "Say it with me: forest!"
+      },
+      "word": {
+        "english": "forest",
+        "emoji": "🌲",
+        "hindi": "जंगल",
+        "hinglish": "jungle"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U56.S11",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘island’ मतलब ‘टापू’।",
+        "hinglish": "‘island’ matlab ‘taapoo’.",
+        "en": "Say it with me: island!"
+      },
+      "word": {
+        "english": "island",
+        "emoji": "🏝️",
+        "hindi": "टापू",
+        "hinglish": "taapoo"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U56.S12",
+      "skills": [
+        "listen.word",
+        "vocab.nature"
+      ],
+      "answer": "forest",
+      "options": [
+        {
+          "english": "forest",
+          "emoji": "🌲",
+          "hindi": "जंगल",
+          "hinglish": "jungle"
+        },
+        {
+          "english": "island",
+          "emoji": "🏝️",
+          "hindi": "टापू",
+          "hinglish": "taapoo"
+        },
+        {
+          "english": "earth",
+          "emoji": "🌏",
+          "hindi": "धरती",
+          "hinglish": "dharti"
+        },
+        {
+          "english": "leaf",
+          "emoji": "🍃",
+          "hindi": "पत्ता",
+          "hinglish": "patta"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U56.S13",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "emoji": "🏝️",
+      "answer": "island",
+      "options": [
+        "island",
+        "grass",
+        "fruit"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U56.S14",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘earth’ मतलब ‘धरती’।",
+        "hinglish": "‘earth’ matlab ‘dharti’.",
+        "en": "Say it with me: earth!"
+      },
+      "word": {
+        "english": "earth",
+        "emoji": "🌏",
+        "hindi": "धरती",
+        "hinglish": "dharti"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U56.S15",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘sand’ मतलब ‘रेत’।",
+        "hinglish": "‘sand’ matlab ‘ret’.",
+        "en": "Say it with me: sand!"
+      },
+      "word": {
+        "english": "sand",
+        "emoji": "🏖️",
+        "hindi": "रेत",
+        "hinglish": "ret"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U56.S16",
+      "skills": [
+        "listen.word",
+        "vocab.nature"
+      ],
+      "answer": "earth",
+      "options": [
+        {
+          "english": "earth",
+          "emoji": "🌏",
+          "hindi": "धरती",
+          "hinglish": "dharti"
+        },
+        {
+          "english": "forest",
+          "emoji": "🌲",
+          "hindi": "जंगल",
+          "hinglish": "jungle"
+        },
+        {
+          "english": "leaf",
+          "emoji": "🍃",
+          "hindi": "पत्ता",
+          "hinglish": "patta"
+        },
+        {
+          "english": "seed",
+          "emoji": "🌱",
+          "hindi": "बीज",
+          "hinglish": "beej"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U56.S17",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "emoji": "🏖️",
+      "answer": "sand",
+      "options": [
+        "sand",
+        "earth",
+        "grass"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U56.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "earth",
+        "emoji": "🌏",
+        "hindi": "धरती",
+        "hinglish": "dharti"
+      },
+      "answer": {
+        "hi": "धरती",
+        "hinglish": "dharti"
+      },
+      "options": [
+        {
+          "hi": "धरती",
+          "hinglish": "dharti"
+        },
+        {
+          "hi": "रेत",
+          "hinglish": "ret"
+        },
+        {
+          "hi": "घास",
+          "hinglish": "ghaas"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U56.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "forest",
+        "emoji": "🌲",
+        "hindi": "जंगल",
+        "hinglish": "jungle"
+      },
+      "answer": {
+        "hi": "जंगल",
+        "hinglish": "jungle"
+      },
+      "options": [
+        {
+          "hi": "जंगल",
+          "hinglish": "jungle"
+        },
+        {
+          "hi": "बीज",
+          "hinglish": "beej"
+        },
+        {
+          "hi": "घास",
+          "hinglish": "ghaas"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U56.S20",
+      "skills": [
+        "speak.word",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "leaf",
+        "emoji": "🍃",
+        "hindi": "पत्ता",
+        "hinglish": "patta"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U56.S21",
+      "skills": [
+        "speak.word",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "seed",
+        "emoji": "🌱",
+        "hindi": "बीज",
+        "hinglish": "beej"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U56.S22",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "answer": "island",
+      "options": [
+        "island",
+        "leaf",
+        "forest"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U56.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: leaf, grass, seed, fruit, forest, island, earth, sand।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: leaf, grass, seed, fruit, forest, island, earth, sand.",
+        "en": "Well done! Today's new words: leaf, grass, seed, fruit, forest, island, earth, sand."
+      }
+    }
+  ]
+}

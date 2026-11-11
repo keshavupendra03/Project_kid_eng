@@ -1,0 +1,460 @@
+{
+  "id": "L2.U48",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U48.S01",
+      "text": {
+        "hi": "पैसे और गिनती के शब्द।",
+        "hinglish": "Paise aur ginti ke shabd.",
+        "en": "Words for money and amounts."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U48.S02",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘ninety’ मतलब ‘नब्बे’।",
+        "hinglish": "‘ninety’ matlab ‘nabbe’.",
+        "en": "Say it with me: ninety!"
+      },
+      "word": {
+        "english": "ninety",
+        "emoji": "90",
+        "hindi": "नब्बे",
+        "hinglish": "nabbe"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U48.S03",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘thousand’ मतलब ‘हज़ार’।",
+        "hinglish": "‘thousand’ matlab ‘hazaar’.",
+        "en": "Say it with me: thousand!"
+      },
+      "word": {
+        "english": "thousand",
+        "emoji": "1000",
+        "hindi": "हज़ार",
+        "hinglish": "hazaar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U48.S04",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "ninety",
+      "options": [
+        {
+          "english": "ninety",
+          "emoji": "90",
+          "hindi": "नब्बे",
+          "hinglish": "nabbe"
+        },
+        {
+          "english": "thousand",
+          "emoji": "1000",
+          "hindi": "हज़ार",
+          "hinglish": "hazaar"
+        },
+        {
+          "english": "rupee",
+          "emoji": "₹",
+          "hindi": "रुपया",
+          "hinglish": "rupaya"
+        },
+        {
+          "english": "coin",
+          "emoji": "🪙",
+          "hindi": "सिक्का",
+          "hinglish": "sikka"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U48.S05",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "1000",
+      "answer": "thousand",
+      "options": [
+        "thousand",
+        "many",
+        "all"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U48.S06",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘rupee’ मतलब ‘रुपया’।",
+        "hinglish": "‘rupee’ matlab ‘rupaya’.",
+        "en": "Say it with me: rupee!"
+      },
+      "word": {
+        "english": "rupee",
+        "emoji": "₹",
+        "hindi": "रुपया",
+        "hinglish": "rupaya"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U48.S07",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘coin’ मतलब ‘सिक्का’।",
+        "hinglish": "‘coin’ matlab ‘sikka’.",
+        "en": "Say it with me: coin!"
+      },
+      "word": {
+        "english": "coin",
+        "emoji": "🪙",
+        "hindi": "सिक्का",
+        "hinglish": "sikka"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U48.S08",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "rupee",
+      "options": [
+        {
+          "english": "rupee",
+          "emoji": "₹",
+          "hindi": "रुपया",
+          "hinglish": "rupaya"
+        },
+        {
+          "english": "coin",
+          "emoji": "🪙",
+          "hindi": "सिक्का",
+          "hinglish": "sikka"
+        },
+        {
+          "english": "thousand",
+          "emoji": "1000",
+          "hindi": "हज़ार",
+          "hinglish": "hazaar"
+        },
+        {
+          "english": "ninety",
+          "emoji": "90",
+          "hindi": "नब्बे",
+          "hinglish": "nabbe"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U48.S09",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "🪙",
+      "answer": "coin",
+      "options": [
+        "coin",
+        "thousand",
+        "all"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U48.S10",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘money’ मतलब ‘पैसा’।",
+        "hinglish": "‘money’ matlab ‘paisa’.",
+        "en": "Say it with me: money!"
+      },
+      "word": {
+        "english": "money",
+        "emoji": "💰",
+        "hindi": "पैसा",
+        "hinglish": "paisa"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U48.S11",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘many’ मतलब ‘बहुत सारे’।",
+        "hinglish": "‘many’ matlab ‘bahut saare’.",
+        "en": "Say it with me: many!"
+      },
+      "word": {
+        "english": "many",
+        "hindi": "बहुत सारे",
+        "hinglish": "bahut saare"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U48.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "money",
+        "emoji": "💰",
+        "hindi": "पैसा",
+        "hinglish": "paisa"
+      },
+      "answer": {
+        "hi": "पैसा",
+        "hinglish": "paisa"
+      },
+      "options": [
+        {
+          "hi": "पैसा",
+          "hinglish": "paisa"
+        },
+        {
+          "hi": "हज़ार",
+          "hinglish": "hazaar"
+        },
+        {
+          "hi": "बहुत सारे",
+          "hinglish": "bahut saare"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U48.S13",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "answer": "many",
+      "options": [
+        "many",
+        "money",
+        "coin"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U48.S14",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘few’ मतलब ‘थोड़े’।",
+        "hinglish": "‘few’ matlab ‘thode’.",
+        "en": "Say it with me: few!"
+      },
+      "word": {
+        "english": "few",
+        "hindi": "थोड़े",
+        "hinglish": "thode"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U48.S15",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘all’ मतलब ‘सब’।",
+        "hinglish": "‘all’ matlab ‘sab’.",
+        "en": "Say it with me: all!"
+      },
+      "word": {
+        "english": "all",
+        "hindi": "सब",
+        "hinglish": "sab"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U48.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "few",
+        "hindi": "थोड़े",
+        "hinglish": "thode"
+      },
+      "answer": {
+        "hi": "थोड़े",
+        "hinglish": "thode"
+      },
+      "options": [
+        {
+          "hi": "थोड़े",
+          "hinglish": "thode"
+        },
+        {
+          "hi": "हज़ार",
+          "hinglish": "hazaar"
+        },
+        {
+          "hi": "सब",
+          "hinglish": "sab"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U48.S17",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "answer": "all",
+      "options": [
+        "all",
+        "money",
+        "few"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U48.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "all",
+        "hindi": "सब",
+        "hinglish": "sab"
+      },
+      "answer": {
+        "hi": "सब",
+        "hinglish": "sab"
+      },
+      "options": [
+        {
+          "hi": "सब",
+          "hinglish": "sab"
+        },
+        {
+          "hi": "नब्बे",
+          "hinglish": "nabbe"
+        },
+        {
+          "hi": "रुपया",
+          "hinglish": "rupaya"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U48.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "few",
+        "hindi": "थोड़े",
+        "hinglish": "thode"
+      },
+      "answer": {
+        "hi": "थोड़े",
+        "hinglish": "thode"
+      },
+      "options": [
+        {
+          "hi": "थोड़े",
+          "hinglish": "thode"
+        },
+        {
+          "hi": "नब्बे",
+          "hinglish": "nabbe"
+        },
+        {
+          "hi": "रुपया",
+          "hinglish": "rupaya"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U48.S20",
+      "skills": [
+        "speak.word",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "coin",
+        "emoji": "🪙",
+        "hindi": "सिक्का",
+        "hinglish": "sikka"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U48.S21",
+      "skills": [
+        "speak.word",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "rupee",
+        "emoji": "₹",
+        "hindi": "रुपया",
+        "hinglish": "rupaya"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U48.S22",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "answer": "rupee",
+      "options": [
+        "rupee",
+        "coin",
+        "few"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U48.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: ninety, thousand, rupee, coin, money, many, few, all।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: ninety, thousand, rupee, coin, money, many, few, all.",
+        "en": "Well done! Today's new words: ninety, thousand, rupee, coin, money, many, few, all."
+      }
+    }
+  ]
+}

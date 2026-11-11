@@ -1,0 +1,185 @@
+{
+  "id": "W56.P11T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "listen_read",
+      "id": "W56.P11T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "cheerful",
+      "options": [
+        "cheerful",
+        "jealous",
+        "furious"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P11T.S02",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "disappointed",
+        "emoji": "😞",
+        "hindi": "निराश",
+        "hinglish": "niraash"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P11T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "jealous",
+        "emoji": "😒",
+        "hindi": "जलन वाला",
+        "hinglish": "jalan waala"
+      },
+      "answer": {
+        "hi": "जलन वाला",
+        "hinglish": "jalan waala"
+      },
+      "options": [
+        {
+          "hi": "जलन वाला",
+          "hinglish": "jalan waala"
+        },
+        {
+          "hi": "बहुत गुस्सा",
+          "hinglish": "bahut gussa"
+        },
+        {
+          "hi": "शर्मिंदा",
+          "hinglish": "sharminda"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P11T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The loud noise ___ the baby.",
+      "answer": "frightened",
+      "options": [
+        "frightened",
+        "relieved",
+        "disappointed"
+      ],
+      "meaning": {
+        "hi": "डरा हुआ",
+        "hinglish": "dara hua"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P11T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "relieved",
+      "options": [
+        "relieved",
+        "grateful",
+        "furious"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P11T.S06",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "furious",
+        "emoji": "😡",
+        "hindi": "बहुत गुस्सा",
+        "hinglish": "bahut gussa"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P11T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "anxious",
+        "emoji": "😰",
+        "hindi": "बेचैन",
+        "hinglish": "bechain"
+      },
+      "answer": {
+        "hi": "बेचैन",
+        "hinglish": "bechain"
+      },
+      "options": [
+        {
+          "hi": "बेचैन",
+          "hinglish": "bechain"
+        },
+        {
+          "hi": "जलन वाला",
+          "hinglish": "jalan waala"
+        },
+        {
+          "hi": "कृतज्ञ",
+          "hinglish": "kritagya"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P11T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I was ___ when I fell on the stage.",
+      "answer": "embarrassed",
+      "options": [
+        "embarrassed",
+        "disappointed",
+        "furious"
+      ],
+      "meaning": {
+        "hi": "शर्मिंदा",
+        "hinglish": "sharminda"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P11T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "confused",
+      "options": [
+        "confused",
+        "anxious",
+        "disappointed"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P11T.S10",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "grateful",
+        "emoji": "🙏",
+        "hindi": "कृतज्ञ",
+        "hinglish": "kritagya"
+      },
+      "typed": true
+    }
+  ]
+}

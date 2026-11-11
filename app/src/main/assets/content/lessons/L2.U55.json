@@ -1,0 +1,464 @@
+{
+  "id": "L2.U55",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U55.S01",
+      "text": {
+        "hi": "पानी, हवा और आग।",
+        "hinglish": "Paani, hawa aur aag.",
+        "en": "Water, wind and fire."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U55.S02",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘river’ मतलब ‘नदी’।",
+        "hinglish": "‘river’ matlab ‘nadi’.",
+        "en": "Say it with me: river!"
+      },
+      "word": {
+        "english": "river",
+        "hindi": "नदी",
+        "hinglish": "nadi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U55.S03",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘sea’ मतलब ‘समुद्र’।",
+        "hinglish": "‘sea’ matlab ‘samudra’.",
+        "en": "Say it with me: sea!"
+      },
+      "word": {
+        "english": "sea",
+        "emoji": "🌊",
+        "hindi": "समुद्र",
+        "hinglish": "samudra"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U55.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "river",
+        "hindi": "नदी",
+        "hinglish": "nadi"
+      },
+      "answer": {
+        "hi": "नदी",
+        "hinglish": "nadi"
+      },
+      "options": [
+        {
+          "hi": "नदी",
+          "hinglish": "nadi"
+        },
+        {
+          "hi": "बर्फ़",
+          "hinglish": "barf"
+        },
+        {
+          "hi": "हवा",
+          "hinglish": "hawa"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U55.S05",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "emoji": "🌊",
+      "answer": "sea",
+      "options": [
+        "sea",
+        "stone",
+        "wind"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U55.S06",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘lake’ मतलब ‘झील’।",
+        "hinglish": "‘lake’ matlab ‘jheel’.",
+        "en": "Say it with me: lake!"
+      },
+      "word": {
+        "english": "lake",
+        "hindi": "झील",
+        "hinglish": "jheel"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U55.S07",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘sky’ मतलब ‘आसमान’।",
+        "hinglish": "‘sky’ matlab ‘aasmaan’.",
+        "en": "Say it with me: sky!"
+      },
+      "word": {
+        "english": "sky",
+        "hindi": "आसमान",
+        "hinglish": "aasmaan"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U55.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "lake",
+        "hindi": "झील",
+        "hinglish": "jheel"
+      },
+      "answer": {
+        "hi": "झील",
+        "hinglish": "jheel"
+      },
+      "options": [
+        {
+          "hi": "झील",
+          "hinglish": "jheel"
+        },
+        {
+          "hi": "आग",
+          "hinglish": "aag"
+        },
+        {
+          "hi": "समुद्र",
+          "hinglish": "samudra"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U55.S09",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "answer": "sky",
+      "options": [
+        "sky",
+        "snow",
+        "river"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U55.S10",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘wind’ मतलब ‘हवा’।",
+        "hinglish": "‘wind’ matlab ‘hawa’.",
+        "en": "Say it with me: wind!"
+      },
+      "word": {
+        "english": "wind",
+        "emoji": "💨",
+        "hindi": "हवा",
+        "hinglish": "hawa"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U55.S11",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘fire’ मतलब ‘आग’।",
+        "hinglish": "‘fire’ matlab ‘aag’.",
+        "en": "Say it with me: fire!"
+      },
+      "word": {
+        "english": "fire",
+        "emoji": "🔥",
+        "hindi": "आग",
+        "hinglish": "aag"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U55.S12",
+      "skills": [
+        "listen.word",
+        "vocab.nature"
+      ],
+      "answer": "wind",
+      "options": [
+        {
+          "english": "wind",
+          "emoji": "💨",
+          "hindi": "हवा",
+          "hinglish": "hawa"
+        },
+        {
+          "english": "sea",
+          "emoji": "🌊",
+          "hindi": "समुद्र",
+          "hinglish": "samudra"
+        },
+        {
+          "english": "stone",
+          "emoji": "🪨",
+          "hindi": "पत्थर",
+          "hinglish": "patthar"
+        },
+        {
+          "english": "snow",
+          "emoji": "❄️",
+          "hindi": "बर्फ़",
+          "hinglish": "barf"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U55.S13",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "answer": "fire",
+      "options": [
+        "fire",
+        "sea",
+        "river"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U55.S14",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘snow’ मतलब ‘बर्फ़’।",
+        "hinglish": "‘snow’ matlab ‘barf’.",
+        "en": "Say it with me: snow!"
+      },
+      "word": {
+        "english": "snow",
+        "emoji": "❄️",
+        "hindi": "बर्फ़",
+        "hinglish": "barf"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U55.S15",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "‘stone’ मतलब ‘पत्थर’।",
+        "hinglish": "‘stone’ matlab ‘patthar’.",
+        "en": "Say it with me: stone!"
+      },
+      "word": {
+        "english": "stone",
+        "emoji": "🪨",
+        "hindi": "पत्थर",
+        "hinglish": "patthar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U55.S16",
+      "skills": [
+        "listen.word",
+        "vocab.nature"
+      ],
+      "answer": "snow",
+      "options": [
+        {
+          "english": "snow",
+          "emoji": "❄️",
+          "hindi": "बर्फ़",
+          "hinglish": "barf"
+        },
+        {
+          "english": "wind",
+          "emoji": "💨",
+          "hindi": "हवा",
+          "hinglish": "hawa"
+        },
+        {
+          "english": "stone",
+          "emoji": "🪨",
+          "hindi": "पत्थर",
+          "hinglish": "patthar"
+        },
+        {
+          "english": "sea",
+          "emoji": "🌊",
+          "hindi": "समुद्र",
+          "hinglish": "samudra"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U55.S17",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "emoji": "🪨",
+      "answer": "stone",
+      "options": [
+        "stone",
+        "snow",
+        "river"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U55.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "wind",
+        "emoji": "💨",
+        "hindi": "हवा",
+        "hinglish": "hawa"
+      },
+      "answer": {
+        "hi": "हवा",
+        "hinglish": "hawa"
+      },
+      "options": [
+        {
+          "hi": "हवा",
+          "hinglish": "hawa"
+        },
+        {
+          "hi": "झील",
+          "hinglish": "jheel"
+        },
+        {
+          "hi": "आसमान",
+          "hinglish": "aasmaan"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U55.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "snow",
+        "emoji": "❄️",
+        "hindi": "बर्फ़",
+        "hinglish": "barf"
+      },
+      "answer": {
+        "hi": "बर्फ़",
+        "hinglish": "barf"
+      },
+      "options": [
+        {
+          "hi": "बर्फ़",
+          "hinglish": "barf"
+        },
+        {
+          "hi": "नदी",
+          "hinglish": "nadi"
+        },
+        {
+          "hi": "हवा",
+          "hinglish": "hawa"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U55.S20",
+      "skills": [
+        "speak.word",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "sea",
+        "emoji": "🌊",
+        "hindi": "समुद्र",
+        "hinglish": "samudra"
+      },
+      "accept": [
+        "see"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U55.S21",
+      "skills": [
+        "speak.word",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "wind",
+        "emoji": "💨",
+        "hindi": "हवा",
+        "hinglish": "hawa"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U55.S22",
+      "skills": [
+        "read.word",
+        "vocab.nature"
+      ],
+      "answer": "lake",
+      "options": [
+        "lake",
+        "fire",
+        "sea"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U55.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: river, sea, lake, sky, wind, fire, snow, stone।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: river, sea, lake, sky, wind, fire, snow, stone.",
+        "en": "Well done! Today's new words: river, sea, lake, sky, wind, fire, snow, stone."
+      }
+    }
+  ]
+}

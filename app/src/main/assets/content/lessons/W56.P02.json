@@ -1,0 +1,480 @@
+{
+  "id": "W56.P02",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P02.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: पर्यावरण। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Paryaavaran. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Environment. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P02.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "environment",
+        "emoji": "🌍",
+        "hindi": "पर्यावरण",
+        "hinglish": "paryaavaran"
+      },
+      "meaning": "the air, water, land, plants and animals around us",
+      "example": "We must keep our environment clean.",
+      "exampleMeaning": {
+        "hi": "हमें अपना पर्यावरण साफ़ रखना चाहिए।",
+        "hinglish": "Hamein apna paryaavaran saaf rakhna chahiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P02.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "pollution",
+        "emoji": "🏭",
+        "hindi": "प्रदूषण",
+        "hinglish": "pradooshan"
+      },
+      "meaning": "making air, water or land dirty",
+      "example": "Smoke from factories causes pollution.",
+      "exampleMeaning": {
+        "hi": "कारखानों का धुआँ प्रदूषण फैलाता है।",
+        "hinglish": "Kaarkhaanon ka dhuaan pradooshan phailaata hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P02.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "recycle",
+        "emoji": "♻️",
+        "hindi": "दोबारा काम में लाना",
+        "hinglish": "dobaara kaam mein laana"
+      },
+      "meaning": "to make used things into new things",
+      "example": "We recycle old paper to make new paper.",
+      "exampleMeaning": {
+        "hi": "हम पुराने कागज़ से नया कागज़ बनाते हैं।",
+        "hinglish": "Hum puraane kaagaz se naya kaagaz banaate hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P02.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "waste",
+        "emoji": "🚱",
+        "hindi": "बर्बाद करना",
+        "hinglish": "barbaad karna"
+      },
+      "meaning": "to use more than you need",
+      "example": "Do not waste water.",
+      "exampleMeaning": {
+        "hi": "पानी बर्बाद मत करो।",
+        "hinglish": "Paani barbaad mat karo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P02.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "plastic",
+        "emoji": "🛍️",
+        "hindi": "प्लास्टिक",
+        "hinglish": "plastic"
+      },
+      "meaning": "a light material used to make bags and bottles",
+      "example": "Plastic bags can harm animals.",
+      "exampleMeaning": {
+        "hi": "प्लास्टिक की थैलियाँ जानवरों को नुकसान पहुँचा सकती हैं।",
+        "hinglish": "Plastic ki thailiyaan jaanwaron ko nuksaan pahuncha sakti hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P02.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "garbage",
+        "emoji": "🚮",
+        "hindi": "कूड़ा",
+        "hinglish": "kooda"
+      },
+      "meaning": "things that are thrown away",
+      "example": "Put the garbage in the dustbin.",
+      "exampleMeaning": {
+        "hi": "कूड़ा कूड़ेदान में डालो।",
+        "hinglish": "Kooda koodedaan mein daalo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P02.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "conserve",
+        "emoji": "💧",
+        "hindi": "बचाना",
+        "hinglish": "bachaana"
+      },
+      "meaning": "to use carefully so that it lasts long",
+      "example": "We must conserve water in summer.",
+      "exampleMeaning": {
+        "hi": "गर्मियों में हमें पानी बचाना चाहिए।",
+        "hinglish": "Garmiyon mein hamein paani bachaana chahiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P02.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "climate",
+        "emoji": "🌡️",
+        "hindi": "जलवायु",
+        "hinglish": "jalvaayu"
+      },
+      "meaning": "the usual weather of a place over many years",
+      "example": "The climate of Kerala is warm and wet.",
+      "exampleMeaning": {
+        "hi": "केरल की जलवायु गर्म और नम है।",
+        "hinglish": "Kerala ki jalvaayu garam aur nam hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P02.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "wildlife",
+        "emoji": "🐅",
+        "hindi": "वन्यजीव",
+        "hinglish": "vanyajeev"
+      },
+      "meaning": "animals and birds that live free in nature",
+      "example": "The national park protects wildlife.",
+      "exampleMeaning": {
+        "hi": "नेशनल पार्क वन्यजीवों की रक्षा करता है।",
+        "hinglish": "National park vanyajeevon ki raksha karta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P02.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "protect",
+        "emoji": "🛡️",
+        "hindi": "रक्षा करना",
+        "hinglish": "raksha karna"
+      },
+      "meaning": "to keep safe from harm",
+      "example": "We should protect our forests.",
+      "exampleMeaning": {
+        "hi": "हमें अपने जंगलों की रक्षा करनी चाहिए।",
+        "hinglish": "Hamein apne jangalon ki raksha karni chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P02.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Do not ___ water.",
+      "answer": "waste",
+      "options": [
+        "waste",
+        "conserve",
+        "protect"
+      ],
+      "meaning": {
+        "hi": "बर्बाद करना",
+        "hinglish": "barbaad karna"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P02.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ of Kerala is warm and wet.",
+      "answer": "climate",
+      "options": [
+        "climate",
+        "protect",
+        "recycle"
+      ],
+      "meaning": {
+        "hi": "जलवायु",
+        "hinglish": "jalvaayu"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P02.S14",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "environment",
+        "emoji": "🌍",
+        "hindi": "पर्यावरण",
+        "hinglish": "paryaavaran"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P02.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "plastic",
+        "emoji": "🛍️",
+        "hindi": "प्लास्टिक",
+        "hinglish": "plastic"
+      },
+      "answer": {
+        "hi": "प्लास्टिक",
+        "hinglish": "plastic"
+      },
+      "options": [
+        {
+          "hi": "प्लास्टिक",
+          "hinglish": "plastic"
+        },
+        {
+          "hi": "कूड़ा",
+          "hinglish": "kooda"
+        },
+        {
+          "hi": "बचाना",
+          "hinglish": "bachaana"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P02.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "protect",
+      "options": [
+        "protect",
+        "environment",
+        "recycle"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P02.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "conserve",
+        "emoji": "💧",
+        "hindi": "बचाना",
+        "hinglish": "bachaana"
+      },
+      "answer": {
+        "hi": "बचाना",
+        "hinglish": "bachaana"
+      },
+      "options": [
+        {
+          "hi": "बचाना",
+          "hinglish": "bachaana"
+        },
+        {
+          "hi": "दोबारा काम में लाना",
+          "hinglish": "dobaara kaam mein laana"
+        },
+        {
+          "hi": "प्लास्टिक",
+          "hinglish": "plastic"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P02.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "recycle",
+        "emoji": "♻️",
+        "hindi": "दोबारा काम में लाना",
+        "hinglish": "dobaara kaam mein laana"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P02.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "environment",
+        "emoji": "🌍",
+        "hindi": "पर्यावरण",
+        "hinglish": "paryaavaran"
+      },
+      "answer": {
+        "hi": "पर्यावरण",
+        "hinglish": "paryaavaran"
+      },
+      "options": [
+        {
+          "hi": "पर्यावरण",
+          "hinglish": "paryaavaran"
+        },
+        {
+          "hi": "प्रदूषण",
+          "hinglish": "pradooshan"
+        },
+        {
+          "hi": "दोबारा काम में लाना",
+          "hinglish": "dobaara kaam mein laana"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P02.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "wildlife",
+      "options": [
+        "wildlife",
+        "waste",
+        "conserve"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P02.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "recycle",
+        "emoji": "♻️",
+        "hindi": "दोबारा काम में लाना",
+        "hinglish": "dobaara kaam mein laana"
+      },
+      "answer": {
+        "hi": "दोबारा काम में लाना",
+        "hinglish": "dobaara kaam mein laana"
+      },
+      "options": [
+        {
+          "hi": "दोबारा काम में लाना",
+          "hinglish": "dobaara kaam mein laana"
+        },
+        {
+          "hi": "बर्बाद करना",
+          "hinglish": "barbaad karna"
+        },
+        {
+          "hi": "पर्यावरण",
+          "hinglish": "paryaavaran"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P02.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Smoke from factories causes ___.",
+      "answer": "pollution",
+      "options": [
+        "pollution",
+        "garbage",
+        "recycle"
+      ],
+      "meaning": {
+        "hi": "प्रदूषण",
+        "hinglish": "pradooshan"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P02.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Put the ___ in the dustbin.",
+      "answer": "garbage",
+      "options": [
+        "garbage",
+        "pollution",
+        "waste"
+      ],
+      "meaning": {
+        "hi": "कूड़ा",
+        "hinglish": "kooda"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P02.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "pollution",
+        "emoji": "🏭",
+        "hindi": "प्रदूषण",
+        "hinglish": "pradooshan"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P02.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "waste",
+        "emoji": "🚱",
+        "hindi": "बर्बाद करना",
+        "hinglish": "barbaad karna"
+      }
+    }
+  ]
+}

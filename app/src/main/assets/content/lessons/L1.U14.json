@@ -1,0 +1,338 @@
+{
+  "id": "L1.U14",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U14.S01",
+      "text": {
+        "hi": "कुछ अक्षरों की एक दूसरी आवाज़ भी होती है। चलो सुनते हैं!",
+        "hinglish": "Kuch akshron ki ek doosri awaaz bhi hoti hai. Chalo sunte hain!",
+        "en": "Some letters have a second sound too. Let's listen!"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U14.S02",
+      "skills": [
+        "sound.th"
+      ],
+      "letters": "th",
+      "sound": "c22_th_this",
+      "hint": "द",
+      "text": {
+        "hi": "‘th’ की एक और आवाज़ है! जीभ दाँतों के बीच रखो और गले से बोलो, जैसे this और mother में।",
+        "hinglish": "‘th’ ki ek aur awaaz hai! Jeebh daanton ke beech rakho aur gale se bolo, jaise this aur mother mein.",
+        "en": "‘th’ has another sound! Put your tongue between your teeth and use your voice, as in this and mother."
+      },
+      "example": {
+        "english": "mother",
+        "emoji": "👩",
+        "hindi": "माँ",
+        "hinglish": "maa"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U14.S03",
+      "skills": [
+        "phonics.oo_short"
+      ],
+      "letters": "oo",
+      "sound": "v06_oo_book",
+      "hint": "उ",
+      "text": {
+        "hi": "कभी-कभी ‘oo’ छोटा बोलता है: उ, जैसे book में। moon वाला ‘ऊ’ लंबा है।",
+        "hinglish": "Kabhi-kabhi ‘oo’ chhota bolta hai: u, jaise book mein. Moon waala ‘oo’ lamba hai.",
+        "en": "Sometimes ‘oo’ is short, as in book. The ‘oo’ in moon is long."
+      },
+      "example": {
+        "english": "book",
+        "emoji": "📖",
+        "hindi": "किताब",
+        "hinglish": "kitaab"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U14.S04",
+      "skills": [
+        "listen.word",
+        "phonics.oo_short"
+      ],
+      "answer": "book",
+      "options": [
+        "book",
+        "mother"
+      ]
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U14.S05",
+      "skills": [
+        "phonics.zh"
+      ],
+      "letters": "si",
+      "sound": "c24_zh",
+      "hint": "झ",
+      "text": {
+        "hi": "यह नरम आवाज़ है, ‘झ’ जैसी पर हल्की। जैसे television के ‘si’ में।",
+        "hinglish": "Yeh naram awaaz hai, ‘jha’ jaisi par halki. Jaise television ke ‘si’ mein.",
+        "en": "This is a soft sound, as in the ‘si’ of television."
+      },
+      "example": {
+        "english": "television",
+        "emoji": "📺",
+        "hindi": "टीवी",
+        "hinglish": "TV"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U14.S06",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "mother",
+        "emoji": "👩",
+        "hindi": "माँ",
+        "hinglish": "maa"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U14.S07",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "book",
+        "emoji": "📖",
+        "hindi": "किताब",
+        "hinglish": "kitaab"
+      }
+    },
+    {
+      "type": "blend",
+      "id": "L1.U14.S08",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "this",
+      "emoji": "👇",
+      "parts": [
+        {
+          "letters": "th",
+          "sound": "c22_th_this"
+        },
+        {
+          "letters": "i",
+          "sound": "v03_i_ink"
+        },
+        {
+          "letters": "s",
+          "sound": "c13_s"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U14.S09",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "that",
+      "emoji": "👉",
+      "parts": [
+        {
+          "letters": "th",
+          "sound": "c22_th_this"
+        },
+        {
+          "letters": "a",
+          "sound": "v01_a_apple"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U14.S10",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "answer": "that",
+      "options": [
+        "that",
+        "cook",
+        "foot"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U14.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "book",
+      "emoji": "📖",
+      "parts": [
+        {
+          "letters": "b",
+          "sound": "c01_b"
+        },
+        {
+          "letters": "oo",
+          "sound": "v06_oo_book"
+        },
+        {
+          "letters": "k",
+          "sound": "c07_k"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U14.S12",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "foot",
+      "emoji": "🦶",
+      "parts": [
+        {
+          "letters": "f",
+          "sound": "c03_f"
+        },
+        {
+          "letters": "oo",
+          "sound": "v06_oo_book"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U14.S13",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🦶",
+      "answer": "foot",
+      "options": [
+        "foot",
+        "that",
+        "book"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U14.S14",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "cook",
+      "emoji": "🍳",
+      "parts": [
+        {
+          "letters": "c",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "oo",
+          "sound": "v06_oo_book"
+        },
+        {
+          "letters": "k",
+          "sound": "c07_k"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U14.S15",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "look",
+      "emoji": "👀",
+      "parts": [
+        {
+          "letters": "l",
+          "sound": "c08_l"
+        },
+        {
+          "letters": "oo",
+          "sound": "v06_oo_book"
+        },
+        {
+          "letters": "k",
+          "sound": "c07_k"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U14.S16",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "answer": "look",
+      "options": [
+        "look",
+        "book",
+        "this"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U14.S17",
+      "skills": [
+        "listen.minimal_pair",
+        "sound.th"
+      ],
+      "answer": "they",
+      "options": [
+        "they",
+        "day"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U14.S18",
+      "skills": [
+        "listen.minimal_pair"
+      ],
+      "answer": "pull",
+      "options": [
+        "pull",
+        "pool"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U14.S19",
+      "text": {
+        "hi": "बढ़िया! एक ही अक्षर, दो आवाज़ें। अब तुम्हें दोनों पता हैं!",
+        "hinglish": "Badhiya! Ek hi akshar, do awaazein. Ab tumhe dono pata hain!",
+        "en": "Great! One spelling, two sounds. Now you know both!"
+      }
+    }
+  ]
+}

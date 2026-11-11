@@ -1,0 +1,480 @@
+{
+  "id": "W56.P04",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P04.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: बातचीत। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Baatcheet. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Communication. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P04.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "discuss",
+        "emoji": "💬",
+        "hindi": "चर्चा करना",
+        "hinglish": "charcha karna"
+      },
+      "meaning": "to talk about something with others",
+      "example": "Let us discuss the story in groups.",
+      "exampleMeaning": {
+        "hi": "चलो, समूह में कहानी पर चर्चा करें।",
+        "hinglish": "Chalo, samooh mein kahani par charcha karein."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P04.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "describe",
+        "emoji": "📝",
+        "hindi": "वर्णन करना",
+        "hinglish": "varnan karna"
+      },
+      "meaning": "to say what something is like",
+      "example": "Describe your best friend in five lines.",
+      "exampleMeaning": {
+        "hi": "अपने सबसे अच्छे दोस्त का पाँच लाइनों में वर्णन करो।",
+        "hinglish": "Apne sabse achhe dost ka paanch lines mein varnan karo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P04.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "announce",
+        "emoji": "📢",
+        "hindi": "घोषणा करना",
+        "hinglish": "ghoshna karna"
+      },
+      "meaning": "to tell many people about something",
+      "example": "The principal will announce the results.",
+      "exampleMeaning": {
+        "hi": "प्रधानाचार्य नतीजों की घोषणा करेंगे।",
+        "hinglish": "Pradhaanaachaarya nateejon ki ghoshna karenge."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P04.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "argue",
+        "emoji": "🗯️",
+        "hindi": "बहस करना",
+        "hinglish": "bahas karna"
+      },
+      "meaning": "to talk angrily because you do not agree",
+      "example": "The brothers argue about the TV remote.",
+      "exampleMeaning": {
+        "hi": "भाई टीवी के रिमोट को लेकर बहस करते हैं।",
+        "hinglish": "Bhai TV ke remote ko lekar bahas karte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P04.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "whisper",
+        "emoji": "🤫",
+        "hindi": "फुसफुसाना",
+        "hinglish": "phusphusaana"
+      },
+      "meaning": "to speak very softly",
+      "example": "Do not whisper during the test.",
+      "exampleMeaning": {
+        "hi": "टेस्ट के दौरान फुसफुसाओ मत।",
+        "hinglish": "Test ke dauraan phusphusao mat."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P04.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "complain",
+        "emoji": "😒",
+        "hindi": "शिकायत करना",
+        "hinglish": "shikaayat karna"
+      },
+      "meaning": "to say that you are not happy about something",
+      "example": "He did not complain about the long walk.",
+      "exampleMeaning": {
+        "hi": "उसने लंबी पैदल यात्रा की शिकायत नहीं की।",
+        "hinglish": "Usne lambi paidal yaatra ki shikaayat nahi ki."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P04.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "suggest",
+        "emoji": "💡",
+        "hindi": "सुझाव देना",
+        "hinglish": "sujhaav dena"
+      },
+      "meaning": "to give an idea",
+      "example": "Can you suggest a good book?",
+      "exampleMeaning": {
+        "hi": "क्या तुम कोई अच्छी किताब सुझा सकते हो?",
+        "hinglish": "Kya tum koi achhi kitaab sujha sakte ho?"
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P04.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "request",
+        "emoji": "🙏",
+        "hindi": "अनुरोध करना",
+        "hinglish": "anurodh karna"
+      },
+      "meaning": "to ask politely",
+      "example": "I request you to close the window.",
+      "exampleMeaning": {
+        "hi": "मेरा अनुरोध है कि खिड़की बंद कर दीजिए।",
+        "hinglish": "Mera anurodh hai ki khidki band kar deejiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P04.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "reply",
+        "emoji": "↩️",
+        "hindi": "उत्तर देना",
+        "hinglish": "uttar dena"
+      },
+      "meaning": "to answer a letter or a message",
+      "example": "Please reply to my letter soon.",
+      "exampleMeaning": {
+        "hi": "प्लीज़ मेरी चिट्ठी का जल्दी जवाब देना।",
+        "hinglish": "Please meri chitthi ka jaldi jawaab dena."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P04.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "interrupt",
+        "emoji": "✋",
+        "hindi": "बीच में टोकना",
+        "hinglish": "beech mein tokna"
+      },
+      "meaning": "to stop someone while they are speaking",
+      "example": "It is rude to interrupt others.",
+      "exampleMeaning": {
+        "hi": "दूसरों को बीच में टोकना अच्छी बात नहीं है।",
+        "hinglish": "Doosron ko beech mein tokna achhi baat nahi hai."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P04.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "whisper",
+        "emoji": "🤫",
+        "hindi": "फुसफुसाना",
+        "hinglish": "phusphusaana"
+      },
+      "answer": {
+        "hi": "फुसफुसाना",
+        "hinglish": "phusphusaana"
+      },
+      "options": [
+        {
+          "hi": "फुसफुसाना",
+          "hinglish": "phusphusaana"
+        },
+        {
+          "hi": "बहस करना",
+          "hinglish": "bahas karna"
+        },
+        {
+          "hi": "शिकायत करना",
+          "hinglish": "shikaayat karna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P04.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "discuss",
+        "emoji": "💬",
+        "hindi": "चर्चा करना",
+        "hinglish": "charcha karna"
+      },
+      "answer": {
+        "hi": "चर्चा करना",
+        "hinglish": "charcha karna"
+      },
+      "options": [
+        {
+          "hi": "चर्चा करना",
+          "hinglish": "charcha karna"
+        },
+        {
+          "hi": "बहस करना",
+          "hinglish": "bahas karna"
+        },
+        {
+          "hi": "शिकायत करना",
+          "hinglish": "shikaayat karna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P04.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The brothers ___ about the TV remote.",
+      "answer": "argue",
+      "options": [
+        "argue",
+        "discuss",
+        "whisper"
+      ],
+      "meaning": {
+        "hi": "बहस करना",
+        "hinglish": "bahas karna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P04.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "describe",
+        "emoji": "📝",
+        "hindi": "वर्णन करना",
+        "hinglish": "varnan karna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P04.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "interrupt",
+      "options": [
+        "interrupt",
+        "discuss",
+        "argue"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P04.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ your best friend in five lines.",
+      "answer": "describe",
+      "options": [
+        "describe",
+        "reply",
+        "interrupt"
+      ],
+      "meaning": {
+        "hi": "वर्णन करना",
+        "hinglish": "varnan karna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P04.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "announce",
+        "emoji": "📢",
+        "hindi": "घोषणा करना",
+        "hinglish": "ghoshna karna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P04.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "suggest",
+        "emoji": "💡",
+        "hindi": "सुझाव देना",
+        "hinglish": "sujhaav dena"
+      },
+      "answer": {
+        "hi": "सुझाव देना",
+        "hinglish": "sujhaav dena"
+      },
+      "options": [
+        {
+          "hi": "सुझाव देना",
+          "hinglish": "sujhaav dena"
+        },
+        {
+          "hi": "अनुरोध करना",
+          "hinglish": "anurodh karna"
+        },
+        {
+          "hi": "शिकायत करना",
+          "hinglish": "shikaayat karna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P04.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "announce",
+        "emoji": "📢",
+        "hindi": "घोषणा करना",
+        "hinglish": "ghoshna karna"
+      },
+      "answer": {
+        "hi": "घोषणा करना",
+        "hinglish": "ghoshna karna"
+      },
+      "options": [
+        {
+          "hi": "घोषणा करना",
+          "hinglish": "ghoshna karna"
+        },
+        {
+          "hi": "सुझाव देना",
+          "hinglish": "sujhaav dena"
+        },
+        {
+          "hi": "अनुरोध करना",
+          "hinglish": "anurodh karna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P04.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "He did not ___ about the long walk.",
+      "answer": "complain",
+      "options": [
+        "complain",
+        "announce",
+        "describe"
+      ],
+      "meaning": {
+        "hi": "शिकायत करना",
+        "hinglish": "shikaayat karna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P04.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "argue",
+        "emoji": "🗯️",
+        "hindi": "बहस करना",
+        "hinglish": "bahas karna"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P04.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I ___ you to close the window.",
+      "answer": "request",
+      "options": [
+        "request",
+        "discuss",
+        "reply"
+      ],
+      "meaning": {
+        "hi": "अनुरोध करना",
+        "hinglish": "anurodh karna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P04.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "reply",
+      "options": [
+        "reply",
+        "suggest",
+        "describe"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P04.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "discuss",
+        "emoji": "💬",
+        "hindi": "चर्चा करना",
+        "hinglish": "charcha karna"
+      }
+    }
+  ]
+}

@@ -63,38 +63,37 @@
           "hinglish": "dukaan"
         },
         {
-          "english": "airport",
-          "emoji": "✈️",
-          "hindi": "हवाई अड्डा",
-          "hinglish": "hawaai adda"
+          "english": "bank",
+          "emoji": "🏦",
+          "hindi": "बैंक",
+          "hinglish": "bank"
         },
         {
-          "english": "garden",
-          "emoji": "🌳",
-          "hindi": "बगीचा",
-          "hinglish": "bageecha"
+          "english": "village",
+          "emoji": "🏘️",
+          "hindi": "गाँव",
+          "hinglish": "gaon"
         },
         {
-          "english": "market",
-          "emoji": "🛒",
-          "hindi": "बाज़ार",
-          "hinglish": "baazaar"
+          "english": "city",
+          "emoji": "🏙️",
+          "hindi": "शहर",
+          "hinglish": "shehar"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U22.S05",
       "skills": [
         "read.word",
         "vocab.places"
       ],
-      "emoji": "🌳",
       "answer": "garden",
       "options": [
         "garden",
-        "city",
-        "shop"
+        "shop",
+        "village"
       ]
     },
     {
@@ -149,22 +148,22 @@
           "hinglish": "bank"
         },
         {
-          "english": "garden",
-          "emoji": "🌳",
-          "hindi": "बगीचा",
-          "hinglish": "bageecha"
-        },
-        {
-          "english": "shop",
-          "emoji": "🏪",
-          "hindi": "दुकान",
-          "hinglish": "dukaan"
+          "english": "city",
+          "emoji": "🏙️",
+          "hindi": "शहर",
+          "hinglish": "shehar"
         },
         {
           "english": "village",
           "emoji": "🏘️",
           "hindi": "गाँव",
           "hinglish": "gaon"
+        },
+        {
+          "english": "shop",
+          "emoji": "🏪",
+          "hindi": "दुकान",
+          "hinglish": "dukaan"
         }
       ]
     },
@@ -179,8 +178,8 @@
       "answer": "market",
       "options": [
         "market",
-        "village",
-        "bank"
+        "garden",
+        "farm"
       ]
     },
     {
@@ -235,22 +234,22 @@
           "hinglish": "gaon"
         },
         {
-          "english": "shop",
-          "emoji": "🏪",
-          "hindi": "दुकान",
-          "hinglish": "dukaan"
+          "english": "market",
+          "emoji": "🛒",
+          "hindi": "बाज़ार",
+          "hinglish": "baazaar"
         },
         {
-          "english": "garden",
-          "emoji": "🌳",
-          "hindi": "बगीचा",
-          "hinglish": "bageecha"
+          "english": "farm",
+          "emoji": "🚜",
+          "hindi": "खेत",
+          "hinglish": "khet"
         },
         {
-          "english": "bank",
-          "emoji": "🏦",
-          "hindi": "बैंक",
-          "hinglish": "bank"
+          "english": "city",
+          "emoji": "🏙️",
+          "hindi": "शहर",
+          "hinglish": "shehar"
         }
       ]
     },
@@ -265,8 +264,8 @@
       "answer": "city",
       "options": [
         "city",
-        "bank",
-        "farm"
+        "village",
+        "bank"
       ]
     },
     {
@@ -321,38 +320,37 @@
           "hinglish": "khet"
         },
         {
-          "english": "village",
-          "emoji": "🏘️",
-          "hindi": "गाँव",
-          "hinglish": "gaon"
+          "english": "shop",
+          "emoji": "🏪",
+          "hindi": "दुकान",
+          "hinglish": "dukaan"
+        },
+        {
+          "english": "city",
+          "emoji": "🏙️",
+          "hindi": "शहर",
+          "hinglish": "shehar"
         },
         {
           "english": "bank",
           "emoji": "🏦",
           "hindi": "बैंक",
           "hinglish": "bank"
-        },
-        {
-          "english": "shop",
-          "emoji": "🏪",
-          "hindi": "दुकान",
-          "hinglish": "dukaan"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U22.S17",
       "skills": [
         "read.word",
         "vocab.places"
       ],
-      "emoji": "✈️",
       "answer": "airport",
       "options": [
         "airport",
-        "shop",
-        "market"
+        "city",
+        "farm"
       ]
     },
     {
@@ -363,27 +361,27 @@
         "vocab.places"
       ],
       "word": {
-        "english": "garden",
-        "emoji": "🌳",
-        "hindi": "बगीचा",
-        "hinglish": "bageecha"
+        "english": "bank",
+        "emoji": "🏦",
+        "hindi": "बैंक",
+        "hinglish": "bank"
       },
       "answer": {
-        "hi": "बगीचा",
-        "hinglish": "bageecha"
+        "hi": "बैंक",
+        "hinglish": "bank"
       },
       "options": [
         {
-          "hi": "बगीचा",
-          "hinglish": "bageecha"
+          "hi": "बैंक",
+          "hinglish": "bank"
         },
         {
-          "hi": "खेत",
-          "hinglish": "khet"
+          "hi": "शहर",
+          "hinglish": "shehar"
         },
         {
-          "hi": "हवाई अड्डा",
-          "hinglish": "hawaai adda"
+          "hi": "गाँव",
+          "hinglish": "gaon"
         }
       ]
     },
@@ -395,23 +393,23 @@
         "vocab.places"
       ],
       "word": {
-        "english": "market",
-        "emoji": "🛒",
-        "hindi": "बाज़ार",
-        "hinglish": "baazaar"
+        "english": "city",
+        "emoji": "🏙️",
+        "hindi": "शहर",
+        "hinglish": "shehar"
       },
       "answer": {
-        "hi": "बाज़ार",
-        "hinglish": "baazaar"
+        "hi": "शहर",
+        "hinglish": "shehar"
       },
       "options": [
         {
-          "hi": "बाज़ार",
-          "hinglish": "baazaar"
+          "hi": "शहर",
+          "hinglish": "shehar"
         },
         {
-          "hi": "बगीचा",
-          "hinglish": "bageecha"
+          "hi": "गाँव",
+          "hinglish": "gaon"
         },
         {
           "hi": "खेत",
@@ -454,11 +452,11 @@
         "read.word",
         "vocab.places"
       ],
-      "answer": "farm",
+      "answer": "bank",
       "options": [
-        "farm",
+        "bank",
         "village",
-        "city"
+        "airport"
       ]
     },
     {

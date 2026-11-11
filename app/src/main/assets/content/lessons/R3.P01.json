@@ -1,0 +1,142 @@
+{
+  "id": "R3.P01",
+  "level": 103,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R3.P01.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Riya's Birthday’ (रिया का जन्मदिन)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Riya's Birthday’ (Riya ka janmdin). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Riya's Birthday’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P01.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘birthday’ मतलब जन्मदिन। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘birthday’ matlab janmdin. Chhookar suno, phir bolo.",
+        "en": "‘birthday’ means जन्मदिन. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "birthday",
+        "emoji": "🎂",
+        "hindi": "जन्मदिन",
+        "hinglish": "janmdin"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P01.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘cake’ मतलब केक। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘cake’ matlab cake. Chhookar suno, phir bolo.",
+        "en": "‘cake’ means केक. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "cake",
+        "emoji": "🍰",
+        "hindi": "केक",
+        "hinglish": "cake"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P01.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘clap’ मतलब ताली बजाना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘clap’ matlab taali bajana. Chhookar suno, phir bolo.",
+        "en": "‘clap’ means ताली बजाना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "clap",
+        "emoji": "👏",
+        "hindi": "ताली बजाना",
+        "hinglish": "taali bajana"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R3.P01.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "रिया का जन्मदिन",
+        "hinglish": "Riya ka janmdin",
+        "en": "Riya's Birthday"
+      },
+      "sentences": [
+        "Today is Riya's birthday.",
+        "She is seven years old.",
+        "Mummy makes a big cake.",
+        "Her friends come to her house.",
+        "\"Happy birthday, Riya!\"",
+        "they say.",
+        "Riya cuts the cake.",
+        "Everyone claps and sings."
+      ],
+      "words": [
+        {
+          "english": "birthday",
+          "emoji": "🎂",
+          "hindi": "जन्मदिन",
+          "hinglish": "janmdin"
+        },
+        {
+          "english": "cake",
+          "emoji": "🍰",
+          "hindi": "केक",
+          "hinglish": "cake"
+        },
+        {
+          "english": "clap",
+          "emoji": "👏",
+          "hindi": "ताली बजाना",
+          "hinglish": "taali bajana"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P01.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "रिया कितने साल की है?",
+        "hinglish": "Riya kitne saal ki hai?",
+        "en": "How old is Riya?"
+      },
+      "options": [
+        "seven",
+        "five",
+        "ten"
+      ],
+      "answer": "seven"
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P01.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "केक कौन बनाता है?",
+        "hinglish": "Cake kaun banata hai?",
+        "en": "Who makes the cake?"
+      },
+      "options": [
+        "Mummy",
+        "Riya",
+        "her friends"
+      ],
+      "answer": "Mummy"
+    }
+  ]
+}

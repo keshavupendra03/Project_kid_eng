@@ -1,0 +1,139 @@
+{
+  "id": "R2.P06",
+  "level": 102,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R2.P06.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Big Elephant’ (बड़ा हाथी)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Big Elephant’ (Bada haathi). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Big Elephant’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P06.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘elephant’ मतलब हाथी। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘elephant’ matlab haathi. Chhookar suno, phir bolo.",
+        "en": "‘elephant’ means हाथी. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "elephant",
+        "emoji": "🐘",
+        "hindi": "हाथी",
+        "hinglish": "haathi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P06.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘trunk’ मतलब सूँड। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘trunk’ matlab soond. Chhookar suno, phir bolo.",
+        "en": "‘trunk’ means सूँड. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "trunk",
+        "emoji": "🐘",
+        "hindi": "सूँड",
+        "hinglish": "soond"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P06.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘ears’ मतलब कान। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘ears’ matlab kaan. Chhookar suno, phir bolo.",
+        "en": "‘ears’ means कान. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "ears",
+        "emoji": "👂",
+        "hindi": "कान",
+        "hinglish": "kaan"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R2.P06.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "बड़ा हाथी",
+        "hinglish": "Bada haathi",
+        "en": "The Big Elephant"
+      },
+      "sentences": [
+        "An elephant is big.",
+        "It has a long trunk.",
+        "It has big ears.",
+        "It eats bananas and leaves.",
+        "I like the elephant."
+      ],
+      "words": [
+        {
+          "english": "elephant",
+          "emoji": "🐘",
+          "hindi": "हाथी",
+          "hinglish": "haathi"
+        },
+        {
+          "english": "trunk",
+          "emoji": "🐘",
+          "hindi": "सूँड",
+          "hinglish": "soond"
+        },
+        {
+          "english": "ears",
+          "emoji": "👂",
+          "hindi": "कान",
+          "hinglish": "kaan"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P06.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "हाथी की सूँड कैसी है?",
+        "hinglish": "Haathi ki soond kaisi hai?",
+        "en": "How is the elephant's trunk?"
+      },
+      "options": [
+        "long",
+        "short",
+        "red"
+      ],
+      "answer": "long"
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P06.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "हाथी क्या खाता है?",
+        "hinglish": "Haathi kya khaata hai?",
+        "en": "What does the elephant eat?"
+      },
+      "options": [
+        "bananas",
+        "fish",
+        "eggs"
+      ],
+      "answer": "bananas"
+    }
+  ]
+}

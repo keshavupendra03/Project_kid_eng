@@ -1,0 +1,455 @@
+{
+  "_about": "Reading ladder source. python tools/content/generate_reading.py writes app/src/main/assets/content/reading.json and lessons/R*.json. Keep digits out of passages (the listener hears numbers as words) and avoid abbreviations with full stops.",
+  "levels": [
+    {
+      "number": 1, "emoji": "🌱",
+      "title": {"hi": "पहली लाइनें", "hl": "Pehli lines", "en": "First lines"},
+      "passages": [
+        {
+          "id": "R1.P01", "emoji": "🐱",
+          "title": {"hi": "बिल्ली", "hl": "Billi", "en": "The Cat"},
+          "words": [
+            {"en": "cat", "emoji": "🐱", "hi": "बिल्ली", "hl": "billi"},
+            {"en": "fat", "emoji": "🐷", "hi": "मोटी", "hl": "moti"},
+            {"en": "mat", "emoji": "🟫", "hi": "चटाई", "hl": "chatai"}
+          ],
+          "text": "Sam has a cat. The cat is fat. The cat sat on a mat.",
+          "questions": [
+            {"q": {"hi": "सैम के पास क्या है?", "hl": "Sam ke paas kya hai?", "en": "What does Sam have?"}, "options": ["a cat", "a dog", "a hat"], "answer": "a cat"},
+            {"q": {"hi": "बिल्ली कहाँ बैठी?", "hl": "Billi kahan baithi?", "en": "Where did the cat sit?"}, "options": ["on a mat", "on a bus", "in a bag"], "answer": "on a mat"}
+          ]
+        },
+        {
+          "id": "R1.P02", "emoji": "🐶",
+          "title": {"hi": "देव और कुत्ता", "hl": "Dev aur kutta", "en": "Dev and the Dog"},
+          "words": [
+            {"en": "dog", "emoji": "🐶", "hi": "कुत्ता", "hl": "kutta"},
+            {"en": "big", "emoji": "🐘", "hi": "बड़ा", "hl": "bada"},
+            {"en": "run", "emoji": "🏃", "hi": "दौड़ना", "hl": "daudna"}
+          ],
+          "text": "Dev has a dog. The dog is big. The dog can run. Run, dog, run!",
+          "questions": [
+            {"q": {"hi": "कुत्ता कैसा है?", "hl": "Kutta kaisa hai?", "en": "How is the dog?"}, "options": ["big", "sad", "wet"], "answer": "big"},
+            {"q": {"hi": "कुत्ता क्या कर सकता है?", "hl": "Kutta kya kar sakta hai?", "en": "What can the dog do?"}, "options": ["run", "read", "cook"], "answer": "run"}
+          ]
+        },
+        {
+          "id": "R1.P03", "emoji": "☀️",
+          "title": {"hi": "सूरज", "hl": "Sooraj", "en": "The Sun"},
+          "words": [
+            {"en": "sun", "emoji": "☀️", "hi": "सूरज", "hl": "sooraj"},
+            {"en": "hot", "emoji": "🔥", "hi": "गरम", "hl": "garam"},
+            {"en": "hat", "emoji": "🧢", "hi": "टोपी", "hl": "topi"}
+          ],
+          "text": "The sun is up. It is hot. Tim has a hat. The hat is red.",
+          "questions": [
+            {"q": {"hi": "मौसम कैसा है?", "hl": "Mausam kaisa hai?", "en": "How is the weather?"}, "options": ["hot", "cold", "wet"], "answer": "hot"},
+            {"q": {"hi": "टोपी किस रंग की है?", "hl": "Topi kis rang ki hai?", "en": "What colour is the hat?"}, "options": ["red", "blue", "green"], "answer": "red"}
+          ]
+        },
+        {
+          "id": "R1.P04", "emoji": "🚌",
+          "title": {"hi": "बस", "hl": "Bus", "en": "The Bus"},
+          "words": [
+            {"en": "bus", "emoji": "🚌", "hi": "बस", "hl": "bus"},
+            {"en": "see", "emoji": "👀", "hi": "देखना", "hl": "dekhna"},
+            {"en": "go", "emoji": "🚦", "hi": "जाना", "hl": "jaana"}
+          ],
+          "text": "I see a bus. The bus is big. Raj is on the bus. The bus can go.",
+          "questions": [
+            {"q": {"hi": "बस में कौन है?", "hl": "Bus mein kaun hai?", "en": "Who is on the bus?"}, "options": ["Raj", "Sam", "Tim"], "answer": "Raj"},
+            {"q": {"hi": "बस कैसी है?", "hl": "Bus kaisi hai?", "en": "How is the bus?"}, "options": ["big", "hot", "fat"], "answer": "big"}
+          ]
+        },
+        {
+          "id": "R1.P05", "emoji": "🖊️",
+          "title": {"hi": "मेरा पेन", "hl": "Mera pen", "en": "My Pen"},
+          "words": [
+            {"en": "pen", "emoji": "🖊️", "hi": "पेन", "hl": "pen"},
+            {"en": "bag", "emoji": "🎒", "hi": "बस्ता", "hl": "basta"},
+            {"en": "like", "emoji": "❤️", "hi": "पसंद करना", "hl": "pasand karna"}
+          ],
+          "text": "I have a pen. The pen is red. It is in my bag. I like my pen.",
+          "questions": [
+            {"q": {"hi": "पेन कहाँ है?", "hl": "Pen kahan hai?", "en": "Where is the pen?"}, "options": ["in my bag", "on a mat", "on the bus"], "answer": "in my bag"},
+            {"q": {"hi": "पेन किस रंग का है?", "hl": "Pen kis rang ka hai?", "en": "What colour is the pen?"}, "options": ["red", "black", "green"], "answer": "red"}
+          ]
+        },
+        {
+          "id": "R1.P06", "emoji": "🐸",
+          "title": {"hi": "मेंढक", "hl": "Mendhak", "en": "The Frog"},
+          "words": [
+            {"en": "frog", "emoji": "🐸", "hi": "मेंढक", "hl": "mendhak"},
+            {"en": "pond", "emoji": "🏞️", "hi": "तालाब", "hl": "talaab"},
+            {"en": "log", "emoji": "🪵", "hi": "लकड़ी का कुंदा", "hl": "lakdi ka kunda"}
+          ],
+          "text": "A frog is in the pond. Hop, frog, hop! The frog is wet. It sits on a log.",
+          "questions": [
+            {"q": {"hi": "मेंढक कहाँ है?", "hl": "Mendhak kahan hai?", "en": "Where is the frog?"}, "options": ["in the pond", "in a bag", "on a bus"], "answer": "in the pond"},
+            {"q": {"hi": "मेंढक किस पर बैठा?", "hl": "Mendhak kis par baitha?", "en": "What does the frog sit on?"}, "options": ["a log", "a mat", "a hat"], "answer": "a log"}
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2, "emoji": "🏠",
+      "title": {"hi": "छोटी कहानी", "hl": "Chhoti kahani", "en": "Little stories"},
+      "passages": [
+        {
+          "id": "R2.P01", "emoji": "🏫",
+          "title": {"hi": "स्कूल चलो", "hl": "School chalo", "en": "Going to School"},
+          "words": [
+            {"en": "school", "emoji": "🏫", "hi": "स्कूल", "hl": "school"},
+            {"en": "friend", "emoji": "🧑‍🤝‍🧑", "hi": "दोस्त", "hl": "dost"},
+            {"en": "walk", "emoji": "🚶", "hi": "पैदल चलना", "hl": "paidal chalna"}
+          ],
+          "text": "Asha goes to school. She has a red bag. Her friend Ravi is with her. They walk to school. They are happy.",
+          "questions": [
+            {"q": {"hi": "आशा के साथ कौन है?", "hl": "Asha ke saath kaun hai?", "en": "Who is with Asha?"}, "options": ["Ravi", "Raj", "Dev"], "answer": "Ravi"},
+            {"q": {"hi": "वे स्कूल कैसे जाते हैं?", "hl": "Woh school kaise jaate hain?", "en": "How do they go to school?"}, "options": ["they walk", "by bus", "by train"], "answer": "they walk"}
+          ]
+        },
+        {
+          "id": "R2.P02", "emoji": "🍱",
+          "title": {"hi": "लंच टाइम", "hl": "Lunch time", "en": "Lunch Time"},
+          "words": [
+            {"en": "lunch", "emoji": "🍱", "hi": "दोपहर का खाना", "hl": "dopahar ka khana"},
+            {"en": "box", "emoji": "📦", "hi": "डिब्बा", "hl": "dibba"},
+            {"en": "share", "emoji": "🤝", "hi": "बाँटना", "hl": "baantna"}
+          ],
+          "text": "It is lunch time. Meera opens her lunch box. She has roti and dal. She shares with Neha. Yum, yum!",
+          "questions": [
+            {"q": {"hi": "मीरा के डिब्बे में क्या है?", "hl": "Meera ke dibbe mein kya hai?", "en": "What is in Meera's lunch box?"}, "options": ["roti and dal", "rice and fish", "cake"], "answer": "roti and dal"},
+            {"q": {"hi": "मीरा किसके साथ बाँटती है?", "hl": "Meera kiske saath baantti hai?", "en": "Who does Meera share with?"}, "options": ["Neha", "Asha", "Ravi"], "answer": "Neha"}
+          ]
+        },
+        {
+          "id": "R2.P03", "emoji": "🐔",
+          "title": {"hi": "दादी की मुर्गी", "hl": "Dadi ki murgi", "en": "Dadi's Hen"},
+          "words": [
+            {"en": "hen", "emoji": "🐔", "hi": "मुर्गी", "hl": "murgi"},
+            {"en": "egg", "emoji": "🥚", "hi": "अंडा", "hl": "anda"},
+            {"en": "morning", "emoji": "🌅", "hi": "सुबह", "hl": "subah"}
+          ],
+          "text": "Dadi has a hen. The hen is brown. Every morning the hen lays an egg. Raju gets the egg. He thanks the hen!",
+          "questions": [
+            {"q": {"hi": "मुर्गी किस रंग की है?", "hl": "Murgi kis rang ki hai?", "en": "What colour is the hen?"}, "options": ["brown", "white", "black"], "answer": "brown"},
+            {"q": {"hi": "मुर्गी हर सुबह क्या देती है?", "hl": "Murgi har subah kya deti hai?", "en": "What does the hen lay every morning?"}, "options": ["an egg", "a ball", "a mango"], "answer": "an egg"}
+          ]
+        },
+        {
+          "id": "R2.P04", "emoji": "🌧️",
+          "title": {"hi": "बारिश", "hl": "Baarish", "en": "Rain"},
+          "words": [
+            {"en": "sky", "emoji": "🌌", "hi": "आसमान", "hl": "aasmaan"},
+            {"en": "rain", "emoji": "🌧️", "hi": "बारिश", "hl": "baarish"},
+            {"en": "wet", "emoji": "💦", "hi": "गीला", "hl": "geela"}
+          ],
+          "text": "Look at the sky. It is black. Drip, drop, it is raining! Chintu runs home. He gets wet. Mummy gives him a towel.",
+          "questions": [
+            {"q": {"hi": "आसमान कैसा है?", "hl": "Aasmaan kaisa hai?", "en": "How is the sky?"}, "options": ["black", "blue", "red"], "answer": "black"},
+            {"q": {"hi": "मम्मी चिंटू को क्या देती हैं?", "hl": "Mummy Chintu ko kya deti hain?", "en": "What does Mummy give Chintu?"}, "options": ["a towel", "a hat", "an egg"], "answer": "a towel"}
+          ]
+        },
+        {
+          "id": "R2.P05", "emoji": "🛍️",
+          "title": {"hi": "दुकान", "hl": "Dukaan", "en": "The Shop"},
+          "words": [
+            {"en": "shop", "emoji": "🏪", "hi": "दुकान", "hl": "dukaan"},
+            {"en": "buy", "emoji": "💰", "hi": "खरीदना", "hl": "khareedna"},
+            {"en": "thank you", "emoji": "🙏", "hi": "धन्यवाद", "hl": "dhanyavaad"}
+          ],
+          "text": "Papa and I go to the shop. I want a ball. Papa buys a blue ball. I say thank you. I play with it all day.",
+          "questions": [
+            {"q": {"hi": "पापा क्या खरीदते हैं?", "hl": "Papa kya khareedte hain?", "en": "What does Papa buy?"}, "options": ["a blue ball", "a red bag", "a hat"], "answer": "a blue ball"},
+            {"q": {"hi": "बच्चा पापा से क्या कहता है?", "hl": "Bachcha Papa se kya kehta hai?", "en": "What does the child say to Papa?"}, "options": ["thank you", "good night", "sorry"], "answer": "thank you"}
+          ]
+        },
+        {
+          "id": "R2.P06", "emoji": "🐘",
+          "title": {"hi": "बड़ा हाथी", "hl": "Bada haathi", "en": "The Big Elephant"},
+          "words": [
+            {"en": "elephant", "emoji": "🐘", "hi": "हाथी", "hl": "haathi"},
+            {"en": "trunk", "emoji": "🐘", "hi": "सूँड", "hl": "soond"},
+            {"en": "ears", "emoji": "👂", "hi": "कान", "hl": "kaan"}
+          ],
+          "text": "An elephant is big. It has a long trunk. It has big ears. It eats bananas and leaves. I like the elephant.",
+          "questions": [
+            {"q": {"hi": "हाथी की सूँड कैसी है?", "hl": "Haathi ki soond kaisi hai?", "en": "How is the elephant's trunk?"}, "options": ["long", "short", "red"], "answer": "long"},
+            {"q": {"hi": "हाथी क्या खाता है?", "hl": "Haathi kya khaata hai?", "en": "What does the elephant eat?"}, "options": ["bananas", "fish", "eggs"], "answer": "bananas"}
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3, "emoji": "📖",
+      "title": {"hi": "कहानी", "hl": "Kahani", "en": "Stories"},
+      "passages": [
+        {
+          "id": "R3.P01", "emoji": "🎂",
+          "title": {"hi": "रिया का जन्मदिन", "hl": "Riya ka janmdin", "en": "Riya's Birthday"},
+          "words": [
+            {"en": "birthday", "emoji": "🎂", "hi": "जन्मदिन", "hl": "janmdin"},
+            {"en": "cake", "emoji": "🍰", "hi": "केक", "hl": "cake"},
+            {"en": "clap", "emoji": "👏", "hi": "ताली बजाना", "hl": "taali bajana"}
+          ],
+          "text": "Today is Riya's birthday. She is seven years old. Mummy makes a big cake. Her friends come to her house. \"Happy birthday, Riya!\" they say. Riya cuts the cake. Everyone claps and sings.",
+          "questions": [
+            {"q": {"hi": "रिया कितने साल की है?", "hl": "Riya kitne saal ki hai?", "en": "How old is Riya?"}, "options": ["seven", "five", "ten"], "answer": "seven"},
+            {"q": {"hi": "केक कौन बनाता है?", "hl": "Cake kaun banata hai?", "en": "Who makes the cake?"}, "options": ["Mummy", "Riya", "her friends"], "answer": "Mummy"}
+          ]
+        },
+        {
+          "id": "R3.P02", "emoji": "🐦",
+          "title": {"hi": "खोई हुई चिड़िया", "hl": "Khoi hui chidiya", "en": "The Lost Bird"},
+          "words": [
+            {"en": "bird", "emoji": "🐦", "hi": "चिड़िया", "hl": "chidiya"},
+            {"en": "nest", "emoji": "🪺", "hi": "घोंसला", "hl": "ghosla"},
+            {"en": "afraid", "emoji": "😨", "hi": "डरा हुआ", "hl": "dara hua"}
+          ],
+          "text": "A small bird falls from a tree. Amit sees it on the ground. \"Do not be afraid,\" he says softly. He picks up the bird with care. He puts it back in the nest. The mother bird comes flying. Amit smiles and walks home.",
+          "questions": [
+            {"q": {"hi": "चिड़िया कहाँ से गिरी?", "hl": "Chidiya kahan se giri?", "en": "Where did the bird fall from?"}, "options": ["from a tree", "from a bus", "from a bag"], "answer": "from a tree"},
+            {"q": {"hi": "अमित चिड़िया को कहाँ रखता है?", "hl": "Amit chidiya ko kahan rakhta hai?", "en": "Where does Amit put the bird?"}, "options": ["in the nest", "in a box", "on a mat"], "answer": "in the nest"}
+          ]
+        },
+        {
+          "id": "R3.P03", "emoji": "🏏",
+          "title": {"hi": "पार्क में क्रिकेट", "hl": "Park mein cricket", "en": "Cricket in the Park"},
+          "words": [
+            {"en": "cricket", "emoji": "🏏", "hi": "क्रिकेट", "hl": "cricket"},
+            {"en": "catch", "emoji": "🧤", "hi": "पकड़ना", "hl": "pakadna"},
+            {"en": "laugh", "emoji": "😂", "hi": "हँसना", "hl": "hansna"}
+          ],
+          "text": "Every evening we play cricket in the park. Sonu bats first. He hits the ball very far. \"Catch it!\" I shout. Munna runs and catches the ball. Sonu is out. We all laugh and play again.",
+          "questions": [
+            {"q": {"hi": "पहले बल्लेबाज़ी कौन करता है?", "hl": "Pehle ballebaazi kaun karta hai?", "en": "Who bats first?"}, "options": ["Sonu", "Munna", "Amit"], "answer": "Sonu"},
+            {"q": {"hi": "गेंद कौन पकड़ता है?", "hl": "Gend kaun pakadta hai?", "en": "Who catches the ball?"}, "options": ["Munna", "Sonu", "Papa"], "answer": "Munna"}
+          ]
+        },
+        {
+          "id": "R3.P04", "emoji": "🧹",
+          "title": {"hi": "मम्मी की मदद", "hl": "Mummy ki madad", "en": "Helping Mummy"},
+          "words": [
+            {"en": "clean", "emoji": "🧹", "hi": "साफ़ करना", "hl": "saaf karna"},
+            {"en": "clothes", "emoji": "👕", "hi": "कपड़े", "hl": "kapde"},
+            {"en": "proud", "emoji": "😊", "hi": "गर्व", "hl": "garv"}
+          ],
+          "text": "On Sunday I help Mummy at home. I clean my room. I fold my clothes and keep them in the cupboard. Then I water the plants on the balcony. Mummy looks at my room and says, \"Good job!\" I feel very proud.",
+          "questions": [
+            {"q": {"hi": "बच्चा मम्मी की मदद कब करता है?", "hl": "Bachcha Mummy ki madad kab karta hai?", "en": "When does the child help Mummy?"}, "options": ["on Sunday", "on Monday", "at night"], "answer": "on Sunday"},
+            {"q": {"hi": "बच्चा पौधों को क्या देता है?", "hl": "Bachcha paudhon ko kya deta hai?", "en": "What does the child give the plants?"}, "options": ["water", "milk", "clothes"], "answer": "water"}
+          ]
+        },
+        {
+          "id": "R3.P05", "emoji": "🐐",
+          "title": {"hi": "चतुर बकरी", "hl": "Chatur bakri", "en": "The Clever Goat"},
+          "words": [
+            {"en": "thirsty", "emoji": "🥵", "hi": "प्यासा", "hl": "pyaasa"},
+            {"en": "well", "emoji": "🕳️", "hi": "कुआँ", "hl": "kuan"},
+            {"en": "clever", "emoji": "🧠", "hi": "चतुर", "hl": "chatur"}
+          ],
+          "text": "A goat is very thirsty. She finds a well in a field. The water is deep inside. \"How can I drink?\" she thinks. Then she sees a long rope and a bucket. She pulls the bucket up with her teeth. Now she can drink the cool water. What a clever goat!",
+          "questions": [
+            {"q": {"hi": "बकरी को क्या मिला?", "hl": "Bakri ko kya mila?", "en": "What does the goat find?"}, "options": ["a well", "a shop", "a nest"], "answer": "a well"},
+            {"q": {"hi": "बकरी बाल्टी कैसे खींचती है?", "hl": "Bakri balti kaise kheenchti hai?", "en": "How does the goat pull the bucket?"}, "options": ["with her teeth", "with a stick", "with her tail"], "answer": "with her teeth"}
+          ]
+        },
+        {
+          "id": "R3.P06", "emoji": "🚂",
+          "title": {"hi": "रेल का सफ़र", "hl": "Rail ka safar", "en": "The Train Ride"},
+          "words": [
+            {"en": "train", "emoji": "🚂", "hi": "रेलगाड़ी", "hl": "railgaadi"},
+            {"en": "window", "emoji": "🪟", "hi": "खिड़की", "hl": "khidki"},
+            {"en": "station", "emoji": "🚉", "hi": "स्टेशन", "hl": "station"}
+          ],
+          "text": "We go to Nani's house by train. The train is very long. I sit near the window. I see green fields and white cows. The train stops at a big station. Nani is waiting for us. I run to her and hug her tight.",
+          "questions": [
+            {"q": {"hi": "वे किसके घर जाते हैं?", "hl": "Woh kiske ghar jaate hain?", "en": "Whose house do they go to?"}, "options": ["Nani's house", "Dadi's house", "a friend's house"], "answer": "Nani's house"},
+            {"q": {"hi": "खिड़की से बच्चा क्या देखता है?", "hl": "Khidki se bachcha kya dekhta hai?", "en": "What does the child see from the window?"}, "options": ["fields and cows", "a shop", "a cake"], "answer": "fields and cows"}
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4, "emoji": "📚",
+      "title": {"hi": "पैराग्राफ", "hl": "Paragraph", "en": "Paragraphs"},
+      "passages": [
+        {
+          "id": "R4.P01", "emoji": "🌳",
+          "title": {"hi": "आम का पेड़", "hl": "Aam ka ped", "en": "The Mango Tree"},
+          "words": [
+            {"en": "mango", "emoji": "🥭", "hi": "आम", "hl": "aam"},
+            {"en": "summer", "emoji": "☀️", "hi": "गर्मी का मौसम", "hl": "garmi ka mausam"},
+            {"en": "neighbours", "emoji": "🏘️", "hi": "पड़ोसी", "hl": "padosi"}
+          ],
+          "text": "There is a big mango tree near my house. In summer it is full of mangoes. My brother and I wait under the tree. When a mango falls, we run to get it. The mangoes are sweet and yellow. Sometimes a monkey comes to the tree, because he also likes mangoes! We share the mangoes with our neighbours. Everyone loves our mango tree.",
+          "questions": [
+            {"q": {"hi": "आम कब आते हैं?", "hl": "Aam kab aate hain?", "en": "When is the tree full of mangoes?"}, "options": ["in summer", "in winter", "at night"], "answer": "in summer"},
+            {"q": {"hi": "पेड़ पर कभी-कभी कौन आता है?", "hl": "Ped par kabhi-kabhi kaun aata hai?", "en": "Who sometimes comes to the tree?"}, "options": ["a monkey", "a cow", "a frog"], "answer": "a monkey"}
+          ]
+        },
+        {
+          "id": "R4.P02", "emoji": "🪔",
+          "title": {"hi": "दिवाली", "hl": "Diwali", "en": "Diwali"},
+          "words": [
+            {"en": "festival", "emoji": "🎉", "hi": "त्योहार", "hl": "tyohaar"},
+            {"en": "lamps", "emoji": "🪔", "hi": "दीये", "hl": "diye"},
+            {"en": "bright", "emoji": "✨", "hi": "चमकीला", "hl": "chamkeela"}
+          ],
+          "text": "Diwali is the festival of lights. We clean our house before Diwali. Mummy makes sweets and Papa brings new clothes for us. In the evening we light small lamps called diyas. The whole street looks bright and beautiful. We wear our new clothes and meet our friends. I love Diwali, because everyone is happy together.",
+          "questions": [
+            {"q": {"hi": "दिवाली किसका त्योहार है?", "hl": "Diwali kiska tyohaar hai?", "en": "Diwali is the festival of what?"}, "options": ["lights", "colours", "kites"], "answer": "lights"},
+            {"q": {"hi": "शाम को वे क्या जलाते हैं?", "hl": "Shaam ko woh kya jalaate hain?", "en": "What do they light in the evening?"}, "options": ["small lamps", "a fire", "a stove"], "answer": "small lamps"}
+          ]
+        },
+        {
+          "id": "R4.P03", "emoji": "🐕",
+          "title": {"hi": "मोती कहाँ है?", "hl": "Moti kahan hai?", "en": "Where is Moti?"},
+          "words": [
+            {"en": "joy", "emoji": "😄", "hi": "खुशी", "hl": "khushi"},
+            {"en": "garden", "emoji": "🌷", "hi": "बगीचा", "hl": "bageecha"},
+            {"en": "bush", "emoji": "🌿", "hi": "झाड़ी", "hl": "jhaadi"}
+          ],
+          "text": "Moti is our dog. He is brown and white. Every morning he waits at the door for me. When I come back from school, he jumps with joy. One day Moti was not at the door. I looked everywhere, but I could not find him. Then I heard a bark from the garden. Moti was sleeping under a bush! I was so happy to see him again.",
+          "questions": [
+            {"q": {"hi": "मोती हर सुबह कहाँ इंतज़ार करता है?", "hl": "Moti har subah kahan intezaar karta hai?", "en": "Where does Moti wait every morning?"}, "options": ["at the door", "in the garden", "at school"], "answer": "at the door"},
+            {"q": {"hi": "मोती कहाँ सो रहा था?", "hl": "Moti kahan so raha tha?", "en": "Where was Moti sleeping?"}, "options": ["under a bush", "on the bed", "in the bus"], "answer": "under a bush"}
+          ]
+        },
+        {
+          "id": "R4.P04", "emoji": "🩺",
+          "title": {"hi": "डॉक्टर के पास", "hl": "Doctor ke paas", "en": "At the Doctor"},
+          "words": [
+            {"en": "fever", "emoji": "🤒", "hi": "बुखार", "hl": "bukhaar"},
+            {"en": "doctor", "emoji": "👩‍⚕️", "hi": "डॉक्टर", "hl": "doctor"},
+            {"en": "medicine", "emoji": "💊", "hi": "दवाई", "hl": "dawai"}
+          ],
+          "text": "Last week I had a fever. Mummy took me to the doctor. The doctor was very kind. She checked my throat and said, \"Open your mouth wide.\" Then she gave me some medicine. \"Drink warm water and take rest,\" she said. I took the medicine for three days. Now I am fine and I can go to school again.",
+          "questions": [
+            {"q": {"hi": "बच्चे को क्या हुआ था?", "hl": "Bachche ko kya hua tha?", "en": "What did the child have?"}, "options": ["a fever", "a ball", "a prize"], "answer": "a fever"},
+            {"q": {"hi": "डॉक्टर ने क्या पीने को कहा?", "hl": "Doctor ne kya peene ko kaha?", "en": "What did the doctor say to drink?"}, "options": ["warm water", "cold milk", "tea"], "answer": "warm water"}
+          ]
+        },
+        {
+          "id": "R4.P05", "emoji": "💧",
+          "title": {"hi": "पानी ही जीवन है", "hl": "Paani hi jeevan hai", "en": "Water is Life"},
+          "words": [
+            {"en": "need", "emoji": "🙌", "hi": "ज़रूरत", "hl": "zaroorat"},
+            {"en": "waste", "emoji": "🚱", "hi": "बरबाद करना", "hl": "barbaad karna"},
+            {"en": "drop", "emoji": "💧", "hi": "बूँद", "hl": "boond"}
+          ],
+          "text": "We need water every day. We drink water when we are thirsty. We use water to cook, to wash and to clean. Plants need water to grow, and animals need water too. But many people do not have clean water. So we should never waste it. Close the tap when you brush your teeth. Every drop of water is important.",
+          "questions": [
+            {"q": {"hi": "पौधों को बढ़ने के लिए क्या चाहिए?", "hl": "Paudhon ko badhne ke liye kya chahiye?", "en": "What do plants need to grow?"}, "options": ["water", "medicine", "lamps"], "answer": "water"},
+            {"q": {"hi": "दाँत साफ़ करते समय क्या करना चाहिए?", "hl": "Daant saaf karte samay kya karna chahiye?", "en": "What should you do when you brush your teeth?"}, "options": ["close the tap", "open the tap", "sing a song"], "answer": "close the tap"}
+          ]
+        },
+        {
+          "id": "R4.P06", "emoji": "🦁",
+          "title": {"hi": "शेर और चूहा", "hl": "Sher aur chooha", "en": "The Lion and the Mouse"},
+          "words": [
+            {"en": "forest", "emoji": "🌲", "hi": "जंगल", "hl": "jungle"},
+            {"en": "net", "emoji": "🕸️", "hi": "जाल", "hl": "jaal"},
+            {"en": "free", "emoji": "🕊️", "hi": "आज़ाद", "hl": "aazaad"}
+          ],
+          "text": "A lion was sleeping in the forest. A small mouse ran over his nose. The lion woke up and caught the mouse. \"Please let me go,\" said the mouse. \"One day I will help you.\" The lion laughed, but he let the mouse go. After some days, the lion was caught in a hunter's net. The mouse came and cut the net with his sharp teeth. The lion was free. Small friends can be big helpers.",
+          "questions": [
+            {"q": {"hi": "शेर कहाँ सो रहा था?", "hl": "Sher kahan so raha tha?", "en": "Where was the lion sleeping?"}, "options": ["in the forest", "in a garden", "at a station"], "answer": "in the forest"},
+            {"q": {"hi": "चूहे ने जाल कैसे काटा?", "hl": "Choohe ne jaal kaise kaata?", "en": "How did the mouse cut the net?"}, "options": ["with his teeth", "with a knife", "with a stone"], "answer": "with his teeth"}
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5, "emoji": "🌍",
+      "title": {"hi": "असली पढ़ाई", "hl": "Asli padhai", "en": "Real reading"},
+      "passages": [
+        {
+          "id": "R5.P01", "emoji": "🐯",
+          "title": {"hi": "बाघ", "hl": "Baagh", "en": "The Tiger"},
+          "words": [
+            {"en": "national", "emoji": "🇮🇳", "hi": "राष्ट्रीय", "hl": "rashtriya"},
+            {"en": "stripes", "emoji": "🦓", "hi": "धारियाँ", "hl": "dhaariyan"},
+            {"en": "protect", "emoji": "🛡️", "hi": "रक्षा करना", "hl": "raksha karna"}
+          ],
+          "text": "The tiger is the national animal of India. It is the biggest cat in the world. A tiger has orange fur with black stripes. No two tigers have the same stripes.\n\nTigers live in forests. They are very good swimmers. They hunt at night and sleep in the day. Today there are not many tigers left, so we must protect their forests.",
+          "questions": [
+            {"q": {"hi": "भारत का राष्ट्रीय पशु कौन है?", "hl": "Bharat ka rashtriya pashu kaun hai?", "en": "What is the national animal of India?"}, "options": ["the tiger", "the lion", "the elephant"], "answer": "the tiger"},
+            {"q": {"hi": "बाघ कब शिकार करते हैं?", "hl": "Baagh kab shikaar karte hain?", "en": "When do tigers hunt?"}, "options": ["at night", "in the morning", "at noon"], "answer": "at night"}
+          ]
+        },
+        {
+          "id": "R5.P02", "emoji": "🚦",
+          "title": {"hi": "सड़क पर सावधानी", "hl": "Sadak par saavdhani", "en": "Road Safety"},
+          "words": [
+            {"en": "cross", "emoji": "🚸", "hi": "पार करना", "hl": "paar karna"},
+            {"en": "signal", "emoji": "🚦", "hi": "सिग्नल", "hl": "signal"},
+            {"en": "helmet", "emoji": "⛑️", "hi": "हेलमेट", "hl": "helmet"}
+          ],
+          "text": "Look right, look left, then look right again. Cross the road only at the zebra crossing. Wait for the green signal. Never run on the road.\n\nWhen you ride a bicycle, wear a helmet. Keep to the left side of the road. Do not look at a phone while walking on the road. Safety first, always.",
+          "questions": [
+            {"q": {"hi": "सड़क कहाँ पार करनी चाहिए?", "hl": "Sadak kahan paar karni chahiye?", "en": "Where should you cross the road?"}, "options": ["at the zebra crossing", "anywhere", "near a bus"], "answer": "at the zebra crossing"},
+            {"q": {"hi": "साइकिल चलाते समय क्या पहनना चाहिए?", "hl": "Cycle chalate samay kya pehnna chahiye?", "en": "What should you wear when you ride a bicycle?"}, "options": ["a helmet", "a hat", "new clothes"], "answer": "a helmet"}
+          ]
+        },
+        {
+          "id": "R5.P03", "emoji": "🌙",
+          "title": {"hi": "चाँद पर भारत", "hl": "Chaand par Bharat", "en": "India on the Moon"},
+          "words": [
+            {"en": "spacecraft", "emoji": "🚀", "hi": "अंतरिक्ष यान", "hl": "antariksh yaan"},
+            {"en": "moon", "emoji": "🌙", "hi": "चाँद", "hl": "chaand"},
+            {"en": "scientists", "emoji": "🔬", "hi": "वैज्ञानिक", "hl": "vaigyanik"}
+          ],
+          "text": "A few years ago, India sent a spacecraft to the moon. Its name was Chandrayaan Three. It landed near the south pole of the moon. India was the first country to land there.\n\nA small rover came out of the lander. It moved on the moon and sent pictures back to Earth. Scientists at ISRO worked for many years for this day. Everyone in India was proud.",
+          "questions": [
+            {"q": {"hi": "अंतरिक्ष यान का नाम क्या था?", "hl": "Antariksh yaan ka naam kya tha?", "en": "What was the spacecraft called?"}, "options": ["Chandrayaan Three", "Moon Rover", "ISRO One"], "answer": "Chandrayaan Three"},
+            {"q": {"hi": "रोवर ने धरती पर क्या भेजा?", "hl": "Rover ne dharti par kya bheja?", "en": "What did the rover send to Earth?"}, "options": ["pictures", "water", "stones"], "answer": "pictures"}
+          ]
+        },
+        {
+          "id": "R5.P04", "emoji": "📋",
+          "title": {"hi": "स्कूल की सूचना", "hl": "School ki soochna", "en": "A School Notice"},
+          "words": [
+            {"en": "notice", "emoji": "📋", "hi": "सूचना", "hl": "soochna"},
+            {"en": "uniform", "emoji": "👔", "hi": "यूनिफ़ॉर्म", "hl": "uniform"},
+            {"en": "welcome", "emoji": "🙏", "hi": "स्वागत", "hl": "swaagat"}
+          ],
+          "text": "Notice: The annual sports day will be held on Friday next week. All students must come in their sports uniform. The school gate will open at eight in the morning.\n\nParents are welcome to watch. Please bring a water bottle and a cap. Lunch will not be served at school. The school bus will leave at one in the afternoon. From the Headmaster.",
+          "questions": [
+            {"q": {"hi": "खेल दिवस किस दिन है?", "hl": "Khel diwas kis din hai?", "en": "On which day is the sports day?"}, "options": ["Friday", "Monday", "Sunday"], "answer": "Friday"},
+            {"q": {"hi": "बच्चों को क्या पहनकर आना है?", "hl": "Bachchon ko kya pehenkar aana hai?", "en": "What must students wear?"}, "options": ["sports uniform", "new clothes", "a helmet"], "answer": "sports uniform"}
+          ]
+        },
+        {
+          "id": "R5.P05", "emoji": "🥭",
+          "title": {"hi": "आम कैसे उगता है", "hl": "Aam kaise ugta hai", "en": "How Mangoes Grow"},
+          "words": [
+            {"en": "seed", "emoji": "🌰", "hi": "बीज", "hl": "beej"},
+            {"en": "soil", "emoji": "🟤", "hi": "मिट्टी", "hl": "mitti"},
+            {"en": "sunlight", "emoji": "🌞", "hi": "धूप", "hl": "dhoop"}
+          ],
+          "text": "A mango tree starts from a seed. The seed is planted in the soil. After some weeks, a small plant comes out. It needs sunlight and water to grow.\n\nIn five or six years, the tree is big enough to give fruit. In spring, small flowers grow on the tree. The flowers slowly turn into tiny green mangoes. By summer, the mangoes become big, yellow and sweet.",
+          "questions": [
+            {"q": {"hi": "आम का पेड़ किससे शुरू होता है?", "hl": "Aam ka ped kisse shuru hota hai?", "en": "What does a mango tree start from?"}, "options": ["a seed", "a flower", "a leaf"], "answer": "a seed"},
+            {"q": {"hi": "फूल किसमें बदल जाते हैं?", "hl": "Phool kisme badal jaate hain?", "en": "What do the flowers turn into?"}, "options": ["tiny green mangoes", "big leaves", "new seeds"], "answer": "tiny green mangoes"}
+          ]
+        },
+        {
+          "id": "R5.P06", "emoji": "✉️",
+          "title": {"hi": "दादी को चिट्ठी", "hl": "Dadi ko chitthi", "en": "A Letter to Dadi"},
+          "words": [
+            {"en": "letter", "emoji": "✉️", "hi": "चिट्ठी", "hl": "chitthi"},
+            {"en": "prize", "emoji": "🏆", "hi": "इनाम", "hl": "inaam"},
+            {"en": "nervous", "emoji": "😬", "hi": "घबराया हुआ", "hl": "ghabraya hua"}
+          ],
+          "text": "Dear Dadi, I hope you are well. I am writing this letter to tell you about my school. I am in Class Four now. My new teacher is Mrs Sharma. She teaches us English with songs.\n\nLast week I won a prize for reading. I read a story in front of the whole school! I was nervous, but I did it. I will show you the prize when I come in the holidays. Your loving grandson, Arjun.",
+          "questions": [
+            {"q": {"hi": "अर्जुन को इनाम किस लिए मिला?", "hl": "Arjun ko inaam kis liye mila?", "en": "What did Arjun win a prize for?"}, "options": ["reading", "cricket", "singing"], "answer": "reading"},
+            {"q": {"hi": "अर्जुन की नई टीचर कौन हैं?", "hl": "Arjun ki nayi teacher kaun hain?", "en": "Who is Arjun's new teacher?"}, "options": ["Mrs Sharma", "Dadi", "Mummy"], "answer": "Mrs Sharma"}
+          ]
+        }
+      ]
+    }
+  ]
+}

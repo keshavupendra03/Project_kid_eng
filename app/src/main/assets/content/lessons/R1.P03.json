@@ -1,0 +1,138 @@
+{
+  "id": "R1.P03",
+  "level": 101,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R1.P03.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Sun’ (सूरज)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Sun’ (Sooraj). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Sun’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P03.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘sun’ मतलब सूरज। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘sun’ matlab sooraj. Chhookar suno, phir bolo.",
+        "en": "‘sun’ means सूरज. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "sun",
+        "emoji": "☀️",
+        "hindi": "सूरज",
+        "hinglish": "sooraj"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P03.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘hot’ मतलब गरम। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘hot’ matlab garam. Chhookar suno, phir bolo.",
+        "en": "‘hot’ means गरम. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "hot",
+        "emoji": "🔥",
+        "hindi": "गरम",
+        "hinglish": "garam"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P03.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘hat’ मतलब टोपी। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘hat’ matlab topi. Chhookar suno, phir bolo.",
+        "en": "‘hat’ means टोपी. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "hat",
+        "emoji": "🧢",
+        "hindi": "टोपी",
+        "hinglish": "topi"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R1.P03.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "सूरज",
+        "hinglish": "Sooraj",
+        "en": "The Sun"
+      },
+      "sentences": [
+        "The sun is up.",
+        "It is hot.",
+        "Tim has a hat.",
+        "The hat is red."
+      ],
+      "words": [
+        {
+          "english": "sun",
+          "emoji": "☀️",
+          "hindi": "सूरज",
+          "hinglish": "sooraj"
+        },
+        {
+          "english": "hot",
+          "emoji": "🔥",
+          "hindi": "गरम",
+          "hinglish": "garam"
+        },
+        {
+          "english": "hat",
+          "emoji": "🧢",
+          "hindi": "टोपी",
+          "hinglish": "topi"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P03.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "मौसम कैसा है?",
+        "hinglish": "Mausam kaisa hai?",
+        "en": "How is the weather?"
+      },
+      "options": [
+        "hot",
+        "cold",
+        "wet"
+      ],
+      "answer": "hot"
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P03.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "टोपी किस रंग की है?",
+        "hinglish": "Topi kis rang ki hai?",
+        "en": "What colour is the hat?"
+      },
+      "options": [
+        "red",
+        "blue",
+        "green"
+      ],
+      "answer": "red"
+    }
+  ]
+}

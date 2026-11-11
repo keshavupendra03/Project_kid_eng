@@ -1,0 +1,480 @@
+{
+  "id": "W34.P04",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P04.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: कैसा है?। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Kaisa hai?. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Describing words. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P04.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "bright",
+        "emoji": "☀️",
+        "hindi": "चमकीला",
+        "hinglish": "chamkeela"
+      },
+      "meaning": "full of light",
+      "example": "The sun is very bright today.",
+      "exampleMeaning": {
+        "hi": "आज सूरज बहुत चमक रहा है।",
+        "hinglish": "Aaj sooraj bahut chamak raha hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P04.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "huge",
+        "emoji": "🐘",
+        "hindi": "बहुत बड़ा",
+        "hinglish": "bahut bada"
+      },
+      "meaning": "very, very big",
+      "example": "An elephant is a huge animal.",
+      "exampleMeaning": {
+        "hi": "हाथी बहुत बड़ा जानवर है।",
+        "hinglish": "Haathi bahut bada jaanwar hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P04.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "tiny",
+        "emoji": "🐜",
+        "hindi": "बहुत छोटा",
+        "hinglish": "bahut chhota"
+      },
+      "meaning": "very, very small",
+      "example": "An ant is a tiny insect.",
+      "exampleMeaning": {
+        "hi": "चींटी बहुत छोटा कीड़ा है।",
+        "hinglish": "Cheenti bahut chhota keeda hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P04.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "noisy",
+        "emoji": "📢",
+        "hindi": "शोर वाला",
+        "hinglish": "shor waala"
+      },
+      "meaning": "full of loud sounds",
+      "example": "The market is very noisy in the evening.",
+      "exampleMeaning": {
+        "hi": "शाम को बाज़ार में बहुत शोर होता है।",
+        "hinglish": "Shaam ko baazaar mein bahut shor hota hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P04.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "smooth",
+        "emoji": "🪨",
+        "hindi": "चिकना",
+        "hinglish": "chikna"
+      },
+      "meaning": "flat with no rough parts",
+      "example": "The stone in the river is smooth.",
+      "exampleMeaning": {
+        "hi": "नदी का पत्थर चिकना है।",
+        "hinglish": "Nadi ka patthar chikna hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P04.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sharp",
+        "emoji": "🗡️",
+        "hindi": "तेज़ धार वाला",
+        "hinglish": "tez dhaar waala"
+      },
+      "meaning": "able to cut easily",
+      "example": "Be careful, the knife is sharp.",
+      "exampleMeaning": {
+        "hi": "ध्यान से, चाकू तेज़ है।",
+        "hinglish": "Dhyaan se, chaaku tez hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P04.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "empty",
+        "emoji": "🫙",
+        "hindi": "खाली",
+        "hinglish": "khaali"
+      },
+      "meaning": "with nothing inside",
+      "example": "The water bottle is empty.",
+      "exampleMeaning": {
+        "hi": "पानी की बोतल खाली है।",
+        "hinglish": "Paani ki botal khaali hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P04.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "heavy",
+        "emoji": "🏋️",
+        "hindi": "भारी",
+        "hinglish": "bhaari"
+      },
+      "meaning": "hard to lift",
+      "example": "This bag is too heavy for me.",
+      "exampleMeaning": {
+        "hi": "यह बस्ता मेरे लिए बहुत भारी है।",
+        "hinglish": "Yeh basta mere liye bahut bhaari hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P04.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "fresh",
+        "emoji": "🥬",
+        "hindi": "ताज़ा",
+        "hinglish": "taaza"
+      },
+      "meaning": "new and good to eat",
+      "example": "We buy fresh vegetables every day.",
+      "exampleMeaning": {
+        "hi": "हम रोज़ ताज़ी सब्ज़ियाँ ख़रीदते हैं।",
+        "hinglish": "Hum roz taazi sabziyaan khareedte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P04.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "ancient",
+        "emoji": "🏛️",
+        "hindi": "बहुत पुराना",
+        "hinglish": "bahut puraana"
+      },
+      "meaning": "very, very old",
+      "example": "We visited an ancient temple.",
+      "exampleMeaning": {
+        "hi": "हम एक बहुत पुराना मंदिर देखने गए।",
+        "hinglish": "Hum ek bahut puraana mandir dekhne gaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P04.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Be careful, the knife is ___.",
+      "answer": "sharp",
+      "options": [
+        "sharp",
+        "ancient",
+        "bright"
+      ],
+      "meaning": {
+        "hi": "तेज़ धार वाला",
+        "hinglish": "tez dhaar waala"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P04.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "empty",
+        "emoji": "🫙",
+        "hindi": "खाली",
+        "hinglish": "khaali"
+      },
+      "answer": {
+        "hi": "खाली",
+        "hinglish": "khaali"
+      },
+      "options": [
+        {
+          "hi": "खाली",
+          "hinglish": "khaali"
+        },
+        {
+          "hi": "शोर वाला",
+          "hinglish": "shor waala"
+        },
+        {
+          "hi": "बहुत छोटा",
+          "hinglish": "bahut chhota"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P04.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "smooth",
+        "emoji": "🪨",
+        "hindi": "चिकना",
+        "hinglish": "chikna"
+      },
+      "answer": {
+        "hi": "चिकना",
+        "hinglish": "chikna"
+      },
+      "options": [
+        {
+          "hi": "चिकना",
+          "hinglish": "chikna"
+        },
+        {
+          "hi": "बहुत बड़ा",
+          "hinglish": "bahut bada"
+        },
+        {
+          "hi": "चमकीला",
+          "hinglish": "chamkeela"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P04.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "An elephant is a ___ animal.",
+      "answer": "huge",
+      "options": [
+        "huge",
+        "tiny",
+        "bright"
+      ],
+      "meaning": {
+        "hi": "बहुत बड़ा",
+        "hinglish": "bahut bada"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P04.S16",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "tiny",
+        "emoji": "🐜",
+        "hindi": "बहुत छोटा",
+        "hinglish": "bahut chhota"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P04.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "tiny",
+        "emoji": "🐜",
+        "hindi": "बहुत छोटा",
+        "hinglish": "bahut chhota"
+      },
+      "answer": {
+        "hi": "बहुत छोटा",
+        "hinglish": "bahut chhota"
+      },
+      "options": [
+        {
+          "hi": "बहुत छोटा",
+          "hinglish": "bahut chhota"
+        },
+        {
+          "hi": "भारी",
+          "hinglish": "bhaari"
+        },
+        {
+          "hi": "चिकना",
+          "hinglish": "chikna"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P04.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "huge",
+        "emoji": "🐘",
+        "hindi": "बहुत बड़ा",
+        "hinglish": "bahut bada"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P04.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "This bag is too ___ for me.",
+      "answer": "heavy",
+      "options": [
+        "heavy",
+        "sharp",
+        "noisy"
+      ],
+      "meaning": {
+        "hi": "भारी",
+        "hinglish": "bhaari"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P04.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "ancient",
+      "options": [
+        "ancient",
+        "smooth",
+        "noisy"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P04.S21",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "bright",
+        "emoji": "☀️",
+        "hindi": "चमकीला",
+        "hinglish": "chamkeela"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P04.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "bright",
+        "emoji": "☀️",
+        "hindi": "चमकीला",
+        "hinglish": "chamkeela"
+      },
+      "answer": {
+        "hi": "चमकीला",
+        "hinglish": "chamkeela"
+      },
+      "options": [
+        {
+          "hi": "चमकीला",
+          "hinglish": "chamkeela"
+        },
+        {
+          "hi": "बहुत पुराना",
+          "hinglish": "bahut puraana"
+        },
+        {
+          "hi": "बहुत छोटा",
+          "hinglish": "bahut chhota"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P04.S23",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "noisy",
+        "emoji": "📢",
+        "hindi": "शोर वाला",
+        "hinglish": "shor waala"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P04.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "fresh",
+      "options": [
+        "fresh",
+        "smooth",
+        "huge"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P04.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The market is very ___ in the evening.",
+      "answer": "noisy",
+      "options": [
+        "noisy",
+        "sharp",
+        "ancient"
+      ],
+      "meaning": {
+        "hi": "शोर वाला",
+        "hinglish": "shor waala"
+      }
+    }
+  ]
+}

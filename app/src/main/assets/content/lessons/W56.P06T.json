@@ -1,0 +1,189 @@
+{
+  "id": "W56.P06T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "W56.P06T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Goa was our ___.",
+      "answer": "destination",
+      "options": [
+        "destination",
+        "ticket",
+        "passenger"
+      ],
+      "meaning": {
+        "hi": "मंज़िल",
+        "hinglish": "manzil"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P06T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "traffic",
+      "options": [
+        "traffic",
+        "luggage",
+        "delay"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P06T.S03",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "map",
+        "emoji": "🗺️",
+        "hindi": "नक्शा",
+        "hinglish": "naksha"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P06T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "luggage",
+        "emoji": "👜",
+        "hindi": "सामान",
+        "hinglish": "saamaan"
+      },
+      "answer": {
+        "hi": "सामान",
+        "hinglish": "saamaan"
+      },
+      "options": [
+        {
+          "hi": "सामान",
+          "hinglish": "saamaan"
+        },
+        {
+          "hi": "मंज़िल",
+          "hinglish": "manzil"
+        },
+        {
+          "hi": "यात्री",
+          "hinglish": "yaatri"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P06T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Park the ___ in the parking area.",
+      "answer": "vehicle",
+      "options": [
+        "vehicle",
+        "passenger",
+        "traffic"
+      ],
+      "meaning": {
+        "hi": "वाहन",
+        "hinglish": "vaahan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P06T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "ticket",
+      "options": [
+        "ticket",
+        "journey",
+        "vehicle"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P06T.S07",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "platform",
+        "emoji": "🚉",
+        "hindi": "प्लेटफ़ॉर्म",
+        "hinglish": "platform"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P06T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "journey",
+        "emoji": "🧳",
+        "hindi": "सफ़र",
+        "hinglish": "safar"
+      },
+      "answer": {
+        "hi": "सफ़र",
+        "hinglish": "safar"
+      },
+      "options": [
+        {
+          "hi": "सफ़र",
+          "hinglish": "safar"
+        },
+        {
+          "hi": "देरी",
+          "hinglish": "deri"
+        },
+        {
+          "hi": "टिकट",
+          "hinglish": "ticket"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P06T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The rain caused a ___.",
+      "answer": "delay",
+      "options": [
+        "delay",
+        "journey",
+        "platform"
+      ],
+      "meaning": {
+        "hi": "देरी",
+        "hinglish": "deri"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P06T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "passenger",
+      "options": [
+        "passenger",
+        "ticket",
+        "journey"
+      ]
+    }
+  ]
+}

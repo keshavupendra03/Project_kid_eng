@@ -5,9 +5,14 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
+import com.samjhoenglish.content.ReadAlong
 import com.samjhoenglish.content.Step
 import com.samjhoenglish.content.isQuestion
+import com.samjhoenglish.content.isWordTest
+import com.samjhoenglish.learning.WordPower
 import com.samjhoenglish.data.ProgressRepository
+import com.samjhoenglish.learning.Hint
+import com.samjhoenglish.learning.Hints
 import com.samjhoenglish.learning.Learning
 import com.samjhoenglish.speech.Mistake
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -33,6 +38,8 @@ data class LessonUiState(
     val wrongTries: Int = 0,
     /** The pronunciation slip behind the last wrong answer, if one was recognised. */
     val mistake: Mistake? = null,
+    /** The help for this wrong try, from the hint ladder. */
+    val hint: Hint? = null,
     /** The child chose "can't speak now" for this step. */
     val skipped: Boolean = false,
     /** Questions in the lesson part (revision doesn't affect stars). */
@@ -48,7 +55,8 @@ data class LessonUiState(
     val finished: Boolean get() = !loading && !error && steps.isNotEmpty() && position >= steps.size
     val inReview: Boolean get() = position < reviewCount
     val progress: Float get() = if (steps.isEmpty()) 0f else position.toFloat() / steps.size
-    val stars: Int get() = Learning.stars(rightFirstTime, questions)
+    /** Word Power tests are marked strictly (8 of 10 passes); everything else more gently. */
+    val stars: Int get() = if (lessonId?.isWordTest == true) WordPower.testStars(rightFirstTime, questions) else Learning.stars(rightFirstTime, questions)
     val needsRetry: Boolean get() = saved && lessonId != null && nextLessonId == lessonId
 }
 
@@ -104,13 +112,14 @@ class LessonViewModel(
             record(step, if (s.wrongTries == 0) Learning.Outcome.FIRST_TRY else Learning.Outcome.AFTER_RETRY, s.wrongTries, s.mistake)
         } else {
             val tries = s.wrongTries + 1
-            // Give a second chance at the end — but only once per question.
-            val needsSecondChance = s.position < s.lessonSize && s.wrongTries == 0
-            val revealed = tries >= MAX_TRIES
+            // Give a second chance at the end — but only once per question. A whole passage is too long to repeat.
+            val needsSecondChance = s.position < s.lessonSize && s.wrongTries == 0 && step !is ReadAlong
+            val revealed = tries >= Hints.maxTries(step)
             state.value = s.copy(
                 steps = if (needsSecondChance) s.steps + step else s.steps,
                 wrongTries = tries,
                 mistake = mistake,
+                hint = if (revealed) Hints.forReveal(step) else Hints.forTry(step, tries),
                 feedback = if (revealed) Feedback.REVEALED else Feedback.TRY_AGAIN,
             )
             if (revealed) record(step, Learning.Outcome.MISSED, tries, mistake)
@@ -122,7 +131,7 @@ class LessonViewModel(
         val s = state.value
         val step = s.current ?: return
         if (s.feedback == Feedback.CORRECT || s.feedback == Feedback.REVEALED) return
-        state.value = s.copy(feedback = Feedback.REVEALED, skipped = true)
+        state.value = s.copy(feedback = Feedback.REVEALED, skipped = true, hint = null)
         record(step, Learning.Outcome.SKIPPED, s.wrongTries, null)
     }
 
@@ -133,6 +142,7 @@ class LessonViewModel(
             feedback = Feedback.NONE,
             wrongTries = 0,
             mistake = null,
+            hint = null,
             skipped = false,
         )
         if (state.value.finished) finish()
@@ -153,6 +163,12 @@ class LessonViewModel(
         }
     }
 
+    /** How a passage was read: kept for the parent's reading row. */
+    fun recordReading(step: ReadAlong, wordsTotal: Int, wordsRead: Int, slips: Int, seconds: Int) {
+        val lesson = stepLessons[step.id] ?: return
+        viewModelScope.launch { progress.recordReading(childId, lesson, wordsTotal, wordsRead, slips, seconds) }
+    }
+
     private fun record(step: Step, outcome: Learning.Outcome, wrongTries: Int, mistake: Mistake?) {
         val s = state.value
         val lesson = stepLessons[step.id] ?: return
@@ -163,8 +179,6 @@ class LessonViewModel(
     }
 
     companion object {
-        const val MAX_TRIES = 3
-
         fun factory(childId: Long, lessonId: String?, progress: ProgressRepository): ViewModelProvider.Factory =
             viewModelFactory { initializer { LessonViewModel(childId, lessonId, progress) } }
     }

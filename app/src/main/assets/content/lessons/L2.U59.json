@@ -1,0 +1,445 @@
+{
+  "id": "L2.U59",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U59.S01",
+      "text": {
+        "hi": "समय के और शब्द।",
+        "hinglish": "Samay ke aur shabd.",
+        "en": "More words about time."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U59.S02",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘month’ मतलब ‘महीना’।",
+        "hinglish": "‘month’ matlab ‘maheena’.",
+        "en": "Say it with me: month!"
+      },
+      "word": {
+        "english": "month",
+        "emoji": "🗓️",
+        "hindi": "महीना",
+        "hinglish": "maheena"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U59.S03",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘year’ मतलब ‘साल’।",
+        "hinglish": "‘year’ matlab ‘saal’.",
+        "en": "Say it with me: year!"
+      },
+      "word": {
+        "english": "year",
+        "hindi": "साल",
+        "hinglish": "saal"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U59.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "month",
+        "emoji": "🗓️",
+        "hindi": "महीना",
+        "hinglish": "maheena"
+      },
+      "answer": {
+        "hi": "महीना",
+        "hinglish": "maheena"
+      },
+      "options": [
+        {
+          "hi": "महीना",
+          "hinglish": "maheena"
+        },
+        {
+          "hi": "हमेशा",
+          "hinglish": "hamesha"
+        },
+        {
+          "hi": "कभी नहीं",
+          "hinglish": "kabhi nahi"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U59.S05",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "answer": "year",
+      "options": [
+        "year",
+        "later",
+        "month"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U59.S06",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘hour’ मतलब ‘घंटा’।",
+        "hinglish": "‘hour’ matlab ‘ghanta’.",
+        "en": "Say it with me: hour!"
+      },
+      "word": {
+        "english": "hour",
+        "hindi": "घंटा",
+        "hinglish": "ghanta"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U59.S07",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘minute’ मतलब ‘मिनट’।",
+        "hinglish": "‘minute’ matlab ‘minute’.",
+        "en": "Say it with me: minute!"
+      },
+      "word": {
+        "english": "minute",
+        "hindi": "मिनट",
+        "hinglish": "minute"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U59.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "hour",
+        "hindi": "घंटा",
+        "hinglish": "ghanta"
+      },
+      "answer": {
+        "hi": "घंटा",
+        "hinglish": "ghanta"
+      },
+      "options": [
+        {
+          "hi": "घंटा",
+          "hinglish": "ghanta"
+        },
+        {
+          "hi": "मिनट",
+          "hinglish": "minute"
+        },
+        {
+          "hi": "हमेशा",
+          "hinglish": "hamesha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U59.S09",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "answer": "minute",
+      "options": [
+        "minute",
+        "month",
+        "hour"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U59.S10",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘now’ मतलब ‘अभी’।",
+        "hinglish": "‘now’ matlab ‘abhi’.",
+        "en": "Say it with me: now!"
+      },
+      "word": {
+        "english": "now",
+        "hindi": "अभी",
+        "hinglish": "abhi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U59.S11",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘later’ मतलब ‘बाद में’।",
+        "hinglish": "‘later’ matlab ‘baad mein’.",
+        "en": "Say it with me: later!"
+      },
+      "word": {
+        "english": "later",
+        "hindi": "बाद में",
+        "hinglish": "baad mein"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U59.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "now",
+        "hindi": "अभी",
+        "hinglish": "abhi"
+      },
+      "answer": {
+        "hi": "अभी",
+        "hinglish": "abhi"
+      },
+      "options": [
+        {
+          "hi": "अभी",
+          "hinglish": "abhi"
+        },
+        {
+          "hi": "घंटा",
+          "hinglish": "ghanta"
+        },
+        {
+          "hi": "महीना",
+          "hinglish": "maheena"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U59.S13",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "answer": "later",
+      "options": [
+        "later",
+        "minute",
+        "now"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U59.S14",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘always’ मतलब ‘हमेशा’।",
+        "hinglish": "‘always’ matlab ‘hamesha’.",
+        "en": "Say it with me: always!"
+      },
+      "word": {
+        "english": "always",
+        "hindi": "हमेशा",
+        "hinglish": "hamesha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U59.S15",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘never’ मतलब ‘कभी नहीं’।",
+        "hinglish": "‘never’ matlab ‘kabhi nahi’.",
+        "en": "Say it with me: never!"
+      },
+      "word": {
+        "english": "never",
+        "hindi": "कभी नहीं",
+        "hinglish": "kabhi nahi"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U59.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "always",
+        "hindi": "हमेशा",
+        "hinglish": "hamesha"
+      },
+      "answer": {
+        "hi": "हमेशा",
+        "hinglish": "hamesha"
+      },
+      "options": [
+        {
+          "hi": "हमेशा",
+          "hinglish": "hamesha"
+        },
+        {
+          "hi": "बाद में",
+          "hinglish": "baad mein"
+        },
+        {
+          "hi": "अभी",
+          "hinglish": "abhi"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U59.S17",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "answer": "never",
+      "options": [
+        "never",
+        "now",
+        "hour"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U59.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "later",
+        "hindi": "बाद में",
+        "hinglish": "baad mein"
+      },
+      "answer": {
+        "hi": "बाद में",
+        "hinglish": "baad mein"
+      },
+      "options": [
+        {
+          "hi": "बाद में",
+          "hinglish": "baad mein"
+        },
+        {
+          "hi": "हमेशा",
+          "hinglish": "hamesha"
+        },
+        {
+          "hi": "अभी",
+          "hinglish": "abhi"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U59.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "now",
+        "hindi": "अभी",
+        "hinglish": "abhi"
+      },
+      "answer": {
+        "hi": "अभी",
+        "hinglish": "abhi"
+      },
+      "options": [
+        {
+          "hi": "अभी",
+          "hinglish": "abhi"
+        },
+        {
+          "hi": "कभी नहीं",
+          "hinglish": "kabhi nahi"
+        },
+        {
+          "hi": "मिनट",
+          "hinglish": "minute"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U59.S20",
+      "skills": [
+        "speak.word",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "month",
+        "emoji": "🗓️",
+        "hindi": "महीना",
+        "hinglish": "maheena"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U59.S21",
+      "skills": [
+        "speak.word",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "now",
+        "hindi": "अभी",
+        "hinglish": "abhi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U59.S22",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "answer": "never",
+      "options": [
+        "never",
+        "hour",
+        "year"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U59.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: month, year, hour, minute, now, later, always, never।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: month, year, hour, minute, now, later, always, never.",
+        "en": "Well done! Today's new words: month, year, hour, minute, now, later, always, never."
+      }
+    }
+  ]
+}

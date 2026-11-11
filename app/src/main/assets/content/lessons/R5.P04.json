@@ -1,0 +1,143 @@
+{
+  "id": "R5.P04",
+  "level": 105,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R5.P04.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘A School Notice’ (स्कूल की सूचना)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘A School Notice’ (School ki soochna). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘A School Notice’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P04.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘notice’ मतलब सूचना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘notice’ matlab soochna. Chhookar suno, phir bolo.",
+        "en": "‘notice’ means सूचना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "notice",
+        "emoji": "📋",
+        "hindi": "सूचना",
+        "hinglish": "soochna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P04.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘uniform’ मतलब यूनिफ़ॉर्म। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘uniform’ matlab uniform. Chhookar suno, phir bolo.",
+        "en": "‘uniform’ means यूनिफ़ॉर्म. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "uniform",
+        "emoji": "👔",
+        "hindi": "यूनिफ़ॉर्म",
+        "hinglish": "uniform"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P04.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘welcome’ मतलब स्वागत। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘welcome’ matlab swaagat. Chhookar suno, phir bolo.",
+        "en": "‘welcome’ means स्वागत. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "welcome",
+        "emoji": "🙏",
+        "hindi": "स्वागत",
+        "hinglish": "swaagat"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R5.P04.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "स्कूल की सूचना",
+        "hinglish": "School ki soochna",
+        "en": "A School Notice"
+      },
+      "sentences": [
+        "Notice: The annual sports day will be held on Friday next week.",
+        "All students must come in their sports uniform.",
+        "The school gate will open at eight in the morning.",
+        "",
+        "Parents are welcome to watch.",
+        "Please bring a water bottle and a cap.",
+        "Lunch will not be served at school.",
+        "The school bus will leave at one in the afternoon.",
+        "From the Headmaster."
+      ],
+      "words": [
+        {
+          "english": "notice",
+          "emoji": "📋",
+          "hindi": "सूचना",
+          "hinglish": "soochna"
+        },
+        {
+          "english": "uniform",
+          "emoji": "👔",
+          "hindi": "यूनिफ़ॉर्म",
+          "hinglish": "uniform"
+        },
+        {
+          "english": "welcome",
+          "emoji": "🙏",
+          "hindi": "स्वागत",
+          "hinglish": "swaagat"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P04.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "खेल दिवस किस दिन है?",
+        "hinglish": "Khel diwas kis din hai?",
+        "en": "On which day is the sports day?"
+      },
+      "options": [
+        "Friday",
+        "Monday",
+        "Sunday"
+      ],
+      "answer": "Friday"
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P04.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बच्चों को क्या पहनकर आना है?",
+        "hinglish": "Bachchon ko kya pehenkar aana hai?",
+        "en": "What must students wear?"
+      },
+      "options": [
+        "sports uniform",
+        "new clothes",
+        "a helmet"
+      ],
+      "answer": "sports uniform"
+    }
+  ]
+}

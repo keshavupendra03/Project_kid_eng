@@ -1,0 +1,564 @@
+{
+  "id": "W.PLACE",
+  "level": 200,
+  "steps": [
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W34.1",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "excited",
+        "emoji": "🤩",
+        "hindi": "उत्साहित",
+        "hinglish": "utsaahit"
+      },
+      "answer": {
+        "hi": "उत्साहित",
+        "hinglish": "utsaahit"
+      },
+      "options": [
+        {
+          "hi": "उत्साहित",
+          "hinglish": "utsaahit"
+        },
+        {
+          "hi": "अकेला",
+          "hinglish": "akela"
+        },
+        {
+          "hi": "दयालु",
+          "hinglish": "dayaalu"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W34.2",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "bright",
+        "emoji": "☀️",
+        "hindi": "चमकीला",
+        "hinglish": "chamkeela"
+      },
+      "answer": {
+        "hi": "चमकीला",
+        "hinglish": "chamkeela"
+      },
+      "options": [
+        {
+          "hi": "चमकीला",
+          "hinglish": "chamkeela"
+        },
+        {
+          "hi": "तेज़ धार वाला",
+          "hinglish": "tez dhaar waala"
+        },
+        {
+          "hi": "बहुत पुराना",
+          "hinglish": "bahut puraana"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W34.3",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "healthy",
+        "emoji": "💪",
+        "hindi": "स्वस्थ",
+        "hinglish": "swasth"
+      },
+      "answer": {
+        "hi": "स्वस्थ",
+        "hinglish": "swasth"
+      },
+      "options": [
+        {
+          "hi": "स्वस्थ",
+          "hinglish": "swasth"
+        },
+        {
+          "hi": "कलाई",
+          "hinglish": "kalaai"
+        },
+        {
+          "hi": "बुखार",
+          "hinglish": "bukhaar"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W34.4",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "forest",
+        "emoji": "🌲",
+        "hindi": "जंगल",
+        "hinglish": "jangal"
+      },
+      "answer": {
+        "hi": "जंगल",
+        "hinglish": "jangal"
+      },
+      "options": [
+        {
+          "hi": "जंगल",
+          "hinglish": "jangal"
+        },
+        {
+          "hi": "बीज",
+          "hinglish": "beej"
+        },
+        {
+          "hi": "कीड़ा",
+          "hinglish": "keeda"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W34.5",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "polite",
+        "emoji": "🙂",
+        "hindi": "विनम्र",
+        "hinglish": "vinamra"
+      },
+      "answer": {
+        "hi": "विनम्र",
+        "hinglish": "vinamra"
+      },
+      "options": [
+        {
+          "hi": "विनम्र",
+          "hinglish": "vinamra"
+        },
+        {
+          "hi": "ईमानदार",
+          "hinglish": "imaandaar"
+        },
+        {
+          "hi": "माफ़ी माँगना",
+          "hinglish": "maafi maangna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W34.6",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "team",
+        "emoji": "👥",
+        "hindi": "टीम",
+        "hinglish": "team"
+      },
+      "answer": {
+        "hi": "टीम",
+        "hinglish": "team"
+      },
+      "options": [
+        {
+          "hi": "टीम",
+          "hinglish": "team"
+        },
+        {
+          "hi": "फेंकना",
+          "hinglish": "phenkna"
+        },
+        {
+          "hi": "मैच",
+          "hinglish": "match"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W56.1",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "environment",
+        "emoji": "🌍",
+        "hindi": "पर्यावरण",
+        "hinglish": "paryaavaran"
+      },
+      "answer": {
+        "hi": "पर्यावरण",
+        "hinglish": "paryaavaran"
+      },
+      "options": [
+        {
+          "hi": "पर्यावरण",
+          "hinglish": "paryaavaran"
+        },
+        {
+          "hi": "जलवायु",
+          "hinglish": "jalvaayu"
+        },
+        {
+          "hi": "दोबारा काम में लाना",
+          "hinglish": "dobaara kaam mein laana"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W56.2",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "discuss",
+        "emoji": "💬",
+        "hindi": "चर्चा करना",
+        "hinglish": "charcha karna"
+      },
+      "answer": {
+        "hi": "चर्चा करना",
+        "hinglish": "charcha karna"
+      },
+      "options": [
+        {
+          "hi": "चर्चा करना",
+          "hinglish": "charcha karna"
+        },
+        {
+          "hi": "सुझाव देना",
+          "hinglish": "sujhaav dena"
+        },
+        {
+          "hi": "बीच में टोकना",
+          "hinglish": "beech mein tokna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W56.3",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "journey",
+        "emoji": "🧳",
+        "hindi": "सफ़र",
+        "hinglish": "safar"
+      },
+      "answer": {
+        "hi": "सफ़र",
+        "hinglish": "safar"
+      },
+      "options": [
+        {
+          "hi": "सफ़र",
+          "hinglish": "safar"
+        },
+        {
+          "hi": "नक्शा",
+          "hinglish": "naksha"
+        },
+        {
+          "hi": "यात्री",
+          "hinglish": "yaatri"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W56.4",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "unhappy",
+        "emoji": "😞",
+        "hindi": "दुखी",
+        "hinglish": "dukhi"
+      },
+      "answer": {
+        "hi": "दुखी",
+        "hinglish": "dukhi"
+      },
+      "options": [
+        {
+          "hi": "दुखी",
+          "hinglish": "dukhi"
+        },
+        {
+          "hi": "निर्दयी",
+          "hinglish": "nirdayi"
+        },
+        {
+          "hi": "नापसंद करना",
+          "hinglish": "naapasand karna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W56.5",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "heart",
+        "emoji": "❤️",
+        "hindi": "दिल",
+        "hinglish": "dil"
+      },
+      "answer": {
+        "hi": "दिल",
+        "hinglish": "dil"
+      },
+      "options": [
+        {
+          "hi": "दिल",
+          "hinglish": "dil"
+        },
+        {
+          "hi": "भूख",
+          "hinglish": "bhookh"
+        },
+        {
+          "hi": "एलर्जी",
+          "hinglish": "allergy"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W56.6",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "collect",
+        "emoji": "🧺",
+        "hindi": "इकट्ठा करना",
+        "hinglish": "ikattha karna"
+      },
+      "answer": {
+        "hi": "इकट्ठा करना",
+        "hinglish": "ikattha karna"
+      },
+      "options": [
+        {
+          "hi": "इकट्ठा करना",
+          "hinglish": "ikattha karna"
+        },
+        {
+          "hi": "जश्न मनाना",
+          "hinglish": "jashn manaana"
+        },
+        {
+          "hi": "तैयारी करना",
+          "hinglish": "taiyaari karna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W78.1",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "citizen",
+        "emoji": "🧑",
+        "hindi": "नागरिक",
+        "hinglish": "naagrik"
+      },
+      "answer": {
+        "hi": "नागरिक",
+        "hinglish": "naagrik"
+      },
+      "options": [
+        {
+          "hi": "नागरिक",
+          "hinglish": "naagrik"
+        },
+        {
+          "hi": "कर्तव्य",
+          "hinglish": "kartavya"
+        },
+        {
+          "hi": "सरकार",
+          "hinglish": "sarkaar"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W78.2",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "decision",
+        "emoji": "🤔",
+        "hindi": "फ़ैसला",
+        "hinglish": "faisla"
+      },
+      "answer": {
+        "hi": "फ़ैसला",
+        "hinglish": "faisla"
+      },
+      "options": [
+        {
+          "hi": "फ़ैसला",
+          "hinglish": "faisla"
+        },
+        {
+          "hi": "उपलब्धि",
+          "hinglish": "uplabdhi"
+        },
+        {
+          "hi": "निमंत्रण",
+          "hinglish": "nimantran"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W78.3",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "affect",
+        "emoji": "🌧️",
+        "hindi": "असर डालना",
+        "hinglish": "asar daalna"
+      },
+      "answer": {
+        "hi": "असर डालना",
+        "hinglish": "asar daalna"
+      },
+      "options": [
+        {
+          "hi": "असर डालना",
+          "hinglish": "asar daalna"
+        },
+        {
+          "hi": "असर",
+          "hinglish": "asar"
+        },
+        {
+          "hi": "प्रधानाचार्य",
+          "hinglish": "pradhaanaachaarya"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W78.4",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "continent",
+        "emoji": "🗺️",
+        "hindi": "महाद्वीप",
+        "hinglish": "mahaadweep"
+      },
+      "answer": {
+        "hi": "महाद्वीप",
+        "hinglish": "mahaadweep"
+      },
+      "options": [
+        {
+          "hi": "महाद्वीप",
+          "hinglish": "mahaadweep"
+        },
+        {
+          "hi": "घाटी",
+          "hinglish": "ghaati"
+        },
+        {
+          "hi": "जनसंख्या",
+          "hinglish": "jansankhya"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W78.5",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "engineer",
+        "emoji": "👷",
+        "hindi": "इंजीनियर",
+        "hinglish": "engineer"
+      },
+      "answer": {
+        "hi": "इंजीनियर",
+        "hinglish": "engineer"
+      },
+      "options": [
+        {
+          "hi": "इंजीनियर",
+          "hinglish": "engineer"
+        },
+        {
+          "hi": "साक्षात्कार",
+          "hinglish": "saakshaatkaar"
+        },
+        {
+          "hi": "अनुभव",
+          "hinglish": "anubhav"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W.PLACE.W78.6",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sustainable",
+        "emoji": "♻️",
+        "hindi": "टिकाऊ",
+        "hinglish": "tikaau"
+      },
+      "answer": {
+        "hi": "टिकाऊ",
+        "hinglish": "tikaau"
+      },
+      "options": [
+        {
+          "hi": "टिकाऊ",
+          "hinglish": "tikaau"
+        },
+        {
+          "hi": "संसाधन",
+          "hinglish": "sansaadhan"
+        },
+        {
+          "hi": "नवीकरणीय",
+          "hinglish": "naveekarneey"
+        }
+      ]
+    }
+  ]
+}

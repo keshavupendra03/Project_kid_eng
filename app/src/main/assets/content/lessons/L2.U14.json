@@ -63,22 +63,22 @@
           "hinglish": "chidiya"
         },
         {
-          "english": "frog",
-          "emoji": "🐸",
-          "hindi": "मेंढक",
-          "hinglish": "mendhak"
+          "english": "butterfly",
+          "emoji": "🦋",
+          "hindi": "तितली",
+          "hinglish": "titli"
+        },
+        {
+          "english": "bee",
+          "emoji": "🐝",
+          "hindi": "मधुमक्खी",
+          "hinglish": "madhumakkhi"
         },
         {
           "english": "mouse",
           "emoji": "🐁",
           "hindi": "चूहा",
           "hinglish": "chooha"
-        },
-        {
-          "english": "parrot",
-          "emoji": "🦜",
-          "hindi": "तोता",
-          "hinglish": "tota"
         }
       ]
     },
@@ -93,8 +93,8 @@
       "answer": "parrot",
       "options": [
         "parrot",
-        "ant",
-        "bird"
+        "butterfly",
+        "bee"
       ]
     },
     {
@@ -155,16 +155,16 @@
           "hinglish": "tota"
         },
         {
-          "english": "ant",
-          "emoji": "🐜",
-          "hindi": "चींटी",
-          "hinglish": "cheenti"
+          "english": "mouse",
+          "emoji": "🐁",
+          "hindi": "चूहा",
+          "hinglish": "chooha"
         },
         {
-          "english": "bird",
-          "emoji": "🐦",
-          "hindi": "चिड़िया",
-          "hinglish": "chidiya"
+          "english": "frog",
+          "emoji": "🐸",
+          "hindi": "मेंढक",
+          "hinglish": "mendhak"
         }
       ]
     },
@@ -179,8 +179,8 @@
       "answer": "butterfly",
       "options": [
         "butterfly",
-        "mouse",
-        "bird"
+        "bird",
+        "ant"
       ]
     },
     {
@@ -220,37 +220,34 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U14.S12",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.animals"
       ],
-      "answer": "ant",
+      "word": {
+        "english": "ant",
+        "emoji": "🐜",
+        "hindi": "चींटी",
+        "hinglish": "cheenti"
+      },
+      "answer": {
+        "hi": "चींटी",
+        "hinglish": "cheenti"
+      },
       "options": [
         {
-          "english": "ant",
-          "emoji": "🐜",
-          "hindi": "चींटी",
+          "hi": "चींटी",
           "hinglish": "cheenti"
         },
         {
-          "english": "parrot",
-          "emoji": "🦜",
-          "hindi": "तोता",
-          "hinglish": "tota"
+          "hi": "मोर",
+          "hinglish": "mor"
         },
         {
-          "english": "bird",
-          "emoji": "🐦",
-          "hindi": "चिड़िया",
-          "hinglish": "chidiya"
-        },
-        {
-          "english": "butterfly",
-          "emoji": "🦋",
-          "hindi": "तितली",
-          "hinglish": "titli"
+          "hi": "मेंढक",
+          "hinglish": "mendhak"
         }
       ]
     },
@@ -265,7 +262,7 @@
       "answer": "bee",
       "options": [
         "bee",
-        "ant",
+        "peacock",
         "frog"
       ]
     },
@@ -321,10 +318,10 @@
           "hinglish": "mendhak"
         },
         {
-          "english": "mouse",
-          "emoji": "🐁",
-          "hindi": "चूहा",
-          "hinglish": "chooha"
+          "english": "bee",
+          "emoji": "🐝",
+          "hindi": "मधुमक्खी",
+          "hinglish": "madhumakkhi"
         },
         {
           "english": "butterfly",
@@ -351,8 +348,8 @@
       "answer": "mouse",
       "options": [
         "mouse",
-        "bee",
-        "peacock"
+        "peacock",
+        "bird"
       ]
     },
     {
@@ -378,12 +375,12 @@
           "hinglish": "mendhak"
         },
         {
-          "hi": "मोर",
-          "hinglish": "mor"
-        },
-        {
           "hi": "चिड़िया",
           "hinglish": "chidiya"
+        },
+        {
+          "hi": "तितली",
+          "hinglish": "titli"
         }
       ]
     },
@@ -395,23 +392,23 @@
         "vocab.animals"
       ],
       "word": {
-        "english": "peacock",
-        "emoji": "🦚",
-        "hindi": "मोर",
-        "hinglish": "mor"
+        "english": "butterfly",
+        "emoji": "🦋",
+        "hindi": "तितली",
+        "hinglish": "titli"
       },
       "answer": {
-        "hi": "मोर",
-        "hinglish": "mor"
+        "hi": "तितली",
+        "hinglish": "titli"
       },
       "options": [
         {
-          "hi": "मोर",
-          "hinglish": "mor"
+          "hi": "तितली",
+          "hinglish": "titli"
         },
         {
-          "hi": "मधुमक्खी",
-          "hinglish": "madhumakkhi"
+          "hi": "मेंढक",
+          "hinglish": "mendhak"
         },
         {
           "hi": "चींटी",
@@ -460,9 +457,9 @@
         "read.word",
         "vocab.animals"
       ],
-      "answer": "mouse",
+      "answer": "bee",
       "options": [
-        "mouse",
+        "bee",
         "bird",
         "butterfly"
       ]

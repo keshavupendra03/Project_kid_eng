@@ -1,0 +1,185 @@
+{
+  "id": "W56.P03T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "listen_read",
+      "id": "W56.P03T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "oxygen",
+      "options": [
+        "oxygen",
+        "magnet",
+        "evaporate"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P03T.S02",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "planet",
+        "emoji": "🪐",
+        "hindi": "ग्रह",
+        "hinglish": "grah"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P03T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "observe",
+        "emoji": "👀",
+        "hindi": "ध्यान से देखना",
+        "hinglish": "dhyaan se dekhna"
+      },
+      "answer": {
+        "hi": "ध्यान से देखना",
+        "hinglish": "dhyaan se dekhna"
+      },
+      "options": [
+        {
+          "hi": "ध्यान से देखना",
+          "hinglish": "dhyaan se dekhna"
+        },
+        {
+          "hi": "तरल",
+          "hinglish": "taral"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण",
+          "hinglish": "gurutvaakarshan"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P03T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The hot sun makes water ___.",
+      "answer": "evaporate",
+      "options": [
+        "evaporate",
+        "planet",
+        "observe"
+      ],
+      "meaning": {
+        "hi": "भाप बनना",
+        "hinglish": "bhaap banna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P03T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "solid",
+      "options": [
+        "solid",
+        "observe",
+        "evaporate"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P03T.S06",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "liquid",
+        "emoji": "💧",
+        "hindi": "तरल",
+        "hinglish": "taral"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P03T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "gravity",
+        "emoji": "🍎",
+        "hindi": "गुरुत्वाकर्षण",
+        "hinglish": "gurutvaakarshan"
+      },
+      "answer": {
+        "hi": "गुरुत्वाकर्षण",
+        "hinglish": "gurutvaakarshan"
+      },
+      "options": [
+        {
+          "hi": "गुरुत्वाकर्षण",
+          "hinglish": "gurutvaakarshan"
+        },
+        {
+          "hi": "तरल",
+          "hinglish": "taral"
+        },
+        {
+          "hi": "ऊर्जा",
+          "hinglish": "oorja"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P03T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "A ___ can pick up pins.",
+      "answer": "magnet",
+      "options": [
+        "magnet",
+        "evaporate",
+        "oxygen"
+      ],
+      "meaning": {
+        "hi": "चुंबक",
+        "hinglish": "chumbak"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P03T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "experiment",
+      "options": [
+        "experiment",
+        "evaporate",
+        "solid"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P03T.S10",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "energy",
+        "emoji": "🔋",
+        "hindi": "ऊर्जा",
+        "hinglish": "oorja"
+      },
+      "typed": true
+    }
+  ]
+}

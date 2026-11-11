@@ -12,4 +12,8 @@ build/
 *.aab
 *.jks
 *.keystore
+/keystore.properties
 /recordings/
+/app/src/debug/assets/model-en-in/
+/app/src/main/assets/zipformer-en-20m/
+/app/src/main/jniLibs/

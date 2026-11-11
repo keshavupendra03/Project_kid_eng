@@ -1,0 +1,141 @@
+{
+  "id": "R3.P02",
+  "level": 103,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R3.P02.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Lost Bird’ (खोई हुई चिड़िया)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Lost Bird’ (Khoi hui chidiya). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Lost Bird’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P02.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘bird’ मतलब चिड़िया। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘bird’ matlab chidiya. Chhookar suno, phir bolo.",
+        "en": "‘bird’ means चिड़िया. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "bird",
+        "emoji": "🐦",
+        "hindi": "चिड़िया",
+        "hinglish": "chidiya"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P02.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘nest’ मतलब घोंसला। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘nest’ matlab ghosla. Chhookar suno, phir bolo.",
+        "en": "‘nest’ means घोंसला. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "nest",
+        "emoji": "🪺",
+        "hindi": "घोंसला",
+        "hinglish": "ghosla"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P02.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘afraid’ मतलब डरा हुआ। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘afraid’ matlab dara hua. Chhookar suno, phir bolo.",
+        "en": "‘afraid’ means डरा हुआ. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "afraid",
+        "emoji": "😨",
+        "hindi": "डरा हुआ",
+        "hinglish": "dara hua"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R3.P02.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "खोई हुई चिड़िया",
+        "hinglish": "Khoi hui chidiya",
+        "en": "The Lost Bird"
+      },
+      "sentences": [
+        "A small bird falls from a tree.",
+        "Amit sees it on the ground.",
+        "\"Do not be afraid,\" he says softly.",
+        "He picks up the bird with care.",
+        "He puts it back in the nest.",
+        "The mother bird comes flying.",
+        "Amit smiles and walks home."
+      ],
+      "words": [
+        {
+          "english": "bird",
+          "emoji": "🐦",
+          "hindi": "चिड़िया",
+          "hinglish": "chidiya"
+        },
+        {
+          "english": "nest",
+          "emoji": "🪺",
+          "hindi": "घोंसला",
+          "hinglish": "ghosla"
+        },
+        {
+          "english": "afraid",
+          "emoji": "😨",
+          "hindi": "डरा हुआ",
+          "hinglish": "dara hua"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P02.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "चिड़िया कहाँ से गिरी?",
+        "hinglish": "Chidiya kahan se giri?",
+        "en": "Where did the bird fall from?"
+      },
+      "options": [
+        "from a tree",
+        "from a bus",
+        "from a bag"
+      ],
+      "answer": "from a tree"
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P02.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "अमित चिड़िया को कहाँ रखता है?",
+        "hinglish": "Amit chidiya ko kahan rakhta hai?",
+        "en": "Where does Amit put the bird?"
+      },
+      "options": [
+        "in the nest",
+        "in a box",
+        "on a mat"
+      ],
+      "answer": "in the nest"
+    }
+  ]
+}

@@ -79,7 +79,7 @@ internal fun SayWordStep(step: SayWord, feedback: Feedback, onAnswer: OnAnswer, 
         Instruction(UiStrings.sayThis)
         Spacer(Modifier.height(12.dp))
         ModelCard(english = step.word.english) {
-            Text(step.word.emoji, fontSize = 60.sp)
+            if (step.word.emoji.isNotEmpty()) Text(step.word.emoji, fontSize = 60.sp)
             Text(step.word.english, style = MaterialTheme.typography.displaySmall, color = MaterialTheme.colorScheme.primary)
         }
         Spacer(Modifier.height(16.dp))
@@ -200,16 +200,37 @@ private fun ModelCard(english: String, content: @Composable () -> Unit) {
 /** STARTING = recogniser is opening (don't speak yet); LISTENING = mic is open, speak now. */
 private enum class MicState { IDLE, STARTING, LISTENING }
 
-/**
- * The microphone: asks for permission kindly, listens once per tap, checks the answer with
- * [SpeechChecker], and always offers a no-penalty "skip" for noisy rooms or shy children.
- */
+/** A mic that checks what was said against one target with [SpeechChecker]. */
 @Composable
-private fun SpeakPanel(
+internal fun SpeakPanel(
     target: String,
     accept: List<String>,
     feedback: Feedback,
     onAnswer: OnAnswer,
+    onSkip: () -> Unit,
+) {
+    MicPanel(
+        enabled = !feedback.isDone,
+        showHeard = feedback != Feedback.CORRECT,
+        onHeard = { guesses ->
+            when (val verdict = SpeechChecker.check(target, guesses, accept)) {
+                SpeechVerdict.Correct -> onAnswer(true, null)
+                is SpeechVerdict.Wrong -> onAnswer(false, verdict.mistake)
+            }
+        },
+        onSkip = onSkip,
+    )
+}
+
+/**
+ * The microphone: asks for permission kindly, listens once per tap, hands over what it heard,
+ * and always offers a no-penalty "skip" for noisy rooms or shy children.
+ */
+@Composable
+internal fun MicPanel(
+    enabled: Boolean,
+    showHeard: Boolean,
+    onHeard: (List<String>) -> Unit,
     onSkip: () -> Unit,
 ) {
     val context = LocalContext.current
@@ -253,10 +274,7 @@ private fun SpeakPanel(
                 status = when (result) {
                     is ListenResult.Heard -> {
                         heard = result.guesses.first()
-                        when (val verdict = SpeechChecker.check(target, result.guesses, accept)) {
-                            SpeechVerdict.Correct -> onAnswer(true, null)
-                            is SpeechVerdict.Wrong -> onAnswer(false, verdict.mistake)
-                        }
+                        onHeard(result.guesses)
                         null
                     }
                     ListenResult.NothingHeard -> UiStrings.notHeard
@@ -291,7 +309,7 @@ private fun SpeakPanel(
         MicButton(
             state = mic,
             level = level,
-            enabled = !feedback.isDone,
+            enabled = enabled,
             onClick = {
                 when {
                     // Tapping while listening means "I'm done": get the result right away.
@@ -312,13 +330,13 @@ private fun SpeakPanel(
                 color = MaterialTheme.colorScheme.primary,
             )
             // Showing what was heard helps the child notice their own slip ("tin" instead of "thin").
-            heardText != null && feedback != Feedback.CORRECT -> Text(
+            heardText != null && showHeard -> Text(
                 "${UiStrings.heard.text()}: “$heardText”",
                 style = MaterialTheme.typography.titleMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
                 textAlign = TextAlign.Center,
             )
-            status != null && !feedback.isDone -> Text(
+            status != null && enabled -> Text(
                 status!!.text(),
                 style = MaterialTheme.typography.titleMedium,
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
@@ -326,7 +344,7 @@ private fun SpeakPanel(
             )
         }
 
-        if (!feedback.isDone) {
+        if (enabled) {
             TextButton(onClick = {
                 listener.cancel()
                 mic = MicState.IDLE

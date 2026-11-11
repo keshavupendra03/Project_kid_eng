@@ -1,0 +1,203 @@
+{
+  "id": "W78.P08T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "spell_word",
+      "id": "W78.P08T.S01",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "earthquake",
+        "emoji": "🫨",
+        "hindi": "भूकंप",
+        "hinglish": "bhookamp"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P08T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "population",
+        "emoji": "👥",
+        "hindi": "जनसंख्या",
+        "hinglish": "jansankhya"
+      },
+      "answer": {
+        "hi": "जनसंख्या",
+        "hinglish": "jansankhya"
+      },
+      "options": [
+        {
+          "hi": "जनसंख्या",
+          "hinglish": "jansankhya"
+        },
+        {
+          "hi": "मानसून",
+          "hinglish": "monsoon"
+        },
+        {
+          "hi": "ज्वालामुखी",
+          "hinglish": "jwaalaamukhi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P08T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ brings rain to the fields.",
+      "answer": "monsoon",
+      "options": [
+        "monsoon",
+        "continent",
+        "population"
+      ],
+      "meaning": {
+        "hi": "मानसून",
+        "hinglish": "monsoon"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P08T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "volcano",
+      "options": [
+        "volcano",
+        "valley",
+        "drought"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P08T.S05",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "valley",
+        "emoji": "🏞️",
+        "hindi": "घाटी",
+        "hinglish": "ghaati"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P08T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "coast",
+        "emoji": "🏖️",
+        "hindi": "तट",
+        "hinglish": "tat"
+      },
+      "answer": {
+        "hi": "तट",
+        "hinglish": "tat"
+      },
+      "options": [
+        {
+          "hi": "तट",
+          "hinglish": "tat"
+        },
+        {
+          "hi": "ज्वालामुखी",
+          "hinglish": "jwaalaamukhi"
+        },
+        {
+          "hi": "भूकंप",
+          "hinglish": "bhookamp"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P08T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The Deccan ___ is in the middle of India.",
+      "answer": "plateau",
+      "options": [
+        "plateau",
+        "continent",
+        "peninsula"
+      ],
+      "meaning": {
+        "hi": "पठार",
+        "hinglish": "pathaar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P08T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "continent",
+      "options": [
+        "continent",
+        "earthquake",
+        "plateau"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P08T.S09",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "drought",
+        "emoji": "🌵",
+        "hindi": "सूखा",
+        "hinglish": "sookha"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P08T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "peninsula",
+        "emoji": "🏝️",
+        "hindi": "प्रायद्वीप",
+        "hinglish": "praayadweep"
+      },
+      "answer": {
+        "hi": "प्रायद्वीप",
+        "hinglish": "praayadweep"
+      },
+      "options": [
+        {
+          "hi": "प्रायद्वीप",
+          "hinglish": "praayadweep"
+        },
+        {
+          "hi": "भूकंप",
+          "hinglish": "bhookamp"
+        },
+        {
+          "hi": "पठार",
+          "hinglish": "pathaar"
+        }
+      ]
+    }
+  ]
+}

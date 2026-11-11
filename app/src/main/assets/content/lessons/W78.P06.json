@@ -1,0 +1,480 @@
+{
+  "id": "W78.P06",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P06.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: मिलते-जुलते शब्द 2। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Milte-julte shabd 2. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Confusing pairs 2. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P06.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "affect",
+        "emoji": "🌧️",
+        "hindi": "असर डालना",
+        "hinglish": "asar daalna"
+      },
+      "meaning": "to make a change in something",
+      "example": "Rain can affect the match.",
+      "exampleMeaning": {
+        "hi": "बारिश मैच पर असर डाल सकती है।",
+        "hinglish": "Baarish match par asar daal sakti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P06.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "effect",
+        "emoji": "💥",
+        "hindi": "असर",
+        "hinglish": "asar"
+      },
+      "meaning": "the result of a change",
+      "example": "The medicine had a quick effect.",
+      "exampleMeaning": {
+        "hi": "दवाई का जल्दी असर हुआ।",
+        "hinglish": "Dawaai ka jaldi asar hua."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P06.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "principal",
+        "emoji": "🧑‍💼",
+        "hindi": "प्रधानाचार्य",
+        "hinglish": "pradhaanaachaarya"
+      },
+      "meaning": "the head of a school",
+      "example": "The principal gave us prizes.",
+      "exampleMeaning": {
+        "hi": "प्रधानाचार्य ने हमें इनाम दिए।",
+        "hinglish": "Pradhaanaachaarya ne hamein inaam diye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P06.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "principle",
+        "emoji": "📜",
+        "hindi": "सिद्धांत",
+        "hinglish": "siddhaant"
+      },
+      "meaning": "a rule you believe in",
+      "example": "Honesty is his main principle.",
+      "exampleMeaning": {
+        "hi": "ईमानदारी उसका सबसे बड़ा सिद्धांत है।",
+        "hinglish": "Imaandaari uska sabse bada siddhaant hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P06.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "whether",
+        "emoji": "❓",
+        "hindi": "कि क्या",
+        "hinglish": "ki kya"
+      },
+      "meaning": "if; used when there are choices",
+      "example": "I do not know whether it will rain.",
+      "exampleMeaning": {
+        "hi": "मुझे नहीं पता कि बारिश होगी या नहीं।",
+        "hinglish": "Mujhe nahi pata ki baarish hogi ya nahi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P06.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "council",
+        "emoji": "🏛️",
+        "hindi": "परिषद",
+        "hinglish": "parishad"
+      },
+      "meaning": "a group of people who make decisions",
+      "example": "The village council met today.",
+      "exampleMeaning": {
+        "hi": "आज गाँव की पंचायत की बैठक हुई।",
+        "hinglish": "Aaj gaon ki panchaayat ki baithak hui."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P06.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "counsel",
+        "emoji": "🗣️",
+        "hindi": "सलाह देना",
+        "hinglish": "salaah dena"
+      },
+      "meaning": "to give advice",
+      "example": "The teacher will counsel the new students.",
+      "exampleMeaning": {
+        "hi": "टीचर नए विद्यार्थियों को सलाह देंगे।",
+        "hinglish": "Teacher naye vidyaarthiyon ko salaah denge."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P06.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "compliment",
+        "emoji": "😊",
+        "hindi": "तारीफ़",
+        "hinglish": "taareef"
+      },
+      "meaning": "something nice said about someone",
+      "example": "She gave me a compliment on my drawing.",
+      "exampleMeaning": {
+        "hi": "उसने मेरी ड्रॉइंग की तारीफ़ की।",
+        "hinglish": "Usne meri drawing ki taareef ki."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P06.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "complement",
+        "emoji": "🧩",
+        "hindi": "पूरक",
+        "hinglish": "poorak"
+      },
+      "meaning": "something that makes another thing complete",
+      "example": "Rice and dal complement each other.",
+      "exampleMeaning": {
+        "hi": "चावल और दाल एक-दूसरे को पूरा करते हैं।",
+        "hinglish": "Chaawal aur daal ek-doosre ko poora karte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P06.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "stationary",
+        "emoji": "🛑",
+        "hindi": "स्थिर",
+        "hinglish": "sthir"
+      },
+      "meaning": "not moving",
+      "example": "The bus was stationary at the signal.",
+      "exampleMeaning": {
+        "hi": "बस सिग्नल पर रुकी खड़ी थी।",
+        "hinglish": "Bus signal par ruki khadi thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P06.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The medicine had a quick ___.",
+      "answer": "effect",
+      "options": [
+        "effect",
+        "complement",
+        "principal"
+      ],
+      "meaning": {
+        "hi": "असर",
+        "hinglish": "asar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P06.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "stationary",
+      "options": [
+        "stationary",
+        "complement",
+        "effect"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P06.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "complement",
+      "options": [
+        "complement",
+        "principle",
+        "affect"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P06.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "She gave me a ___ on my drawing.",
+      "answer": "compliment",
+      "options": [
+        "compliment",
+        "effect",
+        "whether"
+      ],
+      "meaning": {
+        "hi": "तारीफ़",
+        "hinglish": "taareef"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P06.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "whether",
+        "emoji": "❓",
+        "hindi": "कि क्या",
+        "hinglish": "ki kya"
+      },
+      "answer": {
+        "hi": "कि क्या",
+        "hinglish": "ki kya"
+      },
+      "options": [
+        {
+          "hi": "कि क्या",
+          "hinglish": "ki kya"
+        },
+        {
+          "hi": "प्रधानाचार्य",
+          "hinglish": "pradhaanaachaarya"
+        },
+        {
+          "hi": "सिद्धांत",
+          "hinglish": "siddhaant"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P06.S17",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "affect",
+        "emoji": "🌧️",
+        "hindi": "असर डालना",
+        "hinglish": "asar daalna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P06.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "effect",
+        "emoji": "💥",
+        "hindi": "असर",
+        "hinglish": "asar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P06.S19",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "principal",
+        "emoji": "🧑‍💼",
+        "hindi": "प्रधानाचार्य",
+        "hinglish": "pradhaanaachaarya"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P06.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "principal",
+        "emoji": "🧑‍💼",
+        "hindi": "प्रधानाचार्य",
+        "hinglish": "pradhaanaachaarya"
+      },
+      "answer": {
+        "hi": "प्रधानाचार्य",
+        "hinglish": "pradhaanaachaarya"
+      },
+      "options": [
+        {
+          "hi": "प्रधानाचार्य",
+          "hinglish": "pradhaanaachaarya"
+        },
+        {
+          "hi": "परिषद",
+          "hinglish": "parishad"
+        },
+        {
+          "hi": "असर डालना",
+          "hinglish": "asar daalna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P06.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Honesty is his main ___.",
+      "answer": "principle",
+      "options": [
+        "principle",
+        "complement",
+        "whether"
+      ],
+      "meaning": {
+        "hi": "सिद्धांत",
+        "hinglish": "siddhaant"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P06.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "affect",
+        "emoji": "🌧️",
+        "hindi": "असर डालना",
+        "hinglish": "asar daalna"
+      },
+      "answer": {
+        "hi": "असर डालना",
+        "hinglish": "asar daalna"
+      },
+      "options": [
+        {
+          "hi": "असर डालना",
+          "hinglish": "asar daalna"
+        },
+        {
+          "hi": "सिद्धांत",
+          "hinglish": "siddhaant"
+        },
+        {
+          "hi": "पूरक",
+          "hinglish": "poorak"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P06.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The village ___ met today.",
+      "answer": "council",
+      "options": [
+        "council",
+        "complement",
+        "effect"
+      ],
+      "meaning": {
+        "hi": "परिषद",
+        "hinglish": "parishad"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P06.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "counsel",
+        "emoji": "🗣️",
+        "hindi": "सलाह देना",
+        "hinglish": "salaah dena"
+      },
+      "answer": {
+        "hi": "सलाह देना",
+        "hinglish": "salaah dena"
+      },
+      "options": [
+        {
+          "hi": "सलाह देना",
+          "hinglish": "salaah dena"
+        },
+        {
+          "hi": "प्रधानाचार्य",
+          "hinglish": "pradhaanaachaarya"
+        },
+        {
+          "hi": "स्थिर",
+          "hinglish": "sthir"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P06.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "principle",
+        "emoji": "📜",
+        "hindi": "सिद्धांत",
+        "hinglish": "siddhaant"
+      }
+    }
+  ]
+}

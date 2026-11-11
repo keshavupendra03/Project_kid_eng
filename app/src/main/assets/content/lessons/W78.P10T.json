@@ -1,0 +1,189 @@
+{
+  "id": "W78.P10T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "W78.P10T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "She has a job ___ tomorrow.",
+      "answer": "interview",
+      "options": [
+        "interview",
+        "architect",
+        "salary"
+      ],
+      "meaning": {
+        "hi": "साक्षात्कार",
+        "hinglish": "saakshaatkaar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P10T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "scientist",
+      "options": [
+        "scientist",
+        "salary",
+        "journalist"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P10T.S03",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "lawyer",
+        "emoji": "⚖️",
+        "hindi": "वकील",
+        "hinglish": "vakeel"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P10T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "journalist",
+        "emoji": "📰",
+        "hindi": "पत्रकार",
+        "hinglish": "patrakaar"
+      },
+      "answer": {
+        "hi": "पत्रकार",
+        "hinglish": "patrakaar"
+      },
+      "options": [
+        {
+          "hi": "पत्रकार",
+          "hinglish": "patrakaar"
+        },
+        {
+          "hi": "वकील",
+          "hinglish": "vakeel"
+        },
+        {
+          "hi": "वैज्ञानिक",
+          "hinglish": "vaigyaanik"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P10T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ landed the plane safely.",
+      "answer": "pilot",
+      "options": [
+        "pilot",
+        "lawyer",
+        "interview"
+      ],
+      "meaning": {
+        "hi": "पायलट",
+        "hinglish": "pilot"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P10T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "engineer",
+      "options": [
+        "engineer",
+        "scientist",
+        "interview"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P10T.S07",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "salary",
+        "emoji": "💵",
+        "hindi": "तनख़्वाह",
+        "hinglish": "tankhwaah"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P10T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "experience",
+        "emoji": "🧓",
+        "hindi": "अनुभव",
+        "hinglish": "anubhav"
+      },
+      "answer": {
+        "hi": "अनुभव",
+        "hinglish": "anubhav"
+      },
+      "options": [
+        {
+          "hi": "अनुभव",
+          "hinglish": "anubhav"
+        },
+        {
+          "hi": "करियर",
+          "hinglish": "career"
+        },
+        {
+          "hi": "वैज्ञानिक",
+          "hinglish": "vaigyaanik"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P10T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ drew the plan of the house.",
+      "answer": "architect",
+      "options": [
+        "architect",
+        "career",
+        "pilot"
+      ],
+      "meaning": {
+        "hi": "वास्तुकार",
+        "hinglish": "vaastukaar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P10T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "career",
+      "options": [
+        "career",
+        "salary",
+        "scientist"
+      ]
+    }
+  ]
+}

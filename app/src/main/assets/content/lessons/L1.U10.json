@@ -23,7 +23,7 @@
       "text": {
         "hi": "यह ‘ee’ है। इसकी आवाज़ है ‘ई’, जैसे tree में।",
         "hinglish": "Yeh ‘ee’ hai. Iski awaaz hai ‘ee’, jaise tree mein.",
-        "en": "This is ‘ee’. Listen to its sound, like at the start of tree."
+        "en": "This is ‘ee’. Listen to its sound, as in tree."
       },
       "example": {
         "english": "tree",
@@ -44,7 +44,7 @@
       "text": {
         "hi": "यह ‘oa’ है। इसकी आवाज़ है ‘ओ’, जैसे boat में।",
         "hinglish": "Yeh ‘oa’ hai. Iski awaaz hai ‘o’, jaise boat mein.",
-        "en": "This is ‘oa’. Listen to its sound, like at the start of boat."
+        "en": "This is ‘oa’. Listen to its sound, as in boat."
       },
       "example": {
         "english": "boat",
@@ -54,7 +54,7 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "listen_read",
       "id": "L1.U10.S04",
       "skills": [
         "listen.word",
@@ -62,18 +62,8 @@
       ],
       "answer": "boat",
       "options": [
-        {
-          "english": "boat",
-          "emoji": "⛵",
-          "hindi": "नाव",
-          "hinglish": "naav"
-        },
-        {
-          "english": "tree",
-          "emoji": "🌳",
-          "hindi": "पेड़",
-          "hinglish": "ped"
-        }
+        "boat",
+        "tree"
       ]
     },
     {
@@ -88,7 +78,7 @@
       "text": {
         "hi": "यह ‘ai’ है। इसकी आवाज़ है ‘एइ’, जैसे rain में।",
         "hinglish": "Yeh ‘ai’ hai. Iski awaaz hai ‘ei’, jaise rain mein.",
-        "en": "This is ‘ai’. Listen to its sound, like at the start of rain."
+        "en": "This is ‘ai’. Listen to its sound, as in rain."
       },
       "example": {
         "english": "rain",
@@ -109,7 +99,7 @@
       "text": {
         "hi": "यह ‘oo’ है। इसकी आवाज़ है ‘ऊ’, जैसे moon में।",
         "hinglish": "Yeh ‘oo’ hai. Iski awaaz hai ‘oo’, jaise moon mein.",
-        "en": "This is ‘oo’. Listen to its sound, like at the start of moon."
+        "en": "This is ‘oo’. Listen to its sound, as in moon."
       },
       "example": {
         "english": "moon",
@@ -134,22 +124,16 @@
           "hinglish": "chaand"
         },
         {
-          "english": "tree",
-          "emoji": "🌳",
-          "hindi": "पेड़",
-          "hinglish": "ped"
+          "english": "boat",
+          "emoji": "⛵",
+          "hindi": "नाव",
+          "hinglish": "naav"
         },
         {
           "english": "rain",
           "emoji": "🌧️",
           "hindi": "बारिश",
           "hinglish": "baarish"
-        },
-        {
-          "english": "boat",
-          "emoji": "⛵",
-          "hindi": "नाव",
-          "hinglish": "naav"
         }
       ]
     },
@@ -235,7 +219,7 @@
       "options": [
         "sheep",
         "spoon",
-        "goat"
+        "food"
       ]
     },
     {
@@ -301,8 +285,8 @@
       "answer": "snail",
       "options": [
         "snail",
-        "bee",
-        "food"
+        "sheep",
+        "bee"
       ]
     },
     {
@@ -358,17 +342,16 @@
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L1.U10.S18",
       "skills": [
         "read.word",
         "phonics.blend"
       ],
-      "emoji": "🍲",
       "answer": "food",
       "options": [
         "food",
-        "spoon",
+        "bee",
         "snail"
       ]
     },

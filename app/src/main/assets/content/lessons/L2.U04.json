@@ -48,37 +48,34 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U04.S04",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.family"
       ],
-      "answer": "friend",
+      "word": {
+        "english": "friend",
+        "emoji": "🤝",
+        "hindi": "दोस्त",
+        "hinglish": "dost"
+      },
+      "answer": {
+        "hi": "दोस्त",
+        "hinglish": "dost"
+      },
       "options": [
         {
-          "english": "friend",
-          "emoji": "🤝",
-          "hindi": "दोस्त",
+          "hi": "दोस्त",
           "hinglish": "dost"
         },
         {
-          "english": "child",
-          "emoji": "🧒",
-          "hindi": "बच्चा",
-          "hinglish": "bachcha"
-        },
-        {
-          "english": "girl",
-          "emoji": "👧",
-          "hindi": "लड़की",
+          "hi": "लड़की",
           "hinglish": "ladki"
         },
         {
-          "english": "woman",
-          "emoji": "👩",
-          "hindi": "औरत",
-          "hinglish": "aurat"
+          "hi": "लड़का",
+          "hinglish": "ladka"
         }
       ]
     },
@@ -93,8 +90,8 @@
       "answer": "uncle",
       "options": [
         "uncle",
-        "girl",
-        "boy"
+        "friend",
+        "aunt"
       ]
     },
     {
@@ -134,53 +131,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U04.S08",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.family"
       ],
-      "answer": "aunt",
+      "word": {
+        "english": "aunt",
+        "emoji": "👩‍🦰",
+        "hindi": "चाची / मौसी",
+        "hinglish": "chachi / mausi"
+      },
+      "answer": {
+        "hi": "चाची / मौसी",
+        "hinglish": "chachi / mausi"
+      },
       "options": [
         {
-          "english": "aunt",
-          "emoji": "👩‍🦰",
-          "hindi": "चाची / मौसी",
+          "hi": "चाची / मौसी",
           "hinglish": "chachi / mausi"
         },
         {
-          "english": "friend",
-          "emoji": "🤝",
-          "hindi": "दोस्त",
-          "hinglish": "dost"
+          "hi": "लड़की",
+          "hinglish": "ladki"
         },
         {
-          "english": "uncle",
-          "emoji": "🧔",
-          "hindi": "चाचा / मामा",
+          "hi": "चाचा / मामा",
           "hinglish": "chacha / mama"
-        },
-        {
-          "english": "man",
-          "emoji": "👨",
-          "hindi": "आदमी",
-          "hinglish": "aadmi"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U04.S09",
       "skills": [
         "read.word",
         "vocab.family"
       ],
-      "emoji": "👦",
       "answer": "boy",
       "options": [
         "boy",
-        "woman",
-        "aunt"
+        "man",
+        "friend"
       ]
     },
     {
@@ -220,53 +213,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U04.S12",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.family"
       ],
-      "answer": "girl",
+      "word": {
+        "english": "girl",
+        "emoji": "👧",
+        "hindi": "लड़की",
+        "hinglish": "ladki"
+      },
+      "answer": {
+        "hi": "लड़की",
+        "hinglish": "ladki"
+      },
       "options": [
         {
-          "english": "girl",
-          "emoji": "👧",
-          "hindi": "लड़की",
+          "hi": "लड़की",
           "hinglish": "ladki"
         },
         {
-          "english": "boy",
-          "emoji": "👦",
-          "hindi": "लड़का",
-          "hinglish": "ladka"
-        },
-        {
-          "english": "uncle",
-          "emoji": "🧔",
-          "hindi": "चाचा / मामा",
+          "hi": "चाचा / मामा",
           "hinglish": "chacha / mama"
         },
         {
-          "english": "aunt",
-          "emoji": "👩‍🦰",
-          "hindi": "चाची / मौसी",
-          "hinglish": "chachi / mausi"
+          "hi": "औरत",
+          "hinglish": "aurat"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U04.S13",
       "skills": [
         "read.word",
         "vocab.family"
       ],
-      "emoji": "👨",
       "answer": "man",
       "options": [
         "man",
         "child",
-        "girl"
+        "woman"
       ]
     },
     {
@@ -306,53 +295,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U04.S16",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.family"
       ],
-      "answer": "woman",
+      "word": {
+        "english": "woman",
+        "emoji": "👩",
+        "hindi": "औरत",
+        "hinglish": "aurat"
+      },
+      "answer": {
+        "hi": "औरत",
+        "hinglish": "aurat"
+      },
       "options": [
         {
-          "english": "woman",
-          "emoji": "👩",
-          "hindi": "औरत",
+          "hi": "औरत",
           "hinglish": "aurat"
         },
         {
-          "english": "girl",
-          "emoji": "👧",
-          "hindi": "लड़की",
+          "hi": "लड़का",
+          "hinglish": "ladka"
+        },
+        {
+          "hi": "लड़की",
           "hinglish": "ladki"
-        },
-        {
-          "english": "friend",
-          "emoji": "🤝",
-          "hindi": "दोस्त",
-          "hinglish": "dost"
-        },
-        {
-          "english": "man",
-          "emoji": "👨",
-          "hindi": "आदमी",
-          "hinglish": "aadmi"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U04.S17",
       "skills": [
         "read.word",
         "vocab.family"
       ],
-      "emoji": "🧒",
       "answer": "child",
       "options": [
         "child",
-        "friend",
-        "uncle"
+        "aunt",
+        "man"
       ]
     },
     {
@@ -378,12 +363,12 @@
           "hinglish": "dost"
         },
         {
-          "hi": "लड़की",
-          "hinglish": "ladki"
+          "hi": "बच्चा",
+          "hinglish": "bachcha"
         },
         {
-          "hi": "आदमी",
-          "hinglish": "aadmi"
+          "hi": "चाचा / मामा",
+          "hinglish": "chacha / mama"
         }
       ]
     },
@@ -395,27 +380,27 @@
         "vocab.family"
       ],
       "word": {
-        "english": "aunt",
-        "emoji": "👩‍🦰",
-        "hindi": "चाची / मौसी",
-        "hinglish": "chachi / mausi"
+        "english": "girl",
+        "emoji": "👧",
+        "hindi": "लड़की",
+        "hinglish": "ladki"
       },
       "answer": {
-        "hi": "चाची / मौसी",
-        "hinglish": "chachi / mausi"
+        "hi": "लड़की",
+        "hinglish": "ladki"
       },
       "options": [
-        {
-          "hi": "चाची / मौसी",
-          "hinglish": "chachi / mausi"
-        },
         {
           "hi": "लड़की",
           "hinglish": "ladki"
         },
         {
-          "hi": "लड़का",
-          "hinglish": "ladka"
+          "hi": "औरत",
+          "hinglish": "aurat"
+        },
+        {
+          "hi": "दोस्त",
+          "hinglish": "dost"
         }
       ]
     },
@@ -454,11 +439,11 @@
         "read.word",
         "vocab.family"
       ],
-      "answer": "man",
+      "answer": "friend",
       "options": [
-        "man",
-        "woman",
-        "friend"
+        "friend",
+        "girl",
+        "uncle"
       ]
     },
     {

@@ -1,0 +1,203 @@
+{
+  "id": "W56.P12T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "spell_word",
+      "id": "W56.P12T.S01",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "prepare",
+        "emoji": "🧑‍🍳",
+        "hindi": "तैयारी करना",
+        "hinglish": "taiyaari karna"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P12T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "invent",
+        "emoji": "💡",
+        "hindi": "आविष्कार करना",
+        "hinglish": "aavishkaar karna"
+      },
+      "answer": {
+        "hi": "आविष्कार करना",
+        "hinglish": "aavishkaar karna"
+      },
+      "options": [
+        {
+          "hi": "आविष्कार करना",
+          "hinglish": "aavishkaar karna"
+        },
+        {
+          "hi": "इकट्ठा करना",
+          "hinglish": "ikattha karna"
+        },
+        {
+          "hi": "सुधारना",
+          "hinglish": "sudhaarna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P12T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The doctor will ___ your throat.",
+      "answer": "examine",
+      "options": [
+        "examine",
+        "compare",
+        "celebrate"
+      ],
+      "meaning": {
+        "hi": "जाँचना",
+        "hinglish": "jaanchna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P12T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "compare",
+      "options": [
+        "compare",
+        "prepare",
+        "collect"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P12T.S05",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "solve",
+        "emoji": "🧩",
+        "hindi": "हल करना",
+        "hinglish": "hal karna"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P12T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "collect",
+        "emoji": "🧺",
+        "hindi": "इकट्ठा करना",
+        "hinglish": "ikattha karna"
+      },
+      "answer": {
+        "hi": "इकट्ठा करना",
+        "hinglish": "ikattha karna"
+      },
+      "options": [
+        {
+          "hi": "इकट्ठा करना",
+          "hinglish": "ikattha karna"
+        },
+        {
+          "hi": "तुलना करना",
+          "hinglish": "tulna karna"
+        },
+        {
+          "hi": "जाँचना",
+          "hinglish": "jaanchna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P12T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ the table with a ruler.",
+      "answer": "measure",
+      "options": [
+        "measure",
+        "invent",
+        "celebrate"
+      ],
+      "meaning": {
+        "hi": "नापना",
+        "hinglish": "naapna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P12T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "celebrate",
+      "options": [
+        "celebrate",
+        "prepare",
+        "solve"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P12T.S09",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "improve",
+        "emoji": "📈",
+        "hindi": "सुधारना",
+        "hinglish": "sudhaarna"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P12T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "decide",
+        "emoji": "🤔",
+        "hindi": "तय करना",
+        "hinglish": "tay karna"
+      },
+      "answer": {
+        "hi": "तय करना",
+        "hinglish": "tay karna"
+      },
+      "options": [
+        {
+          "hi": "तय करना",
+          "hinglish": "tay karna"
+        },
+        {
+          "hi": "सुधारना",
+          "hinglish": "sudhaarna"
+        },
+        {
+          "hi": "नापना",
+          "hinglish": "naapna"
+        }
+      ]
+    }
+  ]
+}

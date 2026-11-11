@@ -1,0 +1,480 @@
+{
+  "id": "W34.P10",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P10.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: अच्छा व्यवहार। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Achha vyavhaar. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Good manners. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P10.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "polite",
+        "emoji": "🙂",
+        "hindi": "विनम्र",
+        "hinglish": "vinamra"
+      },
+      "meaning": "speaking and acting nicely to others",
+      "example": "Always be polite to elders.",
+      "exampleMeaning": {
+        "hi": "बड़ों से हमेशा विनम्रता से बात करो।",
+        "hinglish": "Badon se hamesha vinamrata se baat karo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P10.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "share",
+        "emoji": "🤲",
+        "hindi": "बाँटना",
+        "hinglish": "baantna"
+      },
+      "meaning": "to give part of what you have to others",
+      "example": "Share your toys with your friends.",
+      "exampleMeaning": {
+        "hi": "अपने खिलौने दोस्तों के साथ बाँटो।",
+        "hinglish": "Apne khilaune doston ke saath baanto."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P10.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "respect",
+        "emoji": "🙇",
+        "hindi": "आदर",
+        "hinglish": "aadar"
+      },
+      "meaning": "to treat someone as important",
+      "example": "We respect our teachers.",
+      "exampleMeaning": {
+        "hi": "हम अपने टीचरों का आदर करते हैं।",
+        "hinglish": "Hum apne teacheron ka aadar karte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P10.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "apologise",
+        "emoji": "😔",
+        "hindi": "माफ़ी माँगना",
+        "hinglish": "maafi maangna"
+      },
+      "meaning": "to say sorry",
+      "example": "Apologise when you make a mistake.",
+      "exampleMeaning": {
+        "hi": "गलती हो जाए तो माफ़ी माँगो।",
+        "hinglish": "Galti ho jaaye to maafi maango."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P10.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "patient",
+        "emoji": "⏳",
+        "hindi": "धैर्यवान",
+        "hinglish": "dhairyavaan"
+      },
+      "meaning": "able to wait without getting angry",
+      "example": "Be patient when you wait for your turn.",
+      "exampleMeaning": {
+        "hi": "अपनी बारी का इंतज़ार करते समय धैर्य रखो।",
+        "hinglish": "Apni baari ka intezaar karte samay dhairya rakho."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P10.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "queue",
+        "emoji": "🚶",
+        "hindi": "कतार",
+        "hinglish": "kataar"
+      },
+      "meaning": "a line of people waiting",
+      "example": "We stood in a queue for tickets.",
+      "exampleMeaning": {
+        "hi": "हम टिकट के लिए कतार में खड़े हुए।",
+        "hinglish": "Hum ticket ke liye kataar mein khade hue."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P10.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "greet",
+        "emoji": "👋",
+        "hindi": "अभिवादन करना",
+        "hinglish": "abhivaadan karna"
+      },
+      "meaning": "to say hello to someone",
+      "example": "Greet your teacher with a smile.",
+      "exampleMeaning": {
+        "hi": "मुस्कुराकर अपने टीचर का अभिवादन करो।",
+        "hinglish": "Muskuraakar apne teacher ka abhivaadan karo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P10.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "thank",
+        "emoji": "💐",
+        "hindi": "धन्यवाद देना",
+        "hinglish": "dhanyavaad dena"
+      },
+      "meaning": "to tell someone you are happy for what they did",
+      "example": "Thank the driver when you get off the bus.",
+      "exampleMeaning": {
+        "hi": "बस से उतरते समय ड्राइवर को धन्यवाद कहो।",
+        "hinglish": "Bus se utarte samay driver ko dhanyavaad kaho."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P10.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "honest",
+        "emoji": "🤞",
+        "hindi": "ईमानदार",
+        "hinglish": "imaandaar"
+      },
+      "meaning": "always telling the truth",
+      "example": "An honest boy returned the lost wallet.",
+      "exampleMeaning": {
+        "hi": "एक ईमानदार लड़के ने खोया हुआ बटुआ लौटा दिया।",
+        "hinglish": "Ek imaandaar ladke ne khoya hua batua lauta diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P10.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "careful",
+        "emoji": "⚠️",
+        "hindi": "सावधान",
+        "hinglish": "saavdhaan"
+      },
+      "meaning": "thinking about what you do so nothing goes wrong",
+      "example": "Be careful while crossing the road.",
+      "exampleMeaning": {
+        "hi": "सड़क पार करते समय सावधान रहो।",
+        "hinglish": "Sadak paar karte samay saavdhaan raho."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P10.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "greet",
+        "emoji": "👋",
+        "hindi": "अभिवादन करना",
+        "hinglish": "abhivaadan karna"
+      },
+      "answer": {
+        "hi": "अभिवादन करना",
+        "hinglish": "abhivaadan karna"
+      },
+      "options": [
+        {
+          "hi": "अभिवादन करना",
+          "hinglish": "abhivaadan karna"
+        },
+        {
+          "hi": "कतार",
+          "hinglish": "kataar"
+        },
+        {
+          "hi": "धैर्यवान",
+          "hinglish": "dhairyavaan"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P10.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ when you make a mistake.",
+      "answer": "apologise",
+      "options": [
+        "apologise",
+        "thank",
+        "respect"
+      ],
+      "meaning": {
+        "hi": "माफ़ी माँगना",
+        "hinglish": "maafi maangna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P10.S14",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "share",
+        "emoji": "🤲",
+        "hindi": "बाँटना",
+        "hinglish": "baantna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P10.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "apologise",
+        "emoji": "😔",
+        "hindi": "माफ़ी माँगना",
+        "hinglish": "maafi maangna"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P10.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We stood in a ___ for tickets.",
+      "answer": "queue",
+      "options": [
+        "queue",
+        "share",
+        "respect"
+      ],
+      "meaning": {
+        "hi": "कतार",
+        "hinglish": "kataar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P10.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "honest",
+      "options": [
+        "honest",
+        "careful",
+        "apologise"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P10.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "polite",
+        "emoji": "🙂",
+        "hindi": "विनम्र",
+        "hinglish": "vinamra"
+      },
+      "answer": {
+        "hi": "विनम्र",
+        "hinglish": "vinamra"
+      },
+      "options": [
+        {
+          "hi": "विनम्र",
+          "hinglish": "vinamra"
+        },
+        {
+          "hi": "ईमानदार",
+          "hinglish": "imaandaar"
+        },
+        {
+          "hi": "कतार",
+          "hinglish": "kataar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P10.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "careful",
+      "options": [
+        "careful",
+        "apologise",
+        "patient"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P10.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "patient",
+        "emoji": "⏳",
+        "hindi": "धैर्यवान",
+        "hinglish": "dhairyavaan"
+      },
+      "answer": {
+        "hi": "धैर्यवान",
+        "hinglish": "dhairyavaan"
+      },
+      "options": [
+        {
+          "hi": "धैर्यवान",
+          "hinglish": "dhairyavaan"
+        },
+        {
+          "hi": "अभिवादन करना",
+          "hinglish": "abhivaadan karna"
+        },
+        {
+          "hi": "आदर",
+          "hinglish": "aadar"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P10.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ the driver when you get off the bus.",
+      "answer": "thank",
+      "options": [
+        "thank",
+        "greet",
+        "patient"
+      ],
+      "meaning": {
+        "hi": "धन्यवाद देना",
+        "hinglish": "dhanyavaad dena"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P10.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "respect",
+        "emoji": "🙇",
+        "hindi": "आदर",
+        "hinglish": "aadar"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P10.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ your toys with your friends.",
+      "answer": "share",
+      "options": [
+        "share",
+        "queue",
+        "polite"
+      ],
+      "meaning": {
+        "hi": "बाँटना",
+        "hinglish": "baantna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P10.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "polite",
+        "emoji": "🙂",
+        "hindi": "विनम्र",
+        "hinglish": "vinamra"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P10.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "respect",
+        "emoji": "🙇",
+        "hindi": "आदर",
+        "hinglish": "aadar"
+      },
+      "answer": {
+        "hi": "आदर",
+        "hinglish": "aadar"
+      },
+      "options": [
+        {
+          "hi": "आदर",
+          "hinglish": "aadar"
+        },
+        {
+          "hi": "ईमानदार",
+          "hinglish": "imaandaar"
+        },
+        {
+          "hi": "कतार",
+          "hinglish": "kataar"
+        }
+      ]
+    }
+  ]
+}

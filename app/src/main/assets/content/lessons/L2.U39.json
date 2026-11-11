@@ -1,0 +1,456 @@
+{
+  "id": "L2.U39",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U39.S01",
+      "text": {
+        "hi": "खाने का समय और स्वाद!",
+        "hinglish": "Khaane ka samay aur swaad!",
+        "en": "Mealtimes and tastes!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U39.S02",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘breakfast’ मतलब ‘नाश्ता’।",
+        "hinglish": "‘breakfast’ matlab ‘naashta’.",
+        "en": "Say it with me: breakfast!"
+      },
+      "word": {
+        "english": "breakfast",
+        "emoji": "🥞",
+        "hindi": "नाश्ता",
+        "hinglish": "naashta"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U39.S03",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘lunch’ मतलब ‘दोपहर का खाना’।",
+        "hinglish": "‘lunch’ matlab ‘dopahar ka khaana’.",
+        "en": "Say it with me: lunch!"
+      },
+      "word": {
+        "english": "lunch",
+        "emoji": "🍱",
+        "hindi": "दोपहर का खाना",
+        "hinglish": "dopahar ka khaana"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U39.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "breakfast",
+        "emoji": "🥞",
+        "hindi": "नाश्ता",
+        "hinglish": "naashta"
+      },
+      "answer": {
+        "hi": "नाश्ता",
+        "hinglish": "naashta"
+      },
+      "options": [
+        {
+          "hi": "नाश्ता",
+          "hinglish": "naashta"
+        },
+        {
+          "hi": "खट्टा",
+          "hinglish": "khatta"
+        },
+        {
+          "hi": "भूखा",
+          "hinglish": "bhookha"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U39.S05",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🍱",
+      "answer": "lunch",
+      "options": [
+        "lunch",
+        "bitter",
+        "hungry"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U39.S06",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘dinner’ मतलब ‘रात का खाना’।",
+        "hinglish": "‘dinner’ matlab ‘raat ka khaana’.",
+        "en": "Say it with me: dinner!"
+      },
+      "word": {
+        "english": "dinner",
+        "emoji": "🍽️",
+        "hindi": "रात का खाना",
+        "hinglish": "raat ka khaana"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U39.S07",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘sweet’ मतलब ‘मीठा’।",
+        "hinglish": "‘sweet’ matlab ‘meetha’.",
+        "en": "Say it with me: sweet!"
+      },
+      "word": {
+        "english": "sweet",
+        "emoji": "🍭",
+        "hindi": "मीठा",
+        "hinglish": "meetha"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U39.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "dinner",
+        "emoji": "🍽️",
+        "hindi": "रात का खाना",
+        "hinglish": "raat ka khaana"
+      },
+      "answer": {
+        "hi": "रात का खाना",
+        "hinglish": "raat ka khaana"
+      },
+      "options": [
+        {
+          "hi": "रात का खाना",
+          "hinglish": "raat ka khaana"
+        },
+        {
+          "hi": "कड़वा",
+          "hinglish": "kadwa"
+        },
+        {
+          "hi": "तीखा",
+          "hinglish": "teekha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U39.S09",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "sweet",
+      "options": [
+        "sweet",
+        "breakfast",
+        "spicy"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U39.S10",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘sour’ मतलब ‘खट्टा’।",
+        "hinglish": "‘sour’ matlab ‘khatta’.",
+        "en": "Say it with me: sour!"
+      },
+      "word": {
+        "english": "sour",
+        "emoji": "🍋",
+        "hindi": "खट्टा",
+        "hinglish": "khatta"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U39.S11",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘bitter’ मतलब ‘कड़वा’।",
+        "hinglish": "‘bitter’ matlab ‘kadwa’.",
+        "en": "Say it with me: bitter!"
+      },
+      "word": {
+        "english": "bitter",
+        "hindi": "कड़वा",
+        "hinglish": "kadwa"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U39.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "sour",
+        "emoji": "🍋",
+        "hindi": "खट्टा",
+        "hinglish": "khatta"
+      },
+      "answer": {
+        "hi": "खट्टा",
+        "hinglish": "khatta"
+      },
+      "options": [
+        {
+          "hi": "खट्टा",
+          "hinglish": "khatta"
+        },
+        {
+          "hi": "कड़वा",
+          "hinglish": "kadwa"
+        },
+        {
+          "hi": "भूखा",
+          "hinglish": "bhookha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U39.S13",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "bitter",
+      "options": [
+        "bitter",
+        "spicy",
+        "lunch"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U39.S14",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘spicy’ मतलब ‘तीखा’।",
+        "hinglish": "‘spicy’ matlab ‘teekha’.",
+        "en": "Say it with me: spicy!"
+      },
+      "word": {
+        "english": "spicy",
+        "emoji": "🌶️",
+        "hindi": "तीखा",
+        "hinglish": "teekha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U39.S15",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘hungry’ मतलब ‘भूखा’।",
+        "hinglish": "‘hungry’ matlab ‘bhookha’.",
+        "en": "Say it with me: hungry!"
+      },
+      "word": {
+        "english": "hungry",
+        "hindi": "भूखा",
+        "hinglish": "bhookha"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U39.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "spicy",
+        "emoji": "🌶️",
+        "hindi": "तीखा",
+        "hinglish": "teekha"
+      },
+      "answer": {
+        "hi": "तीखा",
+        "hinglish": "teekha"
+      },
+      "options": [
+        {
+          "hi": "तीखा",
+          "hinglish": "teekha"
+        },
+        {
+          "hi": "दोपहर का खाना",
+          "hinglish": "dopahar ka khaana"
+        },
+        {
+          "hi": "मीठा",
+          "hinglish": "meetha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U39.S17",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "hungry",
+      "options": [
+        "hungry",
+        "breakfast",
+        "lunch"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U39.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "sweet",
+        "emoji": "🍭",
+        "hindi": "मीठा",
+        "hinglish": "meetha"
+      },
+      "answer": {
+        "hi": "मीठा",
+        "hinglish": "meetha"
+      },
+      "options": [
+        {
+          "hi": "मीठा",
+          "hinglish": "meetha"
+        },
+        {
+          "hi": "कड़वा",
+          "hinglish": "kadwa"
+        },
+        {
+          "hi": "तीखा",
+          "hinglish": "teekha"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U39.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "hungry",
+        "hindi": "भूखा",
+        "hinglish": "bhookha"
+      },
+      "answer": {
+        "hi": "भूखा",
+        "hinglish": "bhookha"
+      },
+      "options": [
+        {
+          "hi": "भूखा",
+          "hinglish": "bhookha"
+        },
+        {
+          "hi": "कड़वा",
+          "hinglish": "kadwa"
+        },
+        {
+          "hi": "नाश्ता",
+          "hinglish": "naashta"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U39.S20",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "sour",
+        "emoji": "🍋",
+        "hindi": "खट्टा",
+        "hinglish": "khatta"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U39.S21",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "lunch",
+        "emoji": "🍱",
+        "hindi": "दोपहर का खाना",
+        "hinglish": "dopahar ka khaana"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U39.S22",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "sour",
+      "options": [
+        "sour",
+        "lunch",
+        "hungry"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U39.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: breakfast, lunch, dinner, sweet, sour, bitter, spicy, hungry।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: breakfast, lunch, dinner, sweet, sour, bitter, spicy, hungry.",
+        "en": "Well done! Today's new words: breakfast, lunch, dinner, sweet, sour, bitter, spicy, hungry."
+      }
+    }
+  ]
+}

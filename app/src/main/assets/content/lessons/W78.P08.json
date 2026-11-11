@@ -1,0 +1,480 @@
+{
+  "id": "W78.P08",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P08.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: भूगोल। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Bhoogol. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Geography. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P08.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "continent",
+        "emoji": "🗺️",
+        "hindi": "महाद्वीप",
+        "hinglish": "mahaadweep"
+      },
+      "meaning": "a very large area of land, like Asia",
+      "example": "India is in the continent of Asia.",
+      "exampleMeaning": {
+        "hi": "भारत एशिया महाद्वीप में है।",
+        "hinglish": "Bharat Asia mahaadweep mein hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P08.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "peninsula",
+        "emoji": "🏝️",
+        "hindi": "प्रायद्वीप",
+        "hinglish": "praayadweep"
+      },
+      "meaning": "land with water on three sides",
+      "example": "South India is a peninsula.",
+      "exampleMeaning": {
+        "hi": "दक्षिण भारत एक प्रायद्वीप है।",
+        "hinglish": "Dakshin Bharat ek praayadweep hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P08.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "plateau",
+        "emoji": "⛰️",
+        "hindi": "पठार",
+        "hinglish": "pathaar"
+      },
+      "meaning": "high, flat land",
+      "example": "The Deccan plateau is in the middle of India.",
+      "exampleMeaning": {
+        "hi": "दक्कन का पठार भारत के बीच में है।",
+        "hinglish": "Dakkan ka pathaar Bharat ke beech mein hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P08.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "valley",
+        "emoji": "🏞️",
+        "hindi": "घाटी",
+        "hinglish": "ghaati"
+      },
+      "meaning": "low land between hills",
+      "example": "The Kashmir valley is very beautiful.",
+      "exampleMeaning": {
+        "hi": "कश्मीर की घाटी बहुत सुंदर है।",
+        "hinglish": "Kashmir ki ghaati bahut sundar hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P08.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "volcano",
+        "emoji": "🌋",
+        "hindi": "ज्वालामुखी",
+        "hinglish": "jwaalaamukhi"
+      },
+      "meaning": "a mountain that throws out hot liquid rock",
+      "example": "The volcano erupted last year.",
+      "exampleMeaning": {
+        "hi": "पिछले साल ज्वालामुखी फट पड़ा।",
+        "hinglish": "Pichhle saal jwaalaamukhi phat pada."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P08.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "earthquake",
+        "emoji": "🫨",
+        "hindi": "भूकंप",
+        "hinglish": "bhookamp"
+      },
+      "meaning": "a sudden shaking of the ground",
+      "example": "The earthquake broke many houses.",
+      "exampleMeaning": {
+        "hi": "भूकंप से कई घर टूट गए।",
+        "hinglish": "Bhookamp se kai ghar toot gaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P08.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "coast",
+        "emoji": "🏖️",
+        "hindi": "तट",
+        "hinglish": "tat"
+      },
+      "meaning": "land next to the sea",
+      "example": "Goa is on the west coast of India.",
+      "exampleMeaning": {
+        "hi": "गोवा भारत के पश्चिमी तट पर है।",
+        "hinglish": "Goa Bharat ke pashchimi tat par hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P08.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "population",
+        "emoji": "👥",
+        "hindi": "जनसंख्या",
+        "hinglish": "jansankhya"
+      },
+      "meaning": "the number of people living in a place",
+      "example": "India has a large population.",
+      "exampleMeaning": {
+        "hi": "भारत की जनसंख्या बहुत बड़ी है।",
+        "hinglish": "Bharat ki jansankhya bahut badi hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P08.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "monsoon",
+        "emoji": "🌧️",
+        "hindi": "मानसून",
+        "hinglish": "monsoon"
+      },
+      "meaning": "the season of heavy rain",
+      "example": "The monsoon brings rain to the fields.",
+      "exampleMeaning": {
+        "hi": "मानसून खेतों में बारिश लाता है।",
+        "hinglish": "Monsoon kheton mein baarish laata hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P08.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "drought",
+        "emoji": "🌵",
+        "hindi": "सूखा",
+        "hinglish": "sookha"
+      },
+      "meaning": "a long time with no rain",
+      "example": "The drought dried up the river.",
+      "exampleMeaning": {
+        "hi": "सूखे से नदी सूख गई।",
+        "hinglish": "Sookhe se nadi sookh gayi."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P08.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "continent",
+        "emoji": "🗺️",
+        "hindi": "महाद्वीप",
+        "hinglish": "mahaadweep"
+      },
+      "answer": {
+        "hi": "महाद्वीप",
+        "hinglish": "mahaadweep"
+      },
+      "options": [
+        {
+          "hi": "महाद्वीप",
+          "hinglish": "mahaadweep"
+        },
+        {
+          "hi": "मानसून",
+          "hinglish": "monsoon"
+        },
+        {
+          "hi": "ज्वालामुखी",
+          "hinglish": "jwaalaamukhi"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P08.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "plateau",
+        "emoji": "⛰️",
+        "hindi": "पठार",
+        "hinglish": "pathaar"
+      },
+      "answer": {
+        "hi": "पठार",
+        "hinglish": "pathaar"
+      },
+      "options": [
+        {
+          "hi": "पठार",
+          "hinglish": "pathaar"
+        },
+        {
+          "hi": "महाद्वीप",
+          "hinglish": "mahaadweep"
+        },
+        {
+          "hi": "भूकंप",
+          "hinglish": "bhookamp"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P08.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "volcano",
+        "emoji": "🌋",
+        "hindi": "ज्वालामुखी",
+        "hinglish": "jwaalaamukhi"
+      },
+      "answer": {
+        "hi": "ज्वालामुखी",
+        "hinglish": "jwaalaamukhi"
+      },
+      "options": [
+        {
+          "hi": "ज्वालामुखी",
+          "hinglish": "jwaalaamukhi"
+        },
+        {
+          "hi": "महाद्वीप",
+          "hinglish": "mahaadweep"
+        },
+        {
+          "hi": "घाटी",
+          "hinglish": "ghaati"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P08.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "drought",
+      "options": [
+        "drought",
+        "valley",
+        "continent"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P08.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "monsoon",
+      "options": [
+        "monsoon",
+        "plateau",
+        "earthquake"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P08.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "South India is a ___.",
+      "answer": "peninsula",
+      "options": [
+        "peninsula",
+        "valley",
+        "drought"
+      ],
+      "meaning": {
+        "hi": "प्रायद्वीप",
+        "hinglish": "praayadweep"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P08.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "coast",
+        "emoji": "🏖️",
+        "hindi": "तट",
+        "hinglish": "tat"
+      },
+      "answer": {
+        "hi": "तट",
+        "hinglish": "tat"
+      },
+      "options": [
+        {
+          "hi": "तट",
+          "hinglish": "tat"
+        },
+        {
+          "hi": "महाद्वीप",
+          "hinglish": "mahaadweep"
+        },
+        {
+          "hi": "प्रायद्वीप",
+          "hinglish": "praayadweep"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P08.S19",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "peninsula",
+        "emoji": "🏝️",
+        "hindi": "प्रायद्वीप",
+        "hinglish": "praayadweep"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P08.S20",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "continent",
+        "emoji": "🗺️",
+        "hindi": "महाद्वीप",
+        "hinglish": "mahaadweep"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P08.S21",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "plateau",
+        "emoji": "⛰️",
+        "hindi": "पठार",
+        "hinglish": "pathaar"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P08.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "India has a large ___.",
+      "answer": "population",
+      "options": [
+        "population",
+        "continent",
+        "peninsula"
+      ],
+      "meaning": {
+        "hi": "जनसंख्या",
+        "hinglish": "jansankhya"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P08.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The Kashmir ___ is very beautiful.",
+      "answer": "valley",
+      "options": [
+        "valley",
+        "volcano",
+        "earthquake"
+      ],
+      "meaning": {
+        "hi": "घाटी",
+        "hinglish": "ghaati"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P08.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "valley",
+        "emoji": "🏞️",
+        "hindi": "घाटी",
+        "hinglish": "ghaati"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P08.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ broke many houses.",
+      "answer": "earthquake",
+      "options": [
+        "earthquake",
+        "volcano",
+        "monsoon"
+      ],
+      "meaning": {
+        "hi": "भूकंप",
+        "hinglish": "bhookamp"
+      }
+    }
+  ]
+}

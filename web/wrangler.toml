@@ -1,0 +1,10 @@
+name = "samjho-school"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "samjho-school"
+# Replaced with the real id when the database is created on Cloudflare (see README.md).
+database_id = "62385a51-2196-45cf-888f-8df131ff2cb0"
+migrations_dir = "migrations"

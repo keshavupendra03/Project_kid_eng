@@ -1,0 +1,480 @@
+{
+  "id": "W56.P07",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P07.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: शब्द परिवार: -ful और -less। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Shabd parivaar: -ful aur -less. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Word families: -ful and -less. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P07.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "helpful",
+        "emoji": "🤝",
+        "hindi": "मददगार",
+        "hinglish": "madadgaar"
+      },
+      "meaning": "help + ful: ready to help",
+      "example": "My sister is very helpful at home.",
+      "exampleMeaning": {
+        "hi": "मेरी बहन घर पर बहुत मदद करती है।",
+        "hinglish": "Meri behen ghar par bahut madad karti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P07.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "helpless",
+        "emoji": "😢",
+        "hindi": "बेबस",
+        "hinglish": "bebas"
+      },
+      "meaning": "help + less: not able to help yourself",
+      "example": "The helpless bird could not fly.",
+      "exampleMeaning": {
+        "hi": "बेबस चिड़िया उड़ नहीं पा रही थी।",
+        "hinglish": "Bebas chidiya ud nahi paa rahi thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P07.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hopeful",
+        "emoji": "🌈",
+        "hindi": "आशावान",
+        "hinglish": "aashaavaan"
+      },
+      "meaning": "hope + ful: feeling that good things will happen",
+      "example": "We are hopeful about the match.",
+      "exampleMeaning": {
+        "hi": "हमें मैच को लेकर उम्मीद है।",
+        "hinglish": "Hamein match ko lekar ummeed hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P07.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hopeless",
+        "emoji": "😞",
+        "hindi": "निराशाजनक",
+        "hinglish": "niraashajanak"
+      },
+      "meaning": "hope + less: with no hope",
+      "example": "The old car looked hopeless.",
+      "exampleMeaning": {
+        "hi": "पुरानी गाड़ी की हालत देखकर कोई उम्मीद नहीं लगती थी।",
+        "hinglish": "Puraani gaadi ki haalat dekhkar koi ummeed nahi lagti thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P07.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "painful",
+        "emoji": "🤕",
+        "hindi": "दर्दनाक",
+        "hinglish": "dardnaak"
+      },
+      "meaning": "pain + ful: causing pain",
+      "example": "The bee sting was painful.",
+      "exampleMeaning": {
+        "hi": "मधुमक्खी का डंक दर्दनाक था।",
+        "hinglish": "Madhumakkhi ka dank dardnaak tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P07.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "painless",
+        "emoji": "💉",
+        "hindi": "बिना दर्द का",
+        "hinglish": "bina dard ka"
+      },
+      "meaning": "pain + less: with no pain",
+      "example": "The injection was quick and painless.",
+      "exampleMeaning": {
+        "hi": "इंजेक्शन जल्दी लगा और दर्द नहीं हुआ।",
+        "hinglish": "Injection jaldi laga aur dard nahi hua."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P07.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "useful",
+        "emoji": "🛠️",
+        "hindi": "उपयोगी",
+        "hinglish": "upyogi"
+      },
+      "meaning": "use + ful: good for doing something",
+      "example": "A torch is useful at night.",
+      "exampleMeaning": {
+        "hi": "रात में टॉर्च बहुत काम आती है।",
+        "hinglish": "Raat mein torch bahut kaam aati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P07.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "useless",
+        "emoji": "🚫",
+        "hindi": "बेकार",
+        "hinglish": "bekaar"
+      },
+      "meaning": "use + less: of no use",
+      "example": "A broken pencil is useless.",
+      "exampleMeaning": {
+        "hi": "टूटी पेंसिल बेकार है।",
+        "hinglish": "Tooti pencil bekaar hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P07.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "fearless",
+        "emoji": "🦁",
+        "hindi": "निडर",
+        "hinglish": "nidar"
+      },
+      "meaning": "fear + less: not afraid of anything",
+      "example": "The fearless soldier saved many lives.",
+      "exampleMeaning": {
+        "hi": "निडर सैनिक ने कई जानें बचाईं।",
+        "hinglish": "Nidar sainik ne kai jaanein bachaayin."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P07.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "thankful",
+        "emoji": "🙏",
+        "hindi": "आभारी",
+        "hinglish": "aabhaari"
+      },
+      "meaning": "thank + ful: happy and grateful",
+      "example": "I am thankful for my friends.",
+      "exampleMeaning": {
+        "hi": "मैं अपने दोस्तों के लिए आभारी हूँ।",
+        "hinglish": "Main apne doston ke liye aabhaari hoon."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P07.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "painful",
+        "emoji": "🤕",
+        "hindi": "दर्दनाक",
+        "hinglish": "dardnaak"
+      },
+      "answer": {
+        "hi": "दर्दनाक",
+        "hinglish": "dardnaak"
+      },
+      "options": [
+        {
+          "hi": "दर्दनाक",
+          "hinglish": "dardnaak"
+        },
+        {
+          "hi": "बेकार",
+          "hinglish": "bekaar"
+        },
+        {
+          "hi": "उपयोगी",
+          "hinglish": "upyogi"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P07.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "useful",
+        "emoji": "🛠️",
+        "hindi": "उपयोगी",
+        "hinglish": "upyogi"
+      },
+      "answer": {
+        "hi": "उपयोगी",
+        "hinglish": "upyogi"
+      },
+      "options": [
+        {
+          "hi": "उपयोगी",
+          "hinglish": "upyogi"
+        },
+        {
+          "hi": "निडर",
+          "hinglish": "nidar"
+        },
+        {
+          "hi": "आभारी",
+          "hinglish": "aabhaari"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P07.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The injection was quick and ___.",
+      "answer": "painless",
+      "options": [
+        "painless",
+        "helpful",
+        "fearless"
+      ],
+      "meaning": {
+        "hi": "बिना दर्द का",
+        "hinglish": "bina dard ka"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P07.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "hopeless",
+        "emoji": "😞",
+        "hindi": "निराशाजनक",
+        "hinglish": "niraashajanak"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P07.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hopeful",
+        "emoji": "🌈",
+        "hindi": "आशावान",
+        "hinglish": "aashaavaan"
+      },
+      "answer": {
+        "hi": "आशावान",
+        "hinglish": "aashaavaan"
+      },
+      "options": [
+        {
+          "hi": "आशावान",
+          "hinglish": "aashaavaan"
+        },
+        {
+          "hi": "बेकार",
+          "hinglish": "bekaar"
+        },
+        {
+          "hi": "दर्दनाक",
+          "hinglish": "dardnaak"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P07.S17",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "helpful",
+        "emoji": "🤝",
+        "hindi": "मददगार",
+        "hinglish": "madadgaar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P07.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "helpful",
+        "emoji": "🤝",
+        "hindi": "मददगार",
+        "hinglish": "madadgaar"
+      },
+      "answer": {
+        "hi": "मददगार",
+        "hinglish": "madadgaar"
+      },
+      "options": [
+        {
+          "hi": "मददगार",
+          "hinglish": "madadgaar"
+        },
+        {
+          "hi": "दर्दनाक",
+          "hinglish": "dardnaak"
+        },
+        {
+          "hi": "निडर",
+          "hinglish": "nidar"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P07.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "A broken pencil is ___.",
+      "answer": "useless",
+      "options": [
+        "useless",
+        "thankful",
+        "hopeful"
+      ],
+      "meaning": {
+        "hi": "बेकार",
+        "hinglish": "bekaar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P07.S20",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "helpless",
+        "emoji": "😢",
+        "hindi": "बेबस",
+        "hinglish": "bebas"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P07.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ bird could not fly.",
+      "answer": "helpless",
+      "options": [
+        "helpless",
+        "fearless",
+        "thankful"
+      ],
+      "meaning": {
+        "hi": "बेबस",
+        "hinglish": "bebas"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P07.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The old car looked ___.",
+      "answer": "hopeless",
+      "options": [
+        "hopeless",
+        "hopeful",
+        "helpful"
+      ],
+      "meaning": {
+        "hi": "निराशाजनक",
+        "hinglish": "niraashajanak"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P07.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "fearless",
+      "options": [
+        "fearless",
+        "thankful",
+        "painful"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P07.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "hopeful",
+        "emoji": "🌈",
+        "hindi": "आशावान",
+        "hinglish": "aashaavaan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P07.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "thankful",
+      "options": [
+        "thankful",
+        "useless",
+        "fearless"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "id": "L1.U16",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U16.S01",
+      "text": {
+        "hi": "ये आवाज़ें बोलते समय मुँह एक जगह से दूसरी जगह फिसलता है: igh, ow, oy.",
+        "hinglish": "Yeh awaazein bolte samay munh ek jagah se doosri jagah phisalta hai: igh, ow, oy.",
+        "en": "In these sounds your mouth glides from one place to another: igh, ow, oy."
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U16.S02",
+      "skills": [
+        "phonics.igh"
+      ],
+      "letters": "igh",
+      "sound": "v09_ie_bike",
+      "hint": "आइ",
+      "text": {
+        "hi": "‘igh’ की आवाज़ है: आइ, जैसे light में। ‘ie’ भी ऐसे ही बोलता है: tie.",
+        "hinglish": "‘igh’ ki awaaz hai: aai, jaise light mein. ‘ie’ bhi aise hi bolta hai: tie.",
+        "en": "‘igh’ sounds like the word ‘eye’, as in light. ‘ie’ sounds the same: tie."
+      },
+      "example": {
+        "english": "light",
+        "emoji": "💡",
+        "hindi": "बत्ती",
+        "hinglish": "batti"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U16.S03",
+      "skills": [
+        "phonics.ow"
+      ],
+      "letters": "ow",
+      "sound": "v15_ow_cow",
+      "hint": "आउ",
+      "text": {
+        "hi": "‘ow’ की आवाज़ है: आउ, जैसे cow में। ‘ou’ भी ऐसे ही बोलता है: cloud.",
+        "hinglish": "‘ow’ ki awaaz hai: aau, jaise cow mein. ‘ou’ bhi aise hi bolta hai: cloud.",
+        "en": "‘ow’ sounds as in cow. ‘ou’ sounds the same: cloud."
+      },
+      "example": {
+        "english": "cow",
+        "emoji": "🐄",
+        "hindi": "गाय",
+        "hinglish": "gaay"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U16.S04",
+      "skills": [
+        "listen.word",
+        "phonics.ow"
+      ],
+      "answer": "cow",
+      "options": [
+        "cow",
+        "light"
+      ]
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U16.S05",
+      "skills": [
+        "phonics.oy"
+      ],
+      "letters": "oy",
+      "sound": "v16_oy_boy",
+      "hint": "ऑय",
+      "text": {
+        "hi": "‘oy’ की आवाज़ है: ऑय, जैसे boy में। ‘oi’ भी ऐसे ही बोलता है: coin.",
+        "hinglish": "‘oy’ ki awaaz hai: oy, jaise boy mein. ‘oi’ bhi aise hi bolta hai: coin.",
+        "en": "‘oy’ sounds as in boy. ‘oi’ sounds the same: coin."
+      },
+      "example": {
+        "english": "boy",
+        "emoji": "👦",
+        "hindi": "लड़का",
+        "hinglish": "ladka"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U16.S06",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "light",
+        "emoji": "💡",
+        "hindi": "बत्ती",
+        "hinglish": "batti"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U16.S07",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "cow",
+        "emoji": "🐄",
+        "hindi": "गाय",
+        "hinglish": "gaay"
+      }
+    },
+    {
+      "type": "blend",
+      "id": "L1.U16.S08",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "tie",
+      "emoji": "👔",
+      "parts": [
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        },
+        {
+          "letters": "ie",
+          "sound": "v09_ie_bike"
+        }
+      ],
+      "accept": [
+        "thai"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U16.S09",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "light",
+      "emoji": "💡",
+      "parts": [
+        {
+          "letters": "l",
+          "sound": "c08_l"
+        },
+        {
+          "letters": "igh",
+          "sound": "v09_ie_bike"
+        },
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U16.S10",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "answer": "light",
+      "options": [
+        "light",
+        "coin",
+        "toy"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U16.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "cow",
+      "emoji": "🐄",
+      "parts": [
+        {
+          "letters": "c",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "ow",
+          "sound": "v15_ow_cow"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U16.S12",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "cloud",
+      "emoji": "☁️",
+      "parts": [
+        {
+          "letters": "c",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "l",
+          "sound": "c08_l"
+        },
+        {
+          "letters": "ou",
+          "sound": "v15_ow_cow"
+        },
+        {
+          "letters": "d",
+          "sound": "c02_d"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U16.S13",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "☁️",
+      "answer": "cloud",
+      "options": [
+        "cloud",
+        "light",
+        "tie"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U16.S14",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "crown",
+      "emoji": "👑",
+      "parts": [
+        {
+          "letters": "c",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "r",
+          "sound": "c12_r"
+        },
+        {
+          "letters": "ow",
+          "sound": "v15_ow_cow"
+        },
+        {
+          "letters": "n",
+          "sound": "c10_n"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U16.S15",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "boy",
+      "emoji": "👦",
+      "parts": [
+        {
+          "letters": "b",
+          "sound": "c01_b"
+        },
+        {
+          "letters": "oy",
+          "sound": "v16_oy_boy"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U16.S16",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "answer": "boy",
+      "options": [
+        "boy",
+        "cloud",
+        "toy"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U16.S17",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "toy",
+      "emoji": "🧸",
+      "parts": [
+        {
+          "letters": "t",
+          "sound": "c14_t"
+        },
+        {
+          "letters": "oy",
+          "sound": "v16_oy_boy"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U16.S18",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "coin",
+      "emoji": "🪙",
+      "parts": [
+        {
+          "letters": "c",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "oi",
+          "sound": "v16_oy_boy"
+        },
+        {
+          "letters": "n",
+          "sound": "c10_n"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U16.S19",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🪙",
+      "answer": "coin",
+      "options": [
+        "coin",
+        "cow",
+        "cloud"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U16.S20",
+      "skills": [
+        "listen.minimal_pair"
+      ],
+      "answer": "toy",
+      "options": [
+        "toy",
+        "tie"
+      ]
+    },
+    {
+      "type": "minimal_pair",
+      "id": "L1.U16.S21",
+      "skills": [
+        "listen.minimal_pair"
+      ],
+      "answer": "boy",
+      "options": [
+        "boy",
+        "buy"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U16.S22",
+      "text": {
+        "hi": "वाह! light, cow, boy — फिसलती आवाज़ें अब पक्की!",
+        "hinglish": "Waah! light, cow, boy — phisalti awaazein ab pakki!",
+        "en": "Wow! light, cow, boy — you've got the gliding sounds!"
+      }
+    }
+  ]
+}

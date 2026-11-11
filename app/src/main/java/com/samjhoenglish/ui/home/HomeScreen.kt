@@ -7,6 +7,8 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxHeight
@@ -37,16 +39,25 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.samjhoenglish.content.LevelInfo
+import com.samjhoenglish.content.Mission
+import com.samjhoenglish.content.PowerWord
 import com.samjhoenglish.data.db.Child
+import com.samjhoenglish.i18n.AppLanguage
 import com.samjhoenglish.i18n.L
+import com.samjhoenglish.i18n.LocalAppLanguage
+import com.samjhoenglish.speech.LocalSpeaker
+import com.samjhoenglish.speech.Speaker
 import com.samjhoenglish.i18n.UiStrings
 import com.samjhoenglish.i18n.text
+import com.samjhoenglish.learning.Learning
 import com.samjhoenglish.speech.rememberSay
 import com.samjhoenglish.ui.components.BigButton
 import com.samjhoenglish.ui.components.EmojiButton
+import com.samjhoenglish.ui.components.SpeakButton
 import com.samjhoenglish.ui.components.TinkuSays
 import com.samjhoenglish.ui.theme.Leaf
 import com.samjhoenglish.ui.theme.LevelColors
+import com.samjhoenglish.ui.theme.Teal
 import java.util.Calendar
 
 /** What Tinku's speech bubble currently says. An enum so it survives screen rotation. */
@@ -54,18 +65,23 @@ private enum class TinkuMessage(val text: L) {
     INTRO(UiStrings.tinkuIntro),
     LOCKED(UiStrings.lockedSay),
     SOON(UiStrings.levelComingSoon),
-    PARENTS(UiStrings.parentsComingSoon),
 }
 
+@OptIn(ExperimentalLayoutApi::class)
 @Composable
 fun HomeScreen(
     child: Child,
     journey: JourneyUiState,
     voiceMissing: Boolean,
     onSwitchChild: () -> Unit,
+    onOpenParents: () -> Unit,
     onOpenSettings: () -> Unit,
     onOpenLevel: (Int) -> Unit,
     onStartToday: () -> Unit,
+    onMissionDone: (String) -> Unit,
+    onOpenReading: () -> Unit = {},
+    onOpenExpress: () -> Unit = {},
+    onOpenWordPower: () -> Unit = {},
 ) {
     val say = rememberSay()
     var message by rememberSaveable { mutableStateOf(TinkuMessage.INTRO) }
@@ -102,15 +118,19 @@ fun HomeScreen(
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
             }
-            EmojiButton("🔒", UiStrings.forParents.text(), onClick = { tinkuSays(TinkuMessage.PARENTS) })
+            EmojiButton("🔒", UiStrings.forParents.text(), onClick = onOpenParents)
             Spacer(Modifier.size(8.dp))
             EmojiButton("⚙️", UiStrings.settings.text(), onClick = onOpenSettings)
         }
 
         Spacer(Modifier.height(12.dp))
-        Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+        // Wraps onto a second line on narrow phones instead of squeezing the last chip.
+        FlowRow(horizontalArrangement = Arrangement.spacedBy(10.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             StatChip("🔥", "${journey.streak} ${UiStrings.streakDays.text()}")
             StatChip("⭐", "${journey.totalStars}")
+            Learning.nextPiece(journey.totalStars)?.let { piece ->
+                StatChip("🎁", "${rewardName(piece).text()} ${journey.totalStars}/${piece.stars}")
+            }
         }
 
         if (voiceMissing) {
@@ -139,6 +159,47 @@ fun HomeScreen(
             onClick = onStartToday,
         )
 
+        if (journey.readingLevels.isNotEmpty()) {
+            Spacer(Modifier.height(14.dp))
+            val level = journey.readingLevelNow
+            BigButton(
+                text = "📖 ${UiStrings.reading.text()}",
+                subtitle = when {
+                    journey.nextPassage != null && level != null ->
+                        "${UiStrings.readingLevel.text()} ${level.number} · ${journey.nextPassage.emoji} ${journey.nextPassage.title.text()}"
+                    else -> UiStrings.readingCardText.text()
+                },
+                emoji = "",
+                color = Teal,
+                onClick = onOpenReading,
+            )
+            Spacer(Modifier.height(14.dp))
+            BigButton(
+                text = "📚 ${UiStrings.wordPower.text()}",
+                subtitle = UiStrings.wordPowerCard.text(),
+                emoji = "",
+                color = MaterialTheme.colorScheme.secondary,
+                onClick = onOpenWordPower,
+            )
+            journey.wordOfDay?.let { word ->
+                Spacer(Modifier.height(14.dp))
+                WordOfDayCard(word, onClick = onOpenWordPower)
+            }
+            Spacer(Modifier.height(14.dp))
+            BigButton(
+                text = "🚂 ${UiStrings.express.text()}",
+                subtitle = UiStrings.expressCard.text(),
+                emoji = "",
+                color = Leaf,
+                onClick = onOpenExpress,
+            )
+        }
+
+        journey.mission?.let { mission ->
+            Spacer(Modifier.height(16.dp))
+            MissionCard(mission, journey.missionPending, onDone = { onMissionDone(mission.id) })
+        }
+
         Spacer(Modifier.height(28.dp))
         Text(UiStrings.yourJourney.text(), style = MaterialTheme.typography.titleLarge)
         Spacer(Modifier.height(12.dp))
@@ -160,6 +221,69 @@ fun HomeScreen(
             }
         }
         Spacer(Modifier.height(16.dp))
+    }
+}
+
+private fun rewardName(piece: Learning.TinkuPiece): L = when (piece) {
+    Learning.TinkuPiece.CAP -> UiStrings.rewardCap
+    Learning.TinkuPiece.BOW_TIE -> UiStrings.rewardBowTie
+    Learning.TinkuPiece.GLASSES -> UiStrings.rewardGlasses
+    Learning.TinkuPiece.CROWN -> UiStrings.rewardCrown
+}
+
+/** One word a day from the child's own band, with a nudge to use it in real life. */
+@Composable
+private fun WordOfDayCard(word: PowerWord, onClick: () -> Unit) {
+    val speaker = LocalSpeaker.current
+    val language = LocalAppLanguage.current
+    val hindi = if (language == AppLanguage.HINGLISH) word.hinglish else word.hindi
+    Surface(
+        onClick = onClick,
+        shape = RoundedCornerShape(24.dp),
+        color = MaterialTheme.colorScheme.surface,
+        border = BorderStroke(2.dp, MaterialTheme.colorScheme.outline),
+        modifier = Modifier.fillMaxWidth(),
+    ) {
+        Row(Modifier.padding(16.dp), verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+            Text(word.emoji, style = MaterialTheme.typography.displaySmall)
+            Column(Modifier.weight(1f)) {
+                Text("💬 ${UiStrings.wordOfTheDay.text()}", style = MaterialTheme.typography.labelLarge, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                Text(word.english, style = MaterialTheme.typography.headlineSmall, color = MaterialTheme.colorScheme.primary)
+                if (language != AppLanguage.ENGLISH) Text("= $hindi", style = MaterialTheme.typography.titleMedium)
+                Text(UiStrings.useItToday.text(), style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
+            }
+            SpeakButton(
+                onClick = { speaker.speakAll(listOf(word.english to Speaker.ENGLISH, word.example to Speaker.ENGLISH)) },
+                size = 48.dp,
+            )
+        }
+    }
+}
+
+/** A small real-life English task. The child says it's done; a parent ticks it in their section. */
+@Composable
+private fun MissionCard(mission: Mission, pending: Boolean, onDone: () -> Unit) {
+    val say = rememberSay()
+    Surface(
+        shape = RoundedCornerShape(24.dp),
+        color = MaterialTheme.colorScheme.surface,
+        border = BorderStroke(2.dp, MaterialTheme.colorScheme.outline),
+        modifier = Modifier.fillMaxWidth(),
+    ) {
+        Column(Modifier.padding(16.dp)) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Text("🎯 ${UiStrings.todaysMission.text()}", style = MaterialTheme.typography.titleLarge, modifier = Modifier.weight(1f))
+                SpeakButton(onClick = { say(mission.text) }, size = 48.dp)
+            }
+            Spacer(Modifier.height(6.dp))
+            Text("${mission.emoji} ${mission.text.text()}", style = MaterialTheme.typography.titleMedium)
+            Spacer(Modifier.height(10.dp))
+            if (pending) {
+                Text(UiStrings.missionWaiting.text(), style = MaterialTheme.typography.titleMedium, color = Leaf)
+            } else {
+                BigButton(text = UiStrings.iDidIt.text(), emoji = "✅", color = Leaf, onClick = onDone)
+            }
+        }
     }
 }
 

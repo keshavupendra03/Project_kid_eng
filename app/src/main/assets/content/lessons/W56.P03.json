@@ -1,0 +1,480 @@
+{
+  "id": "W56.P03",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P03.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: विज्ञान। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Vigyaan. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Science around us. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P03.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "experiment",
+        "emoji": "🧪",
+        "hindi": "प्रयोग",
+        "hinglish": "prayog"
+      },
+      "meaning": "a test to find out something",
+      "example": "We did an experiment with salt and water.",
+      "exampleMeaning": {
+        "hi": "हमने नमक और पानी से एक प्रयोग किया।",
+        "hinglish": "Humne namak aur paani se ek prayog kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P03.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "observe",
+        "emoji": "👀",
+        "hindi": "ध्यान से देखना",
+        "hinglish": "dhyaan se dekhna"
+      },
+      "meaning": "to watch carefully",
+      "example": "Observe how the plant grows each day.",
+      "exampleMeaning": {
+        "hi": "ध्यान से देखो कि पौधा रोज़ कैसे बढ़ता है।",
+        "hinglish": "Dhyaan se dekho ki paudha roz kaise badhta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P03.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "magnet",
+        "emoji": "🧲",
+        "hindi": "चुंबक",
+        "hinglish": "chumbak"
+      },
+      "meaning": "a piece of metal that pulls iron",
+      "example": "A magnet can pick up pins.",
+      "exampleMeaning": {
+        "hi": "चुंबक पिनें उठा सकता है।",
+        "hinglish": "Chumbak pinein utha sakta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P03.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "gravity",
+        "emoji": "🍎",
+        "hindi": "गुरुत्वाकर्षण",
+        "hinglish": "gurutvaakarshan"
+      },
+      "meaning": "the force that pulls things down to the earth",
+      "example": "Gravity makes the apple fall.",
+      "exampleMeaning": {
+        "hi": "गुरुत्वाकर्षण की वजह से सेब नीचे गिरता है।",
+        "hinglish": "Gurutvaakarshan ki wajah se seb neeche girta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P03.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "liquid",
+        "emoji": "💧",
+        "hindi": "तरल",
+        "hinglish": "taral"
+      },
+      "meaning": "something that flows, like water",
+      "example": "Milk is a liquid.",
+      "exampleMeaning": {
+        "hi": "दूध एक तरल है।",
+        "hinglish": "Doodh ek taral hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P03.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "solid",
+        "emoji": "🧊",
+        "hindi": "ठोस",
+        "hinglish": "thos"
+      },
+      "meaning": "something hard that keeps its shape",
+      "example": "Ice is a solid.",
+      "exampleMeaning": {
+        "hi": "बर्फ़ एक ठोस है।",
+        "hinglish": "Barf ek thos hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P03.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "evaporate",
+        "emoji": "☁️",
+        "hindi": "भाप बनना",
+        "hinglish": "bhaap banna"
+      },
+      "meaning": "to change from water into vapour",
+      "example": "The hot sun makes water evaporate.",
+      "exampleMeaning": {
+        "hi": "तेज़ धूप से पानी भाप बनकर उड़ जाता है।",
+        "hinglish": "Tez dhoop se paani bhaap bankar ud jaata hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P03.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "oxygen",
+        "emoji": "🫁",
+        "hindi": "ऑक्सीजन",
+        "hinglish": "oxygen"
+      },
+      "meaning": "the gas in the air that we need to breathe",
+      "example": "Plants give us oxygen.",
+      "exampleMeaning": {
+        "hi": "पौधे हमें ऑक्सीजन देते हैं।",
+        "hinglish": "Paudhe hamein oxygen dete hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P03.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "energy",
+        "emoji": "🔋",
+        "hindi": "ऊर्जा",
+        "hinglish": "oorja"
+      },
+      "meaning": "the power to do work or make things move",
+      "example": "Food gives us energy.",
+      "exampleMeaning": {
+        "hi": "खाना हमें ऊर्जा देता है।",
+        "hinglish": "Khaana hamein oorja deta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P03.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "planet",
+        "emoji": "🪐",
+        "hindi": "ग्रह",
+        "hinglish": "grah"
+      },
+      "meaning": "a large round body that goes around the sun",
+      "example": "Earth is the planet we live on.",
+      "exampleMeaning": {
+        "hi": "पृथ्वी वह ग्रह है जिस पर हम रहते हैं।",
+        "hinglish": "Prithvi woh grah hai jis par hum rehte hain."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P03.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "liquid",
+        "emoji": "💧",
+        "hindi": "तरल",
+        "hinglish": "taral"
+      },
+      "answer": {
+        "hi": "तरल",
+        "hinglish": "taral"
+      },
+      "options": [
+        {
+          "hi": "तरल",
+          "hinglish": "taral"
+        },
+        {
+          "hi": "ठोस",
+          "hinglish": "thos"
+        },
+        {
+          "hi": "ध्यान से देखना",
+          "hinglish": "dhyaan se dekhna"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P03.S13",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "experiment",
+        "emoji": "🧪",
+        "hindi": "प्रयोग",
+        "hinglish": "prayog"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P03.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "evaporate",
+        "emoji": "☁️",
+        "hindi": "भाप बनना",
+        "hinglish": "bhaap banna"
+      },
+      "answer": {
+        "hi": "भाप बनना",
+        "hinglish": "bhaap banna"
+      },
+      "options": [
+        {
+          "hi": "भाप बनना",
+          "hinglish": "bhaap banna"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण",
+          "hinglish": "gurutvaakarshan"
+        },
+        {
+          "hi": "ठोस",
+          "hinglish": "thos"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P03.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "magnet",
+        "emoji": "🧲",
+        "hindi": "चुंबक",
+        "hinglish": "chumbak"
+      },
+      "answer": {
+        "hi": "चुंबक",
+        "hinglish": "chumbak"
+      },
+      "options": [
+        {
+          "hi": "चुंबक",
+          "hinglish": "chumbak"
+        },
+        {
+          "hi": "प्रयोग",
+          "hinglish": "prayog"
+        },
+        {
+          "hi": "गुरुत्वाकर्षण",
+          "hinglish": "gurutvaakarshan"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P03.S16",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "observe",
+        "emoji": "👀",
+        "hindi": "ध्यान से देखना",
+        "hinglish": "dhyaan se dekhna"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P03.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Ice is a ___.",
+      "answer": "solid",
+      "options": [
+        "solid",
+        "observe",
+        "experiment"
+      ],
+      "meaning": {
+        "hi": "ठोस",
+        "hinglish": "thos"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P03.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "planet",
+      "options": [
+        "planet",
+        "liquid",
+        "magnet"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P03.S19",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "gravity",
+        "emoji": "🍎",
+        "hindi": "गुरुत्वाकर्षण",
+        "hinglish": "gurutvaakarshan"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P03.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Plants give us ___.",
+      "answer": "oxygen",
+      "options": [
+        "oxygen",
+        "observe",
+        "gravity"
+      ],
+      "meaning": {
+        "hi": "ऑक्सीजन",
+        "hinglish": "oxygen"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P03.S21",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "magnet",
+        "emoji": "🧲",
+        "hindi": "चुंबक",
+        "hinglish": "chumbak"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P03.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ how the plant grows each day.",
+      "answer": "observe",
+      "options": [
+        "observe",
+        "liquid",
+        "energy"
+      ],
+      "meaning": {
+        "hi": "ध्यान से देखना",
+        "hinglish": "dhyaan se dekhna"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P03.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ makes the apple fall.",
+      "answer": "gravity",
+      "options": [
+        "gravity",
+        "planet",
+        "magnet"
+      ],
+      "meaning": {
+        "hi": "गुरुत्वाकर्षण",
+        "hinglish": "gurutvaakarshan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P03.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "energy",
+      "options": [
+        "energy",
+        "experiment",
+        "liquid"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P03.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "experiment",
+        "emoji": "🧪",
+        "hindi": "प्रयोग",
+        "hinglish": "prayog"
+      },
+      "answer": {
+        "hi": "प्रयोग",
+        "hinglish": "prayog"
+      },
+      "options": [
+        {
+          "hi": "प्रयोग",
+          "hinglish": "prayog"
+        },
+        {
+          "hi": "ऊर्जा",
+          "hinglish": "oorja"
+        },
+        {
+          "hi": "चुंबक",
+          "hinglish": "chumbak"
+        }
+      ]
+    }
+  ]
+}

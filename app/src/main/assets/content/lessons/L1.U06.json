@@ -23,7 +23,7 @@
       "text": {
         "hi": "यह ‘h’ है। इसकी आवाज़ है ‘ह’, जैसे hat में।",
         "hinglish": "Yeh ‘h’ hai. Iski awaaz hai ‘h’, jaise hat mein.",
-        "en": "This is ‘h’. Listen to its sound, like at the start of hat."
+        "en": "This is ‘h’. Listen to its sound, as in hat."
       },
       "example": {
         "english": "hat",
@@ -44,7 +44,7 @@
       "text": {
         "hi": "यह ‘b’ है। इसकी आवाज़ है ‘ब’, जैसे ball में।",
         "hinglish": "Yeh ‘b’ hai. Iski awaaz hai ‘b’, jaise ball mein.",
-        "en": "This is ‘b’. Listen to its sound, like at the start of ball."
+        "en": "This is ‘b’. Listen to its sound, as in ball."
       },
       "example": {
         "english": "ball",
@@ -54,7 +54,7 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "listen_read",
       "id": "L1.U06.S04",
       "skills": [
         "listen.word",
@@ -62,18 +62,8 @@
       ],
       "answer": "ball",
       "options": [
-        {
-          "english": "ball",
-          "emoji": "⚽",
-          "hindi": "गेंद",
-          "hinglish": "gend"
-        },
-        {
-          "english": "hat",
-          "emoji": "🎩",
-          "hindi": "टोपी",
-          "hinglish": "topi"
-        }
+        "ball",
+        "hat"
       ]
     },
     {
@@ -109,7 +99,7 @@
       "text": {
         "hi": "यह ‘l’ है। इसकी आवाज़ है ‘ल’, जैसे lion में।",
         "hinglish": "Yeh ‘l’ hai. Iski awaaz hai ‘l’, jaise lion mein.",
-        "en": "This is ‘l’. Listen to its sound, like at the start of lion."
+        "en": "This is ‘l’. Listen to its sound, as in lion."
       },
       "example": {
         "english": "lion",
@@ -134,22 +124,16 @@
           "hinglish": "sher"
         },
         {
-          "english": "fish",
-          "emoji": "🐟",
-          "hindi": "मछली",
-          "hinglish": "machhli"
-        },
-        {
           "english": "hat",
           "emoji": "🎩",
           "hindi": "टोपी",
           "hinglish": "topi"
         },
         {
-          "english": "ball",
-          "emoji": "⚽",
-          "hindi": "गेंद",
-          "hinglish": "gend"
+          "english": "fish",
+          "emoji": "🐟",
+          "hindi": "मछली",
+          "hinglish": "machhli"
         }
       ]
     },
@@ -238,8 +222,8 @@
       "answer": "bat",
       "options": [
         "bat",
-        "bus",
-        "bed"
+        "bed",
+        "leg"
       ]
     },
     {
@@ -301,7 +285,7 @@
       "answer": "bus",
       "options": [
         "bus",
-        "leg",
+        "hen",
         "bat"
       ]
     },

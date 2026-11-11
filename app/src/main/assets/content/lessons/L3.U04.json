@@ -290,8 +290,22 @@
       }
     },
     {
-      "type": "learn_card",
+      "type": "teach_tinku",
       "id": "L3.U04.S13",
+      "skills": [
+        "speak.sentence",
+        "grammar.we_you_they"
+      ],
+      "wrong": "We is friends.",
+      "answer": "We are friends.",
+      "meaning": {
+        "hi": "हम दोस्त हैं।",
+        "hinglish": "Hum dost hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U04.S14",
       "text": {
         "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
         "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",

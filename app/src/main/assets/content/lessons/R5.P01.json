@@ -1,0 +1,143 @@
+{
+  "id": "R5.P01",
+  "level": 105,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R5.P01.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Tiger’ (बाघ)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Tiger’ (Baagh). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Tiger’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P01.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘national’ मतलब राष्ट्रीय। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘national’ matlab rashtriya. Chhookar suno, phir bolo.",
+        "en": "‘national’ means राष्ट्रीय. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "national",
+        "emoji": "🇮🇳",
+        "hindi": "राष्ट्रीय",
+        "hinglish": "rashtriya"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P01.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘stripes’ मतलब धारियाँ। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘stripes’ matlab dhaariyan. Chhookar suno, phir bolo.",
+        "en": "‘stripes’ means धारियाँ. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "stripes",
+        "emoji": "🦓",
+        "hindi": "धारियाँ",
+        "hinglish": "dhaariyan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P01.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘protect’ मतलब रक्षा करना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘protect’ matlab raksha karna. Chhookar suno, phir bolo.",
+        "en": "‘protect’ means रक्षा करना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "protect",
+        "emoji": "🛡️",
+        "hindi": "रक्षा करना",
+        "hinglish": "raksha karna"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R5.P01.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "बाघ",
+        "hinglish": "Baagh",
+        "en": "The Tiger"
+      },
+      "sentences": [
+        "The tiger is the national animal of India.",
+        "It is the biggest cat in the world.",
+        "A tiger has orange fur with black stripes.",
+        "No two tigers have the same stripes.",
+        "",
+        "Tigers live in forests.",
+        "They are very good swimmers.",
+        "They hunt at night and sleep in the day.",
+        "Today there are not many tigers left, so we must protect their forests."
+      ],
+      "words": [
+        {
+          "english": "national",
+          "emoji": "🇮🇳",
+          "hindi": "राष्ट्रीय",
+          "hinglish": "rashtriya"
+        },
+        {
+          "english": "stripes",
+          "emoji": "🦓",
+          "hindi": "धारियाँ",
+          "hinglish": "dhaariyan"
+        },
+        {
+          "english": "protect",
+          "emoji": "🛡️",
+          "hindi": "रक्षा करना",
+          "hinglish": "raksha karna"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P01.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "भारत का राष्ट्रीय पशु कौन है?",
+        "hinglish": "Bharat ka rashtriya pashu kaun hai?",
+        "en": "What is the national animal of India?"
+      },
+      "options": [
+        "the tiger",
+        "the lion",
+        "the elephant"
+      ],
+      "answer": "the tiger"
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P01.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बाघ कब शिकार करते हैं?",
+        "hinglish": "Baagh kab shikaar karte hain?",
+        "en": "When do tigers hunt?"
+      },
+      "options": [
+        "at night",
+        "in the morning",
+        "at noon"
+      ],
+      "answer": "at night"
+    }
+  ]
+}

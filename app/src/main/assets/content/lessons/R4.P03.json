@@ -1,0 +1,143 @@
+{
+  "id": "R4.P03",
+  "level": 104,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R4.P03.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Where is Moti?’ (मोती कहाँ है?)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Where is Moti?’ (Moti kahan hai?). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Where is Moti?’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P03.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘joy’ मतलब खुशी। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘joy’ matlab khushi. Chhookar suno, phir bolo.",
+        "en": "‘joy’ means खुशी. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "joy",
+        "emoji": "😄",
+        "hindi": "खुशी",
+        "hinglish": "khushi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P03.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘garden’ मतलब बगीचा। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘garden’ matlab bageecha. Chhookar suno, phir bolo.",
+        "en": "‘garden’ means बगीचा. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "garden",
+        "emoji": "🌷",
+        "hindi": "बगीचा",
+        "hinglish": "bageecha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P03.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘bush’ मतलब झाड़ी। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘bush’ matlab jhaadi. Chhookar suno, phir bolo.",
+        "en": "‘bush’ means झाड़ी. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "bush",
+        "emoji": "🌿",
+        "hindi": "झाड़ी",
+        "hinglish": "jhaadi"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R4.P03.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "मोती कहाँ है?",
+        "hinglish": "Moti kahan hai?",
+        "en": "Where is Moti?"
+      },
+      "sentences": [
+        "Moti is our dog.",
+        "He is brown and white.",
+        "Every morning he waits at the door for me.",
+        "When I come back from school, he jumps with joy.",
+        "One day Moti was not at the door.",
+        "I looked everywhere, but I could not find him.",
+        "Then I heard a bark from the garden.",
+        "Moti was sleeping under a bush!",
+        "I was so happy to see him again."
+      ],
+      "words": [
+        {
+          "english": "joy",
+          "emoji": "😄",
+          "hindi": "खुशी",
+          "hinglish": "khushi"
+        },
+        {
+          "english": "garden",
+          "emoji": "🌷",
+          "hindi": "बगीचा",
+          "hinglish": "bageecha"
+        },
+        {
+          "english": "bush",
+          "emoji": "🌿",
+          "hindi": "झाड़ी",
+          "hinglish": "jhaadi"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P03.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "मोती हर सुबह कहाँ इंतज़ार करता है?",
+        "hinglish": "Moti har subah kahan intezaar karta hai?",
+        "en": "Where does Moti wait every morning?"
+      },
+      "options": [
+        "at the door",
+        "in the garden",
+        "at school"
+      ],
+      "answer": "at the door"
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P03.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "मोती कहाँ सो रहा था?",
+        "hinglish": "Moti kahan so raha tha?",
+        "en": "Where was Moti sleeping?"
+      },
+      "options": [
+        "under a bush",
+        "on the bed",
+        "in the bus"
+      ],
+      "answer": "under a bush"
+    }
+  ]
+}

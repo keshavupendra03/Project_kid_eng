@@ -48,53 +48,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U21.S04",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.actions"
       ],
-      "answer": "open",
+      "word": {
+        "english": "open",
+        "emoji": "🔓",
+        "hindi": "खोलना",
+        "hinglish": "kholna"
+      },
+      "answer": {
+        "hi": "खोलना",
+        "hinglish": "kholna"
+      },
       "options": [
         {
-          "english": "open",
-          "emoji": "🔓",
-          "hindi": "खोलना",
+          "hi": "खोलना",
           "hinglish": "kholna"
         },
         {
-          "english": "clap",
-          "emoji": "👏",
-          "hindi": "ताली बजाना",
-          "hinglish": "taali bajaana"
-        },
-        {
-          "english": "look",
-          "emoji": "👀",
-          "hindi": "देखना",
-          "hinglish": "dekhna"
-        },
-        {
-          "english": "think",
-          "emoji": "🤔",
-          "hindi": "सोचना",
+          "hi": "सोचना",
           "hinglish": "sochna"
+        },
+        {
+          "hi": "ताली बजाना",
+          "hinglish": "taali bajaana"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U21.S05",
       "skills": [
         "read.word",
         "vocab.actions"
       ],
-      "emoji": "🔒",
       "answer": "close",
       "options": [
         "close",
-        "wave",
-        "clap"
+        "listen",
+        "talk"
       ]
     },
     {
@@ -134,53 +130,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U21.S08",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.actions"
       ],
-      "answer": "think",
+      "word": {
+        "english": "think",
+        "emoji": "🤔",
+        "hindi": "सोचना",
+        "hinglish": "sochna"
+      },
+      "answer": {
+        "hi": "सोचना",
+        "hinglish": "sochna"
+      },
       "options": [
         {
-          "english": "think",
-          "emoji": "🤔",
-          "hindi": "सोचना",
+          "hi": "सोचना",
           "hinglish": "sochna"
         },
         {
-          "english": "look",
-          "emoji": "👀",
-          "hindi": "देखना",
-          "hinglish": "dekhna"
-        },
-        {
-          "english": "clap",
-          "emoji": "👏",
-          "hindi": "ताली बजाना",
+          "hi": "ताली बजाना",
           "hinglish": "taali bajaana"
         },
         {
-          "english": "listen",
-          "emoji": "👂",
-          "hindi": "सुनना",
-          "hinglish": "sunna"
+          "hi": "देखना",
+          "hinglish": "dekhna"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U21.S09",
       "skills": [
         "read.word",
         "vocab.actions"
       ],
-      "emoji": "👂",
       "answer": "listen",
       "options": [
         "listen",
-        "talk",
-        "look"
+        "wave",
+        "talk"
       ]
     },
     {
@@ -220,52 +212,48 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U21.S12",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.actions"
       ],
-      "answer": "look",
+      "word": {
+        "english": "look",
+        "emoji": "👀",
+        "hindi": "देखना",
+        "hinglish": "dekhna"
+      },
+      "answer": {
+        "hi": "देखना",
+        "hinglish": "dekhna"
+      },
       "options": [
         {
-          "english": "look",
-          "emoji": "👀",
-          "hindi": "देखना",
+          "hi": "देखना",
           "hinglish": "dekhna"
         },
         {
-          "english": "open",
-          "emoji": "🔓",
-          "hindi": "खोलना",
-          "hinglish": "kholna"
-        },
-        {
-          "english": "clap",
-          "emoji": "👏",
-          "hindi": "ताली बजाना",
-          "hinglish": "taali bajaana"
-        },
-        {
-          "english": "listen",
-          "emoji": "👂",
-          "hindi": "सुनना",
+          "hi": "सुनना",
           "hinglish": "sunna"
+        },
+        {
+          "hi": "सोचना",
+          "hinglish": "sochna"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U21.S13",
       "skills": [
         "read.word",
         "vocab.actions"
       ],
-      "emoji": "🗣️",
       "answer": "talk",
       "options": [
         "talk",
-        "look",
+        "think",
         "clap"
       ]
     },
@@ -306,58 +294,86 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U21.S16",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.actions"
       ],
-      "answer": "clap",
+      "word": {
+        "english": "clap",
+        "emoji": "👏",
+        "hindi": "ताली बजाना",
+        "hinglish": "taali bajaana"
+      },
+      "answer": {
+        "hi": "ताली बजाना",
+        "hinglish": "taali bajaana"
+      },
       "options": [
         {
-          "english": "clap",
-          "emoji": "👏",
-          "hindi": "ताली बजाना",
+          "hi": "ताली बजाना",
           "hinglish": "taali bajaana"
         },
         {
-          "english": "wave",
-          "emoji": "👋",
-          "hindi": "हाथ हिलाना",
-          "hinglish": "haath hilaana"
-        },
-        {
-          "english": "look",
-          "emoji": "👀",
-          "hindi": "देखना",
-          "hinglish": "dekhna"
-        },
-        {
-          "english": "close",
-          "emoji": "🔒",
-          "hindi": "बंद करना",
+          "hi": "बंद करना",
           "hinglish": "band karna"
+        },
+        {
+          "hi": "खोलना",
+          "hinglish": "kholna"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U21.S17",
       "skills": [
         "read.word",
         "vocab.actions"
       ],
-      "emoji": "👋",
       "answer": "wave",
       "options": [
         "wave",
-        "look",
+        "clap",
         "listen"
       ]
     },
     {
       "type": "match_meaning",
       "id": "L2.U21.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "open",
+        "emoji": "🔓",
+        "hindi": "खोलना",
+        "hinglish": "kholna"
+      },
+      "answer": {
+        "hi": "खोलना",
+        "hinglish": "kholna"
+      },
+      "options": [
+        {
+          "hi": "खोलना",
+          "hinglish": "kholna"
+        },
+        {
+          "hi": "देखना",
+          "hinglish": "dekhna"
+        },
+        {
+          "hi": "ताली बजाना",
+          "hinglish": "taali bajaana"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U21.S19",
       "skills": [
         "vocab.meaning",
         "vocab.actions"
@@ -378,44 +394,12 @@
           "hinglish": "haath hilaana"
         },
         {
-          "hi": "खोलना",
-          "hinglish": "kholna"
+          "hi": "देखना",
+          "hinglish": "dekhna"
         },
         {
-          "hi": "बंद करना",
-          "hinglish": "band karna"
-        }
-      ]
-    },
-    {
-      "type": "match_meaning",
-      "id": "L2.U21.S19",
-      "skills": [
-        "vocab.meaning",
-        "vocab.actions"
-      ],
-      "word": {
-        "english": "think",
-        "emoji": "🤔",
-        "hindi": "सोचना",
-        "hinglish": "sochna"
-      },
-      "answer": {
-        "hi": "सोचना",
-        "hinglish": "sochna"
-      },
-      "options": [
-        {
-          "hi": "सोचना",
-          "hinglish": "sochna"
-        },
-        {
-          "hi": "सुनना",
-          "hinglish": "sunna"
-        },
-        {
-          "hi": "ताली बजाना",
-          "hinglish": "taali bajaana"
+          "hi": "बात करना",
+          "hinglish": "baat karna"
         }
       ]
     },
@@ -454,11 +438,11 @@
         "read.word",
         "vocab.actions"
       ],
-      "answer": "clap",
+      "answer": "close",
       "options": [
-        "clap",
         "close",
-        "open"
+        "talk",
+        "wave"
       ]
     },
     {

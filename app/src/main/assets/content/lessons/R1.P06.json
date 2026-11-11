@@ -1,0 +1,138 @@
+{
+  "id": "R1.P06",
+  "level": 101,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R1.P06.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Frog’ (मेंढक)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Frog’ (Mendhak). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Frog’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P06.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘frog’ मतलब मेंढक। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘frog’ matlab mendhak. Chhookar suno, phir bolo.",
+        "en": "‘frog’ means मेंढक. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "frog",
+        "emoji": "🐸",
+        "hindi": "मेंढक",
+        "hinglish": "mendhak"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P06.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘pond’ मतलब तालाब। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘pond’ matlab talaab. Chhookar suno, phir bolo.",
+        "en": "‘pond’ means तालाब. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "pond",
+        "emoji": "🏞️",
+        "hindi": "तालाब",
+        "hinglish": "talaab"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P06.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘log’ मतलब लकड़ी का कुंदा। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘log’ matlab lakdi ka kunda. Chhookar suno, phir bolo.",
+        "en": "‘log’ means लकड़ी का कुंदा. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "log",
+        "emoji": "🪵",
+        "hindi": "लकड़ी का कुंदा",
+        "hinglish": "lakdi ka kunda"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R1.P06.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "मेंढक",
+        "hinglish": "Mendhak",
+        "en": "The Frog"
+      },
+      "sentences": [
+        "A frog is in the pond.",
+        "Hop, frog, hop!",
+        "The frog is wet.",
+        "It sits on a log."
+      ],
+      "words": [
+        {
+          "english": "frog",
+          "emoji": "🐸",
+          "hindi": "मेंढक",
+          "hinglish": "mendhak"
+        },
+        {
+          "english": "pond",
+          "emoji": "🏞️",
+          "hindi": "तालाब",
+          "hinglish": "talaab"
+        },
+        {
+          "english": "log",
+          "emoji": "🪵",
+          "hindi": "लकड़ी का कुंदा",
+          "hinglish": "lakdi ka kunda"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P06.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "मेंढक कहाँ है?",
+        "hinglish": "Mendhak kahan hai?",
+        "en": "Where is the frog?"
+      },
+      "options": [
+        "in the pond",
+        "in a bag",
+        "on a bus"
+      ],
+      "answer": "in the pond"
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P06.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "मेंढक किस पर बैठा?",
+        "hinglish": "Mendhak kis par baitha?",
+        "en": "What does the frog sit on?"
+      },
+      "options": [
+        "a log",
+        "a mat",
+        "a hat"
+      ],
+      "answer": "a log"
+    }
+  ]
+}

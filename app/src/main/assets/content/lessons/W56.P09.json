@@ -1,0 +1,480 @@
+{
+  "id": "W56.P09",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P09.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: मिलते-जुलते शब्द। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Milte-julte shabd. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Confusing pairs. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P09.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lose",
+        "emoji": "😢",
+        "hindi": "खो देना",
+        "hinglish": "kho dena"
+      },
+      "meaning": "to not be able to find something",
+      "example": "Do not lose your pencil.",
+      "exampleMeaning": {
+        "hi": "अपनी पेंसिल मत खोना।",
+        "hinglish": "Apni pencil mat khona."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P09.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "loose",
+        "emoji": "👖",
+        "hindi": "ढीला",
+        "hinglish": "dheela"
+      },
+      "meaning": "not tight",
+      "example": "My old shirt is loose now.",
+      "exampleMeaning": {
+        "hi": "मेरी पुरानी कमीज़ अब ढीली है।",
+        "hinglish": "Meri puraani kameez ab dheeli hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P09.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "quiet",
+        "emoji": "🤫",
+        "hindi": "शांत",
+        "hinglish": "shaant"
+      },
+      "meaning": "making very little noise",
+      "example": "Please be quiet in the library.",
+      "exampleMeaning": {
+        "hi": "लाइब्रेरी में शांत रहो।",
+        "hinglish": "Library mein shaant raho."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P09.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "quite",
+        "emoji": "👌",
+        "hindi": "काफ़ी",
+        "hinglish": "kaafi"
+      },
+      "meaning": "very or fairly",
+      "example": "The test was quite easy.",
+      "exampleMeaning": {
+        "hi": "टेस्ट काफ़ी आसान था।",
+        "hinglish": "Test kaafi aasaan tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P09.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "accept",
+        "emoji": "✅",
+        "hindi": "स्वीकार करना",
+        "hinglish": "sweekaar karna"
+      },
+      "meaning": "to take what is offered",
+      "example": "Please accept this small gift.",
+      "exampleMeaning": {
+        "hi": "यह छोटा सा तोहफ़ा स्वीकार कीजिए।",
+        "hinglish": "Yeh chhota sa tohfa sweekaar keejiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P09.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "except",
+        "emoji": "➖",
+        "hindi": "के सिवा",
+        "hinglish": "ke siva"
+      },
+      "meaning": "not including",
+      "example": "Everyone came except Rohan.",
+      "exampleMeaning": {
+        "hi": "रोहन के सिवा सब आए।",
+        "hinglish": "Rohan ke siva sab aaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P09.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "advice",
+        "emoji": "💬",
+        "hindi": "सलाह",
+        "hinglish": "salaah"
+      },
+      "meaning": "an idea about what someone should do",
+      "example": "My teacher gave me good advice.",
+      "exampleMeaning": {
+        "hi": "मेरे टीचर ने मुझे अच्छी सलाह दी।",
+        "hinglish": "Mere teacher ne mujhe achhi salaah di."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P09.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "advise",
+        "emoji": "🧑‍🏫",
+        "hindi": "सलाह देना",
+        "hinglish": "salaah dena"
+      },
+      "meaning": "to tell someone what they should do",
+      "example": "Doctors advise us to sleep early.",
+      "exampleMeaning": {
+        "hi": "डॉक्टर हमें जल्दी सोने की सलाह देते हैं।",
+        "hinglish": "Doctor hamein jaldi sone ki salaah dete hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P09.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "dessert",
+        "emoji": "🍨",
+        "hindi": "मीठा",
+        "hinglish": "meetha"
+      },
+      "meaning": "sweet food eaten after a meal",
+      "example": "We had ice cream for dessert.",
+      "exampleMeaning": {
+        "hi": "खाने के बाद मीठे में हमने आइसक्रीम खाई।",
+        "hinglish": "Khaane ke baad meethe mein humne ice cream khaayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P09.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "stationery",
+        "emoji": "✏️",
+        "hindi": "लेखन सामग्री",
+        "hinglish": "lekhan saamagri"
+      },
+      "meaning": "pens, pencils, paper and erasers",
+      "example": "I bought new stationery for the new term.",
+      "exampleMeaning": {
+        "hi": "मैंने नए सत्र के लिए नई लेखन सामग्री ख़रीदी।",
+        "hinglish": "Maine naye satra ke liye nayi lekhan saamagri khareedi."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P09.S12",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "quite",
+        "emoji": "👌",
+        "hindi": "काफ़ी",
+        "hinglish": "kaafi"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P09.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The test was ___ easy.",
+      "answer": "quite",
+      "options": [
+        "quite",
+        "dessert",
+        "loose"
+      ],
+      "meaning": {
+        "hi": "काफ़ी",
+        "hinglish": "kaafi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P09.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "stationery",
+      "options": [
+        "stationery",
+        "advise",
+        "loose"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P09.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "lose",
+        "emoji": "😢",
+        "hindi": "खो देना",
+        "hinglish": "kho dena"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P09.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "advice",
+        "emoji": "💬",
+        "hindi": "सलाह",
+        "hinglish": "salaah"
+      },
+      "answer": {
+        "hi": "सलाह",
+        "hinglish": "salaah"
+      },
+      "options": [
+        {
+          "hi": "सलाह",
+          "hinglish": "salaah"
+        },
+        {
+          "hi": "के सिवा",
+          "hinglish": "ke siva"
+        },
+        {
+          "hi": "सलाह देना",
+          "hinglish": "salaah dena"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P09.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Everyone came ___ Rohan.",
+      "answer": "except",
+      "options": [
+        "except",
+        "advise",
+        "loose"
+      ],
+      "meaning": {
+        "hi": "के सिवा",
+        "hinglish": "ke siva"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P09.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "quiet",
+        "emoji": "🤫",
+        "hindi": "शांत",
+        "hinglish": "shaant"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P09.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lose",
+        "emoji": "😢",
+        "hindi": "खो देना",
+        "hinglish": "kho dena"
+      },
+      "answer": {
+        "hi": "खो देना",
+        "hinglish": "kho dena"
+      },
+      "options": [
+        {
+          "hi": "खो देना",
+          "hinglish": "kho dena"
+        },
+        {
+          "hi": "के सिवा",
+          "hinglish": "ke siva"
+        },
+        {
+          "hi": "सलाह देना",
+          "hinglish": "salaah dena"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P09.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "quiet",
+        "emoji": "🤫",
+        "hindi": "शांत",
+        "hinglish": "shaant"
+      },
+      "answer": {
+        "hi": "शांत",
+        "hinglish": "shaant"
+      },
+      "options": [
+        {
+          "hi": "शांत",
+          "hinglish": "shaant"
+        },
+        {
+          "hi": "काफ़ी",
+          "hinglish": "kaafi"
+        },
+        {
+          "hi": "लेखन सामग्री",
+          "hinglish": "lekhan saamagri"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P09.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "My old shirt is ___ now.",
+      "answer": "loose",
+      "options": [
+        "loose",
+        "accept",
+        "quiet"
+      ],
+      "meaning": {
+        "hi": "ढीला",
+        "hinglish": "dheela"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P09.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Doctors ___ us to sleep early.",
+      "answer": "advise",
+      "options": [
+        "advise",
+        "quite",
+        "lose"
+      ],
+      "meaning": {
+        "hi": "सलाह देना",
+        "hinglish": "salaah dena"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P09.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "accept",
+        "emoji": "✅",
+        "hindi": "स्वीकार करना",
+        "hinglish": "sweekaar karna"
+      },
+      "answer": {
+        "hi": "स्वीकार करना",
+        "hinglish": "sweekaar karna"
+      },
+      "options": [
+        {
+          "hi": "स्वीकार करना",
+          "hinglish": "sweekaar karna"
+        },
+        {
+          "hi": "लेखन सामग्री",
+          "hinglish": "lekhan saamagri"
+        },
+        {
+          "hi": "सलाह",
+          "hinglish": "salaah"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P09.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "dessert",
+      "options": [
+        "dessert",
+        "lose",
+        "quite"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P09.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "loose",
+        "emoji": "👖",
+        "hindi": "ढीला",
+        "hinglish": "dheela"
+      }
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "W78.P01T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "match_meaning",
+      "id": "W78.P01T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "justice",
+        "emoji": "⚖️",
+        "hindi": "न्याय",
+        "hinglish": "nyaay"
+      },
+      "answer": {
+        "hi": "न्याय",
+        "hinglish": "nyaay"
+      },
+      "options": [
+        {
+          "hi": "न्याय",
+          "hinglish": "nyaay"
+        },
+        {
+          "hi": "समानता",
+          "hinglish": "samaanta"
+        },
+        {
+          "hi": "असफलता",
+          "hinglish": "asafalta"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P01T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "In my ___, the film was good.",
+      "answer": "opinion",
+      "options": [
+        "opinion",
+        "justice",
+        "patience"
+      ],
+      "meaning": {
+        "hi": "राय",
+        "hinglish": "raay"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P01T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "knowledge",
+      "options": [
+        "knowledge",
+        "patience",
+        "failure"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P01T.S04",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "freedom",
+        "emoji": "🕊️",
+        "hindi": "आज़ादी",
+        "hinglish": "aazaadi"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P01T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "courage",
+        "emoji": "🦁",
+        "hindi": "साहस",
+        "hinglish": "saahas"
+      },
+      "answer": {
+        "hi": "साहस",
+        "hinglish": "saahas"
+      },
+      "options": [
+        {
+          "hi": "साहस",
+          "hinglish": "saahas"
+        },
+        {
+          "hi": "सफलता",
+          "hinglish": "safalta"
+        },
+        {
+          "hi": "धैर्य",
+          "hinglish": "dhairya"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P01T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ is the best policy.",
+      "answer": "honesty",
+      "options": [
+        "honesty",
+        "success",
+        "equality"
+      ],
+      "meaning": {
+        "hi": "ईमानदारी",
+        "hinglish": "imaandaari"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P01T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "patience",
+      "options": [
+        "patience",
+        "equality",
+        "freedom"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P01T.S08",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "success",
+        "emoji": "🏆",
+        "hindi": "सफलता",
+        "hinglish": "safalta"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P01T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "failure",
+        "emoji": "📉",
+        "hindi": "असफलता",
+        "hinglish": "asafalta"
+      },
+      "answer": {
+        "hi": "असफलता",
+        "hinglish": "asafalta"
+      },
+      "options": [
+        {
+          "hi": "असफलता",
+          "hinglish": "asafalta"
+        },
+        {
+          "hi": "साहस",
+          "hinglish": "saahas"
+        },
+        {
+          "hi": "ईमानदारी",
+          "hinglish": "imaandaari"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P01T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Boys and girls deserve ___.",
+      "answer": "equality",
+      "options": [
+        "equality",
+        "courage",
+        "justice"
+      ],
+      "meaning": {
+        "hi": "समानता",
+        "hinglish": "samaanta"
+      }
+    }
+  ]
+}

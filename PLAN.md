@@ -3,16 +3,17 @@
 > "Ratta nahi, samajh!" — An Android app that helps Hindi-medium kids (Class 1–8)
 > truly understand English: reading, words, sentence building, speaking.
 
-Status: **Approved. M0–M4 ✅ (built; awaiting on-phone testing + phonics recordings) — next: M5 (parent section).** Last updated 2026-10-31.
+Status: **Approved. M0–M6 ✅ (built; awaiting on-phone testing + phonics recordings). School website and app connection built in `web/`, published for testing at samjho-school.pages.dev. Hint ladder and stuck-child help built, awaiting on-phone testing and Hindi review. Reading ladder built (📖 पढ़ो on Home: 5 levels × 6 passages, Tinku reads first, child reads along with words turning green, 2 story questions; engine = Zipformer biased to the passage, chosen after measuring on real recordings; `tools/content/reading.json` → `generate_reading.py`; engine files via `tools/get_readalong_engine.py`). Awaiting on-phone testing, Hindi review, and a model-download step before the final APK (engine adds ~86 MB). Word Power built (📚 on Home: 360 words in 3 class bands × 12 packs of 10, learn pack → pack test 8/10, placement test, Word Bank reviews, monthly test, word of the day; younger children can open higher bands by passing 8 tests or by placement; source `tools/content/wordpower.json` → `generate_wordpower.py`). Tinku Express built (🚂 on Home: 10 trains × 3 scrolling passages, 25→100 words/min, Smart speed or Challenge, golden words, combo, lives from train 4, bonus re-reads of Reading stories; `assets/content/express.json`, rules in `learning/Express.kt`). Next: M7 (real-kid testing + release).** Last updated 2026-11-10.
 
 ### How content is made
 - Lesson sources live in `tools/content/` (`curriculum.json`, `phonics.json`, `words.json`, `patterns.json`).
 - `python tools/content/generate.py` builds the lesson files in `app/src/main/assets/content/` from them.
-  L0.U01–03 and L1.U01–03 are hand-written JSON and are not touched by the generator.
+  L0.U01–03, L1.U01–03 and the L4 conversations are hand-written JSON and are not touched by the generator.
 - `gradlew test` then checks every lesson (answers in options, all 3 languages present, sounds exist, roles valid…).
 - To add words: append to `words.json` (8 words per lesson), add the lesson to `curriculum.json`, run both commands.
 
-Current content: 58 lessons, ~1,090 steps — Level 0 (3), Level 1 phonics (12), Level 2 vocabulary (28 lessons, 223 words), Level 3 sentence patterns (15).
+Current content: 101 lessons — Level 0 (3 lessons, 18 words), Level 1 phonics (17 lessons, all 44 sounds), Level 2 vocabulary (63 lessons, 503 words), Level 3 sentence patterns (15, each with Teach Tinku), Level 4 conversations (3 role-plays).
+Still open from the plan's content goals: Level 0 has 18 of the ~150 loanwords mentioned in section 2; a native-speaker read of the Hindi is pending.
 
 ---
 
@@ -202,8 +203,10 @@ Every exercise is tagged with one or more **skill IDs** (e.g. `sound.th`, `gramm
 - Up to 3 tries, then show the answer and schedule it for review.
 - **Fallback (later milestone):** Vosk offline recogniser (free, Indian-English model) for phones without Google speech services.
 
-### Voice Diary (for parents)
-Once a week the child reads the same 5 sentences; the app records them (MediaRecorder) so parents can hear progress over weeks.
+### No saved voice
+The app listens while the child speaks but never saves their voice to the phone. (An earlier weekly
+"Voice Diary" that kept recordings for parents was removed in Nov 2026 to save phone storage; the update
+deletes any clips it had saved.)
 
 ---
 
@@ -228,7 +231,6 @@ Once a week the child reads the same 5 sentences; the app records them (MediaRec
 - **Top 3 weak areas** in plain words + a home tip
   (e.g. "is / am / are mein confusion hai. Ghar pe poochhiye: 'Tum kaise ho?' aur jawab English mein dilwaiye.")
 - Words learned count, sentences spoken count
-- Voice Diary playback (week 1 vs latest)
 - Real-life Missions to approve
 - Daily time limit setting and parent PIN change
 - Multiple child profiles on one phone
@@ -241,7 +243,7 @@ Once a week the child reads the same 5 sentences; the app records them (MediaRec
 - **Pattern:** MVVM (ViewModel + StateFlow), single app module to start
 - **Storage:** Room (progress, attempts, sessions), DataStore (settings)
 - **Content:** JSON files in `assets/content/` loaded with kotlinx.serialization
-- **Speech:** Android TextToSpeech, SpeechRecognizer, MediaRecorder
+- **Speech:** Android TextToSpeech, SpeechRecognizer, on-device Zipformer for reading (audio is never saved)
 - **Min Android version:** Android 7.0 (API 24) so it runs on old cheap phones
 - **App size target:** under 30 MB
 
@@ -251,7 +253,6 @@ Once a week the child reads the same 5 sentences; the app records them (MediaRec
 - `ItemState` — childId, itemId, box, nextReviewAt
 - `Attempt` — childId, exerciseId, skillIds, correct, heardText, errorTag, tries, durationMs, timestamp
 - `StudySession` — childId, startAt, endAt
-- `VoiceDiaryEntry` — childId, filePath, createdAt
 - `MissionState` — childId, missionId, status
 
 ### Content file format (example)
@@ -315,7 +316,7 @@ app/src/main/
 | M2 | Speech | TTS + voice checking + confusion-map tips working in `say_word` / `minimal_pair` |
 | M3 | Progress + adaptive engine | Attempts saved, mastery, spaced review, placement test, "Aaj ka kaam" |
 | M4 | Full content | Level 1–3 content generated, checked by script for errors |
-| M5 | Parent section | PIN, dashboard, weak areas, time limit, voice diary, missions |
+| M5 | Parent section | PIN, dashboard, weak areas, time limit, missions |
 | M6 | Conversation + polish | 3 role-plays, Teach Tinku, junior/senior themes, sounds & animations |
 | M7 | Real-kid testing + release | 3–5 real kids test it; fix issues; signed release APK to share |
 

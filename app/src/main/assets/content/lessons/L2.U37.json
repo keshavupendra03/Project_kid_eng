@@ -1,0 +1,447 @@
+{
+  "id": "L2.U37",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U37.S01",
+      "text": {
+        "hi": "स्कूल के विषय और भाषा के शब्द।",
+        "hinglish": "School ke vishay aur bhasha ke shabd.",
+        "en": "School subjects and language words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U37.S02",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘maths’ मतलब ‘गणित’।",
+        "hinglish": "‘maths’ matlab ‘ganit’.",
+        "en": "Say it with me: maths!"
+      },
+      "word": {
+        "english": "maths",
+        "hindi": "गणित",
+        "hinglish": "ganit"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U37.S03",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘science’ मतलब ‘विज्ञान’।",
+        "hinglish": "‘science’ matlab ‘vigyaan’.",
+        "en": "Say it with me: science!"
+      },
+      "word": {
+        "english": "science",
+        "emoji": "🔬",
+        "hindi": "विज्ञान",
+        "hinglish": "vigyaan"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U37.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "maths",
+        "hindi": "गणित",
+        "hinglish": "ganit"
+      },
+      "answer": {
+        "hi": "गणित",
+        "hinglish": "ganit"
+      },
+      "options": [
+        {
+          "hi": "गणित",
+          "hinglish": "ganit"
+        },
+        {
+          "hi": "नंबर",
+          "hinglish": "number"
+        },
+        {
+          "hi": "विज्ञान",
+          "hinglish": "vigyaan"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U37.S05",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "emoji": "🔬",
+      "answer": "science",
+      "options": [
+        "science",
+        "maths",
+        "meaning"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U37.S06",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘history’ मतलब ‘इतिहास’।",
+        "hinglish": "‘history’ matlab ‘itihaas’.",
+        "en": "Say it with me: history!"
+      },
+      "word": {
+        "english": "history",
+        "hindi": "इतिहास",
+        "hinglish": "itihaas"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U37.S07",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘language’ मतलब ‘भाषा’।",
+        "hinglish": "‘language’ matlab ‘bhasha’.",
+        "en": "Say it with me: language!"
+      },
+      "word": {
+        "english": "language",
+        "hindi": "भाषा",
+        "hinglish": "bhasha"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U37.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "history",
+        "hindi": "इतिहास",
+        "hinglish": "itihaas"
+      },
+      "answer": {
+        "hi": "इतिहास",
+        "hinglish": "itihaas"
+      },
+      "options": [
+        {
+          "hi": "इतिहास",
+          "hinglish": "itihaas"
+        },
+        {
+          "hi": "मतलब",
+          "hinglish": "matlab"
+        },
+        {
+          "hi": "भाषा",
+          "hinglish": "bhasha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U37.S09",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "language",
+      "options": [
+        "language",
+        "science",
+        "meaning"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U37.S10",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘name’ मतलब ‘नाम’।",
+        "hinglish": "‘name’ matlab ‘naam’.",
+        "en": "Say it with me: name!"
+      },
+      "word": {
+        "english": "name",
+        "hindi": "नाम",
+        "hinglish": "naam"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U37.S11",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘number’ मतलब ‘नंबर’।",
+        "hinglish": "‘number’ matlab ‘number’.",
+        "en": "Say it with me: number!"
+      },
+      "word": {
+        "english": "number",
+        "emoji": "🔢",
+        "hindi": "नंबर",
+        "hinglish": "number"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U37.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "name",
+        "hindi": "नाम",
+        "hinglish": "naam"
+      },
+      "answer": {
+        "hi": "नाम",
+        "hinglish": "naam"
+      },
+      "options": [
+        {
+          "hi": "नाम",
+          "hinglish": "naam"
+        },
+        {
+          "hi": "गणित",
+          "hinglish": "ganit"
+        },
+        {
+          "hi": "नंबर",
+          "hinglish": "number"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U37.S13",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "number",
+      "options": [
+        "number",
+        "science",
+        "name"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U37.S14",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘sentence’ मतलब ‘वाक्य’।",
+        "hinglish": "‘sentence’ matlab ‘vaakya’.",
+        "en": "Say it with me: sentence!"
+      },
+      "word": {
+        "english": "sentence",
+        "hindi": "वाक्य",
+        "hinglish": "vaakya"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U37.S15",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘meaning’ मतलब ‘मतलब’।",
+        "hinglish": "‘meaning’ matlab ‘matlab’.",
+        "en": "Say it with me: meaning!"
+      },
+      "word": {
+        "english": "meaning",
+        "hindi": "मतलब",
+        "hinglish": "matlab"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U37.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "sentence",
+        "hindi": "वाक्य",
+        "hinglish": "vaakya"
+      },
+      "answer": {
+        "hi": "वाक्य",
+        "hinglish": "vaakya"
+      },
+      "options": [
+        {
+          "hi": "वाक्य",
+          "hinglish": "vaakya"
+        },
+        {
+          "hi": "मतलब",
+          "hinglish": "matlab"
+        },
+        {
+          "hi": "इतिहास",
+          "hinglish": "itihaas"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U37.S17",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "meaning",
+      "options": [
+        "meaning",
+        "language",
+        "science"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U37.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "name",
+        "hindi": "नाम",
+        "hinglish": "naam"
+      },
+      "answer": {
+        "hi": "नाम",
+        "hinglish": "naam"
+      },
+      "options": [
+        {
+          "hi": "नाम",
+          "hinglish": "naam"
+        },
+        {
+          "hi": "विज्ञान",
+          "hinglish": "vigyaan"
+        },
+        {
+          "hi": "भाषा",
+          "hinglish": "bhasha"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U37.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "history",
+        "hindi": "इतिहास",
+        "hinglish": "itihaas"
+      },
+      "answer": {
+        "hi": "इतिहास",
+        "hinglish": "itihaas"
+      },
+      "options": [
+        {
+          "hi": "इतिहास",
+          "hinglish": "itihaas"
+        },
+        {
+          "hi": "विज्ञान",
+          "hinglish": "vigyaan"
+        },
+        {
+          "hi": "वाक्य",
+          "hinglish": "vaakya"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U37.S20",
+      "skills": [
+        "speak.word",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "number",
+        "emoji": "🔢",
+        "hindi": "नंबर",
+        "hinglish": "number"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U37.S21",
+      "skills": [
+        "speak.word",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "science",
+        "emoji": "🔬",
+        "hindi": "विज्ञान",
+        "hinglish": "vigyaan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U37.S22",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "history",
+      "options": [
+        "history",
+        "maths",
+        "sentence"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U37.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: maths, science, history, language, name, number, sentence, meaning।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: maths, science, history, language, name, number, sentence, meaning.",
+        "en": "Well done! Today's new words: maths, science, history, language, name, number, sentence, meaning."
+      }
+    }
+  ]
+}

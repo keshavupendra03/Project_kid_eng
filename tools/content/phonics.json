@@ -198,6 +198,119 @@
         { "type": "learn_card",
           "text": { "hi": "शाबाश! अब तुम्हारी इंग्लिश और साफ़ सुनाई देगी!", "hl": "Shabaash! Ab tumhari English aur saaf sunaai degi!", "en": "Well done! Your English will sound even clearer now!" } }
       ]
+    },
+    {
+      "id": "L1.U13",
+      "intro": { "hi": "दो खास अक्षर: x और qu. इनमें दो-दो आवाज़ें छिपी हैं!", "hl": "Do khaas akshar: x aur qu. Inmein do-do awaazein chhipi hain!", "en": "Two special ones: x and qu. Each hides two sounds!" },
+      "sounds": [
+        { "letters": "x", "hint": "क्स", "hint_hl": "ks", "example": ["fox", "🦊", "लोमड़ी", "lomdi"],
+          "text": { "hi": "यह ‘x’ है। इसमें दो आवाज़ें हैं: क् + स्। जैसे fox के आख़िर में।", "hl": "Yeh ‘x’ hai. Ismein do awaazein hain: k + s. Jaise fox ke aakhir mein.", "en": "This is ‘x’. It has two sounds: k + s, like at the end of fox." } },
+        { "letters": "qu", "hint": "क्व", "hint_hl": "kw", "example": ["queen", "👸", "रानी", "raani"],
+          "text": { "hi": "q के साथ लगभग हमेशा u आता है। ‘qu’ की आवाज़ है: क् + व, जैसे queen में।", "hl": "q ke saath lagbhag hamesha u aata hai. ‘qu’ ki awaaz hai: k + w, jaise queen mein.", "en": "q almost always comes with u. ‘qu’ sounds like k + w, as in queen." } }
+      ],
+      "blends": [
+        { "word": "fox", "emoji": "🦊", "parts": "f-o-x" },
+        { "word": "box", "emoji": "📦", "parts": "b-o-x" },
+        { "word": "six", "emoji": "6️⃣", "parts": "s-i-x", "accept": ["6"] },
+        { "word": "queen", "emoji": "👸", "parts": "qu-ee-n" }
+      ],
+      "outro": { "hi": "शाबाश! अब x और qu भी तुम्हारे दोस्त हैं!", "hl": "Shabaash! Ab x aur qu bhi tumhare dost hain!", "en": "Well done! Now x and qu are your friends too!" }
+    },
+    {
+      "id": "L1.U14",
+      "intro": { "hi": "कुछ अक्षरों की एक दूसरी आवाज़ भी होती है। चलो सुनते हैं!", "hl": "Kuch akshron ki ek doosri awaaz bhi hoti hai. Chalo sunte hain!", "en": "Some letters have a second sound too. Let's listen!" },
+      "sounds": [
+        { "letters": "th", "sound": "dh", "skill": "sound.th", "hint": "द", "hint_hl": "dh", "example": ["mother", "👩", "माँ", "maa"],
+          "text": { "hi": "‘th’ की एक और आवाज़ है! जीभ दाँतों के बीच रखो और गले से बोलो, जैसे this और mother में।", "hl": "‘th’ ki ek aur awaaz hai! Jeebh daanton ke beech rakho aur gale se bolo, jaise this aur mother mein.", "en": "‘th’ has another sound! Put your tongue between your teeth and use your voice, as in this and mother." } },
+        { "letters": "oo", "sound": "oo_short", "skill": "phonics.oo_short", "hint": "उ", "hint_hl": "u", "example": ["book", "📖", "किताब", "kitaab"],
+          "text": { "hi": "कभी-कभी ‘oo’ छोटा बोलता है: उ, जैसे book में। moon वाला ‘ऊ’ लंबा है।", "hl": "Kabhi-kabhi ‘oo’ chhota bolta hai: u, jaise book mein. Moon waala ‘oo’ lamba hai.", "en": "Sometimes ‘oo’ is short, as in book. The ‘oo’ in moon is long." } },
+        { "letters": "si", "sound": "zh", "skill": "phonics.zh", "hint": "झ", "hint_hl": "zh", "example": ["television", "📺", "टीवी", "TV"],
+          "text": { "hi": "यह नरम आवाज़ है, ‘झ’ जैसी पर हल्की। जैसे television के ‘si’ में।", "hl": "Yeh naram awaaz hai, ‘jha’ jaisi par halki. Jaise television ke ‘si’ mein.", "en": "This is a soft sound, as in the ‘si’ of television." } }
+      ],
+      "blends": [
+        { "word": "this", "emoji": "👇", "parts": "th=dh-i-s" },
+        { "word": "that", "emoji": "👉", "parts": "th=dh-a-t" },
+        { "word": "book", "emoji": "📖", "parts": "b-oo=oo_short-k" },
+        { "word": "foot", "emoji": "🦶", "parts": "f-oo=oo_short-t" },
+        { "word": "cook", "emoji": "🍳", "parts": "c-oo=oo_short-k" },
+        { "word": "look", "emoji": "👀", "parts": "l-oo=oo_short-k" }
+      ],
+      "pairs": [
+        { "answer": "they", "options": ["they", "day"], "skills": ["sound.th"] },
+        { "answer": "pull", "options": ["pull", "pool"] }
+      ],
+      "outro": { "hi": "बढ़िया! एक ही अक्षर, दो आवाज़ें। अब तुम्हें दोनों पता हैं!", "hl": "Badhiya! Ek hi akshar, do awaazein. Ab tumhe dono pata hain!", "en": "Great! One spelling, two sounds. Now you know both!" }
+    },
+    {
+      "id": "L1.U15",
+      "intro": { "hi": "अब ‘r’ वाली आवाज़ें: ar, or, ur. यहाँ ‘r’ साफ़ बोलना है!", "hl": "Ab ‘r’ waali awaazein: ar, or, ur. Yahan ‘r’ saaf bolna hai!", "en": "Now sounds with ‘r’: ar, or, ur. Say the ‘r’ clearly!" },
+      "sounds": [
+        { "letters": "ar", "hint": "आर", "hint_hl": "aar", "example": ["car", "🚗", "गाड़ी", "gaadi"] },
+        { "letters": "or", "hint": "ऑर", "hint_hl": "or", "example": ["fork", "🍴", "काँटा", "kaanta"] },
+        { "letters": "ur", "hint": "अर", "hint_hl": "ur", "example": ["turtle", "🐢", "कछुआ", "kachhua"],
+          "text": { "hi": "‘ur’ और ‘ir’ की एक ही आवाज़ है: अर। जैसे turtle और bird में।", "hl": "‘ur’ aur ‘ir’ ki ek hi awaaz hai: ur. Jaise turtle aur bird mein.", "en": "‘ur’ and ‘ir’ make the same sound, as in turtle and bird." } }
+      ],
+      "blends": [
+        { "word": "car", "emoji": "🚗", "parts": "c-ar" },
+        { "word": "star", "emoji": "⭐", "parts": "s-t-ar" },
+        { "word": "arm", "emoji": "💪", "parts": "ar-m" },
+        { "word": "fork", "emoji": "🍴", "parts": "f-or-k" },
+        { "word": "corn", "emoji": "🌽", "parts": "c-or-n" },
+        { "word": "bird", "emoji": "🐦", "parts": "b-ir-d" },
+        { "word": "girl", "emoji": "👧", "parts": "g-ir-l" }
+      ],
+      "pairs": [
+        { "answer": "farm", "options": ["farm", "form"] },
+        { "answer": "bird", "options": ["bird", "board"] }
+      ],
+      "outro": { "hi": "शाबाश! car, fork, bird — अब ‘r’ साफ़ सुनाई देगा!", "hl": "Shabaash! car, fork, bird — ab ‘r’ saaf sunaai dega!", "en": "Well done! car, fork, bird — now your ‘r’ will be clear!" }
+    },
+    {
+      "id": "L1.U16",
+      "intro": { "hi": "ये आवाज़ें बोलते समय मुँह एक जगह से दूसरी जगह फिसलता है: igh, ow, oy.", "hl": "Yeh awaazein bolte samay munh ek jagah se doosri jagah phisalta hai: igh, ow, oy.", "en": "In these sounds your mouth glides from one place to another: igh, ow, oy." },
+      "sounds": [
+        { "letters": "igh", "hint": "आइ", "hint_hl": "aai", "example": ["light", "💡", "बत्ती", "batti"],
+          "text": { "hi": "‘igh’ की आवाज़ है: आइ, जैसे light में। ‘ie’ भी ऐसे ही बोलता है: tie.", "hl": "‘igh’ ki awaaz hai: aai, jaise light mein. ‘ie’ bhi aise hi bolta hai: tie.", "en": "‘igh’ sounds like the word ‘eye’, as in light. ‘ie’ sounds the same: tie." } },
+        { "letters": "ow", "hint": "आउ", "hint_hl": "aau", "example": ["cow", "🐄", "गाय", "gaay"],
+          "text": { "hi": "‘ow’ की आवाज़ है: आउ, जैसे cow में। ‘ou’ भी ऐसे ही बोलता है: cloud.", "hl": "‘ow’ ki awaaz hai: aau, jaise cow mein. ‘ou’ bhi aise hi bolta hai: cloud.", "en": "‘ow’ sounds as in cow. ‘ou’ sounds the same: cloud." } },
+        { "letters": "oy", "hint": "ऑय", "hint_hl": "oy", "example": ["boy", "👦", "लड़का", "ladka"],
+          "text": { "hi": "‘oy’ की आवाज़ है: ऑय, जैसे boy में। ‘oi’ भी ऐसे ही बोलता है: coin.", "hl": "‘oy’ ki awaaz hai: oy, jaise boy mein. ‘oi’ bhi aise hi bolta hai: coin.", "en": "‘oy’ sounds as in boy. ‘oi’ sounds the same: coin." } }
+      ],
+      "blends": [
+        { "word": "tie", "emoji": "👔", "parts": "t-ie", "accept": ["thai"] },
+        { "word": "light", "emoji": "💡", "parts": "l-igh-t" },
+        { "word": "cow", "emoji": "🐄", "parts": "c-ow" },
+        { "word": "cloud", "emoji": "☁️", "parts": "c-l-ou-d" },
+        { "word": "crown", "emoji": "👑", "parts": "c-r-ow-n" },
+        { "word": "boy", "emoji": "👦", "parts": "b-oy" },
+        { "word": "toy", "emoji": "🧸", "parts": "t-oy" },
+        { "word": "coin", "emoji": "🪙", "parts": "c-oi-n" }
+      ],
+      "pairs": [
+        { "answer": "toy", "options": ["toy", "tie"] },
+        { "answer": "boy", "options": ["boy", "buy"] }
+      ],
+      "outro": { "hi": "वाह! light, cow, boy — फिसलती आवाज़ें अब पक्की!", "hl": "Waah! light, cow, boy — phisalti awaazein ab pakki!", "en": "Wow! light, cow, boy — you've got the gliding sounds!" }
+    },
+    {
+      "id": "L1.U17",
+      "intro": { "hi": "आख़िरी आवाज़ें! इनके बाद इंग्लिश की सारी 44 आवाज़ें तुम्हें आ जाएँगी।", "hl": "Aakhiri awaazein! Inke baad English ki saari 44 awaazein tumhe aa jayengi.", "en": "The last sounds! After these you'll know all 44 sounds of English." },
+      "sounds": [
+        { "letters": "ear", "hint": "इअर", "hint_hl": "iyar", "example": ["ear", "👂", "कान", "kaan", ["year"]] },
+        { "letters": "air", "hint": "एअर", "hint_hl": "air", "example": ["hair", "💇", "बाल", "baal", ["hare"]] },
+        { "letters": "ure", "hint": "युअर", "hint_hl": "yuar", "example": ["cure", "💊", "इलाज", "ilaaj"] },
+        { "letters": "a", "sound": "schwa", "skill": "phonics.schwa", "hint": "अ", "hint_hl": "uh", "example": ["banana", "🍌", "केला", "kela"],
+          "text": { "hi": "सबसे आलसी आवाज़! कई बार ‘a’ बहुत हल्का बोला जाता है: अ। जैसे banana के पहले और आख़िरी ‘a’ में।", "hl": "Sabse aalsi awaaz! Kai baar ‘a’ bahut halka bola jaata hai: uh. Jaise banana ke pehle aur aakhiri ‘a’ mein.", "en": "The laziest sound! Often ‘a’ is said very softly, like the first and last ‘a’ in banana." } }
+      ],
+      "blends": [
+        { "word": "year", "emoji": "📅", "parts": "y-ear" },
+        { "word": "hear", "emoji": "👂", "parts": "h-ear", "accept": ["here"] },
+        { "word": "hair", "emoji": "💇", "parts": "h-air", "accept": ["hare"] },
+        { "word": "chair", "emoji": "🪑", "parts": "ch-air" },
+        { "word": "fair", "emoji": "🎡", "parts": "f-air", "accept": ["fare"] },
+        { "word": "cure", "emoji": "💊", "parts": "c-ure" }
+      ],
+      "outro": { "hi": "कमाल कर दिया! अब तुम इंग्लिश की सारी 44 आवाज़ें पहचानते हो!", "hl": "Kamaal kar diya! Ab tum English ki saari 44 awaazein pehchaante ho!", "en": "Amazing! Now you know all 44 sounds of English!" }
     }
   ]
 }

@@ -1,0 +1,138 @@
+{
+  "id": "R1.P04",
+  "level": 101,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R1.P04.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Bus’ (बस)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Bus’ (Bus). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Bus’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P04.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘bus’ मतलब बस। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘bus’ matlab bus. Chhookar suno, phir bolo.",
+        "en": "‘bus’ means बस. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "bus",
+        "emoji": "🚌",
+        "hindi": "बस",
+        "hinglish": "bus"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P04.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘see’ मतलब देखना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘see’ matlab dekhna. Chhookar suno, phir bolo.",
+        "en": "‘see’ means देखना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "see",
+        "emoji": "👀",
+        "hindi": "देखना",
+        "hinglish": "dekhna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P04.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘go’ मतलब जाना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘go’ matlab jaana. Chhookar suno, phir bolo.",
+        "en": "‘go’ means जाना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "go",
+        "emoji": "🚦",
+        "hindi": "जाना",
+        "hinglish": "jaana"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R1.P04.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "बस",
+        "hinglish": "Bus",
+        "en": "The Bus"
+      },
+      "sentences": [
+        "I see a bus.",
+        "The bus is big.",
+        "Raj is on the bus.",
+        "The bus can go."
+      ],
+      "words": [
+        {
+          "english": "bus",
+          "emoji": "🚌",
+          "hindi": "बस",
+          "hinglish": "bus"
+        },
+        {
+          "english": "see",
+          "emoji": "👀",
+          "hindi": "देखना",
+          "hinglish": "dekhna"
+        },
+        {
+          "english": "go",
+          "emoji": "🚦",
+          "hindi": "जाना",
+          "hinglish": "jaana"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P04.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बस में कौन है?",
+        "hinglish": "Bus mein kaun hai?",
+        "en": "Who is on the bus?"
+      },
+      "options": [
+        "Raj",
+        "Sam",
+        "Tim"
+      ],
+      "answer": "Raj"
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P04.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बस कैसी है?",
+        "hinglish": "Bus kaisi hai?",
+        "en": "How is the bus?"
+      },
+      "options": [
+        "big",
+        "hot",
+        "fat"
+      ],
+      "answer": "big"
+    }
+  ]
+}

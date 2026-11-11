@@ -1,0 +1,442 @@
+{
+  "id": "L2.U50",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U50.S01",
+      "text": {
+        "hi": "आना, जाना, देना, लेना!",
+        "hinglish": "Aana, jaana, dena, lena!",
+        "en": "Come, go, give, take!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U50.S02",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘sit’ मतलब ‘बैठना’।",
+        "hinglish": "‘sit’ matlab ‘baithna’.",
+        "en": "Say it with me: sit!"
+      },
+      "word": {
+        "english": "sit",
+        "hindi": "बैठना",
+        "hinglish": "baithna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U50.S03",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘stand’ मतलब ‘खड़े होना’।",
+        "hinglish": "‘stand’ matlab ‘khade hona’.",
+        "en": "Say it with me: stand!"
+      },
+      "word": {
+        "english": "stand",
+        "hindi": "खड़े होना",
+        "hinglish": "khade hona"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U50.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "sit",
+        "hindi": "बैठना",
+        "hinglish": "baithna"
+      },
+      "answer": {
+        "hi": "बैठना",
+        "hinglish": "baithna"
+      },
+      "options": [
+        {
+          "hi": "बैठना",
+          "hinglish": "baithna"
+        },
+        {
+          "hi": "देना",
+          "hinglish": "dena"
+        },
+        {
+          "hi": "लेना",
+          "hinglish": "lena"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U50.S05",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "stand",
+      "options": [
+        "stand",
+        "fall",
+        "go"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U50.S06",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘come’ मतलब ‘आना’।",
+        "hinglish": "‘come’ matlab ‘aana’.",
+        "en": "Say it with me: come!"
+      },
+      "word": {
+        "english": "come",
+        "hindi": "आना",
+        "hinglish": "aana"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U50.S07",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘go’ मतलब ‘जाना’।",
+        "hinglish": "‘go’ matlab ‘jaana’.",
+        "en": "Say it with me: go!"
+      },
+      "word": {
+        "english": "go",
+        "hindi": "जाना",
+        "hinglish": "jaana"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U50.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "come",
+        "hindi": "आना",
+        "hinglish": "aana"
+      },
+      "answer": {
+        "hi": "आना",
+        "hinglish": "aana"
+      },
+      "options": [
+        {
+          "hi": "आना",
+          "hinglish": "aana"
+        },
+        {
+          "hi": "बैठना",
+          "hinglish": "baithna"
+        },
+        {
+          "hi": "कूदना",
+          "hinglish": "koodna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U50.S09",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "go",
+      "options": [
+        "go",
+        "stand",
+        "fall"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U50.S10",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘give’ मतलब ‘देना’।",
+        "hinglish": "‘give’ matlab ‘dena’.",
+        "en": "Say it with me: give!"
+      },
+      "word": {
+        "english": "give",
+        "hindi": "देना",
+        "hinglish": "dena"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U50.S11",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘take’ मतलब ‘लेना’।",
+        "hinglish": "‘take’ matlab ‘lena’.",
+        "en": "Say it with me: take!"
+      },
+      "word": {
+        "english": "take",
+        "hindi": "लेना",
+        "hinglish": "lena"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U50.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "give",
+        "hindi": "देना",
+        "hinglish": "dena"
+      },
+      "answer": {
+        "hi": "देना",
+        "hinglish": "dena"
+      },
+      "options": [
+        {
+          "hi": "देना",
+          "hinglish": "dena"
+        },
+        {
+          "hi": "आना",
+          "hinglish": "aana"
+        },
+        {
+          "hi": "लेना",
+          "hinglish": "lena"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U50.S13",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "take",
+      "options": [
+        "take",
+        "come",
+        "jump"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U50.S14",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘jump’ मतलब ‘कूदना’।",
+        "hinglish": "‘jump’ matlab ‘koodna’.",
+        "en": "Say it with me: jump!"
+      },
+      "word": {
+        "english": "jump",
+        "hindi": "कूदना",
+        "hinglish": "koodna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U50.S15",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘fall’ मतलब ‘गिरना’।",
+        "hinglish": "‘fall’ matlab ‘girna’.",
+        "en": "Say it with me: fall!"
+      },
+      "word": {
+        "english": "fall",
+        "hindi": "गिरना",
+        "hinglish": "girna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U50.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "jump",
+        "hindi": "कूदना",
+        "hinglish": "koodna"
+      },
+      "answer": {
+        "hi": "कूदना",
+        "hinglish": "koodna"
+      },
+      "options": [
+        {
+          "hi": "कूदना",
+          "hinglish": "koodna"
+        },
+        {
+          "hi": "लेना",
+          "hinglish": "lena"
+        },
+        {
+          "hi": "खड़े होना",
+          "hinglish": "khade hona"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U50.S17",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "fall",
+      "options": [
+        "fall",
+        "come",
+        "stand"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U50.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "go",
+        "hindi": "जाना",
+        "hinglish": "jaana"
+      },
+      "answer": {
+        "hi": "जाना",
+        "hinglish": "jaana"
+      },
+      "options": [
+        {
+          "hi": "जाना",
+          "hinglish": "jaana"
+        },
+        {
+          "hi": "खड़े होना",
+          "hinglish": "khade hona"
+        },
+        {
+          "hi": "कूदना",
+          "hinglish": "koodna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U50.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "stand",
+        "hindi": "खड़े होना",
+        "hinglish": "khade hona"
+      },
+      "answer": {
+        "hi": "खड़े होना",
+        "hinglish": "khade hona"
+      },
+      "options": [
+        {
+          "hi": "खड़े होना",
+          "hinglish": "khade hona"
+        },
+        {
+          "hi": "देना",
+          "hinglish": "dena"
+        },
+        {
+          "hi": "बैठना",
+          "hinglish": "baithna"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U50.S20",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "go",
+        "hindi": "जाना",
+        "hinglish": "jaana"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U50.S21",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "sit",
+        "hindi": "बैठना",
+        "hinglish": "baithna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U50.S22",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "fall",
+      "options": [
+        "fall",
+        "jump",
+        "go"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U50.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: sit, stand, come, go, give, take, jump, fall।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: sit, stand, come, go, give, take, jump, fall.",
+        "en": "Well done! Today's new words: sit, stand, come, go, give, take, jump, fall."
+      }
+    }
+  ]
+}

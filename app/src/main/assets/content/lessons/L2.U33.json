@@ -1,0 +1,448 @@
+{
+  "id": "L2.U33",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U33.S01",
+      "text": {
+        "hi": "घर के हिस्से।",
+        "hinglish": "Ghar ke hisse.",
+        "en": "Parts of a house."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U33.S02",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘roof’ मतलब ‘छत’।",
+        "hinglish": "‘roof’ matlab ‘chhat’.",
+        "en": "Say it with me: roof!"
+      },
+      "word": {
+        "english": "roof",
+        "hindi": "छत",
+        "hinglish": "chhat"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U33.S03",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘wall’ मतलब ‘दीवार’।",
+        "hinglish": "‘wall’ matlab ‘deewaar’.",
+        "en": "Say it with me: wall!"
+      },
+      "word": {
+        "english": "wall",
+        "emoji": "🧱",
+        "hindi": "दीवार",
+        "hinglish": "deewaar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U33.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "roof",
+        "hindi": "छत",
+        "hinglish": "chhat"
+      },
+      "answer": {
+        "hi": "छत",
+        "hinglish": "chhat"
+      },
+      "options": [
+        {
+          "hi": "छत",
+          "hinglish": "chhat"
+        },
+        {
+          "hi": "दीवार",
+          "hinglish": "deewaar"
+        },
+        {
+          "hi": "सीढ़ियाँ",
+          "hinglish": "seedhiyaan"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U33.S05",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "🧱",
+      "answer": "wall",
+      "options": [
+        "wall",
+        "floor",
+        "roof"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U33.S06",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘floor’ मतलब ‘फ़र्श’।",
+        "hinglish": "‘floor’ matlab ‘farsh’.",
+        "en": "Say it with me: floor!"
+      },
+      "word": {
+        "english": "floor",
+        "hindi": "फ़र्श",
+        "hinglish": "farsh"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U33.S07",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘room’ मतलब ‘कमरा’।",
+        "hinglish": "‘room’ matlab ‘kamra’.",
+        "en": "Say it with me: room!"
+      },
+      "word": {
+        "english": "room",
+        "hindi": "कमरा",
+        "hinglish": "kamra"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U33.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "floor",
+        "hindi": "फ़र्श",
+        "hinglish": "farsh"
+      },
+      "answer": {
+        "hi": "फ़र्श",
+        "hinglish": "farsh"
+      },
+      "options": [
+        {
+          "hi": "फ़र्श",
+          "hinglish": "farsh"
+        },
+        {
+          "hi": "रसोई",
+          "hinglish": "rasoi"
+        },
+        {
+          "hi": "बाथरूम",
+          "hinglish": "bathroom"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U33.S09",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "room",
+      "options": [
+        "room",
+        "roof",
+        "bathroom"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U33.S10",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘kitchen’ मतलब ‘रसोई’।",
+        "hinglish": "‘kitchen’ matlab ‘rasoi’.",
+        "en": "Say it with me: kitchen!"
+      },
+      "word": {
+        "english": "kitchen",
+        "hindi": "रसोई",
+        "hinglish": "rasoi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U33.S11",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘bathroom’ मतलब ‘बाथरूम’।",
+        "hinglish": "‘bathroom’ matlab ‘bathroom’.",
+        "en": "Say it with me: bathroom!"
+      },
+      "word": {
+        "english": "bathroom",
+        "emoji": "🛁",
+        "hindi": "बाथरूम",
+        "hinglish": "bathroom"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U33.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "kitchen",
+        "hindi": "रसोई",
+        "hinglish": "rasoi"
+      },
+      "answer": {
+        "hi": "रसोई",
+        "hinglish": "rasoi"
+      },
+      "options": [
+        {
+          "hi": "रसोई",
+          "hinglish": "rasoi"
+        },
+        {
+          "hi": "दीवार",
+          "hinglish": "deewaar"
+        },
+        {
+          "hi": "बाथरूम",
+          "hinglish": "bathroom"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U33.S13",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "🛁",
+      "answer": "bathroom",
+      "options": [
+        "bathroom",
+        "roof",
+        "room"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U33.S14",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘stairs’ मतलब ‘सीढ़ियाँ’।",
+        "hinglish": "‘stairs’ matlab ‘seedhiyaan’.",
+        "en": "Say it with me: stairs!"
+      },
+      "word": {
+        "english": "stairs",
+        "hindi": "सीढ़ियाँ",
+        "hinglish": "seedhiyaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U33.S15",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘gate’ मतलब ‘फाटक’।",
+        "hinglish": "‘gate’ matlab ‘phaatak’.",
+        "en": "Say it with me: gate!"
+      },
+      "word": {
+        "english": "gate",
+        "hindi": "फाटक",
+        "hinglish": "phaatak"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U33.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "stairs",
+        "hindi": "सीढ़ियाँ",
+        "hinglish": "seedhiyaan"
+      },
+      "answer": {
+        "hi": "सीढ़ियाँ",
+        "hinglish": "seedhiyaan"
+      },
+      "options": [
+        {
+          "hi": "सीढ़ियाँ",
+          "hinglish": "seedhiyaan"
+        },
+        {
+          "hi": "छत",
+          "hinglish": "chhat"
+        },
+        {
+          "hi": "दीवार",
+          "hinglish": "deewaar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U33.S17",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "gate",
+      "options": [
+        "gate",
+        "stairs",
+        "room"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U33.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "stairs",
+        "hindi": "सीढ़ियाँ",
+        "hinglish": "seedhiyaan"
+      },
+      "answer": {
+        "hi": "सीढ़ियाँ",
+        "hinglish": "seedhiyaan"
+      },
+      "options": [
+        {
+          "hi": "सीढ़ियाँ",
+          "hinglish": "seedhiyaan"
+        },
+        {
+          "hi": "रसोई",
+          "hinglish": "rasoi"
+        },
+        {
+          "hi": "छत",
+          "hinglish": "chhat"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U33.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "kitchen",
+        "hindi": "रसोई",
+        "hinglish": "rasoi"
+      },
+      "answer": {
+        "hi": "रसोई",
+        "hinglish": "rasoi"
+      },
+      "options": [
+        {
+          "hi": "रसोई",
+          "hinglish": "rasoi"
+        },
+        {
+          "hi": "बाथरूम",
+          "hinglish": "bathroom"
+        },
+        {
+          "hi": "फाटक",
+          "hinglish": "phaatak"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U33.S20",
+      "skills": [
+        "speak.word",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "wall",
+        "emoji": "🧱",
+        "hindi": "दीवार",
+        "hinglish": "deewaar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U33.S21",
+      "skills": [
+        "speak.word",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "bathroom",
+        "emoji": "🛁",
+        "hindi": "बाथरूम",
+        "hinglish": "bathroom"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U33.S22",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "roof",
+      "options": [
+        "roof",
+        "gate",
+        "room"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U33.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: roof, wall, floor, room, kitchen, bathroom, stairs, gate।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: roof, wall, floor, room, kitchen, bathroom, stairs, gate.",
+        "en": "Well done! Today's new words: roof, wall, floor, room, kitchen, bathroom, stairs, gate."
+      }
+    }
+  ]
+}

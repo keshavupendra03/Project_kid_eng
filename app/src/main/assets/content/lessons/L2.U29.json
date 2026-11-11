@@ -1,0 +1,449 @@
+{
+  "id": "L2.U29",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U29.S01",
+      "text": {
+        "hi": "सिर से पैर तक: शरीर के और नाम!",
+        "hinglish": "Sir se pair tak: shareer ke aur naam!",
+        "en": "From head to toe: more body words!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U29.S02",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘head’ मतलब ‘सिर’।",
+        "hinglish": "‘head’ matlab ‘sir’.",
+        "en": "Say it with me: head!"
+      },
+      "word": {
+        "english": "head",
+        "hindi": "सिर",
+        "hinglish": "sir"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U29.S03",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘neck’ मतलब ‘गर्दन’।",
+        "hinglish": "‘neck’ matlab ‘gardan’.",
+        "en": "Say it with me: neck!"
+      },
+      "word": {
+        "english": "neck",
+        "hindi": "गर्दन",
+        "hinglish": "gardan"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U29.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "head",
+        "hindi": "सिर",
+        "hinglish": "sir"
+      },
+      "answer": {
+        "hi": "सिर",
+        "hinglish": "sir"
+      },
+      "options": [
+        {
+          "hi": "सिर",
+          "hinglish": "sir"
+        },
+        {
+          "hi": "पीठ",
+          "hinglish": "peeth"
+        },
+        {
+          "hi": "पेट",
+          "hinglish": "pet"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U29.S05",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "answer": "neck",
+      "options": [
+        "neck",
+        "knee",
+        "stomach"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U29.S06",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘shoulder’ मतलब ‘कंधा’।",
+        "hinglish": "‘shoulder’ matlab ‘kandha’.",
+        "en": "Say it with me: shoulder!"
+      },
+      "word": {
+        "english": "shoulder",
+        "hindi": "कंधा",
+        "hinglish": "kandha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U29.S07",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘knee’ मतलब ‘घुटना’।",
+        "hinglish": "‘knee’ matlab ‘ghutna’.",
+        "en": "Say it with me: knee!"
+      },
+      "word": {
+        "english": "knee",
+        "hindi": "घुटना",
+        "hinglish": "ghutna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U29.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "shoulder",
+        "hindi": "कंधा",
+        "hinglish": "kandha"
+      },
+      "answer": {
+        "hi": "कंधा",
+        "hinglish": "kandha"
+      },
+      "options": [
+        {
+          "hi": "कंधा",
+          "hinglish": "kandha"
+        },
+        {
+          "hi": "पीठ",
+          "hinglish": "peeth"
+        },
+        {
+          "hi": "गर्दन",
+          "hinglish": "gardan"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U29.S09",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "answer": "knee",
+      "options": [
+        "knee",
+        "nail",
+        "brain"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U29.S10",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘stomach’ मतलब ‘पेट’।",
+        "hinglish": "‘stomach’ matlab ‘pet’.",
+        "en": "Say it with me: stomach!"
+      },
+      "word": {
+        "english": "stomach",
+        "hindi": "पेट",
+        "hinglish": "pet"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U29.S11",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘back’ मतलब ‘पीठ’।",
+        "hinglish": "‘back’ matlab ‘peeth’.",
+        "en": "Say it with me: back!"
+      },
+      "word": {
+        "english": "back",
+        "hindi": "पीठ",
+        "hinglish": "peeth"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U29.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "stomach",
+        "hindi": "पेट",
+        "hinglish": "pet"
+      },
+      "answer": {
+        "hi": "पेट",
+        "hinglish": "pet"
+      },
+      "options": [
+        {
+          "hi": "पेट",
+          "hinglish": "pet"
+        },
+        {
+          "hi": "नाखून",
+          "hinglish": "naakhoon"
+        },
+        {
+          "hi": "घुटना",
+          "hinglish": "ghutna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U29.S13",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "answer": "back",
+      "options": [
+        "back",
+        "neck",
+        "brain"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U29.S14",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘brain’ मतलब ‘दिमाग’।",
+        "hinglish": "‘brain’ matlab ‘dimaag’.",
+        "en": "Say it with me: brain!"
+      },
+      "word": {
+        "english": "brain",
+        "emoji": "🧠",
+        "hindi": "दिमाग",
+        "hinglish": "dimaag"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U29.S15",
+      "skills": [
+        "vocab.body"
+      ],
+      "text": {
+        "hi": "‘nail’ मतलब ‘नाखून’।",
+        "hinglish": "‘nail’ matlab ‘naakhoon’.",
+        "en": "Say it with me: nail!"
+      },
+      "word": {
+        "english": "nail",
+        "emoji": "💅",
+        "hindi": "नाखून",
+        "hinglish": "naakhoon"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U29.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "brain",
+        "emoji": "🧠",
+        "hindi": "दिमाग",
+        "hinglish": "dimaag"
+      },
+      "answer": {
+        "hi": "दिमाग",
+        "hinglish": "dimaag"
+      },
+      "options": [
+        {
+          "hi": "दिमाग",
+          "hinglish": "dimaag"
+        },
+        {
+          "hi": "गर्दन",
+          "hinglish": "gardan"
+        },
+        {
+          "hi": "पेट",
+          "hinglish": "pet"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U29.S17",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "emoji": "💅",
+      "answer": "nail",
+      "options": [
+        "nail",
+        "stomach",
+        "neck"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U29.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "nail",
+        "emoji": "💅",
+        "hindi": "नाखून",
+        "hinglish": "naakhoon"
+      },
+      "answer": {
+        "hi": "नाखून",
+        "hinglish": "naakhoon"
+      },
+      "options": [
+        {
+          "hi": "नाखून",
+          "hinglish": "naakhoon"
+        },
+        {
+          "hi": "पीठ",
+          "hinglish": "peeth"
+        },
+        {
+          "hi": "कंधा",
+          "hinglish": "kandha"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U29.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "shoulder",
+        "hindi": "कंधा",
+        "hinglish": "kandha"
+      },
+      "answer": {
+        "hi": "कंधा",
+        "hinglish": "kandha"
+      },
+      "options": [
+        {
+          "hi": "कंधा",
+          "hinglish": "kandha"
+        },
+        {
+          "hi": "नाखून",
+          "hinglish": "naakhoon"
+        },
+        {
+          "hi": "गर्दन",
+          "hinglish": "gardan"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U29.S20",
+      "skills": [
+        "speak.word",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "nail",
+        "emoji": "💅",
+        "hindi": "नाखून",
+        "hinglish": "naakhoon"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U29.S21",
+      "skills": [
+        "speak.word",
+        "vocab.body"
+      ],
+      "word": {
+        "english": "brain",
+        "emoji": "🧠",
+        "hindi": "दिमाग",
+        "hinglish": "dimaag"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U29.S22",
+      "skills": [
+        "read.word",
+        "vocab.body"
+      ],
+      "answer": "back",
+      "options": [
+        "back",
+        "head",
+        "nail"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U29.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: head, neck, shoulder, knee, stomach, back, brain, nail।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: head, neck, shoulder, knee, stomach, back, brain, nail.",
+        "en": "Well done! Today's new words: head, neck, shoulder, knee, stomach, back, brain, nail."
+      }
+    }
+  ]
+}

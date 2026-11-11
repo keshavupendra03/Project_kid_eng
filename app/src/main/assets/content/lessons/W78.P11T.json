@@ -1,0 +1,185 @@
+{
+  "id": "W78.P11T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "listen_read",
+      "id": "W78.P11T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "enthusiastic",
+      "options": [
+        "enthusiastic",
+        "gratitude",
+        "nervous"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P11T.S02",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "empathy",
+        "emoji": "💗",
+        "hindi": "सहानुभूति",
+        "hinglish": "sahaanubhooti"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P11T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "confidence",
+        "emoji": "💪",
+        "hindi": "आत्मविश्वास",
+        "hinglish": "aatmavishvaas"
+      },
+      "answer": {
+        "hi": "आत्मविश्वास",
+        "hinglish": "aatmavishvaas"
+      },
+      "options": [
+        {
+          "hi": "आत्मविश्वास",
+          "hinglish": "aatmavishvaas"
+        },
+        {
+          "hi": "संतोष",
+          "hinglish": "santosh"
+        },
+        {
+          "hi": "सहानुभूति",
+          "hinglish": "sahaanubhooti"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P11T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Old people often feel ___.",
+      "answer": "loneliness",
+      "options": [
+        "loneliness",
+        "anxiety",
+        "confidence"
+      ],
+      "meaning": {
+        "hi": "अकेलापन",
+        "hinglish": "akelaapan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P11T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "anxiety",
+      "options": [
+        "anxiety",
+        "empathy",
+        "satisfaction"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P11T.S06",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "curiosity",
+        "emoji": "🧐",
+        "hindi": "जिज्ञासा",
+        "hinglish": "jigyaasa"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P11T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "satisfaction",
+        "emoji": "😊",
+        "hindi": "संतोष",
+        "hinglish": "santosh"
+      },
+      "answer": {
+        "hi": "संतोष",
+        "hinglish": "santosh"
+      },
+      "options": [
+        {
+          "hi": "संतोष",
+          "hinglish": "santosh"
+        },
+        {
+          "hi": "चिंता",
+          "hinglish": "chinta"
+        },
+        {
+          "hi": "घबराया हुआ",
+          "hinglish": "ghabraaya hua"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P11T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We showed our ___ with a card.",
+      "answer": "gratitude",
+      "options": [
+        "gratitude",
+        "confidence",
+        "curiosity"
+      ],
+      "meaning": {
+        "hi": "कृतज्ञता",
+        "hinglish": "kritagyata"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P11T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "nervous",
+      "options": [
+        "nervous",
+        "empathy",
+        "frustrated"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P11T.S10",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "frustrated",
+        "emoji": "😣",
+        "hindi": "झुँझलाया हुआ",
+        "hinglish": "jhunjhlaaya hua"
+      },
+      "typed": true
+    }
+  ]
+}

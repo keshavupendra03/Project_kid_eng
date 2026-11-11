@@ -1,0 +1,185 @@
+{
+  "id": "W34.P07T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "listen_read",
+      "id": "W34.P07T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "station",
+      "options": [
+        "station",
+        "hospital",
+        "village"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P07T.S02",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "factory",
+        "emoji": "🏭",
+        "hindi": "कारखाना",
+        "hinglish": "kaarkhaana"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P07T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "village",
+        "emoji": "🏡",
+        "hindi": "गाँव",
+        "hinglish": "gaon"
+      },
+      "answer": {
+        "hi": "गाँव",
+        "hinglish": "gaon"
+      },
+      "options": [
+        {
+          "hi": "गाँव",
+          "hinglish": "gaon"
+        },
+        {
+          "hi": "स्टेशन",
+          "hinglish": "station"
+        },
+        {
+          "hi": "कारखाना",
+          "hinglish": "kaarkhaana"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P07T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We go to the ___ with Dadi.",
+      "answer": "temple",
+      "options": [
+        "temple",
+        "factory",
+        "station"
+      ],
+      "meaning": {
+        "hi": "मंदिर",
+        "hinglish": "mandir"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P07T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "market",
+      "options": [
+        "market",
+        "village",
+        "station"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P07T.S06",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "bridge",
+        "emoji": "🌉",
+        "hindi": "पुल",
+        "hinglish": "pul"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P07T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hospital",
+        "emoji": "🏥",
+        "hindi": "अस्पताल",
+        "hinglish": "aspataal"
+      },
+      "answer": {
+        "hi": "अस्पताल",
+        "hinglish": "aspataal"
+      },
+      "options": [
+        {
+          "hi": "अस्पताल",
+          "hinglish": "aspataal"
+        },
+        {
+          "hi": "स्टेशन",
+          "hinglish": "station"
+        },
+        {
+          "hi": "बाज़ार",
+          "hinglish": "baazaar"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P07T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Papa bought cough syrup from the ___.",
+      "answer": "pharmacy",
+      "options": [
+        "pharmacy",
+        "playground",
+        "village"
+      ],
+      "meaning": {
+        "hi": "दवा की दुकान",
+        "hinglish": "dawa ki dukaan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P07T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "playground",
+      "options": [
+        "playground",
+        "pharmacy",
+        "bridge"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P07T.S10",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "bakery",
+        "emoji": "🥐",
+        "hindi": "बेकरी",
+        "hinglish": "bakery"
+      },
+      "typed": false
+    }
+  ]
+}

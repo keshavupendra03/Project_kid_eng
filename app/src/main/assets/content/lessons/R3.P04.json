@@ -1,0 +1,140 @@
+{
+  "id": "R3.P04",
+  "level": 103,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R3.P04.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Helping Mummy’ (मम्मी की मदद)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Helping Mummy’ (Mummy ki madad). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Helping Mummy’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P04.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘clean’ मतलब साफ़ करना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘clean’ matlab saaf karna. Chhookar suno, phir bolo.",
+        "en": "‘clean’ means साफ़ करना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "clean",
+        "emoji": "🧹",
+        "hindi": "साफ़ करना",
+        "hinglish": "saaf karna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P04.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘clothes’ मतलब कपड़े। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘clothes’ matlab kapde. Chhookar suno, phir bolo.",
+        "en": "‘clothes’ means कपड़े. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "clothes",
+        "emoji": "👕",
+        "hindi": "कपड़े",
+        "hinglish": "kapde"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P04.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘proud’ मतलब गर्व। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘proud’ matlab garv. Chhookar suno, phir bolo.",
+        "en": "‘proud’ means गर्व. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "proud",
+        "emoji": "😊",
+        "hindi": "गर्व",
+        "hinglish": "garv"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R3.P04.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "मम्मी की मदद",
+        "hinglish": "Mummy ki madad",
+        "en": "Helping Mummy"
+      },
+      "sentences": [
+        "On Sunday I help Mummy at home.",
+        "I clean my room.",
+        "I fold my clothes and keep them in the cupboard.",
+        "Then I water the plants on the balcony.",
+        "Mummy looks at my room and says, \"Good job!\"",
+        "I feel very proud."
+      ],
+      "words": [
+        {
+          "english": "clean",
+          "emoji": "🧹",
+          "hindi": "साफ़ करना",
+          "hinglish": "saaf karna"
+        },
+        {
+          "english": "clothes",
+          "emoji": "👕",
+          "hindi": "कपड़े",
+          "hinglish": "kapde"
+        },
+        {
+          "english": "proud",
+          "emoji": "😊",
+          "hindi": "गर्व",
+          "hinglish": "garv"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P04.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बच्चा मम्मी की मदद कब करता है?",
+        "hinglish": "Bachcha Mummy ki madad kab karta hai?",
+        "en": "When does the child help Mummy?"
+      },
+      "options": [
+        "on Sunday",
+        "on Monday",
+        "at night"
+      ],
+      "answer": "on Sunday"
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P04.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बच्चा पौधों को क्या देता है?",
+        "hinglish": "Bachcha paudhon ko kya deta hai?",
+        "en": "What does the child give the plants?"
+      },
+      "options": [
+        "water",
+        "milk",
+        "clothes"
+      ],
+      "answer": "water"
+    }
+  ]
+}

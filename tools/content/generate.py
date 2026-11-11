@@ -32,7 +32,58 @@ SOUNDS = {
     "f": "c03_f", "l": "c08_l", "j": "c06_j", "y": "c17_y", "z": "c18_z", "w": "c16_w", "v": "c15_v",
     "sh": "c19_sh", "ch": "c20_ch", "ng": "c23_ng", "th": "c21_th_thin",
     "ee": "v08_ee_tree", "oa": "v10_oa_boat", "ai": "v07_ai_cake", "oo": "v11_oo_moon",
+    # Two sounds played one after the other.
+    "x": "c07_k+c13_s", "qu": "c07_k+c16_w",
+    "ar": "v12_ar_car", "or": "v13_or_fork", "ur": "v14_ur_bird", "ir": "v14_ur_bird",
+    "igh": "v09_ie_bike", "ie": "v09_ie_bike", "ow": "v15_ow_cow", "ou": "v15_ow_cow",
+    "oy": "v16_oy_boy", "oi": "v16_oy_boy", "ear": "v17_ear", "air": "v18_air_hair", "ure": "v19_ure_pure",
+    # Spellings that have a second sound. Write them in a blend as letters=name, e.g. th=dh-i-s.
+    "dh": "c22_th_this", "oo_short": "v06_oo_book", "zh": "c24_zh", "schwa": "v20_schwa",
 }
+
+
+KINDS_FILE = SRC / "kinds.json"
+
+
+def load_picture_rules():
+    data = json.loads(KINDS_FILE.read_text(encoding="utf-8"))
+    kinds = {k: set(v) for k, v in data["kinds"].items()}
+    return kinds, set(data["noPicture"])
+
+
+KINDS, NO_PICTURE = load_picture_rules()
+# Filled by main(): picture → every English word that uses it, across all generated vocabulary.
+PICTURE_WORDS = {}
+
+
+def related(a, b):
+    """True when one word is a kind of the other (bird / parrot): both would be right in a picture question."""
+    a, b = a.lower(), b.lower()
+    return a != b and (b in KINDS.get(a, ()) or a in KINDS.get(b, ()))
+
+
+def picturable(english, emoji):
+    """A picture question needs a picture that shows this word and no other."""
+    return bool(emoji) and english.lower() not in NO_PICTURE and PICTURE_WORDS.get(emoji, {english}) == {english}
+
+
+def picture_options(answer, pool, rng, n):
+    """n distractors for a picture question: their own pictures, and never a kind of the answer (or the other way round)."""
+    ok = [o for o in pool if o[0] != answer[0] and picturable(o[0], o[1]) and o[1] != answer[1] and not related(answer[0], o[0])]
+    return rng.sample(ok, min(n, len(ok)))
+
+
+def word_options(answer, pool, rng, n, picture=True):
+    """n written-word distractors. Next to a picture they must not be a kind of the answer (🦜 with 'bird' and
+    'parrot'); when the kid only hears the word, 'family' next to 'mother' is fine: one spelling matches the sound."""
+    ok = [o for o in pool if o != answer and not (picture and related(answer, o))]
+    return rng.sample(ok, min(n, len(ok)))
+
+
+def sound_part(part):
+    """'th=dh' → letters th with the sound named dh; plain 'sh' → letters sh with the sound sh."""
+    letters, _, name = part.partition("=")
+    return {"letters": letters, "sound": SOUNDS[name or letters]}
 
 
 def text(d):
@@ -87,7 +138,7 @@ def sound_card_text(s, example):
     return {
         "hi": f"यह ‘{s['letters']}’ है। इसकी आवाज़ है ‘{s['hint']}’, जैसे {example} में।",
         "hinglish": f"Yeh ‘{s['letters']}’ hai. Iski awaaz hai ‘{s['hint_hl']}’, jaise {example} mein.",
-        "en": f"This is ‘{s['letters']}’. Listen to its sound, like at the start of {example}.",
+        "en": f"This is ‘{s['letters']}’. Listen to its sound, as in {example}.",
     }
 
 
@@ -101,32 +152,38 @@ def phonics_lesson(spec):
     for i, s in enumerate(spec["sounds"]):
         ex = s["example"]
         examples.append(ex)
-        skill = f"phonics.{s['letters']}"
+        skill = s.get("skill", f"phonics.{s['letters']}")
         lesson.add(
             "learn_sound", [skill],
-            letters=s["letters"], sound=SOUNDS[s["letters"]], hint=s["hint"],
+            letters=s["letters"], sound=SOUNDS[s.get("sound", s["letters"])], hint=s["hint"],
             text=text(s["text"]) if "text" in s else sound_card_text(s, ex[0]),
             example=word(ex),
         )
         if i % 2 == 1:
-            others = [e for e in examples if e is not ex]
-            options = [ex] + lesson.rng.sample(others, min(3, len(others)))
-            lesson.add("listen_tap", ["listen.word", skill], answer=ex[0], options=[word(o) for o in options])
+            others = picture_options(ex, [e for e in examples if e is not ex], lesson.rng, 3)
+            if picturable(ex[0], ex[1]) and len(others) >= 1:
+                lesson.add("listen_tap", ["listen.word", skill], answer=ex[0], options=[word(o) for o in [ex] + others])
+            else:
+                written = word_options(ex[0], [e[0] for e in examples], lesson.rng, 2, picture=False)
+                if len(written) >= 1:
+                    lesson.add("listen_read", ["listen.word", skill], answer=ex[0], options=[ex[0]] + written)
 
     for ex in examples[:2]:
         lesson.add("say_word", ["speak.word"], word=word(ex), **({"accept": accept_of(ex)} if accept_of(ex) else {}))
 
     blends = spec.get("blends", [])
     for j, b in enumerate(blends):
-        parts = [{"letters": p, "sound": SOUNDS[p]} for p in b["parts"].split("-")]
+        parts = [sound_part(p) for p in b["parts"].split("-")]
         extra = {"accept": b["accept"]} if b.get("accept") else {}
         lesson.add("blend", ["phonics.blend", "speak.word"], word=b["word"], emoji=b["emoji"], parts=parts, **extra)
         if j % 2 == 1 and len(blends) >= 3:
-            others = [o["word"] for o in blends if o is not b]
-            lesson.add(
-                "word_pick", ["read.word", "phonics.blend"],
-                emoji=b["emoji"], answer=b["word"], options=[b["word"]] + lesson.rng.sample(others, 2),
-            )
+            pool = [o["word"] for o in blends if o is not b]
+            others = word_options(b["word"], pool, lesson.rng, 2)
+            if picturable(b["word"], b["emoji"]) and len(others) >= 1:
+                lesson.add("word_pick", ["read.word", "phonics.blend"], emoji=b["emoji"], answer=b["word"], options=[b["word"]] + others)
+            else:
+                others = word_options(b["word"], pool, lesson.rng, 2, picture=False)
+                lesson.add("listen_read", ["read.word", "phonics.blend"], answer=b["word"], options=[b["word"]] + others)
 
     for p in spec.get("pairs", []):
         lesson.add("minimal_pair", ["listen.minimal_pair"] + p.get("skills", []), answer=p["answer"], options=p["options"])
@@ -179,19 +236,20 @@ def words_lesson(spec):
         lesson.add("match_meaning", ["vocab.meaning", skill], word=word(w), answer=meaning(w), options=options)
 
     def ask_listening(w):
-        others = [o for o in with_picture if o is not w and o[1] != w[1]]
-        if w[1] and len(others) >= 2:
-            options = [w] + rng.sample(others, min(3, len(others)))
-            lesson.add("listen_tap", ["listen.word", skill], answer=w[0], options=[word(o) for o in options])
+        others = picture_options(w, with_picture, rng, 3)
+        if picturable(w[0], w[1]) and len(others) >= 2:
+            lesson.add("listen_tap", ["listen.word", skill], answer=w[0], options=[word(o) for o in [w] + others])
         else:
             match(w)
 
     def ask_reading(w):
-        others = [o[0] for o in words if o is not w]
-        if w[1]:
-            lesson.add("word_pick", ["read.word", skill], emoji=w[1], answer=w[0], options=[w[0]] + rng.sample(others, 2))
+        pool = [o[0] for o in words]
+        others = word_options(w[0], pool, rng, 2)
+        if picturable(w[0], w[1]) and len(others) >= 1:
+            lesson.add("word_pick", ["read.word", skill], emoji=w[1], answer=w[0], options=[w[0]] + others)
         else:
-            lesson.add("listen_read", ["read.word", skill], answer=w[0], options=[w[0]] + rng.sample(others, 2))
+            others = word_options(w[0], pool, rng, 2, picture=False)
+            lesson.add("listen_read", ["read.word", skill], answer=w[0], options=[w[0]] + others)
 
     lesson.add("learn_card", text=text(spec["intro"]))
     for k in range(0, len(words), 2):
@@ -205,11 +263,12 @@ def words_lesson(spec):
     # Mixed review: meanings, speaking (short picture words are easiest to say), reading by ear.
     for w in rng.sample(words, 2):
         match(w)
-    for w in sorted(with_picture, key=lambda w: len(w[0]))[:2]:
+    # Lessons with few pictures still get speaking practice.
+    no_picture = [w for w in words if not w[1]]
+    for w in (sorted(with_picture, key=lambda w: len(w[0])) + sorted(no_picture, key=lambda w: len(w[0])))[:2]:
         lesson.add("say_word", ["speak.word", skill], word=word(w), **({"accept": accept_of(w)} if accept_of(w) else {}))
     w = rng.choice(words)
-    others = [o[0] for o in words if o is not w]
-    lesson.add("listen_read", ["read.word", skill], answer=w[0], options=[w[0]] + rng.sample(others, 2))
+    lesson.add("listen_read", ["read.word", skill], answer=w[0], options=[w[0]] + word_options(w[0], [o[0] for o in words], rng, 2, picture=False))
 
     listed = ", ".join(w[0] for w in words)
     lesson.add("learn_card", text={
@@ -252,11 +311,22 @@ def pattern_lesson(spec):
             meaning={"hi": b["hi"], "hinglish": b["hl"]},
         )
 
+    def fixed_word(m):
+        wrong = m["s"].split()[m["w"]]
+        # Keep the sentence's punctuation on the fix: "runs." → "run."
+        return m["f"] + wrong[len(wrong.rstrip(".?!,")):]
+
+    def teach_tinku(m):
+        words = m["s"].split()
+        words[m["w"]] = fixed_word(m)
+        lesson.add(
+            "teach_tinku", ["speak.sentence", skill],
+            wrong=m["s"], answer=" ".join(words), meaning={"hi": m["hi"], "hinglish": m["hl"]},
+        )
+
     def mistake(m):
         words = m["s"].split()
-        wrong = words[m["w"]]
-        # Keep the sentence's punctuation on the fix: "runs." → "run."
-        fix = m["f"] + wrong[len(wrong.rstrip(".?!,")):]
+        fix = fixed_word(m)
         lesson.add(
             "spot_mistake", ["grammar.spot_mistake", skill],
             words=words, wrong=m["w"], fix=fix,
@@ -274,6 +344,7 @@ def pattern_lesson(spec):
     t, b, m, s = spec["train"], spec["blanks"], spec["mistakes"], spec["say"]
     train(t[0]); blank(b[0]); train(t[1]); mistake(m[0]); blank(b[1]); say(s[0])
     train(t[2]); blank(b[2]); mistake(m[1]); say(s[1])
+    teach_tinku(m[0])
     lesson.add("learn_card", text={
         "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
         "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",
@@ -288,12 +359,37 @@ def load(name):
     return json.loads((SRC / name).read_text(encoding="utf-8"))
 
 
+def collect_pictures():
+    """Picture → the English words it stands for, over all phonics examples, blends and Level 2 words."""
+    def note(english, emoji):
+        if english and emoji:
+            PICTURE_WORDS.setdefault(emoji, set()).add(english)
+
+    for spec in load("phonics.json")["lessons"]:
+        for s in spec.get("sounds", []):
+            note(s["example"][0], s["example"][1])
+        for b in spec.get("blends", []):
+            note(b["word"], b["emoji"])
+    for spec in load("words.json")["lessons"]:
+        for w in spec["words"]:
+            note(w[0], w[1])
+
+
 def main():
     (OUT / "lessons").mkdir(parents=True, exist_ok=True)
+    collect_pictures()
+    shared = {e: sorted(ws) for e, ws in PICTURE_WORDS.items() if len(ws) > 1}
+    print(f"{len(shared)} pictures stand for more than one word; those words are asked by sound instead.")
     written = []
     for spec in load("phonics.json")["lessons"]:
         written.append(phonics_lesson(spec).write())
-    for spec in load("words.json")["lessons"]:
+    word_specs = load("words.json")["lessons"]
+    english = [w[0].lower() for spec in word_specs for w in spec["words"]]
+    repeated = sorted({w for w in english if english.count(w) > 1})
+    if repeated:
+        raise SystemExit(f"words.json teaches these words twice: {', '.join(repeated)}")
+    print(f"Level 2 teaches {len(english)} different words.")
+    for spec in word_specs:
         written.append(words_lesson(spec).write())
     for spec in load("patterns.json")["lessons"]:
         written.append(pattern_lesson(spec).write())

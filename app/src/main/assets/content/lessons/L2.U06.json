@@ -63,38 +63,37 @@
           "hinglish": "cup"
         },
         {
-          "english": "plate",
-          "emoji": "🍽️",
-          "hindi": "थाली",
-          "hinglish": "thaali"
-        },
-        {
           "english": "spoon",
           "emoji": "🥄",
           "hindi": "चम्मच",
           "hinglish": "chammach"
         },
         {
-          "english": "soap",
-          "emoji": "🧼",
-          "hindi": "साबुन",
-          "hinglish": "saabun"
+          "english": "mirror",
+          "emoji": "🪞",
+          "hindi": "शीशा",
+          "hinglish": "sheesha"
+        },
+        {
+          "english": "bucket",
+          "emoji": "🪣",
+          "hindi": "बाल्टी",
+          "hinglish": "baalti"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U06.S05",
       "skills": [
         "read.word",
         "vocab.home"
       ],
-      "emoji": "🍽️",
       "answer": "plate",
       "options": [
         "plate",
-        "broom",
-        "spoon"
+        "bucket",
+        "mirror"
       ]
     },
     {
@@ -149,38 +148,37 @@
           "hinglish": "chammach"
         },
         {
-          "english": "broom",
-          "emoji": "🧹",
-          "hindi": "झाड़ू",
-          "hinglish": "jhaadu"
-        },
-        {
-          "english": "glass",
-          "emoji": "🥛",
-          "hindi": "गिलास",
-          "hinglish": "gilaas"
+          "english": "mirror",
+          "emoji": "🪞",
+          "hindi": "शीशा",
+          "hinglish": "sheesha"
         },
         {
           "english": "bucket",
           "emoji": "🪣",
           "hindi": "बाल्टी",
           "hinglish": "baalti"
+        },
+        {
+          "english": "cup",
+          "emoji": "☕",
+          "hindi": "कप",
+          "hinglish": "cup"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U06.S09",
       "skills": [
         "read.word",
         "vocab.home"
       ],
-      "emoji": "🥛",
       "answer": "glass",
       "options": [
         "glass",
-        "mirror",
-        "bucket"
+        "spoon",
+        "mirror"
       ]
     },
     {
@@ -235,12 +233,6 @@
           "hinglish": "baalti"
         },
         {
-          "english": "soap",
-          "emoji": "🧼",
-          "hindi": "साबुन",
-          "hinglish": "saabun"
-        },
-        {
           "english": "spoon",
           "emoji": "🥄",
           "hindi": "चम्मच",
@@ -251,21 +243,26 @@
           "emoji": "🪞",
           "hindi": "शीशा",
           "hinglish": "sheesha"
+        },
+        {
+          "english": "cup",
+          "emoji": "☕",
+          "hindi": "कप",
+          "hinglish": "cup"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U06.S13",
       "skills": [
         "read.word",
         "vocab.home"
       ],
-      "emoji": "🧼",
       "answer": "soap",
       "options": [
         "soap",
-        "glass",
+        "spoon",
         "cup"
       ]
     },
@@ -306,37 +303,34 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U06.S16",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.home"
       ],
-      "answer": "broom",
+      "word": {
+        "english": "broom",
+        "emoji": "🧹",
+        "hindi": "झाड़ू",
+        "hinglish": "jhaadu"
+      },
+      "answer": {
+        "hi": "झाड़ू",
+        "hinglish": "jhaadu"
+      },
       "options": [
         {
-          "english": "broom",
-          "emoji": "🧹",
-          "hindi": "झाड़ू",
+          "hi": "झाड़ू",
           "hinglish": "jhaadu"
         },
         {
-          "english": "glass",
-          "emoji": "🥛",
-          "hindi": "गिलास",
-          "hinglish": "gilaas"
-        },
-        {
-          "english": "spoon",
-          "emoji": "🥄",
-          "hindi": "चम्मच",
+          "hi": "चम्मच",
           "hinglish": "chammach"
         },
         {
-          "english": "soap",
-          "emoji": "🧼",
-          "hindi": "साबुन",
-          "hinglish": "saabun"
+          "hi": "थाली",
+          "hinglish": "thaali"
         }
       ]
     },
@@ -351,45 +345,13 @@
       "answer": "mirror",
       "options": [
         "mirror",
-        "glass",
-        "spoon"
+        "cup",
+        "glass"
       ]
     },
     {
       "type": "match_meaning",
       "id": "L2.U06.S18",
-      "skills": [
-        "vocab.meaning",
-        "vocab.home"
-      ],
-      "word": {
-        "english": "mirror",
-        "emoji": "🪞",
-        "hindi": "शीशा",
-        "hinglish": "sheesha"
-      },
-      "answer": {
-        "hi": "शीशा",
-        "hinglish": "sheesha"
-      },
-      "options": [
-        {
-          "hi": "शीशा",
-          "hinglish": "sheesha"
-        },
-        {
-          "hi": "कप",
-          "hinglish": "cup"
-        },
-        {
-          "hi": "चम्मच",
-          "hinglish": "chammach"
-        }
-      ]
-    },
-    {
-      "type": "match_meaning",
-      "id": "L2.U06.S19",
       "skills": [
         "vocab.meaning",
         "vocab.home"
@@ -410,12 +372,44 @@
           "hinglish": "saabun"
         },
         {
-          "hi": "कप",
-          "hinglish": "cup"
+          "hi": "शीशा",
+          "hinglish": "sheesha"
         },
         {
-          "hi": "थाली",
-          "hinglish": "thaali"
+          "hi": "कप",
+          "hinglish": "cup"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U06.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "glass",
+        "emoji": "🥛",
+        "hindi": "गिलास",
+        "hinglish": "gilaas"
+      },
+      "answer": {
+        "hi": "गिलास",
+        "hinglish": "gilaas"
+      },
+      "options": [
+        {
+          "hi": "गिलास",
+          "hinglish": "gilaas"
+        },
+        {
+          "hi": "झाड़ू",
+          "hinglish": "jhaadu"
+        },
+        {
+          "hi": "शीशा",
+          "hinglish": "sheesha"
         }
       ]
     },
@@ -454,11 +448,11 @@
         "read.word",
         "vocab.home"
       ],
-      "answer": "spoon",
+      "answer": "soap",
       "options": [
-        "spoon",
-        "cup",
-        "glass"
+        "soap",
+        "glass",
+        "spoon"
       ]
     },
     {

@@ -1,0 +1,480 @@
+{
+  "id": "W56.P08",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P08.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: शब्द की शुरुआत: un-, dis-, re-। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Shabd ki shuruaat: un-, dis-, re-. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Prefixes: un-, dis-, re-. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P08.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "unhappy",
+        "emoji": "😞",
+        "hindi": "दुखी",
+        "hinglish": "dukhi"
+      },
+      "meaning": "un + happy: not happy",
+      "example": "The child was unhappy when it rained.",
+      "exampleMeaning": {
+        "hi": "बारिश होने पर बच्चा दुखी हो गया।",
+        "hinglish": "Baarish hone par bachcha dukhi ho gaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P08.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "unkind",
+        "emoji": "😠",
+        "hindi": "निर्दयी",
+        "hinglish": "nirdayi"
+      },
+      "meaning": "un + kind: not kind",
+      "example": "It is unkind to laugh at others.",
+      "exampleMeaning": {
+        "hi": "दूसरों पर हँसना निर्दयी बात है।",
+        "hinglish": "Doosron par hansna nirdayi baat hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P08.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "unlock",
+        "emoji": "🔓",
+        "hindi": "ताला खोलना",
+        "hinglish": "taala kholna"
+      },
+      "meaning": "un + lock: to open a lock",
+      "example": "Unlock the door with this key.",
+      "exampleMeaning": {
+        "hi": "इस चाबी से दरवाज़े का ताला खोलो।",
+        "hinglish": "Is chaabi se darwaaze ka taala kholo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P08.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "disagree",
+        "emoji": "🙅",
+        "hindi": "असहमत होना",
+        "hinglish": "asahmat hona"
+      },
+      "meaning": "dis + agree: to not agree",
+      "example": "I disagree with your idea.",
+      "exampleMeaning": {
+        "hi": "मैं तुम्हारे विचार से असहमत हूँ।",
+        "hinglish": "Main tumhare vichaar se asahmat hoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P08.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "dislike",
+        "emoji": "👎",
+        "hindi": "नापसंद करना",
+        "hinglish": "naapasand karna"
+      },
+      "meaning": "dis + like: to not like",
+      "example": "I dislike bitter food.",
+      "exampleMeaning": {
+        "hi": "मुझे कड़वा खाना पसंद नहीं।",
+        "hinglish": "Mujhe kadwa khaana pasand nahi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P08.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "disappear",
+        "emoji": "🫥",
+        "hindi": "गायब होना",
+        "hinglish": "gaayab hona"
+      },
+      "meaning": "dis + appear: to go out of sight",
+      "example": "The magician made the coin disappear.",
+      "exampleMeaning": {
+        "hi": "जादूगर ने सिक्का गायब कर दिया।",
+        "hinglish": "Jaadugar ne sikka gaayab kar diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P08.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "rewrite",
+        "emoji": "✏️",
+        "hindi": "फिर से लिखना",
+        "hinglish": "phir se likhna"
+      },
+      "meaning": "re + write: to write again",
+      "example": "Please rewrite this answer neatly.",
+      "exampleMeaning": {
+        "hi": "इस जवाब को साफ़-साफ़ फिर से लिखो।",
+        "hinglish": "Is jawaab ko saaf-saaf phir se likho."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P08.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "reuse",
+        "emoji": "♻️",
+        "hindi": "फिर से इस्तेमाल करना",
+        "hinglish": "phir se istemaal karna"
+      },
+      "meaning": "re + use: to use again",
+      "example": "We reuse old jars to keep spices.",
+      "exampleMeaning": {
+        "hi": "हम मसाले रखने के लिए पुराने डिब्बे फिर से इस्तेमाल करते हैं।",
+        "hinglish": "Hum masaale rakhne ke liye puraane dibbe phir se istemaal karte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P08.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "return",
+        "emoji": "↩️",
+        "hindi": "लौटाना",
+        "hinglish": "lautaana"
+      },
+      "meaning": "re + turn: to give back or come back",
+      "example": "Return the book to the library.",
+      "exampleMeaning": {
+        "hi": "किताब लाइब्रेरी को लौटा दो।",
+        "hinglish": "Kitaab library ko lauta do."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P08.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "rebuild",
+        "emoji": "🏗️",
+        "hindi": "फिर से बनाना",
+        "hinglish": "phir se banaana"
+      },
+      "meaning": "re + build: to build again",
+      "example": "They will rebuild the old bridge.",
+      "exampleMeaning": {
+        "hi": "वे पुराने पुल को फिर से बनाएँगे।",
+        "hinglish": "Woh puraane pul ko phir se banaayenge."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P08.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I ___ with your idea.",
+      "answer": "disagree",
+      "options": [
+        "disagree",
+        "reuse",
+        "unkind"
+      ],
+      "meaning": {
+        "hi": "असहमत होना",
+        "hinglish": "asahmat hona"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P08.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "It is ___ to laugh at others.",
+      "answer": "unkind",
+      "options": [
+        "unkind",
+        "reuse",
+        "return"
+      ],
+      "meaning": {
+        "hi": "निर्दयी",
+        "hinglish": "nirdayi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P08.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "rebuild",
+      "options": [
+        "rebuild",
+        "unkind",
+        "dislike"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P08.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "unhappy",
+        "emoji": "😞",
+        "hindi": "दुखी",
+        "hinglish": "dukhi"
+      },
+      "answer": {
+        "hi": "दुखी",
+        "hinglish": "dukhi"
+      },
+      "options": [
+        {
+          "hi": "दुखी",
+          "hinglish": "dukhi"
+        },
+        {
+          "hi": "लौटाना",
+          "hinglish": "lautaana"
+        },
+        {
+          "hi": "गायब होना",
+          "hinglish": "gaayab hona"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P08.S16",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "unkind",
+        "emoji": "😠",
+        "hindi": "निर्दयी",
+        "hinglish": "nirdayi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P08.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "return",
+      "options": [
+        "return",
+        "unkind",
+        "rebuild"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P08.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "rewrite",
+        "emoji": "✏️",
+        "hindi": "फिर से लिखना",
+        "hinglish": "phir se likhna"
+      },
+      "answer": {
+        "hi": "फिर से लिखना",
+        "hinglish": "phir se likhna"
+      },
+      "options": [
+        {
+          "hi": "फिर से लिखना",
+          "hinglish": "phir se likhna"
+        },
+        {
+          "hi": "फिर से बनाना",
+          "hinglish": "phir se banaana"
+        },
+        {
+          "hi": "निर्दयी",
+          "hinglish": "nirdayi"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P08.S19",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "unlock",
+        "emoji": "🔓",
+        "hindi": "ताला खोलना",
+        "hinglish": "taala kholna"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P08.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The magician made the coin ___.",
+      "answer": "disappear",
+      "options": [
+        "disappear",
+        "dislike",
+        "unkind"
+      ],
+      "meaning": {
+        "hi": "गायब होना",
+        "hinglish": "gaayab hona"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P08.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We ___ old jars to keep spices.",
+      "answer": "reuse",
+      "options": [
+        "reuse",
+        "dislike",
+        "return"
+      ],
+      "meaning": {
+        "hi": "फिर से इस्तेमाल करना",
+        "hinglish": "phir se istemaal karna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P08.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "disagree",
+        "emoji": "🙅",
+        "hindi": "असहमत होना",
+        "hinglish": "asahmat hona"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P08.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "unlock",
+        "emoji": "🔓",
+        "hindi": "ताला खोलना",
+        "hinglish": "taala kholna"
+      },
+      "answer": {
+        "hi": "ताला खोलना",
+        "hinglish": "taala kholna"
+      },
+      "options": [
+        {
+          "hi": "ताला खोलना",
+          "hinglish": "taala kholna"
+        },
+        {
+          "hi": "लौटाना",
+          "hinglish": "lautaana"
+        },
+        {
+          "hi": "गायब होना",
+          "hinglish": "gaayab hona"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P08.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "dislike",
+        "emoji": "👎",
+        "hindi": "नापसंद करना",
+        "hinglish": "naapasand karna"
+      },
+      "answer": {
+        "hi": "नापसंद करना",
+        "hinglish": "naapasand karna"
+      },
+      "options": [
+        {
+          "hi": "नापसंद करना",
+          "hinglish": "naapasand karna"
+        },
+        {
+          "hi": "दुखी",
+          "hinglish": "dukhi"
+        },
+        {
+          "hi": "फिर से इस्तेमाल करना",
+          "hinglish": "phir se istemaal karna"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P08.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "unhappy",
+        "emoji": "😞",
+        "hindi": "दुखी",
+        "hinglish": "dukhi"
+      }
+    }
+  ]
+}

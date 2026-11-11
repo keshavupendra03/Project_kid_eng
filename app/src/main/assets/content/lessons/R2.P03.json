@@ -1,0 +1,139 @@
+{
+  "id": "R2.P03",
+  "level": 102,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R2.P03.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Dadi's Hen’ (दादी की मुर्गी)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Dadi's Hen’ (Dadi ki murgi). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Dadi's Hen’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P03.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘hen’ मतलब मुर्गी। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘hen’ matlab murgi. Chhookar suno, phir bolo.",
+        "en": "‘hen’ means मुर्गी. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "hen",
+        "emoji": "🐔",
+        "hindi": "मुर्गी",
+        "hinglish": "murgi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P03.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘egg’ मतलब अंडा। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘egg’ matlab anda. Chhookar suno, phir bolo.",
+        "en": "‘egg’ means अंडा. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "egg",
+        "emoji": "🥚",
+        "hindi": "अंडा",
+        "hinglish": "anda"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P03.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘morning’ मतलब सुबह। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘morning’ matlab subah. Chhookar suno, phir bolo.",
+        "en": "‘morning’ means सुबह. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "morning",
+        "emoji": "🌅",
+        "hindi": "सुबह",
+        "hinglish": "subah"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R2.P03.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "दादी की मुर्गी",
+        "hinglish": "Dadi ki murgi",
+        "en": "Dadi's Hen"
+      },
+      "sentences": [
+        "Dadi has a hen.",
+        "The hen is brown.",
+        "Every morning the hen lays an egg.",
+        "Raju gets the egg.",
+        "He thanks the hen!"
+      ],
+      "words": [
+        {
+          "english": "hen",
+          "emoji": "🐔",
+          "hindi": "मुर्गी",
+          "hinglish": "murgi"
+        },
+        {
+          "english": "egg",
+          "emoji": "🥚",
+          "hindi": "अंडा",
+          "hinglish": "anda"
+        },
+        {
+          "english": "morning",
+          "emoji": "🌅",
+          "hindi": "सुबह",
+          "hinglish": "subah"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P03.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "मुर्गी किस रंग की है?",
+        "hinglish": "Murgi kis rang ki hai?",
+        "en": "What colour is the hen?"
+      },
+      "options": [
+        "brown",
+        "white",
+        "black"
+      ],
+      "answer": "brown"
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P03.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "मुर्गी हर सुबह क्या देती है?",
+        "hinglish": "Murgi har subah kya deti hai?",
+        "en": "What does the hen lay every morning?"
+      },
+      "options": [
+        "an egg",
+        "a ball",
+        "a mango"
+      ],
+      "answer": "an egg"
+    }
+  ]
+}

@@ -63,22 +63,22 @@
           "hinglish": "khaana"
         },
         {
-          "english": "laugh",
-          "emoji": "😂",
-          "hindi": "हँसना",
-          "hinglish": "hansna"
-        },
-        {
-          "english": "walk",
-          "emoji": "🚶",
-          "hindi": "चलना",
-          "hinglish": "chalna"
+          "english": "swim",
+          "emoji": "🏊",
+          "hindi": "तैरना",
+          "hinglish": "tairna"
         },
         {
           "english": "drink",
           "emoji": "🥤",
           "hindi": "पीना",
           "hinglish": "peena"
+        },
+        {
+          "english": "laugh",
+          "emoji": "😂",
+          "hindi": "हँसना",
+          "hinglish": "hansna"
         }
       ]
     },
@@ -93,8 +93,8 @@
       "answer": "drink",
       "options": [
         "drink",
-        "dance",
-        "laugh"
+        "walk",
+        "dance"
       ]
     },
     {
@@ -134,36 +134,33 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U19.S08",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.actions"
       ],
-      "answer": "sleep",
+      "word": {
+        "english": "sleep",
+        "emoji": "😴",
+        "hindi": "सोना",
+        "hinglish": "sona"
+      },
+      "answer": {
+        "hi": "सोना",
+        "hinglish": "sona"
+      },
       "options": [
         {
-          "english": "sleep",
-          "emoji": "😴",
-          "hindi": "सोना",
+          "hi": "सोना",
           "hinglish": "sona"
         },
         {
-          "english": "walk",
-          "emoji": "🚶",
-          "hindi": "चलना",
+          "hi": "चलना",
           "hinglish": "chalna"
         },
         {
-          "english": "laugh",
-          "emoji": "😂",
-          "hindi": "हँसना",
-          "hinglish": "hansna"
-        },
-        {
-          "english": "eat",
-          "emoji": "😋",
-          "hindi": "खाना",
+          "hi": "खाना",
           "hinglish": "khaana"
         }
       ]
@@ -179,8 +176,8 @@
       "answer": "run",
       "options": [
         "run",
-        "drink",
-        "dance"
+        "sleep",
+        "eat"
       ]
     },
     {
@@ -235,16 +232,16 @@
           "hinglish": "chalna"
         },
         {
-          "english": "eat",
-          "emoji": "😋",
-          "hindi": "खाना",
-          "hinglish": "khaana"
+          "english": "drink",
+          "emoji": "🥤",
+          "hindi": "पीना",
+          "hinglish": "peena"
         },
         {
-          "english": "run",
-          "emoji": "🏃",
-          "hindi": "दौड़ना",
-          "hinglish": "daudna"
+          "english": "dance",
+          "emoji": "💃",
+          "hindi": "नाचना",
+          "hinglish": "naachna"
         },
         {
           "english": "laugh",
@@ -265,8 +262,8 @@
       "answer": "swim",
       "options": [
         "swim",
-        "sleep",
-        "eat"
+        "laugh",
+        "run"
       ]
     },
     {
@@ -321,22 +318,22 @@
           "hinglish": "naachna"
         },
         {
-          "english": "laugh",
-          "emoji": "😂",
-          "hindi": "हँसना",
-          "hinglish": "hansna"
-        },
-        {
-          "english": "drink",
-          "emoji": "🥤",
-          "hindi": "पीना",
-          "hinglish": "peena"
+          "english": "swim",
+          "emoji": "🏊",
+          "hindi": "तैरना",
+          "hinglish": "tairna"
         },
         {
           "english": "walk",
           "emoji": "🚶",
           "hindi": "चलना",
           "hinglish": "chalna"
+        },
+        {
+          "english": "run",
+          "emoji": "🏃",
+          "hindi": "दौड़ना",
+          "hinglish": "daudna"
         }
       ]
     },
@@ -351,8 +348,8 @@
       "answer": "laugh",
       "options": [
         "laugh",
-        "walk",
-        "dance"
+        "sleep",
+        "run"
       ]
     },
     {
@@ -363,27 +360,27 @@
         "vocab.actions"
       ],
       "word": {
-        "english": "run",
-        "emoji": "🏃",
-        "hindi": "दौड़ना",
-        "hinglish": "daudna"
+        "english": "eat",
+        "emoji": "😋",
+        "hindi": "खाना",
+        "hinglish": "khaana"
       },
       "answer": {
-        "hi": "दौड़ना",
-        "hinglish": "daudna"
+        "hi": "खाना",
+        "hinglish": "khaana"
       },
       "options": [
         {
-          "hi": "दौड़ना",
-          "hinglish": "daudna"
+          "hi": "खाना",
+          "hinglish": "khaana"
         },
         {
           "hi": "चलना",
           "hinglish": "chalna"
         },
         {
-          "hi": "तैरना",
-          "hinglish": "tairna"
+          "hi": "हँसना",
+          "hinglish": "hansna"
         }
       ]
     },
@@ -414,8 +411,8 @@
           "hinglish": "daudna"
         },
         {
-          "hi": "चलना",
-          "hinglish": "chalna"
+          "hi": "तैरना",
+          "hinglish": "tairna"
         }
       ]
     },
@@ -454,11 +451,11 @@
         "read.word",
         "vocab.actions"
       ],
-      "answer": "walk",
+      "answer": "dance",
       "options": [
-        "walk",
-        "sleep",
-        "run"
+        "dance",
+        "run",
+        "laugh"
       ]
     },
     {

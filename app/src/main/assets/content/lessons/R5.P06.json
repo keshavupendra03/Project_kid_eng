@@ -1,0 +1,145 @@
+{
+  "id": "R5.P06",
+  "level": 105,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R5.P06.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘A Letter to Dadi’ (दादी को चिट्ठी)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘A Letter to Dadi’ (Dadi ko chitthi). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘A Letter to Dadi’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P06.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘letter’ मतलब चिट्ठी। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘letter’ matlab chitthi. Chhookar suno, phir bolo.",
+        "en": "‘letter’ means चिट्ठी. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "letter",
+        "emoji": "✉️",
+        "hindi": "चिट्ठी",
+        "hinglish": "chitthi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P06.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘prize’ मतलब इनाम। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘prize’ matlab inaam. Chhookar suno, phir bolo.",
+        "en": "‘prize’ means इनाम. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "prize",
+        "emoji": "🏆",
+        "hindi": "इनाम",
+        "hinglish": "inaam"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P06.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘nervous’ मतलब घबराया हुआ। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘nervous’ matlab ghabraya hua. Chhookar suno, phir bolo.",
+        "en": "‘nervous’ means घबराया हुआ. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "nervous",
+        "emoji": "😬",
+        "hindi": "घबराया हुआ",
+        "hinglish": "ghabraya hua"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R5.P06.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "दादी को चिट्ठी",
+        "hinglish": "Dadi ko chitthi",
+        "en": "A Letter to Dadi"
+      },
+      "sentences": [
+        "Dear Dadi, I hope you are well.",
+        "I am writing this letter to tell you about my school.",
+        "I am in Class Four now.",
+        "My new teacher is Mrs Sharma.",
+        "She teaches us English with songs.",
+        "",
+        "Last week I won a prize for reading.",
+        "I read a story in front of the whole school!",
+        "I was nervous, but I did it.",
+        "I will show you the prize when I come in the holidays.",
+        "Your loving grandson, Arjun."
+      ],
+      "words": [
+        {
+          "english": "letter",
+          "emoji": "✉️",
+          "hindi": "चिट्ठी",
+          "hinglish": "chitthi"
+        },
+        {
+          "english": "prize",
+          "emoji": "🏆",
+          "hindi": "इनाम",
+          "hinglish": "inaam"
+        },
+        {
+          "english": "nervous",
+          "emoji": "😬",
+          "hindi": "घबराया हुआ",
+          "hinglish": "ghabraya hua"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P06.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "अर्जुन को इनाम किस लिए मिला?",
+        "hinglish": "Arjun ko inaam kis liye mila?",
+        "en": "What did Arjun win a prize for?"
+      },
+      "options": [
+        "reading",
+        "cricket",
+        "singing"
+      ],
+      "answer": "reading"
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P06.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "अर्जुन की नई टीचर कौन हैं?",
+        "hinglish": "Arjun ki nayi teacher kaun hain?",
+        "en": "Who is Arjun's new teacher?"
+      },
+      "options": [
+        "Mrs Sharma",
+        "Dadi",
+        "Mummy"
+      ],
+      "answer": "Mrs Sharma"
+    }
+  ]
+}

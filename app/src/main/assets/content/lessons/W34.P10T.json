@@ -1,0 +1,189 @@
+{
+  "id": "W34.P10T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "W34.P10T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ your teacher with a smile.",
+      "answer": "greet",
+      "options": [
+        "greet",
+        "thank",
+        "respect"
+      ],
+      "meaning": {
+        "hi": "अभिवादन करना",
+        "hinglish": "abhivaadan karna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P10T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "apologise",
+      "options": [
+        "apologise",
+        "honest",
+        "thank"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P10T.S03",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "respect",
+        "emoji": "🙇",
+        "hindi": "आदर",
+        "hinglish": "aadar"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P10T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "patient",
+        "emoji": "⏳",
+        "hindi": "धैर्यवान",
+        "hinglish": "dhairyavaan"
+      },
+      "answer": {
+        "hi": "धैर्यवान",
+        "hinglish": "dhairyavaan"
+      },
+      "options": [
+        {
+          "hi": "धैर्यवान",
+          "hinglish": "dhairyavaan"
+        },
+        {
+          "hi": "धन्यवाद देना",
+          "hinglish": "dhanyavaad dena"
+        },
+        {
+          "hi": "अभिवादन करना",
+          "hinglish": "abhivaadan karna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P10T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ the driver when you get off the bus.",
+      "answer": "thank",
+      "options": [
+        "thank",
+        "greet",
+        "polite"
+      ],
+      "meaning": {
+        "hi": "धन्यवाद देना",
+        "hinglish": "dhanyavaad dena"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P10T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "honest",
+      "options": [
+        "honest",
+        "polite",
+        "share"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P10T.S07",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "share",
+        "emoji": "🤲",
+        "hindi": "बाँटना",
+        "hinglish": "baantna"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P10T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "polite",
+        "emoji": "🙂",
+        "hindi": "विनम्र",
+        "hinglish": "vinamra"
+      },
+      "answer": {
+        "hi": "विनम्र",
+        "hinglish": "vinamra"
+      },
+      "options": [
+        {
+          "hi": "विनम्र",
+          "hinglish": "vinamra"
+        },
+        {
+          "hi": "माफ़ी माँगना",
+          "hinglish": "maafi maangna"
+        },
+        {
+          "hi": "ईमानदार",
+          "hinglish": "imaandaar"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P10T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We stood in a ___ for tickets.",
+      "answer": "queue",
+      "options": [
+        "queue",
+        "respect",
+        "careful"
+      ],
+      "meaning": {
+        "hi": "कतार",
+        "hinglish": "kataar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P10T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "careful",
+      "options": [
+        "careful",
+        "patient",
+        "apologise"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "id": "L2.U32",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U32.S01",
+      "text": {
+        "hi": "लोग क्या काम करते हैं?",
+        "hinglish": "Log kya kaam karte hain?",
+        "en": "What work do people do?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U32.S02",
+      "skills": [
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "‘farmer’ मतलब ‘किसान’।",
+        "hinglish": "‘farmer’ matlab ‘kisaan’.",
+        "en": "Say it with me: farmer!"
+      },
+      "word": {
+        "english": "farmer",
+        "emoji": "👨‍🌾",
+        "hindi": "किसान",
+        "hinglish": "kisaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U32.S03",
+      "skills": [
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "‘nurse’ मतलब ‘नर्स’।",
+        "hinglish": "‘nurse’ matlab ‘nurse’.",
+        "en": "Say it with me: nurse!"
+      },
+      "word": {
+        "english": "nurse",
+        "emoji": "👩‍⚕️",
+        "hindi": "नर्स",
+        "hinglish": "nurse"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U32.S04",
+      "skills": [
+        "listen.word",
+        "vocab.jobs"
+      ],
+      "answer": "farmer",
+      "options": [
+        {
+          "english": "farmer",
+          "emoji": "👨‍🌾",
+          "hindi": "किसान",
+          "hinglish": "kisaan"
+        },
+        {
+          "english": "postman",
+          "emoji": "📮",
+          "hindi": "डाकिया",
+          "hinglish": "daakiya"
+        },
+        {
+          "english": "singer",
+          "emoji": "👩‍🎤",
+          "hindi": "गायक",
+          "hinglish": "gaayak"
+        },
+        {
+          "english": "soldier",
+          "emoji": "💂",
+          "hindi": "फ़ौजी",
+          "hinglish": "fauji"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U32.S05",
+      "skills": [
+        "read.word",
+        "vocab.jobs"
+      ],
+      "emoji": "👩‍⚕️",
+      "answer": "nurse",
+      "options": [
+        "nurse",
+        "barber",
+        "soldier"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U32.S06",
+      "skills": [
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "‘soldier’ मतलब ‘फ़ौजी’।",
+        "hinglish": "‘soldier’ matlab ‘fauji’.",
+        "en": "Say it with me: soldier!"
+      },
+      "word": {
+        "english": "soldier",
+        "emoji": "💂",
+        "hindi": "फ़ौजी",
+        "hinglish": "fauji"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U32.S07",
+      "skills": [
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "‘singer’ मतलब ‘गायक’।",
+        "hinglish": "‘singer’ matlab ‘gaayak’.",
+        "en": "Say it with me: singer!"
+      },
+      "word": {
+        "english": "singer",
+        "emoji": "👩‍🎤",
+        "hindi": "गायक",
+        "hinglish": "gaayak"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U32.S08",
+      "skills": [
+        "listen.word",
+        "vocab.jobs"
+      ],
+      "answer": "soldier",
+      "options": [
+        {
+          "english": "soldier",
+          "emoji": "💂",
+          "hindi": "फ़ौजी",
+          "hinglish": "fauji"
+        },
+        {
+          "english": "nurse",
+          "emoji": "👩‍⚕️",
+          "hindi": "नर्स",
+          "hinglish": "nurse"
+        },
+        {
+          "english": "farmer",
+          "emoji": "👨‍🌾",
+          "hindi": "किसान",
+          "hinglish": "kisaan"
+        },
+        {
+          "english": "postman",
+          "emoji": "📮",
+          "hindi": "डाकिया",
+          "hinglish": "daakiya"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U32.S09",
+      "skills": [
+        "read.word",
+        "vocab.jobs"
+      ],
+      "emoji": "👩‍🎤",
+      "answer": "singer",
+      "options": [
+        "singer",
+        "pilot",
+        "barber"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U32.S10",
+      "skills": [
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "‘pilot’ मतलब ‘पायलट’।",
+        "hinglish": "‘pilot’ matlab ‘pilot’.",
+        "en": "Say it with me: pilot!"
+      },
+      "word": {
+        "english": "pilot",
+        "emoji": "👨‍✈️",
+        "hindi": "पायलट",
+        "hinglish": "pilot"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U32.S11",
+      "skills": [
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "‘tailor’ मतलब ‘दर्ज़ी’।",
+        "hinglish": "‘tailor’ matlab ‘darzi’.",
+        "en": "Say it with me: tailor!"
+      },
+      "word": {
+        "english": "tailor",
+        "hindi": "दर्ज़ी",
+        "hinglish": "darzi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U32.S12",
+      "skills": [
+        "listen.word",
+        "vocab.jobs"
+      ],
+      "answer": "pilot",
+      "options": [
+        {
+          "english": "pilot",
+          "emoji": "👨‍✈️",
+          "hindi": "पायलट",
+          "hinglish": "pilot"
+        },
+        {
+          "english": "singer",
+          "emoji": "👩‍🎤",
+          "hindi": "गायक",
+          "hinglish": "gaayak"
+        },
+        {
+          "english": "barber",
+          "emoji": "💈",
+          "hindi": "नाई",
+          "hinglish": "naai"
+        },
+        {
+          "english": "farmer",
+          "emoji": "👨‍🌾",
+          "hindi": "किसान",
+          "hinglish": "kisaan"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U32.S13",
+      "skills": [
+        "read.word",
+        "vocab.jobs"
+      ],
+      "answer": "tailor",
+      "options": [
+        "tailor",
+        "soldier",
+        "nurse"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U32.S14",
+      "skills": [
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "‘postman’ मतलब ‘डाकिया’।",
+        "hinglish": "‘postman’ matlab ‘daakiya’.",
+        "en": "Say it with me: postman!"
+      },
+      "word": {
+        "english": "postman",
+        "emoji": "📮",
+        "hindi": "डाकिया",
+        "hinglish": "daakiya"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U32.S15",
+      "skills": [
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "‘barber’ मतलब ‘नाई’।",
+        "hinglish": "‘barber’ matlab ‘naai’.",
+        "en": "Say it with me: barber!"
+      },
+      "word": {
+        "english": "barber",
+        "emoji": "💈",
+        "hindi": "नाई",
+        "hinglish": "naai"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U32.S16",
+      "skills": [
+        "listen.word",
+        "vocab.jobs"
+      ],
+      "answer": "postman",
+      "options": [
+        {
+          "english": "postman",
+          "emoji": "📮",
+          "hindi": "डाकिया",
+          "hinglish": "daakiya"
+        },
+        {
+          "english": "farmer",
+          "emoji": "👨‍🌾",
+          "hindi": "किसान",
+          "hinglish": "kisaan"
+        },
+        {
+          "english": "soldier",
+          "emoji": "💂",
+          "hindi": "फ़ौजी",
+          "hinglish": "fauji"
+        },
+        {
+          "english": "nurse",
+          "emoji": "👩‍⚕️",
+          "hindi": "नर्स",
+          "hinglish": "nurse"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U32.S17",
+      "skills": [
+        "read.word",
+        "vocab.jobs"
+      ],
+      "emoji": "💈",
+      "answer": "barber",
+      "options": [
+        "barber",
+        "farmer",
+        "nurse"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U32.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.jobs"
+      ],
+      "word": {
+        "english": "postman",
+        "emoji": "📮",
+        "hindi": "डाकिया",
+        "hinglish": "daakiya"
+      },
+      "answer": {
+        "hi": "डाकिया",
+        "hinglish": "daakiya"
+      },
+      "options": [
+        {
+          "hi": "डाकिया",
+          "hinglish": "daakiya"
+        },
+        {
+          "hi": "नर्स",
+          "hinglish": "nurse"
+        },
+        {
+          "hi": "किसान",
+          "hinglish": "kisaan"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U32.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.jobs"
+      ],
+      "word": {
+        "english": "pilot",
+        "emoji": "👨‍✈️",
+        "hindi": "पायलट",
+        "hinglish": "pilot"
+      },
+      "answer": {
+        "hi": "पायलट",
+        "hinglish": "pilot"
+      },
+      "options": [
+        {
+          "hi": "पायलट",
+          "hinglish": "pilot"
+        },
+        {
+          "hi": "गायक",
+          "hinglish": "gaayak"
+        },
+        {
+          "hi": "नर्स",
+          "hinglish": "nurse"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U32.S20",
+      "skills": [
+        "speak.word",
+        "vocab.jobs"
+      ],
+      "word": {
+        "english": "nurse",
+        "emoji": "👩‍⚕️",
+        "hindi": "नर्स",
+        "hinglish": "nurse"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U32.S21",
+      "skills": [
+        "speak.word",
+        "vocab.jobs"
+      ],
+      "word": {
+        "english": "pilot",
+        "emoji": "👨‍✈️",
+        "hindi": "पायलट",
+        "hinglish": "pilot"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U32.S22",
+      "skills": [
+        "read.word",
+        "vocab.jobs"
+      ],
+      "answer": "farmer",
+      "options": [
+        "farmer",
+        "pilot",
+        "postman"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U32.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: farmer, nurse, soldier, singer, pilot, tailor, postman, barber।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: farmer, nurse, soldier, singer, pilot, tailor, postman, barber.",
+        "en": "Well done! Today's new words: farmer, nurse, soldier, singer, pilot, tailor, postman, barber."
+      }
+    }
+  ]
+}

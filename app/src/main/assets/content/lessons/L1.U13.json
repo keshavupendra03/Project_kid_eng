@@ -1,0 +1,244 @@
+{
+  "id": "L1.U13",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U13.S01",
+      "text": {
+        "hi": "दो खास अक्षर: x और qu. इनमें दो-दो आवाज़ें छिपी हैं!",
+        "hinglish": "Do khaas akshar: x aur qu. Inmein do-do awaazein chhipi hain!",
+        "en": "Two special ones: x and qu. Each hides two sounds!"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U13.S02",
+      "skills": [
+        "phonics.x"
+      ],
+      "letters": "x",
+      "sound": "c07_k+c13_s",
+      "hint": "क्स",
+      "text": {
+        "hi": "यह ‘x’ है। इसमें दो आवाज़ें हैं: क् + स्। जैसे fox के आख़िर में।",
+        "hinglish": "Yeh ‘x’ hai. Ismein do awaazein hain: k + s. Jaise fox ke aakhir mein.",
+        "en": "This is ‘x’. It has two sounds: k + s, like at the end of fox."
+      },
+      "example": {
+        "english": "fox",
+        "emoji": "🦊",
+        "hindi": "लोमड़ी",
+        "hinglish": "lomdi"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U13.S03",
+      "skills": [
+        "phonics.qu"
+      ],
+      "letters": "qu",
+      "sound": "c07_k+c16_w",
+      "hint": "क्व",
+      "text": {
+        "hi": "q के साथ लगभग हमेशा u आता है। ‘qu’ की आवाज़ है: क् + व, जैसे queen में।",
+        "hinglish": "q ke saath lagbhag hamesha u aata hai. ‘qu’ ki awaaz hai: k + w, jaise queen mein.",
+        "en": "q almost always comes with u. ‘qu’ sounds like k + w, as in queen."
+      },
+      "example": {
+        "english": "queen",
+        "emoji": "👸",
+        "hindi": "रानी",
+        "hinglish": "raani"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U13.S04",
+      "skills": [
+        "listen.word",
+        "phonics.qu"
+      ],
+      "answer": "queen",
+      "options": [
+        {
+          "english": "queen",
+          "emoji": "👸",
+          "hindi": "रानी",
+          "hinglish": "raani"
+        },
+        {
+          "english": "fox",
+          "emoji": "🦊",
+          "hindi": "लोमड़ी",
+          "hinglish": "lomdi"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U13.S05",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "fox",
+        "emoji": "🦊",
+        "hindi": "लोमड़ी",
+        "hinglish": "lomdi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U13.S06",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "queen",
+        "emoji": "👸",
+        "hindi": "रानी",
+        "hinglish": "raani"
+      }
+    },
+    {
+      "type": "blend",
+      "id": "L1.U13.S07",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "fox",
+      "emoji": "🦊",
+      "parts": [
+        {
+          "letters": "f",
+          "sound": "c03_f"
+        },
+        {
+          "letters": "o",
+          "sound": "v04_o_pot"
+        },
+        {
+          "letters": "x",
+          "sound": "c07_k+c13_s"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U13.S08",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "box",
+      "emoji": "📦",
+      "parts": [
+        {
+          "letters": "b",
+          "sound": "c01_b"
+        },
+        {
+          "letters": "o",
+          "sound": "v04_o_pot"
+        },
+        {
+          "letters": "x",
+          "sound": "c07_k+c13_s"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U13.S09",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "📦",
+      "answer": "box",
+      "options": [
+        "box",
+        "six",
+        "fox"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U13.S10",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "six",
+      "emoji": "6️⃣",
+      "parts": [
+        {
+          "letters": "s",
+          "sound": "c13_s"
+        },
+        {
+          "letters": "i",
+          "sound": "v03_i_ink"
+        },
+        {
+          "letters": "x",
+          "sound": "c07_k+c13_s"
+        }
+      ],
+      "accept": [
+        "6"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U13.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "queen",
+      "emoji": "👸",
+      "parts": [
+        {
+          "letters": "qu",
+          "sound": "c07_k+c16_w"
+        },
+        {
+          "letters": "ee",
+          "sound": "v08_ee_tree"
+        },
+        {
+          "letters": "n",
+          "sound": "c10_n"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U13.S12",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "👸",
+      "answer": "queen",
+      "options": [
+        "queen",
+        "six",
+        "fox"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U13.S13",
+      "text": {
+        "hi": "शाबाश! अब x और qu भी तुम्हारे दोस्त हैं!",
+        "hinglish": "Shabaash! Ab x aur qu bhi tumhare dost hain!",
+        "en": "Well done! Now x and qu are your friends too!"
+      }
+    }
+  ]
+}

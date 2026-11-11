@@ -1,0 +1,348 @@
+{
+  "id": "L1.U17",
+  "level": 1,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L1.U17.S01",
+      "text": {
+        "hi": "आख़िरी आवाज़ें! इनके बाद इंग्लिश की सारी 44 आवाज़ें तुम्हें आ जाएँगी।",
+        "hinglish": "Aakhiri awaazein! Inke baad English ki saari 44 awaazein tumhe aa jayengi.",
+        "en": "The last sounds! After these you'll know all 44 sounds of English."
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U17.S02",
+      "skills": [
+        "phonics.ear"
+      ],
+      "letters": "ear",
+      "sound": "v17_ear",
+      "hint": "इअर",
+      "text": {
+        "hi": "यह ‘ear’ है। इसकी आवाज़ है ‘इअर’, जैसे ear में।",
+        "hinglish": "Yeh ‘ear’ hai. Iski awaaz hai ‘iyar’, jaise ear mein.",
+        "en": "This is ‘ear’. Listen to its sound, as in ear."
+      },
+      "example": {
+        "english": "ear",
+        "emoji": "👂",
+        "hindi": "कान",
+        "hinglish": "kaan"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U17.S03",
+      "skills": [
+        "phonics.air"
+      ],
+      "letters": "air",
+      "sound": "v18_air_hair",
+      "hint": "एअर",
+      "text": {
+        "hi": "यह ‘air’ है। इसकी आवाज़ है ‘एअर’, जैसे hair में।",
+        "hinglish": "Yeh ‘air’ hai. Iski awaaz hai ‘air’, jaise hair mein.",
+        "en": "This is ‘air’. Listen to its sound, as in hair."
+      },
+      "example": {
+        "english": "hair",
+        "emoji": "💇",
+        "hindi": "बाल",
+        "hinglish": "baal"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U17.S04",
+      "skills": [
+        "listen.word",
+        "phonics.air"
+      ],
+      "answer": "hair",
+      "options": [
+        "hair",
+        "ear"
+      ]
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U17.S05",
+      "skills": [
+        "phonics.ure"
+      ],
+      "letters": "ure",
+      "sound": "v19_ure_pure",
+      "hint": "युअर",
+      "text": {
+        "hi": "यह ‘ure’ है। इसकी आवाज़ है ‘युअर’, जैसे cure में।",
+        "hinglish": "Yeh ‘ure’ hai. Iski awaaz hai ‘yuar’, jaise cure mein.",
+        "en": "This is ‘ure’. Listen to its sound, as in cure."
+      },
+      "example": {
+        "english": "cure",
+        "emoji": "💊",
+        "hindi": "इलाज",
+        "hinglish": "ilaaj"
+      }
+    },
+    {
+      "type": "learn_sound",
+      "id": "L1.U17.S06",
+      "skills": [
+        "phonics.schwa"
+      ],
+      "letters": "a",
+      "sound": "v20_schwa",
+      "hint": "अ",
+      "text": {
+        "hi": "सबसे आलसी आवाज़! कई बार ‘a’ बहुत हल्का बोला जाता है: अ। जैसे banana के पहले और आख़िरी ‘a’ में।",
+        "hinglish": "Sabse aalsi awaaz! Kai baar ‘a’ bahut halka bola jaata hai: uh. Jaise banana ke pehle aur aakhiri ‘a’ mein.",
+        "en": "The laziest sound! Often ‘a’ is said very softly, like the first and last ‘a’ in banana."
+      },
+      "example": {
+        "english": "banana",
+        "emoji": "🍌",
+        "hindi": "केला",
+        "hinglish": "kela"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L1.U17.S07",
+      "skills": [
+        "listen.word",
+        "phonics.schwa"
+      ],
+      "answer": "banana",
+      "options": [
+        {
+          "english": "banana",
+          "emoji": "🍌",
+          "hindi": "केला",
+          "hinglish": "kela"
+        },
+        {
+          "english": "hair",
+          "emoji": "💇",
+          "hindi": "बाल",
+          "hinglish": "baal"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U17.S08",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "ear",
+        "emoji": "👂",
+        "hindi": "कान",
+        "hinglish": "kaan"
+      },
+      "accept": [
+        "year"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L1.U17.S09",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "hair",
+        "emoji": "💇",
+        "hindi": "बाल",
+        "hinglish": "baal"
+      },
+      "accept": [
+        "hare"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U17.S10",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "year",
+      "emoji": "📅",
+      "parts": [
+        {
+          "letters": "y",
+          "sound": "c17_y"
+        },
+        {
+          "letters": "ear",
+          "sound": "v17_ear"
+        }
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U17.S11",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "hear",
+      "emoji": "👂",
+      "parts": [
+        {
+          "letters": "h",
+          "sound": "c05_h"
+        },
+        {
+          "letters": "ear",
+          "sound": "v17_ear"
+        }
+      ],
+      "accept": [
+        "here"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U17.S12",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "answer": "hear",
+      "options": [
+        "hear",
+        "cure",
+        "year"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U17.S13",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "hair",
+      "emoji": "💇",
+      "parts": [
+        {
+          "letters": "h",
+          "sound": "c05_h"
+        },
+        {
+          "letters": "air",
+          "sound": "v18_air_hair"
+        }
+      ],
+      "accept": [
+        "hare"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U17.S14",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "chair",
+      "emoji": "🪑",
+      "parts": [
+        {
+          "letters": "ch",
+          "sound": "c20_ch"
+        },
+        {
+          "letters": "air",
+          "sound": "v18_air_hair"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L1.U17.S15",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "emoji": "🪑",
+      "answer": "chair",
+      "options": [
+        "chair",
+        "fair",
+        "cure"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U17.S16",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "fair",
+      "emoji": "🎡",
+      "parts": [
+        {
+          "letters": "f",
+          "sound": "c03_f"
+        },
+        {
+          "letters": "air",
+          "sound": "v18_air_hair"
+        }
+      ],
+      "accept": [
+        "fare"
+      ]
+    },
+    {
+      "type": "blend",
+      "id": "L1.U17.S17",
+      "skills": [
+        "phonics.blend",
+        "speak.word"
+      ],
+      "word": "cure",
+      "emoji": "💊",
+      "parts": [
+        {
+          "letters": "c",
+          "sound": "c07_k"
+        },
+        {
+          "letters": "ure",
+          "sound": "v19_ure_pure"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L1.U17.S18",
+      "skills": [
+        "read.word",
+        "phonics.blend"
+      ],
+      "answer": "cure",
+      "options": [
+        "cure",
+        "chair",
+        "hair"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L1.U17.S19",
+      "text": {
+        "hi": "कमाल कर दिया! अब तुम इंग्लिश की सारी 44 आवाज़ें पहचानते हो!",
+        "hinglish": "Kamaal kar diya! Ab tum English ki saari 44 awaazein pehchaante ho!",
+        "en": "Amazing! Now you know all 44 sounds of English!"
+      }
+    }
+  ]
+}

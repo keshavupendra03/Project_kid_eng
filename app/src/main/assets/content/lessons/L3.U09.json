@@ -301,8 +301,22 @@
       }
     },
     {
-      "type": "learn_card",
+      "type": "teach_tinku",
       "id": "L3.U09.S13",
+      "skills": [
+        "speak.sentence",
+        "grammar.there_is"
+      ],
+      "wrong": "There is four chairs.",
+      "answer": "There are four chairs.",
+      "meaning": {
+        "hi": "चार कुर्सियाँ हैं।",
+        "hinglish": "Chaar kursiyaan hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U09.S14",
       "text": {
         "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
         "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",

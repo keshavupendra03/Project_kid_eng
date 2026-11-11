@@ -48,37 +48,34 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U20.S04",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.actions"
       ],
-      "answer": "read",
+      "word": {
+        "english": "read",
+        "emoji": "📖",
+        "hindi": "पढ़ना",
+        "hinglish": "padhna"
+      },
+      "answer": {
+        "hi": "पढ़ना",
+        "hinglish": "padhna"
+      },
       "options": [
         {
-          "english": "read",
-          "emoji": "📖",
-          "hindi": "पढ़ना",
+          "hi": "पढ़ना",
           "hinglish": "padhna"
         },
         {
-          "english": "write",
-          "emoji": "✍️",
-          "hindi": "लिखना",
-          "hinglish": "likhna"
-        },
-        {
-          "english": "play",
-          "emoji": "⚽",
-          "hindi": "खेलना",
-          "hinglish": "khelna"
-        },
-        {
-          "english": "sing",
-          "emoji": "🎤",
-          "hindi": "गाना",
+          "hi": "गाना",
           "hinglish": "gaana"
+        },
+        {
+          "hi": "लिखना",
+          "hinglish": "likhna"
         }
       ]
     },
@@ -93,7 +90,7 @@
       "answer": "write",
       "options": [
         "write",
-        "sing",
+        "play",
         "read"
       ]
     },
@@ -149,22 +146,22 @@
           "hinglish": "gaana"
         },
         {
-          "english": "play",
-          "emoji": "⚽",
-          "hindi": "खेलना",
-          "hinglish": "khelna"
-        },
-        {
-          "english": "read",
-          "emoji": "📖",
-          "hindi": "पढ़ना",
-          "hinglish": "padhna"
-        },
-        {
           "english": "cook",
           "emoji": "🍳",
           "hindi": "खाना बनाना",
           "hinglish": "khaana banaana"
+        },
+        {
+          "english": "climb",
+          "emoji": "🧗",
+          "hindi": "चढ़ना",
+          "hinglish": "chadhna"
+        },
+        {
+          "english": "write",
+          "emoji": "✍️",
+          "hindi": "लिखना",
+          "hinglish": "likhna"
         }
       ]
     },
@@ -179,8 +176,8 @@
       "answer": "cook",
       "options": [
         "cook",
-        "cry",
-        "play"
+        "sing",
+        "write"
       ]
     },
     {
@@ -220,53 +217,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U20.S12",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.actions"
       ],
-      "answer": "play",
+      "word": {
+        "english": "play",
+        "emoji": "⚽",
+        "hindi": "खेलना",
+        "hinglish": "khelna"
+      },
+      "answer": {
+        "hi": "खेलना",
+        "hinglish": "khelna"
+      },
       "options": [
         {
-          "english": "play",
-          "emoji": "⚽",
-          "hindi": "खेलना",
+          "hi": "खेलना",
           "hinglish": "khelna"
         },
         {
-          "english": "wash",
-          "emoji": "🧼",
-          "hindi": "धोना",
+          "hi": "लिखना",
+          "hinglish": "likhna"
+        },
+        {
+          "hi": "धोना",
           "hinglish": "dhona"
-        },
-        {
-          "english": "climb",
-          "emoji": "🧗",
-          "hindi": "चढ़ना",
-          "hinglish": "chadhna"
-        },
-        {
-          "english": "cook",
-          "emoji": "🍳",
-          "hindi": "खाना बनाना",
-          "hinglish": "khaana banaana"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U20.S13",
       "skills": [
         "read.word",
         "vocab.actions"
       ],
-      "emoji": "🧼",
       "answer": "wash",
       "options": [
         "wash",
-        "sing",
-        "write"
+        "cry",
+        "play"
       ]
     },
     {
@@ -327,32 +320,31 @@
           "hinglish": "khaana banaana"
         },
         {
+          "english": "sing",
+          "emoji": "🎤",
+          "hindi": "गाना",
+          "hinglish": "gaana"
+        },
+        {
           "english": "write",
           "emoji": "✍️",
           "hindi": "लिखना",
           "hinglish": "likhna"
-        },
-        {
-          "english": "wash",
-          "emoji": "🧼",
-          "hindi": "धोना",
-          "hinglish": "dhona"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U20.S17",
       "skills": [
         "read.word",
         "vocab.actions"
       ],
-      "emoji": "😢",
       "answer": "cry",
       "options": [
         "cry",
-        "write",
-        "play"
+        "read",
+        "write"
       ]
     },
     {
@@ -363,27 +355,27 @@
         "vocab.actions"
       ],
       "word": {
-        "english": "cook",
-        "emoji": "🍳",
-        "hindi": "खाना बनाना",
-        "hinglish": "khaana banaana"
+        "english": "read",
+        "emoji": "📖",
+        "hindi": "पढ़ना",
+        "hinglish": "padhna"
       },
       "answer": {
-        "hi": "खाना बनाना",
-        "hinglish": "khaana banaana"
+        "hi": "पढ़ना",
+        "hinglish": "padhna"
       },
       "options": [
-        {
-          "hi": "खाना बनाना",
-          "hinglish": "khaana banaana"
-        },
         {
           "hi": "पढ़ना",
           "hinglish": "padhna"
         },
         {
-          "hi": "धोना",
-          "hinglish": "dhona"
+          "hi": "खेलना",
+          "hinglish": "khelna"
+        },
+        {
+          "hi": "चढ़ना",
+          "hinglish": "chadhna"
         }
       ]
     },
@@ -395,27 +387,27 @@
         "vocab.actions"
       ],
       "word": {
-        "english": "climb",
-        "emoji": "🧗",
-        "hindi": "चढ़ना",
-        "hinglish": "chadhna"
+        "english": "play",
+        "emoji": "⚽",
+        "hindi": "खेलना",
+        "hinglish": "khelna"
       },
       "answer": {
-        "hi": "चढ़ना",
-        "hinglish": "chadhna"
+        "hi": "खेलना",
+        "hinglish": "khelna"
       },
       "options": [
         {
-          "hi": "चढ़ना",
-          "hinglish": "chadhna"
-        },
-        {
-          "hi": "रोना",
-          "hinglish": "rona"
-        },
-        {
           "hi": "खेलना",
           "hinglish": "khelna"
+        },
+        {
+          "hi": "गाना",
+          "hinglish": "gaana"
+        },
+        {
+          "hi": "खाना बनाना",
+          "hinglish": "khaana banaana"
         }
       ]
     },
@@ -454,11 +446,11 @@
         "read.word",
         "vocab.actions"
       ],
-      "answer": "climb",
+      "answer": "sing",
       "options": [
-        "climb",
         "sing",
-        "cook"
+        "climb",
+        "read"
       ]
     },
     {

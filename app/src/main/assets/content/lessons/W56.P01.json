@@ -1,0 +1,480 @@
+{
+  "id": "W56.P01",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P01.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: चरित्र। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Charitra. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Character. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P01.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "curious",
+        "emoji": "🧐",
+        "hindi": "जिज्ञासु",
+        "hinglish": "jigyaasu"
+      },
+      "meaning": "wanting to know or learn about things",
+      "example": "A curious child asks many questions.",
+      "exampleMeaning": {
+        "hi": "जिज्ञासु बच्चा बहुत सवाल पूछता है।",
+        "hinglish": "Jigyaasu bachcha bahut sawaal poochhta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P01.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "generous",
+        "emoji": "🎁",
+        "hindi": "दिलदार",
+        "hinglish": "dildaar"
+      },
+      "meaning": "happy to give and share",
+      "example": "Our generous neighbour gave us mangoes.",
+      "exampleMeaning": {
+        "hi": "हमारे दिलदार पड़ोसी ने हमें आम दिए।",
+        "hinglish": "Hamare dildaar padosi ne hamein aam diye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P01.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "confident",
+        "emoji": "💪",
+        "hindi": "आत्मविश्वासी",
+        "hinglish": "aatmavishvaasi"
+      },
+      "meaning": "sure that you can do something",
+      "example": "She felt confident before the speech.",
+      "exampleMeaning": {
+        "hi": "भाषण से पहले उसे खुद पर भरोसा था।",
+        "hinglish": "Bhaashan se pehle use khud par bharosa tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P01.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lazy",
+        "emoji": "🦥",
+        "hindi": "आलसी",
+        "hinglish": "aalsi"
+      },
+      "meaning": "not wanting to work",
+      "example": "The lazy cat slept all day.",
+      "exampleMeaning": {
+        "hi": "आलसी बिल्ली दिन भर सोती रही।",
+        "hinglish": "Aalsi billi din bhar soti rahi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P01.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "humble",
+        "emoji": "🙇",
+        "hindi": "नम्र",
+        "hinglish": "namra"
+      },
+      "meaning": "not thinking you are better than others",
+      "example": "Even after winning, he stayed humble.",
+      "exampleMeaning": {
+        "hi": "जीतने के बाद भी वह नम्र रहा।",
+        "hinglish": "Jeetne ke baad bhi woh namra raha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P01.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "clever",
+        "emoji": "🧠",
+        "hindi": "चतुर",
+        "hinglish": "chatur"
+      },
+      "meaning": "quick to learn and understand",
+      "example": "The clever fox found a way out.",
+      "exampleMeaning": {
+        "hi": "चतुर लोमड़ी ने बाहर निकलने का रास्ता ढूँढ लिया।",
+        "hinglish": "Chatur lomdi ne baahar nikalne ka raasta dhoondh liya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P01.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "loyal",
+        "emoji": "🐕",
+        "hindi": "वफ़ादार",
+        "hinglish": "wafaadaar"
+      },
+      "meaning": "always staying with and supporting someone",
+      "example": "A dog is a loyal friend.",
+      "exampleMeaning": {
+        "hi": "कुत्ता एक वफ़ादार दोस्त होता है।",
+        "hinglish": "Kutta ek wafaadaar dost hota hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P01.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "selfish",
+        "emoji": "😤",
+        "hindi": "स्वार्थी",
+        "hinglish": "swaarthi"
+      },
+      "meaning": "caring only about yourself",
+      "example": "It is selfish to eat all the sweets alone.",
+      "exampleMeaning": {
+        "hi": "सारी मिठाई अकेले खा जाना स्वार्थ है।",
+        "hinglish": "Saari mithaai akele kha jaana swaarth hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P01.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "determined",
+        "emoji": "🎯",
+        "hindi": "दृढ़ निश्चयी",
+        "hinglish": "dridh nishchayi"
+      },
+      "meaning": "not giving up even when it is hard",
+      "example": "The determined girl practised every day.",
+      "exampleMeaning": {
+        "hi": "पक्के इरादे वाली लड़की ने रोज़ अभ्यास किया।",
+        "hinglish": "Pakke iraade waali ladki ne roz abhyaas kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P01.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "responsible",
+        "emoji": "📋",
+        "hindi": "ज़िम्मेदार",
+        "hinglish": "zimmedaar"
+      },
+      "meaning": "doing your duties well without being told",
+      "example": "A responsible student finishes homework on time.",
+      "exampleMeaning": {
+        "hi": "ज़िम्मेदार विद्यार्थी समय पर होमवर्क पूरा करता है।",
+        "hinglish": "Zimmedaar vidyaarthi samay par homework poora karta hai."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P01.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "curious",
+        "emoji": "🧐",
+        "hindi": "जिज्ञासु",
+        "hinglish": "jigyaasu"
+      },
+      "answer": {
+        "hi": "जिज्ञासु",
+        "hinglish": "jigyaasu"
+      },
+      "options": [
+        {
+          "hi": "जिज्ञासु",
+          "hinglish": "jigyaasu"
+        },
+        {
+          "hi": "ज़िम्मेदार",
+          "hinglish": "zimmedaar"
+        },
+        {
+          "hi": "आलसी",
+          "hinglish": "aalsi"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P01.S13",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "curious",
+        "emoji": "🧐",
+        "hindi": "जिज्ञासु",
+        "hinglish": "jigyaasu"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P01.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ fox found a way out.",
+      "answer": "clever",
+      "options": [
+        "clever",
+        "determined",
+        "loyal"
+      ],
+      "meaning": {
+        "hi": "चतुर",
+        "hinglish": "chatur"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P01.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "humble",
+        "emoji": "🙇",
+        "hindi": "नम्र",
+        "hinglish": "namra"
+      },
+      "answer": {
+        "hi": "नम्र",
+        "hinglish": "namra"
+      },
+      "options": [
+        {
+          "hi": "नम्र",
+          "hinglish": "namra"
+        },
+        {
+          "hi": "आलसी",
+          "hinglish": "aalsi"
+        },
+        {
+          "hi": "जिज्ञासु",
+          "hinglish": "jigyaasu"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P01.S16",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "lazy",
+        "emoji": "🦥",
+        "hindi": "आलसी",
+        "hinglish": "aalsi"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P01.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ cat slept all day.",
+      "answer": "lazy",
+      "options": [
+        "lazy",
+        "clever",
+        "humble"
+      ],
+      "meaning": {
+        "hi": "आलसी",
+        "hinglish": "aalsi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P01.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "generous",
+        "emoji": "🎁",
+        "hindi": "दिलदार",
+        "hinglish": "dildaar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P01.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "determined",
+      "options": [
+        "determined",
+        "loyal",
+        "selfish"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P01.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "confident",
+        "emoji": "💪",
+        "hindi": "आत्मविश्वासी",
+        "hinglish": "aatmavishvaasi"
+      },
+      "answer": {
+        "hi": "आत्मविश्वासी",
+        "hinglish": "aatmavishvaasi"
+      },
+      "options": [
+        {
+          "hi": "आत्मविश्वासी",
+          "hinglish": "aatmavishvaasi"
+        },
+        {
+          "hi": "जिज्ञासु",
+          "hinglish": "jigyaasu"
+        },
+        {
+          "hi": "वफ़ादार",
+          "hinglish": "wafaadaar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P01.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "responsible",
+      "options": [
+        "responsible",
+        "determined",
+        "selfish"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P01.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "confident",
+        "emoji": "💪",
+        "hindi": "आत्मविश्वासी",
+        "hinglish": "aatmavishvaasi"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P01.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Our ___ neighbour gave us mangoes.",
+      "answer": "generous",
+      "options": [
+        "generous",
+        "humble",
+        "selfish"
+      ],
+      "meaning": {
+        "hi": "दिलदार",
+        "hinglish": "dildaar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P01.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "loyal",
+        "emoji": "🐕",
+        "hindi": "वफ़ादार",
+        "hinglish": "wafaadaar"
+      },
+      "answer": {
+        "hi": "वफ़ादार",
+        "hinglish": "wafaadaar"
+      },
+      "options": [
+        {
+          "hi": "वफ़ादार",
+          "hinglish": "wafaadaar"
+        },
+        {
+          "hi": "आत्मविश्वासी",
+          "hinglish": "aatmavishvaasi"
+        },
+        {
+          "hi": "दृढ़ निश्चयी",
+          "hinglish": "dridh nishchayi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P01.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "It is ___ to eat all the sweets alone.",
+      "answer": "selfish",
+      "options": [
+        "selfish",
+        "responsible",
+        "generous"
+      ],
+      "meaning": {
+        "hi": "स्वार्थी",
+        "hinglish": "swaarthi"
+      }
+    }
+  ]
+}

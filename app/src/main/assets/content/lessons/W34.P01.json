@@ -1,0 +1,480 @@
+{
+  "id": "W34.P01",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P01.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: स्कूल का दिन। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: School ka din. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: School day. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P01.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "borrow",
+        "emoji": "📚",
+        "hindi": "उधार लेना",
+        "hinglish": "udhaar lena"
+      },
+      "meaning": "to take something for a short time and give it back",
+      "example": "Can I borrow your eraser?",
+      "exampleMeaning": {
+        "hi": "क्या मैं तुम्हारा रबड़ उधार ले सकता/सकती हूँ?",
+        "hinglish": "Kya main tumhara rabad udhaar le sakta/sakti hoon?"
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P01.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lend",
+        "emoji": "🤝",
+        "hindi": "उधार देना",
+        "hinglish": "udhaar dena"
+      },
+      "meaning": "to give something to someone for a short time",
+      "example": "Please lend me your ruler.",
+      "exampleMeaning": {
+        "hi": "प्लीज़ मुझे अपना स्केल उधार दो।",
+        "hinglish": "Please mujhe apna scale udhaar do."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P01.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "explain",
+        "emoji": "🧑‍🏫",
+        "hindi": "समझाना",
+        "hinglish": "samjhana"
+      },
+      "meaning": "to tell how or why so that someone understands",
+      "example": "The teacher will explain the sum again.",
+      "exampleMeaning": {
+        "hi": "टीचर यह सवाल फिर से समझाएँगे।",
+        "hinglish": "Teacher yeh sawaal phir se samjhayenge."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P01.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "answer",
+        "emoji": "🙋",
+        "hindi": "जवाब",
+        "hinglish": "jawaab"
+      },
+      "meaning": "what you say or write when someone asks",
+      "example": "I know the answer to this question.",
+      "exampleMeaning": {
+        "hi": "मुझे इस सवाल का जवाब पता है।",
+        "hinglish": "Mujhe is sawaal ka jawaab pata hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P01.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "practice",
+        "emoji": "✍️",
+        "hindi": "अभ्यास",
+        "hinglish": "abhyaas"
+      },
+      "meaning": "doing something again and again to get better",
+      "example": "Reading needs daily practice.",
+      "exampleMeaning": {
+        "hi": "पढ़ने के लिए रोज़ अभ्यास ज़रूरी है।",
+        "hinglish": "Padhne ke liye roz abhyaas zaroori hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P01.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "library",
+        "emoji": "📖",
+        "hindi": "पुस्तकालय",
+        "hinglish": "pustakaalay"
+      },
+      "meaning": "a room full of books you can read or take home",
+      "example": "Our school library has many story books.",
+      "exampleMeaning": {
+        "hi": "हमारे स्कूल की लाइब्रेरी में बहुत सारी कहानी की किताबें हैं।",
+        "hinglish": "Hamare school ki library mein bahut saari kahani ki kitaabein hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P01.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "timetable",
+        "emoji": "🗓️",
+        "hindi": "समय-सारणी",
+        "hinglish": "samay-saarni"
+      },
+      "meaning": "a list that shows what happens at what time",
+      "example": "Maths is first on our timetable today.",
+      "exampleMeaning": {
+        "hi": "आज हमारे टाइमटेबल में सबसे पहले गणित है।",
+        "hinglish": "Aaj hamare timetable mein sabse pehle ganit hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P01.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "absent",
+        "emoji": "🚫",
+        "hindi": "गैरहाज़िर",
+        "hinglish": "gairhaazir"
+      },
+      "meaning": "not present at a place",
+      "example": "Ravi was absent because he had a cold.",
+      "exampleMeaning": {
+        "hi": "रवि गैरहाज़िर था क्योंकि उसे सर्दी थी।",
+        "hinglish": "Ravi gairhaazir tha kyunki use sardi thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P01.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "neat",
+        "emoji": "✨",
+        "hindi": "साफ़-सुथरा",
+        "hinglish": "saaf-suthra"
+      },
+      "meaning": "clean and tidy",
+      "example": "Keep your notebook neat.",
+      "exampleMeaning": {
+        "hi": "अपनी कॉपी साफ़-सुथरी रखो।",
+        "hinglish": "Apni copy saaf-suthri rakho."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P01.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "remember",
+        "emoji": "🧠",
+        "hindi": "याद रखना",
+        "hinglish": "yaad rakhna"
+      },
+      "meaning": "to keep something in your mind",
+      "example": "Remember to bring your lunch box.",
+      "exampleMeaning": {
+        "hi": "अपना टिफ़िन लाना याद रखना।",
+        "hinglish": "Apna tiffin laana yaad rakhna."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P01.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Please ___ me your ruler.",
+      "answer": "lend",
+      "options": [
+        "lend",
+        "answer",
+        "timetable"
+      ],
+      "meaning": {
+        "hi": "उधार देना",
+        "hinglish": "udhaar dena"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P01.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Ravi was ___ because he had a cold.",
+      "answer": "absent",
+      "options": [
+        "absent",
+        "remember",
+        "lend"
+      ],
+      "meaning": {
+        "hi": "गैरहाज़िर",
+        "hinglish": "gairhaazir"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P01.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I know the ___ to this question.",
+      "answer": "answer",
+      "options": [
+        "answer",
+        "explain",
+        "absent"
+      ],
+      "meaning": {
+        "hi": "जवाब",
+        "hinglish": "jawaab"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P01.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "explain",
+        "emoji": "🧑‍🏫",
+        "hindi": "समझाना",
+        "hinglish": "samjhana"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P01.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "borrow",
+        "emoji": "📚",
+        "hindi": "उधार लेना",
+        "hinglish": "udhaar lena"
+      },
+      "answer": {
+        "hi": "उधार लेना",
+        "hinglish": "udhaar lena"
+      },
+      "options": [
+        {
+          "hi": "उधार लेना",
+          "hinglish": "udhaar lena"
+        },
+        {
+          "hi": "अभ्यास",
+          "hinglish": "abhyaas"
+        },
+        {
+          "hi": "जवाब",
+          "hinglish": "jawaab"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P01.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "neat",
+      "options": [
+        "neat",
+        "library",
+        "borrow"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P01.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Our school ___ has many story books.",
+      "answer": "library",
+      "options": [
+        "library",
+        "absent",
+        "practice"
+      ],
+      "meaning": {
+        "hi": "पुस्तकालय",
+        "hinglish": "pustakaalay"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P01.S19",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "borrow",
+        "emoji": "📚",
+        "hindi": "उधार लेना",
+        "hinglish": "udhaar lena"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P01.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "practice",
+        "emoji": "✍️",
+        "hindi": "अभ्यास",
+        "hinglish": "abhyaas"
+      },
+      "answer": {
+        "hi": "अभ्यास",
+        "hinglish": "abhyaas"
+      },
+      "options": [
+        {
+          "hi": "अभ्यास",
+          "hinglish": "abhyaas"
+        },
+        {
+          "hi": "पुस्तकालय",
+          "hinglish": "pustakaalay"
+        },
+        {
+          "hi": "जवाब",
+          "hinglish": "jawaab"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P01.S21",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "lend",
+        "emoji": "🤝",
+        "hindi": "उधार देना",
+        "hinglish": "udhaar dena"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P01.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "answer",
+        "emoji": "🙋",
+        "hindi": "जवाब",
+        "hinglish": "jawaab"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P01.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "explain",
+        "emoji": "🧑‍🏫",
+        "hindi": "समझाना",
+        "hinglish": "samjhana"
+      },
+      "answer": {
+        "hi": "समझाना",
+        "hinglish": "samjhana"
+      },
+      "options": [
+        {
+          "hi": "समझाना",
+          "hinglish": "samjhana"
+        },
+        {
+          "hi": "याद रखना",
+          "hinglish": "yaad rakhna"
+        },
+        {
+          "hi": "गैरहाज़िर",
+          "hinglish": "gairhaazir"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P01.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "remember",
+      "options": [
+        "remember",
+        "neat",
+        "practice"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P01.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "timetable",
+        "emoji": "🗓️",
+        "hindi": "समय-सारणी",
+        "hinglish": "samay-saarni"
+      },
+      "answer": {
+        "hi": "समय-सारणी",
+        "hinglish": "samay-saarni"
+      },
+      "options": [
+        {
+          "hi": "समय-सारणी",
+          "hinglish": "samay-saarni"
+        },
+        {
+          "hi": "उधार देना",
+          "hinglish": "udhaar dena"
+        },
+        {
+          "hi": "समझाना",
+          "hinglish": "samjhana"
+        }
+      ]
+    }
+  ]
+}

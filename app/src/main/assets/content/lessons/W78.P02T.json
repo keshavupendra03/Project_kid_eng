@@ -1,0 +1,189 @@
+{
+  "id": "W78.P02T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "W78.P02T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Our ___ planted trees together.",
+      "answer": "community",
+      "options": [
+        "community",
+        "rights",
+        "election"
+      ],
+      "meaning": {
+        "hi": "समुदाय",
+        "hinglish": "samudaay"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P02T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "vote",
+      "options": [
+        "vote",
+        "rights",
+        "duty"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P02T.S03",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "rights",
+        "emoji": "✋",
+        "hindi": "अधिकार",
+        "hinglish": "adhikaar"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P02T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "volunteer",
+        "emoji": "🙋",
+        "hindi": "स्वयंसेवक",
+        "hinglish": "swayamsevak"
+      },
+      "answer": {
+        "hi": "स्वयंसेवक",
+        "hinglish": "swayamsevak"
+      },
+      "options": [
+        {
+          "hi": "स्वयंसेवक",
+          "hinglish": "swayamsevak"
+        },
+        {
+          "hi": "नागरिक",
+          "hinglish": "naagrik"
+        },
+        {
+          "hi": "सरकार",
+          "hinglish": "sarkaar"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P02T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The government uses ___ money to build hospitals.",
+      "answer": "tax",
+      "options": [
+        "tax",
+        "community",
+        "rights"
+      ],
+      "meaning": {
+        "hi": "कर",
+        "hinglish": "kar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P02T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "law",
+      "options": [
+        "law",
+        "vote",
+        "duty"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P02T.S07",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "duty",
+        "emoji": "📋",
+        "hindi": "कर्तव्य",
+        "hinglish": "kartavya"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P02T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "government",
+        "emoji": "🏛️",
+        "hindi": "सरकार",
+        "hinglish": "sarkaar"
+      },
+      "answer": {
+        "hi": "सरकार",
+        "hinglish": "sarkaar"
+      },
+      "options": [
+        {
+          "hi": "सरकार",
+          "hinglish": "sarkaar"
+        },
+        {
+          "hi": "चुनाव",
+          "hinglish": "chunaav"
+        },
+        {
+          "hi": "मत देना",
+          "hinglish": "mat dena"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P02T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ will be held next month.",
+      "answer": "election",
+      "options": [
+        "election",
+        "duty",
+        "rights"
+      ],
+      "meaning": {
+        "hi": "चुनाव",
+        "hinglish": "chunaav"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P02T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "citizen",
+      "options": [
+        "citizen",
+        "tax",
+        "rights"
+      ]
+    }
+  ]
+}

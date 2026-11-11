@@ -1,0 +1,203 @@
+{
+  "id": "W78.P04T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "spell_word",
+      "id": "W78.P04T.S01",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "agreement",
+        "emoji": "🤝",
+        "hindi": "समझौता",
+        "hinglish": "samjhauta"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P04T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "education",
+        "emoji": "🎓",
+        "hindi": "शिक्षा",
+        "hinglish": "shiksha"
+      },
+      "answer": {
+        "hi": "शिक्षा",
+        "hinglish": "shiksha"
+      },
+      "options": [
+        {
+          "hi": "शिक्षा",
+          "hinglish": "shiksha"
+        },
+        {
+          "hi": "जानकारी",
+          "hinglish": "jaankaari"
+        },
+        {
+          "hi": "निमंत्रण",
+          "hinglish": "nimantran"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P04T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The guide gave us ___ about the fort.",
+      "answer": "information",
+      "options": [
+        "information",
+        "protection",
+        "invitation"
+      ],
+      "meaning": {
+        "hi": "जानकारी",
+        "hinglish": "jaankaari"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P04T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "achievement",
+      "options": [
+        "achievement",
+        "improvement",
+        "protection"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P04T.S05",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "movement",
+        "emoji": "🏃",
+        "hindi": "हलचल",
+        "hinglish": "halchal"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P04T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "invitation",
+        "emoji": "💌",
+        "hindi": "निमंत्रण",
+        "hinglish": "nimantran"
+      },
+      "answer": {
+        "hi": "निमंत्रण",
+        "hinglish": "nimantran"
+      },
+      "options": [
+        {
+          "hi": "निमंत्रण",
+          "hinglish": "nimantran"
+        },
+        {
+          "hi": "उपलब्धि",
+          "hinglish": "uplabdhi"
+        },
+        {
+          "hi": "सुरक्षा",
+          "hinglish": "suraksha"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P04T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "There is a big ___ in your handwriting.",
+      "answer": "improvement",
+      "options": [
+        "improvement",
+        "education",
+        "protection"
+      ],
+      "meaning": {
+        "hi": "सुधार",
+        "hinglish": "sudhaar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P04T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "celebration",
+      "options": [
+        "celebration",
+        "achievement",
+        "movement"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P04T.S09",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "decision",
+        "emoji": "🤔",
+        "hindi": "फ़ैसला",
+        "hinglish": "faisla"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P04T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "protection",
+        "emoji": "🛡️",
+        "hindi": "सुरक्षा",
+        "hinglish": "suraksha"
+      },
+      "answer": {
+        "hi": "सुरक्षा",
+        "hinglish": "suraksha"
+      },
+      "options": [
+        {
+          "hi": "सुरक्षा",
+          "hinglish": "suraksha"
+        },
+        {
+          "hi": "हलचल",
+          "hinglish": "halchal"
+        },
+        {
+          "hi": "फ़ैसला",
+          "hinglish": "faisla"
+        }
+      ]
+    }
+  ]
+}

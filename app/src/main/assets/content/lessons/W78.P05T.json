@@ -1,0 +1,207 @@
+{
+  "id": "W78.P05T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "match_meaning",
+      "id": "W78.P05T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "impatient",
+        "emoji": "⏰",
+        "hindi": "अधीर",
+        "hinglish": "adheer"
+      },
+      "answer": {
+        "hi": "अधीर",
+        "hinglish": "adheer"
+      },
+      "options": [
+        {
+          "hi": "अधीर",
+          "hinglish": "adheer"
+        },
+        {
+          "hi": "रखकर भूल जाना",
+          "hinglish": "rakhkar bhool jaana"
+        },
+        {
+          "hi": "गलत समझना",
+          "hinglish": "galat samajhna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P05T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Air is ___.",
+      "answer": "invisible",
+      "options": [
+        "invisible",
+        "misunderstand",
+        "incorrect"
+      ],
+      "meaning": {
+        "hi": "अदृश्य",
+        "hinglish": "adrishya"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P05T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "preview",
+      "options": [
+        "preview",
+        "impossible",
+        "incorrect"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P05T.S04",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "incorrect",
+        "emoji": "❌",
+        "hindi": "गलत",
+        "hinglish": "galat"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P05T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "misplace",
+        "emoji": "🔍",
+        "hindi": "रखकर भूल जाना",
+        "hinglish": "rakhkar bhool jaana"
+      },
+      "answer": {
+        "hi": "रखकर भूल जाना",
+        "hinglish": "rakhkar bhool jaana"
+      },
+      "options": [
+        {
+          "hi": "रखकर भूल जाना",
+          "hinglish": "rakhkar bhool jaana"
+        },
+        {
+          "hi": "असंभव",
+          "hinglish": "asambhav"
+        },
+        {
+          "hi": "झलक",
+          "hinglish": "jhalak"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P05T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Nothing is ___ if you keep trying.",
+      "answer": "impossible",
+      "options": [
+        "impossible",
+        "prepaid",
+        "overload"
+      ],
+      "meaning": {
+        "hi": "असंभव",
+        "hinglish": "asambhav"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P05T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "overcome",
+      "options": [
+        "overcome",
+        "invisible",
+        "impossible"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P05T.S08",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "misunderstand",
+        "emoji": "😕",
+        "hindi": "गलत समझना",
+        "hinglish": "galat samajhna"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P05T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "prepaid",
+        "emoji": "💳",
+        "hindi": "पहले से भुगतान किया",
+        "hinglish": "pehle se bhugtaan kiya"
+      },
+      "answer": {
+        "hi": "पहले से भुगतान किया",
+        "hinglish": "pehle se bhugtaan kiya"
+      },
+      "options": [
+        {
+          "hi": "पहले से भुगतान किया",
+          "hinglish": "pehle se bhugtaan kiya"
+        },
+        {
+          "hi": "गलत",
+          "hinglish": "galat"
+        },
+        {
+          "hi": "रखकर भूल जाना",
+          "hinglish": "rakhkar bhool jaana"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P05T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Do not ___ the auto with bags.",
+      "answer": "overload",
+      "options": [
+        "overload",
+        "prepaid",
+        "overcome"
+      ],
+      "meaning": {
+        "hi": "ज़्यादा भार",
+        "hinglish": "zyaada bhaar"
+      }
+    }
+  ]
+}

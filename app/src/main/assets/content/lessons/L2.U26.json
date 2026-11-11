@@ -86,8 +86,8 @@
       "answer": "Tuesday",
       "options": [
         "Tuesday",
-        "Thursday",
-        "Friday"
+        "Saturday",
+        "Monday"
       ]
     },
     {
@@ -146,12 +146,12 @@
           "hinglish": "budhvaar"
         },
         {
-          "hi": "शनिवार",
-          "hinglish": "shanivaar"
+          "hi": "रविवार",
+          "hinglish": "ravivaar"
         },
         {
-          "hi": "सोमवार",
-          "hinglish": "somvaar"
+          "hi": "शुक्रवार",
+          "hinglish": "shukravaar"
         }
       ]
     },
@@ -165,8 +165,8 @@
       "answer": "Thursday",
       "options": [
         "Thursday",
-        "Sunday",
-        "Friday"
+        "Tuesday",
+        "Wednesday"
       ]
     },
     {
@@ -225,8 +225,8 @@
           "hinglish": "shukravaar"
         },
         {
-          "hi": "गुरुवार",
-          "hinglish": "guruvaar"
+          "hi": "रविवार",
+          "hinglish": "ravivaar"
         },
         {
           "hi": "सोमवार",
@@ -245,7 +245,7 @@
       "options": [
         "Saturday",
         "Tuesday",
-        "Wednesday"
+        "Sunday"
       ]
     },
     {
@@ -291,8 +291,8 @@
           "hinglish": "shanivaar"
         },
         {
-          "hi": "सोमवार",
-          "hinglish": "somvaar"
+          "hi": "मंगलवार",
+          "hinglish": "mangalvaar"
         }
       ]
     },
@@ -318,12 +318,12 @@
           "hinglish": "mangalvaar"
         },
         {
-          "hi": "बुधवार",
-          "hinglish": "budhvaar"
-        },
-        {
           "hi": "रविवार",
           "hinglish": "ravivaar"
+        },
+        {
+          "hi": "बुधवार",
+          "hinglish": "budhvaar"
         }
       ]
     },
@@ -335,46 +335,72 @@
         "vocab.time"
       ],
       "word": {
-        "english": "Friday",
-        "hindi": "शुक्रवार",
-        "hinglish": "shukravaar"
+        "english": "Saturday",
+        "hindi": "शनिवार",
+        "hinglish": "shanivaar"
       },
       "answer": {
-        "hi": "शुक्रवार",
-        "hinglish": "shukravaar"
+        "hi": "शनिवार",
+        "hinglish": "shanivaar"
       },
       "options": [
         {
+          "hi": "शनिवार",
+          "hinglish": "shanivaar"
+        },
+        {
+          "hi": "सोमवार",
+          "hinglish": "somvaar"
+        },
+        {
           "hi": "शुक्रवार",
           "hinglish": "shukravaar"
-        },
-        {
-          "hi": "रविवार",
-          "hinglish": "ravivaar"
-        },
-        {
-          "hi": "मंगलवार",
-          "hinglish": "mangalvaar"
         }
       ]
     },
     {
-      "type": "listen_read",
+      "type": "say_word",
       "id": "L2.U26.S18",
+      "skills": [
+        "speak.word",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "Monday",
+        "hindi": "सोमवार",
+        "hinglish": "somvaar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U26.S19",
+      "skills": [
+        "speak.word",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "Friday",
+        "hindi": "शुक्रवार",
+        "hinglish": "shukravaar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U26.S20",
       "skills": [
         "read.word",
         "vocab.time"
       ],
-      "answer": "Tuesday",
+      "answer": "Sunday",
       "options": [
-        "Tuesday",
         "Sunday",
-        "Wednesday"
+        "Wednesday",
+        "Saturday"
       ]
     },
     {
       "type": "learn_card",
-      "id": "L2.U26.S19",
+      "id": "L2.U26.S21",
       "text": {
         "hi": "शाबाश! आज के नए शब्द: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday।",
         "hinglish": "Shabaash! Aaj ke naye shabd: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.",

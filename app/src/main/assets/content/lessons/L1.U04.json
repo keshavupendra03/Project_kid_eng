@@ -23,7 +23,7 @@
       "text": {
         "hi": "यह ‘m’ है। इसकी आवाज़ है ‘म’, जैसे monkey में।",
         "hinglish": "Yeh ‘m’ hai. Iski awaaz hai ‘m’, jaise monkey mein.",
-        "en": "This is ‘m’. Listen to its sound, like at the start of monkey."
+        "en": "This is ‘m’. Listen to its sound, as in monkey."
       },
       "example": {
         "english": "monkey",
@@ -44,7 +44,7 @@
       "text": {
         "hi": "यह ‘d’ है। इसकी आवाज़ है ‘ड’, जैसे duck में।",
         "hinglish": "Yeh ‘d’ hai. Iski awaaz hai ‘d’, jaise duck mein.",
-        "en": "This is ‘d’. Listen to its sound, like at the start of duck."
+        "en": "This is ‘d’. Listen to its sound, as in duck."
       },
       "example": {
         "english": "duck",
@@ -88,7 +88,7 @@
       "text": {
         "hi": "यह ‘g’ है। इसकी आवाज़ है ‘ग’, जैसे goat में।",
         "hinglish": "Yeh ‘g’ hai. Iski awaaz hai ‘g’, jaise goat mein.",
-        "en": "This is ‘g’. Listen to its sound, like at the start of goat."
+        "en": "This is ‘g’. Listen to its sound, as in goat."
       },
       "example": {
         "english": "goat",
@@ -109,7 +109,7 @@
       "text": {
         "hi": "यह ‘o’ है। इसकी आवाज़ है ‘ऑ’, जैसे octopus में।",
         "hinglish": "Yeh ‘o’ hai. Iski awaaz hai ‘o’, jaise octopus mein.",
-        "en": "This is ‘o’. Listen to its sound, like at the start of octopus."
+        "en": "This is ‘o’. Listen to its sound, as in octopus."
       },
       "example": {
         "english": "octopus",
@@ -228,18 +228,17 @@
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L1.U04.S12",
       "skills": [
         "read.word",
         "phonics.blend"
       ],
-      "emoji": "👨",
       "answer": "man",
       "options": [
         "man",
         "dog",
-        "map"
+        "pig"
       ]
     },
     {
@@ -301,8 +300,8 @@
       "answer": "pig",
       "options": [
         "pig",
-        "dog",
-        "map"
+        "man",
+        "dog"
       ]
     },
     {

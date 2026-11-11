@@ -1,0 +1,480 @@
+{
+  "id": "W56.P11",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P11.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: गहरी भावनाएँ। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Gehri bhaavnaayein. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Deeper feelings. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P11.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "anxious",
+        "emoji": "😰",
+        "hindi": "बेचैन",
+        "hinglish": "bechain"
+      },
+      "meaning": "worried and nervous",
+      "example": "I felt anxious before the exam.",
+      "exampleMeaning": {
+        "hi": "परीक्षा से पहले मुझे बेचैनी हो रही थी।",
+        "hinglish": "Pareeksha se pehle mujhe bechaini ho rahi thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P11.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "grateful",
+        "emoji": "🙏",
+        "hindi": "कृतज्ञ",
+        "hinglish": "kritagya"
+      },
+      "meaning": "thankful for what someone did",
+      "example": "I am grateful to my teacher.",
+      "exampleMeaning": {
+        "hi": "मैं अपने टीचर का आभारी हूँ।",
+        "hinglish": "Main apne teacher ka aabhaari hoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P11.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "jealous",
+        "emoji": "😒",
+        "hindi": "जलन वाला",
+        "hinglish": "jalan waala"
+      },
+      "meaning": "unhappy because someone has what you want",
+      "example": "He was jealous of his friend's new bike.",
+      "exampleMeaning": {
+        "hi": "उसे अपने दोस्त की नई साइकिल से जलन हुई।",
+        "hinglish": "Use apne dost ki nayi cycle se jalan hui."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P11.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "embarrassed",
+        "emoji": "😳",
+        "hindi": "शर्मिंदा",
+        "hinglish": "sharminda"
+      },
+      "meaning": "feeling shy because of a silly mistake",
+      "example": "I was embarrassed when I fell on the stage.",
+      "exampleMeaning": {
+        "hi": "स्टेज पर गिरने पर मुझे शर्मिंदगी हुई।",
+        "hinglish": "Stage par girne par mujhe sharmindagi hui."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P11.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "confused",
+        "emoji": "😕",
+        "hindi": "उलझन में",
+        "hinglish": "uljhan mein"
+      },
+      "meaning": "not able to understand",
+      "example": "The new sum made me confused.",
+      "exampleMeaning": {
+        "hi": "नए सवाल ने मुझे उलझन में डाल दिया।",
+        "hinglish": "Naye sawaal ne mujhe uljhan mein daal diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P11.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "disappointed",
+        "emoji": "😞",
+        "hindi": "निराश",
+        "hinglish": "niraash"
+      },
+      "meaning": "sad because something did not happen",
+      "example": "We were disappointed when the trip was cancelled.",
+      "exampleMeaning": {
+        "hi": "ट्रिप रद्द होने पर हम निराश हो गए।",
+        "hinglish": "Trip radd hone par hum niraash ho gaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P11.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "relieved",
+        "emoji": "😌",
+        "hindi": "राहत",
+        "hinglish": "raahat"
+      },
+      "meaning": "happy that a worry has gone",
+      "example": "I was relieved to find my lost bag.",
+      "exampleMeaning": {
+        "hi": "खोया बस्ता मिलने पर मुझे राहत मिली।",
+        "hinglish": "Khoya basta milne par mujhe raahat mili."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P11.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "frightened",
+        "emoji": "😨",
+        "hindi": "डरा हुआ",
+        "hinglish": "dara hua"
+      },
+      "meaning": "very afraid",
+      "example": "The loud noise frightened the baby.",
+      "exampleMeaning": {
+        "hi": "तेज़ आवाज़ से बच्चा डर गया।",
+        "hinglish": "Tez awaaz se bachcha dar gaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P11.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "cheerful",
+        "emoji": "😄",
+        "hindi": "खुशमिज़ाज",
+        "hinglish": "khushmizaaj"
+      },
+      "meaning": "happy and full of smiles",
+      "example": "Our cheerful teacher makes class fun.",
+      "exampleMeaning": {
+        "hi": "हमारे खुशमिज़ाज टीचर क्लास को मज़ेदार बना देते हैं।",
+        "hinglish": "Hamare khushmizaaj teacher class ko mazedaar bana dete hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P11.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "furious",
+        "emoji": "😡",
+        "hindi": "बहुत गुस्सा",
+        "hinglish": "bahut gussa"
+      },
+      "meaning": "very, very angry",
+      "example": "The king was furious with the thief.",
+      "exampleMeaning": {
+        "hi": "राजा चोर पर बहुत गुस्सा था।",
+        "hinglish": "Raja chor par bahut gussa tha."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P11.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "relieved",
+        "emoji": "😌",
+        "hindi": "राहत",
+        "hinglish": "raahat"
+      },
+      "answer": {
+        "hi": "राहत",
+        "hinglish": "raahat"
+      },
+      "options": [
+        {
+          "hi": "राहत",
+          "hinglish": "raahat"
+        },
+        {
+          "hi": "कृतज्ञ",
+          "hinglish": "kritagya"
+        },
+        {
+          "hi": "बेचैन",
+          "hinglish": "bechain"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P11.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "confused",
+        "emoji": "😕",
+        "hindi": "उलझन में",
+        "hinglish": "uljhan mein"
+      },
+      "answer": {
+        "hi": "उलझन में",
+        "hinglish": "uljhan mein"
+      },
+      "options": [
+        {
+          "hi": "उलझन में",
+          "hinglish": "uljhan mein"
+        },
+        {
+          "hi": "खुशमिज़ाज",
+          "hinglish": "khushmizaaj"
+        },
+        {
+          "hi": "बेचैन",
+          "hinglish": "bechain"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P11.S14",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "anxious",
+        "emoji": "😰",
+        "hindi": "बेचैन",
+        "hinglish": "bechain"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P11.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "embarrassed",
+        "emoji": "😳",
+        "hindi": "शर्मिंदा",
+        "hinglish": "sharminda"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P11.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "furious",
+      "options": [
+        "furious",
+        "grateful",
+        "cheerful"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P11.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "anxious",
+        "emoji": "😰",
+        "hindi": "बेचैन",
+        "hinglish": "bechain"
+      },
+      "answer": {
+        "hi": "बेचैन",
+        "hinglish": "bechain"
+      },
+      "options": [
+        {
+          "hi": "बेचैन",
+          "hinglish": "bechain"
+        },
+        {
+          "hi": "बहुत गुस्सा",
+          "hinglish": "bahut gussa"
+        },
+        {
+          "hi": "डरा हुआ",
+          "hinglish": "dara hua"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P11.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I was ___ when I fell on the stage.",
+      "answer": "embarrassed",
+      "options": [
+        "embarrassed",
+        "anxious",
+        "confused"
+      ],
+      "meaning": {
+        "hi": "शर्मिंदा",
+        "hinglish": "sharminda"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P11.S19",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "grateful",
+        "emoji": "🙏",
+        "hindi": "कृतज्ञ",
+        "hinglish": "kritagya"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P11.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I am ___ to my teacher.",
+      "answer": "grateful",
+      "options": [
+        "grateful",
+        "embarrassed",
+        "disappointed"
+      ],
+      "meaning": {
+        "hi": "कृतज्ञ",
+        "hinglish": "kritagya"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P11.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "cheerful",
+      "options": [
+        "cheerful",
+        "frightened",
+        "confused"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P11.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "jealous",
+        "emoji": "😒",
+        "hindi": "जलन वाला",
+        "hinglish": "jalan waala"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P11.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "jealous",
+        "emoji": "😒",
+        "hindi": "जलन वाला",
+        "hinglish": "jalan waala"
+      },
+      "answer": {
+        "hi": "जलन वाला",
+        "hinglish": "jalan waala"
+      },
+      "options": [
+        {
+          "hi": "जलन वाला",
+          "hinglish": "jalan waala"
+        },
+        {
+          "hi": "बहुत गुस्सा",
+          "hinglish": "bahut gussa"
+        },
+        {
+          "hi": "निराश",
+          "hinglish": "niraash"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P11.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We were ___ when the trip was cancelled.",
+      "answer": "disappointed",
+      "options": [
+        "disappointed",
+        "frightened",
+        "furious"
+      ],
+      "meaning": {
+        "hi": "निराश",
+        "hinglish": "niraash"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P11.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The loud noise ___ the baby.",
+      "answer": "frightened",
+      "options": [
+        "frightened",
+        "grateful",
+        "confused"
+      ],
+      "meaning": {
+        "hi": "डरा हुआ",
+        "hinglish": "dara hua"
+      }
+    }
+  ]
+}

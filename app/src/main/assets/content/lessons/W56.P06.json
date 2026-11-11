@@ -1,0 +1,480 @@
+{
+  "id": "W56.P06",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P06.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: यात्रा। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Yaatra. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Travel. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P06.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "journey",
+        "emoji": "🧳",
+        "hindi": "सफ़र",
+        "hinglish": "safar"
+      },
+      "meaning": "travelling from one place to another",
+      "example": "The journey to Shimla took two days.",
+      "exampleMeaning": {
+        "hi": "शिमला का सफ़र दो दिन का था।",
+        "hinglish": "Shimla ka safar do din ka tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P06.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "passenger",
+        "emoji": "🧑‍💼",
+        "hindi": "यात्री",
+        "hinglish": "yaatri"
+      },
+      "meaning": "a person travelling in a bus, train or plane",
+      "example": "Every passenger must wear a seat belt.",
+      "exampleMeaning": {
+        "hi": "हर यात्री को सीट बेल्ट लगानी चाहिए।",
+        "hinglish": "Har yaatri ko seat belt lagaani chahiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P06.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "ticket",
+        "emoji": "🎫",
+        "hindi": "टिकट",
+        "hinglish": "ticket"
+      },
+      "meaning": "a paper that lets you travel or enter",
+      "example": "Show your ticket to the conductor.",
+      "exampleMeaning": {
+        "hi": "कंडक्टर को अपना टिकट दिखाओ।",
+        "hinglish": "Conductor ko apna ticket dikhao."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P06.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "luggage",
+        "emoji": "👜",
+        "hindi": "सामान",
+        "hinglish": "saamaan"
+      },
+      "meaning": "the bags you take on a journey",
+      "example": "Our luggage was very heavy.",
+      "exampleMeaning": {
+        "hi": "हमारा सामान बहुत भारी था।",
+        "hinglish": "Hamara saamaan bahut bhaari tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P06.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "destination",
+        "emoji": "📍",
+        "hindi": "मंज़िल",
+        "hinglish": "manzil"
+      },
+      "meaning": "the place you are travelling to",
+      "example": "Goa was our destination.",
+      "exampleMeaning": {
+        "hi": "गोवा हमारी मंज़िल थी।",
+        "hinglish": "Goa hamari manzil thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P06.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "vehicle",
+        "emoji": "🚗",
+        "hindi": "वाहन",
+        "hinglish": "vaahan"
+      },
+      "meaning": "a car, bus, truck or bike",
+      "example": "Park the vehicle in the parking area.",
+      "exampleMeaning": {
+        "hi": "वाहन को पार्किंग में खड़ा करो।",
+        "hinglish": "Vaahan ko parking mein khada karo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P06.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "traffic",
+        "emoji": "🚦",
+        "hindi": "यातायात",
+        "hinglish": "yaataayaat"
+      },
+      "meaning": "cars and buses moving on a road",
+      "example": "There is heavy traffic in the evening.",
+      "exampleMeaning": {
+        "hi": "शाम को बहुत ट्रैफ़िक होता है।",
+        "hinglish": "Shaam ko bahut traffic hota hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P06.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "platform",
+        "emoji": "🚉",
+        "hindi": "प्लेटफ़ॉर्म",
+        "hinglish": "platform"
+      },
+      "meaning": "the place at a station where you get on a train",
+      "example": "The train will arrive on platform two.",
+      "exampleMeaning": {
+        "hi": "ट्रेन प्लेटफ़ॉर्म दो पर आएगी।",
+        "hinglish": "Train platform do par aayegi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P06.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "map",
+        "emoji": "🗺️",
+        "hindi": "नक्शा",
+        "hinglish": "naksha"
+      },
+      "meaning": "a picture that shows places and roads",
+      "example": "We used a map to find the fort.",
+      "exampleMeaning": {
+        "hi": "किला ढूँढने के लिए हमने नक्शे का इस्तेमाल किया।",
+        "hinglish": "Kila dhoondhne ke liye humne nakshe ka istemaal kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P06.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "delay",
+        "emoji": "⏳",
+        "hindi": "देरी",
+        "hinglish": "deri"
+      },
+      "meaning": "when something happens later than planned",
+      "example": "The rain caused a delay.",
+      "exampleMeaning": {
+        "hi": "बारिश की वजह से देरी हो गई।",
+        "hinglish": "Baarish ki wajah se deri ho gayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P06.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The train will arrive on ___ two.",
+      "answer": "platform",
+      "options": [
+        "platform",
+        "passenger",
+        "traffic"
+      ],
+      "meaning": {
+        "hi": "प्लेटफ़ॉर्म",
+        "hinglish": "platform"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P06.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "ticket",
+        "emoji": "🎫",
+        "hindi": "टिकट",
+        "hinglish": "ticket"
+      },
+      "answer": {
+        "hi": "टिकट",
+        "hinglish": "ticket"
+      },
+      "options": [
+        {
+          "hi": "टिकट",
+          "hinglish": "ticket"
+        },
+        {
+          "hi": "यातायात",
+          "hinglish": "yaataayaat"
+        },
+        {
+          "hi": "प्लेटफ़ॉर्म",
+          "hinglish": "platform"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P06.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "destination",
+        "emoji": "📍",
+        "hindi": "मंज़िल",
+        "hinglish": "manzil"
+      },
+      "answer": {
+        "hi": "मंज़िल",
+        "hinglish": "manzil"
+      },
+      "options": [
+        {
+          "hi": "मंज़िल",
+          "hinglish": "manzil"
+        },
+        {
+          "hi": "प्लेटफ़ॉर्म",
+          "hinglish": "platform"
+        },
+        {
+          "hi": "सामान",
+          "hinglish": "saamaan"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P06.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Park the ___ in the parking area.",
+      "answer": "vehicle",
+      "options": [
+        "vehicle",
+        "platform",
+        "passenger"
+      ],
+      "meaning": {
+        "hi": "वाहन",
+        "hinglish": "vaahan"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P06.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Every ___ must wear a seat belt.",
+      "answer": "passenger",
+      "options": [
+        "passenger",
+        "traffic",
+        "destination"
+      ],
+      "meaning": {
+        "hi": "यात्री",
+        "hinglish": "yaatri"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P06.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "journey",
+        "emoji": "🧳",
+        "hindi": "सफ़र",
+        "hinglish": "safar"
+      },
+      "answer": {
+        "hi": "सफ़र",
+        "hinglish": "safar"
+      },
+      "options": [
+        {
+          "hi": "सफ़र",
+          "hinglish": "safar"
+        },
+        {
+          "hi": "नक्शा",
+          "hinglish": "naksha"
+        },
+        {
+          "hi": "सामान",
+          "hinglish": "saamaan"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P06.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "delay",
+      "options": [
+        "delay",
+        "luggage",
+        "ticket"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P06.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Our ___ was very heavy.",
+      "answer": "luggage",
+      "options": [
+        "luggage",
+        "destination",
+        "platform"
+      ],
+      "meaning": {
+        "hi": "सामान",
+        "hinglish": "saamaan"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P06.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "traffic",
+        "emoji": "🚦",
+        "hindi": "यातायात",
+        "hinglish": "yaataayaat"
+      },
+      "answer": {
+        "hi": "यातायात",
+        "hinglish": "yaataayaat"
+      },
+      "options": [
+        {
+          "hi": "यातायात",
+          "hinglish": "yaataayaat"
+        },
+        {
+          "hi": "सामान",
+          "hinglish": "saamaan"
+        },
+        {
+          "hi": "मंज़िल",
+          "hinglish": "manzil"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P06.S21",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "luggage",
+        "emoji": "👜",
+        "hindi": "सामान",
+        "hinglish": "saamaan"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P06.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "ticket",
+        "emoji": "🎫",
+        "hindi": "टिकट",
+        "hinglish": "ticket"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P06.S23",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "journey",
+        "emoji": "🧳",
+        "hindi": "सफ़र",
+        "hinglish": "safar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P06.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "map",
+      "options": [
+        "map",
+        "luggage",
+        "platform"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P06.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "passenger",
+        "emoji": "🧑‍💼",
+        "hindi": "यात्री",
+        "hinglish": "yaatri"
+      }
+    }
+  ]
+}

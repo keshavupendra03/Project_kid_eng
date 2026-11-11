@@ -1,0 +1,34 @@
+{
+  "_about": "Rules for picture questions (listen and tap the picture, see the picture and pick the word). Used by generate.py and checked by ContentValidationTest. 'kinds': a general word and the words that are a kind of it; they never appear together in one picture question, because both answers would be right (a parrot is a bird). 'noPicture': words no picture can show without doubt; they are asked by sound and spelling instead. A picture shared by two words (👂 ear, hear, listen) is also never used for a picture question.",
+  "kinds": {
+    "animal": ["dog", "cat", "cow", "horse", "goat", "hen", "duck", "fish", "lion", "tiger", "elephant", "monkey", "bear", "snake", "camel", "rabbit", "bird", "parrot", "peacock", "butterfly", "ant", "bee", "frog", "mouse", "sheep", "pig", "donkey", "buffalo", "deer", "fox", "wolf", "giraffe", "crocodile", "turtle", "whale", "shark", "owl", "pigeon", "crow", "eagle", "spider", "mosquito", "fly", "snail", "worm", "lizard", "cockroach", "bat", "insect", "cat"],
+    "bird": ["parrot", "peacock", "owl", "pigeon", "crow", "eagle", "hen", "duck", "sparrow"],
+    "insect": ["ant", "bee", "butterfly", "mosquito", "fly", "cockroach", "spider", "ladybird"],
+    "fish": ["shark", "whale"],
+    "fruit": ["apple", "banana", "mango", "grapes", "orange", "watermelon", "pineapple", "coconut", "lemon", "guava", "papaya", "pomegranate", "cherry", "strawberry", "peach", "pear"],
+    "vegetable": ["potato", "tomato", "onion", "corn", "chilli", "cucumber", "carrot", "garlic", "cabbage", "cauliflower", "peas", "spinach", "brinjal", "pumpkin", "radish", "ginger"],
+    "food": ["apple", "banana", "mango", "grapes", "orange", "watermelon", "pineapple", "coconut", "lemon", "guava", "papaya", "pomegranate", "cherry", "strawberry", "peach", "pear", "potato", "tomato", "onion", "corn", "chilli", "cucumber", "carrot", "garlic", "cabbage", "cauliflower", "peas", "spinach", "brinjal", "pumpkin", "radish", "ginger", "rice", "bread", "milk", "egg", "honey", "butter", "curd", "lentils", "meat", "sweets", "cake", "chips", "jam", "fruit", "vegetable"],
+    "flower": ["rose", "lotus", "sunflower"],
+    "tree": ["mango tree", "palm"],
+    "family": ["mother", "father", "sister", "brother", "baby", "grandmother", "grandfather", "son", "daughter", "uncle", "aunt", "cousin", "husband", "wife"],
+    "people": ["man", "woman", "boy", "girl", "child", "baby", "friend", "farmer", "nurse", "soldier", "singer", "pilot", "tailor", "postman", "barber", "doctor"],
+    "vehicle": ["car", "truck", "auto", "scooter", "motorbike", "boat", "ship", "plane", "bus", "cycle", "train"],
+    "money": ["coin", "rupee"],
+    "colour": ["red", "blue", "green", "yellow", "black", "white", "brown", "pink", "grey", "purple", "gold", "silver"],
+    "clothes": ["shirt", "jeans", "dress", "cap", "shoes", "socks", "coat", "saree", "belt", "tie", "scarf", "gloves", "sweater", "shorts", "hat"]
+  },
+  "noPicture": [
+    "this", "that", "these", "those", "here", "there", "look", "see",
+    "big", "small", "tall", "short", "long", "fast", "slow", "hot", "cold", "new", "old", "good", "bad", "easy", "hard",
+    "near", "far", "up", "down", "left", "right", "inside", "outside", "full", "empty", "loud", "quiet", "rich", "poor", "wet", "dry", "heavy",
+    "happy", "sad", "angry", "scared", "tired", "sick", "surprised", "sleepy", "love", "fear", "proud", "shy", "brave", "kind", "lazy", "clever", "hungry",
+    "sweet", "sour", "bitter", "spicy",
+    "think", "know", "understand", "learn", "teach", "help", "wait", "find", "come", "go", "give", "take", "make", "ask", "tell", "speak", "talk", "listen", "hear",
+    "today", "tomorrow", "yesterday", "now", "later", "always", "never", "day", "week", "month", "year", "hour", "minute",
+    "many", "few", "all", "first", "second", "third", "half",
+    "question", "answer", "story", "word", "meaning", "name", "sentence", "language", "number", "picture", "line",
+    "yes", "no", "please", "sorry", "thanks", "welcome",
+    "people", "family", "friend", "guest", "neighbour", "cousin", "child",
+    "food", "colour", "money"
+  ]
+}

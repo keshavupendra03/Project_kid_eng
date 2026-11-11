@@ -1,0 +1,139 @@
+{
+  "id": "R2.P01",
+  "level": 102,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R2.P01.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Going to School’ (स्कूल चलो)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Going to School’ (School chalo). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Going to School’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P01.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘school’ मतलब स्कूल। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘school’ matlab school. Chhookar suno, phir bolo.",
+        "en": "‘school’ means स्कूल. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "school",
+        "emoji": "🏫",
+        "hindi": "स्कूल",
+        "hinglish": "school"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P01.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘friend’ मतलब दोस्त। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘friend’ matlab dost. Chhookar suno, phir bolo.",
+        "en": "‘friend’ means दोस्त. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "friend",
+        "emoji": "🧑‍🤝‍🧑",
+        "hindi": "दोस्त",
+        "hinglish": "dost"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P01.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘walk’ मतलब पैदल चलना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘walk’ matlab paidal chalna. Chhookar suno, phir bolo.",
+        "en": "‘walk’ means पैदल चलना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "walk",
+        "emoji": "🚶",
+        "hindi": "पैदल चलना",
+        "hinglish": "paidal chalna"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R2.P01.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "स्कूल चलो",
+        "hinglish": "School chalo",
+        "en": "Going to School"
+      },
+      "sentences": [
+        "Asha goes to school.",
+        "She has a red bag.",
+        "Her friend Ravi is with her.",
+        "They walk to school.",
+        "They are happy."
+      ],
+      "words": [
+        {
+          "english": "school",
+          "emoji": "🏫",
+          "hindi": "स्कूल",
+          "hinglish": "school"
+        },
+        {
+          "english": "friend",
+          "emoji": "🧑‍🤝‍🧑",
+          "hindi": "दोस्त",
+          "hinglish": "dost"
+        },
+        {
+          "english": "walk",
+          "emoji": "🚶",
+          "hindi": "पैदल चलना",
+          "hinglish": "paidal chalna"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P01.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "आशा के साथ कौन है?",
+        "hinglish": "Asha ke saath kaun hai?",
+        "en": "Who is with Asha?"
+      },
+      "options": [
+        "Ravi",
+        "Raj",
+        "Dev"
+      ],
+      "answer": "Ravi"
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P01.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "वे स्कूल कैसे जाते हैं?",
+        "hinglish": "Woh school kaise jaate hain?",
+        "en": "How do they go to school?"
+      },
+      "options": [
+        "they walk",
+        "by bus",
+        "by train"
+      ],
+      "answer": "they walk"
+    }
+  ]
+}

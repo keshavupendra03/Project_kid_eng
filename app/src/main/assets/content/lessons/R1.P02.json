@@ -1,0 +1,138 @@
+{
+  "id": "R1.P02",
+  "level": 101,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R1.P02.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Dev and the Dog’ (देव और कुत्ता)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Dev and the Dog’ (Dev aur kutta). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Dev and the Dog’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P02.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘dog’ मतलब कुत्ता। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘dog’ matlab kutta. Chhookar suno, phir bolo.",
+        "en": "‘dog’ means कुत्ता. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "dog",
+        "emoji": "🐶",
+        "hindi": "कुत्ता",
+        "hinglish": "kutta"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P02.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘big’ मतलब बड़ा। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘big’ matlab bada. Chhookar suno, phir bolo.",
+        "en": "‘big’ means बड़ा. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "big",
+        "emoji": "🐘",
+        "hindi": "बड़ा",
+        "hinglish": "bada"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P02.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘run’ मतलब दौड़ना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘run’ matlab daudna. Chhookar suno, phir bolo.",
+        "en": "‘run’ means दौड़ना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "run",
+        "emoji": "🏃",
+        "hindi": "दौड़ना",
+        "hinglish": "daudna"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R1.P02.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "देव और कुत्ता",
+        "hinglish": "Dev aur kutta",
+        "en": "Dev and the Dog"
+      },
+      "sentences": [
+        "Dev has a dog.",
+        "The dog is big.",
+        "The dog can run.",
+        "Run, dog, run!"
+      ],
+      "words": [
+        {
+          "english": "dog",
+          "emoji": "🐶",
+          "hindi": "कुत्ता",
+          "hinglish": "kutta"
+        },
+        {
+          "english": "big",
+          "emoji": "🐘",
+          "hindi": "बड़ा",
+          "hinglish": "bada"
+        },
+        {
+          "english": "run",
+          "emoji": "🏃",
+          "hindi": "दौड़ना",
+          "hinglish": "daudna"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P02.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "कुत्ता कैसा है?",
+        "hinglish": "Kutta kaisa hai?",
+        "en": "How is the dog?"
+      },
+      "options": [
+        "big",
+        "sad",
+        "wet"
+      ],
+      "answer": "big"
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P02.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "कुत्ता क्या कर सकता है?",
+        "hinglish": "Kutta kya kar sakta hai?",
+        "en": "What can the dog do?"
+      },
+      "options": [
+        "run",
+        "read",
+        "cook"
+      ],
+      "answer": "run"
+    }
+  ]
+}

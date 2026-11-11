@@ -290,8 +290,22 @@
       }
     },
     {
-      "type": "learn_card",
+      "type": "teach_tinku",
       "id": "L3.U15.S13",
+      "skills": [
+        "speak.sentence",
+        "grammar.simple_present"
+      ],
+      "wrong": "She play with her doll.",
+      "answer": "She plays with her doll.",
+      "meaning": {
+        "hi": "वह अपनी गुड़िया से खेलती है।",
+        "hinglish": "Woh apni gudiya se khelti hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U15.S14",
       "text": {
         "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
         "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",

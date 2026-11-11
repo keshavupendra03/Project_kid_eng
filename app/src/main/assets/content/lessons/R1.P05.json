@@ -1,0 +1,138 @@
+{
+  "id": "R1.P05",
+  "level": 101,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R1.P05.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘My Pen’ (मेरा पेन)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘My Pen’ (Mera pen). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘My Pen’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P05.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘pen’ मतलब पेन। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘pen’ matlab pen. Chhookar suno, phir bolo.",
+        "en": "‘pen’ means पेन. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "pen",
+        "emoji": "🖊️",
+        "hindi": "पेन",
+        "hinglish": "pen"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P05.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘bag’ मतलब बस्ता। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘bag’ matlab basta. Chhookar suno, phir bolo.",
+        "en": "‘bag’ means बस्ता. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "bag",
+        "emoji": "🎒",
+        "hindi": "बस्ता",
+        "hinglish": "basta"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R1.P05.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘like’ मतलब पसंद करना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘like’ matlab pasand karna. Chhookar suno, phir bolo.",
+        "en": "‘like’ means पसंद करना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "like",
+        "emoji": "❤️",
+        "hindi": "पसंद करना",
+        "hinglish": "pasand karna"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R1.P05.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "मेरा पेन",
+        "hinglish": "Mera pen",
+        "en": "My Pen"
+      },
+      "sentences": [
+        "I have a pen.",
+        "The pen is red.",
+        "It is in my bag.",
+        "I like my pen."
+      ],
+      "words": [
+        {
+          "english": "pen",
+          "emoji": "🖊️",
+          "hindi": "पेन",
+          "hinglish": "pen"
+        },
+        {
+          "english": "bag",
+          "emoji": "🎒",
+          "hindi": "बस्ता",
+          "hinglish": "basta"
+        },
+        {
+          "english": "like",
+          "emoji": "❤️",
+          "hindi": "पसंद करना",
+          "hinglish": "pasand karna"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P05.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "पेन कहाँ है?",
+        "hinglish": "Pen kahan hai?",
+        "en": "Where is the pen?"
+      },
+      "options": [
+        "in my bag",
+        "on a mat",
+        "on the bus"
+      ],
+      "answer": "in my bag"
+    },
+    {
+      "type": "story_question",
+      "id": "R1.P05.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "पेन किस रंग का है?",
+        "hinglish": "Pen kis rang ka hai?",
+        "en": "What colour is the pen?"
+      },
+      "options": [
+        "red",
+        "black",
+        "green"
+      ],
+      "answer": "red"
+    }
+  ]
+}

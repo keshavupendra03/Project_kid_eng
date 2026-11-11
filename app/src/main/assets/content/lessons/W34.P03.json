@@ -1,0 +1,480 @@
+{
+  "id": "W34.P03",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P03.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: घर के काम। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Ghar ke kaam. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Jobs at home. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P03.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sweep",
+        "emoji": "🧹",
+        "hindi": "झाड़ू लगाना",
+        "hinglish": "jhaadu lagana"
+      },
+      "meaning": "to clean the floor with a broom",
+      "example": "I sweep the floor every Sunday.",
+      "exampleMeaning": {
+        "hi": "मैं हर रविवार फ़र्श पर झाड़ू लगाता/लगाती हूँ।",
+        "hinglish": "Main har Raviwaar farsh par jhaadu lagaata/lagaati hoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P03.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "fold",
+        "emoji": "👕",
+        "hindi": "तह करना",
+        "hinglish": "tah karna"
+      },
+      "meaning": "to bend cloth or paper so it becomes smaller",
+      "example": "Fold your clothes and keep them in the cupboard.",
+      "exampleMeaning": {
+        "hi": "अपने कपड़े तह करो और अलमारी में रखो।",
+        "hinglish": "Apne kapde tah karo aur almaari mein rakho."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P03.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "pour",
+        "emoji": "🫗",
+        "hindi": "डालना",
+        "hinglish": "daalna"
+      },
+      "meaning": "to make a liquid flow from a pot or bottle",
+      "example": "Pour the milk into the glass.",
+      "exampleMeaning": {
+        "hi": "दूध गिलास में डालो।",
+        "hinglish": "Doodh gilaas mein daalo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P03.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "boil",
+        "emoji": "♨️",
+        "hindi": "उबालना",
+        "hinglish": "ubaalna"
+      },
+      "meaning": "to heat water until it bubbles",
+      "example": "Mummy will boil water for tea.",
+      "exampleMeaning": {
+        "hi": "मम्मी चाय के लिए पानी उबालेंगी।",
+        "hinglish": "Mummy chai ke liye paani ubaalengi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P03.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "chop",
+        "emoji": "🔪",
+        "hindi": "काटना",
+        "hinglish": "kaatna"
+      },
+      "meaning": "to cut into small pieces",
+      "example": "Dadi will chop onions for dinner.",
+      "exampleMeaning": {
+        "hi": "दादी रात के खाने के लिए प्याज़ काटेंगी।",
+        "hinglish": "Dadi raat ke khaane ke liye pyaaz kaatengi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P03.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "arrange",
+        "emoji": "🗂️",
+        "hindi": "सजाना",
+        "hinglish": "sajaana"
+      },
+      "meaning": "to put things in a neat order",
+      "example": "Arrange the books on the shelf.",
+      "exampleMeaning": {
+        "hi": "किताबें शेल्फ़ पर सजा दो।",
+        "hinglish": "Kitaabein shelf par saja do."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P03.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "repair",
+        "emoji": "🔧",
+        "hindi": "मरम्मत करना",
+        "hinglish": "marammat karna"
+      },
+      "meaning": "to make a broken thing work again",
+      "example": "Papa can repair my cycle.",
+      "exampleMeaning": {
+        "hi": "पापा मेरी साइकिल ठीक कर सकते हैं।",
+        "hinglish": "Papa meri cycle theek kar sakte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P03.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "switch",
+        "emoji": "💡",
+        "hindi": "बटन",
+        "hinglish": "button"
+      },
+      "meaning": "a small thing you press to turn a light or fan on or off",
+      "example": "Press the switch to turn on the fan.",
+      "exampleMeaning": {
+        "hi": "पंखा चलाने के लिए बटन दबाओ।",
+        "hinglish": "Pankha chalaane ke liye button dabao."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P03.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "wipe",
+        "emoji": "🧽",
+        "hindi": "पोंछना",
+        "hinglish": "ponchhna"
+      },
+      "meaning": "to clean with a cloth",
+      "example": "Wipe the table after eating.",
+      "exampleMeaning": {
+        "hi": "खाने के बाद मेज़ पोंछ दो।",
+        "hinglish": "Khaane ke baad mez ponchh do."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P03.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "serve",
+        "emoji": "🍽️",
+        "hindi": "परोसना",
+        "hinglish": "parosna"
+      },
+      "meaning": "to give food to people",
+      "example": "We serve food to our guests first.",
+      "exampleMeaning": {
+        "hi": "हम पहले मेहमानों को खाना परोसते हैं।",
+        "hinglish": "Hum pehle mehmaanon ko khaana paroste hain."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P03.S12",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "fold",
+        "emoji": "👕",
+        "hindi": "तह करना",
+        "hinglish": "tah karna"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P03.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Press the ___ to turn on the fan.",
+      "answer": "switch",
+      "options": [
+        "switch",
+        "fold",
+        "sweep"
+      ],
+      "meaning": {
+        "hi": "बटन",
+        "hinglish": "button"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P03.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Mummy will ___ water for tea.",
+      "answer": "boil",
+      "options": [
+        "boil",
+        "chop",
+        "serve"
+      ],
+      "meaning": {
+        "hi": "उबालना",
+        "hinglish": "ubaalna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P03.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "pour",
+        "emoji": "🫗",
+        "hindi": "डालना",
+        "hinglish": "daalna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P03.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "repair",
+        "emoji": "🔧",
+        "hindi": "मरम्मत करना",
+        "hinglish": "marammat karna"
+      },
+      "answer": {
+        "hi": "मरम्मत करना",
+        "hinglish": "marammat karna"
+      },
+      "options": [
+        {
+          "hi": "मरम्मत करना",
+          "hinglish": "marammat karna"
+        },
+        {
+          "hi": "परोसना",
+          "hinglish": "parosna"
+        },
+        {
+          "hi": "उबालना",
+          "hinglish": "ubaalna"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P03.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sweep",
+        "emoji": "🧹",
+        "hindi": "झाड़ू लगाना",
+        "hinglish": "jhaadu lagana"
+      },
+      "answer": {
+        "hi": "झाड़ू लगाना",
+        "hinglish": "jhaadu lagana"
+      },
+      "options": [
+        {
+          "hi": "झाड़ू लगाना",
+          "hinglish": "jhaadu lagana"
+        },
+        {
+          "hi": "काटना",
+          "hinglish": "kaatna"
+        },
+        {
+          "hi": "मरम्मत करना",
+          "hinglish": "marammat karna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P03.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "wipe",
+      "options": [
+        "wipe",
+        "chop",
+        "sweep"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P03.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "chop",
+        "emoji": "🔪",
+        "hindi": "काटना",
+        "hinglish": "kaatna"
+      },
+      "answer": {
+        "hi": "काटना",
+        "hinglish": "kaatna"
+      },
+      "options": [
+        {
+          "hi": "काटना",
+          "hinglish": "kaatna"
+        },
+        {
+          "hi": "तह करना",
+          "hinglish": "tah karna"
+        },
+        {
+          "hi": "परोसना",
+          "hinglish": "parosna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P03.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ the books on the shelf.",
+      "answer": "arrange",
+      "options": [
+        "arrange",
+        "repair",
+        "serve"
+      ],
+      "meaning": {
+        "hi": "सजाना",
+        "hinglish": "sajaana"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P03.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "serve",
+      "options": [
+        "serve",
+        "repair",
+        "chop"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P03.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "pour",
+        "emoji": "🫗",
+        "hindi": "डालना",
+        "hinglish": "daalna"
+      },
+      "answer": {
+        "hi": "डालना",
+        "hinglish": "daalna"
+      },
+      "options": [
+        {
+          "hi": "डालना",
+          "hinglish": "daalna"
+        },
+        {
+          "hi": "सजाना",
+          "hinglish": "sajaana"
+        },
+        {
+          "hi": "काटना",
+          "hinglish": "kaatna"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P03.S23",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "sweep",
+        "emoji": "🧹",
+        "hindi": "झाड़ू लगाना",
+        "hinglish": "jhaadu lagana"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P03.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ your clothes and keep them in the cupboard.",
+      "answer": "fold",
+      "options": [
+        "fold",
+        "switch",
+        "sweep"
+      ],
+      "meaning": {
+        "hi": "तह करना",
+        "hinglish": "tah karna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P03.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "boil",
+        "emoji": "♨️",
+        "hindi": "उबालना",
+        "hinglish": "ubaalna"
+      }
+    }
+  ]
+}

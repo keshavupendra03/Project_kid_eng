@@ -1,0 +1,450 @@
+{
+  "id": "L2.U36",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U36.S01",
+      "text": {
+        "hi": "पढ़ाई के शब्द।",
+        "hinglish": "Padhai ke shabd.",
+        "en": "Words for studying."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U36.S02",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘question’ मतलब ‘सवाल’।",
+        "hinglish": "‘question’ matlab ‘sawaal’.",
+        "en": "Say it with me: question!"
+      },
+      "word": {
+        "english": "question",
+        "emoji": "❓",
+        "hindi": "सवाल",
+        "hinglish": "sawaal"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U36.S03",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘answer’ मतलब ‘जवाब’।",
+        "hinglish": "‘answer’ matlab ‘jawaab’.",
+        "en": "Say it with me: answer!"
+      },
+      "word": {
+        "english": "answer",
+        "hindi": "जवाब",
+        "hinglish": "jawaab"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U36.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "question",
+        "emoji": "❓",
+        "hindi": "सवाल",
+        "hinglish": "sawaal"
+      },
+      "answer": {
+        "hi": "सवाल",
+        "hinglish": "sawaal"
+      },
+      "options": [
+        {
+          "hi": "सवाल",
+          "hinglish": "sawaal"
+        },
+        {
+          "hi": "तस्वीर",
+          "hinglish": "tasveer"
+        },
+        {
+          "hi": "परीक्षा",
+          "hinglish": "pareeksha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U36.S05",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "answer",
+      "options": [
+        "answer",
+        "word",
+        "line"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U36.S06",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘page’ मतलब ‘पन्ना’।",
+        "hinglish": "‘page’ matlab ‘panna’.",
+        "en": "Say it with me: page!"
+      },
+      "word": {
+        "english": "page",
+        "hindi": "पन्ना",
+        "hinglish": "panna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U36.S07",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘story’ मतलब ‘कहानी’।",
+        "hinglish": "‘story’ matlab ‘kahaani’.",
+        "en": "Say it with me: story!"
+      },
+      "word": {
+        "english": "story",
+        "hindi": "कहानी",
+        "hinglish": "kahaani"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U36.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "page",
+        "hindi": "पन्ना",
+        "hinglish": "panna"
+      },
+      "answer": {
+        "hi": "पन्ना",
+        "hinglish": "panna"
+      },
+      "options": [
+        {
+          "hi": "पन्ना",
+          "hinglish": "panna"
+        },
+        {
+          "hi": "तस्वीर",
+          "hinglish": "tasveer"
+        },
+        {
+          "hi": "सवाल",
+          "hinglish": "sawaal"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U36.S09",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "story",
+      "options": [
+        "story",
+        "word",
+        "page"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U36.S10",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘exam’ मतलब ‘परीक्षा’।",
+        "hinglish": "‘exam’ matlab ‘pareeksha’.",
+        "en": "Say it with me: exam!"
+      },
+      "word": {
+        "english": "exam",
+        "emoji": "📝",
+        "hindi": "परीक्षा",
+        "hinglish": "pareeksha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U36.S11",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘word’ मतलब ‘शब्द’।",
+        "hinglish": "‘word’ matlab ‘shabd’.",
+        "en": "Say it with me: word!"
+      },
+      "word": {
+        "english": "word",
+        "hindi": "शब्द",
+        "hinglish": "shabd"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U36.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "exam",
+        "emoji": "📝",
+        "hindi": "परीक्षा",
+        "hinglish": "pareeksha"
+      },
+      "answer": {
+        "hi": "परीक्षा",
+        "hinglish": "pareeksha"
+      },
+      "options": [
+        {
+          "hi": "परीक्षा",
+          "hinglish": "pareeksha"
+        },
+        {
+          "hi": "शब्द",
+          "hinglish": "shabd"
+        },
+        {
+          "hi": "सवाल",
+          "hinglish": "sawaal"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U36.S13",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "word",
+      "options": [
+        "word",
+        "picture",
+        "question"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U36.S14",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘picture’ मतलब ‘तस्वीर’।",
+        "hinglish": "‘picture’ matlab ‘tasveer’.",
+        "en": "Say it with me: picture!"
+      },
+      "word": {
+        "english": "picture",
+        "emoji": "🖼️",
+        "hindi": "तस्वीर",
+        "hinglish": "tasveer"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U36.S15",
+      "skills": [
+        "vocab.school"
+      ],
+      "text": {
+        "hi": "‘line’ मतलब ‘लाइन’।",
+        "hinglish": "‘line’ matlab ‘line’.",
+        "en": "Say it with me: line!"
+      },
+      "word": {
+        "english": "line",
+        "hindi": "लाइन",
+        "hinglish": "line"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U36.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "picture",
+        "emoji": "🖼️",
+        "hindi": "तस्वीर",
+        "hinglish": "tasveer"
+      },
+      "answer": {
+        "hi": "तस्वीर",
+        "hinglish": "tasveer"
+      },
+      "options": [
+        {
+          "hi": "तस्वीर",
+          "hinglish": "tasveer"
+        },
+        {
+          "hi": "शब्द",
+          "hinglish": "shabd"
+        },
+        {
+          "hi": "सवाल",
+          "hinglish": "sawaal"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U36.S17",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "line",
+      "options": [
+        "line",
+        "question",
+        "story"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U36.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "word",
+        "hindi": "शब्द",
+        "hinglish": "shabd"
+      },
+      "answer": {
+        "hi": "शब्द",
+        "hinglish": "shabd"
+      },
+      "options": [
+        {
+          "hi": "शब्द",
+          "hinglish": "shabd"
+        },
+        {
+          "hi": "लाइन",
+          "hinglish": "line"
+        },
+        {
+          "hi": "जवाब",
+          "hinglish": "jawaab"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U36.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "answer",
+        "hindi": "जवाब",
+        "hinglish": "jawaab"
+      },
+      "answer": {
+        "hi": "जवाब",
+        "hinglish": "jawaab"
+      },
+      "options": [
+        {
+          "hi": "जवाब",
+          "hinglish": "jawaab"
+        },
+        {
+          "hi": "शब्द",
+          "hinglish": "shabd"
+        },
+        {
+          "hi": "कहानी",
+          "hinglish": "kahaani"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U36.S20",
+      "skills": [
+        "speak.word",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "exam",
+        "emoji": "📝",
+        "hindi": "परीक्षा",
+        "hinglish": "pareeksha"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U36.S21",
+      "skills": [
+        "speak.word",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "picture",
+        "emoji": "🖼️",
+        "hindi": "तस्वीर",
+        "hinglish": "tasveer"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U36.S22",
+      "skills": [
+        "read.word",
+        "vocab.school"
+      ],
+      "answer": "page",
+      "options": [
+        "page",
+        "picture",
+        "story"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U36.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: question, answer, page, story, exam, word, picture, line।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: question, answer, page, story, exam, word, picture, line.",
+        "en": "Well done! Today's new words: question, answer, page, story, exam, word, picture, line."
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "W34.P12T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "spell_word",
+      "id": "W34.P12T.S01",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "team",
+        "emoji": "👥",
+        "hindi": "टीम",
+        "hinglish": "team"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P12T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "coach",
+        "emoji": "🧢",
+        "hindi": "कोच",
+        "hinglish": "coach"
+      },
+      "answer": {
+        "hi": "कोच",
+        "hinglish": "coach"
+      },
+      "options": [
+        {
+          "hi": "कोच",
+          "hinglish": "coach"
+        },
+        {
+          "hi": "मैच",
+          "hinglish": "match"
+        },
+        {
+          "hi": "पदक",
+          "hinglish": "padak"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P12T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Let us play a ___ game.",
+      "answer": "fair",
+      "options": [
+        "fair",
+        "winner",
+        "match"
+      ],
+      "meaning": {
+        "hi": "न्यायपूर्ण",
+        "hinglish": "nyaaypoorn"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P12T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "match",
+      "options": [
+        "match",
+        "referee",
+        "throw"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P12T.S05",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "medal",
+        "emoji": "🥇",
+        "hindi": "पदक",
+        "hinglish": "padak"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P12T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "throw",
+        "emoji": "🤾",
+        "hindi": "फेंकना",
+        "hinglish": "phenkna"
+      },
+      "answer": {
+        "hi": "फेंकना",
+        "hinglish": "phenkna"
+      },
+      "options": [
+        {
+          "hi": "फेंकना",
+          "hinglish": "phenkna"
+        },
+        {
+          "hi": "रेफ़री",
+          "hinglish": "referee"
+        },
+        {
+          "hi": "टीम",
+          "hinglish": "team"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P12T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "What is the ___ now?",
+      "answer": "score",
+      "options": [
+        "score",
+        "match",
+        "throw"
+      ],
+      "meaning": {
+        "hi": "स्कोर",
+        "hinglish": "score"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P12T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "referee",
+      "options": [
+        "referee",
+        "winner",
+        "match"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P12T.S09",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "winner",
+        "emoji": "🏆",
+        "hindi": "विजेता",
+        "hinglish": "vijeta"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P12T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "catch",
+        "emoji": "🧤",
+        "hindi": "पकड़ना",
+        "hinglish": "pakadna"
+      },
+      "answer": {
+        "hi": "पकड़ना",
+        "hinglish": "pakadna"
+      },
+      "options": [
+        {
+          "hi": "पकड़ना",
+          "hinglish": "pakadna"
+        },
+        {
+          "hi": "रेफ़री",
+          "hinglish": "referee"
+        },
+        {
+          "hi": "न्यायपूर्ण",
+          "hinglish": "nyaaypoorn"
+        }
+      ]
+    }
+  ]
+}

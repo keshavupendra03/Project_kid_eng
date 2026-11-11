@@ -34,8 +34,10 @@ object SpeechChecker {
      * @param target what the child should say ("thin", "Thank you")
      * @param heard the recogniser's guesses, best first
      * @param accept other spellings that also count ("3" for "three")
+     * @param strict no near-miss leniency: "pump" is not "jump". For reading along, where the
+     *   listener already expects the paragraph's words and a near miss is a real misreading.
      */
-    fun check(target: String, heard: List<String>, accept: List<String> = emptyList()): SpeechVerdict {
+    fun check(target: String, heard: List<String>, accept: List<String> = emptyList(), strict: Boolean = false): SpeechVerdict {
         val goals = (listOf(target) + accept).map(::normalize).filter { it.isNotEmpty() }
         val guesses = heard.map(::normalize).filter { it.isNotEmpty() }
         if (guesses.isEmpty()) return SpeechVerdict.Wrong("", null)
@@ -45,15 +47,52 @@ object SpeechChecker {
         if (goals.any { sameWords(it, best) || soundsSame(it, best) }) return SpeechVerdict.Correct
         findSwap(goal, best)?.let { return SpeechVerdict.Wrong(best, mistakeFor(it)) }
         if (guesses.any { g -> goals.any { sameWords(it, g) || soundsSame(it, g) } }) return SpeechVerdict.Correct
-        if (goals.any { closeEnough(it, best) }) return SpeechVerdict.Correct
+        if (!strict && goals.any { closeEnough(it, best) }) return SpeechVerdict.Correct
         return SpeechVerdict.Wrong(best, null)
     }
 
-    /** Lowercase letters/digits and single spaces only: "T.V." → "t v", "I'm" → "im". */
+    /**
+     * How a Hindi speaker might say [word] instead ("three" → "tree", "van" → "wan", "thank" → "tank").
+     * Small, quickly-said words are left out: a listener can't tell "with" from "wit" reliably,
+     * and offering both made it miss real words in tests.
+     */
+    fun slipVariants(word: String): List<String> {
+        val w = normalize(word)
+        if (w.length < 3 || w in SMALL_WORDS || " " in w) return emptyList()
+        return variantSwaps.flatMap { swap ->
+            generateSequence(w.indexOf(swap.from)) { i -> w.indexOf(swap.from, i + 1).takeIf { it >= 0 } }
+                .takeWhile { it >= 0 }
+                .map { i -> w.substring(0, i) + swap.to + w.substring(i + swap.from.length) }
+                .toList()
+        }.filter { it != w }.distinct()
+    }
+
+    // "th" said as "f" is rare for Hindi speakers, so it isn't offered to the listener.
+    private val variantSwaps get() = swaps.filterNot { it.from == "th" && it.to == "f" }
+
+    private val SMALL_WORDS = setOf(
+        "the", "then", "they", "them", "this", "that", "with", "we", "for", "there", "their", "was", "were",
+        "have", "of", "very", "from", "will", "what", "who", "when", "why", "so",
+    )
+
+    /** Lowercase letters/digits and single spaces only: "T.V." → "t v", "I'm" → "i am". */
     fun normalize(text: String): String = text.lowercase()
+        .replace("’", "'")
+        .replace(Regex("\\bi'?m\\b"), "i am")
+        .replace(Regex("\\b(he|she|it|that|what|where|who|there)'s\\b"), "$1 is")
+        .replace(Regex("\\b(you|we|they)'re\\b"), "$1 are")
+        .replace(Regex("\\b(is|are|do|does)n't\\b"), "$1 not")
+        .replace(Regex("\\bcan't\\b"), "cannot")
         .replace("'", "")
         .replace(Regex("[^a-z0-9]+"), " ")
         .trim()
+
+    /**
+     * [heard] counts as [goal]: identical, sound-alike, or a small accent slip.
+     * A Hindi-speaker sound swap ("tank" for "thank") doesn't count, because that's what we teach.
+     */
+    internal fun wordsAlike(goal: String, heard: String): Boolean =
+        soundsSame(goal, heard) || (similarWord(goal, heard) && wordSwap(goal, heard) == null)
 
     private fun compact(text: String) = text.replace(" ", "")
 

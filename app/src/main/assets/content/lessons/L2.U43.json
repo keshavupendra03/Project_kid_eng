@@ -1,0 +1,468 @@
+{
+  "id": "L2.U43",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U43.S01",
+      "text": {
+        "hi": "पानी के जीव और बड़े पक्षी।",
+        "hinglish": "Paani ke jeev aur bade pakshi.",
+        "en": "Water animals and big birds."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U43.S02",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘crocodile’ मतलब ‘मगरमच्छ’।",
+        "hinglish": "‘crocodile’ matlab ‘magarmachh’.",
+        "en": "Say it with me: crocodile!"
+      },
+      "word": {
+        "english": "crocodile",
+        "emoji": "🐊",
+        "hindi": "मगरमच्छ",
+        "hinglish": "magarmachh"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U43.S03",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘turtle’ मतलब ‘कछुआ’।",
+        "hinglish": "‘turtle’ matlab ‘kachhua’.",
+        "en": "Say it with me: turtle!"
+      },
+      "word": {
+        "english": "turtle",
+        "emoji": "🐢",
+        "hindi": "कछुआ",
+        "hinglish": "kachhua"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U43.S04",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "crocodile",
+      "options": [
+        {
+          "english": "crocodile",
+          "emoji": "🐊",
+          "hindi": "मगरमच्छ",
+          "hinglish": "magarmachh"
+        },
+        {
+          "english": "shark",
+          "emoji": "🦈",
+          "hindi": "शार्क",
+          "hinglish": "shark"
+        },
+        {
+          "english": "owl",
+          "emoji": "🦉",
+          "hindi": "उल्लू",
+          "hinglish": "ullu"
+        },
+        {
+          "english": "eagle",
+          "emoji": "🦅",
+          "hindi": "चील",
+          "hinglish": "cheel"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U43.S05",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "answer": "turtle",
+      "options": [
+        "turtle",
+        "shark",
+        "crocodile"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U43.S06",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘whale’ मतलब ‘व्हेल’।",
+        "hinglish": "‘whale’ matlab ‘whale’.",
+        "en": "Say it with me: whale!"
+      },
+      "word": {
+        "english": "whale",
+        "emoji": "🐋",
+        "hindi": "व्हेल",
+        "hinglish": "whale"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U43.S07",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘shark’ मतलब ‘शार्क’।",
+        "hinglish": "‘shark’ matlab ‘shark’.",
+        "en": "Say it with me: shark!"
+      },
+      "word": {
+        "english": "shark",
+        "emoji": "🦈",
+        "hindi": "शार्क",
+        "hinglish": "shark"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U43.S08",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "whale",
+      "options": [
+        {
+          "english": "whale",
+          "emoji": "🐋",
+          "hindi": "व्हेल",
+          "hinglish": "whale"
+        },
+        {
+          "english": "shark",
+          "emoji": "🦈",
+          "hindi": "शार्क",
+          "hinglish": "shark"
+        },
+        {
+          "english": "eagle",
+          "emoji": "🦅",
+          "hindi": "चील",
+          "hinglish": "cheel"
+        },
+        {
+          "english": "pigeon",
+          "emoji": "🕊️",
+          "hindi": "कबूतर",
+          "hinglish": "kabootar"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U43.S09",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🦈",
+      "answer": "shark",
+      "options": [
+        "shark",
+        "eagle",
+        "owl"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U43.S10",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘owl’ मतलब ‘उल्लू’।",
+        "hinglish": "‘owl’ matlab ‘ullu’.",
+        "en": "Say it with me: owl!"
+      },
+      "word": {
+        "english": "owl",
+        "emoji": "🦉",
+        "hindi": "उल्लू",
+        "hinglish": "ullu"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U43.S11",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘pigeon’ मतलब ‘कबूतर’।",
+        "hinglish": "‘pigeon’ matlab ‘kabootar’.",
+        "en": "Say it with me: pigeon!"
+      },
+      "word": {
+        "english": "pigeon",
+        "emoji": "🕊️",
+        "hindi": "कबूतर",
+        "hinglish": "kabootar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U43.S12",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "owl",
+      "options": [
+        {
+          "english": "owl",
+          "emoji": "🦉",
+          "hindi": "उल्लू",
+          "hinglish": "ullu"
+        },
+        {
+          "english": "whale",
+          "emoji": "🐋",
+          "hindi": "व्हेल",
+          "hinglish": "whale"
+        },
+        {
+          "english": "pigeon",
+          "emoji": "🕊️",
+          "hindi": "कबूतर",
+          "hinglish": "kabootar"
+        },
+        {
+          "english": "shark",
+          "emoji": "🦈",
+          "hindi": "शार्क",
+          "hinglish": "shark"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U43.S13",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🕊️",
+      "answer": "pigeon",
+      "options": [
+        "pigeon",
+        "owl",
+        "turtle"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U43.S14",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘crow’ मतलब ‘कौआ’।",
+        "hinglish": "‘crow’ matlab ‘kaua’.",
+        "en": "Say it with me: crow!"
+      },
+      "word": {
+        "english": "crow",
+        "hindi": "कौआ",
+        "hinglish": "kaua"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U43.S15",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘eagle’ मतलब ‘चील’।",
+        "hinglish": "‘eagle’ matlab ‘cheel’.",
+        "en": "Say it with me: eagle!"
+      },
+      "word": {
+        "english": "eagle",
+        "emoji": "🦅",
+        "hindi": "चील",
+        "hinglish": "cheel"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U43.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "crow",
+        "hindi": "कौआ",
+        "hinglish": "kaua"
+      },
+      "answer": {
+        "hi": "कौआ",
+        "hinglish": "kaua"
+      },
+      "options": [
+        {
+          "hi": "कौआ",
+          "hinglish": "kaua"
+        },
+        {
+          "hi": "कबूतर",
+          "hinglish": "kabootar"
+        },
+        {
+          "hi": "चील",
+          "hinglish": "cheel"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U43.S17",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🦅",
+      "answer": "eagle",
+      "options": [
+        "eagle",
+        "shark",
+        "pigeon"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U43.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "owl",
+        "emoji": "🦉",
+        "hindi": "उल्लू",
+        "hinglish": "ullu"
+      },
+      "answer": {
+        "hi": "उल्लू",
+        "hinglish": "ullu"
+      },
+      "options": [
+        {
+          "hi": "उल्लू",
+          "hinglish": "ullu"
+        },
+        {
+          "hi": "कौआ",
+          "hinglish": "kaua"
+        },
+        {
+          "hi": "कछुआ",
+          "hinglish": "kachhua"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U43.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "crocodile",
+        "emoji": "🐊",
+        "hindi": "मगरमच्छ",
+        "hinglish": "magarmachh"
+      },
+      "answer": {
+        "hi": "मगरमच्छ",
+        "hinglish": "magarmachh"
+      },
+      "options": [
+        {
+          "hi": "मगरमच्छ",
+          "hinglish": "magarmachh"
+        },
+        {
+          "hi": "शार्क",
+          "hinglish": "shark"
+        },
+        {
+          "hi": "चील",
+          "hinglish": "cheel"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U43.S20",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "owl",
+        "emoji": "🦉",
+        "hindi": "उल्लू",
+        "hinglish": "ullu"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U43.S21",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "whale",
+        "emoji": "🐋",
+        "hindi": "व्हेल",
+        "hinglish": "whale"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U43.S22",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "answer": "whale",
+      "options": [
+        "whale",
+        "owl",
+        "pigeon"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U43.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: crocodile, turtle, whale, shark, owl, pigeon, crow, eagle।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: crocodile, turtle, whale, shark, owl, pigeon, crow, eagle.",
+        "en": "Well done! Today's new words: crocodile, turtle, whale, shark, owl, pigeon, crow, eagle."
+      }
+    }
+  ]
+}

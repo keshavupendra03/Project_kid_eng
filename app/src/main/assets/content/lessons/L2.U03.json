@@ -48,53 +48,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U03.S04",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.family"
       ],
-      "answer": "mother",
+      "word": {
+        "english": "mother",
+        "emoji": "👩",
+        "hindi": "माँ",
+        "hinglish": "maa"
+      },
+      "answer": {
+        "hi": "माँ",
+        "hinglish": "maa"
+      },
       "options": [
         {
-          "english": "mother",
-          "emoji": "👩",
-          "hindi": "माँ",
+          "hi": "माँ",
           "hinglish": "maa"
         },
         {
-          "english": "family",
-          "emoji": "👪",
-          "hindi": "परिवार",
-          "hinglish": "parivaar"
+          "hi": "भाई",
+          "hinglish": "bhai"
         },
         {
-          "english": "grandmother",
-          "emoji": "👵",
-          "hindi": "दादी / नानी",
-          "hinglish": "daadi / naani"
-        },
-        {
-          "english": "baby",
-          "emoji": "👶",
-          "hindi": "छोटा बच्चा",
-          "hinglish": "chhota bachcha"
+          "hi": "दादा / नाना",
+          "hinglish": "daada / naana"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U03.S05",
       "skills": [
         "read.word",
         "vocab.family"
       ],
-      "emoji": "👨",
       "answer": "father",
       "options": [
         "father",
-        "grandmother",
-        "grandfather"
+        "grandfather",
+        "family"
       ]
     },
     {
@@ -134,53 +130,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U03.S08",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.family"
       ],
-      "answer": "sister",
+      "word": {
+        "english": "sister",
+        "emoji": "👧",
+        "hindi": "बहन",
+        "hinglish": "behen"
+      },
+      "answer": {
+        "hi": "बहन",
+        "hinglish": "behen"
+      },
       "options": [
         {
-          "english": "sister",
-          "emoji": "👧",
-          "hindi": "बहन",
+          "hi": "बहन",
           "hinglish": "behen"
         },
         {
-          "english": "mother",
-          "emoji": "👩",
-          "hindi": "माँ",
-          "hinglish": "maa"
-        },
-        {
-          "english": "brother",
-          "emoji": "👦",
-          "hindi": "भाई",
+          "hi": "भाई",
           "hinglish": "bhai"
         },
         {
-          "english": "father",
-          "emoji": "👨",
-          "hindi": "पिता",
-          "hinglish": "pita"
+          "hi": "दादी / नानी",
+          "hinglish": "daadi / naani"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U03.S09",
       "skills": [
         "read.word",
         "vocab.family"
       ],
-      "emoji": "👦",
       "answer": "brother",
       "options": [
         "brother",
-        "father",
-        "grandfather"
+        "family",
+        "father"
       ]
     },
     {
@@ -235,22 +227,16 @@
           "hinglish": "chhota bachcha"
         },
         {
-          "english": "grandfather",
-          "emoji": "👴",
-          "hindi": "दादा / नाना",
-          "hinglish": "daada / naana"
-        },
-        {
-          "english": "sister",
-          "emoji": "👧",
-          "hindi": "बहन",
-          "hinglish": "behen"
-        },
-        {
           "english": "grandmother",
           "emoji": "👵",
           "hindi": "दादी / नानी",
           "hinglish": "daadi / naani"
+        },
+        {
+          "english": "grandfather",
+          "emoji": "👴",
+          "hindi": "दादा / नाना",
+          "hinglish": "daada / naana"
         }
       ]
     },
@@ -265,8 +251,8 @@
       "answer": "grandmother",
       "options": [
         "grandmother",
-        "sister",
-        "grandfather"
+        "grandfather",
+        "baby"
       ]
     },
     {
@@ -321,38 +307,31 @@
           "hinglish": "daada / naana"
         },
         {
-          "english": "brother",
-          "emoji": "👦",
-          "hindi": "भाई",
-          "hinglish": "bhai"
-        },
-        {
-          "english": "sister",
-          "emoji": "👧",
-          "hindi": "बहन",
-          "hinglish": "behen"
-        },
-        {
           "english": "baby",
           "emoji": "👶",
           "hindi": "छोटा बच्चा",
           "hinglish": "chhota bachcha"
+        },
+        {
+          "english": "grandmother",
+          "emoji": "👵",
+          "hindi": "दादी / नानी",
+          "hinglish": "daadi / naani"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U03.S17",
       "skills": [
         "read.word",
         "vocab.family"
       ],
-      "emoji": "👪",
       "answer": "family",
       "options": [
         "family",
-        "mother",
-        "grandmother"
+        "baby",
+        "brother"
       ]
     },
     {
@@ -378,8 +357,8 @@
           "hinglish": "chhota bachcha"
         },
         {
-          "hi": "पिता",
-          "hinglish": "pita"
+          "hi": "बहन",
+          "hinglish": "behen"
         },
         {
           "hi": "दादा / नाना",
@@ -395,27 +374,27 @@
         "vocab.family"
       ],
       "word": {
-        "english": "grandfather",
-        "emoji": "👴",
-        "hindi": "दादा / नाना",
-        "hinglish": "daada / naana"
+        "english": "brother",
+        "emoji": "👦",
+        "hindi": "भाई",
+        "hinglish": "bhai"
       },
       "answer": {
-        "hi": "दादा / नाना",
-        "hinglish": "daada / naana"
+        "hi": "भाई",
+        "hinglish": "bhai"
       },
       "options": [
         {
-          "hi": "दादा / नाना",
-          "hinglish": "daada / naana"
+          "hi": "भाई",
+          "hinglish": "bhai"
+        },
+        {
+          "hi": "परिवार",
+          "hinglish": "parivaar"
         },
         {
           "hi": "पिता",
           "hinglish": "pita"
-        },
-        {
-          "hi": "दादी / नानी",
-          "hinglish": "daadi / naani"
         }
       ]
     },
@@ -458,7 +437,7 @@
       "options": [
         "baby",
         "grandfather",
-        "grandmother"
+        "sister"
       ]
     },
     {

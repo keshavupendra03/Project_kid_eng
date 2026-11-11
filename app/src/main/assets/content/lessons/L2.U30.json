@@ -1,0 +1,462 @@
+{
+  "id": "L2.U30",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U30.S01",
+      "text": {
+        "hi": "तबीयत खराब हो तो कैसे बताएँ? सेहत के शब्द।",
+        "hinglish": "Tabiyat kharaab ho to kaise batayein? Sehat ke shabd.",
+        "en": "How do we say we feel unwell? Words about health."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U30.S02",
+      "skills": [
+        "vocab.health"
+      ],
+      "text": {
+        "hi": "‘medicine’ मतलब ‘दवाई’।",
+        "hinglish": "‘medicine’ matlab ‘dawaai’.",
+        "en": "Say it with me: medicine!"
+      },
+      "word": {
+        "english": "medicine",
+        "emoji": "💊",
+        "hindi": "दवाई",
+        "hinglish": "dawaai"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U30.S03",
+      "skills": [
+        "vocab.health"
+      ],
+      "text": {
+        "hi": "‘fever’ मतलब ‘बुखार’।",
+        "hinglish": "‘fever’ matlab ‘bukhaar’.",
+        "en": "Say it with me: fever!"
+      },
+      "word": {
+        "english": "fever",
+        "emoji": "🤒",
+        "hindi": "बुखार",
+        "hinglish": "bukhaar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U30.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.health"
+      ],
+      "word": {
+        "english": "medicine",
+        "emoji": "💊",
+        "hindi": "दवाई",
+        "hinglish": "dawaai"
+      },
+      "answer": {
+        "hi": "दवाई",
+        "hinglish": "dawaai"
+      },
+      "options": [
+        {
+          "hi": "दवाई",
+          "hinglish": "dawaai"
+        },
+        {
+          "hi": "पट्टी",
+          "hinglish": "patti"
+        },
+        {
+          "hi": "खून",
+          "hinglish": "khoon"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U30.S05",
+      "skills": [
+        "read.word",
+        "vocab.health"
+      ],
+      "answer": "fever",
+      "options": [
+        "fever",
+        "bandage",
+        "medicine"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U30.S06",
+      "skills": [
+        "vocab.health"
+      ],
+      "text": {
+        "hi": "‘cough’ मतलब ‘खाँसी’।",
+        "hinglish": "‘cough’ matlab ‘khaansi’.",
+        "en": "Say it with me: cough!"
+      },
+      "word": {
+        "english": "cough",
+        "hindi": "खाँसी",
+        "hinglish": "khaansi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U30.S07",
+      "skills": [
+        "vocab.health"
+      ],
+      "text": {
+        "hi": "‘pain’ मतलब ‘दर्द’।",
+        "hinglish": "‘pain’ matlab ‘dard’.",
+        "en": "Say it with me: pain!"
+      },
+      "word": {
+        "english": "pain",
+        "hindi": "दर्द",
+        "hinglish": "dard"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U30.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.health"
+      ],
+      "word": {
+        "english": "cough",
+        "hindi": "खाँसी",
+        "hinglish": "khaansi"
+      },
+      "answer": {
+        "hi": "खाँसी",
+        "hinglish": "khaansi"
+      },
+      "options": [
+        {
+          "hi": "खाँसी",
+          "hinglish": "khaansi"
+        },
+        {
+          "hi": "इंजेक्शन",
+          "hinglish": "injection"
+        },
+        {
+          "hi": "खून",
+          "hinglish": "khoon"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U30.S09",
+      "skills": [
+        "read.word",
+        "vocab.health"
+      ],
+      "answer": "pain",
+      "options": [
+        "pain",
+        "injection",
+        "cough"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U30.S10",
+      "skills": [
+        "vocab.health"
+      ],
+      "text": {
+        "hi": "‘injection’ मतलब ‘इंजेक्शन’।",
+        "hinglish": "‘injection’ matlab ‘injection’.",
+        "en": "Say it with me: injection!"
+      },
+      "word": {
+        "english": "injection",
+        "emoji": "💉",
+        "hindi": "इंजेक्शन",
+        "hinglish": "injection"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U30.S11",
+      "skills": [
+        "vocab.health"
+      ],
+      "text": {
+        "hi": "‘bandage’ मतलब ‘पट्टी’।",
+        "hinglish": "‘bandage’ matlab ‘patti’.",
+        "en": "Say it with me: bandage!"
+      },
+      "word": {
+        "english": "bandage",
+        "emoji": "🩹",
+        "hindi": "पट्टी",
+        "hinglish": "patti"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U30.S12",
+      "skills": [
+        "listen.word",
+        "vocab.health"
+      ],
+      "answer": "injection",
+      "options": [
+        {
+          "english": "injection",
+          "emoji": "💉",
+          "hindi": "इंजेक्शन",
+          "hinglish": "injection"
+        },
+        {
+          "english": "bandage",
+          "emoji": "🩹",
+          "hindi": "पट्टी",
+          "hinglish": "patti"
+        },
+        {
+          "english": "blood",
+          "emoji": "🩸",
+          "hindi": "खून",
+          "hinglish": "khoon"
+        },
+        {
+          "english": "thermometer",
+          "emoji": "🌡️",
+          "hindi": "थर्मामीटर",
+          "hinglish": "thermometer"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U30.S13",
+      "skills": [
+        "read.word",
+        "vocab.health"
+      ],
+      "emoji": "🩹",
+      "answer": "bandage",
+      "options": [
+        "bandage",
+        "blood",
+        "medicine"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U30.S14",
+      "skills": [
+        "vocab.health"
+      ],
+      "text": {
+        "hi": "‘blood’ मतलब ‘खून’।",
+        "hinglish": "‘blood’ matlab ‘khoon’.",
+        "en": "Say it with me: blood!"
+      },
+      "word": {
+        "english": "blood",
+        "emoji": "🩸",
+        "hindi": "खून",
+        "hinglish": "khoon"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U30.S15",
+      "skills": [
+        "vocab.health"
+      ],
+      "text": {
+        "hi": "‘thermometer’ मतलब ‘थर्मामीटर’।",
+        "hinglish": "‘thermometer’ matlab ‘thermometer’.",
+        "en": "Say it with me: thermometer!"
+      },
+      "word": {
+        "english": "thermometer",
+        "emoji": "🌡️",
+        "hindi": "थर्मामीटर",
+        "hinglish": "thermometer"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U30.S16",
+      "skills": [
+        "listen.word",
+        "vocab.health"
+      ],
+      "answer": "blood",
+      "options": [
+        {
+          "english": "blood",
+          "emoji": "🩸",
+          "hindi": "खून",
+          "hinglish": "khoon"
+        },
+        {
+          "english": "bandage",
+          "emoji": "🩹",
+          "hindi": "पट्टी",
+          "hinglish": "patti"
+        },
+        {
+          "english": "injection",
+          "emoji": "💉",
+          "hindi": "इंजेक्शन",
+          "hinglish": "injection"
+        },
+        {
+          "english": "thermometer",
+          "emoji": "🌡️",
+          "hindi": "थर्मामीटर",
+          "hinglish": "thermometer"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U30.S17",
+      "skills": [
+        "read.word",
+        "vocab.health"
+      ],
+      "emoji": "🌡️",
+      "answer": "thermometer",
+      "options": [
+        "thermometer",
+        "bandage",
+        "blood"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U30.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.health"
+      ],
+      "word": {
+        "english": "pain",
+        "hindi": "दर्द",
+        "hinglish": "dard"
+      },
+      "answer": {
+        "hi": "दर्द",
+        "hinglish": "dard"
+      },
+      "options": [
+        {
+          "hi": "दर्द",
+          "hinglish": "dard"
+        },
+        {
+          "hi": "इंजेक्शन",
+          "hinglish": "injection"
+        },
+        {
+          "hi": "खून",
+          "hinglish": "khoon"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U30.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.health"
+      ],
+      "word": {
+        "english": "blood",
+        "emoji": "🩸",
+        "hindi": "खून",
+        "hinglish": "khoon"
+      },
+      "answer": {
+        "hi": "खून",
+        "hinglish": "khoon"
+      },
+      "options": [
+        {
+          "hi": "खून",
+          "hinglish": "khoon"
+        },
+        {
+          "hi": "बुखार",
+          "hinglish": "bukhaar"
+        },
+        {
+          "hi": "खाँसी",
+          "hinglish": "khaansi"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U30.S20",
+      "skills": [
+        "speak.word",
+        "vocab.health"
+      ],
+      "word": {
+        "english": "fever",
+        "emoji": "🤒",
+        "hindi": "बुखार",
+        "hinglish": "bukhaar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U30.S21",
+      "skills": [
+        "speak.word",
+        "vocab.health"
+      ],
+      "word": {
+        "english": "blood",
+        "emoji": "🩸",
+        "hindi": "खून",
+        "hinglish": "khoon"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U30.S22",
+      "skills": [
+        "read.word",
+        "vocab.health"
+      ],
+      "answer": "thermometer",
+      "options": [
+        "thermometer",
+        "injection",
+        "pain"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U30.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: medicine, fever, cough, pain, injection, bandage, blood, thermometer।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: medicine, fever, cough, pain, injection, bandage, blood, thermometer.",
+        "en": "Well done! Today's new words: medicine, fever, cough, pain, injection, bandage, blood, thermometer."
+      }
+    }
+  ]
+}

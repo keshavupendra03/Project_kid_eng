@@ -1,0 +1,442 @@
+{
+  "id": "L2.U61",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U61.S01",
+      "text": {
+        "hi": "अच्छा-बुरा, आसान-मुश्किल!",
+        "hinglish": "Achha-bura, aasaan-mushkil!",
+        "en": "Good and bad, easy and hard!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U61.S02",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘good’ मतलब ‘अच्छा’।",
+        "hinglish": "‘good’ matlab ‘achha’.",
+        "en": "Say it with me: good!"
+      },
+      "word": {
+        "english": "good",
+        "hindi": "अच्छा",
+        "hinglish": "achha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U61.S03",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘bad’ मतलब ‘बुरा’।",
+        "hinglish": "‘bad’ matlab ‘bura’.",
+        "en": "Say it with me: bad!"
+      },
+      "word": {
+        "english": "bad",
+        "hindi": "बुरा",
+        "hinglish": "bura"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U61.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "good",
+        "hindi": "अच्छा",
+        "hinglish": "achha"
+      },
+      "answer": {
+        "hi": "अच्छा",
+        "hinglish": "achha"
+      },
+      "options": [
+        {
+          "hi": "अच्छा",
+          "hinglish": "achha"
+        },
+        {
+          "hi": "मुश्किल",
+          "hinglish": "mushkil"
+        },
+        {
+          "hi": "बुरा",
+          "hinglish": "bura"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U61.S05",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "bad",
+      "options": [
+        "bad",
+        "good",
+        "rich"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U61.S06",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘rich’ मतलब ‘अमीर’।",
+        "hinglish": "‘rich’ matlab ‘ameer’.",
+        "en": "Say it with me: rich!"
+      },
+      "word": {
+        "english": "rich",
+        "hindi": "अमीर",
+        "hinglish": "ameer"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U61.S07",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘poor’ मतलब ‘ग़रीब’।",
+        "hinglish": "‘poor’ matlab ‘gareeb’.",
+        "en": "Say it with me: poor!"
+      },
+      "word": {
+        "english": "poor",
+        "hindi": "ग़रीब",
+        "hinglish": "gareeb"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U61.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "rich",
+        "hindi": "अमीर",
+        "hinglish": "ameer"
+      },
+      "answer": {
+        "hi": "अमीर",
+        "hinglish": "ameer"
+      },
+      "options": [
+        {
+          "hi": "अमीर",
+          "hinglish": "ameer"
+        },
+        {
+          "hi": "आसान",
+          "hinglish": "aasaan"
+        },
+        {
+          "hi": "ग़रीब",
+          "hinglish": "gareeb"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U61.S09",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "poor",
+      "options": [
+        "poor",
+        "short",
+        "bad"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U61.S10",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘easy’ मतलब ‘आसान’।",
+        "hinglish": "‘easy’ matlab ‘aasaan’.",
+        "en": "Say it with me: easy!"
+      },
+      "word": {
+        "english": "easy",
+        "hindi": "आसान",
+        "hinglish": "aasaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U61.S11",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘hard’ मतलब ‘मुश्किल’।",
+        "hinglish": "‘hard’ matlab ‘mushkil’.",
+        "en": "Say it with me: hard!"
+      },
+      "word": {
+        "english": "hard",
+        "hindi": "मुश्किल",
+        "hinglish": "mushkil"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U61.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "easy",
+        "hindi": "आसान",
+        "hinglish": "aasaan"
+      },
+      "answer": {
+        "hi": "आसान",
+        "hinglish": "aasaan"
+      },
+      "options": [
+        {
+          "hi": "आसान",
+          "hinglish": "aasaan"
+        },
+        {
+          "hi": "मुश्किल",
+          "hinglish": "mushkil"
+        },
+        {
+          "hi": "अच्छा",
+          "hinglish": "achha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U61.S13",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "hard",
+      "options": [
+        "hard",
+        "long",
+        "poor"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U61.S14",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘long’ मतलब ‘लंबा’।",
+        "hinglish": "‘long’ matlab ‘lamba’.",
+        "en": "Say it with me: long!"
+      },
+      "word": {
+        "english": "long",
+        "hindi": "लंबा",
+        "hinglish": "lamba"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U61.S15",
+      "skills": [
+        "vocab.opposites"
+      ],
+      "text": {
+        "hi": "‘short’ मतलब ‘छोटा’।",
+        "hinglish": "‘short’ matlab ‘chhota’.",
+        "en": "Say it with me: short!"
+      },
+      "word": {
+        "english": "short",
+        "hindi": "छोटा",
+        "hinglish": "chhota"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U61.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "long",
+        "hindi": "लंबा",
+        "hinglish": "lamba"
+      },
+      "answer": {
+        "hi": "लंबा",
+        "hinglish": "lamba"
+      },
+      "options": [
+        {
+          "hi": "लंबा",
+          "hinglish": "lamba"
+        },
+        {
+          "hi": "आसान",
+          "hinglish": "aasaan"
+        },
+        {
+          "hi": "अच्छा",
+          "hinglish": "achha"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U61.S17",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "short",
+      "options": [
+        "short",
+        "long",
+        "hard"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U61.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "long",
+        "hindi": "लंबा",
+        "hinglish": "lamba"
+      },
+      "answer": {
+        "hi": "लंबा",
+        "hinglish": "lamba"
+      },
+      "options": [
+        {
+          "hi": "लंबा",
+          "hinglish": "lamba"
+        },
+        {
+          "hi": "आसान",
+          "hinglish": "aasaan"
+        },
+        {
+          "hi": "अमीर",
+          "hinglish": "ameer"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U61.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "poor",
+        "hindi": "ग़रीब",
+        "hinglish": "gareeb"
+      },
+      "answer": {
+        "hi": "ग़रीब",
+        "hinglish": "gareeb"
+      },
+      "options": [
+        {
+          "hi": "ग़रीब",
+          "hinglish": "gareeb"
+        },
+        {
+          "hi": "आसान",
+          "hinglish": "aasaan"
+        },
+        {
+          "hi": "लंबा",
+          "hinglish": "lamba"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U61.S20",
+      "skills": [
+        "speak.word",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "bad",
+        "hindi": "बुरा",
+        "hinglish": "bura"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U61.S21",
+      "skills": [
+        "speak.word",
+        "vocab.opposites"
+      ],
+      "word": {
+        "english": "good",
+        "hindi": "अच्छा",
+        "hinglish": "achha"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U61.S22",
+      "skills": [
+        "read.word",
+        "vocab.opposites"
+      ],
+      "answer": "short",
+      "options": [
+        "short",
+        "easy",
+        "rich"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U61.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: good, bad, rich, poor, easy, hard, long, short।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: good, bad, rich, poor, easy, hard, long, short.",
+        "en": "Well done! Today's new words: good, bad, rich, poor, easy, hard, long, short."
+      }
+    }
+  ]
+}

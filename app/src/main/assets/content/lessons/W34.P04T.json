@@ -1,0 +1,203 @@
+{
+  "id": "W34.P04T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "spell_word",
+      "id": "W34.P04T.S01",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "tiny",
+        "emoji": "🐜",
+        "hindi": "बहुत छोटा",
+        "hinglish": "bahut chhota"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P04T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sharp",
+        "emoji": "🗡️",
+        "hindi": "तेज़ धार वाला",
+        "hinglish": "tez dhaar waala"
+      },
+      "answer": {
+        "hi": "तेज़ धार वाला",
+        "hinglish": "tez dhaar waala"
+      },
+      "options": [
+        {
+          "hi": "तेज़ धार वाला",
+          "hinglish": "tez dhaar waala"
+        },
+        {
+          "hi": "चिकना",
+          "hinglish": "chikna"
+        },
+        {
+          "hi": "बहुत पुराना",
+          "hinglish": "bahut puraana"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P04T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We visited an ___ temple.",
+      "answer": "ancient",
+      "options": [
+        "ancient",
+        "huge",
+        "smooth"
+      ],
+      "meaning": {
+        "hi": "बहुत पुराना",
+        "hinglish": "bahut puraana"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P04T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "fresh",
+      "options": [
+        "fresh",
+        "smooth",
+        "tiny"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P04T.S05",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "huge",
+        "emoji": "🐘",
+        "hindi": "बहुत बड़ा",
+        "hinglish": "bahut bada"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P04T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "heavy",
+        "emoji": "🏋️",
+        "hindi": "भारी",
+        "hinglish": "bhaari"
+      },
+      "answer": {
+        "hi": "भारी",
+        "hinglish": "bhaari"
+      },
+      "options": [
+        {
+          "hi": "भारी",
+          "hinglish": "bhaari"
+        },
+        {
+          "hi": "बहुत पुराना",
+          "hinglish": "bahut puraana"
+        },
+        {
+          "hi": "खाली",
+          "hinglish": "khaali"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P04T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The water bottle is ___.",
+      "answer": "empty",
+      "options": [
+        "empty",
+        "noisy",
+        "tiny"
+      ],
+      "meaning": {
+        "hi": "खाली",
+        "hinglish": "khaali"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P04T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "noisy",
+      "options": [
+        "noisy",
+        "heavy",
+        "ancient"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P04T.S09",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "smooth",
+        "emoji": "🪨",
+        "hindi": "चिकना",
+        "hinglish": "chikna"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P04T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "bright",
+        "emoji": "☀️",
+        "hindi": "चमकीला",
+        "hinglish": "chamkeela"
+      },
+      "answer": {
+        "hi": "चमकीला",
+        "hinglish": "chamkeela"
+      },
+      "options": [
+        {
+          "hi": "चमकीला",
+          "hinglish": "chamkeela"
+        },
+        {
+          "hi": "बहुत छोटा",
+          "hinglish": "bahut chhota"
+        },
+        {
+          "hi": "शोर वाला",
+          "hinglish": "shor waala"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "id": "L2.U44",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U44.S01",
+      "text": {
+        "hi": "छोटे-छोटे जीव।",
+        "hinglish": "Chhote-chhote jeev.",
+        "en": "Tiny creatures."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U44.S02",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘spider’ मतलब ‘मकड़ी’।",
+        "hinglish": "‘spider’ matlab ‘makdi’.",
+        "en": "Say it with me: spider!"
+      },
+      "word": {
+        "english": "spider",
+        "emoji": "🕷️",
+        "hindi": "मकड़ी",
+        "hinglish": "makdi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U44.S03",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘mosquito’ मतलब ‘मच्छर’।",
+        "hinglish": "‘mosquito’ matlab ‘machchhar’.",
+        "en": "Say it with me: mosquito!"
+      },
+      "word": {
+        "english": "mosquito",
+        "emoji": "🦟",
+        "hindi": "मच्छर",
+        "hinglish": "machchhar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U44.S04",
+      "skills": [
+        "listen.word",
+        "vocab.animals"
+      ],
+      "answer": "spider",
+      "options": [
+        {
+          "english": "spider",
+          "emoji": "🕷️",
+          "hindi": "मकड़ी",
+          "hinglish": "makdi"
+        },
+        {
+          "english": "snail",
+          "emoji": "🐌",
+          "hindi": "घोंघा",
+          "hinglish": "ghongha"
+        },
+        {
+          "english": "bat",
+          "emoji": "🦇",
+          "hindi": "चमगादड़",
+          "hinglish": "chamgaadad"
+        },
+        {
+          "english": "mosquito",
+          "emoji": "🦟",
+          "hindi": "मच्छर",
+          "hinglish": "machchhar"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U44.S05",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🦟",
+      "answer": "mosquito",
+      "options": [
+        "mosquito",
+        "bat",
+        "cockroach"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U44.S06",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘fly’ मतलब ‘मक्खी’।",
+        "hinglish": "‘fly’ matlab ‘makkhi’.",
+        "en": "Say it with me: fly!"
+      },
+      "word": {
+        "english": "fly",
+        "hindi": "मक्खी",
+        "hinglish": "makkhi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U44.S07",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘snail’ मतलब ‘घोंघा’।",
+        "hinglish": "‘snail’ matlab ‘ghongha’.",
+        "en": "Say it with me: snail!"
+      },
+      "word": {
+        "english": "snail",
+        "emoji": "🐌",
+        "hindi": "घोंघा",
+        "hinglish": "ghongha"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U44.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "fly",
+        "hindi": "मक्खी",
+        "hinglish": "makkhi"
+      },
+      "answer": {
+        "hi": "मक्खी",
+        "hinglish": "makkhi"
+      },
+      "options": [
+        {
+          "hi": "मक्खी",
+          "hinglish": "makkhi"
+        },
+        {
+          "hi": "छिपकली",
+          "hinglish": "chhipkali"
+        },
+        {
+          "hi": "तिलचट्टा",
+          "hinglish": "tilchatta"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U44.S09",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🐌",
+      "answer": "snail",
+      "options": [
+        "snail",
+        "fly",
+        "lizard"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U44.S10",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘worm’ मतलब ‘केंचुआ’।",
+        "hinglish": "‘worm’ matlab ‘kenchua’.",
+        "en": "Say it with me: worm!"
+      },
+      "word": {
+        "english": "worm",
+        "hindi": "केंचुआ",
+        "hinglish": "kenchua"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U44.S11",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘lizard’ मतलब ‘छिपकली’।",
+        "hinglish": "‘lizard’ matlab ‘chhipkali’.",
+        "en": "Say it with me: lizard!"
+      },
+      "word": {
+        "english": "lizard",
+        "emoji": "🦎",
+        "hindi": "छिपकली",
+        "hinglish": "chhipkali"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U44.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "worm",
+        "hindi": "केंचुआ",
+        "hinglish": "kenchua"
+      },
+      "answer": {
+        "hi": "केंचुआ",
+        "hinglish": "kenchua"
+      },
+      "options": [
+        {
+          "hi": "केंचुआ",
+          "hinglish": "kenchua"
+        },
+        {
+          "hi": "मच्छर",
+          "hinglish": "machchhar"
+        },
+        {
+          "hi": "मकड़ी",
+          "hinglish": "makdi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U44.S13",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🦎",
+      "answer": "lizard",
+      "options": [
+        "lizard",
+        "spider",
+        "cockroach"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U44.S14",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘cockroach’ मतलब ‘तिलचट्टा’।",
+        "hinglish": "‘cockroach’ matlab ‘tilchatta’.",
+        "en": "Say it with me: cockroach!"
+      },
+      "word": {
+        "english": "cockroach",
+        "hindi": "तिलचट्टा",
+        "hinglish": "tilchatta"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U44.S15",
+      "skills": [
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "‘bat’ मतलब ‘चमगादड़’।",
+        "hinglish": "‘bat’ matlab ‘chamgaadad’.",
+        "en": "Say it with me: bat!"
+      },
+      "word": {
+        "english": "bat",
+        "emoji": "🦇",
+        "hindi": "चमगादड़",
+        "hinglish": "chamgaadad"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U44.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "cockroach",
+        "hindi": "तिलचट्टा",
+        "hinglish": "tilchatta"
+      },
+      "answer": {
+        "hi": "तिलचट्टा",
+        "hinglish": "tilchatta"
+      },
+      "options": [
+        {
+          "hi": "तिलचट्टा",
+          "hinglish": "tilchatta"
+        },
+        {
+          "hi": "छिपकली",
+          "hinglish": "chhipkali"
+        },
+        {
+          "hi": "मकड़ी",
+          "hinglish": "makdi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U44.S17",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "emoji": "🦇",
+      "answer": "bat",
+      "options": [
+        "bat",
+        "spider",
+        "fly"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U44.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "snail",
+        "emoji": "🐌",
+        "hindi": "घोंघा",
+        "hinglish": "ghongha"
+      },
+      "answer": {
+        "hi": "घोंघा",
+        "hinglish": "ghongha"
+      },
+      "options": [
+        {
+          "hi": "घोंघा",
+          "hinglish": "ghongha"
+        },
+        {
+          "hi": "मकड़ी",
+          "hinglish": "makdi"
+        },
+        {
+          "hi": "केंचुआ",
+          "hinglish": "kenchua"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U44.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "fly",
+        "hindi": "मक्खी",
+        "hinglish": "makkhi"
+      },
+      "answer": {
+        "hi": "मक्खी",
+        "hinglish": "makkhi"
+      },
+      "options": [
+        {
+          "hi": "मक्खी",
+          "hinglish": "makkhi"
+        },
+        {
+          "hi": "मकड़ी",
+          "hinglish": "makdi"
+        },
+        {
+          "hi": "मच्छर",
+          "hinglish": "machchhar"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U44.S20",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "bat",
+        "emoji": "🦇",
+        "hindi": "चमगादड़",
+        "hinglish": "chamgaadad"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U44.S21",
+      "skills": [
+        "speak.word",
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "snail",
+        "emoji": "🐌",
+        "hindi": "घोंघा",
+        "hinglish": "ghongha"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U44.S22",
+      "skills": [
+        "read.word",
+        "vocab.animals"
+      ],
+      "answer": "worm",
+      "options": [
+        "worm",
+        "mosquito",
+        "cockroach"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U44.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: spider, mosquito, fly, snail, worm, lizard, cockroach, bat।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: spider, mosquito, fly, snail, worm, lizard, cockroach, bat.",
+        "en": "Well done! Today's new words: spider, mosquito, fly, snail, worm, lizard, cockroach, bat."
+      }
+    }
+  ]
+}

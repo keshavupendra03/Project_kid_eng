@@ -1,13 +1,24 @@
 package com.samjhoenglish.ui
 
+import androidx.compose.animation.core.tween
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.slideInHorizontally
+import androidx.compose.animation.slideOutHorizontally
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
+import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.compose.dropUnlessResumed
 import androidx.lifecycle.viewmodel.compose.viewModel
@@ -23,18 +34,34 @@ import com.samjhoenglish.i18n.LocalAppLanguage
 import com.samjhoenglish.speech.LocalPhonics
 import com.samjhoenglish.speech.LocalSoundFx
 import com.samjhoenglish.speech.LocalSpeaker
+import com.samjhoenglish.speech.LocalReadingListener
 import com.samjhoenglish.speech.LocalVoiceListener
+import com.samjhoenglish.content.isReadingLesson
+import com.samjhoenglish.learning.Learning
+import com.samjhoenglish.ui.reading.ReadingScreen
+import com.samjhoenglish.ui.express.ExpressGameScreen
+import com.samjhoenglish.ui.express.ExpressScreen
+import com.samjhoenglish.ui.express.ExpressViewModel
+import com.samjhoenglish.ui.words.WordPowerScreen
+import com.samjhoenglish.ui.words.WordPowerViewModel
+import com.samjhoenglish.ui.components.LocalTinkuPieces
 import com.samjhoenglish.ui.home.HomeScreen
 import com.samjhoenglish.ui.home.JourneyViewModel
 import com.samjhoenglish.ui.language.LanguagePickerScreen
 import com.samjhoenglish.ui.lesson.LessonScreen
+import com.samjhoenglish.ui.lesson.LocalChildName
+import com.samjhoenglish.ui.theme.SamjhoTheme
 import com.samjhoenglish.ui.lesson.LessonViewModel
 import com.samjhoenglish.ui.level.LevelScreen
+import com.samjhoenglish.ui.parent.ParentArea
+import com.samjhoenglish.ui.parent.TimeUpScreen
 import com.samjhoenglish.ui.placement.PlacementScreen
 import com.samjhoenglish.ui.placement.PlacementViewModel
 import com.samjhoenglish.ui.profile.ProfilePickerScreen
 import com.samjhoenglish.ui.profile.ProfileSetupScreen
 import com.samjhoenglish.ui.settings.SettingsScreen
+import kotlinx.coroutines.flow.flowOf
+import kotlinx.coroutines.launch
 import kotlinx.serialization.Serializable
 
 @Serializable
@@ -62,6 +89,24 @@ private data class LevelRoute(val number: Int)
 @Serializable
 private data class LessonRoute(val lessonId: String? = null)
 
+@Serializable
+private object ReadingRoute
+
+@Serializable
+private object WordPowerRoute
+
+@Serializable
+private object ExpressRoute
+
+@Serializable
+private data class ExpressRoundRoute(val passageId: String, val challenge: Boolean)
+
+@Serializable
+private object ParentRoute
+
+@Serializable
+private object TimeUpRoute
+
 @Composable
 fun SamjhoApp(container: AppContainer) {
     val viewModel: AppViewModel = viewModel(factory = AppViewModel.factory(container.settings, container.progress))
@@ -69,6 +114,8 @@ fun SamjhoApp(container: AppContainer) {
     val missingVoices by container.speaker.missingVoices.collectAsStateWithLifecycle()
     val englishVoice by viewModel.englishVoice.collectAsStateWithLifecycle()
     LaunchedEffect(englishVoice) { container.speaker.englishVoice = englishVoice }
+    val chimesOn by viewModel.chimesOn.collectAsStateWithLifecycle()
+    LaunchedEffect(chimesOn) { container.sounds.chimesOn = chimesOn }
 
     val ready = state as? AppUiState.Ready
     if (ready == null) {
@@ -79,7 +126,9 @@ fun SamjhoApp(container: AppContainer) {
 
     val language = ready.language ?: AppLanguage.HINGLISH
     val child = ready.currentChild
-    LaunchedEffect(child?.id) { child?.let { container.studyTimer.setChild(it.id) } }
+    LaunchedEffect(child?.id) {
+        if (child != null) container.studyTimer.setChild(child.id) else container.studyTimer.clearChild()
+    }
 
     val startDestination: Any = remember {
         when {
@@ -91,15 +140,52 @@ fun SamjhoApp(container: AppContainer) {
         }
     }
 
+    val stars by remember(child?.id) { child?.let { container.progress.totalStars(it.id) } ?: flowOf(0) }
+        .collectAsStateWithLifecycle(initialValue = 0)
+
+    // The look follows the child: bright for Class 1–4, calmer for Class 5–8.
+    SamjhoTheme(senior = child != null && !child.isJunior) {
+    Surface(color = MaterialTheme.colorScheme.background, modifier = Modifier.fillMaxSize()) {
     CompositionLocalProvider(
         LocalAppLanguage provides language,
         LocalSpeaker provides container.speaker,
         LocalSoundFx provides container.sounds,
         LocalPhonics provides container.phonics,
         LocalVoiceListener provides container.listener,
+        LocalReadingListener provides container.reader,
+        LocalChildName provides child?.name.orEmpty(),
+        LocalTinkuPieces provides Learning.unlockedPieces(stars),
     ) {
         val nav = rememberNavController()
-        NavHost(navController = nav, startDestination = startDestination) {
+        val scope = rememberCoroutineScope()
+        var checkingTime by remember { mutableStateOf(false) }
+
+        // Every new lesson or game round goes through here, so the parent's daily limit is respected.
+        fun openTimed(c: Child, route: Any, replaceCurrent: Boolean = false) {
+            if (checkingTime || nav.currentBackStackEntry?.lifecycle?.currentState != Lifecycle.State.RESUMED) return
+            checkingTime = true
+            // The listener's model takes a few seconds to load; start now so reading doesn't wait.
+            if ((route as? LessonRoute)?.lessonId?.isReadingLesson == true || route is ExpressRoundRoute) container.reader.warmUp()
+            scope.launch {
+                val timeUp = container.parent.timeIsUp(c)
+                checkingTime = false
+                nav.navigate(if (timeUp) TimeUpRoute else route) {
+                    if (replaceCurrent && route is LessonRoute) popUpTo<LessonRoute> { inclusive = true }
+                    if (replaceCurrent && route is ExpressRoundRoute) popUpTo<ExpressRoundRoute> { inclusive = true }
+                }
+            }
+        }
+
+        fun openLesson(c: Child, route: LessonRoute, replaceCurrent: Boolean = false) = openTimed(c, route, replaceCurrent)
+
+        NavHost(
+            navController = nav,
+            startDestination = startDestination,
+            enterTransition = { fadeIn(tween(220)) + slideInHorizontally(tween(220)) { it / 10 } },
+            exitTransition = { fadeOut(tween(150)) },
+            popEnterTransition = { fadeIn(tween(220)) },
+            popExitTransition = { fadeOut(tween(150)) + slideOutHorizontally(tween(220)) { it / 10 } },
+        ) {
             composable<LanguagePickerRoute> {
                 LanguagePickerScreen(
                     onChosen = { chosen ->
@@ -139,7 +225,7 @@ fun SamjhoApp(container: AppContainer) {
                 WithChild(child) { c ->
                     val journey: JourneyViewModel = viewModel(
                         key = "journey-${c.id}",
-                        factory = JourneyViewModel.factory(c.id, container.content, container.progress),
+                        factory = JourneyViewModel.factory(c.id, container.content, container.progress, container.parent, c.classGrade),
                     )
                     val journeyState by journey.uiState.collectAsStateWithLifecycle()
                     HomeScreen(
@@ -147,9 +233,109 @@ fun SamjhoApp(container: AppContainer) {
                         journey = journeyState,
                         voiceMissing = missingVoices.isNotEmpty(),
                         onSwitchChild = dropUnlessResumed { nav.navigate(ProfilePickerRoute) },
+                        onOpenParents = dropUnlessResumed { nav.navigate(ParentRoute) },
                         onOpenSettings = dropUnlessResumed { nav.navigate(SettingsRoute) },
                         onOpenLevel = { number -> nav.navigate(LevelRoute(number)) },
-                        onStartToday = dropUnlessResumed { nav.navigate(LessonRoute()) },
+                        onStartToday = { openLesson(c, LessonRoute()) },
+                        onMissionDone = journey::missionDone,
+                        onOpenReading = dropUnlessResumed { nav.navigate(ReadingRoute) },
+                        onOpenExpress = dropUnlessResumed { nav.navigate(ExpressRoute) },
+                        onOpenWordPower = dropUnlessResumed { nav.navigate(WordPowerRoute) },
+                    )
+                }
+            }
+            composable<WordPowerRoute> {
+                WithChild(child) { c ->
+                    val words: WordPowerViewModel = viewModel(
+                        key = "words-${c.id}-${c.classGrade}",
+                        factory = WordPowerViewModel.factory(c.id, c.classGrade, container.content, container.progress),
+                    )
+                    val wordsState by words.uiState.collectAsStateWithLifecycle()
+                    WordPowerScreen(
+                        state = wordsState,
+                        onBack = dropUnlessResumed { nav.popBackStack() },
+                        onOpenLesson = { id -> openLesson(c, LessonRoute(id)) },
+                    )
+                }
+            }
+            composable<ExpressRoute> {
+                WithChild(child) { c ->
+                    val express: ExpressViewModel = viewModel(
+                        key = "express-${c.id}",
+                        factory = ExpressViewModel.factory(c.id, container.content, container.progress),
+                    )
+                    val expressState by express.uiState.collectAsStateWithLifecycle()
+                    ExpressScreen(
+                        state = expressState,
+                        onBack = dropUnlessResumed { nav.popBackStack() },
+                        onPlay = { id, challenge -> openTimed(c, ExpressRoundRoute(id, challenge)) },
+                    )
+                }
+            }
+            composable<ExpressRoundRoute> { entry ->
+                val route = entry.toRoute<ExpressRoundRoute>()
+                WithChild(child) { c ->
+                    ExpressGameScreen(
+                        container = container,
+                        childId = c.id,
+                        passageId = route.passageId,
+                        challenge = route.challenge,
+                        onExit = dropUnlessResumed { nav.popBackStack() },
+                        onNext = { next -> openTimed(c, ExpressRoundRoute(next, route.challenge), replaceCurrent = true) },
+                    )
+                }
+            }
+            composable<ReadingRoute> {
+                WithChild(child) { c ->
+                    val journey: JourneyViewModel = viewModel(
+                        key = "journey-${c.id}",
+                        factory = JourneyViewModel.factory(c.id, container.content, container.progress, container.parent, c.classGrade),
+                    )
+                    val journeyState by journey.uiState.collectAsStateWithLifecycle()
+                    ReadingScreen(
+                        journey = journeyState,
+                        onBack = dropUnlessResumed { nav.popBackStack() },
+                        onOpenPassage = { id -> openLesson(c, LessonRoute(id)) },
+                    )
+                }
+            }
+            composable<ParentRoute> {
+                ParentArea(
+                    container = container,
+                    children = ready.children,
+                    currentChild = child,
+                    onClose = dropUnlessResumed { nav.popBackStack() },
+                    onKidModeStarted = { id ->
+                        viewModel.setCurrentChild(id)
+                        nav.startFresh(HomeRoute)
+                    },
+                    onChildDeleted = { deleted ->
+                        if (deleted == child?.id) {
+                            val others = ready.children.filter { it.id != deleted }
+                            val only = others.singleOrNull()
+                            when {
+                                others.isEmpty() -> nav.startFresh(ProfileSetupRoute)
+                                only == null -> nav.startFresh(ProfilePickerRoute)
+                                else -> {
+                                    viewModel.setCurrentChild(only.id)
+                                    nav.startFresh(if (only.placementDone) HomeRoute else PlacementRoute(only.id))
+                                }
+                            }
+                        }
+                    },
+                )
+            }
+            composable<TimeUpRoute> {
+                WithChild(child) { c ->
+                    TimeUpScreen(
+                        settings = container.settings,
+                        onHome = dropUnlessResumed { nav.popBackStack<HomeRoute>(inclusive = false) },
+                        onExtraTime = {
+                            scope.launch {
+                                container.parent.addExtraTime(c.id, EXTRA_MINUTES)
+                                nav.popBackStack<HomeRoute>(inclusive = false)
+                            }
+                        },
                     )
                 }
             }
@@ -159,6 +345,8 @@ fun SamjhoApp(container: AppContainer) {
                     onLanguageChange = viewModel::setLanguage,
                     englishVoice = englishVoice,
                     onEnglishVoiceChange = viewModel::setEnglishVoice,
+                    chimesOn = chimesOn,
+                    onChimesChange = viewModel::setChimesOn,
                     onBack = dropUnlessResumed { nav.popBackStack() },
                 )
             }
@@ -167,7 +355,7 @@ fun SamjhoApp(container: AppContainer) {
                 WithChild(child) { c ->
                     val journey: JourneyViewModel = viewModel(
                         key = "journey-${c.id}",
-                        factory = JourneyViewModel.factory(c.id, container.content, container.progress),
+                        factory = JourneyViewModel.factory(c.id, container.content, container.progress, container.parent, c.classGrade),
                     )
                     val journeyState by journey.uiState.collectAsStateWithLifecycle()
                     journeyState.levels.firstOrNull { it.number == number }?.let { level ->
@@ -175,7 +363,7 @@ fun SamjhoApp(container: AppContainer) {
                             level = level,
                             journey = journeyState,
                             onBack = dropUnlessResumed { nav.popBackStack() },
-                            onOpenLesson = { id -> nav.navigate(LessonRoute(id)) },
+                            onOpenLesson = { id -> openLesson(c, LessonRoute(id)) },
                         )
                     }
                 }
@@ -190,15 +378,17 @@ fun SamjhoApp(container: AppContainer) {
                         ),
                         onExit = dropUnlessResumed { nav.popBackStack() },
                         onHome = dropUnlessResumed { nav.popBackStack<HomeRoute>(inclusive = false) },
-                        onNextLesson = { next ->
-                            nav.navigate(LessonRoute(next)) { popUpTo<LessonRoute> { inclusive = true } }
-                        },
+                        onNextLesson = { next -> openLesson(c, LessonRoute(next), replaceCurrent = true) },
                     )
                 }
             }
         }
     }
+    }
+    }
 }
+
+private const val EXTRA_MINUTES = 15
 
 /** Screens that belong to a child only render once one is chosen. */
 @Composable

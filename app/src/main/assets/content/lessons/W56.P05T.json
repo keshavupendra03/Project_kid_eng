@@ -1,0 +1,207 @@
+{
+  "id": "W56.P05T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "match_meaning",
+      "id": "W56.P05T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "customer",
+        "emoji": "🧍",
+        "hindi": "ग्राहक",
+        "hinglish": "graahak"
+      },
+      "answer": {
+        "hi": "ग्राहक",
+        "hinglish": "graahak"
+      },
+      "options": [
+        {
+          "hi": "ग्राहक",
+          "hinglish": "graahak"
+        },
+        {
+          "hi": "बजट",
+          "hinglish": "budget"
+        },
+        {
+          "hi": "बचत करना",
+          "hinglish": "bachat karna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P05T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I ___ a coin every day.",
+      "answer": "save",
+      "options": [
+        "save",
+        "change",
+        "receipt"
+      ],
+      "meaning": {
+        "hi": "बचत करना",
+        "hinglish": "bachat karna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P05T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "budget",
+      "options": [
+        "budget",
+        "price",
+        "spend"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P05T.S04",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "expensive",
+        "emoji": "💎",
+        "hindi": "महँगा",
+        "hinglish": "mehnga"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P05T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "cheap",
+        "emoji": "🪙",
+        "hindi": "सस्ता",
+        "hinglish": "sasta"
+      },
+      "answer": {
+        "hi": "सस्ता",
+        "hinglish": "sasta"
+      },
+      "options": [
+        {
+          "hi": "सस्ता",
+          "hinglish": "sasta"
+        },
+        {
+          "hi": "ख़र्च करना",
+          "hinglish": "kharch karna"
+        },
+        {
+          "hi": "छूट",
+          "hinglish": "chhoot"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P05T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The shopkeeper gave me ten rupees ___.",
+      "answer": "change",
+      "options": [
+        "change",
+        "budget",
+        "expensive"
+      ],
+      "meaning": {
+        "hi": "छुट्टे पैसे",
+        "hinglish": "chhutte paise"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P05T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "spend",
+      "options": [
+        "spend",
+        "cheap",
+        "price"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P05T.S08",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "receipt",
+        "emoji": "🧾",
+        "hindi": "रसीद",
+        "hinglish": "raseed"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P05T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "discount",
+        "emoji": "🔖",
+        "hindi": "छूट",
+        "hinglish": "chhoot"
+      },
+      "answer": {
+        "hi": "छूट",
+        "hinglish": "chhoot"
+      },
+      "options": [
+        {
+          "hi": "छूट",
+          "hinglish": "chhoot"
+        },
+        {
+          "hi": "महँगा",
+          "hinglish": "mehnga"
+        },
+        {
+          "hi": "रसीद",
+          "hinglish": "raseed"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P05T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "What is the ___ of this pen?",
+      "answer": "price",
+      "options": [
+        "price",
+        "expensive",
+        "receipt"
+      ],
+      "meaning": {
+        "hi": "दाम",
+        "hinglish": "daam"
+      }
+    }
+  ]
+}

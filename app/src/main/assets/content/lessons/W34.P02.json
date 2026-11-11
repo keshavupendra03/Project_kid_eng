@@ -1,0 +1,480 @@
+{
+  "id": "W34.P02",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P02.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: भावनाएँ। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Bhaavnaayein. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Feelings. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P02.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "excited",
+        "emoji": "🤩",
+        "hindi": "उत्साहित",
+        "hinglish": "utsaahit"
+      },
+      "meaning": "very happy about something that is going to happen",
+      "example": "I am excited about the school trip.",
+      "exampleMeaning": {
+        "hi": "मैं स्कूल ट्रिप को लेकर बहुत उत्साहित हूँ।",
+        "hinglish": "Main school trip ko lekar bahut utsaahit hoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P02.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "worried",
+        "emoji": "😟",
+        "hindi": "चिंतित",
+        "hinglish": "chintit"
+      },
+      "meaning": "thinking that something bad may happen",
+      "example": "Mummy was worried when I came home late.",
+      "exampleMeaning": {
+        "hi": "जब मैं देर से घर आया/आई, तो मम्मी चिंतित थीं।",
+        "hinglish": "Jab main der se ghar aaya/aayi, to Mummy chintit thin."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P02.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "angry",
+        "emoji": "😠",
+        "hindi": "गुस्सा",
+        "hinglish": "gussa"
+      },
+      "meaning": "having a strong feeling when something is not fair",
+      "example": "The farmer was angry with the goats.",
+      "exampleMeaning": {
+        "hi": "किसान बकरियों से गुस्सा था।",
+        "hinglish": "Kisaan bakriyon se gussa tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P02.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "proud",
+        "emoji": "😌",
+        "hindi": "गर्व",
+        "hinglish": "garv"
+      },
+      "meaning": "happy about something good you or others did",
+      "example": "Papa is proud of my drawing.",
+      "exampleMeaning": {
+        "hi": "पापा को मेरी ड्रॉइंग पर गर्व है।",
+        "hinglish": "Papa ko meri drawing par garv hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P02.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "shy",
+        "emoji": "🙈",
+        "hindi": "शर्मीला",
+        "hinglish": "sharmeela"
+      },
+      "meaning": "feeling nervous to talk to new people",
+      "example": "The new girl was shy on her first day.",
+      "exampleMeaning": {
+        "hi": "नई लड़की पहले दिन शर्मा रही थी।",
+        "hinglish": "Nayi ladki pehle din sharma rahi thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P02.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "brave",
+        "emoji": "🦁",
+        "hindi": "बहादुर",
+        "hinglish": "bahaadur"
+      },
+      "meaning": "not afraid to do something difficult",
+      "example": "The brave boy helped the old man cross the road.",
+      "exampleMeaning": {
+        "hi": "बहादुर लड़के ने बूढ़े आदमी को सड़क पार करने में मदद की।",
+        "hinglish": "Bahaadur ladke ne boodhe aadmi ko sadak paar karne mein madad ki."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P02.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lonely",
+        "emoji": "😔",
+        "hindi": "अकेला",
+        "hinglish": "akela"
+      },
+      "meaning": "sad because you have no one with you",
+      "example": "The puppy felt lonely without its mother.",
+      "exampleMeaning": {
+        "hi": "पिल्ले को अपनी माँ के बिना अकेलापन लगा।",
+        "hinglish": "Pille ko apni maa ke bina akelapan laga."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P02.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "surprised",
+        "emoji": "😮",
+        "hindi": "हैरान",
+        "hinglish": "hairaan"
+      },
+      "meaning": "feeling something you did not expect",
+      "example": "I was surprised to see a cake on the table.",
+      "exampleMeaning": {
+        "hi": "मेज़ पर केक देखकर मैं हैरान रह गया/गई।",
+        "hinglish": "Mez par cake dekhkar main hairaan reh gaya/gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P02.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "calm",
+        "emoji": "😌",
+        "hindi": "शांत",
+        "hinglish": "shaant"
+      },
+      "meaning": "quiet and not worried",
+      "example": "Take a deep breath and stay calm.",
+      "exampleMeaning": {
+        "hi": "गहरी साँस लो और शांत रहो।",
+        "hinglish": "Gehri saans lo aur shaant raho."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P02.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "kind",
+        "emoji": "💗",
+        "hindi": "दयालु",
+        "hinglish": "dayaalu"
+      },
+      "meaning": "being nice and helpful to others",
+      "example": "Be kind to animals.",
+      "exampleMeaning": {
+        "hi": "जानवरों के साथ प्यार से पेश आओ।",
+        "hinglish": "Jaanwaron ke saath pyaar se pesh aao."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P02.S12",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "proud",
+        "emoji": "😌",
+        "hindi": "गर्व",
+        "hinglish": "garv"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P02.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I was ___ to see a cake on the table.",
+      "answer": "surprised",
+      "options": [
+        "surprised",
+        "brave",
+        "shy"
+      ],
+      "meaning": {
+        "hi": "हैरान",
+        "hinglish": "hairaan"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P02.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lonely",
+        "emoji": "😔",
+        "hindi": "अकेला",
+        "hinglish": "akela"
+      },
+      "answer": {
+        "hi": "अकेला",
+        "hinglish": "akela"
+      },
+      "options": [
+        {
+          "hi": "अकेला",
+          "hinglish": "akela"
+        },
+        {
+          "hi": "शांत",
+          "hinglish": "shaant"
+        },
+        {
+          "hi": "उत्साहित",
+          "hinglish": "utsaahit"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P02.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ boy helped the old man cross the road.",
+      "answer": "brave",
+      "options": [
+        "brave",
+        "worried",
+        "kind"
+      ],
+      "meaning": {
+        "hi": "बहादुर",
+        "hinglish": "bahaadur"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P02.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Mummy was ___ when I came home late.",
+      "answer": "worried",
+      "options": [
+        "worried",
+        "calm",
+        "surprised"
+      ],
+      "meaning": {
+        "hi": "चिंतित",
+        "hinglish": "chintit"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P02.S17",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "excited",
+        "emoji": "🤩",
+        "hindi": "उत्साहित",
+        "hinglish": "utsaahit"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P02.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "angry",
+        "emoji": "😠",
+        "hindi": "गुस्सा",
+        "hinglish": "gussa"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P02.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "angry",
+        "emoji": "😠",
+        "hindi": "गुस्सा",
+        "hinglish": "gussa"
+      },
+      "answer": {
+        "hi": "गुस्सा",
+        "hinglish": "gussa"
+      },
+      "options": [
+        {
+          "hi": "गुस्सा",
+          "hinglish": "gussa"
+        },
+        {
+          "hi": "गर्व",
+          "hinglish": "garv"
+        },
+        {
+          "hi": "शर्मीला",
+          "hinglish": "sharmeela"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P02.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "shy",
+        "emoji": "🙈",
+        "hindi": "शर्मीला",
+        "hinglish": "sharmeela"
+      },
+      "answer": {
+        "hi": "शर्मीला",
+        "hinglish": "sharmeela"
+      },
+      "options": [
+        {
+          "hi": "शर्मीला",
+          "hinglish": "sharmeela"
+        },
+        {
+          "hi": "अकेला",
+          "hinglish": "akela"
+        },
+        {
+          "hi": "शांत",
+          "hinglish": "shaant"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P02.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "excited",
+        "emoji": "🤩",
+        "hindi": "उत्साहित",
+        "hinglish": "utsaahit"
+      },
+      "answer": {
+        "hi": "उत्साहित",
+        "hinglish": "utsaahit"
+      },
+      "options": [
+        {
+          "hi": "उत्साहित",
+          "hinglish": "utsaahit"
+        },
+        {
+          "hi": "शर्मीला",
+          "hinglish": "sharmeela"
+        },
+        {
+          "hi": "शांत",
+          "hinglish": "shaant"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P02.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "calm",
+      "options": [
+        "calm",
+        "brave",
+        "excited"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P02.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "kind",
+      "options": [
+        "kind",
+        "surprised",
+        "excited"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P02.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "worried",
+        "emoji": "😟",
+        "hindi": "चिंतित",
+        "hinglish": "chintit"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P02.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Papa is ___ of my drawing.",
+      "answer": "proud",
+      "options": [
+        "proud",
+        "angry",
+        "surprised"
+      ],
+      "meaning": {
+        "hi": "गर्व",
+        "hinglish": "garv"
+      }
+    }
+  ]
+}

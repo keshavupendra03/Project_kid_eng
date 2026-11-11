@@ -1,0 +1,4796 @@
+{
+  "placement": "W.PLACE",
+  "bands": [
+    {
+      "id": "W34",
+      "emoji": "🌱",
+      "title": {
+        "hi": "कक्षा 3–4 के शब्द",
+        "hinglish": "Kaksha 3–4 ke shabd",
+        "en": "Words for Class 3–4"
+      },
+      "minClass": 1,
+      "maxClass": 4,
+      "packs": [
+        {
+          "id": "W34.P01",
+          "testId": "W34.P01T",
+          "emoji": "🏫",
+          "title": {
+            "hi": "स्कूल का दिन",
+            "hinglish": "School ka din",
+            "en": "School day"
+          },
+          "words": [
+            {
+              "english": "borrow",
+              "emoji": "📚",
+              "hindi": "उधार लेना",
+              "hinglish": "udhaar lena",
+              "meaning": "to take something for a short time and give it back",
+              "example": "Can I borrow your eraser?",
+              "exampleMeaning": {
+                "hi": "क्या मैं तुम्हारा रबड़ उधार ले सकता/सकती हूँ?",
+                "hinglish": "Kya main tumhara rabad udhaar le sakta/sakti hoon?"
+              }
+            },
+            {
+              "english": "lend",
+              "emoji": "🤝",
+              "hindi": "उधार देना",
+              "hinglish": "udhaar dena",
+              "meaning": "to give something to someone for a short time",
+              "example": "Please lend me your ruler.",
+              "exampleMeaning": {
+                "hi": "प्लीज़ मुझे अपना स्केल उधार दो।",
+                "hinglish": "Please mujhe apna scale udhaar do."
+              }
+            },
+            {
+              "english": "explain",
+              "emoji": "🧑‍🏫",
+              "hindi": "समझाना",
+              "hinglish": "samjhana",
+              "meaning": "to tell how or why so that someone understands",
+              "example": "The teacher will explain the sum again.",
+              "exampleMeaning": {
+                "hi": "टीचर यह सवाल फिर से समझाएँगे।",
+                "hinglish": "Teacher yeh sawaal phir se samjhayenge."
+              }
+            },
+            {
+              "english": "answer",
+              "emoji": "🙋",
+              "hindi": "जवाब",
+              "hinglish": "jawaab",
+              "meaning": "what you say or write when someone asks",
+              "example": "I know the answer to this question.",
+              "exampleMeaning": {
+                "hi": "मुझे इस सवाल का जवाब पता है।",
+                "hinglish": "Mujhe is sawaal ka jawaab pata hai."
+              }
+            },
+            {
+              "english": "practice",
+              "emoji": "✍️",
+              "hindi": "अभ्यास",
+              "hinglish": "abhyaas",
+              "meaning": "doing something again and again to get better",
+              "example": "Reading needs daily practice.",
+              "exampleMeaning": {
+                "hi": "पढ़ने के लिए रोज़ अभ्यास ज़रूरी है।",
+                "hinglish": "Padhne ke liye roz abhyaas zaroori hai."
+              }
+            },
+            {
+              "english": "library",
+              "emoji": "📖",
+              "hindi": "पुस्तकालय",
+              "hinglish": "pustakaalay",
+              "meaning": "a room full of books you can read or take home",
+              "example": "Our school library has many story books.",
+              "exampleMeaning": {
+                "hi": "हमारे स्कूल की लाइब्रेरी में बहुत सारी कहानी की किताबें हैं।",
+                "hinglish": "Hamare school ki library mein bahut saari kahani ki kitaabein hain."
+              }
+            },
+            {
+              "english": "timetable",
+              "emoji": "🗓️",
+              "hindi": "समय-सारणी",
+              "hinglish": "samay-saarni",
+              "meaning": "a list that shows what happens at what time",
+              "example": "Maths is first on our timetable today.",
+              "exampleMeaning": {
+                "hi": "आज हमारे टाइमटेबल में सबसे पहले गणित है।",
+                "hinglish": "Aaj hamare timetable mein sabse pehle ganit hai."
+              }
+            },
+            {
+              "english": "absent",
+              "emoji": "🚫",
+              "hindi": "गैरहाज़िर",
+              "hinglish": "gairhaazir",
+              "meaning": "not present at a place",
+              "example": "Ravi was absent because he had a cold.",
+              "exampleMeaning": {
+                "hi": "रवि गैरहाज़िर था क्योंकि उसे सर्दी थी।",
+                "hinglish": "Ravi gairhaazir tha kyunki use sardi thi."
+              }
+            },
+            {
+              "english": "neat",
+              "emoji": "✨",
+              "hindi": "साफ़-सुथरा",
+              "hinglish": "saaf-suthra",
+              "meaning": "clean and tidy",
+              "example": "Keep your notebook neat.",
+              "exampleMeaning": {
+                "hi": "अपनी कॉपी साफ़-सुथरी रखो।",
+                "hinglish": "Apni copy saaf-suthri rakho."
+              }
+            },
+            {
+              "english": "remember",
+              "emoji": "🧠",
+              "hindi": "याद रखना",
+              "hinglish": "yaad rakhna",
+              "meaning": "to keep something in your mind",
+              "example": "Remember to bring your lunch box.",
+              "exampleMeaning": {
+                "hi": "अपना टिफ़िन लाना याद रखना।",
+                "hinglish": "Apna tiffin laana yaad rakhna."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P02",
+          "testId": "W34.P02T",
+          "emoji": "😊",
+          "title": {
+            "hi": "भावनाएँ",
+            "hinglish": "Bhaavnaayein",
+            "en": "Feelings"
+          },
+          "words": [
+            {
+              "english": "excited",
+              "emoji": "🤩",
+              "hindi": "उत्साहित",
+              "hinglish": "utsaahit",
+              "meaning": "very happy about something that is going to happen",
+              "example": "I am excited about the school trip.",
+              "exampleMeaning": {
+                "hi": "मैं स्कूल ट्रिप को लेकर बहुत उत्साहित हूँ।",
+                "hinglish": "Main school trip ko lekar bahut utsaahit hoon."
+              }
+            },
+            {
+              "english": "worried",
+              "emoji": "😟",
+              "hindi": "चिंतित",
+              "hinglish": "chintit",
+              "meaning": "thinking that something bad may happen",
+              "example": "Mummy was worried when I came home late.",
+              "exampleMeaning": {
+                "hi": "जब मैं देर से घर आया/आई, तो मम्मी चिंतित थीं।",
+                "hinglish": "Jab main der se ghar aaya/aayi, to Mummy chintit thin."
+              }
+            },
+            {
+              "english": "angry",
+              "emoji": "😠",
+              "hindi": "गुस्सा",
+              "hinglish": "gussa",
+              "meaning": "having a strong feeling when something is not fair",
+              "example": "The farmer was angry with the goats.",
+              "exampleMeaning": {
+                "hi": "किसान बकरियों से गुस्सा था।",
+                "hinglish": "Kisaan bakriyon se gussa tha."
+              }
+            },
+            {
+              "english": "proud",
+              "emoji": "😌",
+              "hindi": "गर्व",
+              "hinglish": "garv",
+              "meaning": "happy about something good you or others did",
+              "example": "Papa is proud of my drawing.",
+              "exampleMeaning": {
+                "hi": "पापा को मेरी ड्रॉइंग पर गर्व है।",
+                "hinglish": "Papa ko meri drawing par garv hai."
+              }
+            },
+            {
+              "english": "shy",
+              "emoji": "🙈",
+              "hindi": "शर्मीला",
+              "hinglish": "sharmeela",
+              "meaning": "feeling nervous to talk to new people",
+              "example": "The new girl was shy on her first day.",
+              "exampleMeaning": {
+                "hi": "नई लड़की पहले दिन शर्मा रही थी।",
+                "hinglish": "Nayi ladki pehle din sharma rahi thi."
+              }
+            },
+            {
+              "english": "brave",
+              "emoji": "🦁",
+              "hindi": "बहादुर",
+              "hinglish": "bahaadur",
+              "meaning": "not afraid to do something difficult",
+              "example": "The brave boy helped the old man cross the road.",
+              "exampleMeaning": {
+                "hi": "बहादुर लड़के ने बूढ़े आदमी को सड़क पार करने में मदद की।",
+                "hinglish": "Bahaadur ladke ne boodhe aadmi ko sadak paar karne mein madad ki."
+              }
+            },
+            {
+              "english": "lonely",
+              "emoji": "😔",
+              "hindi": "अकेला",
+              "hinglish": "akela",
+              "meaning": "sad because you have no one with you",
+              "example": "The puppy felt lonely without its mother.",
+              "exampleMeaning": {
+                "hi": "पिल्ले को अपनी माँ के बिना अकेलापन लगा।",
+                "hinglish": "Pille ko apni maa ke bina akelapan laga."
+              }
+            },
+            {
+              "english": "surprised",
+              "emoji": "😮",
+              "hindi": "हैरान",
+              "hinglish": "hairaan",
+              "meaning": "feeling something you did not expect",
+              "example": "I was surprised to see a cake on the table.",
+              "exampleMeaning": {
+                "hi": "मेज़ पर केक देखकर मैं हैरान रह गया/गई।",
+                "hinglish": "Mez par cake dekhkar main hairaan reh gaya/gayi."
+              }
+            },
+            {
+              "english": "calm",
+              "emoji": "😌",
+              "hindi": "शांत",
+              "hinglish": "shaant",
+              "meaning": "quiet and not worried",
+              "example": "Take a deep breath and stay calm.",
+              "exampleMeaning": {
+                "hi": "गहरी साँस लो और शांत रहो।",
+                "hinglish": "Gehri saans lo aur shaant raho."
+              }
+            },
+            {
+              "english": "kind",
+              "emoji": "💗",
+              "hindi": "दयालु",
+              "hinglish": "dayaalu",
+              "meaning": "being nice and helpful to others",
+              "example": "Be kind to animals.",
+              "exampleMeaning": {
+                "hi": "जानवरों के साथ प्यार से पेश आओ।",
+                "hinglish": "Jaanwaron ke saath pyaar se pesh aao."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P03",
+          "testId": "W34.P03T",
+          "emoji": "🏠",
+          "title": {
+            "hi": "घर के काम",
+            "hinglish": "Ghar ke kaam",
+            "en": "Jobs at home"
+          },
+          "words": [
+            {
+              "english": "sweep",
+              "emoji": "🧹",
+              "hindi": "झाड़ू लगाना",
+              "hinglish": "jhaadu lagana",
+              "meaning": "to clean the floor with a broom",
+              "example": "I sweep the floor every Sunday.",
+              "exampleMeaning": {
+                "hi": "मैं हर रविवार फ़र्श पर झाड़ू लगाता/लगाती हूँ।",
+                "hinglish": "Main har Raviwaar farsh par jhaadu lagaata/lagaati hoon."
+              }
+            },
+            {
+              "english": "fold",
+              "emoji": "👕",
+              "hindi": "तह करना",
+              "hinglish": "tah karna",
+              "meaning": "to bend cloth or paper so it becomes smaller",
+              "example": "Fold your clothes and keep them in the cupboard.",
+              "exampleMeaning": {
+                "hi": "अपने कपड़े तह करो और अलमारी में रखो।",
+                "hinglish": "Apne kapde tah karo aur almaari mein rakho."
+              }
+            },
+            {
+              "english": "pour",
+              "emoji": "🫗",
+              "hindi": "डालना",
+              "hinglish": "daalna",
+              "meaning": "to make a liquid flow from a pot or bottle",
+              "example": "Pour the milk into the glass.",
+              "exampleMeaning": {
+                "hi": "दूध गिलास में डालो।",
+                "hinglish": "Doodh gilaas mein daalo."
+              }
+            },
+            {
+              "english": "boil",
+              "emoji": "♨️",
+              "hindi": "उबालना",
+              "hinglish": "ubaalna",
+              "meaning": "to heat water until it bubbles",
+              "example": "Mummy will boil water for tea.",
+              "exampleMeaning": {
+                "hi": "मम्मी चाय के लिए पानी उबालेंगी।",
+                "hinglish": "Mummy chai ke liye paani ubaalengi."
+              }
+            },
+            {
+              "english": "chop",
+              "emoji": "🔪",
+              "hindi": "काटना",
+              "hinglish": "kaatna",
+              "meaning": "to cut into small pieces",
+              "example": "Dadi will chop onions for dinner.",
+              "exampleMeaning": {
+                "hi": "दादी रात के खाने के लिए प्याज़ काटेंगी।",
+                "hinglish": "Dadi raat ke khaane ke liye pyaaz kaatengi."
+              }
+            },
+            {
+              "english": "arrange",
+              "emoji": "🗂️",
+              "hindi": "सजाना",
+              "hinglish": "sajaana",
+              "meaning": "to put things in a neat order",
+              "example": "Arrange the books on the shelf.",
+              "exampleMeaning": {
+                "hi": "किताबें शेल्फ़ पर सजा दो।",
+                "hinglish": "Kitaabein shelf par saja do."
+              }
+            },
+            {
+              "english": "repair",
+              "emoji": "🔧",
+              "hindi": "मरम्मत करना",
+              "hinglish": "marammat karna",
+              "meaning": "to make a broken thing work again",
+              "example": "Papa can repair my cycle.",
+              "exampleMeaning": {
+                "hi": "पापा मेरी साइकिल ठीक कर सकते हैं।",
+                "hinglish": "Papa meri cycle theek kar sakte hain."
+              }
+            },
+            {
+              "english": "switch",
+              "emoji": "💡",
+              "hindi": "बटन",
+              "hinglish": "button",
+              "meaning": "a small thing you press to turn a light or fan on or off",
+              "example": "Press the switch to turn on the fan.",
+              "exampleMeaning": {
+                "hi": "पंखा चलाने के लिए बटन दबाओ।",
+                "hinglish": "Pankha chalaane ke liye button dabao."
+              }
+            },
+            {
+              "english": "wipe",
+              "emoji": "🧽",
+              "hindi": "पोंछना",
+              "hinglish": "ponchhna",
+              "meaning": "to clean with a cloth",
+              "example": "Wipe the table after eating.",
+              "exampleMeaning": {
+                "hi": "खाने के बाद मेज़ पोंछ दो।",
+                "hinglish": "Khaane ke baad mez ponchh do."
+              }
+            },
+            {
+              "english": "serve",
+              "emoji": "🍽️",
+              "hindi": "परोसना",
+              "hinglish": "parosna",
+              "meaning": "to give food to people",
+              "example": "We serve food to our guests first.",
+              "exampleMeaning": {
+                "hi": "हम पहले मेहमानों को खाना परोसते हैं।",
+                "hinglish": "Hum pehle mehmaanon ko khaana paroste hain."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P04",
+          "testId": "W34.P04T",
+          "emoji": "🎨",
+          "title": {
+            "hi": "कैसा है?",
+            "hinglish": "Kaisa hai?",
+            "en": "Describing words"
+          },
+          "words": [
+            {
+              "english": "bright",
+              "emoji": "☀️",
+              "hindi": "चमकीला",
+              "hinglish": "chamkeela",
+              "meaning": "full of light",
+              "example": "The sun is very bright today.",
+              "exampleMeaning": {
+                "hi": "आज सूरज बहुत चमक रहा है।",
+                "hinglish": "Aaj sooraj bahut chamak raha hai."
+              }
+            },
+            {
+              "english": "huge",
+              "emoji": "🐘",
+              "hindi": "बहुत बड़ा",
+              "hinglish": "bahut bada",
+              "meaning": "very, very big",
+              "example": "An elephant is a huge animal.",
+              "exampleMeaning": {
+                "hi": "हाथी बहुत बड़ा जानवर है।",
+                "hinglish": "Haathi bahut bada jaanwar hai."
+              }
+            },
+            {
+              "english": "tiny",
+              "emoji": "🐜",
+              "hindi": "बहुत छोटा",
+              "hinglish": "bahut chhota",
+              "meaning": "very, very small",
+              "example": "An ant is a tiny insect.",
+              "exampleMeaning": {
+                "hi": "चींटी बहुत छोटा कीड़ा है।",
+                "hinglish": "Cheenti bahut chhota keeda hai."
+              }
+            },
+            {
+              "english": "noisy",
+              "emoji": "📢",
+              "hindi": "शोर वाला",
+              "hinglish": "shor waala",
+              "meaning": "full of loud sounds",
+              "example": "The market is very noisy in the evening.",
+              "exampleMeaning": {
+                "hi": "शाम को बाज़ार में बहुत शोर होता है।",
+                "hinglish": "Shaam ko baazaar mein bahut shor hota hai."
+              }
+            },
+            {
+              "english": "smooth",
+              "emoji": "🪨",
+              "hindi": "चिकना",
+              "hinglish": "chikna",
+              "meaning": "flat with no rough parts",
+              "example": "The stone in the river is smooth.",
+              "exampleMeaning": {
+                "hi": "नदी का पत्थर चिकना है।",
+                "hinglish": "Nadi ka patthar chikna hai."
+              }
+            },
+            {
+              "english": "sharp",
+              "emoji": "🗡️",
+              "hindi": "तेज़ धार वाला",
+              "hinglish": "tez dhaar waala",
+              "meaning": "able to cut easily",
+              "example": "Be careful, the knife is sharp.",
+              "exampleMeaning": {
+                "hi": "ध्यान से, चाकू तेज़ है।",
+                "hinglish": "Dhyaan se, chaaku tez hai."
+              }
+            },
+            {
+              "english": "empty",
+              "emoji": "🫙",
+              "hindi": "खाली",
+              "hinglish": "khaali",
+              "meaning": "with nothing inside",
+              "example": "The water bottle is empty.",
+              "exampleMeaning": {
+                "hi": "पानी की बोतल खाली है।",
+                "hinglish": "Paani ki botal khaali hai."
+              }
+            },
+            {
+              "english": "heavy",
+              "emoji": "🏋️",
+              "hindi": "भारी",
+              "hinglish": "bhaari",
+              "meaning": "hard to lift",
+              "example": "This bag is too heavy for me.",
+              "exampleMeaning": {
+                "hi": "यह बस्ता मेरे लिए बहुत भारी है।",
+                "hinglish": "Yeh basta mere liye bahut bhaari hai."
+              }
+            },
+            {
+              "english": "fresh",
+              "emoji": "🥬",
+              "hindi": "ताज़ा",
+              "hinglish": "taaza",
+              "meaning": "new and good to eat",
+              "example": "We buy fresh vegetables every day.",
+              "exampleMeaning": {
+                "hi": "हम रोज़ ताज़ी सब्ज़ियाँ ख़रीदते हैं।",
+                "hinglish": "Hum roz taazi sabziyaan khareedte hain."
+              }
+            },
+            {
+              "english": "ancient",
+              "emoji": "🏛️",
+              "hindi": "बहुत पुराना",
+              "hinglish": "bahut puraana",
+              "meaning": "very, very old",
+              "example": "We visited an ancient temple.",
+              "exampleMeaning": {
+                "hi": "हम एक बहुत पुराना मंदिर देखने गए।",
+                "hinglish": "Hum ek bahut puraana mandir dekhne gaye."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P05",
+          "testId": "W34.P05T",
+          "emoji": "🌦️",
+          "title": {
+            "hi": "मौसम",
+            "hinglish": "Mausam",
+            "en": "Weather and seasons"
+          },
+          "words": [
+            {
+              "english": "weather",
+              "emoji": "🌤️",
+              "hindi": "मौसम",
+              "hinglish": "mausam",
+              "meaning": "how hot, cold, wet or windy it is outside",
+              "example": "The weather is cool today.",
+              "exampleMeaning": {
+                "hi": "आज मौसम ठंडा है।",
+                "hinglish": "Aaj mausam thanda hai."
+              }
+            },
+            {
+              "english": "season",
+              "emoji": "🍂",
+              "hindi": "ऋतु",
+              "hinglish": "ritu",
+              "meaning": "a part of the year like summer or winter",
+              "example": "Winter is my favourite season.",
+              "exampleMeaning": {
+                "hi": "सर्दी मेरी सबसे पसंदीदा ऋतु है।",
+                "hinglish": "Sardi meri sabse pasandeeda ritu hai."
+              }
+            },
+            {
+              "english": "thunder",
+              "emoji": "⛈️",
+              "hindi": "बादल की गरज",
+              "hinglish": "baadal ki garaj",
+              "meaning": "the loud sound in the sky during a storm",
+              "example": "The dog hid under the bed when it heard thunder.",
+              "exampleMeaning": {
+                "hi": "बादल की गरज सुनकर कुत्ता पलंग के नीचे छिप गया।",
+                "hinglish": "Baadal ki garaj sunkar kutta palang ke neeche chhip gaya."
+              }
+            },
+            {
+              "english": "lightning",
+              "emoji": "⚡",
+              "hindi": "बिजली चमकना",
+              "hinglish": "bijli chamakna",
+              "meaning": "a bright flash of light in the sky in a storm",
+              "example": "Lightning lit up the dark sky.",
+              "exampleMeaning": {
+                "hi": "बिजली की चमक से अंधेरा आसमान रोशन हो गया।",
+                "hinglish": "Bijli ki chamak se andhera aasmaan roshan ho gaya."
+              }
+            },
+            {
+              "english": "storm",
+              "emoji": "🌪️",
+              "hindi": "तूफ़ान",
+              "hinglish": "toofaan",
+              "meaning": "very strong wind and rain",
+              "example": "The storm broke a branch of the tree.",
+              "exampleMeaning": {
+                "hi": "तूफ़ान से पेड़ की एक डाल टूट गई।",
+                "hinglish": "Toofaan se ped ki ek daal toot gayi."
+              }
+            },
+            {
+              "english": "fog",
+              "emoji": "🌫️",
+              "hindi": "कोहरा",
+              "hinglish": "kohra",
+              "meaning": "thick cloud near the ground that is hard to see through",
+              "example": "The train was late because of fog.",
+              "exampleMeaning": {
+                "hi": "कोहरे की वजह से ट्रेन लेट थी।",
+                "hinglish": "Kohre ki wajah se train late thi."
+              }
+            },
+            {
+              "english": "shiver",
+              "emoji": "🥶",
+              "hindi": "काँपना",
+              "hinglish": "kaanpna",
+              "meaning": "to shake because you are cold or afraid",
+              "example": "I shiver on cold winter mornings.",
+              "exampleMeaning": {
+                "hi": "सर्दियों की ठंडी सुबह में मैं काँपने लगता/लगती हूँ।",
+                "hinglish": "Sardiyon ki thandi subah mein main kaanpne lagta/lagti hoon."
+              }
+            },
+            {
+              "english": "sweat",
+              "emoji": "🥵",
+              "hindi": "पसीना",
+              "hinglish": "paseena",
+              "meaning": "water that comes out of your skin when you are hot",
+              "example": "After the race, my shirt was wet with sweat.",
+              "exampleMeaning": {
+                "hi": "दौड़ के बाद मेरी कमीज़ पसीने से भीग गई।",
+                "hinglish": "Daud ke baad meri kameez paseene se bheeg gayi."
+              }
+            },
+            {
+              "english": "umbrella",
+              "emoji": "☂️",
+              "hindi": "छाता",
+              "hinglish": "chhaata",
+              "meaning": "a thing you hold over your head in the rain",
+              "example": "Take your umbrella, it may rain.",
+              "exampleMeaning": {
+                "hi": "अपना छाता ले लो, बारिश हो सकती है।",
+                "hinglish": "Apna chhaata le lo, baarish ho sakti hai."
+              }
+            },
+            {
+              "english": "breeze",
+              "emoji": "🍃",
+              "hindi": "हल्की हवा",
+              "hinglish": "halki hawa",
+              "meaning": "a soft, gentle wind",
+              "example": "A cool breeze came from the sea.",
+              "exampleMeaning": {
+                "hi": "समुद्र से ठंडी हल्की हवा आई।",
+                "hinglish": "Samudra se thandi halki hawa aayi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P06",
+          "testId": "W34.P06T",
+          "emoji": "🩺",
+          "title": {
+            "hi": "शरीर और सेहत",
+            "hinglish": "Shareer aur sehat",
+            "en": "Body and health"
+          },
+          "words": [
+            {
+              "english": "healthy",
+              "emoji": "💪",
+              "hindi": "स्वस्थ",
+              "hinglish": "swasth",
+              "meaning": "strong and not ill",
+              "example": "Fruits keep us healthy.",
+              "exampleMeaning": {
+                "hi": "फल हमें स्वस्थ रखते हैं।",
+                "hinglish": "Phal hamein swasth rakhte hain."
+              }
+            },
+            {
+              "english": "fever",
+              "emoji": "🤒",
+              "hindi": "बुखार",
+              "hinglish": "bukhaar",
+              "meaning": "when your body becomes too hot because you are ill",
+              "example": "Riya has a fever, so she is at home.",
+              "exampleMeaning": {
+                "hi": "रिया को बुखार है, इसलिए वह घर पर है।",
+                "hinglish": "Riya ko bukhaar hai, isliye woh ghar par hai."
+              }
+            },
+            {
+              "english": "cough",
+              "emoji": "😷",
+              "hindi": "खाँसी",
+              "hinglish": "khaansi",
+              "meaning": "pushing air out of your throat with a sound",
+              "example": "Cover your mouth when you cough.",
+              "exampleMeaning": {
+                "hi": "खाँसते समय मुँह ढको।",
+                "hinglish": "Khaanste samay munh dhako."
+              }
+            },
+            {
+              "english": "injury",
+              "emoji": "🩹",
+              "hindi": "चोट",
+              "hinglish": "chot",
+              "meaning": "a hurt part of the body",
+              "example": "He got an injury while playing football.",
+              "exampleMeaning": {
+                "hi": "फ़ुटबॉल खेलते हुए उसे चोट लग गई।",
+                "hinglish": "Football khelte hue use chot lag gayi."
+              }
+            },
+            {
+              "english": "medicine",
+              "emoji": "💊",
+              "hindi": "दवाई",
+              "hinglish": "dawaai",
+              "meaning": "something you take to get better when you are ill",
+              "example": "Take your medicine after food.",
+              "exampleMeaning": {
+                "hi": "खाने के बाद अपनी दवाई लो।",
+                "hinglish": "Khaane ke baad apni dawaai lo."
+              }
+            },
+            {
+              "english": "exercise",
+              "emoji": "🤸",
+              "hindi": "व्यायाम",
+              "hinglish": "vyaayaam",
+              "meaning": "moving your body to stay fit",
+              "example": "We exercise in the school ground every morning.",
+              "exampleMeaning": {
+                "hi": "हम हर सुबह स्कूल के मैदान में व्यायाम करते हैं।",
+                "hinglish": "Hum har subah school ke maidaan mein vyaayaam karte hain."
+              }
+            },
+            {
+              "english": "tongue",
+              "emoji": "👅",
+              "hindi": "जीभ",
+              "hinglish": "jeebh",
+              "meaning": "the part inside your mouth that tastes food",
+              "example": "The doctor looked at my tongue.",
+              "exampleMeaning": {
+                "hi": "डॉक्टर ने मेरी जीभ देखी।",
+                "hinglish": "Doctor ne meri jeebh dekhi."
+              }
+            },
+            {
+              "english": "elbow",
+              "emoji": "🦾",
+              "hindi": "कोहनी",
+              "hinglish": "kohni",
+              "meaning": "the middle part of your arm where it bends",
+              "example": "I hit my elbow on the door.",
+              "exampleMeaning": {
+                "hi": "मेरी कोहनी दरवाज़े से टकरा गई।",
+                "hinglish": "Meri kohni darwaaze se takra gayi."
+              }
+            },
+            {
+              "english": "wrist",
+              "emoji": "⌚",
+              "hindi": "कलाई",
+              "hinglish": "kalaai",
+              "meaning": "the part between your hand and arm",
+              "example": "Papa wears a watch on his wrist.",
+              "exampleMeaning": {
+                "hi": "पापा अपनी कलाई पर घड़ी पहनते हैं।",
+                "hinglish": "Papa apni kalaai par ghadi pehente hain."
+              }
+            },
+            {
+              "english": "germs",
+              "emoji": "🦠",
+              "hindi": "कीटाणु",
+              "hinglish": "keetaanu",
+              "meaning": "very small living things that can make you ill",
+              "example": "Wash your hands to remove germs.",
+              "exampleMeaning": {
+                "hi": "कीटाणु हटाने के लिए हाथ धो लो।",
+                "hinglish": "Keetaanu hataane ke liye haath dho lo."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P07",
+          "testId": "W34.P07T",
+          "emoji": "🏙️",
+          "title": {
+            "hi": "शहर की जगहें",
+            "hinglish": "Shehar ki jagahein",
+            "en": "Places in town"
+          },
+          "words": [
+            {
+              "english": "market",
+              "emoji": "🛒",
+              "hindi": "बाज़ार",
+              "hinglish": "baazaar",
+              "meaning": "a place where people buy and sell things",
+              "example": "We buy vegetables at the market.",
+              "exampleMeaning": {
+                "hi": "हम बाज़ार से सब्ज़ियाँ ख़रीदते हैं।",
+                "hinglish": "Hum baazaar se sabziyaan khareedte hain."
+              }
+            },
+            {
+              "english": "hospital",
+              "emoji": "🏥",
+              "hindi": "अस्पताल",
+              "hinglish": "aspataal",
+              "meaning": "a place where doctors look after ill people",
+              "example": "The ambulance went to the hospital.",
+              "exampleMeaning": {
+                "hi": "एम्बुलेंस अस्पताल गई।",
+                "hinglish": "Ambulance aspataal gayi."
+              }
+            },
+            {
+              "english": "bakery",
+              "emoji": "🥐",
+              "hindi": "बेकरी",
+              "hinglish": "bakery",
+              "meaning": "a shop that makes and sells bread and cakes",
+              "example": "The bakery smells of fresh bread.",
+              "exampleMeaning": {
+                "hi": "बेकरी से ताज़ी ब्रेड की ख़ुशबू आती है।",
+                "hinglish": "Bakery se taazi bread ki khushboo aati hai."
+              }
+            },
+            {
+              "english": "temple",
+              "emoji": "🛕",
+              "hindi": "मंदिर",
+              "hinglish": "mandir",
+              "meaning": "a building where people go to pray",
+              "example": "We go to the temple with Dadi.",
+              "exampleMeaning": {
+                "hi": "हम दादी के साथ मंदिर जाते हैं।",
+                "hinglish": "Hum Dadi ke saath mandir jaate hain."
+              }
+            },
+            {
+              "english": "bridge",
+              "emoji": "🌉",
+              "hindi": "पुल",
+              "hinglish": "pul",
+              "meaning": "a road built over a river",
+              "example": "The bus went over a long bridge.",
+              "exampleMeaning": {
+                "hi": "बस एक लंबे पुल के ऊपर से गई।",
+                "hinglish": "Bus ek lambe pul ke upar se gayi."
+              }
+            },
+            {
+              "english": "station",
+              "emoji": "🚉",
+              "hindi": "स्टेशन",
+              "hinglish": "station",
+              "meaning": "a place where trains or buses stop",
+              "example": "We waited at the station for the train.",
+              "exampleMeaning": {
+                "hi": "हमने स्टेशन पर ट्रेन का इंतज़ार किया।",
+                "hinglish": "Humne station par train ka intezaar kiya."
+              }
+            },
+            {
+              "english": "pharmacy",
+              "emoji": "🏪",
+              "hindi": "दवा की दुकान",
+              "hinglish": "dawa ki dukaan",
+              "meaning": "a shop that sells medicines",
+              "example": "Papa bought cough syrup from the pharmacy.",
+              "exampleMeaning": {
+                "hi": "पापा ने दवा की दुकान से खाँसी की दवा ख़रीदी।",
+                "hinglish": "Papa ne dawa ki dukaan se khaansi ki dawa khareedi."
+              }
+            },
+            {
+              "english": "playground",
+              "emoji": "🛝",
+              "hindi": "खेल का मैदान",
+              "hinglish": "khel ka maidaan",
+              "meaning": "an open place where children play",
+              "example": "We play cricket in the playground.",
+              "exampleMeaning": {
+                "hi": "हम खेल के मैदान में क्रिकेट खेलते हैं।",
+                "hinglish": "Hum khel ke maidaan mein cricket khelte hain."
+              }
+            },
+            {
+              "english": "factory",
+              "emoji": "🏭",
+              "hindi": "कारखाना",
+              "hinglish": "kaarkhaana",
+              "meaning": "a place where things are made by machines",
+              "example": "My uncle works in a shoe factory.",
+              "exampleMeaning": {
+                "hi": "मेरे चाचा जूतों के कारखाने में काम करते हैं।",
+                "hinglish": "Mere chacha jooton ke kaarkhaane mein kaam karte hain."
+              }
+            },
+            {
+              "english": "village",
+              "emoji": "🏡",
+              "hindi": "गाँव",
+              "hinglish": "gaon",
+              "meaning": "a small place in the countryside with few houses",
+              "example": "My grandparents live in a village.",
+              "exampleMeaning": {
+                "hi": "मेरे दादा-दादी गाँव में रहते हैं।",
+                "hinglish": "Mere dada-dadi gaon mein rehte hain."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P08",
+          "testId": "W34.P08T",
+          "emoji": "🌿",
+          "title": {
+            "hi": "जंगल और प्रकृति",
+            "hinglish": "Jangal aur prakriti",
+            "en": "Nature"
+          },
+          "words": [
+            {
+              "english": "forest",
+              "emoji": "🌲",
+              "hindi": "जंगल",
+              "hinglish": "jangal",
+              "meaning": "a large area full of trees",
+              "example": "Tigers live in the forest.",
+              "exampleMeaning": {
+                "hi": "बाघ जंगल में रहते हैं।",
+                "hinglish": "Baagh jangal mein rehte hain."
+              }
+            },
+            {
+              "english": "nest",
+              "emoji": "🪺",
+              "hindi": "घोंसला",
+              "hinglish": "ghonsla",
+              "meaning": "a home that birds make for their eggs",
+              "example": "The bird made a nest in the tree.",
+              "exampleMeaning": {
+                "hi": "चिड़िया ने पेड़ पर घोंसला बनाया।",
+                "hinglish": "Chidiya ne ped par ghonsla banaaya."
+              }
+            },
+            {
+              "english": "hive",
+              "emoji": "🐝",
+              "hindi": "छत्ता",
+              "hinglish": "chhatta",
+              "meaning": "a home where bees live",
+              "example": "Bees make honey in their hive.",
+              "exampleMeaning": {
+                "hi": "मधुमक्खियाँ अपने छत्ते में शहद बनाती हैं।",
+                "hinglish": "Madhumakkhiyaan apne chhatte mein shahad banaati hain."
+              }
+            },
+            {
+              "english": "feather",
+              "emoji": "🪶",
+              "hindi": "पंख",
+              "hinglish": "pankh",
+              "meaning": "one of the soft parts that cover a bird",
+              "example": "I found a blue feather in the garden.",
+              "exampleMeaning": {
+                "hi": "मुझे बगीचे में एक नीला पंख मिला।",
+                "hinglish": "Mujhe bageeche mein ek neela pankh mila."
+              }
+            },
+            {
+              "english": "claw",
+              "emoji": "🐾",
+              "hindi": "पंजा",
+              "hinglish": "panja",
+              "meaning": "a sharp nail on an animal's foot",
+              "example": "The cat scratched the box with its claw.",
+              "exampleMeaning": {
+                "hi": "बिल्ली ने अपने पंजे से डिब्बा खरोंचा।",
+                "hinglish": "Billi ne apne panje se dibba kharoncha."
+              }
+            },
+            {
+              "english": "herd",
+              "emoji": "🐄",
+              "hindi": "झुंड",
+              "hinglish": "jhund",
+              "meaning": "a big group of animals like cows",
+              "example": "A herd of cows crossed the road.",
+              "exampleMeaning": {
+                "hi": "गायों के एक झुंड ने सड़क पार की।",
+                "hinglish": "Gaayon ke ek jhund ne sadak paar ki."
+              }
+            },
+            {
+              "english": "seed",
+              "emoji": "🌱",
+              "hindi": "बीज",
+              "hinglish": "beej",
+              "meaning": "a small thing from which a new plant grows",
+              "example": "Plant the seed in soft soil.",
+              "exampleMeaning": {
+                "hi": "बीज को नरम मिट्टी में बो दो।",
+                "hinglish": "Beej ko naram mitti mein bo do."
+              }
+            },
+            {
+              "english": "root",
+              "emoji": "🌳",
+              "hindi": "जड़",
+              "hinglish": "jad",
+              "meaning": "the part of a plant under the ground",
+              "example": "The root takes water from the soil.",
+              "exampleMeaning": {
+                "hi": "जड़ मिट्टी से पानी लेती है।",
+                "hinglish": "Jad mitti se paani leti hai."
+              }
+            },
+            {
+              "english": "insect",
+              "emoji": "🐞",
+              "hindi": "कीड़ा",
+              "hinglish": "keeda",
+              "meaning": "a small animal with six legs",
+              "example": "A ladybird is an insect.",
+              "exampleMeaning": {
+                "hi": "लेडीबर्ड एक कीड़ा है।",
+                "hinglish": "Ladybird ek keeda hai."
+              }
+            },
+            {
+              "english": "desert",
+              "emoji": "🏜️",
+              "hindi": "रेगिस्तान",
+              "hinglish": "registaan",
+              "meaning": "a hot, dry place with a lot of sand",
+              "example": "Camels can live in the desert.",
+              "exampleMeaning": {
+                "hi": "ऊँट रेगिस्तान में रह सकते हैं।",
+                "hinglish": "Oont registaan mein reh sakte hain."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P09",
+          "testId": "W34.P09T",
+          "emoji": "⏰",
+          "title": {
+            "hi": "समय",
+            "hinglish": "Samay",
+            "en": "Time and days"
+          },
+          "words": [
+            {
+              "english": "early",
+              "emoji": "🌅",
+              "hindi": "जल्दी",
+              "hinglish": "jaldi",
+              "meaning": "before the usual time",
+              "example": "I wake up early to study.",
+              "exampleMeaning": {
+                "hi": "मैं पढ़ने के लिए जल्दी उठता/उठती हूँ।",
+                "hinglish": "Main padhne ke liye jaldi uthta/uthti hoon."
+              }
+            },
+            {
+              "english": "late",
+              "emoji": "⌛",
+              "hindi": "देर से",
+              "hinglish": "der se",
+              "meaning": "after the usual time",
+              "example": "Do not be late for school.",
+              "exampleMeaning": {
+                "hi": "स्कूल के लिए देर मत करो।",
+                "hinglish": "School ke liye der mat karo."
+              }
+            },
+            {
+              "english": "yesterday",
+              "emoji": "⬅️",
+              "hindi": "बीता हुआ कल",
+              "hinglish": "beeta hua kal",
+              "meaning": "the day before today",
+              "example": "Yesterday I went to the park.",
+              "exampleMeaning": {
+                "hi": "कल मैं पार्क गया/गई।",
+                "hinglish": "Kal main park gaya/gayi."
+              }
+            },
+            {
+              "english": "tomorrow",
+              "emoji": "➡️",
+              "hindi": "आने वाला कल",
+              "hinglish": "aane waala kal",
+              "meaning": "the day after today",
+              "example": "We have a test tomorrow.",
+              "exampleMeaning": {
+                "hi": "कल हमारा टेस्ट है।",
+                "hinglish": "Kal hamara test hai."
+              }
+            },
+            {
+              "english": "weekend",
+              "emoji": "🎉",
+              "hindi": "सप्ताहांत",
+              "hinglish": "saptaahaant",
+              "meaning": "Saturday and Sunday",
+              "example": "We visit Nani at the weekend.",
+              "exampleMeaning": {
+                "hi": "हम हफ़्ते के आख़िर में नानी से मिलने जाते हैं।",
+                "hinglish": "Hum hafte ke aakhir mein Nani se milne jaate hain."
+              }
+            },
+            {
+              "english": "calendar",
+              "emoji": "📅",
+              "hindi": "कैलेंडर",
+              "hinglish": "calendar",
+              "meaning": "a page that shows all the days of the month",
+              "example": "Mark your birthday on the calendar.",
+              "exampleMeaning": {
+                "hi": "कैलेंडर पर अपने जन्मदिन पर निशान लगाओ।",
+                "hinglish": "Calendar par apne janmdin par nishaan lagao."
+              }
+            },
+            {
+              "english": "minute",
+              "emoji": "⏱️",
+              "hindi": "मिनट",
+              "hinglish": "minute",
+              "meaning": "sixty seconds",
+              "example": "Wait for one minute, please.",
+              "exampleMeaning": {
+                "hi": "प्लीज़ एक मिनट रुको।",
+                "hinglish": "Please ek minute ruko."
+              }
+            },
+            {
+              "english": "noon",
+              "emoji": "🕛",
+              "hindi": "दोपहर",
+              "hinglish": "dopahar",
+              "meaning": "twelve o'clock in the day",
+              "example": "We eat lunch at noon.",
+              "exampleMeaning": {
+                "hi": "हम दोपहर बारह बजे खाना खाते हैं।",
+                "hinglish": "Hum dopahar baarah baje khaana khaate hain."
+              }
+            },
+            {
+              "english": "midnight",
+              "emoji": "🌑",
+              "hindi": "आधी रात",
+              "hinglish": "aadhi raat",
+              "meaning": "twelve o'clock at night",
+              "example": "Everyone was asleep at midnight.",
+              "exampleMeaning": {
+                "hi": "आधी रात को सब सो रहे थे।",
+                "hinglish": "Aadhi raat ko sab so rahe the."
+              }
+            },
+            {
+              "english": "daily",
+              "emoji": "🔁",
+              "hindi": "रोज़ का",
+              "hinglish": "roz ka",
+              "meaning": "happening every day",
+              "example": "Brushing teeth is a daily habit.",
+              "exampleMeaning": {
+                "hi": "दाँत साफ़ करना रोज़ की आदत है।",
+                "hinglish": "Daant saaf karna roz ki aadat hai."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P10",
+          "testId": "W34.P10T",
+          "emoji": "🙏",
+          "title": {
+            "hi": "अच्छा व्यवहार",
+            "hinglish": "Achha vyavhaar",
+            "en": "Good manners"
+          },
+          "words": [
+            {
+              "english": "polite",
+              "emoji": "🙂",
+              "hindi": "विनम्र",
+              "hinglish": "vinamra",
+              "meaning": "speaking and acting nicely to others",
+              "example": "Always be polite to elders.",
+              "exampleMeaning": {
+                "hi": "बड़ों से हमेशा विनम्रता से बात करो।",
+                "hinglish": "Badon se hamesha vinamrata se baat karo."
+              }
+            },
+            {
+              "english": "share",
+              "emoji": "🤲",
+              "hindi": "बाँटना",
+              "hinglish": "baantna",
+              "meaning": "to give part of what you have to others",
+              "example": "Share your toys with your friends.",
+              "exampleMeaning": {
+                "hi": "अपने खिलौने दोस्तों के साथ बाँटो।",
+                "hinglish": "Apne khilaune doston ke saath baanto."
+              }
+            },
+            {
+              "english": "respect",
+              "emoji": "🙇",
+              "hindi": "आदर",
+              "hinglish": "aadar",
+              "meaning": "to treat someone as important",
+              "example": "We respect our teachers.",
+              "exampleMeaning": {
+                "hi": "हम अपने टीचरों का आदर करते हैं।",
+                "hinglish": "Hum apne teacheron ka aadar karte hain."
+              }
+            },
+            {
+              "english": "apologise",
+              "emoji": "😔",
+              "hindi": "माफ़ी माँगना",
+              "hinglish": "maafi maangna",
+              "meaning": "to say sorry",
+              "example": "Apologise when you make a mistake.",
+              "exampleMeaning": {
+                "hi": "गलती हो जाए तो माफ़ी माँगो।",
+                "hinglish": "Galti ho jaaye to maafi maango."
+              }
+            },
+            {
+              "english": "patient",
+              "emoji": "⏳",
+              "hindi": "धैर्यवान",
+              "hinglish": "dhairyavaan",
+              "meaning": "able to wait without getting angry",
+              "example": "Be patient when you wait for your turn.",
+              "exampleMeaning": {
+                "hi": "अपनी बारी का इंतज़ार करते समय धैर्य रखो।",
+                "hinglish": "Apni baari ka intezaar karte samay dhairya rakho."
+              }
+            },
+            {
+              "english": "queue",
+              "emoji": "🚶",
+              "hindi": "कतार",
+              "hinglish": "kataar",
+              "meaning": "a line of people waiting",
+              "example": "We stood in a queue for tickets.",
+              "exampleMeaning": {
+                "hi": "हम टिकट के लिए कतार में खड़े हुए।",
+                "hinglish": "Hum ticket ke liye kataar mein khade hue."
+              }
+            },
+            {
+              "english": "greet",
+              "emoji": "👋",
+              "hindi": "अभिवादन करना",
+              "hinglish": "abhivaadan karna",
+              "meaning": "to say hello to someone",
+              "example": "Greet your teacher with a smile.",
+              "exampleMeaning": {
+                "hi": "मुस्कुराकर अपने टीचर का अभिवादन करो।",
+                "hinglish": "Muskuraakar apne teacher ka abhivaadan karo."
+              }
+            },
+            {
+              "english": "thank",
+              "emoji": "💐",
+              "hindi": "धन्यवाद देना",
+              "hinglish": "dhanyavaad dena",
+              "meaning": "to tell someone you are happy for what they did",
+              "example": "Thank the driver when you get off the bus.",
+              "exampleMeaning": {
+                "hi": "बस से उतरते समय ड्राइवर को धन्यवाद कहो।",
+                "hinglish": "Bus se utarte samay driver ko dhanyavaad kaho."
+              }
+            },
+            {
+              "english": "honest",
+              "emoji": "🤞",
+              "hindi": "ईमानदार",
+              "hinglish": "imaandaar",
+              "meaning": "always telling the truth",
+              "example": "An honest boy returned the lost wallet.",
+              "exampleMeaning": {
+                "hi": "एक ईमानदार लड़के ने खोया हुआ बटुआ लौटा दिया।",
+                "hinglish": "Ek imaandaar ladke ne khoya hua batua lauta diya."
+              }
+            },
+            {
+              "english": "careful",
+              "emoji": "⚠️",
+              "hindi": "सावधान",
+              "hinglish": "saavdhaan",
+              "meaning": "thinking about what you do so nothing goes wrong",
+              "example": "Be careful while crossing the road.",
+              "exampleMeaning": {
+                "hi": "सड़क पार करते समय सावधान रहो।",
+                "hinglish": "Sadak paar karte samay saavdhaan raho."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P11",
+          "testId": "W34.P11T",
+          "emoji": "🍲",
+          "title": {
+            "hi": "खाना और रसोई",
+            "hinglish": "Khaana aur rasoi",
+            "en": "Food and kitchen"
+          },
+          "words": [
+            {
+              "english": "delicious",
+              "emoji": "😋",
+              "hindi": "स्वादिष्ट",
+              "hinglish": "swaadisht",
+              "meaning": "very tasty",
+              "example": "Dadi makes delicious halwa.",
+              "exampleMeaning": {
+                "hi": "दादी स्वादिष्ट हलवा बनाती हैं।",
+                "hinglish": "Dadi swaadisht halwa banaati hain."
+              }
+            },
+            {
+              "english": "bitter",
+              "emoji": "🥒",
+              "hindi": "कड़वा",
+              "hinglish": "kadwa",
+              "meaning": "a strong taste that is not sweet",
+              "example": "Karela tastes bitter.",
+              "exampleMeaning": {
+                "hi": "करेला कड़वा लगता है।",
+                "hinglish": "Karela kadwa lagta hai."
+              }
+            },
+            {
+              "english": "sour",
+              "emoji": "🍋",
+              "hindi": "खट्टा",
+              "hinglish": "khatta",
+              "meaning": "tasting like lemon",
+              "example": "The raw mango is sour.",
+              "exampleMeaning": {
+                "hi": "कच्चा आम खट्टा है।",
+                "hinglish": "Kachcha aam khatta hai."
+              }
+            },
+            {
+              "english": "spicy",
+              "emoji": "🌶️",
+              "hindi": "तीखा",
+              "hinglish": "teekha",
+              "meaning": "hot in taste because of chillies",
+              "example": "This curry is too spicy for me.",
+              "exampleMeaning": {
+                "hi": "यह सब्ज़ी मेरे लिए बहुत तीखी है।",
+                "hinglish": "Yeh sabzi mere liye bahut teekhi hai."
+              }
+            },
+            {
+              "english": "recipe",
+              "emoji": "📝",
+              "hindi": "बनाने का तरीका",
+              "hinglish": "banaane ka tareeka",
+              "meaning": "the steps to make a dish",
+              "example": "Mummy wrote the recipe for laddoos.",
+              "exampleMeaning": {
+                "hi": "मम्मी ने लड्डू बनाने का तरीका लिखा।",
+                "hinglish": "Mummy ne laddoo banaane ka tareeka likha."
+              }
+            },
+            {
+              "english": "breakfast",
+              "emoji": "🍳",
+              "hindi": "नाश्ता",
+              "hinglish": "naashta",
+              "meaning": "the first meal of the day",
+              "example": "I eat poha for breakfast.",
+              "exampleMeaning": {
+                "hi": "मैं नाश्ते में पोहा खाता/खाती हूँ।",
+                "hinglish": "Main naashte mein poha khaata/khaati hoon."
+              }
+            },
+            {
+              "english": "hungry",
+              "emoji": "🍽️",
+              "hindi": "भूखा",
+              "hinglish": "bhookha",
+              "meaning": "wanting to eat",
+              "example": "After playing, I was very hungry.",
+              "exampleMeaning": {
+                "hi": "खेलने के बाद मुझे बहुत भूख लगी।",
+                "hinglish": "Khelne ke baad mujhe bahut bhookh lagi."
+              }
+            },
+            {
+              "english": "thirsty",
+              "emoji": "🥤",
+              "hindi": "प्यासा",
+              "hinglish": "pyaasa",
+              "meaning": "wanting to drink",
+              "example": "Drink water when you are thirsty.",
+              "exampleMeaning": {
+                "hi": "प्यास लगे तो पानी पियो।",
+                "hinglish": "Pyaas lage to paani piyo."
+              }
+            },
+            {
+              "english": "bowl",
+              "emoji": "🥣",
+              "hindi": "कटोरी",
+              "hinglish": "katori",
+              "meaning": "a round deep dish",
+              "example": "Put the dal in a bowl.",
+              "exampleMeaning": {
+                "hi": "दाल कटोरी में डालो।",
+                "hinglish": "Daal katori mein daalo."
+              }
+            },
+            {
+              "english": "stir",
+              "emoji": "🥄",
+              "hindi": "चलाना",
+              "hinglish": "chalaana",
+              "meaning": "to move a spoon round and round in food",
+              "example": "Stir the milk so it does not burn.",
+              "exampleMeaning": {
+                "hi": "दूध चलाते रहो ताकि वह जले नहीं।",
+                "hinglish": "Doodh chalaate raho taaki woh jale nahi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W34.P12",
+          "testId": "W34.P12T",
+          "emoji": "🏏",
+          "title": {
+            "hi": "खेल",
+            "hinglish": "Khel",
+            "en": "Games and sports"
+          },
+          "words": [
+            {
+              "english": "team",
+              "emoji": "👥",
+              "hindi": "टीम",
+              "hinglish": "team",
+              "meaning": "a group of players who play together",
+              "example": "Our team won the match.",
+              "exampleMeaning": {
+                "hi": "हमारी टीम मैच जीत गई।",
+                "hinglish": "Hamari team match jeet gayi."
+              }
+            },
+            {
+              "english": "match",
+              "emoji": "🏟️",
+              "hindi": "मैच",
+              "hinglish": "match",
+              "meaning": "a game between two teams",
+              "example": "We watched the cricket match on TV.",
+              "exampleMeaning": {
+                "hi": "हमने टीवी पर क्रिकेट मैच देखा।",
+                "hinglish": "Humne TV par cricket match dekha."
+              }
+            },
+            {
+              "english": "score",
+              "emoji": "🔢",
+              "hindi": "स्कोर",
+              "hinglish": "score",
+              "meaning": "the number of points or runs",
+              "example": "What is the score now?",
+              "exampleMeaning": {
+                "hi": "अभी स्कोर क्या है?",
+                "hinglish": "Abhi score kya hai?"
+              }
+            },
+            {
+              "english": "winner",
+              "emoji": "🏆",
+              "hindi": "विजेता",
+              "hinglish": "vijeta",
+              "meaning": "the one who wins",
+              "example": "The winner got a big cup.",
+              "exampleMeaning": {
+                "hi": "विजेता को एक बड़ा कप मिला।",
+                "hinglish": "Vijeta ko ek bada cup mila."
+              }
+            },
+            {
+              "english": "medal",
+              "emoji": "🥇",
+              "hindi": "पदक",
+              "hinglish": "padak",
+              "meaning": "a round metal prize",
+              "example": "Meena won a medal in the race.",
+              "exampleMeaning": {
+                "hi": "मीना ने दौड़ में पदक जीता।",
+                "hinglish": "Meena ne daud mein padak jeeta."
+              }
+            },
+            {
+              "english": "referee",
+              "emoji": "🧑‍⚖️",
+              "hindi": "रेफ़री",
+              "hinglish": "referee",
+              "meaning": "a person who makes sure players follow the rules",
+              "example": "The referee blew the whistle.",
+              "exampleMeaning": {
+                "hi": "रेफ़री ने सीटी बजाई।",
+                "hinglish": "Referee ne seeti bajaayi."
+              }
+            },
+            {
+              "english": "coach",
+              "emoji": "🧢",
+              "hindi": "कोच",
+              "hinglish": "coach",
+              "meaning": "a person who trains players",
+              "example": "Our coach helps us run faster.",
+              "exampleMeaning": {
+                "hi": "हमारे कोच हमें तेज़ दौड़ने में मदद करते हैं।",
+                "hinglish": "Hamare coach hamein tez daudne mein madad karte hain."
+              }
+            },
+            {
+              "english": "throw",
+              "emoji": "🤾",
+              "hindi": "फेंकना",
+              "hinglish": "phenkna",
+              "meaning": "to send something through the air with your hand",
+              "example": "Throw the ball to me.",
+              "exampleMeaning": {
+                "hi": "गेंद मेरी तरफ़ फेंको।",
+                "hinglish": "Gend meri taraf phenko."
+              }
+            },
+            {
+              "english": "catch",
+              "emoji": "🧤",
+              "hindi": "पकड़ना",
+              "hinglish": "pakadna",
+              "meaning": "to take hold of something that is moving",
+              "example": "Catch the ball with both hands.",
+              "exampleMeaning": {
+                "hi": "गेंद दोनों हाथों से पकड़ो।",
+                "hinglish": "Gend dono haathon se pakdo."
+              }
+            },
+            {
+              "english": "fair",
+              "emoji": "⚖️",
+              "hindi": "न्यायपूर्ण",
+              "hinglish": "nyaaypoorn",
+              "meaning": "following the rules, equal for everyone",
+              "example": "Let us play a fair game.",
+              "exampleMeaning": {
+                "hi": "चलो, ईमानदारी से खेलें।",
+                "hinglish": "Chalo, imaandaari se khelein."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W56",
+      "emoji": "🌳",
+      "title": {
+        "hi": "कक्षा 5–6 के शब्द",
+        "hinglish": "Kaksha 5–6 ke shabd",
+        "en": "Words for Class 5–6"
+      },
+      "minClass": 5,
+      "maxClass": 6,
+      "packs": [
+        {
+          "id": "W56.P01",
+          "testId": "W56.P01T",
+          "emoji": "🌟",
+          "title": {
+            "hi": "चरित्र",
+            "hinglish": "Charitra",
+            "en": "Character"
+          },
+          "words": [
+            {
+              "english": "curious",
+              "emoji": "🧐",
+              "hindi": "जिज्ञासु",
+              "hinglish": "jigyaasu",
+              "meaning": "wanting to know or learn about things",
+              "example": "A curious child asks many questions.",
+              "exampleMeaning": {
+                "hi": "जिज्ञासु बच्चा बहुत सवाल पूछता है।",
+                "hinglish": "Jigyaasu bachcha bahut sawaal poochhta hai."
+              }
+            },
+            {
+              "english": "generous",
+              "emoji": "🎁",
+              "hindi": "दिलदार",
+              "hinglish": "dildaar",
+              "meaning": "happy to give and share",
+              "example": "Our generous neighbour gave us mangoes.",
+              "exampleMeaning": {
+                "hi": "हमारे दिलदार पड़ोसी ने हमें आम दिए।",
+                "hinglish": "Hamare dildaar padosi ne hamein aam diye."
+              }
+            },
+            {
+              "english": "confident",
+              "emoji": "💪",
+              "hindi": "आत्मविश्वासी",
+              "hinglish": "aatmavishvaasi",
+              "meaning": "sure that you can do something",
+              "example": "She felt confident before the speech.",
+              "exampleMeaning": {
+                "hi": "भाषण से पहले उसे खुद पर भरोसा था।",
+                "hinglish": "Bhaashan se pehle use khud par bharosa tha."
+              }
+            },
+            {
+              "english": "lazy",
+              "emoji": "🦥",
+              "hindi": "आलसी",
+              "hinglish": "aalsi",
+              "meaning": "not wanting to work",
+              "example": "The lazy cat slept all day.",
+              "exampleMeaning": {
+                "hi": "आलसी बिल्ली दिन भर सोती रही।",
+                "hinglish": "Aalsi billi din bhar soti rahi."
+              }
+            },
+            {
+              "english": "humble",
+              "emoji": "🙇",
+              "hindi": "नम्र",
+              "hinglish": "namra",
+              "meaning": "not thinking you are better than others",
+              "example": "Even after winning, he stayed humble.",
+              "exampleMeaning": {
+                "hi": "जीतने के बाद भी वह नम्र रहा।",
+                "hinglish": "Jeetne ke baad bhi woh namra raha."
+              }
+            },
+            {
+              "english": "clever",
+              "emoji": "🧠",
+              "hindi": "चतुर",
+              "hinglish": "chatur",
+              "meaning": "quick to learn and understand",
+              "example": "The clever fox found a way out.",
+              "exampleMeaning": {
+                "hi": "चतुर लोमड़ी ने बाहर निकलने का रास्ता ढूँढ लिया।",
+                "hinglish": "Chatur lomdi ne baahar nikalne ka raasta dhoondh liya."
+              }
+            },
+            {
+              "english": "loyal",
+              "emoji": "🐕",
+              "hindi": "वफ़ादार",
+              "hinglish": "wafaadaar",
+              "meaning": "always staying with and supporting someone",
+              "example": "A dog is a loyal friend.",
+              "exampleMeaning": {
+                "hi": "कुत्ता एक वफ़ादार दोस्त होता है।",
+                "hinglish": "Kutta ek wafaadaar dost hota hai."
+              }
+            },
+            {
+              "english": "selfish",
+              "emoji": "😤",
+              "hindi": "स्वार्थी",
+              "hinglish": "swaarthi",
+              "meaning": "caring only about yourself",
+              "example": "It is selfish to eat all the sweets alone.",
+              "exampleMeaning": {
+                "hi": "सारी मिठाई अकेले खा जाना स्वार्थ है।",
+                "hinglish": "Saari mithaai akele kha jaana swaarth hai."
+              }
+            },
+            {
+              "english": "determined",
+              "emoji": "🎯",
+              "hindi": "दृढ़ निश्चयी",
+              "hinglish": "dridh nishchayi",
+              "meaning": "not giving up even when it is hard",
+              "example": "The determined girl practised every day.",
+              "exampleMeaning": {
+                "hi": "पक्के इरादे वाली लड़की ने रोज़ अभ्यास किया।",
+                "hinglish": "Pakke iraade waali ladki ne roz abhyaas kiya."
+              }
+            },
+            {
+              "english": "responsible",
+              "emoji": "📋",
+              "hindi": "ज़िम्मेदार",
+              "hinglish": "zimmedaar",
+              "meaning": "doing your duties well without being told",
+              "example": "A responsible student finishes homework on time.",
+              "exampleMeaning": {
+                "hi": "ज़िम्मेदार विद्यार्थी समय पर होमवर्क पूरा करता है।",
+                "hinglish": "Zimmedaar vidyaarthi samay par homework poora karta hai."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P02",
+          "testId": "W56.P02T",
+          "emoji": "🌍",
+          "title": {
+            "hi": "पर्यावरण",
+            "hinglish": "Paryaavaran",
+            "en": "Environment"
+          },
+          "words": [
+            {
+              "english": "environment",
+              "emoji": "🌍",
+              "hindi": "पर्यावरण",
+              "hinglish": "paryaavaran",
+              "meaning": "the air, water, land, plants and animals around us",
+              "example": "We must keep our environment clean.",
+              "exampleMeaning": {
+                "hi": "हमें अपना पर्यावरण साफ़ रखना चाहिए।",
+                "hinglish": "Hamein apna paryaavaran saaf rakhna chahiye."
+              }
+            },
+            {
+              "english": "pollution",
+              "emoji": "🏭",
+              "hindi": "प्रदूषण",
+              "hinglish": "pradooshan",
+              "meaning": "making air, water or land dirty",
+              "example": "Smoke from factories causes pollution.",
+              "exampleMeaning": {
+                "hi": "कारखानों का धुआँ प्रदूषण फैलाता है।",
+                "hinglish": "Kaarkhaanon ka dhuaan pradooshan phailaata hai."
+              }
+            },
+            {
+              "english": "recycle",
+              "emoji": "♻️",
+              "hindi": "दोबारा काम में लाना",
+              "hinglish": "dobaara kaam mein laana",
+              "meaning": "to make used things into new things",
+              "example": "We recycle old paper to make new paper.",
+              "exampleMeaning": {
+                "hi": "हम पुराने कागज़ से नया कागज़ बनाते हैं।",
+                "hinglish": "Hum puraane kaagaz se naya kaagaz banaate hain."
+              }
+            },
+            {
+              "english": "waste",
+              "emoji": "🚱",
+              "hindi": "बर्बाद करना",
+              "hinglish": "barbaad karna",
+              "meaning": "to use more than you need",
+              "example": "Do not waste water.",
+              "exampleMeaning": {
+                "hi": "पानी बर्बाद मत करो।",
+                "hinglish": "Paani barbaad mat karo."
+              }
+            },
+            {
+              "english": "plastic",
+              "emoji": "🛍️",
+              "hindi": "प्लास्टिक",
+              "hinglish": "plastic",
+              "meaning": "a light material used to make bags and bottles",
+              "example": "Plastic bags can harm animals.",
+              "exampleMeaning": {
+                "hi": "प्लास्टिक की थैलियाँ जानवरों को नुकसान पहुँचा सकती हैं।",
+                "hinglish": "Plastic ki thailiyaan jaanwaron ko nuksaan pahuncha sakti hain."
+              }
+            },
+            {
+              "english": "garbage",
+              "emoji": "🚮",
+              "hindi": "कूड़ा",
+              "hinglish": "kooda",
+              "meaning": "things that are thrown away",
+              "example": "Put the garbage in the dustbin.",
+              "exampleMeaning": {
+                "hi": "कूड़ा कूड़ेदान में डालो।",
+                "hinglish": "Kooda koodedaan mein daalo."
+              }
+            },
+            {
+              "english": "conserve",
+              "emoji": "💧",
+              "hindi": "बचाना",
+              "hinglish": "bachaana",
+              "meaning": "to use carefully so that it lasts long",
+              "example": "We must conserve water in summer.",
+              "exampleMeaning": {
+                "hi": "गर्मियों में हमें पानी बचाना चाहिए।",
+                "hinglish": "Garmiyon mein hamein paani bachaana chahiye."
+              }
+            },
+            {
+              "english": "climate",
+              "emoji": "🌡️",
+              "hindi": "जलवायु",
+              "hinglish": "jalvaayu",
+              "meaning": "the usual weather of a place over many years",
+              "example": "The climate of Kerala is warm and wet.",
+              "exampleMeaning": {
+                "hi": "केरल की जलवायु गर्म और नम है।",
+                "hinglish": "Kerala ki jalvaayu garam aur nam hai."
+              }
+            },
+            {
+              "english": "wildlife",
+              "emoji": "🐅",
+              "hindi": "वन्यजीव",
+              "hinglish": "vanyajeev",
+              "meaning": "animals and birds that live free in nature",
+              "example": "The national park protects wildlife.",
+              "exampleMeaning": {
+                "hi": "नेशनल पार्क वन्यजीवों की रक्षा करता है।",
+                "hinglish": "National park vanyajeevon ki raksha karta hai."
+              }
+            },
+            {
+              "english": "protect",
+              "emoji": "🛡️",
+              "hindi": "रक्षा करना",
+              "hinglish": "raksha karna",
+              "meaning": "to keep safe from harm",
+              "example": "We should protect our forests.",
+              "exampleMeaning": {
+                "hi": "हमें अपने जंगलों की रक्षा करनी चाहिए।",
+                "hinglish": "Hamein apne jangalon ki raksha karni chahiye."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P03",
+          "testId": "W56.P03T",
+          "emoji": "🔬",
+          "title": {
+            "hi": "विज्ञान",
+            "hinglish": "Vigyaan",
+            "en": "Science around us"
+          },
+          "words": [
+            {
+              "english": "experiment",
+              "emoji": "🧪",
+              "hindi": "प्रयोग",
+              "hinglish": "prayog",
+              "meaning": "a test to find out something",
+              "example": "We did an experiment with salt and water.",
+              "exampleMeaning": {
+                "hi": "हमने नमक और पानी से एक प्रयोग किया।",
+                "hinglish": "Humne namak aur paani se ek prayog kiya."
+              }
+            },
+            {
+              "english": "observe",
+              "emoji": "👀",
+              "hindi": "ध्यान से देखना",
+              "hinglish": "dhyaan se dekhna",
+              "meaning": "to watch carefully",
+              "example": "Observe how the plant grows each day.",
+              "exampleMeaning": {
+                "hi": "ध्यान से देखो कि पौधा रोज़ कैसे बढ़ता है।",
+                "hinglish": "Dhyaan se dekho ki paudha roz kaise badhta hai."
+              }
+            },
+            {
+              "english": "magnet",
+              "emoji": "🧲",
+              "hindi": "चुंबक",
+              "hinglish": "chumbak",
+              "meaning": "a piece of metal that pulls iron",
+              "example": "A magnet can pick up pins.",
+              "exampleMeaning": {
+                "hi": "चुंबक पिनें उठा सकता है।",
+                "hinglish": "Chumbak pinein utha sakta hai."
+              }
+            },
+            {
+              "english": "gravity",
+              "emoji": "🍎",
+              "hindi": "गुरुत्वाकर्षण",
+              "hinglish": "gurutvaakarshan",
+              "meaning": "the force that pulls things down to the earth",
+              "example": "Gravity makes the apple fall.",
+              "exampleMeaning": {
+                "hi": "गुरुत्वाकर्षण की वजह से सेब नीचे गिरता है।",
+                "hinglish": "Gurutvaakarshan ki wajah se seb neeche girta hai."
+              }
+            },
+            {
+              "english": "liquid",
+              "emoji": "💧",
+              "hindi": "तरल",
+              "hinglish": "taral",
+              "meaning": "something that flows, like water",
+              "example": "Milk is a liquid.",
+              "exampleMeaning": {
+                "hi": "दूध एक तरल है।",
+                "hinglish": "Doodh ek taral hai."
+              }
+            },
+            {
+              "english": "solid",
+              "emoji": "🧊",
+              "hindi": "ठोस",
+              "hinglish": "thos",
+              "meaning": "something hard that keeps its shape",
+              "example": "Ice is a solid.",
+              "exampleMeaning": {
+                "hi": "बर्फ़ एक ठोस है।",
+                "hinglish": "Barf ek thos hai."
+              }
+            },
+            {
+              "english": "evaporate",
+              "emoji": "☁️",
+              "hindi": "भाप बनना",
+              "hinglish": "bhaap banna",
+              "meaning": "to change from water into vapour",
+              "example": "The hot sun makes water evaporate.",
+              "exampleMeaning": {
+                "hi": "तेज़ धूप से पानी भाप बनकर उड़ जाता है।",
+                "hinglish": "Tez dhoop se paani bhaap bankar ud jaata hai."
+              }
+            },
+            {
+              "english": "oxygen",
+              "emoji": "🫁",
+              "hindi": "ऑक्सीजन",
+              "hinglish": "oxygen",
+              "meaning": "the gas in the air that we need to breathe",
+              "example": "Plants give us oxygen.",
+              "exampleMeaning": {
+                "hi": "पौधे हमें ऑक्सीजन देते हैं।",
+                "hinglish": "Paudhe hamein oxygen dete hain."
+              }
+            },
+            {
+              "english": "energy",
+              "emoji": "🔋",
+              "hindi": "ऊर्जा",
+              "hinglish": "oorja",
+              "meaning": "the power to do work or make things move",
+              "example": "Food gives us energy.",
+              "exampleMeaning": {
+                "hi": "खाना हमें ऊर्जा देता है।",
+                "hinglish": "Khaana hamein oorja deta hai."
+              }
+            },
+            {
+              "english": "planet",
+              "emoji": "🪐",
+              "hindi": "ग्रह",
+              "hinglish": "grah",
+              "meaning": "a large round body that goes around the sun",
+              "example": "Earth is the planet we live on.",
+              "exampleMeaning": {
+                "hi": "पृथ्वी वह ग्रह है जिस पर हम रहते हैं।",
+                "hinglish": "Prithvi woh grah hai jis par hum rehte hain."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P04",
+          "testId": "W56.P04T",
+          "emoji": "🗣️",
+          "title": {
+            "hi": "बातचीत",
+            "hinglish": "Baatcheet",
+            "en": "Communication"
+          },
+          "words": [
+            {
+              "english": "discuss",
+              "emoji": "💬",
+              "hindi": "चर्चा करना",
+              "hinglish": "charcha karna",
+              "meaning": "to talk about something with others",
+              "example": "Let us discuss the story in groups.",
+              "exampleMeaning": {
+                "hi": "चलो, समूह में कहानी पर चर्चा करें।",
+                "hinglish": "Chalo, samooh mein kahani par charcha karein."
+              }
+            },
+            {
+              "english": "describe",
+              "emoji": "📝",
+              "hindi": "वर्णन करना",
+              "hinglish": "varnan karna",
+              "meaning": "to say what something is like",
+              "example": "Describe your best friend in five lines.",
+              "exampleMeaning": {
+                "hi": "अपने सबसे अच्छे दोस्त का पाँच लाइनों में वर्णन करो।",
+                "hinglish": "Apne sabse achhe dost ka paanch lines mein varnan karo."
+              }
+            },
+            {
+              "english": "announce",
+              "emoji": "📢",
+              "hindi": "घोषणा करना",
+              "hinglish": "ghoshna karna",
+              "meaning": "to tell many people about something",
+              "example": "The principal will announce the results.",
+              "exampleMeaning": {
+                "hi": "प्रधानाचार्य नतीजों की घोषणा करेंगे।",
+                "hinglish": "Pradhaanaachaarya nateejon ki ghoshna karenge."
+              }
+            },
+            {
+              "english": "argue",
+              "emoji": "🗯️",
+              "hindi": "बहस करना",
+              "hinglish": "bahas karna",
+              "meaning": "to talk angrily because you do not agree",
+              "example": "The brothers argue about the TV remote.",
+              "exampleMeaning": {
+                "hi": "भाई टीवी के रिमोट को लेकर बहस करते हैं।",
+                "hinglish": "Bhai TV ke remote ko lekar bahas karte hain."
+              }
+            },
+            {
+              "english": "whisper",
+              "emoji": "🤫",
+              "hindi": "फुसफुसाना",
+              "hinglish": "phusphusaana",
+              "meaning": "to speak very softly",
+              "example": "Do not whisper during the test.",
+              "exampleMeaning": {
+                "hi": "टेस्ट के दौरान फुसफुसाओ मत।",
+                "hinglish": "Test ke dauraan phusphusao mat."
+              }
+            },
+            {
+              "english": "complain",
+              "emoji": "😒",
+              "hindi": "शिकायत करना",
+              "hinglish": "shikaayat karna",
+              "meaning": "to say that you are not happy about something",
+              "example": "He did not complain about the long walk.",
+              "exampleMeaning": {
+                "hi": "उसने लंबी पैदल यात्रा की शिकायत नहीं की।",
+                "hinglish": "Usne lambi paidal yaatra ki shikaayat nahi ki."
+              }
+            },
+            {
+              "english": "suggest",
+              "emoji": "💡",
+              "hindi": "सुझाव देना",
+              "hinglish": "sujhaav dena",
+              "meaning": "to give an idea",
+              "example": "Can you suggest a good book?",
+              "exampleMeaning": {
+                "hi": "क्या तुम कोई अच्छी किताब सुझा सकते हो?",
+                "hinglish": "Kya tum koi achhi kitaab sujha sakte ho?"
+              }
+            },
+            {
+              "english": "request",
+              "emoji": "🙏",
+              "hindi": "अनुरोध करना",
+              "hinglish": "anurodh karna",
+              "meaning": "to ask politely",
+              "example": "I request you to close the window.",
+              "exampleMeaning": {
+                "hi": "मेरा अनुरोध है कि खिड़की बंद कर दीजिए।",
+                "hinglish": "Mera anurodh hai ki khidki band kar deejiye."
+              }
+            },
+            {
+              "english": "reply",
+              "emoji": "↩️",
+              "hindi": "उत्तर देना",
+              "hinglish": "uttar dena",
+              "meaning": "to answer a letter or a message",
+              "example": "Please reply to my letter soon.",
+              "exampleMeaning": {
+                "hi": "प्लीज़ मेरी चिट्ठी का जल्दी जवाब देना।",
+                "hinglish": "Please meri chitthi ka jaldi jawaab dena."
+              }
+            },
+            {
+              "english": "interrupt",
+              "emoji": "✋",
+              "hindi": "बीच में टोकना",
+              "hinglish": "beech mein tokna",
+              "meaning": "to stop someone while they are speaking",
+              "example": "It is rude to interrupt others.",
+              "exampleMeaning": {
+                "hi": "दूसरों को बीच में टोकना अच्छी बात नहीं है।",
+                "hinglish": "Doosron ko beech mein tokna achhi baat nahi hai."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P05",
+          "testId": "W56.P05T",
+          "emoji": "💰",
+          "title": {
+            "hi": "पैसा और ख़रीदारी",
+            "hinglish": "Paisa aur khareedaari",
+            "en": "Money and shopping"
+          },
+          "words": [
+            {
+              "english": "price",
+              "emoji": "🏷️",
+              "hindi": "दाम",
+              "hinglish": "daam",
+              "meaning": "how much money something costs",
+              "example": "What is the price of this pen?",
+              "exampleMeaning": {
+                "hi": "इस पेन का दाम क्या है?",
+                "hinglish": "Is pen ka daam kya hai?"
+              }
+            },
+            {
+              "english": "cheap",
+              "emoji": "🪙",
+              "hindi": "सस्ता",
+              "hinglish": "sasta",
+              "meaning": "not costing much",
+              "example": "Vegetables are cheap in the evening market.",
+              "exampleMeaning": {
+                "hi": "शाम के बाज़ार में सब्ज़ियाँ सस्ती होती हैं।",
+                "hinglish": "Shaam ke baazaar mein sabziyaan sasti hoti hain."
+              }
+            },
+            {
+              "english": "expensive",
+              "emoji": "💎",
+              "hindi": "महँगा",
+              "hinglish": "mehnga",
+              "meaning": "costing a lot of money",
+              "example": "This toy is too expensive.",
+              "exampleMeaning": {
+                "hi": "यह खिलौना बहुत महँगा है।",
+                "hinglish": "Yeh khilauna bahut mehnga hai."
+              }
+            },
+            {
+              "english": "save",
+              "emoji": "🐖",
+              "hindi": "बचत करना",
+              "hinglish": "bachat karna",
+              "meaning": "to keep money to use later",
+              "example": "I save a coin every day.",
+              "exampleMeaning": {
+                "hi": "मैं रोज़ एक सिक्का बचाता/बचाती हूँ।",
+                "hinglish": "Main roz ek sikka bachaata/bachaati hoon."
+              }
+            },
+            {
+              "english": "spend",
+              "emoji": "💸",
+              "hindi": "ख़र्च करना",
+              "hinglish": "kharch karna",
+              "meaning": "to use money to buy things",
+              "example": "Do not spend all your money on sweets.",
+              "exampleMeaning": {
+                "hi": "अपने सारे पैसे मिठाई पर ख़र्च मत करो।",
+                "hinglish": "Apne saare paise mithaai par kharch mat karo."
+              }
+            },
+            {
+              "english": "discount",
+              "emoji": "🔖",
+              "hindi": "छूट",
+              "hinglish": "chhoot",
+              "meaning": "money taken off the usual price",
+              "example": "The shop gave us a discount.",
+              "exampleMeaning": {
+                "hi": "दुकान ने हमें छूट दी।",
+                "hinglish": "Dukaan ne hamein chhoot di."
+              }
+            },
+            {
+              "english": "receipt",
+              "emoji": "🧾",
+              "hindi": "रसीद",
+              "hinglish": "raseed",
+              "meaning": "a paper that shows what you paid",
+              "example": "Keep the receipt after shopping.",
+              "exampleMeaning": {
+                "hi": "ख़रीदारी के बाद रसीद संभालकर रखो।",
+                "hinglish": "Khareedaari ke baad raseed sambhaalkar rakho."
+              }
+            },
+            {
+              "english": "customer",
+              "emoji": "🧍",
+              "hindi": "ग्राहक",
+              "hinglish": "graahak",
+              "meaning": "a person who buys things from a shop",
+              "example": "The shopkeeper smiled at the customer.",
+              "exampleMeaning": {
+                "hi": "दुकानदार ग्राहक को देखकर मुस्कुराया।",
+                "hinglish": "Dukaandaar graahak ko dekhkar muskuraaya."
+              }
+            },
+            {
+              "english": "change",
+              "emoji": "💱",
+              "hindi": "छुट्टे पैसे",
+              "hinglish": "chhutte paise",
+              "meaning": "money you get back when you pay more",
+              "example": "The shopkeeper gave me ten rupees change.",
+              "exampleMeaning": {
+                "hi": "दुकानदार ने मुझे दस रुपये छुट्टे दिए।",
+                "hinglish": "Dukaandaar ne mujhe das rupaye chhutte diye."
+              }
+            },
+            {
+              "english": "budget",
+              "emoji": "📊",
+              "hindi": "बजट",
+              "hinglish": "budget",
+              "meaning": "a plan for how to spend money",
+              "example": "Papa makes a budget every month.",
+              "exampleMeaning": {
+                "hi": "पापा हर महीने बजट बनाते हैं।",
+                "hinglish": "Papa har mahine budget banaate hain."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P06",
+          "testId": "W56.P06T",
+          "emoji": "✈️",
+          "title": {
+            "hi": "यात्रा",
+            "hinglish": "Yaatra",
+            "en": "Travel"
+          },
+          "words": [
+            {
+              "english": "journey",
+              "emoji": "🧳",
+              "hindi": "सफ़र",
+              "hinglish": "safar",
+              "meaning": "travelling from one place to another",
+              "example": "The journey to Shimla took two days.",
+              "exampleMeaning": {
+                "hi": "शिमला का सफ़र दो दिन का था।",
+                "hinglish": "Shimla ka safar do din ka tha."
+              }
+            },
+            {
+              "english": "passenger",
+              "emoji": "🧑‍💼",
+              "hindi": "यात्री",
+              "hinglish": "yaatri",
+              "meaning": "a person travelling in a bus, train or plane",
+              "example": "Every passenger must wear a seat belt.",
+              "exampleMeaning": {
+                "hi": "हर यात्री को सीट बेल्ट लगानी चाहिए।",
+                "hinglish": "Har yaatri ko seat belt lagaani chahiye."
+              }
+            },
+            {
+              "english": "ticket",
+              "emoji": "🎫",
+              "hindi": "टिकट",
+              "hinglish": "ticket",
+              "meaning": "a paper that lets you travel or enter",
+              "example": "Show your ticket to the conductor.",
+              "exampleMeaning": {
+                "hi": "कंडक्टर को अपना टिकट दिखाओ।",
+                "hinglish": "Conductor ko apna ticket dikhao."
+              }
+            },
+            {
+              "english": "luggage",
+              "emoji": "👜",
+              "hindi": "सामान",
+              "hinglish": "saamaan",
+              "meaning": "the bags you take on a journey",
+              "example": "Our luggage was very heavy.",
+              "exampleMeaning": {
+                "hi": "हमारा सामान बहुत भारी था।",
+                "hinglish": "Hamara saamaan bahut bhaari tha."
+              }
+            },
+            {
+              "english": "destination",
+              "emoji": "📍",
+              "hindi": "मंज़िल",
+              "hinglish": "manzil",
+              "meaning": "the place you are travelling to",
+              "example": "Goa was our destination.",
+              "exampleMeaning": {
+                "hi": "गोवा हमारी मंज़िल थी।",
+                "hinglish": "Goa hamari manzil thi."
+              }
+            },
+            {
+              "english": "vehicle",
+              "emoji": "🚗",
+              "hindi": "वाहन",
+              "hinglish": "vaahan",
+              "meaning": "a car, bus, truck or bike",
+              "example": "Park the vehicle in the parking area.",
+              "exampleMeaning": {
+                "hi": "वाहन को पार्किंग में खड़ा करो।",
+                "hinglish": "Vaahan ko parking mein khada karo."
+              }
+            },
+            {
+              "english": "traffic",
+              "emoji": "🚦",
+              "hindi": "यातायात",
+              "hinglish": "yaataayaat",
+              "meaning": "cars and buses moving on a road",
+              "example": "There is heavy traffic in the evening.",
+              "exampleMeaning": {
+                "hi": "शाम को बहुत ट्रैफ़िक होता है।",
+                "hinglish": "Shaam ko bahut traffic hota hai."
+              }
+            },
+            {
+              "english": "platform",
+              "emoji": "🚉",
+              "hindi": "प्लेटफ़ॉर्म",
+              "hinglish": "platform",
+              "meaning": "the place at a station where you get on a train",
+              "example": "The train will arrive on platform two.",
+              "exampleMeaning": {
+                "hi": "ट्रेन प्लेटफ़ॉर्म दो पर आएगी।",
+                "hinglish": "Train platform do par aayegi."
+              }
+            },
+            {
+              "english": "map",
+              "emoji": "🗺️",
+              "hindi": "नक्शा",
+              "hinglish": "naksha",
+              "meaning": "a picture that shows places and roads",
+              "example": "We used a map to find the fort.",
+              "exampleMeaning": {
+                "hi": "किला ढूँढने के लिए हमने नक्शे का इस्तेमाल किया।",
+                "hinglish": "Kila dhoondhne ke liye humne nakshe ka istemaal kiya."
+              }
+            },
+            {
+              "english": "delay",
+              "emoji": "⏳",
+              "hindi": "देरी",
+              "hinglish": "deri",
+              "meaning": "when something happens later than planned",
+              "example": "The rain caused a delay.",
+              "exampleMeaning": {
+                "hi": "बारिश की वजह से देरी हो गई।",
+                "hinglish": "Baarish ki wajah se deri ho gayi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P07",
+          "testId": "W56.P07T",
+          "emoji": "🧩",
+          "title": {
+            "hi": "शब्द परिवार: -ful और -less",
+            "hinglish": "Shabd parivaar: -ful aur -less",
+            "en": "Word families: -ful and -less"
+          },
+          "words": [
+            {
+              "english": "helpful",
+              "emoji": "🤝",
+              "hindi": "मददगार",
+              "hinglish": "madadgaar",
+              "meaning": "help + ful: ready to help",
+              "example": "My sister is very helpful at home.",
+              "exampleMeaning": {
+                "hi": "मेरी बहन घर पर बहुत मदद करती है।",
+                "hinglish": "Meri behen ghar par bahut madad karti hai."
+              }
+            },
+            {
+              "english": "helpless",
+              "emoji": "😢",
+              "hindi": "बेबस",
+              "hinglish": "bebas",
+              "meaning": "help + less: not able to help yourself",
+              "example": "The helpless bird could not fly.",
+              "exampleMeaning": {
+                "hi": "बेबस चिड़िया उड़ नहीं पा रही थी।",
+                "hinglish": "Bebas chidiya ud nahi paa rahi thi."
+              }
+            },
+            {
+              "english": "hopeful",
+              "emoji": "🌈",
+              "hindi": "आशावान",
+              "hinglish": "aashaavaan",
+              "meaning": "hope + ful: feeling that good things will happen",
+              "example": "We are hopeful about the match.",
+              "exampleMeaning": {
+                "hi": "हमें मैच को लेकर उम्मीद है।",
+                "hinglish": "Hamein match ko lekar ummeed hai."
+              }
+            },
+            {
+              "english": "hopeless",
+              "emoji": "😞",
+              "hindi": "निराशाजनक",
+              "hinglish": "niraashajanak",
+              "meaning": "hope + less: with no hope",
+              "example": "The old car looked hopeless.",
+              "exampleMeaning": {
+                "hi": "पुरानी गाड़ी की हालत देखकर कोई उम्मीद नहीं लगती थी।",
+                "hinglish": "Puraani gaadi ki haalat dekhkar koi ummeed nahi lagti thi."
+              }
+            },
+            {
+              "english": "painful",
+              "emoji": "🤕",
+              "hindi": "दर्दनाक",
+              "hinglish": "dardnaak",
+              "meaning": "pain + ful: causing pain",
+              "example": "The bee sting was painful.",
+              "exampleMeaning": {
+                "hi": "मधुमक्खी का डंक दर्दनाक था।",
+                "hinglish": "Madhumakkhi ka dank dardnaak tha."
+              }
+            },
+            {
+              "english": "painless",
+              "emoji": "💉",
+              "hindi": "बिना दर्द का",
+              "hinglish": "bina dard ka",
+              "meaning": "pain + less: with no pain",
+              "example": "The injection was quick and painless.",
+              "exampleMeaning": {
+                "hi": "इंजेक्शन जल्दी लगा और दर्द नहीं हुआ।",
+                "hinglish": "Injection jaldi laga aur dard nahi hua."
+              }
+            },
+            {
+              "english": "useful",
+              "emoji": "🛠️",
+              "hindi": "उपयोगी",
+              "hinglish": "upyogi",
+              "meaning": "use + ful: good for doing something",
+              "example": "A torch is useful at night.",
+              "exampleMeaning": {
+                "hi": "रात में टॉर्च बहुत काम आती है।",
+                "hinglish": "Raat mein torch bahut kaam aati hai."
+              }
+            },
+            {
+              "english": "useless",
+              "emoji": "🚫",
+              "hindi": "बेकार",
+              "hinglish": "bekaar",
+              "meaning": "use + less: of no use",
+              "example": "A broken pencil is useless.",
+              "exampleMeaning": {
+                "hi": "टूटी पेंसिल बेकार है।",
+                "hinglish": "Tooti pencil bekaar hai."
+              }
+            },
+            {
+              "english": "fearless",
+              "emoji": "🦁",
+              "hindi": "निडर",
+              "hinglish": "nidar",
+              "meaning": "fear + less: not afraid of anything",
+              "example": "The fearless soldier saved many lives.",
+              "exampleMeaning": {
+                "hi": "निडर सैनिक ने कई जानें बचाईं।",
+                "hinglish": "Nidar sainik ne kai jaanein bachaayin."
+              }
+            },
+            {
+              "english": "thankful",
+              "emoji": "🙏",
+              "hindi": "आभारी",
+              "hinglish": "aabhaari",
+              "meaning": "thank + ful: happy and grateful",
+              "example": "I am thankful for my friends.",
+              "exampleMeaning": {
+                "hi": "मैं अपने दोस्तों के लिए आभारी हूँ।",
+                "hinglish": "Main apne doston ke liye aabhaari hoon."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P08",
+          "testId": "W56.P08T",
+          "emoji": "🔁",
+          "title": {
+            "hi": "शब्द की शुरुआत: un-, dis-, re-",
+            "hinglish": "Shabd ki shuruaat: un-, dis-, re-",
+            "en": "Prefixes: un-, dis-, re-"
+          },
+          "words": [
+            {
+              "english": "unhappy",
+              "emoji": "😞",
+              "hindi": "दुखी",
+              "hinglish": "dukhi",
+              "meaning": "un + happy: not happy",
+              "example": "The child was unhappy when it rained.",
+              "exampleMeaning": {
+                "hi": "बारिश होने पर बच्चा दुखी हो गया।",
+                "hinglish": "Baarish hone par bachcha dukhi ho gaya."
+              }
+            },
+            {
+              "english": "unkind",
+              "emoji": "😠",
+              "hindi": "निर्दयी",
+              "hinglish": "nirdayi",
+              "meaning": "un + kind: not kind",
+              "example": "It is unkind to laugh at others.",
+              "exampleMeaning": {
+                "hi": "दूसरों पर हँसना निर्दयी बात है।",
+                "hinglish": "Doosron par hansna nirdayi baat hai."
+              }
+            },
+            {
+              "english": "unlock",
+              "emoji": "🔓",
+              "hindi": "ताला खोलना",
+              "hinglish": "taala kholna",
+              "meaning": "un + lock: to open a lock",
+              "example": "Unlock the door with this key.",
+              "exampleMeaning": {
+                "hi": "इस चाबी से दरवाज़े का ताला खोलो।",
+                "hinglish": "Is chaabi se darwaaze ka taala kholo."
+              }
+            },
+            {
+              "english": "disagree",
+              "emoji": "🙅",
+              "hindi": "असहमत होना",
+              "hinglish": "asahmat hona",
+              "meaning": "dis + agree: to not agree",
+              "example": "I disagree with your idea.",
+              "exampleMeaning": {
+                "hi": "मैं तुम्हारे विचार से असहमत हूँ।",
+                "hinglish": "Main tumhare vichaar se asahmat hoon."
+              }
+            },
+            {
+              "english": "dislike",
+              "emoji": "👎",
+              "hindi": "नापसंद करना",
+              "hinglish": "naapasand karna",
+              "meaning": "dis + like: to not like",
+              "example": "I dislike bitter food.",
+              "exampleMeaning": {
+                "hi": "मुझे कड़वा खाना पसंद नहीं।",
+                "hinglish": "Mujhe kadwa khaana pasand nahi."
+              }
+            },
+            {
+              "english": "disappear",
+              "emoji": "🫥",
+              "hindi": "गायब होना",
+              "hinglish": "gaayab hona",
+              "meaning": "dis + appear: to go out of sight",
+              "example": "The magician made the coin disappear.",
+              "exampleMeaning": {
+                "hi": "जादूगर ने सिक्का गायब कर दिया।",
+                "hinglish": "Jaadugar ne sikka gaayab kar diya."
+              }
+            },
+            {
+              "english": "rewrite",
+              "emoji": "✏️",
+              "hindi": "फिर से लिखना",
+              "hinglish": "phir se likhna",
+              "meaning": "re + write: to write again",
+              "example": "Please rewrite this answer neatly.",
+              "exampleMeaning": {
+                "hi": "इस जवाब को साफ़-साफ़ फिर से लिखो।",
+                "hinglish": "Is jawaab ko saaf-saaf phir se likho."
+              }
+            },
+            {
+              "english": "reuse",
+              "emoji": "♻️",
+              "hindi": "फिर से इस्तेमाल करना",
+              "hinglish": "phir se istemaal karna",
+              "meaning": "re + use: to use again",
+              "example": "We reuse old jars to keep spices.",
+              "exampleMeaning": {
+                "hi": "हम मसाले रखने के लिए पुराने डिब्बे फिर से इस्तेमाल करते हैं।",
+                "hinglish": "Hum masaale rakhne ke liye puraane dibbe phir se istemaal karte hain."
+              }
+            },
+            {
+              "english": "return",
+              "emoji": "↩️",
+              "hindi": "लौटाना",
+              "hinglish": "lautaana",
+              "meaning": "re + turn: to give back or come back",
+              "example": "Return the book to the library.",
+              "exampleMeaning": {
+                "hi": "किताब लाइब्रेरी को लौटा दो।",
+                "hinglish": "Kitaab library ko lauta do."
+              }
+            },
+            {
+              "english": "rebuild",
+              "emoji": "🏗️",
+              "hindi": "फिर से बनाना",
+              "hinglish": "phir se banaana",
+              "meaning": "re + build: to build again",
+              "example": "They will rebuild the old bridge.",
+              "exampleMeaning": {
+                "hi": "वे पुराने पुल को फिर से बनाएँगे।",
+                "hinglish": "Woh puraane pul ko phir se banaayenge."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P09",
+          "testId": "W56.P09T",
+          "emoji": "⚖️",
+          "title": {
+            "hi": "मिलते-जुलते शब्द",
+            "hinglish": "Milte-julte shabd",
+            "en": "Confusing pairs"
+          },
+          "words": [
+            {
+              "english": "lose",
+              "emoji": "😢",
+              "hindi": "खो देना",
+              "hinglish": "kho dena",
+              "meaning": "to not be able to find something",
+              "example": "Do not lose your pencil.",
+              "exampleMeaning": {
+                "hi": "अपनी पेंसिल मत खोना।",
+                "hinglish": "Apni pencil mat khona."
+              }
+            },
+            {
+              "english": "loose",
+              "emoji": "👖",
+              "hindi": "ढीला",
+              "hinglish": "dheela",
+              "meaning": "not tight",
+              "example": "My old shirt is loose now.",
+              "exampleMeaning": {
+                "hi": "मेरी पुरानी कमीज़ अब ढीली है।",
+                "hinglish": "Meri puraani kameez ab dheeli hai."
+              }
+            },
+            {
+              "english": "quiet",
+              "emoji": "🤫",
+              "hindi": "शांत",
+              "hinglish": "shaant",
+              "meaning": "making very little noise",
+              "example": "Please be quiet in the library.",
+              "exampleMeaning": {
+                "hi": "लाइब्रेरी में शांत रहो।",
+                "hinglish": "Library mein shaant raho."
+              }
+            },
+            {
+              "english": "quite",
+              "emoji": "👌",
+              "hindi": "काफ़ी",
+              "hinglish": "kaafi",
+              "meaning": "very or fairly",
+              "example": "The test was quite easy.",
+              "exampleMeaning": {
+                "hi": "टेस्ट काफ़ी आसान था।",
+                "hinglish": "Test kaafi aasaan tha."
+              }
+            },
+            {
+              "english": "accept",
+              "emoji": "✅",
+              "hindi": "स्वीकार करना",
+              "hinglish": "sweekaar karna",
+              "meaning": "to take what is offered",
+              "example": "Please accept this small gift.",
+              "exampleMeaning": {
+                "hi": "यह छोटा सा तोहफ़ा स्वीकार कीजिए।",
+                "hinglish": "Yeh chhota sa tohfa sweekaar keejiye."
+              }
+            },
+            {
+              "english": "except",
+              "emoji": "➖",
+              "hindi": "के सिवा",
+              "hinglish": "ke siva",
+              "meaning": "not including",
+              "example": "Everyone came except Rohan.",
+              "exampleMeaning": {
+                "hi": "रोहन के सिवा सब आए।",
+                "hinglish": "Rohan ke siva sab aaye."
+              }
+            },
+            {
+              "english": "advice",
+              "emoji": "💬",
+              "hindi": "सलाह",
+              "hinglish": "salaah",
+              "meaning": "an idea about what someone should do",
+              "example": "My teacher gave me good advice.",
+              "exampleMeaning": {
+                "hi": "मेरे टीचर ने मुझे अच्छी सलाह दी।",
+                "hinglish": "Mere teacher ne mujhe achhi salaah di."
+              }
+            },
+            {
+              "english": "advise",
+              "emoji": "🧑‍🏫",
+              "hindi": "सलाह देना",
+              "hinglish": "salaah dena",
+              "meaning": "to tell someone what they should do",
+              "example": "Doctors advise us to sleep early.",
+              "exampleMeaning": {
+                "hi": "डॉक्टर हमें जल्दी सोने की सलाह देते हैं।",
+                "hinglish": "Doctor hamein jaldi sone ki salaah dete hain."
+              }
+            },
+            {
+              "english": "dessert",
+              "emoji": "🍨",
+              "hindi": "मीठा",
+              "hinglish": "meetha",
+              "meaning": "sweet food eaten after a meal",
+              "example": "We had ice cream for dessert.",
+              "exampleMeaning": {
+                "hi": "खाने के बाद मीठे में हमने आइसक्रीम खाई।",
+                "hinglish": "Khaane ke baad meethe mein humne ice cream khaayi."
+              }
+            },
+            {
+              "english": "stationery",
+              "emoji": "✏️",
+              "hindi": "लेखन सामग्री",
+              "hinglish": "lekhan saamagri",
+              "meaning": "pens, pencils, paper and erasers",
+              "example": "I bought new stationery for the new term.",
+              "exampleMeaning": {
+                "hi": "मैंने नए सत्र के लिए नई लेखन सामग्री ख़रीदी।",
+                "hinglish": "Maine naye satra ke liye nayi lekhan saamagri khareedi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P10",
+          "testId": "W56.P10T",
+          "emoji": "🫀",
+          "title": {
+            "hi": "शरीर के अंदर",
+            "hinglish": "Shareer ke andar",
+            "en": "Inside the body"
+          },
+          "words": [
+            {
+              "english": "heart",
+              "emoji": "❤️",
+              "hindi": "दिल",
+              "hinglish": "dil",
+              "meaning": "the part of the body that pumps blood",
+              "example": "Your heart beats faster when you run.",
+              "exampleMeaning": {
+                "hi": "दौड़ने पर तुम्हारा दिल तेज़ धड़कता है।",
+                "hinglish": "Daudne par tumhara dil tez dhadakta hai."
+              }
+            },
+            {
+              "english": "lungs",
+              "emoji": "🫁",
+              "hindi": "फेफड़े",
+              "hinglish": "phephde",
+              "meaning": "the parts of the body we breathe with",
+              "example": "Smoke harms the lungs.",
+              "exampleMeaning": {
+                "hi": "धुआँ फेफड़ों को नुकसान पहुँचाता है।",
+                "hinglish": "Dhuaan phephdon ko nuksaan pahunchaata hai."
+              }
+            },
+            {
+              "english": "skeleton",
+              "emoji": "🦴",
+              "hindi": "कंकाल",
+              "hinglish": "kankaal",
+              "meaning": "all the bones of the body",
+              "example": "The skeleton keeps our body in shape.",
+              "exampleMeaning": {
+                "hi": "कंकाल हमारे शरीर को आकार देता है।",
+                "hinglish": "Kankaal hamare shareer ko aakaar deta hai."
+              }
+            },
+            {
+              "english": "muscle",
+              "emoji": "💪",
+              "hindi": "मांसपेशी",
+              "hinglish": "maanspeshi",
+              "meaning": "the part of the body that helps you move",
+              "example": "Exercise makes every muscle strong.",
+              "exampleMeaning": {
+                "hi": "व्यायाम से हर मांसपेशी मज़बूत होती है।",
+                "hinglish": "Vyaayaam se har maanspeshi mazboot hoti hai."
+              }
+            },
+            {
+              "english": "nutrition",
+              "emoji": "🥗",
+              "hindi": "पोषण",
+              "hinglish": "poshan",
+              "meaning": "the good things in food that help us grow",
+              "example": "Good nutrition keeps children strong.",
+              "exampleMeaning": {
+                "hi": "अच्छा पोषण बच्चों को मज़बूत रखता है।",
+                "hinglish": "Achha poshan bachchon ko mazboot rakhta hai."
+              }
+            },
+            {
+              "english": "vitamin",
+              "emoji": "🍊",
+              "hindi": "विटामिन",
+              "hinglish": "vitamin",
+              "meaning": "something in food that keeps us healthy",
+              "example": "Oranges are rich in vitamin C.",
+              "exampleMeaning": {
+                "hi": "संतरे में विटामिन सी भरपूर होता है।",
+                "hinglish": "Santare mein vitamin C bharpoor hota hai."
+              }
+            },
+            {
+              "english": "hygiene",
+              "emoji": "🧼",
+              "hindi": "साफ़-सफ़ाई",
+              "hinglish": "saaf-safaai",
+              "meaning": "keeping yourself and your things clean",
+              "example": "Good hygiene stops many illnesses.",
+              "exampleMeaning": {
+                "hi": "अच्छी साफ़-सफ़ाई कई बीमारियों को रोकती है।",
+                "hinglish": "Achhi saaf-safaai kai beemaariyon ko rokti hai."
+              }
+            },
+            {
+              "english": "allergy",
+              "emoji": "🤧",
+              "hindi": "एलर्जी",
+              "hinglish": "allergy",
+              "meaning": "when your body reacts badly to something",
+              "example": "Dust gives me an allergy.",
+              "exampleMeaning": {
+                "hi": "धूल से मुझे एलर्जी हो जाती है।",
+                "hinglish": "Dhool se mujhe allergy ho jaati hai."
+              }
+            },
+            {
+              "english": "recover",
+              "emoji": "🛌",
+              "hindi": "ठीक होना",
+              "hinglish": "theek hona",
+              "meaning": "to get better after being ill",
+              "example": "Rest well and you will recover soon.",
+              "exampleMeaning": {
+                "hi": "अच्छे से आराम करने से तबीयत जल्दी ठीक हो जाती है।",
+                "hinglish": "Achhe se aaraam karne se tabiyat jaldi theek ho jaati hai."
+              }
+            },
+            {
+              "english": "appetite",
+              "emoji": "🍽️",
+              "hindi": "भूख",
+              "hinglish": "bhookh",
+              "meaning": "the wish to eat",
+              "example": "I lost my appetite when I had a fever.",
+              "exampleMeaning": {
+                "hi": "बुखार में मेरी भूख चली गई।",
+                "hinglish": "Bukhaar mein meri bhookh chali gayi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P11",
+          "testId": "W56.P11T",
+          "emoji": "🎭",
+          "title": {
+            "hi": "गहरी भावनाएँ",
+            "hinglish": "Gehri bhaavnaayein",
+            "en": "Deeper feelings"
+          },
+          "words": [
+            {
+              "english": "anxious",
+              "emoji": "😰",
+              "hindi": "बेचैन",
+              "hinglish": "bechain",
+              "meaning": "worried and nervous",
+              "example": "I felt anxious before the exam.",
+              "exampleMeaning": {
+                "hi": "परीक्षा से पहले मुझे बेचैनी हो रही थी।",
+                "hinglish": "Pareeksha se pehle mujhe bechaini ho rahi thi."
+              }
+            },
+            {
+              "english": "grateful",
+              "emoji": "🙏",
+              "hindi": "कृतज्ञ",
+              "hinglish": "kritagya",
+              "meaning": "thankful for what someone did",
+              "example": "I am grateful to my teacher.",
+              "exampleMeaning": {
+                "hi": "मैं अपने टीचर का आभारी हूँ।",
+                "hinglish": "Main apne teacher ka aabhaari hoon."
+              }
+            },
+            {
+              "english": "jealous",
+              "emoji": "😒",
+              "hindi": "जलन वाला",
+              "hinglish": "jalan waala",
+              "meaning": "unhappy because someone has what you want",
+              "example": "He was jealous of his friend's new bike.",
+              "exampleMeaning": {
+                "hi": "उसे अपने दोस्त की नई साइकिल से जलन हुई।",
+                "hinglish": "Use apne dost ki nayi cycle se jalan hui."
+              }
+            },
+            {
+              "english": "embarrassed",
+              "emoji": "😳",
+              "hindi": "शर्मिंदा",
+              "hinglish": "sharminda",
+              "meaning": "feeling shy because of a silly mistake",
+              "example": "I was embarrassed when I fell on the stage.",
+              "exampleMeaning": {
+                "hi": "स्टेज पर गिरने पर मुझे शर्मिंदगी हुई।",
+                "hinglish": "Stage par girne par mujhe sharmindagi hui."
+              }
+            },
+            {
+              "english": "confused",
+              "emoji": "😕",
+              "hindi": "उलझन में",
+              "hinglish": "uljhan mein",
+              "meaning": "not able to understand",
+              "example": "The new sum made me confused.",
+              "exampleMeaning": {
+                "hi": "नए सवाल ने मुझे उलझन में डाल दिया।",
+                "hinglish": "Naye sawaal ne mujhe uljhan mein daal diya."
+              }
+            },
+            {
+              "english": "disappointed",
+              "emoji": "😞",
+              "hindi": "निराश",
+              "hinglish": "niraash",
+              "meaning": "sad because something did not happen",
+              "example": "We were disappointed when the trip was cancelled.",
+              "exampleMeaning": {
+                "hi": "ट्रिप रद्द होने पर हम निराश हो गए।",
+                "hinglish": "Trip radd hone par hum niraash ho gaye."
+              }
+            },
+            {
+              "english": "relieved",
+              "emoji": "😌",
+              "hindi": "राहत",
+              "hinglish": "raahat",
+              "meaning": "happy that a worry has gone",
+              "example": "I was relieved to find my lost bag.",
+              "exampleMeaning": {
+                "hi": "खोया बस्ता मिलने पर मुझे राहत मिली।",
+                "hinglish": "Khoya basta milne par mujhe raahat mili."
+              }
+            },
+            {
+              "english": "frightened",
+              "emoji": "😨",
+              "hindi": "डरा हुआ",
+              "hinglish": "dara hua",
+              "meaning": "very afraid",
+              "example": "The loud noise frightened the baby.",
+              "exampleMeaning": {
+                "hi": "तेज़ आवाज़ से बच्चा डर गया।",
+                "hinglish": "Tez awaaz se bachcha dar gaya."
+              }
+            },
+            {
+              "english": "cheerful",
+              "emoji": "😄",
+              "hindi": "खुशमिज़ाज",
+              "hinglish": "khushmizaaj",
+              "meaning": "happy and full of smiles",
+              "example": "Our cheerful teacher makes class fun.",
+              "exampleMeaning": {
+                "hi": "हमारे खुशमिज़ाज टीचर क्लास को मज़ेदार बना देते हैं।",
+                "hinglish": "Hamare khushmizaaj teacher class ko mazedaar bana dete hain."
+              }
+            },
+            {
+              "english": "furious",
+              "emoji": "😡",
+              "hindi": "बहुत गुस्सा",
+              "hinglish": "bahut gussa",
+              "meaning": "very, very angry",
+              "example": "The king was furious with the thief.",
+              "exampleMeaning": {
+                "hi": "राजा चोर पर बहुत गुस्सा था।",
+                "hinglish": "Raja chor par bahut gussa tha."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W56.P12",
+          "testId": "W56.P12T",
+          "emoji": "🏃",
+          "title": {
+            "hi": "काम के शब्द",
+            "hinglish": "Kaam ke shabd",
+            "en": "Doing words"
+          },
+          "words": [
+            {
+              "english": "collect",
+              "emoji": "🧺",
+              "hindi": "इकट्ठा करना",
+              "hinglish": "ikattha karna",
+              "meaning": "to bring things together",
+              "example": "I collect stamps from many countries.",
+              "exampleMeaning": {
+                "hi": "मैं कई देशों के डाक टिकट इकट्ठा करता/करती हूँ।",
+                "hinglish": "Main kai deshon ke daak ticket ikattha karta/karti hoon."
+              }
+            },
+            {
+              "english": "compare",
+              "emoji": "🔍",
+              "hindi": "तुलना करना",
+              "hinglish": "tulna karna",
+              "meaning": "to see how things are the same or different",
+              "example": "Compare the two pictures.",
+              "exampleMeaning": {
+                "hi": "दोनों तस्वीरों की तुलना करो।",
+                "hinglish": "Dono tasveeron ki tulna karo."
+              }
+            },
+            {
+              "english": "decide",
+              "emoji": "🤔",
+              "hindi": "तय करना",
+              "hinglish": "tay karna",
+              "meaning": "to choose after thinking",
+              "example": "I cannot decide which book to read.",
+              "exampleMeaning": {
+                "hi": "मैं तय नहीं कर पा रहा/रही कि कौन सी किताब पढ़ूँ।",
+                "hinglish": "Main tay nahi kar pa raha/rahi ki kaun si kitaab padhoon."
+              }
+            },
+            {
+              "english": "prepare",
+              "emoji": "🧑‍🍳",
+              "hindi": "तैयारी करना",
+              "hinglish": "taiyaari karna",
+              "meaning": "to get ready for something",
+              "example": "We prepare for the exam every evening.",
+              "exampleMeaning": {
+                "hi": "हम हर शाम परीक्षा की तैयारी करते हैं।",
+                "hinglish": "Hum har shaam pareeksha ki taiyaari karte hain."
+              }
+            },
+            {
+              "english": "improve",
+              "emoji": "📈",
+              "hindi": "सुधारना",
+              "hinglish": "sudhaarna",
+              "meaning": "to make better",
+              "example": "Reading every day will improve your English.",
+              "exampleMeaning": {
+                "hi": "रोज़ पढ़ने से तुम्हारी इंग्लिश सुधरेगी।",
+                "hinglish": "Roz padhne se tumhari English sudhregi."
+              }
+            },
+            {
+              "english": "invent",
+              "emoji": "💡",
+              "hindi": "आविष्कार करना",
+              "hinglish": "aavishkaar karna",
+              "meaning": "to make something new for the first time",
+              "example": "I want to invent a flying cycle.",
+              "exampleMeaning": {
+                "hi": "मैं उड़ने वाली साइकिल का आविष्कार करना चाहता/चाहती हूँ।",
+                "hinglish": "Main udne waali cycle ka aavishkaar karna chahta/chahti hoon."
+              }
+            },
+            {
+              "english": "measure",
+              "emoji": "📏",
+              "hindi": "नापना",
+              "hinglish": "naapna",
+              "meaning": "to find the size or amount of something",
+              "example": "Measure the table with a ruler.",
+              "exampleMeaning": {
+                "hi": "स्केल से मेज़ नापो।",
+                "hinglish": "Scale se mez naapo."
+              }
+            },
+            {
+              "english": "solve",
+              "emoji": "🧩",
+              "hindi": "हल करना",
+              "hinglish": "hal karna",
+              "meaning": "to find the answer to a problem",
+              "example": "Can you solve this puzzle?",
+              "exampleMeaning": {
+                "hi": "क्या तुम यह पहेली हल कर सकते हो?",
+                "hinglish": "Kya tum yeh paheli hal kar sakte ho?"
+              }
+            },
+            {
+              "english": "examine",
+              "emoji": "🩻",
+              "hindi": "जाँचना",
+              "hinglish": "jaanchna",
+              "meaning": "to look at something carefully",
+              "example": "The doctor will examine your throat.",
+              "exampleMeaning": {
+                "hi": "डॉक्टर तुम्हारा गला जाँचेंगे।",
+                "hinglish": "Doctor tumhara gala jaanchenge."
+              }
+            },
+            {
+              "english": "celebrate",
+              "emoji": "🎉",
+              "hindi": "जश्न मनाना",
+              "hinglish": "jashn manaana",
+              "meaning": "to do something special on a happy day",
+              "example": "We celebrate Diwali with lights.",
+              "exampleMeaning": {
+                "hi": "हम रोशनी के साथ दिवाली मनाते हैं।",
+                "hinglish": "Hum roshni ke saath Diwali manaate hain."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W78",
+      "emoji": "🚀",
+      "title": {
+        "hi": "कक्षा 7–8 के शब्द",
+        "hinglish": "Kaksha 7–8 ke shabd",
+        "en": "Words for Class 7–8"
+      },
+      "minClass": 7,
+      "maxClass": 8,
+      "packs": [
+        {
+          "id": "W78.P01",
+          "testId": "W78.P01T",
+          "emoji": "💭",
+          "title": {
+            "hi": "बड़े विचार",
+            "hinglish": "Bade vichaar",
+            "en": "Big ideas"
+          },
+          "words": [
+            {
+              "english": "freedom",
+              "emoji": "🕊️",
+              "hindi": "आज़ादी",
+              "hinglish": "aazaadi",
+              "meaning": "being free to do what you want",
+              "example": "Freedom came to India after a long struggle.",
+              "exampleMeaning": {
+                "hi": "लंबे संघर्ष के बाद भारत को आज़ादी मिली।",
+                "hinglish": "Lambe sangharsh ke baad Bharat ko aazaadi mili."
+              }
+            },
+            {
+              "english": "justice",
+              "emoji": "⚖️",
+              "hindi": "न्याय",
+              "hinglish": "nyaay",
+              "meaning": "fair treatment for everyone",
+              "example": "The court gives justice to people.",
+              "exampleMeaning": {
+                "hi": "अदालत लोगों को न्याय देती है।",
+                "hinglish": "Adaalat logon ko nyaay deti hai."
+              }
+            },
+            {
+              "english": "equality",
+              "emoji": "🟰",
+              "hindi": "समानता",
+              "hinglish": "samaanta",
+              "meaning": "everyone having the same rights",
+              "example": "Boys and girls deserve equality.",
+              "exampleMeaning": {
+                "hi": "लड़के और लड़कियाँ बराबरी के हक़दार हैं।",
+                "hinglish": "Ladke aur ladkiyaan baraabari ke haqdaar hain."
+              }
+            },
+            {
+              "english": "opinion",
+              "emoji": "💬",
+              "hindi": "राय",
+              "hinglish": "raay",
+              "meaning": "what you think about something",
+              "example": "In my opinion, the film was good.",
+              "exampleMeaning": {
+                "hi": "मेरी राय में फ़िल्म अच्छी थी।",
+                "hinglish": "Meri raay mein film achhi thi."
+              }
+            },
+            {
+              "english": "knowledge",
+              "emoji": "📚",
+              "hindi": "ज्ञान",
+              "hinglish": "gyaan",
+              "meaning": "what you know and understand",
+              "example": "Books give us knowledge.",
+              "exampleMeaning": {
+                "hi": "किताबें हमें ज्ञान देती हैं।",
+                "hinglish": "Kitaabein hamein gyaan deti hain."
+              }
+            },
+            {
+              "english": "courage",
+              "emoji": "🦁",
+              "hindi": "साहस",
+              "hinglish": "saahas",
+              "meaning": "being brave when you are afraid",
+              "example": "It takes courage to speak the truth.",
+              "exampleMeaning": {
+                "hi": "सच बोलने के लिए साहस चाहिए।",
+                "hinglish": "Sach bolne ke liye saahas chahiye."
+              }
+            },
+            {
+              "english": "patience",
+              "emoji": "⏳",
+              "hindi": "धैर्य",
+              "hinglish": "dhairya",
+              "meaning": "being able to wait calmly",
+              "example": "Learning music needs patience.",
+              "exampleMeaning": {
+                "hi": "संगीत सीखने में धैर्य चाहिए।",
+                "hinglish": "Sangeet seekhne mein dhairya chahiye."
+              }
+            },
+            {
+              "english": "success",
+              "emoji": "🏆",
+              "hindi": "सफलता",
+              "hinglish": "safalta",
+              "meaning": "getting what you worked for",
+              "example": "Hard work is the key to success.",
+              "exampleMeaning": {
+                "hi": "मेहनत ही सफलता की चाबी है।",
+                "hinglish": "Mehnat hi safalta ki chaabi hai."
+              }
+            },
+            {
+              "english": "failure",
+              "emoji": "📉",
+              "hindi": "असफलता",
+              "hinglish": "asafalta",
+              "meaning": "not getting what you tried for",
+              "example": "Failure teaches us to try again.",
+              "exampleMeaning": {
+                "hi": "असफलता हमें फिर से कोशिश करना सिखाती है।",
+                "hinglish": "Asafalta hamein phir se koshish karna sikhaati hai."
+              }
+            },
+            {
+              "english": "honesty",
+              "emoji": "🤞",
+              "hindi": "ईमानदारी",
+              "hinglish": "imaandaari",
+              "meaning": "always telling the truth",
+              "example": "Honesty is the best policy.",
+              "exampleMeaning": {
+                "hi": "ईमानदारी सबसे अच्छी नीति है।",
+                "hinglish": "Imaandaari sabse achhi neeti hai."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P02",
+          "testId": "W78.P02T",
+          "emoji": "🏛️",
+          "title": {
+            "hi": "समाज और सरकार",
+            "hinglish": "Samaaj aur sarkaar",
+            "en": "Society and government"
+          },
+          "words": [
+            {
+              "english": "citizen",
+              "emoji": "🧑",
+              "hindi": "नागरिक",
+              "hinglish": "naagrik",
+              "meaning": "a person who belongs to a country",
+              "example": "Every citizen should follow the rules.",
+              "exampleMeaning": {
+                "hi": "हर नागरिक को नियमों का पालन करना चाहिए।",
+                "hinglish": "Har naagrik ko niyamon ka paalan karna chahiye."
+              }
+            },
+            {
+              "english": "government",
+              "emoji": "🏛️",
+              "hindi": "सरकार",
+              "hinglish": "sarkaar",
+              "meaning": "the group of people who run a country",
+              "example": "The government builds roads and schools.",
+              "exampleMeaning": {
+                "hi": "सरकार सड़कें और स्कूल बनाती है।",
+                "hinglish": "Sarkaar sadkein aur school banaati hai."
+              }
+            },
+            {
+              "english": "election",
+              "emoji": "🗳️",
+              "hindi": "चुनाव",
+              "hinglish": "chunaav",
+              "meaning": "choosing leaders by voting",
+              "example": "The election will be held next month.",
+              "exampleMeaning": {
+                "hi": "चुनाव अगले महीने होगा।",
+                "hinglish": "Chunaav agle mahine hoga."
+              }
+            },
+            {
+              "english": "vote",
+              "emoji": "✅",
+              "hindi": "मत देना",
+              "hinglish": "mat dena",
+              "meaning": "to choose someone in an election",
+              "example": "You can vote when you are eighteen.",
+              "exampleMeaning": {
+                "hi": "अठारह साल के होने पर तुम वोट दे सकते हो।",
+                "hinglish": "Athaarah saal ke hone par tum vote de sakte ho."
+              }
+            },
+            {
+              "english": "law",
+              "emoji": "📜",
+              "hindi": "कानून",
+              "hinglish": "kaanoon",
+              "meaning": "a rule made by the government",
+              "example": "Wearing a helmet is the law.",
+              "exampleMeaning": {
+                "hi": "हेलमेट पहनना कानून है।",
+                "hinglish": "Helmet pehenna kaanoon hai."
+              }
+            },
+            {
+              "english": "rights",
+              "emoji": "✋",
+              "hindi": "अधिकार",
+              "hinglish": "adhikaar",
+              "meaning": "things every person is allowed to have or do",
+              "example": "Every child has rights to food, school and safety.",
+              "exampleMeaning": {
+                "hi": "हर बच्चे को खाना, पढ़ाई और सुरक्षा का अधिकार है।",
+                "hinglish": "Har bachche ko khaana, padhaai aur suraksha ka adhikaar hai."
+              }
+            },
+            {
+              "english": "duty",
+              "emoji": "📋",
+              "hindi": "कर्तव्य",
+              "hinglish": "kartavya",
+              "meaning": "something you must do",
+              "example": "It is our duty to keep the city clean.",
+              "exampleMeaning": {
+                "hi": "शहर को साफ़ रखना हमारा कर्तव्य है।",
+                "hinglish": "Shehar ko saaf rakhna hamara kartavya hai."
+              }
+            },
+            {
+              "english": "tax",
+              "emoji": "💰",
+              "hindi": "कर",
+              "hinglish": "kar",
+              "meaning": "money people pay to the government",
+              "example": "The government uses tax money to build hospitals.",
+              "exampleMeaning": {
+                "hi": "सरकार टैक्स के पैसों से अस्पताल बनाती है।",
+                "hinglish": "Sarkaar tax ke paison se aspataal banaati hai."
+              }
+            },
+            {
+              "english": "community",
+              "emoji": "🏘️",
+              "hindi": "समुदाय",
+              "hinglish": "samudaay",
+              "meaning": "the people living in one area",
+              "example": "Our community planted trees together.",
+              "exampleMeaning": {
+                "hi": "हमारे समुदाय ने मिलकर पेड़ लगाए।",
+                "hinglish": "Hamare samudaay ne milkar ped lagaaye."
+              }
+            },
+            {
+              "english": "volunteer",
+              "emoji": "🙋",
+              "hindi": "स्वयंसेवक",
+              "hinglish": "swayamsevak",
+              "meaning": "a person who helps without being paid",
+              "example": "She is a volunteer at the animal shelter.",
+              "exampleMeaning": {
+                "hi": "वह जानवरों के आश्रय में स्वयंसेवक है।",
+                "hinglish": "Woh jaanwaron ke aashray mein swayamsevak hai."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P03",
+          "testId": "W78.P03T",
+          "emoji": "💻",
+          "title": {
+            "hi": "विज्ञान और तकनीक",
+            "hinglish": "Vigyaan aur takneek",
+            "en": "Science and technology"
+          },
+          "words": [
+            {
+              "english": "technology",
+              "emoji": "💻",
+              "hindi": "तकनीक",
+              "hinglish": "takneek",
+              "meaning": "using science to make useful things",
+              "example": "Technology has made life easier.",
+              "exampleMeaning": {
+                "hi": "तकनीक ने ज़िंदगी आसान बना दी है।",
+                "hinglish": "Takneek ne zindagi aasaan bana di hai."
+              }
+            },
+            {
+              "english": "device",
+              "emoji": "📱",
+              "hindi": "उपकरण",
+              "hinglish": "upkaran",
+              "meaning": "a machine or tool made for a purpose",
+              "example": "A phone is a useful device.",
+              "exampleMeaning": {
+                "hi": "फ़ोन एक काम का उपकरण है।",
+                "hinglish": "Phone ek kaam ka upkaran hai."
+              }
+            },
+            {
+              "english": "internet",
+              "emoji": "🌐",
+              "hindi": "इंटरनेट",
+              "hinglish": "internet",
+              "meaning": "a network that connects computers around the world",
+              "example": "We search for information on the internet.",
+              "exampleMeaning": {
+                "hi": "हम इंटरनेट पर जानकारी ढूँढते हैं।",
+                "hinglish": "Hum internet par jaankaari dhoondhte hain."
+              }
+            },
+            {
+              "english": "software",
+              "emoji": "💾",
+              "hindi": "सॉफ़्टवेयर",
+              "hinglish": "software",
+              "meaning": "programs that tell a computer what to do",
+              "example": "This software helps us draw.",
+              "exampleMeaning": {
+                "hi": "यह सॉफ़्टवेयर ड्रॉइंग बनाने में मदद करता है।",
+                "hinglish": "Yeh software drawing banaane mein madad karta hai."
+              }
+            },
+            {
+              "english": "satellite",
+              "emoji": "🛰️",
+              "hindi": "उपग्रह",
+              "hinglish": "upgrah",
+              "meaning": "a machine that goes around the earth in space",
+              "example": "A satellite sends TV signals.",
+              "exampleMeaning": {
+                "hi": "उपग्रह टीवी के सिग्नल भेजता है।",
+                "hinglish": "Upgrah TV ke signal bhejta hai."
+              }
+            },
+            {
+              "english": "research",
+              "emoji": "🔎",
+              "hindi": "शोध",
+              "hinglish": "shodh",
+              "meaning": "careful study to find new facts",
+              "example": "Scientists do research on new medicines.",
+              "exampleMeaning": {
+                "hi": "वैज्ञानिक नई दवाइयों पर शोध करते हैं।",
+                "hinglish": "Vaigyaanik nayi dawaaiyon par shodh karte hain."
+              }
+            },
+            {
+              "english": "discovery",
+              "emoji": "🔭",
+              "hindi": "खोज",
+              "hinglish": "khoj",
+              "meaning": "finding something for the first time",
+              "example": "The discovery of fire changed human life.",
+              "exampleMeaning": {
+                "hi": "आग की खोज ने इंसान की ज़िंदगी बदल दी।",
+                "hinglish": "Aag ki khoj ne insaan ki zindagi badal di."
+              }
+            },
+            {
+              "english": "robot",
+              "emoji": "🤖",
+              "hindi": "रोबोट",
+              "hinglish": "robot",
+              "meaning": "a machine that can do work by itself",
+              "example": "A robot can clean the floor.",
+              "exampleMeaning": {
+                "hi": "रोबोट फ़र्श साफ़ कर सकता है।",
+                "hinglish": "Robot farsh saaf kar sakta hai."
+              }
+            },
+            {
+              "english": "electricity",
+              "emoji": "⚡",
+              "hindi": "बिजली",
+              "hinglish": "bijli",
+              "meaning": "the energy that runs lights and fans",
+              "example": "Electricity reached our village last year.",
+              "exampleMeaning": {
+                "hi": "पिछले साल हमारे गाँव में बिजली पहुँची।",
+                "hinglish": "Pichhle saal hamare gaon mein bijli pahunchi."
+              }
+            },
+            {
+              "english": "password",
+              "emoji": "🔐",
+              "hindi": "पासवर्ड",
+              "hinglish": "password",
+              "meaning": "a secret word to open a phone or account",
+              "example": "Never share your password with anyone.",
+              "exampleMeaning": {
+                "hi": "अपना पासवर्ड किसी को भी मत बताओ।",
+                "hinglish": "Apna password kisi ko bhi mat batao."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P04",
+          "testId": "W78.P04T",
+          "emoji": "🧩",
+          "title": {
+            "hi": "शब्द परिवार: -tion और -ment",
+            "hinglish": "Shabd parivaar: -tion aur -ment",
+            "en": "Word families: -tion and -ment"
+          },
+          "words": [
+            {
+              "english": "decision",
+              "emoji": "🤔",
+              "hindi": "फ़ैसला",
+              "hinglish": "faisla",
+              "meaning": "decide → decision: what you choose",
+              "example": "It was a hard decision.",
+              "exampleMeaning": {
+                "hi": "यह एक मुश्किल फ़ैसला था।",
+                "hinglish": "Yeh ek mushkil faisla tha."
+              }
+            },
+            {
+              "english": "education",
+              "emoji": "🎓",
+              "hindi": "शिक्षा",
+              "hinglish": "shiksha",
+              "meaning": "educate → education: learning in school",
+              "example": "Education helps us grow.",
+              "exampleMeaning": {
+                "hi": "शिक्षा हमें आगे बढ़ने में मदद करती है।",
+                "hinglish": "Shiksha hamein aage badhne mein madad karti hai."
+              }
+            },
+            {
+              "english": "information",
+              "emoji": "ℹ️",
+              "hindi": "जानकारी",
+              "hinglish": "jaankaari",
+              "meaning": "inform → information: facts about something",
+              "example": "The guide gave us information about the fort.",
+              "exampleMeaning": {
+                "hi": "गाइड ने हमें किले के बारे में जानकारी दी।",
+                "hinglish": "Guide ne hamein kile ke baare mein jaankaari di."
+              }
+            },
+            {
+              "english": "celebration",
+              "emoji": "🎉",
+              "hindi": "उत्सव",
+              "hinglish": "utsav",
+              "meaning": "celebrate → celebration: a happy event",
+              "example": "The celebration went on till night.",
+              "exampleMeaning": {
+                "hi": "उत्सव रात तक चलता रहा।",
+                "hinglish": "Utsav raat tak chalta raha."
+              }
+            },
+            {
+              "english": "protection",
+              "emoji": "🛡️",
+              "hindi": "सुरक्षा",
+              "hinglish": "suraksha",
+              "meaning": "protect → protection: keeping safe",
+              "example": "A helmet gives protection to your head.",
+              "exampleMeaning": {
+                "hi": "हेलमेट सिर को सुरक्षा देता है।",
+                "hinglish": "Helmet sir ko suraksha deta hai."
+              }
+            },
+            {
+              "english": "invitation",
+              "emoji": "💌",
+              "hindi": "निमंत्रण",
+              "hinglish": "nimantran",
+              "meaning": "invite → invitation: asking someone to come",
+              "example": "We got an invitation to the wedding.",
+              "exampleMeaning": {
+                "hi": "हमें शादी का निमंत्रण मिला।",
+                "hinglish": "Hamein shaadi ka nimantran mila."
+              }
+            },
+            {
+              "english": "movement",
+              "emoji": "🏃",
+              "hindi": "हलचल",
+              "hinglish": "halchal",
+              "meaning": "move → movement: moving",
+              "example": "The cat watched every movement of the mouse.",
+              "exampleMeaning": {
+                "hi": "बिल्ली चूहे की हर हलचल पर नज़र रख रही थी।",
+                "hinglish": "Billi choohe ki har halchal par nazar rakh rahi thi."
+              }
+            },
+            {
+              "english": "agreement",
+              "emoji": "🤝",
+              "hindi": "समझौता",
+              "hinglish": "samjhauta",
+              "meaning": "agree → agreement: when people agree",
+              "example": "The two friends made an agreement.",
+              "exampleMeaning": {
+                "hi": "दोनों दोस्तों ने आपस में समझौता किया।",
+                "hinglish": "Dono doston ne aapas mein samjhauta kiya."
+              }
+            },
+            {
+              "english": "improvement",
+              "emoji": "📈",
+              "hindi": "सुधार",
+              "hinglish": "sudhaar",
+              "meaning": "improve → improvement: getting better",
+              "example": "There is a big improvement in your handwriting.",
+              "exampleMeaning": {
+                "hi": "तुम्हारी लिखावट में बहुत सुधार है।",
+                "hinglish": "Tumhari likhaavat mein bahut sudhaar hai."
+              }
+            },
+            {
+              "english": "achievement",
+              "emoji": "🏅",
+              "hindi": "उपलब्धि",
+              "hinglish": "uplabdhi",
+              "meaning": "achieve → achievement: something great you did",
+              "example": "Winning the quiz was a big achievement.",
+              "exampleMeaning": {
+                "hi": "क्विज़ जीतना एक बड़ी उपलब्धि थी।",
+                "hinglish": "Quiz jeetna ek badi uplabdhi thi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P05",
+          "testId": "W78.P05T",
+          "emoji": "🔁",
+          "title": {
+            "hi": "शब्द की शुरुआत: im-, in-, mis-, pre-, over-",
+            "hinglish": "Shabd ki shuruaat: im-, in-, mis-, pre-, over-",
+            "en": "Prefixes: im-, in-, mis-, pre-, over-"
+          },
+          "words": [
+            {
+              "english": "impossible",
+              "emoji": "🚫",
+              "hindi": "असंभव",
+              "hinglish": "asambhav",
+              "meaning": "im + possible: cannot happen",
+              "example": "Nothing is impossible if you keep trying.",
+              "exampleMeaning": {
+                "hi": "कोशिश करते रहो तो कुछ भी असंभव नहीं।",
+                "hinglish": "Koshish karte raho to kuch bhi asambhav nahi."
+              }
+            },
+            {
+              "english": "impatient",
+              "emoji": "⏰",
+              "hindi": "अधीर",
+              "hinglish": "adheer",
+              "meaning": "im + patient: not able to wait",
+              "example": "The impatient boy kept asking for his turn.",
+              "exampleMeaning": {
+                "hi": "अधीर लड़का बार-बार अपनी बारी माँगता रहा।",
+                "hinglish": "Adheer ladka baar-baar apni baari maangta raha."
+              }
+            },
+            {
+              "english": "incorrect",
+              "emoji": "❌",
+              "hindi": "गलत",
+              "hinglish": "galat",
+              "meaning": "in + correct: not right",
+              "example": "This answer is incorrect.",
+              "exampleMeaning": {
+                "hi": "यह जवाब गलत है।",
+                "hinglish": "Yeh jawaab galat hai."
+              }
+            },
+            {
+              "english": "invisible",
+              "emoji": "👻",
+              "hindi": "अदृश्य",
+              "hinglish": "adrishya",
+              "meaning": "in + visible: cannot be seen",
+              "example": "Air is invisible.",
+              "exampleMeaning": {
+                "hi": "हवा दिखाई नहीं देती।",
+                "hinglish": "Hawa dikhaai nahi deti."
+              }
+            },
+            {
+              "english": "misunderstand",
+              "emoji": "😕",
+              "hindi": "गलत समझना",
+              "hinglish": "galat samajhna",
+              "meaning": "mis + understand: to understand wrongly",
+              "example": "Please do not misunderstand my words.",
+              "exampleMeaning": {
+                "hi": "प्लीज़ मेरी बात को गलत मत समझना।",
+                "hinglish": "Please meri baat ko galat mat samajhna."
+              }
+            },
+            {
+              "english": "misplace",
+              "emoji": "🔍",
+              "hindi": "रखकर भूल जाना",
+              "hinglish": "rakhkar bhool jaana",
+              "meaning": "mis + place: to put something somewhere and forget",
+              "example": "I often misplace my keys.",
+              "exampleMeaning": {
+                "hi": "मैं अक्सर अपनी चाबियाँ कहीं रखकर भूल जाता/जाती हूँ।",
+                "hinglish": "Main aksar apni chaabiyaan kahin rakhkar bhool jaata/jaati hoon."
+              }
+            },
+            {
+              "english": "preview",
+              "emoji": "👀",
+              "hindi": "झलक",
+              "hinglish": "jhalak",
+              "meaning": "pre + view: a look before",
+              "example": "We watched the preview of the film.",
+              "exampleMeaning": {
+                "hi": "हमने फ़िल्म की झलक देखी।",
+                "hinglish": "Humne film ki jhalak dekhi."
+              }
+            },
+            {
+              "english": "prepaid",
+              "emoji": "💳",
+              "hindi": "पहले से भुगतान किया",
+              "hinglish": "pehle se bhugtaan kiya",
+              "meaning": "pre + paid: paid before",
+              "example": "Papa has a prepaid phone card.",
+              "exampleMeaning": {
+                "hi": "पापा के पास पहले से पैसे भरा हुआ फ़ोन कार्ड है।",
+                "hinglish": "Papa ke paas pehle se paise bhara hua phone card hai."
+              }
+            },
+            {
+              "english": "overload",
+              "emoji": "📦",
+              "hindi": "ज़्यादा भार",
+              "hinglish": "zyaada bhaar",
+              "meaning": "over + load: too much load",
+              "example": "Do not overload the auto with bags.",
+              "exampleMeaning": {
+                "hi": "ऑटो में बहुत सारे बैग भरकर बोझ मत बढ़ाओ।",
+                "hinglish": "Auto mein bahut saare bag bharkar bojh mat badhao."
+              }
+            },
+            {
+              "english": "overcome",
+              "emoji": "💪",
+              "hindi": "पार पाना",
+              "hinglish": "paar paana",
+              "meaning": "over + come: to win against a problem",
+              "example": "She worked hard to overcome her fear.",
+              "exampleMeaning": {
+                "hi": "उसने अपने डर पर काबू पाने के लिए बहुत मेहनत की।",
+                "hinglish": "Usne apne dar par kaabu paane ke liye bahut mehnat ki."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P06",
+          "testId": "W78.P06T",
+          "emoji": "⚖️",
+          "title": {
+            "hi": "मिलते-जुलते शब्द 2",
+            "hinglish": "Milte-julte shabd 2",
+            "en": "Confusing pairs 2"
+          },
+          "words": [
+            {
+              "english": "affect",
+              "emoji": "🌧️",
+              "hindi": "असर डालना",
+              "hinglish": "asar daalna",
+              "meaning": "to make a change in something",
+              "example": "Rain can affect the match.",
+              "exampleMeaning": {
+                "hi": "बारिश मैच पर असर डाल सकती है।",
+                "hinglish": "Baarish match par asar daal sakti hai."
+              }
+            },
+            {
+              "english": "effect",
+              "emoji": "💥",
+              "hindi": "असर",
+              "hinglish": "asar",
+              "meaning": "the result of a change",
+              "example": "The medicine had a quick effect.",
+              "exampleMeaning": {
+                "hi": "दवाई का जल्दी असर हुआ।",
+                "hinglish": "Dawaai ka jaldi asar hua."
+              }
+            },
+            {
+              "english": "principal",
+              "emoji": "🧑‍💼",
+              "hindi": "प्रधानाचार्य",
+              "hinglish": "pradhaanaachaarya",
+              "meaning": "the head of a school",
+              "example": "The principal gave us prizes.",
+              "exampleMeaning": {
+                "hi": "प्रधानाचार्य ने हमें इनाम दिए।",
+                "hinglish": "Pradhaanaachaarya ne hamein inaam diye."
+              }
+            },
+            {
+              "english": "principle",
+              "emoji": "📜",
+              "hindi": "सिद्धांत",
+              "hinglish": "siddhaant",
+              "meaning": "a rule you believe in",
+              "example": "Honesty is his main principle.",
+              "exampleMeaning": {
+                "hi": "ईमानदारी उसका सबसे बड़ा सिद्धांत है।",
+                "hinglish": "Imaandaari uska sabse bada siddhaant hai."
+              }
+            },
+            {
+              "english": "whether",
+              "emoji": "❓",
+              "hindi": "कि क्या",
+              "hinglish": "ki kya",
+              "meaning": "if; used when there are choices",
+              "example": "I do not know whether it will rain.",
+              "exampleMeaning": {
+                "hi": "मुझे नहीं पता कि बारिश होगी या नहीं।",
+                "hinglish": "Mujhe nahi pata ki baarish hogi ya nahi."
+              }
+            },
+            {
+              "english": "council",
+              "emoji": "🏛️",
+              "hindi": "परिषद",
+              "hinglish": "parishad",
+              "meaning": "a group of people who make decisions",
+              "example": "The village council met today.",
+              "exampleMeaning": {
+                "hi": "आज गाँव की पंचायत की बैठक हुई।",
+                "hinglish": "Aaj gaon ki panchaayat ki baithak hui."
+              }
+            },
+            {
+              "english": "counsel",
+              "emoji": "🗣️",
+              "hindi": "सलाह देना",
+              "hinglish": "salaah dena",
+              "meaning": "to give advice",
+              "example": "The teacher will counsel the new students.",
+              "exampleMeaning": {
+                "hi": "टीचर नए विद्यार्थियों को सलाह देंगे।",
+                "hinglish": "Teacher naye vidyaarthiyon ko salaah denge."
+              }
+            },
+            {
+              "english": "compliment",
+              "emoji": "😊",
+              "hindi": "तारीफ़",
+              "hinglish": "taareef",
+              "meaning": "something nice said about someone",
+              "example": "She gave me a compliment on my drawing.",
+              "exampleMeaning": {
+                "hi": "उसने मेरी ड्रॉइंग की तारीफ़ की।",
+                "hinglish": "Usne meri drawing ki taareef ki."
+              }
+            },
+            {
+              "english": "complement",
+              "emoji": "🧩",
+              "hindi": "पूरक",
+              "hinglish": "poorak",
+              "meaning": "something that makes another thing complete",
+              "example": "Rice and dal complement each other.",
+              "exampleMeaning": {
+                "hi": "चावल और दाल एक-दूसरे को पूरा करते हैं।",
+                "hinglish": "Chaawal aur daal ek-doosre ko poora karte hain."
+              }
+            },
+            {
+              "english": "stationary",
+              "emoji": "🛑",
+              "hindi": "स्थिर",
+              "hinglish": "sthir",
+              "meaning": "not moving",
+              "example": "The bus was stationary at the signal.",
+              "exampleMeaning": {
+                "hi": "बस सिग्नल पर रुकी खड़ी थी।",
+                "hinglish": "Bus signal par ruki khadi thi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P07",
+          "testId": "W78.P07T",
+          "emoji": "🧑‍🤝‍🧑",
+          "title": {
+            "hi": "लोगों का स्वभाव",
+            "hinglish": "Logon ka swabhaav",
+            "en": "Describing people"
+          },
+          "words": [
+            {
+              "english": "ambitious",
+              "emoji": "🚀",
+              "hindi": "महत्वाकांक्षी",
+              "hinglish": "mahatvaakaankshi",
+              "meaning": "wanting to achieve big things",
+              "example": "The ambitious girl wants to be a pilot.",
+              "exampleMeaning": {
+                "hi": "महत्वाकांक्षी लड़की पायलट बनना चाहती है।",
+                "hinglish": "Mahatvaakaankshi ladki pilot banna chahti hai."
+              }
+            },
+            {
+              "english": "cautious",
+              "emoji": "⚠️",
+              "hindi": "सतर्क",
+              "hinglish": "satark",
+              "meaning": "careful to avoid danger",
+              "example": "Be cautious on a wet road.",
+              "exampleMeaning": {
+                "hi": "गीली सड़क पर सतर्क रहो।",
+                "hinglish": "Geeli sadak par satark raho."
+              }
+            },
+            {
+              "english": "energetic",
+              "emoji": "⚡",
+              "hindi": "फुर्तीला",
+              "hinglish": "phurteela",
+              "meaning": "full of energy",
+              "example": "The energetic kids ran all day.",
+              "exampleMeaning": {
+                "hi": "फुर्तीले बच्चे दिन भर दौड़ते रहे।",
+                "hinglish": "Phurteele bachche din bhar daudte rahe."
+              }
+            },
+            {
+              "english": "creative",
+              "emoji": "🎨",
+              "hindi": "रचनात्मक",
+              "hinglish": "rachnaatmak",
+              "meaning": "good at making new things",
+              "example": "The creative boy made a toy from waste.",
+              "exampleMeaning": {
+                "hi": "रचनात्मक लड़के ने कबाड़ से खिलौना बनाया।",
+                "hinglish": "Rachnaatmak ladke ne kabaad se khilauna banaaya."
+              }
+            },
+            {
+              "english": "sincere",
+              "emoji": "🤝",
+              "hindi": "सच्चा",
+              "hinglish": "sachcha",
+              "meaning": "honest and meaning what you say",
+              "example": "He is a sincere friend.",
+              "exampleMeaning": {
+                "hi": "वह एक सच्चा दोस्त है।",
+                "hinglish": "Woh ek sachcha dost hai."
+              }
+            },
+            {
+              "english": "arrogant",
+              "emoji": "😤",
+              "hindi": "घमंडी",
+              "hinglish": "ghamandi",
+              "meaning": "thinking you are better than others",
+              "example": "The arrogant king did not listen to anyone.",
+              "exampleMeaning": {
+                "hi": "घमंडी राजा किसी की नहीं सुनता था।",
+                "hinglish": "Ghamandi raja kisi ki nahi sunta tha."
+              }
+            },
+            {
+              "english": "punctual",
+              "emoji": "⏰",
+              "hindi": "समय का पाबंद",
+              "hinglish": "samay ka paaband",
+              "meaning": "always on time",
+              "example": "Our teacher is always punctual.",
+              "exampleMeaning": {
+                "hi": "हमारे टीचर हमेशा समय के पाबंद हैं।",
+                "hinglish": "Hamare teacher hamesha samay ke paaband hain."
+              }
+            },
+            {
+              "english": "talented",
+              "emoji": "🌟",
+              "hindi": "प्रतिभाशाली",
+              "hinglish": "pratibhaashaali",
+              "meaning": "very good at something",
+              "example": "She is a talented singer.",
+              "exampleMeaning": {
+                "hi": "वह एक प्रतिभाशाली गायिका है।",
+                "hinglish": "Woh ek pratibhaashaali gaayika hai."
+              }
+            },
+            {
+              "english": "stubborn",
+              "emoji": "🐐",
+              "hindi": "ज़िद्दी",
+              "hinglish": "ziddi",
+              "meaning": "not willing to change your mind",
+              "example": "The stubborn goat would not move.",
+              "exampleMeaning": {
+                "hi": "ज़िद्दी बकरी टस से मस नहीं हुई।",
+                "hinglish": "Ziddi bakri tas se mas nahi hui."
+              }
+            },
+            {
+              "english": "optimistic",
+              "emoji": "🌈",
+              "hindi": "आशावादी",
+              "hinglish": "aashaavaadi",
+              "meaning": "expecting good things to happen",
+              "example": "Stay optimistic even on bad days.",
+              "exampleMeaning": {
+                "hi": "बुरे दिनों में भी आशावादी रहो।",
+                "hinglish": "Bure dinon mein bhi aashaavaadi raho."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P08",
+          "testId": "W78.P08T",
+          "emoji": "🌏",
+          "title": {
+            "hi": "भूगोल",
+            "hinglish": "Bhoogol",
+            "en": "Geography"
+          },
+          "words": [
+            {
+              "english": "continent",
+              "emoji": "🗺️",
+              "hindi": "महाद्वीप",
+              "hinglish": "mahaadweep",
+              "meaning": "a very large area of land, like Asia",
+              "example": "India is in the continent of Asia.",
+              "exampleMeaning": {
+                "hi": "भारत एशिया महाद्वीप में है।",
+                "hinglish": "Bharat Asia mahaadweep mein hai."
+              }
+            },
+            {
+              "english": "peninsula",
+              "emoji": "🏝️",
+              "hindi": "प्रायद्वीप",
+              "hinglish": "praayadweep",
+              "meaning": "land with water on three sides",
+              "example": "South India is a peninsula.",
+              "exampleMeaning": {
+                "hi": "दक्षिण भारत एक प्रायद्वीप है।",
+                "hinglish": "Dakshin Bharat ek praayadweep hai."
+              }
+            },
+            {
+              "english": "plateau",
+              "emoji": "⛰️",
+              "hindi": "पठार",
+              "hinglish": "pathaar",
+              "meaning": "high, flat land",
+              "example": "The Deccan plateau is in the middle of India.",
+              "exampleMeaning": {
+                "hi": "दक्कन का पठार भारत के बीच में है।",
+                "hinglish": "Dakkan ka pathaar Bharat ke beech mein hai."
+              }
+            },
+            {
+              "english": "valley",
+              "emoji": "🏞️",
+              "hindi": "घाटी",
+              "hinglish": "ghaati",
+              "meaning": "low land between hills",
+              "example": "The Kashmir valley is very beautiful.",
+              "exampleMeaning": {
+                "hi": "कश्मीर की घाटी बहुत सुंदर है।",
+                "hinglish": "Kashmir ki ghaati bahut sundar hai."
+              }
+            },
+            {
+              "english": "volcano",
+              "emoji": "🌋",
+              "hindi": "ज्वालामुखी",
+              "hinglish": "jwaalaamukhi",
+              "meaning": "a mountain that throws out hot liquid rock",
+              "example": "The volcano erupted last year.",
+              "exampleMeaning": {
+                "hi": "पिछले साल ज्वालामुखी फट पड़ा।",
+                "hinglish": "Pichhle saal jwaalaamukhi phat pada."
+              }
+            },
+            {
+              "english": "earthquake",
+              "emoji": "🫨",
+              "hindi": "भूकंप",
+              "hinglish": "bhookamp",
+              "meaning": "a sudden shaking of the ground",
+              "example": "The earthquake broke many houses.",
+              "exampleMeaning": {
+                "hi": "भूकंप से कई घर टूट गए।",
+                "hinglish": "Bhookamp se kai ghar toot gaye."
+              }
+            },
+            {
+              "english": "coast",
+              "emoji": "🏖️",
+              "hindi": "तट",
+              "hinglish": "tat",
+              "meaning": "land next to the sea",
+              "example": "Goa is on the west coast of India.",
+              "exampleMeaning": {
+                "hi": "गोवा भारत के पश्चिमी तट पर है।",
+                "hinglish": "Goa Bharat ke pashchimi tat par hai."
+              }
+            },
+            {
+              "english": "population",
+              "emoji": "👥",
+              "hindi": "जनसंख्या",
+              "hinglish": "jansankhya",
+              "meaning": "the number of people living in a place",
+              "example": "India has a large population.",
+              "exampleMeaning": {
+                "hi": "भारत की जनसंख्या बहुत बड़ी है।",
+                "hinglish": "Bharat ki jansankhya bahut badi hai."
+              }
+            },
+            {
+              "english": "monsoon",
+              "emoji": "🌧️",
+              "hindi": "मानसून",
+              "hinglish": "monsoon",
+              "meaning": "the season of heavy rain",
+              "example": "The monsoon brings rain to the fields.",
+              "exampleMeaning": {
+                "hi": "मानसून खेतों में बारिश लाता है।",
+                "hinglish": "Monsoon kheton mein baarish laata hai."
+              }
+            },
+            {
+              "english": "drought",
+              "emoji": "🌵",
+              "hindi": "सूखा",
+              "hinglish": "sookha",
+              "meaning": "a long time with no rain",
+              "example": "The drought dried up the river.",
+              "exampleMeaning": {
+                "hi": "सूखे से नदी सूख गई।",
+                "hinglish": "Sookhe se nadi sookh gayi."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P09",
+          "testId": "W78.P09T",
+          "emoji": "🔗",
+          "title": {
+            "hi": "जोड़ने वाले शब्द",
+            "hinglish": "Jodne waale shabd",
+            "en": "Linking words"
+          },
+          "words": [
+            {
+              "english": "however",
+              "emoji": "🔄",
+              "hindi": "फिर भी",
+              "hinglish": "phir bhi",
+              "meaning": "but; used to show a different idea",
+              "example": "It was raining. However, we went out.",
+              "exampleMeaning": {
+                "hi": "बारिश हो रही थी। फिर भी, हम बाहर गए।",
+                "hinglish": "Baarish ho rahi thi. Phir bhi, hum baahar gaye."
+              }
+            },
+            {
+              "english": "therefore",
+              "emoji": "➡️",
+              "hindi": "इसलिए",
+              "hinglish": "isliye",
+              "meaning": "so; because of that",
+              "example": "She studied hard and therefore she passed.",
+              "exampleMeaning": {
+                "hi": "उसने खूब पढ़ाई की, इसलिए वह पास हो गई।",
+                "hinglish": "Usne khoob padhaai ki, isliye woh paas ho gayi."
+              }
+            },
+            {
+              "english": "although",
+              "emoji": "🤝",
+              "hindi": "हालाँकि",
+              "hinglish": "haalaanki",
+              "meaning": "even though",
+              "example": "Although he was tired, he finished his work.",
+              "exampleMeaning": {
+                "hi": "हालाँकि वह थका हुआ था, फिर भी उसने अपना काम पूरा किया।",
+                "hinglish": "Haalaanki woh thaka hua tha, phir bhi usne apna kaam poora kiya."
+              }
+            },
+            {
+              "english": "meanwhile",
+              "emoji": "⏱️",
+              "hindi": "इस बीच",
+              "hinglish": "is beech",
+              "meaning": "at the same time",
+              "example": "Mummy cooked. Meanwhile, I set the table.",
+              "exampleMeaning": {
+                "hi": "मम्मी ने खाना बनाया। इस बीच मैंने मेज़ लगाई।",
+                "hinglish": "Mummy ne khaana banaaya. Is beech maine mez lagaayi."
+              }
+            },
+            {
+              "english": "moreover",
+              "emoji": "➕",
+              "hindi": "इसके अलावा",
+              "hinglish": "iske alaava",
+              "meaning": "also; in addition",
+              "example": "The phone is cheap. Moreover, it is fast.",
+              "exampleMeaning": {
+                "hi": "फ़ोन सस्ता है। इसके अलावा, यह तेज़ भी है।",
+                "hinglish": "Phone sasta hai. Iske alaava, yeh tez bhi hai."
+              }
+            },
+            {
+              "english": "probably",
+              "emoji": "🤔",
+              "hindi": "शायद",
+              "hinglish": "shaayad",
+              "meaning": "likely to happen",
+              "example": "It will probably rain today.",
+              "exampleMeaning": {
+                "hi": "आज शायद बारिश होगी।",
+                "hinglish": "Aaj shaayad baarish hogi."
+              }
+            },
+            {
+              "english": "certainly",
+              "emoji": "✅",
+              "hindi": "ज़रूर",
+              "hinglish": "zaroor",
+              "meaning": "surely; without doubt",
+              "example": "I will certainly come to your party.",
+              "exampleMeaning": {
+                "hi": "मैं तुम्हारी पार्टी में ज़रूर आऊँगा/आऊँगी।",
+                "hinglish": "Main tumhari party mein zaroor aaunga/aaungi."
+              }
+            },
+            {
+              "english": "perhaps",
+              "emoji": "🤷",
+              "hindi": "हो सकता है",
+              "hinglish": "ho sakta hai",
+              "meaning": "maybe",
+              "example": "Perhaps we can go tomorrow.",
+              "exampleMeaning": {
+                "hi": "हो सकता है हम कल जा सकें।",
+                "hinglish": "Ho sakta hai hum kal ja sakein."
+              }
+            },
+            {
+              "english": "unless",
+              "emoji": "⛔",
+              "hindi": "जब तक नहीं",
+              "hinglish": "jab tak nahi",
+              "meaning": "if not",
+              "example": "You will not pass unless you study.",
+              "exampleMeaning": {
+                "hi": "जब तक पढ़ाई नहीं करोगे, पास नहीं हो पाओगे।",
+                "hinglish": "Jab tak padhaai nahi karoge, paas nahi ho paoge."
+              }
+            },
+            {
+              "english": "instead",
+              "emoji": "🔁",
+              "hindi": "के बजाय",
+              "hinglish": "ke bajaay",
+              "meaning": "in place of something",
+              "example": "Let us walk instead of taking the bus.",
+              "exampleMeaning": {
+                "hi": "चलो, बस लेने के बजाय पैदल चलते हैं।",
+                "hinglish": "Chalo, bus lene ke bajaay paidal chalte hain."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P10",
+          "testId": "W78.P10T",
+          "emoji": "💼",
+          "title": {
+            "hi": "करियर",
+            "hinglish": "Career",
+            "en": "Careers and work"
+          },
+          "words": [
+            {
+              "english": "engineer",
+              "emoji": "👷",
+              "hindi": "इंजीनियर",
+              "hinglish": "engineer",
+              "meaning": "a person who designs machines, roads or buildings",
+              "example": "My uncle is an engineer who builds bridges.",
+              "exampleMeaning": {
+                "hi": "मेरे चाचा इंजीनियर हैं जो पुल बनाते हैं।",
+                "hinglish": "Mere chacha engineer hain jo pul banaate hain."
+              }
+            },
+            {
+              "english": "architect",
+              "emoji": "📐",
+              "hindi": "वास्तुकार",
+              "hinglish": "vaastukaar",
+              "meaning": "a person who designs buildings",
+              "example": "The architect drew the plan of the house.",
+              "exampleMeaning": {
+                "hi": "वास्तुकार ने घर का नक्शा बनाया।",
+                "hinglish": "Vaastukaar ne ghar ka naksha banaaya."
+              }
+            },
+            {
+              "english": "journalist",
+              "emoji": "📰",
+              "hindi": "पत्रकार",
+              "hinglish": "patrakaar",
+              "meaning": "a person who writes news",
+              "example": "The journalist wrote about the flood.",
+              "exampleMeaning": {
+                "hi": "पत्रकार ने बाढ़ के बारे में लिखा।",
+                "hinglish": "Patrakaar ne baadh ke baare mein likha."
+              }
+            },
+            {
+              "english": "lawyer",
+              "emoji": "⚖️",
+              "hindi": "वकील",
+              "hinglish": "vakeel",
+              "meaning": "a person who helps people with the law",
+              "example": "The lawyer spoke in court.",
+              "exampleMeaning": {
+                "hi": "वकील ने अदालत में अपनी बात रखी।",
+                "hinglish": "Vakeel ne adaalat mein apni baat rakhi."
+              }
+            },
+            {
+              "english": "scientist",
+              "emoji": "🔬",
+              "hindi": "वैज्ञानिक",
+              "hinglish": "vaigyaanik",
+              "meaning": "a person who studies science",
+              "example": "The scientist found a new medicine.",
+              "exampleMeaning": {
+                "hi": "वैज्ञानिक ने एक नई दवाई खोजी।",
+                "hinglish": "Vaigyaanik ne ek nayi dawaai khoji."
+              }
+            },
+            {
+              "english": "pilot",
+              "emoji": "✈️",
+              "hindi": "पायलट",
+              "hinglish": "pilot",
+              "meaning": "a person who flies a plane",
+              "example": "The pilot landed the plane safely.",
+              "exampleMeaning": {
+                "hi": "पायलट ने विमान को सुरक्षित उतारा।",
+                "hinglish": "Pilot ne vimaan ko surakshit utaara."
+              }
+            },
+            {
+              "english": "salary",
+              "emoji": "💵",
+              "hindi": "तनख़्वाह",
+              "hinglish": "tankhwaah",
+              "meaning": "money paid every month for work",
+              "example": "Papa gets his salary at the end of the month.",
+              "exampleMeaning": {
+                "hi": "पापा को महीने के आख़िर में तनख़्वाह मिलती है।",
+                "hinglish": "Papa ko mahine ke aakhir mein tankhwaah milti hai."
+              }
+            },
+            {
+              "english": "interview",
+              "emoji": "🎤",
+              "hindi": "साक्षात्कार",
+              "hinglish": "saakshaatkaar",
+              "meaning": "a meeting where someone asks you questions for a job",
+              "example": "She has a job interview tomorrow.",
+              "exampleMeaning": {
+                "hi": "कल उसका नौकरी का इंटरव्यू है।",
+                "hinglish": "Kal uska naukri ka interview hai."
+              }
+            },
+            {
+              "english": "experience",
+              "emoji": "🧓",
+              "hindi": "अनुभव",
+              "hinglish": "anubhav",
+              "meaning": "knowledge gained by doing something",
+              "example": "The old farmer has years of experience.",
+              "exampleMeaning": {
+                "hi": "बूढ़े किसान के पास सालों का अनुभव है।",
+                "hinglish": "Boodhe kisaan ke paas saalon ka anubhav hai."
+              }
+            },
+            {
+              "english": "career",
+              "emoji": "🎯",
+              "hindi": "करियर",
+              "hinglish": "career",
+              "meaning": "the work you do for most of your life",
+              "example": "She wants a career in medicine.",
+              "exampleMeaning": {
+                "hi": "वह डॉक्टरी में करियर बनाना चाहती है।",
+                "hinglish": "Woh doctori mein career banaana chahti hai."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P11",
+          "testId": "W78.P11T",
+          "emoji": "🧠",
+          "title": {
+            "hi": "मन के भाव",
+            "hinglish": "Mann ke bhaav",
+            "en": "Feelings and qualities"
+          },
+          "words": [
+            {
+              "english": "empathy",
+              "emoji": "💗",
+              "hindi": "सहानुभूति",
+              "hinglish": "sahaanubhooti",
+              "meaning": "feeling what another person feels",
+              "example": "Empathy helps us understand our friends.",
+              "exampleMeaning": {
+                "hi": "सहानुभूति से हम अपने दोस्तों को समझ पाते हैं।",
+                "hinglish": "Sahaanubhooti se hum apne doston ko samajh paate hain."
+              }
+            },
+            {
+              "english": "confidence",
+              "emoji": "💪",
+              "hindi": "आत्मविश्वास",
+              "hinglish": "aatmavishvaas",
+              "meaning": "believing in yourself",
+              "example": "Practice gives you confidence.",
+              "exampleMeaning": {
+                "hi": "अभ्यास से आत्मविश्वास आता है।",
+                "hinglish": "Abhyaas se aatmavishvaas aata hai."
+              }
+            },
+            {
+              "english": "frustrated",
+              "emoji": "😣",
+              "hindi": "झुँझलाया हुआ",
+              "hinglish": "jhunjhlaaya hua",
+              "meaning": "upset because you cannot do something",
+              "example": "I felt frustrated when the puzzle was hard.",
+              "exampleMeaning": {
+                "hi": "पहेली मुश्किल थी तो मुझे झुँझलाहट हुई।",
+                "hinglish": "Paheli mushkil thi to mujhe jhunjhlaahat hui."
+              }
+            },
+            {
+              "english": "nervous",
+              "emoji": "😬",
+              "hindi": "घबराया हुआ",
+              "hinglish": "ghabraaya hua",
+              "meaning": "worried and a little afraid",
+              "example": "I was nervous before my speech.",
+              "exampleMeaning": {
+                "hi": "भाषण से पहले मुझे घबराहट हो रही थी।",
+                "hinglish": "Bhaashan se pehle mujhe ghabraahat ho rahi thi."
+              }
+            },
+            {
+              "english": "enthusiastic",
+              "emoji": "🤩",
+              "hindi": "उत्साही",
+              "hinglish": "utsaahi",
+              "meaning": "very interested and excited",
+              "example": "The enthusiastic team practised daily.",
+              "exampleMeaning": {
+                "hi": "उत्साही टीम ने रोज़ अभ्यास किया।",
+                "hinglish": "Utsaahi team ne roz abhyaas kiya."
+              }
+            },
+            {
+              "english": "gratitude",
+              "emoji": "🙏",
+              "hindi": "कृतज्ञता",
+              "hinglish": "kritagyata",
+              "meaning": "the feeling of being thankful",
+              "example": "We showed our gratitude with a card.",
+              "exampleMeaning": {
+                "hi": "हमने एक कार्ड देकर अपना आभार जताया।",
+                "hinglish": "Humne ek card dekar apna aabhaar jataaya."
+              }
+            },
+            {
+              "english": "anxiety",
+              "emoji": "😰",
+              "hindi": "चिंता",
+              "hinglish": "chinta",
+              "meaning": "a feeling of worry",
+              "example": "Deep breathing can reduce anxiety.",
+              "exampleMeaning": {
+                "hi": "गहरी साँस लेने से चिंता कम हो सकती है।",
+                "hinglish": "Gehri saans lene se chinta kam ho sakti hai."
+              }
+            },
+            {
+              "english": "curiosity",
+              "emoji": "🧐",
+              "hindi": "जिज्ञासा",
+              "hinglish": "jigyaasa",
+              "meaning": "a strong wish to know or learn",
+              "example": "Curiosity makes us ask questions.",
+              "exampleMeaning": {
+                "hi": "जिज्ञासा की वजह से हम सवाल पूछते हैं।",
+                "hinglish": "Jigyaasa ki wajah se hum sawaal poochhte hain."
+              }
+            },
+            {
+              "english": "loneliness",
+              "emoji": "😔",
+              "hindi": "अकेलापन",
+              "hinglish": "akelaapan",
+              "meaning": "feeling sad because you are alone",
+              "example": "Old people often feel loneliness.",
+              "exampleMeaning": {
+                "hi": "बुज़ुर्ग अक्सर अकेलापन महसूस करते हैं।",
+                "hinglish": "Buzurg aksar akelaapan mehsoos karte hain."
+              }
+            },
+            {
+              "english": "satisfaction",
+              "emoji": "😊",
+              "hindi": "संतोष",
+              "hinglish": "santosh",
+              "meaning": "a happy feeling when you get what you wanted",
+              "example": "Finishing the project gave me satisfaction.",
+              "exampleMeaning": {
+                "hi": "प्रोजेक्ट पूरा करके मुझे संतोष मिला।",
+                "hinglish": "Project poora karke mujhe santosh mila."
+              }
+            }
+          ]
+        },
+        {
+          "id": "W78.P12",
+          "testId": "W78.P12T",
+          "emoji": "🌱",
+          "title": {
+            "hi": "भविष्य की धरती",
+            "hinglish": "Bhavishya ki dharti",
+            "en": "Earth's future"
+          },
+          "words": [
+            {
+              "english": "sustainable",
+              "emoji": "♻️",
+              "hindi": "टिकाऊ",
+              "hinglish": "tikaau",
+              "meaning": "able to continue without harming nature",
+              "example": "We need sustainable ways to farm.",
+              "exampleMeaning": {
+                "hi": "हमें खेती के ऐसे तरीके चाहिए जो प्रकृति को नुकसान न पहुँचाएँ।",
+                "hinglish": "Hamein kheti ke aise tareeke chahiye jo prakriti ko nuksaan na pahunchaayein."
+              }
+            },
+            {
+              "english": "renewable",
+              "emoji": "☀️",
+              "hindi": "नवीकरणीय",
+              "hinglish": "naveekarneey",
+              "meaning": "able to be made again, like sun or wind energy",
+              "example": "Solar power is a renewable energy.",
+              "exampleMeaning": {
+                "hi": "सौर ऊर्जा एक नवीकरणीय ऊर्जा है।",
+                "hinglish": "Saur oorja ek naveekarneey oorja hai."
+              }
+            },
+            {
+              "english": "resource",
+              "emoji": "🪨",
+              "hindi": "संसाधन",
+              "hinglish": "sansaadhan",
+              "meaning": "something useful we take from nature",
+              "example": "Water is a precious resource.",
+              "exampleMeaning": {
+                "hi": "पानी एक कीमती संसाधन है।",
+                "hinglish": "Paani ek keemti sansaadhan hai."
+              }
+            },
+            {
+              "english": "emission",
+              "emoji": "💨",
+              "hindi": "उत्सर्जन",
+              "hinglish": "utsarjan",
+              "meaning": "gas or smoke given out",
+              "example": "Factories must reduce the emission of smoke.",
+              "exampleMeaning": {
+                "hi": "कारखानों को धुएँ का उत्सर्जन कम करना चाहिए।",
+                "hinglish": "Kaarkhaanon ko dhuen ka utsarjan kam karna chahiye."
+              }
+            },
+            {
+              "english": "deforestation",
+              "emoji": "🪓",
+              "hindi": "वनों की कटाई",
+              "hinglish": "vanon ki kataai",
+              "meaning": "cutting down forests",
+              "example": "Deforestation causes floods.",
+              "exampleMeaning": {
+                "hi": "जंगलों की कटाई से बाढ़ आती है।",
+                "hinglish": "Jangalon ki kataai se baadh aati hai."
+              }
+            },
+            {
+              "english": "endangered",
+              "emoji": "🐼",
+              "hindi": "लुप्तप्राय",
+              "hinglish": "luptapraay",
+              "meaning": "at risk of dying out",
+              "example": "The tiger is an endangered animal.",
+              "exampleMeaning": {
+                "hi": "बाघ एक लुप्तप्राय जानवर है।",
+                "hinglish": "Baagh ek luptapraay jaanwar hai."
+              }
+            },
+            {
+              "english": "habitat",
+              "emoji": "🏞️",
+              "hindi": "आवास",
+              "hinglish": "aavaas",
+              "meaning": "the natural home of an animal or plant",
+              "example": "The forest is the habitat of many birds.",
+              "exampleMeaning": {
+                "hi": "जंगल कई पक्षियों का घर है।",
+                "hinglish": "Jangal kai pakshiyon ka ghar hai."
+              }
+            },
+            {
+              "english": "global",
+              "emoji": "🌍",
+              "hindi": "वैश्विक",
+              "hinglish": "vaishvik",
+              "meaning": "about the whole world",
+              "example": "Pollution is a global problem.",
+              "exampleMeaning": {
+                "hi": "प्रदूषण पूरी दुनिया की समस्या है।",
+                "hinglish": "Pradooshan poori duniya ki samasya hai."
+              }
+            },
+            {
+              "english": "awareness",
+              "emoji": "📣",
+              "hindi": "जागरूकता",
+              "hinglish": "jaagrookta",
+              "meaning": "knowing about something important",
+              "example": "The rally spread awareness about clean water.",
+              "exampleMeaning": {
+                "hi": "रैली ने साफ़ पानी के बारे में जागरूकता फैलाई।",
+                "hinglish": "Rally ne saaf paani ke baare mein jaagrookta phailaayi."
+              }
+            },
+            {
+              "english": "solution",
+              "emoji": "💡",
+              "hindi": "हल",
+              "hinglish": "hal",
+              "meaning": "an answer to a problem",
+              "example": "Planting trees is one solution to pollution.",
+              "exampleMeaning": {
+                "hi": "पेड़ लगाना प्रदूषण का एक हल है।",
+                "hinglish": "Ped lagaana pradooshan ka ek hal hai."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

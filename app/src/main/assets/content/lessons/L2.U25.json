@@ -69,12 +69,6 @@
           "hinglish": "shaam"
         },
         {
-          "english": "day",
-          "emoji": "🌞",
-          "hindi": "दिन",
-          "hinglish": "din"
-        },
-        {
           "english": "night",
           "emoji": "🌃",
           "hindi": "रात",
@@ -93,8 +87,8 @@
       "answer": "evening",
       "options": [
         "evening",
-        "night",
-        "today"
+        "day",
+        "night"
       ]
     },
     {
@@ -149,38 +143,31 @@
           "hinglish": "raat"
         },
         {
-          "english": "day",
-          "emoji": "🌞",
-          "hindi": "दिन",
-          "hinglish": "din"
+          "english": "evening",
+          "emoji": "🌆",
+          "hindi": "शाम",
+          "hinglish": "shaam"
         },
         {
           "english": "morning",
           "emoji": "🌅",
           "hindi": "सुबह",
           "hinglish": "subah"
-        },
-        {
-          "english": "evening",
-          "emoji": "🌆",
-          "hindi": "शाम",
-          "hinglish": "shaam"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U25.S09",
       "skills": [
         "read.word",
         "vocab.time"
       ],
-      "emoji": "🌞",
       "answer": "day",
       "options": [
         "day",
-        "evening",
-        "today"
+        "today",
+        "evening"
       ]
     },
     {
@@ -258,8 +245,8 @@
       "answer": "tomorrow",
       "options": [
         "tomorrow",
-        "night",
-        "week"
+        "week",
+        "today"
       ]
     },
     {
@@ -318,12 +305,12 @@
           "hinglish": "beeta hua kal"
         },
         {
-          "hi": "हफ़्ता",
-          "hinglish": "hafta"
+          "hi": "दिन",
+          "hinglish": "din"
         },
         {
-          "hi": "आने वाला कल",
-          "hinglish": "aane waala kal"
+          "hi": "हफ़्ता",
+          "hinglish": "hafta"
         }
       ]
     },
@@ -337,8 +324,8 @@
       "answer": "week",
       "options": [
         "week",
-        "yesterday",
-        "today"
+        "evening",
+        "day"
       ]
     },
     {
@@ -349,27 +336,26 @@
         "vocab.time"
       ],
       "word": {
-        "english": "night",
-        "emoji": "🌃",
-        "hindi": "रात",
-        "hinglish": "raat"
+        "english": "tomorrow",
+        "hindi": "आने वाला कल",
+        "hinglish": "aane waala kal"
       },
       "answer": {
-        "hi": "रात",
-        "hinglish": "raat"
+        "hi": "आने वाला कल",
+        "hinglish": "aane waala kal"
       },
       "options": [
+        {
+          "hi": "आने वाला कल",
+          "hinglish": "aane waala kal"
+        },
         {
           "hi": "रात",
           "hinglish": "raat"
         },
         {
-          "hi": "आज",
-          "hinglish": "aaj"
-        },
-        {
-          "hi": "हफ़्ता",
-          "hinglish": "hafta"
+          "hi": "बीता हुआ कल",
+          "hinglish": "beeta hua kal"
         }
       ]
     },
@@ -381,27 +367,26 @@
         "vocab.time"
       ],
       "word": {
-        "english": "day",
-        "emoji": "🌞",
-        "hindi": "दिन",
-        "hinglish": "din"
+        "english": "today",
+        "hindi": "आज",
+        "hinglish": "aaj"
       },
       "answer": {
-        "hi": "दिन",
-        "hinglish": "din"
+        "hi": "आज",
+        "hinglish": "aaj"
       },
       "options": [
-        {
-          "hi": "दिन",
-          "hinglish": "din"
-        },
         {
           "hi": "आज",
           "hinglish": "aaj"
         },
         {
-          "hi": "आने वाला कल",
-          "hinglish": "aane waala kal"
+          "hi": "दिन",
+          "hinglish": "din"
+        },
+        {
+          "hi": "हफ़्ता",
+          "hinglish": "hafta"
         }
       ]
     },
@@ -443,11 +428,11 @@
         "read.word",
         "vocab.time"
       ],
-      "answer": "night",
+      "answer": "morning",
       "options": [
-        "night",
-        "today",
-        "day"
+        "morning",
+        "evening",
+        "today"
       ]
     },
     {

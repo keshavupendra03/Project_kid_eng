@@ -1,0 +1,143 @@
+{
+  "id": "R3.P05",
+  "level": 103,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R3.P05.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Clever Goat’ (चतुर बकरी)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Clever Goat’ (Chatur bakri). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Clever Goat’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P05.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘thirsty’ मतलब प्यासा। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘thirsty’ matlab pyaasa. Chhookar suno, phir bolo.",
+        "en": "‘thirsty’ means प्यासा. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "thirsty",
+        "emoji": "🥵",
+        "hindi": "प्यासा",
+        "hinglish": "pyaasa"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P05.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘well’ मतलब कुआँ। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘well’ matlab kuan. Chhookar suno, phir bolo.",
+        "en": "‘well’ means कुआँ. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "well",
+        "emoji": "🕳️",
+        "hindi": "कुआँ",
+        "hinglish": "kuan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R3.P05.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘clever’ मतलब चतुर। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘clever’ matlab chatur. Chhookar suno, phir bolo.",
+        "en": "‘clever’ means चतुर. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "clever",
+        "emoji": "🧠",
+        "hindi": "चतुर",
+        "hinglish": "chatur"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R3.P05.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "चतुर बकरी",
+        "hinglish": "Chatur bakri",
+        "en": "The Clever Goat"
+      },
+      "sentences": [
+        "A goat is very thirsty.",
+        "She finds a well in a field.",
+        "The water is deep inside.",
+        "\"How can I drink?\"",
+        "she thinks.",
+        "Then she sees a long rope and a bucket.",
+        "She pulls the bucket up with her teeth.",
+        "Now she can drink the cool water.",
+        "What a clever goat!"
+      ],
+      "words": [
+        {
+          "english": "thirsty",
+          "emoji": "🥵",
+          "hindi": "प्यासा",
+          "hinglish": "pyaasa"
+        },
+        {
+          "english": "well",
+          "emoji": "🕳️",
+          "hindi": "कुआँ",
+          "hinglish": "kuan"
+        },
+        {
+          "english": "clever",
+          "emoji": "🧠",
+          "hindi": "चतुर",
+          "hinglish": "chatur"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P05.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बकरी को क्या मिला?",
+        "hinglish": "Bakri ko kya mila?",
+        "en": "What does the goat find?"
+      },
+      "options": [
+        "a well",
+        "a shop",
+        "a nest"
+      ],
+      "answer": "a well"
+    },
+    {
+      "type": "story_question",
+      "id": "R3.P05.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बकरी बाल्टी कैसे खींचती है?",
+        "hinglish": "Bakri balti kaise kheenchti hai?",
+        "en": "How does the goat pull the bucket?"
+      },
+      "options": [
+        "with her teeth",
+        "with a stick",
+        "with her tail"
+      ],
+      "answer": "with her teeth"
+    }
+  ]
+}

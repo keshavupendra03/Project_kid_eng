@@ -1,0 +1,480 @@
+{
+  "id": "W78.P03",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P03.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: विज्ञान और तकनीक। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Vigyaan aur takneek. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Science and technology. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P03.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "technology",
+        "emoji": "💻",
+        "hindi": "तकनीक",
+        "hinglish": "takneek"
+      },
+      "meaning": "using science to make useful things",
+      "example": "Technology has made life easier.",
+      "exampleMeaning": {
+        "hi": "तकनीक ने ज़िंदगी आसान बना दी है।",
+        "hinglish": "Takneek ne zindagi aasaan bana di hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P03.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "device",
+        "emoji": "📱",
+        "hindi": "उपकरण",
+        "hinglish": "upkaran"
+      },
+      "meaning": "a machine or tool made for a purpose",
+      "example": "A phone is a useful device.",
+      "exampleMeaning": {
+        "hi": "फ़ोन एक काम का उपकरण है।",
+        "hinglish": "Phone ek kaam ka upkaran hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P03.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "internet",
+        "emoji": "🌐",
+        "hindi": "इंटरनेट",
+        "hinglish": "internet"
+      },
+      "meaning": "a network that connects computers around the world",
+      "example": "We search for information on the internet.",
+      "exampleMeaning": {
+        "hi": "हम इंटरनेट पर जानकारी ढूँढते हैं।",
+        "hinglish": "Hum internet par jaankaari dhoondhte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P03.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "software",
+        "emoji": "💾",
+        "hindi": "सॉफ़्टवेयर",
+        "hinglish": "software"
+      },
+      "meaning": "programs that tell a computer what to do",
+      "example": "This software helps us draw.",
+      "exampleMeaning": {
+        "hi": "यह सॉफ़्टवेयर ड्रॉइंग बनाने में मदद करता है।",
+        "hinglish": "Yeh software drawing banaane mein madad karta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P03.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "satellite",
+        "emoji": "🛰️",
+        "hindi": "उपग्रह",
+        "hinglish": "upgrah"
+      },
+      "meaning": "a machine that goes around the earth in space",
+      "example": "A satellite sends TV signals.",
+      "exampleMeaning": {
+        "hi": "उपग्रह टीवी के सिग्नल भेजता है।",
+        "hinglish": "Upgrah TV ke signal bhejta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P03.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "research",
+        "emoji": "🔎",
+        "hindi": "शोध",
+        "hinglish": "shodh"
+      },
+      "meaning": "careful study to find new facts",
+      "example": "Scientists do research on new medicines.",
+      "exampleMeaning": {
+        "hi": "वैज्ञानिक नई दवाइयों पर शोध करते हैं।",
+        "hinglish": "Vaigyaanik nayi dawaaiyon par shodh karte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P03.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "discovery",
+        "emoji": "🔭",
+        "hindi": "खोज",
+        "hinglish": "khoj"
+      },
+      "meaning": "finding something for the first time",
+      "example": "The discovery of fire changed human life.",
+      "exampleMeaning": {
+        "hi": "आग की खोज ने इंसान की ज़िंदगी बदल दी।",
+        "hinglish": "Aag ki khoj ne insaan ki zindagi badal di."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P03.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "robot",
+        "emoji": "🤖",
+        "hindi": "रोबोट",
+        "hinglish": "robot"
+      },
+      "meaning": "a machine that can do work by itself",
+      "example": "A robot can clean the floor.",
+      "exampleMeaning": {
+        "hi": "रोबोट फ़र्श साफ़ कर सकता है।",
+        "hinglish": "Robot farsh saaf kar sakta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P03.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "electricity",
+        "emoji": "⚡",
+        "hindi": "बिजली",
+        "hinglish": "bijli"
+      },
+      "meaning": "the energy that runs lights and fans",
+      "example": "Electricity reached our village last year.",
+      "exampleMeaning": {
+        "hi": "पिछले साल हमारे गाँव में बिजली पहुँची।",
+        "hinglish": "Pichhle saal hamare gaon mein bijli pahunchi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P03.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "password",
+        "emoji": "🔐",
+        "hindi": "पासवर्ड",
+        "hinglish": "password"
+      },
+      "meaning": "a secret word to open a phone or account",
+      "example": "Never share your password with anyone.",
+      "exampleMeaning": {
+        "hi": "अपना पासवर्ड किसी को भी मत बताओ।",
+        "hinglish": "Apna password kisi ko bhi mat batao."
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P03.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "electricity",
+      "options": [
+        "electricity",
+        "internet",
+        "technology"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P03.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "satellite",
+        "emoji": "🛰️",
+        "hindi": "उपग्रह",
+        "hinglish": "upgrah"
+      },
+      "answer": {
+        "hi": "उपग्रह",
+        "hinglish": "upgrah"
+      },
+      "options": [
+        {
+          "hi": "उपग्रह",
+          "hinglish": "upgrah"
+        },
+        {
+          "hi": "शोध",
+          "hinglish": "shodh"
+        },
+        {
+          "hi": "खोज",
+          "hinglish": "khoj"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P03.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "A phone is a useful ___.",
+      "answer": "device",
+      "options": [
+        "device",
+        "electricity",
+        "satellite"
+      ],
+      "meaning": {
+        "hi": "उपकरण",
+        "hinglish": "upkaran"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P03.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "internet",
+        "emoji": "🌐",
+        "hindi": "इंटरनेट",
+        "hinglish": "internet"
+      },
+      "answer": {
+        "hi": "इंटरनेट",
+        "hinglish": "internet"
+      },
+      "options": [
+        {
+          "hi": "इंटरनेट",
+          "hinglish": "internet"
+        },
+        {
+          "hi": "सॉफ़्टवेयर",
+          "hinglish": "software"
+        },
+        {
+          "hi": "उपकरण",
+          "hinglish": "upkaran"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P03.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "discovery",
+        "emoji": "🔭",
+        "hindi": "खोज",
+        "hinglish": "khoj"
+      },
+      "answer": {
+        "hi": "खोज",
+        "hinglish": "khoj"
+      },
+      "options": [
+        {
+          "hi": "खोज",
+          "hinglish": "khoj"
+        },
+        {
+          "hi": "शोध",
+          "hinglish": "shodh"
+        },
+        {
+          "hi": "तकनीक",
+          "hinglish": "takneek"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P03.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Scientists do ___ on new medicines.",
+      "answer": "research",
+      "options": [
+        "research",
+        "electricity",
+        "software"
+      ],
+      "meaning": {
+        "hi": "शोध",
+        "hinglish": "shodh"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P03.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "technology",
+        "emoji": "💻",
+        "hindi": "तकनीक",
+        "hinglish": "takneek"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P03.S19",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "device",
+        "emoji": "📱",
+        "hindi": "उपकरण",
+        "hinglish": "upkaran"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P03.S20",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "internet",
+        "emoji": "🌐",
+        "hindi": "इंटरनेट",
+        "hinglish": "internet"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P03.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "password",
+      "options": [
+        "password",
+        "electricity",
+        "device"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P03.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "software",
+        "emoji": "💾",
+        "hindi": "सॉफ़्टवेयर",
+        "hinglish": "software"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P03.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "A ___ can clean the floor.",
+      "answer": "robot",
+      "options": [
+        "robot",
+        "password",
+        "electricity"
+      ],
+      "meaning": {
+        "hi": "रोबोट",
+        "hinglish": "robot"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P03.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "technology",
+        "emoji": "💻",
+        "hindi": "तकनीक",
+        "hinglish": "takneek"
+      },
+      "answer": {
+        "hi": "तकनीक",
+        "hinglish": "takneek"
+      },
+      "options": [
+        {
+          "hi": "तकनीक",
+          "hinglish": "takneek"
+        },
+        {
+          "hi": "सॉफ़्टवेयर",
+          "hinglish": "software"
+        },
+        {
+          "hi": "बिजली",
+          "hinglish": "bijli"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P03.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "This ___ helps us draw.",
+      "answer": "software",
+      "options": [
+        "software",
+        "password",
+        "robot"
+      ],
+      "meaning": {
+        "hi": "सॉफ़्टवेयर",
+        "hinglish": "software"
+      }
+    }
+  ]
+}

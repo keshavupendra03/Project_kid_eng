@@ -1,0 +1,90 @@
+{
+  "id": "L4.U01",
+  "level": 4,
+  "steps": [
+    {
+      "type": "learn_card", "id": "L4.U01.S01", "skills": ["speak.sentence"],
+      "text": {
+        "hi": "आज तुम मुझसे इंग्लिश में बात करोगे! पहले कुछ लाइनें बोलकर देखते हैं।",
+        "hinglish": "Aaj tum mujhse English mein baat karoge! Pehle kuch lines bolkar dekhte hain.",
+        "en": "Today we'll talk in English! First let's practise a few lines."
+      }
+    },
+    {
+      "type": "say_sentence", "id": "L4.U01.S02", "skills": ["speak.sentence", "grammar.i_am"],
+      "sentence": "I am fine, thank you.",
+      "meaning": { "hi": "मैं ठीक हूँ, शुक्रिया।", "hinglish": "Main theek hoon, shukriya.", "en": "I am fine, thank you." }
+    },
+    {
+      "type": "say_sentence", "id": "L4.U01.S03", "skills": ["speak.sentence", "grammar.i_am"],
+      "sentence": "I am in class five.",
+      "meaning": { "hi": "मैं पाँचवीं क्लास में हूँ।", "hinglish": "Main paanchvi class mein hoon.", "en": "I am in class five." }
+    },
+    {
+      "type": "roleplay", "id": "L4.U01.S04", "skills": ["speak.sentence", "grammar.wh_questions"], "scene": "🙋",
+      "turns": [
+        { "id": "hello", "tinku": "Hello! I am Tinku. What is your name?",
+          "meaning": { "hi": "नमस्ते! मैं टिंकू हूँ। तुम्हारा नाम क्या है?", "hinglish": "Namaste! Main Tinku hoon. Tumhara naam kya hai?" },
+          "replies": [
+            { "say": "My name is {child}.", "meaning": { "hi": "मेरा नाम … है।", "hinglish": "Mera naam … hai." }, "patterns": ["my name is *", "i am *", "myself *"] }
+          ] },
+        { "id": "how", "tinku": "Nice to meet you, {child}! How are you?",
+          "meaning": { "hi": "तुमसे मिलकर अच्छा लगा! तुम कैसे हो?", "hinglish": "Tumse milkar achha laga! Tum kaise ho?" },
+          "replies": [
+            { "say": "I am fine, thank you.", "meaning": { "hi": "मैं ठीक हूँ, शुक्रिया।", "hinglish": "Main theek hoon, shukriya." }, "patterns": ["i am fine thank you", "i am fine", "fine thank you", "i am good", "i am happy"], "next": "age" },
+            { "say": "I am tired.", "meaning": { "hi": "मुझे थकान है।", "hinglish": "Mujhe thakaan hai." }, "patterns": ["i am tired", "i am very tired", "i am sleepy"], "next": "rest" }
+          ] },
+        { "id": "rest", "tinku": "Oh! Drink some water and rest a little.",
+          "meaning": { "hi": "अरे! थोड़ा पानी पियो और आराम करो।", "hinglish": "Arre! Thoda paani piyo aur aaram karo." },
+          "replies": [
+            { "say": "Okay, thank you.", "meaning": { "hi": "ठीक है, शुक्रिया।", "hinglish": "Theek hai, shukriya." }, "patterns": ["thank you", "okay thank you", "yes thank you"] }
+          ] },
+        { "id": "age", "tinku": "How old are you?",
+          "meaning": { "hi": "तुम कितने साल के हो?", "hinglish": "Tum kitne saal ke ho?" },
+          "replies": [
+            { "say": "I am ten years old.", "meaning": { "hi": "अपनी उम्र बोलो: मैं … साल का/की हूँ।", "hinglish": "Apni umar bolo: Main … saal ka/ki hoon." }, "patterns": ["i am * years old", "i am * year old", "* years old", "i am *"] }
+          ] },
+        { "id": "class", "tinku": "Which class are you in?",
+          "meaning": { "hi": "तुम कौन सी क्लास में हो?", "hinglish": "Tum kaun si class mein ho?" },
+          "replies": [
+            { "say": "I am in class five.", "meaning": { "hi": "अपनी क्लास बोलो: मैं … क्लास में हूँ।", "hinglish": "Apni class bolo: Main … class mein hoon." }, "patterns": ["i am in class *", "in class *", "class *", "i am in * class"] }
+          ] },
+        { "id": "like", "tinku": "What do you like?",
+          "meaning": { "hi": "तुम्हें क्या पसंद है?", "hinglish": "Tumhe kya pasand hai?" },
+          "replies": [
+            { "say": "I like cricket.", "meaning": { "hi": "मुझे क्रिकेट पसंद है।", "hinglish": "Mujhe cricket pasand hai." }, "patterns": ["i like cricket", "cricket"], "next": "cricket" },
+            { "say": "I like mangoes.", "meaning": { "hi": "मुझे आम पसंद हैं।", "hinglish": "Mujhe aam pasand hain." }, "patterns": ["i like mangoes", "i like mango", "mangoes", "mango"], "next": "mango" },
+            { "say": "I like to draw.", "meaning": { "hi": "मुझे चित्र बनाना पसंद है। (या कुछ और बोलो: I like …)", "hinglish": "Mujhe drawing pasand hai. (Ya kuch aur bolo: I like …)" }, "patterns": ["i like *"], "next": "other" }
+          ] },
+        { "id": "cricket", "tinku": "Wow! I like cricket too. It is fun!",
+          "meaning": { "hi": "वाह! मुझे भी क्रिकेट पसंद है। बड़ा मज़ा आता है!", "hinglish": "Waah! Mujhe bhi cricket pasand hai. Bada mazaa aata hai!" },
+          "replies": [
+            { "say": "Yes, it is fun!", "meaning": { "hi": "हाँ, मज़ा आता है!", "hinglish": "Haan, mazaa aata hai!" }, "patterns": ["yes it is fun", "it is fun", "yes"], "next": "bye" }
+          ] },
+        { "id": "mango", "tinku": "Yum! Mangoes are very sweet.",
+          "meaning": { "hi": "वाह! आम बहुत मीठे होते हैं।", "hinglish": "Waah! Aam bahut meethe hote hain." },
+          "replies": [
+            { "say": "Yes, they are sweet.", "meaning": { "hi": "हाँ, वे मीठे होते हैं।", "hinglish": "Haan, woh meethe hote hain." }, "patterns": ["yes they are sweet", "they are sweet", "yes"], "next": "bye" }
+          ] },
+        { "id": "other", "tinku": "That is very nice!",
+          "meaning": { "hi": "यह तो बहुत अच्छी बात है!", "hinglish": "Yeh to bahut achhi baat hai!" },
+          "replies": [
+            { "say": "Thank you!", "meaning": { "hi": "शुक्रिया!", "hinglish": "Shukriya!" }, "patterns": ["thank you", "thanks"], "next": "bye" }
+          ] },
+        { "id": "bye", "tinku": "It was nice talking to you, {child}. Goodbye!",
+          "meaning": { "hi": "तुमसे बात करके अच्छा लगा। अलविदा!", "hinglish": "Tumse baat karke achha laga. Alvida!" },
+          "replies": [
+            { "say": "Goodbye, Tinku!", "meaning": { "hi": "अलविदा, टिंकू!", "hinglish": "Alvida, Tinku!" }, "patterns": ["goodbye *", "good bye *", "goodbye", "good bye", "bye *", "bye"], "next": "end" }
+          ] }
+      ]
+    },
+    {
+      "type": "learn_card", "id": "L4.U01.S05",
+      "text": {
+        "hi": "शाबाश! अब किसी से मिलो तो ऐसे ही इंग्लिश में बात करो।",
+        "hinglish": "Shabaash! Ab kisi se milo to aise hi English mein baat karo.",
+        "en": "Well done! Next time you meet someone, talk just like this in English."
+      }
+    }
+  ]
+}

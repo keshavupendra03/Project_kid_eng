@@ -1,0 +1,140 @@
+{
+  "id": "R2.P04",
+  "level": 102,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R2.P04.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Rain’ (बारिश)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Rain’ (Baarish). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Rain’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P04.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘sky’ मतलब आसमान। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘sky’ matlab aasmaan. Chhookar suno, phir bolo.",
+        "en": "‘sky’ means आसमान. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "sky",
+        "emoji": "🌌",
+        "hindi": "आसमान",
+        "hinglish": "aasmaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P04.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘rain’ मतलब बारिश। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘rain’ matlab baarish. Chhookar suno, phir bolo.",
+        "en": "‘rain’ means बारिश. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "rain",
+        "emoji": "🌧️",
+        "hindi": "बारिश",
+        "hinglish": "baarish"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P04.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘wet’ मतलब गीला। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘wet’ matlab geela. Chhookar suno, phir bolo.",
+        "en": "‘wet’ means गीला. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "wet",
+        "emoji": "💦",
+        "hindi": "गीला",
+        "hinglish": "geela"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R2.P04.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "बारिश",
+        "hinglish": "Baarish",
+        "en": "Rain"
+      },
+      "sentences": [
+        "Look at the sky.",
+        "It is black.",
+        "Drip, drop, it is raining!",
+        "Chintu runs home.",
+        "He gets wet.",
+        "Mummy gives him a towel."
+      ],
+      "words": [
+        {
+          "english": "sky",
+          "emoji": "🌌",
+          "hindi": "आसमान",
+          "hinglish": "aasmaan"
+        },
+        {
+          "english": "rain",
+          "emoji": "🌧️",
+          "hindi": "बारिश",
+          "hinglish": "baarish"
+        },
+        {
+          "english": "wet",
+          "emoji": "💦",
+          "hindi": "गीला",
+          "hinglish": "geela"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P04.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "आसमान कैसा है?",
+        "hinglish": "Aasmaan kaisa hai?",
+        "en": "How is the sky?"
+      },
+      "options": [
+        "black",
+        "blue",
+        "red"
+      ],
+      "answer": "black"
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P04.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "मम्मी चिंटू को क्या देती हैं?",
+        "hinglish": "Mummy Chintu ko kya deti hain?",
+        "en": "What does Mummy give Chintu?"
+      },
+      "options": [
+        "a towel",
+        "a hat",
+        "an egg"
+      ],
+      "answer": "a towel"
+    }
+  ]
+}

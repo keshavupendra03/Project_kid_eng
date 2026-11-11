@@ -24,7 +24,12 @@
         { "id": "L1.U09", "emoji": "🪁", "title": { "hi": "जादुई e", "hl": "Jaadui e", "en": "Magic e" } },
         { "id": "L1.U10", "emoji": "🌳", "title": { "hi": "जोड़ी वाले स्वर: ee, oa, ai, oo", "hl": "Jodi waale swar: ee, oa, ai, oo", "en": "Vowel teams: ee, oa, ai, oo" } },
         { "id": "L1.U11", "emoji": "👀", "title": { "hi": "देखो और पहचानो", "hl": "Dekho aur pehchaano", "en": "Words to know on sight" } },
-        { "id": "L1.U12", "emoji": "🗣️", "title": { "hi": "साफ़ बोलो: s, z, f, sh", "hl": "Saaf bolo: s, z, f, sh", "en": "Speak clearly: s, z, f, sh" } }
+        { "id": "L1.U12", "emoji": "🗣️", "title": { "hi": "साफ़ बोलो: s, z, f, sh", "hl": "Saaf bolo: s, z, f, sh", "en": "Speak clearly: s, z, f, sh" } },
+        { "id": "L1.U13", "emoji": "🦊", "title": { "hi": "दो आवाज़ें एक साथ: x, qu", "hl": "Do awaazein ek saath: x, qu", "en": "Two sounds in one: x, qu" } },
+        { "id": "L1.U14", "emoji": "📖", "title": { "hi": "और आवाज़ें: th, oo, si", "hl": "Aur awaazein: th, oo, si", "en": "More sounds: th, oo, si" } },
+        { "id": "L1.U15", "emoji": "🚗", "title": { "hi": "r वाली आवाज़ें: ar, or, ur", "hl": "r waali awaazein: ar, or, ur", "en": "Sounds with r: ar, or, ur" } },
+        { "id": "L1.U16", "emoji": "🐄", "title": { "hi": "फिसलती आवाज़ें: igh, ow, oy", "hl": "Phisalti awaazein: igh, ow, oy", "en": "Gliding sounds: igh, ow, oy" } },
+        { "id": "L1.U17", "emoji": "🍌", "title": { "hi": "आख़िरी आवाज़ें: ear, air, ure", "hl": "Aakhiri awaazein: ear, air, ure", "en": "Last sounds: ear, air, ure" } }
       ]
     },
     {
@@ -58,7 +63,42 @@
         { "id": "L2.U25", "emoji": "🌅", "title": { "hi": "समय", "hl": "Samay", "en": "Time" } },
         { "id": "L2.U26", "emoji": "📅", "title": { "hi": "हफ़्ते के दिन", "hl": "Hafte ke din", "en": "Days of the week" } },
         { "id": "L2.U27", "emoji": "🔥", "title": { "hi": "उल्टे शब्द", "hl": "Ulte shabd", "en": "Opposites" } },
-        { "id": "L2.U28", "emoji": "🦒", "title": { "hi": "और उल्टे शब्द", "hl": "Aur ulte shabd", "en": "More opposites" } }
+        { "id": "L2.U28", "emoji": "🦒", "title": { "hi": "और उल्टे शब्द", "hl": "Aur ulte shabd", "en": "More opposites" } },
+        { "id": "L2.U29", "emoji": "🧠", "title": { "hi": "सिर से पैर तक", "hl": "Sir se pair tak", "en": "Head to toe" } },
+        { "id": "L2.U30", "emoji": "💊", "title": { "hi": "सेहत", "hl": "Sehat", "en": "Health" } },
+        { "id": "L2.U31", "emoji": "👥", "title": { "hi": "रिश्ते और पड़ोस", "hl": "Rishte aur pados", "en": "Relatives and neighbours" } },
+        { "id": "L2.U32", "emoji": "👨‍🌾", "title": { "hi": "लोगों के काम", "hl": "Logon ke kaam", "en": "Jobs" } },
+        { "id": "L2.U33", "emoji": "🧱", "title": { "hi": "घर के हिस्से", "hl": "Ghar ke hisse", "en": "Parts of a house" } },
+        { "id": "L2.U34", "emoji": "🛋️", "title": { "hi": "कमरे की चीज़ें", "hl": "Kamre ki cheezein", "en": "Things in a room" } },
+        { "id": "L2.U35", "emoji": "🔪", "title": { "hi": "रसोई की और चीज़ें", "hl": "Rasoi ki aur cheezein", "en": "More kitchen things" } },
+        { "id": "L2.U36", "emoji": "❓", "title": { "hi": "पढ़ाई के शब्द", "hl": "Padhai ke shabd", "en": "Words for studying" } },
+        { "id": "L2.U37", "emoji": "🔬", "title": { "hi": "विषय और भाषा", "hl": "Vishay aur bhasha", "en": "Subjects and language" } },
+        { "id": "L2.U38", "emoji": "🧈", "title": { "hi": "रसोई का सामान", "hl": "Rasoi ka saamaan", "en": "Food in the kitchen" } },
+        { "id": "L2.U39", "emoji": "🍱", "title": { "hi": "खाने का समय और स्वाद", "hl": "Khaane ka samay aur swaad", "en": "Meals and tastes" } },
+        { "id": "L2.U40", "emoji": "🍒", "title": { "hi": "और फल", "hl": "Aur phal", "en": "More fruits" } },
+        { "id": "L2.U41", "emoji": "🍆", "title": { "hi": "और सब्ज़ियाँ", "hl": "Aur sabziyaan", "en": "More vegetables" } },
+        { "id": "L2.U42", "emoji": "🐑", "title": { "hi": "और जानवर", "hl": "Aur jaanwar", "en": "More animals" } },
+        { "id": "L2.U43", "emoji": "🐊", "title": { "hi": "पानी के जीव और बड़े पक्षी", "hl": "Paani ke jeev aur bade pakshi", "en": "Water animals and big birds" } },
+        { "id": "L2.U44", "emoji": "🕷️", "title": { "hi": "छोटे जीव", "hl": "Chhote jeev", "en": "Tiny creatures" } },
+        { "id": "L2.U45", "emoji": "⭕", "title": { "hi": "और रंग, और आकार", "hl": "Aur rang, aur aakaar", "en": "More colours and shapes" } },
+        { "id": "L2.U46", "emoji": "🔢", "title": { "hi": "गिनती 11 से 18", "hl": "Ginti 11 se 18", "en": "Numbers 11 to 18" } },
+        { "id": "L2.U47", "emoji": "🔢", "title": { "hi": "बड़ी गिनती", "hl": "Badi ginti", "en": "Bigger numbers" } },
+        { "id": "L2.U48", "emoji": "💰", "title": { "hi": "पैसे और गिनती", "hl": "Paise aur ginti", "en": "Money and amounts" } },
+        { "id": "L2.U49", "emoji": "🧣", "title": { "hi": "और कपड़े", "hl": "Aur kapde", "en": "More clothes" } },
+        { "id": "L2.U50", "emoji": "🚶", "title": { "hi": "आना, जाना, देना, लेना", "hl": "Aana, jaana, dena, lena", "en": "Come, go, give, take" } },
+        { "id": "L2.U51", "emoji": "✂️", "title": { "hi": "हाथों के काम", "hl": "Haathon ke kaam", "en": "Things we do with our hands" } },
+        { "id": "L2.U52", "emoji": "🗣️", "title": { "hi": "सीखना और बात करना", "hl": "Seekhna aur baat karna", "en": "Learning and talking" } },
+        { "id": "L2.U53", "emoji": "🛀", "title": { "hi": "रोज़ के काम", "hl": "Roz ke kaam", "en": "Daily routine" } },
+        { "id": "L2.U54", "emoji": "🌉", "title": { "hi": "शहर की और जगहें", "hl": "Shehar ki aur jagahein", "en": "More places in town" } },
+        { "id": "L2.U55", "emoji": "🌊", "title": { "hi": "पानी, हवा और आग", "hl": "Paani, hawa aur aag", "en": "Water, wind and fire" } },
+        { "id": "L2.U56", "emoji": "🍃", "title": { "hi": "धरती पर", "hl": "Dharti par", "en": "On the earth" } },
+        { "id": "L2.U57", "emoji": "🚗", "title": { "hi": "गाड़ियाँ", "hl": "Gaadiyaan", "en": "Vehicles" } },
+        { "id": "L2.U58", "emoji": "🦸", "title": { "hi": "हम कैसे हैं", "hl": "Hum kaise hain", "en": "What people are like" } },
+        { "id": "L2.U59", "emoji": "🗓️", "title": { "hi": "समय के और शब्द", "hl": "Samay ke aur shabd", "en": "More time words" } },
+        { "id": "L2.U60", "emoji": "🌈", "title": { "hi": "मौसम", "hl": "Mausam", "en": "Weather" } },
+        { "id": "L2.U61", "emoji": "👍", "title": { "hi": "अच्छा-बुरा, आसान-मुश्किल", "hl": "Achha-bura, aasaan-mushkil", "en": "Good, bad, easy, hard" } },
+        { "id": "L2.U62", "emoji": "➡️", "title": { "hi": "पास-दूर, दायाँ-बायाँ", "hl": "Paas-door, daayaan-baayaan", "en": "Near, far, right, left" } },
+        { "id": "L2.U63", "emoji": "🙏", "title": { "hi": "प्यारे शब्द", "hl": "Pyaare shabd", "en": "Kind words" } }
       ]
     },
     {
@@ -80,6 +120,15 @@
         { "id": "L3.U13", "emoji": "❓", "title": { "hi": "हाँ या ना वाले सवाल", "hl": "Haan ya na waale sawaal", "en": "Yes/No questions" } },
         { "id": "L3.U14", "emoji": "🤔", "title": { "hi": "क्या, कौन, कहाँ", "hl": "Kya, kaun, kahan", "en": "What, Who, Where" } },
         { "id": "L3.U15", "emoji": "📆", "title": { "hi": "रोज़ की बातें", "hl": "Roz ki baatein", "en": "Every day: I play, He plays" } }
+      ]
+    },
+    {
+      "number": 4, "emoji": "💬",
+      "title": { "hi": "बातचीत करो", "hl": "Baatcheet karo", "en": "Let's talk" },
+      "lessons": [
+        { "id": "L4.U01", "emoji": "🙋", "title": { "hi": "अपने बारे में बताओ", "hl": "Apne baare mein batao", "en": "Introduce yourself" } },
+        { "id": "L4.U02", "emoji": "🏪", "title": { "hi": "दुकान पर", "hl": "Dukaan par", "en": "At the shop" } },
+        { "id": "L4.U03", "emoji": "🏫", "title": { "hi": "स्कूल में", "hl": "School mein", "en": "At school" } }
       ]
     }
   ]

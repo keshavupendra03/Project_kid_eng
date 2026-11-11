@@ -289,8 +289,22 @@
       }
     },
     {
-      "type": "learn_card",
+      "type": "teach_tinku",
       "id": "L3.U03.S13",
+      "skills": [
+        "speak.sentence",
+        "grammar.he_she_it"
+      ],
+      "wrong": "She am my teacher.",
+      "answer": "She is my teacher.",
+      "meaning": {
+        "hi": "वह मेरी टीचर है।",
+        "hinglish": "Woh meri teacher hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U03.S14",
       "text": {
         "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
         "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",

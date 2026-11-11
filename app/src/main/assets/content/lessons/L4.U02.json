@@ -1,0 +1,68 @@
+{
+  "id": "L4.U02",
+  "level": 4,
+  "steps": [
+    {
+      "type": "learn_card", "id": "L4.U02.S01", "skills": ["speak.sentence"],
+      "text": {
+        "hi": "आज मैं दुकानदार हूँ और तुम सामान लेने आए हो! पहले ये लाइनें बोलो।",
+        "hinglish": "Aaj main dukaandaar hoon aur tum saamaan lene aaye ho! Pehle yeh lines bolo.",
+        "en": "Today I am the shopkeeper and you are buying things! First, say these lines."
+      }
+    },
+    {
+      "type": "say_sentence", "id": "L4.U02.S02", "skills": ["speak.sentence", "grammar.want"],
+      "sentence": "I want a pencil.",
+      "meaning": { "hi": "मुझे एक पेंसिल चाहिए।", "hinglish": "Mujhe ek pencil chahiye.", "en": "I want a pencil." }
+    },
+    {
+      "type": "say_sentence", "id": "L4.U02.S03", "skills": ["speak.sentence", "grammar.wh_questions"],
+      "sentence": "How much is it?",
+      "meaning": { "hi": "यह कितने का है?", "hinglish": "Yeh kitne ka hai?", "en": "How much is it?" }
+    },
+    {
+      "type": "roleplay", "id": "L4.U02.S04", "skills": ["speak.sentence", "grammar.want"], "scene": "🏪",
+      "turns": [
+        { "id": "welcome", "tinku": "Good morning! What do you want?",
+          "meaning": { "hi": "नमस्ते! तुम्हें क्या चाहिए?", "hinglish": "Namaste! Tumhe kya chahiye?" },
+          "replies": [
+            { "say": "I want a pencil.", "meaning": { "hi": "मुझे एक पेंसिल चाहिए।", "hinglish": "Mujhe ek pencil chahiye." }, "patterns": ["i want a pencil", "i want pencil", "a pencil", "pencil", "give me a pencil"], "next": "pencil" },
+            { "say": "I want a notebook.", "meaning": { "hi": "मुझे एक कॉपी चाहिए।", "hinglish": "Mujhe ek copy chahiye." }, "patterns": ["i want a notebook", "i want notebook", "a notebook", "notebook", "give me a notebook", "i want a copy"], "next": "notebook" },
+            { "say": "I want an eraser.", "meaning": { "hi": "मुझे एक रबड़ चाहिए।", "hinglish": "Mujhe ek rubber chahiye." }, "patterns": ["i want an eraser", "i want a eraser", "i want eraser", "an eraser", "eraser", "i want a rubber", "i want a razor"], "next": "eraser" }
+          ] },
+        { "id": "pencil", "tinku": "Here is your pencil.",
+          "meaning": { "hi": "यह लो तुम्हारी पेंसिल।", "hinglish": "Yeh lo tumhari pencil." },
+          "replies": [ { "say": "How much is it?", "meaning": { "hi": "यह कितने की है?", "hinglish": "Yeh kitne ki hai?" }, "patterns": ["how much is it", "how much", "how much is this", "what is the price"], "next": "price" } ] },
+        { "id": "notebook", "tinku": "Here is your notebook.",
+          "meaning": { "hi": "यह लो तुम्हारी कॉपी।", "hinglish": "Yeh lo tumhari copy." },
+          "replies": [ { "say": "How much is it?", "meaning": { "hi": "यह कितने की है?", "hinglish": "Yeh kitne ki hai?" }, "patterns": ["how much is it", "how much", "how much is this", "what is the price"], "next": "price" } ] },
+        { "id": "eraser", "tinku": "Here is your eraser.",
+          "meaning": { "hi": "यह लो तुम्हारी रबड़।", "hinglish": "Yeh lo tumhari rubber." },
+          "replies": [ { "say": "How much is it?", "meaning": { "hi": "यह कितने की है?", "hinglish": "Yeh kitne ki hai?" }, "patterns": ["how much is it", "how much", "how much is this", "what is the price"], "next": "price" } ] },
+        { "id": "price", "tinku": "It is ten rupees.",
+          "meaning": { "hi": "यह दस रुपये की है।", "hinglish": "Yeh das rupaye ki hai." },
+          "replies": [ { "say": "Here is the money.", "meaning": { "hi": "ये रहे पैसे।", "hinglish": "Yeh rahe paise." }, "patterns": ["here is the money", "here is money", "here is your money", "here you go", "take this"] } ] },
+        { "id": "more", "tinku": "Thank you! Do you want anything else?",
+          "meaning": { "hi": "शुक्रिया! तुम्हें और कुछ चाहिए?", "hinglish": "Shukriya! Tumhe aur kuch chahiye?" },
+          "replies": [
+            { "say": "No, thank you.", "meaning": { "hi": "नहीं, शुक्रिया।", "hinglish": "Nahi, shukriya." }, "patterns": ["no thank you", "no thanks", "no"], "next": "bye" },
+            { "say": "Yes, I want a pen.", "meaning": { "hi": "हाँ, मुझे एक पेन चाहिए।", "hinglish": "Haan, mujhe ek pen chahiye." }, "patterns": ["yes i want a pen", "i want a pen", "yes i want *", "i want *"], "next": "pen" }
+          ] },
+        { "id": "pen", "tinku": "Here you are. It is free today!",
+          "meaning": { "hi": "यह लो। आज यह मुफ़्त है!", "hinglish": "Yeh lo. Aaj yeh muft hai!" },
+          "replies": [ { "say": "Thank you very much!", "meaning": { "hi": "बहुत-बहुत शुक्रिया!", "hinglish": "Bahut-bahut shukriya!" }, "patterns": ["thank you very much", "thank you so much", "thank you", "thanks"] } ] },
+        { "id": "bye", "tinku": "Have a nice day!",
+          "meaning": { "hi": "तुम्हारा दिन अच्छा हो!", "hinglish": "Tumhara din achha ho!" },
+          "replies": [ { "say": "Thank you. Bye!", "meaning": { "hi": "शुक्रिया। बाय!", "hinglish": "Shukriya. Bye!" }, "patterns": ["thank you bye", "bye", "thank you", "goodbye", "good bye", "you too"], "next": "end" } ] }
+      ]
+    },
+    {
+      "type": "learn_card", "id": "L4.U02.S05",
+      "text": {
+        "hi": "वाह! अब दुकान पर इंग्लिश में सामान ले सकते हो।",
+        "hinglish": "Waah! Ab dukaan par English mein saamaan le sakte ho.",
+        "en": "Wow! Now you can buy things in English at a shop."
+      }
+    }
+  ]
+}

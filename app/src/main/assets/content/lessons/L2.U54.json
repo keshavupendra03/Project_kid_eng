@@ -1,0 +1,473 @@
+{
+  "id": "L2.U54",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U54.S01",
+      "text": {
+        "hi": "शहर की और जगहें।",
+        "hinglish": "Shehar ki aur jagahein.",
+        "en": "More places in town."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U54.S02",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘road’ मतलब ‘सड़क’।",
+        "hinglish": "‘road’ matlab ‘sadak’.",
+        "en": "Say it with me: road!"
+      },
+      "word": {
+        "english": "road",
+        "emoji": "🛣️",
+        "hindi": "सड़क",
+        "hinglish": "sadak"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U54.S03",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘bridge’ मतलब ‘पुल’।",
+        "hinglish": "‘bridge’ matlab ‘pul’.",
+        "en": "Say it with me: bridge!"
+      },
+      "word": {
+        "english": "bridge",
+        "emoji": "🌉",
+        "hindi": "पुल",
+        "hinglish": "pul"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U54.S04",
+      "skills": [
+        "listen.word",
+        "vocab.places"
+      ],
+      "answer": "road",
+      "options": [
+        {
+          "english": "road",
+          "emoji": "🛣️",
+          "hindi": "सड़क",
+          "hinglish": "sadak"
+        },
+        {
+          "english": "bus stop",
+          "emoji": "🚏",
+          "hindi": "बस स्टॉप",
+          "hinglish": "bus stop"
+        },
+        {
+          "english": "bridge",
+          "emoji": "🌉",
+          "hindi": "पुल",
+          "hinglish": "pul"
+        },
+        {
+          "english": "cinema",
+          "emoji": "🎬",
+          "hindi": "सिनेमा",
+          "hinglish": "cinema"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U54.S05",
+      "skills": [
+        "read.word",
+        "vocab.places"
+      ],
+      "emoji": "🌉",
+      "answer": "bridge",
+      "options": [
+        "bridge",
+        "library",
+        "bus stop"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U54.S06",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘library’ मतलब ‘लाइब्रेरी’।",
+        "hinglish": "‘library’ matlab ‘library’.",
+        "en": "Say it with me: library!"
+      },
+      "word": {
+        "english": "library",
+        "emoji": "📚",
+        "hindi": "लाइब्रेरी",
+        "hinglish": "library"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U54.S07",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘zoo’ मतलब ‘चिड़ियाघर’।",
+        "hinglish": "‘zoo’ matlab ‘chidiyaghar’.",
+        "en": "Say it with me: zoo!"
+      },
+      "word": {
+        "english": "zoo",
+        "hindi": "चिड़ियाघर",
+        "hinglish": "chidiyaghar"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U54.S08",
+      "skills": [
+        "listen.word",
+        "vocab.places"
+      ],
+      "answer": "library",
+      "options": [
+        {
+          "english": "library",
+          "emoji": "📚",
+          "hindi": "लाइब्रेरी",
+          "hinglish": "library"
+        },
+        {
+          "english": "road",
+          "emoji": "🛣️",
+          "hindi": "सड़क",
+          "hinglish": "sadak"
+        },
+        {
+          "english": "hotel",
+          "emoji": "🏨",
+          "hindi": "होटल",
+          "hinglish": "hotel"
+        },
+        {
+          "english": "cinema",
+          "emoji": "🎬",
+          "hindi": "सिनेमा",
+          "hinglish": "cinema"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U54.S09",
+      "skills": [
+        "read.word",
+        "vocab.places"
+      ],
+      "answer": "zoo",
+      "options": [
+        "zoo",
+        "bridge",
+        "playground"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U54.S10",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘cinema’ मतलब ‘सिनेमा’।",
+        "hinglish": "‘cinema’ matlab ‘cinema’.",
+        "en": "Say it with me: cinema!"
+      },
+      "word": {
+        "english": "cinema",
+        "emoji": "🎬",
+        "hindi": "सिनेमा",
+        "hinglish": "cinema"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U54.S11",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘hotel’ मतलब ‘होटल’।",
+        "hinglish": "‘hotel’ matlab ‘hotel’.",
+        "en": "Say it with me: hotel!"
+      },
+      "word": {
+        "english": "hotel",
+        "emoji": "🏨",
+        "hindi": "होटल",
+        "hinglish": "hotel"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U54.S12",
+      "skills": [
+        "listen.word",
+        "vocab.places"
+      ],
+      "answer": "cinema",
+      "options": [
+        {
+          "english": "cinema",
+          "emoji": "🎬",
+          "hindi": "सिनेमा",
+          "hinglish": "cinema"
+        },
+        {
+          "english": "hotel",
+          "emoji": "🏨",
+          "hindi": "होटल",
+          "hinglish": "hotel"
+        },
+        {
+          "english": "road",
+          "emoji": "🛣️",
+          "hindi": "सड़क",
+          "hinglish": "sadak"
+        },
+        {
+          "english": "bus stop",
+          "emoji": "🚏",
+          "hindi": "बस स्टॉप",
+          "hinglish": "bus stop"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U54.S13",
+      "skills": [
+        "read.word",
+        "vocab.places"
+      ],
+      "emoji": "🏨",
+      "answer": "hotel",
+      "options": [
+        "hotel",
+        "zoo",
+        "cinema"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U54.S14",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘bus stop’ मतलब ‘बस स्टॉप’।",
+        "hinglish": "‘bus stop’ matlab ‘bus stop’.",
+        "en": "Say it with me: bus stop!"
+      },
+      "word": {
+        "english": "bus stop",
+        "emoji": "🚏",
+        "hindi": "बस स्टॉप",
+        "hinglish": "bus stop"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U54.S15",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "‘playground’ मतलब ‘खेल का मैदान’।",
+        "hinglish": "‘playground’ matlab ‘khel ka maidaan’.",
+        "en": "Say it with me: playground!"
+      },
+      "word": {
+        "english": "playground",
+        "hindi": "खेल का मैदान",
+        "hinglish": "khel ka maidaan"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U54.S16",
+      "skills": [
+        "listen.word",
+        "vocab.places"
+      ],
+      "answer": "bus stop",
+      "options": [
+        {
+          "english": "bus stop",
+          "emoji": "🚏",
+          "hindi": "बस स्टॉप",
+          "hinglish": "bus stop"
+        },
+        {
+          "english": "cinema",
+          "emoji": "🎬",
+          "hindi": "सिनेमा",
+          "hinglish": "cinema"
+        },
+        {
+          "english": "road",
+          "emoji": "🛣️",
+          "hindi": "सड़क",
+          "hinglish": "sadak"
+        },
+        {
+          "english": "library",
+          "emoji": "📚",
+          "hindi": "लाइब्रेरी",
+          "hinglish": "library"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U54.S17",
+      "skills": [
+        "read.word",
+        "vocab.places"
+      ],
+      "answer": "playground",
+      "options": [
+        "playground",
+        "zoo",
+        "library"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U54.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.places"
+      ],
+      "word": {
+        "english": "bus stop",
+        "emoji": "🚏",
+        "hindi": "बस स्टॉप",
+        "hinglish": "bus stop"
+      },
+      "answer": {
+        "hi": "बस स्टॉप",
+        "hinglish": "bus stop"
+      },
+      "options": [
+        {
+          "hi": "बस स्टॉप",
+          "hinglish": "bus stop"
+        },
+        {
+          "hi": "होटल",
+          "hinglish": "hotel"
+        },
+        {
+          "hi": "लाइब्रेरी",
+          "hinglish": "library"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U54.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.places"
+      ],
+      "word": {
+        "english": "cinema",
+        "emoji": "🎬",
+        "hindi": "सिनेमा",
+        "hinglish": "cinema"
+      },
+      "answer": {
+        "hi": "सिनेमा",
+        "hinglish": "cinema"
+      },
+      "options": [
+        {
+          "hi": "सिनेमा",
+          "hinglish": "cinema"
+        },
+        {
+          "hi": "बस स्टॉप",
+          "hinglish": "bus stop"
+        },
+        {
+          "hi": "चिड़ियाघर",
+          "hinglish": "chidiyaghar"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U54.S20",
+      "skills": [
+        "speak.word",
+        "vocab.places"
+      ],
+      "word": {
+        "english": "road",
+        "emoji": "🛣️",
+        "hindi": "सड़क",
+        "hinglish": "sadak"
+      },
+      "accept": [
+        "rode"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U54.S21",
+      "skills": [
+        "speak.word",
+        "vocab.places"
+      ],
+      "word": {
+        "english": "hotel",
+        "emoji": "🏨",
+        "hindi": "होटल",
+        "hinglish": "hotel"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U54.S22",
+      "skills": [
+        "read.word",
+        "vocab.places"
+      ],
+      "answer": "road",
+      "options": [
+        "road",
+        "bridge",
+        "bus stop"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U54.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: road, bridge, library, zoo, cinema, hotel, bus stop, playground।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: road, bridge, library, zoo, cinema, hotel, bus stop, playground.",
+        "en": "Well done! Today's new words: road, bridge, library, zoo, cinema, hotel, bus stop, playground."
+      }
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "id": "L2.U52",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U52.S01",
+      "text": {
+        "hi": "सीखने और बात करने के शब्द।",
+        "hinglish": "Seekhne aur baat karne ke shabd.",
+        "en": "Words for learning and talking."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U52.S02",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘help’ मतलब ‘मदद करना’।",
+        "hinglish": "‘help’ matlab ‘madad karna’.",
+        "en": "Say it with me: help!"
+      },
+      "word": {
+        "english": "help",
+        "hindi": "मदद करना",
+        "hinglish": "madad karna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U52.S03",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘learn’ मतलब ‘सीखना’।",
+        "hinglish": "‘learn’ matlab ‘seekhna’.",
+        "en": "Say it with me: learn!"
+      },
+      "word": {
+        "english": "learn",
+        "hindi": "सीखना",
+        "hinglish": "seekhna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U52.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "help",
+        "hindi": "मदद करना",
+        "hinglish": "madad karna"
+      },
+      "answer": {
+        "hi": "मदद करना",
+        "hinglish": "madad karna"
+      },
+      "options": [
+        {
+          "hi": "मदद करना",
+          "hinglish": "madad karna"
+        },
+        {
+          "hi": "समझना",
+          "hinglish": "samajhna"
+        },
+        {
+          "hi": "पूछना",
+          "hinglish": "poochhna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U52.S05",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "learn",
+      "options": [
+        "learn",
+        "teach",
+        "tell"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U52.S06",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘teach’ मतलब ‘सिखाना’।",
+        "hinglish": "‘teach’ matlab ‘sikhaana’.",
+        "en": "Say it with me: teach!"
+      },
+      "word": {
+        "english": "teach",
+        "hindi": "सिखाना",
+        "hinglish": "sikhaana"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U52.S07",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘know’ मतलब ‘जानना’।",
+        "hinglish": "‘know’ matlab ‘jaanna’.",
+        "en": "Say it with me: know!"
+      },
+      "word": {
+        "english": "know",
+        "hindi": "जानना",
+        "hinglish": "jaanna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U52.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "teach",
+        "hindi": "सिखाना",
+        "hinglish": "sikhaana"
+      },
+      "answer": {
+        "hi": "सिखाना",
+        "hinglish": "sikhaana"
+      },
+      "options": [
+        {
+          "hi": "सिखाना",
+          "hinglish": "sikhaana"
+        },
+        {
+          "hi": "बताना",
+          "hinglish": "bataana"
+        },
+        {
+          "hi": "जानना",
+          "hinglish": "jaanna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U52.S09",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "know",
+      "options": [
+        "know",
+        "tell",
+        "learn"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U52.S10",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘understand’ मतलब ‘समझना’।",
+        "hinglish": "‘understand’ matlab ‘samajhna’.",
+        "en": "Say it with me: understand!"
+      },
+      "word": {
+        "english": "understand",
+        "hindi": "समझना",
+        "hinglish": "samajhna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U52.S11",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘speak’ मतलब ‘बोलना’।",
+        "hinglish": "‘speak’ matlab ‘bolna’.",
+        "en": "Say it with me: speak!"
+      },
+      "word": {
+        "english": "speak",
+        "emoji": "🗣️",
+        "hindi": "बोलना",
+        "hinglish": "bolna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U52.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "understand",
+        "hindi": "समझना",
+        "hinglish": "samajhna"
+      },
+      "answer": {
+        "hi": "समझना",
+        "hinglish": "samajhna"
+      },
+      "options": [
+        {
+          "hi": "समझना",
+          "hinglish": "samajhna"
+        },
+        {
+          "hi": "सीखना",
+          "hinglish": "seekhna"
+        },
+        {
+          "hi": "जानना",
+          "hinglish": "jaanna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U52.S13",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "speak",
+      "options": [
+        "speak",
+        "tell",
+        "understand"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U52.S14",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘ask’ मतलब ‘पूछना’।",
+        "hinglish": "‘ask’ matlab ‘poochhna’.",
+        "en": "Say it with me: ask!"
+      },
+      "word": {
+        "english": "ask",
+        "hindi": "पूछना",
+        "hinglish": "poochhna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U52.S15",
+      "skills": [
+        "vocab.actions"
+      ],
+      "text": {
+        "hi": "‘tell’ मतलब ‘बताना’।",
+        "hinglish": "‘tell’ matlab ‘bataana’.",
+        "en": "Say it with me: tell!"
+      },
+      "word": {
+        "english": "tell",
+        "hindi": "बताना",
+        "hinglish": "bataana"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U52.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "ask",
+        "hindi": "पूछना",
+        "hinglish": "poochhna"
+      },
+      "answer": {
+        "hi": "पूछना",
+        "hinglish": "poochhna"
+      },
+      "options": [
+        {
+          "hi": "पूछना",
+          "hinglish": "poochhna"
+        },
+        {
+          "hi": "बताना",
+          "hinglish": "bataana"
+        },
+        {
+          "hi": "सिखाना",
+          "hinglish": "sikhaana"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U52.S17",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "tell",
+      "options": [
+        "tell",
+        "speak",
+        "know"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U52.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "teach",
+        "hindi": "सिखाना",
+        "hinglish": "sikhaana"
+      },
+      "answer": {
+        "hi": "सिखाना",
+        "hinglish": "sikhaana"
+      },
+      "options": [
+        {
+          "hi": "सिखाना",
+          "hinglish": "sikhaana"
+        },
+        {
+          "hi": "सीखना",
+          "hinglish": "seekhna"
+        },
+        {
+          "hi": "बताना",
+          "hinglish": "bataana"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U52.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "understand",
+        "hindi": "समझना",
+        "hinglish": "samajhna"
+      },
+      "answer": {
+        "hi": "समझना",
+        "hinglish": "samajhna"
+      },
+      "options": [
+        {
+          "hi": "समझना",
+          "hinglish": "samajhna"
+        },
+        {
+          "hi": "सिखाना",
+          "hinglish": "sikhaana"
+        },
+        {
+          "hi": "बताना",
+          "hinglish": "bataana"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U52.S20",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "speak",
+        "emoji": "🗣️",
+        "hindi": "बोलना",
+        "hinglish": "bolna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U52.S21",
+      "skills": [
+        "speak.word",
+        "vocab.actions"
+      ],
+      "word": {
+        "english": "ask",
+        "hindi": "पूछना",
+        "hinglish": "poochhna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U52.S22",
+      "skills": [
+        "read.word",
+        "vocab.actions"
+      ],
+      "answer": "speak",
+      "options": [
+        "speak",
+        "learn",
+        "tell"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U52.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: help, learn, teach, know, understand, speak, ask, tell।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: help, learn, teach, know, understand, speak, ask, tell.",
+        "en": "Well done! Today's new words: help, learn, teach, know, understand, speak, ask, tell."
+      }
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "id": "W34.P05",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P05.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: मौसम। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Mausam. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Weather and seasons. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P05.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "weather",
+        "emoji": "🌤️",
+        "hindi": "मौसम",
+        "hinglish": "mausam"
+      },
+      "meaning": "how hot, cold, wet or windy it is outside",
+      "example": "The weather is cool today.",
+      "exampleMeaning": {
+        "hi": "आज मौसम ठंडा है।",
+        "hinglish": "Aaj mausam thanda hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P05.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "season",
+        "emoji": "🍂",
+        "hindi": "ऋतु",
+        "hinglish": "ritu"
+      },
+      "meaning": "a part of the year like summer or winter",
+      "example": "Winter is my favourite season.",
+      "exampleMeaning": {
+        "hi": "सर्दी मेरी सबसे पसंदीदा ऋतु है।",
+        "hinglish": "Sardi meri sabse pasandeeda ritu hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P05.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "thunder",
+        "emoji": "⛈️",
+        "hindi": "बादल की गरज",
+        "hinglish": "baadal ki garaj"
+      },
+      "meaning": "the loud sound in the sky during a storm",
+      "example": "The dog hid under the bed when it heard thunder.",
+      "exampleMeaning": {
+        "hi": "बादल की गरज सुनकर कुत्ता पलंग के नीचे छिप गया।",
+        "hinglish": "Baadal ki garaj sunkar kutta palang ke neeche chhip gaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P05.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lightning",
+        "emoji": "⚡",
+        "hindi": "बिजली चमकना",
+        "hinglish": "bijli chamakna"
+      },
+      "meaning": "a bright flash of light in the sky in a storm",
+      "example": "Lightning lit up the dark sky.",
+      "exampleMeaning": {
+        "hi": "बिजली की चमक से अंधेरा आसमान रोशन हो गया।",
+        "hinglish": "Bijli ki chamak se andhera aasmaan roshan ho gaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P05.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "storm",
+        "emoji": "🌪️",
+        "hindi": "तूफ़ान",
+        "hinglish": "toofaan"
+      },
+      "meaning": "very strong wind and rain",
+      "example": "The storm broke a branch of the tree.",
+      "exampleMeaning": {
+        "hi": "तूफ़ान से पेड़ की एक डाल टूट गई।",
+        "hinglish": "Toofaan se ped ki ek daal toot gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P05.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "fog",
+        "emoji": "🌫️",
+        "hindi": "कोहरा",
+        "hinglish": "kohra"
+      },
+      "meaning": "thick cloud near the ground that is hard to see through",
+      "example": "The train was late because of fog.",
+      "exampleMeaning": {
+        "hi": "कोहरे की वजह से ट्रेन लेट थी।",
+        "hinglish": "Kohre ki wajah se train late thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P05.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "shiver",
+        "emoji": "🥶",
+        "hindi": "काँपना",
+        "hinglish": "kaanpna"
+      },
+      "meaning": "to shake because you are cold or afraid",
+      "example": "I shiver on cold winter mornings.",
+      "exampleMeaning": {
+        "hi": "सर्दियों की ठंडी सुबह में मैं काँपने लगता/लगती हूँ।",
+        "hinglish": "Sardiyon ki thandi subah mein main kaanpne lagta/lagti hoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P05.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sweat",
+        "emoji": "🥵",
+        "hindi": "पसीना",
+        "hinglish": "paseena"
+      },
+      "meaning": "water that comes out of your skin when you are hot",
+      "example": "After the race, my shirt was wet with sweat.",
+      "exampleMeaning": {
+        "hi": "दौड़ के बाद मेरी कमीज़ पसीने से भीग गई।",
+        "hinglish": "Daud ke baad meri kameez paseene se bheeg gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P05.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "umbrella",
+        "emoji": "☂️",
+        "hindi": "छाता",
+        "hinglish": "chhaata"
+      },
+      "meaning": "a thing you hold over your head in the rain",
+      "example": "Take your umbrella, it may rain.",
+      "exampleMeaning": {
+        "hi": "अपना छाता ले लो, बारिश हो सकती है।",
+        "hinglish": "Apna chhaata le lo, baarish ho sakti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P05.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "breeze",
+        "emoji": "🍃",
+        "hindi": "हल्की हवा",
+        "hinglish": "halki hawa"
+      },
+      "meaning": "a soft, gentle wind",
+      "example": "A cool breeze came from the sea.",
+      "exampleMeaning": {
+        "hi": "समुद्र से ठंडी हल्की हवा आई।",
+        "hinglish": "Samudra se thandi halki hawa aayi."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P05.S12",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "thunder",
+        "emoji": "⛈️",
+        "hindi": "बादल की गरज",
+        "hinglish": "baadal ki garaj"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P05.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "storm",
+        "emoji": "🌪️",
+        "hindi": "तूफ़ान",
+        "hinglish": "toofaan"
+      },
+      "answer": {
+        "hi": "तूफ़ान",
+        "hinglish": "toofaan"
+      },
+      "options": [
+        {
+          "hi": "तूफ़ान",
+          "hinglish": "toofaan"
+        },
+        {
+          "hi": "बादल की गरज",
+          "hinglish": "baadal ki garaj"
+        },
+        {
+          "hi": "पसीना",
+          "hinglish": "paseena"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P05.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "umbrella",
+      "options": [
+        "umbrella",
+        "season",
+        "thunder"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P05.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "season",
+        "emoji": "🍂",
+        "hindi": "ऋतु",
+        "hinglish": "ritu"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P05.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ lit up the dark sky.",
+      "answer": "lightning",
+      "options": [
+        "lightning",
+        "storm",
+        "weather"
+      ],
+      "meaning": {
+        "hi": "बिजली चमकना",
+        "hinglish": "bijli chamakna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P05.S17",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "weather",
+        "emoji": "🌤️",
+        "hindi": "मौसम",
+        "hinglish": "mausam"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P05.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "lightning",
+        "emoji": "⚡",
+        "hindi": "बिजली चमकना",
+        "hinglish": "bijli chamakna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P05.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "thunder",
+        "emoji": "⛈️",
+        "hindi": "बादल की गरज",
+        "hinglish": "baadal ki garaj"
+      },
+      "answer": {
+        "hi": "बादल की गरज",
+        "hinglish": "baadal ki garaj"
+      },
+      "options": [
+        {
+          "hi": "बादल की गरज",
+          "hinglish": "baadal ki garaj"
+        },
+        {
+          "hi": "पसीना",
+          "hinglish": "paseena"
+        },
+        {
+          "hi": "छाता",
+          "hinglish": "chhaata"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P05.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "weather",
+        "emoji": "🌤️",
+        "hindi": "मौसम",
+        "hinglish": "mausam"
+      },
+      "answer": {
+        "hi": "मौसम",
+        "hinglish": "mausam"
+      },
+      "options": [
+        {
+          "hi": "मौसम",
+          "hinglish": "mausam"
+        },
+        {
+          "hi": "हल्की हवा",
+          "hinglish": "halki hawa"
+        },
+        {
+          "hi": "काँपना",
+          "hinglish": "kaanpna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P05.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The train was late because of ___.",
+      "answer": "fog",
+      "options": [
+        "fog",
+        "umbrella",
+        "weather"
+      ],
+      "meaning": {
+        "hi": "कोहरा",
+        "hinglish": "kohra"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P05.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "After the race, my shirt was wet with ___.",
+      "answer": "sweat",
+      "options": [
+        "sweat",
+        "season",
+        "shiver"
+      ],
+      "meaning": {
+        "hi": "पसीना",
+        "hinglish": "paseena"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P05.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Winter is my favourite ___.",
+      "answer": "season",
+      "options": [
+        "season",
+        "fog",
+        "weather"
+      ],
+      "meaning": {
+        "hi": "ऋतु",
+        "hinglish": "ritu"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P05.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "shiver",
+        "emoji": "🥶",
+        "hindi": "काँपना",
+        "hinglish": "kaanpna"
+      },
+      "answer": {
+        "hi": "काँपना",
+        "hinglish": "kaanpna"
+      },
+      "options": [
+        {
+          "hi": "काँपना",
+          "hinglish": "kaanpna"
+        },
+        {
+          "hi": "छाता",
+          "hinglish": "chhaata"
+        },
+        {
+          "hi": "ऋतु",
+          "hinglish": "ritu"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P05.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "breeze",
+      "options": [
+        "breeze",
+        "fog",
+        "shiver"
+      ]
+    }
+  ]
+}

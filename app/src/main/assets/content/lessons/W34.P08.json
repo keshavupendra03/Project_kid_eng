@@ -1,0 +1,480 @@
+{
+  "id": "W34.P08",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P08.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: जंगल और प्रकृति। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Jangal aur prakriti. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Nature. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P08.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "forest",
+        "emoji": "🌲",
+        "hindi": "जंगल",
+        "hinglish": "jangal"
+      },
+      "meaning": "a large area full of trees",
+      "example": "Tigers live in the forest.",
+      "exampleMeaning": {
+        "hi": "बाघ जंगल में रहते हैं।",
+        "hinglish": "Baagh jangal mein rehte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P08.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "nest",
+        "emoji": "🪺",
+        "hindi": "घोंसला",
+        "hinglish": "ghonsla"
+      },
+      "meaning": "a home that birds make for their eggs",
+      "example": "The bird made a nest in the tree.",
+      "exampleMeaning": {
+        "hi": "चिड़िया ने पेड़ पर घोंसला बनाया।",
+        "hinglish": "Chidiya ne ped par ghonsla banaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P08.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hive",
+        "emoji": "🐝",
+        "hindi": "छत्ता",
+        "hinglish": "chhatta"
+      },
+      "meaning": "a home where bees live",
+      "example": "Bees make honey in their hive.",
+      "exampleMeaning": {
+        "hi": "मधुमक्खियाँ अपने छत्ते में शहद बनाती हैं।",
+        "hinglish": "Madhumakkhiyaan apne chhatte mein shahad banaati hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P08.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "feather",
+        "emoji": "🪶",
+        "hindi": "पंख",
+        "hinglish": "pankh"
+      },
+      "meaning": "one of the soft parts that cover a bird",
+      "example": "I found a blue feather in the garden.",
+      "exampleMeaning": {
+        "hi": "मुझे बगीचे में एक नीला पंख मिला।",
+        "hinglish": "Mujhe bageeche mein ek neela pankh mila."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P08.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "claw",
+        "emoji": "🐾",
+        "hindi": "पंजा",
+        "hinglish": "panja"
+      },
+      "meaning": "a sharp nail on an animal's foot",
+      "example": "The cat scratched the box with its claw.",
+      "exampleMeaning": {
+        "hi": "बिल्ली ने अपने पंजे से डिब्बा खरोंचा।",
+        "hinglish": "Billi ne apne panje se dibba kharoncha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P08.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "herd",
+        "emoji": "🐄",
+        "hindi": "झुंड",
+        "hinglish": "jhund"
+      },
+      "meaning": "a big group of animals like cows",
+      "example": "A herd of cows crossed the road.",
+      "exampleMeaning": {
+        "hi": "गायों के एक झुंड ने सड़क पार की।",
+        "hinglish": "Gaayon ke ek jhund ne sadak paar ki."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P08.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "seed",
+        "emoji": "🌱",
+        "hindi": "बीज",
+        "hinglish": "beej"
+      },
+      "meaning": "a small thing from which a new plant grows",
+      "example": "Plant the seed in soft soil.",
+      "exampleMeaning": {
+        "hi": "बीज को नरम मिट्टी में बो दो।",
+        "hinglish": "Beej ko naram mitti mein bo do."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P08.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "root",
+        "emoji": "🌳",
+        "hindi": "जड़",
+        "hinglish": "jad"
+      },
+      "meaning": "the part of a plant under the ground",
+      "example": "The root takes water from the soil.",
+      "exampleMeaning": {
+        "hi": "जड़ मिट्टी से पानी लेती है।",
+        "hinglish": "Jad mitti se paani leti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P08.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "insect",
+        "emoji": "🐞",
+        "hindi": "कीड़ा",
+        "hinglish": "keeda"
+      },
+      "meaning": "a small animal with six legs",
+      "example": "A ladybird is an insect.",
+      "exampleMeaning": {
+        "hi": "लेडीबर्ड एक कीड़ा है।",
+        "hinglish": "Ladybird ek keeda hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P08.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "desert",
+        "emoji": "🏜️",
+        "hindi": "रेगिस्तान",
+        "hinglish": "registaan"
+      },
+      "meaning": "a hot, dry place with a lot of sand",
+      "example": "Camels can live in the desert.",
+      "exampleMeaning": {
+        "hi": "ऊँट रेगिस्तान में रह सकते हैं।",
+        "hinglish": "Oont registaan mein reh sakte hain."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P08.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hive",
+        "emoji": "🐝",
+        "hindi": "छत्ता",
+        "hinglish": "chhatta"
+      },
+      "answer": {
+        "hi": "छत्ता",
+        "hinglish": "chhatta"
+      },
+      "options": [
+        {
+          "hi": "छत्ता",
+          "hinglish": "chhatta"
+        },
+        {
+          "hi": "कीड़ा",
+          "hinglish": "keeda"
+        },
+        {
+          "hi": "पंजा",
+          "hinglish": "panja"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P08.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The bird made a ___ in the tree.",
+      "answer": "nest",
+      "options": [
+        "nest",
+        "feather",
+        "desert"
+      ],
+      "meaning": {
+        "hi": "घोंसला",
+        "hinglish": "ghonsla"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P08.S14",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "nest",
+        "emoji": "🪺",
+        "hindi": "घोंसला",
+        "hinglish": "ghonsla"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P08.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "seed",
+        "emoji": "🌱",
+        "hindi": "बीज",
+        "hinglish": "beej"
+      },
+      "answer": {
+        "hi": "बीज",
+        "hinglish": "beej"
+      },
+      "options": [
+        {
+          "hi": "बीज",
+          "hinglish": "beej"
+        },
+        {
+          "hi": "रेगिस्तान",
+          "hinglish": "registaan"
+        },
+        {
+          "hi": "पंख",
+          "hinglish": "pankh"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P08.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "claw",
+        "emoji": "🐾",
+        "hindi": "पंजा",
+        "hinglish": "panja"
+      },
+      "answer": {
+        "hi": "पंजा",
+        "hinglish": "panja"
+      },
+      "options": [
+        {
+          "hi": "पंजा",
+          "hinglish": "panja"
+        },
+        {
+          "hi": "कीड़ा",
+          "hinglish": "keeda"
+        },
+        {
+          "hi": "घोंसला",
+          "hinglish": "ghonsla"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P08.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ takes water from the soil.",
+      "answer": "root",
+      "options": [
+        "root",
+        "forest",
+        "feather"
+      ],
+      "meaning": {
+        "hi": "जड़",
+        "hinglish": "jad"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P08.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "hive",
+        "emoji": "🐝",
+        "hindi": "छत्ता",
+        "hinglish": "chhatta"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P08.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "A ___ of cows crossed the road.",
+      "answer": "herd",
+      "options": [
+        "herd",
+        "forest",
+        "seed"
+      ],
+      "meaning": {
+        "hi": "झुंड",
+        "hinglish": "jhund"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P08.S20",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "feather",
+        "emoji": "🪶",
+        "hindi": "पंख",
+        "hinglish": "pankh"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P08.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I found a blue ___ in the garden.",
+      "answer": "feather",
+      "options": [
+        "feather",
+        "nest",
+        "desert"
+      ],
+      "meaning": {
+        "hi": "पंख",
+        "hinglish": "pankh"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P08.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "desert",
+      "options": [
+        "desert",
+        "hive",
+        "nest"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P08.S23",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "forest",
+        "emoji": "🌲",
+        "hindi": "जंगल",
+        "hinglish": "jangal"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P08.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "forest",
+        "emoji": "🌲",
+        "hindi": "जंगल",
+        "hinglish": "jangal"
+      },
+      "answer": {
+        "hi": "जंगल",
+        "hinglish": "jangal"
+      },
+      "options": [
+        {
+          "hi": "जंगल",
+          "hinglish": "jangal"
+        },
+        {
+          "hi": "घोंसला",
+          "hinglish": "ghonsla"
+        },
+        {
+          "hi": "छत्ता",
+          "hinglish": "chhatta"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P08.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "insect",
+      "options": [
+        "insect",
+        "hive",
+        "feather"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "W56.P01T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "match_meaning",
+      "id": "W56.P01T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lazy",
+        "emoji": "🦥",
+        "hindi": "आलसी",
+        "hinglish": "aalsi"
+      },
+      "answer": {
+        "hi": "आलसी",
+        "hinglish": "aalsi"
+      },
+      "options": [
+        {
+          "hi": "आलसी",
+          "hinglish": "aalsi"
+        },
+        {
+          "hi": "वफ़ादार",
+          "hinglish": "wafaadaar"
+        },
+        {
+          "hi": "स्वार्थी",
+          "hinglish": "swaarthi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P01T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ girl practised every day.",
+      "answer": "determined",
+      "options": [
+        "determined",
+        "confident",
+        "generous"
+      ],
+      "meaning": {
+        "hi": "दृढ़ निश्चयी",
+        "hinglish": "dridh nishchayi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P01T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "generous",
+      "options": [
+        "generous",
+        "humble",
+        "clever"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P01T.S04",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "curious",
+        "emoji": "🧐",
+        "hindi": "जिज्ञासु",
+        "hinglish": "jigyaasu"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P01T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "humble",
+        "emoji": "🙇",
+        "hindi": "नम्र",
+        "hinglish": "namra"
+      },
+      "answer": {
+        "hi": "नम्र",
+        "hinglish": "namra"
+      },
+      "options": [
+        {
+          "hi": "नम्र",
+          "hinglish": "namra"
+        },
+        {
+          "hi": "वफ़ादार",
+          "hinglish": "wafaadaar"
+        },
+        {
+          "hi": "स्वार्थी",
+          "hinglish": "swaarthi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P01T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "A ___ student finishes homework on time.",
+      "answer": "responsible",
+      "options": [
+        "responsible",
+        "determined",
+        "loyal"
+      ],
+      "meaning": {
+        "hi": "ज़िम्मेदार",
+        "hinglish": "zimmedaar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P01T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "loyal",
+      "options": [
+        "loyal",
+        "clever",
+        "curious"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P01T.S08",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "clever",
+        "emoji": "🧠",
+        "hindi": "चतुर",
+        "hinglish": "chatur"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P01T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "selfish",
+        "emoji": "😤",
+        "hindi": "स्वार्थी",
+        "hinglish": "swaarthi"
+      },
+      "answer": {
+        "hi": "स्वार्थी",
+        "hinglish": "swaarthi"
+      },
+      "options": [
+        {
+          "hi": "स्वार्थी",
+          "hinglish": "swaarthi"
+        },
+        {
+          "hi": "जिज्ञासु",
+          "hinglish": "jigyaasu"
+        },
+        {
+          "hi": "आलसी",
+          "hinglish": "aalsi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P01T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "She felt ___ before the speech.",
+      "answer": "confident",
+      "options": [
+        "confident",
+        "clever",
+        "selfish"
+      ],
+      "meaning": {
+        "hi": "आत्मविश्वासी",
+        "hinglish": "aatmavishvaasi"
+      }
+    }
+  ]
+}

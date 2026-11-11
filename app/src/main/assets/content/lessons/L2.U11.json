@@ -63,12 +63,6 @@
           "hinglish": "aaloo"
         },
         {
-          "english": "cucumber",
-          "emoji": "🥒",
-          "hindi": "खीरा",
-          "hinglish": "kheera"
-        },
-        {
           "english": "carrot",
           "emoji": "🥕",
           "hindi": "गाजर",
@@ -79,6 +73,12 @@
           "emoji": "🧄",
           "hindi": "लहसुन",
           "hinglish": "lehsun"
+        },
+        {
+          "english": "tomato",
+          "emoji": "🍅",
+          "hindi": "टमाटर",
+          "hinglish": "tamaatar"
         }
       ]
     },
@@ -93,8 +93,8 @@
       "answer": "tomato",
       "options": [
         "tomato",
-        "potato",
-        "cucumber"
+        "cucumber",
+        "carrot"
       ]
     },
     {
@@ -149,22 +149,22 @@
           "hinglish": "pyaaz"
         },
         {
-          "english": "carrot",
-          "emoji": "🥕",
-          "hindi": "गाजर",
-          "hinglish": "gaajar"
-        },
-        {
           "english": "corn",
           "emoji": "🌽",
           "hindi": "भुट्टा",
           "hinglish": "bhutta"
         },
         {
-          "english": "chilli",
-          "emoji": "🌶️",
-          "hindi": "मिर्च",
-          "hinglish": "mirch"
+          "english": "cucumber",
+          "emoji": "🥒",
+          "hindi": "खीरा",
+          "hinglish": "kheera"
+        },
+        {
+          "english": "garlic",
+          "emoji": "🧄",
+          "hindi": "लहसुन",
+          "hinglish": "lehsun"
         }
       ]
     },
@@ -179,7 +179,7 @@
       "answer": "corn",
       "options": [
         "corn",
-        "onion",
+        "garlic",
         "chilli"
       ]
     },
@@ -220,37 +220,34 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U11.S12",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.food"
       ],
-      "answer": "chilli",
+      "word": {
+        "english": "chilli",
+        "emoji": "🌶️",
+        "hindi": "मिर्च",
+        "hinglish": "mirch"
+      },
+      "answer": {
+        "hi": "मिर्च",
+        "hinglish": "mirch"
+      },
       "options": [
         {
-          "english": "chilli",
-          "emoji": "🌶️",
-          "hindi": "मिर्च",
+          "hi": "मिर्च",
           "hinglish": "mirch"
         },
         {
-          "english": "onion",
-          "emoji": "🧅",
-          "hindi": "प्याज़",
-          "hinglish": "pyaaz"
-        },
-        {
-          "english": "carrot",
-          "emoji": "🥕",
-          "hindi": "गाजर",
+          "hi": "गाजर",
           "hinglish": "gaajar"
         },
         {
-          "english": "potato",
-          "emoji": "🥔",
-          "hindi": "आलू",
-          "hinglish": "aaloo"
+          "hi": "भुट्टा",
+          "hinglish": "bhutta"
         }
       ]
     },
@@ -265,8 +262,8 @@
       "answer": "cucumber",
       "options": [
         "cucumber",
-        "carrot",
-        "corn"
+        "tomato",
+        "carrot"
       ]
     },
     {
@@ -321,22 +318,22 @@
           "hinglish": "gaajar"
         },
         {
-          "english": "tomato",
-          "emoji": "🍅",
-          "hindi": "टमाटर",
-          "hinglish": "tamaatar"
-        },
-        {
-          "english": "cucumber",
-          "emoji": "🥒",
-          "hindi": "खीरा",
-          "hinglish": "kheera"
-        },
-        {
           "english": "potato",
           "emoji": "🥔",
           "hindi": "आलू",
           "hinglish": "aaloo"
+        },
+        {
+          "english": "corn",
+          "emoji": "🌽",
+          "hindi": "भुट्टा",
+          "hinglish": "bhutta"
+        },
+        {
+          "english": "onion",
+          "emoji": "🧅",
+          "hindi": "प्याज़",
+          "hinglish": "pyaaz"
         }
       ]
     },
@@ -351,8 +348,8 @@
       "answer": "garlic",
       "options": [
         "garlic",
-        "corn",
-        "onion"
+        "carrot",
+        "cucumber"
       ]
     },
     {

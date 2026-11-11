@@ -48,53 +48,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U24.S04",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.feelings"
       ],
-      "answer": "happy",
+      "word": {
+        "english": "happy",
+        "emoji": "😀",
+        "hindi": "खुश",
+        "hinglish": "khush"
+      },
+      "answer": {
+        "hi": "खुश",
+        "hinglish": "khush"
+      },
       "options": [
         {
-          "english": "happy",
-          "emoji": "😀",
-          "hindi": "खुश",
+          "hi": "खुश",
           "hinglish": "khush"
         },
         {
-          "english": "sad",
-          "emoji": "😢",
-          "hindi": "उदास",
+          "hi": "उदास",
           "hinglish": "udaas"
         },
         {
-          "english": "surprised",
-          "emoji": "😲",
-          "hindi": "हैरान",
+          "hi": "हैरान",
           "hinglish": "hairaan"
-        },
-        {
-          "english": "angry",
-          "emoji": "😠",
-          "hindi": "गुस्से में",
-          "hinglish": "gusse mein"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U24.S05",
       "skills": [
         "read.word",
         "vocab.feelings"
       ],
-      "emoji": "😢",
       "answer": "sad",
       "options": [
         "sad",
-        "surprised",
-        "happy"
+        "happy",
+        "scared"
       ]
     },
     {
@@ -134,53 +130,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U24.S08",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.feelings"
       ],
-      "answer": "angry",
+      "word": {
+        "english": "angry",
+        "emoji": "😠",
+        "hindi": "गुस्से में",
+        "hinglish": "gusse mein"
+      },
+      "answer": {
+        "hi": "गुस्से में",
+        "hinglish": "gusse mein"
+      },
       "options": [
         {
-          "english": "angry",
-          "emoji": "😠",
-          "hindi": "गुस्से में",
+          "hi": "गुस्से में",
           "hinglish": "gusse mein"
         },
         {
-          "english": "scared",
-          "emoji": "😨",
-          "hindi": "डरा हुआ",
-          "hinglish": "dara hua"
-        },
-        {
-          "english": "sick",
-          "emoji": "🤒",
-          "hindi": "बीमार",
+          "hi": "बीमार",
           "hinglish": "beemaar"
         },
         {
-          "english": "tired",
-          "emoji": "😫",
-          "hindi": "थका हुआ",
+          "hi": "थका हुआ",
           "hinglish": "thaka hua"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U24.S09",
       "skills": [
         "read.word",
         "vocab.feelings"
       ],
-      "emoji": "😨",
       "answer": "scared",
       "options": [
         "scared",
-        "sad",
-        "sick"
+        "sleepy",
+        "happy"
       ]
     },
     {
@@ -220,53 +212,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U24.S12",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.feelings"
       ],
-      "answer": "tired",
+      "word": {
+        "english": "tired",
+        "emoji": "😫",
+        "hindi": "थका हुआ",
+        "hinglish": "thaka hua"
+      },
+      "answer": {
+        "hi": "थका हुआ",
+        "hinglish": "thaka hua"
+      },
       "options": [
         {
-          "english": "tired",
-          "emoji": "😫",
-          "hindi": "थका हुआ",
+          "hi": "थका हुआ",
           "hinglish": "thaka hua"
         },
         {
-          "english": "sleepy",
-          "emoji": "😴",
-          "hindi": "नींद आ रही",
-          "hinglish": "neend aa rahi"
-        },
-        {
-          "english": "happy",
-          "emoji": "😀",
-          "hindi": "खुश",
+          "hi": "खुश",
           "hinglish": "khush"
         },
         {
-          "english": "surprised",
-          "emoji": "😲",
-          "hindi": "हैरान",
-          "hinglish": "hairaan"
+          "hi": "गुस्से में",
+          "hinglish": "gusse mein"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U24.S13",
       "skills": [
         "read.word",
         "vocab.feelings"
       ],
-      "emoji": "🤒",
       "answer": "sick",
       "options": [
         "sick",
-        "angry",
-        "surprised"
+        "sad",
+        "tired"
       ]
     },
     {
@@ -306,53 +294,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U24.S16",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.feelings"
       ],
-      "answer": "surprised",
+      "word": {
+        "english": "surprised",
+        "emoji": "😲",
+        "hindi": "हैरान",
+        "hinglish": "hairaan"
+      },
+      "answer": {
+        "hi": "हैरान",
+        "hinglish": "hairaan"
+      },
       "options": [
         {
-          "english": "surprised",
-          "emoji": "😲",
-          "hindi": "हैरान",
+          "hi": "हैरान",
           "hinglish": "hairaan"
         },
         {
-          "english": "sad",
-          "emoji": "😢",
-          "hindi": "उदास",
-          "hinglish": "udaas"
+          "hi": "बीमार",
+          "hinglish": "beemaar"
         },
         {
-          "english": "tired",
-          "emoji": "😫",
-          "hindi": "थका हुआ",
-          "hinglish": "thaka hua"
-        },
-        {
-          "english": "sleepy",
-          "emoji": "😴",
-          "hindi": "नींद आ रही",
+          "hi": "नींद आ रही",
           "hinglish": "neend aa rahi"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U24.S17",
       "skills": [
         "read.word",
         "vocab.feelings"
       ],
-      "emoji": "😴",
       "answer": "sleepy",
       "options": [
         "sleepy",
-        "angry",
-        "happy"
+        "happy",
+        "tired"
       ]
     },
     {

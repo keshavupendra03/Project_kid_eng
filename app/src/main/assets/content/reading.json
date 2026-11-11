@@ -1,0 +1,329 @@
+{
+  "levels": [
+    {
+      "number": 1,
+      "emoji": "🌱",
+      "title": {
+        "hi": "पहली लाइनें",
+        "hinglish": "Pehli lines",
+        "en": "First lines"
+      },
+      "lessons": [
+        {
+          "id": "R1.P01",
+          "emoji": "🐱",
+          "title": {
+            "hi": "बिल्ली",
+            "hinglish": "Billi",
+            "en": "The Cat"
+          }
+        },
+        {
+          "id": "R1.P02",
+          "emoji": "🐶",
+          "title": {
+            "hi": "देव और कुत्ता",
+            "hinglish": "Dev aur kutta",
+            "en": "Dev and the Dog"
+          }
+        },
+        {
+          "id": "R1.P03",
+          "emoji": "☀️",
+          "title": {
+            "hi": "सूरज",
+            "hinglish": "Sooraj",
+            "en": "The Sun"
+          }
+        },
+        {
+          "id": "R1.P04",
+          "emoji": "🚌",
+          "title": {
+            "hi": "बस",
+            "hinglish": "Bus",
+            "en": "The Bus"
+          }
+        },
+        {
+          "id": "R1.P05",
+          "emoji": "🖊️",
+          "title": {
+            "hi": "मेरा पेन",
+            "hinglish": "Mera pen",
+            "en": "My Pen"
+          }
+        },
+        {
+          "id": "R1.P06",
+          "emoji": "🐸",
+          "title": {
+            "hi": "मेंढक",
+            "hinglish": "Mendhak",
+            "en": "The Frog"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "emoji": "🏠",
+      "title": {
+        "hi": "छोटी कहानी",
+        "hinglish": "Chhoti kahani",
+        "en": "Little stories"
+      },
+      "lessons": [
+        {
+          "id": "R2.P01",
+          "emoji": "🏫",
+          "title": {
+            "hi": "स्कूल चलो",
+            "hinglish": "School chalo",
+            "en": "Going to School"
+          }
+        },
+        {
+          "id": "R2.P02",
+          "emoji": "🍱",
+          "title": {
+            "hi": "लंच टाइम",
+            "hinglish": "Lunch time",
+            "en": "Lunch Time"
+          }
+        },
+        {
+          "id": "R2.P03",
+          "emoji": "🐔",
+          "title": {
+            "hi": "दादी की मुर्गी",
+            "hinglish": "Dadi ki murgi",
+            "en": "Dadi's Hen"
+          }
+        },
+        {
+          "id": "R2.P04",
+          "emoji": "🌧️",
+          "title": {
+            "hi": "बारिश",
+            "hinglish": "Baarish",
+            "en": "Rain"
+          }
+        },
+        {
+          "id": "R2.P05",
+          "emoji": "🛍️",
+          "title": {
+            "hi": "दुकान",
+            "hinglish": "Dukaan",
+            "en": "The Shop"
+          }
+        },
+        {
+          "id": "R2.P06",
+          "emoji": "🐘",
+          "title": {
+            "hi": "बड़ा हाथी",
+            "hinglish": "Bada haathi",
+            "en": "The Big Elephant"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "emoji": "📖",
+      "title": {
+        "hi": "कहानी",
+        "hinglish": "Kahani",
+        "en": "Stories"
+      },
+      "lessons": [
+        {
+          "id": "R3.P01",
+          "emoji": "🎂",
+          "title": {
+            "hi": "रिया का जन्मदिन",
+            "hinglish": "Riya ka janmdin",
+            "en": "Riya's Birthday"
+          }
+        },
+        {
+          "id": "R3.P02",
+          "emoji": "🐦",
+          "title": {
+            "hi": "खोई हुई चिड़िया",
+            "hinglish": "Khoi hui chidiya",
+            "en": "The Lost Bird"
+          }
+        },
+        {
+          "id": "R3.P03",
+          "emoji": "🏏",
+          "title": {
+            "hi": "पार्क में क्रिकेट",
+            "hinglish": "Park mein cricket",
+            "en": "Cricket in the Park"
+          }
+        },
+        {
+          "id": "R3.P04",
+          "emoji": "🧹",
+          "title": {
+            "hi": "मम्मी की मदद",
+            "hinglish": "Mummy ki madad",
+            "en": "Helping Mummy"
+          }
+        },
+        {
+          "id": "R3.P05",
+          "emoji": "🐐",
+          "title": {
+            "hi": "चतुर बकरी",
+            "hinglish": "Chatur bakri",
+            "en": "The Clever Goat"
+          }
+        },
+        {
+          "id": "R3.P06",
+          "emoji": "🚂",
+          "title": {
+            "hi": "रेल का सफ़र",
+            "hinglish": "Rail ka safar",
+            "en": "The Train Ride"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "emoji": "📚",
+      "title": {
+        "hi": "पैराग्राफ",
+        "hinglish": "Paragraph",
+        "en": "Paragraphs"
+      },
+      "lessons": [
+        {
+          "id": "R4.P01",
+          "emoji": "🌳",
+          "title": {
+            "hi": "आम का पेड़",
+            "hinglish": "Aam ka ped",
+            "en": "The Mango Tree"
+          }
+        },
+        {
+          "id": "R4.P02",
+          "emoji": "🪔",
+          "title": {
+            "hi": "दिवाली",
+            "hinglish": "Diwali",
+            "en": "Diwali"
+          }
+        },
+        {
+          "id": "R4.P03",
+          "emoji": "🐕",
+          "title": {
+            "hi": "मोती कहाँ है?",
+            "hinglish": "Moti kahan hai?",
+            "en": "Where is Moti?"
+          }
+        },
+        {
+          "id": "R4.P04",
+          "emoji": "🩺",
+          "title": {
+            "hi": "डॉक्टर के पास",
+            "hinglish": "Doctor ke paas",
+            "en": "At the Doctor"
+          }
+        },
+        {
+          "id": "R4.P05",
+          "emoji": "💧",
+          "title": {
+            "hi": "पानी ही जीवन है",
+            "hinglish": "Paani hi jeevan hai",
+            "en": "Water is Life"
+          }
+        },
+        {
+          "id": "R4.P06",
+          "emoji": "🦁",
+          "title": {
+            "hi": "शेर और चूहा",
+            "hinglish": "Sher aur chooha",
+            "en": "The Lion and the Mouse"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "emoji": "🌍",
+      "title": {
+        "hi": "असली पढ़ाई",
+        "hinglish": "Asli padhai",
+        "en": "Real reading"
+      },
+      "lessons": [
+        {
+          "id": "R5.P01",
+          "emoji": "🐯",
+          "title": {
+            "hi": "बाघ",
+            "hinglish": "Baagh",
+            "en": "The Tiger"
+          }
+        },
+        {
+          "id": "R5.P02",
+          "emoji": "🚦",
+          "title": {
+            "hi": "सड़क पर सावधानी",
+            "hinglish": "Sadak par saavdhani",
+            "en": "Road Safety"
+          }
+        },
+        {
+          "id": "R5.P03",
+          "emoji": "🌙",
+          "title": {
+            "hi": "चाँद पर भारत",
+            "hinglish": "Chaand par Bharat",
+            "en": "India on the Moon"
+          }
+        },
+        {
+          "id": "R5.P04",
+          "emoji": "📋",
+          "title": {
+            "hi": "स्कूल की सूचना",
+            "hinglish": "School ki soochna",
+            "en": "A School Notice"
+          }
+        },
+        {
+          "id": "R5.P05",
+          "emoji": "🥭",
+          "title": {
+            "hi": "आम कैसे उगता है",
+            "hinglish": "Aam kaise ugta hai",
+            "en": "How Mangoes Grow"
+          }
+        },
+        {
+          "id": "R5.P06",
+          "emoji": "✉️",
+          "title": {
+            "hi": "दादी को चिट्ठी",
+            "hinglish": "Dadi ko chitthi",
+            "en": "A Letter to Dadi"
+          }
+        }
+      ]
+    }
+  ]
+}

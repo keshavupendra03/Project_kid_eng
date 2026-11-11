@@ -1,0 +1,207 @@
+{
+  "id": "W78.P09T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "match_meaning",
+      "id": "W78.P09T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "unless",
+        "emoji": "⛔",
+        "hindi": "जब तक नहीं",
+        "hinglish": "jab tak nahi"
+      },
+      "answer": {
+        "hi": "जब तक नहीं",
+        "hinglish": "jab tak nahi"
+      },
+      "options": [
+        {
+          "hi": "जब तक नहीं",
+          "hinglish": "jab tak nahi"
+        },
+        {
+          "hi": "इसके अलावा",
+          "hinglish": "iske alaava"
+        },
+        {
+          "hi": "के बजाय",
+          "hinglish": "ke bajaay"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P09T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The phone is cheap. ___, it is fast.",
+      "answer": "moreover",
+      "options": [
+        "moreover",
+        "however",
+        "although"
+      ],
+      "meaning": {
+        "hi": "इसके अलावा",
+        "hinglish": "iske alaava"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P09T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "certainly",
+      "options": [
+        "certainly",
+        "although",
+        "moreover"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P09T.S04",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "probably",
+        "emoji": "🤔",
+        "hindi": "शायद",
+        "hinglish": "shaayad"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P09T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "however",
+        "emoji": "🔄",
+        "hindi": "फिर भी",
+        "hinglish": "phir bhi"
+      },
+      "answer": {
+        "hi": "फिर भी",
+        "hinglish": "phir bhi"
+      },
+      "options": [
+        {
+          "hi": "फिर भी",
+          "hinglish": "phir bhi"
+        },
+        {
+          "hi": "हालाँकि",
+          "hinglish": "haalaanki"
+        },
+        {
+          "hi": "हो सकता है",
+          "hinglish": "ho sakta hai"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P09T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "She studied hard and ___ she passed.",
+      "answer": "therefore",
+      "options": [
+        "therefore",
+        "unless",
+        "although"
+      ],
+      "meaning": {
+        "hi": "इसलिए",
+        "hinglish": "isliye"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P09T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "although",
+      "options": [
+        "although",
+        "probably",
+        "perhaps"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P09T.S08",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "perhaps",
+        "emoji": "🤷",
+        "hindi": "हो सकता है",
+        "hinglish": "ho sakta hai"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P09T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "instead",
+        "emoji": "🔁",
+        "hindi": "के बजाय",
+        "hinglish": "ke bajaay"
+      },
+      "answer": {
+        "hi": "के बजाय",
+        "hinglish": "ke bajaay"
+      },
+      "options": [
+        {
+          "hi": "के बजाय",
+          "hinglish": "ke bajaay"
+        },
+        {
+          "hi": "शायद",
+          "hinglish": "shaayad"
+        },
+        {
+          "hi": "इस बीच",
+          "hinglish": "is beech"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P09T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Mummy cooked. ___, I set the table.",
+      "answer": "meanwhile",
+      "options": [
+        "meanwhile",
+        "however",
+        "therefore"
+      ],
+      "meaning": {
+        "hi": "इस बीच",
+        "hinglish": "is beech"
+      }
+    }
+  ]
+}

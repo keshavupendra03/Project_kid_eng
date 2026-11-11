@@ -1,0 +1,455 @@
+{
+  "id": "L2.U63",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U63.S01",
+      "text": {
+        "hi": "रोज़ काम आने वाले प्यारे शब्द!",
+        "hinglish": "Roz kaam aane waale pyaare shabd!",
+        "en": "Kind words we use every day!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U63.S02",
+      "skills": [
+        "vocab.manners"
+      ],
+      "text": {
+        "hi": "‘yes’ मतलब ‘हाँ’।",
+        "hinglish": "‘yes’ matlab ‘haan’.",
+        "en": "Say it with me: yes!"
+      },
+      "word": {
+        "english": "yes",
+        "emoji": "✅",
+        "hindi": "हाँ",
+        "hinglish": "haan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U63.S03",
+      "skills": [
+        "vocab.manners"
+      ],
+      "text": {
+        "hi": "‘no’ मतलब ‘नहीं’।",
+        "hinglish": "‘no’ matlab ‘nahi’.",
+        "en": "Say it with me: no!"
+      },
+      "word": {
+        "english": "no",
+        "emoji": "❌",
+        "hindi": "नहीं",
+        "hinglish": "nahi"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U63.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.manners"
+      ],
+      "word": {
+        "english": "yes",
+        "emoji": "✅",
+        "hindi": "हाँ",
+        "hinglish": "haan"
+      },
+      "answer": {
+        "hi": "हाँ",
+        "hinglish": "haan"
+      },
+      "options": [
+        {
+          "hi": "हाँ",
+          "hinglish": "haan"
+        },
+        {
+          "hi": "नमस्ते",
+          "hinglish": "namaste"
+        },
+        {
+          "hi": "माफ़ करना",
+          "hinglish": "maaf karna"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U63.S05",
+      "skills": [
+        "read.word",
+        "vocab.manners"
+      ],
+      "answer": "no",
+      "options": [
+        "no",
+        "please",
+        "goodbye"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U63.S06",
+      "skills": [
+        "vocab.manners"
+      ],
+      "text": {
+        "hi": "‘please’ मतलब ‘प्लीज़’।",
+        "hinglish": "‘please’ matlab ‘please’.",
+        "en": "Say it with me: please!"
+      },
+      "word": {
+        "english": "please",
+        "emoji": "🙏",
+        "hindi": "प्लीज़",
+        "hinglish": "please"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U63.S07",
+      "skills": [
+        "vocab.manners"
+      ],
+      "text": {
+        "hi": "‘sorry’ मतलब ‘माफ़ करना’।",
+        "hinglish": "‘sorry’ matlab ‘maaf karna’.",
+        "en": "Say it with me: sorry!"
+      },
+      "word": {
+        "english": "sorry",
+        "emoji": "😔",
+        "hindi": "माफ़ करना",
+        "hinglish": "maaf karna"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U63.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.manners"
+      ],
+      "word": {
+        "english": "please",
+        "emoji": "🙏",
+        "hindi": "प्लीज़",
+        "hinglish": "please"
+      },
+      "answer": {
+        "hi": "प्लीज़",
+        "hinglish": "please"
+      },
+      "options": [
+        {
+          "hi": "प्लीज़",
+          "hinglish": "please"
+        },
+        {
+          "hi": "अलविदा",
+          "hinglish": "alvida"
+        },
+        {
+          "hi": "स्वागत",
+          "hinglish": "swaagat"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U63.S09",
+      "skills": [
+        "read.word",
+        "vocab.manners"
+      ],
+      "answer": "sorry",
+      "options": [
+        "sorry",
+        "thanks",
+        "welcome"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U63.S10",
+      "skills": [
+        "vocab.manners"
+      ],
+      "text": {
+        "hi": "‘thanks’ मतलब ‘शुक्रिया’।",
+        "hinglish": "‘thanks’ matlab ‘shukriya’.",
+        "en": "Say it with me: thanks!"
+      },
+      "word": {
+        "english": "thanks",
+        "hindi": "शुक्रिया",
+        "hinglish": "shukriya"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U63.S11",
+      "skills": [
+        "vocab.manners"
+      ],
+      "text": {
+        "hi": "‘hello’ मतलब ‘नमस्ते’।",
+        "hinglish": "‘hello’ matlab ‘namaste’.",
+        "en": "Say it with me: hello!"
+      },
+      "word": {
+        "english": "hello",
+        "emoji": "👋",
+        "hindi": "नमस्ते",
+        "hinglish": "namaste"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U63.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.manners"
+      ],
+      "word": {
+        "english": "thanks",
+        "hindi": "शुक्रिया",
+        "hinglish": "shukriya"
+      },
+      "answer": {
+        "hi": "शुक्रिया",
+        "hinglish": "shukriya"
+      },
+      "options": [
+        {
+          "hi": "शुक्रिया",
+          "hinglish": "shukriya"
+        },
+        {
+          "hi": "माफ़ करना",
+          "hinglish": "maaf karna"
+        },
+        {
+          "hi": "नहीं",
+          "hinglish": "nahi"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U63.S13",
+      "skills": [
+        "read.word",
+        "vocab.manners"
+      ],
+      "answer": "hello",
+      "options": [
+        "hello",
+        "thanks",
+        "please"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U63.S14",
+      "skills": [
+        "vocab.manners"
+      ],
+      "text": {
+        "hi": "‘goodbye’ मतलब ‘अलविदा’।",
+        "hinglish": "‘goodbye’ matlab ‘alvida’.",
+        "en": "Say it with me: goodbye!"
+      },
+      "word": {
+        "english": "goodbye",
+        "hindi": "अलविदा",
+        "hinglish": "alvida"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U63.S15",
+      "skills": [
+        "vocab.manners"
+      ],
+      "text": {
+        "hi": "‘welcome’ मतलब ‘स्वागत’।",
+        "hinglish": "‘welcome’ matlab ‘swaagat’.",
+        "en": "Say it with me: welcome!"
+      },
+      "word": {
+        "english": "welcome",
+        "hindi": "स्वागत",
+        "hinglish": "swaagat"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U63.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.manners"
+      ],
+      "word": {
+        "english": "goodbye",
+        "hindi": "अलविदा",
+        "hinglish": "alvida"
+      },
+      "answer": {
+        "hi": "अलविदा",
+        "hinglish": "alvida"
+      },
+      "options": [
+        {
+          "hi": "अलविदा",
+          "hinglish": "alvida"
+        },
+        {
+          "hi": "माफ़ करना",
+          "hinglish": "maaf karna"
+        },
+        {
+          "hi": "नहीं",
+          "hinglish": "nahi"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U63.S17",
+      "skills": [
+        "read.word",
+        "vocab.manners"
+      ],
+      "answer": "welcome",
+      "options": [
+        "welcome",
+        "yes",
+        "sorry"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U63.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.manners"
+      ],
+      "word": {
+        "english": "thanks",
+        "hindi": "शुक्रिया",
+        "hinglish": "shukriya"
+      },
+      "answer": {
+        "hi": "शुक्रिया",
+        "hinglish": "shukriya"
+      },
+      "options": [
+        {
+          "hi": "शुक्रिया",
+          "hinglish": "shukriya"
+        },
+        {
+          "hi": "नहीं",
+          "hinglish": "nahi"
+        },
+        {
+          "hi": "स्वागत",
+          "hinglish": "swaagat"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U63.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.manners"
+      ],
+      "word": {
+        "english": "hello",
+        "emoji": "👋",
+        "hindi": "नमस्ते",
+        "hinglish": "namaste"
+      },
+      "answer": {
+        "hi": "नमस्ते",
+        "hinglish": "namaste"
+      },
+      "options": [
+        {
+          "hi": "नमस्ते",
+          "hinglish": "namaste"
+        },
+        {
+          "hi": "प्लीज़",
+          "hinglish": "please"
+        },
+        {
+          "hi": "माफ़ करना",
+          "hinglish": "maaf karna"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U63.S20",
+      "skills": [
+        "speak.word",
+        "vocab.manners"
+      ],
+      "word": {
+        "english": "no",
+        "emoji": "❌",
+        "hindi": "नहीं",
+        "hinglish": "nahi"
+      },
+      "accept": [
+        "know"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U63.S21",
+      "skills": [
+        "speak.word",
+        "vocab.manners"
+      ],
+      "word": {
+        "english": "yes",
+        "emoji": "✅",
+        "hindi": "हाँ",
+        "hinglish": "haan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U63.S22",
+      "skills": [
+        "read.word",
+        "vocab.manners"
+      ],
+      "answer": "goodbye",
+      "options": [
+        "goodbye",
+        "please",
+        "welcome"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U63.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: yes, no, please, sorry, thanks, hello, goodbye, welcome।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: yes, no, please, sorry, thanks, hello, goodbye, welcome.",
+        "en": "Well done! Today's new words: yes, no, please, sorry, thanks, hello, goodbye, welcome."
+      }
+    }
+  ]
+}

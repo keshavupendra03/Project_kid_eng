@@ -1,0 +1,189 @@
+{
+  "id": "W34.P02T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "W34.P02T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Take a deep breath and stay ___.",
+      "answer": "calm",
+      "options": [
+        "calm",
+        "proud",
+        "kind"
+      ],
+      "meaning": {
+        "hi": "शांत",
+        "hinglish": "shaant"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P02T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "proud",
+      "options": [
+        "proud",
+        "surprised",
+        "shy"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P02T.S03",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "surprised",
+        "emoji": "😮",
+        "hindi": "हैरान",
+        "hinglish": "hairaan"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P02T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "brave",
+        "emoji": "🦁",
+        "hindi": "बहादुर",
+        "hinglish": "bahaadur"
+      },
+      "answer": {
+        "hi": "बहादुर",
+        "hinglish": "bahaadur"
+      },
+      "options": [
+        {
+          "hi": "बहादुर",
+          "hinglish": "bahaadur"
+        },
+        {
+          "hi": "शर्मीला",
+          "hinglish": "sharmeela"
+        },
+        {
+          "hi": "गुस्सा",
+          "hinglish": "gussa"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P02T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Mummy was ___ when I came home late.",
+      "answer": "worried",
+      "options": [
+        "worried",
+        "lonely",
+        "calm"
+      ],
+      "meaning": {
+        "hi": "चिंतित",
+        "hinglish": "chintit"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P02T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "shy",
+      "options": [
+        "shy",
+        "angry",
+        "brave"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P02T.S07",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "lonely",
+        "emoji": "😔",
+        "hindi": "अकेला",
+        "hinglish": "akela"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P02T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "excited",
+        "emoji": "🤩",
+        "hindi": "उत्साहित",
+        "hinglish": "utsaahit"
+      },
+      "answer": {
+        "hi": "उत्साहित",
+        "hinglish": "utsaahit"
+      },
+      "options": [
+        {
+          "hi": "उत्साहित",
+          "hinglish": "utsaahit"
+        },
+        {
+          "hi": "चिंतित",
+          "hinglish": "chintit"
+        },
+        {
+          "hi": "गुस्सा",
+          "hinglish": "gussa"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P02T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The farmer was ___ with the goats.",
+      "answer": "angry",
+      "options": [
+        "angry",
+        "surprised",
+        "proud"
+      ],
+      "meaning": {
+        "hi": "गुस्सा",
+        "hinglish": "gussa"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P02T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "kind",
+      "options": [
+        "kind",
+        "lonely",
+        "calm"
+      ]
+    }
+  ]
+}

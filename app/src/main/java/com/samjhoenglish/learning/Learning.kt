@@ -84,6 +84,37 @@ object Learning {
         return order.firstOrNull { it in unlocked && !isPassed(status[it]) }
     }
 
+    // ---------- Reading ladder ----------
+
+    /** A reading level opens once this many passages of the level before it are passed. */
+    const val PASSAGES_TO_OPEN_NEXT = 4
+
+    /**
+     * Which passages are open. The first level is always open; each later level opens when
+     * [PASSAGES_TO_OPEN_NEXT] passages of the previous level are passed (or all of them, if fewer).
+     */
+    fun unlockedPassages(levels: List<List<String>>, status: Map<String, LessonStatus>): Set<String> {
+        val open = mutableSetOf<String>()
+        levels.forEachIndexed { i, passages ->
+            val previous = levels.getOrNull(i - 1)
+            val previousDone = previous == null ||
+                previous.count { isPassed(status[it]) } >= minOf(PASSAGES_TO_OPEN_NEXT, previous.size)
+            if (previousDone) open += passages
+        }
+        return open
+    }
+
+    /** The next passage to read: the first open one not yet passed. */
+    fun nextPassage(levels: List<List<String>>, status: Map<String, LessonStatus>): String? {
+        val open = unlockedPassages(levels, status)
+        return levels.flatten().firstOrNull { it in open && !isPassed(status[it]) }
+    }
+
+    /** Words read correctly out of all words: 3 stars from 90%, 2 from 70%, else 1. The passage counts as passed from 70%. */
+    const val READING_PASS = 0.7f
+
+    fun readingPassed(wordsRead: Int, wordsTotal: Int): Boolean = wordsTotal > 0 && wordsRead.toFloat() / wordsTotal >= READING_PASS
+
     // ---------- Review selection ----------
 
     data class ReviewItem(val stepId: String, val lessonId: String, val box: Int, val nextReviewAt: Long, val skills: List<String>)
@@ -112,6 +143,42 @@ object Learning {
     // ---------- Placement ----------
 
     const val PLACEMENT_PASS = 0.8f
+
+    // ---------- Parent section ----------
+
+    /** A limit of 0 means no limit. Extra minutes are what a parent granted today with the PIN. */
+    fun timeIsUp(spentMillis: Long, limitMinutes: Int, extraMinutes: Int): Boolean =
+        limitMinutes > 0 && spentMillis >= (limitMinutes + extraMinutes) * 60_000L
+
+    data class SkillScore(val skill: String, val mastery: Float, val attempts: Int)
+
+    /** The weakest skills. Specific ones ("is/am/are") come before broad ones ("speaking words"), which say less. */
+    fun weakestSkills(skills: List<SkillScore>, broad: Set<String>, max: Int = 3): List<String> = skills
+        .filter { isWeak(it.mastery, it.attempts) }
+        .sortedWith(compareBy<SkillScore> { it.skill in broad }.thenBy { it.mastery })
+        .take(max)
+        .map { it.skill }
+
+    /** Skills from [skills] the child is still weak in, weakest first. Broad ones can't be explained in one card. */
+    fun stuckSkills(skills: Collection<String>, scores: List<SkillScore>, broad: Set<String>, max: Int = 2): List<String> =
+        weakestSkills(scores.filter { it.skill in skills && it.skill !in broad }, broad, max)
+
+    /** Minutes for each of the last [count] days, oldest first; days with no study are 0. */
+    fun lastDays(millisByDay: Map<Long, Long>, today: Long, count: Int = 7): List<Pair<Long, Int>> =
+        ((today - count + 1)..today).map { day -> day to (((millisByDay[day] ?: 0L) + 30_000L) / 60_000L).toInt() }
+
+    /** The first mission the child has earned (by lessons passed) that a parent hasn't approved yet. */
+    fun currentMission(missions: List<Pair<String, Int>>, approved: Set<String>, lessonsPassed: Int): String? =
+        missions.firstOrNull { (id, need) -> need <= lessonsPassed && id !in approved }?.first
+
+    // ---------- Rewards ----------
+
+    /** Things Tinku can wear, earned with stars. */
+    enum class TinkuPiece(val stars: Int) { CAP(10), BOW_TIE(40), GLASSES(90), CROWN(160) }
+
+    fun unlockedPieces(stars: Int): Set<TinkuPiece> = TinkuPiece.entries.filter { stars >= it.stars }.toSet()
+
+    fun nextPiece(stars: Int): TinkuPiece? = TinkuPiece.entries.firstOrNull { stars < it.stars }
 
     // ---------- Streak ----------
 

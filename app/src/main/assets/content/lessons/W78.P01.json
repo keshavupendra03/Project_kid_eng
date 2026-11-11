@@ -1,0 +1,480 @@
+{
+  "id": "W78.P01",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P01.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: बड़े विचार। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Bade vichaar. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Big ideas. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P01.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "freedom",
+        "emoji": "🕊️",
+        "hindi": "आज़ादी",
+        "hinglish": "aazaadi"
+      },
+      "meaning": "being free to do what you want",
+      "example": "Freedom came to India after a long struggle.",
+      "exampleMeaning": {
+        "hi": "लंबे संघर्ष के बाद भारत को आज़ादी मिली।",
+        "hinglish": "Lambe sangharsh ke baad Bharat ko aazaadi mili."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P01.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "justice",
+        "emoji": "⚖️",
+        "hindi": "न्याय",
+        "hinglish": "nyaay"
+      },
+      "meaning": "fair treatment for everyone",
+      "example": "The court gives justice to people.",
+      "exampleMeaning": {
+        "hi": "अदालत लोगों को न्याय देती है।",
+        "hinglish": "Adaalat logon ko nyaay deti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P01.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "equality",
+        "emoji": "🟰",
+        "hindi": "समानता",
+        "hinglish": "samaanta"
+      },
+      "meaning": "everyone having the same rights",
+      "example": "Boys and girls deserve equality.",
+      "exampleMeaning": {
+        "hi": "लड़के और लड़कियाँ बराबरी के हक़दार हैं।",
+        "hinglish": "Ladke aur ladkiyaan baraabari ke haqdaar hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P01.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "opinion",
+        "emoji": "💬",
+        "hindi": "राय",
+        "hinglish": "raay"
+      },
+      "meaning": "what you think about something",
+      "example": "In my opinion, the film was good.",
+      "exampleMeaning": {
+        "hi": "मेरी राय में फ़िल्म अच्छी थी।",
+        "hinglish": "Meri raay mein film achhi thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P01.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "knowledge",
+        "emoji": "📚",
+        "hindi": "ज्ञान",
+        "hinglish": "gyaan"
+      },
+      "meaning": "what you know and understand",
+      "example": "Books give us knowledge.",
+      "exampleMeaning": {
+        "hi": "किताबें हमें ज्ञान देती हैं।",
+        "hinglish": "Kitaabein hamein gyaan deti hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P01.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "courage",
+        "emoji": "🦁",
+        "hindi": "साहस",
+        "hinglish": "saahas"
+      },
+      "meaning": "being brave when you are afraid",
+      "example": "It takes courage to speak the truth.",
+      "exampleMeaning": {
+        "hi": "सच बोलने के लिए साहस चाहिए।",
+        "hinglish": "Sach bolne ke liye saahas chahiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P01.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "patience",
+        "emoji": "⏳",
+        "hindi": "धैर्य",
+        "hinglish": "dhairya"
+      },
+      "meaning": "being able to wait calmly",
+      "example": "Learning music needs patience.",
+      "exampleMeaning": {
+        "hi": "संगीत सीखने में धैर्य चाहिए।",
+        "hinglish": "Sangeet seekhne mein dhairya chahiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P01.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "success",
+        "emoji": "🏆",
+        "hindi": "सफलता",
+        "hinglish": "safalta"
+      },
+      "meaning": "getting what you worked for",
+      "example": "Hard work is the key to success.",
+      "exampleMeaning": {
+        "hi": "मेहनत ही सफलता की चाबी है।",
+        "hinglish": "Mehnat hi safalta ki chaabi hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P01.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "failure",
+        "emoji": "📉",
+        "hindi": "असफलता",
+        "hinglish": "asafalta"
+      },
+      "meaning": "not getting what you tried for",
+      "example": "Failure teaches us to try again.",
+      "exampleMeaning": {
+        "hi": "असफलता हमें फिर से कोशिश करना सिखाती है।",
+        "hinglish": "Asafalta hamein phir se koshish karna sikhaati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P01.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "honesty",
+        "emoji": "🤞",
+        "hindi": "ईमानदारी",
+        "hinglish": "imaandaari"
+      },
+      "meaning": "always telling the truth",
+      "example": "Honesty is the best policy.",
+      "exampleMeaning": {
+        "hi": "ईमानदारी सबसे अच्छी नीति है।",
+        "hinglish": "Imaandaari sabse achhi neeti hai."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P01.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "equality",
+        "emoji": "🟰",
+        "hindi": "समानता",
+        "hinglish": "samaanta"
+      },
+      "answer": {
+        "hi": "समानता",
+        "hinglish": "samaanta"
+      },
+      "options": [
+        {
+          "hi": "समानता",
+          "hinglish": "samaanta"
+        },
+        {
+          "hi": "ज्ञान",
+          "hinglish": "gyaan"
+        },
+        {
+          "hi": "धैर्य",
+          "hinglish": "dhairya"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P01.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Hard work is the key to ___.",
+      "answer": "success",
+      "options": [
+        "success",
+        "knowledge",
+        "freedom"
+      ],
+      "meaning": {
+        "hi": "सफलता",
+        "hinglish": "safalta"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P01.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "honesty",
+      "options": [
+        "honesty",
+        "equality",
+        "knowledge"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P01.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "failure",
+      "options": [
+        "failure",
+        "equality",
+        "opinion"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P01.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "It takes ___ to speak the truth.",
+      "answer": "courage",
+      "options": [
+        "courage",
+        "failure",
+        "freedom"
+      ],
+      "meaning": {
+        "hi": "साहस",
+        "hinglish": "saahas"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P01.S17",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "freedom",
+        "emoji": "🕊️",
+        "hindi": "आज़ादी",
+        "hinglish": "aazaadi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P01.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "equality",
+        "emoji": "🟰",
+        "hindi": "समानता",
+        "hinglish": "samaanta"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P01.S19",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "justice",
+        "emoji": "⚖️",
+        "hindi": "न्याय",
+        "hinglish": "nyaay"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P01.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "freedom",
+        "emoji": "🕊️",
+        "hindi": "आज़ादी",
+        "hinglish": "aazaadi"
+      },
+      "answer": {
+        "hi": "आज़ादी",
+        "hinglish": "aazaadi"
+      },
+      "options": [
+        {
+          "hi": "आज़ादी",
+          "hinglish": "aazaadi"
+        },
+        {
+          "hi": "समानता",
+          "hinglish": "samaanta"
+        },
+        {
+          "hi": "न्याय",
+          "hinglish": "nyaay"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P01.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The court gives ___ to people.",
+      "answer": "justice",
+      "options": [
+        "justice",
+        "failure",
+        "knowledge"
+      ],
+      "meaning": {
+        "hi": "न्याय",
+        "hinglish": "nyaay"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P01.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "knowledge",
+        "emoji": "📚",
+        "hindi": "ज्ञान",
+        "hinglish": "gyaan"
+      },
+      "answer": {
+        "hi": "ज्ञान",
+        "hinglish": "gyaan"
+      },
+      "options": [
+        {
+          "hi": "ज्ञान",
+          "hinglish": "gyaan"
+        },
+        {
+          "hi": "साहस",
+          "hinglish": "saahas"
+        },
+        {
+          "hi": "असफलता",
+          "hinglish": "asafalta"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P01.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "In my ___, the film was good.",
+      "answer": "opinion",
+      "options": [
+        "opinion",
+        "honesty",
+        "justice"
+      ],
+      "meaning": {
+        "hi": "राय",
+        "hinglish": "raay"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P01.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "opinion",
+        "emoji": "💬",
+        "hindi": "राय",
+        "hinglish": "raay"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P01.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "patience",
+        "emoji": "⏳",
+        "hindi": "धैर्य",
+        "hinglish": "dhairya"
+      },
+      "answer": {
+        "hi": "धैर्य",
+        "hinglish": "dhairya"
+      },
+      "options": [
+        {
+          "hi": "धैर्य",
+          "hinglish": "dhairya"
+        },
+        {
+          "hi": "ईमानदारी",
+          "hinglish": "imaandaari"
+        },
+        {
+          "hi": "आज़ादी",
+          "hinglish": "aazaadi"
+        }
+      ]
+    }
+  ]
+}

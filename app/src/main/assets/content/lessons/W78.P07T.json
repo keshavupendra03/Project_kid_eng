@@ -1,0 +1,185 @@
+{
+  "id": "W78.P07T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "listen_read",
+      "id": "W78.P07T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "sincere",
+      "options": [
+        "sincere",
+        "stubborn",
+        "talented"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P07T.S02",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "arrogant",
+        "emoji": "😤",
+        "hindi": "घमंडी",
+        "hinglish": "ghamandi"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P07T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "talented",
+        "emoji": "🌟",
+        "hindi": "प्रतिभाशाली",
+        "hinglish": "pratibhaashaali"
+      },
+      "answer": {
+        "hi": "प्रतिभाशाली",
+        "hinglish": "pratibhaashaali"
+      },
+      "options": [
+        {
+          "hi": "प्रतिभाशाली",
+          "hinglish": "pratibhaashaali"
+        },
+        {
+          "hi": "सच्चा",
+          "hinglish": "sachcha"
+        },
+        {
+          "hi": "घमंडी",
+          "hinglish": "ghamandi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P07T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ goat would not move.",
+      "answer": "stubborn",
+      "options": [
+        "stubborn",
+        "punctual",
+        "energetic"
+      ],
+      "meaning": {
+        "hi": "ज़िद्दी",
+        "hinglish": "ziddi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P07T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "punctual",
+      "options": [
+        "punctual",
+        "stubborn",
+        "energetic"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P07T.S06",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "optimistic",
+        "emoji": "🌈",
+        "hindi": "आशावादी",
+        "hinglish": "aashaavaadi"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P07T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "cautious",
+        "emoji": "⚠️",
+        "hindi": "सतर्क",
+        "hinglish": "satark"
+      },
+      "answer": {
+        "hi": "सतर्क",
+        "hinglish": "satark"
+      },
+      "options": [
+        {
+          "hi": "सतर्क",
+          "hinglish": "satark"
+        },
+        {
+          "hi": "सच्चा",
+          "hinglish": "sachcha"
+        },
+        {
+          "hi": "घमंडी",
+          "hinglish": "ghamandi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P07T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ girl wants to be a pilot.",
+      "answer": "ambitious",
+      "options": [
+        "ambitious",
+        "sincere",
+        "stubborn"
+      ],
+      "meaning": {
+        "hi": "महत्वाकांक्षी",
+        "hinglish": "mahatvaakaankshi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P07T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "energetic",
+      "options": [
+        "energetic",
+        "cautious",
+        "stubborn"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P07T.S10",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "creative",
+        "emoji": "🎨",
+        "hindi": "रचनात्मक",
+        "hinglish": "rachnaatmak"
+      },
+      "typed": true
+    }
+  ]
+}

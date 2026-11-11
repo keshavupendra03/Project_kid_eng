@@ -63,22 +63,22 @@
           "hinglish": "sooraj"
         },
         {
-          "english": "flower",
-          "emoji": "🌸",
-          "hindi": "फूल",
-          "hinglish": "phool"
-        },
-        {
-          "english": "mountain",
-          "emoji": "⛰️",
-          "hindi": "पहाड़",
-          "hinglish": "pahaad"
-        },
-        {
           "english": "cloud",
           "emoji": "☁️",
           "hindi": "बादल",
           "hinglish": "baadal"
+        },
+        {
+          "english": "rain",
+          "emoji": "🌧️",
+          "hindi": "बारिश",
+          "hinglish": "baarish"
+        },
+        {
+          "english": "star",
+          "emoji": "⭐",
+          "hindi": "तारा",
+          "hinglish": "taara"
         }
       ]
     },
@@ -93,8 +93,8 @@
       "answer": "moon",
       "options": [
         "moon",
-        "mountain",
-        "tree"
+        "tree",
+        "star"
       ]
     },
     {
@@ -155,16 +155,16 @@
           "hinglish": "baarish"
         },
         {
-          "english": "mountain",
-          "emoji": "⛰️",
-          "hindi": "पहाड़",
-          "hinglish": "pahaad"
+          "english": "moon",
+          "emoji": "🌙",
+          "hindi": "चाँद",
+          "hinglish": "chaand"
         },
         {
-          "english": "tree",
-          "emoji": "🌳",
-          "hindi": "पेड़",
-          "hinglish": "ped"
+          "english": "cloud",
+          "emoji": "☁️",
+          "hindi": "बादल",
+          "hinglish": "baadal"
         }
       ]
     },
@@ -235,37 +235,36 @@
           "hinglish": "baarish"
         },
         {
+          "english": "star",
+          "emoji": "⭐",
+          "hindi": "तारा",
+          "hinglish": "taara"
+        },
+        {
+          "english": "sun",
+          "emoji": "☀️",
+          "hindi": "सूरज",
+          "hinglish": "sooraj"
+        },
+        {
           "english": "moon",
           "emoji": "🌙",
           "hindi": "चाँद",
           "hinglish": "chaand"
-        },
-        {
-          "english": "flower",
-          "emoji": "🌸",
-          "hindi": "फूल",
-          "hinglish": "phool"
-        },
-        {
-          "english": "mountain",
-          "emoji": "⛰️",
-          "hindi": "पहाड़",
-          "hinglish": "pahaad"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U23.S13",
       "skills": [
         "read.word",
         "vocab.nature"
       ],
-      "emoji": "🌳",
       "answer": "tree",
       "options": [
         "tree",
-        "mountain",
+        "sun",
         "cloud"
       ]
     },
@@ -306,37 +305,34 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U23.S16",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.nature"
       ],
-      "answer": "flower",
+      "word": {
+        "english": "flower",
+        "emoji": "🌸",
+        "hindi": "फूल",
+        "hinglish": "phool"
+      },
+      "answer": {
+        "hi": "फूल",
+        "hinglish": "phool"
+      },
       "options": [
         {
-          "english": "flower",
-          "emoji": "🌸",
-          "hindi": "फूल",
+          "hi": "फूल",
           "hinglish": "phool"
         },
         {
-          "english": "star",
-          "emoji": "⭐",
-          "hindi": "तारा",
-          "hinglish": "taara"
-        },
-        {
-          "english": "sun",
-          "emoji": "☀️",
-          "hindi": "सूरज",
-          "hinglish": "sooraj"
-        },
-        {
-          "english": "cloud",
-          "emoji": "☁️",
-          "hindi": "बादल",
+          "hi": "बादल",
           "hinglish": "baadal"
+        },
+        {
+          "hi": "तारा",
+          "hinglish": "taara"
         }
       ]
     },
@@ -351,8 +347,8 @@
       "answer": "mountain",
       "options": [
         "mountain",
-        "star",
-        "cloud"
+        "tree",
+        "star"
       ]
     },
     {
@@ -363,27 +359,27 @@
         "vocab.nature"
       ],
       "word": {
-        "english": "moon",
-        "emoji": "🌙",
-        "hindi": "चाँद",
-        "hinglish": "chaand"
+        "english": "star",
+        "emoji": "⭐",
+        "hindi": "तारा",
+        "hinglish": "taara"
       },
       "answer": {
-        "hi": "चाँद",
-        "hinglish": "chaand"
+        "hi": "तारा",
+        "hinglish": "taara"
       },
       "options": [
         {
-          "hi": "चाँद",
-          "hinglish": "chaand"
+          "hi": "तारा",
+          "hinglish": "taara"
         },
         {
-          "hi": "सूरज",
-          "hinglish": "sooraj"
+          "hi": "बादल",
+          "hinglish": "baadal"
         },
         {
-          "hi": "पेड़",
-          "hinglish": "ped"
+          "hi": "बारिश",
+          "hinglish": "baarish"
         }
       ]
     },
@@ -410,12 +406,12 @@
           "hinglish": "baadal"
         },
         {
-          "hi": "चाँद",
-          "hinglish": "chaand"
+          "hi": "सूरज",
+          "hinglish": "sooraj"
         },
         {
-          "hi": "बारिश",
-          "hinglish": "baarish"
+          "hi": "चाँद",
+          "hinglish": "chaand"
         }
       ]
     },
@@ -457,11 +453,11 @@
         "read.word",
         "vocab.nature"
       ],
-      "answer": "tree",
+      "answer": "cloud",
       "options": [
-        "tree",
-        "flower",
-        "star"
+        "cloud",
+        "mountain",
+        "flower"
       ]
     },
     {

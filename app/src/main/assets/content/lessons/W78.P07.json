@@ -1,0 +1,480 @@
+{
+  "id": "W78.P07",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P07.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: लोगों का स्वभाव। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Logon ka swabhaav. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Describing people. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P07.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "ambitious",
+        "emoji": "🚀",
+        "hindi": "महत्वाकांक्षी",
+        "hinglish": "mahatvaakaankshi"
+      },
+      "meaning": "wanting to achieve big things",
+      "example": "The ambitious girl wants to be a pilot.",
+      "exampleMeaning": {
+        "hi": "महत्वाकांक्षी लड़की पायलट बनना चाहती है।",
+        "hinglish": "Mahatvaakaankshi ladki pilot banna chahti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P07.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "cautious",
+        "emoji": "⚠️",
+        "hindi": "सतर्क",
+        "hinglish": "satark"
+      },
+      "meaning": "careful to avoid danger",
+      "example": "Be cautious on a wet road.",
+      "exampleMeaning": {
+        "hi": "गीली सड़क पर सतर्क रहो।",
+        "hinglish": "Geeli sadak par satark raho."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P07.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "energetic",
+        "emoji": "⚡",
+        "hindi": "फुर्तीला",
+        "hinglish": "phurteela"
+      },
+      "meaning": "full of energy",
+      "example": "The energetic kids ran all day.",
+      "exampleMeaning": {
+        "hi": "फुर्तीले बच्चे दिन भर दौड़ते रहे।",
+        "hinglish": "Phurteele bachche din bhar daudte rahe."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P07.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "creative",
+        "emoji": "🎨",
+        "hindi": "रचनात्मक",
+        "hinglish": "rachnaatmak"
+      },
+      "meaning": "good at making new things",
+      "example": "The creative boy made a toy from waste.",
+      "exampleMeaning": {
+        "hi": "रचनात्मक लड़के ने कबाड़ से खिलौना बनाया।",
+        "hinglish": "Rachnaatmak ladke ne kabaad se khilauna banaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P07.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sincere",
+        "emoji": "🤝",
+        "hindi": "सच्चा",
+        "hinglish": "sachcha"
+      },
+      "meaning": "honest and meaning what you say",
+      "example": "He is a sincere friend.",
+      "exampleMeaning": {
+        "hi": "वह एक सच्चा दोस्त है।",
+        "hinglish": "Woh ek sachcha dost hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P07.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "arrogant",
+        "emoji": "😤",
+        "hindi": "घमंडी",
+        "hinglish": "ghamandi"
+      },
+      "meaning": "thinking you are better than others",
+      "example": "The arrogant king did not listen to anyone.",
+      "exampleMeaning": {
+        "hi": "घमंडी राजा किसी की नहीं सुनता था।",
+        "hinglish": "Ghamandi raja kisi ki nahi sunta tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P07.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "punctual",
+        "emoji": "⏰",
+        "hindi": "समय का पाबंद",
+        "hinglish": "samay ka paaband"
+      },
+      "meaning": "always on time",
+      "example": "Our teacher is always punctual.",
+      "exampleMeaning": {
+        "hi": "हमारे टीचर हमेशा समय के पाबंद हैं।",
+        "hinglish": "Hamare teacher hamesha samay ke paaband hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P07.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "talented",
+        "emoji": "🌟",
+        "hindi": "प्रतिभाशाली",
+        "hinglish": "pratibhaashaali"
+      },
+      "meaning": "very good at something",
+      "example": "She is a talented singer.",
+      "exampleMeaning": {
+        "hi": "वह एक प्रतिभाशाली गायिका है।",
+        "hinglish": "Woh ek pratibhaashaali gaayika hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P07.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "stubborn",
+        "emoji": "🐐",
+        "hindi": "ज़िद्दी",
+        "hinglish": "ziddi"
+      },
+      "meaning": "not willing to change your mind",
+      "example": "The stubborn goat would not move.",
+      "exampleMeaning": {
+        "hi": "ज़िद्दी बकरी टस से मस नहीं हुई।",
+        "hinglish": "Ziddi bakri tas se mas nahi hui."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P07.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "optimistic",
+        "emoji": "🌈",
+        "hindi": "आशावादी",
+        "hinglish": "aashaavaadi"
+      },
+      "meaning": "expecting good things to happen",
+      "example": "Stay optimistic even on bad days.",
+      "exampleMeaning": {
+        "hi": "बुरे दिनों में भी आशावादी रहो।",
+        "hinglish": "Bure dinon mein bhi aashaavaadi raho."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P07.S12",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "cautious",
+        "emoji": "⚠️",
+        "hindi": "सतर्क",
+        "hinglish": "satark"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P07.S13",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "creative",
+        "emoji": "🎨",
+        "hindi": "रचनात्मक",
+        "hinglish": "rachnaatmak"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P07.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "punctual",
+        "emoji": "⏰",
+        "hindi": "समय का पाबंद",
+        "hinglish": "samay ka paaband"
+      },
+      "answer": {
+        "hi": "समय का पाबंद",
+        "hinglish": "samay ka paaband"
+      },
+      "options": [
+        {
+          "hi": "समय का पाबंद",
+          "hinglish": "samay ka paaband"
+        },
+        {
+          "hi": "सतर्क",
+          "hinglish": "satark"
+        },
+        {
+          "hi": "सच्चा",
+          "hinglish": "sachcha"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P07.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ king did not listen to anyone.",
+      "answer": "arrogant",
+      "options": [
+        "arrogant",
+        "ambitious",
+        "creative"
+      ],
+      "meaning": {
+        "hi": "घमंडी",
+        "hinglish": "ghamandi"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P07.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "ambitious",
+        "emoji": "🚀",
+        "hindi": "महत्वाकांक्षी",
+        "hinglish": "mahatvaakaankshi"
+      },
+      "answer": {
+        "hi": "महत्वाकांक्षी",
+        "hinglish": "mahatvaakaankshi"
+      },
+      "options": [
+        {
+          "hi": "महत्वाकांक्षी",
+          "hinglish": "mahatvaakaankshi"
+        },
+        {
+          "hi": "सतर्क",
+          "hinglish": "satark"
+        },
+        {
+          "hi": "घमंडी",
+          "hinglish": "ghamandi"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P07.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sincere",
+        "emoji": "🤝",
+        "hindi": "सच्चा",
+        "hinglish": "sachcha"
+      },
+      "answer": {
+        "hi": "सच्चा",
+        "hinglish": "sachcha"
+      },
+      "options": [
+        {
+          "hi": "सच्चा",
+          "hinglish": "sachcha"
+        },
+        {
+          "hi": "घमंडी",
+          "hinglish": "ghamandi"
+        },
+        {
+          "hi": "महत्वाकांक्षी",
+          "hinglish": "mahatvaakaankshi"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P07.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "energetic",
+        "emoji": "⚡",
+        "hindi": "फुर्तीला",
+        "hinglish": "phurteela"
+      },
+      "answer": {
+        "hi": "फुर्तीला",
+        "hinglish": "phurteela"
+      },
+      "options": [
+        {
+          "hi": "फुर्तीला",
+          "hinglish": "phurteela"
+        },
+        {
+          "hi": "रचनात्मक",
+          "hinglish": "rachnaatmak"
+        },
+        {
+          "hi": "प्रतिभाशाली",
+          "hinglish": "pratibhaashaali"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P07.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Be ___ on a wet road.",
+      "answer": "cautious",
+      "options": [
+        "cautious",
+        "punctual",
+        "optimistic"
+      ],
+      "meaning": {
+        "hi": "सतर्क",
+        "hinglish": "satark"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P07.S20",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "energetic",
+        "emoji": "⚡",
+        "hindi": "फुर्तीला",
+        "hinglish": "phurteela"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P07.S21",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "ambitious",
+        "emoji": "🚀",
+        "hindi": "महत्वाकांक्षी",
+        "hinglish": "mahatvaakaankshi"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P07.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "stubborn",
+      "options": [
+        "stubborn",
+        "optimistic",
+        "ambitious"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P07.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ boy made a toy from waste.",
+      "answer": "creative",
+      "options": [
+        "creative",
+        "energetic",
+        "ambitious"
+      ],
+      "meaning": {
+        "hi": "रचनात्मक",
+        "hinglish": "rachnaatmak"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P07.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "optimistic",
+      "options": [
+        "optimistic",
+        "energetic",
+        "cautious"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P07.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "She is a ___ singer.",
+      "answer": "talented",
+      "options": [
+        "talented",
+        "arrogant",
+        "punctual"
+      ],
+      "meaning": {
+        "hi": "प्रतिभाशाली",
+        "hinglish": "pratibhaashaali"
+      }
+    }
+  ]
+}

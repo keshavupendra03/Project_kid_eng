@@ -1,0 +1,480 @@
+{
+  "id": "L2.U47",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U47.S01",
+      "text": {
+        "hi": "बड़ी गिनती: 19, 20, 30…",
+        "hinglish": "Badi ginti: 19, 20, 30…",
+        "en": "Bigger numbers: 19, 20, 30…"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U47.S02",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘nineteen’ मतलब ‘उन्नीस’।",
+        "hinglish": "‘nineteen’ matlab ‘unnees’.",
+        "en": "Say it with me: nineteen!"
+      },
+      "word": {
+        "english": "nineteen",
+        "emoji": "19",
+        "hindi": "उन्नीस",
+        "hinglish": "unnees"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U47.S03",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘twenty’ मतलब ‘बीस’।",
+        "hinglish": "‘twenty’ matlab ‘bees’.",
+        "en": "Say it with me: twenty!"
+      },
+      "word": {
+        "english": "twenty",
+        "emoji": "20",
+        "hindi": "बीस",
+        "hinglish": "bees"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U47.S04",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "nineteen",
+      "options": [
+        {
+          "english": "nineteen",
+          "emoji": "19",
+          "hindi": "उन्नीस",
+          "hinglish": "unnees"
+        },
+        {
+          "english": "forty",
+          "emoji": "40",
+          "hindi": "चालीस",
+          "hinglish": "chaalees"
+        },
+        {
+          "english": "sixty",
+          "emoji": "60",
+          "hindi": "साठ",
+          "hinglish": "saath"
+        },
+        {
+          "english": "fifty",
+          "emoji": "50",
+          "hindi": "पचास",
+          "hinglish": "pachaas"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U47.S05",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "20",
+      "answer": "twenty",
+      "options": [
+        "twenty",
+        "fifty",
+        "seventy"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U47.S06",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘thirty’ मतलब ‘तीस’।",
+        "hinglish": "‘thirty’ matlab ‘tees’.",
+        "en": "Say it with me: thirty!"
+      },
+      "word": {
+        "english": "thirty",
+        "emoji": "30",
+        "hindi": "तीस",
+        "hinglish": "tees"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U47.S07",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘forty’ मतलब ‘चालीस’।",
+        "hinglish": "‘forty’ matlab ‘chaalees’.",
+        "en": "Say it with me: forty!"
+      },
+      "word": {
+        "english": "forty",
+        "emoji": "40",
+        "hindi": "चालीस",
+        "hinglish": "chaalees"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U47.S08",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "thirty",
+      "options": [
+        {
+          "english": "thirty",
+          "emoji": "30",
+          "hindi": "तीस",
+          "hinglish": "tees"
+        },
+        {
+          "english": "forty",
+          "emoji": "40",
+          "hindi": "चालीस",
+          "hinglish": "chaalees"
+        },
+        {
+          "english": "eighty",
+          "emoji": "80",
+          "hindi": "अस्सी",
+          "hinglish": "assi"
+        },
+        {
+          "english": "twenty",
+          "emoji": "20",
+          "hindi": "बीस",
+          "hinglish": "bees"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U47.S09",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "40",
+      "answer": "forty",
+      "options": [
+        "forty",
+        "seventy",
+        "twenty"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U47.S10",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘fifty’ मतलब ‘पचास’।",
+        "hinglish": "‘fifty’ matlab ‘pachaas’.",
+        "en": "Say it with me: fifty!"
+      },
+      "word": {
+        "english": "fifty",
+        "emoji": "50",
+        "hindi": "पचास",
+        "hinglish": "pachaas"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U47.S11",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘sixty’ मतलब ‘साठ’।",
+        "hinglish": "‘sixty’ matlab ‘saath’.",
+        "en": "Say it with me: sixty!"
+      },
+      "word": {
+        "english": "sixty",
+        "emoji": "60",
+        "hindi": "साठ",
+        "hinglish": "saath"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U47.S12",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "fifty",
+      "options": [
+        {
+          "english": "fifty",
+          "emoji": "50",
+          "hindi": "पचास",
+          "hinglish": "pachaas"
+        },
+        {
+          "english": "seventy",
+          "emoji": "70",
+          "hindi": "सत्तर",
+          "hinglish": "sattar"
+        },
+        {
+          "english": "eighty",
+          "emoji": "80",
+          "hindi": "अस्सी",
+          "hinglish": "assi"
+        },
+        {
+          "english": "forty",
+          "emoji": "40",
+          "hindi": "चालीस",
+          "hinglish": "chaalees"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U47.S13",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "60",
+      "answer": "sixty",
+      "options": [
+        "sixty",
+        "fifty",
+        "seventy"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U47.S14",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘seventy’ मतलब ‘सत्तर’।",
+        "hinglish": "‘seventy’ matlab ‘sattar’.",
+        "en": "Say it with me: seventy!"
+      },
+      "word": {
+        "english": "seventy",
+        "emoji": "70",
+        "hindi": "सत्तर",
+        "hinglish": "sattar"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U47.S15",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘eighty’ मतलब ‘अस्सी’।",
+        "hinglish": "‘eighty’ matlab ‘assi’.",
+        "en": "Say it with me: eighty!"
+      },
+      "word": {
+        "english": "eighty",
+        "emoji": "80",
+        "hindi": "अस्सी",
+        "hinglish": "assi"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U47.S16",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "seventy",
+      "options": [
+        {
+          "english": "seventy",
+          "emoji": "70",
+          "hindi": "सत्तर",
+          "hinglish": "sattar"
+        },
+        {
+          "english": "sixty",
+          "emoji": "60",
+          "hindi": "साठ",
+          "hinglish": "saath"
+        },
+        {
+          "english": "thirty",
+          "emoji": "30",
+          "hindi": "तीस",
+          "hinglish": "tees"
+        },
+        {
+          "english": "twenty",
+          "emoji": "20",
+          "hindi": "बीस",
+          "hinglish": "bees"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U47.S17",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "80",
+      "answer": "eighty",
+      "options": [
+        "eighty",
+        "sixty",
+        "fifty"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U47.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "eighty",
+        "emoji": "80",
+        "hindi": "अस्सी",
+        "hinglish": "assi"
+      },
+      "answer": {
+        "hi": "अस्सी",
+        "hinglish": "assi"
+      },
+      "options": [
+        {
+          "hi": "अस्सी",
+          "hinglish": "assi"
+        },
+        {
+          "hi": "साठ",
+          "hinglish": "saath"
+        },
+        {
+          "hi": "तीस",
+          "hinglish": "tees"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U47.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "fifty",
+        "emoji": "50",
+        "hindi": "पचास",
+        "hinglish": "pachaas"
+      },
+      "answer": {
+        "hi": "पचास",
+        "hinglish": "pachaas"
+      },
+      "options": [
+        {
+          "hi": "पचास",
+          "hinglish": "pachaas"
+        },
+        {
+          "hi": "सत्तर",
+          "hinglish": "sattar"
+        },
+        {
+          "hi": "चालीस",
+          "hinglish": "chaalees"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U47.S20",
+      "skills": [
+        "speak.word",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "forty",
+        "emoji": "40",
+        "hindi": "चालीस",
+        "hinglish": "chaalees"
+      },
+      "accept": [
+        "40"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U47.S21",
+      "skills": [
+        "speak.word",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "fifty",
+        "emoji": "50",
+        "hindi": "पचास",
+        "hinglish": "pachaas"
+      },
+      "accept": [
+        "50"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U47.S22",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "answer": "thirty",
+      "options": [
+        "thirty",
+        "forty",
+        "nineteen"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U47.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: nineteen, twenty, thirty, forty, fifty, sixty, seventy, eighty।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: nineteen, twenty, thirty, forty, fifty, sixty, seventy, eighty.",
+        "en": "Well done! Today's new words: nineteen, twenty, thirty, forty, fifty, sixty, seventy, eighty."
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": "R2.P05",
+  "level": 102,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R2.P05.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘The Shop’ (दुकान)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘The Shop’ (Dukaan). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘The Shop’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P05.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘shop’ मतलब दुकान। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘shop’ matlab dukaan. Chhookar suno, phir bolo.",
+        "en": "‘shop’ means दुकान. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "shop",
+        "emoji": "🏪",
+        "hindi": "दुकान",
+        "hinglish": "dukaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P05.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘buy’ मतलब खरीदना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘buy’ matlab khareedna. Chhookar suno, phir bolo.",
+        "en": "‘buy’ means खरीदना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "buy",
+        "emoji": "💰",
+        "hindi": "खरीदना",
+        "hinglish": "khareedna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R2.P05.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘thank you’ मतलब धन्यवाद। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘thank you’ matlab dhanyavaad. Chhookar suno, phir bolo.",
+        "en": "‘thank you’ means धन्यवाद. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "thank you",
+        "emoji": "🙏",
+        "hindi": "धन्यवाद",
+        "hinglish": "dhanyavaad"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R2.P05.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "दुकान",
+        "hinglish": "Dukaan",
+        "en": "The Shop"
+      },
+      "sentences": [
+        "Papa and I go to the shop.",
+        "I want a ball.",
+        "Papa buys a blue ball.",
+        "I say thank you.",
+        "I play with it all day."
+      ],
+      "words": [
+        {
+          "english": "shop",
+          "emoji": "🏪",
+          "hindi": "दुकान",
+          "hinglish": "dukaan"
+        },
+        {
+          "english": "buy",
+          "emoji": "💰",
+          "hindi": "खरीदना",
+          "hinglish": "khareedna"
+        },
+        {
+          "english": "thank you",
+          "emoji": "🙏",
+          "hindi": "धन्यवाद",
+          "hinglish": "dhanyavaad"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P05.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "पापा क्या खरीदते हैं?",
+        "hinglish": "Papa kya khareedte hain?",
+        "en": "What does Papa buy?"
+      },
+      "options": [
+        "a blue ball",
+        "a red bag",
+        "a hat"
+      ],
+      "answer": "a blue ball"
+    },
+    {
+      "type": "story_question",
+      "id": "R2.P05.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "बच्चा पापा से क्या कहता है?",
+        "hinglish": "Bachcha Papa se kya kehta hai?",
+        "en": "What does the child say to Papa?"
+      },
+      "options": [
+        "thank you",
+        "good night",
+        "sorry"
+      ],
+      "answer": "thank you"
+    }
+  ]
+}

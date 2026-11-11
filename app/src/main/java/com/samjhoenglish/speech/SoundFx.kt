@@ -23,13 +23,19 @@ class SoundFx {
         volume = 0.45,
     )
 
+    /** Parents can turn the chimes off in Settings. The mic's "speak now" ding always plays. */
+    var chimesOn = true
+
     /** A short "ding": the mic is open, speak now. */
     private val micReady = chime(listOf(880.0 to 0.06, 1318.5 to 0.10), volume = 0.3)
 
+    private val star = chime(listOf(1568.0 to 0.06, 2093.0 to 0.14), volume = 0.3)
+
     fun playMicReady() = play(micReady)
-    fun playCorrect() = play(correct)
-    fun playTryAgain() = play(tryAgain)
-    fun playCelebrate() = play(celebrate)
+    fun playStar() = if (chimesOn) play(star) else Unit
+    fun playCorrect() = if (chimesOn) play(correct) else Unit
+    fun playTryAgain() = if (chimesOn) play(tryAgain) else Unit
+    fun playCelebrate() = if (chimesOn) play(celebrate) else Unit
 
     private fun chime(notes: List<Pair<Double, Double>>, volume: Double): ShortArray {
         val samples = ArrayList<Short>()

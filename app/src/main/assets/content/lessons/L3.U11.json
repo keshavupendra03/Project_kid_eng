@@ -294,8 +294,22 @@
       }
     },
     {
-      "type": "learn_card",
+      "type": "teach_tinku",
       "id": "L3.U11.S13",
+      "skills": [
+        "speak.sentence",
+        "grammar.want"
+      ],
+      "wrong": "I wants a toffee.",
+      "answer": "I want a toffee.",
+      "meaning": {
+        "hi": "मुझे एक टॉफ़ी चाहिए।",
+        "hinglish": "Mujhe ek toffee chahiye."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L3.U11.S14",
       "text": {
         "hi": "शाबाश! अब ऐसी लाइनें बोलना तुम्हारे लिए आसान है। रोज़ बोलकर प्रैक्टिस करो!",
         "hinglish": "Shabaash! Ab aisi lines bolna tumhare liye aasaan hai. Roz bolkar practice karo!",

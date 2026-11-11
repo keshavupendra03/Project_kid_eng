@@ -1,0 +1,189 @@
+{
+  "id": "W34.P06T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "W34.P06T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I hit my ___ on the door.",
+      "answer": "elbow",
+      "options": [
+        "elbow",
+        "injury",
+        "wrist"
+      ],
+      "meaning": {
+        "hi": "कोहनी",
+        "hinglish": "kohni"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P06T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "healthy",
+      "options": [
+        "healthy",
+        "elbow",
+        "injury"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P06T.S03",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "exercise",
+        "emoji": "🤸",
+        "hindi": "व्यायाम",
+        "hinglish": "vyaayaam"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P06T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "medicine",
+        "emoji": "💊",
+        "hindi": "दवाई",
+        "hinglish": "dawaai"
+      },
+      "answer": {
+        "hi": "दवाई",
+        "hinglish": "dawaai"
+      },
+      "options": [
+        {
+          "hi": "दवाई",
+          "hinglish": "dawaai"
+        },
+        {
+          "hi": "स्वस्थ",
+          "hinglish": "swasth"
+        },
+        {
+          "hi": "खाँसी",
+          "hinglish": "khaansi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P06T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The doctor looked at my ___.",
+      "answer": "tongue",
+      "options": [
+        "tongue",
+        "medicine",
+        "exercise"
+      ],
+      "meaning": {
+        "hi": "जीभ",
+        "hinglish": "jeebh"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P06T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "wrist",
+      "options": [
+        "wrist",
+        "tongue",
+        "medicine"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P06T.S07",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "cough",
+        "emoji": "😷",
+        "hindi": "खाँसी",
+        "hinglish": "khaansi"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P06T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "germs",
+        "emoji": "🦠",
+        "hindi": "कीटाणु",
+        "hinglish": "keetaanu"
+      },
+      "answer": {
+        "hi": "कीटाणु",
+        "hinglish": "keetaanu"
+      },
+      "options": [
+        {
+          "hi": "कीटाणु",
+          "hinglish": "keetaanu"
+        },
+        {
+          "hi": "कलाई",
+          "hinglish": "kalaai"
+        },
+        {
+          "hi": "स्वस्थ",
+          "hinglish": "swasth"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P06T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "He got an ___ while playing football.",
+      "answer": "injury",
+      "options": [
+        "injury",
+        "wrist",
+        "germs"
+      ],
+      "meaning": {
+        "hi": "चोट",
+        "hinglish": "chot"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P06T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "fever",
+      "options": [
+        "fever",
+        "injury",
+        "tongue"
+      ]
+    }
+  ]
+}

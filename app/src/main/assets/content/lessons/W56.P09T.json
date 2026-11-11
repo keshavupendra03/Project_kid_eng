@@ -1,0 +1,207 @@
+{
+  "id": "W56.P09T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "match_meaning",
+      "id": "W56.P09T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "quiet",
+        "emoji": "🤫",
+        "hindi": "शांत",
+        "hinglish": "shaant"
+      },
+      "answer": {
+        "hi": "शांत",
+        "hinglish": "shaant"
+      },
+      "options": [
+        {
+          "hi": "शांत",
+          "hinglish": "shaant"
+        },
+        {
+          "hi": "खो देना",
+          "hinglish": "kho dena"
+        },
+        {
+          "hi": "के सिवा",
+          "hinglish": "ke siva"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P09T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "My teacher gave me good ___.",
+      "answer": "advice",
+      "options": [
+        "advice",
+        "dessert",
+        "quiet"
+      ],
+      "meaning": {
+        "hi": "सलाह",
+        "hinglish": "salaah"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P09T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "quite",
+      "options": [
+        "quite",
+        "dessert",
+        "lose"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P09T.S04",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "accept",
+        "emoji": "✅",
+        "hindi": "स्वीकार करना",
+        "hinglish": "sweekaar karna"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P09T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "dessert",
+        "emoji": "🍨",
+        "hindi": "मीठा",
+        "hinglish": "meetha"
+      },
+      "answer": {
+        "hi": "मीठा",
+        "hinglish": "meetha"
+      },
+      "options": [
+        {
+          "hi": "मीठा",
+          "hinglish": "meetha"
+        },
+        {
+          "hi": "शांत",
+          "hinglish": "shaant"
+        },
+        {
+          "hi": "सलाह",
+          "hinglish": "salaah"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P09T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Do not ___ your pencil.",
+      "answer": "lose",
+      "options": [
+        "lose",
+        "advise",
+        "quite"
+      ],
+      "meaning": {
+        "hi": "खो देना",
+        "hinglish": "kho dena"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P09T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "loose",
+      "options": [
+        "loose",
+        "stationery",
+        "dessert"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P09T.S08",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "advise",
+        "emoji": "🧑‍🏫",
+        "hindi": "सलाह देना",
+        "hinglish": "salaah dena"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P09T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "stationery",
+        "emoji": "✏️",
+        "hindi": "लेखन सामग्री",
+        "hinglish": "lekhan saamagri"
+      },
+      "answer": {
+        "hi": "लेखन सामग्री",
+        "hinglish": "lekhan saamagri"
+      },
+      "options": [
+        {
+          "hi": "लेखन सामग्री",
+          "hinglish": "lekhan saamagri"
+        },
+        {
+          "hi": "मीठा",
+          "hinglish": "meetha"
+        },
+        {
+          "hi": "स्वीकार करना",
+          "hinglish": "sweekaar karna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P09T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Everyone came ___ Rohan.",
+      "answer": "except",
+      "options": [
+        "except",
+        "advice",
+        "accept"
+      ],
+      "meaning": {
+        "hi": "के सिवा",
+        "hinglish": "ke siva"
+      }
+    }
+  ]
+}

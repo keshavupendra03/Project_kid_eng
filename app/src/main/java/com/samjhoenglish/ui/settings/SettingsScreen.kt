@@ -2,6 +2,7 @@ package com.samjhoenglish.ui.settings
 
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
@@ -18,6 +19,12 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.saveable.rememberSaveable
+import androidx.compose.runtime.setValue
+import com.samjhoenglish.lab.Lab
+import com.samjhoenglish.lab.ReadAlongLab
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
@@ -47,9 +54,16 @@ fun SettingsScreen(
     onLanguageChange: (AppLanguage) -> Unit,
     englishVoice: EnglishVoice,
     onEnglishVoiceChange: (EnglishVoice) -> Unit,
+    chimesOn: Boolean,
+    onChimesChange: (Boolean) -> Unit,
     onBack: () -> Unit,
 ) {
     val speaker = LocalSpeaker.current
+    var showLab by rememberSaveable { mutableStateOf(false) }
+    if (showLab) {
+        ReadAlongLab(onBack = { showLab = false })
+        return
+    }
     Column(
         Modifier
             .fillMaxSize()
@@ -88,6 +102,20 @@ fun SettingsScreen(
                     },
                 )
             }
+        }
+
+        Spacer(Modifier.height(32.dp))
+        Text(UiStrings.soundEffects.text(), style = MaterialTheme.typography.titleLarge)
+        Spacer(Modifier.height(12.dp))
+        Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+            Box(Modifier.weight(1f)) { VoiceOption(UiStrings.on, selected = chimesOn, onClick = { onChimesChange(true) }) }
+            Box(Modifier.weight(1f)) { VoiceOption(UiStrings.off, selected = !chimesOn, onClick = { onChimesChange(false) }) }
+        }
+
+        if (Lab.AVAILABLE) {
+            Spacer(Modifier.height(32.dp))
+            val label = "Read-along test (test build only)"
+            VoiceOption(L(label, label, label), selected = false, onClick = { showLab = true })
         }
     }
 }

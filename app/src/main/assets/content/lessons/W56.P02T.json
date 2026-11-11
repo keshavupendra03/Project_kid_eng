@@ -1,0 +1,189 @@
+{
+  "id": "W56.P02T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "W56.P02T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We must ___ water in summer.",
+      "answer": "conserve",
+      "options": [
+        "conserve",
+        "plastic",
+        "wildlife"
+      ],
+      "meaning": {
+        "hi": "बचाना",
+        "hinglish": "bachaana"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P02T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "recycle",
+      "options": [
+        "recycle",
+        "wildlife",
+        "plastic"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P02T.S03",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "pollution",
+        "emoji": "🏭",
+        "hindi": "प्रदूषण",
+        "hinglish": "pradooshan"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P02T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "wildlife",
+        "emoji": "🐅",
+        "hindi": "वन्यजीव",
+        "hinglish": "vanyajeev"
+      },
+      "answer": {
+        "hi": "वन्यजीव",
+        "hinglish": "vanyajeev"
+      },
+      "options": [
+        {
+          "hi": "वन्यजीव",
+          "hinglish": "vanyajeev"
+        },
+        {
+          "hi": "पर्यावरण",
+          "hinglish": "paryaavaran"
+        },
+        {
+          "hi": "रक्षा करना",
+          "hinglish": "raksha karna"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P02T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We must keep our ___ clean.",
+      "answer": "environment",
+      "options": [
+        "environment",
+        "climate",
+        "wildlife"
+      ],
+      "meaning": {
+        "hi": "पर्यावरण",
+        "hinglish": "paryaavaran"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P02T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "waste",
+      "options": [
+        "waste",
+        "garbage",
+        "environment"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W56.P02T.S07",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "climate",
+        "emoji": "🌡️",
+        "hindi": "जलवायु",
+        "hinglish": "jalvaayu"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P02T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "protect",
+        "emoji": "🛡️",
+        "hindi": "रक्षा करना",
+        "hinglish": "raksha karna"
+      },
+      "answer": {
+        "hi": "रक्षा करना",
+        "hinglish": "raksha karna"
+      },
+      "options": [
+        {
+          "hi": "रक्षा करना",
+          "hinglish": "raksha karna"
+        },
+        {
+          "hi": "कूड़ा",
+          "hinglish": "kooda"
+        },
+        {
+          "hi": "जलवायु",
+          "hinglish": "jalvaayu"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P02T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Put the ___ in the dustbin.",
+      "answer": "garbage",
+      "options": [
+        "garbage",
+        "conserve",
+        "climate"
+      ],
+      "meaning": {
+        "hi": "कूड़ा",
+        "hinglish": "kooda"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P02T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "plastic",
+      "options": [
+        "plastic",
+        "environment",
+        "climate"
+      ]
+    }
+  ]
+}

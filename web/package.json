@@ -1,0 +1,1 @@
+{ "name": "samjho-school", "private": true, "type": "module", "scripts": { "db:local": "wrangler d1 migrations apply samjho-school --local", "dev": "wrangler pages dev", "test": "node --test test/e2e.test.mjs" }, "devDependencies": { "wrangler": "^4" } }

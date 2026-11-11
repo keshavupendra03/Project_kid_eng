@@ -42,8 +42,14 @@ import com.samjhoenglish.content.FillBlank
 import com.samjhoenglish.content.FindEnglish
 import com.samjhoenglish.content.ListenRead
 import com.samjhoenglish.content.MatchMeaning
+import com.samjhoenglish.content.LearnWord
+import com.samjhoenglish.content.ReadAlong
+import com.samjhoenglish.content.Roleplay
+import com.samjhoenglish.content.SpellWord
+import com.samjhoenglish.content.StoryQuestion
 import com.samjhoenglish.content.SentenceTrain
 import com.samjhoenglish.content.SpotMistake
+import com.samjhoenglish.content.TeachTinku
 import com.samjhoenglish.content.LearnCard
 import com.samjhoenglish.content.LearnSound
 import com.samjhoenglish.content.ListenTap
@@ -86,6 +92,12 @@ fun StepContent(step: Step, feedback: Feedback, onAnswer: OnAnswer, onSkip: () -
         is SentenceTrain -> SentenceTrainStep(step, feedback, onAnswer)
         is FillBlank -> FillBlankStep(step, feedback, onAnswer)
         is SpotMistake -> SpotMistakeStep(step, feedback, onAnswer)
+        is TeachTinku -> TeachTinkuStep(step, feedback, onAnswer, onSkip)
+        is Roleplay -> RoleplayStep(step, feedback, onAnswer, onSkip)
+        is ReadAlong -> ReadAlongStep(step, feedback, onAnswer, onSkip)
+        is StoryQuestion -> StoryQuestionStep(step, feedback, onAnswer)
+        is LearnWord -> LearnWordStep(step)
+        is SpellWord -> SpellWordStep(step, feedback, onAnswer)
     }
 }
 

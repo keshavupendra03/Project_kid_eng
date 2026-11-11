@@ -1,0 +1,189 @@
+{
+  "id": "W78.P06T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "W78.P06T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I do not know ___ it will rain.",
+      "answer": "whether",
+      "options": [
+        "whether",
+        "principal",
+        "counsel"
+      ],
+      "meaning": {
+        "hi": "कि क्या",
+        "hinglish": "ki kya"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P06T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "principal",
+      "options": [
+        "principal",
+        "principle",
+        "compliment"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P06T.S03",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "stationary",
+        "emoji": "🛑",
+        "hindi": "स्थिर",
+        "hinglish": "sthir"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P06T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "counsel",
+        "emoji": "🗣️",
+        "hindi": "सलाह देना",
+        "hinglish": "salaah dena"
+      },
+      "answer": {
+        "hi": "सलाह देना",
+        "hinglish": "salaah dena"
+      },
+      "options": [
+        {
+          "hi": "सलाह देना",
+          "hinglish": "salaah dena"
+        },
+        {
+          "hi": "कि क्या",
+          "hinglish": "ki kya"
+        },
+        {
+          "hi": "प्रधानाचार्य",
+          "hinglish": "pradhaanaachaarya"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P06T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The village ___ met today.",
+      "answer": "council",
+      "options": [
+        "council",
+        "stationary",
+        "complement"
+      ],
+      "meaning": {
+        "hi": "परिषद",
+        "hinglish": "parishad"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P06T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "affect",
+      "options": [
+        "affect",
+        "whether",
+        "stationary"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P06T.S07",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "complement",
+        "emoji": "🧩",
+        "hindi": "पूरक",
+        "hinglish": "poorak"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P06T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "effect",
+        "emoji": "💥",
+        "hindi": "असर",
+        "hinglish": "asar"
+      },
+      "answer": {
+        "hi": "असर",
+        "hinglish": "asar"
+      },
+      "options": [
+        {
+          "hi": "असर",
+          "hinglish": "asar"
+        },
+        {
+          "hi": "कि क्या",
+          "hinglish": "ki kya"
+        },
+        {
+          "hi": "पूरक",
+          "hinglish": "poorak"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P06T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Honesty is his main ___.",
+      "answer": "principle",
+      "options": [
+        "principle",
+        "whether",
+        "compliment"
+      ],
+      "meaning": {
+        "hi": "सिद्धांत",
+        "hinglish": "siddhaant"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P06T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "compliment",
+      "options": [
+        "compliment",
+        "stationary",
+        "effect"
+      ]
+    }
+  ]
+}

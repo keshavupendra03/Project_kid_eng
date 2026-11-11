@@ -23,7 +23,7 @@
       "text": {
         "hi": "यह ‘j’ है। इसकी आवाज़ है ‘ज’, जैसे juice में।",
         "hinglish": "Yeh ‘j’ hai. Iski awaaz hai ‘j’, jaise juice mein.",
-        "en": "This is ‘j’. Listen to its sound, like at the start of juice."
+        "en": "This is ‘j’. Listen to its sound, as in juice."
       },
       "example": {
         "english": "juice",
@@ -44,7 +44,7 @@
       "text": {
         "hi": "यह ‘y’ है। इसकी आवाज़ है ‘य’, जैसे yellow में।",
         "hinglish": "Yeh ‘y’ hai. Iski awaaz hai ‘y’, jaise yellow mein.",
-        "en": "This is ‘y’. Listen to its sound, like at the start of yellow."
+        "en": "This is ‘y’. Listen to its sound, as in yellow."
       },
       "example": {
         "english": "yellow",
@@ -172,17 +172,16 @@
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L1.U07.S10",
       "skills": [
         "read.word",
         "phonics.blend"
       ],
-      "emoji": "✅",
       "answer": "yes",
       "options": [
         "yes",
-        "jet",
+        "zip",
         "jam"
       ]
     },
@@ -235,17 +234,16 @@
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L1.U07.S13",
       "skills": [
         "read.word",
         "phonics.blend"
       ],
-      "emoji": "🍯",
       "answer": "jam",
       "options": [
         "jam",
-        "yes",
+        "jet",
         "zip"
       ]
     },

@@ -1,0 +1,185 @@
+{
+  "id": "W78.P03T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "listen_read",
+      "id": "W78.P03T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "internet",
+      "options": [
+        "internet",
+        "device",
+        "satellite"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P03T.S02",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "password",
+        "emoji": "🔐",
+        "hindi": "पासवर्ड",
+        "hinglish": "password"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P03T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "robot",
+        "emoji": "🤖",
+        "hindi": "रोबोट",
+        "hinglish": "robot"
+      },
+      "answer": {
+        "hi": "रोबोट",
+        "hinglish": "robot"
+      },
+      "options": [
+        {
+          "hi": "रोबोट",
+          "hinglish": "robot"
+        },
+        {
+          "hi": "खोज",
+          "hinglish": "khoj"
+        },
+        {
+          "hi": "उपग्रह",
+          "hinglish": "upgrah"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P03T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "A phone is a useful ___.",
+      "answer": "device",
+      "options": [
+        "device",
+        "robot",
+        "research"
+      ],
+      "meaning": {
+        "hi": "उपकरण",
+        "hinglish": "upkaran"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P03T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "technology",
+      "options": [
+        "technology",
+        "password",
+        "device"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P03T.S06",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "electricity",
+        "emoji": "⚡",
+        "hindi": "बिजली",
+        "hinglish": "bijli"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P03T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "satellite",
+        "emoji": "🛰️",
+        "hindi": "उपग्रह",
+        "hinglish": "upgrah"
+      },
+      "answer": {
+        "hi": "उपग्रह",
+        "hinglish": "upgrah"
+      },
+      "options": [
+        {
+          "hi": "उपग्रह",
+          "hinglish": "upgrah"
+        },
+        {
+          "hi": "उपकरण",
+          "hinglish": "upkaran"
+        },
+        {
+          "hi": "पासवर्ड",
+          "hinglish": "password"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P03T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ of fire changed human life.",
+      "answer": "discovery",
+      "options": [
+        "discovery",
+        "satellite",
+        "password"
+      ],
+      "meaning": {
+        "hi": "खोज",
+        "hinglish": "khoj"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P03T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "research",
+      "options": [
+        "research",
+        "password",
+        "electricity"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P03T.S10",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "software",
+        "emoji": "💾",
+        "hindi": "सॉफ़्टवेयर",
+        "hinglish": "software"
+      },
+      "typed": true
+    }
+  ]
+}

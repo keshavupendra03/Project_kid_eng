@@ -1,0 +1,480 @@
+{
+  "id": "W78.P02",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P02.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: समाज और सरकार। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Samaaj aur sarkaar. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Society and government. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P02.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "citizen",
+        "emoji": "🧑",
+        "hindi": "नागरिक",
+        "hinglish": "naagrik"
+      },
+      "meaning": "a person who belongs to a country",
+      "example": "Every citizen should follow the rules.",
+      "exampleMeaning": {
+        "hi": "हर नागरिक को नियमों का पालन करना चाहिए।",
+        "hinglish": "Har naagrik ko niyamon ka paalan karna chahiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P02.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "government",
+        "emoji": "🏛️",
+        "hindi": "सरकार",
+        "hinglish": "sarkaar"
+      },
+      "meaning": "the group of people who run a country",
+      "example": "The government builds roads and schools.",
+      "exampleMeaning": {
+        "hi": "सरकार सड़कें और स्कूल बनाती है।",
+        "hinglish": "Sarkaar sadkein aur school banaati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P02.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "election",
+        "emoji": "🗳️",
+        "hindi": "चुनाव",
+        "hinglish": "chunaav"
+      },
+      "meaning": "choosing leaders by voting",
+      "example": "The election will be held next month.",
+      "exampleMeaning": {
+        "hi": "चुनाव अगले महीने होगा।",
+        "hinglish": "Chunaav agle mahine hoga."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P02.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "vote",
+        "emoji": "✅",
+        "hindi": "मत देना",
+        "hinglish": "mat dena"
+      },
+      "meaning": "to choose someone in an election",
+      "example": "You can vote when you are eighteen.",
+      "exampleMeaning": {
+        "hi": "अठारह साल के होने पर तुम वोट दे सकते हो।",
+        "hinglish": "Athaarah saal ke hone par tum vote de sakte ho."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P02.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "law",
+        "emoji": "📜",
+        "hindi": "कानून",
+        "hinglish": "kaanoon"
+      },
+      "meaning": "a rule made by the government",
+      "example": "Wearing a helmet is the law.",
+      "exampleMeaning": {
+        "hi": "हेलमेट पहनना कानून है।",
+        "hinglish": "Helmet pehenna kaanoon hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P02.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "rights",
+        "emoji": "✋",
+        "hindi": "अधिकार",
+        "hinglish": "adhikaar"
+      },
+      "meaning": "things every person is allowed to have or do",
+      "example": "Every child has rights to food, school and safety.",
+      "exampleMeaning": {
+        "hi": "हर बच्चे को खाना, पढ़ाई और सुरक्षा का अधिकार है।",
+        "hinglish": "Har bachche ko khaana, padhaai aur suraksha ka adhikaar hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P02.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "duty",
+        "emoji": "📋",
+        "hindi": "कर्तव्य",
+        "hinglish": "kartavya"
+      },
+      "meaning": "something you must do",
+      "example": "It is our duty to keep the city clean.",
+      "exampleMeaning": {
+        "hi": "शहर को साफ़ रखना हमारा कर्तव्य है।",
+        "hinglish": "Shehar ko saaf rakhna hamara kartavya hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P02.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "tax",
+        "emoji": "💰",
+        "hindi": "कर",
+        "hinglish": "kar"
+      },
+      "meaning": "money people pay to the government",
+      "example": "The government uses tax money to build hospitals.",
+      "exampleMeaning": {
+        "hi": "सरकार टैक्स के पैसों से अस्पताल बनाती है।",
+        "hinglish": "Sarkaar tax ke paison se aspataal banaati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P02.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "community",
+        "emoji": "🏘️",
+        "hindi": "समुदाय",
+        "hinglish": "samudaay"
+      },
+      "meaning": "the people living in one area",
+      "example": "Our community planted trees together.",
+      "exampleMeaning": {
+        "hi": "हमारे समुदाय ने मिलकर पेड़ लगाए।",
+        "hinglish": "Hamare samudaay ne milkar ped lagaaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P02.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "volunteer",
+        "emoji": "🙋",
+        "hindi": "स्वयंसेवक",
+        "hinglish": "swayamsevak"
+      },
+      "meaning": "a person who helps without being paid",
+      "example": "She is a volunteer at the animal shelter.",
+      "exampleMeaning": {
+        "hi": "वह जानवरों के आश्रय में स्वयंसेवक है।",
+        "hinglish": "Woh jaanwaron ke aashray mein swayamsevak hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P02.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "You can ___ when you are eighteen.",
+      "answer": "vote",
+      "options": [
+        "vote",
+        "tax",
+        "community"
+      ],
+      "meaning": {
+        "hi": "मत देना",
+        "hinglish": "mat dena"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P02.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ builds roads and schools.",
+      "answer": "government",
+      "options": [
+        "government",
+        "law",
+        "election"
+      ],
+      "meaning": {
+        "hi": "सरकार",
+        "hinglish": "sarkaar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P02.S14",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "citizen",
+        "emoji": "🧑",
+        "hindi": "नागरिक",
+        "hinglish": "naagrik"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P02.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "community",
+      "options": [
+        "community",
+        "election",
+        "duty"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P02.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Every child has ___ to food, school and safety.",
+      "answer": "rights",
+      "options": [
+        "rights",
+        "vote",
+        "law"
+      ],
+      "meaning": {
+        "hi": "अधिकार",
+        "hinglish": "adhikaar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P02.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "volunteer",
+      "options": [
+        "volunteer",
+        "law",
+        "citizen"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P02.S18",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "election",
+        "emoji": "🗳️",
+        "hindi": "चुनाव",
+        "hinglish": "chunaav"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P02.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The government uses ___ money to build hospitals.",
+      "answer": "tax",
+      "options": [
+        "tax",
+        "government",
+        "law"
+      ],
+      "meaning": {
+        "hi": "कर",
+        "hinglish": "kar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P02.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "election",
+        "emoji": "🗳️",
+        "hindi": "चुनाव",
+        "hinglish": "chunaav"
+      },
+      "answer": {
+        "hi": "चुनाव",
+        "hinglish": "chunaav"
+      },
+      "options": [
+        {
+          "hi": "चुनाव",
+          "hinglish": "chunaav"
+        },
+        {
+          "hi": "कर",
+          "hinglish": "kar"
+        },
+        {
+          "hi": "अधिकार",
+          "hinglish": "adhikaar"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P02.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "duty",
+        "emoji": "📋",
+        "hindi": "कर्तव्य",
+        "hinglish": "kartavya"
+      },
+      "answer": {
+        "hi": "कर्तव्य",
+        "hinglish": "kartavya"
+      },
+      "options": [
+        {
+          "hi": "कर्तव्य",
+          "hinglish": "kartavya"
+        },
+        {
+          "hi": "नागरिक",
+          "hinglish": "naagrik"
+        },
+        {
+          "hi": "चुनाव",
+          "hinglish": "chunaav"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P02.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "vote",
+        "emoji": "✅",
+        "hindi": "मत देना",
+        "hinglish": "mat dena"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P02.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "citizen",
+        "emoji": "🧑",
+        "hindi": "नागरिक",
+        "hinglish": "naagrik"
+      },
+      "answer": {
+        "hi": "नागरिक",
+        "hinglish": "naagrik"
+      },
+      "options": [
+        {
+          "hi": "नागरिक",
+          "hinglish": "naagrik"
+        },
+        {
+          "hi": "मत देना",
+          "hinglish": "mat dena"
+        },
+        {
+          "hi": "कर्तव्य",
+          "hinglish": "kartavya"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P02.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "law",
+        "emoji": "📜",
+        "hindi": "कानून",
+        "hinglish": "kaanoon"
+      },
+      "answer": {
+        "hi": "कानून",
+        "hinglish": "kaanoon"
+      },
+      "options": [
+        {
+          "hi": "कानून",
+          "hinglish": "kaanoon"
+        },
+        {
+          "hi": "स्वयंसेवक",
+          "hinglish": "swayamsevak"
+        },
+        {
+          "hi": "सरकार",
+          "hinglish": "sarkaar"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P02.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "government",
+        "emoji": "🏛️",
+        "hindi": "सरकार",
+        "hinglish": "sarkaar"
+      }
+    }
+  ]
+}

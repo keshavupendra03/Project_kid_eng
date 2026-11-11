@@ -1,0 +1,79 @@
+{
+  "id": "L4.U03",
+  "level": 4,
+  "steps": [
+    {
+      "type": "learn_card", "id": "L4.U03.S01", "skills": ["speak.sentence"],
+      "text": {
+        "hi": "आज मैं टीचर हूँ और यह तुम्हारी क्लास है! पहले ये लाइनें बोलो।",
+        "hinglish": "Aaj main teacher hoon aur yeh tumhari class hai! Pehle yeh lines bolo.",
+        "en": "Today I am the teacher and this is your class! First, say these lines."
+      }
+    },
+    {
+      "type": "say_sentence", "id": "L4.U03.S02", "skills": ["speak.sentence"],
+      "sentence": "Good morning, teacher.",
+      "meaning": { "hi": "नमस्ते, टीचर।", "hinglish": "Namaste, teacher.", "en": "Good morning, teacher." }
+    },
+    {
+      "type": "say_sentence", "id": "L4.U03.S03", "skills": ["speak.sentence"],
+      "sentence": "May I drink water?",
+      "meaning": { "hi": "क्या मैं पानी पी सकता/सकती हूँ?", "hinglish": "Kya main paani pee sakta/sakti hoon?", "en": "May I drink water?" }
+    },
+    {
+      "type": "roleplay", "id": "L4.U03.S04", "skills": ["speak.sentence", "grammar.yes_no_questions"], "scene": "🏫",
+      "turns": [
+        { "id": "morning", "tinku": "Good morning, {child}!",
+          "meaning": { "hi": "नमस्ते!", "hinglish": "Namaste!" },
+          "replies": [ { "say": "Good morning, teacher!", "meaning": { "hi": "नमस्ते, टीचर!", "hinglish": "Namaste, teacher!" }, "patterns": ["good morning *", "good morning"] } ] },
+        { "id": "homework", "tinku": "Where is your homework?",
+          "meaning": { "hi": "तुम्हारा होमवर्क कहाँ है?", "hinglish": "Tumhara homework kahan hai?" },
+          "replies": [
+            { "say": "Here it is.", "meaning": { "hi": "यह रहा।", "hinglish": "Yeh raha." }, "patterns": ["here it is", "here is my homework", "here is *", "here you go"], "next": "good" },
+            { "say": "Sorry, I forgot it.", "meaning": { "hi": "माफ़ कीजिए, मैं भूल गया/गई।", "hinglish": "Maaf kijiye, main bhool gaya/gayi." }, "patterns": ["sorry i forgot it", "sorry i forgot", "i forgot it", "i forgot *", "sorry *", "sorry"], "next": "tomorrow" }
+          ] },
+        { "id": "good", "tinku": "Very good! Well done.",
+          "meaning": { "hi": "बहुत अच्छे! शाबाश।", "hinglish": "Bahut achhe! Shabaash." },
+          "replies": [ { "say": "Thank you, teacher.", "meaning": { "hi": "शुक्रिया, टीचर।", "hinglish": "Shukriya, teacher." }, "patterns": ["thank you *", "thank you"], "next": "pencil" } ] },
+        { "id": "tomorrow", "tinku": "No problem. Please bring it tomorrow.",
+          "meaning": { "hi": "कोई बात नहीं। कल ले आना।", "hinglish": "Koi baat nahi. Kal le aana." },
+          "replies": [ { "say": "Yes, teacher. I will.", "meaning": { "hi": "जी टीचर, ले आऊँगा/आऊँगी।", "hinglish": "Ji teacher, le aaunga/aaungi." }, "patterns": ["yes teacher i will", "yes i will", "i will", "yes teacher", "yes"] } ] },
+        { "id": "pencil", "tinku": "Do you have a pencil?",
+          "meaning": { "hi": "क्या तुम्हारे पास पेंसिल है?", "hinglish": "Kya tumhare paas pencil hai?" },
+          "replies": [
+            { "say": "Yes, I have a pencil.", "meaning": { "hi": "हाँ, मेरे पास पेंसिल है।", "hinglish": "Haan, mere paas pencil hai." }, "patterns": ["yes i have a pencil", "i have a pencil", "yes i have", "yes"], "next": "understand" },
+            { "say": "No, I do not have a pencil.", "meaning": { "hi": "नहीं, मेरे पास पेंसिल नहीं है।", "hinglish": "Nahi, mere paas pencil nahi hai." }, "patterns": ["no i do not have a pencil", "i do not have a pencil", "no i do not", "no"], "next": "lend" }
+          ] },
+        { "id": "lend", "tinku": "Here, take my pencil.",
+          "meaning": { "hi": "यह लो, मेरी पेंसिल ले लो।", "hinglish": "Yeh lo, meri pencil le lo." },
+          "replies": [ { "say": "Thank you very much.", "meaning": { "hi": "बहुत-बहुत शुक्रिया।", "hinglish": "Bahut-bahut shukriya." }, "patterns": ["thank you very much", "thank you *", "thank you"] } ] },
+        { "id": "understand", "tinku": "Do you understand the lesson?",
+          "meaning": { "hi": "क्या तुम्हें पाठ समझ आया?", "hinglish": "Kya tumhe paath samajh aaya?" },
+          "replies": [
+            { "say": "Yes, I understand.", "meaning": { "hi": "हाँ, मुझे समझ आ गया।", "hinglish": "Haan, mujhe samajh aa gaya." }, "patterns": ["yes i understand", "i understand", "yes"], "next": "ask" },
+            { "say": "No. Please say it again.", "meaning": { "hi": "नहीं। फिर से बताइए।", "hinglish": "Nahi. Phir se bataiye." }, "patterns": ["no please say it again", "please say it again", "say it again", "no"], "next": "again" }
+          ] },
+        { "id": "again", "tinku": "Of course. I will say it again.",
+          "meaning": { "hi": "ज़रूर। मैं फिर से बताऊँगा।", "hinglish": "Zaroor. Main phir se bataunga." },
+          "replies": [ { "say": "Thank you, teacher.", "meaning": { "hi": "शुक्रिया, टीचर।", "hinglish": "Shukriya, teacher." }, "patterns": ["thank you *", "thank you"] } ] },
+        { "id": "ask", "tinku": "Do you want to ask something?",
+          "meaning": { "hi": "क्या तुम कुछ पूछना चाहते हो?", "hinglish": "Kya tum kuch poochhna chahte ho?" },
+          "replies": [
+            { "say": "May I drink water?", "meaning": { "hi": "क्या मैं पानी पी सकता/सकती हूँ?", "hinglish": "Kya main paani pee sakta/sakti hoon?" }, "patterns": ["may i drink water", "can i drink water", "may i drink some water", "may i *", "can i *"] },
+            { "say": "May I go to the washroom?", "meaning": { "hi": "क्या मैं बाथरूम जा सकता/सकती हूँ?", "hinglish": "Kya main bathroom ja sakta/sakti hoon?" }, "patterns": ["may i go to the washroom", "may i go to the bathroom", "may i go to the toilet", "can i go to the washroom", "can i go to the bathroom"] }
+          ] },
+        { "id": "yes", "tinku": "Yes, you may. Class is over. Goodbye!",
+          "meaning": { "hi": "हाँ, जा सकते हो। क्लास ख़त्म। अलविदा!", "hinglish": "Haan, ja sakte ho. Class khatam. Alvida!" },
+          "replies": [ { "say": "Goodbye, teacher!", "meaning": { "hi": "अलविदा, टीचर!", "hinglish": "Alvida, teacher!" }, "patterns": ["goodbye *", "good bye *", "goodbye", "good bye", "bye *", "bye", "thank you *", "thank you"], "next": "end" } ] }
+      ]
+    },
+    {
+      "type": "learn_card", "id": "L4.U03.S05",
+      "text": {
+        "hi": "कमाल! अब स्कूल में भी इंग्लिश में बात करके देखो।",
+        "hinglish": "Kamaal! Ab school mein bhi English mein baat karke dekho.",
+        "en": "Amazing! Now try speaking English at school too."
+      }
+    }
+  ]
+}

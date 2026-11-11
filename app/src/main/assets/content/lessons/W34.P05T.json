@@ -1,0 +1,207 @@
+{
+  "id": "W34.P05T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "match_meaning",
+      "id": "W34.P05T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "weather",
+        "emoji": "🌤️",
+        "hindi": "मौसम",
+        "hinglish": "mausam"
+      },
+      "answer": {
+        "hi": "मौसम",
+        "hinglish": "mausam"
+      },
+      "options": [
+        {
+          "hi": "मौसम",
+          "hinglish": "mausam"
+        },
+        {
+          "hi": "छाता",
+          "hinglish": "chhaata"
+        },
+        {
+          "hi": "कोहरा",
+          "hinglish": "kohra"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P05T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "A cool ___ came from the sea.",
+      "answer": "breeze",
+      "options": [
+        "breeze",
+        "sweat",
+        "lightning"
+      ],
+      "meaning": {
+        "hi": "हल्की हवा",
+        "hinglish": "halki hawa"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P05T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "fog",
+      "options": [
+        "fog",
+        "sweat",
+        "shiver"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P05T.S04",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "sweat",
+        "emoji": "🥵",
+        "hindi": "पसीना",
+        "hinglish": "paseena"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P05T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lightning",
+        "emoji": "⚡",
+        "hindi": "बिजली चमकना",
+        "hinglish": "bijli chamakna"
+      },
+      "answer": {
+        "hi": "बिजली चमकना",
+        "hinglish": "bijli chamakna"
+      },
+      "options": [
+        {
+          "hi": "बिजली चमकना",
+          "hinglish": "bijli chamakna"
+        },
+        {
+          "hi": "हल्की हवा",
+          "hinglish": "halki hawa"
+        },
+        {
+          "hi": "मौसम",
+          "hinglish": "mausam"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P05T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Take your ___, it may rain.",
+      "answer": "umbrella",
+      "options": [
+        "umbrella",
+        "storm",
+        "season"
+      ],
+      "meaning": {
+        "hi": "छाता",
+        "hinglish": "chhaata"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P05T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "season",
+      "options": [
+        "season",
+        "thunder",
+        "shiver"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P05T.S08",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "shiver",
+        "emoji": "🥶",
+        "hindi": "काँपना",
+        "hinglish": "kaanpna"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P05T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "thunder",
+        "emoji": "⛈️",
+        "hindi": "बादल की गरज",
+        "hinglish": "baadal ki garaj"
+      },
+      "answer": {
+        "hi": "बादल की गरज",
+        "hinglish": "baadal ki garaj"
+      },
+      "options": [
+        {
+          "hi": "बादल की गरज",
+          "hinglish": "baadal ki garaj"
+        },
+        {
+          "hi": "मौसम",
+          "hinglish": "mausam"
+        },
+        {
+          "hi": "ऋतु",
+          "hinglish": "ritu"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P05T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ broke a branch of the tree.",
+      "answer": "storm",
+      "options": [
+        "storm",
+        "shiver",
+        "umbrella"
+      ],
+      "meaning": {
+        "hi": "तूफ़ान",
+        "hinglish": "toofaan"
+      }
+    }
+  ]
+}

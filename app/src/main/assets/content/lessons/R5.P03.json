@@ -1,0 +1,143 @@
+{
+  "id": "R5.P03",
+  "level": 105,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R5.P03.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘India on the Moon’ (चाँद पर भारत)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘India on the Moon’ (Chaand par Bharat). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘India on the Moon’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P03.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘spacecraft’ मतलब अंतरिक्ष यान। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘spacecraft’ matlab antariksh yaan. Chhookar suno, phir bolo.",
+        "en": "‘spacecraft’ means अंतरिक्ष यान. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "spacecraft",
+        "emoji": "🚀",
+        "hindi": "अंतरिक्ष यान",
+        "hinglish": "antariksh yaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P03.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘moon’ मतलब चाँद। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘moon’ matlab chaand. Chhookar suno, phir bolo.",
+        "en": "‘moon’ means चाँद. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "moon",
+        "emoji": "🌙",
+        "hindi": "चाँद",
+        "hinglish": "chaand"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P03.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘scientists’ मतलब वैज्ञानिक। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘scientists’ matlab vaigyanik. Chhookar suno, phir bolo.",
+        "en": "‘scientists’ means वैज्ञानिक. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "scientists",
+        "emoji": "🔬",
+        "hindi": "वैज्ञानिक",
+        "hinglish": "vaigyanik"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R5.P03.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "चाँद पर भारत",
+        "hinglish": "Chaand par Bharat",
+        "en": "India on the Moon"
+      },
+      "sentences": [
+        "A few years ago, India sent a spacecraft to the moon.",
+        "Its name was Chandrayaan Three.",
+        "It landed near the south pole of the moon.",
+        "India was the first country to land there.",
+        "",
+        "A small rover came out of the lander.",
+        "It moved on the moon and sent pictures back to Earth.",
+        "Scientists at ISRO worked for many years for this day.",
+        "Everyone in India was proud."
+      ],
+      "words": [
+        {
+          "english": "spacecraft",
+          "emoji": "🚀",
+          "hindi": "अंतरिक्ष यान",
+          "hinglish": "antariksh yaan"
+        },
+        {
+          "english": "moon",
+          "emoji": "🌙",
+          "hindi": "चाँद",
+          "hinglish": "chaand"
+        },
+        {
+          "english": "scientists",
+          "emoji": "🔬",
+          "hindi": "वैज्ञानिक",
+          "hinglish": "vaigyanik"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P03.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "अंतरिक्ष यान का नाम क्या था?",
+        "hinglish": "Antariksh yaan ka naam kya tha?",
+        "en": "What was the spacecraft called?"
+      },
+      "options": [
+        "Chandrayaan Three",
+        "Moon Rover",
+        "ISRO One"
+      ],
+      "answer": "Chandrayaan Three"
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P03.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "रोवर ने धरती पर क्या भेजा?",
+        "hinglish": "Rover ne dharti par kya bheja?",
+        "en": "What did the rover send to Earth?"
+      },
+      "options": [
+        "pictures",
+        "water",
+        "stones"
+      ],
+      "answer": "pictures"
+    }
+  ]
+}

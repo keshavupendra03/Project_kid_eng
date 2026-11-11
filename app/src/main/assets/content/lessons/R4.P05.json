@@ -1,0 +1,142 @@
+{
+  "id": "R4.P05",
+  "level": 104,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R4.P05.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Water is Life’ (पानी ही जीवन है)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Water is Life’ (Paani hi jeevan hai). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Water is Life’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P05.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘need’ मतलब ज़रूरत। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘need’ matlab zaroorat. Chhookar suno, phir bolo.",
+        "en": "‘need’ means ज़रूरत. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "need",
+        "emoji": "🙌",
+        "hindi": "ज़रूरत",
+        "hinglish": "zaroorat"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P05.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘waste’ मतलब बरबाद करना। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘waste’ matlab barbaad karna. Chhookar suno, phir bolo.",
+        "en": "‘waste’ means बरबाद करना. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "waste",
+        "emoji": "🚱",
+        "hindi": "बरबाद करना",
+        "hinglish": "barbaad karna"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P05.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘drop’ मतलब बूँद। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘drop’ matlab boond. Chhookar suno, phir bolo.",
+        "en": "‘drop’ means बूँद. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "drop",
+        "emoji": "💧",
+        "hindi": "बूँद",
+        "hinglish": "boond"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R4.P05.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "पानी ही जीवन है",
+        "hinglish": "Paani hi jeevan hai",
+        "en": "Water is Life"
+      },
+      "sentences": [
+        "We need water every day.",
+        "We drink water when we are thirsty.",
+        "We use water to cook, to wash and to clean.",
+        "Plants need water to grow, and animals need water too.",
+        "But many people do not have clean water.",
+        "So we should never waste it.",
+        "Close the tap when you brush your teeth.",
+        "Every drop of water is important."
+      ],
+      "words": [
+        {
+          "english": "need",
+          "emoji": "🙌",
+          "hindi": "ज़रूरत",
+          "hinglish": "zaroorat"
+        },
+        {
+          "english": "waste",
+          "emoji": "🚱",
+          "hindi": "बरबाद करना",
+          "hinglish": "barbaad karna"
+        },
+        {
+          "english": "drop",
+          "emoji": "💧",
+          "hindi": "बूँद",
+          "hinglish": "boond"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P05.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "पौधों को बढ़ने के लिए क्या चाहिए?",
+        "hinglish": "Paudhon ko badhne ke liye kya chahiye?",
+        "en": "What do plants need to grow?"
+      },
+      "options": [
+        "water",
+        "medicine",
+        "lamps"
+      ],
+      "answer": "water"
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P05.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "दाँत साफ़ करते समय क्या करना चाहिए?",
+        "hinglish": "Daant saaf karte samay kya karna chahiye?",
+        "en": "What should you do when you brush your teeth?"
+      },
+      "options": [
+        "close the tap",
+        "open the tap",
+        "sing a song"
+      ],
+      "answer": "close the tap"
+    }
+  ]
+}

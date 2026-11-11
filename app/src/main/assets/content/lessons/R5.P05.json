@@ -1,0 +1,143 @@
+{
+  "id": "R5.P05",
+  "level": 105,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R5.P05.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘How Mangoes Grow’ (आम कैसे उगता है)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘How Mangoes Grow’ (Aam kaise ugta hai). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘How Mangoes Grow’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P05.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘seed’ मतलब बीज। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘seed’ matlab beej. Chhookar suno, phir bolo.",
+        "en": "‘seed’ means बीज. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "seed",
+        "emoji": "🌰",
+        "hindi": "बीज",
+        "hinglish": "beej"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P05.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘soil’ मतलब मिट्टी। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘soil’ matlab mitti. Chhookar suno, phir bolo.",
+        "en": "‘soil’ means मिट्टी. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "soil",
+        "emoji": "🟤",
+        "hindi": "मिट्टी",
+        "hinglish": "mitti"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R5.P05.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘sunlight’ मतलब धूप। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘sunlight’ matlab dhoop. Chhookar suno, phir bolo.",
+        "en": "‘sunlight’ means धूप. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "sunlight",
+        "emoji": "🌞",
+        "hindi": "धूप",
+        "hinglish": "dhoop"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R5.P05.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "आम कैसे उगता है",
+        "hinglish": "Aam kaise ugta hai",
+        "en": "How Mangoes Grow"
+      },
+      "sentences": [
+        "A mango tree starts from a seed.",
+        "The seed is planted in the soil.",
+        "After some weeks, a small plant comes out.",
+        "It needs sunlight and water to grow.",
+        "",
+        "In five or six years, the tree is big enough to give fruit.",
+        "In spring, small flowers grow on the tree.",
+        "The flowers slowly turn into tiny green mangoes.",
+        "By summer, the mangoes become big, yellow and sweet."
+      ],
+      "words": [
+        {
+          "english": "seed",
+          "emoji": "🌰",
+          "hindi": "बीज",
+          "hinglish": "beej"
+        },
+        {
+          "english": "soil",
+          "emoji": "🟤",
+          "hindi": "मिट्टी",
+          "hinglish": "mitti"
+        },
+        {
+          "english": "sunlight",
+          "emoji": "🌞",
+          "hindi": "धूप",
+          "hinglish": "dhoop"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P05.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "आम का पेड़ किससे शुरू होता है?",
+        "hinglish": "Aam ka ped kisse shuru hota hai?",
+        "en": "What does a mango tree start from?"
+      },
+      "options": [
+        "a seed",
+        "a flower",
+        "a leaf"
+      ],
+      "answer": "a seed"
+    },
+    {
+      "type": "story_question",
+      "id": "R5.P05.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "फूल किसमें बदल जाते हैं?",
+        "hinglish": "Phool kisme badal jaate hain?",
+        "en": "What do the flowers turn into?"
+      },
+      "options": [
+        "tiny green mangoes",
+        "big leaves",
+        "new seeds"
+      ],
+      "answer": "tiny green mangoes"
+    }
+  ]
+}

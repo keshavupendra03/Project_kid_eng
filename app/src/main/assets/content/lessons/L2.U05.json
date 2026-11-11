@@ -63,12 +63,6 @@
           "hinglish": "ghar"
         },
         {
-          "english": "bulb",
-          "emoji": "💡",
-          "hindi": "बल्ब",
-          "hinglish": "bulb"
-        },
-        {
           "english": "key",
           "emoji": "🔑",
           "hindi": "चाबी",
@@ -79,6 +73,12 @@
           "emoji": "🛏️",
           "hindi": "बिस्तर",
           "hinglish": "bistar"
+        },
+        {
+          "english": "door",
+          "emoji": "🚪",
+          "hindi": "दरवाज़ा",
+          "hinglish": "darwaaza"
         }
       ]
     },
@@ -93,8 +93,8 @@
       "answer": "door",
       "options": [
         "door",
-        "clock",
-        "key"
+        "bed",
+        "bulb"
       ]
     },
     {
@@ -149,16 +149,16 @@
           "hinglish": "khidki"
         },
         {
-          "english": "key",
-          "emoji": "🔑",
-          "hindi": "चाबी",
-          "hinglish": "chaabi"
-        },
-        {
           "english": "house",
           "emoji": "🏠",
           "hindi": "घर",
           "hinglish": "ghar"
+        },
+        {
+          "english": "door",
+          "emoji": "🚪",
+          "hindi": "दरवाज़ा",
+          "hinglish": "darwaaza"
         },
         {
           "english": "bed",
@@ -179,8 +179,8 @@
       "answer": "bed",
       "options": [
         "bed",
-        "bulb",
-        "house"
+        "house",
+        "chair"
       ]
     },
     {
@@ -235,38 +235,37 @@
           "hinglish": "kursi"
         },
         {
-          "english": "clock",
-          "emoji": "⏰",
-          "hindi": "घड़ी",
-          "hinglish": "ghadi"
-        },
-        {
           "english": "key",
           "emoji": "🔑",
           "hindi": "चाबी",
           "hinglish": "chaabi"
         },
         {
-          "english": "door",
-          "emoji": "🚪",
-          "hindi": "दरवाज़ा",
-          "hinglish": "darwaaza"
+          "english": "bed",
+          "emoji": "🛏️",
+          "hindi": "बिस्तर",
+          "hinglish": "bistar"
+        },
+        {
+          "english": "window",
+          "emoji": "🪟",
+          "hindi": "खिड़की",
+          "hinglish": "khidki"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U05.S13",
       "skills": [
         "read.word",
         "vocab.home"
       ],
-      "emoji": "💡",
       "answer": "bulb",
       "options": [
         "bulb",
-        "window",
-        "house"
+        "house",
+        "window"
       ]
     },
     {
@@ -321,6 +320,12 @@
           "hinglish": "chaabi"
         },
         {
+          "english": "door",
+          "emoji": "🚪",
+          "hindi": "दरवाज़ा",
+          "hinglish": "darwaaza"
+        },
+        {
           "english": "bed",
           "emoji": "🛏️",
           "hindi": "बिस्तर",
@@ -331,12 +336,6 @@
           "emoji": "🪑",
           "hindi": "कुर्सी",
           "hinglish": "kursi"
-        },
-        {
-          "english": "clock",
-          "emoji": "⏰",
-          "hindi": "घड़ी",
-          "hinglish": "ghadi"
         }
       ]
     },
@@ -352,7 +351,7 @@
       "options": [
         "clock",
         "chair",
-        "key"
+        "window"
       ]
     },
     {
@@ -363,27 +362,27 @@
         "vocab.home"
       ],
       "word": {
-        "english": "chair",
-        "emoji": "🪑",
-        "hindi": "कुर्सी",
-        "hinglish": "kursi"
+        "english": "clock",
+        "emoji": "⏰",
+        "hindi": "घड़ी",
+        "hinglish": "ghadi"
       },
       "answer": {
-        "hi": "कुर्सी",
-        "hinglish": "kursi"
+        "hi": "घड़ी",
+        "hinglish": "ghadi"
       },
       "options": [
         {
-          "hi": "कुर्सी",
-          "hinglish": "kursi"
+          "hi": "घड़ी",
+          "hinglish": "ghadi"
+        },
+        {
+          "hi": "बल्ब",
+          "hinglish": "bulb"
         },
         {
           "hi": "खिड़की",
           "hinglish": "khidki"
-        },
-        {
-          "hi": "घर",
-          "hinglish": "ghar"
         }
       ]
     },
@@ -395,27 +394,27 @@
         "vocab.home"
       ],
       "word": {
-        "english": "window",
-        "emoji": "🪟",
-        "hindi": "खिड़की",
-        "hinglish": "khidki"
+        "english": "key",
+        "emoji": "🔑",
+        "hindi": "चाबी",
+        "hinglish": "chaabi"
       },
       "answer": {
-        "hi": "खिड़की",
-        "hinglish": "khidki"
+        "hi": "चाबी",
+        "hinglish": "chaabi"
       },
       "options": [
         {
-          "hi": "खिड़की",
-          "hinglish": "khidki"
-        },
-        {
-          "hi": "बिस्तर",
-          "hinglish": "bistar"
+          "hi": "चाबी",
+          "hinglish": "chaabi"
         },
         {
           "hi": "दरवाज़ा",
           "hinglish": "darwaaza"
+        },
+        {
+          "hi": "कुर्सी",
+          "hinglish": "kursi"
         }
       ]
     },
@@ -454,10 +453,10 @@
         "read.word",
         "vocab.home"
       ],
-      "answer": "key",
+      "answer": "bed",
       "options": [
-        "key",
         "bed",
+        "house",
         "chair"
       ]
     },

@@ -1,0 +1,480 @@
+{
+  "id": "W78.P11",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P11.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: मन के भाव। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Mann ke bhaav. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Feelings and qualities. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P11.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "empathy",
+        "emoji": "💗",
+        "hindi": "सहानुभूति",
+        "hinglish": "sahaanubhooti"
+      },
+      "meaning": "feeling what another person feels",
+      "example": "Empathy helps us understand our friends.",
+      "exampleMeaning": {
+        "hi": "सहानुभूति से हम अपने दोस्तों को समझ पाते हैं।",
+        "hinglish": "Sahaanubhooti se hum apne doston ko samajh paate hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P11.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "confidence",
+        "emoji": "💪",
+        "hindi": "आत्मविश्वास",
+        "hinglish": "aatmavishvaas"
+      },
+      "meaning": "believing in yourself",
+      "example": "Practice gives you confidence.",
+      "exampleMeaning": {
+        "hi": "अभ्यास से आत्मविश्वास आता है।",
+        "hinglish": "Abhyaas se aatmavishvaas aata hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P11.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "frustrated",
+        "emoji": "😣",
+        "hindi": "झुँझलाया हुआ",
+        "hinglish": "jhunjhlaaya hua"
+      },
+      "meaning": "upset because you cannot do something",
+      "example": "I felt frustrated when the puzzle was hard.",
+      "exampleMeaning": {
+        "hi": "पहेली मुश्किल थी तो मुझे झुँझलाहट हुई।",
+        "hinglish": "Paheli mushkil thi to mujhe jhunjhlaahat hui."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P11.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "nervous",
+        "emoji": "😬",
+        "hindi": "घबराया हुआ",
+        "hinglish": "ghabraaya hua"
+      },
+      "meaning": "worried and a little afraid",
+      "example": "I was nervous before my speech.",
+      "exampleMeaning": {
+        "hi": "भाषण से पहले मुझे घबराहट हो रही थी।",
+        "hinglish": "Bhaashan se pehle mujhe ghabraahat ho rahi thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P11.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "enthusiastic",
+        "emoji": "🤩",
+        "hindi": "उत्साही",
+        "hinglish": "utsaahi"
+      },
+      "meaning": "very interested and excited",
+      "example": "The enthusiastic team practised daily.",
+      "exampleMeaning": {
+        "hi": "उत्साही टीम ने रोज़ अभ्यास किया।",
+        "hinglish": "Utsaahi team ne roz abhyaas kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P11.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "gratitude",
+        "emoji": "🙏",
+        "hindi": "कृतज्ञता",
+        "hinglish": "kritagyata"
+      },
+      "meaning": "the feeling of being thankful",
+      "example": "We showed our gratitude with a card.",
+      "exampleMeaning": {
+        "hi": "हमने एक कार्ड देकर अपना आभार जताया।",
+        "hinglish": "Humne ek card dekar apna aabhaar jataaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P11.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "anxiety",
+        "emoji": "😰",
+        "hindi": "चिंता",
+        "hinglish": "chinta"
+      },
+      "meaning": "a feeling of worry",
+      "example": "Deep breathing can reduce anxiety.",
+      "exampleMeaning": {
+        "hi": "गहरी साँस लेने से चिंता कम हो सकती है।",
+        "hinglish": "Gehri saans lene se chinta kam ho sakti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P11.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "curiosity",
+        "emoji": "🧐",
+        "hindi": "जिज्ञासा",
+        "hinglish": "jigyaasa"
+      },
+      "meaning": "a strong wish to know or learn",
+      "example": "Curiosity makes us ask questions.",
+      "exampleMeaning": {
+        "hi": "जिज्ञासा की वजह से हम सवाल पूछते हैं।",
+        "hinglish": "Jigyaasa ki wajah se hum sawaal poochhte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P11.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "loneliness",
+        "emoji": "😔",
+        "hindi": "अकेलापन",
+        "hinglish": "akelaapan"
+      },
+      "meaning": "feeling sad because you are alone",
+      "example": "Old people often feel loneliness.",
+      "exampleMeaning": {
+        "hi": "बुज़ुर्ग अक्सर अकेलापन महसूस करते हैं।",
+        "hinglish": "Buzurg aksar akelaapan mehsoos karte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P11.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "satisfaction",
+        "emoji": "😊",
+        "hindi": "संतोष",
+        "hinglish": "santosh"
+      },
+      "meaning": "a happy feeling when you get what you wanted",
+      "example": "Finishing the project gave me satisfaction.",
+      "exampleMeaning": {
+        "hi": "प्रोजेक्ट पूरा करके मुझे संतोष मिला।",
+        "hinglish": "Project poora karke mujhe santosh mila."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P11.S12",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "frustrated",
+        "emoji": "😣",
+        "hindi": "झुँझलाया हुआ",
+        "hinglish": "jhunjhlaaya hua"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P11.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I was ___ before my speech.",
+      "answer": "nervous",
+      "options": [
+        "nervous",
+        "frustrated",
+        "loneliness"
+      ],
+      "meaning": {
+        "hi": "घबराया हुआ",
+        "hinglish": "ghabraaya hua"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P11.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "frustrated",
+        "emoji": "😣",
+        "hindi": "झुँझलाया हुआ",
+        "hinglish": "jhunjhlaaya hua"
+      },
+      "answer": {
+        "hi": "झुँझलाया हुआ",
+        "hinglish": "jhunjhlaaya hua"
+      },
+      "options": [
+        {
+          "hi": "झुँझलाया हुआ",
+          "hinglish": "jhunjhlaaya hua"
+        },
+        {
+          "hi": "कृतज्ञता",
+          "hinglish": "kritagyata"
+        },
+        {
+          "hi": "जिज्ञासा",
+          "hinglish": "jigyaasa"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P11.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ makes us ask questions.",
+      "answer": "curiosity",
+      "options": [
+        "curiosity",
+        "enthusiastic",
+        "anxiety"
+      ],
+      "meaning": {
+        "hi": "जिज्ञासा",
+        "hinglish": "jigyaasa"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P11.S16",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "nervous",
+        "emoji": "😬",
+        "hindi": "घबराया हुआ",
+        "hinglish": "ghabraaya hua"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P11.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "enthusiastic",
+        "emoji": "🤩",
+        "hindi": "उत्साही",
+        "hinglish": "utsaahi"
+      },
+      "answer": {
+        "hi": "उत्साही",
+        "hinglish": "utsaahi"
+      },
+      "options": [
+        {
+          "hi": "उत्साही",
+          "hinglish": "utsaahi"
+        },
+        {
+          "hi": "संतोष",
+          "hinglish": "santosh"
+        },
+        {
+          "hi": "जिज्ञासा",
+          "hinglish": "jigyaasa"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P11.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Practice gives you ___.",
+      "answer": "confidence",
+      "options": [
+        "confidence",
+        "anxiety",
+        "nervous"
+      ],
+      "meaning": {
+        "hi": "आत्मविश्वास",
+        "hinglish": "aatmavishvaas"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P11.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We showed our ___ with a card.",
+      "answer": "gratitude",
+      "options": [
+        "gratitude",
+        "anxiety",
+        "curiosity"
+      ],
+      "meaning": {
+        "hi": "कृतज्ञता",
+        "hinglish": "kritagyata"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P11.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "anxiety",
+        "emoji": "😰",
+        "hindi": "चिंता",
+        "hinglish": "chinta"
+      },
+      "answer": {
+        "hi": "चिंता",
+        "hinglish": "chinta"
+      },
+      "options": [
+        {
+          "hi": "चिंता",
+          "hinglish": "chinta"
+        },
+        {
+          "hi": "आत्मविश्वास",
+          "hinglish": "aatmavishvaas"
+        },
+        {
+          "hi": "संतोष",
+          "hinglish": "santosh"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P11.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "empathy",
+        "emoji": "💗",
+        "hindi": "सहानुभूति",
+        "hinglish": "sahaanubhooti"
+      },
+      "answer": {
+        "hi": "सहानुभूति",
+        "hinglish": "sahaanubhooti"
+      },
+      "options": [
+        {
+          "hi": "सहानुभूति",
+          "hinglish": "sahaanubhooti"
+        },
+        {
+          "hi": "कृतज्ञता",
+          "hinglish": "kritagyata"
+        },
+        {
+          "hi": "झुँझलाया हुआ",
+          "hinglish": "jhunjhlaaya hua"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P11.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "satisfaction",
+      "options": [
+        "satisfaction",
+        "nervous",
+        "frustrated"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P11.S23",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "confidence",
+        "emoji": "💪",
+        "hindi": "आत्मविश्वास",
+        "hinglish": "aatmavishvaas"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P11.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "loneliness",
+      "options": [
+        "loneliness",
+        "empathy",
+        "frustrated"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P11.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "empathy",
+        "emoji": "💗",
+        "hindi": "सहानुभूति",
+        "hinglish": "sahaanubhooti"
+      }
+    }
+  ]
+}

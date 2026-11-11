@@ -1,0 +1,480 @@
+{
+  "id": "W56.P10",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P10.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: शरीर के अंदर। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Shareer ke andar. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Inside the body. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P10.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "heart",
+        "emoji": "❤️",
+        "hindi": "दिल",
+        "hinglish": "dil"
+      },
+      "meaning": "the part of the body that pumps blood",
+      "example": "Your heart beats faster when you run.",
+      "exampleMeaning": {
+        "hi": "दौड़ने पर तुम्हारा दिल तेज़ धड़कता है।",
+        "hinglish": "Daudne par tumhara dil tez dhadakta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P10.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lungs",
+        "emoji": "🫁",
+        "hindi": "फेफड़े",
+        "hinglish": "phephde"
+      },
+      "meaning": "the parts of the body we breathe with",
+      "example": "Smoke harms the lungs.",
+      "exampleMeaning": {
+        "hi": "धुआँ फेफड़ों को नुकसान पहुँचाता है।",
+        "hinglish": "Dhuaan phephdon ko nuksaan pahunchaata hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P10.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "skeleton",
+        "emoji": "🦴",
+        "hindi": "कंकाल",
+        "hinglish": "kankaal"
+      },
+      "meaning": "all the bones of the body",
+      "example": "The skeleton keeps our body in shape.",
+      "exampleMeaning": {
+        "hi": "कंकाल हमारे शरीर को आकार देता है।",
+        "hinglish": "Kankaal hamare shareer ko aakaar deta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P10.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "muscle",
+        "emoji": "💪",
+        "hindi": "मांसपेशी",
+        "hinglish": "maanspeshi"
+      },
+      "meaning": "the part of the body that helps you move",
+      "example": "Exercise makes every muscle strong.",
+      "exampleMeaning": {
+        "hi": "व्यायाम से हर मांसपेशी मज़बूत होती है।",
+        "hinglish": "Vyaayaam se har maanspeshi mazboot hoti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P10.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "nutrition",
+        "emoji": "🥗",
+        "hindi": "पोषण",
+        "hinglish": "poshan"
+      },
+      "meaning": "the good things in food that help us grow",
+      "example": "Good nutrition keeps children strong.",
+      "exampleMeaning": {
+        "hi": "अच्छा पोषण बच्चों को मज़बूत रखता है।",
+        "hinglish": "Achha poshan bachchon ko mazboot rakhta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P10.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "vitamin",
+        "emoji": "🍊",
+        "hindi": "विटामिन",
+        "hinglish": "vitamin"
+      },
+      "meaning": "something in food that keeps us healthy",
+      "example": "Oranges are rich in vitamin C.",
+      "exampleMeaning": {
+        "hi": "संतरे में विटामिन सी भरपूर होता है।",
+        "hinglish": "Santare mein vitamin C bharpoor hota hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P10.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hygiene",
+        "emoji": "🧼",
+        "hindi": "साफ़-सफ़ाई",
+        "hinglish": "saaf-safaai"
+      },
+      "meaning": "keeping yourself and your things clean",
+      "example": "Good hygiene stops many illnesses.",
+      "exampleMeaning": {
+        "hi": "अच्छी साफ़-सफ़ाई कई बीमारियों को रोकती है।",
+        "hinglish": "Achhi saaf-safaai kai beemaariyon ko rokti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P10.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "allergy",
+        "emoji": "🤧",
+        "hindi": "एलर्जी",
+        "hinglish": "allergy"
+      },
+      "meaning": "when your body reacts badly to something",
+      "example": "Dust gives me an allergy.",
+      "exampleMeaning": {
+        "hi": "धूल से मुझे एलर्जी हो जाती है।",
+        "hinglish": "Dhool se mujhe allergy ho jaati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P10.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "recover",
+        "emoji": "🛌",
+        "hindi": "ठीक होना",
+        "hinglish": "theek hona"
+      },
+      "meaning": "to get better after being ill",
+      "example": "Rest well and you will recover soon.",
+      "exampleMeaning": {
+        "hi": "अच्छे से आराम करने से तबीयत जल्दी ठीक हो जाती है।",
+        "hinglish": "Achhe se aaraam karne se tabiyat jaldi theek ho jaati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P10.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "appetite",
+        "emoji": "🍽️",
+        "hindi": "भूख",
+        "hinglish": "bhookh"
+      },
+      "meaning": "the wish to eat",
+      "example": "I lost my appetite when I had a fever.",
+      "exampleMeaning": {
+        "hi": "बुखार में मेरी भूख चली गई।",
+        "hinglish": "Bukhaar mein meri bhookh chali gayi."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P10.S12",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "muscle",
+        "emoji": "💪",
+        "hindi": "मांसपेशी",
+        "hinglish": "maanspeshi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P10.S13",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "heart",
+        "emoji": "❤️",
+        "hindi": "दिल",
+        "hinglish": "dil"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P10.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "skeleton",
+        "emoji": "🦴",
+        "hindi": "कंकाल",
+        "hinglish": "kankaal"
+      },
+      "answer": {
+        "hi": "कंकाल",
+        "hinglish": "kankaal"
+      },
+      "options": [
+        {
+          "hi": "कंकाल",
+          "hinglish": "kankaal"
+        },
+        {
+          "hi": "दिल",
+          "hinglish": "dil"
+        },
+        {
+          "hi": "पोषण",
+          "hinglish": "poshan"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P10.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "nutrition",
+        "emoji": "🥗",
+        "hindi": "पोषण",
+        "hinglish": "poshan"
+      },
+      "answer": {
+        "hi": "पोषण",
+        "hinglish": "poshan"
+      },
+      "options": [
+        {
+          "hi": "पोषण",
+          "hinglish": "poshan"
+        },
+        {
+          "hi": "मांसपेशी",
+          "hinglish": "maanspeshi"
+        },
+        {
+          "hi": "कंकाल",
+          "hinglish": "kankaal"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P10.S16",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "skeleton",
+        "emoji": "🦴",
+        "hindi": "कंकाल",
+        "hinglish": "kankaal"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P10.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "appetite",
+      "options": [
+        "appetite",
+        "skeleton",
+        "heart"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P10.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Oranges are rich in ___ C.",
+      "answer": "vitamin",
+      "options": [
+        "vitamin",
+        "recover",
+        "allergy"
+      ],
+      "meaning": {
+        "hi": "विटामिन",
+        "hinglish": "vitamin"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P10.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "heart",
+        "emoji": "❤️",
+        "hindi": "दिल",
+        "hinglish": "dil"
+      },
+      "answer": {
+        "hi": "दिल",
+        "hinglish": "dil"
+      },
+      "options": [
+        {
+          "hi": "दिल",
+          "hinglish": "dil"
+        },
+        {
+          "hi": "एलर्जी",
+          "hinglish": "allergy"
+        },
+        {
+          "hi": "विटामिन",
+          "hinglish": "vitamin"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P10.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Dust gives me an ___.",
+      "answer": "allergy",
+      "options": [
+        "allergy",
+        "hygiene",
+        "lungs"
+      ],
+      "meaning": {
+        "hi": "एलर्जी",
+        "hinglish": "allergy"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P10.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hygiene",
+        "emoji": "🧼",
+        "hindi": "साफ़-सफ़ाई",
+        "hinglish": "saaf-safaai"
+      },
+      "answer": {
+        "hi": "साफ़-सफ़ाई",
+        "hinglish": "saaf-safaai"
+      },
+      "options": [
+        {
+          "hi": "साफ़-सफ़ाई",
+          "hinglish": "saaf-safaai"
+        },
+        {
+          "hi": "ठीक होना",
+          "hinglish": "theek hona"
+        },
+        {
+          "hi": "दिल",
+          "hinglish": "dil"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P10.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "recover",
+      "options": [
+        "recover",
+        "appetite",
+        "lungs"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P10.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Exercise makes every ___ strong.",
+      "answer": "muscle",
+      "options": [
+        "muscle",
+        "nutrition",
+        "vitamin"
+      ],
+      "meaning": {
+        "hi": "मांसपेशी",
+        "hinglish": "maanspeshi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P10.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "lungs",
+        "emoji": "🫁",
+        "hindi": "फेफड़े",
+        "hinglish": "phephde"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P10.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Smoke harms the ___.",
+      "answer": "lungs",
+      "options": [
+        "lungs",
+        "allergy",
+        "skeleton"
+      ],
+      "meaning": {
+        "hi": "फेफड़े",
+        "hinglish": "phephde"
+      }
+    }
+  ]
+}

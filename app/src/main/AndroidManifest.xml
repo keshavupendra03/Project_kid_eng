@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Only used after a parent connects a child to their school. -->
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <!-- The child speaks answers aloud; audio goes to the phone's speech recogniser only. -->
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <!-- Kid Mode: see which app is open, cover locked apps, and keep running while the child uses the phone. -->
+    <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
 
     <!-- Needed on Android 11+ to find the phone's text-to-speech engine and speech recogniser. -->
     <queries>
@@ -12,14 +24,20 @@
         <intent>
             <action android:name="android.speech.RecognitionService" />
         </intent>
+        <!-- So a parent can choose from the apps on the phone. -->
+        <intent>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent>
     </queries>
 
     <application
         android:name=".SamjhoApplication"
-        android:allowBackup="true"
+        android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
+        android:usesCleartextTraffic="${usesCleartext}"
         android:theme="@style/Theme.Samjho">
         <activity
             android:name=".MainActivity"
@@ -31,6 +49,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".kidmode.LockedAppActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait"
+            android:taskAffinity=".locked" />
+
+        <service
+            android:name=".kidmode.KidModeService"
+            android:exported="false"
+            android:foregroundServiceType="specialUse">
+            <property
+                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+                android:value="Parental control: locks apps a parent has chosen while a child uses the phone" />
+        </service>
     </application>
 
 </manifest>

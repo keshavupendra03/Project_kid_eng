@@ -48,48 +48,44 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U28.S04",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.opposites"
       ],
-      "answer": "tall",
+      "word": {
+        "english": "tall",
+        "emoji": "🦒",
+        "hindi": "लंबा",
+        "hinglish": "lamba"
+      },
+      "answer": {
+        "hi": "लंबा",
+        "hinglish": "lamba"
+      },
       "options": [
         {
-          "english": "tall",
-          "emoji": "🦒",
-          "hindi": "लंबा",
+          "hi": "लंबा",
           "hinglish": "lamba"
         },
         {
-          "english": "old",
-          "emoji": "🏚️",
-          "hindi": "पुराना",
+          "hi": "पुराना",
           "hinglish": "puraana"
         },
         {
-          "english": "loud",
-          "emoji": "📢",
-          "hindi": "ज़ोर से",
+          "hi": "ज़ोर से",
           "hinglish": "zor se"
-        },
-        {
-          "english": "wet",
-          "emoji": "💦",
-          "hindi": "गीला",
-          "hinglish": "geela"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U28.S05",
       "skills": [
         "read.word",
         "vocab.opposites"
       ],
-      "emoji": "🆕",
       "answer": "new",
       "options": [
         "new",
@@ -134,48 +130,44 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U28.S08",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.opposites"
       ],
-      "answer": "old",
+      "word": {
+        "english": "old",
+        "emoji": "🏚️",
+        "hindi": "पुराना",
+        "hinglish": "puraana"
+      },
+      "answer": {
+        "hi": "पुराना",
+        "hinglish": "puraana"
+      },
       "options": [
         {
-          "english": "old",
-          "emoji": "🏚️",
-          "hindi": "पुराना",
+          "hi": "पुराना",
           "hinglish": "puraana"
         },
         {
-          "english": "heavy",
-          "emoji": "🏋️",
-          "hindi": "भारी",
+          "hi": "भारी",
           "hinglish": "bhaari"
         },
         {
-          "english": "loud",
-          "emoji": "📢",
-          "hindi": "ज़ोर से",
+          "hi": "ज़ोर से",
           "hinglish": "zor se"
-        },
-        {
-          "english": "tall",
-          "emoji": "🦒",
-          "hindi": "लंबा",
-          "hinglish": "lamba"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U28.S09",
       "skills": [
         "read.word",
         "vocab.opposites"
       ],
-      "emoji": "💦",
       "answer": "wet",
       "options": [
         "wet",
@@ -220,53 +212,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U28.S12",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.opposites"
       ],
-      "answer": "dry",
+      "word": {
+        "english": "dry",
+        "emoji": "🏜️",
+        "hindi": "सूखा",
+        "hinglish": "sookha"
+      },
+      "answer": {
+        "hi": "सूखा",
+        "hinglish": "sookha"
+      },
       "options": [
         {
-          "english": "dry",
-          "emoji": "🏜️",
-          "hindi": "सूखा",
+          "hi": "सूखा",
           "hinglish": "sookha"
         },
         {
-          "english": "wet",
-          "emoji": "💦",
-          "hindi": "गीला",
+          "hi": "गीला",
           "hinglish": "geela"
         },
         {
-          "english": "old",
-          "emoji": "🏚️",
-          "hindi": "पुराना",
+          "hi": "पुराना",
           "hinglish": "puraana"
-        },
-        {
-          "english": "tall",
-          "emoji": "🦒",
-          "hindi": "लंबा",
-          "hinglish": "lamba"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U28.S13",
       "skills": [
         "read.word",
         "vocab.opposites"
       ],
-      "emoji": "🏋️",
       "answer": "heavy",
       "options": [
         "heavy",
-        "new",
-        "loud"
+        "loud",
+        "tall"
       ]
     },
     {
@@ -306,53 +294,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U28.S16",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.opposites"
       ],
-      "answer": "loud",
+      "word": {
+        "english": "loud",
+        "emoji": "📢",
+        "hindi": "ज़ोर से",
+        "hinglish": "zor se"
+      },
+      "answer": {
+        "hi": "ज़ोर से",
+        "hinglish": "zor se"
+      },
       "options": [
         {
-          "english": "loud",
-          "emoji": "📢",
-          "hindi": "ज़ोर से",
+          "hi": "ज़ोर से",
           "hinglish": "zor se"
         },
         {
-          "english": "heavy",
-          "emoji": "🏋️",
-          "hindi": "भारी",
-          "hinglish": "bhaari"
-        },
-        {
-          "english": "new",
-          "emoji": "🆕",
-          "hindi": "नया",
+          "hi": "नया",
           "hinglish": "naya"
         },
         {
-          "english": "wet",
-          "emoji": "💦",
-          "hindi": "गीला",
-          "hinglish": "geela"
+          "hi": "भारी",
+          "hinglish": "bhaari"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U28.S17",
       "skills": [
         "read.word",
         "vocab.opposites"
       ],
-      "emoji": "🤫",
       "answer": "quiet",
       "options": [
         "quiet",
-        "tall",
-        "heavy"
+        "wet",
+        "tall"
       ]
     },
     {

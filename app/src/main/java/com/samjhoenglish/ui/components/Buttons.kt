@@ -25,6 +25,7 @@ import androidx.compose.ui.platform.LocalHapticFeedback
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.unit.dp
+import com.samjhoenglish.ui.theme.LocalSeniorLook
 
 /** Big, squishy main-action button. Shrinks slightly when pressed so kids feel the tap. */
 @Composable
@@ -56,7 +57,7 @@ fun BigButton(
         modifier = modifier
             .scale(scale)
             .fillMaxWidth()
-            .heightIn(min = 80.dp),
+            .heightIn(min = if (LocalSeniorLook.current) 64.dp else 80.dp),
     ) {
         Row(
             Modifier.padding(horizontal = 24.dp, vertical = 14.dp),

@@ -1,0 +1,480 @@
+{
+  "id": "L2.U46",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U46.S01",
+      "text": {
+        "hi": "गिनती 11 से 18!",
+        "hinglish": "Ginti 11 se 18!",
+        "en": "Counting from 11 to 18!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U46.S02",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘eleven’ मतलब ‘ग्यारह’।",
+        "hinglish": "‘eleven’ matlab ‘gyaarah’.",
+        "en": "Say it with me: eleven!"
+      },
+      "word": {
+        "english": "eleven",
+        "emoji": "11",
+        "hindi": "ग्यारह",
+        "hinglish": "gyaarah"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U46.S03",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘twelve’ मतलब ‘बारह’।",
+        "hinglish": "‘twelve’ matlab ‘baarah’.",
+        "en": "Say it with me: twelve!"
+      },
+      "word": {
+        "english": "twelve",
+        "emoji": "12",
+        "hindi": "बारह",
+        "hinglish": "baarah"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U46.S04",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "eleven",
+      "options": [
+        {
+          "english": "eleven",
+          "emoji": "11",
+          "hindi": "ग्यारह",
+          "hinglish": "gyaarah"
+        },
+        {
+          "english": "eighteen",
+          "emoji": "18",
+          "hindi": "अठारह",
+          "hinglish": "athaarah"
+        },
+        {
+          "english": "seventeen",
+          "emoji": "17",
+          "hindi": "सत्रह",
+          "hinglish": "satrah"
+        },
+        {
+          "english": "thirteen",
+          "emoji": "13",
+          "hindi": "तेरह",
+          "hinglish": "terah"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U46.S05",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "12",
+      "answer": "twelve",
+      "options": [
+        "twelve",
+        "thirteen",
+        "fifteen"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U46.S06",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘thirteen’ मतलब ‘तेरह’।",
+        "hinglish": "‘thirteen’ matlab ‘terah’.",
+        "en": "Say it with me: thirteen!"
+      },
+      "word": {
+        "english": "thirteen",
+        "emoji": "13",
+        "hindi": "तेरह",
+        "hinglish": "terah"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U46.S07",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘fourteen’ मतलब ‘चौदह’।",
+        "hinglish": "‘fourteen’ matlab ‘chaudah’.",
+        "en": "Say it with me: fourteen!"
+      },
+      "word": {
+        "english": "fourteen",
+        "emoji": "14",
+        "hindi": "चौदह",
+        "hinglish": "chaudah"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U46.S08",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "thirteen",
+      "options": [
+        {
+          "english": "thirteen",
+          "emoji": "13",
+          "hindi": "तेरह",
+          "hinglish": "terah"
+        },
+        {
+          "english": "eighteen",
+          "emoji": "18",
+          "hindi": "अठारह",
+          "hinglish": "athaarah"
+        },
+        {
+          "english": "sixteen",
+          "emoji": "16",
+          "hindi": "सोलह",
+          "hinglish": "solah"
+        },
+        {
+          "english": "fifteen",
+          "emoji": "15",
+          "hindi": "पंद्रह",
+          "hinglish": "pandrah"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U46.S09",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "14",
+      "answer": "fourteen",
+      "options": [
+        "fourteen",
+        "fifteen",
+        "sixteen"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U46.S10",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘fifteen’ मतलब ‘पंद्रह’।",
+        "hinglish": "‘fifteen’ matlab ‘pandrah’.",
+        "en": "Say it with me: fifteen!"
+      },
+      "word": {
+        "english": "fifteen",
+        "emoji": "15",
+        "hindi": "पंद्रह",
+        "hinglish": "pandrah"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U46.S11",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘sixteen’ मतलब ‘सोलह’।",
+        "hinglish": "‘sixteen’ matlab ‘solah’.",
+        "en": "Say it with me: sixteen!"
+      },
+      "word": {
+        "english": "sixteen",
+        "emoji": "16",
+        "hindi": "सोलह",
+        "hinglish": "solah"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U46.S12",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "fifteen",
+      "options": [
+        {
+          "english": "fifteen",
+          "emoji": "15",
+          "hindi": "पंद्रह",
+          "hinglish": "pandrah"
+        },
+        {
+          "english": "thirteen",
+          "emoji": "13",
+          "hindi": "तेरह",
+          "hinglish": "terah"
+        },
+        {
+          "english": "eighteen",
+          "emoji": "18",
+          "hindi": "अठारह",
+          "hinglish": "athaarah"
+        },
+        {
+          "english": "eleven",
+          "emoji": "11",
+          "hindi": "ग्यारह",
+          "hinglish": "gyaarah"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U46.S13",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "16",
+      "answer": "sixteen",
+      "options": [
+        "sixteen",
+        "fourteen",
+        "fifteen"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U46.S14",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘seventeen’ मतलब ‘सत्रह’।",
+        "hinglish": "‘seventeen’ matlab ‘satrah’.",
+        "en": "Say it with me: seventeen!"
+      },
+      "word": {
+        "english": "seventeen",
+        "emoji": "17",
+        "hindi": "सत्रह",
+        "hinglish": "satrah"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U46.S15",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "text": {
+        "hi": "‘eighteen’ मतलब ‘अठारह’।",
+        "hinglish": "‘eighteen’ matlab ‘athaarah’.",
+        "en": "Say it with me: eighteen!"
+      },
+      "word": {
+        "english": "eighteen",
+        "emoji": "18",
+        "hindi": "अठारह",
+        "hinglish": "athaarah"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U46.S16",
+      "skills": [
+        "listen.word",
+        "vocab.numbers"
+      ],
+      "answer": "seventeen",
+      "options": [
+        {
+          "english": "seventeen",
+          "emoji": "17",
+          "hindi": "सत्रह",
+          "hinglish": "satrah"
+        },
+        {
+          "english": "sixteen",
+          "emoji": "16",
+          "hindi": "सोलह",
+          "hinglish": "solah"
+        },
+        {
+          "english": "eleven",
+          "emoji": "11",
+          "hindi": "ग्यारह",
+          "hinglish": "gyaarah"
+        },
+        {
+          "english": "eighteen",
+          "emoji": "18",
+          "hindi": "अठारह",
+          "hinglish": "athaarah"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U46.S17",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "emoji": "18",
+      "answer": "eighteen",
+      "options": [
+        "eighteen",
+        "fourteen",
+        "sixteen"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U46.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "fourteen",
+        "emoji": "14",
+        "hindi": "चौदह",
+        "hinglish": "chaudah"
+      },
+      "answer": {
+        "hi": "चौदह",
+        "hinglish": "chaudah"
+      },
+      "options": [
+        {
+          "hi": "चौदह",
+          "hinglish": "chaudah"
+        },
+        {
+          "hi": "पंद्रह",
+          "hinglish": "pandrah"
+        },
+        {
+          "hi": "अठारह",
+          "hinglish": "athaarah"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U46.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "sixteen",
+        "emoji": "16",
+        "hindi": "सोलह",
+        "hinglish": "solah"
+      },
+      "answer": {
+        "hi": "सोलह",
+        "hinglish": "solah"
+      },
+      "options": [
+        {
+          "hi": "सोलह",
+          "hinglish": "solah"
+        },
+        {
+          "hi": "चौदह",
+          "hinglish": "chaudah"
+        },
+        {
+          "hi": "सत्रह",
+          "hinglish": "satrah"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U46.S20",
+      "skills": [
+        "speak.word",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "eleven",
+        "emoji": "11",
+        "hindi": "ग्यारह",
+        "hinglish": "gyaarah"
+      },
+      "accept": [
+        "11"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U46.S21",
+      "skills": [
+        "speak.word",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "twelve",
+        "emoji": "12",
+        "hindi": "बारह",
+        "hinglish": "baarah"
+      },
+      "accept": [
+        "12"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U46.S22",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "answer": "eleven",
+      "options": [
+        "eleven",
+        "twelve",
+        "thirteen"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U46.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen.",
+        "en": "Well done! Today's new words: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen."
+      }
+    }
+  ]
+}

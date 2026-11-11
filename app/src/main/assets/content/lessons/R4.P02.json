@@ -1,0 +1,141 @@
+{
+  "id": "R4.P02",
+  "level": 104,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "R4.P02.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज की कहानी: ‘Diwali’ (दिवाली)। पहले कुछ शब्द सीखते हैं।",
+        "hinglish": "Aaj ki kahani: ‘Diwali’ (Diwali). Pehle kuch shabd seekhte hain.",
+        "en": "Today's story: ‘Diwali’. First, a few words."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P02.S02",
+      "skills": [],
+      "text": {
+        "hi": "‘festival’ मतलब त्योहार। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘festival’ matlab tyohaar. Chhookar suno, phir bolo.",
+        "en": "‘festival’ means त्योहार. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "festival",
+        "emoji": "🎉",
+        "hindi": "त्योहार",
+        "hinglish": "tyohaar"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P02.S03",
+      "skills": [],
+      "text": {
+        "hi": "‘lamps’ मतलब दीये। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘lamps’ matlab diye. Chhookar suno, phir bolo.",
+        "en": "‘lamps’ means दीये. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "lamps",
+        "emoji": "🪔",
+        "hindi": "दीये",
+        "hinglish": "diye"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "R4.P02.S04",
+      "skills": [],
+      "text": {
+        "hi": "‘bright’ मतलब चमकीला। छूकर सुनो, फिर बोलो।",
+        "hinglish": "‘bright’ matlab chamkeela. Chhookar suno, phir bolo.",
+        "en": "‘bright’ means चमकीला. Tap to listen, then say it."
+      },
+      "word": {
+        "english": "bright",
+        "emoji": "✨",
+        "hindi": "चमकीला",
+        "hinglish": "chamkeela"
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "R4.P02.S05",
+      "skills": [
+        "read.passage"
+      ],
+      "title": {
+        "hi": "दिवाली",
+        "hinglish": "Diwali",
+        "en": "Diwali"
+      },
+      "sentences": [
+        "Diwali is the festival of lights.",
+        "We clean our house before Diwali.",
+        "Mummy makes sweets and Papa brings new clothes for us.",
+        "In the evening we light small lamps called diyas.",
+        "The whole street looks bright and beautiful.",
+        "We wear our new clothes and meet our friends.",
+        "I love Diwali, because everyone is happy together."
+      ],
+      "words": [
+        {
+          "english": "festival",
+          "emoji": "🎉",
+          "hindi": "त्योहार",
+          "hinglish": "tyohaar"
+        },
+        {
+          "english": "lamps",
+          "emoji": "🪔",
+          "hindi": "दीये",
+          "hinglish": "diye"
+        },
+        {
+          "english": "bright",
+          "emoji": "✨",
+          "hindi": "चमकीला",
+          "hinglish": "chamkeela"
+        }
+      ]
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P02.S06",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "दिवाली किसका त्योहार है?",
+        "hinglish": "Diwali kiska tyohaar hai?",
+        "en": "Diwali is the festival of what?"
+      },
+      "options": [
+        "lights",
+        "colours",
+        "kites"
+      ],
+      "answer": "lights"
+    },
+    {
+      "type": "story_question",
+      "id": "R4.P02.S07",
+      "skills": [
+        "read.understand"
+      ],
+      "question": {
+        "hi": "शाम को वे क्या जलाते हैं?",
+        "hinglish": "Shaam ko woh kya jalaate hain?",
+        "en": "What do they light in the evening?"
+      },
+      "options": [
+        "small lamps",
+        "a fire",
+        "a stove"
+      ],
+      "answer": "small lamps"
+    }
+  ]
+}

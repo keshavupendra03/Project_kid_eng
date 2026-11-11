@@ -1,0 +1,203 @@
+{
+  "id": "W78.P12T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "spell_word",
+      "id": "W78.P12T.S01",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "solution",
+        "emoji": "💡",
+        "hindi": "हल",
+        "hinglish": "hal"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P12T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sustainable",
+        "emoji": "♻️",
+        "hindi": "टिकाऊ",
+        "hinglish": "tikaau"
+      },
+      "answer": {
+        "hi": "टिकाऊ",
+        "hinglish": "tikaau"
+      },
+      "options": [
+        {
+          "hi": "टिकाऊ",
+          "hinglish": "tikaau"
+        },
+        {
+          "hi": "आवास",
+          "hinglish": "aavaas"
+        },
+        {
+          "hi": "लुप्तप्राय",
+          "hinglish": "luptapraay"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P12T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Pollution is a ___ problem.",
+      "answer": "global",
+      "options": [
+        "global",
+        "emission",
+        "habitat"
+      ],
+      "meaning": {
+        "hi": "वैश्विक",
+        "hinglish": "vaishvik"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P12T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "habitat",
+      "options": [
+        "habitat",
+        "resource",
+        "global"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P12T.S05",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "renewable",
+        "emoji": "☀️",
+        "hindi": "नवीकरणीय",
+        "hinglish": "naveekarneey"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P12T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "endangered",
+        "emoji": "🐼",
+        "hindi": "लुप्तप्राय",
+        "hinglish": "luptapraay"
+      },
+      "answer": {
+        "hi": "लुप्तप्राय",
+        "hinglish": "luptapraay"
+      },
+      "options": [
+        {
+          "hi": "लुप्तप्राय",
+          "hinglish": "luptapraay"
+        },
+        {
+          "hi": "टिकाऊ",
+          "hinglish": "tikaau"
+        },
+        {
+          "hi": "उत्सर्जन",
+          "hinglish": "utsarjan"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P12T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ causes floods.",
+      "answer": "deforestation",
+      "options": [
+        "deforestation",
+        "resource",
+        "habitat"
+      ],
+      "meaning": {
+        "hi": "वनों की कटाई",
+        "hinglish": "vanon ki kataai"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P12T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "resource",
+      "options": [
+        "resource",
+        "global",
+        "endangered"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W78.P12T.S09",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "emission",
+        "emoji": "💨",
+        "hindi": "उत्सर्जन",
+        "hinglish": "utsarjan"
+      },
+      "typed": true
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P12T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "awareness",
+        "emoji": "📣",
+        "hindi": "जागरूकता",
+        "hinglish": "jaagrookta"
+      },
+      "answer": {
+        "hi": "जागरूकता",
+        "hinglish": "jaagrookta"
+      },
+      "options": [
+        {
+          "hi": "जागरूकता",
+          "hinglish": "jaagrookta"
+        },
+        {
+          "hi": "टिकाऊ",
+          "hinglish": "tikaau"
+        },
+        {
+          "hi": "संसाधन",
+          "hinglish": "sansaadhan"
+        }
+      ]
+    }
+  ]
+}

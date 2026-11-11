@@ -1,6 +1,7 @@
 package com.samjhoenglish.content
 
 import com.samjhoenglish.i18n.L
+import com.samjhoenglish.learning.SkillCatalog
 import org.junit.Assert.assertTrue
 import org.junit.Test
 import java.io.File
@@ -17,16 +18,103 @@ class ContentValidationTest {
     @Test
     fun levelsPointToExistingLessons() {
         val levels = ContentJson.decodeFromString<LevelsFile>(File(root, "levels.json").readText()).levels
+        val reading = ContentJson.decodeFromString<LevelsFile>(File(root, "reading.json").readText()).levels
         val problems = mutableListOf<String>()
-        levels.forEach { level ->
+        (levels + reading).forEach { level ->
             level.title.check("level ${level.number} title", problems)
             level.lessons.forEach { ref ->
                 ref.title.check("${ref.id} title", problems)
-                if (!File(root, "lessons/${ref.id}.json").exists()) problems += "${ref.id}: listed in levels.json but file is missing"
+                if (!File(root, "lessons/${ref.id}.json").exists()) problems += "${ref.id}: listed but file is missing"
             }
         }
-        val listed = levels.flatMap { l -> l.lessons.map { it.id } }.toSet()
-        lessonFiles.forEach { if (it.nameWithoutExtension !in listed) problems += "${it.name}: not listed in levels.json" }
+        reading.forEach { level -> level.lessons.forEach { if (!it.id.isReadingLesson) problems += "${it.id}: reading passages must be named R<level>.P<n>" } }
+        levels.forEach { level -> level.lessons.forEach { if (it.id.isReadingLesson) problems += "${it.id}: a reading passage is in the lesson journey" } }
+        val words = ContentJson.decodeFromString<WordPowerFile>(File(root, "wordpower.json").readText())
+        val wordLessons = words.bands.flatMap { b -> b.packs.flatMap { listOf(it.id, it.testId) } } + words.placement
+        wordLessons.forEach { if (!File(root, "lessons/$it.json").exists()) problems += "$it: listed in wordpower.json but file is missing" }
+        val listed = (levels + reading).flatMap { l -> l.lessons.map { it.id } }.toSet() + wordLessons
+        lessonFiles.forEach { if (it.nameWithoutExtension !in listed) problems += "${it.name}: not listed in levels.json, reading.json or wordpower.json" }
+        assertNoProblems(problems)
+    }
+
+    /**
+     * A picture question must have exactly one right answer: no "kind of" pairs (bird and parrot),
+     * no words a picture can't show (this, that, look), and no option that the picture could also mean
+     * (🐘 with "elephant" and "big"). Rules live in tools/content/kinds.json, shared with the generator.
+     */
+    @Test
+    fun pictureQuestionsHaveOneRightAnswer() {
+        val rules = kotlinx.serialization.json.Json.parseToJsonElement(File("../tools/content/kinds.json").readText()) as kotlinx.serialization.json.JsonObject
+        val kinds = (rules["kinds"] as kotlinx.serialization.json.JsonObject).mapValues { (_, v) ->
+            (v as kotlinx.serialization.json.JsonArray).map { (it as kotlinx.serialization.json.JsonPrimitive).content.lowercase() }.toSet()
+        }
+        val noPicture = (rules["noPicture"] as kotlinx.serialization.json.JsonArray).map { (it as kotlinx.serialization.json.JsonPrimitive).content.lowercase() }.toSet()
+        fun related(a: String, b: String) = a != b && (b in kinds[a].orEmpty() || a in kinds[b].orEmpty())
+
+        val lessons = lessonFiles.map { ContentJson.decodeFromString<Lesson>(it.readText()) }
+        // Which words each picture stands for, anywhere in the app.
+        val pictureWords = mutableMapOf<String, MutableSet<String>>()
+        fun note(w: Word) { if (w.emoji.isNotEmpty()) pictureWords.getOrPut(w.emoji) { mutableSetOf() } += w.english.lowercase() }
+        lessons.flatMap { it.steps }.forEach { step ->
+            when (step) {
+                is LearnCard -> step.word?.let(::note)
+                is ListenTap -> step.options.forEach(::note)
+                is WordPick -> note(Word(step.answer, step.emoji))
+                is SayWord -> note(step.word)
+                is MatchMeaning -> note(step.word)
+                is LearnWord -> note(step.word)
+                else -> Unit
+            }
+        }
+
+        val problems = mutableListOf<String>()
+        lessons.flatMap { it.steps }.forEach { step ->
+            when (step) {
+                is WordPick -> {
+                    val answer = step.answer.lowercase()
+                    if (answer in noPicture) problems += "${step.id}: no picture can show '$answer'; ask it by sound"
+                    step.options.map { it.lowercase() }.filter { it != answer }.forEach { other ->
+                        if (related(answer, other)) problems += "${step.id}: '$answer' and '$other' are both right (one is a kind of the other)"
+                        if (other in pictureWords[step.emoji].orEmpty()) problems += "${step.id}: the picture ${step.emoji} also means '$other'"
+                    }
+                }
+                is ListenTap -> {
+                    val answer = step.answer.lowercase()
+                    if (answer in noPicture) problems += "${step.id}: no picture can show '$answer'; ask it by sound"
+                    val pictures = step.options.map { it.emoji }
+                    if (pictures.toSet().size != pictures.size) problems += "${step.id}: two options share a picture"
+                    step.options.map { it.english.lowercase() }.filter { it != answer }.forEach { other ->
+                        if (related(answer, other)) problems += "${step.id}: '$answer' and '$other' are both right (one is a kind of the other)"
+                    }
+                }
+                else -> Unit
+            }
+        }
+        assertNoProblems(problems)
+    }
+
+    /** Every passage teaches its key words first, then reads, then asks about what was read. */
+    @Test
+    fun readingPassagesAreWellFormed() {
+        val problems = mutableListOf<String>()
+        val passages = lessonFiles.filter { it.nameWithoutExtension.isReadingLesson }
+        assertTrue("no reading passages", passages.size >= 30)
+        passages.forEach { file ->
+            val lesson = ContentJson.decodeFromString<Lesson>(file.readText())
+            val read = lesson.steps.filterIsInstance<ReadAlong>()
+            if (read.size != 1) problems += "${lesson.id}: needs exactly one read_along step"
+            val passage = read.firstOrNull() ?: return@forEach
+            val text = passage.sentences.joinToString(" ").lowercase()
+            if (lesson.steps.count { it is StoryQuestion } < 2) problems += "${lesson.id}: needs 2 story questions"
+            if (lesson.steps.indexOfFirst { it is StoryQuestion } < lesson.steps.indexOf(passage)) problems += "${lesson.id}: a question comes before the reading"
+            passage.words.forEach { if (it.english.lowercase() !in text) problems += "${lesson.id}: key word '${it.english}' is not in the passage" }
+            if (Regex("\\d").containsMatchIn(text)) problems += "${lesson.id}: digits in a passage (the listener hears numbers as words)"
+            if (text.contains("mr.") || text.contains("mrs.")) problems += "${lesson.id}: abbreviation with a full stop breaks sentence splitting"
+            val words = passage.readingWords.size
+            val level = lesson.id.substring(1, 2).toInt()
+            val limit = mapOf(1 to 25, 2 to 35, 3 to 60, 4 to 90, 5 to 110)
+            if (words > limit.getValue(level)) problems += "${lesson.id}: $words words is too long for reading level $level"
+        }
         assertNoProblems(problems)
     }
 
@@ -45,6 +133,34 @@ class ContentValidationTest {
                 if (!step.id.startsWith(lesson.id)) problems += "${step.id}: id should start with ${lesson.id}"
                 checkStep(step, problems)
             }
+        }
+        assertNoProblems(problems)
+    }
+
+    @Test
+    fun everySkillHasAParentFriendlyName() {
+        val problems = mutableListOf<String>()
+        val skills = lessonFiles.flatMap { f -> ContentJson.decodeFromString<Lesson>(f.readText()).steps.flatMap { it.skills } }.toSet()
+        (skills + "sound.th" + "sound.v" + "sound.w" + "sound.z" + "sound.f" + "sound.sh" + "sound.s_cluster").forEach { skill ->
+            val info = SkillCatalog.describe(skill)
+            if (info == null) problems += "$skill: no name for the parent section" else {
+                info.name.check("$skill name", problems, needsDevanagari = false)
+                info.tip.check("$skill tip", problems, needsDevanagari = false)
+            }
+        }
+        assertNoProblems(problems)
+    }
+
+    @Test
+    fun missionsAreValidAndInOrder() {
+        val missions = ContentJson.decodeFromString<MissionsFile>(File(root, "missions.json").readText()).missions
+        val lessonCount = lessonFiles.size
+        val problems = mutableListOf<String>()
+        if (missions.map { it.id }.toSet().size != missions.size) problems += "duplicate mission id"
+        missions.zipWithNext { a, b -> if (b.needLessons < a.needLessons) problems += "${b.id}: out of order" }
+        missions.forEach {
+            it.text.check(it.id, problems)
+            if (it.needLessons !in 0..lessonCount) problems += "${it.id}: needs ${it.needLessons} lessons, only $lessonCount exist"
         }
         assertNoProblems(problems)
     }
@@ -131,7 +247,68 @@ class ContentValidationTest {
                 else if (step.words[step.wrong] == step.fix) problems += "$id: the fix is the same as the wrong word"
                 step.meaning?.check(id, problems)
             }
+            is TeachTinku -> {
+                if (step.wrong == step.answer) problems += "$id: wrong and answer are the same"
+                step.meaning.check(id, problems)
+            }
+            is Roleplay -> checkRoleplay(step, problems)
+            is ReadAlong -> {
+                step.title.check(id, problems)
+                if (step.sentences.none { it.isNotBlank() }) problems += "$id: nothing to read"
+                if (step.sentences.firstOrNull().isNullOrBlank() || step.sentences.lastOrNull().isNullOrBlank()) problems += "$id: passage starts or ends with a blank line"
+                step.words.forEach { if (it.english.isBlank() || it.hindi.isNullOrBlank()) problems += "$id: key word needs English and Hindi" }
+            }
+            is StoryQuestion -> {
+                step.question.check(id, problems)
+                checkOptions(id, step.answer, step.options, problems)
+            }
+            is LearnWord -> {
+                if (step.word.english.isBlank() || step.word.hindi.isNullOrBlank()) problems += "$id: word needs English and Hindi"
+                if (step.meaning.isBlank() || step.example.isBlank()) problems += "$id: needs a meaning and an example"
+                step.exampleMeaning?.check(id, problems) ?: run { problems += "$id: the example has no Hindi meaning" }
+            }
+            is SpellWord -> if (!step.word.english.all { it.isLetter() }) problems += "$id: only letters can be spelled with tiles or typing"
         }
+    }
+
+    /** Every turn must be reachable, every reply must lead somewhere, and every path must reach the end. */
+    private fun checkRoleplay(step: Roleplay, problems: MutableList<String>) {
+        val id = step.id
+        val order = step.turns.map { it.id }
+        if (order.toSet().size != order.size) problems += "$id: duplicate turn id"
+        val byId = step.turns.associateBy { it.id }
+
+        fun nextOf(turnIndex: Int, reply: RoleplayReply) = reply.next ?: order.getOrNull(turnIndex + 1) ?: END_CONVERSATION
+
+        step.turns.forEachIndexed { index, turn ->
+            turn.meaning.check("$id/${turn.id}", problems)
+            if (turn.replies.isEmpty()) problems += "$id/${turn.id}: no replies"
+            turn.replies.forEach { reply ->
+                reply.meaning.check("$id/${turn.id}", problems)
+                if (reply.patterns.isEmpty()) problems += "$id/${turn.id}: reply has no patterns"
+                val next = nextOf(index, reply)
+                if (next != END_CONVERSATION && next !in byId) problems += "$id/${turn.id}: goes to unknown turn '$next'"
+            }
+        }
+
+        val reached = mutableSetOf<String>()
+        var reachesEnd = false
+        fun walk(turnId: String, path: Set<String>) {
+            if (turnId == END_CONVERSATION) {
+                reachesEnd = true
+                return
+            }
+            if (turnId in path) {
+                problems += "$id: the conversation can loop forever at '$turnId'"
+                return
+            }
+            reached += turnId
+            val turn = byId[turnId] ?: return
+            turn.replies.forEach { walk(nextOf(order.indexOf(turnId), it), path + turnId) }
+        }
+        walk(order.first(), emptySet())
+        if (!reachesEnd) problems += "$id: the conversation never ends"
+        (order - reached).forEach { problems += "$id: turn '$it' can never be reached" }
     }
 
     private fun Meaning.check(where: String, problems: MutableList<String>) {
@@ -141,7 +318,7 @@ class ContentValidationTest {
 
     /** The sound must have a file in assets/audio/phonics (an empty placeholder is fine until it's recorded). */
     private fun checkSound(id: String, sound: String, problems: MutableList<String>) {
-        if (sound !in soundFiles) problems += "$id: no audio file for sound '$sound'"
+        sound.split("+").forEach { if (it !in soundFiles) problems += "$id: no audio file for sound '$it'" }
     }
 
     private val soundFiles: Set<String> by lazy {
@@ -154,10 +331,10 @@ class ContentValidationTest {
         if (options.size !in 2..4) problems += "$id: needs 2-4 options, has ${options.size}"
     }
 
-    private fun L.check(where: String, problems: MutableList<String>) {
+    private fun L.check(where: String, problems: MutableList<String>, needsDevanagari: Boolean = true) {
         if (hi.isBlank() || hinglish.isBlank() || en.isBlank()) problems += "$where: a language is blank"
-        // Hindi text must be in Devanagari, Hinglish in Roman letters.
-        if (hi.none { it in 'ऀ'..'ॿ' }) problems += "$where: hi text has no Devanagari"
+        // Hindi text must be in Devanagari, Hinglish in Roman letters. (Names like "I am" stay in English.)
+        if (needsDevanagari && hi.none { it in 'ऀ'..'ॿ' }) problems += "$where: hi text has no Devanagari"
         if (hinglish.any { it in 'ऀ'..'ॿ' }) problems += "$where: hinglish text contains Devanagari"
     }
 

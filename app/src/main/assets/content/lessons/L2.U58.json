@@ -1,0 +1,452 @@
+{
+  "id": "L2.U58",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U58.S01",
+      "text": {
+        "hi": "हम कैसे हैं? स्वभाव के शब्द।",
+        "hinglish": "Hum kaise hain? Swabhaav ke shabd.",
+        "en": "What are we like? Words about people."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U58.S02",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘love’ मतलब ‘प्यार’।",
+        "hinglish": "‘love’ matlab ‘pyaar’.",
+        "en": "Say it with me: love!"
+      },
+      "word": {
+        "english": "love",
+        "emoji": "🥰",
+        "hindi": "प्यार",
+        "hinglish": "pyaar"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U58.S03",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘fear’ मतलब ‘डर’।",
+        "hinglish": "‘fear’ matlab ‘dar’.",
+        "en": "Say it with me: fear!"
+      },
+      "word": {
+        "english": "fear",
+        "emoji": "😱",
+        "hindi": "डर",
+        "hinglish": "dar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U58.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "love",
+        "emoji": "🥰",
+        "hindi": "प्यार",
+        "hinglish": "pyaar"
+      },
+      "answer": {
+        "hi": "प्यार",
+        "hinglish": "pyaar"
+      },
+      "options": [
+        {
+          "hi": "प्यार",
+          "hinglish": "pyaar"
+        },
+        {
+          "hi": "होशियार",
+          "hinglish": "hoshiyaar"
+        },
+        {
+          "hi": "डर",
+          "hinglish": "dar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U58.S05",
+      "skills": [
+        "read.word",
+        "vocab.feelings"
+      ],
+      "answer": "fear",
+      "options": [
+        "fear",
+        "proud",
+        "shy"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U58.S06",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘proud’ मतलब ‘गर्व’।",
+        "hinglish": "‘proud’ matlab ‘garv’.",
+        "en": "Say it with me: proud!"
+      },
+      "word": {
+        "english": "proud",
+        "hindi": "गर्व",
+        "hinglish": "garv"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U58.S07",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘shy’ मतलब ‘शर्मीला’।",
+        "hinglish": "‘shy’ matlab ‘sharmeela’.",
+        "en": "Say it with me: shy!"
+      },
+      "word": {
+        "english": "shy",
+        "hindi": "शर्मीला",
+        "hinglish": "sharmeela"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U58.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "proud",
+        "hindi": "गर्व",
+        "hinglish": "garv"
+      },
+      "answer": {
+        "hi": "गर्व",
+        "hinglish": "garv"
+      },
+      "options": [
+        {
+          "hi": "गर्व",
+          "hinglish": "garv"
+        },
+        {
+          "hi": "शर्मीला",
+          "hinglish": "sharmeela"
+        },
+        {
+          "hi": "प्यार",
+          "hinglish": "pyaar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U58.S09",
+      "skills": [
+        "read.word",
+        "vocab.feelings"
+      ],
+      "answer": "shy",
+      "options": [
+        "shy",
+        "brave",
+        "lazy"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U58.S10",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘brave’ मतलब ‘बहादुर’।",
+        "hinglish": "‘brave’ matlab ‘bahaadur’.",
+        "en": "Say it with me: brave!"
+      },
+      "word": {
+        "english": "brave",
+        "emoji": "🦸",
+        "hindi": "बहादुर",
+        "hinglish": "bahaadur"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U58.S11",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘kind’ मतलब ‘दयालु’।",
+        "hinglish": "‘kind’ matlab ‘dayaalu’.",
+        "en": "Say it with me: kind!"
+      },
+      "word": {
+        "english": "kind",
+        "hindi": "दयालु",
+        "hinglish": "dayaalu"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U58.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "brave",
+        "emoji": "🦸",
+        "hindi": "बहादुर",
+        "hinglish": "bahaadur"
+      },
+      "answer": {
+        "hi": "बहादुर",
+        "hinglish": "bahaadur"
+      },
+      "options": [
+        {
+          "hi": "बहादुर",
+          "hinglish": "bahaadur"
+        },
+        {
+          "hi": "डर",
+          "hinglish": "dar"
+        },
+        {
+          "hi": "गर्व",
+          "hinglish": "garv"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U58.S13",
+      "skills": [
+        "read.word",
+        "vocab.feelings"
+      ],
+      "answer": "kind",
+      "options": [
+        "kind",
+        "brave",
+        "proud"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U58.S14",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘lazy’ मतलब ‘आलसी’।",
+        "hinglish": "‘lazy’ matlab ‘aalsi’.",
+        "en": "Say it with me: lazy!"
+      },
+      "word": {
+        "english": "lazy",
+        "emoji": "🦥",
+        "hindi": "आलसी",
+        "hinglish": "aalsi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U58.S15",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "text": {
+        "hi": "‘clever’ मतलब ‘होशियार’।",
+        "hinglish": "‘clever’ matlab ‘hoshiyaar’.",
+        "en": "Say it with me: clever!"
+      },
+      "word": {
+        "english": "clever",
+        "hindi": "होशियार",
+        "hinglish": "hoshiyaar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U58.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "lazy",
+        "emoji": "🦥",
+        "hindi": "आलसी",
+        "hinglish": "aalsi"
+      },
+      "answer": {
+        "hi": "आलसी",
+        "hinglish": "aalsi"
+      },
+      "options": [
+        {
+          "hi": "आलसी",
+          "hinglish": "aalsi"
+        },
+        {
+          "hi": "दयालु",
+          "hinglish": "dayaalu"
+        },
+        {
+          "hi": "होशियार",
+          "hinglish": "hoshiyaar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U58.S17",
+      "skills": [
+        "read.word",
+        "vocab.feelings"
+      ],
+      "answer": "clever",
+      "options": [
+        "clever",
+        "love",
+        "brave"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U58.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "kind",
+        "hindi": "दयालु",
+        "hinglish": "dayaalu"
+      },
+      "answer": {
+        "hi": "दयालु",
+        "hinglish": "dayaalu"
+      },
+      "options": [
+        {
+          "hi": "दयालु",
+          "hinglish": "dayaalu"
+        },
+        {
+          "hi": "बहादुर",
+          "hinglish": "bahaadur"
+        },
+        {
+          "hi": "प्यार",
+          "hinglish": "pyaar"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U58.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "brave",
+        "emoji": "🦸",
+        "hindi": "बहादुर",
+        "hinglish": "bahaadur"
+      },
+      "answer": {
+        "hi": "बहादुर",
+        "hinglish": "bahaadur"
+      },
+      "options": [
+        {
+          "hi": "बहादुर",
+          "hinglish": "bahaadur"
+        },
+        {
+          "hi": "होशियार",
+          "hinglish": "hoshiyaar"
+        },
+        {
+          "hi": "दयालु",
+          "hinglish": "dayaalu"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U58.S20",
+      "skills": [
+        "speak.word",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "love",
+        "emoji": "🥰",
+        "hindi": "प्यार",
+        "hinglish": "pyaar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U58.S21",
+      "skills": [
+        "speak.word",
+        "vocab.feelings"
+      ],
+      "word": {
+        "english": "fear",
+        "emoji": "😱",
+        "hindi": "डर",
+        "hinglish": "dar"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U58.S22",
+      "skills": [
+        "read.word",
+        "vocab.feelings"
+      ],
+      "answer": "clever",
+      "options": [
+        "clever",
+        "proud",
+        "lazy"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U58.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: love, fear, proud, shy, brave, kind, lazy, clever।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: love, fear, proud, shy, brave, kind, lazy, clever.",
+        "en": "Well done! Today's new words: love, fear, proud, shy, brave, kind, lazy, clever."
+      }
+    }
+  ]
+}

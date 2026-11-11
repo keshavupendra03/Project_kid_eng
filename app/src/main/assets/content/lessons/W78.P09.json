@@ -1,0 +1,480 @@
+{
+  "id": "W78.P09",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P09.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: जोड़ने वाले शब्द। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Jodne waale shabd. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Linking words. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P09.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "however",
+        "emoji": "🔄",
+        "hindi": "फिर भी",
+        "hinglish": "phir bhi"
+      },
+      "meaning": "but; used to show a different idea",
+      "example": "It was raining. However, we went out.",
+      "exampleMeaning": {
+        "hi": "बारिश हो रही थी। फिर भी, हम बाहर गए।",
+        "hinglish": "Baarish ho rahi thi. Phir bhi, hum baahar gaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P09.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "therefore",
+        "emoji": "➡️",
+        "hindi": "इसलिए",
+        "hinglish": "isliye"
+      },
+      "meaning": "so; because of that",
+      "example": "She studied hard and therefore she passed.",
+      "exampleMeaning": {
+        "hi": "उसने खूब पढ़ाई की, इसलिए वह पास हो गई।",
+        "hinglish": "Usne khoob padhaai ki, isliye woh paas ho gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P09.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "although",
+        "emoji": "🤝",
+        "hindi": "हालाँकि",
+        "hinglish": "haalaanki"
+      },
+      "meaning": "even though",
+      "example": "Although he was tired, he finished his work.",
+      "exampleMeaning": {
+        "hi": "हालाँकि वह थका हुआ था, फिर भी उसने अपना काम पूरा किया।",
+        "hinglish": "Haalaanki woh thaka hua tha, phir bhi usne apna kaam poora kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P09.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "meanwhile",
+        "emoji": "⏱️",
+        "hindi": "इस बीच",
+        "hinglish": "is beech"
+      },
+      "meaning": "at the same time",
+      "example": "Mummy cooked. Meanwhile, I set the table.",
+      "exampleMeaning": {
+        "hi": "मम्मी ने खाना बनाया। इस बीच मैंने मेज़ लगाई।",
+        "hinglish": "Mummy ne khaana banaaya. Is beech maine mez lagaayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P09.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "moreover",
+        "emoji": "➕",
+        "hindi": "इसके अलावा",
+        "hinglish": "iske alaava"
+      },
+      "meaning": "also; in addition",
+      "example": "The phone is cheap. Moreover, it is fast.",
+      "exampleMeaning": {
+        "hi": "फ़ोन सस्ता है। इसके अलावा, यह तेज़ भी है।",
+        "hinglish": "Phone sasta hai. Iske alaava, yeh tez bhi hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P09.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "probably",
+        "emoji": "🤔",
+        "hindi": "शायद",
+        "hinglish": "shaayad"
+      },
+      "meaning": "likely to happen",
+      "example": "It will probably rain today.",
+      "exampleMeaning": {
+        "hi": "आज शायद बारिश होगी।",
+        "hinglish": "Aaj shaayad baarish hogi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P09.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "certainly",
+        "emoji": "✅",
+        "hindi": "ज़रूर",
+        "hinglish": "zaroor"
+      },
+      "meaning": "surely; without doubt",
+      "example": "I will certainly come to your party.",
+      "exampleMeaning": {
+        "hi": "मैं तुम्हारी पार्टी में ज़रूर आऊँगा/आऊँगी।",
+        "hinglish": "Main tumhari party mein zaroor aaunga/aaungi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P09.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "perhaps",
+        "emoji": "🤷",
+        "hindi": "हो सकता है",
+        "hinglish": "ho sakta hai"
+      },
+      "meaning": "maybe",
+      "example": "Perhaps we can go tomorrow.",
+      "exampleMeaning": {
+        "hi": "हो सकता है हम कल जा सकें।",
+        "hinglish": "Ho sakta hai hum kal ja sakein."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P09.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "unless",
+        "emoji": "⛔",
+        "hindi": "जब तक नहीं",
+        "hinglish": "jab tak nahi"
+      },
+      "meaning": "if not",
+      "example": "You will not pass unless you study.",
+      "exampleMeaning": {
+        "hi": "जब तक पढ़ाई नहीं करोगे, पास नहीं हो पाओगे।",
+        "hinglish": "Jab tak padhaai nahi karoge, paas nahi ho paoge."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P09.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "instead",
+        "emoji": "🔁",
+        "hindi": "के बजाय",
+        "hinglish": "ke bajaay"
+      },
+      "meaning": "in place of something",
+      "example": "Let us walk instead of taking the bus.",
+      "exampleMeaning": {
+        "hi": "चलो, बस लेने के बजाय पैदल चलते हैं।",
+        "hinglish": "Chalo, bus lene ke bajaay paidal chalte hain."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P09.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "certainly",
+        "emoji": "✅",
+        "hindi": "ज़रूर",
+        "hinglish": "zaroor"
+      },
+      "answer": {
+        "hi": "ज़रूर",
+        "hinglish": "zaroor"
+      },
+      "options": [
+        {
+          "hi": "ज़रूर",
+          "hinglish": "zaroor"
+        },
+        {
+          "hi": "जब तक नहीं",
+          "hinglish": "jab tak nahi"
+        },
+        {
+          "hi": "शायद",
+          "hinglish": "shaayad"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P09.S13",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "meanwhile",
+        "emoji": "⏱️",
+        "hindi": "इस बीच",
+        "hinglish": "is beech"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P09.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ we can go tomorrow.",
+      "answer": "perhaps",
+      "options": [
+        "perhaps",
+        "certainly",
+        "however"
+      ],
+      "meaning": {
+        "hi": "हो सकता है",
+        "hinglish": "ho sakta hai"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P09.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "although",
+        "emoji": "🤝",
+        "hindi": "हालाँकि",
+        "hinglish": "haalaanki"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P09.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "instead",
+      "options": [
+        "instead",
+        "perhaps",
+        "therefore"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P09.S17",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "however",
+        "emoji": "🔄",
+        "hindi": "फिर भी",
+        "hinglish": "phir bhi"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P09.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "She studied hard and ___ she passed.",
+      "answer": "therefore",
+      "options": [
+        "therefore",
+        "moreover",
+        "however"
+      ],
+      "meaning": {
+        "hi": "इसलिए",
+        "hinglish": "isliye"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P09.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Mummy cooked. ___, I set the table.",
+      "answer": "meanwhile",
+      "options": [
+        "meanwhile",
+        "certainly",
+        "although"
+      ],
+      "meaning": {
+        "hi": "इस बीच",
+        "hinglish": "is beech"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P09.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "unless",
+      "options": [
+        "unless",
+        "although",
+        "perhaps"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P09.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "although",
+        "emoji": "🤝",
+        "hindi": "हालाँकि",
+        "hinglish": "haalaanki"
+      },
+      "answer": {
+        "hi": "हालाँकि",
+        "hinglish": "haalaanki"
+      },
+      "options": [
+        {
+          "hi": "हालाँकि",
+          "hinglish": "haalaanki"
+        },
+        {
+          "hi": "हो सकता है",
+          "hinglish": "ho sakta hai"
+        },
+        {
+          "hi": "इस बीच",
+          "hinglish": "is beech"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P09.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "however",
+        "emoji": "🔄",
+        "hindi": "फिर भी",
+        "hinglish": "phir bhi"
+      },
+      "answer": {
+        "hi": "फिर भी",
+        "hinglish": "phir bhi"
+      },
+      "options": [
+        {
+          "hi": "फिर भी",
+          "hinglish": "phir bhi"
+        },
+        {
+          "hi": "शायद",
+          "hinglish": "shaayad"
+        },
+        {
+          "hi": "हालाँकि",
+          "hinglish": "haalaanki"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P09.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "moreover",
+        "emoji": "➕",
+        "hindi": "इसके अलावा",
+        "hinglish": "iske alaava"
+      },
+      "answer": {
+        "hi": "इसके अलावा",
+        "hinglish": "iske alaava"
+      },
+      "options": [
+        {
+          "hi": "इसके अलावा",
+          "hinglish": "iske alaava"
+        },
+        {
+          "hi": "के बजाय",
+          "hinglish": "ke bajaay"
+        },
+        {
+          "hi": "ज़रूर",
+          "hinglish": "zaroor"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P09.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "It will ___ rain today.",
+      "answer": "probably",
+      "options": [
+        "probably",
+        "certainly",
+        "however"
+      ],
+      "meaning": {
+        "hi": "शायद",
+        "hinglish": "shaayad"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P09.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "therefore",
+        "emoji": "➡️",
+        "hindi": "इसलिए",
+        "hinglish": "isliye"
+      }
+    }
+  ]
+}

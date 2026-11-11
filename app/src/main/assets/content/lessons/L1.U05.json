@@ -44,7 +44,7 @@
       "text": {
         "hi": "यह ‘e’ है। इसकी आवाज़ है ‘ए’, जैसे egg में।",
         "hinglish": "Yeh ‘e’ hai. Iski awaaz hai ‘e’, jaise egg mein.",
-        "en": "This is ‘e’. Listen to its sound, like at the start of egg."
+        "en": "This is ‘e’. Listen to its sound, as in egg."
       },
       "example": {
         "english": "egg",
@@ -88,7 +88,7 @@
       "text": {
         "hi": "यह ‘u’ है। इसकी आवाज़ है ‘अ’, जैसे umbrella में।",
         "hinglish": "Yeh ‘u’ hai. Iski awaaz hai ‘a’, jaise umbrella mein.",
-        "en": "This is ‘u’. Listen to its sound, like at the start of umbrella."
+        "en": "This is ‘u’. Listen to its sound, as in umbrella."
       },
       "example": {
         "english": "umbrella",
@@ -109,7 +109,7 @@
       "text": {
         "hi": "यह ‘r’ है। इसकी आवाज़ है ‘र’, जैसे rabbit में।",
         "hinglish": "Yeh ‘r’ hai. Iski awaaz hai ‘r’, jaise rabbit mein.",
-        "en": "This is ‘r’. Listen to its sound, like at the start of rabbit."
+        "en": "This is ‘r’. Listen to its sound, as in rabbit."
       },
       "example": {
         "english": "rabbit",

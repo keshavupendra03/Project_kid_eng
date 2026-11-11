@@ -1,0 +1,480 @@
+{
+  "id": "W34.P11",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P11.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: खाना और रसोई। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Khaana aur rasoi. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Food and kitchen. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P11.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "delicious",
+        "emoji": "😋",
+        "hindi": "स्वादिष्ट",
+        "hinglish": "swaadisht"
+      },
+      "meaning": "very tasty",
+      "example": "Dadi makes delicious halwa.",
+      "exampleMeaning": {
+        "hi": "दादी स्वादिष्ट हलवा बनाती हैं।",
+        "hinglish": "Dadi swaadisht halwa banaati hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P11.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "bitter",
+        "emoji": "🥒",
+        "hindi": "कड़वा",
+        "hinglish": "kadwa"
+      },
+      "meaning": "a strong taste that is not sweet",
+      "example": "Karela tastes bitter.",
+      "exampleMeaning": {
+        "hi": "करेला कड़वा लगता है।",
+        "hinglish": "Karela kadwa lagta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P11.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sour",
+        "emoji": "🍋",
+        "hindi": "खट्टा",
+        "hinglish": "khatta"
+      },
+      "meaning": "tasting like lemon",
+      "example": "The raw mango is sour.",
+      "exampleMeaning": {
+        "hi": "कच्चा आम खट्टा है।",
+        "hinglish": "Kachcha aam khatta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P11.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "spicy",
+        "emoji": "🌶️",
+        "hindi": "तीखा",
+        "hinglish": "teekha"
+      },
+      "meaning": "hot in taste because of chillies",
+      "example": "This curry is too spicy for me.",
+      "exampleMeaning": {
+        "hi": "यह सब्ज़ी मेरे लिए बहुत तीखी है।",
+        "hinglish": "Yeh sabzi mere liye bahut teekhi hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P11.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "recipe",
+        "emoji": "📝",
+        "hindi": "बनाने का तरीका",
+        "hinglish": "banaane ka tareeka"
+      },
+      "meaning": "the steps to make a dish",
+      "example": "Mummy wrote the recipe for laddoos.",
+      "exampleMeaning": {
+        "hi": "मम्मी ने लड्डू बनाने का तरीका लिखा।",
+        "hinglish": "Mummy ne laddoo banaane ka tareeka likha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P11.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "breakfast",
+        "emoji": "🍳",
+        "hindi": "नाश्ता",
+        "hinglish": "naashta"
+      },
+      "meaning": "the first meal of the day",
+      "example": "I eat poha for breakfast.",
+      "exampleMeaning": {
+        "hi": "मैं नाश्ते में पोहा खाता/खाती हूँ।",
+        "hinglish": "Main naashte mein poha khaata/khaati hoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P11.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hungry",
+        "emoji": "🍽️",
+        "hindi": "भूखा",
+        "hinglish": "bhookha"
+      },
+      "meaning": "wanting to eat",
+      "example": "After playing, I was very hungry.",
+      "exampleMeaning": {
+        "hi": "खेलने के बाद मुझे बहुत भूख लगी।",
+        "hinglish": "Khelne ke baad mujhe bahut bhookh lagi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P11.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "thirsty",
+        "emoji": "🥤",
+        "hindi": "प्यासा",
+        "hinglish": "pyaasa"
+      },
+      "meaning": "wanting to drink",
+      "example": "Drink water when you are thirsty.",
+      "exampleMeaning": {
+        "hi": "प्यास लगे तो पानी पियो।",
+        "hinglish": "Pyaas lage to paani piyo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P11.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "bowl",
+        "emoji": "🥣",
+        "hindi": "कटोरी",
+        "hinglish": "katori"
+      },
+      "meaning": "a round deep dish",
+      "example": "Put the dal in a bowl.",
+      "exampleMeaning": {
+        "hi": "दाल कटोरी में डालो।",
+        "hinglish": "Daal katori mein daalo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P11.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "stir",
+        "emoji": "🥄",
+        "hindi": "चलाना",
+        "hinglish": "chalaana"
+      },
+      "meaning": "to move a spoon round and round in food",
+      "example": "Stir the milk so it does not burn.",
+      "exampleMeaning": {
+        "hi": "दूध चलाते रहो ताकि वह जले नहीं।",
+        "hinglish": "Doodh chalaate raho taaki woh jale nahi."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P11.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "recipe",
+        "emoji": "📝",
+        "hindi": "बनाने का तरीका",
+        "hinglish": "banaane ka tareeka"
+      },
+      "answer": {
+        "hi": "बनाने का तरीका",
+        "hinglish": "banaane ka tareeka"
+      },
+      "options": [
+        {
+          "hi": "बनाने का तरीका",
+          "hinglish": "banaane ka tareeka"
+        },
+        {
+          "hi": "खट्टा",
+          "hinglish": "khatta"
+        },
+        {
+          "hi": "भूखा",
+          "hinglish": "bhookha"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P11.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "sour",
+        "emoji": "🍋",
+        "hindi": "खट्टा",
+        "hinglish": "khatta"
+      },
+      "answer": {
+        "hi": "खट्टा",
+        "hinglish": "khatta"
+      },
+      "options": [
+        {
+          "hi": "खट्टा",
+          "hinglish": "khatta"
+        },
+        {
+          "hi": "नाश्ता",
+          "hinglish": "naashta"
+        },
+        {
+          "hi": "तीखा",
+          "hinglish": "teekha"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P11.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "delicious",
+        "emoji": "😋",
+        "hindi": "स्वादिष्ट",
+        "hinglish": "swaadisht"
+      },
+      "answer": {
+        "hi": "स्वादिष्ट",
+        "hinglish": "swaadisht"
+      },
+      "options": [
+        {
+          "hi": "स्वादिष्ट",
+          "hinglish": "swaadisht"
+        },
+        {
+          "hi": "भूखा",
+          "hinglish": "bhookha"
+        },
+        {
+          "hi": "खट्टा",
+          "hinglish": "khatta"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P11.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "This curry is too ___ for me.",
+      "answer": "spicy",
+      "options": [
+        "spicy",
+        "thirsty",
+        "bowl"
+      ],
+      "meaning": {
+        "hi": "तीखा",
+        "hinglish": "teekha"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P11.S16",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "delicious",
+        "emoji": "😋",
+        "hindi": "स्वादिष्ट",
+        "hinglish": "swaadisht"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P11.S17",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "sour",
+        "emoji": "🍋",
+        "hindi": "खट्टा",
+        "hinglish": "khatta"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P11.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "stir",
+      "options": [
+        "stir",
+        "delicious",
+        "breakfast"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P11.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "bowl",
+      "options": [
+        "bowl",
+        "stir",
+        "sour"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P11.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Karela tastes ___.",
+      "answer": "bitter",
+      "options": [
+        "bitter",
+        "thirsty",
+        "recipe"
+      ],
+      "meaning": {
+        "hi": "कड़वा",
+        "hinglish": "kadwa"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P11.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hungry",
+        "emoji": "🍽️",
+        "hindi": "भूखा",
+        "hinglish": "bhookha"
+      },
+      "answer": {
+        "hi": "भूखा",
+        "hinglish": "bhookha"
+      },
+      "options": [
+        {
+          "hi": "भूखा",
+          "hinglish": "bhookha"
+        },
+        {
+          "hi": "बनाने का तरीका",
+          "hinglish": "banaane ka tareeka"
+        },
+        {
+          "hi": "कड़वा",
+          "hinglish": "kadwa"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P11.S22",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Drink water when you are ___.",
+      "answer": "thirsty",
+      "options": [
+        "thirsty",
+        "bowl",
+        "breakfast"
+      ],
+      "meaning": {
+        "hi": "प्यासा",
+        "hinglish": "pyaasa"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P11.S23",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "spicy",
+        "emoji": "🌶️",
+        "hindi": "तीखा",
+        "hinglish": "teekha"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P11.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I eat poha for ___.",
+      "answer": "breakfast",
+      "options": [
+        "breakfast",
+        "bowl",
+        "spicy"
+      ],
+      "meaning": {
+        "hi": "नाश्ता",
+        "hinglish": "naashta"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P11.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "bitter",
+        "emoji": "🥒",
+        "hindi": "कड़वा",
+        "hinglish": "kadwa"
+      }
+    }
+  ]
+}

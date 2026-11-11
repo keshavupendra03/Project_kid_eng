@@ -63,12 +63,6 @@
           "hinglish": "naksha"
         },
         {
-          "english": "flag",
-          "emoji": "🇮🇳",
-          "hindi": "झंडा",
-          "hinglish": "jhanda"
-        },
-        {
           "english": "trophy",
           "emoji": "🏆",
           "hindi": "ट्रॉफ़ी",
@@ -79,6 +73,12 @@
           "emoji": "✉️",
           "hindi": "चिट्ठी",
           "hinglish": "chitthi"
+        },
+        {
+          "english": "globe",
+          "emoji": "🌍",
+          "hindi": "ग्लोब",
+          "hinglish": "globe"
         }
       ]
     },
@@ -93,8 +93,8 @@
       "answer": "globe",
       "options": [
         "globe",
-        "map",
-        "flag"
+        "flag",
+        "gift"
       ]
     },
     {
@@ -149,16 +149,16 @@
           "hinglish": "kaagaz"
         },
         {
-          "english": "flag",
-          "emoji": "🇮🇳",
-          "hindi": "झंडा",
-          "hinglish": "jhanda"
-        },
-        {
           "english": "letter",
           "emoji": "✉️",
           "hindi": "चिट्ठी",
           "hinglish": "chitthi"
+        },
+        {
+          "english": "trophy",
+          "emoji": "🏆",
+          "hindi": "ट्रॉफ़ी",
+          "hinglish": "trophy"
         },
         {
           "english": "gift",
@@ -179,8 +179,8 @@
       "answer": "letter",
       "options": [
         "letter",
-        "trophy",
-        "paper"
+        "gift",
+        "flag"
       ]
     },
     {
@@ -220,36 +220,33 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U08.S12",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.school"
       ],
-      "answer": "calendar",
+      "word": {
+        "english": "calendar",
+        "emoji": "📅",
+        "hindi": "कैलेंडर",
+        "hinglish": "calendar"
+      },
+      "answer": {
+        "hi": "कैलेंडर",
+        "hinglish": "calendar"
+      },
       "options": [
         {
-          "english": "calendar",
-          "emoji": "📅",
-          "hindi": "कैलेंडर",
+          "hi": "कैलेंडर",
           "hinglish": "calendar"
         },
         {
-          "english": "gift",
-          "emoji": "🎁",
-          "hindi": "तोहफ़ा",
-          "hinglish": "tohfa"
+          "hi": "ट्रॉफ़ी",
+          "hinglish": "trophy"
         },
         {
-          "english": "flag",
-          "emoji": "🇮🇳",
-          "hindi": "झंडा",
-          "hinglish": "jhanda"
-        },
-        {
-          "english": "paper",
-          "emoji": "📄",
-          "hindi": "कागज़",
+          "hi": "कागज़",
           "hinglish": "kaagaz"
         }
       ]
@@ -265,8 +262,8 @@
       "answer": "flag",
       "options": [
         "flag",
-        "globe",
-        "calendar"
+        "calendar",
+        "globe"
       ]
     },
     {
@@ -321,22 +318,22 @@
           "hinglish": "trophy"
         },
         {
+          "english": "map",
+          "emoji": "🗺️",
+          "hindi": "नक्शा",
+          "hinglish": "naksha"
+        },
+        {
           "english": "flag",
           "emoji": "🇮🇳",
           "hindi": "झंडा",
           "hinglish": "jhanda"
         },
         {
-          "english": "paper",
-          "emoji": "📄",
-          "hindi": "कागज़",
-          "hinglish": "kaagaz"
-        },
-        {
-          "english": "calendar",
-          "emoji": "📅",
-          "hindi": "कैलेंडर",
-          "hinglish": "calendar"
+          "english": "gift",
+          "emoji": "🎁",
+          "hindi": "तोहफ़ा",
+          "hinglish": "tohfa"
         }
       ]
     },
@@ -351,45 +348,13 @@
       "answer": "gift",
       "options": [
         "gift",
-        "globe",
-        "map"
+        "paper",
+        "globe"
       ]
     },
     {
       "type": "match_meaning",
       "id": "L2.U08.S18",
-      "skills": [
-        "vocab.meaning",
-        "vocab.school"
-      ],
-      "word": {
-        "english": "map",
-        "emoji": "🗺️",
-        "hindi": "नक्शा",
-        "hinglish": "naksha"
-      },
-      "answer": {
-        "hi": "नक्शा",
-        "hinglish": "naksha"
-      },
-      "options": [
-        {
-          "hi": "नक्शा",
-          "hinglish": "naksha"
-        },
-        {
-          "hi": "कागज़",
-          "hinglish": "kaagaz"
-        },
-        {
-          "hi": "तोहफ़ा",
-          "hinglish": "tohfa"
-        }
-      ]
-    },
-    {
-      "type": "match_meaning",
-      "id": "L2.U08.S19",
       "skills": [
         "vocab.meaning",
         "vocab.school"
@@ -410,8 +375,40 @@
           "hinglish": "kaagaz"
         },
         {
+          "hi": "तोहफ़ा",
+          "hinglish": "tohfa"
+        },
+        {
           "hi": "ग्लोब",
           "hinglish": "globe"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U08.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.school"
+      ],
+      "word": {
+        "english": "globe",
+        "emoji": "🌍",
+        "hindi": "ग्लोब",
+        "hinglish": "globe"
+      },
+      "answer": {
+        "hi": "ग्लोब",
+        "hinglish": "globe"
+      },
+      "options": [
+        {
+          "hi": "ग्लोब",
+          "hinglish": "globe"
+        },
+        {
+          "hi": "कागज़",
+          "hinglish": "kaagaz"
         },
         {
           "hi": "तोहफ़ा",
@@ -454,11 +451,11 @@
         "read.word",
         "vocab.school"
       ],
-      "answer": "letter",
+      "answer": "calendar",
       "options": [
-        "letter",
-        "gift",
-        "globe"
+        "calendar",
+        "globe",
+        "map"
       ]
     },
     {

@@ -1,0 +1,480 @@
+{
+  "id": "W34.P09",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P09.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: समय। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Samay. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Time and days. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P09.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "early",
+        "emoji": "🌅",
+        "hindi": "जल्दी",
+        "hinglish": "jaldi"
+      },
+      "meaning": "before the usual time",
+      "example": "I wake up early to study.",
+      "exampleMeaning": {
+        "hi": "मैं पढ़ने के लिए जल्दी उठता/उठती हूँ।",
+        "hinglish": "Main padhne ke liye jaldi uthta/uthti hoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P09.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "late",
+        "emoji": "⌛",
+        "hindi": "देर से",
+        "hinglish": "der se"
+      },
+      "meaning": "after the usual time",
+      "example": "Do not be late for school.",
+      "exampleMeaning": {
+        "hi": "स्कूल के लिए देर मत करो।",
+        "hinglish": "School ke liye der mat karo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P09.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "yesterday",
+        "emoji": "⬅️",
+        "hindi": "बीता हुआ कल",
+        "hinglish": "beeta hua kal"
+      },
+      "meaning": "the day before today",
+      "example": "Yesterday I went to the park.",
+      "exampleMeaning": {
+        "hi": "कल मैं पार्क गया/गई।",
+        "hinglish": "Kal main park gaya/gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P09.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "tomorrow",
+        "emoji": "➡️",
+        "hindi": "आने वाला कल",
+        "hinglish": "aane waala kal"
+      },
+      "meaning": "the day after today",
+      "example": "We have a test tomorrow.",
+      "exampleMeaning": {
+        "hi": "कल हमारा टेस्ट है।",
+        "hinglish": "Kal hamara test hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P09.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "weekend",
+        "emoji": "🎉",
+        "hindi": "सप्ताहांत",
+        "hinglish": "saptaahaant"
+      },
+      "meaning": "Saturday and Sunday",
+      "example": "We visit Nani at the weekend.",
+      "exampleMeaning": {
+        "hi": "हम हफ़्ते के आख़िर में नानी से मिलने जाते हैं।",
+        "hinglish": "Hum hafte ke aakhir mein Nani se milne jaate hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P09.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "calendar",
+        "emoji": "📅",
+        "hindi": "कैलेंडर",
+        "hinglish": "calendar"
+      },
+      "meaning": "a page that shows all the days of the month",
+      "example": "Mark your birthday on the calendar.",
+      "exampleMeaning": {
+        "hi": "कैलेंडर पर अपने जन्मदिन पर निशान लगाओ।",
+        "hinglish": "Calendar par apne janmdin par nishaan lagao."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P09.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "minute",
+        "emoji": "⏱️",
+        "hindi": "मिनट",
+        "hinglish": "minute"
+      },
+      "meaning": "sixty seconds",
+      "example": "Wait for one minute, please.",
+      "exampleMeaning": {
+        "hi": "प्लीज़ एक मिनट रुको।",
+        "hinglish": "Please ek minute ruko."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P09.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "noon",
+        "emoji": "🕛",
+        "hindi": "दोपहर",
+        "hinglish": "dopahar"
+      },
+      "meaning": "twelve o'clock in the day",
+      "example": "We eat lunch at noon.",
+      "exampleMeaning": {
+        "hi": "हम दोपहर बारह बजे खाना खाते हैं।",
+        "hinglish": "Hum dopahar baarah baje khaana khaate hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P09.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "midnight",
+        "emoji": "🌑",
+        "hindi": "आधी रात",
+        "hinglish": "aadhi raat"
+      },
+      "meaning": "twelve o'clock at night",
+      "example": "Everyone was asleep at midnight.",
+      "exampleMeaning": {
+        "hi": "आधी रात को सब सो रहे थे।",
+        "hinglish": "Aadhi raat ko sab so rahe the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P09.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "daily",
+        "emoji": "🔁",
+        "hindi": "रोज़ का",
+        "hinglish": "roz ka"
+      },
+      "meaning": "happening every day",
+      "example": "Brushing teeth is a daily habit.",
+      "exampleMeaning": {
+        "hi": "दाँत साफ़ करना रोज़ की आदत है।",
+        "hinglish": "Daant saaf karna roz ki aadat hai."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P09.S12",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "late",
+        "emoji": "⌛",
+        "hindi": "देर से",
+        "hinglish": "der se"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P09.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "minute",
+        "emoji": "⏱️",
+        "hindi": "मिनट",
+        "hinglish": "minute"
+      },
+      "answer": {
+        "hi": "मिनट",
+        "hinglish": "minute"
+      },
+      "options": [
+        {
+          "hi": "मिनट",
+          "hinglish": "minute"
+        },
+        {
+          "hi": "जल्दी",
+          "hinglish": "jaldi"
+        },
+        {
+          "hi": "कैलेंडर",
+          "hinglish": "calendar"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P09.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "yesterday",
+        "emoji": "⬅️",
+        "hindi": "बीता हुआ कल",
+        "hinglish": "beeta hua kal"
+      },
+      "answer": {
+        "hi": "बीता हुआ कल",
+        "hinglish": "beeta hua kal"
+      },
+      "options": [
+        {
+          "hi": "बीता हुआ कल",
+          "hinglish": "beeta hua kal"
+        },
+        {
+          "hi": "आधी रात",
+          "hinglish": "aadhi raat"
+        },
+        {
+          "hi": "कैलेंडर",
+          "hinglish": "calendar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P09.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "daily",
+      "options": [
+        "daily",
+        "minute",
+        "late"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P09.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We have a test ___.",
+      "answer": "tomorrow",
+      "options": [
+        "tomorrow",
+        "daily",
+        "late"
+      ],
+      "meaning": {
+        "hi": "आने वाला कल",
+        "hinglish": "aane waala kal"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P09.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Do not be ___ for school.",
+      "answer": "late",
+      "options": [
+        "late",
+        "calendar",
+        "weekend"
+      ],
+      "meaning": {
+        "hi": "देर से",
+        "hinglish": "der se"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P09.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "weekend",
+        "emoji": "🎉",
+        "hindi": "सप्ताहांत",
+        "hinglish": "saptaahaant"
+      },
+      "answer": {
+        "hi": "सप्ताहांत",
+        "hinglish": "saptaahaant"
+      },
+      "options": [
+        {
+          "hi": "सप्ताहांत",
+          "hinglish": "saptaahaant"
+        },
+        {
+          "hi": "देर से",
+          "hinglish": "der se"
+        },
+        {
+          "hi": "दोपहर",
+          "hinglish": "dopahar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P09.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "midnight",
+      "options": [
+        "midnight",
+        "weekend",
+        "minute"
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P09.S20",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "early",
+        "emoji": "🌅",
+        "hindi": "जल्दी",
+        "hinglish": "jaldi"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P09.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "early",
+        "emoji": "🌅",
+        "hindi": "जल्दी",
+        "hinglish": "jaldi"
+      },
+      "answer": {
+        "hi": "जल्दी",
+        "hinglish": "jaldi"
+      },
+      "options": [
+        {
+          "hi": "जल्दी",
+          "hinglish": "jaldi"
+        },
+        {
+          "hi": "देर से",
+          "hinglish": "der se"
+        },
+        {
+          "hi": "सप्ताहांत",
+          "hinglish": "saptaahaant"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P09.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "tomorrow",
+        "emoji": "➡️",
+        "hindi": "आने वाला कल",
+        "hinglish": "aane waala kal"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P09.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Mark your birthday on the ___.",
+      "answer": "calendar",
+      "options": [
+        "calendar",
+        "yesterday",
+        "weekend"
+      ],
+      "meaning": {
+        "hi": "कैलेंडर",
+        "hinglish": "calendar"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P09.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We eat lunch at ___.",
+      "answer": "noon",
+      "options": [
+        "noon",
+        "minute",
+        "calendar"
+      ],
+      "meaning": {
+        "hi": "दोपहर",
+        "hinglish": "dopahar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P09.S25",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "yesterday",
+        "emoji": "⬅️",
+        "hindi": "बीता हुआ कल",
+        "hinglish": "beeta hua kal"
+      }
+    }
+  ]
+}

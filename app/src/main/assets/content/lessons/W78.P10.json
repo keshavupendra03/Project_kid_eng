@@ -1,0 +1,480 @@
+{
+  "id": "W78.P10",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W78.P10.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: करियर। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Career. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Careers and work. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P10.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "engineer",
+        "emoji": "👷",
+        "hindi": "इंजीनियर",
+        "hinglish": "engineer"
+      },
+      "meaning": "a person who designs machines, roads or buildings",
+      "example": "My uncle is an engineer who builds bridges.",
+      "exampleMeaning": {
+        "hi": "मेरे चाचा इंजीनियर हैं जो पुल बनाते हैं।",
+        "hinglish": "Mere chacha engineer hain jo pul banaate hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P10.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "architect",
+        "emoji": "📐",
+        "hindi": "वास्तुकार",
+        "hinglish": "vaastukaar"
+      },
+      "meaning": "a person who designs buildings",
+      "example": "The architect drew the plan of the house.",
+      "exampleMeaning": {
+        "hi": "वास्तुकार ने घर का नक्शा बनाया।",
+        "hinglish": "Vaastukaar ne ghar ka naksha banaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P10.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "journalist",
+        "emoji": "📰",
+        "hindi": "पत्रकार",
+        "hinglish": "patrakaar"
+      },
+      "meaning": "a person who writes news",
+      "example": "The journalist wrote about the flood.",
+      "exampleMeaning": {
+        "hi": "पत्रकार ने बाढ़ के बारे में लिखा।",
+        "hinglish": "Patrakaar ne baadh ke baare mein likha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P10.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "lawyer",
+        "emoji": "⚖️",
+        "hindi": "वकील",
+        "hinglish": "vakeel"
+      },
+      "meaning": "a person who helps people with the law",
+      "example": "The lawyer spoke in court.",
+      "exampleMeaning": {
+        "hi": "वकील ने अदालत में अपनी बात रखी।",
+        "hinglish": "Vakeel ne adaalat mein apni baat rakhi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P10.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "scientist",
+        "emoji": "🔬",
+        "hindi": "वैज्ञानिक",
+        "hinglish": "vaigyaanik"
+      },
+      "meaning": "a person who studies science",
+      "example": "The scientist found a new medicine.",
+      "exampleMeaning": {
+        "hi": "वैज्ञानिक ने एक नई दवाई खोजी।",
+        "hinglish": "Vaigyaanik ne ek nayi dawaai khoji."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P10.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "pilot",
+        "emoji": "✈️",
+        "hindi": "पायलट",
+        "hinglish": "pilot"
+      },
+      "meaning": "a person who flies a plane",
+      "example": "The pilot landed the plane safely.",
+      "exampleMeaning": {
+        "hi": "पायलट ने विमान को सुरक्षित उतारा।",
+        "hinglish": "Pilot ne vimaan ko surakshit utaara."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P10.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "salary",
+        "emoji": "💵",
+        "hindi": "तनख़्वाह",
+        "hinglish": "tankhwaah"
+      },
+      "meaning": "money paid every month for work",
+      "example": "Papa gets his salary at the end of the month.",
+      "exampleMeaning": {
+        "hi": "पापा को महीने के आख़िर में तनख़्वाह मिलती है।",
+        "hinglish": "Papa ko mahine ke aakhir mein tankhwaah milti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P10.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "interview",
+        "emoji": "🎤",
+        "hindi": "साक्षात्कार",
+        "hinglish": "saakshaatkaar"
+      },
+      "meaning": "a meeting where someone asks you questions for a job",
+      "example": "She has a job interview tomorrow.",
+      "exampleMeaning": {
+        "hi": "कल उसका नौकरी का इंटरव्यू है।",
+        "hinglish": "Kal uska naukri ka interview hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P10.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "experience",
+        "emoji": "🧓",
+        "hindi": "अनुभव",
+        "hinglish": "anubhav"
+      },
+      "meaning": "knowledge gained by doing something",
+      "example": "The old farmer has years of experience.",
+      "exampleMeaning": {
+        "hi": "बूढ़े किसान के पास सालों का अनुभव है।",
+        "hinglish": "Boodhe kisaan ke paas saalon ka anubhav hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W78.P10.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "career",
+        "emoji": "🎯",
+        "hindi": "करियर",
+        "hinglish": "career"
+      },
+      "meaning": "the work you do for most of your life",
+      "example": "She wants a career in medicine.",
+      "exampleMeaning": {
+        "hi": "वह डॉक्टरी में करियर बनाना चाहती है।",
+        "hinglish": "Woh doctori mein career banaana chahti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P10.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ spoke in court.",
+      "answer": "lawyer",
+      "options": [
+        "lawyer",
+        "journalist",
+        "interview"
+      ],
+      "meaning": {
+        "hi": "वकील",
+        "hinglish": "vakeel"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P10.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "salary",
+        "emoji": "💵",
+        "hindi": "तनख़्वाह",
+        "hinglish": "tankhwaah"
+      },
+      "answer": {
+        "hi": "तनख़्वाह",
+        "hinglish": "tankhwaah"
+      },
+      "options": [
+        {
+          "hi": "तनख़्वाह",
+          "hinglish": "tankhwaah"
+        },
+        {
+          "hi": "साक्षात्कार",
+          "hinglish": "saakshaatkaar"
+        },
+        {
+          "hi": "पत्रकार",
+          "hinglish": "patrakaar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P10.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "career",
+      "options": [
+        "career",
+        "pilot",
+        "architect"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P10.S15",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ landed the plane safely.",
+      "answer": "pilot",
+      "options": [
+        "pilot",
+        "interview",
+        "career"
+      ],
+      "meaning": {
+        "hi": "पायलट",
+        "hinglish": "pilot"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P10.S16",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "architect",
+        "emoji": "📐",
+        "hindi": "वास्तुकार",
+        "hinglish": "vaastukaar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P10.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "engineer",
+        "emoji": "👷",
+        "hindi": "इंजीनियर",
+        "hinglish": "engineer"
+      },
+      "answer": {
+        "hi": "इंजीनियर",
+        "hinglish": "engineer"
+      },
+      "options": [
+        {
+          "hi": "इंजीनियर",
+          "hinglish": "engineer"
+        },
+        {
+          "hi": "अनुभव",
+          "hinglish": "anubhav"
+        },
+        {
+          "hi": "वकील",
+          "hinglish": "vakeel"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W78.P10.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "experience",
+      "options": [
+        "experience",
+        "pilot",
+        "scientist"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P10.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "scientist",
+        "emoji": "🔬",
+        "hindi": "वैज्ञानिक",
+        "hinglish": "vaigyaanik"
+      },
+      "answer": {
+        "hi": "वैज्ञानिक",
+        "hinglish": "vaigyaanik"
+      },
+      "options": [
+        {
+          "hi": "वैज्ञानिक",
+          "hinglish": "vaigyaanik"
+        },
+        {
+          "hi": "साक्षात्कार",
+          "hinglish": "saakshaatkaar"
+        },
+        {
+          "hi": "वास्तुकार",
+          "hinglish": "vaastukaar"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P10.S20",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "lawyer",
+        "emoji": "⚖️",
+        "hindi": "वकील",
+        "hinglish": "vakeel"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P10.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ___ drew the plan of the house.",
+      "answer": "architect",
+      "options": [
+        "architect",
+        "lawyer",
+        "experience"
+      ],
+      "meaning": {
+        "hi": "वास्तुकार",
+        "hinglish": "vaastukaar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P10.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "engineer",
+        "emoji": "👷",
+        "hindi": "इंजीनियर",
+        "hinglish": "engineer"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W78.P10.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "She has a job ___ tomorrow.",
+      "answer": "interview",
+      "options": [
+        "interview",
+        "lawyer",
+        "pilot"
+      ],
+      "meaning": {
+        "hi": "साक्षात्कार",
+        "hinglish": "saakshaatkaar"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W78.P10.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "journalist",
+        "emoji": "📰",
+        "hindi": "पत्रकार",
+        "hinglish": "patrakaar"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W78.P10.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "journalist",
+        "emoji": "📰",
+        "hindi": "पत्रकार",
+        "hinglish": "patrakaar"
+      },
+      "answer": {
+        "hi": "पत्रकार",
+        "hinglish": "patrakaar"
+      },
+      "options": [
+        {
+          "hi": "पत्रकार",
+          "hinglish": "patrakaar"
+        },
+        {
+          "hi": "साक्षात्कार",
+          "hinglish": "saakshaatkaar"
+        },
+        {
+          "hi": "वकील",
+          "hinglish": "vakeel"
+        }
+      ]
+    }
+  ]
+}

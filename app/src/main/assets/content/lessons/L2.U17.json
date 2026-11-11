@@ -63,16 +63,16 @@
           "hinglish": "nau"
         },
         {
-          "english": "third",
-          "emoji": "🥉",
-          "hindi": "तीसरा",
-          "hinglish": "teesra"
+          "english": "hundred",
+          "emoji": "💯",
+          "hindi": "सौ",
+          "hinglish": "sau"
         },
         {
-          "english": "first",
-          "emoji": "🥇",
-          "hindi": "पहला",
-          "hinglish": "pehla"
+          "english": "zero",
+          "emoji": "0️⃣",
+          "hindi": "शून्य",
+          "hinglish": "shoonya"
         },
         {
           "english": "ten",
@@ -149,22 +149,22 @@
           "hinglish": "shoonya"
         },
         {
-          "english": "second",
-          "emoji": "🥈",
-          "hindi": "दूसरा",
-          "hinglish": "doosra"
-        },
-        {
           "english": "hundred",
           "emoji": "💯",
           "hindi": "सौ",
           "hinglish": "sau"
         },
         {
-          "english": "third",
-          "emoji": "🥉",
-          "hindi": "तीसरा",
-          "hinglish": "teesra"
+          "english": "ten",
+          "emoji": "🔟",
+          "hindi": "दस",
+          "hinglish": "das"
+        },
+        {
+          "english": "nine",
+          "emoji": "9️⃣",
+          "hindi": "नौ",
+          "hinglish": "nau"
         }
       ]
     },
@@ -220,53 +220,49 @@
       }
     },
     {
-      "type": "listen_tap",
+      "type": "match_meaning",
       "id": "L2.U17.S12",
       "skills": [
-        "listen.word",
+        "vocab.meaning",
         "vocab.numbers"
       ],
-      "answer": "first",
+      "word": {
+        "english": "first",
+        "emoji": "🥇",
+        "hindi": "पहला",
+        "hinglish": "pehla"
+      },
+      "answer": {
+        "hi": "पहला",
+        "hinglish": "pehla"
+      },
       "options": [
         {
-          "english": "first",
-          "emoji": "🥇",
-          "hindi": "पहला",
+          "hi": "पहला",
           "hinglish": "pehla"
         },
         {
-          "english": "nine",
-          "emoji": "9️⃣",
-          "hindi": "नौ",
+          "hi": "नौ",
           "hinglish": "nau"
         },
         {
-          "english": "hundred",
-          "emoji": "💯",
-          "hindi": "सौ",
-          "hinglish": "sau"
-        },
-        {
-          "english": "third",
-          "emoji": "🥉",
-          "hindi": "तीसरा",
-          "hinglish": "teesra"
+          "hi": "दस",
+          "hinglish": "das"
         }
       ]
     },
     {
-      "type": "word_pick",
+      "type": "listen_read",
       "id": "L2.U17.S13",
       "skills": [
         "read.word",
         "vocab.numbers"
       ],
-      "emoji": "🥈",
       "answer": "second",
       "options": [
         "second",
-        "nine",
-        "ten"
+        "ten",
+        "zero"
       ]
     },
     {
@@ -306,58 +302,8 @@
       }
     },
     {
-      "type": "listen_tap",
-      "id": "L2.U17.S16",
-      "skills": [
-        "listen.word",
-        "vocab.numbers"
-      ],
-      "answer": "third",
-      "options": [
-        {
-          "english": "third",
-          "emoji": "🥉",
-          "hindi": "तीसरा",
-          "hinglish": "teesra"
-        },
-        {
-          "english": "nine",
-          "emoji": "9️⃣",
-          "hindi": "नौ",
-          "hinglish": "nau"
-        },
-        {
-          "english": "hundred",
-          "emoji": "💯",
-          "hindi": "सौ",
-          "hinglish": "sau"
-        },
-        {
-          "english": "ten",
-          "emoji": "🔟",
-          "hindi": "दस",
-          "hinglish": "das"
-        }
-      ]
-    },
-    {
-      "type": "word_pick",
-      "id": "L2.U17.S17",
-      "skills": [
-        "read.word",
-        "vocab.numbers"
-      ],
-      "emoji": "🌓",
-      "answer": "half",
-      "options": [
-        "half",
-        "zero",
-        "ten"
-      ]
-    },
-    {
       "type": "match_meaning",
-      "id": "L2.U17.S18",
+      "id": "L2.U17.S16",
       "skills": [
         "vocab.meaning",
         "vocab.numbers"
@@ -388,6 +334,52 @@
       ]
     },
     {
+      "type": "listen_read",
+      "id": "L2.U17.S17",
+      "skills": [
+        "read.word",
+        "vocab.numbers"
+      ],
+      "answer": "half",
+      "options": [
+        "half",
+        "ten",
+        "nine"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U17.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.numbers"
+      ],
+      "word": {
+        "english": "second",
+        "emoji": "🥈",
+        "hindi": "दूसरा",
+        "hinglish": "doosra"
+      },
+      "answer": {
+        "hi": "दूसरा",
+        "hinglish": "doosra"
+      },
+      "options": [
+        {
+          "hi": "दूसरा",
+          "hinglish": "doosra"
+        },
+        {
+          "hi": "शून्य",
+          "hinglish": "shoonya"
+        },
+        {
+          "hi": "दस",
+          "hinglish": "das"
+        }
+      ]
+    },
+    {
       "type": "match_meaning",
       "id": "L2.U17.S19",
       "skills": [
@@ -395,27 +387,27 @@
         "vocab.numbers"
       ],
       "word": {
-        "english": "zero",
-        "emoji": "0️⃣",
-        "hindi": "शून्य",
-        "hinglish": "shoonya"
+        "english": "hundred",
+        "emoji": "💯",
+        "hindi": "सौ",
+        "hinglish": "sau"
       },
       "answer": {
-        "hi": "शून्य",
-        "hinglish": "shoonya"
+        "hi": "सौ",
+        "hinglish": "sau"
       },
       "options": [
+        {
+          "hi": "सौ",
+          "hinglish": "sau"
+        },
         {
           "hi": "शून्य",
           "hinglish": "shoonya"
         },
         {
-          "hi": "आधा",
-          "hinglish": "aadha"
-        },
-        {
-          "hi": "नौ",
-          "hinglish": "nau"
+          "hi": "पहला",
+          "hinglish": "pehla"
         }
       ]
     },
@@ -460,10 +452,10 @@
         "read.word",
         "vocab.numbers"
       ],
-      "answer": "zero",
+      "answer": "second",
       "options": [
-        "zero",
-        "nine",
+        "second",
+        "first",
         "hundred"
       ]
     },

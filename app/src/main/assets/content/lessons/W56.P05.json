@@ -1,0 +1,480 @@
+{
+  "id": "W56.P05",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W56.P05.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: पैसा और ख़रीदारी। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Paisa aur khareedaari. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Money and shopping. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P05.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "price",
+        "emoji": "🏷️",
+        "hindi": "दाम",
+        "hinglish": "daam"
+      },
+      "meaning": "how much money something costs",
+      "example": "What is the price of this pen?",
+      "exampleMeaning": {
+        "hi": "इस पेन का दाम क्या है?",
+        "hinglish": "Is pen ka daam kya hai?"
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P05.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "cheap",
+        "emoji": "🪙",
+        "hindi": "सस्ता",
+        "hinglish": "sasta"
+      },
+      "meaning": "not costing much",
+      "example": "Vegetables are cheap in the evening market.",
+      "exampleMeaning": {
+        "hi": "शाम के बाज़ार में सब्ज़ियाँ सस्ती होती हैं।",
+        "hinglish": "Shaam ke baazaar mein sabziyaan sasti hoti hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P05.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "expensive",
+        "emoji": "💎",
+        "hindi": "महँगा",
+        "hinglish": "mehnga"
+      },
+      "meaning": "costing a lot of money",
+      "example": "This toy is too expensive.",
+      "exampleMeaning": {
+        "hi": "यह खिलौना बहुत महँगा है।",
+        "hinglish": "Yeh khilauna bahut mehnga hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P05.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "save",
+        "emoji": "🐖",
+        "hindi": "बचत करना",
+        "hinglish": "bachat karna"
+      },
+      "meaning": "to keep money to use later",
+      "example": "I save a coin every day.",
+      "exampleMeaning": {
+        "hi": "मैं रोज़ एक सिक्का बचाता/बचाती हूँ।",
+        "hinglish": "Main roz ek sikka bachaata/bachaati hoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P05.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "spend",
+        "emoji": "💸",
+        "hindi": "ख़र्च करना",
+        "hinglish": "kharch karna"
+      },
+      "meaning": "to use money to buy things",
+      "example": "Do not spend all your money on sweets.",
+      "exampleMeaning": {
+        "hi": "अपने सारे पैसे मिठाई पर ख़र्च मत करो।",
+        "hinglish": "Apne saare paise mithaai par kharch mat karo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P05.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "discount",
+        "emoji": "🔖",
+        "hindi": "छूट",
+        "hinglish": "chhoot"
+      },
+      "meaning": "money taken off the usual price",
+      "example": "The shop gave us a discount.",
+      "exampleMeaning": {
+        "hi": "दुकान ने हमें छूट दी।",
+        "hinglish": "Dukaan ne hamein chhoot di."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P05.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "receipt",
+        "emoji": "🧾",
+        "hindi": "रसीद",
+        "hinglish": "raseed"
+      },
+      "meaning": "a paper that shows what you paid",
+      "example": "Keep the receipt after shopping.",
+      "exampleMeaning": {
+        "hi": "ख़रीदारी के बाद रसीद संभालकर रखो।",
+        "hinglish": "Khareedaari ke baad raseed sambhaalkar rakho."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P05.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "customer",
+        "emoji": "🧍",
+        "hindi": "ग्राहक",
+        "hinglish": "graahak"
+      },
+      "meaning": "a person who buys things from a shop",
+      "example": "The shopkeeper smiled at the customer.",
+      "exampleMeaning": {
+        "hi": "दुकानदार ग्राहक को देखकर मुस्कुराया।",
+        "hinglish": "Dukaandaar graahak ko dekhkar muskuraaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P05.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "change",
+        "emoji": "💱",
+        "hindi": "छुट्टे पैसे",
+        "hinglish": "chhutte paise"
+      },
+      "meaning": "money you get back when you pay more",
+      "example": "The shopkeeper gave me ten rupees change.",
+      "exampleMeaning": {
+        "hi": "दुकानदार ने मुझे दस रुपये छुट्टे दिए।",
+        "hinglish": "Dukaandaar ne mujhe das rupaye chhutte diye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W56.P05.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "budget",
+        "emoji": "📊",
+        "hindi": "बजट",
+        "hinglish": "budget"
+      },
+      "meaning": "a plan for how to spend money",
+      "example": "Papa makes a budget every month.",
+      "exampleMeaning": {
+        "hi": "पापा हर महीने बजट बनाते हैं।",
+        "hinglish": "Papa har mahine budget banaate hain."
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P05.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "budget",
+      "options": [
+        "budget",
+        "change",
+        "price"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P05.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "expensive",
+        "emoji": "💎",
+        "hindi": "महँगा",
+        "hinglish": "mehnga"
+      },
+      "answer": {
+        "hi": "महँगा",
+        "hinglish": "mehnga"
+      },
+      "options": [
+        {
+          "hi": "महँगा",
+          "hinglish": "mehnga"
+        },
+        {
+          "hi": "बचत करना",
+          "hinglish": "bachat karna"
+        },
+        {
+          "hi": "ग्राहक",
+          "hinglish": "graahak"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P05.S14",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "save",
+        "emoji": "🐖",
+        "hindi": "बचत करना",
+        "hinglish": "bachat karna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P05.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "cheap",
+        "emoji": "🪙",
+        "hindi": "सस्ता",
+        "hinglish": "sasta"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P05.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I ___ a coin every day.",
+      "answer": "save",
+      "options": [
+        "save",
+        "cheap",
+        "receipt"
+      ],
+      "meaning": {
+        "hi": "बचत करना",
+        "hinglish": "bachat karna"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P05.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The shop gave us a ___.",
+      "answer": "discount",
+      "options": [
+        "discount",
+        "expensive",
+        "budget"
+      ],
+      "meaning": {
+        "hi": "छूट",
+        "hinglish": "chhoot"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W56.P05.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "change",
+      "options": [
+        "change",
+        "budget",
+        "discount"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P05.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "receipt",
+        "emoji": "🧾",
+        "hindi": "रसीद",
+        "hinglish": "raseed"
+      },
+      "answer": {
+        "hi": "रसीद",
+        "hinglish": "raseed"
+      },
+      "options": [
+        {
+          "hi": "रसीद",
+          "hinglish": "raseed"
+        },
+        {
+          "hi": "दाम",
+          "hinglish": "daam"
+        },
+        {
+          "hi": "छुट्टे पैसे",
+          "hinglish": "chhutte paise"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P05.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "spend",
+        "emoji": "💸",
+        "hindi": "ख़र्च करना",
+        "hinglish": "kharch karna"
+      },
+      "answer": {
+        "hi": "ख़र्च करना",
+        "hinglish": "kharch karna"
+      },
+      "options": [
+        {
+          "hi": "ख़र्च करना",
+          "hinglish": "kharch karna"
+        },
+        {
+          "hi": "बचत करना",
+          "hinglish": "bachat karna"
+        },
+        {
+          "hi": "छूट",
+          "hinglish": "chhoot"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P05.S21",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "expensive",
+        "emoji": "💎",
+        "hindi": "महँगा",
+        "hinglish": "mehnga"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W56.P05.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "price",
+        "emoji": "🏷️",
+        "hindi": "दाम",
+        "hinglish": "daam"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P05.S23",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Vegetables are ___ in the evening market.",
+      "answer": "cheap",
+      "options": [
+        "cheap",
+        "budget",
+        "receipt"
+      ],
+      "meaning": {
+        "hi": "सस्ता",
+        "hinglish": "sasta"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W56.P05.S24",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The shopkeeper smiled at the ___.",
+      "answer": "customer",
+      "options": [
+        "customer",
+        "budget",
+        "discount"
+      ],
+      "meaning": {
+        "hi": "ग्राहक",
+        "hinglish": "graahak"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W56.P05.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "price",
+        "emoji": "🏷️",
+        "hindi": "दाम",
+        "hinglish": "daam"
+      },
+      "answer": {
+        "hi": "दाम",
+        "hinglish": "daam"
+      },
+      "options": [
+        {
+          "hi": "दाम",
+          "hinglish": "daam"
+        },
+        {
+          "hi": "बजट",
+          "hinglish": "budget"
+        },
+        {
+          "hi": "छुट्टे पैसे",
+          "hinglish": "chhutte paise"
+        }
+      ]
+    }
+  ]
+}

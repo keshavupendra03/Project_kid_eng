@@ -1,0 +1,473 @@
+{
+  "id": "L2.U57",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U57.S01",
+      "text": {
+        "hi": "गाड़ियाँ और सवारी!",
+        "hinglish": "Gaadiyaan aur sawaari!",
+        "en": "Vehicles and rides!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U57.S02",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "text": {
+        "hi": "‘car’ मतलब ‘गाड़ी’।",
+        "hinglish": "‘car’ matlab ‘gaadi’.",
+        "en": "Say it with me: car!"
+      },
+      "word": {
+        "english": "car",
+        "emoji": "🚗",
+        "hindi": "गाड़ी",
+        "hinglish": "gaadi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U57.S03",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "text": {
+        "hi": "‘truck’ मतलब ‘ट्रक’।",
+        "hinglish": "‘truck’ matlab ‘truck’.",
+        "en": "Say it with me: truck!"
+      },
+      "word": {
+        "english": "truck",
+        "emoji": "🚚",
+        "hindi": "ट्रक",
+        "hinglish": "truck"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U57.S04",
+      "skills": [
+        "listen.word",
+        "vocab.vehicles"
+      ],
+      "answer": "car",
+      "options": [
+        {
+          "english": "car",
+          "emoji": "🚗",
+          "hindi": "गाड़ी",
+          "hinglish": "gaadi"
+        },
+        {
+          "english": "auto",
+          "emoji": "🛺",
+          "hindi": "ऑटो",
+          "hinglish": "auto"
+        },
+        {
+          "english": "truck",
+          "emoji": "🚚",
+          "hindi": "ट्रक",
+          "hinglish": "truck"
+        },
+        {
+          "english": "scooter",
+          "emoji": "🛵",
+          "hindi": "स्कूटर",
+          "hinglish": "scooter"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U57.S05",
+      "skills": [
+        "read.word",
+        "vocab.vehicles"
+      ],
+      "emoji": "🚚",
+      "answer": "truck",
+      "options": [
+        "truck",
+        "auto",
+        "ship"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U57.S06",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "text": {
+        "hi": "‘auto’ मतलब ‘ऑटो’।",
+        "hinglish": "‘auto’ matlab ‘auto’.",
+        "en": "Say it with me: auto!"
+      },
+      "word": {
+        "english": "auto",
+        "emoji": "🛺",
+        "hindi": "ऑटो",
+        "hinglish": "auto"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U57.S07",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "text": {
+        "hi": "‘scooter’ मतलब ‘स्कूटर’।",
+        "hinglish": "‘scooter’ matlab ‘scooter’.",
+        "en": "Say it with me: scooter!"
+      },
+      "word": {
+        "english": "scooter",
+        "emoji": "🛵",
+        "hindi": "स्कूटर",
+        "hinglish": "scooter"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U57.S08",
+      "skills": [
+        "listen.word",
+        "vocab.vehicles"
+      ],
+      "answer": "auto",
+      "options": [
+        {
+          "english": "auto",
+          "emoji": "🛺",
+          "hindi": "ऑटो",
+          "hinglish": "auto"
+        },
+        {
+          "english": "car",
+          "emoji": "🚗",
+          "hindi": "गाड़ी",
+          "hinglish": "gaadi"
+        },
+        {
+          "english": "truck",
+          "emoji": "🚚",
+          "hindi": "ट्रक",
+          "hinglish": "truck"
+        },
+        {
+          "english": "scooter",
+          "emoji": "🛵",
+          "hindi": "स्कूटर",
+          "hinglish": "scooter"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U57.S09",
+      "skills": [
+        "read.word",
+        "vocab.vehicles"
+      ],
+      "emoji": "🛵",
+      "answer": "scooter",
+      "options": [
+        "scooter",
+        "car",
+        "auto"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U57.S10",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "text": {
+        "hi": "‘motorbike’ मतलब ‘मोटरसाइकिल’।",
+        "hinglish": "‘motorbike’ matlab ‘motorcycle’.",
+        "en": "Say it with me: motorbike!"
+      },
+      "word": {
+        "english": "motorbike",
+        "emoji": "🏍️",
+        "hindi": "मोटरसाइकिल",
+        "hinglish": "motorcycle"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U57.S11",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "text": {
+        "hi": "‘boat’ मतलब ‘नाव’।",
+        "hinglish": "‘boat’ matlab ‘naav’.",
+        "en": "Say it with me: boat!"
+      },
+      "word": {
+        "english": "boat",
+        "emoji": "⛵",
+        "hindi": "नाव",
+        "hinglish": "naav"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U57.S12",
+      "skills": [
+        "listen.word",
+        "vocab.vehicles"
+      ],
+      "answer": "motorbike",
+      "options": [
+        {
+          "english": "motorbike",
+          "emoji": "🏍️",
+          "hindi": "मोटरसाइकिल",
+          "hinglish": "motorcycle"
+        },
+        {
+          "english": "auto",
+          "emoji": "🛺",
+          "hindi": "ऑटो",
+          "hinglish": "auto"
+        },
+        {
+          "english": "ship",
+          "emoji": "🚢",
+          "hindi": "जहाज़",
+          "hinglish": "jahaaz"
+        },
+        {
+          "english": "scooter",
+          "emoji": "🛵",
+          "hindi": "स्कूटर",
+          "hinglish": "scooter"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U57.S13",
+      "skills": [
+        "read.word",
+        "vocab.vehicles"
+      ],
+      "emoji": "⛵",
+      "answer": "boat",
+      "options": [
+        "boat",
+        "plane",
+        "motorbike"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U57.S14",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "text": {
+        "hi": "‘ship’ मतलब ‘जहाज़’।",
+        "hinglish": "‘ship’ matlab ‘jahaaz’.",
+        "en": "Say it with me: ship!"
+      },
+      "word": {
+        "english": "ship",
+        "emoji": "🚢",
+        "hindi": "जहाज़",
+        "hinglish": "jahaaz"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U57.S15",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "text": {
+        "hi": "‘plane’ मतलब ‘हवाई जहाज़’।",
+        "hinglish": "‘plane’ matlab ‘hawaai jahaaz’.",
+        "en": "Say it with me: plane!"
+      },
+      "word": {
+        "english": "plane",
+        "emoji": "✈️",
+        "hindi": "हवाई जहाज़",
+        "hinglish": "hawaai jahaaz"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U57.S16",
+      "skills": [
+        "listen.word",
+        "vocab.vehicles"
+      ],
+      "answer": "ship",
+      "options": [
+        {
+          "english": "ship",
+          "emoji": "🚢",
+          "hindi": "जहाज़",
+          "hinglish": "jahaaz"
+        },
+        {
+          "english": "truck",
+          "emoji": "🚚",
+          "hindi": "ट्रक",
+          "hinglish": "truck"
+        },
+        {
+          "english": "car",
+          "emoji": "🚗",
+          "hindi": "गाड़ी",
+          "hinglish": "gaadi"
+        },
+        {
+          "english": "auto",
+          "emoji": "🛺",
+          "hindi": "ऑटो",
+          "hinglish": "auto"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U57.S17",
+      "skills": [
+        "read.word",
+        "vocab.vehicles"
+      ],
+      "answer": "plane",
+      "options": [
+        "plane",
+        "motorbike",
+        "auto"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U57.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.vehicles"
+      ],
+      "word": {
+        "english": "car",
+        "emoji": "🚗",
+        "hindi": "गाड़ी",
+        "hinglish": "gaadi"
+      },
+      "answer": {
+        "hi": "गाड़ी",
+        "hinglish": "gaadi"
+      },
+      "options": [
+        {
+          "hi": "गाड़ी",
+          "hinglish": "gaadi"
+        },
+        {
+          "hi": "ट्रक",
+          "hinglish": "truck"
+        },
+        {
+          "hi": "जहाज़",
+          "hinglish": "jahaaz"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U57.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.vehicles"
+      ],
+      "word": {
+        "english": "truck",
+        "emoji": "🚚",
+        "hindi": "ट्रक",
+        "hinglish": "truck"
+      },
+      "answer": {
+        "hi": "ट्रक",
+        "hinglish": "truck"
+      },
+      "options": [
+        {
+          "hi": "ट्रक",
+          "hinglish": "truck"
+        },
+        {
+          "hi": "नाव",
+          "hinglish": "naav"
+        },
+        {
+          "hi": "गाड़ी",
+          "hinglish": "gaadi"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U57.S20",
+      "skills": [
+        "speak.word",
+        "vocab.vehicles"
+      ],
+      "word": {
+        "english": "car",
+        "emoji": "🚗",
+        "hindi": "गाड़ी",
+        "hinglish": "gaadi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U57.S21",
+      "skills": [
+        "speak.word",
+        "vocab.vehicles"
+      ],
+      "word": {
+        "english": "auto",
+        "emoji": "🛺",
+        "hindi": "ऑटो",
+        "hinglish": "auto"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U57.S22",
+      "skills": [
+        "read.word",
+        "vocab.vehicles"
+      ],
+      "answer": "motorbike",
+      "options": [
+        "motorbike",
+        "boat",
+        "ship"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U57.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: car, truck, auto, scooter, motorbike, boat, ship, plane।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: car, truck, auto, scooter, motorbike, boat, ship, plane.",
+        "en": "Well done! Today's new words: car, truck, auto, scooter, motorbike, boat, ship, plane."
+      }
+    }
+  ]
+}

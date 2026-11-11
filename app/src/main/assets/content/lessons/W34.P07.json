@@ -1,0 +1,480 @@
+{
+  "id": "W34.P07",
+  "level": 200,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "W34.P07.S01",
+      "skills": [],
+      "text": {
+        "hi": "आज के 10 नए शब्द: शहर की जगहें। हर शब्द सुनो, समझो और बोलो।",
+        "hinglish": "Aaj ke 10 naye shabd: Shehar ki jagahein. Har shabd suno, samjho aur bolo.",
+        "en": "Ten new words today: Places in town. Listen, understand and say each one."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P07.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "market",
+        "emoji": "🛒",
+        "hindi": "बाज़ार",
+        "hinglish": "baazaar"
+      },
+      "meaning": "a place where people buy and sell things",
+      "example": "We buy vegetables at the market.",
+      "exampleMeaning": {
+        "hi": "हम बाज़ार से सब्ज़ियाँ ख़रीदते हैं।",
+        "hinglish": "Hum baazaar se sabziyaan khareedte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P07.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hospital",
+        "emoji": "🏥",
+        "hindi": "अस्पताल",
+        "hinglish": "aspataal"
+      },
+      "meaning": "a place where doctors look after ill people",
+      "example": "The ambulance went to the hospital.",
+      "exampleMeaning": {
+        "hi": "एम्बुलेंस अस्पताल गई।",
+        "hinglish": "Ambulance aspataal gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P07.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "bakery",
+        "emoji": "🥐",
+        "hindi": "बेकरी",
+        "hinglish": "bakery"
+      },
+      "meaning": "a shop that makes and sells bread and cakes",
+      "example": "The bakery smells of fresh bread.",
+      "exampleMeaning": {
+        "hi": "बेकरी से ताज़ी ब्रेड की ख़ुशबू आती है।",
+        "hinglish": "Bakery se taazi bread ki khushboo aati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P07.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "temple",
+        "emoji": "🛕",
+        "hindi": "मंदिर",
+        "hinglish": "mandir"
+      },
+      "meaning": "a building where people go to pray",
+      "example": "We go to the temple with Dadi.",
+      "exampleMeaning": {
+        "hi": "हम दादी के साथ मंदिर जाते हैं।",
+        "hinglish": "Hum Dadi ke saath mandir jaate hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P07.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "bridge",
+        "emoji": "🌉",
+        "hindi": "पुल",
+        "hinglish": "pul"
+      },
+      "meaning": "a road built over a river",
+      "example": "The bus went over a long bridge.",
+      "exampleMeaning": {
+        "hi": "बस एक लंबे पुल के ऊपर से गई।",
+        "hinglish": "Bus ek lambe pul ke upar se gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P07.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "station",
+        "emoji": "🚉",
+        "hindi": "स्टेशन",
+        "hinglish": "station"
+      },
+      "meaning": "a place where trains or buses stop",
+      "example": "We waited at the station for the train.",
+      "exampleMeaning": {
+        "hi": "हमने स्टेशन पर ट्रेन का इंतज़ार किया।",
+        "hinglish": "Humne station par train ka intezaar kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P07.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "pharmacy",
+        "emoji": "🏪",
+        "hindi": "दवा की दुकान",
+        "hinglish": "dawa ki dukaan"
+      },
+      "meaning": "a shop that sells medicines",
+      "example": "Papa bought cough syrup from the pharmacy.",
+      "exampleMeaning": {
+        "hi": "पापा ने दवा की दुकान से खाँसी की दवा ख़रीदी।",
+        "hinglish": "Papa ne dawa ki dukaan se khaansi ki dawa khareedi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P07.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "playground",
+        "emoji": "🛝",
+        "hindi": "खेल का मैदान",
+        "hinglish": "khel ka maidaan"
+      },
+      "meaning": "an open place where children play",
+      "example": "We play cricket in the playground.",
+      "exampleMeaning": {
+        "hi": "हम खेल के मैदान में क्रिकेट खेलते हैं।",
+        "hinglish": "Hum khel ke maidaan mein cricket khelte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P07.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "factory",
+        "emoji": "🏭",
+        "hindi": "कारखाना",
+        "hinglish": "kaarkhaana"
+      },
+      "meaning": "a place where things are made by machines",
+      "example": "My uncle works in a shoe factory.",
+      "exampleMeaning": {
+        "hi": "मेरे चाचा जूतों के कारखाने में काम करते हैं।",
+        "hinglish": "Mere chacha jooton ke kaarkhaane mein kaam karte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "W34.P07.S11",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "village",
+        "emoji": "🏡",
+        "hindi": "गाँव",
+        "hinglish": "gaon"
+      },
+      "meaning": "a small place in the countryside with few houses",
+      "example": "My grandparents live in a village.",
+      "exampleMeaning": {
+        "hi": "मेरे दादा-दादी गाँव में रहते हैं।",
+        "hinglish": "Mere dada-dadi gaon mein rehte hain."
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P07.S12",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "bridge",
+        "emoji": "🌉",
+        "hindi": "पुल",
+        "hinglish": "pul"
+      },
+      "answer": {
+        "hi": "पुल",
+        "hinglish": "pul"
+      },
+      "options": [
+        {
+          "hi": "पुल",
+          "hinglish": "pul"
+        },
+        {
+          "hi": "बेकरी",
+          "hinglish": "bakery"
+        },
+        {
+          "hi": "स्टेशन",
+          "hinglish": "station"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P07.S13",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "market",
+        "emoji": "🛒",
+        "hindi": "बाज़ार",
+        "hinglish": "baazaar"
+      },
+      "answer": {
+        "hi": "बाज़ार",
+        "hinglish": "baazaar"
+      },
+      "options": [
+        {
+          "hi": "बाज़ार",
+          "hinglish": "baazaar"
+        },
+        {
+          "hi": "खेल का मैदान",
+          "hinglish": "khel ka maidaan"
+        },
+        {
+          "hi": "दवा की दुकान",
+          "hinglish": "dawa ki dukaan"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P07.S14",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "pharmacy",
+        "emoji": "🏪",
+        "hindi": "दवा की दुकान",
+        "hinglish": "dawa ki dukaan"
+      },
+      "answer": {
+        "hi": "दवा की दुकान",
+        "hinglish": "dawa ki dukaan"
+      },
+      "options": [
+        {
+          "hi": "दवा की दुकान",
+          "hinglish": "dawa ki dukaan"
+        },
+        {
+          "hi": "अस्पताल",
+          "hinglish": "aspataal"
+        },
+        {
+          "hi": "बाज़ार",
+          "hinglish": "baazaar"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P07.S15",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "bakery",
+        "emoji": "🥐",
+        "hindi": "बेकरी",
+        "hinglish": "bakery"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P07.S16",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "village",
+      "options": [
+        "village",
+        "market",
+        "station"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P07.S17",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "bakery",
+        "emoji": "🥐",
+        "hindi": "बेकरी",
+        "hinglish": "bakery"
+      },
+      "answer": {
+        "hi": "बेकरी",
+        "hinglish": "bakery"
+      },
+      "options": [
+        {
+          "hi": "बेकरी",
+          "hinglish": "bakery"
+        },
+        {
+          "hi": "स्टेशन",
+          "hinglish": "station"
+        },
+        {
+          "hi": "मंदिर",
+          "hinglish": "mandir"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P07.S18",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "factory",
+      "options": [
+        "factory",
+        "temple",
+        "station"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P07.S19",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We go to the ___ with Dadi.",
+      "answer": "temple",
+      "options": [
+        "temple",
+        "bridge",
+        "market"
+      ],
+      "meaning": {
+        "hi": "मंदिर",
+        "hinglish": "mandir"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P07.S20",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "The ambulance went to the ___.",
+      "answer": "hospital",
+      "options": [
+        "hospital",
+        "factory",
+        "bakery"
+      ],
+      "meaning": {
+        "hi": "अस्पताल",
+        "hinglish": "aspataal"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P07.S21",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We play cricket in the ___.",
+      "answer": "playground",
+      "options": [
+        "playground",
+        "hospital",
+        "village"
+      ],
+      "meaning": {
+        "hi": "खेल का मैदान",
+        "hinglish": "khel ka maidaan"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P07.S22",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "hospital",
+        "emoji": "🏥",
+        "hindi": "अस्पताल",
+        "hinglish": "aspataal"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P07.S23",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "temple",
+        "emoji": "🛕",
+        "hindi": "मंदिर",
+        "hinglish": "mandir"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "W34.P07.S24",
+      "skills": [
+        "speak.word"
+      ],
+      "word": {
+        "english": "market",
+        "emoji": "🛒",
+        "hindi": "बाज़ार",
+        "hinglish": "baazaar"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P07.S25",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "We waited at the ___ for the train.",
+      "answer": "station",
+      "options": [
+        "station",
+        "village",
+        "bakery"
+      ],
+      "meaning": {
+        "hi": "स्टेशन",
+        "hinglish": "station"
+      }
+    }
+  ]
+}

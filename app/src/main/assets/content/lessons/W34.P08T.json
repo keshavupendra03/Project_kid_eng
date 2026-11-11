@@ -1,0 +1,203 @@
+{
+  "id": "W34.P08T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "spell_word",
+      "id": "W34.P08T.S01",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "claw",
+        "emoji": "🐾",
+        "hindi": "पंजा",
+        "hinglish": "panja"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P08T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "herd",
+        "emoji": "🐄",
+        "hindi": "झुंड",
+        "hinglish": "jhund"
+      },
+      "answer": {
+        "hi": "झुंड",
+        "hinglish": "jhund"
+      },
+      "options": [
+        {
+          "hi": "झुंड",
+          "hinglish": "jhund"
+        },
+        {
+          "hi": "छत्ता",
+          "hinglish": "chhatta"
+        },
+        {
+          "hi": "रेगिस्तान",
+          "hinglish": "registaan"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P08T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Plant the ___ in soft soil.",
+      "answer": "seed",
+      "options": [
+        "seed",
+        "desert",
+        "hive"
+      ],
+      "meaning": {
+        "hi": "बीज",
+        "hinglish": "beej"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P08T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "root",
+      "options": [
+        "root",
+        "insect",
+        "herd"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P08T.S05",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "nest",
+        "emoji": "🪺",
+        "hindi": "घोंसला",
+        "hinglish": "ghonsla"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P08T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "hive",
+        "emoji": "🐝",
+        "hindi": "छत्ता",
+        "hinglish": "chhatta"
+      },
+      "answer": {
+        "hi": "छत्ता",
+        "hinglish": "chhatta"
+      },
+      "options": [
+        {
+          "hi": "छत्ता",
+          "hinglish": "chhatta"
+        },
+        {
+          "hi": "पंजा",
+          "hinglish": "panja"
+        },
+        {
+          "hi": "बीज",
+          "hinglish": "beej"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P08T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Camels can live in the ___.",
+      "answer": "desert",
+      "options": [
+        "desert",
+        "insect",
+        "forest"
+      ],
+      "meaning": {
+        "hi": "रेगिस्तान",
+        "hinglish": "registaan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P08T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "forest",
+      "options": [
+        "forest",
+        "insect",
+        "hive"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P08T.S09",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "insect",
+        "emoji": "🐞",
+        "hindi": "कीड़ा",
+        "hinglish": "keeda"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P08T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "feather",
+        "emoji": "🪶",
+        "hindi": "पंख",
+        "hinglish": "pankh"
+      },
+      "answer": {
+        "hi": "पंख",
+        "hinglish": "pankh"
+      },
+      "options": [
+        {
+          "hi": "पंख",
+          "hinglish": "pankh"
+        },
+        {
+          "hi": "जड़",
+          "hinglish": "jad"
+        },
+        {
+          "hi": "कीड़ा",
+          "hinglish": "keeda"
+        }
+      ]
+    }
+  ]
+}

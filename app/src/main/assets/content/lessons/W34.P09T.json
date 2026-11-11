@@ -1,0 +1,207 @@
+{
+  "id": "W34.P09T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "match_meaning",
+      "id": "W34.P09T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "late",
+        "emoji": "⌛",
+        "hindi": "देर से",
+        "hinglish": "der se"
+      },
+      "answer": {
+        "hi": "देर से",
+        "hinglish": "der se"
+      },
+      "options": [
+        {
+          "hi": "देर से",
+          "hinglish": "der se"
+        },
+        {
+          "hi": "कैलेंडर",
+          "hinglish": "calendar"
+        },
+        {
+          "hi": "जल्दी",
+          "hinglish": "jaldi"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P09T.S02",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Brushing teeth is a ___ habit.",
+      "answer": "daily",
+      "options": [
+        "daily",
+        "yesterday",
+        "noon"
+      ],
+      "meaning": {
+        "hi": "रोज़ का",
+        "hinglish": "roz ka"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P09T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "midnight",
+      "options": [
+        "midnight",
+        "weekend",
+        "early"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P09T.S04",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "calendar",
+        "emoji": "📅",
+        "hindi": "कैलेंडर",
+        "hinglish": "calendar"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P09T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "weekend",
+        "emoji": "🎉",
+        "hindi": "सप्ताहांत",
+        "hinglish": "saptaahaant"
+      },
+      "answer": {
+        "hi": "सप्ताहांत",
+        "hinglish": "saptaahaant"
+      },
+      "options": [
+        {
+          "hi": "सप्ताहांत",
+          "hinglish": "saptaahaant"
+        },
+        {
+          "hi": "आने वाला कल",
+          "hinglish": "aane waala kal"
+        },
+        {
+          "hi": "दोपहर",
+          "hinglish": "dopahar"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P09T.S06",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ I went to the park.",
+      "answer": "yesterday",
+      "options": [
+        "yesterday",
+        "late",
+        "daily"
+      ],
+      "meaning": {
+        "hi": "बीता हुआ कल",
+        "hinglish": "beeta hua kal"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P09T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "tomorrow",
+      "options": [
+        "tomorrow",
+        "minute",
+        "late"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P09T.S08",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "noon",
+        "emoji": "🕛",
+        "hindi": "दोपहर",
+        "hinglish": "dopahar"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P09T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "minute",
+        "emoji": "⏱️",
+        "hindi": "मिनट",
+        "hinglish": "minute"
+      },
+      "answer": {
+        "hi": "मिनट",
+        "hinglish": "minute"
+      },
+      "options": [
+        {
+          "hi": "मिनट",
+          "hinglish": "minute"
+        },
+        {
+          "hi": "कैलेंडर",
+          "hinglish": "calendar"
+        },
+        {
+          "hi": "रोज़ का",
+          "hinglish": "roz ka"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P09T.S10",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "I wake up ___ to study.",
+      "answer": "early",
+      "options": [
+        "early",
+        "late",
+        "yesterday"
+      ],
+      "meaning": {
+        "hi": "जल्दी",
+        "hinglish": "jaldi"
+      }
+    }
+  ]
+}

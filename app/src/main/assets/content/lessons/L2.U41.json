@@ -1,0 +1,449 @@
+{
+  "id": "L2.U41",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U41.S01",
+      "text": {
+        "hi": "और सब्ज़ियाँ!",
+        "hinglish": "Aur sabziyaan!",
+        "en": "More vegetables!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U41.S02",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘cabbage’ मतलब ‘पत्ता गोभी’।",
+        "hinglish": "‘cabbage’ matlab ‘patta gobhi’.",
+        "en": "Say it with me: cabbage!"
+      },
+      "word": {
+        "english": "cabbage",
+        "hindi": "पत्ता गोभी",
+        "hinglish": "patta gobhi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U41.S03",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘cauliflower’ मतलब ‘फूल गोभी’।",
+        "hinglish": "‘cauliflower’ matlab ‘phool gobhi’.",
+        "en": "Say it with me: cauliflower!"
+      },
+      "word": {
+        "english": "cauliflower",
+        "hindi": "फूल गोभी",
+        "hinglish": "phool gobhi"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U41.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "cabbage",
+        "hindi": "पत्ता गोभी",
+        "hinglish": "patta gobhi"
+      },
+      "answer": {
+        "hi": "पत्ता गोभी",
+        "hinglish": "patta gobhi"
+      },
+      "options": [
+        {
+          "hi": "पत्ता गोभी",
+          "hinglish": "patta gobhi"
+        },
+        {
+          "hi": "बैंगन",
+          "hinglish": "baingan"
+        },
+        {
+          "hi": "अदरक",
+          "hinglish": "adrak"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U41.S05",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "cauliflower",
+      "options": [
+        "cauliflower",
+        "spinach",
+        "ginger"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U41.S06",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘peas’ मतलब ‘मटर’।",
+        "hinglish": "‘peas’ matlab ‘matar’.",
+        "en": "Say it with me: peas!"
+      },
+      "word": {
+        "english": "peas",
+        "hindi": "मटर",
+        "hinglish": "matar"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U41.S07",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘spinach’ मतलब ‘पालक’।",
+        "hinglish": "‘spinach’ matlab ‘paalak’.",
+        "en": "Say it with me: spinach!"
+      },
+      "word": {
+        "english": "spinach",
+        "hindi": "पालक",
+        "hinglish": "paalak"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U41.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "peas",
+        "hindi": "मटर",
+        "hinglish": "matar"
+      },
+      "answer": {
+        "hi": "मटर",
+        "hinglish": "matar"
+      },
+      "options": [
+        {
+          "hi": "मटर",
+          "hinglish": "matar"
+        },
+        {
+          "hi": "अदरक",
+          "hinglish": "adrak"
+        },
+        {
+          "hi": "पालक",
+          "hinglish": "paalak"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U41.S09",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "spinach",
+      "options": [
+        "spinach",
+        "pumpkin",
+        "ginger"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U41.S10",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘brinjal’ मतलब ‘बैंगन’।",
+        "hinglish": "‘brinjal’ matlab ‘baingan’.",
+        "en": "Say it with me: brinjal!"
+      },
+      "word": {
+        "english": "brinjal",
+        "emoji": "🍆",
+        "hindi": "बैंगन",
+        "hinglish": "baingan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U41.S11",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘pumpkin’ मतलब ‘कद्दू’।",
+        "hinglish": "‘pumpkin’ matlab ‘kaddu’.",
+        "en": "Say it with me: pumpkin!"
+      },
+      "word": {
+        "english": "pumpkin",
+        "emoji": "🎃",
+        "hindi": "कद्दू",
+        "hinglish": "kaddu"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U41.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "brinjal",
+        "emoji": "🍆",
+        "hindi": "बैंगन",
+        "hinglish": "baingan"
+      },
+      "answer": {
+        "hi": "बैंगन",
+        "hinglish": "baingan"
+      },
+      "options": [
+        {
+          "hi": "बैंगन",
+          "hinglish": "baingan"
+        },
+        {
+          "hi": "फूल गोभी",
+          "hinglish": "phool gobhi"
+        },
+        {
+          "hi": "अदरक",
+          "hinglish": "adrak"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U41.S13",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "emoji": "🎃",
+      "answer": "pumpkin",
+      "options": [
+        "pumpkin",
+        "spinach",
+        "peas"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U41.S14",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘radish’ मतलब ‘मूली’।",
+        "hinglish": "‘radish’ matlab ‘mooli’.",
+        "en": "Say it with me: radish!"
+      },
+      "word": {
+        "english": "radish",
+        "hindi": "मूली",
+        "hinglish": "mooli"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U41.S15",
+      "skills": [
+        "vocab.food"
+      ],
+      "text": {
+        "hi": "‘ginger’ मतलब ‘अदरक’।",
+        "hinglish": "‘ginger’ matlab ‘adrak’.",
+        "en": "Say it with me: ginger!"
+      },
+      "word": {
+        "english": "ginger",
+        "hindi": "अदरक",
+        "hinglish": "adrak"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U41.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "radish",
+        "hindi": "मूली",
+        "hinglish": "mooli"
+      },
+      "answer": {
+        "hi": "मूली",
+        "hinglish": "mooli"
+      },
+      "options": [
+        {
+          "hi": "मूली",
+          "hinglish": "mooli"
+        },
+        {
+          "hi": "अदरक",
+          "hinglish": "adrak"
+        },
+        {
+          "hi": "मटर",
+          "hinglish": "matar"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U41.S17",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "ginger",
+      "options": [
+        "ginger",
+        "spinach",
+        "cabbage"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U41.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "brinjal",
+        "emoji": "🍆",
+        "hindi": "बैंगन",
+        "hinglish": "baingan"
+      },
+      "answer": {
+        "hi": "बैंगन",
+        "hinglish": "baingan"
+      },
+      "options": [
+        {
+          "hi": "बैंगन",
+          "hinglish": "baingan"
+        },
+        {
+          "hi": "पत्ता गोभी",
+          "hinglish": "patta gobhi"
+        },
+        {
+          "hi": "फूल गोभी",
+          "hinglish": "phool gobhi"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U41.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "ginger",
+        "hindi": "अदरक",
+        "hinglish": "adrak"
+      },
+      "answer": {
+        "hi": "अदरक",
+        "hinglish": "adrak"
+      },
+      "options": [
+        {
+          "hi": "अदरक",
+          "hinglish": "adrak"
+        },
+        {
+          "hi": "बैंगन",
+          "hinglish": "baingan"
+        },
+        {
+          "hi": "मटर",
+          "hinglish": "matar"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U41.S20",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "brinjal",
+        "emoji": "🍆",
+        "hindi": "बैंगन",
+        "hinglish": "baingan"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U41.S21",
+      "skills": [
+        "speak.word",
+        "vocab.food"
+      ],
+      "word": {
+        "english": "pumpkin",
+        "emoji": "🎃",
+        "hindi": "कद्दू",
+        "hinglish": "kaddu"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U41.S22",
+      "skills": [
+        "read.word",
+        "vocab.food"
+      ],
+      "answer": "radish",
+      "options": [
+        "radish",
+        "spinach",
+        "pumpkin"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U41.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: cabbage, cauliflower, peas, spinach, brinjal, pumpkin, radish, ginger।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: cabbage, cauliflower, peas, spinach, brinjal, pumpkin, radish, ginger.",
+        "en": "Well done! Today's new words: cabbage, cauliflower, peas, spinach, brinjal, pumpkin, radish, ginger."
+      }
+    }
+  ]
+}

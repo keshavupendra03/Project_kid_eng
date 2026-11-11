@@ -18,6 +18,7 @@ import androidx.compose.ui.geometry.CornerRadius
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.Path
 import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.graphics.drawscope.DrawScope
 import androidx.compose.ui.graphics.drawscope.Stroke
@@ -27,8 +28,12 @@ import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
+import androidx.compose.runtime.staticCompositionLocalOf
+import com.samjhoenglish.learning.Learning
 import com.samjhoenglish.ui.theme.Blush
+import com.samjhoenglish.ui.theme.BowRed
 import com.samjhoenglish.ui.theme.Glow
+import com.samjhoenglish.ui.theme.LocalSeniorLook
 import com.samjhoenglish.ui.theme.Navy
 import com.samjhoenglish.ui.theme.SaffronLight
 import com.samjhoenglish.ui.theme.Sky
@@ -37,15 +42,20 @@ import com.samjhoenglish.ui.theme.Sunny
 import kotlinx.coroutines.delay
 import kotlin.random.Random
 
-enum class TinkuMood { HAPPY, CHEER }
+enum class TinkuMood { HAPPY, CHEER, CONFUSED }
 
-/** Tinku the robot tutor. Bounces gently, blinks, and waves (faster when cheering). */
+/** The outfit pieces the current child has earned. */
+val LocalTinkuPieces = staticCompositionLocalOf { emptySet<Learning.TinkuPiece>() }
+
+/** Tinku the robot tutor. Bounces gently, blinks, waves (faster when cheering), and wears what's been earned. */
 @Composable
 fun Tinku(
     modifier: Modifier = Modifier,
     mood: TinkuMood = TinkuMood.HAPPY,
     size: Dp = 160.dp,
 ) {
+    val pieces = LocalTinkuPieces.current
+    val shownSize = if (LocalSeniorLook.current) size * 0.8f else size
     val motion = rememberInfiniteTransition(label = "tinku")
     val bounce by motion.animateFloat(
         initialValue = 0f,
@@ -76,7 +86,7 @@ fun Tinku(
 
     Canvas(
         modifier
-            .size(width = size, height = size * 1.15f)
+            .size(width = shownSize, height = shownSize * 1.15f)
             .semantics { contentDescription = "Tinku" },
     ) {
         val u = this.size.width / 100f
@@ -88,7 +98,35 @@ fun Tinku(
         )
         translate(top = -bounce * 3 * u) {
             drawTinku(u, mood, eyes.value, glow, wave)
+            drawOutfit(u, pieces)
         }
+    }
+}
+
+private fun DrawScope.drawOutfit(u: Float, pieces: Set<Learning.TinkuPiece>) {
+    fun p(x: Float, y: Float) = Offset(x * u, y * u)
+    fun polygon(vararg points: Pair<Float, Float>) = Path().apply {
+        points.forEachIndexed { i, (x, y) -> if (i == 0) moveTo(x * u, y * u) else lineTo(x * u, y * u) }
+        close()
+    }
+
+    if (Learning.TinkuPiece.BOW_TIE in pieces) {
+        drawPath(polygon(50f to 76f, 38f to 70f, 38f to 82f), BowRed)
+        drawPath(polygon(50f to 76f, 62f to 70f, 62f to 82f), BowRed)
+        drawCircle(BowRed, radius = 2.5f * u, center = p(50f, 76f))
+    }
+    if (Learning.TinkuPiece.GLASSES in pieces) {
+        val frame = Stroke(width = 2f * u)
+        drawCircle(Color.White, radius = 9.5f * u, center = p(38f, 46f), style = frame)
+        drawCircle(Color.White, radius = 9.5f * u, center = p(62f, 46f), style = frame)
+        drawLine(Color.White, p(47.5f, 46f), p(52.5f, 46f), strokeWidth = 2f * u)
+    }
+    // The crown replaces the cap.
+    if (Learning.TinkuPiece.CROWN in pieces) {
+        drawPath(polygon(32f to 23f, 30f to 8f, 41f to 15f, 50f to 4f, 59f to 15f, 70f to 8f, 68f to 23f), Sunny)
+    } else if (Learning.TinkuPiece.CAP in pieces) {
+        drawArc(SaffronLight, 180f, 180f, true, p(32f, 10f), Size(36f * u, 26f * u))
+        drawRoundRect(SaffronLight, p(30f, 21f), Size(50f * u, 4f * u), CornerRadius(2f * u))
     }
 }
 
@@ -123,6 +161,11 @@ private fun DrawScope.drawTinku(u: Float, mood: TinkuMood, eyeOpen: Float, glow:
             drawArc(Glow, 180f, 180f, false, p(33f, 42f), s(10f, 9f), style = stroke)
             drawArc(Glow, 180f, 180f, false, p(57f, 42f), s(10f, 9f), style = stroke)
         }
+        TinkuMood.CONFUSED -> {
+            // One eye bigger than the other, like a raised eyebrow.
+            drawCircle(Glow, radius = 3.5f * u, center = p(38f, 47f))
+            drawCircle(Glow, radius = 5.5f * u, center = p(62f, 45f))
+        }
     }
 
     // Cheeks
@@ -136,6 +179,7 @@ private fun DrawScope.drawTinku(u: Float, mood: TinkuMood, eyeOpen: Float, glow:
             style = Stroke(width = 3f * u, cap = StrokeCap.Round),
         )
         TinkuMood.CHEER -> drawArc(Glow, 0f, 180f, true, p(40f, 50f), s(20f, 12f))
+        TinkuMood.CONFUSED -> drawLine(Glow, p(43f, 59f), p(57f, 56f), strokeWidth = 3f * u, cap = StrokeCap.Round)
     }
 
     // Neck and body with badge

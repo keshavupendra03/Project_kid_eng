@@ -1,0 +1,461 @@
+{
+  "id": "L2.U45",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U45.S01",
+      "text": {
+        "hi": "और रंग, और आकार!",
+        "hinglish": "Aur rang, aur aakaar!",
+        "en": "More colours, and shapes!"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U45.S02",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘grey’ मतलब ‘स्लेटी’।",
+        "hinglish": "‘grey’ matlab ‘sleti’.",
+        "en": "Say it with me: grey!"
+      },
+      "word": {
+        "english": "grey",
+        "hindi": "स्लेटी",
+        "hinglish": "sleti"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U45.S03",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘purple’ मतलब ‘बैंगनी’।",
+        "hinglish": "‘purple’ matlab ‘baingani’.",
+        "en": "Say it with me: purple!"
+      },
+      "word": {
+        "english": "purple",
+        "emoji": "🟣",
+        "hindi": "बैंगनी",
+        "hinglish": "baingani"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U45.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "grey",
+        "hindi": "स्लेटी",
+        "hinglish": "sleti"
+      },
+      "answer": {
+        "hi": "स्लेटी",
+        "hinglish": "sleti"
+      },
+      "options": [
+        {
+          "hi": "स्लेटी",
+          "hinglish": "sleti"
+        },
+        {
+          "hi": "सुनहरा",
+          "hinglish": "sunehra"
+        },
+        {
+          "hi": "चाँदी",
+          "hinglish": "chaandi"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U45.S05",
+      "skills": [
+        "read.word",
+        "vocab.colours"
+      ],
+      "emoji": "🟣",
+      "answer": "purple",
+      "options": [
+        "purple",
+        "silver",
+        "grey"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U45.S06",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘gold’ मतलब ‘सुनहरा’।",
+        "hinglish": "‘gold’ matlab ‘sunehra’.",
+        "en": "Say it with me: gold!"
+      },
+      "word": {
+        "english": "gold",
+        "hindi": "सुनहरा",
+        "hinglish": "sunehra"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U45.S07",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘silver’ मतलब ‘चाँदी’।",
+        "hinglish": "‘silver’ matlab ‘chaandi’.",
+        "en": "Say it with me: silver!"
+      },
+      "word": {
+        "english": "silver",
+        "hindi": "चाँदी",
+        "hinglish": "chaandi"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U45.S08",
+      "skills": [
+        "vocab.meaning",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "gold",
+        "hindi": "सुनहरा",
+        "hinglish": "sunehra"
+      },
+      "answer": {
+        "hi": "सुनहरा",
+        "hinglish": "sunehra"
+      },
+      "options": [
+        {
+          "hi": "सुनहरा",
+          "hinglish": "sunehra"
+        },
+        {
+          "hi": "चाँदी",
+          "hinglish": "chaandi"
+        },
+        {
+          "hi": "स्लेटी",
+          "hinglish": "sleti"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U45.S09",
+      "skills": [
+        "read.word",
+        "vocab.colours"
+      ],
+      "answer": "silver",
+      "options": [
+        "silver",
+        "gold",
+        "circle"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U45.S10",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘colour’ मतलब ‘रंग’।",
+        "hinglish": "‘colour’ matlab ‘rang’.",
+        "en": "Say it with me: colour!"
+      },
+      "word": {
+        "english": "colour",
+        "emoji": "🎨",
+        "hindi": "रंग",
+        "hinglish": "rang"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U45.S11",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘circle’ मतलब ‘गोल’।",
+        "hinglish": "‘circle’ matlab ‘gol’.",
+        "en": "Say it with me: circle!"
+      },
+      "word": {
+        "english": "circle",
+        "emoji": "⭕",
+        "hindi": "गोल",
+        "hinglish": "gol"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U45.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "colour",
+        "emoji": "🎨",
+        "hindi": "रंग",
+        "hinglish": "rang"
+      },
+      "answer": {
+        "hi": "रंग",
+        "hinglish": "rang"
+      },
+      "options": [
+        {
+          "hi": "रंग",
+          "hinglish": "rang"
+        },
+        {
+          "hi": "स्लेटी",
+          "hinglish": "sleti"
+        },
+        {
+          "hi": "तिकोना",
+          "hinglish": "tikona"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U45.S13",
+      "skills": [
+        "read.word",
+        "vocab.colours"
+      ],
+      "emoji": "⭕",
+      "answer": "circle",
+      "options": [
+        "circle",
+        "gold",
+        "square"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U45.S14",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘square’ मतलब ‘चौकोर’।",
+        "hinglish": "‘square’ matlab ‘chaukor’.",
+        "en": "Say it with me: square!"
+      },
+      "word": {
+        "english": "square",
+        "emoji": "🟥",
+        "hindi": "चौकोर",
+        "hinglish": "chaukor"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U45.S15",
+      "skills": [
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "‘triangle’ मतलब ‘तिकोना’।",
+        "hinglish": "‘triangle’ matlab ‘tikona’.",
+        "en": "Say it with me: triangle!"
+      },
+      "word": {
+        "english": "triangle",
+        "emoji": "🔺",
+        "hindi": "तिकोना",
+        "hinglish": "tikona"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U45.S16",
+      "skills": [
+        "listen.word",
+        "vocab.colours"
+      ],
+      "answer": "square",
+      "options": [
+        {
+          "english": "square",
+          "emoji": "🟥",
+          "hindi": "चौकोर",
+          "hinglish": "chaukor"
+        },
+        {
+          "english": "triangle",
+          "emoji": "🔺",
+          "hindi": "तिकोना",
+          "hinglish": "tikona"
+        },
+        {
+          "english": "circle",
+          "emoji": "⭕",
+          "hindi": "गोल",
+          "hinglish": "gol"
+        },
+        {
+          "english": "purple",
+          "emoji": "🟣",
+          "hindi": "बैंगनी",
+          "hinglish": "baingani"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U45.S17",
+      "skills": [
+        "read.word",
+        "vocab.colours"
+      ],
+      "emoji": "🔺",
+      "answer": "triangle",
+      "options": [
+        "triangle",
+        "square",
+        "circle"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U45.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "colour",
+        "emoji": "🎨",
+        "hindi": "रंग",
+        "hinglish": "rang"
+      },
+      "answer": {
+        "hi": "रंग",
+        "hinglish": "rang"
+      },
+      "options": [
+        {
+          "hi": "रंग",
+          "hinglish": "rang"
+        },
+        {
+          "hi": "सुनहरा",
+          "hinglish": "sunehra"
+        },
+        {
+          "hi": "चौकोर",
+          "hinglish": "chaukor"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U45.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "gold",
+        "hindi": "सुनहरा",
+        "hinglish": "sunehra"
+      },
+      "answer": {
+        "hi": "सुनहरा",
+        "hinglish": "sunehra"
+      },
+      "options": [
+        {
+          "hi": "सुनहरा",
+          "hinglish": "sunehra"
+        },
+        {
+          "hi": "रंग",
+          "hinglish": "rang"
+        },
+        {
+          "hi": "गोल",
+          "hinglish": "gol"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U45.S20",
+      "skills": [
+        "speak.word",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "purple",
+        "emoji": "🟣",
+        "hindi": "बैंगनी",
+        "hinglish": "baingani"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U45.S21",
+      "skills": [
+        "speak.word",
+        "vocab.colours"
+      ],
+      "word": {
+        "english": "colour",
+        "emoji": "🎨",
+        "hindi": "रंग",
+        "hinglish": "rang"
+      },
+      "accept": [
+        "color"
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U45.S22",
+      "skills": [
+        "read.word",
+        "vocab.colours"
+      ],
+      "answer": "square",
+      "options": [
+        "square",
+        "triangle",
+        "gold"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U45.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: grey, purple, gold, silver, colour, circle, square, triangle।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: grey, purple, gold, silver, colour, circle, square, triangle.",
+        "en": "Well done! Today's new words: grey, purple, gold, silver, colour, circle, square, triangle."
+      }
+    }
+  ]
+}

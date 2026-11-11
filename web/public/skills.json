@@ -1,0 +1,416 @@
+{
+    "broad": [
+        "listen.word",
+        "phonics.blend",
+        "read.word",
+        "speak.sentence",
+        "speak.word",
+        "vocab.meaning"
+    ],
+    "names": {
+        "grammar.articles": {
+            "en": "a / an / the",
+            "hi": "a / an / the"
+        },
+        "grammar.can": {
+            "en": "I can",
+            "hi": "I can"
+        },
+        "grammar.have_has": {
+            "en": "have / has",
+            "hi": "have / has"
+        },
+        "grammar.he_she_it": {
+            "en": "He / She / It",
+            "hi": "He / She / It"
+        },
+        "grammar.i_am": {
+            "en": "I am",
+            "hi": "I am"
+        },
+        "grammar.like": {
+            "en": "I like / She likes",
+            "hi": "I like / She likes"
+        },
+        "grammar.not": {
+            "en": "not",
+            "hi": "not (नहीं)"
+        },
+        "grammar.simple_present": {
+            "en": "Every-day sentences (He plays)",
+            "hi": "रोज़ की बातें (He plays)"
+        },
+        "grammar.spot_mistake": {
+            "en": "Spotting mistakes",
+            "hi": "गलती पहचानना"
+        },
+        "grammar.there_is": {
+            "en": "There is / There are",
+            "hi": "There is / There are"
+        },
+        "grammar.this_that": {
+            "en": "This / That",
+            "hi": "This / That"
+        },
+        "grammar.want": {
+            "en": "I want",
+            "hi": "I want"
+        },
+        "grammar.we_you_they": {
+            "en": "We / You / They are",
+            "hi": "We / You / They are"
+        },
+        "grammar.wh_questions": {
+            "en": "What, Who, Where",
+            "hi": "What, Who, Where"
+        },
+        "grammar.where_prepositions": {
+            "en": "Where, in, on, under",
+            "hi": "Where, in, on, under"
+        },
+        "grammar.word_order": {
+            "en": "English word order",
+            "hi": "इंग्लिश में शब्दों का क्रम"
+        },
+        "grammar.yes_no_questions": {
+            "en": "Is it…? Are you…?",
+            "hi": "Is it…? Are you…?"
+        },
+        "listen.minimal_pair": {
+            "en": "Telling similar sounds apart",
+            "hi": "मिलती-जुलती आवाज़ें पहचानना"
+        },
+        "listen.word": {
+            "en": "Understanding spoken words",
+            "hi": "इंग्लिश शब्द सुनकर समझना"
+        },
+        "notice.english_in_hindi": {
+            "en": "English words inside Hindi",
+            "hi": "हिंदी में छिपे इंग्लिश शब्द"
+        },
+        "phonics.a": {
+            "en": "The ‘a’ sound",
+            "hi": "‘a’ की आवाज़"
+        },
+        "phonics.ai": {
+            "en": "The ‘ai’ sound",
+            "hi": "‘ai’ की आवाज़"
+        },
+        "phonics.air": {
+            "en": "The ‘air’ sound",
+            "hi": "‘air’ की आवाज़"
+        },
+        "phonics.ar": {
+            "en": "The ‘ar’ sound",
+            "hi": "‘ar’ की आवाज़"
+        },
+        "phonics.b": {
+            "en": "The ‘b’ sound",
+            "hi": "‘b’ की आवाज़"
+        },
+        "phonics.blend": {
+            "en": "Joining sounds to read",
+            "hi": "आवाज़ें जोड़कर पढ़ना"
+        },
+        "phonics.c": {
+            "en": "The ‘c’ sound",
+            "hi": "‘c’ की आवाज़"
+        },
+        "phonics.ch": {
+            "en": "The ‘ch’ sound",
+            "hi": "‘ch’ की आवाज़"
+        },
+        "phonics.d": {
+            "en": "The ‘d’ sound",
+            "hi": "‘d’ की आवाज़"
+        },
+        "phonics.e": {
+            "en": "The ‘e’ sound",
+            "hi": "‘e’ की आवाज़"
+        },
+        "phonics.ear": {
+            "en": "The ‘ear’ sound",
+            "hi": "‘ear’ की आवाज़"
+        },
+        "phonics.ee": {
+            "en": "The ‘ee’ sound",
+            "hi": "‘ee’ की आवाज़"
+        },
+        "phonics.f": {
+            "en": "The ‘f’ sound",
+            "hi": "‘f’ की आवाज़"
+        },
+        "phonics.g": {
+            "en": "The ‘g’ sound",
+            "hi": "‘g’ की आवाज़"
+        },
+        "phonics.h": {
+            "en": "The ‘h’ sound",
+            "hi": "‘h’ की आवाज़"
+        },
+        "phonics.i": {
+            "en": "The ‘i’ sound",
+            "hi": "‘i’ की आवाज़"
+        },
+        "phonics.igh": {
+            "en": "The ‘igh’ sound",
+            "hi": "‘igh’ की आवाज़"
+        },
+        "phonics.j": {
+            "en": "The ‘j’ sound",
+            "hi": "‘j’ की आवाज़"
+        },
+        "phonics.l": {
+            "en": "The ‘l’ sound",
+            "hi": "‘l’ की आवाज़"
+        },
+        "phonics.m": {
+            "en": "The ‘m’ sound",
+            "hi": "‘m’ की आवाज़"
+        },
+        "phonics.magic_e": {
+            "en": "Magic e (kit, kite)",
+            "hi": "जादुई e (kit, kite)"
+        },
+        "phonics.n": {
+            "en": "The ‘n’ sound",
+            "hi": "‘n’ की आवाज़"
+        },
+        "phonics.name_vs_sound": {
+            "en": "Letter names and sounds",
+            "hi": "अक्षर का नाम और उसकी आवाज़"
+        },
+        "phonics.ng": {
+            "en": "The ‘ng’ sound",
+            "hi": "‘ng’ की आवाज़"
+        },
+        "phonics.o": {
+            "en": "The ‘o’ sound",
+            "hi": "‘o’ की आवाज़"
+        },
+        "phonics.oa": {
+            "en": "The ‘oa’ sound",
+            "hi": "‘oa’ की आवाज़"
+        },
+        "phonics.oo": {
+            "en": "The ‘oo’ sound",
+            "hi": "‘oo’ की आवाज़"
+        },
+        "phonics.oo_short": {
+            "en": "Short ‘oo’ (book)",
+            "hi": "छोटा ‘oo’ (book)"
+        },
+        "phonics.or": {
+            "en": "The ‘or’ sound",
+            "hi": "‘or’ की आवाज़"
+        },
+        "phonics.ow": {
+            "en": "The ‘ow’ sound",
+            "hi": "‘ow’ की आवाज़"
+        },
+        "phonics.oy": {
+            "en": "The ‘oy’ sound",
+            "hi": "‘oy’ की आवाज़"
+        },
+        "phonics.p": {
+            "en": "The ‘p’ sound",
+            "hi": "‘p’ की आवाज़"
+        },
+        "phonics.qu": {
+            "en": "The ‘qu’ sound",
+            "hi": "‘qu’ की आवाज़"
+        },
+        "phonics.r": {
+            "en": "The ‘r’ sound",
+            "hi": "‘r’ की आवाज़"
+        },
+        "phonics.s": {
+            "en": "The ‘s’ sound",
+            "hi": "‘s’ की आवाज़"
+        },
+        "phonics.schwa": {
+            "en": "Soft ‘a’ (banana)",
+            "hi": "हल्का ‘a’ (banana)"
+        },
+        "phonics.sh": {
+            "en": "The ‘sh’ sound",
+            "hi": "‘sh’ की आवाज़"
+        },
+        "phonics.t": {
+            "en": "The ‘t’ sound",
+            "hi": "‘t’ की आवाज़"
+        },
+        "phonics.u": {
+            "en": "The ‘u’ sound",
+            "hi": "‘u’ की आवाज़"
+        },
+        "phonics.ur": {
+            "en": "The ‘ur’ sound",
+            "hi": "‘ur’ की आवाज़"
+        },
+        "phonics.ure": {
+            "en": "The ‘ure’ sound",
+            "hi": "‘ure’ की आवाज़"
+        },
+        "phonics.x": {
+            "en": "The ‘x’ sound",
+            "hi": "‘x’ की आवाज़"
+        },
+        "phonics.y": {
+            "en": "The ‘y’ sound",
+            "hi": "‘y’ की आवाज़"
+        },
+        "phonics.z": {
+            "en": "The ‘z’ sound",
+            "hi": "‘z’ की आवाज़"
+        },
+        "phonics.zh": {
+            "en": "Soft ‘si’ (television)",
+            "hi": "नरम ‘si’ (television)"
+        },
+        "read.passage": {
+            "en": "Reading a passage",
+            "hi": "कहानी पढ़ना"
+        },
+        "read.sight_words": {
+            "en": "Words to know on sight",
+            "hi": "देखते ही पहचानने वाले शब्द"
+        },
+        "read.understand": {
+            "en": "Understanding what is read",
+            "hi": "पढ़कर समझना"
+        },
+        "read.word": {
+            "en": "Reading English words",
+            "hi": "इंग्लिश शब्द पढ़ना"
+        },
+        "sound.f": {
+            "en": "Saying ‘f’",
+            "hi": "‘f’ बोलना"
+        },
+        "sound.s_cluster": {
+            "en": "Adding ‘i’ before s (ischool)",
+            "hi": "‘स्कूल’ को ‘इस्कूल’ बोलना"
+        },
+        "sound.sh": {
+            "en": "Saying ‘sh’",
+            "hi": "‘sh’ बोलना"
+        },
+        "sound.th": {
+            "en": "Saying ‘th’",
+            "hi": "‘th’ बोलना"
+        },
+        "sound.v": {
+            "en": "Saying ‘v’",
+            "hi": "‘v’ बोलना"
+        },
+        "sound.w": {
+            "en": "Saying ‘w’",
+            "hi": "‘w’ बोलना"
+        },
+        "sound.z": {
+            "en": "Saying ‘z’",
+            "hi": "‘z’ बोलना"
+        },
+        "speak.sentence": {
+            "en": "Saying whole sentences",
+            "hi": "पूरी लाइन बोलना"
+        },
+        "speak.word": {
+            "en": "Saying words",
+            "hi": "शब्द बोलना"
+        },
+        "spell.word": {
+            "en": "Spelling",
+            "hi": "स्पेलिंग"
+        },
+        "vocab.actions": {
+            "en": "Action words",
+            "hi": "काम वाले के शब्द"
+        },
+        "vocab.animals": {
+            "en": "Animal words",
+            "hi": "जानवरों के शब्द"
+        },
+        "vocab.body": {
+            "en": "Body words",
+            "hi": "शरीर के शब्द"
+        },
+        "vocab.clothes": {
+            "en": "Clothes words",
+            "hi": "कपड़ों के शब्द"
+        },
+        "vocab.colours": {
+            "en": "Colour words",
+            "hi": "रंगों के शब्द"
+        },
+        "vocab.family": {
+            "en": "Family words",
+            "hi": "परिवार के शब्द"
+        },
+        "vocab.feelings": {
+            "en": "Feeling words",
+            "hi": "मन की बातों के शब्द"
+        },
+        "vocab.food": {
+            "en": "Food words",
+            "hi": "खाने के शब्द"
+        },
+        "vocab.health": {
+            "en": "Health words",
+            "hi": "सेहत के शब्द"
+        },
+        "vocab.home": {
+            "en": "Home words",
+            "hi": "घर के शब्द"
+        },
+        "vocab.jobs": {
+            "en": "Job words",
+            "hi": "लोगों के काम के शब्द"
+        },
+        "vocab.loanwords": {
+            "en": "Everyday English words",
+            "hi": "रोज़ के इंग्लिश के शब्द"
+        },
+        "vocab.manners": {
+            "en": "Polite words",
+            "hi": "अच्छी बातों के शब्द"
+        },
+        "vocab.meaning": {
+            "en": "Word meanings",
+            "hi": "शब्दों के मतलब"
+        },
+        "vocab.nature": {
+            "en": "Nature words",
+            "hi": "बाहर की दुनिया के शब्द"
+        },
+        "vocab.numbers": {
+            "en": "Number words",
+            "hi": "गिनती के शब्द"
+        },
+        "vocab.opposites": {
+            "en": "Opposite words",
+            "hi": "उल्टे के शब्द"
+        },
+        "vocab.places": {
+            "en": "Place words",
+            "hi": "जगहों के शब्द"
+        },
+        "vocab.power": {
+            "en": "New words (Word Power)",
+            "hi": "नए शब्द (शब्द शक्ति)"
+        },
+        "vocab.school": {
+            "en": "School words",
+            "hi": "स्कूल के शब्द"
+        },
+        "vocab.time": {
+            "en": "Time words",
+            "hi": "समय के शब्द"
+        },
+        "vocab.vehicles": {
+            "en": "Vehicle words",
+            "hi": "गाड़ियों के शब्द"
+        }
+    }
+}

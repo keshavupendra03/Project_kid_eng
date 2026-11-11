@@ -53,6 +53,12 @@ class AppViewModel(
     val englishVoice: StateFlow<EnglishVoice> =
         settings.englishVoice.stateIn(viewModelScope, SharingStarted.Eagerly, EnglishVoice.AMERICAN)
 
+    val chimesOn: StateFlow<Boolean> = settings.chimesOn.stateIn(viewModelScope, SharingStarted.Eagerly, true)
+
+    fun setChimesOn(on: Boolean) {
+        viewModelScope.launch { settings.setChimesOn(on) }
+    }
+
     fun setEnglishVoice(voice: EnglishVoice) {
         viewModelScope.launch { settings.setEnglishVoice(voice) }
     }

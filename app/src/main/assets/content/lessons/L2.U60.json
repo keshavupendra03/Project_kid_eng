@@ -1,0 +1,461 @@
+{
+  "id": "L2.U60",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U60.S01",
+      "text": {
+        "hi": "मौसम कैसा है?",
+        "hinglish": "Mausam kaisa hai?",
+        "en": "What's the weather like?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U60.S02",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘summer’ मतलब ‘गर्मी’।",
+        "hinglish": "‘summer’ matlab ‘garmi’.",
+        "en": "Say it with me: summer!"
+      },
+      "word": {
+        "english": "summer",
+        "hindi": "गर्मी",
+        "hinglish": "garmi"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U60.S03",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘winter’ मतलब ‘सर्दी’।",
+        "hinglish": "‘winter’ matlab ‘sardi’.",
+        "en": "Say it with me: winter!"
+      },
+      "word": {
+        "english": "winter",
+        "hindi": "सर्दी",
+        "hinglish": "sardi"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U60.S04",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "summer",
+        "hindi": "गर्मी",
+        "hinglish": "garmi"
+      },
+      "answer": {
+        "hi": "गर्मी",
+        "hinglish": "garmi"
+      },
+      "options": [
+        {
+          "hi": "गर्मी",
+          "hinglish": "garmi"
+        },
+        {
+          "hi": "कोहरा",
+          "hinglish": "kohra"
+        },
+        {
+          "hi": "इंद्रधनुष",
+          "hinglish": "indradhanush"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U60.S05",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "answer": "winter",
+      "options": [
+        "winter",
+        "monsoon",
+        "weather"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U60.S06",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘monsoon’ मतलब ‘बारिश का मौसम’।",
+        "hinglish": "‘monsoon’ matlab ‘baarish ka mausam’.",
+        "en": "Say it with me: monsoon!"
+      },
+      "word": {
+        "english": "monsoon",
+        "emoji": "☔",
+        "hindi": "बारिश का मौसम",
+        "hinglish": "baarish ka mausam"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U60.S07",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘spring’ मतलब ‘बसंत’।",
+        "hinglish": "‘spring’ matlab ‘basant’.",
+        "en": "Say it with me: spring!"
+      },
+      "word": {
+        "english": "spring",
+        "emoji": "🌼",
+        "hindi": "बसंत",
+        "hinglish": "basant"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U60.S08",
+      "skills": [
+        "listen.word",
+        "vocab.time"
+      ],
+      "answer": "monsoon",
+      "options": [
+        {
+          "english": "monsoon",
+          "emoji": "☔",
+          "hindi": "बारिश का मौसम",
+          "hinglish": "baarish ka mausam"
+        },
+        {
+          "english": "spring",
+          "emoji": "🌼",
+          "hindi": "बसंत",
+          "hinglish": "basant"
+        },
+        {
+          "english": "storm",
+          "emoji": "⛈️",
+          "hindi": "तूफ़ान",
+          "hinglish": "toofaan"
+        },
+        {
+          "english": "fog",
+          "emoji": "🌫️",
+          "hindi": "कोहरा",
+          "hinglish": "kohra"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U60.S09",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "emoji": "🌼",
+      "answer": "spring",
+      "options": [
+        "spring",
+        "winter",
+        "summer"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U60.S10",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘weather’ मतलब ‘मौसम’।",
+        "hinglish": "‘weather’ matlab ‘mausam’.",
+        "en": "Say it with me: weather!"
+      },
+      "word": {
+        "english": "weather",
+        "hindi": "मौसम",
+        "hinglish": "mausam"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U60.S11",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘storm’ मतलब ‘तूफ़ान’।",
+        "hinglish": "‘storm’ matlab ‘toofaan’.",
+        "en": "Say it with me: storm!"
+      },
+      "word": {
+        "english": "storm",
+        "emoji": "⛈️",
+        "hindi": "तूफ़ान",
+        "hinglish": "toofaan"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U60.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "weather",
+        "hindi": "मौसम",
+        "hinglish": "mausam"
+      },
+      "answer": {
+        "hi": "मौसम",
+        "hinglish": "mausam"
+      },
+      "options": [
+        {
+          "hi": "मौसम",
+          "hinglish": "mausam"
+        },
+        {
+          "hi": "बसंत",
+          "hinglish": "basant"
+        },
+        {
+          "hi": "इंद्रधनुष",
+          "hinglish": "indradhanush"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U60.S13",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "emoji": "⛈️",
+      "answer": "storm",
+      "options": [
+        "storm",
+        "weather",
+        "summer"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U60.S14",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘rainbow’ मतलब ‘इंद्रधनुष’।",
+        "hinglish": "‘rainbow’ matlab ‘indradhanush’.",
+        "en": "Say it with me: rainbow!"
+      },
+      "word": {
+        "english": "rainbow",
+        "emoji": "🌈",
+        "hindi": "इंद्रधनुष",
+        "hinglish": "indradhanush"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U60.S15",
+      "skills": [
+        "vocab.time"
+      ],
+      "text": {
+        "hi": "‘fog’ मतलब ‘कोहरा’।",
+        "hinglish": "‘fog’ matlab ‘kohra’.",
+        "en": "Say it with me: fog!"
+      },
+      "word": {
+        "english": "fog",
+        "emoji": "🌫️",
+        "hindi": "कोहरा",
+        "hinglish": "kohra"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U60.S16",
+      "skills": [
+        "listen.word",
+        "vocab.time"
+      ],
+      "answer": "rainbow",
+      "options": [
+        {
+          "english": "rainbow",
+          "emoji": "🌈",
+          "hindi": "इंद्रधनुष",
+          "hinglish": "indradhanush"
+        },
+        {
+          "english": "storm",
+          "emoji": "⛈️",
+          "hindi": "तूफ़ान",
+          "hinglish": "toofaan"
+        },
+        {
+          "english": "monsoon",
+          "emoji": "☔",
+          "hindi": "बारिश का मौसम",
+          "hinglish": "baarish ka mausam"
+        },
+        {
+          "english": "fog",
+          "emoji": "🌫️",
+          "hindi": "कोहरा",
+          "hinglish": "kohra"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U60.S17",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "emoji": "🌫️",
+      "answer": "fog",
+      "options": [
+        "fog",
+        "winter",
+        "rainbow"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U60.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "weather",
+        "hindi": "मौसम",
+        "hinglish": "mausam"
+      },
+      "answer": {
+        "hi": "मौसम",
+        "hinglish": "mausam"
+      },
+      "options": [
+        {
+          "hi": "मौसम",
+          "hinglish": "mausam"
+        },
+        {
+          "hi": "कोहरा",
+          "hinglish": "kohra"
+        },
+        {
+          "hi": "गर्मी",
+          "hinglish": "garmi"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U60.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "rainbow",
+        "emoji": "🌈",
+        "hindi": "इंद्रधनुष",
+        "hinglish": "indradhanush"
+      },
+      "answer": {
+        "hi": "इंद्रधनुष",
+        "hinglish": "indradhanush"
+      },
+      "options": [
+        {
+          "hi": "इंद्रधनुष",
+          "hinglish": "indradhanush"
+        },
+        {
+          "hi": "बारिश का मौसम",
+          "hinglish": "baarish ka mausam"
+        },
+        {
+          "hi": "मौसम",
+          "hinglish": "mausam"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U60.S20",
+      "skills": [
+        "speak.word",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "fog",
+        "emoji": "🌫️",
+        "hindi": "कोहरा",
+        "hinglish": "kohra"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U60.S21",
+      "skills": [
+        "speak.word",
+        "vocab.time"
+      ],
+      "word": {
+        "english": "storm",
+        "emoji": "⛈️",
+        "hindi": "तूफ़ान",
+        "hinglish": "toofaan"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U60.S22",
+      "skills": [
+        "read.word",
+        "vocab.time"
+      ],
+      "answer": "monsoon",
+      "options": [
+        "monsoon",
+        "spring",
+        "rainbow"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U60.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: summer, winter, monsoon, spring, weather, storm, rainbow, fog।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: summer, winter, monsoon, spring, weather, storm, rainbow, fog.",
+        "en": "Well done! Today's new words: summer, winter, monsoon, spring, weather, storm, rainbow, fog."
+      }
+    }
+  ]
+}

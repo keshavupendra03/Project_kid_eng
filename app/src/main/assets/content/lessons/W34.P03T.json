@@ -1,0 +1,185 @@
+{
+  "id": "W34.P03T",
+  "level": 200,
+  "steps": [
+    {
+      "type": "listen_read",
+      "id": "W34.P03T.S01",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "serve",
+      "options": [
+        "serve",
+        "sweep",
+        "fold"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P03T.S02",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "sweep",
+        "emoji": "🧹",
+        "hindi": "झाड़ू लगाना",
+        "hinglish": "jhaadu lagana"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P03T.S03",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "wipe",
+        "emoji": "🧽",
+        "hindi": "पोंछना",
+        "hinglish": "ponchhna"
+      },
+      "answer": {
+        "hi": "पोंछना",
+        "hinglish": "ponchhna"
+      },
+      "options": [
+        {
+          "hi": "पोंछना",
+          "hinglish": "ponchhna"
+        },
+        {
+          "hi": "मरम्मत करना",
+          "hinglish": "marammat karna"
+        },
+        {
+          "hi": "बटन",
+          "hinglish": "button"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P03T.S04",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "___ the books on the shelf.",
+      "answer": "arrange",
+      "options": [
+        "arrange",
+        "pour",
+        "repair"
+      ],
+      "meaning": {
+        "hi": "सजाना",
+        "hinglish": "sajaana"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P03T.S05",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "chop",
+      "options": [
+        "chop",
+        "serve",
+        "arrange"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P03T.S06",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "pour",
+        "emoji": "🫗",
+        "hindi": "डालना",
+        "hinglish": "daalna"
+      },
+      "typed": false
+    },
+    {
+      "type": "match_meaning",
+      "id": "W34.P03T.S07",
+      "skills": [
+        "vocab.power"
+      ],
+      "word": {
+        "english": "fold",
+        "emoji": "👕",
+        "hindi": "तह करना",
+        "hinglish": "tah karna"
+      },
+      "answer": {
+        "hi": "तह करना",
+        "hinglish": "tah karna"
+      },
+      "options": [
+        {
+          "hi": "तह करना",
+          "hinglish": "tah karna"
+        },
+        {
+          "hi": "सजाना",
+          "hinglish": "sajaana"
+        },
+        {
+          "hi": "बटन",
+          "hinglish": "button"
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "W34.P03T.S08",
+      "skills": [
+        "vocab.power"
+      ],
+      "sentence": "Mummy will ___ water for tea.",
+      "answer": "boil",
+      "options": [
+        "boil",
+        "chop",
+        "fold"
+      ],
+      "meaning": {
+        "hi": "उबालना",
+        "hinglish": "ubaalna"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "W34.P03T.S09",
+      "skills": [
+        "vocab.power"
+      ],
+      "answer": "repair",
+      "options": [
+        "repair",
+        "sweep",
+        "boil"
+      ]
+    },
+    {
+      "type": "spell_word",
+      "id": "W34.P03T.S10",
+      "skills": [
+        "spell.word"
+      ],
+      "word": {
+        "english": "switch",
+        "emoji": "💡",
+        "hindi": "बटन",
+        "hinglish": "button"
+      },
+      "typed": false
+    }
+  ]
+}

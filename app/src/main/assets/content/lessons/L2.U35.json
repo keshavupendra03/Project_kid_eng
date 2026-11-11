@@ -1,0 +1,459 @@
+{
+  "id": "L2.U35",
+  "level": 2,
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "L2.U35.S01",
+      "text": {
+        "hi": "रसोई में और क्या-क्या है?",
+        "hinglish": "Rasoi mein aur kya-kya hai?",
+        "en": "What else is in the kitchen?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U35.S02",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘knife’ मतलब ‘चाकू’।",
+        "hinglish": "‘knife’ matlab ‘chaaku’.",
+        "en": "Say it with me: knife!"
+      },
+      "word": {
+        "english": "knife",
+        "emoji": "🔪",
+        "hindi": "चाकू",
+        "hinglish": "chaaku"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U35.S03",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘fork’ मतलब ‘काँटा’।",
+        "hinglish": "‘fork’ matlab ‘kaanta’.",
+        "en": "Say it with me: fork!"
+      },
+      "word": {
+        "english": "fork",
+        "emoji": "🍴",
+        "hindi": "काँटा",
+        "hinglish": "kaanta"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U35.S04",
+      "skills": [
+        "listen.word",
+        "vocab.home"
+      ],
+      "answer": "knife",
+      "options": [
+        {
+          "english": "knife",
+          "emoji": "🔪",
+          "hindi": "चाकू",
+          "hinglish": "chaaku"
+        },
+        {
+          "english": "fork",
+          "emoji": "🍴",
+          "hindi": "काँटा",
+          "hinglish": "kaanta"
+        },
+        {
+          "english": "bowl",
+          "emoji": "🥣",
+          "hindi": "कटोरी",
+          "hinglish": "katori"
+        },
+        {
+          "english": "box",
+          "emoji": "📦",
+          "hindi": "डिब्बा",
+          "hinglish": "dibba"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U35.S05",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "🍴",
+      "answer": "fork",
+      "options": [
+        "fork",
+        "box",
+        "bottle"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U35.S06",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘bowl’ मतलब ‘कटोरी’।",
+        "hinglish": "‘bowl’ matlab ‘katori’.",
+        "en": "Say it with me: bowl!"
+      },
+      "word": {
+        "english": "bowl",
+        "emoji": "🥣",
+        "hindi": "कटोरी",
+        "hinglish": "katori"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U35.S07",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘pot’ मतलब ‘पतीला’।",
+        "hinglish": "‘pot’ matlab ‘pateela’.",
+        "en": "Say it with me: pot!"
+      },
+      "word": {
+        "english": "pot",
+        "hindi": "पतीला",
+        "hinglish": "pateela"
+      }
+    },
+    {
+      "type": "listen_tap",
+      "id": "L2.U35.S08",
+      "skills": [
+        "listen.word",
+        "vocab.home"
+      ],
+      "answer": "bowl",
+      "options": [
+        {
+          "english": "bowl",
+          "emoji": "🥣",
+          "hindi": "कटोरी",
+          "hinglish": "katori"
+        },
+        {
+          "english": "fork",
+          "emoji": "🍴",
+          "hindi": "काँटा",
+          "hinglish": "kaanta"
+        },
+        {
+          "english": "box",
+          "emoji": "📦",
+          "hindi": "डिब्बा",
+          "hinglish": "dibba"
+        },
+        {
+          "english": "knife",
+          "emoji": "🔪",
+          "hindi": "चाकू",
+          "hinglish": "chaaku"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U35.S09",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "pot",
+      "options": [
+        "pot",
+        "bottle",
+        "box"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U35.S10",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘stove’ मतलब ‘चूल्हा’।",
+        "hinglish": "‘stove’ matlab ‘choolha’.",
+        "en": "Say it with me: stove!"
+      },
+      "word": {
+        "english": "stove",
+        "hindi": "चूल्हा",
+        "hinglish": "choolha"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U35.S11",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘jug’ मतलब ‘जग’।",
+        "hinglish": "‘jug’ matlab ‘jug’.",
+        "en": "Say it with me: jug!"
+      },
+      "word": {
+        "english": "jug",
+        "hindi": "जग",
+        "hinglish": "jug"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U35.S12",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "stove",
+        "hindi": "चूल्हा",
+        "hinglish": "choolha"
+      },
+      "answer": {
+        "hi": "चूल्हा",
+        "hinglish": "choolha"
+      },
+      "options": [
+        {
+          "hi": "चूल्हा",
+          "hinglish": "choolha"
+        },
+        {
+          "hi": "बोतल",
+          "hinglish": "botal"
+        },
+        {
+          "hi": "चाकू",
+          "hinglish": "chaaku"
+        }
+      ]
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U35.S13",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "jug",
+      "options": [
+        "jug",
+        "bottle",
+        "pot"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U35.S14",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘bottle’ मतलब ‘बोतल’।",
+        "hinglish": "‘bottle’ matlab ‘botal’.",
+        "en": "Say it with me: bottle!"
+      },
+      "word": {
+        "english": "bottle",
+        "hindi": "बोतल",
+        "hinglish": "botal"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U35.S15",
+      "skills": [
+        "vocab.home"
+      ],
+      "text": {
+        "hi": "‘box’ मतलब ‘डिब्बा’।",
+        "hinglish": "‘box’ matlab ‘dibba’.",
+        "en": "Say it with me: box!"
+      },
+      "word": {
+        "english": "box",
+        "emoji": "📦",
+        "hindi": "डिब्बा",
+        "hinglish": "dibba"
+      }
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U35.S16",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "bottle",
+        "hindi": "बोतल",
+        "hinglish": "botal"
+      },
+      "answer": {
+        "hi": "बोतल",
+        "hinglish": "botal"
+      },
+      "options": [
+        {
+          "hi": "बोतल",
+          "hinglish": "botal"
+        },
+        {
+          "hi": "पतीला",
+          "hinglish": "pateela"
+        },
+        {
+          "hi": "कटोरी",
+          "hinglish": "katori"
+        }
+      ]
+    },
+    {
+      "type": "word_pick",
+      "id": "L2.U35.S17",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "emoji": "📦",
+      "answer": "box",
+      "options": [
+        "box",
+        "fork",
+        "bottle"
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U35.S18",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "knife",
+        "emoji": "🔪",
+        "hindi": "चाकू",
+        "hinglish": "chaaku"
+      },
+      "answer": {
+        "hi": "चाकू",
+        "hinglish": "chaaku"
+      },
+      "options": [
+        {
+          "hi": "चाकू",
+          "hinglish": "chaaku"
+        },
+        {
+          "hi": "काँटा",
+          "hinglish": "kaanta"
+        },
+        {
+          "hi": "डिब्बा",
+          "hinglish": "dibba"
+        }
+      ]
+    },
+    {
+      "type": "match_meaning",
+      "id": "L2.U35.S19",
+      "skills": [
+        "vocab.meaning",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "jug",
+        "hindi": "जग",
+        "hinglish": "jug"
+      },
+      "answer": {
+        "hi": "जग",
+        "hinglish": "jug"
+      },
+      "options": [
+        {
+          "hi": "जग",
+          "hinglish": "jug"
+        },
+        {
+          "hi": "पतीला",
+          "hinglish": "pateela"
+        },
+        {
+          "hi": "डिब्बा",
+          "hinglish": "dibba"
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U35.S20",
+      "skills": [
+        "speak.word",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "box",
+        "emoji": "📦",
+        "hindi": "डिब्बा",
+        "hinglish": "dibba"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "L2.U35.S21",
+      "skills": [
+        "speak.word",
+        "vocab.home"
+      ],
+      "word": {
+        "english": "fork",
+        "emoji": "🍴",
+        "hindi": "काँटा",
+        "hinglish": "kaanta"
+      }
+    },
+    {
+      "type": "listen_read",
+      "id": "L2.U35.S22",
+      "skills": [
+        "read.word",
+        "vocab.home"
+      ],
+      "answer": "knife",
+      "options": [
+        "knife",
+        "jug",
+        "bowl"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "L2.U35.S23",
+      "text": {
+        "hi": "शाबाश! आज के नए शब्द: knife, fork, bowl, pot, stove, jug, bottle, box।",
+        "hinglish": "Shabaash! Aaj ke naye shabd: knife, fork, bowl, pot, stove, jug, bottle, box.",
+        "en": "Well done! Today's new words: knife, fork, bowl, pot, stove, jug, bottle, box."
+      }
+    }
+  ]
+}
