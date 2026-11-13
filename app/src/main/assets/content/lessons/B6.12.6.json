@@ -1,0 +1,110 @@
+{
+  "id": "B6.12.6",
+  "level": 6,
+  "bookSteps": [
+    "B6.12.6.S02",
+    "B6.12.6.S03",
+    "B6.12.6.S04",
+    "B6.12.6.S05",
+    "B6.12.6.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.12.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: अकबर-बीरबल की कहानी अपने शब्दों में लिखो। चलो इसी कहानी को छोटे वाक्यों में लिखते हैं।",
+        "hinglish": "Kitaab: Akbar-Birbal ki kahani apne shabdon mein likho. Chalo isi kahani ko chhote vaakyon mein likhte hain.",
+        "en": "The book: write an Akbar-Birbal story in your own words. Let's write this story in short sentences."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.12.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "अकबर ने एक चुनौती दी।",
+        "hinglish": "Akbar ne ek chunauti di.",
+        "en": "Say that Akbar gave a challenge."
+      },
+      "answer": "Akbar gave a challenge to the people.",
+      "meaning": {
+        "hi": "अकबर ने लोगों को एक चुनौती दी।",
+        "hinglish": "Akbar ne logon ko ek chunauti di."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.12.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "एक धोबी पूरी रात ठंडे पानी में खड़ा रहा।",
+        "hinglish": "Ek dhobi poori raat thande paani mein khada raha.",
+        "en": "A washerman: in the cold river, the whole night."
+      },
+      "answer": "A washerman stood in the cold water all night.",
+      "meaning": {
+        "hi": "एक धोबी पूरी रात ठंडे पानी में खड़ा रहा।",
+        "hinglish": "Ek dhobi poori raat thande paani mein khada raha."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.12.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "एक दरबारी की वजह से उसे इनाम नहीं मिला।",
+        "hinglish": "Ek darbaari ki wajah se use inaam nahi mila.",
+        "en": "A courtier stopped him from getting the reward."
+      },
+      "answer": "He did not get the reward because of a courtier.",
+      "meaning": {
+        "hi": "एक दरबारी की वजह से उसे इनाम नहीं मिला।",
+        "hinglish": "Ek darbaari ki wajah se use inaam nahi mila."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.12.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "बीरबल ने चतुराई से अकबर को उसकी गलती दिखाई।",
+        "hinglish": "Birbal ne chaturaai se Akbar ko uski galti dikhaayi.",
+        "en": "Birbal used his clever mind to show the King he was wrong."
+      },
+      "answer": "Birbal cleverly showed Akbar his mistake.",
+      "meaning": {
+        "hi": "बीरबल ने चतुराई से अकबर को उसकी गलती दिखाई।",
+        "hinglish": "Birbal ne chaturaai se Akbar ko uski galti dikhaayi."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.12.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "आख़िर में धोबी को इनाम मिला।",
+        "hinglish": "Aakhir mein dhobi ko inaam mila.",
+        "en": "At last, the reward goes to the washerman."
+      },
+      "answer": "In the end the washerman got the reward.",
+      "meaning": {
+        "hi": "आख़िर में धोबी को इनाम मिला।",
+        "hinglish": "Aakhir mein dhobi ko inaam mila."
+      }
+    }
+  ]
+}

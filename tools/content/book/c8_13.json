@@ -1,0 +1,167 @@
+{
+  "grade": 8, "number": 13, "emoji": "🪷", "title": "Virtue Pays", "pages": "114–125",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["महाभारत की कहानी: प्यासे पांडव एक तालाब पर पहुँचते हैं। यक्ष कहता है कि पहले सवालों के जवाब दो, फिर पानी पियो। चार भाई बात नहीं मानते, पर युधिष्ठिर समझदारी से जवाब देते हैं।", "Mahabharat ki kahani: pyaase Pandav ek taalaab par pahunchte hain. Yaksha kehta hai ki pehle sawaalon ke jawab do, phir paani piyo. Chaar bhai baat nahi maante, par Yudhishthir samajhdaari se jawab dete hain.", "A story from the Mahabharata: the thirsty Pandavas reach a pool. A Yaksha says: answer my questions first, then drink. Four brothers don't listen, but Yudhishthira answers wisely."]},
+        {"book": true, "q": ["What do you know about the Mahabharata?", "महाभारत के बारे में क्या जानते हो?", "Mahabharat ke baare mein kya jaante ho?", ["It is an epic about the Pandavas and the Kauravas.", "It is a modern novel.", "It is a film song."], "It is an epic about the Pandavas and the Kauravas.", "The Mahabharata is a great Indian epic written by Ved Vyas. It tells the story of the war between the Pandavas and the Kauravas.", "महाभारत वेद व्यास का लिखा महान भारतीय महाकाव्य है। इसमें पांडवों और कौरवों के युद्ध की कहानी है।", "Mahabharat Ved Vyas ka likha mahaan Bharatiya mahaakaavya hai. Ismein Pandavon aur Kauravon ke yuddh ki kahani hai."]},
+        {"book": true, "q": ["Why were the Pandavas sent into exile?", "पांडवों को वनवास क्यों मिला?", "Pandavon ko vanvaas kyon mila?", ["They lost a game of dice to the Kauravas.", "They broke a law.", "They wanted to travel."], "They lost a game of dice to the Kauravas.", "The Pandavas were sent into exile because Yudhishthira lost a game of dice to the Kauravas, who cheated.", "पांडवों को वनवास मिला क्योंकि युधिष्ठिर कौरवों से जुए (चौसर) में हार गए, जिसमें धोखा हुआ था।", "Pandavon ko vanvaas mila kyonki Yudhishthir Kauravon se jue (chausar) mein haar gaye, jismein dhokha hua tha."]},
+        {"book": true, "q": ["What difficulties did they face in exile?", "वनवास में क्या मुश्किलें आईं?", "Vanvaas mein kya mushkilein aayin?", ["They lived in forests without food, water or comfort.", "They lived in palaces.", "They had no difficulties."], "They lived in forests without food, water or comfort.", "In exile they wandered in forests, faced hunger, thirst, wild animals and many dangers.", "वनवास में वे जंगलों में भटके और भूख, प्यास, जंगली जानवरों और कई ख़तरों का सामना किया।", "Vanvaas mein woh junglon mein bhatke aur bhookh, pyaas, jungli jaanwaron aur kai khatron ka saamna kiya."]},
+        {"word": ["virtue", "सद्गुण", "sadgun", "goodness, good behaviour", "Virtue is the best road to heaven.", "सद्गुण स्वर्ग का सबसे अच्छा रास्ता है।", "Sadgun swarg ka sabse achha raasta hai."]},
+        {"word": ["exile", "वनवास, देश-निकाला", "vanvaas, desh-nikaala", "being sent away from home", "The Pandavas lived in exile.", "पांडव वनवास में रहे।", "Pandav vanvaas mein rahe."]},
+        {"word": ["heed", "ध्यान", "dhyaan", "attention", "Nakula paid no heed to the voice.", "नकुल ने आवाज़ पर ध्यान नहीं दिया।", "Nakul ne awaaz par dhyaan nahi diya."]},
+        {"word": ["divine", "दैवी", "daivi", "connected with God", "It was a divine voice.", "वह एक दैवी आवाज़ थी।", "Woh ek daivi awaaz thi."]},
+        {"word": ["boon", "वरदान", "vardaan", "a gift or blessing", "The Yaksha gave him a boon.", "यक्ष ने उसे वरदान दिया।", "Yaksha ne use vardaan diya."]},
+        {"word": ["contented", "संतुष्ट", "santusht", "happy with what you have", "A contented man is rich.", "संतुष्ट आदमी अमीर है।", "Santusht aadmi ameer hai."]},
+        {"sayw": ["virtue", "सद्गुण", "sadgun"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"book": true, "pairs": ["(A) शब्द को उसके मतलब से जोड़ो", "(A) Shabd ko uske matlab se jodo", "(A) Match the words with their meanings", [
+          ["symbol", "a sign used to represent something", "प्रतीक", "prateek"],
+          ["wander", "to walk slowly around without purpose", "भटकना", "bhatakna"],
+          ["vegetation", "the plants found in a particular area", "वनस्पति", "vanaspati"],
+          ["spirit", "an imaginary creature with magic powers", "आत्मा, प्रेत", "aatma, pret"]]]},
+        {"card": ["(B) एक शब्द में बताओ। पहला अक्षर दिया है।", "(B) Ek shabd mein batao. Pehla akshar diya hai.", "(B) Give one word. The first letter is given."]},
+        {"book": true, "q": ["a small area of still water, especially one that is artificial (p___)", "एक शब्द: p से", "Ek shabd: p se", ["pool", "pond", "puddle"], "pool"]},
+        {"book": true, "q": ["which is connected with God (d___)", "एक शब्द: d से", "Ek shabd: d se", ["divine", "devil", "danger"], "divine"]},
+        {"book": true, "q": ["a wild plant growing where it is not wanted (w___)", "एक शब्द: w से", "Ek shabd: w se", ["weed", "wood", "wheat"], "weed"]},
+        {"book": true, "q": ["behaviour that shows high moral standards (v___)", "एक शब्द: v से", "Ek shabd: v se", ["virtue", "victory", "voice"], "virtue"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 114-117 पर कहानी पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 114-117 par kahani padho, phir jawab do.", "Read the story on pages 114–117 of your book, then answer."]},
+        {"book": true, "q": ["What did Yudhishthira say to Nakula?", "युधिष्ठिर ने नकुल से क्या कहा?", "Yudhishthir ne Nakul se kya kaha?", ["Climb the tree and look for signs of water nearby.", "Go home and rest.", "Fight the Yaksha."], "Climb the tree and look for signs of water nearby.", "Yudhishthira told Nakula to climb a tree and look all over the forest for water, because trees, birds and plants are sure signs of water.", "युधिष्ठिर ने नकुल से पेड़ पर चढ़कर पूरे जंगल में पानी देखने को कहा, क्योंकि पेड़, पक्षी और पौधे पानी के पक्के निशान हैं।", "Yudhishthir ne Nakul se ped par chadhkar poore jungle mein paani dekhne ko kaha, kyonki ped, pakshi aur paudhe paani ke pakke nishaan hain."]},
+        {"book": true, "q": ["What did the voice from the pond say?", "तालाब की आवाज़ ने क्या कहा?", "Taalaab ki awaaz ne kya kaha?", ["Answer my questions before drinking, or you will die.", "Drink as much as you like.", "Go away from my forest."], "Answer my questions before drinking, or you will die.", "The voice said, ‘Stop! Do not drink the water till you have answered my questions. If you take even a drop before this, you may die at once.’", "आवाज़ ने कहा, ‘रुको! मेरे सवालों के जवाब दिए बिना पानी मत पियो। एक बूँद भी पी तो तुरंत मर सकते हो।’", "Awaaz ne kaha, ‘Ruko! Mere sawaalon ke jawab diye bina paani mat piyo. Ek boond bhi pi to turant mar sakte ho.’"]},
+        {"book": true, "q": ["Did Nakula pay heed to the voice?", "क्या नकुल ने आवाज़ पर ध्यान दिया?", "Kya Nakul ne awaaz par dhyaan diya?", ["No, he drank the water and fell dead.", "Yes, he answered all the questions."], "No, he drank the water and fell dead.", "No, Nakula paid no heed to the voice. He touched the water and fell dead.", "नहीं, नकुल ने ध्यान नहीं दिया। पानी छूते ही वह मर गया।", "Nahi, Nakul ne dhyaan nahi diya. Paani chhoote hi woh mar gaya."]},
+        {"book": true, "q": ["Which is one of the Yaksha's questions?", "यक्ष का एक सवाल कौन सा था?", "Yaksha ka ek sawaal kaun sa tha?", ["Which is the best road to Heaven?", "What is your name?", "Where is your palace?"], "Which is the best road to Heaven?", "Some of the Yaksha's questions: Which is the best road to Heaven? Which is the best of virtues? Which is the worst enemy of man? What is heavier than the earth and the clouds? What is the way to be happy?", "यक्ष के कुछ सवाल: स्वर्ग का सबसे अच्छा रास्ता? सबसे अच्छा गुण? इंसान का सबसे बड़ा दुश्मन? धरती और बादलों से भारी क्या? ख़ुश रहने का तरीक़ा?", "Yaksha ke kuchh sawaal: swarg ka sabse achha raasta? Sabse achha gun? Insaan ka sabse bada dushman? Dharti aur baadalon se bhaari kya? Khush rehne ka tareeqa?"]},
+        {"book": true, "q": ["Which is the best of all virtues?", "सबसे अच्छा गुण कौन सा है?", "Sabse achha gun kaun sa hai?", ["to hate none", "to be rich", "to be strong"], "to hate none", "The best virtue is to hate none.", "सबसे अच्छा गुण है किसी से नफ़रत न करना।", "Sabse achha gun hai kisi se nafrat na karna."]},
+        {"book": true, "q": ["Why did Yudhishthira wish to get back Nakula?", "युधिष्ठिर ने नकुल को ही क्यों माँगा?", "Yudhishthir ne Nakul ko hi kyon maanga?", ["So that one son of each mother, Kunti and Madri, stays alive.", "Because Nakula was the strongest.", "Because he did not love Bhima and Arjuna."], "So that one son of each mother, Kunti and Madri, stays alive.", "Yudhishthira was the son of Kunti and Nakula was the son of Madri. He wanted Nakula back so that one son of each mother would remain alive.", "युधिष्ठिर कुंती के बेटे थे और नकुल माद्री के। वे चाहते थे कि दोनों माताओं का एक-एक बेटा जीवित रहे।", "Yudhishthir Kunti ke bete the aur Nakul Maadri ke. Woh chahte the ki dono maataon ka ek-ek beta jeevit rahe."]},
+        {"book": true, "q": ["How did the four brothers come back to life?", "चारों भाई दोबारा कैसे जीवित हुए?", "Chaaron bhai dobaara kaise jeevit hue?", ["The Yaksha sprinkled water on them.", "A doctor treated them.", "They woke up on their own."], "The Yaksha sprinkled water on them.", "The Yaksha, who was really Dharma, the God of Justice, was pleased with Yudhishthira. He sprinkled some drops of water on the four brothers and they came back to life.", "यक्ष असल में धर्मराज (न्याय के देवता) थे। युधिष्ठिर से ख़ुश होकर उन्होंने चारों भाइयों पर पानी छिड़का और वे जीवित हो गए।", "Yaksha asal mein Dharmaraj (nyaay ke devta) the. Yudhishthir se khush hokar unhone chaaron bhaiyon par paani chhidka aur woh jeevit ho gaye."]},
+        {"book": true, "q": ["What moral do you draw from this story?", "इस कहानी की सीख?", "Is kahani ki seekh?", ["Virtue, patience and justice always pay.", "Strength is everything.", "Never drink water."], "Virtue, patience and justice always pay.", "The moral is that virtue pays. We should be patient, wise and just, and listen before we act.", "सीख: सद्गुण का फल मिलता है। हमें धैर्य, समझदारी और न्याय से काम लेना चाहिए, और करने से पहले सुनना चाहिए।", "Seekh: sadgun ka phal milta hai. Humein dhairya, samajhdaari aur nyaay se kaam lena chahiye, aur karne se pehle sunna chahiye."]},
+        {"card": ["(B) सही जवाब पर निशान लगाओ।", "(B) Sahi jawab par nishaan lagaao.", "(B) Tick the correct one."]},
+        {"book": true, "q": ["Yudhishthira was Nakula's ...", "युधिष्ठिर नकुल के क्या थे?", "Yudhishthir Nakul ke kya the?", ["half brother", "real brother", "cousin"], "half brother"]},
+        {"book": true, "q": ["Sahadeva wept for his ...", "सहदेव किसके लिए रोया?", "Sahdev kiske liye roya?", ["dead brother", "dead mother", "dead father"], "dead brother", "The book's answer is ‘dead brother’. (The story says he was so thirsty that he could not even weep for his brother.)", "किताब का जवाब ‘dead brother’ है। (कहानी में लिखा है कि प्यास के कारण वह भाई के लिए रो भी नहीं पाया।)", "Kitaab ka jawab ‘dead brother’ hai. (Kahani mein likha hai ki pyaas ke kaaran woh bhai ke liye ro bhi nahi paaya.)"]},
+        {"book": true, "q": ["Who paid special heed to the strange voice?", "किसने आवाज़ पर ध्यान दिया?", "Kisne awaaz par dhyaan diya?", ["Yudhishthira", "Arjuna", "Nakula"], "Yudhishthira"]},
+        {"book": true, "q": ["The Yaksha was highly pleased with ...", "यक्ष किससे बहुत ख़ुश हुआ?", "Yaksha kisse bahut khush hua?", ["Yudhishthira", "Nakula", "Arjuna"], "Yudhishthira"]}
+      ]
+    },
+    {
+      "emoji": "🔐", "title": ["सीखो (A, B): can, could, may, might", "Seekho (A, B): can, could, may, might", "Let's Learn (A, B): modals"], "book": true,
+      "skills": ["book.grammar", "grammar.can"],
+      "steps": [
+        {"card": ["can = योग्यता (I can swim), can't = नहीं कर सकते, could = बीते समय की योग्यता या विनम्र अनुमति, may = अनुमति (May I come in?), might/could = आगे की संभावना (It might rain)।", "can = yogyata (I can swim), can't = nahi kar sakte, could = beete samay ki yogyata ya vinamra anumati, may = anumati (May I come in?), might/could = aage ki sambhaavna (It might rain).", "can = ability, can't = inability, could = past ability or polite permission, may = permission, might/could = future possibility."]},
+        {"book": true, "fb": ["The weather report says it ___ rain today.", "might", ["might", "can't", "must"], "मौसम की ख़बर कहती है आज बारिश हो सकती है।", "Mausam ki khabar kehti hai aaj baarish ho sakti hai."]},
+        {"book": true, "fb": ["___ you read this poem for me, please?", "Could", ["Could", "May", "Might"], "क्या तुम मेरे लिए यह कविता पढ़ सकते हो?", "Kya tum mere liye yeh kavita padh sakte ho?"]},
+        {"book": true, "fb": ["He is a liar, what he says ___ be true.", "can't", ["can't", "can", "might"], "वह झूठा है, उसकी बात सच नहीं हो सकती।", "Woh jhootha hai, uski baat sach nahi ho sakti."]},
+        {"book": true, "fb": ["The new counter ___ open next Monday.", "will", ["will", "can't", "could"], "नया काउंटर अगले सोमवार को खुलेगा।", "Naya counter agle somvaar ko khulega."]},
+        {"book": true, "fb": ["___ I use your phone?", "May", ["May", "Might", "Must"], "क्या मैं तुम्हारा फ़ोन इस्तेमाल कर सकता हूँ?", "Kya main tumhaara phone istemaal kar sakta hoon?"]},
+        {"card": ["(B) इन हालात में modal वाला सवाल पूछो।", "(B) In haalaat mein modal waala sawaal poochho.", "(B) Ask a question with a modal in each situation."]},
+        {"book": true, "build": ["तुम आइसक्रीम खाना चाहते हो।", "Tum icecream khaana chahte ho.", "Ask politely for an ice-cream.", "May I have some ice-cream?", "क्या मुझे थोड़ी आइसक्रीम मिल सकती है?", "Kya mujhe thodi icecream mil sakti hai?"]},
+        {"book": true, "build": ["तुम जानना चाहते हो कि फ़ोन पर कौन है।", "Tum jaanna chahte ho ki phone par kaun hai.", "Ask who the caller is.", "May I know who is calling?", "क्या मैं जान सकता हूँ कि कौन बोल रहा है?", "Kya main jaan sakta hoon ki kaun bol raha hai?"]},
+        {"book": true, "build": ["तुम समय जानना चाहते हो।", "Tum samay jaanna chahte ho.", "Ask someone the time politely.", "Could you tell me the time?", "क्या आप मुझे समय बता सकते हैं?", "Kya aap mujhe samay bata sakte hain?"]}
+      ]
+    },
+    {
+      "emoji": "🏹", "title": ["सीखो (C): who वाले वाक्य", "Seekho (C): who waale vaakya", "Let's Learn (C): joining with ‘who’"], "book": true,
+      "skills": ["book.grammar", "grammar.relative"],
+      "steps": [
+        {"card": ["किसी के बारे में और जानकारी जोड़ने के लिए , who ... , लगाओ: Nakul, who was Madri's son, looked all over the forest.", "Kisi ke baare mein aur jaankaari jodne ke liye , who ... , lagaao: Nakul, who was Madri's son, looked all over the forest.", "Add extra information about a person with , who ... ,: Nakul, who was Madri's son, looked all over the forest."]},
+        {"book": true, "q": ["The Yaksha asked many questions. (a divine spirit)", "who से जोड़ो", "who se jodo", ["The Yaksha, who was a divine spirit, asked many questions.", "The Yaksha asked many questions, who was a divine spirit.", "The Yaksha, which was a divine spirit, asked many questions."], "The Yaksha, who was a divine spirit, asked many questions."]},
+        {"book": true, "q": ["Bhima paid no heed to the strange voice. (very strong)", "who से जोड़ो", "who se jodo", ["Bhima, who was very strong, paid no heed to the strange voice.", "Bhima paid no heed, who was very strong, to the voice.", "Bhima, whom was very strong, paid no heed to the strange voice."], "Bhima, who was very strong, paid no heed to the strange voice."]},
+        {"book": true, "q": ["Arjun was a great warrior. (very good at archery)", "who से जोड़ो", "who se jodo", ["Arjun, who was very good at archery, was a great warrior.", "Arjun was a great warrior who archery.", "Arjun, which was good at archery, was a great warrior."], "Arjun, who was very good at archery, was a great warrior."]},
+        {"book": true, "q": ["Sahadeva failed to return. (the youngest Pandava)", "who से जोड़ो", "who se jodo", ["Sahadeva, who was the youngest Pandava, failed to return.", "Sahadeva failed, who was the youngest, to return.", "Sahadeva, whose the youngest Pandava, failed to return."], "Sahadeva, who was the youngest Pandava, failed to return."]},
+        {"book": true, "q": ["Yudhishthira answered all the questions very well. (famous for his justice)", "who से जोड़ो", "who se jodo", ["Yudhishthira, who was famous for his justice, answered all the questions very well.", "Yudhishthira answered, who was famous, all the questions.", "Yudhishthira, which was famous for his justice, answered all the questions."], "Yudhishthira, who was famous for his justice, answered all the questions very well."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: यक्ष के सवाल", "Chalo baat karein: Yaksha ke sawaal", "Let's Talk: the Yaksha's questions"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब: एक समूह कॉलम A के सवाल पूछेगा, दूसरा कॉलम B से जवाब देगा। आज Tinku यक्ष है, तुम युधिष्ठिर!", "Kitaab: ek samooh column A ke sawaal poochhega, doosra column B se jawab dega. Aaj Tinku Yaksha hai, tum Yudhishthir!", "The book: one group asks the questions in column A, the other answers from column B. Today Tinku is the Yaksha and you are Yudhishthira!"]},
+        {"book": true, "type": "roleplay", "scene": "🪷", "turns": [
+          {"id": "road", "tinku": "Which is the best road to Heaven?", "meaning": ["स्वर्ग का सबसे अच्छा रास्ता कौन सा है?", "Swarg ka sabse achha raasta kaun sa hai?"],
+            "replies": [
+              {"say": "Virtue is the best road to Heaven.", "meaning": ["सद्गुण स्वर्ग का सबसे अच्छा रास्ता है।", "Sadgun swarg ka sabse achha raasta hai."], "patterns": ["virtue *", "virtue"]}
+            ]},
+          {"id": "enemy", "tinku": "Which is the worst enemy of man?", "meaning": ["इंसान का सबसे बड़ा दुश्मन कौन है?", "Insaan ka sabse bada dushman kaun hai?"],
+            "replies": [
+              {"say": "Anger is the worst enemy of man.", "meaning": ["क्रोध इंसान का सबसे बड़ा दुश्मन है।", "Krodh insaan ka sabse bada dushman hai."], "patterns": ["anger *", "anger"]}
+            ]},
+          {"id": "heavy", "tinku": "What is heavier than the earth and the clouds?", "meaning": ["धरती और बादलों से भारी क्या है?", "Dharti aur baadalon se bhaari kya hai?"],
+            "replies": [
+              {"say": "The love of parents.", "meaning": ["माता-पिता का प्यार।", "Maata-pita ka pyaar."], "patterns": ["the love of parents", "love of parents", "* parents *", "* parents"]}
+            ]},
+          {"id": "happy", "tinku": "What is the way to be happy?", "meaning": ["ख़ुश रहने का तरीक़ा क्या है?", "Khush rehne ka tareeqa kya hai?"],
+            "replies": [
+              {"say": "To tell the truth and be kind.", "meaning": ["सच बोलना और दयालु रहना।", "Sach bolna aur dayaalu rehna."], "patterns": ["to tell the truth *", "tell the truth *", "* truth *"], "next": "end"}
+            ]}
+        ]},
+        {"book": true, "pairs": ["सवाल को जवाब से जोड़ो", "Sawaal ko jawab se jodo", "Join each question to its answer", [
+          ["Which man is rich and poor at the same time?", "The man who has much but gives nothing.", "जिसके पास बहुत है पर देता कुछ नहीं", "jiske paas bahut hai par deta kuchh nahi"],
+          ["How may a poor man become rich?", "By being contented.", "संतोष से", "santosh se"],
+          ["Who is the greatest man?", "One who is unaffected by joy and sorrow.", "जिस पर सुख-दुख का असर न हो", "jis par sukh-dukh ka asar na ho"],
+          ["Who was Yaksha?", "The spirit of the woods.", "जंगल की आत्मा", "jungle ki aatma"],
+          ["Who was the eldest Pandava?", "Yudhishthira.", "युधिष्ठिर", "Yudhishthir"]]]}
+      ]
+    },
+    {
+      "emoji": "📔", "title": ["चलो पढ़ें: युधिष्ठिर की डायरी", "Chalo padhein: Yudhishthir ki diary", "Let's Read: Yudhishthira's diary"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 123 पर युधिष्ठिर की डायरी पढ़ो: सोमवार, शाम 4 बजे से 6 बजे तक क्या-क्या हुआ।", "Apni kitaab mein page 123 par Yudhishthir ki diary padho: somvaar, shaam 4 baje se 6 baje tak kya-kya hua.", "Read Yudhishthira's diary on page 123 of your book: what happened on Monday from 4 pm to 6 pm."]},
+        {"book": true, "q": ["Who was wandering in the forest?", "जंगल में कौन भटक रहा था?", "Jungle mein kaun bhatak raha tha?", ["the Pandavas", "the Kauravas", "the Yaksha"], "the Pandavas"]},
+        {"book": true, "q": ["When were the Pandavas wandering in the forest?", "पांडव कब भटक रहे थे?", "Pandav kab bhatak rahe the?", ["on Monday at 4 pm", "on Sunday at noon", "at midnight"], "on Monday at 4 pm"]},
+        {"book": true, "q": ["At what time did they feel thirsty?", "उन्हें प्यास कब लगी?", "Unhe pyaas kab lagi?", ["at 4.05 pm", "at 4.30 pm", "at 6 pm"], "at 4.05 pm"]},
+        {"book": true, "q": ["When did Yudhishthira order Nakula to bring water?", "नकुल को पानी लाने को कब कहा?", "Nakul ko paani laane ko kab kaha?", ["at 4.30 pm", "at 4.05 pm", "at 5 pm"], "at 4.30 pm"]},
+        {"book": true, "q": ["When did Yudhishthira himself go to the pool?", "युधिष्ठिर ख़ुद तालाब पर कब गए?", "Yudhishthir khud taalaab par kab gaye?", ["at 6 pm", "at 5.45 pm", "at 4.50 pm"], "at 6 pm"]}
+      ]
+    },
+    {
+      "emoji": "📞", "title": ["चलो लिखें: फ़ोन का संदेश", "Chalo likhein: phone ka sandesh", "Let's Write: a telephone message"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["संदेश के चार हिस्से: तारीख़ और समय, संबोधन (Nidhi), बात (content), और लिखने वाले का नाम। रीना ने फ़ोन किया: 26 नवंबर शाम 7 बजे डिफ़ेंस कॉलोनी के निरूला में जन्मदिन है, कल तक पक्का करना है। आभा, निधि के लिए संदेश लिखती है।", "Sandesh ke chaar hisse: taareekh aur samay, sambodhan (Nidhi), baat (content), aur likhne waale ka naam. Reena ne phone kiya: 26 November shaam 7 baje Defence Colony ke Nirula's mein janmdin hai, kal tak pakka karna hai. Abha, Nidhi ke liye sandesh likhti hai.", "A message has four parts: date and time, salutation (Nidhi), content, and the signatory. Reena called: her birthday is on 26th Nov at 7 pm at Nirula's, Defence Colony; please confirm by tomorrow. Abha writes the message for Nidhi."]},
+        {"book": true, "build": ["तुम्हारी दोस्त रीना ने फ़ोन किया था।", "Tumhaari dost Reena ne phone kiya tha.", "Start the message: say who called.", "Your friend Reena rang up.", "तुम्हारी दोस्त रीना ने फ़ोन किया था।", "Tumhaari dost Reena ne phone kiya tha."]},
+        {"book": true, "build": ["वह 26 नवंबर को अपना जन्मदिन मना रही है।", "Woh 26 November ko apna janmdin mana rahi hai.", "Tell what she is celebrating and when.", "She is celebrating her birthday on 26th November.", "वह 26 नवंबर को अपना जन्मदिन मना रही है।", "Woh 26 November ko apna janmdin mana rahi hai."]},
+        {"book": true, "build": ["शाम 7 बजे डिफ़ेंस कॉलोनी के निरूला पहुँचना।", "Shaam 7 baje Defence Colony ke Nirula's pahunchna.", "Tell the time and place to reach.", "Please reach Nirula's at 7 pm.", "कृपया शाम 7 बजे निरूला पहुँचना।", "Kripya shaam 7 baje Nirula's pahunchna."]},
+        {"book": true, "build": ["कल तक उसे पक्का बता देना।", "Kal tak use pakka bata dena.", "Ask Nidhi to reply by tomorrow.", "Please confirm by tomorrow.", "कल तक पक्का बता देना।", "Kal tak pakka bata dena."]},
+        {"book": true, "q": ["Who will sign this message?", "संदेश पर किसका नाम होगा?", "Sandesh par kiska naam hoga?", ["Abha", "Reena", "Nidhi"], "Abha"]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: महान कथाएँ", "Aur seekho: mahaan kathaayein", "Learn more: great stories"], "book": false,
+      "skills": ["vocab.meaning", "book.activity"],
+      "steps": [
+        {"card": ["किताब: महान लोगों और पौराणिक नायकों की और कहानियाँ पढ़ो और कक्षा में सुनाओ।", "Kitaab: mahaan logon aur pauraanik naayakon ki aur kahaniyaan padho aur kaksha mein sunaao.", "The book: read more stories of great people and mythological heroes and tell them in class."]},
+        {"q": ["Who wrote the Mahabharata?", "महाभारत किसने लिखी?", "Mahabharat kisne likhi?", ["Ved Vyas", "Valmiki", "Tulsidas"], "Ved Vyas"]},
+        {"q": ["How many Pandava brothers were there?", "पांडव कितने भाई थे?", "Pandav kitne bhai the?", ["five", "four", "a hundred"], "five"]},
+        {"q": ["Who was the Yaksha really?", "यक्ष असल में कौन थे?", "Yaksha asal mein kaun the?", ["Dharma, the God of Justice", "Indra, the king of gods", "a forest tiger"], "Dharma, the God of Justice"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 13 का टेस्ट", "Paath 13 ka test", "Lesson 13 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Which is the best of all virtues?", "सबसे अच्छा गुण", "Sabse achha gun", ["to hate none", "to be rich", "to be strong"], "to hate none"]},
+        {"book": true, "q": ["Which is the worst enemy of man?", "सबसे बड़ा दुश्मन", "Sabse bada dushman", ["anger", "hunger", "fear"], "anger"]},
+        {"book": true, "q": ["Why did Yudhishthira ask for Nakula?", "नकुल को क्यों माँगा?", "Nakul ko kyon maanga?", ["So that one son of each mother, Kunti and Madri, stays alive.", "Because Nakula was the strongest.", "Because he did not love Bhima and Arjuna."], "So that one son of each mother, Kunti and Madri, stays alive."]},
+        {"book": true, "q": ["Yudhishthira was Nakula's ...", "रिश्ता", "Rishta", ["half brother", "real brother", "cousin"], "half brother"]},
+        {"book": true, "skills": ["book.words"], "q": ["a wild plant growing where it is not wanted", "एक शब्द", "Ek shabd", ["weed", "wood", "wheat"], "weed"]},
+        {"book": true, "skills": ["book.words"], "q": ["wander means ...", "मतलब", "Matlab", ["to walk slowly around without purpose", "a sign", "a magic creature"], "to walk slowly around without purpose"]},
+        {"book": true, "skills": ["book.grammar", "grammar.can"], "fb": ["He is a liar, what he says ___ be true.", "can't", ["can't", "can", "might"], "उसकी बात सच नहीं हो सकती।", "Uski baat sach nahi ho sakti."]},
+        {"book": true, "skills": ["book.grammar", "grammar.can"], "fb": ["___ I use your phone?", "May", ["May", "Might", "Must"], "क्या मैं फ़ोन इस्तेमाल कर सकता हूँ?", "Kya main phone istemaal kar sakta hoon?"]},
+        {"book": true, "skills": ["book.grammar", "grammar.relative"], "q": ["Bhima paid no heed to the voice. (very strong)", "who से जोड़ो", "who se jodo", ["Bhima, who was very strong, paid no heed to the voice.", "Bhima paid no heed, who was very strong, to the voice.", "Bhima, whom was very strong, paid no heed to the voice."], "Bhima, who was very strong, paid no heed to the voice."]},
+        {"book": true, "q": ["When did Yudhishthira himself go to the pool?", "युधिष्ठिर कब गए?", "Yudhishthir kab gaye?", ["at 6 pm", "at 5.45 pm", "at 4.50 pm"], "at 6 pm"]}
+      ]
+    }
+  ]
+}

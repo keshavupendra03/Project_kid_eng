@@ -66,6 +66,7 @@ import com.samjhoenglish.ui.components.Tinku
 import com.samjhoenglish.ui.components.TinkuMood
 import com.samjhoenglish.ui.components.TinkuSays
 import com.samjhoenglish.ui.theme.Leaf
+import com.samjhoenglish.ui.theme.Sunny
 import com.samjhoenglish.ui.theme.Teal
 import kotlinx.coroutines.delay
 
@@ -185,6 +186,20 @@ private fun LessonPlayer(
                 Text(
                     UiStrings.reviewBadge.text(),
                     style = MaterialTheme.typography.labelLarge,
+                    modifier = Modifier.padding(horizontal = 14.dp, vertical = 4.dp),
+                )
+            }
+        }
+        if (step.id in state.bookSteps) {
+            Surface(
+                shape = RoundedCornerShape(50),
+                color = Sunny.copy(alpha = 0.45f),
+                modifier = Modifier.padding(start = 20.dp, top = 8.dp),
+            ) {
+                Text(
+                    UiStrings.bookQuestionBadge.text(),
+                    style = MaterialTheme.typography.labelLarge,
+                    color = MaterialTheme.colorScheme.onSurface,
                     modifier = Modifier.padding(horizontal = 14.dp, vertical = 4.dp),
                 )
             }

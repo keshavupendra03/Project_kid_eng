@@ -1,0 +1,148 @@
+{
+  "id": "B6.03.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.03.3.S02",
+    "B6.03.3.S04",
+    "B6.03.3.S05",
+    "B6.03.3.S06",
+    "B6.03.3.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.03.3.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "text": {
+        "hi": "नामों के पहले अक्षर बड़े लिखो (Laxmi Bai, Jhansi, Indian)। वाक्य के अंत में full stop लगाओ।",
+        "hinglish": "Naamon ke pehle akshar bade likho (Laxmi Bai, Jhansi, Indian). Vaakya ke ant mein full stop lagao.",
+        "en": "Names start with capital letters (Laxmi Bai, Jhansi, Indian). Put a full stop at the end of a sentence."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.3.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "question": "Which one has proper punctuation?",
+      "questionMeaning": {
+        "hi": "किसमें सही विराम चिह्न हैं?",
+        "hinglish": "Kismein sahi viraam chihn hain?"
+      },
+      "options": [
+        "Maharani Laxmi Bai was a brave queen. She fought against her enemies with great courage and is remembered in Indian history as Jhansi ki Rani.",
+        "maharani laxmi bai was a brave queen she fought against her enemies with great courage",
+        "Maharani laxmi bai was a brave Queen, she fought against her Enemies."
+      ],
+      "answer": "Maharani Laxmi Bai was a brave queen. She fought against her enemies with great courage and is remembered in Indian history as Jhansi ki Rani."
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.03.3.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "text": {
+        "hi": "‘and’ दो मिलती-जुलती बातों को जोड़ता है (और)। ‘but’ दो उल्टी बातों को जोड़ता है (लेकिन)। Ram is tall but Shyam is short.",
+        "hinglish": "‘and’ do milti-julti baaton ko jodta hai (aur). ‘but’ do ulti baaton ko jodta hai (lekin). Ram is tall but Shyam is short.",
+        "en": "‘and’ joins two similar ideas. ‘but’ joins two opposite ideas. Ram is tall but Shyam is short."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.3.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Ram ___ Shyam both like to play.",
+      "answer": "and",
+      "options": [
+        "and",
+        "but"
+      ],
+      "meaning": {
+        "hi": "राम और श्याम दोनों को खेलना पसंद है।",
+        "hinglish": "Ram aur Shyam dono ko khelna pasand hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.3.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Ram likes to go to school ___ Shyam does not like school at all.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "राम को स्कूल जाना पसंद है लेकिन श्याम को स्कूल बिल्कुल पसंद नहीं।",
+        "hinglish": "Ram ko school jaana pasand hai lekin Shyam ko school bilkul pasand nahi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.3.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Ram keeps his room neat ___ tidy.",
+      "answer": "and",
+      "options": [
+        "and",
+        "but"
+      ],
+      "meaning": {
+        "hi": "राम अपना कमरा साफ़ और सुथरा रखता है।",
+        "hinglish": "Ram apna kamra saaf aur suthra rakhta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.3.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Ram keeps his room tidy ___ Shyam keeps his room untidy.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "राम कमरा साफ़ रखता है लेकिन श्याम गंदा रखता है।",
+        "hinglish": "Ram kamra saaf rakhta hai lekin Shyam ganda rakhta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.3.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "The spider fell many times ___ it did not give up.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "मकड़ी कई बार गिरी लेकिन उसने हार नहीं मानी।",
+        "hinglish": "Makdi kai baar giri lekin usne haar nahi maani."
+      }
+    }
+  ]
+}

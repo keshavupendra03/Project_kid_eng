@@ -1,0 +1,258 @@
+{
+  "id": "B6.08.7",
+  "level": 6,
+  "bookSteps": [
+    "B6.08.7.S02",
+    "B6.08.7.S03",
+    "B6.08.7.S04",
+    "B6.08.7.S05",
+    "B6.08.7.S06",
+    "B6.08.7.S08",
+    "B6.08.7.S09",
+    "B6.08.7.S10",
+    "B6.08.7.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.08.7.S01",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "text": {
+        "hi": "किताब के पेज 48-50 पर पाठ 5 से 8 का दोहराव है।",
+        "hinglish": "Kitaab ke page 48-50 par paath 5 se 8 ka dohraav hai.",
+        "en": "Pages 48–50 of your book revise Lessons 5 to 8."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.7.S02",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "question": "rlee vlartt = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर",
+        "hinglish": "Uljhe akshar"
+      },
+      "options": [
+        "traveller",
+        "terrible",
+        "travel"
+      ],
+      "answer": "traveller"
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.7.S03",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "question": "teplahne = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर",
+        "hinglish": "Uljhe akshar"
+      },
+      "options": [
+        "elephant",
+        "planet",
+        "pentagon"
+      ],
+      "answer": "elephant"
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.7.S04",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "question": "roarw = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर",
+        "hinglish": "Uljhe akshar"
+      },
+      "options": [
+        "arrow",
+        "error",
+        "worry"
+      ],
+      "answer": "arrow"
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.7.S05",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "question": "tnoil = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर",
+        "hinglish": "Uljhe akshar"
+      },
+      "options": [
+        "lion",
+        "lotion",
+        "toil"
+      ],
+      "answer": "lion"
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.08.7.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "instruction": {
+        "hi": "एक को उसके बहुवचन से जोड़ो (किताब)",
+        "hinglish": "Ek ko uske bahuvachan se jodo (kitaab)",
+        "en": "Write the singular or plural (book)"
+      },
+      "pairs": [
+        {
+          "left": "knife",
+          "right": "knives",
+          "meaning": {
+            "hi": "चाकू",
+            "hinglish": "chaaku"
+          }
+        },
+        {
+          "left": "bush",
+          "right": "bushes",
+          "meaning": {
+            "hi": "झाड़ियाँ",
+            "hinglish": "jhaadiyaan"
+          }
+        },
+        {
+          "left": "fairy",
+          "right": "fairies",
+          "meaning": {
+            "hi": "परियाँ",
+            "hinglish": "pariyaan"
+          }
+        },
+        {
+          "left": "key",
+          "right": "keys",
+          "meaning": {
+            "hi": "चाबियाँ",
+            "hinglish": "chaabiyaan"
+          }
+        },
+        {
+          "left": "foot",
+          "right": "feet",
+          "meaning": {
+            "hi": "पैर",
+            "hinglish": "pair"
+          }
+        },
+        {
+          "left": "mouse",
+          "right": "mice",
+          "meaning": {
+            "hi": "चूहे",
+            "hinglish": "choohe"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.08.7.S07",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "text": {
+        "hi": "अब उल्टा: ‘says that’ वाले वाक्य को सीधे बोले गए शब्दों में लिखो। उदाहरण: Mala says that she wants to be a doctor. → Mala says, \"I want to be a doctor.\"",
+        "hinglish": "Ab ulta: ‘says that’ waale vaakya ko seedhe bole gaye shabdon mein likho. Udaharan: Mala says that she wants to be a doctor. → Mala says, \"I want to be a doctor.\"",
+        "en": "Now the other way: write ‘says that’ sentences as the exact spoken words. Example: Mala says that she wants to be a doctor. → Mala says, \"I want to be a doctor.\""
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.7.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Meena says that she wants to be an engineer. =",
+      "questionMeaning": {
+        "hi": "सीधे शब्दों में",
+        "hinglish": "Seedhe shabdon mein"
+      },
+      "options": [
+        "Meena says, \"I want to be an engineer.\"",
+        "Meena says, \"She wants to be an engineer.\"",
+        "Meena says I want engineer."
+      ],
+      "answer": "Meena says, \"I want to be an engineer.\""
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.7.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Gautam says that he wants to be a teacher. =",
+      "questionMeaning": {
+        "hi": "सीधे शब्दों में",
+        "hinglish": "Seedhe shabdon mein"
+      },
+      "options": [
+        "Gautam says, \"I want to be a teacher.\"",
+        "Gautam says, \"He wants to be a teacher.\"",
+        "Gautam says that I am a teacher."
+      ],
+      "answer": "Gautam says, \"I want to be a teacher.\""
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.7.S10",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "question": "What can the elephant do with its trunk?",
+      "questionMeaning": {
+        "hi": "हाथी सूँड से क्या कर सकता है?",
+        "hinglish": "Haathi soond se kya kar sakta hai?"
+      },
+      "options": [
+        "root up an oak, pull down a house or pick up a pin",
+        "fly in the sky",
+        "write a letter"
+      ],
+      "answer": "root up an oak, pull down a house or pick up a pin"
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.7.S11",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "question": "What do you think helped Mina?",
+      "questionMeaning": {
+        "hi": "मीना को किसने मदद की?",
+        "hinglish": "Mina ko kisne madad ki?"
+      },
+      "options": [
+        "her self-confidence and steady running",
+        "her height",
+        "luck only"
+      ],
+      "answer": "her self-confidence and steady running"
+    }
+  ]
+}

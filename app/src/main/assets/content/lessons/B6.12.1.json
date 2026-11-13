@@ -1,0 +1,180 @@
+{
+  "id": "B6.12.1",
+  "level": 6,
+  "bookSteps": [
+    "B6.12.1.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.12.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "यह अकबर-बीरबल का एक नाटक है। एक ग़रीब धोबी ठंडी नदी में पूरी रात खड़ा रहता है, पर उसे इनाम नहीं मिलता। बीरबल अपनी चतुराई से उसे इंसाफ़ दिलाते हैं!",
+        "hinglish": "Yeh Akbar-Birbal ka ek naatak hai. Ek gareeb dhobi thandi nadi mein poori raat khada rehta hai, par use inaam nahi milta. Birbal apni chaturaai se use insaaf dilaate hain!",
+        "en": "This is an Akbar-Birbal play. A poor washerman stands in a cold river all night but is not given the reward. Birbal cleverly gets him justice!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What was Birbal known for?",
+      "questionMeaning": {
+        "hi": "बीरबल किस बात के लिए मशहूर थे?",
+        "hinglish": "Birbal kis baat ke liye mashhoor the?"
+      },
+      "options": [
+        "his wisdom and wit",
+        "his strength",
+        "his singing"
+      ],
+      "answer": "his wisdom and wit",
+      "modelAnswer": "Birbal was known for his wisdom and wit. He was one of the nine gems (Navratnas) of Akbar's court.",
+      "modelMeaning": {
+        "hi": "बीरबल अपनी बुद्धि और हाज़िरजवाबी के लिए मशहूर थे। वे अकबर के दरबार के नवरत्नों में से एक थे।",
+        "hinglish": "Birbal apni buddhi aur haazirjawaabi ke liye mashhoor the. Woh Akbar ke darbaar ke navratnon mein se ek the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.12.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "courtier",
+        "emoji": "",
+        "hindi": "दरबारी",
+        "hinglish": "darbaari"
+      },
+      "meaning": "a person who works in a king's court",
+      "example": "The courtier bowed to the king.",
+      "exampleMeaning": {
+        "hi": "दरबारी ने राजा को झुककर प्रणाम किया।",
+        "hinglish": "Darbaari ne raja ko jhukkar pranaam kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.12.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "challenge",
+        "emoji": "",
+        "hindi": "चुनौती",
+        "hinglish": "chunauti"
+      },
+      "meaning": "a difficult task that tests you",
+      "example": "Climbing the hill was a challenge.",
+      "exampleMeaning": {
+        "hi": "पहाड़ी पर चढ़ना एक चुनौती थी।",
+        "hinglish": "Pahaadi par chadhna ek chunauti thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.12.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "reward",
+        "emoji": "",
+        "hindi": "इनाम",
+        "hinglish": "inaam"
+      },
+      "meaning": "something given for doing well",
+      "example": "He got a reward for his honesty.",
+      "exampleMeaning": {
+        "hi": "उसे ईमानदारी का इनाम मिला।",
+        "hinglish": "Use imaandaari ka inaam mila."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.12.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "shivering",
+        "emoji": "",
+        "hindi": "काँपना (ठंड से)",
+        "hinglish": "kaanpna (thand se)"
+      },
+      "meaning": "shaking because of cold or fear",
+      "example": "The boy was shivering in the cold.",
+      "exampleMeaning": {
+        "hi": "लड़का ठंड में काँप रहा था।",
+        "hinglish": "Ladka thand mein kaanp raha tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.12.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "justice",
+        "emoji": "",
+        "hindi": "इंसाफ़, न्याय",
+        "hinglish": "insaaf, nyaay"
+      },
+      "meaning": "fair treatment",
+      "example": "Birbal got justice for Denu.",
+      "exampleMeaning": {
+        "hi": "बीरबल ने देनू को इंसाफ़ दिलाया।",
+        "hinglish": "Birbal ne Denu ko insaaf dilaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.12.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "punctual",
+        "emoji": "",
+        "hindi": "समय का पाबंद",
+        "hinglish": "samay ka paaband"
+      },
+      "meaning": "always on time",
+      "example": "Our teacher is very punctual.",
+      "exampleMeaning": {
+        "hi": "हमारे टीचर समय के बहुत पाबंद हैं।",
+        "hinglish": "Hamare teacher samay ke bahut paaband hain."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B6.12.1.S09",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "justice",
+        "emoji": "",
+        "hindi": "इंसाफ़",
+        "hinglish": "insaaf"
+      }
+    }
+  ]
+}

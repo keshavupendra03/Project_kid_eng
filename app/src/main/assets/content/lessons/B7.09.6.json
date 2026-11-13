@@ -1,0 +1,110 @@
+{
+  "id": "B7.09.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.09.6.S02",
+    "B7.09.6.S03",
+    "B7.09.6.S04",
+    "B7.09.6.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.09.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब कहती है: सोचो तुम डॉ. दास हो। अपनी बहन को चिट्ठी लिखो कि घर कैसे ख़रीदा और बगीचे के लिए क्या सोचा है। ढाँचा: Shyamla Hills, Kolkata, January 15, 2003. Dear Meena, ... Yours affectionately, (नाम)।",
+        "hinglish": "Kitaab kehti hai: socho tum Dr. Dass ho. Apni behen ko chitthi likho ki ghar kaise khareeda aur bageeche ke liye kya socha hai. Dhaancha: Shyamla Hills, Kolkata, January 15, 2003. Dear Meena, ... Yours affectionately, (naam).",
+        "en": "The book says: imagine you are Dr. Dass. Write to your sister about how you bought the house and your plans for the garden. Format: Shyamla Hills, Kolkata, January 15, 2003. Dear Meena, ... Yours affectionately, (name)."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.09.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चिट्ठी: मैंने शांति भवन नाम का एक घर ख़रीदा है।",
+        "hinglish": "Chitthi: maine Shanti Bhawan naam ka ek ghar khareeda hai.",
+        "en": "Letter: say you have bought a house called Shanti Bhawan."
+      },
+      "answer": "I have bought a house called Shanti Bhawan.",
+      "meaning": {
+        "hi": "मैंने शांति भवन नाम का एक घर ख़रीदा है।",
+        "hinglish": "Maine Shanti Bhawan naam ka ek ghar khareeda hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.09.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चिट्ठी: लोग कहते थे वहाँ भूत आता है।",
+        "hinglish": "Chitthi: log kehte the wahan bhoot aata hai.",
+        "en": "Letter: say people said a ghost visited it."
+      },
+      "answer": "People said that a ghost visited the house.",
+      "meaning": {
+        "hi": "लोग कहते थे कि उस घर में भूत आता है।",
+        "hinglish": "Log kehte the ki us ghar mein bhoot aata hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.09.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चिट्ठी: पर भूत असल में एक लालची आदमी था।",
+        "hinglish": "Chitthi: par bhoot asal mein ek laalchi aadmi tha.",
+        "en": "Letter: say the ghost was really a greedy man."
+      },
+      "answer": "But the ghost was really a greedy man.",
+      "meaning": {
+        "hi": "पर भूत असल में एक लालची आदमी था।",
+        "hinglish": "Par bhoot asal mein ek laalchi aadmi tha."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.09.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चिट्ठी: मैं घर के बाहर फूलों का बगीचा लगाऊँगा।",
+        "hinglish": "Chitthi: main ghar ke baahar phoolon ka bageecha lagaaunga.",
+        "en": "Letter: say you will plant a flower garden outside the house."
+      },
+      "answer": "I will plant a flower garden outside the house.",
+      "meaning": {
+        "hi": "मैं घर के बाहर फूलों का बगीचा लगाऊँगा।",
+        "hinglish": "Main ghar ke baahar phoolon ka bageecha lagaaunga."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "How does Dr. Dass end the letter to his sister?",
+      "questionMeaning": {
+        "hi": "डॉ. दास बहन को चिट्ठी कैसे ख़त्म करते हैं?",
+        "hinglish": "Dr. Dass behen ko chitthi kaise khatm karte hain?"
+      },
+      "options": [
+        "Yours affectionately,",
+        "Yours obediently,",
+        "To, The Principal,"
+      ],
+      "answer": "Yours affectionately,"
+    }
+  ]
+}

@@ -1,0 +1,4249 @@
+{
+  "classes": [
+    {
+      "grade": 6,
+      "chapters": [
+        {
+          "id": "B6.01",
+          "number": 1,
+          "emoji": "🌳",
+          "title": "The Tree",
+          "pages": "1–5",
+          "sections": [
+            {
+              "id": "B6.01.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "नए शब्द",
+                "hinglish": "Naye shabd",
+                "en": "New words"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.01.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.01.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.01.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: big, bigger, biggest और Yes, I do",
+                "hinglish": "Grammar: big, bigger, biggest aur Yes, I do",
+                "en": "Grammar in Use: big, bigger, biggest and Yes, I do"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.01.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: पेड़ के फ़ायदे",
+                "hinglish": "Chalo baat karein: ped ke faayde",
+                "en": "Let's Talk: uses of trees"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.01.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: पेड़ों के फ़ायदे",
+                "hinglish": "Chalo likhein: pedon ke faayde",
+                "en": "Let's Write: uses of trees"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.01.7",
+              "emoji": "🍃",
+              "title": {
+                "hi": "चलो करके देखें: पेड़ पहचानो",
+                "hinglish": "Chalo karke dekhein: ped pehchaano",
+                "en": "Let's Do It: know your trees"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.01.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: पेड़ के हिस्से और एक कविता",
+                "hinglish": "Aur seekho: ped ke hisse aur ek kavita",
+                "en": "Learn more: parts of a tree and a poem"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.01.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 1 का टेस्ट",
+                "hinglish": "Paath 1 ka test",
+                "en": "Lesson 1 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.02",
+          "number": 2,
+          "emoji": "🎢",
+          "title": "The Swing",
+          "pages": "6–9",
+          "sections": [
+            {
+              "id": "B6.02.1",
+              "emoji": "🎵",
+              "title": {
+                "hi": "सुनो और दोहराओ",
+                "hinglish": "Suno aur dohraao",
+                "en": "Listen and Repeat"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.02.2",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो: कविता पूरी करो",
+                "hinglish": "Padho aur seekho: kavita poori karo",
+                "en": "Read and Learn: complete the poem"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.02.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: झूले से क्या दिखता है?",
+                "hinglish": "Shabd Shakti: jhoole se kya dikhta hai?",
+                "en": "Word Power: what can you see from a swing?"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.02.4",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.02.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: Can you?",
+                "hinglish": "Chalo baat karein: Can you?",
+                "en": "Let's Talk: Can you?"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.02.6",
+              "emoji": "🎨",
+              "title": {
+                "hi": "चलो करके देखें: झूले से दिखती दुनिया",
+                "hinglish": "Chalo karke dekhein: jhoole se dikhti duniya",
+                "en": "Let's Do It: the world from a swing"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.02.7",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: खेल का मैदान",
+                "hinglish": "Aur seekho: khel ka maidaan",
+                "en": "Learn more: the playground"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.02.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 2 का टेस्ट",
+                "hinglish": "Paath 2 ka test",
+                "en": "Lesson 2 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.03",
+          "number": 3,
+          "emoji": "🕷️",
+          "title": "The King and the Spider",
+          "pages": "10–15",
+          "sections": [
+            {
+              "id": "B6.03.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.03.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.03.3",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: विराम चिह्न, and / but",
+                "hinglish": "Grammar: viraam chihn, and / but",
+                "en": "Grammar in Use: punctuation, and / but"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.03.4",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.03.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें",
+                "hinglish": "Chalo baat karein",
+                "en": "Let's Talk"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.03.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: तस्वीर के बारे में",
+                "hinglish": "Chalo likhein: tasveer ke baare mein",
+                "en": "Let's Write: about the picture"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.03.7",
+              "emoji": "🐝",
+              "title": {
+                "hi": "चलो करके देखें: उपयोगी और हानिकारक कीड़े",
+                "hinglish": "Chalo karke dekhein: upyogi aur haanikaarak keede",
+                "en": "Let's Do It: useful and harmful insects"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.03.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: कभी हार मत मानो",
+                "hinglish": "Aur seekho: kabhi haar mat maano",
+                "en": "Learn more: never give up"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.03.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 3 का टेस्ट",
+                "hinglish": "Paath 3 ka test",
+                "en": "Lesson 3 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.04",
+          "number": 4,
+          "emoji": "👓",
+          "title": "My Childhood",
+          "pages": "16–24",
+          "sections": [
+            {
+              "id": "B6.04.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "नए शब्द",
+                "hinglish": "Naye shabd",
+                "en": "New words"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.04.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.04.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.04.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: बीता हुआ समय (past tense)",
+                "hinglish": "Grammar: beeta hua samay (past tense)",
+                "en": "Grammar in Use: the past tense"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.04.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: गांधीजी",
+                "hinglish": "Chalo baat karein: Gandhiji",
+                "en": "Let's Talk: Gandhiji"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.04.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: गांधीजी से क्या सीखें",
+                "hinglish": "Chalo likhein: Gandhiji se kya seekhein",
+                "en": "Let's Write: what we learn from Gandhiji"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.04.7",
+              "emoji": "🔁",
+              "title": {
+                "hi": "दोहराव 1 (पाठ 1–4)",
+                "hinglish": "Dohraav 1 (paath 1–4)",
+                "en": "Revision Exercises 1 (Lessons 1–4)"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.04.8",
+              "emoji": "📋",
+              "title": {
+                "hi": "तिमाही परीक्षा का अभ्यास",
+                "hinglish": "Timaahi pariksha ka abhyaas",
+                "en": "Quarterly exam practice"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.04.9",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: बापू",
+                "hinglish": "Aur seekho: Baapu",
+                "en": "Learn more: Bapu"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.04.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 4 का टेस्ट",
+                "hinglish": "Paath 4 ka test",
+                "en": "Lesson 4 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.05",
+          "number": 5,
+          "emoji": "⭐",
+          "title": "The Star",
+          "pages": "25–27",
+          "sections": [
+            {
+              "id": "B6.05.1",
+              "emoji": "🎵",
+              "title": {
+                "hi": "सुनो और दोहराओ",
+                "hinglish": "Suno aur dohraao",
+                "en": "Listen and Repeat"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.05.2",
+              "emoji": "🦇",
+              "title": {
+                "hi": "पढ़ो और सीखो: दो कविताएँ",
+                "hinglish": "Padho aur seekho: do kavitaayein",
+                "en": "Read and Learn: two poems"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.05.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.05.4",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: पूछताछ खिड़की",
+                "hinglish": "Chalo baat karein: poochhtaachh khidki",
+                "en": "Let's Talk: at the enquiry counter"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.05.5",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: रात का आसमान",
+                "hinglish": "Aur seekho: raat ka aasmaan",
+                "en": "Learn more: the night sky"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.05.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 5 का टेस्ट",
+                "hinglish": "Paath 5 ka test",
+                "en": "Lesson 5 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.06",
+          "number": 6,
+          "emoji": "🏹",
+          "title": "The Test",
+          "pages": "28–35",
+          "sections": [
+            {
+              "id": "B6.06.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.06.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.06.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Reading comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.06.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: बहुवचन और छोटे रूप",
+                "hinglish": "Grammar: bahuvachan aur chhote roop",
+                "en": "Grammar in Use: plurals and short forms"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.06.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: खेल",
+                "hinglish": "Chalo baat karein: khel",
+                "en": "Let's Talk: games"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.06.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: अर्जुन के बारे में",
+                "hinglish": "Chalo likhein: Arjun ke baare mein",
+                "en": "Let's Write: about Arjun"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.06.7",
+              "emoji": "🏸",
+              "title": {
+                "hi": "चलो करके देखें: घर के अंदर और बाहर के खेल",
+                "hinglish": "Chalo karke dekhein: ghar ke andar aur baahar ke khel",
+                "en": "Let's Do It: indoor and outdoor games"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.06.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: लक्ष्य पर ध्यान",
+                "hinglish": "Aur seekho: lakshya par dhyaan",
+                "en": "Learn more: focus on the goal"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.06.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 6 का टेस्ट",
+                "hinglish": "Paath 6 ka test",
+                "en": "Lesson 6 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.07",
+          "number": 7,
+          "emoji": "🏃‍♀️",
+          "title": "The Race",
+          "pages": "36–42",
+          "sections": [
+            {
+              "id": "B6.07.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.07.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.07.3",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: वह कहती है कि ... (says that)",
+                "hinglish": "Grammar: woh kehti hai ki ... (says that)",
+                "en": "Grammar in Use: says that ..."
+              },
+              "book": true
+            },
+            {
+              "id": "B6.07.4",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: तुम कौन सा खेल खेलते हो?",
+                "hinglish": "Chalo baat karein: tum kaun sa khel khelte ho?",
+                "en": "Let's Talk: which game do you play?"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.07.5",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: तस्वीरें देखकर",
+                "hinglish": "Chalo likhein: tasveerein dekhkar",
+                "en": "Let's Write: from the pictures"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.07.6",
+              "emoji": "🧺",
+              "title": {
+                "hi": "चलो करके देखें: पिकनिक का संदेश",
+                "hinglish": "Chalo karke dekhein: picnic ka sandesh",
+                "en": "Let's Do It: a picnic message"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.07.7",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: खेल दिवस",
+                "hinglish": "Aur seekho: khel diwas",
+                "en": "Learn more: Sports Day"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.07.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 7 का टेस्ट",
+                "hinglish": "Paath 7 ka test",
+                "en": "Lesson 7 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.08",
+          "number": 8,
+          "emoji": "🐘",
+          "title": "The Elephant",
+          "pages": "43–53",
+          "sections": [
+            {
+              "id": "B6.08.1",
+              "emoji": "🎵",
+              "title": {
+                "hi": "सुनो और दोहराओ",
+                "hinglish": "Suno aur dohraao",
+                "en": "Listen and Repeat"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.08.2",
+              "emoji": "🐾",
+              "title": {
+                "hi": "पढ़ो और सीखो: जानवरों के समूह",
+                "hinglish": "Padho aur seekho: jaanwaron ke samooh",
+                "en": "Read and Learn: groups of animals"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.08.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.08.4",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.08.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: मेरी नाम की पर्ची",
+                "hinglish": "Chalo baat karein: meri naam ki parchi",
+                "en": "Let's Talk: my name slip"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.08.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें",
+                "hinglish": "Chalo likhein",
+                "en": "Let's Write"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.08.7",
+              "emoji": "🔁",
+              "title": {
+                "hi": "दोहराव 2 (पाठ 5–8)",
+                "hinglish": "Dohraav 2 (paath 5–8)",
+                "en": "Revision Exercises 2 (Lessons 5–8)"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.08.8",
+              "emoji": "📋",
+              "title": {
+                "hi": "अर्धवार्षिक परीक्षा का अभ्यास",
+                "hinglish": "Ardhvaarshik pariksha ka abhyaas",
+                "en": "Half-yearly exam practice"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.08.9",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: हाथी के बारे में",
+                "hinglish": "Aur seekho: haathi ke baare mein",
+                "en": "Learn more: all about elephants"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.08.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 8 का टेस्ट",
+                "hinglish": "Paath 8 ka test",
+                "en": "Lesson 8 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.09",
+          "number": 9,
+          "emoji": "👞",
+          "title": "The Cobbler and the Fairies",
+          "pages": "54–60",
+          "sections": [
+            {
+              "id": "B6.09.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.09.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.09.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.09.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: एक से अनेक (f → ves)",
+                "hinglish": "Grammar: ek se anek (f → ves)",
+                "en": "Grammar in Use: one and many (f → ves)"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.09.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: अगर तुम परी होते",
+                "hinglish": "Chalo baat karein: agar tum pari hote",
+                "en": "Let's Talk: if you were a fairy"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.09.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: पहेलियाँ और काम",
+                "hinglish": "Chalo likhein: paheliyaan aur kaam",
+                "en": "Let's Write: riddles and jobs"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.09.7",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: दया और मदद",
+                "hinglish": "Aur seekho: daya aur madad",
+                "en": "Learn more: kindness and help"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.09.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 9 का टेस्ट",
+                "hinglish": "Paath 9 ka test",
+                "en": "Lesson 9 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.10",
+          "number": 10,
+          "emoji": "🍞",
+          "title": "A Kind Boy",
+          "pages": "61–64",
+          "sections": [
+            {
+              "id": "B6.10.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "नए शब्द",
+                "hinglish": "Naye shabd",
+                "en": "New words"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.10.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.10.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.10.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: is, are, was, were",
+                "hinglish": "Grammar: is, are, was, were",
+                "en": "Grammar in Use: is, are, was, were"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.10.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: छुट्टियाँ",
+                "hinglish": "Chalo baat karein: chhuttiyaan",
+                "en": "Let's Talk: holidays"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.10.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: चाचा को धन्यवाद पत्र",
+                "hinglish": "Chalo likhein: chacha ko dhanyavaad patra",
+                "en": "Let's Write: a thank-you letter to uncle"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.10.7",
+              "emoji": "🇮🇳",
+              "title": {
+                "hi": "चलो करके देखें: स्वतंत्रता सेनानी",
+                "hinglish": "Chalo karke dekhein: swatantrata senaani",
+                "en": "Let's Do It: freedom fighters"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.10.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: बाँटने की ख़ुशी",
+                "hinglish": "Aur seekho: baantne ki khushi",
+                "en": "Learn more: the joy of sharing"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.10.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 10 का टेस्ट",
+                "hinglish": "Paath 10 ka test",
+                "en": "Lesson 10 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.11",
+          "number": 11,
+          "emoji": "🌙",
+          "title": "A Moonbeam Comes",
+          "pages": "65–68",
+          "sections": [
+            {
+              "id": "B6.11.1",
+              "emoji": "🎵",
+              "title": {
+                "hi": "सुनो और दोहराओ",
+                "hinglish": "Suno aur dohraao",
+                "en": "Listen and Repeat"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.11.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Reading Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.11.3",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: मेले की ख़रीदारी",
+                "hinglish": "Chalo baat karein: mele ki khareedaari",
+                "en": "Let's Talk: shopping at the fair"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.11.4",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: तस्वीर के बारे में",
+                "hinglish": "Chalo likhein: tasveer ke baare mein",
+                "en": "Let's Write: about the picture"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.11.5",
+              "emoji": "🪐",
+              "title": {
+                "hi": "चलो करके देखें: ग्रहों के नाम",
+                "hinglish": "Chalo karke dekhein: grahon ke naam",
+                "en": "Let's Do It: names of the planets"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.11.6",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: चाँद",
+                "hinglish": "Aur seekho: chaand",
+                "en": "Learn more: the moon"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.11.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 11 का टेस्ट",
+                "hinglish": "Paath 11 ka test",
+                "en": "Lesson 11 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B6.12",
+          "number": 12,
+          "emoji": "👑",
+          "title": "Birbal and the Washerman",
+          "pages": "69–80",
+          "sections": [
+            {
+              "id": "B6.12.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.12.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: राजा की पहेली",
+                "hinglish": "Shabd Shakti: raja ki paheli",
+                "en": "Word Power: the king's crossword"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.12.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.12.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: विशेषण से क्रिया-विशेषण (-ly)",
+                "hinglish": "Grammar: visheshan se kriya-visheshan (-ly)",
+                "en": "Grammar in Use: adjectives to adverbs (-ly)"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.12.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: किसने क्या किया है?",
+                "hinglish": "Chalo baat karein: kisne kya kiya hai?",
+                "en": "Let's Talk: who has ...?"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.12.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: अकबर-बीरबल की कहानी",
+                "hinglish": "Chalo likhein: Akbar-Birbal ki kahani",
+                "en": "Let's Write: an Akbar-Birbal story"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.12.7",
+              "emoji": "🤴",
+              "title": {
+                "hi": "चलो करके देखें: अकबर के गुण",
+                "hinglish": "Chalo karke dekhein: Akbar ke gun",
+                "en": "Let's Do It: Akbar's qualities"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.12.8",
+              "emoji": "🔁",
+              "title": {
+                "hi": "दोहराव 3 (पाठ 9–12)",
+                "hinglish": "Dohraav 3 (paath 9–12)",
+                "en": "Revision Exercises 3 (Lessons 9–12)"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.12.9",
+              "emoji": "📋",
+              "title": {
+                "hi": "वार्षिक परीक्षा का अभ्यास",
+                "hinglish": "Vaarshik pariksha ka abhyaas",
+                "en": "Annual exam practice"
+              },
+              "book": true
+            },
+            {
+              "id": "B6.12.10",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: अकबर का दरबार",
+                "hinglish": "Aur seekho: Akbar ka darbaar",
+                "en": "Learn more: Akbar's court"
+              },
+              "book": false
+            },
+            {
+              "id": "B6.12.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 12 का टेस्ट",
+                "hinglish": "Paath 12 ka test",
+                "en": "Lesson 12 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 7,
+      "chapters": [
+        {
+          "id": "B7.01",
+          "number": 1,
+          "emoji": "🌈",
+          "title": "The Rainbow",
+          "pages": "1–5",
+          "sections": [
+            {
+              "id": "B7.01.1",
+              "emoji": "🎵",
+              "title": {
+                "hi": "सुनो और दोहराओ",
+                "hinglish": "Suno aur dohraao",
+                "en": "Listen and Repeat"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.01.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.01.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.01.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: pretty, prettier, prettiest",
+                "hinglish": "Grammar: pretty, prettier, prettiest",
+                "en": "Grammar in Use: pretty, prettier, prettiest"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.01.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें",
+                "hinglish": "Chalo baat karein",
+                "en": "Let's Talk"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.01.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें",
+                "hinglish": "Chalo likhein",
+                "en": "Let's Write"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.01.7",
+              "emoji": "🎨",
+              "title": {
+                "hi": "चलो करके देखें",
+                "hinglish": "Chalo karke dekhein",
+                "en": "Let's Do It"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.01.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: मौसम और आसमान",
+                "hinglish": "Aur seekho: mausam aur aasmaan",
+                "en": "Learn more: weather and sky"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.01.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 1 का टेस्ट",
+                "hinglish": "Paath 1 ka test",
+                "en": "Lesson 1 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.02",
+          "number": 2,
+          "emoji": "🐴",
+          "title": "The Wise Man-I",
+          "pages": "6–11",
+          "sections": [
+            {
+              "id": "B7.02.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.02.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.02.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.02.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: who से वाक्य जोड़ो",
+                "hinglish": "Grammar: who se vaakya jodo",
+                "en": "Grammar in Use: joining with ‘who’"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.02.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें",
+                "hinglish": "Chalo baat karein",
+                "en": "Let's Talk"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.02.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें",
+                "hinglish": "Chalo likhein",
+                "en": "Let's Write"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.02.7",
+              "emoji": "🌳",
+              "title": {
+                "hi": "चलो करके देखें: should",
+                "hinglish": "Chalo karke dekhein: should",
+                "en": "Let's Do It: should"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.02.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: बाज़ार की बातें",
+                "hinglish": "Aur seekho: baazaar ki baatein",
+                "en": "Learn more: at the market"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.02.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 2 का टेस्ट",
+                "hinglish": "Paath 2 ka test",
+                "en": "Lesson 2 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.03",
+          "number": 3,
+          "emoji": "🥭",
+          "title": "The Wise Man-II",
+          "pages": "12–17",
+          "sections": [
+            {
+              "id": "B7.03.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.03.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.03.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.03.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: to / for",
+                "hinglish": "Grammar: to / for",
+                "en": "Grammar in Use: to / for"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.03.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: अंडों वाली औरत",
+                "hinglish": "Chalo baat karein: andon waali aurat",
+                "en": "Let's Talk: the woman with the eggs"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.03.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: बाज़ार की सैर",
+                "hinglish": "Chalo likhein: baazaar ki sair",
+                "en": "Let's Write: a visit to the market"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.03.7",
+              "emoji": "🐻",
+              "title": {
+                "hi": "चलो करके देखें: दो दोस्त",
+                "hinglish": "Chalo karke dekhein: do dost",
+                "en": "Let's Do It: Two Friends"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.03.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: कहावतें और मध्य प्रदेश",
+                "hinglish": "Aur seekho: kahaavatein aur Madhya Pradesh",
+                "en": "Learn more: sayings and Madhya Pradesh"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.03.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 3 का टेस्ट",
+                "hinglish": "Paath 3 ka test",
+                "en": "Lesson 3 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.04",
+          "number": 4,
+          "emoji": "🐘",
+          "title": "Anita Feeds Appu",
+          "pages": "18–25",
+          "sections": [
+            {
+              "id": "B7.04.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.04.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.04.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: मतलब जोड़ो",
+                "hinglish": "Shabd Shakti: matlab jodo",
+                "en": "Word Power: Match the meanings"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.04.4",
+              "emoji": "🧩",
+              "title": {
+                "hi": "शब्द शक्ति: पहेली",
+                "hinglish": "Shabd Shakti: paheli",
+                "en": "Word Power: Crossword"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.04.5",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: bread, soap जैसे शब्द",
+                "hinglish": "Grammar: bread, soap jaise shabd",
+                "en": "Grammar in Use: bread, soap, paper"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.04.6",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें",
+                "hinglish": "Chalo baat karein",
+                "en": "Let's Talk"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.04.7",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें",
+                "hinglish": "Chalo likhein",
+                "en": "Let's Write"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.04.8",
+              "emoji": "🐾",
+              "title": {
+                "hi": "चलो करके देखें",
+                "hinglish": "Chalo karke dekhein",
+                "en": "Let's Do It"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.04.9",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: जानवरों की दुनिया",
+                "hinglish": "Aur seekho: jaanwaron ki duniya",
+                "en": "Learn more: the animal world"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.04.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 4 का टेस्ट",
+                "hinglish": "Paath 4 ka test",
+                "en": "Lesson 4 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.05",
+          "number": 5,
+          "emoji": "🚆",
+          "title": "The Crowded Train",
+          "pages": "26–33",
+          "sections": [
+            {
+              "id": "B7.05.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.05.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.05.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.05.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: Did से सवाल",
+                "hinglish": "Grammar: Did se sawaal",
+                "en": "Grammar in Use: questions with Did"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.05.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें",
+                "hinglish": "Chalo baat karein",
+                "en": "Let's Talk"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.05.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: यात्रा और छुट्टी की अर्ज़ी",
+                "hinglish": "Chalo likhein: yaatra aur chhutti ki arzi",
+                "en": "Let's Write: a journey and a leave application"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.05.7",
+              "emoji": "🚒",
+              "title": {
+                "hi": "चलो करके देखें: फ़ायर स्टेशन को फ़ोन",
+                "hinglish": "Chalo karke dekhein: fire station ko phone",
+                "en": "Let's Do It: calling the fire station"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.05.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: रेल यात्रा",
+                "hinglish": "Aur seekho: rail yaatra",
+                "en": "Learn more: train travel"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.05.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 5 का टेस्ट",
+                "hinglish": "Paath 5 ka test",
+                "en": "Lesson 5 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.06",
+          "number": 6,
+          "emoji": "🐈",
+          "title": "I Love Little Pussy",
+          "pages": "42–46",
+          "sections": [
+            {
+              "id": "B7.06.1",
+              "emoji": "🎵",
+              "title": {
+                "hi": "सुनो और दोहराओ",
+                "hinglish": "Suno aur dohraao",
+                "en": "Listen and Repeat"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.06.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.06.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: शब्द ढूँढो और homophones",
+                "hinglish": "Shabd Shakti: shabd dhoondho aur homophones",
+                "en": "Word Power: find words and homophones"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.06.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: as...as, -er than, the -est",
+                "hinglish": "Grammar: as...as, -er than, the -est",
+                "en": "Grammar in Use: as...as, -er than, the -est"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.06.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: कुत्ता या बिल्ली?",
+                "hinglish": "Chalo baat karein: kutta ya billi?",
+                "en": "Let's Talk: dog or cat?"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.06.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: बिल्ली के बारे में",
+                "hinglish": "Chalo likhein: billi ke baare mein",
+                "en": "Let's Write: about cats"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.06.7",
+              "emoji": "🐾",
+              "title": {
+                "hi": "चलो करके देखें: पालतू जानवर",
+                "hinglish": "Chalo karke dekhein: paaltu jaanwar",
+                "en": "Let's Do It: pet animals"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.06.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: बिल्ली की दुनिया",
+                "hinglish": "Aur seekho: billi ki duniya",
+                "en": "Learn more: all about cats"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.06.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 6 का टेस्ट",
+                "hinglish": "Paath 6 ka test",
+                "en": "Lesson 6 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.07",
+          "number": 7,
+          "emoji": "🐪",
+          "title": "The Lost Camel",
+          "pages": "47–55",
+          "sections": [
+            {
+              "id": "B7.07.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.07.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.07.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.07.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: क्रिया का सही रूप और Wh- सवाल",
+                "hinglish": "Grammar: kriya ka sahi roop aur Wh- sawaal",
+                "en": "Grammar in Use: verb forms and wh- questions"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.07.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: दोस्त से फ़ोन पर",
+                "hinglish": "Chalo baat karein: dost se phone par",
+                "en": "Let's Talk: a phone call with a friend"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.07.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: मैं खोया हुआ ऊँट हूँ",
+                "hinglish": "Chalo likhein: main khoya hua oont hoon",
+                "en": "Let's Write: I am the lost camel"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.07.7",
+              "emoji": "🐫",
+              "title": {
+                "hi": "चलो करके देखें: जानवर पहचानो और ऊँट के बारे में पढ़ो",
+                "hinglish": "Chalo karke dekhein: jaanwar pehchaano aur oont ke baare mein padho",
+                "en": "Let's Do It: name the animals and read about the camel"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.07.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: जासूस बनो!",
+                "hinglish": "Aur seekho: jaasoos bano!",
+                "en": "Learn more: be a detective!"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.07.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 7 का टेस्ट",
+                "hinglish": "Paath 7 ka test",
+                "en": "Lesson 7 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.08",
+          "number": 8,
+          "emoji": "🏅",
+          "title": "The Olympic Champion",
+          "pages": "56–62",
+          "sections": [
+            {
+              "id": "B7.08.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.08.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.08.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: छोटे रूप (-let, -ette)",
+                "hinglish": "Shabd Shakti: chhote roop (-let, -ette)",
+                "en": "Word Power: small forms (-let, -ette)"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.08.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: क्रिया के रूप और prepositions",
+                "hinglish": "Grammar: kriya ke roop aur prepositions",
+                "en": "Grammar in Use: verb forms and prepositions"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.08.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: दोस्त के बारे में पूछो",
+                "hinglish": "Chalo baat karein: dost ke baare mein poochho",
+                "en": "Let's Talk: ask your friend"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.08.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: तालिका से वाक्य और चिट्ठी",
+                "hinglish": "Chalo likhein: taalika se vaakya aur chitthi",
+                "en": "Let's Write: sentences from a table, and a letter"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.08.7",
+              "emoji": "📰",
+              "title": {
+                "hi": "चलो करके देखें: अख़बार पढ़ना",
+                "hinglish": "Chalo karke dekhein: akhbaar padhna",
+                "en": "Let's Do It: reading the newspaper"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.08.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: ओलंपिक और खेल",
+                "hinglish": "Aur seekho: Olympic aur khel",
+                "en": "Learn more: the Olympics and sports"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.08.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 8 का टेस्ट",
+                "hinglish": "Paath 8 ka test",
+                "en": "Lesson 8 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.09",
+          "number": 9,
+          "emoji": "👻",
+          "title": "The White Visitor",
+          "pages": "63–70",
+          "sections": [
+            {
+              "id": "B7.09.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.09.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.09.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: गुण और लोग",
+                "hinglish": "Shabd Shakti: gun aur log",
+                "en": "Word Power: qualities and people"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.09.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: phrases, कही बात (indirect speech), he/she/it",
+                "hinglish": "Grammar: phrases, kahi baat (indirect speech), he/she/it",
+                "en": "Grammar in Use: phrases, reported speech, he/she/it"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.09.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें",
+                "hinglish": "Chalo baat karein",
+                "en": "Let's Talk"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.09.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: डॉ. दास की चिट्ठी",
+                "hinglish": "Chalo likhein: Dr. Dass ki chitthi",
+                "en": "Let's Write: Dr. Dass's letter"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.09.7",
+              "emoji": "📚",
+              "title": {
+                "hi": "चलो करके देखें: कहानी सुनाओ",
+                "hinglish": "Chalo karke dekhein: kahani sunaao",
+                "en": "Let's Do It: tell a story"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.09.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: घर ख़रीदना",
+                "hinglish": "Aur seekho: ghar khareedna",
+                "en": "Learn more: buying a house"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.09.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 9 का टेस्ट",
+                "hinglish": "Paath 9 ka test",
+                "en": "Lesson 9 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.10",
+          "number": 10,
+          "emoji": "🚀",
+          "title": "The Modern Way",
+          "pages": "71–73",
+          "sections": [
+            {
+              "id": "B7.10.1",
+              "emoji": "🎵",
+              "title": {
+                "hi": "सुनो और दोहराओ",
+                "hinglish": "Suno aur dohraao",
+                "en": "Listen and Repeat"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.10.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.10.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: un- से उल्टा",
+                "hinglish": "Shabd Shakti: un- se ulta",
+                "en": "Word Power: opposites with un-"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.10.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: विराम चिह्न और शब्दों का क्रम",
+                "hinglish": "Grammar: viraam chihn aur shabdon ka kram",
+                "en": "Grammar in Use: punctuation and word order"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.10.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: ग्रह और अंतरिक्ष",
+                "hinglish": "Chalo baat karein: grah aur antariksh",
+                "en": "Let's Talk: planets and space"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.10.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: छूटी हुई लाइनें",
+                "hinglish": "Chalo likhein: chhooti hui lines",
+                "en": "Let's Write: the missing lines"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.10.7",
+              "emoji": "🌬️",
+              "title": {
+                "hi": "चलो करके देखें: प्रकृति की कविता",
+                "hinglish": "Chalo karke dekhein: prakriti ki kavita",
+                "en": "Let's Do It: a poem on nature"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.10.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: भारत और अंतरिक्ष",
+                "hinglish": "Aur seekho: Bharat aur antariksh",
+                "en": "Learn more: India in space"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.10.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 10 का टेस्ट",
+                "hinglish": "Paath 10 ka test",
+                "en": "Lesson 10 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.11",
+          "number": 11,
+          "emoji": "🔥",
+          "title": "Lohri",
+          "pages": "80–85",
+          "sections": [
+            {
+              "id": "B7.11.1",
+              "emoji": "🎵",
+              "title": {
+                "hi": "सुनो और दोहराओ",
+                "hinglish": "Suno aur dohraao",
+                "en": "Listen and Repeat"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.11.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.11.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.11.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: prepositions और indirect speech",
+                "hinglish": "Grammar: prepositions aur indirect speech",
+                "en": "Grammar in Use: prepositions and indirect speech"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.11.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: त्योहार",
+                "hinglish": "Chalo baat karein: tyohaar",
+                "en": "Let's Talk: festivals"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.11.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: होली",
+                "hinglish": "Chalo likhein: Holi",
+                "en": "Let's Write: Holi"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.11.7",
+              "emoji": "🎊",
+              "title": {
+                "hi": "चलो करके देखें: त्योहार पहचानो",
+                "hinglish": "Chalo karke dekhein: tyohaar pehchaano",
+                "en": "Let's Do It: name the festival"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.11.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: पर्यावरण बचाकर त्योहार",
+                "hinglish": "Aur seekho: paryaavaran bachaakar tyohaar",
+                "en": "Learn more: green festivals"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.11.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 11 का टेस्ट",
+                "hinglish": "Paath 11 ka test",
+                "en": "Lesson 11 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.12",
+          "number": 12,
+          "emoji": "🎡",
+          "title": "One-Way Ticket-I",
+          "pages": "86–92",
+          "sections": [
+            {
+              "id": "B7.12.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.12.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.12.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.12.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: वाक्य जोड़ना और too ... to",
+                "hinglish": "Grammar: vaakya jodna aur too ... to",
+                "en": "Grammar in Use: joining sentences and too ... to"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.12.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: कपड़े और गुण",
+                "hinglish": "Chalo baat karein: kapde aur gun",
+                "en": "Let's Talk: clothes and qualities"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.12.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें",
+                "hinglish": "Chalo likhein",
+                "en": "Let's Write"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.12.7",
+              "emoji": "🖼️",
+              "title": {
+                "hi": "चलो करके देखें: तस्वीर का वर्णन",
+                "hinglish": "Chalo karke dekhein: tasveer ka varnan",
+                "en": "Let's Do It: describe a picture"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.12.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: मेले की सैर",
+                "hinglish": "Aur seekho: mele ki sair",
+                "en": "Learn more: a day at the fair"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.12.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 12 का टेस्ट",
+                "hinglish": "Paath 12 ka test",
+                "en": "Lesson 12 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.13",
+          "number": 13,
+          "emoji": "🎠",
+          "title": "One-Way Ticket-II",
+          "pages": "93–100",
+          "sections": [
+            {
+              "id": "B7.13.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.13.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.13.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.13.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: वाक्य जोड़ो, too, विराम चिह्न",
+                "hinglish": "Grammar: vaakya jodo, too, viraam chihn",
+                "en": "Grammar in Use: joining, too, punctuation"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.13.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: मेले की पसंद",
+                "hinglish": "Chalo baat karein: mele ki pasand",
+                "en": "Let's Talk: favourites at the fair"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.13.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: सोनम का काम",
+                "hinglish": "Chalo likhein: Sonam ka kaam",
+                "en": "Let's Write: Sonam's plan"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.13.7",
+              "emoji": "🎪",
+              "title": {
+                "hi": "चलो करके देखें: मेले की चीज़ें",
+                "hinglish": "Chalo karke dekhein: mele ki cheezein",
+                "en": "Let's Do It: things at a fair"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.13.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: पैसे बचाना",
+                "hinglish": "Aur seekho: paise bachaana",
+                "en": "Learn more: saving money"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.13.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 13 का टेस्ट",
+                "hinglish": "Paath 13 ka test",
+                "en": "Lesson 13 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B7.14",
+          "number": 14,
+          "emoji": "🏯",
+          "title": "A Visit to Orchha",
+          "pages": "101–108",
+          "sections": [
+            {
+              "id": "B7.14.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.14.2",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.14.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.14.4",
+              "emoji": "✏️",
+              "title": {
+                "hi": "ग्रामर: सवाल की indirect speech और शब्दों के रूप",
+                "hinglish": "Grammar: sawaal ki indirect speech aur shabdon ke roop",
+                "en": "Grammar in Use: reported questions and word forms"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.14.5",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: कान्हा की सैर का प्लान",
+                "hinglish": "Chalo baat karein: Kanha ki sair ka plan",
+                "en": "Let's Talk: planning a visit to Kanha"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.14.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: कान्हा की सैर पर चिट्ठी",
+                "hinglish": "Chalo likhein: Kanha ki sair par chitthi",
+                "en": "Let's Write: a letter about Kanha"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.14.7",
+              "emoji": "🖌️",
+              "title": {
+                "hi": "चलो करके देखें: भीमबेटका",
+                "hinglish": "Chalo karke dekhein: Bhimbetka",
+                "en": "Let's Do It: Bhimbetka"
+              },
+              "book": true
+            },
+            {
+              "id": "B7.14.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: मध्य प्रदेश की धरोहर",
+                "hinglish": "Aur seekho: Madhya Pradesh ki dharohar",
+                "en": "Learn more: the heritage of Madhya Pradesh"
+              },
+              "book": false
+            },
+            {
+              "id": "B7.14.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 14 का टेस्ट",
+                "hinglish": "Paath 14 ka test",
+                "en": "Lesson 14 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 8,
+      "chapters": [
+        {
+          "id": "B8.01",
+          "number": 1,
+          "emoji": "🌅",
+          "title": "Another Chance",
+          "pages": "1–5",
+          "sections": [
+            {
+              "id": "B8.01.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.01.2",
+              "emoji": "👂",
+              "title": {
+                "hi": "सुनो और दोहराओ: तुकबंदी",
+                "hinglish": "Suno aur dohraao: tukbandi",
+                "en": "Listen and Repeat: rhyming sounds"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.01.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.01.4",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.01.5",
+              "emoji": "🐦",
+              "title": {
+                "hi": "चलो पढ़ें: दो कौवे",
+                "hinglish": "Chalo padhein: do kauve",
+                "en": "Let's Read: the two crows"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.01.6",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: परीक्षा से पहले की रात",
+                "hinglish": "Chalo likhein: pariksha se pehle ki raat",
+                "en": "Let's Write: a night before the examination"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.01.7",
+              "emoji": "🔢",
+              "title": {
+                "hi": "चलो करके देखें: गुप्त संदेश",
+                "hinglish": "Chalo karke dekhein: gupt sandesh",
+                "en": "Let's Do It: the secret message"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.01.8",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: उम्मीद की कहावतें",
+                "hinglish": "Aur seekho: ummeed ki kahaavatein",
+                "en": "Learn more: sayings about hope"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.01.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 1 का टेस्ट",
+                "hinglish": "Paath 1 ka test",
+                "en": "Lesson 1 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.02",
+          "number": 2,
+          "emoji": "🐅",
+          "title": "Thrills of Kanha Kisli",
+          "pages": "6–14",
+          "sections": [
+            {
+              "id": "B8.02.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.02.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति (A): शब्दकोश का क्रम",
+                "hinglish": "Shabd Shakti (A): shabdkosh ka kram",
+                "en": "Word Power (A): dictionary order"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.02.3",
+              "emoji": "🧂",
+              "title": {
+                "hi": "शब्द शक्ति (B): जोड़ी वाले शब्द",
+                "hinglish": "Shabd Shakti (B): jodi waale shabd",
+                "en": "Word Power (B): binomials"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.02.4",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.02.5",
+              "emoji": "🐄",
+              "title": {
+                "hi": "सीखो (1): बहुवचन",
+                "hinglish": "Seekho (1): bahuvachan",
+                "en": "Let's Learn (1): plurals"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.02.6",
+              "emoji": "🧩",
+              "title": {
+                "hi": "सीखो (2): बहुवचन की पहेली",
+                "hinglish": "Seekho (2): bahuvachan ki paheli",
+                "en": "Let's Learn (2): the plurals crossword"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.02.7",
+              "emoji": "🦁",
+              "title": {
+                "hi": "सीखो (3, 4): लिंग बदलो",
+                "hinglish": "Seekho (3, 4): ling badlo",
+                "en": "Let's Learn (3, 4): change the gender"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.02.8",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: राहुल ने कहा कि...",
+                "hinglish": "Chalo baat karein: Rahul ne kaha ki...",
+                "en": "Let's Talk: Rahul said that..."
+              },
+              "book": true
+            },
+            {
+              "id": "B8.02.9",
+              "emoji": "🐯",
+              "title": {
+                "hi": "चलो पढ़ें: बाघ",
+                "hinglish": "Chalo padhein: baagh",
+                "en": "Let's Read: tigers"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.02.10",
+              "emoji": "✉️",
+              "title": {
+                "hi": "चलो लिखें: दोस्त को चिट्ठी",
+                "hinglish": "Chalo likhein: dost ko chitthi",
+                "en": "Let's Write: a letter to a friend"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.02.11",
+              "emoji": "🗺️",
+              "title": {
+                "hi": "चलो करके देखें: भारत के नेशनल पार्क",
+                "hinglish": "Chalo karke dekhein: Bharat ke National Park",
+                "en": "Let's Do It: National Parks of India"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.02.12",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: कान्हा का बारहसिंगा",
+                "hinglish": "Aur seekho: Kanha ka baarahsingha",
+                "en": "Learn more: Kanha's barasingha"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.02.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 2 का टेस्ट",
+                "hinglish": "Paath 2 ka test",
+                "en": "Lesson 2 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.03",
+          "number": 3,
+          "emoji": "💍",
+          "title": "The Ungrateful Jeweller",
+          "pages": "15–24",
+          "sections": [
+            {
+              "id": "B8.03.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.03.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: मिलान और ‘करने वाले’",
+                "hinglish": "Shabd Shakti: milaan aur ‘karne waale’",
+                "en": "Word Power: match and name the doer"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.03.3",
+              "emoji": "🙏",
+              "title": {
+                "hi": "शब्द शक्ति (C): -ful वाले शब्द",
+                "hinglish": "Shabd Shakti (C): -ful waale shabd",
+                "en": "Word Power (C): adjectives with -ful"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.03.4",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.03.5",
+              "emoji": "🐘",
+              "title": {
+                "hi": "सीखो (A): a, an, the",
+                "hinglish": "Seekho (A): a, an, the",
+                "en": "Let's Learn (A): articles"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.03.6",
+              "emoji": "📊",
+              "title": {
+                "hi": "सीखो (B): विशेषण की डिग्री",
+                "hinglish": "Seekho (B): visheshan ki degree",
+                "en": "Let's Learn (B): degrees of adjectives"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.03.7",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: नोबेल पुरस्कार",
+                "hinglish": "Chalo baat karein: Nobel puraskaar",
+                "en": "Let's Talk: the Nobel Prize"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.03.8",
+              "emoji": "📰",
+              "title": {
+                "hi": "चलो पढ़ें: अख़बार की ख़बरें",
+                "hinglish": "Chalo padhein: akhbaar ki khabrein",
+                "en": "Let's Read: newspaper cuttings"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.03.9",
+              "emoji": "✒️",
+              "title": {
+                "hi": "चलो लिखें (I): विराम चिह्न",
+                "hinglish": "Chalo likhein (I): viraam chihn",
+                "en": "Let's Write (I): punctuation"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.03.10",
+              "emoji": "🍬",
+              "title": {
+                "hi": "चलो लिखें (II): अजनबी से खाना मत लो",
+                "hinglish": "Chalo likhein (II): ajnabi se khaana mat lo",
+                "en": "Let's Write (II): never take food from strangers"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.03.11",
+              "emoji": "🏳️",
+              "title": {
+                "hi": "चलो करके देखें: आदर्श वाक्य (Mottos)",
+                "hinglish": "Chalo karke dekhein: aadarsh vaakya (Mottos)",
+                "en": "Let's Do It: mottos"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.03.12",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: भारत के नोबेल विजेता",
+                "hinglish": "Aur seekho: Bharat ke Nobel vijeta",
+                "en": "Learn more: India's Nobel winners"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.03.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 3 का टेस्ट",
+                "hinglish": "Paath 3 ka test",
+                "en": "Lesson 3 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.04",
+          "number": 4,
+          "emoji": "🌳",
+          "title": "Trees : Our Saviours",
+          "pages": "25–33",
+          "sections": [
+            {
+              "id": "B8.04.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.04.2",
+              "emoji": "🚫",
+              "title": {
+                "hi": "शब्द शक्ति (A): dis- और un-",
+                "hinglish": "Shabd Shakti (A): dis- aur un-",
+                "en": "Word Power (A): dis- and un-"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.04.3",
+              "emoji": "🧥",
+              "title": {
+                "hi": "शब्द शक्ति (B): मिलते-जुलते शब्द",
+                "hinglish": "Shabd Shakti (B): milte-julte shabd",
+                "en": "Word Power (B): confusing pairs"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.04.4",
+              "emoji": "🧩",
+              "title": {
+                "hi": "शब्द शक्ति (C): संयुक्त शब्द",
+                "hinglish": "Shabd Shakti (C): sanyukt shabd",
+                "en": "Word Power (C): compound words"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.04.5",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.04.6",
+              "emoji": "🥭",
+              "title": {
+                "hi": "सीखो (A): सर्वनाम",
+                "hinglish": "Seekho (A): sarvanaam",
+                "en": "Let's Learn (A): pronouns"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.04.7",
+              "emoji": "🚂",
+              "title": {
+                "hi": "सीखो (B): Past Perfect Tense",
+                "hinglish": "Seekho (B): Past Perfect Tense",
+                "en": "Let's Learn (B): the past perfect tense"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.04.8",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: सवाल बनाओ",
+                "hinglish": "Chalo baat karein: sawaal banao",
+                "en": "Let's Talk: frame the questions"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.04.9",
+              "emoji": "📌",
+              "title": {
+                "hi": "चलो पढ़ें: स्कूल का नोटिस",
+                "hinglish": "Chalo padhein: school ka notice",
+                "en": "Let's Read: the school notice"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.04.10",
+              "emoji": "✉️",
+              "title": {
+                "hi": "चलो लिखें: संपादक को पत्र",
+                "hinglish": "Chalo likhein: sampaadak ko patra",
+                "en": "Let's Write: a letter to the editor"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.04.11",
+              "emoji": "🌲",
+              "title": {
+                "hi": "चलो करके देखें: पेड़ और उनके उपयोग",
+                "hinglish": "Chalo karke dekhein: ped aur unke upyog",
+                "en": "Let's Do It: trees and their uses"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.04.12",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: पेड़ बचाने वाले",
+                "hinglish": "Aur seekho: ped bachaane waale",
+                "en": "Learn more: tree savers"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.04.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 4 का टेस्ट",
+                "hinglish": "Paath 4 ka test",
+                "en": "Lesson 4 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.05",
+          "number": 5,
+          "emoji": "💰",
+          "title": "The Miser and his Gold",
+          "pages": "34–42",
+          "sections": [
+            {
+              "id": "B8.05.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "कविता पढ़ो",
+                "hinglish": "Kavita padho",
+                "en": "Read the poem"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.05.2",
+              "emoji": "👂",
+              "title": {
+                "hi": "पढ़ो और सीखो: तुकबंदी",
+                "hinglish": "Padho aur seekho: tukbandi",
+                "en": "Read and Learn: rhyming words"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.05.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: मतलब और उल्टे शब्द",
+                "hinglish": "Shabd Shakti: matlab aur ulte shabd",
+                "en": "Word Power: meanings and antonyms"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.05.4",
+              "emoji": "🤫",
+              "title": {
+                "hi": "शब्द शक्ति (C): चुप अक्षर",
+                "hinglish": "Shabd Shakti (C): chup akshar",
+                "en": "Word Power (C): silent letters"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.05.5",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.05.6",
+              "emoji": "3️⃣",
+              "title": {
+                "hi": "चलो पढ़ें और लिखें: ज़िंदगी की तीन बातें",
+                "hinglish": "Chalo padhein aur likhein: zindagi ki teen baatein",
+                "en": "Let's Read and Write: three things in life"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.05.7",
+              "emoji": "🔁",
+              "title": {
+                "hi": "दोहराव 1: शब्द और समझ",
+                "hinglish": "Dohraav 1: shabd aur samajh",
+                "en": "Revision Exercises 1: words and comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.05.8",
+              "emoji": "🐢",
+              "title": {
+                "hi": "दोहराव 1: ग्रामर और पढ़ना",
+                "hinglish": "Dohraav 1: grammar aur padhna",
+                "en": "Revision Exercises 1: grammar and reading"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.05.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 5 का टेस्ट",
+                "hinglish": "Paath 5 ka test",
+                "en": "Lesson 5 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.06",
+          "number": 6,
+          "emoji": "🎨",
+          "title": "Measure for Measure",
+          "pages": "47–55",
+          "sections": [
+            {
+              "id": "B8.06.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.06.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: गलत शब्द बदलो",
+                "hinglish": "Shabd Shakti: galat shabd badlo",
+                "en": "Word Power: replace the wrong words"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.06.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.06.4",
+              "emoji": "❔",
+              "title": {
+                "hi": "सीखो (A, B): सवाल बनाना",
+                "hinglish": "Seekho (A, B): sawaal banaana",
+                "en": "Let's Learn (A, B): making questions"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.06.5",
+              "emoji": "🏠",
+              "title": {
+                "hi": "सीखो (C, D): नकारात्मक और प्रश्नवाचक",
+                "hinglish": "Seekho (C, D): nakaaraatmak aur prashnavaachak",
+                "en": "Let's Learn (C, D): negative and interrogative"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.06.6",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: अशोक और राजू",
+                "hinglish": "Chalo baat karein: Ashok aur Raju",
+                "en": "Let's Talk: Ashok and Raju"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.06.7",
+              "emoji": "🏍️",
+              "title": {
+                "hi": "चलो पढ़ें: पंक्चर ठीक करने का फ़्लो चार्ट",
+                "hinglish": "Chalo padhein: puncture theek karne ka flow chart",
+                "en": "Let's Read: a flow chart to repair a puncture"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.06.8",
+              "emoji": "🚉",
+              "title": {
+                "hi": "चलो लिखें: स्टेशन का नज़ारा",
+                "hinglish": "Chalo likhein: station ka nazaara",
+                "en": "Let's Write: describe the railway station"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.06.9",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: चतुर दरबारी",
+                "hinglish": "Aur seekho: chatur darbaari",
+                "en": "Learn more: clever courtiers"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.06.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 6 का टेस्ट",
+                "hinglish": "Paath 6 ka test",
+                "en": "Lesson 6 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.07",
+          "number": 7,
+          "emoji": "🌊",
+          "title": "Water Water Everywhere",
+          "pages": "56–65",
+          "sections": [
+            {
+              "id": "B8.07.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.07.2",
+              "emoji": "👂",
+              "title": {
+                "hi": "शब्द शक्ति: एक जैसी आवाज़ वाले शब्द",
+                "hinglish": "Shabd Shakti: ek jaisi awaaz waale shabd",
+                "en": "Word Power: homophones"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.07.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.07.4",
+              "emoji": "🔗",
+              "title": {
+                "hi": "सीखो (A): and, but, or",
+                "hinglish": "Seekho (A): and, but, or",
+                "en": "Let's Learn (A): and, but, or"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.07.5",
+              "emoji": "🔁",
+              "title": {
+                "hi": "सीखो (B): उपसर्ग (prefix)",
+                "hinglish": "Seekho (B): upsarg (prefix)",
+                "en": "Let's Learn (B): prefixes"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.07.6",
+              "emoji": "🧱",
+              "title": {
+                "hi": "सीखो (C): वाक्य सही क्रम में लगाओ",
+                "hinglish": "Seekho (C): vaakya sahi kram mein lagaao",
+                "en": "Let's Learn (C): rearrange the words"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.07.7",
+              "emoji": "🎫",
+              "title": {
+                "hi": "चलो बात करें: रेल टिकट",
+                "hinglish": "Chalo baat karein: rail ticket",
+                "en": "Let's Talk: a railway ticket"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.07.8",
+              "emoji": "🦟",
+              "title": {
+                "hi": "चलो पढ़ें: मच्छरों से होने वाली बीमारियाँ",
+                "hinglish": "Chalo padhein: machchharon se hone waali beemaariyaan",
+                "en": "Let's Read: diseases from mosquitoes"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.07.9",
+              "emoji": "🤒",
+              "title": {
+                "hi": "चलो लिखें: कक्षा का सर्वे",
+                "hinglish": "Chalo likhein: kaksha ka survey",
+                "en": "Let's Write: a class survey"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.07.10",
+              "emoji": "🩹",
+              "title": {
+                "hi": "चलो करके देखें: फ़र्स्ट एड किट",
+                "hinglish": "Chalo karke dekhein: first aid kit",
+                "en": "Let's Do It: a first aid kit"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.07.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 7 का टेस्ट",
+                "hinglish": "Paath 7 ka test",
+                "en": "Lesson 7 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.08",
+          "number": 8,
+          "emoji": "🌕",
+          "title": "The Moon",
+          "pages": "66–72",
+          "sections": [
+            {
+              "id": "B8.08.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "कविता पढ़ो",
+                "hinglish": "Kavita padho",
+                "en": "Read the poem"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.08.2",
+              "emoji": "👂",
+              "title": {
+                "hi": "पढ़ो और सीखो: तुकबंदी",
+                "hinglish": "Padho aur seekho: tukbandi",
+                "en": "Read and Learn: rhyming words"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.08.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: अलग शब्द और जानवरों की आवाज़ें",
+                "hinglish": "Shabd Shakti: alag shabd aur jaanwaron ki awaazein",
+                "en": "Word Power: odd one out and animal sounds"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.08.4",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.08.5",
+              "emoji": "🪁",
+              "title": {
+                "hi": "चलो पढ़ें: चाँद तक पतंग",
+                "hinglish": "Chalo padhein: chaand tak patang",
+                "en": "Let's Read: a kite to the moon"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.08.6",
+              "emoji": "🌍",
+              "title": {
+                "hi": "चलो लिखें: धरती और चाँद की बातचीत",
+                "hinglish": "Chalo likhein: dharti aur chaand ki baatcheet",
+                "en": "Let's Write: the earth and the moon talk"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.08.7",
+              "emoji": "🌗",
+              "title": {
+                "hi": "चलो करके देखें: चाँद के रूप",
+                "hinglish": "Chalo karke dekhein: chaand ke roop",
+                "en": "Let's Do It: the faces of the moon"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.08.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 8 का टेस्ट",
+                "hinglish": "Paath 8 ka test",
+                "en": "Lesson 8 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.09",
+          "number": 9,
+          "emoji": "🚀",
+          "title": "Kalpana: The Star",
+          "pages": "73–79",
+          "sections": [
+            {
+              "id": "B8.09.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.09.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: स्पेलिंग और मिलान",
+                "hinglish": "Shabd Shakti: spelling aur milaan",
+                "en": "Word Power: spellings and matching"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.09.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.09.4",
+              "emoji": "🏃",
+              "title": {
+                "hi": "सीखो (A): क्रिया-विशेषण",
+                "hinglish": "Seekho (A): kriya-visheshan",
+                "en": "Let's Learn (A): adverbs"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.09.5",
+              "emoji": "📍",
+              "title": {
+                "hi": "सीखो (B): सही preposition",
+                "hinglish": "Seekho (B): sahi preposition",
+                "en": "Let's Learn (B): the right preposition"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.09.6",
+              "emoji": "🎤",
+              "title": {
+                "hi": "चलो बात करें: टॉपर का इंटरव्यू",
+                "hinglish": "Chalo baat karein: topper ka interview",
+                "en": "Let's Talk: interview the topper"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.09.7",
+              "emoji": "💻",
+              "title": {
+                "hi": "चलो पढ़ें: कंप्यूटर",
+                "hinglish": "Chalo padhein: computer",
+                "en": "Let's Read: the computer"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.09.8",
+              "emoji": "✉️",
+              "title": {
+                "hi": "चलो लिखें: दोस्त को पत्र",
+                "hinglish": "Chalo likhein: dost ko patra",
+                "en": "Let's Write: a letter to a friend"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.09.9",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: भारत के अंतरिक्ष यात्री",
+                "hinglish": "Aur seekho: Bharat ke antariksh yaatri",
+                "en": "Learn more: India's space travellers"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.09.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 9 का टेस्ट",
+                "hinglish": "Paath 9 ka test",
+                "en": "Lesson 9 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.10",
+          "number": 10,
+          "emoji": "🎈",
+          "title": "The Balloon Man",
+          "pages": "80–87",
+          "sections": [
+            {
+              "id": "B8.10.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.10.2",
+              "emoji": "👂",
+              "title": {
+                "hi": "सुनो और दोहराओ",
+                "hinglish": "Suno aur dohraao",
+                "en": "Listen and Repeat"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.10.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.10.4",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.10.5",
+              "emoji": "🙉",
+              "title": {
+                "hi": "चलो पढ़ें: बहरा दोस्त",
+                "hinglish": "Chalo padhein: behra dost",
+                "en": "Let's Read: the deaf friend"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.10.6",
+              "emoji": "🎡",
+              "title": {
+                "hi": "चलो लिखें: मेले का गुब्बारे वाला",
+                "hinglish": "Chalo likhein: mele ka gubbaare waala",
+                "en": "Let's Write: the balloon seller at the fair"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.10.7",
+              "emoji": "🔁",
+              "title": {
+                "hi": "दोहराव 2: शब्द और समझ",
+                "hinglish": "Dohraav 2: shabd aur samajh",
+                "en": "Revision Exercises 2: words and comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.10.8",
+              "emoji": "📚",
+              "title": {
+                "hi": "दोहराव 2: ग्रामर और पढ़ना",
+                "hinglish": "Dohraav 2: grammar aur padhna",
+                "en": "Revision Exercises 2: grammar and reading"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.10.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 10 का टेस्ट",
+                "hinglish": "Paath 10 ka test",
+                "en": "Lesson 10 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.11",
+          "number": 11,
+          "emoji": "💧",
+          "title": "Save Water Save Life",
+          "pages": "91–101",
+          "sections": [
+            {
+              "id": "B8.11.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.11.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.11.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.11.4",
+              "emoji": "⏪",
+              "title": {
+                "hi": "सीखो: Simple Past Tense",
+                "hinglish": "Seekho: Simple Past Tense",
+                "en": "Let's Learn: the simple past tense"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.11.5",
+              "emoji": "🚰",
+              "title": {
+                "hi": "चलो बात करें: पानी के स्रोत",
+                "hinglish": "Chalo baat karein: paani ke srot",
+                "en": "Let's Talk: sources of water"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.11.6",
+              "emoji": "🎩",
+              "title": {
+                "hi": "चलो पढ़ें: अब्राहम लिंकन का पत्र",
+                "hinglish": "Chalo padhein: Abraham Lincoln ka patra",
+                "en": "Let's Read: Lincoln's letter to a teacher"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.11.7",
+              "emoji": "💡",
+              "title": {
+                "hi": "चलो लिखें: बिजली बचाओ",
+                "hinglish": "Chalo likhein: bijli bachaao",
+                "en": "Let's Write: saving electricity"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.11.8",
+              "emoji": "🚿",
+              "title": {
+                "hi": "चलो करके देखें: पानी बचाने के तरीक़े",
+                "hinglish": "Chalo karke dekhein: paani bachaane ke tareeqe",
+                "en": "Let's Do It: ways to save water"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.11.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 11 का टेस्ट",
+                "hinglish": "Paath 11 ka test",
+                "en": "Lesson 11 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.12",
+          "number": 12,
+          "emoji": "🏹",
+          "title": "Know More About ...",
+          "pages": "102–113",
+          "sections": [
+            {
+              "id": "B8.12.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.12.2",
+              "emoji": "🤫",
+              "title": {
+                "hi": "शब्द शक्ति: चुप अक्षर और -ly",
+                "hinglish": "Shabd Shakti: chup akshar aur -ly",
+                "en": "Word Power: silent letters and -ly"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.12.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.12.4",
+              "emoji": "🔄",
+              "title": {
+                "hi": "सीखो: Active और Passive Voice",
+                "hinglish": "Seekho: Active aur Passive Voice",
+                "en": "Let's Learn: active and passive voice"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.12.5",
+              "emoji": "🛍️",
+              "title": {
+                "hi": "चलो बात करें और पढ़ें: ग्रामीण व्यापार मेला",
+                "hinglish": "Chalo baat karein aur padhein: graameen vyaapaar mela",
+                "en": "Let's Talk and Read: the rural trade fair"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.12.6",
+              "emoji": "🎨",
+              "title": {
+                "hi": "और सीखो: म.प्र. की जनजातियाँ",
+                "hinglish": "Aur seekho: M.P. ki janjaatiyaan",
+                "en": "Learn more: the tribes of M.P."
+              },
+              "book": true
+            },
+            {
+              "id": "B8.12.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 12 का टेस्ट",
+                "hinglish": "Paath 12 ka test",
+                "en": "Lesson 12 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.13",
+          "number": 13,
+          "emoji": "🪷",
+          "title": "Virtue Pays",
+          "pages": "114–125",
+          "sections": [
+            {
+              "id": "B8.13.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.13.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति",
+                "hinglish": "Shabd Shakti",
+                "en": "Word Power"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.13.3",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.13.4",
+              "emoji": "🔐",
+              "title": {
+                "hi": "सीखो (A, B): can, could, may, might",
+                "hinglish": "Seekho (A, B): can, could, may, might",
+                "en": "Let's Learn (A, B): modals"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.13.5",
+              "emoji": "🏹",
+              "title": {
+                "hi": "सीखो (C): who वाले वाक्य",
+                "hinglish": "Seekho (C): who waale vaakya",
+                "en": "Let's Learn (C): joining with ‘who’"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.13.6",
+              "emoji": "💬",
+              "title": {
+                "hi": "चलो बात करें: यक्ष के सवाल",
+                "hinglish": "Chalo baat karein: Yaksha ke sawaal",
+                "en": "Let's Talk: the Yaksha's questions"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.13.7",
+              "emoji": "📔",
+              "title": {
+                "hi": "चलो पढ़ें: युधिष्ठिर की डायरी",
+                "hinglish": "Chalo padhein: Yudhishthir ki diary",
+                "en": "Let's Read: Yudhishthira's diary"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.13.8",
+              "emoji": "📞",
+              "title": {
+                "hi": "चलो लिखें: फ़ोन का संदेश",
+                "hinglish": "Chalo likhein: phone ka sandesh",
+                "en": "Let's Write: a telephone message"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.13.9",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: महान कथाएँ",
+                "hinglish": "Aur seekho: mahaan kathaayein",
+                "en": "Learn more: great stories"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.13.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 13 का टेस्ट",
+                "hinglish": "Paath 13 ka test",
+                "en": "Lesson 13 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.14",
+          "number": 14,
+          "emoji": "🇮🇳",
+          "title": "Azad : The Martyr",
+          "pages": "126–134",
+          "sections": [
+            {
+              "id": "B8.14.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "पढ़ो और सीखो",
+                "hinglish": "Padho aur seekho",
+                "en": "Read and Learn"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.14.2",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति (A): उलझे अक्षर",
+                "hinglish": "Shabd Shakti (A): uljhe akshar",
+                "en": "Word Power (A): jumbled letters"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.14.3",
+              "emoji": "🚫",
+              "title": {
+                "hi": "शब्द शक्ति (B, C): dis- और एक जैसी आवाज़",
+                "hinglish": "Shabd Shakti (B, C): dis- aur ek jaisi awaaz",
+                "en": "Word Power (B, C): dis- and homophones"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.14.4",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.14.5",
+              "emoji": "👵",
+              "title": {
+                "hi": "सीखो: Reported Speech",
+                "hinglish": "Seekho: Reported Speech",
+                "en": "Let's Learn: reported speech"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.14.6",
+              "emoji": "🗓️",
+              "title": {
+                "hi": "चलो बात करें: टाइम टेबल",
+                "hinglish": "Chalo baat karein: time table",
+                "en": "Let's Talk: the timetable"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.14.7",
+              "emoji": "🔥",
+              "title": {
+                "hi": "चलो पढ़ें: भगत सिंह",
+                "hinglish": "Chalo padhein: Bhagat Singh",
+                "en": "Let's Read: Bhagat Singh"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.14.8",
+              "emoji": "📝",
+              "title": {
+                "hi": "चलो लिखें: वाक्य सही क्रम में",
+                "hinglish": "Chalo likhein: vaakya sahi kram mein",
+                "en": "Let's Write: put the sentences in order"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.14.9",
+              "emoji": "🎲",
+              "title": {
+                "hi": "चलो करके देखें: पहचानो कौन?",
+                "hinglish": "Chalo karke dekhein: pehchaano kaun?",
+                "en": "Let's Do It: guess who"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.14.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 14 का टेस्ट",
+                "hinglish": "Paath 14 ka test",
+                "en": "Lesson 14 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        },
+        {
+          "id": "B8.15",
+          "number": 15,
+          "emoji": "🐦",
+          "title": "A Secret",
+          "pages": "135–142",
+          "sections": [
+            {
+              "id": "B8.15.1",
+              "emoji": "📖",
+              "title": {
+                "hi": "कविता पढ़ो",
+                "hinglish": "Kavita padho",
+                "en": "Read the poem"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.15.2",
+              "emoji": "👂",
+              "title": {
+                "hi": "सुनो और दोहराओ",
+                "hinglish": "Suno aur dohraao",
+                "en": "Listen and Repeat"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.15.3",
+              "emoji": "🔤",
+              "title": {
+                "hi": "शब्द शक्ति: तुकबंदी और g की आवाज़",
+                "hinglish": "Shabd Shakti: tukbandi aur g ki awaaz",
+                "en": "Word Power: rhymes and the two sounds of g"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.15.4",
+              "emoji": "❓",
+              "title": {
+                "hi": "समझकर जवाब दो",
+                "hinglish": "Samajhkar jawab do",
+                "en": "Comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.15.5",
+              "emoji": "🍂",
+              "title": {
+                "hi": "चलो पढ़ें: पत्तियाँ और मौसम",
+                "hinglish": "Chalo padhein: pattiyaan aur mausam",
+                "en": "Let's Read: the leaves and the seasons"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.15.6",
+              "emoji": "🖼️",
+              "title": {
+                "hi": "चलो लिखें: तस्वीर का वर्णन",
+                "hinglish": "Chalo likhein: tasveer ka varnan",
+                "en": "Let's Write: describe the picture"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.15.7",
+              "emoji": "🔁",
+              "title": {
+                "hi": "दोहराव 3: शब्द और समझ",
+                "hinglish": "Dohraav 3: shabd aur samajh",
+                "en": "Revision Exercises 3: words and comprehension"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.15.8",
+              "emoji": "🌙",
+              "title": {
+                "hi": "दोहराव 3: ग्रामर और पढ़ना",
+                "hinglish": "Dohraav 3: grammar aur padhna",
+                "en": "Revision Exercises 3: grammar and reading"
+              },
+              "book": true
+            },
+            {
+              "id": "B8.15.9",
+              "emoji": "🌟",
+              "title": {
+                "hi": "और सीखो: हमारे पक्षी",
+                "hinglish": "Aur seekho: hamaare pakshi",
+                "en": "Learn more: our birds"
+              },
+              "book": false
+            },
+            {
+              "id": "B8.15.T",
+              "emoji": "🏆",
+              "title": {
+                "hi": "पाठ 15 का टेस्ट",
+                "hinglish": "Paath 15 ka test",
+                "en": "Lesson 15 test"
+              },
+              "book": false,
+              "test": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

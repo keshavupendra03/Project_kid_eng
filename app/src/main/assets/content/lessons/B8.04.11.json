@@ -1,0 +1,77 @@
+{
+  "id": "B8.04.11",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.11.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.11.S01",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "किताब: कम से कम पाँच पेड़ों के चित्र बनाओ और हर एक के दो उपयोग लिखो। यहाँ कुछ उदाहरण हैं।",
+        "hinglish": "Kitaab: kam se kam paanch pedon ke chitra banao aur har ek ke do upyog likho. Yahan kuchh udaaharan hain.",
+        "en": "The book: draw at least five trees and write two uses of each. Here are some examples."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.04.11.S02",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "पेड़ को उसके उपयोग से जोड़ो",
+        "hinglish": "Ped ko uske upyog se jodo",
+        "en": "Join each tree to a use"
+      },
+      "pairs": [
+        {
+          "left": "neem",
+          "right": "medicine and datun",
+          "meaning": {
+            "hi": "नीम — दवा और दातुन",
+            "hinglish": "neem — dava aur daatun"
+          }
+        },
+        {
+          "left": "mango",
+          "right": "sweet fruit",
+          "meaning": {
+            "hi": "आम — मीठे फल",
+            "hinglish": "aam — meethe phal"
+          }
+        },
+        {
+          "left": "banyan",
+          "right": "cool shade",
+          "meaning": {
+            "hi": "बरगद — ठंडी छाया",
+            "hinglish": "bargad — thandi chhaaya"
+          }
+        },
+        {
+          "left": "teak",
+          "right": "strong wood for furniture",
+          "meaning": {
+            "hi": "सागौन — फ़र्नीचर की लकड़ी",
+            "hinglish": "saagaun — furniture ki lakdi"
+          }
+        },
+        {
+          "left": "bamboo",
+          "right": "baskets and ladders",
+          "meaning": {
+            "hi": "बाँस — टोकरी और सीढ़ी",
+            "hinglish": "baans — tokri aur seedhi"
+          }
+        }
+      ]
+    }
+  ]
+}

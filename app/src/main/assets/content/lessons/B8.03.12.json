@@ -1,0 +1,89 @@
+{
+  "id": "B8.03.12",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B8.03.12.S01",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "विजेता को उसके क्षेत्र से जोड़ो",
+        "hinglish": "Vijeta ko uske kshetra se jodo",
+        "en": "Join each winner to the field"
+      },
+      "pairs": [
+        {
+          "left": "Rabindranath Tagore",
+          "right": "Literature",
+          "meaning": {
+            "hi": "रवींद्रनाथ टैगोर — साहित्य",
+            "hinglish": "Rabindranath Tagore — saahitya"
+          }
+        },
+        {
+          "left": "C. V. Raman",
+          "right": "Physics",
+          "meaning": {
+            "hi": "सी. वी. रमन — भौतिकी",
+            "hinglish": "C. V. Raman — bhautiki"
+          }
+        },
+        {
+          "left": "Mother Teresa",
+          "right": "Peace",
+          "meaning": {
+            "hi": "मदर टेरेसा — शांति",
+            "hinglish": "Mother Teresa — shaanti"
+          }
+        },
+        {
+          "left": "Amartya Sen",
+          "right": "Economics",
+          "meaning": {
+            "hi": "अमर्त्य सेन — अर्थशास्त्र",
+            "hinglish": "Amartya Sen — arthashaastra"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.12.S02",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "Kailash Satyarthi, who won the Nobel Peace Prize in 2014 for helping children, was born in which M.P. town?",
+      "questionMeaning": {
+        "hi": "बच्चों की मदद के लिए 2014 में नोबेल शांति पुरस्कार पाने वाले कैलाश सत्यार्थी म.प्र. के किस शहर में जन्मे?",
+        "hinglish": "Bachchon ki madad ke liye 2014 mein Nobel shaanti puraskaar paane waale Kailash Satyarthi M.P. ke kis shahar mein janme?"
+      },
+      "options": [
+        "Vidisha",
+        "Indore",
+        "Rewa"
+      ],
+      "answer": "Vidisha"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.12.S03",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "The lesson of ‘The Ungrateful Jeweller’ is ...",
+      "questionMeaning": {
+        "hi": "कहानी की सीख",
+        "hinglish": "Kahani ki seekh"
+      },
+      "options": [
+        "Always be grateful to those who help you.",
+        "Never help anyone.",
+        "Animals are dangerous."
+      ],
+      "answer": "Always be grateful to those who help you."
+    }
+  ]
+}

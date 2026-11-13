@@ -1,0 +1,241 @@
+{
+  "id": "B7.07.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.07.7.S01",
+    "B7.07.7.S02",
+    "B7.07.7.S03",
+    "B7.07.7.S04",
+    "B7.07.7.S06",
+    "B7.07.7.S07",
+    "B7.07.7.S08",
+    "B7.07.7.S09",
+    "B7.07.7.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.07.7.S01",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "The largest land animal, long trunk, eats leaves and fruits.",
+      "questionMeaning": {
+        "hi": "सबसे बड़ा ज़मीनी जानवर, लंबी सूँड, पत्ते और फल खाता है।",
+        "hinglish": "Sabse bada zameeni jaanwar, lambi soond, patte aur phal khaata hai."
+      },
+      "options": [
+        "elephant",
+        "camel",
+        "zebra"
+      ],
+      "answer": "elephant",
+      "emojis": [
+        "🐘",
+        "🐪",
+        "🦓"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.7.S02",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "A wild animal with black and white stripes, eats leaves.",
+      "questionMeaning": {
+        "hi": "काली-सफ़ेद धारियों वाला जंगली जानवर, पत्ते खाता है।",
+        "hinglish": "Kaali-safed dhaariyon waala jangli jaanwar, patte khaata hai."
+      },
+      "options": [
+        "zebra",
+        "tiger",
+        "giraffe"
+      ],
+      "answer": "zebra",
+      "emojis": [
+        "🦓",
+        "🐅",
+        "🦒"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.7.S03",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "A flightless bird, white and black, eats fish.",
+      "questionMeaning": {
+        "hi": "न उड़ने वाला सफ़ेद-काला पक्षी, मछली खाता है।",
+        "hinglish": "Na udne waala safed-kaala pakshi, machhli khaata hai."
+      },
+      "options": [
+        "penguin",
+        "crow",
+        "parrot"
+      ],
+      "answer": "penguin",
+      "emojis": [
+        "🐧",
+        "🐦",
+        "🦜"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.7.S04",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "A tall animal with a long neck, eats leaves.",
+      "questionMeaning": {
+        "hi": "लंबी गर्दन वाला ऊँचा जानवर, पत्ते खाता है।",
+        "hinglish": "Lambi gardan waala ooncha jaanwar, patte khaata hai."
+      },
+      "options": [
+        "giraffe",
+        "horse",
+        "deer"
+      ],
+      "answer": "giraffe",
+      "emojis": [
+        "🦒",
+        "🐎",
+        "🦌"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.07.7.S05",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "अब किताब के पेज 54-55 पर ऊँट वाला पाठ पढ़ो। फिर सवालों के जवाब दो।",
+        "hinglish": "Ab kitaab ke page 54-55 par oont waala paath padho. Phir sawaalon ke jawab do.",
+        "en": "Now read the passage about the camel on pages 54–55 of your book. Then answer the questions."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.7.S06",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "In what ways can the camel help us in agriculture?",
+      "questionMeaning": {
+        "hi": "ऊँट खेती में हमारी कैसे मदद करता है?",
+        "hinglish": "Oont kheti mein hamari kaise madad karta hai?"
+      },
+      "options": [
+        "It pulls ploughs, turns wheels to water fields and carries goods to the market.",
+        "It catches fish.",
+        "It guards the house."
+      ],
+      "answer": "It pulls ploughs, turns wheels to water fields and carries goods to the market.",
+      "modelAnswer": "Camels pull ploughs, turn wheels to irrigate fields and carry goods to the market.",
+      "modelMeaning": {
+        "hi": "ऊँट हल खींचते हैं, खेतों में पानी के लिए पहिए घुमाते हैं और सामान बाज़ार ले जाते हैं।",
+        "hinglish": "Oont hal kheenchte hain, kheton mein paani ke liye pahiye ghumaate hain aur saamaan baazaar le jaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.7.S07",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "What's the use of the camel's hump?",
+      "questionMeaning": {
+        "hi": "ऊँट के कूबड़ का क्या काम है?",
+        "hinglish": "Oont ke koobad ka kya kaam hai?"
+      },
+      "options": [
+        "It gives energy when food and water are scarce.",
+        "It stores sand.",
+        "It helps it to swim."
+      ],
+      "answer": "It gives energy when food and water are scarce.",
+      "modelAnswer": "The camel's hump is a source of energy when food and water are scarce.",
+      "modelMeaning": {
+        "hi": "जब खाना-पानी कम हो, तब ऊँट का कूबड़ उसे ताक़त देता है।",
+        "hinglish": "Jab khaana-paani kam ho, tab oont ka koobad use taakat deta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.7.S08",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "How is the camel's body suited to the desert's hard conditions?",
+      "questionMeaning": {
+        "hi": "ऊँट का शरीर रेगिस्तान के लिए कैसे बना है?",
+        "hinglish": "Oont ka shareer registaan ke liye kaise bana hai?"
+      },
+      "options": [
+        "Broad soft feet, thick skin, three eyelids and special ears and nose.",
+        "Short legs and wings.",
+        "Thin skin and small feet."
+      ],
+      "answer": "Broad soft feet, thick skin, three eyelids and special ears and nose.",
+      "modelAnswer": "The camel has broad soft feet for the sand, a thick skin against heat and cold, three eyelids to keep out sand, and ears and nose that keep out sand storms.",
+      "modelMeaning": {
+        "hi": "ऊँट के चौड़े नरम पैर, मोटी खाल, तीन पलकें, और रेत रोकने वाले कान-नाक होते हैं।",
+        "hinglish": "Oont ke chaude naram pair, moti khaal, teen palkein, aur ret rokne waale kaan-naak hote hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.7.S09",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "What does the camel eat?",
+      "questionMeaning": {
+        "hi": "ऊँट क्या खाता है?",
+        "hinglish": "Oont kya khaata hai?"
+      },
+      "options": [
+        "grass, dates and grain; dry leaves and seeds in the desert",
+        "meat and fish",
+        "only milk"
+      ],
+      "answer": "grass, dates and grain; dry leaves and seeds in the desert",
+      "modelAnswer": "Camels eat grass, dates and grain. Deep in the desert they live on dry leaves and seeds.",
+      "modelMeaning": {
+        "hi": "ऊँट घास, खजूर और अनाज खाते हैं। रेगिस्तान में सूखे पत्ते और बीज खाकर रहते हैं।",
+        "hinglish": "Oont ghaas, khajoor aur anaaj khaate hain. Registaan mein sookhe patte aur beej khaakar rehte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.7.S10",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "Give a suitable title to the passage.",
+      "questionMeaning": {
+        "hi": "इस पाठ का सही शीर्षक दो।",
+        "hinglish": "Is paath ka sahi sheershak do."
+      },
+      "options": [
+        "The Ship of the Desert",
+        "The King of the Forest",
+        "My Pet Cat"
+      ],
+      "answer": "The Ship of the Desert"
+    }
+  ]
+}

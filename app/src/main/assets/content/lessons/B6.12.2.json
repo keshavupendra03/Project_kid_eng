@@ -1,0 +1,122 @@
+{
+  "id": "B6.12.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.12.2.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.12.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब की पहेली: सुराग पढ़कर शब्द भरो। पहला शब्द courtier भरा हुआ है।",
+        "hinglish": "Kitaab ki paheli: suraag padhkar shabd bharo. Pehla shabd courtier bhara hua hai.",
+        "en": "The book's crossword: read the clues and fill in the words. The first word, courtier, is filled in."
+      }
+    },
+    {
+      "type": "crossword",
+      "id": "B6.12.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "entries": [
+        {
+          "number": 1,
+          "answer": "courtier",
+          "across": false,
+          "clue": "A person who works in a King's court: ___",
+          "given": true,
+          "row": 0,
+          "col": 5
+        },
+        {
+          "number": 2,
+          "answer": "emperor",
+          "across": true,
+          "clue": "He is also a King: ___",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "number": 3,
+          "answer": "crown",
+          "across": true,
+          "clue": "Kings wear this on their head: ___",
+          "row": 7,
+          "col": 4
+        },
+        {
+          "number": 4,
+          "answer": "throne",
+          "across": true,
+          "clue": "A King's seat: ___",
+          "row": 3,
+          "col": 3
+        }
+      ],
+      "rows": 8,
+      "cols": 9
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.12.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "दरबार के शब्द जोड़ो",
+        "hinglish": "Darbaar ke shabd jodo",
+        "en": "Join the royal words"
+      },
+      "pairs": [
+        {
+          "left": "emperor",
+          "right": "a great king",
+          "meaning": {
+            "hi": "सम्राट",
+            "hinglish": "samraat"
+          }
+        },
+        {
+          "left": "crown",
+          "right": "a king's gold headwear",
+          "meaning": {
+            "hi": "मुकुट",
+            "hinglish": "mukut"
+          }
+        },
+        {
+          "left": "throne",
+          "right": "a king's seat",
+          "meaning": {
+            "hi": "सिंहासन",
+            "hinglish": "sinhaasan"
+          }
+        },
+        {
+          "left": "palace",
+          "right": "a king's house",
+          "meaning": {
+            "hi": "महल",
+            "hinglish": "mahal"
+          }
+        },
+        {
+          "left": "town-crier",
+          "right": "a man who announces news with a drum",
+          "meaning": {
+            "hi": "मुनादी करने वाला",
+            "hinglish": "munaadi karne waala"
+          }
+        }
+      ]
+    }
+  ]
+}

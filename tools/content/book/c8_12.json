@@ -1,0 +1,151 @@
+{
+  "grade": 8, "number": 12, "emoji": "🏹", "title": "Know More About ...", "pages": "102–113",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["खट्टाली गाँव में एक मेहमान सत्तू और उसके चाचा जाम सिंह से भील जनजाति के बारे में जानता है: घर, कला, कपड़े, गहने, त्योहार और नाच। यह हमारे मध्य प्रदेश की शान है!", "Khattali gaanv mein ek mehmaan Sattu aur uske chaacha Jam Singh se Bhil janjaati ke baare mein jaanta hai: ghar, kala, kapde, gehne, tyohaar aur naach. Yeh hamaare Madhya Pradesh ki shaan hai!", "In Khattali village, a visitor learns about the Bhil tribe from Sattu and his uncle Jam Singh: houses, art, dresses, ornaments, festivals and dances. This is the pride of our Madhya Pradesh!"]},
+        {"book": true, "q": ["Have you ever been to a tribal village? Tell something about it.", "क्या तुम कभी किसी आदिवासी गाँव गए हो?", "Kya tum kabhi kisi aadivaasi gaanv gaye ho?", ["Yes, the houses were painted and people wore colourful dresses.", "No, never."], "Yes, the houses were painted and people wore colourful dresses.", "Answer about yourself, for example: Yes, I went to a Bhil village near Jhabua. The houses were made of bamboo and mud, and the walls had beautiful paintings.", "अपने बारे में बताओ, जैसे: हाँ, मैं झाबुआ के पास एक भील गाँव गया था। घर बाँस और मिट्टी के थे और दीवारों पर सुंदर चित्र थे।", "Apne baare mein batao, jaise: Haan, main Jhabua ke paas ek Bhil gaanv gaya tha. Ghar baans aur mitti ke the aur deewaron par sundar chitra the."]},
+        {"word": ["tribe", "जनजाति", "janjaati", "a group of people with the same customs and culture", "The Bhils are a tribe of M.P.", "भील म.प्र. की एक जनजाति है।", "Bhil M.P. ki ek janjaati hai."]},
+        {"word": ["dynasty", "राजवंश", "raajvansh", "a family of rulers", "Rani Durgavati belonged to the Gond dynasty.", "रानी दुर्गावती गोंड राजवंश की थीं।", "Rani Durgavati Gond raajvansh ki thin."]},
+        {"word": ["folklore", "लोककथाएँ", "lokkathaayein", "old stories and beliefs of a people", "Our grandparents know a lot of folklore.", "दादा-दादी बहुत सी लोककथाएँ जानते हैं।", "Daada-daadi bahut si lokkathaayein jaante hain."]},
+        {"word": ["customary", "रिवाज़ के अनुसार", "rivaaz ke anusaar", "usual because of tradition", "Tattooing is customary among Bhils.", "भीलों में गोदना एक रिवाज़ है।", "Bheelon mein godna ek rivaaz hai."]},
+        {"word": ["erected", "खड़ा किया", "khada kiya", "built or put up straight", "A Gatla is erected in memory of a family member.", "परिवार के सदस्य की याद में गाटला खड़ा किया जाता है।", "Parivaar ke sadasya ki yaad mein Gatla khada kiya jaata hai."]},
+        {"word": ["recognition", "पहचान, मान्यता", "pehchaan, maanyata", "being known and respected", "Tribal art is getting world recognition.", "आदिवासी कला को दुनिया में पहचान मिल रही है।", "Aadivaasi kala ko duniya mein pehchaan mil rahi hai."]},
+        {"sayw": ["tribe", "जनजाति", "janjaati"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🤫", "title": ["शब्द शक्ति: चुप अक्षर और -ly", "Shabd Shakti: chup akshar aur -ly", "Word Power: silent letters and -ly"], "book": true,
+      "skills": ["book.words", "spell.word"],
+      "steps": [
+        {"card": ["(A) चुप अक्षर ढूँढो और शब्द ज़ोर से बोलो: edge में d नहीं बोलते (एज)।", "(A) Chup akshar dhoondho aur shabd zor se bolo: edge mein d nahi bolte (ej).", "(A) Find the silent letter and say the words aloud: in edge, the d is silent."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["चुप अक्षर के हिसाब से रखो", "Chup akshar ke hisaab se rakho", "Sort by the silent letter"],
+          "groups": [
+            {"id": "d", "name": "silent d", "emoji": "🔷", "meaning": ["d चुप", "d chup"]},
+            {"id": "b", "name": "silent b", "emoji": "💣", "meaning": ["b चुप", "b chup"]},
+            {"id": "l", "name": "silent l", "emoji": "🌴", "meaning": ["l चुप", "l chup"]}
+          ],
+          "items": [
+            {"text": "edge", "emoji": "📐", "groups": ["d"]},
+            {"text": "adjective", "emoji": "🔤", "groups": ["d"]},
+            {"text": "badge", "emoji": "📛", "groups": ["d"]},
+            {"text": "tomb", "emoji": "🕌", "groups": ["b"]},
+            {"text": "bomb", "emoji": "💣", "groups": ["b"]},
+            {"text": "comb", "emoji": "🪮", "groups": ["b"]},
+            {"text": "palm", "emoji": "🌴", "groups": ["l"]},
+            {"text": "could", "emoji": "🤔", "groups": ["l"]},
+            {"text": "walk", "emoji": "🚶", "groups": ["l"]}
+          ]},
+        {"sayw": ["palm", "हथेली / ताड़", "hatheli / taad"], "skills": ["speak.word", "book.words"]},
+        {"card": ["(B) -ly जोड़ो: sudden + ly = suddenly। ध्यान: simple → simply (e हटता है)।", "(B) -ly jodo: sudden + ly = suddenly. Dhyaan: simple → simply (e hat-ta hai).", "(B) Add -ly: sudden + ly = suddenly. Note: simple → simply (the e goes)."]},
+        {"book": true, "skills": ["book.words", "grammar.adverbs"], "pairs": ["-ly वाला रूप जोड़ो", "-ly waala roop jodo", "Join each word to its -ly form", [
+          ["beautiful", "beautifully", "सुंदरता से", "sundarta se"],
+          ["simple", "simply", "सादगी से", "saadgi se"],
+          ["general", "generally", "आम तौर पर", "aam taur par"],
+          ["quiet", "quietly", "चुपचाप", "chupchaap"],
+          ["main", "mainly", "मुख्य रूप से", "mukhya roop se"],
+          ["actual", "actually", "असल में", "asal mein"]]]},
+        {"book": true, "skills": ["book.words", "grammar.adverbs"], "fb": ["The children sat ___ in the library.", "quietly", ["quietly", "mainly", "actually"], "बच्चे पुस्तकालय में चुपचाप बैठे।", "Bachche pustakaalay mein chupchaap baithe."]},
+        {"book": true, "skills": ["book.words", "grammar.adverbs"], "fb": ["Bhils live ___ in Jhabua, Dhar and Barwani.", "mainly", ["mainly", "quietly", "beautifully"], "भील मुख्य रूप से झाबुआ, धार और बड़वानी में रहते हैं।", "Bhil mukhya roop se Jhabua, Dhaar aur Badwaani mein rehte hain."]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 102-105 पर बातचीत पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 102-105 par baatcheet padho, phir jawab do.", "Read the dialogue on pages 102–105 of your book, then answer."]},
+        {"book": true, "q": ["What does the word ‘Bhil’ stand for?", "‘भील’ शब्द का मतलब?", "‘Bhil’ shabd ka matlab?", ["bow, from the Dravidian word ‘bil’", "forest", "brave"], "bow, from the Dravidian word ‘bil’", "The word ‘Bhil’ is believed to come from the Dravidian word ‘bil’, meaning bow, which is their characteristic weapon.", "माना जाता है कि ‘भील’ शब्द द्रविड़ शब्द ‘बिल’ (धनुष) से बना है, जो उनका ख़ास हथियार है।", "Maana jaata hai ki ‘Bhil’ shabd Dravid shabd ‘bil’ (dhanush) se bana hai, jo unka khaas hathiyaar hai."]},
+        {"book": true, "q": ["Name the tribal-rich areas of M.P.", "म.प्र. के आदिवासी बहुल इलाक़े", "M.P. ke aadivaasi bahul ilaake", ["Jhabua, Dhar, Khargone, Barwani and Ratlam", "Bhopal, Indore and Gwalior city", "Sagar and Rewa only"], "Jhabua, Dhar, Khargone, Barwani and Ratlam", "The tribal-rich areas of M.P. are mainly Jhabua, Dhar, Khargone, Barwani and Ratlam districts.", "म.प्र. के आदिवासी बहुल इलाक़े मुख्य रूप से झाबुआ, धार, खरगोन, बड़वानी और रतलाम ज़िले हैं।", "M.P. ke aadivaasi bahul ilaake mukhya roop se Jhabua, Dhaar, Khargone, Badwaani aur Ratlaam zile hain."]},
+        {"book": true, "q": ["What is ‘Gatla’?", "‘गाटला’ क्या है?", "‘Gatla’ kya hai?", ["a stone-carved, oil-painted memory pillar", "a kind of dance", "a festival food"], "a stone-carved, oil-painted memory pillar", "A Gatla is a stone-carved and oil-painted memory pillar. The Bhils erect it in memory of a family member who met with an unnatural death.", "गाटला पत्थर पर नक़्क़ाशी किया और तेल रंग से रंगा स्मृति स्तंभ है। भील इसे अचानक मरे परिवार के सदस्य की याद में खड़ा करते हैं।", "Gatla patthar par nakkaashi kiya aur tel rang se ranga smriti stambh hai. Bhil ise achaanak mare parivaar ke sadasya ki yaad mein khada karte hain."]},
+        {"book": true, "q": ["What kind of dresses do Bhil women wear?", "भील औरतें कैसे कपड़े पहनती हैं?", "Bhil auratein kaise kapde pehenti hain?", ["colourful ghaghara with polka and kanchali", "dhoti and turban", "jeans and T-shirts"], "colourful ghaghara with polka and kanchali", "Bhil women wear colourful ghaghara with polka, kanchali and so on.", "भील औरतें रंग-बिरंगा घाघरा, पोलका, कांचली आदि पहनती हैं।", "Bhil auratein rang-biranga ghaaghra, polka, kaanchli aadi pehenti hain."]},
+        {"book": true, "q": ["What are the important dance forms of the Bhils?", "भीलों के मुख्य नृत्य?", "Bheelon ke mukhya nritya?", ["Solo, Lahari, Pali, Dandavadi, Ghodo, Dang Solo and Chalavadi", "Bharatanatyam and Kathak", "Garba only"], "Solo, Lahari, Pali, Dandavadi, Ghodo, Dang Solo and Chalavadi"]},
+        {"book": true, "q": ["Name tribal personalities with international recognition.", "विश्व में पहचाने गए आदिवासी कलाकार", "Vishva mein pehchaane gaye aadivaasi kalaakaar", ["Pema Fatya, Ram Singh Urveti and Teejan Bai", "Sachin Tendulkar and Lata Mangeshkar", "Akbar and Birbal"], "Pema Fatya, Ram Singh Urveti and Teejan Bai", "Pema Fatya (Bhil artist), Ram Singh Urveti (Gond artist) and Teejan Bai (Pandvani singer) have got international recognition.", "पेमा फत्या (भील कलाकार), राम सिंह उर्वेती (गोंड कलाकार) और तीजन बाई (पंडवानी गायिका) को अंतरराष्ट्रीय पहचान मिली है।", "Pema Fatya (Bhil kalaakaar), Ram Singh Urveti (Gond kalaakaar) aur Teejan Bai (Pandvani gaayika) ko antarraashtriya pehchaan mili hai."]},
+        {"book": true, "q": ["What is the Bhagoria Haat?", "भगोरिया हाट क्या है?", "Bhagoria Haat kya hai?", ["a weekly market a week before Holi, celebrated with dance and gulal", "a cattle fair in winter", "a school sports day"], "a weekly market a week before Holi, celebrated with dance and gulal", "The weekly market held a week before Holi is celebrated as Bhagoria. People dance, apply gulal on the faces of relatives and friends, and offer sweets, snacks and ice-candies. Children enjoy rides on swings.", "होली से एक हफ़्ते पहले लगने वाला साप्ताहिक हाट भगोरिया के रूप में मनाया जाता है। लोग नाचते हैं, रिश्तेदारों-दोस्तों को गुलाल लगाते हैं, मिठाई और नाश्ता खिलाते हैं। बच्चे झूलों का मज़ा लेते हैं।", "Holi se ek hafte pehle lagne waala saaptaahik haat Bhagoria ke roop mein manaaya jaata hai. Log naachte hain, rishtedaaron-doston ko gulaal lagaate hain, mithaai aur naashta khilaate hain. Bachche jhoolon ka maza lete hain."]},
+        {"card": ["(B) Yes या No में जवाब दो।", "(B) Yes ya No mein jawab do.", "(B) Answer Yes or No."]},
+        {"book": true, "q": ["Do the Bhils live in pucca houses?", "क्या भील पक्के घरों में रहते हैं?", "Kya Bhil pakke gharon mein rehte hain?", ["No, mostly in wood and bamboo houses.", "Yes, all of them."], "No, mostly in wood and bamboo houses.", "No. Their houses are mainly made of wood and bamboo with tiled roofs, though some people build pucca and semi-pucca houses.", "नहीं। उनके घर मुख्य रूप से लकड़ी और बाँस के, खपरैल की छत वाले होते हैं; हालाँकि कुछ लोग पक्के घर भी बनाते हैं।", "Nahi. Unke ghar mukhya roop se lakdi aur baans ke, khapraal ki chhat waale hote hain; haalaanki kuchh log pakke ghar bhi banaate hain."]},
+        {"book": true, "q": ["Are they fond of tattooing?", "क्या उन्हें गोदना पसंद है?", "Kya unhe godna pasand hai?", ["Yes", "No"], "Yes", "Yes. Tattooing, called ‘Godana’, is customary among them.", "हाँ। गोदना उनमें एक रिवाज़ है।", "Haan. Godna unmein ek rivaaz hai."]},
+        {"book": true, "q": ["Are the Bhils proficient in stone craft?", "क्या भील पत्थर की कारीगरी में माहिर हैं?", "Kya Bhil patthar ki kaarigari mein maahir hain?", ["Yes", "No"], "Yes", "Yes. They carve stone memory pillars called Gatla.", "हाँ। वे पत्थर के गाटला स्तंभ तराशते हैं।", "Haan. Woh patthar ke Gatla stambh taraashte hain."]},
+        {"book": true, "q": ["Is Teejan Bai famous for singing Pandvani?", "क्या तीजन बाई पंडवानी के लिए मशहूर हैं?", "Kya Teejan Bai Pandvani ke liye mashhoor hain?", ["Yes", "No"], "Yes"]},
+        {"book": true, "q": ["Do the Bhils like colourful dresses?", "क्या भीलों को रंग-बिरंगे कपड़े पसंद हैं?", "Kya Bheelon ko rang-birange kapde pasand hain?", ["Yes", "No"], "Yes"]}
+      ]
+    },
+    {
+      "emoji": "🔄", "title": ["सीखो: Active और Passive Voice", "Seekho: Active aur Passive Voice", "Let's Learn: active and passive voice"], "book": true,
+      "skills": ["book.grammar", "grammar.tenses"],
+      "steps": [
+        {"card": ["Active: करने वाला पहले: The hunter killed the tiger। Passive: जिस पर काम हुआ वह पहले: The tiger was killed by the hunter। Object कर्ता बनता है, क्रिया be + तीसरा रूप, और by + करने वाला।", "Active: karne waala pehle: The hunter killed the tiger. Passive: jis par kaam hua woh pehle: The tiger was killed by the hunter. Object karta banta hai, kriya be + teesra roop, aur by + karne waala.", "Active: the doer comes first: The hunter killed the tiger. Passive: the receiver comes first: The tiger was killed by the hunter. The object becomes the subject, the verb is be + 3rd form, then by + the doer."]},
+        {"book": true, "q": ["The children are flying kites.", "Passive बनाओ (are being flown)", "Passive banao (are being flown)", ["Kites are being flown by the children.", "Kites are flown by the children.", "The children are being flown by kites."], "Kites are being flown by the children."]},
+        {"book": true, "q": ["I have done the work.", "Passive बनाओ (has been done)", "Passive banao (has been done)", ["The work has been done by me.", "The work has done by me.", "The work was done by I."], "The work has been done by me."]},
+        {"book": true, "q": ["She cooked food.", "Passive बनाओ (was cooked)", "Passive banao (was cooked)", ["Food was cooked by her.", "Food was cooked by she.", "Food is cooked by her."], "Food was cooked by her."]},
+        {"book": true, "q": ["They were painting the house.", "Passive बनाओ (was being painted)", "Passive banao (was being painted)", ["The house was being painted by them.", "The house was painted by they.", "The house is being painted by them."], "The house was being painted by them."]},
+        {"book": true, "q": ["You had sold the car.", "Passive बनाओ (had been sold)", "Passive banao (had been sold)", ["The car had been sold by you.", "The car has been sold by you.", "The car had sold by you."], "The car had been sold by you."]},
+        {"book": true, "q": ["The villagers will guide you.", "Passive बनाओ (will be guided)", "Passive banao (will be guided)", ["You will be guided by the villagers.", "You will guided by the villagers.", "The villagers will be guided by you."], "You will be guided by the villagers."]},
+        {"book": true, "q": ["We will have done our work.", "Passive बनाओ (will have been done)", "Passive banao (will have been done)", ["Our work will have been done by us.", "Our work will have done by us.", "Our work will be done by we."], "Our work will have been done by us."]},
+        {"book": true, "q": ["A Gond woman is painting the walls.", "Passive बनाओ (are being painted)", "Passive banao (are being painted)", ["The walls are being painted by a Gond woman.", "The walls is being painted by a Gond woman.", "The walls are painted by a Gond woman."], "The walls are being painted by a Gond woman."]},
+        {"book": true, "q": ["The boy gave me a toy.", "Passive बनाओ (was given)", "Passive banao (was given)", ["I was given a toy by the boy.", "I was give a toy by the boy.", "The boy was given a toy by me."], "I was given a toy by the boy."]},
+        {"book": true, "build": ["मेरी माँ जासूसी कहानियाँ लिखती हैं (Passive में)।", "Meri maa jaasoosi kahaniyaan likhti hain (Passive mein).", "Make it passive: My mother writes detective stories.", "Detective stories are written by my mother.", "जासूसी कहानियाँ मेरी माँ द्वारा लिखी जाती हैं।", "Jaasoosi kahaniyaan meri maa dwaara likhi jaati hain."]}
+      ]
+    },
+    {
+      "emoji": "🛍️", "title": ["चलो बात करें और पढ़ें: ग्रामीण व्यापार मेला", "Chalo baat karein aur padhein: graameen vyaapaar mela", "Let's Talk and Read: the rural trade fair"], "book": false,
+      "skills": ["book.talk", "read.understand"],
+      "steps": [
+        {"card": ["किताब के पेज 111 पर मेले का विज्ञापन तस्वीर में है। अभ्यास के लिए यह विज्ञापन पढ़ो: ‘ग्रामीण व्यापार मेला, भोपाल हाट, 2 से 12 अक्टूबर। 150 स्टॉल, चंदेरी और महेश्वरी साड़ियाँ, बाग़ प्रिंट, आदिवासी गहने, रोज़ शाम लोक नृत्य। आयोजक: म.प्र. हस्तशिल्प विकास निगम।’", "Kitaab ke page 111 par mele ka vigyaapan tasveer mein hai. Abhyaas ke liye yeh vigyaapan padho: ‘Graameen Vyaapaar Mela, Bhopal Haat, 2 se 12 October. 150 stall, Chanderi aur Maheshwari saadiyaan, Bagh print, aadivaasi gehne, roz shaam lok nritya. Aayojak: M.P. Hastashilp Vikaas Nigam.’", "The fair advert on page 111 is a picture. For practice, read this advert: ‘Rural Trade Fair, Bhopal Haat, 2nd to 12th October. 150 stalls, Chanderi and Maheshwari sarees, Bagh prints, tribal jewellery, folk dances every evening. Organised by M.P. Handicrafts Development Corporation.’"]},
+        {"q": ["Name the venue of this trade fair.", "मेला कहाँ है?", "Mela kahan hai?", ["Bhopal Haat", "Indore", "Delhi"], "Bhopal Haat"]},
+        {"q": ["What is the duration of this fair?", "मेला कब से कब तक?", "Mela kab se kab tak?", ["2nd to 12th October", "only one day", "the whole year"], "2nd to 12th October"]},
+        {"q": ["How many stalls are there?", "कितने स्टॉल हैं?", "Kitne stall hain?", ["150", "12", "2"], "150"]},
+        {"q": ["What dress materials are available?", "कौन से कपड़े मिलेंगे?", "Kaun se kapde milenge?", ["Chanderi and Maheshwari sarees and Bagh prints", "only jeans", "school uniforms"], "Chanderi and Maheshwari sarees and Bagh prints"]},
+        {"type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "📞", "turns": [
+          {"id": "call", "tinku": "Are you interested in visiting the Rural Trade Fair at Bhopal Haat?", "meaning": ["क्या तुम भोपाल हाट का ग्रामीण मेला देखने चलोगे?", "Kya tum Bhopal Haat ka graameen mela dekhne chaloge?"],
+            "replies": [
+              {"say": "Oh yes. I will come with you in the evening.", "meaning": ["हाँ ज़रूर। मैं शाम को तुम्हारे साथ चलूँगा।", "Haan zaroor. Main shaam ko tumhaare saath chaloonga."], "patterns": ["oh yes *", "yes *", "yes"]}
+            ]},
+          {"id": "when", "tinku": "Do you know when it ends?", "meaning": ["पता है मेला कब तक है?", "Pata hai mela kab tak hai?"],
+            "replies": [
+              {"say": "It is being held from 2nd to 12th October.", "meaning": ["यह 2 से 12 अक्टूबर तक है।", "Yeh 2 se 12 October tak hai."], "patterns": ["it is being held *", "* october", "* 12th *", "*"]}
+            ]},
+          {"id": "culture", "tinku": "Will there be any cultural programme also?", "meaning": ["क्या कोई सांस्कृतिक कार्यक्रम भी होगा?", "Kya koi saanskritik kaaryakram bhi hoga?"],
+            "replies": [
+              {"say": "Yes, there will be folk dances every evening.", "meaning": ["हाँ, रोज़ शाम लोक नृत्य होंगे।", "Haan, roz shaam lok nritya honge."], "patterns": ["yes *", "* folk dances *", "yes"], "next": "end"}
+            ]}
+        ]},
+        {"card": ["किताब के पेज 112 पर 1991 और 2001 की जनगणना के बार डायग्राम हैं। उन्हें देखकर सवालों के जवाब वाला पैराग्राफ़ लिखो: सबसे ज़्यादा आबादी किस ज़िले में, किसमें सबसे ज़्यादा बढ़ी, आदि।", "Kitaab ke page 112 par 1991 aur 2001 ki janganana ke bar diagram hain. Unhe dekhkar sawaalon ke jawab waala paragraph likho: sabse zyaada aabaadi kis zile mein, kismein sabse zyaada badhi, aadi.", "Page 112 of your book has bar diagrams from the 1991 and 2001 census. Use them to write a paragraph answering the questions: which district has the largest population, which grew the most, and so on."]}
+      ]
+    },
+    {
+      "emoji": "🎨", "title": ["और सीखो: म.प्र. की जनजातियाँ", "Aur seekho: M.P. ki janjaatiyaan", "Learn more: the tribes of M.P."], "book": true,
+      "skills": ["book.activity", "vocab.meaning"],
+      "steps": [
+        {"card": ["किताब: मानव संग्रहालय (भोपाल) या किसी आदिवासी गाँव जाओ, या टीचर से बात करके म.प्र. की जनजातियों के बारे में और जानो।", "Kitaab: Maanav Sangrahaalay (Bhopal) ya kisi aadivaasi gaanv jaao, ya teacher se baat karke M.P. ki janjaatiyon ke baare mein aur jaano.", "The book: visit Manav Sangrahalaya (Bhopal) or a tribal village, or talk to your teacher, to learn more about the tribes of M.P."]},
+        {"book": true, "pairs": ["कला को उसकी जनजाति से जोड़ो", "Kala ko uski janjaati se jodo", "Join each art form to its tribe", [
+          ["Pithora painting", "Bhil", "पिथोरा चित्रकला — भील", "Pithora chitrakala — Bhil"],
+          ["Gudani on doors", "Korku", "गुदनी — कोरकू", "Gudani — Korku"],
+          ["Cheenha wall painting", "Gond", "चीन्हा — गोंड", "Cheenha — Gond"],
+          ["Pandvani singing", "Teejan Bai", "पंडवानी — तीजन बाई", "Pandvani — Teejan Bai"]]]},
+        {"book": true, "q": ["Name another tribe of Madhya Pradesh besides the Bhils.", "भीलों के अलावा म.प्र. की कोई और जनजाति", "Bheelon ke alaava M.P. ki koi aur janjaati", ["Gonds", "Nagas", "Todas"], "Gonds", "Other tribes of M.P. are Gonds, Korkus, Baigas and Bhariyas.", "म.प्र. की दूसरी जनजातियाँ: गोंड, कोरकू, बैगा और भारिया।", "M.P. ki doosri janjaatiyaan: Gond, Korku, Baiga aur Bhaariya."]},
+        {"book": true, "q": ["What do the Bhils call tattooing?", "भील गोदने को क्या कहते हैं?", "Bhil godne ko kya kehte hain?", ["Godana", "Gatla", "Bhagoria"], "Godana"]},
+        {"q": ["Rani Durgavati, the brave queen of the Gond dynasty, ruled from which region?", "गोंड रानी दुर्गावती कहाँ की रानी थीं?", "Gond Rani Durgavati kahan ki rani thin?", ["Gondwana (near Jabalpur)", "Jaipur", "Mysore"], "Gondwana (near Jabalpur)"]},
+        {"q": ["Where is the Manav Sangrahalaya (Museum of Mankind)?", "मानव संग्रहालय कहाँ है?", "Maanav Sangrahaalay kahan hai?", ["Bhopal", "Ujjain", "Sagar"], "Bhopal"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 12 का टेस्ट", "Paath 12 ka test", "Lesson 12 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What does ‘Bhil’ stand for?", "‘भील’ का मतलब", "‘Bhil’ ka matlab", ["bow, from the Dravidian word ‘bil’", "forest", "brave"], "bow, from the Dravidian word ‘bil’"]},
+        {"book": true, "q": ["What is ‘Gatla’?", "गाटला क्या है?", "Gatla kya hai?", ["a stone-carved, oil-painted memory pillar", "a kind of dance", "a festival food"], "a stone-carved, oil-painted memory pillar"]},
+        {"book": true, "q": ["The Bhagoria Haat is held ...", "भगोरिया हाट कब?", "Bhagoria Haat kab?", ["a week before Holi", "on Diwali night", "in the rainy season"], "a week before Holi"]},
+        {"book": true, "q": ["Is Teejan Bai famous for singing Pandvani?", "तीजन बाई?", "Teejan Bai?", ["Yes", "No"], "Yes"]},
+        {"book": true, "skills": ["book.words"], "q": ["comb: which letter is silent?", "चुप अक्षर", "Chup akshar", ["b", "c", "m"], "b"]},
+        {"book": true, "skills": ["book.words"], "q": ["could: which letter is silent?", "चुप अक्षर", "Chup akshar", ["l", "c", "d"], "l"]},
+        {"book": true, "skills": ["book.words", "grammar.adverbs"], "q": ["simple + ly = ?", "-ly जोड़ो", "-ly jodo", ["simply", "simplely", "simpley"], "simply"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "q": ["She cooked food. (passive)", "Passive वाक्य बनाओ", "Passive vaakya banao", ["Food was cooked by her.", "Food was cooked by she.", "Food is cooked by her."], "Food was cooked by her."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "q": ["The boy gave me a toy. (passive)", "Passive वाक्य बनाओ", "Passive vaakya banao", ["I was given a toy by the boy.", "I was give a toy by the boy.", "The boy was given a toy by me."], "I was given a toy by the boy."]},
+        {"book": true, "q": ["Pema Fatya is a ... artist.", "पेमा फत्या किस जनजाति के कलाकार?", "Pema Fatya kis janjaati ke kalaakaar?", ["Bhil", "Gond", "Korku"], "Bhil"]}
+      ]
+    }
+  ]
+}

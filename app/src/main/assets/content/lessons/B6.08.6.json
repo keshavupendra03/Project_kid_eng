@@ -1,0 +1,255 @@
+{
+  "id": "B6.08.6",
+  "level": 6,
+  "bookSteps": [
+    "B6.08.6.S02",
+    "B6.08.6.S03",
+    "B6.08.6.S04",
+    "B6.08.6.S05",
+    "B6.08.6.S06",
+    "B6.08.6.S07",
+    "B6.08.6.S08",
+    "B6.08.6.S10",
+    "B6.08.6.S11",
+    "B6.08.6.S12",
+    "B6.08.6.S13",
+    "B6.08.6.S14"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.08.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: दिए गए शब्दों से कविता का हिस्सा पूरा करो: crowned, elephant, cargo, song, way, laughter, children।",
+        "hinglish": "Kitaab: diye gaye shabdon se kavita ka hissa poora karo: crowned, elephant, cargo, song, way, laughter, children.",
+        "en": "The book: complete the passage with crowned, elephant, cargo, song, way, laughter, children."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "Here comes the ___ swaying along.",
+      "answer": "elephant",
+      "options": [
+        "elephant",
+        "cargo",
+        "song"
+      ],
+      "meaning": {
+        "hi": "यह आया हाथी झूमता हुआ।",
+        "hinglish": "Yeh aaya haathi jhoomta hua."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "... swaying along with his ___ of children.",
+      "answer": "cargo",
+      "options": [
+        "cargo",
+        "song",
+        "way"
+      ],
+      "meaning": {
+        "hi": "बच्चों से लदा झूमता हुआ।",
+        "hinglish": "Bachchon se lada jhoomta hua."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "All singing a ___.",
+      "answer": "song",
+      "options": [
+        "song",
+        "laughter",
+        "way"
+      ],
+      "meaning": {
+        "hi": "सब गाना गाते हुए।",
+        "hinglish": "Sab gaana gaate hue."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "To the tinkle of ___ he goes on his way.",
+      "answer": "laughter",
+      "options": [
+        "laughter",
+        "children",
+        "cargo"
+      ],
+      "meaning": {
+        "hi": "हँसी की खनक के साथ वह अपने रास्ते चलता है।",
+        "hinglish": "Hansi ki khanak ke saath woh apne raaste chalta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "... he goes on his ___.",
+      "answer": "way",
+      "options": [
+        "way",
+        "song",
+        "cargo"
+      ],
+      "meaning": {
+        "hi": "वह अपने रास्ते चलता है।",
+        "hinglish": "Woh apne raaste chalta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.6.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "And his cargo of ___ have crowned him with may.",
+      "answer": "children",
+      "options": [
+        "children",
+        "laughter",
+        "song"
+      ],
+      "meaning": {
+        "hi": "और बच्चों ने उसे फूलों का मुकुट पहनाया।",
+        "hinglish": "Aur bachchon ne use phoolon ka mukut pehnaaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.6.S08",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "And his cargo of children have ___ him with may.",
+      "answer": "crowned",
+      "options": [
+        "crowned",
+        "cargo",
+        "way"
+      ],
+      "meaning": {
+        "hi": "बच्चों ने उसे फूलों का मुकुट पहनाया।",
+        "hinglish": "Bachchon ne use phoolon ka mukut pehnaaya."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.08.6.S09",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब (दोहराव 2): संकेतों से हाथी पर पाँच वाक्य लिखो। उदाहरण: huge — An elephant is a huge animal.",
+        "hinglish": "Kitaab (dohraav 2): sanketon se haathi par paanch vaakya likho. Udaharan: huge — An elephant is a huge animal.",
+        "en": "The book (Revision 2): write five sentences about an elephant with the clues. Example: huge — An elephant is a huge animal."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.08.6.S10",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: trunk",
+        "hinglish": "Sanket: trunk",
+        "en": "Clue: trunk"
+      },
+      "answer": "An elephant has a long trunk.",
+      "meaning": {
+        "hi": "हाथी की लंबी सूँड होती है।",
+        "hinglish": "Haathi ki lambi soond hoti hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.08.6.S11",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: tusks",
+        "hinglish": "Sanket: tusks",
+        "en": "Clue: tusks"
+      },
+      "answer": "It has two white tusks.",
+      "meaning": {
+        "hi": "उसके दो सफ़ेद दाँत होते हैं।",
+        "hinglish": "Uske do safed daant hote hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.08.6.S12",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: strong",
+        "hinglish": "Sanket: strong",
+        "en": "Clue: strong"
+      },
+      "answer": "It is a very strong animal.",
+      "meaning": {
+        "hi": "यह बहुत ताक़तवर जानवर है।",
+        "hinglish": "Yeh bahut taakatvar jaanwar hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.08.6.S13",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: heavy load",
+        "hinglish": "Sanket: heavy load",
+        "en": "Clue: heavy load"
+      },
+      "answer": "It can carry a heavy load.",
+      "meaning": {
+        "hi": "यह भारी बोझ उठा सकता है।",
+        "hinglish": "Yeh bhaari bojh utha sakta hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.08.6.S14",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: ride",
+        "hinglish": "Sanket: ride",
+        "en": "Clue: ride"
+      },
+      "answer": "We can ride on an elephant.",
+      "meaning": {
+        "hi": "हम हाथी की सवारी कर सकते हैं।",
+        "hinglish": "Hum haathi ki sawaari kar sakte hain."
+      }
+    }
+  ]
+}

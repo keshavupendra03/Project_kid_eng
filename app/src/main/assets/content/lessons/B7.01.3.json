@@ -1,0 +1,225 @@
+{
+  "id": "B7.01.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.01.3.S02",
+    "B7.01.3.S03",
+    "B7.01.3.S04",
+    "B7.01.3.S05",
+    "B7.01.3.S06",
+    "B7.01.3.S07",
+    "B7.01.3.S08",
+    "B7.01.3.S09",
+    "B7.01.3.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.01.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "‘Odd one out’ का मतलब: चार शब्दों में से वह शब्द जो बाकी से अलग है। जैसे river, pond, sea, road में road अलग है, क्योंकि बाकी सब में पानी है।",
+        "hinglish": "‘Odd one out’ ka matlab: chaar shabdon mein se woh shabd jo baaki se alag hai. Jaise river, pond, sea, road mein road alag hai, kyonki baaki sab mein paani hai.",
+        "en": "‘Odd one out’ means the word that is different from the others. In river, pond, sea, road, the odd one is road, because the others all have water."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Pick the odd word out: ship - boat - aeroplane - yacht",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो: जहाज़, नाव, हवाई जहाज़, याट",
+        "hinglish": "Alag shabd chuno: jahaaz, naav, hawaai jahaaz, yacht"
+      },
+      "options": [
+        "ship",
+        "boat",
+        "aeroplane",
+        "yacht"
+      ],
+      "answer": "aeroplane",
+      "modelAnswer": "aeroplane, because it flies. The others sail on water.",
+      "modelMeaning": {
+        "hi": "हवाई जहाज़, क्योंकि यह उड़ता है। बाकी सब पानी पर चलते हैं।",
+        "hinglish": "Hawaai jahaaz, kyonki yeh udta hai. Baaki sab paani par chalte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Pick the odd word out: cloud - star - moon - earth",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो: बादल, तारा, चाँद, धरती",
+        "hinglish": "Alag shabd chuno: baadal, taara, chaand, dharti"
+      },
+      "options": [
+        "cloud",
+        "star",
+        "moon",
+        "earth"
+      ],
+      "answer": "earth",
+      "modelAnswer": "earth, because we live on it. The others are in the sky.",
+      "modelMeaning": {
+        "hi": "धरती, क्योंकि हम उस पर रहते हैं। बाकी सब आसमान में हैं।",
+        "hinglish": "Dharti, kyonki hum us par rehte hain. Baaki sab aasmaan mein hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Pick the odd word out: sea - bus - tractor - car",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो: समुद्र, बस, ट्रैक्टर, कार",
+        "hinglish": "Alag shabd chuno: samudra, bus, tractor, car"
+      },
+      "options": [
+        "sea",
+        "bus",
+        "tractor",
+        "car"
+      ],
+      "answer": "sea",
+      "modelAnswer": "sea, because it is not a vehicle.",
+      "modelMeaning": {
+        "hi": "समुद्र, क्योंकि यह गाड़ी नहीं है।",
+        "hinglish": "Samudra, kyonki yeh gaadi nahi hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Pick the odd word out: green - orange - yellow - flower",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो: हरा, नारंगी, पीला, फूल",
+        "hinglish": "Alag shabd chuno: hara, naarangi, peela, phool"
+      },
+      "options": [
+        "green",
+        "orange",
+        "yellow",
+        "flower"
+      ],
+      "answer": "flower",
+      "modelAnswer": "flower, because it is not a colour.",
+      "modelMeaning": {
+        "hi": "फूल, क्योंकि यह रंग नहीं है।",
+        "hinglish": "Phool, kyonki yeh rang nahi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Ships ___ on seas.",
+      "answer": "sail",
+      "options": [
+        "sail",
+        "pretty",
+        "clouds"
+      ],
+      "meaning": {
+        "hi": "जहाज़ समुद्र में चलते हैं।",
+        "hinglish": "Jahaaz samudra mein chalte hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "I saw a ___ in the sky yesterday.",
+      "answer": "rainbow",
+      "options": [
+        "rainbow",
+        "pleases",
+        "sail"
+      ],
+      "meaning": {
+        "hi": "मैंने कल आसमान में इंद्रधनुष देखा।",
+        "hinglish": "Maine kal aasmaan mein indradhanush dekha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "___ are often seen in the sky in the rainy season.",
+      "answer": "Clouds",
+      "options": [
+        "Clouds",
+        "Pretty",
+        "Sail"
+      ],
+      "meaning": {
+        "hi": "बारिश के मौसम में आसमान में अक्सर बादल दिखते हैं।",
+        "hinglish": "Baarish ke mausam mein aasmaan mein aksar baadal dikhte hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Namrata is a ___ girl.",
+      "answer": "pretty",
+      "options": [
+        "pretty",
+        "rainbow",
+        "sail"
+      ],
+      "meaning": {
+        "hi": "नम्रता एक सुंदर लड़की है।",
+        "hinglish": "Namrata ek sundar ladki hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.3.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Natural beauty always ___ me.",
+      "answer": "pleases",
+      "options": [
+        "pleases",
+        "clouds",
+        "pretty"
+      ],
+      "meaning": {
+        "hi": "प्रकृति की सुंदरता मुझे हमेशा अच्छी लगती है।",
+        "hinglish": "Prakriti ki sundarta mujhe hamesha achhi lagti hai."
+      }
+    }
+  ]
+}

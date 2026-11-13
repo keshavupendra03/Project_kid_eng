@@ -1,0 +1,164 @@
+{
+  "id": "B8.10.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.10.1.S02",
+    "B8.10.1.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.10.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "यह कविता Rose Fyleman की है। बाज़ार के दिन एक गुब्बारे वाला रंग-बिरंगे गुब्बारों का गुच्छा लेकर आता है। हवा चलने पर गुब्बारे डोर खींचते हैं, और बच्चे सोचते हैं कि किसी दिन वह उन्हें आसमान में छोड़ देगा!",
+        "hinglish": "Yeh kavita Rose Fyleman ki hai. Baazaar ke din ek gubbaare waala rang-birange gubbaaron ka guchchha lekar aata hai. Hawa chalne par gubbaare dor kheenchte hain, aur bachche sochte hain ki kisi din woh unhe aasmaan mein chhod dega!",
+        "en": "This poem is by Rose Fyleman. On market days a balloon man comes with a bunch of colourful balloons. When the wind blows they tug at the string, and the children hope that one day he will let them fly into the sky!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Why do you like balloons?",
+      "questionMeaning": {
+        "hi": "तुम्हें गुब्बारे क्यों पसंद हैं?",
+        "hinglish": "Tumhe gubbaare kyon pasand hain?"
+      },
+      "options": [
+        "They are colourful and fun to play with.",
+        "They are heavy."
+      ],
+      "answer": "They are colourful and fun to play with.",
+      "modelAnswer": "Answer about yourself: I like balloons because they are colourful, light and fun to play with.",
+      "modelMeaning": {
+        "hi": "अपने बारे में बताओ: मुझे गुब्बारे पसंद हैं क्योंकि वे रंग-बिरंगे, हल्के और खेलने में मज़ेदार हैं।",
+        "hinglish": "Apne baare mein batao: Mujhe gubbaare pasand hain kyonki woh rang-birange, halke aur khelne mein mazedaar hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "On what occasions do you use balloons?",
+      "questionMeaning": {
+        "hi": "गुब्बारे किन मौक़ों पर लगाते हो?",
+        "hinglish": "Gubbaare kin maukon par lagaate ho?"
+      },
+      "options": [
+        "birthdays, weddings and festivals",
+        "only exams",
+        "never"
+      ],
+      "answer": "birthdays, weddings and festivals",
+      "modelAnswer": "We use balloons on birthdays, weddings, festivals, fairs and school functions.",
+      "modelMeaning": {
+        "hi": "हम जन्मदिन, शादी, त्योहार, मेले और स्कूल के कार्यक्रमों में गुब्बारे लगाते हैं।",
+        "hinglish": "Hum janmdin, shaadi, tyohaar, mele aur school ke kaaryakramon mein gubbaare lagaate hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.10.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "bunch",
+        "emoji": "",
+        "hindi": "गुच्छा",
+        "hinglish": "guchchha"
+      },
+      "meaning": "a group of things held together",
+      "example": "He holds a bunch of balloons.",
+      "exampleMeaning": {
+        "hi": "उसके हाथ में गुब्बारों का गुच्छा है।",
+        "hinglish": "Uske haath mein gubbaaron ka guchchha hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.10.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "market square",
+        "emoji": "",
+        "hindi": "बाज़ार का चौक",
+        "hinglish": "baazaar ka chauk"
+      },
+      "meaning": "an open place in the market",
+      "example": "He stays in the market square.",
+      "exampleMeaning": {
+        "hi": "वह बाज़ार के चौक में रहता है।",
+        "hinglish": "Woh baazaar ke chauk mein rehta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.10.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "tug",
+        "emoji": "",
+        "hindi": "झटके से खींचना",
+        "hinglish": "jhatke se kheenchna"
+      },
+      "meaning": "to pull hard",
+      "example": "The balloons tug at the string.",
+      "exampleMeaning": {
+        "hi": "गुब्बारे डोर खींचते हैं।",
+        "hinglish": "Gubbaare dor kheenchte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.10.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "sailing",
+        "emoji": "",
+        "hindi": "तैरते हुए जाना",
+        "hinglish": "tairte hue jaana"
+      },
+      "meaning": "moving smoothly through air or water",
+      "example": "We shall see them sailing high.",
+      "exampleMeaning": {
+        "hi": "हम उन्हें ऊपर तैरते देखेंगे।",
+        "hinglish": "Hum unhe upar tairte dekhenge."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.10.1.S08",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "balloon",
+        "emoji": "",
+        "hindi": "गुब्बारा",
+        "hinglish": "gubbaara"
+      }
+    }
+  ]
+}

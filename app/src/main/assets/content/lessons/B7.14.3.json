@@ -1,0 +1,226 @@
+{
+  "id": "B7.14.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.14.3.S02",
+    "B7.14.3.S03",
+    "B7.14.3.S04",
+    "B7.14.3.S05",
+    "B7.14.3.S06",
+    "B7.14.3.S07",
+    "B7.14.3.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.14.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "याद रखो: tomb (मक़बरा) में व्यक्ति वहीं दफ़न होता है। cenotaph में व्यक्ति वहाँ नहीं होता, यह बस उसकी याद में बना स्मारक है।",
+        "hinglish": "Yaad rakho: tomb (makbara) mein vyakti wahin dafan hota hai. Cenotaph mein vyakti wahan nahi hota, yeh bas uski yaad mein bana smaarak hai.",
+        "en": "Remember: in a tomb, the person is buried right there. A cenotaph is only a memorial; the person is not there."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.14.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर इमारत को cenotaph या tomb में रखो",
+        "hinglish": "Har imaarat ko cenotaph ya tomb mein rakho",
+        "en": "Classify into cenotaphs and tombs"
+      },
+      "groups": [
+        {
+          "id": "cenotaph",
+          "name": "cenotaph",
+          "emoji": "🕯️",
+          "meaning": {
+            "hi": "स्मारक",
+            "hinglish": "smaarak"
+          }
+        },
+        {
+          "id": "tomb",
+          "name": "tomb",
+          "emoji": "🕌",
+          "meaning": {
+            "hi": "मक़बरा",
+            "hinglish": "makbara"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "The Taj Mahal",
+          "emoji": "🕌",
+          "groups": [
+            "tomb"
+          ]
+        },
+        {
+          "text": "Amar Jyoti at Vijay Chowk",
+          "emoji": "🔥",
+          "groups": [
+            "cenotaph"
+          ]
+        },
+        {
+          "text": "Rajghat",
+          "emoji": "🌸",
+          "groups": [
+            "cenotaph"
+          ]
+        },
+        {
+          "text": "Humayun Ka Makbara",
+          "emoji": "🏛️",
+          "groups": [
+            "tomb"
+          ]
+        },
+        {
+          "text": "Chhatries at Orchha",
+          "emoji": "⛩️",
+          "groups": [
+            "cenotaph"
+          ]
+        },
+        {
+          "text": "Samadhi of Laxmibai",
+          "emoji": "⚔️",
+          "groups": [
+            "cenotaph"
+          ]
+        },
+        {
+          "text": "Chhatries at Maheshwar and Indore",
+          "emoji": "🏯",
+          "groups": [
+            "cenotaph"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "One word: one who serves in an army",
+      "questionMeaning": {
+        "hi": "एक शब्द: जो सेना में काम करता है",
+        "hinglish": "Ek shabd: jo sena mein kaam karta hai"
+      },
+      "options": [
+        "soldier",
+        "sailor",
+        "tourist"
+      ],
+      "answer": "soldier"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "One word: one who sails on a ship",
+      "questionMeaning": {
+        "hi": "एक शब्द: जो जहाज़ पर चलता है",
+        "hinglish": "Ek shabd: jo jahaaz par chalta hai"
+      },
+      "options": [
+        "sailor",
+        "soldier",
+        "tourist"
+      ],
+      "answer": "sailor"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "One word: a meeting place of rivers",
+      "questionMeaning": {
+        "hi": "एक शब्द: नदियों के मिलने की जगह",
+        "hinglish": "Ek shabd: nadiyon ke milne ki jagah"
+      },
+      "options": [
+        "confluence",
+        "monument",
+        "archaeology"
+      ],
+      "answer": "confluence"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "One word: a building built in memory of some event or person",
+      "questionMeaning": {
+        "hi": "एक शब्द: किसी घटना या व्यक्ति की याद में बनी इमारत",
+        "hinglish": "Ek shabd: kisi ghatna ya vyakti ki yaad mein bani imaarat"
+      },
+      "options": [
+        "monument",
+        "confluence",
+        "sailor"
+      ],
+      "answer": "monument"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "One word: a person who travels for pleasure",
+      "questionMeaning": {
+        "hi": "एक शब्द: जो मज़े के लिए घूमता है",
+        "hinglish": "Ek shabd: jo maze ke liye ghoomta hai"
+      },
+      "options": [
+        "tourist",
+        "soldier",
+        "archaeology"
+      ],
+      "answer": "tourist"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "One word: the study of history from old buildings and objects found in the ground",
+      "questionMeaning": {
+        "hi": "एक शब्द: ज़मीन से मिली पुरानी चीज़ों से इतिहास का अध्ययन",
+        "hinglish": "Ek shabd: zameen se mili puraani cheezon se itihaas ka adhyayan"
+      },
+      "options": [
+        "archaeology",
+        "monument",
+        "confluence"
+      ],
+      "answer": "archaeology"
+    }
+  ]
+}

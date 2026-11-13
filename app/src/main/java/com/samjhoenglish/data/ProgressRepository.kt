@@ -8,7 +8,9 @@ import com.samjhoenglish.content.StoryQuestion
 import com.samjhoenglish.content.WORD_MONTHLY
 import com.samjhoenglish.content.WORD_MONTHLY_PREFIX
 import com.samjhoenglish.content.WORD_REVIEW
+import com.samjhoenglish.content.isBookLesson
 import com.samjhoenglish.content.isExpressRound
+import com.samjhoenglish.content.nextSection
 import com.samjhoenglish.content.isReadingLesson
 import com.samjhoenglish.content.isWordPower
 import com.samjhoenglish.content.isWordTest
@@ -40,6 +42,8 @@ data class SessionPlan(
     val reviewCount: Int,
     /** Which lesson each step came from (revision steps come from other lessons). */
     val stepLessons: Map<String, String>,
+    /** Steps copied exactly from the school textbook. */
+    val bookSteps: Set<String> = emptySet(),
 )
 
 class ProgressRepository(
@@ -114,7 +118,8 @@ class ProgressRepository(
         }
 
         // A passage is too long to be a revision question, and a story question means nothing without it.
-        if (countsForReview && step !is ReadAlong && step !is StoryQuestion) {
+        // Textbook chapters are practised from their own screen, not in the daily revision.
+        if (countsForReview && step !is ReadAlong && step !is StoryQuestion && !lessonId.isBookLesson) {
             val box = Learning.nextBox(dao.item(childId, step.id)?.box ?: 1, outcome == Learning.Outcome.FIRST_TRY)
             dao.upsertItem(
                 ItemState(
@@ -147,6 +152,8 @@ class ProgressRepository(
         return when {
             lessonId.isWordPower -> wordPowerNext(lessonId, stars)
             lessonId.isReadingLesson -> Learning.nextPassage(readingOrder(), status)
+            // A section with 1 star asks for another go, like the journey; otherwise on to the next section.
+            lessonId.isBookLesson -> if (stars <= 1) lessonId else content.book().nextSection(lessonId)
             else -> Learning.nextLesson(content.levels().lessonOrder, status)
         }
     }
@@ -290,8 +297,9 @@ class ProgressRepository(
 
     private suspend fun basicSession(childId: Long, lessonId: String?): SessionPlan {
         if (lessonId != null) {
-            val steps = content.lesson(lessonId).steps
-            return SessionPlan(lessonId, steps, reviewCount = 0, stepLessons = steps.associate { it.id to lessonId })
+            val lesson = content.lesson(lessonId)
+            val steps = lesson.steps
+            return SessionPlan(lessonId, steps, reviewCount = 0, stepLessons = steps.associate { it.id to lessonId }, bookSteps = lesson.bookSteps.toSet())
         }
 
         val next = Learning.nextLesson(content.levels().lessonOrder, statusNow(childId))

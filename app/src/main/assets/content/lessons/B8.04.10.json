@@ -1,0 +1,111 @@
+{
+  "id": "B8.04.10",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.10.S02",
+    "B8.04.10.S03",
+    "B8.04.10.S04",
+    "B8.04.10.S05",
+    "B8.04.10.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.10.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: तुम अनुराग हो। घर के पास कुछ लोग एक हरा पेड़ काट रहे थे। अख़बार के संपादक को शिकायत का पत्र लिखो। शुरुआत: Sir, I would like to draw your attention to ... अंत: Yours truly।",
+        "hinglish": "Kitaab: tum Anurag ho. Ghar ke paas kuchh log ek hara ped kaat rahe the. Akhbaar ke sampaadak ko shikaayat ka patra likho. Shuruaat: Sir, I would like to draw your attention to ... Ant: Yours truly.",
+        "en": "The book: you are Anurag. Some people were cutting a green tree near your house. Write a letter of complaint to the editor. Begin: Sir, I would like to draw your attention to ... End: Yours truly."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.10.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "How do we end a letter to the editor?",
+      "questionMeaning": {
+        "hi": "संपादक को पत्र कैसे ख़त्म करें?",
+        "hinglish": "Sampaadak ko patra kaise khatm karein?"
+      },
+      "options": [
+        "Yours truly",
+        "Yours affectionately",
+        "Your loving son"
+      ],
+      "answer": "Yours truly"
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.04.10.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "पेड़ सबके लिए क़ीमती हैं।",
+        "hinglish": "Ped sabke liye keemti hain.",
+        "en": "Say how valuable trees are to everyone."
+      },
+      "answer": "Trees are valuable to all.",
+      "meaning": {
+        "hi": "पेड़ सबके लिए क़ीमती हैं।",
+        "hinglish": "Ped sabke liye keemti hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.04.10.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "पेड़ बारिश लाते हैं और हवा साफ़ रखते हैं।",
+        "hinglish": "Ped baarish laate hain aur hawa saaf rakhte hain.",
+        "en": "Tell two good things trees do."
+      },
+      "answer": "Trees bring rain and keep the air clean.",
+      "meaning": {
+        "hi": "पेड़ बारिश लाते हैं और हवा साफ़ रखते हैं।",
+        "hinglish": "Ped baarish laate hain aur hawa saaf rakhte hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.04.10.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "पेड़ काटना पर्यावरण के लिए ख़तरा है।",
+        "hinglish": "Ped kaatna paryaavaran ke liye khatra hai.",
+        "en": "Say what cutting them means for nature."
+      },
+      "answer": "Cutting trees is a threat to the environment.",
+      "meaning": {
+        "hi": "पेड़ काटना पर्यावरण के लिए ख़तरा है।",
+        "hinglish": "Ped kaatna paryaavaran ke liye khatra hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.04.10.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "अधिकारियों को सख़्त कार्रवाई करनी चाहिए।",
+        "hinglish": "Adhikaariyon ko sakht kaarrvaai karni chahiye.",
+        "en": "Ask officials to act firmly."
+      },
+      "answer": "The authorities should take strict action.",
+      "meaning": {
+        "hi": "अधिकारियों को सख़्त कार्रवाई करनी चाहिए।",
+        "hinglish": "Adhikaariyon ko sakht kaarrvaai karni chahiye."
+      }
+    }
+  ]
+}

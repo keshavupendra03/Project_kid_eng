@@ -1,0 +1,147 @@
+{
+  "id": "B8.02.11",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.11.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.11.S01",
+      "skills": [
+        "book.activity",
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "किताब: भारत के नक़्शे पर कम से कम दस नेशनल पार्क दिखाओ। यहाँ कुछ मशहूर पार्क और उनके राज्य हैं।",
+        "hinglish": "Kitaab: Bharat ke naqshe par kam se kam das National Park dikhaao. Yahan kuchh mashhoor park aur unke raajya hain.",
+        "en": "The book: mark at least ten National Parks on a map of India. Here are some famous parks and their states."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.02.11.S02",
+      "skills": [
+        "book.activity",
+        "vocab.places"
+      ],
+      "instruction": {
+        "hi": "पार्क को उसके राज्य से जोड़ो",
+        "hinglish": "Park ko uske raajya se jodo",
+        "en": "Join each park to its state"
+      },
+      "pairs": [
+        {
+          "left": "Kanha",
+          "right": "Madhya Pradesh",
+          "meaning": {
+            "hi": "कान्हा — मध्य प्रदेश",
+            "hinglish": "Kanha — Madhya Pradesh"
+          }
+        },
+        {
+          "left": "Jim Corbett",
+          "right": "Uttarakhand",
+          "meaning": {
+            "hi": "जिम कॉर्बेट — उत्तराखंड",
+            "hinglish": "Jim Corbett — Uttarakhand"
+          }
+        },
+        {
+          "left": "Kaziranga",
+          "right": "Assam",
+          "meaning": {
+            "hi": "काज़ीरंगा — असम",
+            "hinglish": "Kaziranga — Assam"
+          }
+        },
+        {
+          "left": "Gir",
+          "right": "Gujarat",
+          "meaning": {
+            "hi": "गिर — गुजरात",
+            "hinglish": "Gir — Gujarat"
+          }
+        },
+        {
+          "left": "Ranthambore",
+          "right": "Rajasthan",
+          "meaning": {
+            "hi": "रणथंभौर — राजस्थान",
+            "hinglish": "Ranthambore — Rajasthan"
+          }
+        },
+        {
+          "left": "Sundarbans",
+          "right": "West Bengal",
+          "meaning": {
+            "hi": "सुंदरबन — पश्चिम बंगाल",
+            "hinglish": "Sundarbans — West Bengal"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.11.S03",
+      "skills": [
+        "book.activity",
+        "vocab.places"
+      ],
+      "question": "Which of these National Parks is also in Madhya Pradesh?",
+      "questionMeaning": {
+        "hi": "इनमें से कौन सा पार्क भी मध्य प्रदेश में है?",
+        "hinglish": "Inmein se kaun sa park bhi Madhya Pradesh mein hai?"
+      },
+      "options": [
+        "Bandhavgarh",
+        "Kaziranga",
+        "Gir"
+      ],
+      "answer": "Bandhavgarh",
+      "modelAnswer": "Bandhavgarh, Pench, Satpura and Panna are also National Parks in Madhya Pradesh.",
+      "modelMeaning": {
+        "hi": "बांधवगढ़, पेंच, सतपुड़ा और पन्ना भी मध्य प्रदेश के नेशनल पार्क हैं।",
+        "hinglish": "Bandhavgarh, Pench, Satpura aur Panna bhi Madhya Pradesh ke National Park hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.11.S04",
+      "skills": [
+        "book.activity",
+        "vocab.places"
+      ],
+      "question": "Which animal is Gir famous for?",
+      "questionMeaning": {
+        "hi": "गिर किस जानवर के लिए मशहूर है?",
+        "hinglish": "Gir kis jaanwar ke liye mashhoor hai?"
+      },
+      "options": [
+        "Asiatic lions",
+        "one-horned rhinos",
+        "elephants"
+      ],
+      "answer": "Asiatic lions"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.11.S05",
+      "skills": [
+        "book.activity",
+        "vocab.places"
+      ],
+      "question": "Which animal is Kaziranga famous for?",
+      "questionMeaning": {
+        "hi": "काज़ीरंगा किस जानवर के लिए मशहूर है?",
+        "hinglish": "Kaziranga kis jaanwar ke liye mashhoor hai?"
+      },
+      "options": [
+        "one-horned rhinos",
+        "Asiatic lions",
+        "camels"
+      ],
+      "answer": "one-horned rhinos"
+    }
+  ]
+}

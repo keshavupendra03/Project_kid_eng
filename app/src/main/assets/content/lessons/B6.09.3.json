@@ -1,0 +1,251 @@
+{
+  "id": "B6.09.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.09.3.S02",
+    "B6.09.3.S03",
+    "B6.09.3.S04",
+    "B6.09.3.S05",
+    "B6.09.3.S06",
+    "B6.09.3.S07",
+    "B6.09.3.S08",
+    "B6.09.3.S09",
+    "B6.09.3.S10",
+    "B6.09.3.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.09.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 54-56 पर नाटक ‘The Cobbler and the Fairies’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 54-56 par naatak ‘The Cobbler and the Fairies’ padho. Phir jawab do.",
+        "en": "Read the play ‘The Cobbler and the Fairies’ on pages 54–56 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Denu was a washerman.",
+      "questionMeaning": {
+        "hi": "देनू धोबी था।",
+        "hinglish": "Denu dhobi tha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. Denu was a cobbler.",
+      "modelMeaning": {
+        "hi": "गलत। देनू मोची था।",
+        "hinglish": "Galat. Denu mochi tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The fairies made the shoes.",
+      "questionMeaning": {
+        "hi": "परियों ने जूते बनाए।",
+        "hinglish": "Pariyon ne joote banaaye."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Dhania sewed clothes for the fairies.",
+      "questionMeaning": {
+        "hi": "धनिया ने परियों के लिए कपड़े सिले।",
+        "hinglish": "Dhania ne pariyon ke liye kapde sile."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Denu made clothes for the fairies.",
+      "questionMeaning": {
+        "hi": "देनू ने परियों के लिए कपड़े बनाए।",
+        "hinglish": "Denu ne pariyon ke liye kapde banaaye."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. Dhania made the clothes.",
+      "modelMeaning": {
+        "hi": "गलत। कपड़े धनिया ने बनाए।",
+        "hinglish": "Galat. Kapde Dhania ne banaaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Dhania said that God will help them.",
+      "questionMeaning": {
+        "hi": "धनिया ने कहा कि भगवान मदद करेंगे।",
+        "hinglish": "Dhania ne kaha ki Bhagwaan madad karenge."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why was Denu worried?",
+      "questionMeaning": {
+        "hi": "देनू परेशान क्यों था?",
+        "hinglish": "Denu pareshaan kyon tha?"
+      },
+      "options": [
+        "It was his last piece of leather and he had no money.",
+        "His shoes were stolen.",
+        "His wife was ill."
+      ],
+      "answer": "It was his last piece of leather and he had no money.",
+      "modelAnswer": "Denu was worried because it was his last piece of leather and he had no money to buy more. He feared they would have no food.",
+      "modelMeaning": {
+        "hi": "देनू परेशान था क्योंकि आख़िरी चमड़ा बचा था और और ख़रीदने के पैसे नहीं थे। उसे डर था कि खाना नहीं मिलेगा।",
+        "hinglish": "Denu pareshaan tha kyonki aakhiri chamda bacha tha aur aur khareedne ke paise nahi the. Use dar tha ki khaana nahi milega."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did Denu find in his workshop next morning?",
+      "questionMeaning": {
+        "hi": "अगली सुबह देनू को काम की जगह पर क्या मिला?",
+        "hinglish": "Agli subah Denu ko kaam ki jagah par kya mila?"
+      },
+      "options": [
+        "a new pair of shining shoes",
+        "a bag of gold",
+        "a fairy sleeping"
+      ],
+      "answer": "a new pair of shining shoes",
+      "modelAnswer": "Next morning, Denu found a new pair of shoes shining bright in his workshop.",
+      "modelMeaning": {
+        "hi": "अगली सुबह देनू को अपनी जगह पर चमकते नए जूते मिले।",
+        "hinglish": "Agli subah Denu ko apni jagah par chamakte naye joote mile."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did Dhania make for the fairies?",
+      "questionMeaning": {
+        "hi": "धनिया ने परियों के लिए क्या बनाया?",
+        "hinglish": "Dhania ne pariyon ke liye kya banaaya?"
+      },
+      "options": [
+        "nice clothes",
+        "shoes",
+        "sweets"
+      ],
+      "answer": "nice clothes",
+      "modelAnswer": "Dhania made nice, bright and colourful clothes for the fairies.",
+      "modelMeaning": {
+        "hi": "धनिया ने परियों के लिए सुंदर रंग-बिरंगे कपड़े बनाए।",
+        "hinglish": "Dhania ne pariyon ke liye sundar rang-birange kapde banaaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.3.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How did Denu and Dhania find out who made the shoes?",
+      "questionMeaning": {
+        "hi": "देनू और धनिया को कैसे पता चला कि जूते कौन बनाता है?",
+        "hinglish": "Denu aur Dhania ko kaise pata chala ki joote kaun banaata hai?"
+      },
+      "options": [
+        "They hid behind the door at night and watched.",
+        "They asked their neighbours.",
+        "They put a camera."
+      ],
+      "answer": "They hid behind the door at night and watched.",
+      "modelAnswer": "They hid behind the door at night and saw five fairies come in and make the shoes.",
+      "modelMeaning": {
+        "hi": "उन्होंने रात को दरवाज़े के पीछे छिपकर देखा कि पाँच परियाँ आकर जूते बनाती हैं।",
+        "hinglish": "Unhone raat ko darwaaze ke peechhe chhipkar dekha ki paanch pariyaan aakar joote banaati hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.3.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the fairies do when they got new clothes?",
+      "questionMeaning": {
+        "hi": "नए कपड़े पाकर परियों ने क्या किया?",
+        "hinglish": "Naye kapde paakar pariyon ne kya kiya?"
+      },
+      "options": [
+        "They put them on happily and sang and danced all night.",
+        "They threw them away.",
+        "They sold them."
+      ],
+      "answer": "They put them on happily and sang and danced all night.",
+      "modelAnswer": "The fairies put on the new clothes happily and sang and danced all night.",
+      "modelMeaning": {
+        "hi": "परियों ने ख़ुशी से नए कपड़े पहने और सारी रात नाचीं-गाईं।",
+        "hinglish": "Pariyon ne khushi se naye kapde pehne aur saari raat naachin-gaayin."
+      }
+    }
+  ]
+}

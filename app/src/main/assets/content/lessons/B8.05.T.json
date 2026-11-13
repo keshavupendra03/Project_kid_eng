@@ -1,0 +1,197 @@
+{
+  "id": "B8.05.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.05.T.S01",
+    "B8.05.T.S02",
+    "B8.05.T.S03",
+    "B8.05.T.S04",
+    "B8.05.T.S05",
+    "B8.05.T.S06",
+    "B8.05.T.S07",
+    "B8.05.T.S08",
+    "B8.05.T.S09",
+    "B8.05.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.05.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What was the only pleasure of the miser?",
+      "questionMeaning": {
+        "hi": "कंजूस की इकलौती ख़ुशी?",
+        "hinglish": "Kanjoos ki iklauti khushi?"
+      },
+      "options": [
+        "to come every day and see his treasure",
+        "to spend money",
+        "to help his neighbours"
+      ],
+      "answer": "to come every day and see his treasure"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why did the miser make a terrible clatter?",
+      "questionMeaning": {
+        "hi": "शोर क्यों मचाया?",
+        "hinglish": "Shor kyon machaaya?"
+      },
+      "options": [
+        "because his treasure was gone",
+        "because he was happy",
+        "because he saw a snake"
+      ],
+      "answer": "because his treasure was gone"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.T.S03",
+      "skills": [
+        "book.words"
+      ],
+      "question": "chanced means ...",
+      "questionMeaning": {
+        "hi": "मतलब",
+        "hinglish": "Matlab"
+      },
+      "options": [
+        "happened",
+        "shopping"
+      ],
+      "answer": "happened"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Opposite of ‘harsh punishment’",
+      "questionMeaning": {
+        "hi": "उल्टा",
+        "hinglish": "Ulta"
+      },
+      "options": [
+        "mild punishment",
+        "hard punishment",
+        "dark punishment"
+      ],
+      "answer": "mild punishment"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "comb: which letter is silent?",
+      "questionMeaning": {
+        "hi": "चुप अक्षर",
+        "hinglish": "Chup akshar"
+      },
+      "options": [
+        "b",
+        "c",
+        "m"
+      ],
+      "answer": "b"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘treasure’?",
+      "questionMeaning": {
+        "hi": "तुकबंदी",
+        "hinglish": "Tukbandi"
+      },
+      "options": [
+        "pleasure",
+        "teacher",
+        "trees"
+      ],
+      "answer": "pleasure"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.T.S07",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Three things that can destroy one's future:",
+      "questionMeaning": {
+        "hi": "बर्बाद करने वाली तीन चीज़ें",
+        "hinglish": "Barbaad karne waali teen cheezein"
+      },
+      "options": [
+        "wine, pride and anger",
+        "peace, hope and honesty",
+        "love, self-confidence and friends"
+      ],
+      "answer": "wine, pride and anger"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "The bell ___ before we entered the class.",
+      "answer": "had rung",
+      "options": [
+        "had rung",
+        "had rang",
+        "has rung"
+      ],
+      "meaning": {
+        "hi": "हमारे आने से पहले घंटी बज चुकी थी।",
+        "hinglish": "Hamaare aane se pehle ghanti baj chuki thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.T.S09",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "I can ___ the birds singing.",
+      "answer": "hear",
+      "options": [
+        "hear",
+        "here"
+      ],
+      "meaning": {
+        "hi": "मैं पक्षियों का गाना सुन सकता हूँ।",
+        "hinglish": "Main pakshiyon ka gaana sun sakta hoon."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What organ do flies use to taste things?",
+      "questionMeaning": {
+        "hi": "मक्खियाँ किससे स्वाद लेती हैं?",
+        "hinglish": "Makkhiyaan kisse swaad leti hain?"
+      },
+      "options": [
+        "their feet",
+        "their wings",
+        "their eyes"
+      ],
+      "answer": "their feet"
+    }
+  ]
+}

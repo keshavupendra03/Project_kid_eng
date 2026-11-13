@@ -1,0 +1,362 @@
+{
+  "grade": 7,
+  "number": 1,
+  "emoji": "🌈",
+  "title": "The Rainbow",
+  "pages": "1–5",
+  "sections": [
+    {
+      "emoji": "🎵",
+      "title": ["सुनो और दोहराओ", "Suno aur dohraao", "Listen and Repeat"],
+      "book": true,
+      "skills": ["book.words", "read.passage"],
+      "steps": [
+        {"type": "learn_card", "text": [
+          "यह कविता Christina Rossetti की है। पहले मैं पढ़ूँगा, फिर तुम पढ़ना। जो शब्द सही पढ़ोगे वह हरा हो जाएगा।",
+          "Yeh kavita Christina Rossetti ki hai. Pehle main padhunga, phir tum padhna. Jo shabd sahi padhoge woh hara ho jaayega.",
+          "This poem is by Christina Rossetti. I'll read it first, then you read. Each word you read right turns green."]},
+        {"type": "read_along", "skills": ["read.passage", "speak.sentence"],
+          "title": ["इंद्रधनुष", "Indradhanush", "The Rainbow"],
+          "sentences": [
+            "Boats sail on the rivers,", "And ships sail on the seas;", "But clouds that sail across the sky", "Are prettier far than these.",
+            "",
+            "There are bridges on the rivers,", "As pretty as you please,", "But the bow that bridges heaven,", "And overtops the trees,", "And builds a road from earth to sky,", "Is prettier far than these."],
+          "lineMeanings": [
+            ["नदियों पर नावें चलती हैं,", "Nadiyon par naavein chalti hain,"],
+            ["और समुद्रों पर जहाज़;", "Aur samudron par jahaaz;"],
+            ["पर आसमान में तैरते बादल", "Par aasmaan mein tairte baadal"],
+            ["इन सबसे कहीं ज़्यादा सुंदर हैं।", "In sabse kahin zyaada sundar hain."],
+            ["", ""],
+            ["नदियों पर पुल बने हैं,", "Nadiyon par pul bane hain,"],
+            ["जितने चाहो उतने सुंदर,", "Jitne chaaho utne sundar,"],
+            ["पर वह धनुष (इंद्रधनुष) जो आसमान पर पुल बनाता है,", "Par woh dhanush (indradhanush) jo aasmaan par pul banaata hai,"],
+            ["और पेड़ों से भी ऊँचा है,", "Aur pedon se bhi ooncha hai,"],
+            ["और धरती से आसमान तक सड़क बनाता है,", "Aur dharti se aasmaan tak sadak banaata hai,"],
+            ["वह इन सबसे कहीं ज़्यादा सुंदर है।", "Woh in sabse kahin zyaada sundar hai."]
+          ],
+          "words": [
+            {"english": "sail", "hindi": "पानी या हवा में चलना", "hinglish": "paani ya hawa mein chalna"},
+            {"english": "bridges", "hindi": "पुल", "hinglish": "pul"},
+            {"english": "heaven", "hindi": "आसमान", "hinglish": "aasmaan"},
+            {"english": "overtops", "hindi": "ऊपर से निकल जाता है", "hinglish": "upar se nikal jaata hai"}
+          ]},
+        {"type": "choice", "book": true, "question": "Which word ends with the same sound as ‘trees’?",
+          "questionMeaning": ["कौन सा शब्द ‘trees’ जैसी आवाज़ पर ख़त्म होता है?", "Kaun sa shabd ‘trees’ jaisi awaaz par khatm hota hai?"],
+          "options": ["seas", "sky", "road"], "answer": "seas",
+          "modelAnswer": "trees, seas, these, please",
+          "modelMeaning": ["ये सब ‘ईज़’ की आवाज़ पर ख़त्म होते हैं।", "Yeh sab ‘eez’ ki awaaz par khatm hote hain."]},
+        {"type": "match_pairs", "book": true,
+          "instruction": ["हर वाक्य से तुकबंदी (rhyme) वाले शब्दों की जोड़ी बनाओ", "Har vaakya se tukbandi (rhyme) waale shabdon ki jodi banao", "Join the rhyming words from each sentence"],
+          "pairs": [
+            {"left": "bake", "right": "cake", "meaning": ["मुझे जन्मदिन का केक बनाना पसंद है।", "Mujhe janmdin ka cake banana pasand hai."]},
+            {"left": "king", "right": "sing", "meaning": ["एक बार एक राजा ने गाना सीखा।", "Ek baar ek raja ne gaana seekha."]},
+            {"left": "cat", "right": "mat", "meaning": ["एक बिल्ली चटाई पर बैठी।", "Ek billi chataai par baithi."]},
+            {"left": "boy", "right": "joy", "meaning": ["छोटा लड़का ख़ुशी से नाचा।", "Chhota ladka khushi se naacha."]},
+            {"left": "hen", "right": "pen", "meaning": ["एक मुर्गी ने पेन से लिखा।", "Ek murgi ne pen se likha."]},
+            {"left": "frog", "right": "log", "meaning": ["मेंढक लकड़ी के लट्ठे पर बैठा।", "Mendhak lakdi ke latthe par baitha."]}
+          ]},
+        {"type": "choice", "question": "Which word rhymes with ‘rain’?",
+          "questionMeaning": ["कौन सा शब्द ‘rain’ से तुक मिलाता है?", "Kaun sa shabd ‘rain’ se tuk milaata hai?"],
+          "options": ["train", "rose", "sun"], "answer": "train"}
+      ]
+    },
+    {
+      "emoji": "❓",
+      "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"],
+      "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"type": "learn_card", "text": [
+          "किताब के पेज 1 पर कविता ‘The Rainbow’ एक बार फिर पढ़ो। फिर सही विकल्प चुनो।",
+          "Kitaab ke page 1 par kavita ‘The Rainbow’ ek baar phir padho. Phir sahi vikalp chuno.",
+          "Read the poem ‘The Rainbow’ on page 1 of your book once more. Then choose the correct option."]},
+        {"type": "choice", "book": true, "question": "What do you think the poem is about?",
+          "questionMeaning": ["तुम्हें क्या लगता है, यह कविता किसके बारे में है?", "Tumhe kya lagta hai, yeh kavita kiske baare mein hai?"],
+          "options": ["clouds", "bridges", "rainbow"], "answer": "rainbow",
+          "modelAnswer": "The poem is about the rainbow.",
+          "modelMeaning": ["यह कविता इंद्रधनुष के बारे में है।", "Yeh kavita indradhanush ke baare mein hai."]},
+        {"type": "choice", "book": true, "question": "Where do boats and ships sail? (boats sail on - ships sail on)",
+          "questionMeaning": ["नावें और जहाज़ कहाँ चलते हैं?", "Naavein aur jahaaz kahan chalte hain?"],
+          "options": ["river - sea", "road - river", "sky - sea"], "answer": "river - sea",
+          "modelAnswer": "Boats sail on the rivers and ships sail on the seas.",
+          "modelMeaning": ["नावें नदियों में चलती हैं और जहाज़ समुद्र में चलते हैं।", "Naavein nadiyon mein chalti hain aur jahaaz samudra mein chalte hain."]},
+        {"type": "choice", "book": true, "question": "The rainbow makes a bridge ...",
+          "questionMeaning": ["इंद्रधनुष एक पुल बनाता है ...", "Indradhanush ek pul banaata hai ..."],
+          "options": ["over trains", "from the earth to the sky", "over tall buildings"], "answer": "from the earth to the sky",
+          "modelAnswer": "The rainbow makes a bridge from the earth to the sky.",
+          "modelMeaning": ["इंद्रधनुष धरती से आसमान तक एक पुल बनाता है।", "Indradhanush dharti se aasmaan tak ek pul banaata hai."]},
+        {"type": "choice", "book": true, "question": "The prettiest bridge is ...",
+          "questionMeaning": ["सबसे सुंदर पुल ... है।", "Sabse sundar pul ... hai."],
+          "options": ["made by clouds", "made by a rainbow", "made over rivers"], "answer": "made by a rainbow",
+          "modelAnswer": "The prettiest bridge is made by a rainbow.",
+          "modelMeaning": ["सबसे सुंदर पुल इंद्रधनुष बनाता है।", "Sabse sundar pul indradhanush banaata hai."]},
+        {"type": "choice", "book": true, "question": "The rainbow is the ...",
+          "questionMeaning": ["इंद्रधनुष सबसे ... है।", "Indradhanush sabse ... hai."],
+          "options": ["prettier", "pretty", "prettiest"], "answer": "prettiest",
+          "modelAnswer": "The rainbow is the prettiest.",
+          "modelMeaning": ["इंद्रधनुष सबसे सुंदर है।", "Indradhanush sabse sundar hai."]},
+        {"type": "say_sentence", "skills": ["speak.sentence", "book.comprehension"],
+          "sentence": "The rainbow builds a road from earth to sky.",
+          "meaning": ["इंद्रधनुष धरती से आसमान तक एक सड़क बनाता है।", "Indradhanush dharti se aasmaan tak ek sadak banaata hai.", "The rainbow builds a road from earth to sky."]}
+      ]
+    },
+    {
+      "emoji": "🔤",
+      "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"],
+      "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"type": "learn_card", "text": [
+          "‘Odd one out’ का मतलब: चार शब्दों में से वह शब्द जो बाकी से अलग है। जैसे river, pond, sea, road में road अलग है, क्योंकि बाकी सब में पानी है।",
+          "‘Odd one out’ ka matlab: chaar shabdon mein se woh shabd jo baaki se alag hai. Jaise river, pond, sea, road mein road alag hai, kyonki baaki sab mein paani hai.",
+          "‘Odd one out’ means the word that is different from the others. In river, pond, sea, road, the odd one is road, because the others all have water."]},
+        {"type": "choice", "book": true, "question": "Pick the odd word out: ship - boat - aeroplane - yacht",
+          "questionMeaning": ["अलग शब्द चुनो: जहाज़, नाव, हवाई जहाज़, याट", "Alag shabd chuno: jahaaz, naav, hawaai jahaaz, yacht"],
+          "options": ["ship", "boat", "aeroplane", "yacht"], "answer": "aeroplane",
+          "modelAnswer": "aeroplane, because it flies. The others sail on water.",
+          "modelMeaning": ["हवाई जहाज़, क्योंकि यह उड़ता है। बाकी सब पानी पर चलते हैं।", "Hawaai jahaaz, kyonki yeh udta hai. Baaki sab paani par chalte hain."]},
+        {"type": "choice", "book": true, "question": "Pick the odd word out: cloud - star - moon - earth",
+          "questionMeaning": ["अलग शब्द चुनो: बादल, तारा, चाँद, धरती", "Alag shabd chuno: baadal, taara, chaand, dharti"],
+          "options": ["cloud", "star", "moon", "earth"], "answer": "earth",
+          "modelAnswer": "earth, because we live on it. The others are in the sky.",
+          "modelMeaning": ["धरती, क्योंकि हम उस पर रहते हैं। बाकी सब आसमान में हैं।", "Dharti, kyonki hum us par rehte hain. Baaki sab aasmaan mein hain."]},
+        {"type": "choice", "book": true, "question": "Pick the odd word out: sea - bus - tractor - car",
+          "questionMeaning": ["अलग शब्द चुनो: समुद्र, बस, ट्रैक्टर, कार", "Alag shabd chuno: samudra, bus, tractor, car"],
+          "options": ["sea", "bus", "tractor", "car"], "answer": "sea",
+          "modelAnswer": "sea, because it is not a vehicle.",
+          "modelMeaning": ["समुद्र, क्योंकि यह गाड़ी नहीं है।", "Samudra, kyonki yeh gaadi nahi hai."]},
+        {"type": "choice", "book": true, "question": "Pick the odd word out: green - orange - yellow - flower",
+          "questionMeaning": ["अलग शब्द चुनो: हरा, नारंगी, पीला, फूल", "Alag shabd chuno: hara, naarangi, peela, phool"],
+          "options": ["green", "orange", "yellow", "flower"], "answer": "flower",
+          "modelAnswer": "flower, because it is not a colour.",
+          "modelMeaning": ["फूल, क्योंकि यह रंग नहीं है।", "Phool, kyonki yeh rang nahi hai."]},
+        {"type": "fill_blank", "book": true, "sentence": "Ships ___ on seas.", "answer": "sail", "options": ["sail", "pretty", "clouds"],
+          "meaning": ["जहाज़ समुद्र में चलते हैं।", "Jahaaz samudra mein chalte hain."]},
+        {"type": "fill_blank", "book": true, "sentence": "I saw a ___ in the sky yesterday.", "answer": "rainbow", "options": ["rainbow", "pleases", "sail"],
+          "meaning": ["मैंने कल आसमान में इंद्रधनुष देखा।", "Maine kal aasmaan mein indradhanush dekha."]},
+        {"type": "fill_blank", "book": true, "sentence": "___ are often seen in the sky in the rainy season.", "answer": "Clouds", "options": ["Clouds", "Pretty", "Sail"],
+          "meaning": ["बारिश के मौसम में आसमान में अक्सर बादल दिखते हैं।", "Baarish ke mausam mein aasmaan mein aksar baadal dikhte hain."]},
+        {"type": "fill_blank", "book": true, "sentence": "Namrata is a ___ girl.", "answer": "pretty", "options": ["pretty", "rainbow", "sail"],
+          "meaning": ["नम्रता एक सुंदर लड़की है।", "Namrata ek sundar ladki hai."]},
+        {"type": "fill_blank", "book": true, "sentence": "Natural beauty always ___ me.", "answer": "pleases", "options": ["pleases", "clouds", "pretty"],
+          "meaning": ["प्रकृति की सुंदरता मुझे हमेशा अच्छी लगती है।", "Prakriti ki sundarta mujhe hamesha achhi lagti hai."]}
+      ]
+    },
+    {
+      "emoji": "✏️",
+      "title": ["ग्रामर: pretty, prettier, prettiest", "Grammar: pretty, prettier, prettiest", "Grammar in Use: pretty, prettier, prettiest"],
+      "book": true,
+      "skills": ["book.grammar", "grammar.comparison"],
+      "steps": [
+        {"type": "learn_card", "text": [
+          "तुलना के तीन रूप: tall = लंबा, taller = ज़्यादा लंबा (दो में), tallest = सबसे लंबा (सब में)। Taller के बाद अक्सर ‘than’ आता है: Ravi is taller than Mohan.",
+          "Tulna ke teen roop: tall = lamba, taller = zyaada lamba (do mein), tallest = sabse lamba (sab mein). Taller ke baad aksar ‘than’ aata hai: Ravi is taller than Mohan.",
+          "Three forms for comparing: tall, taller (between two), tallest (of all). After taller we often use ‘than’: Ravi is taller than Mohan."]},
+        {"type": "learn_card", "text": [
+          "छोटा नियम: ज़्यादातर शब्दों में -er और -est जोड़ो (great, greater, greatest)। अगर शब्द y पर ख़त्म हो, तो y को i बनाओ: pretty, prettier, prettiest।",
+          "Chhota niyam: zyaadatar shabdon mein -er aur -est jodo (great, greater, greatest). Agar shabd y par khatm ho, to y ko i banao: pretty, prettier, prettiest.",
+          "A small rule: most words add -er and -est (great, greater, greatest). If a word ends in y, change y to i: pretty, prettier, prettiest."]},
+        {"type": "match_pairs", "book": true,
+          "instruction": ["हर शब्द को उसके ‘सबसे’ वाले रूप से जोड़ो", "Har shabd ko uske ‘sabse’ waale roop se jodo", "Join each word to its -est form"],
+          "pairs": [
+            {"left": "wise", "right": "wisest", "meaning": ["सबसे समझदार", "sabse samajhdaar"]},
+            {"left": "high", "right": "highest", "meaning": ["सबसे ऊँचा", "sabse ooncha"]},
+            {"left": "bright", "right": "brightest", "meaning": ["सबसे चमकीला", "sabse chamkeela"]},
+            {"left": "small", "right": "smallest", "meaning": ["सबसे छोटा", "sabse chhota"]},
+            {"left": "thick", "right": "thickest", "meaning": ["सबसे मोटा", "sabse mota"]},
+            {"left": "pretty", "right": "prettiest", "meaning": ["सबसे सुंदर", "sabse sundar"]}
+          ]},
+        {"type": "learn_card", "text": [
+          "किताब का उदाहरण: Shubhra is pretty. Her sister is prettier than her. अब किताब के शब्दों से तुम वाक्य बनाओ।",
+          "Kitaab ka udaharan: Shubhra is pretty. Her sister is prettier than her. Ab kitaab ke shabdon se tum vaakya banao.",
+          "The book's example: Shubhra is pretty. Her sister is prettier than her. Now make sentences with the book's words."]},
+        {"type": "build_sentence", "book": true,
+          "prompt": ["‘great - greater’: हमारी टीम महान है, पर उनकी टीम और भी महान है।", "‘great - greater’: Hamari team mahaan hai, par unki team aur bhi mahaan hai.", "Use ‘great - greater’ (two teams)."],
+          "answer": "Our team is great, but their team is greater.", "extra": ["greatest"],
+          "meaning": ["हमारी टीम बढ़िया है, पर उनकी टीम और भी बढ़िया है।", "Hamari team badhiya hai, par unki team aur bhi badhiya hai."]},
+        {"type": "build_sentence", "book": true,
+          "prompt": ["‘wise - wiser’: दादाजी पापा से ज़्यादा समझदार हैं।", "‘wise - wiser’: Daadaji Papa se zyaada samajhdaar hain.", "Use ‘wiser’ (grandfather and father)."],
+          "answer": "My grandfather is wiser than my father.", "extra": ["wisest"],
+          "meaning": ["मेरे दादाजी मेरे पापा से ज़्यादा समझदार हैं।", "Mere daadaji mere papa se zyaada samajhdaar hain."]},
+        {"type": "build_sentence", "book": true,
+          "prompt": ["‘bright - brighter’: सूरज चाँद से ज़्यादा चमकीला है।", "‘bright - brighter’: Sooraj chaand se zyaada chamkeela hai.", "Use ‘brighter’ (the sun and the moon)."],
+          "answer": "The sun is brighter than the moon.", "extra": ["brightest"],
+          "meaning": ["सूरज चाँद से ज़्यादा चमकीला है।", "Sooraj chaand se zyaada chamkeela hai."]},
+        {"type": "build_sentence", "book": true,
+          "prompt": ["‘fresh - fresher’: यह आम उस आम से ज़्यादा ताज़ा है।", "‘fresh - fresher’: Yeh aam us aam se zyaada taaza hai.", "Use ‘fresher’ (two mangoes)."],
+          "answer": "This mango is fresher than that one.", "extra": ["freshest"],
+          "meaning": ["यह आम उस वाले से ज़्यादा ताज़ा है।", "Yeh aam us waale se zyaada taaza hai."]},
+        {"type": "build_sentence", "book": true,
+          "prompt": ["‘high - higher’: पहाड़ पहाड़ी से ज़्यादा ऊँचा है।", "‘high - higher’: Pahaad pahaadi se zyaada ooncha hai.", "Use ‘higher’ (a mountain and a hill)."],
+          "answer": "The mountain is higher than the hill.", "extra": ["highest"],
+          "meaning": ["पहाड़ पहाड़ी से ज़्यादा ऊँचा है।", "Pahaad pahaadi se zyaada ooncha hai."]},
+        {"type": "fill_blank", "sentence": "Mount Everest is the ___ mountain in the world.", "answer": "highest", "options": ["highest", "higher", "high"],
+          "meaning": ["माउंट एवरेस्ट दुनिया का सबसे ऊँचा पहाड़ है।", "Mount Everest duniya ka sabse ooncha pahaad hai."]},
+        {"type": "fill_blank", "sentence": "An elephant is ___ than a horse.", "answer": "bigger", "options": ["bigger", "biggest", "big"],
+          "meaning": ["हाथी घोड़े से बड़ा होता है।", "Haathi ghode se bada hota hai."]},
+        {"type": "spot_mistake", "words": ["Rita", "is", "tallest", "than", "Sita."], "wrong": 2, "fix": "taller",
+          "meaning": ["रीता सीता से लंबी है।", "Reeta Sita se lambi hai."]},
+        {"type": "choice", "question": "pretty → prettier → ?", "questionMeaning": ["pretty का ‘सबसे’ वाला रूप क्या है?", "pretty ka ‘sabse’ waala roop kya hai?"],
+          "options": ["prettiest", "prettyest", "most pretty"], "answer": "prettiest"}
+      ]
+    },
+    {
+      "emoji": "💬",
+      "title": ["चलो बात करें", "Chalo baat karein", "Let's Talk"],
+      "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"type": "choice", "book": true, "question": "In which season is a rainbow often seen in the sky?",
+          "questionMeaning": ["आसमान में इंद्रधनुष अक्सर किस मौसम में दिखता है?", "Aasmaan mein indradhanush aksar kis mausam mein dikhta hai?"],
+          "options": ["in the rainy season", "in the winter", "in the summer"], "answer": "in the rainy season",
+          "modelAnswer": "A rainbow is often seen in the rainy season.",
+          "modelMeaning": ["इंद्रधनुष अक्सर बारिश के मौसम में दिखता है।", "Indradhanush aksar baarish ke mausam mein dikhta hai."]},
+        {"type": "choice", "book": true, "question": "How many colours are there in a rainbow?",
+          "questionMeaning": ["इंद्रधनुष में कितने रंग होते हैं?", "Indradhanush mein kitne rang hote hain?"],
+          "options": ["seven", "five", "ten"], "answer": "seven",
+          "modelAnswer": "There are seven colours in a rainbow.",
+          "modelMeaning": ["इंद्रधनुष में सात रंग होते हैं।", "Indradhanush mein saat rang hote hain."]},
+        {"type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "🌈", "turns": [
+          {"id": "seen", "tinku": "Have you ever seen a rainbow?",
+            "meaning": ["क्या तुमने कभी इंद्रधनुष देखा है?", "Kya tumne kabhi indradhanush dekha hai?"],
+            "replies": [
+              {"say": "Yes, I have seen a rainbow.", "meaning": ["हाँ, मैंने इंद्रधनुष देखा है।", "Haan, maine indradhanush dekha hai."], "patterns": ["yes *", "yes"]},
+              {"say": "No, I have not seen a rainbow.", "meaning": ["नहीं, मैंने इंद्रधनुष नहीं देखा।", "Nahi, maine indradhanush nahi dekha."], "patterns": ["no *", "no"]}
+            ]},
+          {"id": "colour", "tinku": "Which colour of the rainbow do you like the most?",
+            "meaning": ["इंद्रधनुष का कौन सा रंग तुम्हें सबसे ज़्यादा पसंद है?", "Indradhanush ka kaun sa rang tumhe sabse zyaada pasand hai?"],
+            "replies": [
+              {"say": "I like blue the most.", "meaning": ["मुझे नीला सबसे ज़्यादा पसंद है। (कोई और रंग भी बोल सकते हो)", "Mujhe neela sabse zyaada pasand hai. (Koi aur rang bhi bol sakte ho)"], "patterns": ["i like *", "*", "* *", "* * *"], "next": "end"}
+            ]}
+        ]},
+        {"type": "match_pairs", "book": true,
+          "instruction": ["किताब के दोनों कॉलम मिलाओ (Match the two columns)", "Kitaab ke dono column milaao (Match the two columns)", "Match the two columns"],
+          "pairs": [
+            {"left": "A rainbow", "right": "in rainy season", "meaning": ["इंद्रधनुष बारिश के मौसम में", "Indradhanush baarish ke mausam mein"]},
+            {"left": "A rocket", "right": "in space", "meaning": ["रॉकेट अंतरिक्ष में", "Rocket antariksh mein"]},
+            {"left": "An aeroplane", "right": "flies in the sky", "meaning": ["हवाई जहाज़ आसमान में उड़ता है", "Hawaai jahaaz aasmaan mein udta hai"]},
+            {"left": "A bridge", "right": "over the river", "meaning": ["पुल नदी के ऊपर", "Pul nadi ke upar"]},
+            {"left": "A road", "right": "from one place to another place", "meaning": ["सड़क एक जगह से दूसरी जगह तक", "Sadak ek jagah se doosri jagah tak"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "📝",
+      "title": ["चलो लिखें", "Chalo likhein", "Let's Write"],
+      "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"type": "learn_card", "text": [
+          "किताब कहती है: ‘rainbow’ पर एक पैराग्राफ़ लिखो। चलो एक-एक वाक्य बनाते हैं।",
+          "Kitaab kehti hai: ‘rainbow’ par ek paragraph likho. Chalo ek-ek vaakya banaate hain.",
+          "The book says: write a paragraph on ‘rainbow’. Let's build it one sentence at a time."]},
+        {"type": "build_sentence", "book": true,
+          "prompt": ["इंद्रधनुष बहुत सुंदर होता है।", "Indradhanush bahut sundar hota hai.", "Say that a rainbow is very beautiful."],
+          "answer": "A rainbow is very beautiful.", "meaning": ["इंद्रधनुष बहुत सुंदर होता है।", "Indradhanush bahut sundar hota hai."]},
+        {"type": "build_sentence", "book": true,
+          "prompt": ["यह बारिश के मौसम में आसमान में दिखता है।", "Yeh baarish ke mausam mein aasmaan mein dikhta hai.", "Say where and when we see it."],
+          "answer": "We see it in the sky in the rainy season.", "meaning": ["हम इसे बारिश के मौसम में आसमान में देखते हैं।", "Hum ise baarish ke mausam mein aasmaan mein dekhte hain."]},
+        {"type": "build_sentence", "book": true,
+          "prompt": ["यह बादलों के बीच एक सुंदर पुल जैसा लगता है।", "Yeh baadalon ke beech ek sundar pul jaisa lagta hai.", "Say what it looks like among the clouds."],
+          "answer": "It looks like a pretty bridge in the clouds.", "meaning": ["यह बादलों में एक सुंदर पुल जैसा लगता है।", "Yeh baadalon mein ek sundar pul jaisa lagta hai."]},
+        {"type": "build_sentence", "book": true,
+          "prompt": ["इंद्रधनुष में सात रंग होते हैं।", "Indradhanush mein saat rang hote hain.", "Say how many colours it has."],
+          "answer": "A rainbow has seven colours.", "meaning": ["इंद्रधनुष में सात रंग होते हैं।", "Indradhanush mein saat rang hote hain."]},
+        {"type": "learn_card", "text": [
+          "पूरा पैराग्राफ़ अपनी कॉपी में ऐसे लिखो: A rainbow is very beautiful. We see it in the sky in the rainy season. It comes when the sun shines after the rain. It looks like a pretty bridge in the clouds. A rainbow has seven colours: violet, indigo, blue, green, yellow, orange and red.",
+          "Poora paragraph apni copy mein aise likho: A rainbow is very beautiful. We see it in the sky in the rainy season. It comes when the sun shines after the rain. It looks like a pretty bridge in the clouds. A rainbow has seven colours: violet, indigo, blue, green, yellow, orange and red.",
+          "Write the whole paragraph in your notebook: A rainbow is very beautiful. We see it in the sky in the rainy season. It comes when the sun shines after the rain. It looks like a pretty bridge in the clouds. A rainbow has seven colours: violet, indigo, blue, green, yellow, orange and red."]}
+      ]
+    },
+    {
+      "emoji": "🎨",
+      "title": ["चलो करके देखें", "Chalo karke dekhein", "Let's Do It"],
+      "book": true,
+      "skills": ["book.activity", "vocab.colours"],
+      "steps": [
+        {"type": "learn_card", "text": [
+          "इंद्रधनुष के रंग याद करने की ट्रिक: VIBGYOR = Violet, Indigo, Blue, Green, Yellow, Orange, Red। किताब में इंद्रधनुष बनाओ और इन्हीं रंगों के नाम लिखो।",
+          "Indradhanush ke rang yaad karne ki trick: VIBGYOR = Violet, Indigo, Blue, Green, Yellow, Orange, Red. Kitaab mein indradhanush banao aur inhi rangon ke naam likho.",
+          "A trick to remember the rainbow's colours: VIBGYOR = Violet, Indigo, Blue, Green, Yellow, Orange, Red. Draw a rainbow in your book and write these colour names."]},
+        {"type": "match_pairs", "book": true,
+          "instruction": ["इंद्रधनुष के हर रंग को उसके हिंदी नाम से जोड़ो", "Indradhanush ke har rang ko uske Hindi naam se jodo", "Join each rainbow colour to its Hindi name"],
+          "pairs": [
+            {"left": "violet", "right": "बैंगनी", "meaning": ["बैंगनी", "baingani"]},
+            {"left": "indigo", "right": "जामुनी (गहरा नीला)", "meaning": ["जामुनी", "jaamuni"]},
+            {"left": "blue", "right": "नीला", "meaning": ["नीला", "neela"]},
+            {"left": "green", "right": "हरा", "meaning": ["हरा", "hara"]},
+            {"left": "yellow", "right": "पीला", "meaning": ["पीला", "peela"]},
+            {"left": "orange", "right": "नारंगी", "meaning": ["नारंगी", "naarangi"]},
+            {"left": "red", "right": "लाल", "meaning": ["लाल", "laal"]}
+          ]},
+        {"type": "choice", "question": "Which is the first colour of a rainbow (VIBGYOR)?",
+          "questionMeaning": ["इंद्रधनुष का पहला रंग कौन सा है?", "Indradhanush ka pehla rang kaun sa hai?"],
+          "options": ["violet", "red", "green"], "answer": "violet"},
+        {"type": "choice", "question": "Which is the last colour of a rainbow (VIBGYOR)?",
+          "questionMeaning": ["इंद्रधनुष का आख़िरी रंग कौन सा है?", "Indradhanush ka aakhiri rang kaun sa hai?"],
+          "options": ["red", "blue", "yellow"], "answer": "red"}
+      ]
+    },
+    {
+      "emoji": "🌟",
+      "title": ["और सीखो: मौसम और आसमान", "Aur seekho: mausam aur aasmaan", "Learn more: weather and sky"],
+      "book": false,
+      "skills": ["vocab.nature"],
+      "steps": [
+        {"type": "learn_card", "text": [
+          "इंद्रधनुष तब बनता है जब बारिश के बाद धूप निकलती है। सूरज की रोशनी पानी की बूँदों से गुज़रकर सात रंगों में बँट जाती है।",
+          "Indradhanush tab banta hai jab baarish ke baad dhoop nikalti hai. Sooraj ki roshni paani ki boondon se guzarkar saat rangon mein bant jaati hai.",
+          "A rainbow comes when the sun shines after rain. Sunlight passes through raindrops and splits into seven colours."]},
+        {"type": "match_pairs",
+          "instruction": ["मौसम के शब्दों को उनके मतलब से जोड़ो", "Mausam ke shabdon ko unke matlab se jodo", "Join the weather words to their meanings"],
+          "pairs": [
+            {"left": "sunny", "right": "full of sunshine", "meaning": ["धूप वाला", "dhoop waala"]},
+            {"left": "cloudy", "right": "full of clouds", "meaning": ["बादलों वाला", "baadalon waala"]},
+            {"left": "rainy", "right": "with a lot of rain", "meaning": ["बारिश वाला", "baarish waala"]},
+            {"left": "windy", "right": "with a lot of wind", "meaning": ["तेज़ हवा वाला", "tez hawa waala"]},
+            {"left": "stormy", "right": "with strong wind and rain", "meaning": ["तूफ़ानी", "toofaani"]}
+          ]},
+        {"type": "match_pairs",
+          "instruction": ["मौसमों (seasons) को उनके हिंदी नाम से जोड़ो", "Mausamon (seasons) ko unke Hindi naam se jodo", "Join the seasons to their Hindi names"],
+          "pairs": [
+            {"left": "summer", "right": "गर्मी", "meaning": ["गर्मी का मौसम", "garmi ka mausam"]},
+            {"left": "winter", "right": "सर्दी", "meaning": ["सर्दी का मौसम", "sardi ka mausam"]},
+            {"left": "rainy season", "right": "बरसात", "meaning": ["बारिश का मौसम", "baarish ka mausam"]},
+            {"left": "spring", "right": "बसंत", "meaning": ["बसंत ऋतु", "basant ritu"]}
+          ]},
+        {"type": "fill_blank", "sentence": "Take an umbrella. The sky is full of dark ___.", "answer": "clouds", "options": ["clouds", "stars", "rainbows"],
+          "meaning": ["छाता ले लो। आसमान काले बादलों से भरा है।", "Chhaata le lo. Aasmaan kaale baadalon se bhara hai."]},
+        {"type": "fill_blank", "sentence": "A rainbow comes when the sun shines after the ___.", "answer": "rain", "options": ["rain", "night", "wind"],
+          "meaning": ["इंद्रधनुष तब आता है जब बारिश के बाद धूप निकलती है।", "Indradhanush tab aata hai jab baarish ke baad dhoop nikalti hai."]}
+      ]
+    },
+    {
+      "emoji": "🏆",
+      "title": ["पाठ 1 का टेस्ट", "Paath 1 ka test", "Lesson 1 test"],
+      "test": true,
+      "skills": ["book.words"],
+      "steps": [
+        {"type": "choice", "book": true, "skills": ["book.comprehension"], "question": "What do you think the poem is about?",
+          "questionMeaning": ["यह कविता किसके बारे में है?", "Yeh kavita kiske baare mein hai?"], "options": ["clouds", "bridges", "rainbow"], "answer": "rainbow"},
+        {"type": "choice", "book": true, "skills": ["book.comprehension"], "question": "The rainbow makes a bridge ...",
+          "questionMeaning": ["इंद्रधनुष एक पुल बनाता है ...", "Indradhanush ek pul banaata hai ..."], "options": ["over trains", "from the earth to the sky", "over tall buildings"], "answer": "from the earth to the sky"},
+        {"type": "choice", "book": true, "skills": ["book.words"], "question": "Pick the odd word out: green - orange - yellow - flower",
+          "questionMeaning": ["अलग शब्द चुनो", "Alag shabd chuno"], "options": ["green", "orange", "yellow", "flower"], "answer": "flower"},
+        {"type": "fill_blank", "book": true, "skills": ["book.words"], "sentence": "Ships ___ on seas.", "answer": "sail", "options": ["sail", "pretty", "clouds"],
+          "meaning": ["जहाज़ समुद्र में चलते हैं।", "Jahaaz samudra mein chalte hain."]},
+        {"type": "fill_blank", "book": true, "skills": ["book.words"], "sentence": "Natural beauty always ___ me.", "answer": "pleases", "options": ["pleases", "clouds", "pretty"],
+          "meaning": ["प्रकृति की सुंदरता मुझे हमेशा अच्छी लगती है।", "Prakriti ki sundarta mujhe hamesha achhi lagti hai."]},
+        {"type": "choice", "book": true, "skills": ["book.words"], "question": "Which word rhymes with ‘king’?",
+          "questionMeaning": ["कौन सा शब्द ‘king’ से तुक मिलाता है?", "Kaun sa shabd ‘king’ se tuk milaata hai?"], "options": ["sing", "cake", "log"], "answer": "sing"},
+        {"type": "fill_blank", "skills": ["book.grammar", "grammar.comparison"], "sentence": "The sun is ___ than the moon.", "answer": "brighter", "options": ["brighter", "brightest", "bright"],
+          "meaning": ["सूरज चाँद से ज़्यादा चमकीला है।", "Sooraj chaand se zyaada chamkeela hai."]},
+        {"type": "choice", "book": true, "skills": ["book.grammar", "grammar.comparison"], "question": "wise → wiser → ?",
+          "questionMeaning": ["wise का ‘सबसे’ वाला रूप?", "wise ka ‘sabse’ waala roop?"], "options": ["wisest", "wiseest", "most wise"], "answer": "wisest"},
+        {"type": "choice", "book": true, "skills": ["book.talk"], "question": "How many colours are there in a rainbow?",
+          "questionMeaning": ["इंद्रधनुष में कितने रंग होते हैं?", "Indradhanush mein kitne rang hote hain?"], "options": ["seven", "five", "ten"], "answer": "seven"},
+        {"type": "choice", "book": true, "skills": ["book.talk"], "question": "Match: A rocket ...",
+          "questionMeaning": ["मिलाओ: रॉकेट ...", "Milaao: Rocket ..."], "options": ["in space", "over the river", "in rainy season"], "answer": "in space"}
+      ]
+    }
+  ]
+}

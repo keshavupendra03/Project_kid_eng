@@ -1,0 +1,269 @@
+{
+  "id": "B8.07.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.07.3.S02",
+    "B8.07.3.S03",
+    "B8.07.3.S04",
+    "B8.07.3.S05",
+    "B8.07.3.S06",
+    "B8.07.3.S08",
+    "B8.07.3.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.07.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 56-58 पर बातचीत पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 56-58 par baatcheet padho, phir jawab do.",
+        "en": "Read the dialogue on pages 56–58 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is a disaster?",
+      "questionMeaning": {
+        "hi": "आपदा क्या है?",
+        "hinglish": "Aapda kya hai?"
+      },
+      "options": [
+        "an unexpected event like a flood or fire that causes great damage",
+        "a big festival",
+        "a kind of rain"
+      ],
+      "answer": "an unexpected event like a flood or fire that causes great damage",
+      "modelAnswer": "A disaster is an unexpected event, such as an accident, a flood or a fire. It kills or injures a lot of people or causes a lot of damage to property.",
+      "modelMeaning": {
+        "hi": "आपदा एक अचानक होने वाली घटना है, जैसे दुर्घटना, बाढ़ या आग। इसमें बहुत लोग मरते या घायल होते हैं, या संपत्ति का बहुत नुक़सान होता है।",
+        "hinglish": "Aapda ek achaanak hone waali ghatna hai, jaise durghatna, baadh ya aag. Ismein bahut log marte ya ghaayal hote hain, ya sampatti ka bahut nuksaan hota hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What are epidemics?",
+      "questionMeaning": {
+        "hi": "महामारी क्या है?",
+        "hinglish": "Mahaamaari kya hai?"
+      },
+      "options": [
+        "infectious diseases that spread over a large population",
+        "heavy rains",
+        "broken dams"
+      ],
+      "answer": "infectious diseases that spread over a large population",
+      "modelAnswer": "Epidemics are infectious diseases which spread over a large population through contaminated water, food and air.",
+      "modelMeaning": {
+        "hi": "महामारी ऐसी संक्रामक बीमारियाँ हैं जो गंदे पानी, खाने और हवा से बहुत लोगों में फैलती हैं।",
+        "hinglish": "Mahaamaari aisi sankraamak beemaariyaan hain jo gande paani, khaane aur hawa se bahut logon mein phailti hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What are the ill effects of floods?",
+      "questionMeaning": {
+        "hi": "बाढ़ के बुरे असर क्या हैं?",
+        "hinglish": "Baadh ke bure asar kya hain?"
+      },
+      "options": [
+        "loss of life and property, epidemics and soil erosion",
+        "more fish for everyone",
+        "cooler weather"
+      ],
+      "answer": "loss of life and property, epidemics and soil erosion",
+      "modelAnswer": "The ill effects of floods are destruction of life and property, epidemics like cholera and malaria, and soil erosion.",
+      "modelMeaning": {
+        "hi": "बाढ़ से जान-माल का नुक़सान, हैज़ा-मलेरिया जैसी महामारियाँ और मिट्टी का कटाव होता है।",
+        "hinglish": "Baadh se jaan-maal ka nuksaan, haiza-malaria jaisi mahaamaariyaan aur mitti ka kataav hota hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How are human beings responsible for causing floods?",
+      "questionMeaning": {
+        "hi": "बाढ़ के लिए इंसान कैसे ज़िम्मेदार हैं?",
+        "hinglish": "Baadh ke liye insaan kaise zimmedaar hain?"
+      },
+      "options": [
+        "by deforestation, faulty dams and breaches in embankments",
+        "by planting trees",
+        "by saving water"
+      ],
+      "answer": "by deforestation, faulty dams and breaches in embankments",
+      "modelAnswer": "Human beings cause floods by deforestation, faulty dam construction and breaches in embankments, for example by railway routes near river banks.",
+      "modelMeaning": {
+        "hi": "इंसान जंगल काटकर, गलत बाँध बनाकर और तटबंधों में दरार डालकर (जैसे नदी किनारे रेल लाइन) बाढ़ का कारण बनते हैं।",
+        "hinglish": "Insaan jungle kaatkar, galat baandh banaakar aur tatbandhon mein daraar daalkar (jaise nadi kinaare rail line) baadh ka kaaran bante hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How is our life affected by floods?",
+      "questionMeaning": {
+        "hi": "बाढ़ से हमारी ज़िंदगी पर क्या असर होता है?",
+        "hinglish": "Baadh se hamaari zindagi par kya asar hota hai?"
+      },
+      "options": [
+        "We lose homes, cattle and health, and diseases spread.",
+        "We get a long holiday only.",
+        "Nothing changes."
+      ],
+      "answer": "We lose homes, cattle and health, and diseases spread.",
+      "modelAnswer": "Floods destroy our homes, crops and cattle. Diseases like cholera, malaria and diarrhoea spread, and the soil is washed away.",
+      "modelMeaning": {
+        "hi": "बाढ़ से घर, फ़सलें और पशु बर्बाद होते हैं। हैज़ा, मलेरिया, दस्त जैसी बीमारियाँ फैलती हैं और मिट्टी बह जाती है।",
+        "hinglish": "Baadh se ghar, fasalein aur pashu barbaad hote hain. Haiza, malaria, dast jaisi beemaariyaan phailti hain aur mitti beh jaati hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.07.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "(B) बाढ़ में बचाव के तरीक़े: सही को ‘करो’ में, गलत को ‘मत करो’ में रखो।",
+        "hinglish": "(B) Baadh mein bachaav ke tareeqe: sahi ko ‘karo’ mein, galat ko ‘mat karo’ mein rakho.",
+        "en": "(B) Safety measures during a flood: put each one in Do or Don't."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.07.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "बाढ़ में क्या करें, क्या न करें?",
+        "hinglish": "Baadh mein kya karein, kya na karein?",
+        "en": "In a flood: do or don't?"
+      },
+      "groups": [
+        {
+          "id": "do",
+          "name": "Do",
+          "emoji": "✅",
+          "meaning": {
+            "hi": "करो",
+            "hinglish": "karo"
+          }
+        },
+        {
+          "id": "dont",
+          "name": "Don't",
+          "emoji": "⛔",
+          "meaning": {
+            "hi": "मत करो",
+            "hinglish": "mat karo"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "stay calm",
+          "emoji": "😌",
+          "groups": [
+            "do"
+          ]
+        },
+        {
+          "text": "move to a higher place",
+          "emoji": "⛰️",
+          "groups": [
+            "do"
+          ]
+        },
+        {
+          "text": "free the cattle",
+          "emoji": "🐄",
+          "groups": [
+            "do"
+          ]
+        },
+        {
+          "text": "take a torch and food",
+          "emoji": "🔦",
+          "groups": [
+            "do"
+          ]
+        },
+        {
+          "text": "go near the river",
+          "emoji": "🌊",
+          "groups": [
+            "dont"
+          ]
+        },
+        {
+          "text": "climb a tree",
+          "emoji": "🌳",
+          "groups": [
+            "dont"
+          ]
+        },
+        {
+          "text": "get panicky",
+          "emoji": "😱",
+          "groups": [
+            "dont"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "(C) What are the ways to purify drinking water?",
+      "questionMeaning": {
+        "hi": "पीने का पानी कैसे साफ़ करें?",
+        "hinglish": "Peene ka paani kaise saaf karein?"
+      },
+      "options": [
+        "Use chlorine tablets or boil it.",
+        "Add sugar.",
+        "Keep it in the sun for a minute."
+      ],
+      "answer": "Use chlorine tablets or boil it.",
+      "modelAnswer": "We can purify drinking water by using chlorine tablets or by boiling it.",
+      "modelMeaning": {
+        "hi": "पीने का पानी क्लोरीन की गोली डालकर या उबालकर साफ़ कर सकते हैं।",
+        "hinglish": "Peene ka paani chlorine ki goli daalkar ya ubaalkar saaf kar sakte hain."
+      }
+    }
+  ]
+}

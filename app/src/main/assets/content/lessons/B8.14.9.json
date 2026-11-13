@@ -1,0 +1,98 @@
+{
+  "id": "B8.14.9",
+  "level": 8,
+  "bookSteps": [
+    "B8.14.9.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.14.9.S01",
+      "skills": [
+        "book.activity",
+        "grammar.relative"
+      ],
+      "text": {
+        "hi": "किताब: पाँच देशभक्त नेताओं की तस्वीरें चिपकाओ और हर एक पर पाँच वाक्य लिखो। फिर कक्षा का खेल: तीन बातें बताओ, दूसरी टीम पहचाने। उदाहरण: This is the girl who wears glasses, is very punctual and sings very well.",
+        "hinglish": "Kitaab: paanch deshbhakt netaaon ki tasveerein chipkaao aur har ek par paanch vaakya likho. Phir kaksha ka khel: teen baatein batao, doosri team pehchaane. Udaaharan: This is the girl who wears glasses, is very punctual and sings very well.",
+        "en": "The book: paste pictures of five patriotic leaders and write five sentences on each. Then the class game: say three things, the other team guesses. Example: This is the girl who wears glasses, is very punctual and sings very well."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.9.S02",
+      "skills": [
+        "book.activity",
+        "grammar.relative"
+      ],
+      "question": "This is the man who was born in Bhabra, was Bhagat Singh's mentor and was never caught alive.",
+      "questionMeaning": {
+        "hi": "पहचानो कौन?",
+        "hinglish": "Pehchaano kaun?"
+      },
+      "options": [
+        "Chandra Shekhar Azad",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru"
+      ],
+      "answer": "Chandra Shekhar Azad"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.9.S03",
+      "skills": [
+        "book.activity",
+        "grammar.relative"
+      ],
+      "question": "This is the man who led the Salt March, believed in non-violence and is called the Father of the Nation.",
+      "questionMeaning": {
+        "hi": "पहचानो कौन?",
+        "hinglish": "Pehchaano kaun?"
+      },
+      "options": [
+        "Mahatma Gandhi",
+        "Bhagat Singh",
+        "Subhas Chandra Bose"
+      ],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.9.S04",
+      "skills": [
+        "book.activity",
+        "grammar.relative"
+      ],
+      "question": "This is the leader who formed the Azad Hind Fauj and said ‘Give me blood, and I will give you freedom’.",
+      "questionMeaning": {
+        "hi": "पहचानो कौन?",
+        "hinglish": "Pehchaano kaun?"
+      },
+      "options": [
+        "Subhas Chandra Bose",
+        "Chandra Shekhar Azad",
+        "Sardar Patel"
+      ],
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.9.S05",
+      "skills": [
+        "book.activity",
+        "grammar.relative"
+      ],
+      "question": "Azad's favourite couplet ends with ...",
+      "questionMeaning": {
+        "hi": "आज़ाद का प्रिय शेर",
+        "hinglish": "Azad ka priya sher"
+      },
+      "options": [
+        "‘Azad hee rahe hain, Azad hee rahenge.’",
+        "‘Saare jahan se achha’",
+        "‘Jai Jawan Jai Kisan’"
+      ],
+      "answer": "‘Azad hee rahe hain, Azad hee rahenge.’"
+    }
+  ]
+}

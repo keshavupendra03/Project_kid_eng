@@ -1,0 +1,142 @@
+{
+  "id": "B7.06.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.06.5.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.06.5.S01",
+      "skills": [
+        "book.talk",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "किताब में दो जानवरों के बारे में वाक्य मिले-जुले हैं। हर वाक्य पढ़ो और बताओ, यह कुत्ते के बारे में है या बिल्ली के।",
+        "hinglish": "Kitaab mein do jaanwaron ke baare mein vaakya mile-jule hain. Har vaakya padho aur batao, yeh kutte ke baare mein hai ya billi ke.",
+        "en": "The book mixes up sentences about two animals. Read each one and say: is it about the dog or the cat?"
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.06.5.S02",
+      "skills": [
+        "book.talk",
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "हर वाक्य को सही जानवर के पास रखो",
+        "hinglish": "Har vaakya ko sahi jaanwar ke paas rakho",
+        "en": "Put each sentence with the right animal"
+      },
+      "groups": [
+        {
+          "id": "dog",
+          "name": "dog",
+          "emoji": "🐕",
+          "meaning": {
+            "hi": "कुत्ता",
+            "hinglish": "kutta"
+          }
+        },
+        {
+          "id": "cat",
+          "name": "cat",
+          "emoji": "🐈",
+          "meaning": {
+            "hi": "बिल्ली",
+            "hinglish": "billi"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "It watches our house.",
+          "emoji": "🏠",
+          "groups": [
+            "dog"
+          ]
+        },
+        {
+          "text": "It comes silently in the kitchen and sips the milk.",
+          "emoji": "🥛",
+          "groups": [
+            "cat"
+          ]
+        },
+        {
+          "text": "It is very faithful.",
+          "emoji": "🤝",
+          "groups": [
+            "dog"
+          ]
+        },
+        {
+          "text": "It is tamed.",
+          "emoji": "🏡",
+          "groups": [
+            "dog",
+            "cat"
+          ]
+        },
+        {
+          "text": "The rats are afraid of it.",
+          "emoji": "🐀",
+          "groups": [
+            "cat"
+          ]
+        },
+        {
+          "text": "It mews.",
+          "emoji": "🔉",
+          "groups": [
+            "cat"
+          ]
+        },
+        {
+          "text": "It barks.",
+          "emoji": "📢",
+          "groups": [
+            "dog"
+          ]
+        },
+        {
+          "text": "We call it mousi.",
+          "emoji": "👵",
+          "groups": [
+            "cat"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "say_sentence",
+      "id": "B7.06.5.S03",
+      "skills": [
+        "speak.sentence",
+        "book.talk"
+      ],
+      "sentence": "The dog is very faithful.",
+      "meaning": {
+        "hi": "कुत्ता बहुत वफ़ादार होता है।",
+        "hinglish": "Kutta bahut wafaadaar hota hai.",
+        "en": "The dog is very faithful."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "B7.06.5.S04",
+      "skills": [
+        "speak.sentence",
+        "book.talk"
+      ],
+      "sentence": "The rats are afraid of the cat.",
+      "meaning": {
+        "hi": "चूहे बिल्ली से डरते हैं।",
+        "hinglish": "Choohe billi se darte hain.",
+        "en": "The rats are afraid of the cat."
+      }
+    }
+  ]
+}

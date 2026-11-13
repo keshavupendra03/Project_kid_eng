@@ -1,0 +1,264 @@
+{
+  "id": "B8.04.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.5.S02",
+    "B8.04.5.S03",
+    "B8.04.5.S04",
+    "B8.04.5.S05",
+    "B8.04.5.S06",
+    "B8.04.5.S08",
+    "B8.04.5.S09",
+    "B8.04.5.S10",
+    "B8.04.5.S11",
+    "B8.04.5.S12"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.5.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 25-27 पर पाठ पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 25-27 par paath padho, phir jawab do.",
+        "en": "Read the lesson on pages 25–27 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.5.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the workers from a factory come to the village of Gopeshwar?",
+      "questionMeaning": {
+        "hi": "कारख़ाने के मज़दूर गोपेश्वर क्यों आए?",
+        "hinglish": "Kaarkhaane ke mazdoor Gopeshwar kyon aaye?"
+      },
+      "options": [
+        "to cut ash trees for railway sleepers",
+        "to plant new trees",
+        "to build a school"
+      ],
+      "answer": "to cut ash trees for railway sleepers",
+      "modelAnswer": "The workers came to Gopeshwar to cut the ash trees. The wood was to be used to make sleepers for the railways.",
+      "modelMeaning": {
+        "hi": "मज़दूर गोपेश्वर में ऐश के पेड़ काटने आए थे। लकड़ी से रेल की पटरियों के स्लीपर बनने थे।",
+        "hinglish": "Mazdoor Gopeshwar mein ash ke ped kaatne aaye the. Lakdi se rail ki patriyon ke sleeper banne the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.5.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the villagers decide when the axemen refused to return?",
+      "questionMeaning": {
+        "hi": "कुल्हाड़ी वाले नहीं लौटे तो गाँव वालों ने क्या तय किया?",
+        "hinglish": "Kulhaadi waale nahi laute to gaanv waalon ne kya tay kiya?"
+      },
+      "options": [
+        "They would not let the axes touch the trees.",
+        "They would sell the trees.",
+        "They would leave the village."
+      ],
+      "answer": "They would not let the axes touch the trees.",
+      "modelAnswer": "The villagers decided that they would not let the axes touch the trees, no matter what happened. They would hug the trees.",
+      "modelMeaning": {
+        "hi": "गाँव वालों ने तय किया कि चाहे कुछ भी हो, वे कुल्हाड़ियों को पेड़ों तक नहीं पहुँचने देंगे। वे पेड़ों से लिपट जाएँगे।",
+        "hinglish": "Gaanv waalon ne tay kiya ki chaahe kuchh bhi ho, woh kulhaadiyon ko pedon tak nahi pahunchne denge. Woh pedon se lipat jaayenge."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.5.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the axemen do when the villagers hugged the trees and shouted ‘Chipko’?",
+      "questionMeaning": {
+        "hi": "जब गाँव वाले पेड़ों से लिपटे, तो कुल्हाड़ी वालों ने क्या किया?",
+        "hinglish": "Jab gaanv waale pedon se lipte, to kulhaadi waalon ne kya kiya?"
+      },
+      "options": [
+        "They were frightened and ran away.",
+        "They cut the trees anyway.",
+        "They joined the villagers for lunch."
+      ],
+      "answer": "They were frightened and ran away.",
+      "modelAnswer": "The axemen were frightened by the turn the situation had taken and ran away.",
+      "modelMeaning": {
+        "hi": "हालात देखकर कुल्हाड़ी वाले डर गए और भाग गए।",
+        "hinglish": "Haalaat dekhkar kulhaadi waale dar gaye aur bhaag gaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.5.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the villagers do when the contractors chose another forest?",
+      "questionMeaning": {
+        "hi": "ठेकेदारों ने दूसरा जंगल चुना तो गाँव वालों ने क्या किया?",
+        "hinglish": "Thekedaaron ne doosra jungle chuna to gaanv waalon ne kya kiya?"
+      },
+      "options": [
+        "They marched there in a procession with drums and banners.",
+        "They gave up.",
+        "They called the police."
+      ],
+      "answer": "They marched there in a procession with drums and banners.",
+      "modelAnswer": "The whole village, men and women, old and young, marched in a procession with drums, trumpets and banners like ‘Chop me – not the tree’.",
+      "modelMeaning": {
+        "hi": "पूरा गाँव, आदमी-औरतें, बूढ़े-जवान, ढोल, तुरही और ‘मुझे काटो, पेड़ को नहीं’ जैसे बैनर लेकर जुलूस में गया।",
+        "hinglish": "Poora gaanv, aadmi-auratein, boodhe-jawaan, dhol, turhi aur ‘mujhe kaato, ped ko nahi’ jaise banner lekar juloos mein gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.5.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the work of ‘Dasohli Gram Swarajya Mandal’?",
+      "questionMeaning": {
+        "hi": "‘दसोली ग्राम स्वराज्य मंडल’ का काम क्या है?",
+        "hinglish": "‘Dasohli Gram Swarajya Mandal’ ka kaam kya hai?"
+      },
+      "options": [
+        "to regenerate the degraded forests",
+        "to cut trees",
+        "to build railways"
+      ],
+      "answer": "to regenerate the degraded forests",
+      "modelAnswer": "The Dasohli Gram Swarajya Mandal works to regenerate (grow again) the degraded forests.",
+      "modelMeaning": {
+        "hi": "दसोली ग्राम स्वराज्य मंडल ख़राब हुए जंगलों को फिर से हरा-भरा करने का काम करता है।",
+        "hinglish": "Dasohli Gram Swarajya Mandal kharaab hue junglon ko phir se hara-bhara karne ka kaam karta hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.04.5.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "(B) सही या गलत बताओ।",
+        "hinglish": "(B) Sahi ya galat batao.",
+        "en": "(B) Say True or False."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.5.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Trees were being saved by the contractors.",
+      "questionMeaning": {
+        "hi": "ठेकेदार पेड़ बचा रहे थे।",
+        "hinglish": "Thekedaar ped bacha rahe the."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. The contractors were destroying the forests.",
+      "modelMeaning": {
+        "hi": "गलत। ठेकेदार जंगल नष्ट कर रहे थे।",
+        "hinglish": "Galat. Thekedaar jungle nasht kar rahe the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.5.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? In 1953, a group of people from a factory arrived at the village of Gopeshwar.",
+      "questionMeaning": {
+        "hi": "1953 में कारख़ाने के लोग गोपेश्वर आए।",
+        "hinglish": "1953 mein kaarkhaane ke log Gopeshwar aaye."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. They arrived in March 1973.",
+      "modelMeaning": {
+        "hi": "गलत। वे मार्च 1973 में आए।",
+        "hinglish": "Galat. Woh March 1973 mein aaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.5.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? ‘Chipko’ or ‘Hug the trees’ was a non-violent movement of the mountain people to save their trees.",
+      "questionMeaning": {
+        "hi": "चिपको पहाड़ी लोगों का पेड़ बचाने का अहिंसक आंदोलन था।",
+        "hinglish": "Chipko pahaadi logon ka ped bachaane ka ahinsak aandolan tha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.5.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Dasohli Gram Swarajya Mandal is an organisation to regenerate the degraded forests.",
+      "questionMeaning": {
+        "hi": "दसोली ग्राम स्वराज्य मंडल ख़राब जंगलों को फिर से उगाने वाली संस्था है।",
+        "hinglish": "Dasohli Gram Swarajya Mandal kharaab junglon ko phir se ugaane waali sanstha hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.5.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Chipko Movement proved very valuable in the conservation of forests.",
+      "questionMeaning": {
+        "hi": "चिपको आंदोलन जंगलों के संरक्षण में बहुत काम का साबित हुआ।",
+        "hinglish": "Chipko aandolan junglon ke sanrakshan mein bahut kaam ka saabit hua."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    }
+  ]
+}

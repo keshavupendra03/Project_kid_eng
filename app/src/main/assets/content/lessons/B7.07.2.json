@@ -1,0 +1,384 @@
+{
+  "id": "B7.07.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.07.2.S02",
+    "B7.07.2.S03",
+    "B7.07.2.S04",
+    "B7.07.2.S05",
+    "B7.07.2.S06",
+    "B7.07.2.S07",
+    "B7.07.2.S09",
+    "B7.07.2.S10",
+    "B7.07.2.S11",
+    "B7.07.2.S12",
+    "B7.07.2.S13",
+    "B7.07.2.S14",
+    "B7.07.2.S15",
+    "B7.07.2.S16",
+    "B7.07.2.S17",
+    "B7.07.2.S18"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.07.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 47 से 49 तक ‘The Lost Camel’ पढ़ो। फिर किताब के सवालों के जवाब दो।",
+        "hinglish": "Apni kitaab mein page 47 se 49 tak ‘The Lost Camel’ padho. Phir kitaab ke sawaalon ke jawab do.",
+        "en": "Read ‘The Lost Camel’ on pages 47 to 49 of your book. Then answer the book's questions."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why were the two merchants surprised at the old man's questions?",
+      "questionMeaning": {
+        "hi": "व्यापारी बूढ़े आदमी के सवालों से हैरान क्यों थे?",
+        "hinglish": "Vyaapaari boodhe aadmi ke sawaalon se hairaan kyon the?"
+      },
+      "options": [
+        "Because all his questions about the camel were correct.",
+        "Because he could not speak.",
+        "Because he asked for money."
+      ],
+      "answer": "Because all his questions about the camel were correct.",
+      "modelAnswer": "The merchants were surprised because the old man's questions were all correct. The camel was old, lame and blind in the left eye.",
+      "modelMeaning": {
+        "hi": "व्यापारी हैरान थे क्योंकि बूढ़े आदमी की सारी बातें सही थीं। ऊँट बूढ़ा, लंगड़ा और बाईं आँख से अंधा था।",
+        "hinglish": "Vyaapaari hairaan the kyonki boodhe aadmi ki saari baatein sahi thin. Oont boodha, langda aur baayin aankh se andha tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the merchants think that the old man had seen the camel?",
+      "questionMeaning": {
+        "hi": "व्यापारियों को क्यों लगा कि बूढ़े आदमी ने ऊँट देखा है?",
+        "hinglish": "Vyaapaariyon ko kyon laga ki boodhe aadmi ne oont dekha hai?"
+      },
+      "options": [
+        "He knew it was carrying wheat and honey.",
+        "He was riding the camel.",
+        "He had the camel's rope."
+      ],
+      "answer": "He knew it was carrying wheat and honey.",
+      "modelAnswer": "They thought he had seen the camel because he knew so much about it, even that it was carrying wheat and honey.",
+      "modelMeaning": {
+        "hi": "उन्हें लगा उसने ऊँट देखा है क्योंकि वह सब जानता था, यहाँ तक कि ऊँट पर गेहूँ और शहद था।",
+        "hinglish": "Unhe laga usne oont dekha hai kyonki woh sab jaanta tha, yahan tak ki oont par gehoon aur shahad tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did they take the old man to the Khalifa?",
+      "questionMeaning": {
+        "hi": "वे बूढ़े आदमी को ख़लीफ़ा के पास क्यों ले गए?",
+        "hinglish": "Woh boodhe aadmi ko Khalifa ke paas kyon le gaye?"
+      },
+      "options": [
+        "They thought he had stolen the goods and killed the camel.",
+        "He wanted to meet the Khalifa.",
+        "The Khalifa was his friend."
+      ],
+      "answer": "They thought he had stolen the goods and killed the camel.",
+      "modelAnswer": "They took him to the Khalifa because they thought he had stolen the goods and killed the camel.",
+      "modelMeaning": {
+        "hi": "वे उसे ख़लीफ़ा के पास ले गए क्योंकि उन्हें लगा कि उसने सामान चुराया और ऊँट को मार दिया।",
+        "hinglish": "Woh use Khalifa ke paas le gaye kyonki unhe laga ki usne saamaan churaaya aur oont ko maar diya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How did the old man know that the camel was blind?",
+      "questionMeaning": {
+        "hi": "बूढ़े आदमी को कैसे पता चला कि ऊँट अंधा है?",
+        "hinglish": "Boodhe aadmi ko kaise pata chala ki oont andha hai?"
+      },
+      "options": [
+        "It had eaten leaves only on one side of the road.",
+        "He saw its eyes.",
+        "The merchants told him."
+      ],
+      "answer": "It had eaten leaves only on one side of the road.",
+      "modelAnswer": "He knew the camel was blind in one eye because it had eaten the leaves of the bushes only on one side of the road.",
+      "modelMeaning": {
+        "hi": "उसे पता था कि ऊँट एक आँख से अंधा है क्योंकि उसने सड़क के सिर्फ़ एक तरफ़ की झाड़ियों के पत्ते खाए थे।",
+        "hinglish": "Use pata tha ki oont ek aankh se andha hai kyonki usne sadak ke sirf ek taraf ki jhaadiyon ke patte khaaye the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why were the bees flying only on one side of the road?",
+      "questionMeaning": {
+        "hi": "मधुमक्खियाँ सड़क के सिर्फ़ एक तरफ़ क्यों उड़ रही थीं?",
+        "hinglish": "Madhumakkhiyaan sadak ke sirf ek taraf kyon ud rahi thin?"
+      },
+      "options": [
+        "Because honey had dropped on that side.",
+        "Because there were flowers there.",
+        "Because it was sunny there."
+      ],
+      "answer": "Because honey had dropped on that side.",
+      "modelAnswer": "The bees were flying on one side because the camel was carrying honey on that side and some honey had dropped there.",
+      "modelMeaning": {
+        "hi": "मधुमक्खियाँ एक तरफ़ उड़ रही थीं क्योंकि ऊँट उस तरफ़ शहद ले जा रहा था और वहाँ शहद गिरा था।",
+        "hinglish": "Madhumakkhiyaan ek taraf ud rahi thin kyonki oont us taraf shahad le ja raha tha aur wahan shahad gira tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the Khalifa not punish the old man?",
+      "questionMeaning": {
+        "hi": "ख़लीफ़ा ने बूढ़े आदमी को सज़ा क्यों नहीं दी?",
+        "hinglish": "Khalifa ne boodhe aadmi ko saza kyon nahi di?"
+      },
+      "options": [
+        "He was innocent; he had only used his eyes.",
+        "He paid money to the Khalifa.",
+        "He ran away."
+      ],
+      "answer": "He was innocent; he had only used his eyes.",
+      "modelAnswer": "The Khalifa did not punish the old man because he was innocent. He had only used his eyes to look at things carefully.",
+      "modelMeaning": {
+        "hi": "ख़लीफ़ा ने उसे सज़ा नहीं दी क्योंकि वह बेक़सूर था। उसने बस ध्यान से चीज़ें देखी थीं।",
+        "hinglish": "Khalifa ne use saza nahi di kyonki woh bekasoor tha. Usne bas dhyaan se cheezein dekhi thin."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.07.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अब किताब का दूसरा भाग: सही विकल्प से वाक्य पूरा करो।",
+        "hinglish": "Ab kitaab ka doosra bhaag: sahi vikalp se vaakya poora karo.",
+        "en": "Now part B of the book: complete each sentence with the correct option."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The two merchants were looking ...",
+      "questionMeaning": {
+        "hi": "दोनों व्यापारी ढूँढ रहे थे ...",
+        "hinglish": "Dono vyaapaari dhoondh rahe the ..."
+      },
+      "options": [
+        "for their friend",
+        "for their lost camel",
+        "for their family members"
+      ],
+      "answer": "for their lost camel"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The old man's answers were in the form of ...",
+      "questionMeaning": {
+        "hi": "बूढ़े आदमी के जवाब किस रूप में थे?",
+        "hinglish": "Boodhe aadmi ke jawab kis roop mein the?"
+      },
+      "options": [
+        "silence",
+        "statements",
+        "questions"
+      ],
+      "answer": "questions"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The old man asked whether ...",
+      "questionMeaning": {
+        "hi": "बूढ़े आदमी ने पूछा कि क्या ...",
+        "hinglish": "Boodhe aadmi ne poochha ki kya ..."
+      },
+      "options": [
+        "the camel could not walk fast",
+        "the camel carried a heavy load",
+        "the camel was lame"
+      ],
+      "answer": "the camel was lame"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The merchants were angry because ...",
+      "questionMeaning": {
+        "hi": "व्यापारी नाराज़ थे क्योंकि ...",
+        "hinglish": "Vyaapaari naaraaz the kyonki ..."
+      },
+      "options": [
+        "they thought the old man had stolen the goods and killed the camel.",
+        "they thought the old man was making fun of them.",
+        "they thought they would never get their camel back."
+      ],
+      "answer": "they thought the old man had stolen the goods and killed the camel."
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The old man knew the camel was lame because ...",
+      "questionMeaning": {
+        "hi": "बूढ़ा आदमी जानता था कि ऊँट लंगड़ा है क्योंकि ...",
+        "hinglish": "Boodha aadmi jaanta tha ki oont langda hai kyonki ..."
+      },
+      "options": [
+        "one of its footprints could hardly be seen",
+        "the ants carried fallen grains from one side of the road",
+        "he had seen the camel before"
+      ],
+      "answer": "one of its footprints could hardly be seen"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S14",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The Khalifa said that the old man knew so much about the camel because ...",
+      "questionMeaning": {
+        "hi": "ख़लीफ़ा ने कहा बूढ़ा आदमी इतना जानता था क्योंकि ...",
+        "hinglish": "Khalifa ne kaha boodha aadmi itna jaanta tha kyonki ..."
+      },
+      "options": [
+        "he was an expert",
+        "he had killed the camel",
+        "he used his eyes to look at things carefully"
+      ],
+      "answer": "he used his eyes to look at things carefully"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S15",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The merchants went to ...",
+      "questionMeaning": {
+        "hi": "व्यापारी किसके पास गए?",
+        "hinglish": "Vyaapaari kiske paas gaye?"
+      },
+      "options": [
+        "the camel",
+        "the khalifa",
+        "the king"
+      ],
+      "answer": "the khalifa"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S16",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The camel was ...",
+      "questionMeaning": {
+        "hi": "ऊँट ...",
+        "hinglish": "Oont ..."
+      },
+      "options": [
+        "lame in one leg",
+        "blind in one eye",
+        "both lame in one leg and blind in one eye"
+      ],
+      "answer": "both lame in one leg and blind in one eye"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S17",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The Khalifa said to the merchants ...",
+      "questionMeaning": {
+        "hi": "ख़लीफ़ा ने व्यापारियों से कहा ...",
+        "hinglish": "Khalifa ne vyaapaariyon se kaha ..."
+      },
+      "options": [
+        "use your ears",
+        "use your eyes",
+        "use your mouth"
+      ],
+      "answer": "use your eyes"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.2.S18",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The old man had ...",
+      "questionMeaning": {
+        "hi": "बूढ़े आदमी ने ...",
+        "hinglish": "Boodhe aadmi ne ..."
+      },
+      "options": [
+        "stolen the camel",
+        "killed the camel",
+        "never seen the camel"
+      ],
+      "answer": "never seen the camel"
+    }
+  ]
+}

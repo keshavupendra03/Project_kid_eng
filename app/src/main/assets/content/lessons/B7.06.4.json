@@ -1,0 +1,293 @@
+{
+  "id": "B7.06.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.06.4.S02",
+    "B7.06.4.S03",
+    "B7.06.4.S04",
+    "B7.06.4.S05",
+    "B7.06.4.S07",
+    "B7.06.4.S08",
+    "B7.06.4.S09",
+    "B7.06.4.S11",
+    "B7.06.4.S12",
+    "B7.06.4.S13",
+    "B7.06.4.S14",
+    "B7.06.4.S15"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.06.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "text": {
+        "hi": "दो चीज़ें बराबर हों तो ‘as ... as’: Sona is as thin as her sister (सोना अपनी बहन जितनी पतली है)। बराबर न हों तो ‘not as ... as’।",
+        "hinglish": "Do cheezein baraabar hon to ‘as ... as’: Sona is as thin as her sister (Sona apni behen jitni patli hai). Baraabar na hon to ‘not as ... as’.",
+        "en": "When two things are equal, use ‘as ... as’: Sona is as thin as her sister. When they are not equal, use ‘not as ... as’."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "Meena is ___ her friend Meeta.",
+      "answer": "as old as",
+      "options": [
+        "as old as",
+        "as big as",
+        "as sweet as"
+      ],
+      "meaning": {
+        "hi": "मीना अपनी दोस्त मीता जितनी उम्र की है।",
+        "hinglish": "Meena apni dost Meeta jitni umar ki hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "These mangoes are not ___ the ones we ate yesterday.",
+      "answer": "as sweet as",
+      "options": [
+        "as sweet as",
+        "as old as",
+        "as thin as"
+      ],
+      "meaning": {
+        "hi": "ये आम कल वाले आमों जितने मीठे नहीं हैं।",
+        "hinglish": "Yeh aam kal waale aamon jitne meethe nahi hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "This box is ___ the other one.",
+      "answer": "as big as",
+      "options": [
+        "as big as",
+        "as sweet as",
+        "as old as"
+      ],
+      "meaning": {
+        "hi": "यह डिब्बा दूसरे डिब्बे जितना बड़ा है।",
+        "hinglish": "Yeh dibba doosre dibbe jitna bada hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "Raju's handwriting is ___ his father's.",
+      "answer": "as good as",
+      "options": [
+        "as good as",
+        "as big as",
+        "as thin as"
+      ],
+      "meaning": {
+        "hi": "राजू की लिखावट उसके पापा जितनी अच्छी है।",
+        "hinglish": "Raju ki likhaavat uske papa jitni achhi hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.06.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "text": {
+        "hi": "अब अपने बारे में लिखो (किताब): I am taller than my brother. दो की तुलना में -er + than।",
+        "hinglish": "Ab apne baare mein likho (kitaab): I am taller than my brother. Do ki tulna mein -er + than.",
+        "en": "Now write about yourself (book): I am taller than my brother. Comparing two uses -er + than."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.06.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "prompt": {
+        "hi": "अपने बारे में: मैं अपनी बहन से छोटा/छोटी (उम्र में) हूँ।",
+        "hinglish": "Apne baare mein: main apni behen se chhota/chhoti (umar mein) hoon.",
+        "en": "About you: younger than your sister."
+      },
+      "answer": "I am younger than my sister.",
+      "meaning": {
+        "hi": "मैं अपनी बहन से उम्र में छोटा/छोटी हूँ।",
+        "hinglish": "Main apni behen se umar mein chhota/chhoti hoon."
+      },
+      "extra": [
+        "youngest"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.06.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "prompt": {
+        "hi": "अपने बारे में: मैं पापा से छोटा/छोटी (क़द में) हूँ।",
+        "hinglish": "Apne baare mein: main papa se chhota/chhoti (kad mein) hoon.",
+        "en": "About you: shorter than your father."
+      },
+      "answer": "I am shorter than my father.",
+      "meaning": {
+        "hi": "मैं क़द में पापा से छोटा/छोटी हूँ।",
+        "hinglish": "Main kad mein papa se chhota/chhoti hoon."
+      },
+      "extra": [
+        "shortest"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.06.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "prompt": {
+        "hi": "अपने बारे में: मैं अपने चचेरे भाई से छोटा/छोटी हूँ।",
+        "hinglish": "Apne baare mein: main apne chachere bhai se chhota/chhoti hoon.",
+        "en": "About you: smaller than your cousin."
+      },
+      "answer": "I am smaller than my cousin.",
+      "meaning": {
+        "hi": "मैं अपने चचेरे भाई से छोटा/छोटी हूँ।",
+        "hinglish": "Main apne chachere bhai se chhota/chhoti hoon."
+      },
+      "extra": [
+        "smallest"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.06.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "text": {
+        "hi": "सब में सबसे हो तो ‘the -est’: the fastest (सबसे तेज़), the highest (सबसे ऊँचा), the best (सबसे अच्छा)।",
+        "hinglish": "Sab mein sabse ho to ‘the -est’: the fastest (sabse tez), the highest (sabse ooncha), the best (sabse achha).",
+        "en": "When it's the most of all, use ‘the -est’: the fastest, the highest, the best."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "The humming bird is ___ bird.",
+      "answer": "the smallest",
+      "options": [
+        "the smallest",
+        "the fastest",
+        "the highest"
+      ],
+      "meaning": {
+        "hi": "हमिंग बर्ड सबसे छोटी चिड़िया है।",
+        "hinglish": "Humming bird sabse chhoti chidiya hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "Mt. Everest is ___ mountain peak in the world.",
+      "answer": "the highest",
+      "options": [
+        "the highest",
+        "the longest",
+        "the best"
+      ],
+      "meaning": {
+        "hi": "माउंट एवरेस्ट दुनिया की सबसे ऊँची चोटी है।",
+        "hinglish": "Mount Everest duniya ki sabse oonchi choti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "A cheetah runs ___ of all animals.",
+      "answer": "the fastest",
+      "options": [
+        "the fastest",
+        "the smallest",
+        "the longest"
+      ],
+      "meaning": {
+        "hi": "चीता सब जानवरों में सबसे तेज़ दौड़ता है।",
+        "hinglish": "Cheeta sab jaanwaron mein sabse tez daudta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.4.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "Birbal told ___ story to Akbar.",
+      "answer": "the longest",
+      "options": [
+        "the longest",
+        "the highest",
+        "the fastest"
+      ],
+      "meaning": {
+        "hi": "बीरबल ने अकबर को सबसे लंबी कहानी सुनाई।",
+        "hinglish": "Birbal ne Akbar ko sabse lambi kahani sunaayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.4.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "Sujata is ___ student of her class.",
+      "answer": "the best",
+      "options": [
+        "the best",
+        "the highest",
+        "the fastest"
+      ],
+      "meaning": {
+        "hi": "सुजाता अपनी क्लास की सबसे अच्छी छात्रा है।",
+        "hinglish": "Sujata apni class ki sabse achhi chhaatra hai."
+      }
+    }
+  ]
+}

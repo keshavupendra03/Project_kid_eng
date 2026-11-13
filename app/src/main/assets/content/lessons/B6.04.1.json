@@ -1,0 +1,188 @@
+{
+  "id": "B6.04.1",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.04.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "यह पाठ महात्मा गांधी के बचपन के बारे में है, उनके ही शब्दों में। किताब पूछती है: क्या तुम गांधीजी के जीवन की कोई कहानी जानते हो?",
+        "hinglish": "Yeh paath Mahatma Gandhi ke bachpan ke baare mein hai, unke hi shabdon mein. Kitaab poochhti hai: kya tum Gandhiji ke jeevan ki koi kahani jaante ho?",
+        "en": "This lesson is about Mahatma Gandhi's childhood, in his own words. The book asks: do you know any stories from Gandhiji's life?"
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.04.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "impression",
+        "emoji": "",
+        "hindi": "असर, छाप",
+        "hinglish": "asar, chhaap"
+      },
+      "meaning": "an effect that stays in your mind",
+      "example": "The story left a deep impression on me.",
+      "exampleMeaning": {
+        "hi": "कहानी ने मुझ पर गहरी छाप छोड़ी।",
+        "hinglish": "Kahani ne mujh par gehri chhaap chhodi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.04.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "captured",
+        "emoji": "",
+        "hindi": "जीत लिया, मोह लिया",
+        "hinglish": "jeet liya, moh liya"
+      },
+      "meaning": "took hold of; won",
+      "example": "The song captured my heart.",
+      "exampleMeaning": {
+        "hi": "गाने ने मेरा दिल जीत लिया।",
+        "hinglish": "Gaane ne mera dil jeet liya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.04.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "companion",
+        "emoji": "",
+        "hindi": "साथी",
+        "hinglish": "saathi"
+      },
+      "meaning": "a friend who spends time with you",
+      "example": "My dog is my best companion.",
+      "exampleMeaning": {
+        "hi": "मेरा कुत्ता मेरा सबसे अच्छा साथी है।",
+        "hinglish": "Mera kutta mera sabse achha saathi hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.04.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "inspection",
+        "emoji": "",
+        "hindi": "निरीक्षण, जाँच",
+        "hinglish": "nireekshan, jaanch"
+      },
+      "meaning": "a visit to check how things are done",
+      "example": "An officer came to our school for inspection.",
+      "exampleMeaning": {
+        "hi": "एक अफ़सर हमारे स्कूल में निरीक्षण के लिए आए।",
+        "hinglish": "Ek afsar hamare school mein nireekshan ke liye aaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.04.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "misspelt",
+        "emoji": "",
+        "hindi": "गलत वर्तनी लिखी",
+        "hinglish": "galat vartani likhi"
+      },
+      "meaning": "wrote a word with the wrong letters",
+      "example": "I misspelt the word ‘kettle’.",
+      "exampleMeaning": {
+        "hi": "मैंने ‘kettle’ शब्द की गलत स्पेलिंग लिखी।",
+        "hinglish": "Maine ‘kettle’ shabd ki galat spelling likhi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.04.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "prompt",
+        "emoji": "",
+        "hindi": "इशारा करना, बताना",
+        "hinglish": "ishaara karna, bataana"
+      },
+      "meaning": "to help someone by whispering the answer",
+      "example": "The teacher tried to prompt me.",
+      "exampleMeaning": {
+        "hi": "टीचर ने मुझे इशारा करने की कोशिश की।",
+        "hinglish": "Teacher ne mujhe ishaara karne ki koshish ki."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.04.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "shy",
+        "emoji": "",
+        "hindi": "शर्मीला",
+        "hinglish": "sharmeela"
+      },
+      "meaning": "nervous with other people",
+      "example": "The new girl was shy.",
+      "exampleMeaning": {
+        "hi": "नई लड़की शर्मीली थी।",
+        "hinglish": "Nayi ladki sharmeeli thi."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B6.04.1.S09",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "impression",
+        "emoji": "",
+        "hindi": "छाप",
+        "hinglish": "chhaap"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B6.04.1.S10",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "companion",
+        "emoji": "",
+        "hindi": "साथी",
+        "hinglish": "saathi"
+      }
+    }
+  ]
+}

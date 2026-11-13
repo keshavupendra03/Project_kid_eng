@@ -1,0 +1,297 @@
+{
+  "id": "B7.04.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.04.5.S04",
+    "B7.04.5.S05",
+    "B7.04.5.S06",
+    "B7.04.5.S07",
+    "B7.04.5.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.04.5.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "text": {
+        "hi": "कुछ चीज़ें हम गिनते नहीं, जैसे bread, chalk, furniture, information, knowledge, luggage, paper, soap। इनके साथ ‘s’ नहीं लगता। ‘two breads’ गलत है।",
+        "hinglish": "Kuch cheezein hum ginte nahi, jaise bread, chalk, furniture, information, knowledge, luggage, paper, soap. Inke saath ‘s’ nahi lagta. ‘two breads’ galat hai.",
+        "en": "Some things we don't count, like bread, chalk, furniture, information, knowledge, luggage, paper and soap. They don't take ‘s’. ‘Two breads’ is wrong."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.04.5.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "text": {
+        "hi": "गिनना हो तो टुकड़े का शब्द लगाओ: a slice of bread (ब्रेड का एक टुकड़ा), a cake of soap (साबुन की एक टिकिया), a sheet of paper (कागज़ का एक पन्ना), a piece of chalk (चॉक का एक टुकड़ा)।",
+        "hinglish": "Ginna ho to tukde ka shabd lagao: a slice of bread (bread ka ek tukda), a cake of soap (saabun ki ek tikiya), a sheet of paper (kaagaz ka ek panna), a piece of chalk (chalk ka ek tukda).",
+        "en": "To count them, add a word for the piece: a slice of bread, a cake of soap, a sheet of paper, a piece of chalk."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.04.5.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "text": {
+        "hi": "किताब के उदाहरण: Please give me a slice of bread. Wash your hands well before and after meals with a cake of soap.",
+        "hinglish": "Kitaab ke udaharan: Please give me a slice of bread. Wash your hands well before and after meals with a cake of soap.",
+        "en": "Examples from the book: Please give me a slice of bread. Wash your hands well before and after meals with a cake of soap."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.04.5.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "prompt": {
+        "hi": "‘a loaf of bread’ से वाक्य बनाओ: माँ ने ब्रेड का एक पूरा पैकेट ख़रीदा।",
+        "hinglish": "‘a loaf of bread’ se vaakya banao: Maa ne bread ka ek poora packet khareeda.",
+        "en": "Make a sentence with ‘a loaf of bread’ (Mother is buying bread)."
+      },
+      "answer": "Mother bought a loaf of bread.",
+      "extra": [
+        "breads"
+      ],
+      "meaning": {
+        "hi": "माँ ने ब्रेड का एक पूरा लोफ़ (पैकेट) ख़रीदा।",
+        "hinglish": "Maa ne bread ka ek poora loaf (packet) khareeda."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.04.5.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "prompt": {
+        "hi": "‘a bar of soap’ से वाक्य बनाओ: साबुन की टिकिया से हाथ धोओ।",
+        "hinglish": "‘a bar of soap’ se vaakya banao: Saabun ki tikiya se haath dhoo.",
+        "en": "Make a sentence with ‘a bar of soap’ (washing your hands)."
+      },
+      "answer": "Wash your hands with a bar of soap.",
+      "extra": [
+        "soaps"
+      ],
+      "meaning": {
+        "hi": "साबुन की टिकिया से अपने हाथ धोओ।",
+        "hinglish": "Saabun ki tikiya se apne haath dhoo."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.04.5.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "prompt": {
+        "hi": "‘a sheet of paper’ से वाक्य बनाओ: कृपया मुझे कागज़ का एक पन्ना दीजिए।",
+        "hinglish": "‘a sheet of paper’ se vaakya banao: Kripya mujhe kaagaz ka ek panna dijiye.",
+        "en": "Make a sentence with ‘a sheet of paper’ (asking for paper)."
+      },
+      "answer": "Please give me a sheet of paper.",
+      "extra": [
+        "papers"
+      ],
+      "meaning": {
+        "hi": "कृपया मुझे कागज़ का एक पन्ना दीजिए।",
+        "hinglish": "Kripya mujhe kaagaz ka ek panna dijiye."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.04.5.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "prompt": {
+        "hi": "‘furniture in a room’ से वाक्य बनाओ: मेरे कमरे में नया फ़र्नीचर है।",
+        "hinglish": "‘furniture in a room’ se vaakya banao: Mere kamre mein naya furniture hai.",
+        "en": "Make a sentence with ‘furniture in a room’ (new furniture)."
+      },
+      "answer": "There is new furniture in my room.",
+      "extra": [
+        "furnitures"
+      ],
+      "meaning": {
+        "hi": "मेरे कमरे में नया फ़र्नीचर है।",
+        "hinglish": "Mere kamre mein naya furniture hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.04.5.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "prompt": {
+        "hi": "‘a piece of chalk’ से वाक्य बनाओ: टीचर चॉक के टुकड़े से लिखती हैं।",
+        "hinglish": "‘a piece of chalk’ se vaakya banao: Teacher chalk ke tukde se likhti hain.",
+        "en": "Make a sentence with ‘a piece of chalk’ (the teacher writing)."
+      },
+      "answer": "The teacher writes with a piece of chalk.",
+      "extra": [
+        "chalks"
+      ],
+      "meaning": {
+        "hi": "टीचर चॉक के टुकड़े से लिखती हैं।",
+        "hinglish": "Teacher chalk ke tukde se likhti hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.5.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "sentence": "Please give me a ___ of soap.",
+      "answer": "cake",
+      "options": [
+        "cake",
+        "slice",
+        "sheet"
+      ],
+      "meaning": {
+        "hi": "कृपया मुझे साबुन की एक टिकिया दो।",
+        "hinglish": "Kripya mujhe saabun ki ek tikiya do."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.5.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "sentence": "I need a ___ of paper to write a letter.",
+      "answer": "sheet",
+      "options": [
+        "sheet",
+        "loaf",
+        "cake"
+      ],
+      "meaning": {
+        "hi": "मुझे चिट्ठी लिखने के लिए कागज़ का एक पन्ना चाहिए।",
+        "hinglish": "Mujhe chitthi likhne ke liye kaagaz ka ek panna chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.5.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "sentence": "Mother cut a ___ of bread for me.",
+      "answer": "slice",
+      "options": [
+        "slice",
+        "sheet",
+        "bar"
+      ],
+      "meaning": {
+        "hi": "माँ ने मेरे लिए ब्रेड का एक टुकड़ा काटा।",
+        "hinglish": "Maa ne mere liye bread ka ek tukda kaata."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.5.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "sentence": "The teacher gave me a ___ of chalk.",
+      "answer": "piece",
+      "options": [
+        "piece",
+        "loaf",
+        "cake"
+      ],
+      "meaning": {
+        "hi": "टीचर ने मुझे चॉक का एक टुकड़ा दिया।",
+        "hinglish": "Teacher ne mujhe chalk ka ek tukda diya."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "B7.04.5.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "words": [
+        "We",
+        "bought",
+        "new",
+        "furnitures",
+        "for",
+        "our",
+        "house."
+      ],
+      "wrong": 3,
+      "fix": "furniture",
+      "meaning": {
+        "hi": "हमने अपने घर के लिए नया फ़र्नीचर ख़रीदा।",
+        "hinglish": "Humne apne ghar ke liye naya furniture khareeda."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "B7.04.5.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "words": [
+        "The",
+        "guide",
+        "gave",
+        "us",
+        "useful",
+        "informations."
+      ],
+      "wrong": 5,
+      "fix": "information.",
+      "meaning": {
+        "hi": "गाइड ने हमें काम की जानकारी दी।",
+        "hinglish": "Guide ne humein kaam ki jaankari di."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.5.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "question": "Which sentence is correct?",
+      "questionMeaning": {
+        "hi": "कौन सा वाक्य सही है?",
+        "hinglish": "Kaun sa vaakya sahi hai?"
+      },
+      "options": [
+        "Please give me two slices of bread.",
+        "Please give me two breads.",
+        "Please give me two bread slice."
+      ],
+      "answer": "Please give me two slices of bread."
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "B6.11.6",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B6.11.6.S01",
+      "skills": [
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "चाँद के शब्द जोड़ो",
+        "hinglish": "Chaand ke shabd jodo",
+        "en": "Join the moon words"
+      },
+      "pairs": [
+        {
+          "left": "full moon",
+          "right": "the moon as a full round circle",
+          "meaning": {
+            "hi": "पूर्णिमा का चाँद",
+            "hinglish": "poornima ka chaand"
+          }
+        },
+        {
+          "left": "new moon",
+          "right": "when we cannot see the moon",
+          "meaning": {
+            "hi": "अमावस",
+            "hinglish": "amaavas"
+          }
+        },
+        {
+          "left": "moonlight",
+          "right": "the light from the moon",
+          "meaning": {
+            "hi": "चाँदनी",
+            "hinglish": "chaandni"
+          }
+        },
+        {
+          "left": "crescent",
+          "right": "the thin curved moon",
+          "meaning": {
+            "hi": "आधा-अधूरा (हँसिए जैसा) चाँद",
+            "hinglish": "aadha-adhoora (hansiye jaisa) chaand"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.6.S02",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "The moon gets its light from ...",
+      "questionMeaning": {
+        "hi": "चाँद को रोशनी कहाँ से मिलती है?",
+        "hinglish": "Chaand ko roshni kahan se milti hai?"
+      },
+      "options": [
+        "the sun",
+        "itself",
+        "the stars"
+      ],
+      "answer": "the sun",
+      "modelAnswer": "The moon has no light of its own. It shines with light from the sun.",
+      "modelMeaning": {
+        "hi": "चाँद की अपनी रोशनी नहीं होती। वह सूरज की रोशनी से चमकता है।",
+        "hinglish": "Chaand ki apni roshni nahi hoti. Woh sooraj ki roshni se chamakta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.11.6.S03",
+      "skills": [
+        "vocab.nature"
+      ],
+      "sentence": "Good night! Sweet ___!",
+      "answer": "dreams",
+      "options": [
+        "dreams",
+        "beams",
+        "hands"
+      ],
+      "meaning": {
+        "hi": "शुभ रात्रि! मीठे सपने!",
+        "hinglish": "Shubh raatri! Meethe sapne!"
+      }
+    }
+  ]
+}

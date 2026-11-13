@@ -1,0 +1,230 @@
+{
+  "grade": 8, "number": 2, "emoji": "🐅", "title": "Thrills of Kanha Kisli", "pages": "6–14",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["यह दो भाई-बहनों, देव और सुविज्ञा, की बातचीत है। देव हाल ही में मध्य प्रदेश के कान्हा किसली नेशनल पार्क गया था और वहाँ के बाघों, हिरणों और पक्षियों के बारे में बताता है।", "Yeh do cousins, Dev aur Suvigya, ki baatcheet hai. Dev haal hi mein Madhya Pradesh ke Kanha Kisli National Park gaya tha aur wahan ke baaghon, hirnon aur pakshiyon ke baare mein bataata hai.", "This is a talk between two cousins, Dev and Suvigya. Dev recently visited Kanha Kisli National Park in Madhya Pradesh and tells about its tigers, deer and birds."]},
+        {"book": true, "q": ["Have you ever been to a National Park?", "क्या तुम कभी नेशनल पार्क गए हो?", "Kya tum kabhi National Park gaye ho?", ["Yes, I have been to a National Park.", "No, I have not been to a National Park."], "Yes, I have been to a National Park.", "Answer about yourself: Yes, I have been to Kanha National Park. / No, I have not been to a National Park yet.", "अपने बारे में बताओ: हाँ, मैं कान्हा गया हूँ। / नहीं, अभी तक नहीं गया।", "Apne baare mein batao: Haan, main Kanha gaya hoon. / Nahi, abhi tak nahi gaya."]},
+        {"word": ["situated", "स्थित", "sthit", "found in a place", "Kanha is situated in Mandla district.", "कान्हा मंडला ज़िले में स्थित है।", "Kanha Mandla zile mein sthit hai."]},
+        {"word": ["existence", "अस्तित्व", "astitva", "being there, being real", "The park came into existence in 1955.", "पार्क 1955 में बना।", "Park 1955 mein bana."]},
+        {"word": ["flora and fauna", "पेड़-पौधे और जीव-जंतु", "ped-paudhe aur jeev-jantu", "plants and animals of a place", "Kanha is famous for its flora and fauna.", "कान्हा अपने पेड़-पौधों और जीव-जंतुओं के लिए मशहूर है।", "Kanha apne ped-paudhon aur jeev-jantuon ke liye mashhoor hai."]},
+        {"word": ["glimpse", "झलक", "jhalak", "a quick look", "I had a glimpse of the tiger.", "मुझे बाघ की झलक मिली।", "Mujhe baagh ki jhalak mili."]},
+        {"word": ["ferocious", "ख़ूँख़ार", "khoonkhaar", "fierce and dangerous", "The forest has ferocious animals.", "जंगल में ख़ूँख़ार जानवर हैं।", "Jungle mein khoonkhaar jaanwar hain."]},
+        {"word": ["habitat", "प्राकृतिक घर", "praakritik ghar", "the natural home of an animal", "The forest is the tiger's habitat.", "जंगल बाघ का प्राकृतिक घर है।", "Jungle baagh ka praakritik ghar hai."]},
+        {"word": ["rivulet", "छोटी नदी, नाला", "chhoti nadi, naala", "a small stream", "The tiger drank from the rivulet.", "बाघ ने नाले से पानी पिया।", "Baagh ne naale se paani piya."]},
+        {"word": ["mammals", "स्तनधारी", "stanadhaari", "animals that feed milk to their babies", "Tigers and deer are mammals.", "बाघ और हिरण स्तनधारी हैं।", "Baagh aur hiran stanadhaari hain."]},
+        {"sayw": ["ferocious", "ख़ूँख़ार", "khoonkhaar"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति (A): शब्दकोश का क्रम", "Shabd Shakti (A): shabdkosh ka kram", "Word Power (A): dictionary order"], "book": true,
+      "skills": ["book.words", "spell.word"],
+      "steps": [
+        {"card": ["शब्दकोश में शब्द a, b, c... के क्रम में होते हैं। पहला अक्षर एक जैसा हो तो दूसरा देखो: climate, फिर cobbler। दूसरा भी एक जैसा हो तो तीसरा: abacus, फिर abdomen।", "Shabdkosh mein shabd a, b, c... ke kram mein hote hain. Pehla akshar ek jaisa ho to doosra dekho: climate, phir cobbler. Doosra bhi ek jaisa ho to teesra: abacus, phir abdomen.", "In a dictionary, words follow a, b, c... If the first letter is the same, look at the second: climate, then cobbler. If that is the same too, look at the third: abacus, then abdomen."]},
+        {"book": true, "q": ["Which word comes first in a dictionary?", "शब्दकोश में पहले कौन सा शब्द आएगा?", "Shabdkosh mein pehle kaun sa shabd aayega?", ["attractive", "bag", "beautiful"], "attractive"]},
+        {"book": true, "q": ["Which word comes first in a dictionary?", "शब्दकोश में पहले कौन सा शब्द आएगा?", "Shabdkosh mein pehle kaun sa shabd aayega?", ["bag", "beautiful", "body"], "bag"]},
+        {"book": true, "q": ["Which word comes first in a dictionary?", "शब्दकोश में पहले कौन सा शब्द आएगा?", "Shabdkosh mein pehle kaun sa shabd aayega?", ["body", "bond", "boost"], "body"]},
+        {"book": true, "q": ["Which word comes first in a dictionary?", "शब्दकोश में पहले कौन सा शब्द आएगा?", "Shabdkosh mein pehle kaun sa shabd aayega?", ["borrow", "bottle", "bottom"], "borrow"]},
+        {"book": true, "q": ["Which comes first: ‘bottle’ or ‘bottom’?", "‘bottle’ या ‘bottom’, पहले कौन?", "‘bottle’ ya ‘bottom’, pehle kaun?", ["bottle", "bottom"], "bottle", "bottle comes first: b-o-t-t-l comes before b-o-t-t-o, because l comes before o.", "bottle पहले आता है: पाँचवाँ अक्षर l है, जो o से पहले आता है।", "bottle pehle aata hai: paanchvaan akshar l hai, jo o se pehle aata hai."]},
+        {"book": true, "q": ["Which word comes first in a dictionary?", "शब्दकोश में पहले कौन सा शब्द आएगा?", "Shabdkosh mein pehle kaun sa shabd aayega?", ["packet", "passion", "perform"], "packet"]},
+        {"book": true, "q": ["Which word comes first in a dictionary?", "शब्दकोश में पहले कौन सा शब्द आएगा?", "Shabdkosh mein pehle kaun sa shabd aayega?", ["pick", "place", "power"], "pick"]},
+        {"book": true, "q": ["Which word comes first in a dictionary?", "शब्दकोश में पहले कौन सा शब्द आएगा?", "Shabdkosh mein pehle kaun sa shabd aayega?", ["protect", "punch", "power"], "power"]},
+        {"book": true, "q": ["Which word comes first in a dictionary?", "शब्दकोश में पहले कौन सा शब्द आएगा?", "Shabdkosh mein pehle kaun sa shabd aayega?", ["national park", "nearest", "law"], "law"]},
+        {"book": true, "q": ["Which word comes last in a dictionary?", "शब्दकोश में आख़िर में कौन सा शब्द आएगा?", "Shabdkosh mein aakhir mein kaun sa shabd aayega?", ["wonderful", "thrilling", "tense"], "wonderful", "The full order is: attractive, bag, beautiful, body, bond, boost, borrow, bottle, bottom, boxing, ferocious, law, national park, nearest, packet, passion, perform, pick, place, power, protect, punch, tense, thrilling, wonderful.", "पूरा क्रम ऊपर अंग्रेज़ी में लिखा है। आख़िरी शब्द wonderful है क्योंकि w सबसे बाद में आता है।", "Poora kram upar English mein likha hai. Aakhiri shabd wonderful hai kyonki w sabse baad mein aata hai."]}
+      ]
+    },
+    {
+      "emoji": "🧂", "title": ["शब्द शक्ति (B): जोड़ी वाले शब्द", "Shabd Shakti (B): jodi waale shabd", "Word Power (B): binomials"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["‘flora and fauna’ जैसे शब्द हमेशा जोड़ी में आते हैं। इन्हें binomials कहते हैं: law and order (क़ानून-व्यवस्था)।", "‘flora and fauna’ jaise shabd hamesha jodi mein aate hain. Inhe binomials kehte hain: law and order (kaanoon-vyavastha).", "Words like ‘flora and fauna’ always come in pairs. They are called binomials: law and order."]},
+        {"book": true, "pairs": ["जोड़ी पूरी करो", "Jodi poori karo", "Complete the pairs", [
+          ["law and", "order", "क़ानून-व्यवस्था", "kaanoon-vyavastha"],
+          ["bread and", "butter", "रोटी-मक्खन", "roti-makkhan"],
+          ["on and", "off", "कभी-कभी", "kabhi-kabhi"],
+          ["up and", "down", "ऊपर-नीचे", "upar-neeche"],
+          ["salt and", "pepper", "नमक-मिर्च", "namak-mirch"]]]},
+        {"book": true, "pairs": ["जोड़ी पूरी करो", "Jodi poori karo", "Complete the pairs", [
+          ["now and", "then", "कभी-कभार", "kabhi-kabhaar"],
+          ["black and", "white", "काला-सफ़ेद", "kaala-safed"],
+          ["health and", "hygiene", "सेहत और सफ़ाई", "sehat aur safaai"],
+          ["time and", "tide", "समय और ज्वार", "samay aur jwaar"],
+          ["forks and", "knives", "काँटे और छुरियाँ", "kaante aur chhuriyaan"]]]},
+        {"book": true, "fb": ["Time and ___ wait for none.", "tide", ["tide", "order", "pepper"], "समय और ज्वार किसी का इंतज़ार नहीं करते।", "Samay aur jwaar kisi ka intezaar nahi karte."]},
+        {"book": true, "fb": ["The police keep law and ___ in the city.", "order", ["order", "tide", "white"], "पुलिस शहर में क़ानून-व्यवस्था बनाए रखती है।", "Police shahar mein kaanoon-vyavastha banaaye rakhti hai."]},
+        {"book": true, "fb": ["I visit my grandparents now and ___.", "then", ["then", "off", "down"], "मैं कभी-कभार दादा-दादी से मिलने जाता हूँ।", "Main kabhi-kabhaar daada-daadi se milne jaata hoon."]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 6-8 पर बातचीत पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 6-8 par baatcheet padho, phir jawab do.", "Read the dialogue on pages 6–8 of your book, then answer."]},
+        {"book": true, "q": ["What is Kanha Kisli?", "कान्हा किसली क्या है?", "Kanha Kisli kya hai?", ["a beautiful National Park", "a big city", "a river"], "a beautiful National Park", "Kanha Kisli is a very beautiful National Park in Madhya Pradesh.", "कान्हा किसली मध्य प्रदेश का एक बहुत सुंदर नेशनल पार्क है।", "Kanha Kisli Madhya Pradesh ka ek bahut sundar National Park hai."]},
+        {"book": true, "q": ["Where is it situated?", "यह कहाँ स्थित है?", "Yeh kahan sthit hai?", ["in Mandla district near Jabalpur", "in Bhopal city", "near Indore"], "in Mandla district near Jabalpur", "It is situated in Mandla district near Jabalpur in M.P. It is 83 km away from Balaghat.", "यह म.प्र. में जबलपुर के पास मंडला ज़िले में है। बालाघाट से 83 किमी दूर है।", "Yeh M.P. mein Jabalpur ke paas Mandla zile mein hai. Balaghat se 83 km door hai."]},
+        {"book": true, "q": ["When did Kanha National Park come into existence?", "कान्हा नेशनल पार्क कब बना?", "Kanha National Park kab bana?", ["in 1955", "in 1947", "in 2006"], "in 1955", "Kanha National Park came into existence in 1955.", "कान्हा नेशनल पार्क 1955 में बना।", "Kanha National Park 1955 mein bana."]},
+        {"book": true, "q": ["What attracts the tourists there?", "वहाँ पर्यटकों को क्या खींचता है?", "Wahan paryatakon ko kya kheenchta hai?", ["the tigers, wildlife and natural scenery", "the shopping malls", "the cinema halls"], "the tigers, wildlife and natural scenery", "The tigers, wild animals, birds and natural scenery attract the tourists there.", "बाघ, जंगली जानवर, पक्षी और प्राकृतिक नज़ारे पर्यटकों को खींचते हैं।", "Baagh, jungli jaanwar, pakshi aur praakritik nazaare paryatakon ko kheenchte hain."]},
+        {"book": true, "q": ["What type of huts are there at Kanha?", "कान्हा में कैसी झोपड़ियाँ हैं?", "Kanha mein kaisi jhopdiyaan hain?", ["log huts", "mud huts", "glass huts"], "log huts", "There are log huts (Baghira log huts) at Kisli.", "किसली में लकड़ी के लट्ठों से बनी झोपड़ियाँ (बघीरा लॉग हट्स) हैं।", "Kisli mein lakdi ke latthon se bani jhopdiyaan (Baghira log huts) hain."]},
+        {"book": true, "q": ["What else can be seen at Kanha besides animals?", "जानवरों के अलावा कान्हा में और क्या दिखता है?", "Jaanwaron ke alaava Kanha mein aur kya dikhta hai?", ["about 200 species of birds", "big factories", "old palaces"], "about 200 species of birds", "Besides animals, about 200 species of birds can be seen at Kanha, like doves, hawks, eagles and woodpeckers.", "जानवरों के अलावा कान्हा में पक्षियों की लगभग 200 प्रजातियाँ दिखती हैं, जैसे फ़ाख़्ता, बाज़, चील और कठफोड़वा।", "Jaanwaron ke alaava Kanha mein pakshiyon ki lagbhag 200 prajaatiyaan dikhti hain, jaise faakhta, baaz, cheel aur kathphodva."]},
+        {"q": ["Why should visitors reach Kisli before sunset?", "सूरज ढलने से पहले किसली क्यों पहुँचें?", "Sooraj dhalne se pehle Kisli kyon pahunchein?", ["Vehicles are not allowed in the park after sunset.", "The huts close at noon.", "Tigers sleep at sunset."], "Vehicles are not allowed in the park after sunset."]}
+      ]
+    },
+    {
+      "emoji": "🐄", "title": ["सीखो (1): बहुवचन", "Seekho (1): bahuvachan", "Let's Learn (1): plurals"], "book": true,
+      "skills": ["book.grammar", "grammar.plurals"],
+      "steps": [
+        {"card": ["नियम: व्यंजन + y → ies (pony → ponies), स्वर + y → s (monkey → monkeys), f/fe → ves (leaf → leaves, knife → knives)। कुछ ख़ास: ox → oxen, mouse → mice, deer → deer।", "Niyam: vyanjan + y → ies (pony → ponies), swar + y → s (monkey → monkeys), f/fe → ves (leaf → leaves, knife → knives). Kuchh khaas: ox → oxen, mouse → mice, deer → deer.", "Rules: consonant + y → ies (pony → ponies), vowel + y → s (monkey → monkeys), f/fe → ves (leaf → leaves, knife → knives). Special: ox → oxen, mouse → mice, deer → deer."]},
+        {"book": true, "pairs": ["एक से अनेक बनाओ", "Ek se anek banao", "Join each word to its plural", [
+          ["pony", "ponies", "टट्टू", "tattu"],
+          ["piano", "pianos", "पियानो", "piano"],
+          ["leaf", "leaves", "पत्ता", "patta"],
+          ["proof", "proofs", "सबूत", "saboot"],
+          ["ox", "oxen", "बैल", "bail"]]]},
+        {"book": true, "pairs": ["एक से अनेक बनाओ", "Ek se anek banao", "Join each word to its plural", [
+          ["tomato", "tomatoes", "टमाटर", "tamaatar"],
+          ["company", "companies", "कंपनी", "company"],
+          ["army", "armies", "सेना", "sena"],
+          ["monkey", "monkeys", "बंदर", "bandar"],
+          ["knife", "knives", "चाकू", "chaaku"]]]},
+        {"book": true, "q": ["The plural of ‘deer’ is ...", "‘deer’ का बहुवचन", "‘deer’ ka bahuvachan", ["deer", "deers", "deeres"], "deer"]},
+        {"book": true, "q": ["The plural of ‘man-servant’ is ...", "‘man-servant’ का बहुवचन", "‘man-servant’ ka bahuvachan", ["men-servants", "man-servants", "men-servant"], "men-servants", "In man-servant both parts change: men-servants.", "man-servant में दोनों हिस्से बदलते हैं: men-servants।", "man-servant mein dono hisse badalte hain: men-servants."]},
+        {"book": true, "q": ["The plural of ‘mouse’ is ...", "‘mouse’ का बहुवचन", "‘mouse’ ka bahuvachan", ["mice", "mouses", "mices"], "mice"]},
+        {"book": true, "q": ["The plural of ‘dozen’ is ...", "‘dozen’ का बहुवचन", "‘dozen’ ka bahuvachan", ["dozens", "dozenes", "dozenies"], "dozens", "dozens (but with a number we say ‘two dozen eggs’).", "dozens (पर संख्या के साथ ‘two dozen eggs’ कहते हैं)।", "dozens (par sankhya ke saath ‘two dozen eggs’ kehte hain)."]},
+        {"book": true, "q": ["The plural of ‘lady’ is ...", "‘lady’ का बहुवचन", "‘lady’ ka bahuvachan", ["ladies", "ladys", "ladyes"], "ladies"]}
+      ]
+    },
+    {
+      "emoji": "🧩", "title": ["सीखो (2): बहुवचन की पहेली", "Seekho (2): bahuvachan ki paheli", "Let's Learn (2): the plurals crossword"], "book": true,
+      "skills": ["book.grammar", "grammar.plurals"],
+      "steps": [
+        {"card": ["किताब की पहेली दो हिस्सों में। सुराग पढ़कर बहुवचन या एकवचन भरो।", "Kitaab ki paheli do hisson mein. Suraag padhkar bahuvachan ya ekvachan bharo.", "The book's puzzle in two parts. Read each clue and fill in the plural or singular."]},
+        {"book": true, "type": "crossword", "entries": [
+          {"number": 1, "answer": "mosquitoes", "across": true, "clue": "The plural of mosquito: ___"},
+          {"number": 2, "answer": "lice", "across": true, "clue": "The plural of louse: ___"},
+          {"number": 3, "answer": "echoes", "across": true, "clue": "The plural of echo: ___"},
+          {"number": 4, "answer": "teeth", "across": true, "clue": "The plural of tooth: ___"},
+          {"number": 5, "answer": "mouse", "across": true, "clue": "The singular of mice: ___"}
+        ]},
+        {"book": true, "type": "crossword", "entries": [
+          {"number": 6, "answer": "calves", "across": false, "clue": "The plural of calf: ___"},
+          {"number": 7, "answer": "cities", "across": false, "clue": "The plural of city: ___"},
+          {"number": 8, "answer": "goose", "across": false, "clue": "The singular of geese: ___"},
+          {"number": 9, "answer": "storeys", "across": false, "clue": "The plural of storey: ___"},
+          {"number": 10, "answer": "roofs", "across": false, "clue": "The plural of roof: ___"}
+        ]}
+      ]
+    },
+    {
+      "emoji": "🦁", "title": ["सीखो (3, 4): लिंग बदलो", "Seekho (3, 4): ling badlo", "Let's Learn (3, 4): change the gender"], "book": true,
+      "skills": ["book.grammar", "grammar.gender"],
+      "steps": [
+        {"card": ["पुल्लिंग से स्त्रीलिंग: कई में -ess लगता है (actor → actress), कई का शब्द ही अलग है (horse → mare, fox → vixen)।", "Pulling se streeling: kai mein -ess lagta hai (actor → actress), kai ka shabd hi alag hai (horse → mare, fox → vixen).", "Masculine to feminine: many add -ess (actor → actress), some are different words (horse → mare, fox → vixen)."]},
+        {"book": true, "pairs": ["उल्टा लिंग जोड़ो", "Ulta ling jodo", "Join the opposite gender", [
+          ["actor", "actress", "अभिनेता — अभिनेत्री", "abhineta — abhinetri"],
+          ["horse", "mare", "घोड़ा — घोड़ी", "ghoda — ghodi"],
+          ["king", "queen", "राजा — रानी", "raja — rani"],
+          ["aunt", "uncle", "चाची — चाचा", "chaachi — chaacha"],
+          ["madam", "sir", "मैडम — सर", "madam — sir"]]]},
+        {"book": true, "pairs": ["उल्टा लिंग जोड़ो", "Ulta ling jodo", "Join the opposite gender", [
+          ["wife", "husband", "पत्नी — पति", "patni — pati"],
+          ["father", "mother", "पिता — माता", "pita — maata"],
+          ["man", "woman", "आदमी — औरत", "aadmi — aurat"],
+          ["fox", "vixen", "लोमड़ — लोमड़ी", "lomad — lomdi"],
+          ["son", "daughter", "बेटा — बेटी", "beta — beti"]]]},
+        {"book": true, "pairs": ["उल्टा लिंग जोड़ो", "Ulta ling jodo", "Join the opposite gender", [
+          ["host", "hostess", "मेज़बान (पु.) — मेज़बान (स्त्री.)", "mezbaan (pu.) — mezbaan (stri.)"],
+          ["milkman", "milkmaid", "दूधवाला — दूधवाली", "doodhwaala — doodhwaali"],
+          ["cow", "bull", "गाय — बैल", "gaay — bail"],
+          ["lion", "lioness", "शेर — शेरनी", "sher — sherni"],
+          ["master", "mistress", "मालिक — मालकिन", "maalik — maalkin"]]]},
+        {"card": ["(4) अब पूरे वाक्य का लिंग बदलो। हर संज्ञा और he/his जैसे शब्द भी बदलेंगे।", "(4) Ab poore vaakya ka ling badlo. Har sangya aur he/his jaise shabd bhi badlenge.", "(4) Now change the gender in whole sentences. Every noun and words like he/his change too."]},
+        {"book": true, "q": ["The poet received the prize from the queen.", "लिंग बदलकर सही वाक्य चुनो", "Ling badalkar sahi vaakya chuno", ["The poetess received the prize from the king.", "The poet received the prize from the king.", "The poetess received the prize from the queen."], "The poetess received the prize from the king."]},
+        {"book": true, "q": ["The priest blessed the heiress with the crown.", "लिंग बदलकर सही वाक्य चुनो", "Ling badalkar sahi vaakya chuno", ["The priestess blessed the heir with the crown.", "The priestess blessed the heiress with the crown.", "The priest blessed the heir with the crown."], "The priestess blessed the heir with the crown."]},
+        {"book": true, "q": ["The hunter shot a peacock.", "लिंग बदलकर सही वाक्य चुनो", "Ling badalkar sahi vaakya chuno", ["The huntress shot a peahen.", "The huntress shot a peacock.", "The hunter shot a peahen."], "The huntress shot a peahen."]},
+        {"book": true, "q": ["Mrs. Chopra is a good actress.", "लिंग बदलकर सही वाक्य चुनो", "Ling badalkar sahi vaakya chuno", ["Mr. Chopra is a good actor.", "Mr. Chopra is a good actress.", "Mrs. Chopra is a good actor."], "Mr. Chopra is a good actor."]},
+        {"book": true, "q": ["The hero of the film took the horse with him.", "लिंग बदलकर सही वाक्य चुनो", "Ling badalkar sahi vaakya chuno", ["The heroine of the film took the mare with her.", "The heroine of the film took the horse with him.", "The hero of the film took the mare with her."], "The heroine of the film took the mare with her."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: राहुल ने कहा कि...", "Chalo baat karein: Rahul ne kaha ki...", "Let's Talk: Rahul said that..."], "book": true,
+      "skills": ["book.talk", "grammar.indirect_speech"],
+      "steps": [
+        {"card": ["राहुल की बात अनिल को बताओ। I → he, my → his, और काम का समय पीछे जाता है: like → liked, would like → would like। किताब का उदाहरण: Rahul said that he visited Kanha Kisli during the holidays.", "Rahul ki baat Anil ko batao. I → he, my → his, aur kaam ka samay peechhe jaata hai: like → liked, would like → would like. Kitaab ka udaaharan: Rahul said that he visited Kanha Kisli during the holidays.", "Tell Anil what Rahul said. I → he, my → his, and the tense moves back. The book's example: Rahul said that he visited Kanha Kisli during the holidays."]},
+        {"book": true, "q": ["Rahul: \"I reached there by bus.\"", "राहुल की बात अनिल को बताओ", "Rahul ki baat Anil ko batao", ["Rahul said that he reached there by bus.", "Rahul said that I reached there by bus.", "Rahul said that he reach there by bus."], "Rahul said that he reached there by bus."]},
+        {"book": true, "q": ["Rahul: \"I went to Baghira log huts.\"", "राहुल की बात अनिल को बताओ", "Rahul ki baat Anil ko batao", ["Rahul said that he went to Baghira log huts.", "Rahul said that I went to Baghira log huts.", "Rahul said that he go to Baghira log huts."], "Rahul said that he went to Baghira log huts."]},
+        {"book": true, "q": ["Rahul: \"I saw many animals and birds.\"", "राहुल की बात अनिल को बताओ", "Rahul ki baat Anil ko batao", ["Rahul said that he saw many animals and birds.", "Rahul said that I saw many animals and birds.", "Rahul said that he sees many animals and birds."], "Rahul said that he saw many animals and birds."]},
+        {"book": true, "q": ["Rahul: \"I liked its natural beauty.\"", "राहुल की बात अनिल को बताओ", "Rahul ki baat Anil ko batao", ["Rahul said that he liked its natural beauty.", "Rahul said that I liked its natural beauty.", "Rahul said that he likes my natural beauty."], "Rahul said that he liked its natural beauty."]},
+        {"book": true, "q": ["Rahul: \"I would like to visit it again.\"", "राहुल की बात अनिल को बताओ", "Rahul ki baat Anil ko batao", ["Rahul said that he would like to visit it again.", "Rahul said that I would like to visit it again.", "Rahul said that he will like to visit it again."], "Rahul said that he would like to visit it again."]},
+        {"says": ["Rahul said that he saw many animals and birds.", "राहुल ने कहा कि उसने कई जानवर और पक्षी देखे।", "Rahul ne kaha ki usne kai jaanwar aur pakshi dekhe."], "skills": ["speak.sentence", "book.talk"]}
+      ]
+    },
+    {
+      "emoji": "🐯", "title": ["चलो पढ़ें: बाघ", "Chalo padhein: baagh", "Let's Read: tigers"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 12-13 पर बाघों वाला पैराग्राफ़ पढ़ो और जानकारी पूरी करो।", "Apni kitaab mein page 12-13 par baaghon waala paragraph padho aur jaankaari poori karo.", "Read the paragraph about tigers on pages 12–13 of your book and complete the information."]},
+        {"book": true, "q": ["Tigers are found in ...", "बाघ कहाँ पाए जाते हैं?", "Baagh kahan paaye jaate hain?", ["India and South-East Asia", "Africa and Europe", "only in zoos"], "India and South-East Asia", "Tigers are found in (i) India and (ii) most of the countries of South-East Asia.", "बाघ (i) भारत और (ii) दक्षिण-पूर्व एशिया के ज़्यादातर देशों में पाए जाते हैं।", "Baagh (i) Bharat aur (ii) dakshin-poorv Asia ke zyaadatar deshon mein paaye jaate hain."]},
+        {"book": true, "q": ["Tigers live in ...", "बाघ कहाँ रहते हैं?", "Baagh kahan rehte hain?", ["forests and grassy plains", "deserts and snow", "rivers and seas"], "forests and grassy plains", "Tigers live in (i) forests and (ii) grassy plains.", "बाघ (i) जंगलों और (ii) घास के मैदानों में रहते हैं।", "Baagh (i) junglon aur (ii) ghaas ke maidaanon mein rehte hain."]},
+        {"book": true, "q": ["Tigers live there because ...", "बाघ वहाँ क्यों रहते हैं?", "Baagh wahan kyon rehte hain?", ["there are lots of animals to hunt for food", "it is cold there", "people feed them"], "there are lots of animals to hunt for food", "Tigers live there because there are lots of other animals for them to hunt for food.", "बाघ वहाँ रहते हैं क्योंकि वहाँ शिकार के लिए बहुत से जानवर हैं।", "Baagh wahan rehte hain kyonki wahan shikaar ke liye bahut se jaanwar hain."]},
+        {"book": true, "q": ["In the jungle, a tiger's body is ...", "जंगल में बाघ का शरीर कैसा दिखता है?", "Jungle mein baagh ka shareer kaisa dikhta hai?", ["hard to see", "very easy to see", "white"], "hard to see", "A tiger's skin looks bright in a zoo, but in the jungle and grasslands it is hard to see. It has strong, sharp teeth.", "चिड़ियाघर में बाघ की खाल चमकीली दिखती है, पर जंगल में उसे देखना मुश्किल है। उसके दाँत मज़बूत और नुकीले हैं।", "Chidiyaghar mein baagh ki khaal chamkeeli dikhti hai, par jungle mein use dekhna mushkil hai. Uske daant mazboot aur nukeele hain."]},
+        {"book": true, "q": ["A tiger's chief food is ...", "बाघ का मुख्य भोजन क्या है?", "Baagh ka mukhya bhojan kya hai?", ["deer, wild pigs and monkeys", "grass and leaves", "fish only"], "deer, wild pigs and monkeys", "A tiger's chief food is deer, wild pigs, monkeys and other animals.", "बाघ का मुख्य भोजन हिरण, जंगली सूअर, बंदर और दूसरे जानवर हैं।", "Baagh ka mukhya bhojan hiran, jungli sooar, bandar aur doosre jaanwar hain."]}
+      ]
+    },
+    {
+      "emoji": "✉️", "title": ["चलो लिखें: दोस्त को चिट्ठी", "Chalo likhein: dost ko chitthi", "Let's Write: a letter to a friend"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: दोस्त को कान्हा किसली की यात्रा के बारे में चिट्ठी लिखो। ढाँचा: ऊपर दाईं ओर पता और तारीख़, फिर Dear Amit, फिर बात, आख़िर में Yours affectionately और नाम।", "Kitaab: dost ko Kanha Kisli ki yaatra ke baare mein chitthi likho. Dhaancha: upar daayin or pata aur taareekh, phir Dear Amit, phir baat, aakhir mein Yours affectionately aur naam.", "The book: write a letter to a friend about your visit to Kanha Kisli. Layout: address and date at the top right, then Dear Amit, then the letter, and at the end Yours affectionately and your name."]},
+        {"book": true, "q": ["How do we end a letter to a friend?", "दोस्त को चिट्ठी कैसे ख़त्म करें?", "Dost ko chitthi kaise khatm karein?", ["Yours affectionately", "Yours faithfully, Sir", "Thank you, Principal"], "Yours affectionately"]},
+        {"book": true, "build": ["मैं हाल ही में कान्हा किसली गया था।", "Main haal hi mein Kanha Kisli gaya tha.", "Start by telling your friend about your recent trip.", "I recently visited Kanha Kisli.", "मैं हाल ही में कान्हा किसली गया था।", "Main haal hi mein Kanha Kisli gaya tha."]},
+        {"book": true, "build": ["मैंने हाथी पर बैठकर एक बाघ देखा।", "Maine haathi par baithkar ek baagh dekha.", "Tell what you saw from the elephant's back.", "I saw a tiger from an elephant's back.", "मैंने हाथी पर बैठकर एक बाघ देखा।", "Maine haathi par baithkar ek baagh dekha."]},
+        {"book": true, "build": ["वहाँ बहुत सुंदर पक्षी भी थे।", "Wahan bahut sundar pakshi bhi the.", "Tell about the birds there.", "There were many beautiful birds too.", "वहाँ बहुत सारे सुंदर पक्षी भी थे।", "Wahan bahut saare sundar pakshi bhi the."]},
+        {"book": true, "build": ["तुम्हें भी एक बार वहाँ जाना चाहिए।", "Tumhe bhi ek baar wahan jaana chahiye.", "Advise your friend to go there.", "You should also visit it once.", "तुम्हें भी एक बार वहाँ जाना चाहिए।", "Tumhe bhi ek baar wahan jaana chahiye."]}
+      ]
+    },
+    {
+      "emoji": "🗺️", "title": ["चलो करके देखें: भारत के नेशनल पार्क", "Chalo karke dekhein: Bharat ke National Park", "Let's Do It: National Parks of India"], "book": true,
+      "skills": ["book.activity", "vocab.places"],
+      "steps": [
+        {"card": ["किताब: भारत के नक़्शे पर कम से कम दस नेशनल पार्क दिखाओ। यहाँ कुछ मशहूर पार्क और उनके राज्य हैं।", "Kitaab: Bharat ke naqshe par kam se kam das National Park dikhaao. Yahan kuchh mashhoor park aur unke raajya hain.", "The book: mark at least ten National Parks on a map of India. Here are some famous parks and their states."]},
+        {"book": true, "pairs": ["पार्क को उसके राज्य से जोड़ो", "Park ko uske raajya se jodo", "Join each park to its state", [
+          ["Kanha", "Madhya Pradesh", "कान्हा — मध्य प्रदेश", "Kanha — Madhya Pradesh"],
+          ["Jim Corbett", "Uttarakhand", "जिम कॉर्बेट — उत्तराखंड", "Jim Corbett — Uttarakhand"],
+          ["Kaziranga", "Assam", "काज़ीरंगा — असम", "Kaziranga — Assam"],
+          ["Gir", "Gujarat", "गिर — गुजरात", "Gir — Gujarat"],
+          ["Ranthambore", "Rajasthan", "रणथंभौर — राजस्थान", "Ranthambore — Rajasthan"],
+          ["Sundarbans", "West Bengal", "सुंदरबन — पश्चिम बंगाल", "Sundarbans — West Bengal"]]]},
+        {"q": ["Which of these National Parks is also in Madhya Pradesh?", "इनमें से कौन सा पार्क भी मध्य प्रदेश में है?", "Inmein se kaun sa park bhi Madhya Pradesh mein hai?", ["Bandhavgarh", "Kaziranga", "Gir"], "Bandhavgarh", "Bandhavgarh, Pench, Satpura and Panna are also National Parks in Madhya Pradesh.", "बांधवगढ़, पेंच, सतपुड़ा और पन्ना भी मध्य प्रदेश के नेशनल पार्क हैं।", "Bandhavgarh, Pench, Satpura aur Panna bhi Madhya Pradesh ke National Park hain."]},
+        {"q": ["Which animal is Gir famous for?", "गिर किस जानवर के लिए मशहूर है?", "Gir kis jaanwar ke liye mashhoor hai?", ["Asiatic lions", "one-horned rhinos", "elephants"], "Asiatic lions"]},
+        {"q": ["Which animal is Kaziranga famous for?", "काज़ीरंगा किस जानवर के लिए मशहूर है?", "Kaziranga kis jaanwar ke liye mashhoor hai?", ["one-horned rhinos", "Asiatic lions", "camels"], "one-horned rhinos"]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: कान्हा का बारहसिंगा", "Aur seekho: Kanha ka baarahsingha", "Learn more: Kanha's barasingha"], "book": false,
+      "skills": ["vocab.meaning", "vocab.animals"],
+      "steps": [
+        {"q": ["Which rare deer is saved at Kanha and is the State Animal of M.P.?", "कौन सा दुर्लभ हिरण कान्हा में बचाया गया और म.प्र. का राजकीय पशु है?", "Kaun sa durlabh hiran Kanha mein bachaaya gaya aur M.P. ka raajkeeya pashu hai?", ["barasingha (swamp deer)", "blackbuck", "sambhar"], "barasingha (swamp deer)", "The barasingha (swamp deer) is the State Animal of Madhya Pradesh. Kanha saved it from dying out.", "बारहसिंगा म.प्र. का राजकीय पशु है। कान्हा ने इसे ख़त्म होने से बचाया।", "Baarahsingha M.P. ka raajkeeya pashu hai. Kanha ne ise khatm hone se bachaaya."]},
+        {"q": ["Why is Madhya Pradesh called the ‘Tiger State’?", "म.प्र. को ‘टाइगर स्टेट’ क्यों कहते हैं?", "M.P. ko ‘Tiger State’ kyon kehte hain?", ["It has the most tigers in India.", "Its flag has a tiger.", "Tigers were born there first."], "It has the most tigers in India."]},
+        {"q": ["We should keep quiet in a National Park because ...", "पार्क में चुप क्यों रहें?", "Park mein chup kyon rahein?", ["noise disturbs the animals", "it is a library", "talking is not allowed anywhere"], "noise disturbs the animals"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 2 का टेस्ट", "Paath 2 ka test", "Lesson 2 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["When did Kanha National Park come into existence?", "कान्हा कब बना?", "Kanha kab bana?", ["in 1955", "in 1947", "in 2006"], "in 1955"]},
+        {"book": true, "q": ["What type of huts are there at Kanha?", "कैसी झोपड़ियाँ?", "Kaisi jhopdiyaan?", ["log huts", "mud huts", "glass huts"], "log huts"]},
+        {"book": true, "skills": ["book.words"], "q": ["salt and ___", "जोड़ी पूरी करो", "Jodi poori karo", ["pepper", "butter", "order"], "pepper"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word comes first in a dictionary?", "शब्दकोश में पहले?", "Shabdkosh mein pehle?", ["climate", "cobbler", "call"], "call"]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘knife’ is ...", "बहुवचन", "Bahuvachan", ["knives", "knifes", "knifs"], "knives"]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘ox’ is ...", "बहुवचन", "Bahuvachan", ["oxen", "oxes", "oxs"], "oxen"]},
+        {"book": true, "skills": ["book.grammar", "grammar.gender"], "q": ["The feminine of ‘fox’ is ...", "स्त्रीलिंग", "Streeling", ["vixen", "foxess", "mare"], "vixen"]},
+        {"book": true, "skills": ["book.grammar", "grammar.gender"], "q": ["The feminine of ‘host’ is ...", "स्त्रीलिंग", "Streeling", ["hostess", "hostes", "mistress"], "hostess"]},
+        {"book": true, "skills": ["book.talk", "grammar.indirect_speech"], "q": ["Rahul: \"I reached there by bus.\"", "अनिल को बताओ", "Anil ko batao", ["Rahul said that he reached there by bus.", "Rahul said that I reached there by bus.", "Rahul said that he reach there by bus."], "Rahul said that he reached there by bus."]},
+        {"book": true, "q": ["A tiger's chief food is ...", "बाघ का मुख्य भोजन", "Baagh ka mukhya bhojan", ["deer, wild pigs and monkeys", "grass and leaves", "fish only"], "deer, wild pigs and monkeys"]}
+      ]
+    }
+  ]
+}

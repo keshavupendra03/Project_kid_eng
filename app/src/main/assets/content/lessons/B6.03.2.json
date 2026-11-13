@@ -1,0 +1,309 @@
+{
+  "id": "B6.03.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.03.2.S02",
+    "B6.03.2.S03",
+    "B6.03.2.S04",
+    "B6.03.2.S05",
+    "B6.03.2.S07",
+    "B6.03.2.S08",
+    "B6.03.2.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.03.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: पाठ के शब्दों से पैराग्राफ़ पूरा करो।",
+        "hinglish": "Kitaab: paath ke shabdon se paragraph poora karo.",
+        "en": "The book: complete the paragraph with words from the lesson."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The King was a wise, brave and ___ ruler.",
+      "answer": "kind",
+      "options": [
+        "kind",
+        "lazy",
+        "cruel"
+      ],
+      "meaning": {
+        "hi": "राजा समझदार, बहादुर और दयालु शासक था।",
+        "hinglish": "Raja samajhdaar, bahaadur aur dayaalu shaasak tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "After he lost the battle, he had to hide in a ___.",
+      "answer": "cave",
+      "options": [
+        "cave",
+        "palace",
+        "tree"
+      ],
+      "meaning": {
+        "hi": "लड़ाई हारने के बाद उसे एक गुफ़ा में छिपना पड़ा।",
+        "hinglish": "Ladaai haarne ke baad use ek gufaa mein chhipna pada."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "On watching the spider he regained his ___.",
+      "answer": "confidence",
+      "options": [
+        "confidence",
+        "crown",
+        "cave"
+      ],
+      "meaning": {
+        "hi": "मकड़ी को देखकर उसका आत्मविश्वास लौट आया।",
+        "hinglish": "Makdi ko dekhkar uska aatmavishwaas laut aaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "He united his soldiers and ___ his enemy to get his kingdom back.",
+      "answer": "defeated",
+      "options": [
+        "defeated",
+        "helped",
+        "fed"
+      ],
+      "meaning": {
+        "hi": "उसने अपने सैनिकों को इकट्ठा किया और राज्य वापस पाने के लिए दुश्मन को हराया।",
+        "hinglish": "Usne apne sainikon ko ikattha kiya aur raajya waapas paane ke liye dushman ko haraaya."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.03.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "झुंड वाले शब्द (collective nouns): a crowd of people (लोगों की भीड़), a herd of cattle (मवेशियों का झुंड)।",
+        "hinglish": "Jhund waale shabd (collective nouns): a crowd of people (logon ki bheed), a herd of cattle (maveshiyon ka jhund).",
+        "en": "Group words (collective nouns): a crowd of people, a herd of cattle."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.03.2.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "सही झुंड वाला शब्द जोड़ो",
+        "hinglish": "Sahi jhund waala shabd jodo",
+        "en": "Complete the phrases"
+      },
+      "pairs": [
+        {
+          "left": "a crowd of",
+          "right": "people",
+          "meaning": {
+            "hi": "लोगों की भीड़",
+            "hinglish": "logon ki bheed"
+          }
+        },
+        {
+          "left": "a herd of",
+          "right": "cattle",
+          "meaning": {
+            "hi": "मवेशियों का झुंड",
+            "hinglish": "maveshiyon ka jhund"
+          }
+        },
+        {
+          "left": "a bunch of",
+          "right": "bananas",
+          "meaning": {
+            "hi": "केलों का गुच्छा",
+            "hinglish": "kelon ka guchchha"
+          }
+        },
+        {
+          "left": "a team of",
+          "right": "players",
+          "meaning": {
+            "hi": "खिलाड़ियों की टीम",
+            "hinglish": "khilaadiyon ki team"
+          }
+        },
+        {
+          "left": "a flock of",
+          "right": "sheep",
+          "meaning": {
+            "hi": "भेड़ों का झुंड",
+            "hinglish": "bhedon ka jhund"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.03.2.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "सही झुंड वाला शब्द जोड़ो",
+        "hinglish": "Sahi jhund waala shabd jodo",
+        "en": "Complete the phrases"
+      },
+      "pairs": [
+        {
+          "left": "a bundle of",
+          "right": "sticks",
+          "meaning": {
+            "hi": "लकड़ियों का गट्ठर",
+            "hinglish": "lakdiyon ka gatthar"
+          }
+        },
+        {
+          "left": "an army of",
+          "right": "soldiers",
+          "meaning": {
+            "hi": "सैनिकों की सेना",
+            "hinglish": "sainikon ki sena"
+          }
+        },
+        {
+          "left": "a pair of",
+          "right": "shoes",
+          "meaning": {
+            "hi": "जूतों की जोड़ी",
+            "hinglish": "jooton ki jodi"
+          }
+        },
+        {
+          "left": "a fleet of",
+          "right": "ships",
+          "meaning": {
+            "hi": "जहाज़ों का बेड़ा",
+            "hinglish": "jahaazon ka beda"
+          }
+        },
+        {
+          "left": "a cluster of",
+          "right": "stars",
+          "meaning": {
+            "hi": "तारों का गुच्छा",
+            "hinglish": "taaron ka guchchha"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.03.2.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "अब किताब की पहेली: उल्टे शब्द (opposites) भरो। पहला शब्द ‘succeed’ (fail का उल्टा) पहले से भरा है।",
+        "hinglish": "Ab kitaab ki paheli: ulte shabd (opposites) bharo. Pehla shabd ‘succeed’ (fail ka ulta) pehle se bhara hai.",
+        "en": "Now the book's puzzle: write the opposites. The first one, ‘succeed’ (opposite of fail), is filled in."
+      }
+    },
+    {
+      "type": "crossword",
+      "id": "B6.03.2.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "entries": [
+        {
+          "number": 1,
+          "answer": "succeed",
+          "across": false,
+          "clue": "Opposite of fail: ___",
+          "given": true,
+          "row": 0,
+          "col": 2
+        },
+        {
+          "number": 2,
+          "answer": "lose",
+          "across": false,
+          "clue": "Opposite of win: ___",
+          "row": 8,
+          "col": 2
+        },
+        {
+          "number": 3,
+          "answer": "many",
+          "across": false,
+          "clue": "Opposite of few: ___",
+          "row": 2,
+          "col": 4
+        },
+        {
+          "number": 4,
+          "answer": "enemy",
+          "across": true,
+          "clue": "Opposite of friend: ___",
+          "row": 5,
+          "col": 0
+        },
+        {
+          "number": 5,
+          "answer": "strength",
+          "across": false,
+          "clue": "Opposite of weakness: ___",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "number": 6,
+          "answer": "tall",
+          "across": true,
+          "clue": "Opposite of short: ___",
+          "row": 8,
+          "col": 0
+        },
+        {
+          "number": 7,
+          "answer": "sad",
+          "across": true,
+          "clue": "Opposite of happy: ___",
+          "row": 10,
+          "col": 2
+        }
+      ],
+      "rows": 12,
+      "cols": 5
+    }
+  ]
+}

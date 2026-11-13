@@ -1,0 +1,198 @@
+{
+  "id": "B6.10.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.10.T.S01",
+    "B6.10.T.S02",
+    "B6.10.T.S03",
+    "B6.10.T.S04",
+    "B6.10.T.S05",
+    "B6.10.T.S06",
+    "B6.10.T.S07",
+    "B6.10.T.S08",
+    "B6.10.T.S09",
+    "B6.10.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.10.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? The boy was later known as Sardar Bhagat Singh.",
+      "questionMeaning": {
+        "hi": "लड़का भगत सिंह कहलाया।",
+        "hinglish": "Ladka Bhagat Singh kehlaaya."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? The beggar had not eaten for two days.",
+      "questionMeaning": {
+        "hi": "भिखारी दो दिन से भूखा था।",
+        "hinglish": "Bhikhaari do din se bhookha tha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why did the boy keep his breakfast on the bookshelf?",
+      "questionMeaning": {
+        "hi": "नाश्ता अलमारी में क्यों रखा?",
+        "hinglish": "Naashta almaari mein kyon rakha?"
+      },
+      "options": [
+        "He was waiting for the beggar to take his share.",
+        "He forgot to eat it.",
+        "He did not like it."
+      ],
+      "answer": "He was waiting for the beggar to take his share."
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.T.S04",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What did his mother find on the bookshelf?",
+      "questionMeaning": {
+        "hi": "माँ को अलमारी में क्या मिला?",
+        "hinglish": "Maa ko almaari mein kya mila?"
+      },
+      "options": [
+        "her son's breakfasts packed in a corner, with red ants around",
+        "money",
+        "toys"
+      ],
+      "answer": "her son's breakfasts packed in a corner, with red ants around"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "The boy gave his ___ to the beggar.",
+      "answer": "breakfast",
+      "options": [
+        "breakfast",
+        "hungry",
+        "near"
+      ],
+      "meaning": {
+        "hi": "लड़के ने अपना नाश्ता भिखारी को दिया।",
+        "hinglish": "Ladke ne apna naashta bhikhaari ko diya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Where ___ you yesterday?",
+      "answer": "were",
+      "options": [
+        "were",
+        "are",
+        "was"
+      ],
+      "meaning": {
+        "hi": "तुम कल कहाँ थे?",
+        "hinglish": "Tum kal kahan the?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "What day ___ it today?",
+      "answer": "is",
+      "options": [
+        "is",
+        "was",
+        "were"
+      ],
+      "meaning": {
+        "hi": "आज कौन सा दिन है?",
+        "hinglish": "Aaj kaun sa din hai?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.T.S08",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "‘How did you travel?’ A good answer:",
+      "questionMeaning": {
+        "hi": "‘How did you travel?’ का अच्छा जवाब:",
+        "hinglish": "‘How did you travel?’ ka achha jawab:"
+      },
+      "options": [
+        "I travelled by train.",
+        "I went to Agra.",
+        "I saw the Taj Mahal."
+      ],
+      "answer": "I travelled by train."
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.T.S09",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "Thank you for such a ___ gift.",
+      "answer": "lovely",
+      "options": [
+        "lovely",
+        "working",
+        "fine"
+      ],
+      "meaning": {
+        "hi": "इतने सुंदर तोहफ़े के लिए धन्यवाद।",
+        "hinglish": "Itne sundar tohfe ke liye dhanyavaad."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.T.S10",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Who said ‘Give me blood, and I will give you freedom’?",
+      "questionMeaning": {
+        "hi": "‘तुम मुझे ख़ून दो...’ किसने कहा?",
+        "hinglish": "‘Tum mujhe khoon do...’ kisne kaha?"
+      },
+      "options": [
+        "Subhash Chandra Bose",
+        "Bhagat Singh",
+        "Tilak"
+      ],
+      "answer": "Subhash Chandra Bose"
+    }
+  ]
+}

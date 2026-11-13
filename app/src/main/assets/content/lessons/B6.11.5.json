@@ -1,0 +1,177 @@
+{
+  "id": "B6.11.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.11.5.S02",
+    "B6.11.5.S03",
+    "B6.11.5.S04",
+    "B6.11.5.S05",
+    "B6.11.5.S06",
+    "B6.11.5.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.11.5.S01",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "किताब में नौ ग्रहों के नाम हैं: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto। ध्यान दो: 2006 में वैज्ञानिकों ने Pluto को ‘बौना ग्रह’ (dwarf planet) कहना शुरू किया। अब सौर मंडल में आठ ग्रह माने जाते हैं।",
+        "hinglish": "Kitaab mein nau grahon ke naam hain: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto. Dhyaan do: 2006 mein vaigyaanikon ne Pluto ko ‘bauna grah’ (dwarf planet) kehna shuru kiya. Ab saur mandal mein aath grah maane jaate hain.",
+        "en": "The book lists nine planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto. Note: in 2006 scientists started calling Pluto a ‘dwarf planet’. Now the solar system is said to have eight planets."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.5.S02",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "question": "M____ is the planet closest to the sun.",
+      "questionMeaning": {
+        "hi": "सूरज के सबसे पास वाला ग्रह",
+        "hinglish": "Sooraj ke sabse paas waala grah"
+      },
+      "options": [
+        "Mercury",
+        "Mars",
+        "Moon"
+      ],
+      "answer": "Mercury"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.5.S03",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "question": "E____ is the planet we live on.",
+      "questionMeaning": {
+        "hi": "जिस ग्रह पर हम रहते हैं",
+        "hinglish": "Jis grah par hum rehte hain"
+      },
+      "options": [
+        "Earth",
+        "Venus",
+        "Saturn"
+      ],
+      "answer": "Earth"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.5.S04",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "question": "M____ is called the Red Planet.",
+      "questionMeaning": {
+        "hi": "लाल ग्रह",
+        "hinglish": "Laal grah"
+      },
+      "options": [
+        "Mars",
+        "Mercury",
+        "Jupiter"
+      ],
+      "answer": "Mars"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.5.S05",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "question": "J____ is the biggest planet.",
+      "questionMeaning": {
+        "hi": "सबसे बड़ा ग्रह",
+        "hinglish": "Sabse bada grah"
+      },
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Neptune"
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.5.S06",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "question": "S____ is the planet with beautiful rings.",
+      "questionMeaning": {
+        "hi": "सुंदर छल्लों वाला ग्रह",
+        "hinglish": "Sundar chhallon waala grah"
+      },
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Venus"
+      ],
+      "answer": "Saturn"
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.11.5.S07",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "ग्रहों के इंग्लिश और हिंदी नाम जोड़ो",
+        "hinglish": "Grahon ke English aur Hindi naam jodo",
+        "en": "Join the English and Hindi names of the planets"
+      },
+      "pairs": [
+        {
+          "left": "Venus",
+          "right": "शुक्र",
+          "meaning": {
+            "hi": "शुक्र",
+            "hinglish": "Shukra"
+          }
+        },
+        {
+          "left": "Uranus",
+          "right": "अरुण",
+          "meaning": {
+            "hi": "अरुण",
+            "hinglish": "Arun"
+          }
+        },
+        {
+          "left": "Neptune",
+          "right": "वरुण",
+          "meaning": {
+            "hi": "वरुण",
+            "hinglish": "Varun"
+          }
+        },
+        {
+          "left": "Mercury",
+          "right": "बुध",
+          "meaning": {
+            "hi": "बुध",
+            "hinglish": "Budh"
+          }
+        },
+        {
+          "left": "Jupiter",
+          "right": "बृहस्पति",
+          "meaning": {
+            "hi": "बृहस्पति",
+            "hinglish": "Brihaspati"
+          }
+        }
+      ]
+    }
+  ]
+}

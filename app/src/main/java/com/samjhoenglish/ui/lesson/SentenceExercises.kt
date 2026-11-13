@@ -70,6 +70,7 @@ private fun Meaning.text(): String = if (LocalAppLanguage.current == AppLanguage
 
 @Composable
 internal fun MatchMeaningStep(step: MatchMeaning, feedback: Feedback, onAnswer: OnAnswer) {
+    val logAnswer = LocalAnswerLog.current
     val speaker = LocalSpeaker.current
     val language = LocalAppLanguage.current
     val options = remember(step) { step.options.shuffled() }
@@ -100,6 +101,7 @@ internal fun MatchMeaningStep(step: MatchMeaning, feedback: Feedback, onAnswer: 
                     state = optionState(isAnswer, option in wrong, feedback),
                     onClick = {
                         if (feedback.isDone || option in wrong) return@OptionTile
+                        logAnswer(option.hi)
                         if (isAnswer) onAnswer(true, null) else {
                             wrong = wrong + option
                             onAnswer(false, null)
@@ -120,6 +122,7 @@ internal fun MatchMeaningStep(step: MatchMeaning, feedback: Feedback, onAnswer: 
 
 @Composable
 internal fun ListenReadStep(step: ListenRead, feedback: Feedback, onAnswer: OnAnswer) {
+    val logAnswer = LocalAnswerLog.current
     val speaker = LocalSpeaker.current
     val language = LocalAppLanguage.current
     val options = remember(step) { step.options.shuffled() }
@@ -142,6 +145,7 @@ internal fun ListenReadStep(step: ListenRead, feedback: Feedback, onAnswer: OnAn
                     state = optionState(isAnswer, option in wrong, feedback),
                     onClick = {
                         if (feedback.isDone || option in wrong) return@OptionTile
+                        logAnswer(option)
                         if (isAnswer) onAnswer(true, null) else {
                             wrong = wrong + option
                             onAnswer(false, null)
@@ -166,6 +170,7 @@ private data class Block(val index: Int, val text: String, val role: String)
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
 internal fun SentenceTrainStep(step: SentenceTrain, feedback: Feedback, onAnswer: OnAnswer) {
+    val logAnswer = LocalAnswerLog.current
     val speaker = LocalSpeaker.current
     val language = LocalAppLanguage.current
     val scope = rememberCoroutineScope()
@@ -249,6 +254,7 @@ internal fun SentenceTrainStep(step: SentenceTrain, feedback: Feedback, onAnswer
                 Spacer(Modifier.height(16.dp))
                 BigButton(text = UiStrings.check.text(), emoji = "✔️", color = MaterialTheme.colorScheme.secondary, onClick = {
                     val right = placed.map { it.text } == step.answer.map { it.text }
+                    logAnswer(placed.joinToString(" ") { it.text })
                     if (right) onAnswer(true, null) else {
                         onAnswer(false, null)
                         scope.launch {
@@ -313,6 +319,7 @@ private fun EmptyCoach() {
 
 @Composable
 internal fun FillBlankStep(step: FillBlank, feedback: Feedback, onAnswer: OnAnswer) {
+    val logAnswer = LocalAnswerLog.current
     val speaker = LocalSpeaker.current
     val language = LocalAppLanguage.current
     val options = remember(step) { step.options.shuffled() }
@@ -343,24 +350,36 @@ internal fun FillBlankStep(step: FillBlank, feedback: Feedback, onAnswer: OnAnsw
             }
         }
         Spacer(Modifier.height(20.dp))
-        Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
-            options.forEach { option ->
-                val isAnswer = option == step.answer
-                OptionTile(
-                    state = optionState(isAnswer, option in wrong, feedback),
-                    onClick = {
-                        if (feedback.isDone || option in wrong) return@OptionTile
-                        if (isAnswer) onAnswer(true, null) else {
-                            wrong = wrong + option
-                            onAnswer(false, null)
-                        }
-                    },
-                    modifier = Modifier
-                        .weight(1f)
-                        .heightIn(min = 72.dp),
-                ) {
-                    Text(option, style = MaterialTheme.typography.headlineSmall)
-                }
+        val tile: @Composable (String, Modifier) -> Unit = { option, modifier ->
+            val isAnswer = option == step.answer
+            OptionTile(
+                state = optionState(isAnswer, option in wrong, feedback),
+                onClick = {
+                    if (feedback.isDone || option in wrong) return@OptionTile
+                    logAnswer(option)
+                    if (isAnswer) onAnswer(true, null) else {
+                        wrong = wrong + option
+                        onAnswer(false, null)
+                    }
+                },
+                modifier = modifier.heightIn(min = 64.dp),
+            ) {
+                Text(
+                    option,
+                    style = MaterialTheme.typography.headlineSmall,
+                    textAlign = TextAlign.Center,
+                    modifier = Modifier.padding(horizontal = 10.dp, vertical = 6.dp),
+                )
+            }
+        }
+        // Short words (is / am / are) sit side by side; phrases like "at one go" get a full-width row each.
+        if (options.any { it.contains(' ') || it.length > 7 }) {
+            Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                options.forEach { tile(it, Modifier.fillMaxWidth()) }
+            }
+        } else {
+            Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+                options.forEach { tile(it, Modifier.weight(1f)) }
             }
         }
     }
@@ -371,6 +390,7 @@ internal fun FillBlankStep(step: FillBlank, feedback: Feedback, onAnswer: OnAnsw
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
 internal fun SpotMistakeStep(step: SpotMistake, feedback: Feedback, onAnswer: OnAnswer) {
+    val logAnswer = LocalAnswerLog.current
     val speaker = LocalSpeaker.current
     val language = LocalAppLanguage.current
     var wrongTaps by remember(step) { mutableStateOf(setOf<Int>()) }
@@ -397,6 +417,7 @@ internal fun SpotMistakeStep(step: SpotMistake, feedback: Feedback, onAnswer: On
                     },
                     onClick = {
                         if (feedback.isDone || index in wrongTaps) return@OptionTile
+                        logAnswer(step.words[index])
                         if (isWrongWord) onAnswer(true, null) else {
                             wrongTaps = wrongTaps + index
                             lastWrong = index

@@ -1,0 +1,301 @@
+{
+  "id": "B8.06.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.06.4.S02",
+    "B8.06.4.S03",
+    "B8.06.4.S04",
+    "B8.06.4.S05",
+    "B8.06.4.S06",
+    "B8.06.4.S07",
+    "B8.06.4.S08",
+    "B8.06.4.S09",
+    "B8.06.4.S11",
+    "B8.06.4.S12",
+    "B8.06.4.S13",
+    "B8.06.4.S14",
+    "B8.06.4.S15"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.06.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "text": {
+        "hi": "Yes/No सवाल सहायक क्रिया (is, are, does, did, will, can, has) से शुरू होता है: Was he playing cricket? Wh-सवाल: सवाल शब्द + सहायक + कर्ता + क्रिया: Where do you live?",
+        "hinglish": "Yes/No sawaal sahaayak kriya (is, are, does, did, will, can, has) se shuru hota hai: Was he playing cricket? Wh-sawaal: sawaal shabd + sahaayak + karta + kriya: Where do you live?",
+        "en": "A Yes/No question begins with a helping verb: Was he playing cricket? A Wh-question: question word + helping verb + subject + verb: Where do you live?"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.06.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "prompt": {
+        "hi": "सुनीता और राजू से पूछो कि क्या वे महेश्वर जा रहे हैं।",
+        "hinglish": "Sunita aur Raju se poochho ki kya woh Maheshwar ja rahe hain.",
+        "en": "Ask Sunita and Raju about their trip to Maheshwar."
+      },
+      "answer": "Are you going to Maheshwar?",
+      "meaning": {
+        "hi": "क्या तुम महेश्वर जा रहे हो?",
+        "hinglish": "Kya tum Maheshwar ja rahe ho?"
+      },
+      "extra": [
+        "Is"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.06.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "prompt": {
+        "hi": "सुरेश से पूछो कि क्या मोहन टेनिस खेलता है।",
+        "hinglish": "Suresh se poochho ki kya Mohan tennis khelta hai.",
+        "en": "Ask Suresh about Mohan and tennis."
+      },
+      "answer": "Does Mohan play tennis?",
+      "meaning": {
+        "hi": "क्या मोहन टेनिस खेलता है?",
+        "hinglish": "Kya Mohan tennis khelta hai?"
+      },
+      "extra": [
+        "plays"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.06.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "prompt": {
+        "hi": "दोस्त से पूछो कि क्या उसे छुट्टियों में मज़ा आया।",
+        "hinglish": "Dost se poochho ki kya use chhuttiyon mein maza aaya.",
+        "en": "Ask your friend about the holiday he just had."
+      },
+      "answer": "Did you enjoy your holiday?",
+      "meaning": {
+        "hi": "क्या तुम्हें छुट्टियों में मज़ा आया?",
+        "hinglish": "Kya tumhe chhuttiyon mein maza aaya?"
+      },
+      "extra": [
+        "enjoyed"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.06.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "prompt": {
+        "hi": "राकेश से पूछो कि क्या वह घूमने चलेगा।",
+        "hinglish": "Rakesh se poochho ki kya woh ghoomne chalega.",
+        "en": "Invite Rakesh for a walk, as a question."
+      },
+      "answer": "Will you go for a walk?",
+      "meaning": {
+        "hi": "क्या तुम घूमने चलोगे?",
+        "hinglish": "Kya tum ghoomne chaloge?"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.06.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "prompt": {
+        "hi": "अशोक से पूछो कि क्या वह आज चिड़ियाघर में होगा।",
+        "hinglish": "Ashok se poochho ki kya woh aaj chidiyaghar mein hoga.",
+        "en": "Ask Ashok about the zoo today."
+      },
+      "answer": "Will you be at the zoo today?",
+      "meaning": {
+        "hi": "क्या तुम आज चिड़ियाघर में होगे?",
+        "hinglish": "Kya tum aaj chidiyaghar mein hoge?"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.06.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "prompt": {
+        "hi": "पूछो कि क्या ट्रेन समय पर है।",
+        "hinglish": "Poochho ki kya train samay par hai.",
+        "en": "Ask about the train's timing."
+      },
+      "answer": "Is the train on time?",
+      "meaning": {
+        "hi": "क्या ट्रेन समय पर है?",
+        "hinglish": "Kya train samay par hai?"
+      },
+      "extra": [
+        "Does"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.06.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "prompt": {
+        "hi": "सुनीता से पूछो कि क्या तुम उसका पेन ले सकते हो।",
+        "hinglish": "Sunita se poochho ki kya tum uska pen le sakte ho.",
+        "en": "Ask Sunita politely to lend you something to write with."
+      },
+      "answer": "Can I borrow your pen?",
+      "meaning": {
+        "hi": "क्या मैं तुम्हारा पेन ले सकता हूँ?",
+        "hinglish": "Kya main tumhara pen le sakta hoon?"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.06.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "prompt": {
+        "hi": "विजय से पूछो कि क्या उसके पास मोटरबाइक है।",
+        "hinglish": "Vijay se poochho ki kya uske paas motorbike hai.",
+        "en": "Ask Vijay if he owns a bike."
+      },
+      "answer": "Do you have a motor bike?",
+      "meaning": {
+        "hi": "क्या तुम्हारे पास मोटरबाइक है?",
+        "hinglish": "Kya tumhaare paas motorbike hai?"
+      },
+      "extra": [
+        "Does"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.06.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "text": {
+        "hi": "(B) पार्टी में एक लड़के से Wh- सवाल पूछो।",
+        "hinglish": "(B) Party mein ek ladke se Wh- sawaal poochho.",
+        "en": "(B) Ask a boy at a party some Wh- questions."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.wh_questions"
+      ],
+      "question": "Ask the name of his school.",
+      "questionMeaning": {
+        "hi": "उसके स्कूल का नाम पूछो",
+        "hinglish": "Uske school ka naam poochho"
+      },
+      "options": [
+        "What is the name of your school?",
+        "What the name of your school is?",
+        "Where is your school name?"
+      ],
+      "answer": "What is the name of your school?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.wh_questions"
+      ],
+      "question": "Ask where he lives.",
+      "questionMeaning": {
+        "hi": "पूछो वह कहाँ रहता है",
+        "hinglish": "Poochho woh kahan rehta hai"
+      },
+      "options": [
+        "Where do you live?",
+        "Where you live?",
+        "Where are you live?"
+      ],
+      "answer": "Where do you live?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.wh_questions"
+      ],
+      "question": "Ask his age.",
+      "questionMeaning": {
+        "hi": "उसकी उम्र पूछो",
+        "hinglish": "Uski umar poochho"
+      },
+      "options": [
+        "How old are you?",
+        "How old you are?",
+        "How much old are you?"
+      ],
+      "answer": "How old are you?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.4.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.wh_questions"
+      ],
+      "question": "Ask when the course finishes.",
+      "questionMeaning": {
+        "hi": "पूछो कोर्स कब ख़त्म होगा",
+        "hinglish": "Poochho course kab khatm hoga"
+      },
+      "options": [
+        "When does your course finish?",
+        "When your course finishes?",
+        "When do your course finish?"
+      ],
+      "answer": "When does your course finish?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.4.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.wh_questions"
+      ],
+      "question": "Ask what the date is today.",
+      "questionMeaning": {
+        "hi": "आज की तारीख़ पूछो",
+        "hinglish": "Aaj ki taareekh poochho"
+      },
+      "options": [
+        "What is the date today?",
+        "What the date is today?",
+        "What date today is?"
+      ],
+      "answer": "What is the date today?"
+    }
+  ]
+}

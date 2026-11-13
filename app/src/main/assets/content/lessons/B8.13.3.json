@@ -1,0 +1,318 @@
+{
+  "id": "B8.13.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.13.3.S02",
+    "B8.13.3.S03",
+    "B8.13.3.S04",
+    "B8.13.3.S05",
+    "B8.13.3.S06",
+    "B8.13.3.S07",
+    "B8.13.3.S08",
+    "B8.13.3.S09",
+    "B8.13.3.S11",
+    "B8.13.3.S12",
+    "B8.13.3.S13",
+    "B8.13.3.S14"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.13.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 114-117 पर कहानी पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 114-117 par kahani padho, phir jawab do.",
+        "en": "Read the story on pages 114–117 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did Yudhishthira say to Nakula?",
+      "questionMeaning": {
+        "hi": "युधिष्ठिर ने नकुल से क्या कहा?",
+        "hinglish": "Yudhishthir ne Nakul se kya kaha?"
+      },
+      "options": [
+        "Climb the tree and look for signs of water nearby.",
+        "Go home and rest.",
+        "Fight the Yaksha."
+      ],
+      "answer": "Climb the tree and look for signs of water nearby.",
+      "modelAnswer": "Yudhishthira told Nakula to climb a tree and look all over the forest for water, because trees, birds and plants are sure signs of water.",
+      "modelMeaning": {
+        "hi": "युधिष्ठिर ने नकुल से पेड़ पर चढ़कर पूरे जंगल में पानी देखने को कहा, क्योंकि पेड़, पक्षी और पौधे पानी के पक्के निशान हैं।",
+        "hinglish": "Yudhishthir ne Nakul se ped par chadhkar poore jungle mein paani dekhne ko kaha, kyonki ped, pakshi aur paudhe paani ke pakke nishaan hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the voice from the pond say?",
+      "questionMeaning": {
+        "hi": "तालाब की आवाज़ ने क्या कहा?",
+        "hinglish": "Taalaab ki awaaz ne kya kaha?"
+      },
+      "options": [
+        "Answer my questions before drinking, or you will die.",
+        "Drink as much as you like.",
+        "Go away from my forest."
+      ],
+      "answer": "Answer my questions before drinking, or you will die.",
+      "modelAnswer": "The voice said, ‘Stop! Do not drink the water till you have answered my questions. If you take even a drop before this, you may die at once.’",
+      "modelMeaning": {
+        "hi": "आवाज़ ने कहा, ‘रुको! मेरे सवालों के जवाब दिए बिना पानी मत पियो। एक बूँद भी पी तो तुरंत मर सकते हो।’",
+        "hinglish": "Awaaz ne kaha, ‘Ruko! Mere sawaalon ke jawab diye bina paani mat piyo. Ek boond bhi pi to turant mar sakte ho.’"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Did Nakula pay heed to the voice?",
+      "questionMeaning": {
+        "hi": "क्या नकुल ने आवाज़ पर ध्यान दिया?",
+        "hinglish": "Kya Nakul ne awaaz par dhyaan diya?"
+      },
+      "options": [
+        "No, he drank the water and fell dead.",
+        "Yes, he answered all the questions."
+      ],
+      "answer": "No, he drank the water and fell dead.",
+      "modelAnswer": "No, Nakula paid no heed to the voice. He touched the water and fell dead.",
+      "modelMeaning": {
+        "hi": "नहीं, नकुल ने ध्यान नहीं दिया। पानी छूते ही वह मर गया।",
+        "hinglish": "Nahi, Nakul ne dhyaan nahi diya. Paani chhoote hi woh mar gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which is one of the Yaksha's questions?",
+      "questionMeaning": {
+        "hi": "यक्ष का एक सवाल कौन सा था?",
+        "hinglish": "Yaksha ka ek sawaal kaun sa tha?"
+      },
+      "options": [
+        "Which is the best road to Heaven?",
+        "What is your name?",
+        "Where is your palace?"
+      ],
+      "answer": "Which is the best road to Heaven?",
+      "modelAnswer": "Some of the Yaksha's questions: Which is the best road to Heaven? Which is the best of virtues? Which is the worst enemy of man? What is heavier than the earth and the clouds? What is the way to be happy?",
+      "modelMeaning": {
+        "hi": "यक्ष के कुछ सवाल: स्वर्ग का सबसे अच्छा रास्ता? सबसे अच्छा गुण? इंसान का सबसे बड़ा दुश्मन? धरती और बादलों से भारी क्या? ख़ुश रहने का तरीक़ा?",
+        "hinglish": "Yaksha ke kuchh sawaal: swarg ka sabse achha raasta? Sabse achha gun? Insaan ka sabse bada dushman? Dharti aur baadalon se bhaari kya? Khush rehne ka tareeqa?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which is the best of all virtues?",
+      "questionMeaning": {
+        "hi": "सबसे अच्छा गुण कौन सा है?",
+        "hinglish": "Sabse achha gun kaun sa hai?"
+      },
+      "options": [
+        "to hate none",
+        "to be rich",
+        "to be strong"
+      ],
+      "answer": "to hate none",
+      "modelAnswer": "The best virtue is to hate none.",
+      "modelMeaning": {
+        "hi": "सबसे अच्छा गुण है किसी से नफ़रत न करना।",
+        "hinglish": "Sabse achha gun hai kisi se nafrat na karna."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did Yudhishthira wish to get back Nakula?",
+      "questionMeaning": {
+        "hi": "युधिष्ठिर ने नकुल को ही क्यों माँगा?",
+        "hinglish": "Yudhishthir ne Nakul ko hi kyon maanga?"
+      },
+      "options": [
+        "So that one son of each mother, Kunti and Madri, stays alive.",
+        "Because Nakula was the strongest.",
+        "Because he did not love Bhima and Arjuna."
+      ],
+      "answer": "So that one son of each mother, Kunti and Madri, stays alive.",
+      "modelAnswer": "Yudhishthira was the son of Kunti and Nakula was the son of Madri. He wanted Nakula back so that one son of each mother would remain alive.",
+      "modelMeaning": {
+        "hi": "युधिष्ठिर कुंती के बेटे थे और नकुल माद्री के। वे चाहते थे कि दोनों माताओं का एक-एक बेटा जीवित रहे।",
+        "hinglish": "Yudhishthir Kunti ke bete the aur Nakul Maadri ke. Woh chahte the ki dono maataon ka ek-ek beta jeevit rahe."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How did the four brothers come back to life?",
+      "questionMeaning": {
+        "hi": "चारों भाई दोबारा कैसे जीवित हुए?",
+        "hinglish": "Chaaron bhai dobaara kaise jeevit hue?"
+      },
+      "options": [
+        "The Yaksha sprinkled water on them.",
+        "A doctor treated them.",
+        "They woke up on their own."
+      ],
+      "answer": "The Yaksha sprinkled water on them.",
+      "modelAnswer": "The Yaksha, who was really Dharma, the God of Justice, was pleased with Yudhishthira. He sprinkled some drops of water on the four brothers and they came back to life.",
+      "modelMeaning": {
+        "hi": "यक्ष असल में धर्मराज (न्याय के देवता) थे। युधिष्ठिर से ख़ुश होकर उन्होंने चारों भाइयों पर पानी छिड़का और वे जीवित हो गए।",
+        "hinglish": "Yaksha asal mein Dharmaraj (nyaay ke devta) the. Yudhishthir se khush hokar unhone chaaron bhaiyon par paani chhidka aur woh jeevit ho gaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What moral do you draw from this story?",
+      "questionMeaning": {
+        "hi": "इस कहानी की सीख?",
+        "hinglish": "Is kahani ki seekh?"
+      },
+      "options": [
+        "Virtue, patience and justice always pay.",
+        "Strength is everything.",
+        "Never drink water."
+      ],
+      "answer": "Virtue, patience and justice always pay.",
+      "modelAnswer": "The moral is that virtue pays. We should be patient, wise and just, and listen before we act.",
+      "modelMeaning": {
+        "hi": "सीख: सद्गुण का फल मिलता है। हमें धैर्य, समझदारी और न्याय से काम लेना चाहिए, और करने से पहले सुनना चाहिए।",
+        "hinglish": "Seekh: sadgun ka phal milta hai. Humein dhairya, samajhdaari aur nyaay se kaam lena chahiye, aur karne se pehle sunna chahiye."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.13.3.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "(B) सही जवाब पर निशान लगाओ।",
+        "hinglish": "(B) Sahi jawab par nishaan lagaao.",
+        "en": "(B) Tick the correct one."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Yudhishthira was Nakula's ...",
+      "questionMeaning": {
+        "hi": "युधिष्ठिर नकुल के क्या थे?",
+        "hinglish": "Yudhishthir Nakul ke kya the?"
+      },
+      "options": [
+        "half brother",
+        "real brother",
+        "cousin"
+      ],
+      "answer": "half brother"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Sahadeva wept for his ...",
+      "questionMeaning": {
+        "hi": "सहदेव किसके लिए रोया?",
+        "hinglish": "Sahdev kiske liye roya?"
+      },
+      "options": [
+        "dead brother",
+        "dead mother",
+        "dead father"
+      ],
+      "answer": "dead brother",
+      "modelAnswer": "The book's answer is ‘dead brother’. (The story says he was so thirsty that he could not even weep for his brother.)",
+      "modelMeaning": {
+        "hi": "किताब का जवाब ‘dead brother’ है। (कहानी में लिखा है कि प्यास के कारण वह भाई के लिए रो भी नहीं पाया।)",
+        "hinglish": "Kitaab ka jawab ‘dead brother’ hai. (Kahani mein likha hai ki pyaas ke kaaran woh bhai ke liye ro bhi nahi paaya.)"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who paid special heed to the strange voice?",
+      "questionMeaning": {
+        "hi": "किसने आवाज़ पर ध्यान दिया?",
+        "hinglish": "Kisne awaaz par dhyaan diya?"
+      },
+      "options": [
+        "Yudhishthira",
+        "Arjuna",
+        "Nakula"
+      ],
+      "answer": "Yudhishthira"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.3.S14",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The Yaksha was highly pleased with ...",
+      "questionMeaning": {
+        "hi": "यक्ष किससे बहुत ख़ुश हुआ?",
+        "hinglish": "Yaksha kisse bahut khush hua?"
+      },
+      "options": [
+        "Yudhishthira",
+        "Nakula",
+        "Arjuna"
+      ],
+      "answer": "Yudhishthira"
+    }
+  ]
+}

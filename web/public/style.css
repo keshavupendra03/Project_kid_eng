@@ -10,6 +10,8 @@
   --track: #e8ebf3;
   --good: #2e7d4f;
   --danger: #b3261e;
+  --warn: #9a5b00;
+  --soft: #eef0fb;
   color-scheme: light;
 }
 
@@ -26,6 +28,8 @@
     --track: #2e323c;
     --good: #6fcf97;
     --danger: #f2a29c;
+    --warn: #f0c36d;
+    --soft: #262a38;
     color-scheme: dark;
   }
 }
@@ -136,3 +140,41 @@ code.join { font: 600 1rem ui-monospace, Consolas, monospace; letter-spacing: .0
 
 .checks { display: flex; flex-wrap: wrap; gap: .25rem .75rem; }
 .checks label { display: flex; gap: .25rem; align-items: center; color: var(--ink); }
+
+/* ---------- Tests and syllabus: big, simple controls for busy teachers ---------- */
+.warn { color: var(--warn); font-weight: 600; }
+.strong { font-weight: 700; }
+.actions { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: .75rem; }
+button.action { display: flex; flex-direction: column; align-items: center; gap: .25rem; padding: 1rem .75rem; font-size: 1.05rem; font-weight: 600; border-radius: 14px; min-height: 96px; }
+button.action.primary { background: var(--primary); color: var(--on-primary); border-color: var(--primary); }
+.big { font-size: 1.9rem; line-height: 1; }
+.badge { display: inline-block; font-size: .75rem; font-weight: 700; padding: .1rem .5rem; border-radius: 999px; background: var(--track); color: var(--muted); }
+.badge.open { background: color-mix(in srgb, var(--good) 18%, transparent); color: var(--good); }
+.step h2 { display: flex; align-items: center; gap: .6rem; }
+.step .num { display: inline-grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50%; background: var(--primary); color: var(--on-primary); font-size: 1rem; }
+.step.done .num { background: var(--good); }
+.choices { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: .75rem; }
+button.choice { display: grid; justify-items: start; gap: .3rem; text-align: left; padding: 1rem; border-radius: 14px; border-width: 2px; font-size: 1.05rem; }
+button.choice.on { border-color: var(--primary); background: var(--soft); }
+button.choice:disabled { opacity: .55; cursor: not-allowed; }
+.picks { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: .5rem; }
+label.pick { display: flex; align-items: center; gap: .6rem; padding: .65rem .75rem; border: 1px solid var(--line); border-radius: 10px; color: var(--ink); font-size: .95rem; cursor: pointer; }
+label.pick.on { border-color: var(--primary); background: var(--soft); }
+label.pick input { width: 1.25rem; height: 1.25rem; }
+label.pick span:nth-child(2) { flex: 1; }
+details summary { cursor: pointer; font-weight: 600; padding: .4rem 0; }
+ol.questions { margin: 0; padding-left: 1.5rem; display: grid; gap: .75rem; }
+ol.questions li { padding: .25rem 0 .5rem; border-bottom: 1px solid var(--line); }
+ol.questions .q { font-weight: 600; }
+ol.questions .a { color: var(--good); }
+ol.questions .given { color: var(--danger); }
+ol.questions li.wrong .q { color: var(--danger); }
+.q-actions { display: flex; gap: .5rem; margin-top: .35rem; }
+.publish { display: grid; gap: .5rem; justify-items: start; padding-top: .5rem; }
+button.huge { font-size: 1.15rem; padding: .85rem 1.4rem; border-radius: 12px; }
+.wrap-text { white-space: normal; }
+table.grid td, table.grid th { padding: .4rem .45rem; }
+.cell { display: inline-flex; align-items: center; gap: .15rem; font-variant-numeric: tabular-nums; }
+.cell.none { color: var(--muted); }
+.cell.part { color: var(--warn); font-weight: 600; }
+.cell .stars { color: #d39b00; font-size: .8rem; }

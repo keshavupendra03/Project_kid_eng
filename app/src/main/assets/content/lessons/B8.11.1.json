@@ -1,0 +1,225 @@
+{
+  "id": "B8.11.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.11.1.S02",
+    "B8.11.1.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.11.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "इंदौर के पास केवडेश्वर गाँव में पानी की कमी है। मयंक अपनी बहन प्रिया को चिट्ठी में बताता है कि गाँव वाले बारिश की हर बूँद कैसे बचाएँगे: मेढ़ बंध, तालाब, कुएँ और स्टॉप डैम।",
+        "hinglish": "Indore ke paas Kevadeshwar gaanv mein paani ki kami hai. Mayank apni behan Priya ko chitthi mein bataata hai ki gaanv waale baarish ki har boond kaise bachaayenge: medh bandh, taalaab, kuen aur stop dam.",
+        "en": "Kevadeshwar village near Indore has a water shortage. In a letter to his cousin Priya, Mayank tells how the villagers will save every drop of rain: field bunds, ponds, wells and stop dams."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Why is there a scarcity of water everywhere?",
+      "questionMeaning": {
+        "hi": "हर जगह पानी की कमी क्यों है?",
+        "hinglish": "Har jagah paani ki kami kyon hai?"
+      },
+      "options": [
+        "Trees are cut, so rain is scanty and rainwater flows away unused.",
+        "Because it rains too much.",
+        "Because people drink less water."
+      ],
+      "answer": "Trees are cut, so rain is scanty and rainwater flows away unused.",
+      "modelAnswer": "There is a scarcity of water because ruthless cutting of trees has caused scanty rainfall, and most rainwater flows into the sea unused.",
+      "modelMeaning": {
+        "hi": "पानी की कमी है क्योंकि पेड़ों की अंधाधुंध कटाई से बारिश कम होती है, और ज़्यादातर बारिश का पानी बिना काम आए समुद्र में चला जाता है।",
+        "hinglish": "Paani ki kami hai kyonki pedon ki andhaadhundh kataai se baarish kam hoti hai, aur zyaadatar baarish ka paani bina kaam aaye samudra mein chala jaata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What should we do to save water?",
+      "questionMeaning": {
+        "hi": "पानी बचाने के लिए क्या करें?",
+        "hinglish": "Paani bachaane ke liye kya karein?"
+      },
+      "options": [
+        "store rainwater, plant trees and close leaking taps",
+        "leave taps open",
+        "wash cars every day"
+      ],
+      "answer": "store rainwater, plant trees and close leaking taps",
+      "modelAnswer": "We should harvest rainwater, plant trees, deepen ponds and wells, close leaking taps and use water with economy.",
+      "modelMeaning": {
+        "hi": "हमें बारिश का पानी जमा करना, पेड़ लगाना, तालाब-कुएँ गहरे करना, टपकते नल बंद करना और पानी सोच-समझकर इस्तेमाल करना चाहिए।",
+        "hinglish": "Humein baarish ka paani jama karna, ped lagaana, taalaab-kuen gehre karna, tapakte nal band karna aur paani soch-samajhkar istemaal karna chahiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.11.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "scarcity",
+        "emoji": "",
+        "hindi": "कमी",
+        "hinglish": "kami"
+      },
+      "meaning": "not enough of something",
+      "example": "There is a scarcity of water.",
+      "exampleMeaning": {
+        "hi": "पानी की कमी है।",
+        "hinglish": "Paani ki kami hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.11.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "conservation",
+        "emoji": "",
+        "hindi": "संरक्षण",
+        "hinglish": "sanrakshan"
+      },
+      "meaning": "saving something from being wasted",
+      "example": "Water conservation is everyone's duty.",
+      "exampleMeaning": {
+        "hi": "जल संरक्षण सबका कर्तव्य है।",
+        "hinglish": "Jal sanrakshan sabka kartavya hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.11.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "percolate",
+        "emoji": "",
+        "hindi": "रिसना",
+        "hinglish": "risna"
+      },
+      "meaning": "to pass slowly through soil",
+      "example": "Rainwater percolates into the earth.",
+      "exampleMeaning": {
+        "hi": "बारिश का पानी धरती में रिसता है।",
+        "hinglish": "Baarish ka paani dharti mein rista hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.11.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "migrate",
+        "emoji": "",
+        "hindi": "पलायन करना",
+        "hinglish": "palaayan karna"
+      },
+      "meaning": "to move from one place to another",
+      "example": "Villagers migrate to cities for work.",
+      "exampleMeaning": {
+        "hi": "गाँव वाले काम के लिए शहर जाते हैं।",
+        "hinglish": "Gaanv waale kaam ke liye shahar jaate hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.11.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "inaugural",
+        "emoji": "",
+        "hindi": "उद्घाटन का",
+        "hinglish": "udghaatan ka"
+      },
+      "meaning": "first, opening",
+      "example": "He attended the inaugural function.",
+      "exampleMeaning": {
+        "hi": "वह उद्घाटन समारोह में गया।",
+        "hinglish": "Woh udghaatan samaaroh mein gaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.11.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "burning issue",
+        "emoji": "",
+        "hindi": "ज्वलंत मुद्दा",
+        "hinglish": "jwalant mudda"
+      },
+      "meaning": "a very important topic of today",
+      "example": "Water shortage is a burning issue.",
+      "exampleMeaning": {
+        "hi": "पानी की कमी एक ज्वलंत मुद्दा है।",
+        "hinglish": "Paani ki kami ek jwalant mudda hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.11.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "shoulder to shoulder",
+        "emoji": "",
+        "hindi": "कंधे से कंधा मिलाकर",
+        "hinglish": "kandhe se kandha milaakar"
+      },
+      "meaning": "working together",
+      "example": "People worked shoulder to shoulder.",
+      "exampleMeaning": {
+        "hi": "लोगों ने कंधे से कंधा मिलाकर काम किया।",
+        "hinglish": "Logon ne kandhe se kandha milaakar kaam kiya."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.11.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "conservation",
+        "emoji": "",
+        "hindi": "संरक्षण",
+        "hinglish": "sanrakshan"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "B8.13.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.13.7.S02",
+    "B8.13.7.S03",
+    "B8.13.7.S04",
+    "B8.13.7.S05",
+    "B8.13.7.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.13.7.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 123 पर युधिष्ठिर की डायरी पढ़ो: सोमवार, शाम 4 बजे से 6 बजे तक क्या-क्या हुआ।",
+        "hinglish": "Apni kitaab mein page 123 par Yudhishthir ki diary padho: somvaar, shaam 4 baje se 6 baje tak kya-kya hua.",
+        "en": "Read Yudhishthira's diary on page 123 of your book: what happened on Monday from 4 pm to 6 pm."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.7.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who was wandering in the forest?",
+      "questionMeaning": {
+        "hi": "जंगल में कौन भटक रहा था?",
+        "hinglish": "Jungle mein kaun bhatak raha tha?"
+      },
+      "options": [
+        "the Pandavas",
+        "the Kauravas",
+        "the Yaksha"
+      ],
+      "answer": "the Pandavas"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.7.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When were the Pandavas wandering in the forest?",
+      "questionMeaning": {
+        "hi": "पांडव कब भटक रहे थे?",
+        "hinglish": "Pandav kab bhatak rahe the?"
+      },
+      "options": [
+        "on Monday at 4 pm",
+        "on Sunday at noon",
+        "at midnight"
+      ],
+      "answer": "on Monday at 4 pm"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.7.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "At what time did they feel thirsty?",
+      "questionMeaning": {
+        "hi": "उन्हें प्यास कब लगी?",
+        "hinglish": "Unhe pyaas kab lagi?"
+      },
+      "options": [
+        "at 4.05 pm",
+        "at 4.30 pm",
+        "at 6 pm"
+      ],
+      "answer": "at 4.05 pm"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.7.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When did Yudhishthira order Nakula to bring water?",
+      "questionMeaning": {
+        "hi": "नकुल को पानी लाने को कब कहा?",
+        "hinglish": "Nakul ko paani laane ko kab kaha?"
+      },
+      "options": [
+        "at 4.30 pm",
+        "at 4.05 pm",
+        "at 5 pm"
+      ],
+      "answer": "at 4.30 pm"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.7.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When did Yudhishthira himself go to the pool?",
+      "questionMeaning": {
+        "hi": "युधिष्ठिर ख़ुद तालाब पर कब गए?",
+        "hinglish": "Yudhishthir khud taalaab par kab gaye?"
+      },
+      "options": [
+        "at 6 pm",
+        "at 5.45 pm",
+        "at 4.50 pm"
+      ],
+      "answer": "at 6 pm"
+    }
+  ]
+}

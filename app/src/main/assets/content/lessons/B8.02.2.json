@@ -1,0 +1,230 @@
+{
+  "id": "B8.02.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.2.S02",
+    "B8.02.2.S03",
+    "B8.02.2.S04",
+    "B8.02.2.S05",
+    "B8.02.2.S06",
+    "B8.02.2.S07",
+    "B8.02.2.S08",
+    "B8.02.2.S09",
+    "B8.02.2.S10",
+    "B8.02.2.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.2.S01",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "text": {
+        "hi": "शब्दकोश में शब्द a, b, c... के क्रम में होते हैं। पहला अक्षर एक जैसा हो तो दूसरा देखो: climate, फिर cobbler। दूसरा भी एक जैसा हो तो तीसरा: abacus, फिर abdomen।",
+        "hinglish": "Shabdkosh mein shabd a, b, c... ke kram mein hote hain. Pehla akshar ek jaisa ho to doosra dekho: climate, phir cobbler. Doosra bhi ek jaisa ho to teesra: abacus, phir abdomen.",
+        "en": "In a dictionary, words follow a, b, c... If the first letter is the same, look at the second: climate, then cobbler. If that is the same too, look at the third: abacus, then abdomen."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.2.S02",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Which word comes first in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में पहले कौन सा शब्द आएगा?",
+        "hinglish": "Shabdkosh mein pehle kaun sa shabd aayega?"
+      },
+      "options": [
+        "attractive",
+        "bag",
+        "beautiful"
+      ],
+      "answer": "attractive"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.2.S03",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Which word comes first in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में पहले कौन सा शब्द आएगा?",
+        "hinglish": "Shabdkosh mein pehle kaun sa shabd aayega?"
+      },
+      "options": [
+        "bag",
+        "beautiful",
+        "body"
+      ],
+      "answer": "bag"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.2.S04",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Which word comes first in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में पहले कौन सा शब्द आएगा?",
+        "hinglish": "Shabdkosh mein pehle kaun sa shabd aayega?"
+      },
+      "options": [
+        "body",
+        "bond",
+        "boost"
+      ],
+      "answer": "body"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.2.S05",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Which word comes first in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में पहले कौन सा शब्द आएगा?",
+        "hinglish": "Shabdkosh mein pehle kaun sa shabd aayega?"
+      },
+      "options": [
+        "borrow",
+        "bottle",
+        "bottom"
+      ],
+      "answer": "borrow"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.2.S06",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Which comes first: ‘bottle’ or ‘bottom’?",
+      "questionMeaning": {
+        "hi": "‘bottle’ या ‘bottom’, पहले कौन?",
+        "hinglish": "‘bottle’ ya ‘bottom’, pehle kaun?"
+      },
+      "options": [
+        "bottle",
+        "bottom"
+      ],
+      "answer": "bottle",
+      "modelAnswer": "bottle comes first: b-o-t-t-l comes before b-o-t-t-o, because l comes before o.",
+      "modelMeaning": {
+        "hi": "bottle पहले आता है: पाँचवाँ अक्षर l है, जो o से पहले आता है।",
+        "hinglish": "bottle pehle aata hai: paanchvaan akshar l hai, jo o se pehle aata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.2.S07",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Which word comes first in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में पहले कौन सा शब्द आएगा?",
+        "hinglish": "Shabdkosh mein pehle kaun sa shabd aayega?"
+      },
+      "options": [
+        "packet",
+        "passion",
+        "perform"
+      ],
+      "answer": "packet"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.2.S08",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Which word comes first in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में पहले कौन सा शब्द आएगा?",
+        "hinglish": "Shabdkosh mein pehle kaun sa shabd aayega?"
+      },
+      "options": [
+        "pick",
+        "place",
+        "power"
+      ],
+      "answer": "pick"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.2.S09",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Which word comes first in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में पहले कौन सा शब्द आएगा?",
+        "hinglish": "Shabdkosh mein pehle kaun sa shabd aayega?"
+      },
+      "options": [
+        "protect",
+        "punch",
+        "power"
+      ],
+      "answer": "power"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.2.S10",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Which word comes first in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में पहले कौन सा शब्द आएगा?",
+        "hinglish": "Shabdkosh mein pehle kaun sa shabd aayega?"
+      },
+      "options": [
+        "national park",
+        "nearest",
+        "law"
+      ],
+      "answer": "law"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.2.S11",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Which word comes last in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में आख़िर में कौन सा शब्द आएगा?",
+        "hinglish": "Shabdkosh mein aakhir mein kaun sa shabd aayega?"
+      },
+      "options": [
+        "wonderful",
+        "thrilling",
+        "tense"
+      ],
+      "answer": "wonderful",
+      "modelAnswer": "The full order is: attractive, bag, beautiful, body, bond, boost, borrow, bottle, bottom, boxing, ferocious, law, national park, nearest, packet, passion, perform, pick, place, power, protect, punch, tense, thrilling, wonderful.",
+      "modelMeaning": {
+        "hi": "पूरा क्रम ऊपर अंग्रेज़ी में लिखा है। आख़िरी शब्द wonderful है क्योंकि w सबसे बाद में आता है।",
+        "hinglish": "Poora kram upar English mein likha hai. Aakhiri shabd wonderful hai kyonki w sabse baad mein aata hai."
+      }
+    }
+  ]
+}

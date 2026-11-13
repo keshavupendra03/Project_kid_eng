@@ -1,0 +1,173 @@
+{
+  "id": "B7.09.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.09.3.S01",
+    "B7.09.3.S02"
+  ],
+  "steps": [
+    {
+      "type": "sort_groups",
+      "id": "B7.09.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर गुण को डॉ. दास या मिस्टर चौधरी के पास रखो",
+        "hinglish": "Har gun ko Dr. Dass ya Mister Choudhary ke paas rakho",
+        "en": "Put each quality with Dr. Dass or Mr. Choudhary"
+      },
+      "groups": [
+        {
+          "id": "dass",
+          "name": "Dr. Dass",
+          "emoji": "🩺",
+          "meaning": {
+            "hi": "डॉक्टर दास",
+            "hinglish": "Doctor Dass"
+          }
+        },
+        {
+          "id": "choudhary",
+          "name": "Mr. Choudhary",
+          "emoji": "🏠",
+          "meaning": {
+            "hi": "मिस्टर चौधरी",
+            "hinglish": "Mister Choudhary"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "smart",
+          "emoji": "💡",
+          "groups": [
+            "dass"
+          ]
+        },
+        {
+          "text": "intelligent",
+          "emoji": "🧠",
+          "groups": [
+            "dass"
+          ]
+        },
+        {
+          "text": "not straightforward",
+          "emoji": "🌀",
+          "groups": [
+            "choudhary"
+          ]
+        },
+        {
+          "text": "determined",
+          "emoji": "💪",
+          "groups": [
+            "dass"
+          ]
+        },
+        {
+          "text": "lacks confidence",
+          "emoji": "😟",
+          "groups": [
+            "choudhary"
+          ]
+        },
+        {
+          "text": "clever",
+          "emoji": "🦊",
+          "groups": [
+            "dass",
+            "choudhary"
+          ]
+        },
+        {
+          "text": "brave",
+          "emoji": "🦁",
+          "groups": [
+            "dass"
+          ]
+        },
+        {
+          "text": "greedy",
+          "emoji": "💰",
+          "groups": [
+            "choudhary"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.09.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "सही जोड़ी बनाओ (Match the following)",
+        "hinglish": "Sahi jodi banao (Match the following)",
+        "en": "Match the following"
+      },
+      "pairs": [
+        {
+          "left": "one who lends money",
+          "right": "moneylender",
+          "meaning": {
+            "hi": "साहूकार",
+            "hinglish": "saahookaar"
+          }
+        },
+        {
+          "left": "one who rents out a house",
+          "right": "landlord",
+          "meaning": {
+            "hi": "मकान मालिक",
+            "hinglish": "makaan maalik"
+          }
+        },
+        {
+          "left": "one who arrests thieves",
+          "right": "policeman",
+          "meaning": {
+            "hi": "पुलिस वाला",
+            "hinglish": "police waala"
+          }
+        },
+        {
+          "left": "one who sings",
+          "right": "singer",
+          "meaning": {
+            "hi": "गायक",
+            "hinglish": "gaayak"
+          }
+        },
+        {
+          "left": "one who builds houses",
+          "right": "builder",
+          "meaning": {
+            "hi": "मकान बनाने वाला",
+            "hinglish": "makaan banaane waala"
+          }
+        },
+        {
+          "left": "one who works with and rides an elephant",
+          "right": "mahout",
+          "meaning": {
+            "hi": "महावत",
+            "hinglish": "mahaavat"
+          }
+        },
+        {
+          "left": "the spirit of a dead person",
+          "right": "ghost",
+          "meaning": {
+            "hi": "भूत",
+            "hinglish": "bhoot"
+          }
+        }
+      ]
+    }
+  ]
+}

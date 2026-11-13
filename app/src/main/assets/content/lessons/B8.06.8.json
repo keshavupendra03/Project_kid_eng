@@ -1,0 +1,221 @@
+{
+  "id": "B8.06.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.06.8.S02",
+    "B8.06.8.S03",
+    "B8.06.8.S04",
+    "B8.06.8.S05",
+    "B8.06.8.S06",
+    "B8.06.8.S07",
+    "B8.06.8.S08",
+    "B8.06.8.S09",
+    "B8.06.8.S10",
+    "B8.06.8.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.06.8.S01",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "तुम स्टेशन पर एक नेत्रहीन लड़के को बता रहे हो कि अभी क्या हो रहा है। अभी हो रहा काम: is/are + ing (Present Continuous)।",
+        "hinglish": "Tum station par ek netraheen ladke ko bata rahe ho ki abhi kya ho raha hai. Abhi ho raha kaam: is/are + ing (Present Continuous).",
+        "en": "You are telling a blind boy at a station what is happening now. Things happening now: is/are + -ing (present continuous)."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.8.S02",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "A train ___ now. (come)",
+      "answer": "is coming",
+      "options": [
+        "is coming",
+        "are coming",
+        "is come"
+      ],
+      "meaning": {
+        "hi": "अभी एक ट्रेन आ रही है।",
+        "hinglish": "Abhi ek train aa rahi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.8.S03",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "The engine ___ a thunderous noise. (make)",
+      "answer": "is making",
+      "options": [
+        "is making",
+        "are making",
+        "is make"
+      ],
+      "meaning": {
+        "hi": "इंजन ज़ोर का शोर कर रहा है।",
+        "hinglish": "Engine zor ka shor kar raha hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.8.S04",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "People ___ here and there. (run)",
+      "answer": "are running",
+      "options": [
+        "are running",
+        "is running",
+        "are runing"
+      ],
+      "meaning": {
+        "hi": "लोग इधर-उधर भाग रहे हैं।",
+        "hinglish": "Log idhar-udhar bhaag rahe hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.8.S05",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "The driver ___ out. (peep)",
+      "answer": "is peeping",
+      "options": [
+        "is peeping",
+        "are peeping",
+        "is peep"
+      ],
+      "meaning": {
+        "hi": "ड्राइवर बाहर झाँक रहा है।",
+        "hinglish": "Driver baahar jhaank raha hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.8.S06",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "The guard ___ a red flag. (wave)",
+      "answer": "is waving",
+      "options": [
+        "is waving",
+        "is waveing",
+        "are waving"
+      ],
+      "meaning": {
+        "hi": "गार्ड लाल झंडी हिला रहा है।",
+        "hinglish": "Guard laal jhandi hila raha hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.8.S07",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "The train ___ now. (stop)",
+      "answer": "is stopping",
+      "options": [
+        "is stopping",
+        "is stoping",
+        "are stopping"
+      ],
+      "meaning": {
+        "hi": "ट्रेन अब रुक रही है।",
+        "hinglish": "Train ab ruk rahi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.8.S08",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "All the passengers ___ towards the compartments. (rush)",
+      "answer": "are rushing",
+      "options": [
+        "are rushing",
+        "is rushing",
+        "are rush"
+      ],
+      "meaning": {
+        "hi": "सारे यात्री डिब्बों की तरफ़ दौड़ रहे हैं।",
+        "hinglish": "Saare yaatri dibbon ki taraf daud rahe hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.8.S09",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "They ___ to get on. (try)",
+      "answer": "are trying",
+      "options": [
+        "are trying",
+        "is trying",
+        "are tring"
+      ],
+      "meaning": {
+        "hi": "वे चढ़ने की कोशिश कर रहे हैं।",
+        "hinglish": "Woh chadhne ki koshish kar rahe hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.8.S10",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "Some of them ___ \"Coolie! Coolie!\" (shout)",
+      "answer": "are shouting",
+      "options": [
+        "are shouting",
+        "is shouting",
+        "are shout"
+      ],
+      "meaning": {
+        "hi": "कुछ लोग ‘कुली! कुली!’ चिल्ला रहे हैं।",
+        "hinglish": "Kuchh log ‘Kuli! Kuli!’ chilla rahe hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.8.S11",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "Some ___ fruits. (buy)",
+      "answer": "are buying",
+      "options": [
+        "are buying",
+        "is buying",
+        "are buy"
+      ],
+      "meaning": {
+        "hi": "कुछ लोग फल ख़रीद रहे हैं।",
+        "hinglish": "Kuchh log phal khareed rahe hain."
+      }
+    }
+  ]
+}

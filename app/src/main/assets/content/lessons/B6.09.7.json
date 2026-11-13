@@ -1,0 +1,107 @@
+{
+  "id": "B6.09.7",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.09.7.S01",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "question": "What is the lesson of this play?",
+      "questionMeaning": {
+        "hi": "इस नाटक की सीख क्या है?",
+        "hinglish": "Is naatak ki seekh kya hai?"
+      },
+      "options": [
+        "Be kind and thankful to those who help us.",
+        "Never work hard.",
+        "Fairies are greedy."
+      ],
+      "answer": "Be kind and thankful to those who help us."
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.09.7.S02",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "sentence": "The fairies like to help the ___.",
+      "answer": "needy",
+      "options": [
+        "needy",
+        "greedy",
+        "lazy"
+      ],
+      "meaning": {
+        "hi": "परियों को ज़रूरतमंदों की मदद करना पसंद है।",
+        "hinglish": "Pariyon ko zaroorat-mandon ki madad karna pasand hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.09.7.S03",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "sentence": "They feed everybody except the ones who are ___.",
+      "answer": "greedy",
+      "options": [
+        "greedy",
+        "needy",
+        "kind"
+      ],
+      "meaning": {
+        "hi": "वे सबको खिलाती हैं, सिवाय लालचियों के।",
+        "hinglish": "Woh sabko khilaati hain, sivaay laalchiyon ke."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.09.7.S04",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "instruction": {
+        "hi": "अच्छे गुण जोड़ो",
+        "hinglish": "Achhe gun jodo",
+        "en": "Join the good qualities"
+      },
+      "pairs": [
+        {
+          "left": "kind",
+          "right": "helpful and caring",
+          "meaning": {
+            "hi": "दयालु",
+            "hinglish": "dayaalu"
+          }
+        },
+        {
+          "left": "thankful",
+          "right": "saying thanks for help",
+          "meaning": {
+            "hi": "आभारी",
+            "hinglish": "aabhaari"
+          }
+        },
+        {
+          "left": "honest",
+          "right": "never cheating",
+          "meaning": {
+            "hi": "ईमानदार",
+            "hinglish": "imaandaar"
+          }
+        },
+        {
+          "left": "generous",
+          "right": "happy to give to others",
+          "meaning": {
+            "hi": "उदार",
+            "hinglish": "udaar"
+          }
+        }
+      ]
+    }
+  ]
+}

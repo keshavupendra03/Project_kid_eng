@@ -1,0 +1,199 @@
+{
+  "id": "B8.10.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.10.T.S01",
+    "B8.10.T.S02",
+    "B8.10.T.S03",
+    "B8.10.T.S04",
+    "B8.10.T.S05",
+    "B8.10.T.S06",
+    "B8.10.T.S07",
+    "B8.10.T.S08",
+    "B8.10.T.S09",
+    "B8.10.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.10.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who always comes on market days?",
+      "questionMeaning": {
+        "hi": "कौन आता है?",
+        "hinglish": "Kaun aata hai?"
+      },
+      "options": [
+        "the balloon man",
+        "the postman",
+        "the milkman"
+      ],
+      "answer": "the balloon man"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What colours are the balloons?",
+      "questionMeaning": {
+        "hi": "गुब्बारों के रंग",
+        "hinglish": "Gubbaaron ke rang"
+      },
+      "options": [
+        "red, purple, blue and green",
+        "black and white",
+        "only yellow"
+      ],
+      "answer": "red, purple, blue and green"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.T.S03",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word from the poem rhymes with ‘mug’?",
+      "questionMeaning": {
+        "hi": "तुकबंदी",
+        "hinglish": "Tukbandi"
+      },
+      "options": [
+        "tug",
+        "mud",
+        "much"
+      ],
+      "answer": "tug"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "a thread used to tie the balloon",
+      "questionMeaning": {
+        "hi": "धागा",
+        "hinglish": "Dhaaga"
+      },
+      "options": [
+        "string",
+        "cart",
+        "market"
+      ],
+      "answer": "string"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.T.S05",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? The deaf man's questions made the rich man happy.",
+      "questionMeaning": {
+        "hi": "सवालों से अमीर ख़ुश हुआ।",
+        "hinglish": "Sawaalon se ameer khush hua."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Divide these sweets ___ all the students.",
+      "answer": "among",
+      "options": [
+        "among",
+        "between"
+      ],
+      "meaning": {
+        "hi": "मिठाइयाँ सब में बाँटो।",
+        "hinglish": "Mithaaiyaan sab mein baanto."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "I have been reading ___ 3 o'clock.",
+      "answer": "since",
+      "options": [
+        "since",
+        "for"
+      ],
+      "meaning": {
+        "hi": "मैं 3 बजे से पढ़ रहा हूँ।",
+        "hinglish": "Main 3 baje se padh raha hoon."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "The doctors did their best ___ the patient died.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "डॉक्टरों ने कोशिश की पर मरीज़ नहीं बचा।",
+        "hinglish": "Doctoron ne koshish ki par mareez nahi bacha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.T.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "The teacher listened to me ___.",
+      "answer": "patiently",
+      "options": [
+        "patiently",
+        "badly",
+        "foolishly"
+      ],
+      "meaning": {
+        "hi": "टीचर ने धैर्य से सुना।",
+        "hinglish": "Teacher ne dhairya se suna."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Odd one out: clock, watch, tractor, timepiece",
+      "questionMeaning": {
+        "hi": "अलग शब्द",
+        "hinglish": "Alag shabd"
+      },
+      "options": [
+        "tractor",
+        "clock",
+        "watch",
+        "timepiece"
+      ],
+      "answer": "tractor"
+    }
+  ]
+}

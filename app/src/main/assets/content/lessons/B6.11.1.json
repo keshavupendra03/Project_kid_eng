@@ -1,0 +1,271 @@
+{
+  "id": "B6.11.1",
+  "level": 6,
+  "bookSteps": [
+    "B6.11.1.S06",
+    "B6.11.1.S07",
+    "B6.11.1.S08",
+    "B6.11.1.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.11.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "यह कविता Ruskin Bond की है: रात में चाँद की एक किरण (moonbeam) खिड़की से आती है और तुम्हें सपनों की दुनिया में ले जाती है। कविता अपनी किताब के पेज 65 पर पढ़ो।",
+        "hinglish": "Yeh kavita Ruskin Bond ki hai: raat mein chaand ki ek kiran (moonbeam) khidki se aati hai aur tumhe sapnon ki duniya mein le jaati hai. Kavita apni kitaab ke page 65 par padho.",
+        "en": "This poem is by Ruskin Bond: at night a moonbeam comes through the window and takes you to the land of dreams. Read the poem on page 65 of your book."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.11.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "moonbeam",
+        "emoji": "",
+        "hindi": "चाँद की किरण",
+        "hinglish": "chaand ki kiran"
+      },
+      "meaning": "a ray of light from the moon",
+      "example": "A moonbeam came through the window.",
+      "exampleMeaning": {
+        "hi": "चाँद की एक किरण खिड़की से अंदर आई।",
+        "hinglish": "Chaand ki ek kiran khidki se andar aayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.11.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "sill",
+        "emoji": "",
+        "hindi": "खिड़की की चौखट",
+        "hinglish": "khidki ki chaukhat"
+      },
+      "meaning": "the flat shelf at the bottom of a window",
+      "example": "The cat sat on the window sill.",
+      "exampleMeaning": {
+        "hi": "बिल्ली खिड़की की चौखट पर बैठी।",
+        "hinglish": "Billi khidki ki chaukhat par baithi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.11.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "clasped",
+        "emoji": "",
+        "hindi": "कसकर पकड़ा हुआ",
+        "hinglish": "kaskar pakda hua"
+      },
+      "meaning": "held tightly",
+      "example": "She clasped her mother's hand.",
+      "exampleMeaning": {
+        "hi": "उसने माँ का हाथ कसकर पकड़ा।",
+        "hinglish": "Usne maa ka haath kaskar pakda."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.11.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "tip-toe",
+        "emoji": "",
+        "hindi": "पंजों के बल, धीरे से",
+        "hinglish": "panjon ke bal, dheere se"
+      },
+      "meaning": "walking quietly on the front of your feet",
+      "example": "He came in on tip-toe.",
+      "exampleMeaning": {
+        "hi": "वह पंजों के बल धीरे से अंदर आया।",
+        "hinglish": "Woh panjon ke bal dheere se andar aaya."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B6.11.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके तुकबंदी परिवार में रखो",
+        "hinglish": "Har shabd ko uske tukbandi parivaar mein rakho",
+        "en": "Put each word in its rhyming family"
+      },
+      "groups": [
+        {
+          "id": "ight",
+          "name": "-ight (night)",
+          "emoji": "🌃",
+          "meaning": {
+            "hi": "आइट",
+            "hinglish": "aait"
+          }
+        },
+        {
+          "id": "ill",
+          "name": "-ill (sill)",
+          "emoji": "🖼️",
+          "meaning": {
+            "hi": "इल",
+            "hinglish": "il"
+          }
+        },
+        {
+          "id": "eep",
+          "name": "-eep (sleep)",
+          "emoji": "😴",
+          "meaning": {
+            "hi": "ईप",
+            "hinglish": "eep"
+          }
+        },
+        {
+          "id": "old",
+          "name": "-old (gold)",
+          "emoji": "🥇",
+          "meaning": {
+            "hi": "ओल्ड",
+            "hinglish": "old"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "fight",
+          "emoji": "🥊",
+          "groups": [
+            "ight"
+          ]
+        },
+        {
+          "text": "bill",
+          "emoji": "🧾",
+          "groups": [
+            "ill"
+          ]
+        },
+        {
+          "text": "deep",
+          "emoji": "🌊",
+          "groups": [
+            "eep"
+          ]
+        },
+        {
+          "text": "hold",
+          "emoji": "✋",
+          "groups": [
+            "old"
+          ]
+        },
+        {
+          "text": "right",
+          "emoji": "✅",
+          "groups": [
+            "ight"
+          ]
+        },
+        {
+          "text": "hill",
+          "emoji": "⛰️",
+          "groups": [
+            "ill"
+          ]
+        },
+        {
+          "text": "keep",
+          "emoji": "📦",
+          "groups": [
+            "eep"
+          ]
+        },
+        {
+          "text": "bold",
+          "emoji": "💪",
+          "groups": [
+            "old"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word from the poem rhymes with ‘still’?",
+      "questionMeaning": {
+        "hi": "कविता का कौन सा शब्द ‘still’ से तुक मिलाता है?",
+        "hinglish": "Kavita ka kaun sa shabd ‘still’ se tuk milaata hai?"
+      },
+      "options": [
+        "sill",
+        "sleep",
+        "feet"
+      ],
+      "answer": "sill"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word from the poem rhymes with ‘sand’?",
+      "questionMeaning": {
+        "hi": "कविता का कौन सा शब्द ‘sand’ से तुक मिलाता है?",
+        "hinglish": "Kavita ka kaun sa shabd ‘sand’ se tuk milaata hai?"
+      },
+      "options": [
+        "hand",
+        "gold",
+        "bed"
+      ],
+      "answer": "hand"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word from the poem rhymes with ‘beams’?",
+      "questionMeaning": {
+        "hi": "कविता का कौन सा शब्द ‘beams’ से तुक मिलाता है?",
+        "hinglish": "Kavita ka kaun sa shabd ‘beams’ se tuk milaata hai?"
+      },
+      "options": [
+        "dreams",
+        "eyes",
+        "night"
+      ],
+      "answer": "dreams"
+    }
+  ]
+}

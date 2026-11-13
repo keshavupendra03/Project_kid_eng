@@ -1,0 +1,386 @@
+{
+  "id": "B8.15.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.15.8.S01",
+    "B8.15.8.S02",
+    "B8.15.8.S03",
+    "B8.15.8.S04",
+    "B8.15.8.S05",
+    "B8.15.8.S06",
+    "B8.15.8.S07",
+    "B8.15.8.S08",
+    "B8.15.8.S09",
+    "B8.15.8.S10",
+    "B8.15.8.S11",
+    "B8.15.8.S13",
+    "B8.15.8.S14",
+    "B8.15.8.S15",
+    "B8.15.8.S16",
+    "B8.15.8.S17",
+    "B8.15.8.S18"
+  ],
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "B8.15.8.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Leela ___ in Gwalior.",
+      "answer": "lived",
+      "options": [
+        "lived",
+        "lives",
+        "living"
+      ],
+      "meaning": {
+        "hi": "लीला ग्वालियर में रहती थी।",
+        "hinglish": "Leela Gwalior mein rehti thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.8.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "He ___ to write an article.",
+      "answer": "wanted",
+      "options": [
+        "wanted",
+        "wants",
+        "want"
+      ],
+      "meaning": {
+        "hi": "वह एक लेख लिखना चाहता था।",
+        "hinglish": "Woh ek lekh likhna chahta tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.8.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "The students ___ the function.",
+      "answer": "attended",
+      "options": [
+        "attended",
+        "attend",
+        "attends"
+      ],
+      "meaning": {
+        "hi": "छात्र समारोह में गए।",
+        "hinglish": "Chhaatra samaaroh mein gaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.8.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The teacher guided me. (passive)",
+      "questionMeaning": {
+        "hi": "Passive वाक्य बनाओ",
+        "hinglish": "Passive vaakya banao"
+      },
+      "options": [
+        "I was guided by the teacher.",
+        "I am guided by the teacher.",
+        "The teacher was guided by me."
+      ],
+      "answer": "I was guided by the teacher."
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.8.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The children make toys. (passive)",
+      "questionMeaning": {
+        "hi": "Passive वाक्य बनाओ",
+        "hinglish": "Passive vaakya banao"
+      },
+      "options": [
+        "Toys are made by the children.",
+        "Toys were made by the children.",
+        "Toys is made by the children."
+      ],
+      "answer": "Toys are made by the children."
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.8.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "Bring some water. (passive)",
+      "questionMeaning": {
+        "hi": "Passive वाक्य बनाओ",
+        "hinglish": "Passive vaakya banao"
+      },
+      "options": [
+        "Let some water be brought.",
+        "Some water brought.",
+        "Water is bring."
+      ],
+      "answer": "Let some water be brought.",
+      "modelAnswer": "An order becomes passive with ‘Let ... be + 3rd form’: Let some water be brought.",
+      "modelMeaning": {
+        "hi": "आदेश वाले वाक्य का passive: Let ... be + तीसरा रूप: Let some water be brought.",
+        "hinglish": "Aadesh waale vaakya ka passive: Let ... be + teesra roop: Let some water be brought."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.8.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "sentence": "The weather report says it ___ rain today.",
+      "answer": "might",
+      "options": [
+        "might",
+        "can't",
+        "must"
+      ],
+      "meaning": {
+        "hi": "मौसम की ख़बर कहती है आज बारिश हो सकती है।",
+        "hinglish": "Mausam ki khabar kehti hai aaj baarish ho sakti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.8.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "sentence": "___ I use your pen?",
+      "answer": "May",
+      "options": [
+        "May",
+        "Might",
+        "Must"
+      ],
+      "meaning": {
+        "hi": "क्या मैं तुम्हारा पेन ले सकता हूँ?",
+        "hinglish": "Kya main tumhaara pen le sakta hoon?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.8.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "sentence": "There ___ be more trouble in future.",
+      "answer": "could",
+      "options": [
+        "could",
+        "can't",
+        "must"
+      ],
+      "meaning": {
+        "hi": "आगे और परेशानी हो सकती है।",
+        "hinglish": "Aage aur pareshaani ho sakti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.8.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Pari told a lie, so he ___ her. (punish)",
+      "answer": "punished",
+      "options": [
+        "punished",
+        "punish",
+        "punishes"
+      ],
+      "meaning": {
+        "hi": "परी ने झूठ बोला, इसलिए उसने उसे सज़ा दी।",
+        "hinglish": "Pari ne jhooth bola, isliye usne use saza di."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.8.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "His turban is clean, he ___ it yesterday. (wash)",
+      "answer": "washed",
+      "options": [
+        "washed",
+        "washes",
+        "wash"
+      ],
+      "meaning": {
+        "hi": "उसकी पगड़ी साफ़ है, उसने कल धोई थी।",
+        "hinglish": "Uski pagdi saaf hai, usne kal dhoyi thi."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.15.8.S12",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "text": {
+        "hi": "किताब पेज 141-142: ईद वाला पैराग्राफ़ और ‘I love my teacher’ कविता पढ़ो।",
+        "hinglish": "Kitaab page 141-142: Eid waala paragraph aur ‘I love my teacher’ kavita padho.",
+        "en": "Book pages 141–142: read the passage about Eid and the poem ‘I love my teacher’."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.8.S13",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "When is Eid celebrated?",
+      "questionMeaning": {
+        "hi": "ईद कब मनाई जाती है?",
+        "hinglish": "Eid kab manaayi jaati hai?"
+      },
+      "options": [
+        "at the end of the holy month of Ramzan",
+        "in the rainy season",
+        "on New Year's Day"
+      ],
+      "answer": "at the end of the holy month of Ramzan"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.8.S14",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "What is Ramzan?",
+      "questionMeaning": {
+        "hi": "रमज़ान क्या है?",
+        "hinglish": "Ramzaan kya hai?"
+      },
+      "options": [
+        "a holy month of fasting, prayer and purification",
+        "a festival of lights",
+        "a harvest dance"
+      ],
+      "answer": "a holy month of fasting, prayer and purification"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.8.S15",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "Where do children go with their elders on Eid?",
+      "questionMeaning": {
+        "hi": "ईद पर बच्चे बड़ों के साथ कहाँ जाते हैं?",
+        "hinglish": "Eid par bachche badon ke saath kahan jaate hain?"
+      },
+      "options": [
+        "to the Eidgah",
+        "to school",
+        "to the market only"
+      ],
+      "answer": "to the Eidgah"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.8.S16",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "How do people greet one another on Eid?",
+      "questionMeaning": {
+        "hi": "ईद पर लोग कैसे मिलते हैं?",
+        "hinglish": "Eid par log kaise milte hain?"
+      },
+      "options": [
+        "They greet and hug one another.",
+        "They shake hands only.",
+        "They don't meet."
+      ],
+      "answer": "They greet and hug one another."
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.8.S17",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "Why does the poet love his teacher? (one reason)",
+      "questionMeaning": {
+        "hi": "कवि टीचर को क्यों प्यार करता है?",
+        "hinglish": "Kavi teacher ko kyon pyaar karta hai?"
+      },
+      "options": [
+        "He is full of life and always bright.",
+        "He gives no homework.",
+        "He fights a lot."
+      ],
+      "answer": "He is full of life and always bright."
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.15.8.S18",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "instruction": {
+        "hi": "कविता से तुकबंदी वाले शब्द",
+        "hinglish": "Kavita se tukbandi waale shabd",
+        "en": "Rhyming words from the poem"
+      },
+      "pairs": [
+        {
+          "left": "life",
+          "right": "strife",
+          "meaning": {
+            "hi": "जीवन — झगड़ा",
+            "hinglish": "jeevan — jhagda"
+          }
+        },
+        {
+          "left": "light",
+          "right": "bright",
+          "meaning": {
+            "hi": "रोशनी — चमकीला",
+            "hinglish": "roshni — chamkeela"
+          }
+        },
+        {
+          "left": "fight",
+          "right": "night",
+          "meaning": {
+            "hi": "लड़ाई — रात",
+            "hinglish": "ladaai — raat"
+          }
+        }
+      ]
+    }
+  ]
+}

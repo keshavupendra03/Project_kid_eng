@@ -1,0 +1,127 @@
+{
+  "id": "B8.02.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.6.S02",
+    "B8.02.6.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.6.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "text": {
+        "hi": "किताब की पहेली दो हिस्सों में। सुराग पढ़कर बहुवचन या एकवचन भरो।",
+        "hinglish": "Kitaab ki paheli do hisson mein. Suraag padhkar bahuvachan ya ekvachan bharo.",
+        "en": "The book's puzzle in two parts. Read each clue and fill in the plural or singular."
+      }
+    },
+    {
+      "type": "crossword",
+      "id": "B8.02.6.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "entries": [
+        {
+          "number": 1,
+          "answer": "mosquitoes",
+          "across": true,
+          "clue": "The plural of mosquito: ___",
+          "row": 6,
+          "col": 2
+        },
+        {
+          "number": 2,
+          "answer": "lice",
+          "across": false,
+          "clue": "The plural of louse: ___",
+          "row": 0,
+          "col": 4
+        },
+        {
+          "number": 3,
+          "answer": "echoes",
+          "across": false,
+          "clue": "The plural of echo: ___",
+          "row": 3,
+          "col": 3
+        },
+        {
+          "number": 4,
+          "answer": "teeth",
+          "across": true,
+          "clue": "The plural of tooth: ___",
+          "row": 3,
+          "col": 2
+        },
+        {
+          "number": 5,
+          "answer": "mouse",
+          "across": true,
+          "clue": "The singular of mice: ___",
+          "row": 8,
+          "col": 0
+        }
+      ],
+      "rows": 9,
+      "cols": 12
+    },
+    {
+      "type": "crossword",
+      "id": "B8.02.6.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "entries": [
+        {
+          "number": 6,
+          "answer": "calves",
+          "across": true,
+          "clue": "The plural of calf: ___",
+          "row": 4,
+          "col": 0
+        },
+        {
+          "number": 7,
+          "answer": "cities",
+          "across": false,
+          "clue": "The plural of city: ___",
+          "row": 4,
+          "col": 0
+        },
+        {
+          "number": 8,
+          "answer": "goose",
+          "across": false,
+          "clue": "The singular of geese: ___",
+          "row": 0,
+          "col": 4
+        },
+        {
+          "number": 9,
+          "answer": "storeys",
+          "across": false,
+          "clue": "The plural of storey: ___",
+          "row": 4,
+          "col": 5
+        },
+        {
+          "number": 10,
+          "answer": "roofs",
+          "across": true,
+          "clue": "The plural of roof: ___",
+          "row": 1,
+          "col": 3
+        }
+      ],
+      "rows": 11,
+      "cols": 8
+    }
+  ]
+}

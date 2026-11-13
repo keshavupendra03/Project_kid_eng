@@ -1,0 +1,314 @@
+{
+  "id": "B7.04.8",
+  "level": 7,
+  "bookSteps": [
+    "B7.04.8.S01",
+    "B7.04.8.S03",
+    "B7.04.8.S04",
+    "B7.04.8.S05",
+    "B7.04.8.S06",
+    "B7.04.8.S07",
+    "B7.04.8.S08",
+    "B7.04.8.S09"
+  ],
+  "steps": [
+    {
+      "type": "sort_groups",
+      "id": "B7.04.8.S01",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "हर जानवर को सही ग्रुप में रखो (Classify the animals)",
+        "hinglish": "Har jaanwar ko sahi group mein rakho (Classify the animals)",
+        "en": "Put each animal in the right group"
+      },
+      "groups": [
+        {
+          "id": "birds",
+          "name": "birds",
+          "emoji": "🐦",
+          "meaning": {
+            "hi": "पक्षी",
+            "hinglish": "pakshi"
+          }
+        },
+        {
+          "id": "water",
+          "name": "animals which live in water",
+          "emoji": "💧",
+          "meaning": {
+            "hi": "पानी में रहने वाले",
+            "hinglish": "paani mein rehne waale"
+          }
+        },
+        {
+          "id": "wild",
+          "name": "wild animals",
+          "emoji": "🌳",
+          "meaning": {
+            "hi": "जंगली जानवर",
+            "hinglish": "jangli jaanwar"
+          }
+        },
+        {
+          "id": "pet",
+          "name": "pet animals",
+          "emoji": "🏠",
+          "meaning": {
+            "hi": "पालतू जानवर",
+            "hinglish": "paaltu jaanwar"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "peacock",
+          "emoji": "🦚",
+          "groups": [
+            "birds"
+          ]
+        },
+        {
+          "text": "wolf",
+          "emoji": "🐺",
+          "groups": [
+            "wild"
+          ]
+        },
+        {
+          "text": "dog",
+          "emoji": "🐕",
+          "groups": [
+            "pet"
+          ]
+        },
+        {
+          "text": "pigeon",
+          "emoji": "🕊️",
+          "groups": [
+            "birds"
+          ]
+        },
+        {
+          "text": "tiger",
+          "emoji": "🐅",
+          "groups": [
+            "wild"
+          ]
+        },
+        {
+          "text": "fish",
+          "emoji": "🐟",
+          "groups": [
+            "water",
+            "pet"
+          ]
+        },
+        {
+          "text": "bear",
+          "emoji": "🐻",
+          "groups": [
+            "wild"
+          ]
+        },
+        {
+          "text": "crocodile",
+          "emoji": "🐊",
+          "groups": [
+            "water",
+            "wild"
+          ]
+        },
+        {
+          "text": "sparrow",
+          "emoji": "🐦",
+          "groups": [
+            "birds"
+          ]
+        },
+        {
+          "text": "cow",
+          "emoji": "🐄",
+          "groups": [
+            "pet"
+          ]
+        },
+        {
+          "text": "goat",
+          "emoji": "🐐",
+          "groups": [
+            "pet"
+          ]
+        },
+        {
+          "text": "frog",
+          "emoji": "🐸",
+          "groups": [
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.04.8.S02",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "अब किताब की दूसरी तालिका: शेर, हाथी, कुत्ता और बिल्ली का रंग, खाना, आकार और रहने की जगह।",
+        "hinglish": "Ab kitaab ki doosri taalika: sher, haathi, kutta aur billi ka rang, khaana, aakaar aur rehne ki jagah.",
+        "en": "Now the book's second table: the colour, food, size and home of a lion, an elephant, a dog and a cat."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.8.S03",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "What colour is a lion?",
+      "questionMeaning": {
+        "hi": "शेर का रंग कैसा होता है?",
+        "hinglish": "Sher ka rang kaisa hota hai?"
+      },
+      "options": [
+        "golden brown",
+        "green",
+        "blue"
+      ],
+      "answer": "golden brown"
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.8.S04",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "What does a lion eat?",
+      "questionMeaning": {
+        "hi": "शेर क्या खाता है?",
+        "hinglish": "Sher kya khaata hai?"
+      },
+      "options": [
+        "meat",
+        "grass",
+        "rice"
+      ],
+      "answer": "meat"
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.8.S05",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "Where does a lion live?",
+      "questionMeaning": {
+        "hi": "शेर कहाँ रहता है?",
+        "hinglish": "Sher kahan rehta hai?"
+      },
+      "options": [
+        "in the forest",
+        "in the sea",
+        "in a nest"
+      ],
+      "answer": "in the forest"
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.8.S06",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "What does an elephant eat?",
+      "questionMeaning": {
+        "hi": "हाथी क्या खाता है?",
+        "hinglish": "Haathi kya khaata hai?"
+      },
+      "options": [
+        "leaves, grass and fruits",
+        "meat",
+        "fish"
+      ],
+      "answer": "leaves, grass and fruits"
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.8.S07",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "What is the size of an elephant?",
+      "questionMeaning": {
+        "hi": "हाथी का आकार कैसा होता है?",
+        "hinglish": "Haathi ka aakaar kaisa hota hai?"
+      },
+      "options": [
+        "very big",
+        "very small",
+        "medium"
+      ],
+      "answer": "very big"
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.8.S08",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "Where does a dog live?",
+      "questionMeaning": {
+        "hi": "कुत्ता कहाँ रहता है?",
+        "hinglish": "Kutta kahan rehta hai?"
+      },
+      "options": [
+        "in our homes",
+        "in the sea",
+        "in a nest"
+      ],
+      "answer": "in our homes"
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.8.S09",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "What does a cat eat?",
+      "questionMeaning": {
+        "hi": "बिल्ली क्या खाती है?",
+        "hinglish": "Billi kya khaati hai?"
+      },
+      "options": [
+        "milk and fish",
+        "grass",
+        "leaves"
+      ],
+      "answer": "milk and fish"
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.04.8.S10",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "किताब की पूरी तालिका ऐसे भरो। शेर: golden brown, meat, big, forest। हाथी: gray, leaves, grass and fruits, very big, forest। कुत्ता: black, brown or white, bread, milk and meat, medium, our homes। बिल्ली: many colours, milk and fish, small, our homes।",
+        "hinglish": "Kitaab ki poori taalika aise bharo. Sher: golden brown, meat, big, forest. Haathi: gray, leaves, grass and fruits, very big, forest. Kutta: black, brown or white, bread, milk and meat, medium, our homes. Billi: many colours, milk and fish, small, our homes.",
+        "en": "Fill the book's table like this. Lion: golden brown, meat, big, forest. Elephant: gray, leaves, grass and fruits, very big, forest. Dog: black, brown or white, bread, milk and meat, medium, our homes. Cat: many colours, milk and fish, small, our homes."
+      }
+    }
+  ]
+}

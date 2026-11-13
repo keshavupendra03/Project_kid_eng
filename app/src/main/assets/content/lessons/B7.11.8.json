@@ -1,0 +1,125 @@
+{
+  "id": "B7.11.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.11.8.S01",
+      "skills": [
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "पर्यावरण के शब्द जोड़ो",
+        "hinglish": "Paryaavaran ke shabd jodo",
+        "en": "Join the environment words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "pollution",
+          "right": "making air, water or land dirty",
+          "meaning": {
+            "hi": "प्रदूषण",
+            "hinglish": "pradooshan"
+          }
+        },
+        {
+          "left": "environment",
+          "right": "the air, water, land and life around us",
+          "meaning": {
+            "hi": "पर्यावरण",
+            "hinglish": "paryaavaran"
+          }
+        },
+        {
+          "left": "eco-friendly",
+          "right": "not harmful to nature",
+          "meaning": {
+            "hi": "प्रकृति के लिए सुरक्षित",
+            "hinglish": "prakriti ke liye surakshit"
+          }
+        },
+        {
+          "left": "harvest",
+          "right": "the time of cutting crops",
+          "meaning": {
+            "hi": "फ़सल कटाई",
+            "hinglish": "fasal kataai"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.8.S02",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "Which is an eco-friendly way to celebrate Diwali?",
+      "questionMeaning": {
+        "hi": "दिवाली मनाने का प्रकृति के लिए सुरक्षित तरीका कौन सा है?",
+        "hinglish": "Diwali manaane ka prakriti ke liye surakshit tareeka kaun sa hai?"
+      },
+      "options": [
+        "lighting clay lamps instead of loud crackers",
+        "burning old tyres",
+        "bursting many crackers at night"
+      ],
+      "answer": "lighting clay lamps instead of loud crackers"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.8.S03",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "Which is better for the environment on Holi?",
+      "questionMeaning": {
+        "hi": "होली पर पर्यावरण के लिए क्या बेहतर है?",
+        "hinglish": "Holi par paryaavaran ke liye kya behtar hai?"
+      },
+      "options": [
+        "natural colours and less water",
+        "chemical colours",
+        "wasting lots of water"
+      ],
+      "answer": "natural colours and less water"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.8.S04",
+      "skills": [
+        "vocab.nature"
+      ],
+      "sentence": "Smoke from bonfires makes the air ___.",
+      "answer": "polluted",
+      "options": [
+        "polluted",
+        "fresh",
+        "clean"
+      ],
+      "meaning": {
+        "hi": "अलाव का धुआँ हवा को गंदा करता है।",
+        "hinglish": "Alaav ka dhuaan hawa ko ganda karta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.8.S05",
+      "skills": [
+        "vocab.nature"
+      ],
+      "sentence": "Let's burn our ___ instead of wood.",
+      "answer": "hatred",
+      "options": [
+        "hatred",
+        "books",
+        "sweets"
+      ],
+      "meaning": {
+        "hi": "आओ लकड़ी की जगह अपनी नफ़रत जलाएँ।",
+        "hinglish": "Aao lakdi ki jagah apni nafrat jalaayein."
+      }
+    }
+  ]
+}

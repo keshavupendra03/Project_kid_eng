@@ -1,0 +1,139 @@
+{
+  "id": "B8.04.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.2.S02",
+    "B8.04.2.S03",
+    "B8.04.2.S04"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.2.S01",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "text": {
+        "hi": "शब्द के आगे dis या un लगाने से मतलब ‘नहीं’ हो जाता है: like → dislike, friendly → unfriendly।",
+        "hinglish": "Shabd ke aage dis ya un lagaane se matlab ‘nahi’ ho jaata hai: like → dislike, friendly → unfriendly.",
+        "en": "Adding dis or un before a word often means ‘not’: like → dislike, friendly → unfriendly."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.04.2.S02",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "instruction": {
+        "hi": "किस शब्द के आगे क्या लगेगा?",
+        "hinglish": "Kis shabd ke aage kya lagega?",
+        "en": "Which prefix does each word take?"
+      },
+      "groups": [
+        {
+          "id": "dis",
+          "name": "dis-",
+          "emoji": "🔴",
+          "meaning": {
+            "hi": "dis लगेगा",
+            "hinglish": "dis lagega"
+          }
+        },
+        {
+          "id": "un",
+          "name": "un-",
+          "emoji": "🔵",
+          "meaning": {
+            "hi": "un लगेगा",
+            "hinglish": "un lagega"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "happy",
+          "emoji": "😊",
+          "groups": [
+            "un"
+          ]
+        },
+        {
+          "text": "continue",
+          "emoji": "▶️",
+          "groups": [
+            "dis"
+          ]
+        },
+        {
+          "text": "agree",
+          "emoji": "🤝",
+          "groups": [
+            "dis"
+          ]
+        },
+        {
+          "text": "fair",
+          "emoji": "⚖️",
+          "groups": [
+            "un"
+          ]
+        },
+        {
+          "text": "kind",
+          "emoji": "💗",
+          "groups": [
+            "un"
+          ]
+        },
+        {
+          "text": "approve",
+          "emoji": "✅",
+          "groups": [
+            "dis"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.2.S03",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "happy → ?",
+      "questionMeaning": {
+        "hi": "उल्टा शब्द बनाओ",
+        "hinglish": "Ulta shabd banao"
+      },
+      "options": [
+        "unhappy",
+        "dishappy",
+        "inhappy"
+      ],
+      "answer": "unhappy"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.2.S04",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "approve → ?",
+      "questionMeaning": {
+        "hi": "उल्टा शब्द बनाओ",
+        "hinglish": "Ulta shabd banao"
+      },
+      "options": [
+        "disapprove",
+        "unapprove",
+        "inapprove"
+      ],
+      "answer": "disapprove"
+    }
+  ]
+}

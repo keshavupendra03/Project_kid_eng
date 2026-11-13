@@ -1,0 +1,151 @@
+{
+  "id": "B6.02.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.02.3.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.02.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "किताब: झूले पर ऊपर जाकर जो चीज़ें दिखती हैं, उनके नाम कविता से ढूँढो।",
+        "hinglish": "Kitaab: jhoole par upar jaakar jo cheezein dikhti hain, unke naam kavita se dhoondho.",
+        "en": "The book: find from the poem the names of things you can see when you go up in a swing."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B6.02.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "कौन सी चीज़ कविता में झूले से दिखती है?",
+        "hinglish": "Kaun si cheez kavita mein jhoole se dikhti hai?",
+        "en": "Which things does the child see from the swing?"
+      },
+      "groups": [
+        {
+          "id": "yes",
+          "name": "seen from the swing",
+          "emoji": "👀",
+          "meaning": {
+            "hi": "झूले से दिखती है",
+            "hinglish": "jhoole se dikhti hai"
+          }
+        },
+        {
+          "id": "no",
+          "name": "not in the poem",
+          "emoji": "❌",
+          "meaning": {
+            "hi": "कविता में नहीं",
+            "hinglish": "kavita mein nahi"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "wall",
+          "emoji": "🧱",
+          "groups": [
+            "yes"
+          ]
+        },
+        {
+          "text": "rivers",
+          "emoji": "🏞️",
+          "groups": [
+            "yes"
+          ]
+        },
+        {
+          "text": "trees",
+          "emoji": "🌳",
+          "groups": [
+            "yes"
+          ]
+        },
+        {
+          "text": "cattle",
+          "emoji": "🐄",
+          "groups": [
+            "yes"
+          ]
+        },
+        {
+          "text": "garden",
+          "emoji": "🌷",
+          "groups": [
+            "yes"
+          ]
+        },
+        {
+          "text": "roof",
+          "emoji": "🏠",
+          "groups": [
+            "yes"
+          ]
+        },
+        {
+          "text": "aeroplane",
+          "emoji": "✈️",
+          "groups": [
+            "no"
+          ]
+        },
+        {
+          "text": "sea",
+          "emoji": "🌊",
+          "groups": [
+            "no"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "question": "What colour is the roof in the poem?",
+      "questionMeaning": {
+        "hi": "कविता में छत किस रंग की है?",
+        "hinglish": "Kavita mein chhat kis rang ki hai?"
+      },
+      "options": [
+        "brown",
+        "red",
+        "white"
+      ],
+      "answer": "brown"
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "question": "What colour is the garden in the poem?",
+      "questionMeaning": {
+        "hi": "कविता में बगीचा किस रंग का है?",
+        "hinglish": "Kavita mein bageecha kis rang ka hai?"
+      },
+      "options": [
+        "green",
+        "yellow",
+        "blue"
+      ],
+      "answer": "green"
+    }
+  ]
+}

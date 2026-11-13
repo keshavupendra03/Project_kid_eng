@@ -1,0 +1,124 @@
+{
+  "id": "B8.14.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.14.7.S02",
+    "B8.14.7.S03",
+    "B8.14.7.S04",
+    "B8.14.7.S05",
+    "B8.14.7.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.14.7.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 132 पर भगत सिंह वाला पैराग्राफ़ पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 132 par Bhagat Singh waala paragraph padho, phir jawab do.",
+        "en": "Read the passage about Bhagat Singh on page 132 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.7.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Bhagat Singh's name echoed all over the country.",
+      "questionMeaning": {
+        "hi": "भगत सिंह का नाम पूरे देश में गूँजा।",
+        "hinglish": "Bhagat Singh ka naam poore desh mein goonja."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.7.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? His name did not inspire the youth in India.",
+      "questionMeaning": {
+        "hi": "उनके नाम ने युवाओं को प्रेरित नहीं किया।",
+        "hinglish": "Unke naam ne yuvaaon ko prerit nahi kiya."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. He became an inspiration for the youth.",
+      "modelMeaning": {
+        "hi": "गलत। वे युवाओं की प्रेरणा बन गए।",
+        "hinglish": "Galat. Woh yuvaaon ki prerna ban gaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.7.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "“Bhagat Singh became a symbol of freedom.” Who said this?",
+      "questionMeaning": {
+        "hi": "यह किसने कहा?",
+        "hinglish": "Yeh kisne kaha?"
+      },
+      "options": [
+        "Pandit Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Chandra Shekhar Azad"
+      ],
+      "answer": "Pandit Jawaharlal Nehru"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.7.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Alphabetical order of: hero, brought, symbol, amazing",
+      "questionMeaning": {
+        "hi": "वर्णमाला क्रम",
+        "hinglish": "Varnamaala kram"
+      },
+      "options": [
+        "amazing, brought, hero, symbol",
+        "brought, amazing, hero, symbol",
+        "amazing, hero, brought, symbol"
+      ],
+      "answer": "amazing, brought, hero, symbol"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.7.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "A suitable title for the passage:",
+      "questionMeaning": {
+        "hi": "शीर्षक",
+        "hinglish": "Sheershak"
+      },
+      "options": [
+        "Bhagat Singh: A Symbol of Freedom",
+        "The Punjab Villages",
+        "A Song for Saunders"
+      ],
+      "answer": "Bhagat Singh: A Symbol of Freedom"
+    }
+  ]
+}

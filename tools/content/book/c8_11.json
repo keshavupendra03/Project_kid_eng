@@ -1,0 +1,184 @@
+{
+  "grade": 8, "number": 11, "emoji": "💧", "title": "Save Water Save Life", "pages": "91–101",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["इंदौर के पास केवडेश्वर गाँव में पानी की कमी है। मयंक अपनी बहन प्रिया को चिट्ठी में बताता है कि गाँव वाले बारिश की हर बूँद कैसे बचाएँगे: मेढ़ बंध, तालाब, कुएँ और स्टॉप डैम।", "Indore ke paas Kevadeshwar gaanv mein paani ki kami hai. Mayank apni behan Priya ko chitthi mein bataata hai ki gaanv waale baarish ki har boond kaise bachaayenge: medh bandh, taalaab, kuen aur stop dam.", "Kevadeshwar village near Indore has a water shortage. In a letter to his cousin Priya, Mayank tells how the villagers will save every drop of rain: field bunds, ponds, wells and stop dams."]},
+        {"book": true, "q": ["Why is there a scarcity of water everywhere?", "हर जगह पानी की कमी क्यों है?", "Har jagah paani ki kami kyon hai?", ["Trees are cut, so rain is scanty and rainwater flows away unused.", "Because it rains too much.", "Because people drink less water."], "Trees are cut, so rain is scanty and rainwater flows away unused.", "There is a scarcity of water because ruthless cutting of trees has caused scanty rainfall, and most rainwater flows into the sea unused.", "पानी की कमी है क्योंकि पेड़ों की अंधाधुंध कटाई से बारिश कम होती है, और ज़्यादातर बारिश का पानी बिना काम आए समुद्र में चला जाता है।", "Paani ki kami hai kyonki pedon ki andhaadhundh kataai se baarish kam hoti hai, aur zyaadatar baarish ka paani bina kaam aaye samudra mein chala jaata hai."]},
+        {"book": true, "q": ["What should we do to save water?", "पानी बचाने के लिए क्या करें?", "Paani bachaane ke liye kya karein?", ["store rainwater, plant trees and close leaking taps", "leave taps open", "wash cars every day"], "store rainwater, plant trees and close leaking taps", "We should harvest rainwater, plant trees, deepen ponds and wells, close leaking taps and use water with economy.", "हमें बारिश का पानी जमा करना, पेड़ लगाना, तालाब-कुएँ गहरे करना, टपकते नल बंद करना और पानी सोच-समझकर इस्तेमाल करना चाहिए।", "Humein baarish ka paani jama karna, ped lagaana, taalaab-kuen gehre karna, tapakte nal band karna aur paani soch-samajhkar istemaal karna chahiye."]},
+        {"word": ["scarcity", "कमी", "kami", "not enough of something", "There is a scarcity of water.", "पानी की कमी है।", "Paani ki kami hai."]},
+        {"word": ["conservation", "संरक्षण", "sanrakshan", "saving something from being wasted", "Water conservation is everyone's duty.", "जल संरक्षण सबका कर्तव्य है।", "Jal sanrakshan sabka kartavya hai."]},
+        {"word": ["percolate", "रिसना", "risna", "to pass slowly through soil", "Rainwater percolates into the earth.", "बारिश का पानी धरती में रिसता है।", "Baarish ka paani dharti mein rista hai."]},
+        {"word": ["migrate", "पलायन करना", "palaayan karna", "to move from one place to another", "Villagers migrate to cities for work.", "गाँव वाले काम के लिए शहर जाते हैं।", "Gaanv waale kaam ke liye shahar jaate hain."]},
+        {"word": ["inaugural", "उद्घाटन का", "udghaatan ka", "first, opening", "He attended the inaugural function.", "वह उद्घाटन समारोह में गया।", "Woh udghaatan samaaroh mein gaya."]},
+        {"word": ["burning issue", "ज्वलंत मुद्दा", "jwalant mudda", "a very important topic of today", "Water shortage is a burning issue.", "पानी की कमी एक ज्वलंत मुद्दा है।", "Paani ki kami ek jwalant mudda hai."]},
+        {"word": ["shoulder to shoulder", "कंधे से कंधा मिलाकर", "kandhe se kandha milaakar", "working together", "People worked shoulder to shoulder.", "लोगों ने कंधे से कंधा मिलाकर काम किया।", "Logon ne kandhe se kandha milaakar kaam kiya."]},
+        {"sayw": ["conservation", "संरक्षण", "sanrakshan"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["(A) किताब की तस्वीरों के नीचे लिखे वाक्यों में बॉक्स से सही शब्द भरो: accumulate, migrate, ruthless, sufficient, conserve, accommodate।", "(A) Kitaab ki tasveeron ke neeche likhe vaakyon mein box se sahi shabd bharo: accumulate, migrate, ruthless, sufficient, conserve, accommodate.", "(A) Fill in the sentences under the pictures in your book with words from the box: accumulate, migrate, ruthless, sufficient, conserve, accommodate."]},
+        {"book": true, "fb": ["We should ___ other passengers also.", "accommodate", ["accommodate", "migrate", "accumulate"], "हमें दूसरे यात्रियों को भी जगह देनी चाहिए।", "Humein doosre yaatriyon ko bhi jagah deni chahiye."]},
+        {"book": true, "fb": ["There is ___ water in the glass.", "sufficient", ["sufficient", "ruthless", "conserve"], "गिलास में पर्याप्त पानी है।", "Gilaas mein paryaapt paani hai."]},
+        {"book": true, "fb": ["Birds ___ from one place to the other.", "migrate", ["migrate", "accommodate", "conserve"], "पक्षी एक जगह से दूसरी जगह जाते हैं।", "Pakshi ek jagah se doosri jagah jaate hain."]},
+        {"book": true, "fb": ["___ cutting of the trees has resulted in scanty rainfall.", "Ruthless", ["Ruthless", "Sufficient", "Conserve"], "पेड़ों की अंधाधुंध कटाई से बारिश कम हुई है।", "Pedon ki andhaadhundh kataai se baarish kam hui hai."]},
+        {"book": true, "fb": ["We must ___ water.", "conserve", ["conserve", "migrate", "accommodate"], "हमें पानी बचाना चाहिए।", "Humein paani bachaana chahiye."]},
+        {"book": true, "fb": ["To ___ money and wealth sometimes creates problems.", "accumulate", ["accumulate", "migrate", "sufficient"], "पैसा और धन जमा करना कभी-कभी परेशानी बनता है।", "Paisa aur dhan jama karna kabhi-kabhi pareshaani banta hai."]},
+        {"card": ["(B) पैराग्राफ़ पूरा करो: information, villagers, appreciate, burning issues, motivate।", "(B) Paragraph poora karo: information, villagers, appreciate, burning issues, motivate.", "(B) Complete the paragraph with: information, villagers, appreciate, burning issues, motivate."]},
+        {"book": true, "fb": ["The ___ don't have enough information about many burning issues.", "villagers", ["villagers", "information", "motivate"], "गाँव वालों को कई ज्वलंत मुद्दों की पूरी जानकारी नहीं है।", "Gaanv waalon ko kai jwalant muddon ki poori jaankaari nahi hai."]},
+        {"book": true, "fb": ["The villagers don't have enough ___ about many burning issues.", "information", ["information", "villagers", "appreciate"], "गाँव वालों को कई ज्वलंत मुद्दों की पूरी जानकारी नहीं है।", "Gaanv waalon ko kai jwalant muddon ki poori jaankaari nahi hai."]},
+        {"book": true, "fb": ["The villagers don't have enough information about many ___.", "burning issues", ["burning issues", "villagers", "motivate"], "गाँव वालों को कई ज्वलंत मुद्दों की पूरी जानकारी नहीं है।", "Gaanv waalon ko kai jwalant muddon ki poori jaankaari nahi hai."]},
+        {"book": true, "fb": ["It is our duty to ___ them to know about these.", "motivate", ["motivate", "appreciate", "information"], "उन्हें इनके बारे में जानने के लिए प्रेरित करना हमारा कर्तव्य है।", "Unhe inke baare mein jaanne ke liye prerit karna hamaara kartavya hai."]},
+        {"book": true, "fb": ["We should draw the best out of them and ___ their efforts.", "appreciate", ["appreciate", "motivate", "villagers"], "हमें उनकी कोशिशों की सराहना करनी चाहिए।", "Humein unki koshishon ki saraahna karni chahiye."]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 91-93 पर मयंक की चिट्ठी पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 91-93 par Mayank ki chitthi padho, phir jawab do.", "Read Mayank's letter on pages 91–93 of your book, then answer."]},
+        {"book": true, "q": ["Where does Mayank live?", "मयंक कहाँ रहता है?", "Mayank kahan rehta hai?", ["in Kevadeshwar village, District Indore", "in Itarsi", "in Bhopal city"], "in Kevadeshwar village, District Indore", "Mayank lives in a small village, Kevadeshwar, in Indore district.", "मयंक इंदौर ज़िले के एक छोटे गाँव केवडेश्वर में रहता है।", "Mayank Indore zile ke ek chhote gaanv Kevadeshwar mein rehta hai."]},
+        {"book": true, "q": ["Who wrote a letter to Priya and why?", "प्रिया को चिट्ठी किसने और क्यों लिखी?", "Priya ko chitthi kisne aur kyon likhi?", ["Mayank, to tell her about the water conservation programme", "Her teacher, about exams", "Her father, about a holiday"], "Mayank, to tell her about the water conservation programme", "Mayank wrote the letter to Priya in reply to her letter, to tell her about the water conservation programme in his village.", "मयंक ने प्रिया की चिट्ठी के जवाब में उसे गाँव के जल संरक्षण कार्यक्रम के बारे में बताने के लिए लिखी।", "Mayank ne Priya ki chitthi ke jawab mein use gaanv ke jal sanrakshan kaaryakram ke baare mein bataane ke liye likhi."]},
+        {"book": true, "q": ["What programme was launched in the village?", "गाँव में कौन सा कार्यक्रम शुरू हुआ?", "Gaanv mein kaun sa kaaryakram shuru hua?", ["a water conservation programme", "a sports programme", "a tree-cutting programme"], "a water conservation programme"]},
+        {"book": true, "q": ["What is meant by the word ‘conservation’?", "‘conservation’ का मतलब?", "‘conservation’ ka matlab?", ["to save something, like water, energy or soil", "to waste water", "to build cities"], "to save something, like water, energy or soil", "Conservation literally means to save something. It may be water, energy, soil or some species of animals and plants.", "संरक्षण का मतलब है किसी चीज़ को बचाना, जैसे पानी, ऊर्जा, मिट्टी या जीव-जंतु और पौधे।", "Sanrakshan ka matlab hai kisi cheez ko bachaana, jaise paani, oorja, mitti ya jeev-jantu aur paudhe."]},
+        {"book": true, "q": ["Why do the villagers migrate to cities and towns?", "गाँव वाले शहर क्यों जाते हैं?", "Gaanv waale shahar kyon jaate hain?", ["Without water, crops fail, so they go in search of work.", "To watch films.", "Because cities have rivers."], "Without water, crops fail, so they go in search of work.", "When there is no water, crops fail and there is a shortage of food. So the villagers migrate to cities and towns in search of work.", "पानी न होने से फ़सलें ख़राब होती हैं और अनाज की कमी होती है, इसलिए गाँव वाले काम की तलाश में शहर जाते हैं।", "Paani na hone se fasalein kharaab hoti hain aur anaaj ki kami hoti hai, isliye gaanv waale kaam ki talaash mein shahar jaate hain."]},
+        {"book": true, "q": ["What are we trying to do under the water conservation programme?", "जल संरक्षण कार्यक्रम में क्या कर रहे हैं?", "Jal sanrakshan kaaryakram mein kya kar rahe hain?", ["harvest rainwater with bunds, ponds, wells and stop dams", "build new roads", "sell water"], "harvest rainwater with bunds, ponds, wells and stop dams", "We are trying to harvest rainwater: farmers build Medha Bandh and small ponds in fields, old wells and ponds are deepened and cleaned, and stop dams are repaired.", "हम बारिश का पानी जमा कर रहे हैं: किसान खेतों में मेढ़ बंध और छोटे तालाब बना रहे हैं, पुराने कुएँ-तालाब गहरे और साफ़ हो रहे हैं, और स्टॉप डैम ठीक हो रहे हैं।", "Hum baarish ka paani jama kar rahe hain: kisaan kheton mein medh bandh aur chhote taalaab bana rahe hain, puraane kuen-taalaab gehre aur saaf ho rahe hain, aur stop dam theek ho rahe hain."]},
+        {"book": true, "q": ["A dam is ...", "बाँध क्या है?", "Baandh kya hai?", ["a big wall across a river", "a river", "a pond", "a well"], "a big wall across a river"]},
+        {"book": true, "q": ["A burning issue means ...", "ज्वलंत मुद्दा", "Jwalant mudda", ["an important topic", "a painful topic", "an unwanted topic", "a useless topic"], "an important topic"]},
+        {"book": true, "q": ["A ‘slogan’ means ...", "नारा", "Naara", ["words giving a message attractively and quickly", "sentences used in advertisements", "dialogues in a film", "a show gun"], "words giving a message attractively and quickly"]},
+        {"book": true, "q": ["We receive water for irrigation ...", "सिंचाई का पानी कहाँ से?", "Sinchaai ka paani kahan se?", ["through rainfall", "by melting snow", "from the sea", "by dismantling dams"], "through rainfall"]}
+      ]
+    },
+    {
+      "emoji": "⏪", "title": ["सीखो: Simple Past Tense", "Seekho: Simple Past Tense", "Let's Learn: the simple past tense"], "book": true,
+      "skills": ["book.grammar", "grammar.tenses"],
+      "steps": [
+        {"card": ["बीते समय का काम जो अब ख़त्म हो गया: lives → lived, writes → wrote। ज़्यादातर में -ed, पर कुछ बदल जाते हैं: speak → spoke, think → thought, run → ran।", "Beete samay ka kaam jo ab khatm ho gaya: lives → lived, writes → wrote. Zyaadatar mein -ed, par kuchh badal jaate hain: speak → spoke, think → thought, run → ran.", "Finished actions in the past: lives → lived, writes → wrote. Most add -ed; some change: speak → spoke, think → thought, run → ran."]},
+        {"book": true, "fb": ["A small river ___ near the village.", "flowed", ["flowed", "flows", "flew"], "गाँव के पास एक छोटी नदी बहती थी।", "Gaanv ke paas ek chhoti nadi behti thi."]},
+        {"book": true, "fb": ["Priya ___ in Itarsi.", "lived", ["lived", "lives", "liveed"], "प्रिया इटारसी में रहती थी।", "Priya Itarsi mein rehti thi."]},
+        {"book": true, "fb": ["Mayank ___ a letter from Priya.", "received", ["received", "receives", "receved"], "मयंक को प्रिया की चिट्ठी मिली।", "Mayank ko Priya ki chitthi mili."]},
+        {"book": true, "fb": ["He ___ her efforts.", "appreciated", ["appreciated", "appreciates", "appreciate"], "उसने उसकी कोशिशों की सराहना की।", "Usne uski koshishon ki saraahna ki."]},
+        {"book": true, "fb": ["She ___ to write an article.", "wanted", ["wanted", "wants", "wanting"], "वह एक लेख लिखना चाहती थी।", "Woh ek lekh likhna chahti thi."]},
+        {"book": true, "fb": ["People ___ a lot about water conservation.", "spoke", ["spoke", "speaked", "speak"], "लोगों ने जल संरक्षण पर बहुत बात की।", "Logon ne jal sanrakshan par bahut baat ki."]},
+        {"book": true, "fb": ["I always ___ ahead.", "thought", ["thought", "thinked", "think"], "मैं हमेशा आगे की सोचता था।", "Main hamesha aage ki sochta tha."]},
+        {"book": true, "fb": ["They ___ fast.", "ran", ["ran", "runned", "run"], "वे तेज़ भागे।", "Woh tez bhaage."]},
+        {"pairs": ["क्रिया का बीता रूप जोड़ो", "Kriya ka beeta roop jodo", "Join each verb to its past form", [
+          ["speak", "spoke", "बोलना — बोला", "bolna — bola"],
+          ["think", "thought", "सोचना — सोचा", "sochna — socha"],
+          ["run", "ran", "भागना — भागा", "bhaagna — bhaaga"],
+          ["write", "wrote", "लिखना — लिखा", "likhna — likha"],
+          ["flow", "flowed", "बहना — बहा", "behna — baha"]]]}
+      ]
+    },
+    {
+      "emoji": "🚰", "title": ["चलो बात करें: पानी के स्रोत", "Chalo baat karein: paani ke srot", "Let's Talk: sources of water"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब: पाँच-पाँच के समूह में बात करो और तालिका भरो: तुम्हारे पास पानी का कौन सा स्रोत है, क्या वह चालू है, उसे कैसे ठीक रखें। उदाहरण: अपराजिता: tubewell, yes, by allowing water to percolate down into the earth।", "Kitaab: paanch-paanch ke samooh mein baat karo aur taalika bharo: tumhaare paas paani ka kaun sa srot hai, kya woh chaalu hai, use kaise theek rakhein. Udaaharan: Aparajita: tubewell, yes, by allowing water to percolate down into the earth.", "The book: talk in groups of five and fill in the table: your source of water, whether it works, how to maintain it. Example: Aparajita: tubewell, yes, by allowing water to percolate down into the earth."]},
+        {"book": true, "type": "roleplay", "scene": "🚰", "turns": [
+          {"id": "source", "tinku": "What is the source of water near your house?", "meaning": ["तुम्हारे घर के पास पानी का स्रोत क्या है?", "Tumhaare ghar ke paas paani ka srot kya hai?"],
+            "replies": [
+              {"say": "There is a tubewell near my house.", "meaning": ["मेरे घर के पास एक ट्यूबवेल है।", "Mere ghar ke paas ek tubewell hai."], "patterns": ["there is a *", "a *", "*"]}
+            ]},
+          {"id": "works", "tinku": "Is it in working order?", "meaning": ["क्या वह चालू है?", "Kya woh chaalu hai?"],
+            "replies": [
+              {"say": "Yes, it is.", "meaning": ["हाँ, चालू है।", "Haan, chaalu hai."], "patterns": ["yes it is", "yes *", "yes"]},
+              {"say": "No, it isn't.", "meaning": ["नहीं, चालू नहीं है।", "Nahi, chaalu nahi hai."], "patterns": ["no it isnt", "no it is not", "no *", "no"]}
+            ]},
+          {"id": "keep", "tinku": "How can it be maintained?", "meaning": ["उसे ठीक कैसे रखा जा सकता है?", "Use theek kaise rakha ja sakta hai?"],
+            "replies": [
+              {"say": "By letting rainwater percolate into the earth.", "meaning": ["बारिश का पानी धरती में रिसने देकर।", "Baarish ka paani dharti mein risne dekar."], "patterns": ["by *", "* rainwater *", "* * *"], "next": "end"}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "🎩", "title": ["चलो पढ़ें: अब्राहम लिंकन का पत्र", "Chalo padhein: Abraham Lincoln ka patra", "Let's Read: Lincoln's letter to a teacher"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 98-99 पर एक पिता का अपने बेटे के टीचर को पत्र पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 98-99 par ek pita ka apne bete ke teacher ko patra padho, phir jawab do.", "Read a father's letter to his son's teacher on pages 98–99 of your book, then answer."]},
+        {"book": true, "q": ["Who is the writer of this letter?", "पत्र किसने लिखा?", "Patra kisne likha?", ["Abraham Lincoln", "Mayank", "Mahatma Gandhi"], "Abraham Lincoln"]},
+        {"book": true, "q": ["Why did he write the letter?", "उन्होंने पत्र क्यों लिखा?", "Unhone patra kyon likha?", ["to ask the teacher to teach his son good values for life", "to complain about the school fees", "to ask for a holiday"], "to ask the teacher to teach his son good values for life", "He wrote the letter to request the teacher to teach his son good values and lessons for life.", "उन्होंने टीचर से अपने बेटे को ज़िंदगी के अच्छे मूल्य और सबक़ सिखाने का अनुरोध करने के लिए पत्र लिखा।", "Unhone teacher se apne bete ko zindagi ke achhe moolya aur sabak sikhaane ka anurodh karne ke liye patra likha."]},
+        {"book": true, "q": ["Who did he write the letter to?", "पत्र किसे लिखा?", "Patra kise likha?", ["his son's teacher", "his son", "the President"], "his son's teacher"]},
+        {"book": true, "q": ["What did he ask the teacher to teach his son? (any one)", "उन्होंने बेटे को क्या सिखाने को कहा?", "Unhone bete ko kya sikhaane ko kaha?", ["It is far more honourable to fail than to cheat.", "Always follow the crowd.", "Never read books."], "It is far more honourable to fail than to cheat."]},
+        {"book": true, "q": ["In whom should one have sublime faith, and why?", "किसमें गहरी आस्था रखनी चाहिए और क्यों?", "Kismein gehri aastha rakhni chahiye aur kyon?", ["in the creator and in oneself, so one has faith in mankind", "in money, to be rich", "in luck, to win games"], "in the creator and in oneself, so one has faith in mankind", "One should have sublime faith in the creator and in oneself, because then one will always have faith in mankind.", "हमें ईश्वर और ख़ुद पर गहरी आस्था रखनी चाहिए, क्योंकि तब हम इंसानियत पर भी भरोसा रखेंगे।", "Humein Ishwar aur khud par gehri aastha rakhni chahiye, kyonki tab hum insaaniyat par bhi bharosa rakhenge."]},
+        {"card": ["(B) क्रिया (verb) से संज्ञा (noun) बनाओ: laugh → laughter।", "(B) Kriya (verb) se sangya (noun) banao: laugh → laughter.", "(B) Make nouns from verbs: laugh → laughter."]},
+        {"book": true, "pairs": ["Verb को उसके noun से जोड़ो", "Verb ko uske noun se jodo", "Join each verb to its noun", [
+          ["know", "knowledge", "जानना — ज्ञान", "jaanna — gyaan"],
+          ["think", "thought", "सोचना — विचार", "sochna — vichaar"],
+          ["dedicate", "dedication", "समर्पित करना — समर्पण", "samarpit karna — samarpan"],
+          ["earn", "earning", "कमाना — कमाई", "kamaana — kamaai"],
+          ["enjoy", "enjoyment", "आनंद लेना — आनंद", "aanand lena — aanand"]]]},
+        {"book": true, "pairs": ["Verb को उसके noun से जोड़ो", "Verb ko uske noun se jodo", "Join each verb to its noun", [
+          ["laugh", "laughter", "हँसना — हँसी", "hansna — hansi"],
+          ["fail", "failure", "फ़ेल होना — असफलता", "fail hona — asafalta"],
+          ["filter", "filtration", "छानना — छनाई", "chhaanna — chhanaai"],
+          ["create", "creator", "बनाना — रचयिता", "banaana — rachayita"]]]},
+        {"book": true, "pairs": ["(C) कॉलम मिलाओ", "(C) Column milaao", "(C) Match the columns", [
+          ["Try to give him the strength", "not to follow the crowd.", "भीड़ के पीछे न चलने की ताक़त", "bheed ke peechhe na chalne ki taakat"],
+          ["To stand and fight", "if he thinks he is right.", "सही हो तो डटकर लड़ना", "sahi ho to datkar ladna"],
+          ["Treat him gently but do not cuddle him,", "only the test of fire makes fine steel.", "आग की परीक्षा से ही अच्छा इस्पात बनता है", "aag ki pareeksha se hi achha ispaat banta hai"],
+          ["It is far more honourable", "to fail than to cheat.", "नक़ल से फ़ेल होना बेहतर", "nakal se fail hona behtar"],
+          ["Teach him to have faith in his own ideas", "even if everyone tells him they are wrong.", "अपने विचारों पर भरोसा", "apne vichaaron par bharosa"]]]}
+      ]
+    },
+    {
+      "emoji": "💡", "title": ["चलो लिखें: बिजली बचाओ", "Chalo likhein: bijli bachaao", "Let's Write: saving electricity"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["बिजली पानी (हाइड्रो), कोयले (थर्मल) और परमाणु धातुओं (न्यूक्लियर) से बनती है। किताब: ‘Saving Electricity’ पर पैराग्राफ़ लिखो।", "Bijli paani (hydro), koyle (thermal) aur parmaanu dhaatuon (nuclear) se banti hai. Kitaab: ‘Saving Electricity’ par paragraph likho.", "Electricity is made from water (hydroelectric), coal (thermal) and radioactive metals (nuclear). The book: write a paragraph on ‘Saving Electricity’."]},
+        {"book": true, "pairs": ["बिजलीघर को उसके ईंधन से जोड़ो", "Bijlighar ko uske eendhan se jodo", "Join each power station to what it uses", [
+          ["hydroelectric", "water at dams", "जलविद्युत — बाँध का पानी", "jalvidyut — baandh ka paani"],
+          ["thermal", "coal", "ताप बिजलीघर — कोयला", "taap bijlighar — koyla"],
+          ["nuclear", "radioactive metals", "परमाणु — रेडियोधर्मी धातु", "parmaanu — radiodharmi dhaatu"]]]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["बिजली बचाने के लिए: अच्छी आदत या बुरी आदत?", "Bijli bachaane ke liye: achhi aadat ya buri aadat?", "To save electricity: good habit or bad habit?"],
+          "groups": [
+            {"id": "good", "name": "saves power", "emoji": "✅", "meaning": ["बिजली बचाता है", "bijli bachaata hai"]},
+            {"id": "bad", "name": "wastes power", "emoji": "⛔", "meaning": ["बिजली बर्बाद करता है", "bijli barbaad karta hai"]}
+          ],
+          "items": [
+            {"text": "switch off lights", "emoji": "💡", "groups": ["good"]},
+            {"text": "use LED lamps", "emoji": "🔆", "groups": ["good"]},
+            {"text": "work in daylight", "emoji": "☀️", "groups": ["good"]},
+            {"text": "TV on with no one watching", "emoji": "📺", "groups": ["bad"]},
+            {"text": "too many decoration lights", "emoji": "🎆", "groups": ["bad"]},
+            {"text": "fan on in an empty room", "emoji": "🌀", "groups": ["bad"]}
+          ]},
+        {"book": true, "build": ["कमरे से निकलते समय लाइट बंद करो।", "Kamre se nikalte samay light band karo.", "Tell what to do with lights when leaving a room.", "Switch off the lights when you leave the room.", "कमरे से निकलते समय लाइट बंद करो।", "Kamre se nikalte samay light band karo."]},
+        {"book": true, "build": ["हमें बिजली बचाने वाले बल्ब इस्तेमाल करने चाहिए।", "Humein bijli bachaane waale bulb istemaal karne chahiye.", "Advise using bulbs that use less power.", "We should use power saving lamps.", "हमें बिजली बचाने वाले बल्ब इस्तेमाल करने चाहिए।", "Humein bijli bachaane waale bulb istemaal karne chahiye."]}
+      ]
+    },
+    {
+      "emoji": "🚿", "title": ["चलो करके देखें: पानी बचाने के तरीक़े", "Chalo karke dekhein: paani bachaane ke tareeqe", "Let's Do It: ways to save water"], "book": true,
+      "skills": ["book.activity"],
+      "steps": [
+        {"card": ["किताब: तुम और आसपास के लोग पानी बचाने के लिए क्या कर रहे हो, लिखो। फ़ोटो और अख़बार की ख़बरें नोटिस बोर्ड पर लगाओ। घर का बचा पानी किचन गार्डन में दो, और देखो कि नल खुले या टपकते न रहें।", "Kitaab: tum aur aaspaas ke log paani bachaane ke liye kya kar rahe ho, likho. Photo aur akhbaar ki khabrein notice board par lagaao. Ghar ka bacha paani kitchen garden mein do, aur dekho ki nal khule ya tapakte na rahein.", "The book: write what you and people around you do to save water. Put photos and news cuttings on the notice board. Give waste water to your kitchen garden, and see that taps are not left open or leaking."]},
+        {"book": true, "q": ["Where can we use the waste water of our house?", "घर का बचा पानी कहाँ इस्तेमाल करें?", "Ghar ka bacha paani kahan istemaal karein?", ["in our kitchen garden", "in the drain only", "for drinking"], "in our kitchen garden"]},
+        {"q": ["Which saves more water while brushing teeth?", "दाँत साफ़ करते समय पानी कैसे बचाएँ?", "Daant saaf karte samay paani kaise bachaayein?", ["Use a mug and close the tap.", "Keep the tap running.", "Use a shower."], "Use a mug and close the tap."]},
+        {"says": ["Save water, save life.", "पानी बचाओ, जीवन बचाओ।", "Paani bachaao, jeevan bachaao."], "skills": ["speak.sentence", "book.activity"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 11 का टेस्ट", "Paath 11 ka test", "Lesson 11 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What is meant by ‘conservation’?", "संरक्षण का मतलब", "Sanrakshan ka matlab", ["to save something, like water, energy or soil", "to waste water", "to build cities"], "to save something, like water, energy or soil"]},
+        {"book": true, "q": ["Why do villagers migrate to cities?", "गाँव वाले शहर क्यों जाते हैं?", "Gaanv waale shahar kyon jaate hain?", ["Without water, crops fail, so they go in search of work.", "To watch films.", "Because cities have rivers."], "Without water, crops fail, so they go in search of work."]},
+        {"book": true, "q": ["A dam is ...", "बाँध", "Baandh", ["a big wall across a river", "a river", "a pond", "a well"], "a big wall across a river"]},
+        {"book": true, "skills": ["book.words"], "fb": ["Birds ___ from one place to the other.", "migrate", ["migrate", "accommodate", "conserve"], "पक्षी एक जगह से दूसरी जगह जाते हैं।", "Pakshi ek jagah se doosri jagah jaate hain."]},
+        {"book": true, "skills": ["book.words"], "fb": ["There is ___ water in the glass.", "sufficient", ["sufficient", "ruthless", "conserve"], "गिलास में पर्याप्त पानी है।", "Gilaas mein paryaapt paani hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["People ___ a lot about water conservation.", "spoke", ["spoke", "speaked", "speak"], "लोगों ने बहुत बात की।", "Logon ne bahut baat ki."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["I always ___ ahead.", "thought", ["thought", "thinked", "think"], "मैं हमेशा आगे की सोचता था।", "Main hamesha aage ki sochta tha."]},
+        {"book": true, "q": ["Who wrote the letter to the teacher?", "पत्र किसने लिखा?", "Patra kisne likha?", ["Abraham Lincoln", "Mayank", "Mahatma Gandhi"], "Abraham Lincoln"]},
+        {"book": true, "skills": ["book.words"], "q": ["The noun of ‘fail’ is ...", "संज्ञा (noun) रूप", "Sangya (noun) roop", ["failure", "failment", "failing"], "failure"]},
+        {"book": true, "q": ["Thermal power stations use ...", "थर्मल बिजलीघर", "Thermal bijlighar", ["coal", "water", "wind"], "coal"]}
+      ]
+    }
+  ]
+}

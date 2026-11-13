@@ -1,0 +1,124 @@
+{
+  "id": "B7.14.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.14.8.S01",
+      "skills": [
+        "vocab.places"
+      ],
+      "text": {
+        "hi": "मध्य प्रदेश में तीन विश्व धरोहर (World Heritage) जगहें हैं: खजुराहो के मंदिर, साँची का स्तूप और भीमबेटका की गुफ़ाएँ।",
+        "hinglish": "Madhya Pradesh mein teen vishwa dharohar (World Heritage) jagahein hain: Khajuraho ke mandir, Saanchi ka stoop aur Bhimbetka ki gufaayein.",
+        "en": "Madhya Pradesh has three World Heritage Sites: the temples of Khajuraho, the Stupa at Sanchi and the rock shelters of Bhimbetka."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.14.8.S02",
+      "skills": [
+        "vocab.places"
+      ],
+      "instruction": {
+        "hi": "हर जगह को उसकी पहचान से जोड़ो",
+        "hinglish": "Har jagah ko uski pehchaan se jodo",
+        "en": "Join each place to what it is famous for"
+      },
+      "pairs": [
+        {
+          "left": "Khajuraho",
+          "right": "beautifully carved temples",
+          "meaning": {
+            "hi": "नक़्क़ाशी वाले मंदिर",
+            "hinglish": "nakkaashi waale mandir"
+          }
+        },
+        {
+          "left": "Sanchi",
+          "right": "the great Buddhist stupa",
+          "meaning": {
+            "hi": "बौद्ध स्तूप",
+            "hinglish": "Bauddh stoop"
+          }
+        },
+        {
+          "left": "Bhimbetka",
+          "right": "pre-historic cave paintings",
+          "meaning": {
+            "hi": "प्राचीन गुफ़ा चित्र",
+            "hinglish": "praacheen gufaa chitra"
+          }
+        },
+        {
+          "left": "Orchha",
+          "right": "chhatries on the Betwa river",
+          "meaning": {
+            "hi": "बेतवा किनारे छतरियाँ",
+            "hinglish": "Betwa kinaare chhatriyaan"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.8.S03",
+      "skills": [
+        "vocab.places"
+      ],
+      "question": "Which two rivers meet at Orchha?",
+      "questionMeaning": {
+        "hi": "ओरछा में कौन सी दो नदियाँ मिलती हैं?",
+        "hinglish": "Orchha mein kaun si do nadiyaan milti hain?"
+      },
+      "options": [
+        "the Betwa and the Jamni",
+        "the Ganga and the Yamuna",
+        "the Narmada and the Tapti"
+      ],
+      "answer": "the Betwa and the Jamni",
+      "modelAnswer": "The Betwa and the Jamni meet at Orchha.",
+      "modelMeaning": {
+        "hi": "ओरछा में बेतवा और जामनी नदियाँ मिलती हैं।",
+        "hinglish": "Orchha mein Betwa aur Jaamni nadiyaan milti hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.8.S04",
+      "skills": [
+        "vocab.places"
+      ],
+      "question": "Which three rivers meet at the Sangam in Prayagraj (Allahabad)?",
+      "questionMeaning": {
+        "hi": "प्रयागराज के संगम पर कौन सी तीन नदियाँ मिलती हैं?",
+        "hinglish": "Prayagraj ke sangam par kaun si teen nadiyaan milti hain?"
+      },
+      "options": [
+        "the Ganga, the Yamuna and the Saraswati",
+        "the Betwa, the Jamni and the Narmada",
+        "the Krishna, the Kaveri and the Godavari"
+      ],
+      "answer": "the Ganga, the Yamuna and the Saraswati"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.14.8.S05",
+      "skills": [
+        "vocab.places"
+      ],
+      "sentence": "We should not write or scratch on old ___.",
+      "answer": "monuments",
+      "options": [
+        "monuments",
+        "notebooks",
+        "boards"
+      ],
+      "meaning": {
+        "hi": "हमें पुराने स्मारकों पर नहीं लिखना या खुरचना चाहिए।",
+        "hinglish": "Humein puraane smaarakon par nahi likhna ya khurachna chahiye."
+      }
+    }
+  ]
+}

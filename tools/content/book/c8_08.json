@@ -1,0 +1,166 @@
+{
+  "grade": 8, "number": 8, "emoji": "🌕", "title": "The Moon", "pages": "66–72",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["कविता पढ़ो", "Kavita padho", "Read the poem"], "book": false,
+      "skills": ["book.words", "read.passage"],
+      "steps": [
+        {"card": ["यह कविता R. L. Stevenson की है। रात में चाँद सब पर चमकता है: चोर, बिल्ली, चूहे, कुत्ते और चमगादड़ पर। पर दिन वाले फूल और बच्चे सो जाते हैं। पहले मैं पढ़ूँगा, फिर तुम पढ़ना।", "Yeh kavita R. L. Stevenson ki hai. Raat mein chaand sab par chamakta hai: chor, billi, choohe, kutte aur chamgaadad par. Par din waale phool aur bachche so jaate hain. Pehle main padhunga, phir tum padhna.", "This poem is by R. L. Stevenson. At night the moon shines on thieves, cats, mice, dogs and bats. But the flowers and children of the day go to sleep. I'll read first, then you read."]},
+        {"type": "read_along", "skills": ["read.passage", "speak.sentence"],
+          "title": ["चाँद", "Chaand", "The Moon"],
+          "sentences": ["The moon has a face like the clock in the hall;", "She shines on thieves on the garden wall,", "On streets and fields and harbour quays,", "And birdies asleep in the forks of the trees.", "", "The squalling cat and the squeaking mouse,", "The howling dog by the door of the house,", "The bat that lies in bed at noon,", "All love to be out by the light of the moon.", "", "But all of the things that belong to the day", "Cuddle to sleep to be out of her way;", "And flowers and children close their eyes", "Till up in the morning the sun shall arise."],
+          "lineMeanings": [
+            ["चाँद का चेहरा हॉल की घड़ी जैसा (गोल) है;", "Chaand ka chehra hall ki ghadi jaisa (gol) hai;"],
+            ["वह बग़ीचे की दीवार पर चढ़े चोरों पर चमकता है,", "Woh bageeche ki deewaar par chadhe choron par chamakta hai,"],
+            ["गलियों, खेतों और बंदरगाह के घाटों पर,", "Galiyon, kheton aur bandargaah ke ghaaton par,"],
+            ["और पेड़ों की डालियों के बीच सोई चिड़ियों पर।", "Aur pedon ki daaliyon ke beech soyi chidiyon par."],
+            ["", ""],
+            ["चीख़ती बिल्ली और चीं-चीं करता चूहा,", "Cheekhti billi aur cheen-cheen karta chooha,"],
+            ["घर के दरवाज़े पर हुआँ-हुआँ करता कुत्ता,", "Ghar ke darwaaze par huaan-huaan karta kutta,"],
+            ["दोपहर में बिस्तर पर पड़ा रहने वाला चमगादड़,", "Dopahar mein bistar par pada rehne waala chamgaadad,"],
+            ["सबको चाँदनी में बाहर रहना अच्छा लगता है।", "Sabko chaandni mein baahar rehna achha lagta hai."],
+            ["", ""],
+            ["पर दिन में रहने वाली सारी चीज़ें", "Par din mein rehne waali saari cheezein"],
+            ["चाँद के रास्ते से हटकर सिमटकर सो जाती हैं;", "Chaand ke raaste se hatkar simatkar so jaati hain;"],
+            ["और फूल और बच्चे आँखें बंद कर लेते हैं", "Aur phool aur bachche aankhein band kar lete hain"],
+            ["जब तक सुबह सूरज नहीं निकलता।", "Jab tak subah sooraj nahi nikalta."]
+          ],
+          "words": [
+            {"english": "harbour quays", "hindi": "बंदरगाह के घाट", "hinglish": "bandargaah ke ghaat"},
+            {"english": "squalling", "hindi": "चीख़ती हुई", "hinglish": "cheekhti hui"},
+            {"english": "squeaking", "hindi": "चीं-चीं करता", "hinglish": "cheen-cheen karta"},
+            {"english": "howling", "hindi": "हुआँ-हुआँ करता", "hinglish": "huaan-huaan karta"},
+            {"english": "cuddle", "hindi": "लिपटना, गले लगना", "hinglish": "lipatna, gale lagna"}
+          ]},
+        {"book": true, "q": ["Do you like ‘Chanda Mama’? Why?", "क्या तुम्हें ‘चंदा मामा’ पसंद है? क्यों?", "Kya tumhe ‘Chanda Mama’ pasand hai? Kyon?", ["Yes, because its cool, soft light is beautiful.", "No, because it is hot."], "Yes, because its cool, soft light is beautiful.", "Answer about yourself: Yes, I like Chanda Mama because its cool and soft light looks beautiful at night.", "अपने बारे में बताओ: हाँ, मुझे चंदा मामा पसंद है क्योंकि उसकी ठंडी, कोमल रोशनी रात में सुंदर लगती है।", "Apne baare mein batao: Haan, mujhe Chanda Mama pasand hai kyonki uski thandi, komal roshni raat mein sundar lagti hai."]}
+      ]
+    },
+    {
+      "emoji": "👂", "title": ["पढ़ो और सीखो: तुकबंदी", "Padho aur seekho: tukbandi", "Read and Learn: rhyming words"], "book": true,
+      "skills": ["book.words"],
+      "steps": [
+        {"book": true, "type": "sort_groups",
+          "instruction": ["एक जैसी आवाज़ वाले शब्द साथ रखो", "Ek jaisi awaaz waale shabd saath rakho", "Put the rhyming words together"],
+          "groups": [
+            {"id": "all", "name": "-all", "emoji": "🧱", "meaning": ["wall जैसे", "wall jaise"]},
+            {"id": "ouse", "name": "-ouse", "emoji": "🐭", "meaning": ["mouse जैसे", "mouse jaise"]},
+            {"id": "ield", "name": "-ield", "emoji": "🌾", "meaning": ["field जैसे", "field jaise"]},
+            {"id": "oon", "name": "-oon", "emoji": "🌙", "meaning": ["moon जैसे", "moon jaise"]}
+          ],
+          "items": [
+            {"text": "hall", "emoji": "🏛️", "groups": ["all"]},
+            {"text": "wall", "emoji": "🧱", "groups": ["all"]},
+            {"text": "fall", "emoji": "🍂", "groups": ["all"]},
+            {"text": "mouse", "emoji": "🐭", "groups": ["ouse"]},
+            {"text": "house", "emoji": "🏠", "groups": ["ouse"]},
+            {"text": "louse", "emoji": "🐛", "groups": ["ouse"]},
+            {"text": "yield", "emoji": "🌽", "groups": ["ield"]},
+            {"text": "field", "emoji": "🌾", "groups": ["ield"]},
+            {"text": "shield", "emoji": "🛡️", "groups": ["ield"]},
+            {"text": "moon", "emoji": "🌙", "groups": ["oon"]},
+            {"text": "noon", "emoji": "☀️", "groups": ["oon"]},
+            {"text": "soon", "emoji": "⏰", "groups": ["oon"]}
+          ]},
+        {"sayw": ["shield", "ढाल", "dhaal"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: अलग शब्द और जानवरों की आवाज़ें", "Shabd Shakti: alag shabd aur jaanwaron ki awaazein", "Word Power: odd one out and animal sounds"], "book": true,
+      "skills": ["book.words", "vocab.animals"],
+      "steps": [
+        {"card": ["(A) हर समूह में एक शब्द बाक़ियों से अलग है। उसे ढूँढो!", "(A) Har samooh mein ek shabd baakiyon se alag hai. Use dhoondho!", "(A) In each group, one word is different from the rest. Find it!"]},
+        {"book": true, "q": ["moon, earth, rocket, sun", "अलग शब्द चुनो", "Alag shabd chuno", ["rocket", "moon", "earth", "sun"], "rocket", "rocket: the others are natural heavenly bodies; a rocket is made by man.", "rocket: बाक़ी सब प्राकृतिक आकाशीय पिंड हैं; रॉकेट इंसान ने बनाया है।", "rocket: baaki sab praakritik aakaashiya pind hain; rocket insaan ne banaaya hai."]},
+        {"book": true, "q": ["nap, sleep, awake, siesta", "अलग शब्द चुनो", "Alag shabd chuno", ["awake", "nap", "sleep", "siesta"], "awake", "awake: the other three are kinds of sleep.", "awake: बाक़ी तीनों सोने से जुड़े हैं।", "awake: baaki teeno sone se jude hain."]},
+        {"book": true, "q": ["glow, dark, shine, illumine", "अलग शब्द चुनो", "Alag shabd chuno", ["dark", "glow", "shine", "illumine"], "dark", "dark: the other three are about light.", "dark: बाक़ी तीनों रोशनी से जुड़े हैं।", "dark: baaki teeno roshni se jude hain."]},
+        {"book": true, "q": ["evening, week, afternoon, morning", "अलग शब्द चुनो", "Alag shabd chuno", ["week", "evening", "afternoon", "morning"], "week", "week: the other three are parts of a day.", "week: बाक़ी तीनों दिन के हिस्से हैं।", "week: baaki teeno din ke hisse hain."]},
+        {"book": true, "q": ["leaves, flowers, fields, trees", "अलग शब्द चुनो", "Alag shabd chuno", ["fields", "leaves", "flowers", "trees"], "fields", "fields: the other three are plants or parts of plants.", "fields: बाक़ी तीनों पेड़-पौधे या उनके हिस्से हैं।", "fields: baaki teeno ped-paudhe ya unke hisse hain."]},
+        {"card": ["(C) कविता में ‘howling dog’ है। किताब के बॉक्स से जानवरों की आवाज़ें: howl, mew, bark, roar, trumpet, crow, buzz, bray, neigh।", "(C) Kavita mein ‘howling dog’ hai. Kitaab ke box se jaanwaron ki awaazein: howl, mew, bark, roar, trumpet, crow, buzz, bray, neigh.", "(C) The poem has ‘howling dog’. Animal sounds from the book's help box: howl, mew, bark, roar, trumpet, crow, buzz, bray, neigh."]},
+        {"book": true, "pairs": ["जानवर को उसकी आवाज़ से जोड़ो", "Jaanwar ko uski awaaz se jodo", "Join each animal to its sound", [
+          ["dog", "bark", "कुत्ता — भौंकना", "kutta — bhaunkna"],
+          ["cat", "mew", "बिल्ली — म्याऊँ", "billi — myaaun"],
+          ["lion", "roar", "शेर — दहाड़ना", "sher — dahaadna"],
+          ["elephant", "trumpet", "हाथी — चिंघाड़ना", "haathi — chinghaadna"],
+          ["wolf", "howl", "भेड़िया — हुआँ-हुआँ", "bhediya — huaan-huaan"]]]},
+        {"book": true, "pairs": ["जानवर को उसकी आवाज़ से जोड़ो", "Jaanwar ko uski awaaz se jodo", "Join each animal to its sound", [
+          ["cock", "crow", "मुर्ग़ा — बाँग देना", "murga — baang dena"],
+          ["bee", "buzz", "मधुमक्खी — भिनभिनाना", "madhumakkhi — bhinbhinaana"],
+          ["donkey", "bray", "गधा — रेंकना", "gadha — renkna"],
+          ["horse", "neigh", "घोड़ा — हिनहिनाना", "ghoda — hinhinaana"]]]},
+        {"card": ["(B) किताब के गोले में छिपे जानवर-पक्षी ढूँढो, जैसे frog। तुम्हारे गोले में और भी हैं: तोता, मोर, मेंढक...", "(B) Kitaab ke gole mein chhipe jaanwar-pakshi dhoondho, jaise frog. Tumhaare gole mein aur bhi hain: tota, mor, mendhak...", "(B) Find the animals and birds hidden in the circle in your book, like frog."]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"book": true, "q": ["What is the shape of the moon according to the poem?", "कविता के अनुसार चाँद का आकार कैसा है?", "Kavita ke anusaar chaand ka aakaar kaisa hai?", ["round, like the face of the clock in the hall", "like a boat", "like a banana"], "round, like the face of the clock in the hall", "According to the poem, the moon has a round face like the clock in the hall.", "कविता के अनुसार चाँद का चेहरा हॉल की घड़ी की तरह गोल है।", "Kavita ke anusaar chaand ka chehra hall ki ghadi ki tarah gol hai."]},
+        {"book": true, "q": ["Where do the birdies sleep?", "चिड़ियाँ कहाँ सोती हैं?", "Chidiyaan kahan soti hain?", ["in the forks of the trees", "in the house", "on the wall"], "in the forks of the trees", "The birdies sleep in the forks of the trees.", "चिड़ियाँ पेड़ों की डालियों के बीच सोती हैं।", "Chidiyaan pedon ki daaliyon ke beech soti hain."]},
+        {"book": true, "q": ["What is the dog doing?", "कुत्ता क्या कर रहा है?", "Kutta kya kar raha hai?", ["howling by the door of the house", "sleeping in bed", "chasing the moon"], "howling by the door of the house", "The dog is howling by the door of the house.", "कुत्ता घर के दरवाज़े पर हुआँ-हुआँ कर रहा है।", "Kutta ghar ke darwaaze par huaan-huaan kar raha hai."]},
+        {"book": true, "q": ["Where is the bat?", "चमगादड़ कहाँ है?", "Chamgaadad kahan hai?", ["It lies in bed at noon and comes out at night.", "on the garden wall", "in the forks of the trees"], "It lies in bed at noon and comes out at night.", "The bat lies in bed at noon and loves to come out in the moonlight.", "चमगादड़ दोपहर में बिस्तर पर पड़ा रहता है और चाँदनी में बाहर आना पसंद करता है।", "Chamgaadad dopahar mein bistar par pada rehta hai aur chaandni mein baahar aana pasand karta hai."]},
+        {"book": true, "q": ["What do the flowers and children do till morning?", "फूल और बच्चे सुबह तक क्या करते हैं?", "Phool aur bachche subah tak kya karte hain?", ["They close their eyes and sleep.", "They play outside.", "They watch the moon."], "They close their eyes and sleep.", "The flowers and children close their eyes and sleep till the sun rises in the morning.", "फूल और बच्चे सुबह सूरज निकलने तक आँखें बंद करके सोते हैं।", "Phool aur bachche subah sooraj nikalne tak aankhein band karke sote hain."]},
+        {"book": true, "q": ["What do the things that belong to the day do when the moon is out?", "दिन वाली चीज़ें चाँद निकलने पर क्या करती हैं?", "Din waali cheezein chaand nikalne par kya karti hain?", ["They cuddle to sleep to be out of her way.", "They go out to play.", "They shine brightly."], "They cuddle to sleep to be out of her way.", "The things that belong to the day cuddle up and sleep to be out of the moon's way.", "दिन वाली चीज़ें चाँद के रास्ते से हटने के लिए सिमटकर सो जाती हैं।", "Din waali cheezein chaand ke raaste se hatne ke liye simatkar so jaati hain."]},
+        {"book": true, "q": ["‘Cuddle’ means:", "‘Cuddle’ का मतलब", "‘Cuddle’ ka matlab", ["hug", "lie down", "rest", "close"], "hug"]},
+        {"card": ["(B) कविता से सही शब्द भरो।", "(B) Kavita se sahi shabd bharo.", "(B) Fill in the right word from the poem."]},
+        {"book": true, "fb": ["a ___ elephant", "trumpeting", ["trumpeting", "squeaking", "howling", "squalling"], "चिंघाड़ता हाथी", "chinghaadta haathi"]},
+        {"book": true, "fb": ["a ___ dog", "howling", ["howling", "squeaking", "trumpeting", "squalling"], "हुआँ-हुआँ करता कुत्ता", "huaan-huaan karta kutta"]},
+        {"book": true, "fb": ["a ___ cat", "squalling", ["squalling", "trumpeting", "howling", "squeaking"], "चीख़ती बिल्ली", "cheekhti billi"]},
+        {"book": true, "fb": ["a ___ mouse", "squeaking", ["squeaking", "squalling", "trumpeting", "howling"], "चीं-चीं करता चूहा", "cheen-cheen karta chooha"]}
+      ]
+    },
+    {
+      "emoji": "🪁", "title": ["चलो पढ़ें: चाँद तक पतंग", "Chalo padhein: chaand tak patang", "Let's Read: a kite to the moon"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 70 पर पतंग वाली छोटी कविता पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 70 par patang waali chhoti kavita padho, phir jawab do.", "Read the little kite poem on page 70 of your book, then answer."]},
+        {"book": true, "fb": ["What shall you ___?", "buy", ["buy", "fly", "try"], "तुम क्या ख़रीदोगे?", "Tum kya khareedoge?"]},
+        {"book": true, "fb": ["A ___ that will fly", "kite", ["kite", "bird", "plane"], "एक पतंग जो उड़ेगी", "Ek patang jo udegi"]},
+        {"book": true, "fb": ["Up to the ___", "moon", ["moon", "sun", "tree"], "चाँद तक ऊपर", "Chaand tak upar"]},
+        {"book": true, "fb": ["All through the ___!", "sky", ["sky", "night", "air"], "पूरे आसमान में!", "Poore aasmaan mein!"]},
+        {"book": true, "q": ["Is there a man on the moon?", "क्या चाँद पर कोई आदमी है?", "Kya chaand par koi aadmi hai?", ["No, it is only the poet's imagination.", "Yes, he lives there."], "No, it is only the poet's imagination.", "No, there is no man on the moon. The ‘man in the moon’ is only the poet's imagination.", "नहीं, चाँद पर कोई आदमी नहीं है। यह सिर्फ़ कवि की कल्पना है।", "Nahi, chaand par koi aadmi nahi hai. Yeh sirf kavi ki kalpana hai."]},
+        {"book": true, "q": ["What does ‘paw’ mean in the poem?", "‘paw’ का मतलब?", "‘paw’ ka matlab?", ["a hand (an animal's foot)", "a kite string", "a door"], "a hand (an animal's foot)", "A paw is the foot of an animal; here it means the hand of the man in the moon.", "paw जानवर का पंजा होता है; यहाँ इसका मतलब चाँद वाले आदमी का हाथ है।", "paw jaanwar ka panja hota hai; yahan iska matlab chaand waale aadmi ka haath hai."]},
+        {"book": true, "q": ["In ‘when it gets there’, ‘gets’ means ...", "यहाँ ‘gets’ का मतलब", "Yahan ‘gets’ ka matlab", ["reaches", "buys", "becomes"], "reaches"]}
+      ]
+    },
+    {
+      "emoji": "🌍", "title": ["चलो लिखें: धरती और चाँद की बातचीत", "Chalo likhein: dharti aur chaand ki baatcheet", "Let's Write: the earth and the moon talk"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: धरती और चाँद के बीच बातचीत लिखो। सुराग: चाँद सबको प्यारा है, बच्चे उसे ‘मामा’ कहते हैं; धरती आबादी, प्रदूषण और गर्मी से दुखी है।", "Kitaab: dharti aur chaand ke beech baatcheet likho. Suraag: chaand sabko pyaara hai, bachche use ‘Mama’ kehte hain; dharti aabaadi, pradooshan aur garmi se dukhi hai.", "The book: write a dialogue between the earth and the moon. Clues: everybody loves the moon, children call it ‘Mama’; the earth is unhappy because of population, pollution and heat."]},
+        {"book": true, "build": ["धरती: चाँद, सब तुमसे प्यार करते हैं।", "Dharti: chaand, sab tumse pyaar karte hain.", "Earth: tell the moon it is loved by all.", "Moon, everybody loves you.", "चाँद, सब तुमसे प्यार करते हैं।", "Chaand, sab tumse pyaar karte hain."]},
+        {"book": true, "build": ["चाँद: बच्चे मुझे मामा कहते हैं।", "Chaand: bachche mujhe Mama kehte hain.", "Moon: say what the children call you.", "Children call me Mama.", "बच्चे मुझे मामा कहते हैं।", "Bachche mujhe Mama kehte hain."]},
+        {"book": true, "build": ["चाँद: धरती, तुम दुखी क्यों हो?", "Chaand: dharti, tum dukhi kyon ho?", "Moon: ask the earth the reason for its sadness.", "Why are you unhappy, Earth?", "धरती, तुम दुखी क्यों हो?", "Dharti, tum dukhi kyon ho?"]},
+        {"book": true, "build": ["धरती: प्रदूषण से मैं गर्म होती जा रही हूँ।", "Dharti: pradooshan se main garm hoti ja rahi hoon.", "Earth: say pollution is heating you up.", "I am getting hotter because of pollution.", "प्रदूषण की वजह से मैं गर्म होती जा रही हूँ।", "Pradooshan ki wajah se main garm hoti ja rahi hoon."]}
+      ]
+    },
+    {
+      "emoji": "🌗", "title": ["चलो करके देखें: चाँद के रूप", "Chalo karke dekhein: chaand ke roop", "Let's Do It: the faces of the moon"], "book": true,
+      "skills": ["book.activity", "vocab.nature"],
+      "steps": [
+        {"card": ["किताब: चाँद के सारे रूप (कलाएँ) थर्मोकोल या कार्ड शीट पर बनाओ, रंगो और कक्षा में टाँगो। फिर चाँद पर कुछ लाइनें लिखो।", "Kitaab: chaand ke saare roop (kalaayein) thermocol ya card sheet par banao, rango aur kaksha mein taango. Phir chaand par kuchh lines likho.", "The book: draw all the faces (phases) of the moon on a thermocol or card sheet, paint them and hang them in class. Then write a few lines about the moon."]},
+        {"book": true, "pairs": ["चाँद के रूप जोड़ो", "Chaand ke roop jodo", "Join the phases of the moon", [
+          ["new moon", "no moon is seen", "अमावस्या", "amaavasya"],
+          ["crescent", "a thin curved moon", "दूज का चाँद", "dooj ka chaand"],
+          ["half moon", "half of it shines", "आधा चाँद", "aadha chaand"],
+          ["full moon", "a fully round moon", "पूर्णिमा", "poornima"]]]},
+        {"q": ["Why does the moon shine?", "चाँद क्यों चमकता है?", "Chaand kyon chamakta hai?", ["It reflects the light of the sun.", "It has its own fire.", "It has many bulbs."], "It reflects the light of the sun."]},
+        {"q": ["Which Indian mission landed near the moon's south pole in 2023?", "2023 में कौन सा भारतीय मिशन चाँद के दक्षिणी ध्रुव के पास उतरा?", "2023 mein kaun sa Bharatiya mission chaand ke dakshini dhruv ke paas utra?", ["Chandrayaan-3", "Mangalyaan", "Aryabhata"], "Chandrayaan-3"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 8 का टेस्ट", "Paath 8 ka test", "Lesson 8 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Where do the birdies sleep?", "चिड़ियाँ कहाँ सोती हैं?", "Chidiyaan kahan soti hain?", ["in the forks of the trees", "in the house", "on the wall"], "in the forks of the trees"]},
+        {"book": true, "q": ["‘Cuddle’ means:", "मतलब", "Matlab", ["hug", "lie down", "rest", "close"], "hug"]},
+        {"book": true, "q": ["What is the moon's face like?", "चाँद का चेहरा किसकी तरह?", "Chaand ka chehra kiski tarah?", ["the clock in the hall", "a boat", "a banana"], "the clock in the hall"]},
+        {"book": true, "skills": ["book.words"], "q": ["Odd one out: glow, dark, shine, illumine", "अलग शब्द", "Alag shabd", ["dark", "glow", "shine", "illumine"], "dark"]},
+        {"book": true, "skills": ["book.words"], "q": ["Odd one out: evening, week, afternoon, morning", "अलग शब्द", "Alag shabd", ["week", "evening", "afternoon", "morning"], "week"]},
+        {"book": true, "skills": ["book.words", "vocab.animals"], "q": ["A donkey ...", "गधे की आवाज़", "Gadhe ki awaaz", ["brays", "neighs", "roars"], "brays"]},
+        {"book": true, "skills": ["book.words", "vocab.animals"], "q": ["A horse ...", "घोड़े की आवाज़", "Ghode ki awaaz", ["neighs", "brays", "buzzes"], "neighs"]},
+        {"book": true, "skills": ["book.words"], "fb": ["a ___ mouse", "squeaking", ["squeaking", "squalling", "trumpeting", "howling"], "चीं-चीं करता चूहा", "cheen-cheen karta chooha"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘field’?", "तुकबंदी", "Tukbandi", ["shield", "filled", "feel"], "shield"]},
+        {"book": true, "q": ["Is there a man on the moon?", "चाँद पर आदमी?", "Chaand par aadmi?", ["No, it is only the poet's imagination.", "Yes, he lives there."], "No, it is only the poet's imagination."]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "B7.12.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.12.3.S01",
+    "B7.12.3.S02",
+    "B7.12.3.S03",
+    "B7.12.3.S04",
+    "B7.12.3.S06",
+    "B7.12.3.S07",
+    "B7.12.3.S08",
+    "B7.12.3.S09"
+  ],
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "B7.12.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "My two wheeler ___ when I was going home.",
+      "answer": "broke down",
+      "options": [
+        "broke down",
+        "three piece",
+        "board a bus"
+      ],
+      "meaning": {
+        "hi": "घर जाते समय मेरी दोपहिया गाड़ी ख़राब हो गई।",
+        "hinglish": "Ghar jaate samay meri dopahiya gaadi kharaab ho gayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.12.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Moti, the dog, is ___ on all the people going inside the gate.",
+      "answer": "keeping a watch",
+      "options": [
+        "keeping a watch",
+        "broke down",
+        "three piece"
+      ],
+      "meaning": {
+        "hi": "मोती कुत्ता गेट के अंदर जाने वाले सब लोगों पर नज़र रख रहा है।",
+        "hinglish": "Moti kutta gate ke andar jaane waale sab logon par nazar rakh raha hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.12.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "We have to ___ at Pipariya to go to Pachmarhi.",
+      "answer": "board a bus",
+      "options": [
+        "board a bus",
+        "keeping a watch",
+        "broke down"
+      ],
+      "meaning": {
+        "hi": "पचमढ़ी जाने के लिए हमें पिपरिया से बस पकड़नी पड़ती है।",
+        "hinglish": "Pachmarhi jaane ke liye humein Pipariya se bus pakadni padti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.12.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "I have a ___ blue suit.",
+      "answer": "three piece",
+      "options": [
+        "three piece",
+        "board a bus",
+        "keeping a watch"
+      ],
+      "meaning": {
+        "hi": "मेरे पास तीन हिस्सों वाला नीला सूट है।",
+        "hinglish": "Mere paas teen hisson waala neela suit hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.12.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब में एक जैसी आवाज़ वाले शब्दों के मतलब उल्टे-पुल्टे हैं। सही मतलब जोड़ो।",
+        "hinglish": "Kitaab mein ek jaisi awaaz waale shabdon ke matlab ulte-pulte hain. Sahi matlab jodo.",
+        "en": "In the book, the meanings of the sound-alike words are mixed up. Join each word to its right meaning."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.12.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके सही मतलब से जोड़ो",
+        "hinglish": "Har shabd ko uske sahi matlab se jodo",
+        "en": "Match each word with its right meaning"
+      },
+      "pairs": [
+        {
+          "left": "tire",
+          "right": "exhaust (make tired)",
+          "meaning": {
+            "hi": "थकाना",
+            "hinglish": "thakaana"
+          }
+        },
+        {
+          "left": "tyre",
+          "right": "rubber covering on wheels",
+          "meaning": {
+            "hi": "टायर",
+            "hinglish": "tyre"
+          }
+        },
+        {
+          "left": "hare",
+          "right": "rabbit",
+          "meaning": {
+            "hi": "ख़रगोश",
+            "hinglish": "khargosh"
+          }
+        },
+        {
+          "left": "hair",
+          "right": "it grows on our head",
+          "meaning": {
+            "hi": "बाल",
+            "hinglish": "baal"
+          }
+        },
+        {
+          "left": "quiet",
+          "right": "no noise",
+          "meaning": {
+            "hi": "शांत",
+            "hinglish": "shaant"
+          }
+        },
+        {
+          "left": "quite",
+          "right": "completely",
+          "meaning": {
+            "hi": "पूरी तरह",
+            "hinglish": "poori tarah"
+          }
+        },
+        {
+          "left": "plain",
+          "right": "simple",
+          "meaning": {
+            "hi": "सादा",
+            "hinglish": "saada"
+          }
+        },
+        {
+          "left": "plane",
+          "right": "an aircraft",
+          "meaning": {
+            "hi": "हवाई जहाज़",
+            "hinglish": "hawaai jahaaz"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.12.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Please keep ___ in the library.",
+      "answer": "quiet",
+      "options": [
+        "quiet",
+        "quite"
+      ],
+      "meaning": {
+        "hi": "कृपया लाइब्रेरी में शांत रहो।",
+        "hinglish": "Kripya library mein shaant raho."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.12.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The car has a flat ___.",
+      "answer": "tyre",
+      "options": [
+        "tyre",
+        "tire"
+      ],
+      "meaning": {
+        "hi": "गाड़ी का टायर पंक्चर है।",
+        "hinglish": "Gaadi ka tyre puncture hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.12.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The ___ landed at Bhopal airport.",
+      "answer": "plane",
+      "options": [
+        "plane",
+        "plain"
+      ],
+      "meaning": {
+        "hi": "हवाई जहाज़ भोपाल हवाई अड्डे पर उतरा।",
+        "hinglish": "Hawaai jahaaz Bhopal hawaai adde par utra."
+      }
+    }
+  ]
+}

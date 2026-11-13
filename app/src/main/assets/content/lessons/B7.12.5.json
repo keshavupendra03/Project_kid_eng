@@ -1,0 +1,195 @@
+{
+  "id": "B7.12.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.12.5.S02",
+    "B7.12.5.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.12.5.S01",
+      "skills": [
+        "book.talk",
+        "vocab.clothes"
+      ],
+      "text": {
+        "hi": "किताब कहती है: घर के लोगों के कपड़ों और गुणों की बात करो। उदाहरण: grandfather — dhoti, kurta — loving, old।",
+        "hinglish": "Kitaab kehti hai: ghar ke logon ke kapdon aur gunon ki baat karo. Udaharan: grandfather — dhoti, kurta — loving, old.",
+        "en": "The book says: talk about the clothes and qualities of your family members. Example: grandfather — dhoti, kurta — loving, old."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.12.5.S02",
+      "skills": [
+        "book.talk",
+        "vocab.clothes"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को कपड़ा या गुण (quality) में रखो",
+        "hinglish": "Har shabd ko kapda ya gun (quality) mein rakho",
+        "en": "Is each word a dress or a quality?"
+      },
+      "groups": [
+        {
+          "id": "dress",
+          "name": "dress",
+          "emoji": "👕",
+          "meaning": {
+            "hi": "कपड़ा",
+            "hinglish": "kapda"
+          }
+        },
+        {
+          "id": "quality",
+          "name": "quality",
+          "emoji": "💖",
+          "meaning": {
+            "hi": "गुण",
+            "hinglish": "gun"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "dhoti",
+          "emoji": "🧵",
+          "groups": [
+            "dress"
+          ]
+        },
+        {
+          "text": "honest",
+          "emoji": "🤝",
+          "groups": [
+            "quality"
+          ]
+        },
+        {
+          "text": "saree",
+          "emoji": "🥻",
+          "groups": [
+            "dress"
+          ]
+        },
+        {
+          "text": "brave",
+          "emoji": "🦁",
+          "groups": [
+            "quality"
+          ]
+        },
+        {
+          "text": "T-shirt",
+          "emoji": "👕",
+          "groups": [
+            "dress"
+          ]
+        },
+        {
+          "text": "hard working",
+          "emoji": "💪",
+          "groups": [
+            "quality"
+          ]
+        },
+        {
+          "text": "kurta",
+          "emoji": "👘",
+          "groups": [
+            "dress"
+          ]
+        },
+        {
+          "text": "affectionate",
+          "emoji": "🤗",
+          "groups": [
+            "quality"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.12.5.S03",
+      "skills": [
+        "book.talk",
+        "vocab.clothes"
+      ],
+      "scene": "👨‍👩‍👧",
+      "turns": [
+        {
+          "id": "father",
+          "tinku": "What does your father wear?",
+          "meaning": {
+            "hi": "तुम्हारे पापा क्या पहनते हैं?",
+            "hinglish": "Tumhare papa kya pehente hain?"
+          },
+          "replies": [
+            {
+              "say": "My father wears a shirt and a pair of trousers.",
+              "meaning": {
+                "hi": "मेरे पापा शर्ट और पैंट पहनते हैं।",
+                "hinglish": "Mere papa shirt aur pant pehente hain."
+              },
+              "patterns": [
+                "my father wears *",
+                "he wears *",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "quality",
+          "tinku": "What is he like?",
+          "meaning": {
+            "hi": "वे कैसे हैं? (उनके गुण)",
+            "hinglish": "Woh kaise hain? (Unke gun)"
+          },
+          "replies": [
+            {
+              "say": "He is hard working and loving.",
+              "meaning": {
+                "hi": "वे मेहनती और प्यार करने वाले हैं।",
+                "hinglish": "Woh mehnati aur pyaar karne waale hain."
+              },
+              "patterns": [
+                "he is *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mother",
+          "tinku": "And what does your mother wear?",
+          "meaning": {
+            "hi": "और तुम्हारी माँ क्या पहनती हैं?",
+            "hinglish": "Aur tumhari maa kya pehenti hain?"
+          },
+          "replies": [
+            {
+              "say": "My mother wears a saree.",
+              "meaning": {
+                "hi": "मेरी माँ साड़ी पहनती हैं।",
+                "hinglish": "Meri maa saadi pehenti hain."
+              },
+              "patterns": [
+                "my mother wears *",
+                "she wears *",
+                "*",
+                "* *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

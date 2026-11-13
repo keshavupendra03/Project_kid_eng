@@ -1,0 +1,144 @@
+{
+  "id": "B8.06.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.06.6.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.06.6.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब: यह बातचीत नाटक की तरह करो। Tinku अशोक बनेगा, तुम राजू बनो।",
+        "hinglish": "Kitaab: yeh baatcheet naatak ki tarah karo. Tinku Ashok banega, tum Raju bano.",
+        "en": "The book: act out this dialogue. Tinku is Ashok, you are Raju."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B8.06.6.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🎭",
+      "turns": [
+        {
+          "id": "enjoy",
+          "tinku": "Hello, Raju! Did you enjoy the lesson, ‘Measure for Measure’?",
+          "meaning": {
+            "hi": "हैलो राजू! क्या तुम्हें पाठ ‘मेज़र फ़ॉर मेज़र’ अच्छा लगा?",
+            "hinglish": "Hello Raju! Kya tumhe paath ‘Measure for Measure’ achha laga?"
+          },
+          "replies": [
+            {
+              "say": "Yes, very much. A painter was appointed as an administrator.",
+              "meaning": {
+                "hi": "हाँ, बहुत। एक चित्रकार को प्रशासक बना दिया गया।",
+                "hinglish": "Haan, bahut. Ek chitrakaar ko prashaasak bana diya gaya."
+              },
+              "patterns": [
+                "yes very much *",
+                "yes *",
+                "* painter *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "funny",
+          "tinku": "Yes, it is really a funny thing.",
+          "meaning": {
+            "hi": "हाँ, यह सच में मज़ेदार बात है।",
+            "hinglish": "Haan, yeh sach mein mazedaar baat hai."
+          },
+          "replies": [
+            {
+              "say": "But Tenali Raman was a very intelligent person.",
+              "meaning": {
+                "hi": "पर तेनाली रामन बहुत समझदार थे।",
+                "hinglish": "Par Tenali Raman bahut samajhdaar the."
+              },
+              "patterns": [
+                "but tenali raman *",
+                "* tenali raman *",
+                "* intelligent *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "genius",
+          "tinku": "He was really a genius. Only he could complain to the king against the chief minister.",
+          "meaning": {
+            "hi": "वे सच में प्रतिभाशाली थे। सिर्फ़ वही राजा से मुख्यमंत्री की शिकायत कर सकते थे।",
+            "hinglish": "Woh sach mein pratibhaashaali the. Sirf wahi raja se mukhyamantri ki shikaayat kar sakte the."
+          },
+          "replies": [
+            {
+              "say": "So Tenali Raman appointed a carpenter as a cook.",
+              "meaning": {
+                "hi": "तो तेनाली रामन ने एक बढ़ई को रसोइया बना दिया।",
+                "hinglish": "To Tenali Raman ne ek badhai ko rasoiya bana diya."
+              },
+              "patterns": [
+                "so tenali raman *",
+                "* carpenter *",
+                "* cook"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "king",
+          "tinku": "The king understood the problem at once.",
+          "meaning": {
+            "hi": "राजा तुरंत समस्या समझ गए।",
+            "hinglish": "Raja turant samasya samajh gaye."
+          },
+          "replies": [
+            {
+              "say": "But it was good that Raja Varma resigned from his post himself.",
+              "meaning": {
+                "hi": "पर अच्छा हुआ कि राजा वर्मा ने ख़ुद पद छोड़ दिया।",
+                "hinglish": "Par achha hua ki Raja Varma ne khud pad chhod diya."
+              },
+              "patterns": [
+                "but it was good *",
+                "* resigned *",
+                "* raja varma *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lesson",
+          "tinku": "So it's a very good lesson. Isn't it?",
+          "meaning": {
+            "hi": "तो यह बहुत अच्छा पाठ है, है ना?",
+            "hinglish": "To yeh bahut achha paath hai, hai na?"
+          },
+          "replies": [
+            {
+              "say": "Yes, it is.",
+              "meaning": {
+                "hi": "हाँ, है।",
+                "hinglish": "Haan, hai."
+              },
+              "patterns": [
+                "yes it is",
+                "yes *",
+                "yes"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "B8.11.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.11.8.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.11.8.S01",
+      "skills": [
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब: तुम और आसपास के लोग पानी बचाने के लिए क्या कर रहे हो, लिखो। फ़ोटो और अख़बार की ख़बरें नोटिस बोर्ड पर लगाओ। घर का बचा पानी किचन गार्डन में दो, और देखो कि नल खुले या टपकते न रहें।",
+        "hinglish": "Kitaab: tum aur aaspaas ke log paani bachaane ke liye kya kar rahe ho, likho. Photo aur akhbaar ki khabrein notice board par lagaao. Ghar ka bacha paani kitchen garden mein do, aur dekho ki nal khule ya tapakte na rahein.",
+        "en": "The book: write what you and people around you do to save water. Put photos and news cuttings on the notice board. Give waste water to your kitchen garden, and see that taps are not left open or leaking."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.8.S02",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Where can we use the waste water of our house?",
+      "questionMeaning": {
+        "hi": "घर का बचा पानी कहाँ इस्तेमाल करें?",
+        "hinglish": "Ghar ka bacha paani kahan istemaal karein?"
+      },
+      "options": [
+        "in our kitchen garden",
+        "in the drain only",
+        "for drinking"
+      ],
+      "answer": "in our kitchen garden"
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.8.S03",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which saves more water while brushing teeth?",
+      "questionMeaning": {
+        "hi": "दाँत साफ़ करते समय पानी कैसे बचाएँ?",
+        "hinglish": "Daant saaf karte samay paani kaise bachaayein?"
+      },
+      "options": [
+        "Use a mug and close the tap.",
+        "Keep the tap running.",
+        "Use a shower."
+      ],
+      "answer": "Use a mug and close the tap."
+    },
+    {
+      "type": "say_sentence",
+      "id": "B8.11.8.S04",
+      "skills": [
+        "speak.sentence",
+        "book.activity"
+      ],
+      "sentence": "Save water, save life.",
+      "meaning": {
+        "hi": "पानी बचाओ, जीवन बचाओ।",
+        "hinglish": "Paani bachaao, jeevan bachaao.",
+        "en": "Save water, save life."
+      }
+    }
+  ]
+}

@@ -328,6 +328,7 @@ object UiStrings {
     val doneReading = L(hi = "पढ़ लिया", hinglish = "Padh liya", en = "I've finished")
     val stuckWhisper = L(hi = "यह शब्द है", hinglish = "Yeh shabd hai", en = "This word is")
     val tapWordHint = L(hi = "किसी भी शब्द को छूकर सुनो", hinglish = "Kisi bhi shabd ko chhookar suno", en = "Tap any word to hear it")
+    val showLineMeanings = L(hi = "हिंदी मतलब दिखाओ", hinglish = "Hindi matlab dikhao", en = "Show Hindi meaning")
 
     /** Format with (total, read). */
     val wordsReadScore = L(hi = "%1\$d में से %2\$d शब्द पढ़े", hinglish = "%1\$d mein se %2\$d shabd padhe", en = "%2\$d of %1\$d words read")
@@ -432,9 +433,9 @@ object UiStrings {
     /** Keep in step with SchoolSync.CONSENT_VERSION: change the version when these words change. */
     val schoolConsentTitle = L(hi = "आपकी सहमति", hinglish = "Aapki sehmati", en = "Your consent")
     val schoolShared = L(
-        hi = "स्कूल को यह दिखेगा: पूरे किए लेसन, स्टार, सीखे शब्द, पढ़ने का लेवल और स्पीड, वर्ड पावर के शब्द और टेस्ट, ऐप में बिताया समय, और किन चीज़ों में मदद चाहिए। यह हेडमास्टर और इस बच्चे के टीचर देख सकेंगे। समझो इंग्लिश चलाने वाले भी स्कूल की मदद के लिए इसे देख सकते हैं।",
-        hinglish = "School ko yeh dikhega: poore kiye lesson, star, seekhe shabd, padhne ka level aur speed, Word Power ke shabd aur test, app mein bitaya samay, aur kin cheezon mein madad chahiye. Yeh headmaster aur is bachche ke teacher dekh sakenge. Samjho English chalane wale bhi school ki madad ke liye ise dekh sakte hain.",
-        en = "The school will see: lessons finished, stars, words learned, reading level and speed, Word Power words and tests, time in this app, and what the child needs help with. The headmaster and this child's teachers can see it. The people who run Samjho English can also see it, to help the school.",
+        hi = "स्कूल को यह दिखेगा: पूरे किए लेसन, स्टार, सीखे शब्द, पढ़ने का लेवल और स्पीड, वर्ड पावर के शब्द और टेस्ट, किताब के हर पाठ की प्रगति, स्कूल के टेस्ट के नंबर और हर सवाल पर बच्चे का जवाब, ऐप में बिताया समय, और किन चीज़ों में मदद चाहिए। यह हेडमास्टर और इस बच्चे के टीचर देख सकेंगे। समझो इंग्लिश चलाने वाले भी स्कूल की मदद के लिए इसे देख सकते हैं।",
+        hinglish = "School ko yeh dikhega: poore kiye lesson, star, seekhe shabd, padhne ka level aur speed, Word Power ke shabd aur test, kitaab ke har paath ki pragati, school ke test ke number aur har sawaal par bachche ka jawab, app mein bitaya samay, aur kin cheezon mein madad chahiye. Yeh headmaster aur is bachche ke teacher dekh sakenge. Samjho English chalane wale bhi school ki madad ke liye ise dekh sakte hain.",
+        en = "The school will see: lessons finished, stars, words learned, reading level and speed, Word Power words and tests, progress in each textbook chapter, school test scores and the child's answer to each test question, time in this app, and what the child needs help with. The headmaster and this child's teachers can see it. The people who run Samjho English can also see it, to help the school.",
     )
     val schoolNotShared = L(
         hi = "स्कूल को यह कभी नहीं भेजा जाएगा: बच्चे की आवाज़ (ऐप इसे कभी सेव नहीं करता), फ़ोन के दूसरे ऐप की जानकारी, और किड मोड की जानकारी।",
@@ -467,6 +468,77 @@ object UiStrings {
         hinglish = "School ke paas bheji gayi is bachche ki jaankari mit jaayegi. Dobara jodne ke liye school se naya code lena hoga.",
         en = "What was shared about this child will be deleted from the school. You'll need a new code from the school to connect again.",
     )
+
+    // School tests: the parent agreeing (adults, "आप")
+    val schoolTestsConsentTitle = L(hi = "📝 नया: स्कूल के टेस्ट", hinglish = "📝 Naya: school ke test", en = "📝 New: school tests")
+    val schoolTestsConsentText = L(
+        hi = "अब टीचर ऐप पर टेस्ट भेज सकते हैं। इसके लिए स्कूल को यह भी दिखेगा: किताब के हर पाठ की प्रगति, टेस्ट के नंबर, और हर सवाल पर बच्चे का जवाब। क्या आप सहमति देते हैं?",
+        hinglish = "Ab teacher app par test bhej sakte hain. Iske liye school ko yeh bhi dikhega: kitaab ke har paath ki pragati, test ke number, aur har sawaal par bachche ka jawab. Kya aap sehmati dete hain?",
+        en = "Teachers can now send tests through the app. For this the school will also see: progress in each textbook chapter, test scores, and the child's answer to each test question. Do you agree?",
+    )
+    val schoolTestsAgree = L(hi = "हाँ, सहमति देता/देती हूँ", hinglish = "Haan, sehmati deta/deti hoon", en = "Yes, I agree")
+    val parentTestResults = L(hi = "📝 स्कूल के टेस्ट के नतीजे", hinglish = "📝 School ke test ke nateeje", en = "📝 School test results")
+    val parentTestResultsText = L(
+        hi = "हर टेस्ट में बच्चे का जवाब और सही जवाब देखें, ताकि कमज़ोर हिस्सों पर ध्यान दे सकें।",
+        hinglish = "Har test mein bachche ka jawab aur sahi jawab dekhein, taaki kamzor hisson par dhyaan de sakein.",
+        en = "See the child's answer beside the right one in every test, so you can help with the weak parts.",
+    )
+    val parentNoTests = L(hi = "अभी तक कोई टेस्ट नहीं दिया।", hinglish = "Abhi tak koi test nahi diya.", en = "No tests taken yet.")
+    val testsToFocus = L(hi = "इन पर ध्यान दें", hinglish = "In par dhyaan dein", en = "Focus on these")
+    val testNotificationChannel = L(hi = "स्कूल के टेस्ट", hinglish = "School ke test", en = "School tests")
+    val testNotificationTitle = L(hi = "📝 नया इंग्लिश टेस्ट", hinglish = "📝 Naya English test", en = "📝 New English test")
+
+    /** Format with (child's name, test name). */
+    val testNotificationText = L(
+        hi = "%1\$s के लिए टीचर का टेस्ट: %2\$s। जब ठीक लगे, फ़ोन बच्चे को दें।",
+        hinglish = "%1\$s ke liye teacher ka test: %2\$s. Jab theek lage, phone bachche ko dein.",
+        en = "A test from the teacher for %1\$s: %2\$s. Give the phone to your child whenever it suits you.",
+    )
+
+    // School tests: the child taking one ("तुम")
+    val activeTests = L(hi = "📝 स्कूल का टेस्ट", hinglish = "📝 School ka test", en = "📝 School test")
+    val bookTestKind = L(hi = "📕 किताब का टेस्ट", hinglish = "📕 Kitaab ka test", en = "📕 Book test")
+    val courseTestKind = L(hi = "⭐ ऐप कोर्स का टेस्ट", hinglish = "⭐ App course ka test", en = "⭐ App course test")
+
+    /** Format with (questions, minutes, last date). */
+    val testCardInfo = L(hi = "%1\$d सवाल · %2\$d मिनट · %3\$s तक", hinglish = "%1\$d sawaal · %2\$d minute · %3\$s tak", en = "%1\$d questions · %2\$d min · until %3\$s")
+
+    /** Format with (questions, minutes). */
+    val testIntro = L(
+        hi = "इस टेस्ट में %1\$d सवाल हैं और %2\$d मिनट का समय है। शुरू करने के बाद घड़ी चलती रहेगी। हर सवाल का एक ही मौक़ा है, कोई इशारा नहीं मिलेगा। तैयार हो?",
+        hinglish = "Is test mein %1\$d sawaal hain aur %2\$d minute ka samay hai. Shuru karne ke baad ghadi chalti rahegi. Har sawaal ka ek hi mauka hai, koi ishaara nahi milega. Taiyaar ho?",
+        en = "This test has %1\$d questions and %2\$d minutes. Once you start, the clock keeps running. Each question gets one try, and there are no hints. Ready?",
+    )
+    val testStart = L(hi = "टेस्ट शुरू करो", hinglish = "Test shuru karo", en = "Start the test")
+    val testContinue = L(hi = "टेस्ट जारी रखो", hinglish = "Test jaari rakho", en = "Continue the test")
+
+    /** Format with (number, total). */
+    val testQuestionOf = L(hi = "सवाल %1\$d / %2\$d", hinglish = "Sawaal %1\$d / %2\$d", en = "Question %1\$d / %2\$d")
+    val testSkip = L(hi = "छोड़ो, अगला सवाल", hinglish = "Chhodo, agla sawaal", en = "Skip, next question")
+    val testTimeUp = L(hi = "⏰ समय ख़त्म! तुम्हारा टेस्ट जमा हो गया।", hinglish = "⏰ Samay khatm! Tumhara test jama ho gaya.", en = "⏰ Time's up! Your test has been handed in.")
+    val testHandedIn = L(hi = "🎉 टेस्ट जमा हो गया!", hinglish = "🎉 Test jama ho gaya!", en = "🎉 Test handed in!")
+
+    /** Format with (right, total). */
+    val testScore = L(hi = "%2\$d में से %1\$d सही", hinglish = "%2\$d mein se %1\$d sahi", en = "%1\$d of %2\$d right")
+    val testYourAnswer = L(hi = "तुम्हारा जवाब", hinglish = "Tumhara jawab", en = "Your answer")
+    val testRightAnswer = L(hi = "सही जवाब", hinglish = "Sahi jawab", en = "Right answer")
+    val testNoAnswer = L(hi = "जवाब नहीं दिया", hinglish = "Jawab nahi diya", en = "Not answered")
+    val testSent = L(hi = "✅ टीचर को भेज दिया", hinglish = "✅ Teacher ko bhej diya", en = "✅ Sent to your teacher")
+    val testWillSend = L(hi = "📶 इंटरनेट मिलते ही टीचर को भेज देंगे", hinglish = "📶 Internet milte hi teacher ko bhej denge", en = "📶 Will be sent to your teacher when the internet is on")
+    val testNeedsUpdate = L(
+        hi = "यह टेस्ट खुल नहीं पाया। मम्मी-पापा से ऐप अपडेट करवाओ।",
+        hinglish = "Yeh test khul nahi paaya. Mummy-Papa se app update karwao.",
+        en = "This test couldn't open. Ask a parent to update the app.",
+    )
+    val testClosed = L(hi = "इस टेस्ट की आख़िरी तारीख़ निकल गई।", hinglish = "Is test ki aakhiri taareekh nikal gayi.", en = "The last date for this test has passed.")
+    val testExitConfirm = L(
+        hi = "टेस्ट बीच में छोड़ें? घड़ी चलती रहेगी। बाद में यहीं से जारी रख सकते हो।",
+        hinglish = "Test beech mein chhodein? Ghadi chalti rahegi. Baad mein yahin se jaari rakh sakte ho.",
+        en = "Leave the test now? The clock keeps running. You can carry on from here later.",
+    )
+    val testLeave = L(hi = "बाहर जाओ", hinglish = "Baahar jaao", en = "Leave")
+    val testStay = L(hi = "टेस्ट में रहो", hinglish = "Test mein raho", en = "Stay in the test")
+    val myTestResults = L(hi = "मेरे टेस्ट के नतीजे", hinglish = "Mere test ke nateeje", en = "My test results")
 
     // Teach Tinku and role-plays
     val teachTinku = L(
@@ -590,4 +662,44 @@ object UiStrings {
     val off = L(hi = "बंद", hinglish = "Band", en = "Off")
     val voiceIndian = L(hi = "इंडियन", hinglish = "Indian", en = "Indian")
     val voiceBritish = L(hi = "ब्रिटिश", hinglish = "British", en = "British")
+
+    // My Book: the school textbook's exercises
+    val myBook = L(hi = "मेरी किताब", hinglish = "Meri Kitaab", en = "My Book")
+
+    /** Format with the class number. */
+    val myBookCard = L(
+        hi = "कक्षा %d की इंग्लिश किताब के अभ्यास",
+        hinglish = "Kaksha %d ki English kitaab ke abhyaas",
+        en = "Exercises from your Class %d English book",
+    )
+    val bookPick = L(
+        hi = "पहले अपनी किताब में पाठ पढ़ो, फिर यहाँ उसके अभ्यास करो।",
+        hinglish = "Pehle apni kitaab mein paath padho, phir yahan uske abhyaas karo.",
+        en = "First read the lesson in your book, then do its exercises here.",
+    )
+    val lessonNumber = L(hi = "पाठ", hinglish = "Paath", en = "Lesson")
+    val bookPages = L(hi = "किताब के पेज", hinglish = "Kitaab ke page", en = "Book pages")
+    val fromBook = L(hi = "📕 किताब से", hinglish = "📕 Kitaab se", en = "📕 From the book")
+    val extraPractice = L(hi = "⭐ ज़्यादा अभ्यास", hinglish = "⭐ Zyaada abhyaas", en = "⭐ Extra practice")
+    val chapterTest = L(hi = "🏆 पाठ का टेस्ट", hinglish = "🏆 Paath ka test", en = "🏆 Chapter test")
+    val moreChaptersSoon = L(
+        hi = "बाकी पाठ जल्दी आ रहे हैं।",
+        hinglish = "Baaki paath jaldi aa rahe hain.",
+        en = "More chapters are coming soon.",
+    )
+    val bookQuestionBadge = L(
+        hi = "📕 किताब का सवाल · परीक्षा में आ सकता है",
+        hinglish = "📕 Kitaab ka sawaal · Pariksha mein aa sakta hai",
+        en = "📕 Book question · may come in your exam",
+    )
+    val examAnswer = L(hi = "✍️ परीक्षा में ऐसे लिखो", hinglish = "✍️ Pariksha mein aise likho", en = "✍️ Write it like this in the exam")
+    val crosswordInstruction = L(
+        hi = "लाइन पढ़ो, नीचे से सही शब्द चुनो। शब्द पहेली में भर जाएगा।",
+        hinglish = "Line padho, neeche se sahi shabd chuno. Shabd paheli mein bhar jaayega.",
+        en = "Read the line and pick the right word below. It will go into the puzzle.",
+    )
+    val tapClue = L(hi = "दूसरी लाइन चुनने के लिए उसे छुओ।", hinglish = "Doosri line chunne ke liye use chhuo.", en = "Tap a line to choose it.")
+    val sortNow = L(hi = "इसे किस ग्रुप में रखोगे?", hinglish = "Ise kis group mein rakhoge?", en = "Which group does it go in?")
+    val buildInstruction = L(hi = "शब्दों को सही क्रम में छुओ", hinglish = "Shabdon ko sahi kram mein chhuo", en = "Tap the words in the right order")
+    val pickOne = L(hi = "सही जवाब चुनो", hinglish = "Sahi jawab chuno", en = "Pick the right answer")
 }

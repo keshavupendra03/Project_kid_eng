@@ -1,0 +1,320 @@
+{
+  "id": "B8.15.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.15.7.S02",
+    "B8.15.7.S03",
+    "B8.15.7.S04",
+    "B8.15.7.S05",
+    "B8.15.7.S06",
+    "B8.15.7.S07",
+    "B8.15.7.S08",
+    "B8.15.7.S09",
+    "B8.15.7.S10",
+    "B8.15.7.S11",
+    "B8.15.7.S12",
+    "B8.15.7.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.15.7.S01",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "text": {
+        "hi": "किताब के पेज 139-142 पर पाठ 11 से 15 का दोहराव है।",
+        "hinglish": "Kitaab ke page 139-142 par paath 11 se 15 ka dohraav hai.",
+        "en": "Pages 139–142 of your book revise Lessons 11 to 15."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.15.7.S02",
+      "skills": [
+        "book.words",
+        "grammar.adverbs"
+      ],
+      "instruction": {
+        "hi": "-ly जोड़ो",
+        "hinglish": "-ly jodo",
+        "en": "Add -ly"
+      },
+      "pairs": [
+        {
+          "left": "polite",
+          "right": "politely",
+          "meaning": {
+            "hi": "विनम्रता से",
+            "hinglish": "vinamrata se"
+          }
+        },
+        {
+          "left": "general",
+          "right": "generally",
+          "meaning": {
+            "hi": "आम तौर पर",
+            "hinglish": "aam taur par"
+          }
+        },
+        {
+          "left": "happy",
+          "right": "happily",
+          "meaning": {
+            "hi": "ख़ुशी से",
+            "hinglish": "khushi se"
+          }
+        },
+        {
+          "left": "slow",
+          "right": "slowly",
+          "meaning": {
+            "hi": "धीरे से",
+            "hinglish": "dheere se"
+          }
+        },
+        {
+          "left": "faithful",
+          "right": "faithfully",
+          "meaning": {
+            "hi": "वफ़ादारी से",
+            "hinglish": "vafaadaari se"
+          }
+        },
+        {
+          "left": "kind",
+          "right": "kindly",
+          "meaning": {
+            "hi": "दया से",
+            "hinglish": "daya se"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.7.S03",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "We should ___ other passengers in a bus.",
+      "answer": "accommodate",
+      "options": [
+        "accommodate",
+        "migrate",
+        "conserve"
+      ],
+      "meaning": {
+        "hi": "बस में दूसरे यात्रियों को जगह देनी चाहिए।",
+        "hinglish": "Bus mein doosre yaatriyon ko jagah deni chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.7.S04",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "Birds ___ from one place to the other.",
+      "answer": "migrate",
+      "options": [
+        "migrate",
+        "conserve",
+        "accommodate"
+      ],
+      "meaning": {
+        "hi": "पक्षी एक जगह से दूसरी जगह जाते हैं।",
+        "hinglish": "Pakshi ek jagah se doosri jagah jaate hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.7.S05",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "We must ___ water.",
+      "answer": "conserve",
+      "options": [
+        "conserve",
+        "migrate",
+        "accommodate"
+      ],
+      "meaning": {
+        "hi": "हमें पानी बचाना चाहिए।",
+        "hinglish": "Humein paani bachaana chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.7.S06",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "My grandmother sells milk at the ___.",
+      "answer": "dairy",
+      "options": [
+        "dairy",
+        "diary"
+      ],
+      "meaning": {
+        "hi": "मेरी दादी डेरी पर दूध बेचती हैं।",
+        "hinglish": "Meri daadi dairy par doodh bechti hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.7.S07",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "I write in my ___ every night.",
+      "answer": "diary",
+      "options": [
+        "diary",
+        "dairy"
+      ],
+      "meaning": {
+        "hi": "मैं हर रात डायरी लिखता हूँ।",
+        "hinglish": "Main har raat diary likhta hoon."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.7.S08",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "I got a lower ___ in the train.",
+      "answer": "berth",
+      "options": [
+        "berth",
+        "birth"
+      ],
+      "meaning": {
+        "hi": "मुझे ट्रेन में नीचे की सीट मिली।",
+        "hinglish": "Mujhe train mein neeche ki seat mili."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.7.S09",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "A ___ ran into the forest.",
+      "answer": "deer",
+      "options": [
+        "deer",
+        "dear"
+      ],
+      "meaning": {
+        "hi": "एक हिरण जंगल में भागा।",
+        "hinglish": "Ek hiran jungle mein bhaaga."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.7.S10",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "‘Burning issues’ means ...",
+      "questionMeaning": {
+        "hi": "ज्वलंत मुद्दे",
+        "hinglish": "Jwalant mudde"
+      },
+      "options": [
+        "important topics",
+        "painful topics",
+        "unwanted topics"
+      ],
+      "answer": "important topics"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.7.S11",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "Who told the secret to the boy?",
+      "questionMeaning": {
+        "hi": "राज़ किसने बताया?",
+        "hinglish": "Raaz kisne bataaya?"
+      },
+      "options": [
+        "the tree",
+        "the robin",
+        "his mother"
+      ],
+      "answer": "the tree"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.7.S12",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "Do the Bhils like colourful dresses?",
+      "questionMeaning": {
+        "hi": "भीलों को रंगीन कपड़े?",
+        "hinglish": "Bheelon ko rangeen kapde?"
+      },
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.15.7.S13",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "instruction": {
+        "hi": "(D) मिलान करो",
+        "hinglish": "(D) Milaan karo",
+        "en": "(D) Match the following"
+      },
+      "pairs": [
+        {
+          "left": "Yaksha was highly pleased with",
+          "right": "Yudhishthira",
+          "meaning": {
+            "hi": "यक्ष युधिष्ठिर से ख़ुश हुआ",
+            "hinglish": "Yaksha Yudhishthir se khush hua"
+          }
+        },
+        {
+          "left": "The leaves say in the autumn",
+          "right": "we are all gay",
+          "meaning": {
+            "hi": "पतझड़ में पत्तियाँ: हम सब रंगीन",
+            "hinglish": "patjhad mein pattiyaan: hum sab rangeen"
+          }
+        },
+        {
+          "left": "The Chipko Movement",
+          "right": "was for the protection of forests",
+          "meaning": {
+            "hi": "चिपको आंदोलन: जंगल बचाने के लिए",
+            "hinglish": "Chipko aandolan: jungle bachaane ke liye"
+          }
+        }
+      ]
+    }
+  ]
+}

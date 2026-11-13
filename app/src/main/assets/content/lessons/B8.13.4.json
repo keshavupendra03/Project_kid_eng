@@ -1,0 +1,191 @@
+{
+  "id": "B8.13.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.13.4.S02",
+    "B8.13.4.S03",
+    "B8.13.4.S04",
+    "B8.13.4.S05",
+    "B8.13.4.S06",
+    "B8.13.4.S08",
+    "B8.13.4.S09",
+    "B8.13.4.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.13.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "text": {
+        "hi": "can = योग्यता (I can swim), can't = नहीं कर सकते, could = बीते समय की योग्यता या विनम्र अनुमति, may = अनुमति (May I come in?), might/could = आगे की संभावना (It might rain)।",
+        "hinglish": "can = yogyata (I can swim), can't = nahi kar sakte, could = beete samay ki yogyata ya vinamra anumati, may = anumati (May I come in?), might/could = aage ki sambhaavna (It might rain).",
+        "en": "can = ability, can't = inability, could = past ability or polite permission, may = permission, might/could = future possibility."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.13.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "sentence": "The weather report says it ___ rain today.",
+      "answer": "might",
+      "options": [
+        "might",
+        "can't",
+        "must"
+      ],
+      "meaning": {
+        "hi": "मौसम की ख़बर कहती है आज बारिश हो सकती है।",
+        "hinglish": "Mausam ki khabar kehti hai aaj baarish ho sakti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.13.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "sentence": "___ you read this poem for me, please?",
+      "answer": "Could",
+      "options": [
+        "Could",
+        "May",
+        "Might"
+      ],
+      "meaning": {
+        "hi": "क्या तुम मेरे लिए यह कविता पढ़ सकते हो?",
+        "hinglish": "Kya tum mere liye yeh kavita padh sakte ho?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.13.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "sentence": "He is a liar, what he says ___ be true.",
+      "answer": "can't",
+      "options": [
+        "can't",
+        "can",
+        "might"
+      ],
+      "meaning": {
+        "hi": "वह झूठा है, उसकी बात सच नहीं हो सकती।",
+        "hinglish": "Woh jhootha hai, uski baat sach nahi ho sakti."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.13.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "sentence": "The new counter ___ open next Monday.",
+      "answer": "will",
+      "options": [
+        "will",
+        "can't",
+        "could"
+      ],
+      "meaning": {
+        "hi": "नया काउंटर अगले सोमवार को खुलेगा।",
+        "hinglish": "Naya counter agle somvaar ko khulega."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.13.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "sentence": "___ I use your phone?",
+      "answer": "May",
+      "options": [
+        "May",
+        "Might",
+        "Must"
+      ],
+      "meaning": {
+        "hi": "क्या मैं तुम्हारा फ़ोन इस्तेमाल कर सकता हूँ?",
+        "hinglish": "Kya main tumhaara phone istemaal kar sakta hoon?"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.13.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "text": {
+        "hi": "(B) इन हालात में modal वाला सवाल पूछो।",
+        "hinglish": "(B) In haalaat mein modal waala sawaal poochho.",
+        "en": "(B) Ask a question with a modal in each situation."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.13.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "prompt": {
+        "hi": "तुम आइसक्रीम खाना चाहते हो।",
+        "hinglish": "Tum icecream khaana chahte ho.",
+        "en": "Ask politely for an ice-cream."
+      },
+      "answer": "May I have some ice-cream?",
+      "meaning": {
+        "hi": "क्या मुझे थोड़ी आइसक्रीम मिल सकती है?",
+        "hinglish": "Kya mujhe thodi icecream mil sakti hai?"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.13.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "prompt": {
+        "hi": "तुम जानना चाहते हो कि फ़ोन पर कौन है।",
+        "hinglish": "Tum jaanna chahte ho ki phone par kaun hai.",
+        "en": "Ask who the caller is."
+      },
+      "answer": "May I know who is calling?",
+      "meaning": {
+        "hi": "क्या मैं जान सकता हूँ कि कौन बोल रहा है?",
+        "hinglish": "Kya main jaan sakta hoon ki kaun bol raha hai?"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.13.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "prompt": {
+        "hi": "तुम समय जानना चाहते हो।",
+        "hinglish": "Tum samay jaanna chahte ho.",
+        "en": "Ask someone the time politely."
+      },
+      "answer": "Could you tell me the time?",
+      "meaning": {
+        "hi": "क्या आप मुझे समय बता सकते हैं?",
+        "hinglish": "Kya aap mujhe samay bata sakte hain?"
+      }
+    }
+  ]
+}

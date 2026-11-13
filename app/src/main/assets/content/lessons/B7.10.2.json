@@ -1,0 +1,146 @@
+{
+  "id": "B7.10.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.10.2.S02",
+    "B7.10.2.S03",
+    "B7.10.2.S04",
+    "B7.10.2.S05",
+    "B7.10.2.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.10.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब के पेज 71 पर कविता ‘The Modern Way’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Kitaab ke page 71 par kavita ‘The Modern Way’ padho. Phir jawab do.",
+        "en": "Read the poem ‘The Modern Way’ on page 71 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Whom does the poet invite?",
+      "questionMeaning": {
+        "hi": "कवयित्री किसे बुलाती है?",
+        "hinglish": "Kavayitri kise bulaati hai?"
+      },
+      "options": [
+        "her friend",
+        "her teacher",
+        "her mother"
+      ],
+      "answer": "her friend",
+      "modelAnswer": "The poet invites her friend for a ride in her rocket.",
+      "modelMeaning": {
+        "hi": "कवयित्री अपने दोस्त को अपने रॉकेट की सैर पर बुलाती है।",
+        "hinglish": "Kavayitri apne dost ko apne rocket ki sair par bulaati hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does she want to see?",
+      "questionMeaning": {
+        "hi": "वह क्या देखना चाहती है?",
+        "hinglish": "Woh kya dekhna chahti hai?"
+      },
+      "options": [
+        "the moon, and Mars if there is time",
+        "the sea",
+        "a forest"
+      ],
+      "answer": "the moon, and Mars if there is time",
+      "modelAnswer": "She wants to see the moon. If there is time, she wants to visit Mars too.",
+      "modelMeaning": {
+        "hi": "वह चाँद देखना चाहती है। समय हो तो मंगल पर भी जाना चाहती है।",
+        "hinglish": "Woh chaand dekhna chahti hai. Samay ho to mangal par bhi jaana chahti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which are the things that attract her?",
+      "questionMeaning": {
+        "hi": "कौन सी चीज़ें उसे अच्छी लगती हैं?",
+        "hinglish": "Kaun si cheezein use achhi lagti hain?"
+      },
+      "options": [
+        "the moon, Mars and the stars that shine like diamonds",
+        "cars and trains",
+        "rivers and mountains"
+      ],
+      "answer": "the moon, Mars and the stars that shine like diamonds",
+      "modelAnswer": "The moon, Mars and the stars that shine like diamonds in the sky attract her.",
+      "modelMeaning": {
+        "hi": "चाँद, मंगल और आसमान में हीरों जैसे चमकते तारे उसे अच्छे लगते हैं।",
+        "hinglish": "Chaand, mangal aur aasmaan mein heeron jaise chamakte taare use achhe lagte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which test has she cleared?",
+      "questionMeaning": {
+        "hi": "उसने कौन सा टेस्ट पास किया है?",
+        "hinglish": "Usne kaun sa test paas kiya hai?"
+      },
+      "options": [
+        "the test to fly a rocket",
+        "a spelling test",
+        "a swimming test"
+      ],
+      "answer": "the test to fly a rocket",
+      "modelAnswer": "She has passed the test to fly her rocket, with perfect ease.",
+      "modelMeaning": {
+        "hi": "उसने रॉकेट उड़ाने का टेस्ट बड़ी आसानी से पास किया है।",
+        "hinglish": "Usne rocket udaane ka test badi aasaani se paas kiya hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does she long to do?",
+      "questionMeaning": {
+        "hi": "वह क्या करने के लिए तरस रही है?",
+        "hinglish": "Woh kya karne ke liye taras rahi hai?"
+      },
+      "options": [
+        "to take her friend for a ride in her rocket",
+        "to go to school",
+        "to buy a new car"
+      ],
+      "answer": "to take her friend for a ride in her rocket",
+      "modelAnswer": "She longs to take her friend for a ride in her rocket.",
+      "modelMeaning": {
+        "hi": "वह अपने दोस्त को रॉकेट की सैर कराने के लिए तरस रही है।",
+        "hinglish": "Woh apne dost ko rocket ki sair karaane ke liye taras rahi hai."
+      }
+    }
+  ]
+}

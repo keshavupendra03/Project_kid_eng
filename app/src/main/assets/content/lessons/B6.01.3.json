@@ -1,0 +1,227 @@
+{
+  "id": "B6.01.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.01.3.S02",
+    "B6.01.3.S03",
+    "B6.01.3.S04",
+    "B6.01.3.S05",
+    "B6.01.3.S06",
+    "B6.01.3.S07",
+    "B6.01.3.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.01.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 1 और 2 पर ‘The Tree’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 1 aur 2 par ‘The Tree’ padho. Phir jawab do.",
+        "en": "Read ‘The Tree’ on pages 1 and 2 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the lesson about?",
+      "questionMeaning": {
+        "hi": "यह पाठ किसके बारे में है?",
+        "hinglish": "Yeh paath kiske baare mein hai?"
+      },
+      "options": [
+        "a fifty-year-old banyan tree and how useful it is",
+        "a mango farm",
+        "a big river"
+      ],
+      "answer": "a fifty-year-old banyan tree and how useful it is",
+      "modelAnswer": "The lesson is about a fifty-year-old banyan tree in a village and how useful it is.",
+      "modelMeaning": {
+        "hi": "यह पाठ गाँव के पचास साल पुराने बरगद के पेड़ और उसके फ़ायदों के बारे में है।",
+        "hinglish": "Yeh paath gaon ke pachaas saal puraane bargad ke ped aur uske faaydon ke baare mein hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do the village children do when they get tired?",
+      "questionMeaning": {
+        "hi": "थक जाने पर गाँव के बच्चे क्या करते हैं?",
+        "hinglish": "Thak jaane par gaon ke bachche kya karte hain?"
+      },
+      "options": [
+        "They sleep under its shade.",
+        "They go home.",
+        "They climb to the top."
+      ],
+      "answer": "They sleep under its shade.",
+      "modelAnswer": "When they get tired, the village children sleep under the shade of the tree.",
+      "modelMeaning": {
+        "hi": "थक जाने पर गाँव के बच्चे पेड़ की छाँव में सो जाते हैं।",
+        "hinglish": "Thak jaane par gaon ke bachche ped ki chhaanv mein so jaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why do the passers-by sit under the tree?",
+      "questionMeaning": {
+        "hi": "राहगीर पेड़ के नीचे क्यों बैठते हैं?",
+        "hinglish": "Raahgeer ped ke neeche kyon baithte hain?"
+      },
+      "options": [
+        "to rest for some time",
+        "to sell fruits",
+        "to read books"
+      ],
+      "answer": "to rest for some time",
+      "modelAnswer": "The passers-by sit under the tree to rest for some time, and then move on.",
+      "modelMeaning": {
+        "hi": "राहगीर थोड़ी देर आराम करने के लिए पेड़ के नीचे बैठते हैं, फिर आगे बढ़ जाते हैं।",
+        "hinglish": "Raahgeer thodi der aaraam karne ke liye ped ke neeche baithte hain, phir aage badh jaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who take rest at night in the tree?",
+      "questionMeaning": {
+        "hi": "रात को पेड़ पर कौन आराम करते हैं?",
+        "hinglish": "Raat ko ped par kaun aaraam karte hain?"
+      },
+      "options": [
+        "birds, small animals and insects",
+        "the village children",
+        "the passers-by"
+      ],
+      "answer": "birds, small animals and insects",
+      "modelAnswer": "Birds like sparrows, parrots, pigeons and crows, and squirrels and ants rest in the tree at night.",
+      "modelMeaning": {
+        "hi": "गौरैया, तोते, कबूतर, कौवे जैसे पक्षी, गिलहरी और चींटियाँ रात को पेड़ पर आराम करते हैं।",
+        "hinglish": "Gauraiya, tote, kabootar, kauve jaise pakshi, gilhari aur cheentiyaan raat ko ped par aaraam karte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where do we get fresh air from?",
+      "questionMeaning": {
+        "hi": "हमें ताज़ी हवा कहाँ से मिलती है?",
+        "hinglish": "Humein taazi hawa kahan se milti hai?"
+      },
+      "options": [
+        "from trees",
+        "from cars",
+        "from factories"
+      ],
+      "answer": "from trees",
+      "modelAnswer": "We get fresh air from trees.",
+      "modelMeaning": {
+        "hi": "हमें ताज़ी हवा पेड़ों से मिलती है।",
+        "hinglish": "Humein taazi hawa pedon se milti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What should we do for the tree?",
+      "questionMeaning": {
+        "hi": "हमें पेड़ के लिए क्या करना चाहिए?",
+        "hinglish": "Humein ped ke liye kya karna chahiye?"
+      },
+      "options": [
+        "We should love and care for it.",
+        "We should cut it.",
+        "We should break its branches."
+      ],
+      "answer": "We should love and care for it.",
+      "modelAnswer": "We should always love and care for the tree.",
+      "modelMeaning": {
+        "hi": "हमें हमेशा पेड़ से प्यार करना और उसकी देखभाल करनी चाहिए।",
+        "hinglish": "Humein hamesha ped se pyaar karna aur uski dekhbhaal karni chahiye."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.01.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "कॉलम A को कॉलम B से जोड़ो",
+        "hinglish": "Column A ko column B se jodo",
+        "en": "Match column A with column B"
+      },
+      "pairs": [
+        {
+          "left": "The story is about",
+          "right": "a fifty-year-old banyan tree.",
+          "meaning": {
+            "hi": "कहानी पचास साल पुराने बरगद के बारे में है।",
+            "hinglish": "Kahani pachaas saal puraane bargad ke baare mein hai."
+          }
+        },
+        {
+          "left": "The children",
+          "right": "swing on its branches.",
+          "meaning": {
+            "hi": "बच्चे उसकी डालियों पर झूलते हैं।",
+            "hinglish": "Bachche uski daaliyon par jhoolte hain."
+          }
+        },
+        {
+          "left": "The people",
+          "right": "sit under it to take rest.",
+          "meaning": {
+            "hi": "लोग आराम के लिए उसके नीचे बैठते हैं।",
+            "hinglish": "Log aaraam ke liye uske neeche baithte hain."
+          }
+        },
+        {
+          "left": "The rain fell and",
+          "right": "the seed woke up from its sleep.",
+          "meaning": {
+            "hi": "बारिश हुई और बीज नींद से जागा।",
+            "hinglish": "Baarish hui aur beej neend se jaaga."
+          }
+        },
+        {
+          "left": "The birds",
+          "right": "take rest and sleep in it.",
+          "meaning": {
+            "hi": "पक्षी उस पर आराम करते और सोते हैं।",
+            "hinglish": "Pakshi us par aaraam karte aur sote hain."
+          }
+        }
+      ]
+    }
+  ]
+}

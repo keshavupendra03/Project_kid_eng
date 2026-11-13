@@ -1,0 +1,92 @@
+{
+  "id": "B8.08.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.08.6.S02",
+    "B8.08.6.S03",
+    "B8.08.6.S04",
+    "B8.08.6.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.08.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: धरती और चाँद के बीच बातचीत लिखो। सुराग: चाँद सबको प्यारा है, बच्चे उसे ‘मामा’ कहते हैं; धरती आबादी, प्रदूषण और गर्मी से दुखी है।",
+        "hinglish": "Kitaab: dharti aur chaand ke beech baatcheet likho. Suraag: chaand sabko pyaara hai, bachche use ‘Mama’ kehte hain; dharti aabaadi, pradooshan aur garmi se dukhi hai.",
+        "en": "The book: write a dialogue between the earth and the moon. Clues: everybody loves the moon, children call it ‘Mama’; the earth is unhappy because of population, pollution and heat."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.08.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "धरती: चाँद, सब तुमसे प्यार करते हैं।",
+        "hinglish": "Dharti: chaand, sab tumse pyaar karte hain.",
+        "en": "Earth: tell the moon it is loved by all."
+      },
+      "answer": "Moon, everybody loves you.",
+      "meaning": {
+        "hi": "चाँद, सब तुमसे प्यार करते हैं।",
+        "hinglish": "Chaand, sab tumse pyaar karte hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.08.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चाँद: बच्चे मुझे मामा कहते हैं।",
+        "hinglish": "Chaand: bachche mujhe Mama kehte hain.",
+        "en": "Moon: say what the children call you."
+      },
+      "answer": "Children call me Mama.",
+      "meaning": {
+        "hi": "बच्चे मुझे मामा कहते हैं।",
+        "hinglish": "Bachche mujhe Mama kehte hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.08.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चाँद: धरती, तुम दुखी क्यों हो?",
+        "hinglish": "Chaand: dharti, tum dukhi kyon ho?",
+        "en": "Moon: ask the earth the reason for its sadness."
+      },
+      "answer": "Why are you unhappy, Earth?",
+      "meaning": {
+        "hi": "धरती, तुम दुखी क्यों हो?",
+        "hinglish": "Dharti, tum dukhi kyon ho?"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.08.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "धरती: प्रदूषण से मैं गर्म होती जा रही हूँ।",
+        "hinglish": "Dharti: pradooshan se main garm hoti ja rahi hoon.",
+        "en": "Earth: say pollution is heating you up."
+      },
+      "answer": "I am getting hotter because of pollution.",
+      "meaning": {
+        "hi": "प्रदूषण की वजह से मैं गर्म होती जा रही हूँ।",
+        "hinglish": "Pradooshan ki wajah se main garm hoti ja rahi hoon."
+      }
+    }
+  ]
+}

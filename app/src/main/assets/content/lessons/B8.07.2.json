@@ -1,0 +1,163 @@
+{
+  "id": "B8.07.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.07.2.S02",
+    "B8.07.2.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.07.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "Homophones: बोलने में एक जैसे, पर मतलब और स्पेलिंग अलग: hear (सुनना) – here (यहाँ), weather (मौसम) – whether (क्या/कि)।",
+        "hinglish": "Homophones: bolne mein ek jaise, par matlab aur spelling alag: hear (sunna) – here (yahan), weather (mausam) – whether (kya/ki).",
+        "en": "Homophones sound the same but have different meanings and spellings: hear – here, weather – whether."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.07.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "एक जैसी आवाज़ वाले शब्द जोड़ो",
+        "hinglish": "Ek jaisi awaaz waale shabd jodo",
+        "en": "Join the homophones"
+      },
+      "pairs": [
+        {
+          "left": "steel",
+          "right": "steal",
+          "meaning": {
+            "hi": "इस्पात — चुराना",
+            "hinglish": "ispaat — churaana"
+          }
+        },
+        {
+          "left": "due",
+          "right": "dew",
+          "meaning": {
+            "hi": "बाक़ी/देय — ओस",
+            "hinglish": "baaki/dey — os"
+          }
+        },
+        {
+          "left": "knew",
+          "right": "new",
+          "meaning": {
+            "hi": "जानता था — नया",
+            "hinglish": "jaanta tha — naya"
+          }
+        },
+        {
+          "left": "way",
+          "right": "weigh",
+          "meaning": {
+            "hi": "रास्ता — तौलना",
+            "hinglish": "raasta — taulna"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.07.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "एक जैसी आवाज़ वाले शब्द जोड़ो",
+        "hinglish": "Ek jaisi awaaz waale shabd jodo",
+        "en": "Join the homophones"
+      },
+      "pairs": [
+        {
+          "left": "aloud",
+          "right": "allowed",
+          "meaning": {
+            "hi": "ज़ोर से — इजाज़त दी",
+            "hinglish": "zor se — ijaazat di"
+          }
+        },
+        {
+          "left": "pain",
+          "right": "pane",
+          "meaning": {
+            "hi": "दर्द — शीशे का पल्ला",
+            "hinglish": "dard — sheeshe ka palla"
+          }
+        },
+        {
+          "left": "our",
+          "right": "hour",
+          "meaning": {
+            "hi": "हमारा — घंटा",
+            "hinglish": "hamaara — ghanta"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The ___ on the grass shines in the morning.",
+      "answer": "dew",
+      "options": [
+        "dew",
+        "due"
+      ],
+      "meaning": {
+        "hi": "सुबह घास पर ओस चमकती है।",
+        "hinglish": "Subah ghaas par os chamakti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Please ___ these apples.",
+      "answer": "weigh",
+      "options": [
+        "weigh",
+        "way"
+      ],
+      "meaning": {
+        "hi": "कृपया ये सेब तौल दो।",
+        "hinglish": "Kripya yeh seb taul do."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The thief tried to ___ my bag.",
+      "answer": "steal",
+      "options": [
+        "steal",
+        "steel"
+      ],
+      "meaning": {
+        "hi": "चोर ने मेरा बैग चुराने की कोशिश की।",
+        "hinglish": "Chor ne mera bag churaane ki koshish ki."
+      }
+    }
+  ]
+}

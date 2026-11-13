@@ -1,0 +1,307 @@
+{
+  "id": "B8.09.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.09.4.S02",
+    "B8.09.4.S03",
+    "B8.09.4.S04",
+    "B8.09.4.S05",
+    "B8.09.4.S06",
+    "B8.09.4.S07",
+    "B8.09.4.S08",
+    "B8.09.4.S09",
+    "B8.09.4.S10",
+    "B8.09.4.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.09.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "text": {
+        "hi": "Adverb बताता है काम कैसे, कहाँ या कब हुआ: Santa writes neatly (कैसे), The boys are waiting outside (कहाँ), She left early (कब)।",
+        "hinglish": "Adverb bataata hai kaam kaise, kahan ya kab hua: Santa writes neatly (kaise), The boys are waiting outside (kahan), She left early (kab).",
+        "en": "An adverb tells how, where or when an action happens: writes neatly (how), waiting outside (where), left early (when)."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "She behaved foolishly. Which word is the adverb?",
+      "questionMeaning": {
+        "hi": "Adverb कौन सा है?",
+        "hinglish": "Adverb kaun sa hai?"
+      },
+      "options": [
+        "foolishly",
+        "behaved",
+        "She"
+      ],
+      "answer": "foolishly"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "We looked for her everywhere.",
+      "questionMeaning": {
+        "hi": "Adverb कौन सा है?",
+        "hinglish": "Adverb kaun sa hai?"
+      },
+      "options": [
+        "everywhere",
+        "looked",
+        "her"
+      ],
+      "answer": "everywhere"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "The children laughed loudly.",
+      "questionMeaning": {
+        "hi": "Adverb कौन सा है?",
+        "hinglish": "Adverb kaun sa hai?"
+      },
+      "options": [
+        "loudly",
+        "laughed",
+        "children"
+      ],
+      "answer": "loudly"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "The school will open tomorrow.",
+      "questionMeaning": {
+        "hi": "Adverb कौन सा है?",
+        "hinglish": "Adverb kaun sa hai?"
+      },
+      "options": [
+        "tomorrow",
+        "open",
+        "school"
+      ],
+      "answer": "tomorrow"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "The soldiers fought bravely.",
+      "questionMeaning": {
+        "hi": "Adverb कौन सा है?",
+        "hinglish": "Adverb kaun sa hai?"
+      },
+      "options": [
+        "bravely",
+        "fought",
+        "soldiers"
+      ],
+      "answer": "bravely"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "She wrote to me yesterday.",
+      "questionMeaning": {
+        "hi": "Adverb कौन सा है?",
+        "hinglish": "Adverb kaun sa hai?"
+      },
+      "options": [
+        "yesterday",
+        "wrote",
+        "me"
+      ],
+      "answer": "yesterday"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "He lives here.",
+      "questionMeaning": {
+        "hi": "Adverb कौन सा है?",
+        "hinglish": "Adverb kaun sa hai?"
+      },
+      "options": [
+        "here",
+        "lives",
+        "He"
+      ],
+      "answer": "here"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "The old man walked slowly.",
+      "questionMeaning": {
+        "hi": "Adverb कौन सा है?",
+        "hinglish": "Adverb kaun sa hai?"
+      },
+      "options": [
+        "slowly",
+        "old",
+        "walked"
+      ],
+      "answer": "slowly"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "She ran fast.",
+      "questionMeaning": {
+        "hi": "Adverb कौन सा है?",
+        "hinglish": "Adverb kaun sa hai?"
+      },
+      "options": [
+        "fast",
+        "ran",
+        "She"
+      ],
+      "answer": "fast"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "The bus stops there.",
+      "questionMeaning": {
+        "hi": "Adverb कौन सा है?",
+        "hinglish": "Adverb kaun sa hai?"
+      },
+      "options": [
+        "there",
+        "stops",
+        "bus"
+      ],
+      "answer": "there"
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.09.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "instruction": {
+        "hi": "Adverb क्या बताता है: कैसे, कहाँ या कब?",
+        "hinglish": "Adverb kya bataata hai: kaise, kahan ya kab?",
+        "en": "Does the adverb tell how, where or when?"
+      },
+      "groups": [
+        {
+          "id": "how",
+          "name": "how",
+          "emoji": "🎨",
+          "meaning": {
+            "hi": "कैसे",
+            "hinglish": "kaise"
+          }
+        },
+        {
+          "id": "where",
+          "name": "where",
+          "emoji": "📍",
+          "meaning": {
+            "hi": "कहाँ",
+            "hinglish": "kahan"
+          }
+        },
+        {
+          "id": "when",
+          "name": "when",
+          "emoji": "🕒",
+          "meaning": {
+            "hi": "कब",
+            "hinglish": "kab"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "bravely",
+          "emoji": "🛡️",
+          "groups": [
+            "how"
+          ]
+        },
+        {
+          "text": "slowly",
+          "emoji": "🐢",
+          "groups": [
+            "how"
+          ]
+        },
+        {
+          "text": "everywhere",
+          "emoji": "🌍",
+          "groups": [
+            "where"
+          ]
+        },
+        {
+          "text": "here",
+          "emoji": "👇",
+          "groups": [
+            "where"
+          ]
+        },
+        {
+          "text": "tomorrow",
+          "emoji": "📅",
+          "groups": [
+            "when"
+          ]
+        },
+        {
+          "text": "yesterday",
+          "emoji": "⏪",
+          "groups": [
+            "when"
+          ]
+        }
+      ]
+    }
+  ]
+}

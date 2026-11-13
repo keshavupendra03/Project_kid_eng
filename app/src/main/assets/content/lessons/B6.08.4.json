@@ -1,0 +1,122 @@
+{
+  "id": "B6.08.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.08.4.S01",
+    "B6.08.4.S02",
+    "B6.08.4.S03",
+    "B6.08.4.S04"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.08.4.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How does the elephant come?",
+      "questionMeaning": {
+        "hi": "हाथी कैसे आता है?",
+        "hinglish": "Haathi kaise aata hai?"
+      },
+      "options": [
+        "swaying along with children singing a song",
+        "running very fast",
+        "sleeping"
+      ],
+      "answer": "swaying along with children singing a song",
+      "modelAnswer": "The elephant comes swaying along with his cargo of children, all singing a song.",
+      "modelMeaning": {
+        "hi": "हाथी झूमता हुआ आता है, उसकी पीठ पर बच्चे गाना गा रहे हैं।",
+        "hinglish": "Haathi jhoomta hua aata hai, uski peeth par bachche gaana ga rahe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.4.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the cargo of the elephant?",
+      "questionMeaning": {
+        "hi": "हाथी पर क्या लदा है?",
+        "hinglish": "Haathi par kya lada hai?"
+      },
+      "options": [
+        "children",
+        "bananas",
+        "wood"
+      ],
+      "answer": "children",
+      "modelAnswer": "The cargo of the elephant is children.",
+      "modelMeaning": {
+        "hi": "हाथी पर बच्चे बैठे हैं।",
+        "hinglish": "Haathi par bachche baithe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.4.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What can the elephant do with its trunk?",
+      "questionMeaning": {
+        "hi": "हाथी अपनी सूँड से क्या कर सकता है?",
+        "hinglish": "Haathi apni soond se kya kar sakta hai?"
+      },
+      "options": [
+        "root up an oak, pull down a house or pick up a pin",
+        "fly in the sky",
+        "write a letter"
+      ],
+      "answer": "root up an oak, pull down a house or pick up a pin",
+      "modelAnswer": "With its trunk, the elephant can root up an oak tree, pull down a house or pick up a pin.",
+      "modelMeaning": {
+        "hi": "हाथी अपनी सूँड से बलूत का पेड़ उखाड़ सकता है, घर गिरा सकता है या एक पिन उठा सकता है।",
+        "hinglish": "Haathi apni soond se baloot ka ped ukhaad sakta hai, ghar gira sakta hai ya ek pin utha sakta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.4.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the children do to the elephant?",
+      "questionMeaning": {
+        "hi": "बच्चों ने हाथी के साथ क्या किया?",
+        "hinglish": "Bachchon ne haathi ke saath kya kiya?"
+      },
+      "options": [
+        "They crowned him with may flowers.",
+        "They hit him.",
+        "They washed him."
+      ],
+      "answer": "They crowned him with may flowers.",
+      "modelAnswer": "The children crowned the elephant with may flowers.",
+      "modelMeaning": {
+        "hi": "बच्चों ने हाथी को फूलों का मुकुट पहनाया।",
+        "hinglish": "Bachchon ne haathi ko phoolon ka mukut pehnaaya."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "B6.08.4.S05",
+      "skills": [
+        "speak.sentence",
+        "book.comprehension"
+      ],
+      "sentence": "He can pull down a house or pick up a pin.",
+      "meaning": {
+        "hi": "वह घर गिरा सकता है या एक पिन उठा सकता है।",
+        "hinglish": "Woh ghar gira sakta hai ya ek pin utha sakta hai.",
+        "en": "He can pull down a house or pick up a pin."
+      }
+    }
+  ]
+}

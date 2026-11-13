@@ -9,8 +9,13 @@ const MAX_JOIN_FAILURES = 20;
 const JOIN_WINDOW_MS = 60 * 60 * 1000;
 const MIN_PASSWORD = 8;
 // v3 adds reading and Word Power progress to what the parent agrees to share. v2 phones keep working
-// and don't send those numbers.
-const CONSENT_VERSIONS = new Set(["2026-11-v2", "2026-11-v3"]);
+// and don't send those numbers. v4 adds textbook chapter progress and school tests (each answer the
+// child gives); a phone on an older version gets no tests until the parent agrees again.
+const CONSENT_VERSIONS = new Set(["2026-11-v2", "2026-11-v3", "2026-11-v4"]);
+const TESTS_CONSENT = "2026-11-v4";
+const MAX_TEST_QUESTIONS = 50;
+// A phone that finished a test offline can still hand it in this long after the last date.
+const LATE_RESULT_MS = 3 * 86_400_000;
 const DAY_MS = 86_400_000;
 const IST_OFFSET_MS = 330 * 60_000; // Phones report local days; schools are in India.
 
@@ -58,6 +63,12 @@ function text(value, max = 80) {
 
 function int(value, min, max) {
   if (!Number.isInteger(value) || value < min || value > max) throw invalid();
+  return value;
+}
+
+/** A lesson, chapter or question id from the app's content, e.g. "B7.04.3.S05". */
+function contentId(value) {
+  if (typeof value !== "string" || !/^[A-Za-z0-9._-]{1,40}$/.test(value)) throw invalid();
   return value;
 }
 
@@ -222,12 +233,20 @@ async function studentReport(env, user, student) {
   const allowed = VISIBILITY[user.role];
   const classRow = await env.DB.prepare("SELECT grade, section FROM classes WHERE id = ?").bind(student.class_id).first();
   const fromDay = today() - 6;
-  const [summary, days, skills, parents] = await Promise.all([
+  const [summary, days, skills, parents, chapters, tests] = await Promise.all([
     env.DB.prepare("SELECT * FROM student_summary WHERE student_id = ?").bind(student.id).first(),
     env.DB.prepare("SELECT day, minutes FROM student_days WHERE student_id = ? AND day >= ?").bind(student.id, fromDay).all(),
     env.DB.prepare("SELECT skill, mastery, attempts FROM student_skills WHERE student_id = ?").bind(student.id).all(),
     allowed.parentContact
       ? env.DB.prepare("SELECT p.name, p.phone FROM parents p JOIN student_parents sp ON sp.parent_id = p.id WHERE sp.student_id = ?").bind(student.id).all()
+      : { results: [] },
+    env.DB.prepare("SELECT chapter, sections_done, sections_total, stars, test_stars FROM student_chapters WHERE student_id = ?").bind(student.id).all(),
+    allowed.tests
+      ? env.DB.prepare(
+        `SELECT t.id, t.kind, t.title, t.closes_at, r.score, r.total, r.submitted_at FROM tests t
+         LEFT JOIN test_results r ON r.test_id = t.id AND r.student_id = ?1
+         WHERE t.class_id = ?2 OR r.student_id = ?1 ORDER BY t.created_at DESC LIMIT 50`,
+      ).bind(student.id, student.class_id).all()
       : { results: [] },
   ]);
   const minutesByDay = new Map(days.results.map((d) => [d.day, d.minutes]));
@@ -263,6 +282,15 @@ async function studentReport(env, user, student) {
       weakSkills: skills.results.filter((k) => k.attempts >= 3 && k.mastery < 0.5).sort((a, b) => a.mastery - b.mastery).map((k) => k.skill),
     } : {}),
     ...(allowed.parentContact ? { parents: parents.results } : {}),
+    ...(allowed.progress ? {
+      chapters: Object.fromEntries(chapters.results.map((c) => [c.chapter, { done: c.sections_done, total: c.sections_total, stars: c.stars, testStars: c.test_stars }])),
+    } : {}),
+    ...(allowed.tests ? {
+      tests: tests.results.map((t) => ({
+        id: t.id, kind: t.kind, title: t.title, closesAt: t.closes_at,
+        result: t.score == null ? null : { score: t.score, total: t.total, submittedAt: t.submitted_at },
+      })),
+    } : {}),
   };
 }
 
@@ -417,6 +445,8 @@ route("DELETE", "/api/classes/:id", async ({ request, env, params }) => {
   const used = await env.DB.prepare("SELECT 1 FROM students WHERE class_id = ?").bind(row.id).first();
   if (used) throw new HttpError(409, "class_not_empty");
   await env.DB.batch([
+    env.DB.prepare("DELETE FROM test_results WHERE test_id IN (SELECT id FROM tests WHERE class_id = ?)").bind(row.id),
+    env.DB.prepare("DELETE FROM tests WHERE class_id = ?").bind(row.id),
     env.DB.prepare("DELETE FROM teacher_classes WHERE class_id = ?").bind(row.id),
     env.DB.prepare("DELETE FROM classes WHERE id = ?").bind(row.id),
   ]);
@@ -570,6 +600,8 @@ const clearProgress = (env, studentId) => [
   env.DB.prepare("DELETE FROM student_summary WHERE student_id = ?").bind(studentId),
   env.DB.prepare("DELETE FROM student_days WHERE student_id = ?").bind(studentId),
   env.DB.prepare("DELETE FROM student_skills WHERE student_id = ?").bind(studentId),
+  env.DB.prepare("DELETE FROM student_chapters WHERE student_id = ?").bind(studentId),
+  env.DB.prepare("DELETE FROM test_results WHERE student_id = ?").bind(studentId),
 ];
 
 // A new code disconnects any linked phone and removes what it shared.
@@ -638,6 +670,155 @@ route("GET", "/api/overview", async ({ request, env }) => {
   return json({ classes: rows, weakSkills: weakSkillCounts(skills.results, connected) });
 });
 
+// ---------- Syllabus (textbook chapters) and tests ----------
+
+route("GET", "/api/classes/:id/syllabus", async ({ request, env, params }) => {
+  const user = await requireUser(request, env, "headmaster", "teacher");
+  const classRow = await classForUser(env, user, params.id);
+  if (!VISIBILITY[user.role].progress) throw forbidden();
+  const [students, chapters] = await Promise.all([
+    env.DB.prepare("SELECT id, name, device_token_hash IS NOT NULL AS linked FROM students WHERE class_id = ? ORDER BY name COLLATE NOCASE").bind(classRow.id).all(),
+    env.DB.prepare(
+      `SELECT c.student_id, c.chapter, c.sections_done, c.sections_total, c.stars, c.test_stars FROM student_chapters c
+       JOIN students s ON s.id = c.student_id WHERE s.class_id = ?`,
+    ).bind(classRow.id).all(),
+  ]);
+  return json({
+    class: { id: classRow.id, grade: classRow.grade, section: classRow.section },
+    students: students.results.map((s) => ({
+      id: s.id,
+      name: s.name,
+      linked: Boolean(s.linked),
+      chapters: Object.fromEntries(chapters.results.filter((c) => c.student_id === s.id).map((c) => [
+        c.chapter, { done: c.sections_done, total: c.sections_total, stars: c.stars, testStars: c.test_stars },
+      ])),
+    })),
+  });
+});
+
+const testSummarySql = `SELECT t.id, t.class_id, t.kind, t.title, t.minutes, t.opens_at, t.closes_at, t.created_at,
+    json_array_length(t.questions) AS questions, c.grade, c.section,
+    (SELECT COUNT(*) FROM students s WHERE s.class_id = t.class_id) AS students,
+    (SELECT COUNT(*) FROM test_results r WHERE r.test_id = t.id) AS done,
+    (SELECT ROUND(AVG(r.score * 100.0 / r.total)) FROM test_results r WHERE r.test_id = t.id) AS average
+  FROM tests t JOIN classes c ON c.id = t.class_id`;
+
+const testSummary = (t) => ({
+  id: t.id, classId: t.class_id, grade: t.grade, section: t.section, kind: t.kind, title: t.title, minutes: t.minutes,
+  opensAt: t.opens_at, closesAt: t.closes_at, createdAt: t.created_at, questions: t.questions,
+  students: t.students, done: t.done, average: t.average,
+});
+
+// Recent tests across every class this person can see.
+route("GET", "/api/tests", async ({ request, env }) => {
+  const user = await requireUser(request, env, "headmaster", "teacher");
+  if (!VISIBILITY[user.role].tests) throw forbidden();
+  const { results } = user.role === "teacher"
+    ? await env.DB.prepare(`${testSummarySql} JOIN teacher_classes tc ON tc.class_id = t.class_id WHERE tc.teacher_id = ? ORDER BY t.created_at DESC LIMIT 30`).bind(user.id).all()
+    : await env.DB.prepare(`${testSummarySql} WHERE t.school_id = ? ORDER BY t.created_at DESC LIMIT 30`).bind(user.school_id).all();
+  return json({ tests: results.map(testSummary) });
+});
+
+route("GET", "/api/classes/:id/tests", async ({ request, env, params }) => {
+  const user = await requireUser(request, env, "headmaster", "teacher");
+  const classRow = await classForUser(env, user, params.id);
+  if (!VISIBILITY[user.role].tests) throw forbidden();
+  const { results } = await env.DB.prepare(`${testSummarySql} WHERE t.class_id = ? ORDER BY t.created_at DESC LIMIT 100`).bind(classRow.id).all();
+  return json({ tests: results.map(testSummary) });
+});
+
+/** The last moment of a date (YYYY-MM-DD) in India, as milliseconds. */
+function endOfIndianDay(value) {
+  if (typeof value !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(value)) throw invalid("bad_date");
+  const day = Math.floor(Date.parse(`${value}T00:00:00Z`) / DAY_MS);
+  if (!Number.isFinite(day) || day < today() || day > today() + 60) throw invalid("bad_date");
+  return (day + 1) * DAY_MS - IST_OFFSET_MS - 1;
+}
+
+route("POST", "/api/classes/:id/tests", async ({ request, env, params }) => {
+  const user = await requireUser(request, env, "headmaster", "teacher");
+  const classRow = await classForUser(env, user, params.id);
+  if (!VISIBILITY[user.role].tests) throw forbidden();
+  const body = await readBody(request);
+  if (!["book", "course"].includes(body.kind)) throw invalid();
+  if (!Array.isArray(body.lessons) || body.lessons.length < 1 || body.lessons.length > 120) throw invalid();
+  if (!Array.isArray(body.questions) || body.questions.length < 1 || body.questions.length > MAX_TEST_QUESTIONS) throw invalid("too_many_questions");
+  const lessons = body.lessons.map(contentId);
+  const questions = body.questions.map((q) => {
+    if (!Array.isArray(q) || q.length !== 2) throw invalid();
+    return [contentId(q[0]), contentId(q[1])];
+  });
+  if (new Set(questions.map((q) => q[1])).size !== questions.length) throw invalid();
+  const result = await env.DB.prepare(
+    `INSERT INTO tests (school_id, class_id, created_by, kind, title, lessons, questions, minutes, opens_at, closes_at, created_at)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+  ).bind(
+    user.school_id, classRow.id, user.id, body.kind, text(body.title, 80), JSON.stringify(lessons), JSON.stringify(questions),
+    int(body.minutes, 1, 180), now(), endOfIndianDay(body.lastDate), now(),
+  ).run();
+  return json({ id: result.meta.last_row_id }, 201);
+});
+
+async function testForUser(env, user, testId) {
+  const row = await env.DB.prepare("SELECT * FROM tests WHERE id = ? AND school_id = ?").bind(testId, user.school_id).first();
+  if (!row) throw notFound();
+  await classForUser(env, user, row.class_id);
+  if (!VISIBILITY[user.role].tests) throw forbidden();
+  return row;
+}
+
+route("GET", "/api/tests/:id", async ({ request, env, params }) => {
+  const user = await requireUser(request, env, "headmaster", "teacher");
+  const test = await testForUser(env, user, params.id);
+  const [classRow, students, results] = await Promise.all([
+    env.DB.prepare("SELECT grade, section FROM classes WHERE id = ?").bind(test.class_id).first(),
+    env.DB.prepare("SELECT id, name, device_token_hash IS NOT NULL AS linked FROM students WHERE class_id = ? ORDER BY name COLLATE NOCASE").bind(test.class_id).all(),
+    env.DB.prepare("SELECT student_id, score, total, seconds, answers, submitted_at FROM test_results WHERE test_id = ?").bind(test.id).all(),
+  ]);
+  const questions = JSON.parse(test.questions);
+  // How many children got each question right, to show what the class should practise again.
+  const right = new Map(questions.map((q) => [q[1], 0]));
+  for (const r of results.results) {
+    for (const a of JSON.parse(r.answers)) if (a.ok && right.has(a.s)) right.set(a.s, right.get(a.s) + 1);
+  }
+  const byStudent = new Map(results.results.map((r) => [r.student_id, r]));
+  return json({
+    test: {
+      id: test.id, classId: test.class_id, grade: classRow.grade, section: classRow.section, kind: test.kind, title: test.title,
+      minutes: test.minutes, opensAt: test.opens_at, closesAt: test.closes_at, lessons: JSON.parse(test.lessons), questions,
+    },
+    students: students.results.map((s) => {
+      const r = byStudent.get(s.id);
+      return { id: s.id, name: s.name, linked: Boolean(s.linked), result: r ? { score: r.score, total: r.total, seconds: r.seconds, submittedAt: r.submitted_at } : null };
+    }),
+    perQuestion: questions.map((q) => ({ lesson: q[0], step: q[1], right: right.get(q[1]), answered: results.results.length })),
+  });
+});
+
+// One child's answers to one test: what they answered beside the right answer.
+route("GET", "/api/tests/:id/students/:sid", async ({ request, env, params }) => {
+  const user = await requireUser(request, env, "headmaster", "teacher");
+  const test = await testForUser(env, user, params.id);
+  const student = await studentForUser(env, user, params.sid);
+  const result = await env.DB.prepare("SELECT score, total, seconds, answers, submitted_at FROM test_results WHERE test_id = ? AND student_id = ?").bind(test.id, student.id).first();
+  if (!result) throw notFound();
+  return json({
+    student: { id: student.id, name: student.name },
+    test: { id: test.id, kind: test.kind, title: test.title, questions: JSON.parse(test.questions) },
+    result: { score: result.score, total: result.total, seconds: result.seconds, submittedAt: result.submitted_at, answers: JSON.parse(result.answers) },
+  });
+});
+
+route("DELETE", "/api/tests/:id", async ({ request, env, params }) => {
+  const user = await requireUser(request, env, "headmaster", "teacher");
+  const test = await testForUser(env, user, params.id);
+  await env.DB.batch([
+    env.DB.prepare("DELETE FROM test_results WHERE test_id = ?").bind(test.id),
+    env.DB.prepare("DELETE FROM tests WHERE id = ?").bind(test.id),
+  ]);
+  return json({ ok: true });
+});
+
 // ---------- The app on a parent's phone ----------
 
 route("POST", "/api/device/join", async ({ request, env }) => {
@@ -670,7 +851,7 @@ route("POST", "/api/device/join", async ({ request, env }) => {
 async function deviceStudent(request, env) {
   const header = request.headers.get("authorization") ?? "";
   if (!header.startsWith("Bearer ")) throw new HttpError(401, "device_required");
-  const student = await env.DB.prepare("SELECT id FROM students WHERE device_token_hash = ?").bind(await sha256(header.slice(7))).first();
+  const student = await env.DB.prepare("SELECT id, class_id, consent_version FROM students WHERE device_token_hash = ?").bind(await sha256(header.slice(7))).first();
   if (!student) throw new HttpError(401, "device_not_linked");
   return student;
 }
@@ -705,6 +886,18 @@ route("POST", "/api/device/sync", async ({ request, env }) => {
         .bind(student.id, int(d.day, latest - 30, latest), int(d.minutes, 0, 1440)),
     );
   }
+  // Textbook chapters: only from phones whose parent agreed to share them (consent v4).
+  if (body.chapters != null && student.consent_version === TESTS_CONSENT) {
+    if (!Array.isArray(body.chapters) || body.chapters.length > 40) throw invalid();
+    for (const c of body.chapters) {
+      statements.push(
+        env.DB.prepare(
+          `INSERT INTO student_chapters (student_id, chapter, sections_done, sections_total, stars, test_stars) VALUES (?1, ?2, ?3, ?4, ?5, ?6)
+           ON CONFLICT (student_id, chapter) DO UPDATE SET sections_done = ?3, sections_total = ?4, stars = ?5, test_stars = ?6`,
+        ).bind(student.id, contentId(c.chapter), int(c.done, 0, 100), int(c.total, 1, 100), int(c.stars, 0, 1000), c.testStars == null ? null : int(c.testStars, 0, 3)),
+      );
+    }
+  }
   for (const k of body.skills) {
     if (typeof k.mastery !== "number" || k.mastery < 0 || k.mastery > 1) throw invalid();
     statements.push(
@@ -724,6 +917,59 @@ route("POST", "/api/device/unlink", async ({ request, env }) => {
     ...clearProgress(env, student.id),
   ]);
   return json({ ok: true });
+});
+
+// A parent agreeing to a newer consent text (e.g. to start getting school tests).
+route("POST", "/api/device/consent", async ({ request, env }) => {
+  const student = await deviceStudent(request, env);
+  const body = await readBody(request);
+  if (body.consent !== true || body.consentVersion !== TESTS_CONSENT) throw invalid("consent_required");
+  await env.DB.prepare("UPDATE students SET consent_at = ?, consent_version = ? WHERE id = ?").bind(now(), TESTS_CONSENT, student.id).run();
+  return json({ ok: true });
+});
+
+// The tests set for this child's class: open ones, and ones closed in the last week.
+route("GET", "/api/device/tests", async ({ request, env }) => {
+  const student = await deviceStudent(request, env);
+  if (student.consent_version !== TESTS_CONSENT) return json({ needsConsent: true, now: now(), tests: [] });
+  const [tests, done] = await Promise.all([
+    env.DB.prepare(
+      `SELECT id, kind, title, questions, minutes, opens_at, closes_at FROM tests
+       WHERE class_id = ? AND opens_at <= ? AND closes_at > ? ORDER BY created_at DESC LIMIT 30`,
+    ).bind(student.class_id, now(), now() - 7 * DAY_MS).all(),
+    env.DB.prepare("SELECT test_id FROM test_results WHERE student_id = ?").bind(student.id).all(),
+  ]);
+  const taken = new Set(done.results.map((r) => r.test_id));
+  return json({
+    needsConsent: false,
+    now: now(),
+    tests: tests.results.map((t) => ({
+      id: t.id, kind: t.kind, title: t.title, minutes: t.minutes, opensAt: t.opens_at, closesAt: t.closes_at,
+      questions: JSON.parse(t.questions), done: taken.has(t.id),
+    })),
+  });
+});
+
+route("POST", "/api/device/tests/:id/result", async ({ request, env, params }) => {
+  const student = await deviceStudent(request, env);
+  if (student.consent_version !== TESTS_CONSENT) throw new HttpError(403, "consent_required");
+  const test = await env.DB.prepare("SELECT id, questions, closes_at FROM tests WHERE id = ? AND class_id = ?").bind(params.id, student.class_id).first();
+  if (!test) throw notFound();
+  if (now() > test.closes_at + LATE_RESULT_MS) throw new HttpError(409, "test_closed");
+  const body = await readBody(request);
+  const questions = JSON.parse(test.questions);
+  if (!Array.isArray(body.answers) || body.answers.length !== questions.length) throw invalid();
+  const answers = body.answers.map((a, i) => {
+    if (!a || a.s !== questions[i][1] || typeof a.ok !== "boolean") throw invalid();
+    const given = a.given == null ? "" : String(a.given).slice(0, 200);
+    return { s: a.s, ok: a.ok ? 1 : 0, given };
+  });
+  const score = answers.filter((a) => a.ok).length;
+  // The first result counts; a phone sending the same test again changes nothing.
+  const result = await env.DB.prepare(
+    `INSERT OR IGNORE INTO test_results (test_id, student_id, score, total, seconds, answers, submitted_at) VALUES (?, ?, ?, ?, ?, ?, ?)`,
+  ).bind(test.id, student.id, score, answers.length, int(body.seconds, 0, 4 * 3600), JSON.stringify(answers), now()).run();
+  return json({ ok: true, score, total: answers.length, duplicate: result.meta.changes === 0 });
 });
 
 export async function handle(request, env) {

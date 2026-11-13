@@ -1,0 +1,198 @@
+{
+  "id": "B6.07.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.07.T.S01",
+    "B6.07.T.S02",
+    "B6.07.T.S03",
+    "B6.07.T.S04",
+    "B6.07.T.S05",
+    "B6.07.T.S06",
+    "B6.07.T.S07",
+    "B6.07.T.S08",
+    "B6.07.T.S09",
+    "B6.07.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.07.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "How many girls are taking part in the race?",
+      "questionMeaning": {
+        "hi": "दौड़ में कितनी लड़कियाँ हैं?",
+        "hinglish": "Daud mein kitni ladkiyaan hain?"
+      },
+      "options": [
+        "six",
+        "five",
+        "ten"
+      ],
+      "answer": "six"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why do the girls feel that Mina would not win?",
+      "questionMeaning": {
+        "hi": "लड़कियों को क्यों लगता है मीना नहीं जीतेगी?",
+        "hinglish": "Ladkiyon ko kyon lagta hai Mina nahi jeetegi?"
+      },
+      "options": [
+        "Because she is thin and short.",
+        "Because she is ill.",
+        "Because she is new."
+      ],
+      "answer": "Because she is thin and short."
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? The whole crowd cheers Mala.",
+      "questionMeaning": {
+        "hi": "भीड़ माला का हौसला बढ़ाती है।",
+        "hinglish": "Bheed Mala ka hausla badhaati hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.T.S04",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? Neerja looks back and loses her lead.",
+      "questionMeaning": {
+        "hi": "नीरजा पीछे देखकर पिछड़ जाती है।",
+        "hinglish": "Neerja peechhe dekhkar pichhad jaati hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "snnite = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर",
+        "hinglish": "Uljhe akshar"
+      },
+      "options": [
+        "tennis",
+        "tenses",
+        "sitting"
+      ],
+      "answer": "tennis"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Ravi says, \"I want to be a teacher.\" =",
+      "questionMeaning": {
+        "hi": "बराबर वाक्य",
+        "hinglish": "Baraabar vaakya"
+      },
+      "options": [
+        "Ravi says that he wants to be a teacher.",
+        "Ravi says that I want to be a teacher.",
+        "Ravi says he want be teacher."
+      ],
+      "answer": "Ravi says that he wants to be a teacher."
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Meena: \"I go to school at 11 o'clock.\" =",
+      "questionMeaning": {
+        "hi": "बराबर वाक्य",
+        "hinglish": "Baraabar vaakya"
+      },
+      "options": [
+        "Meena says that she goes to school at 11 o'clock.",
+        "Meena says that I go to school.",
+        "Meena says she go to school."
+      ],
+      "answer": "Meena says that she goes to school at 11 o'clock."
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.T.S08",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "In which game do you use a stick?",
+      "questionMeaning": {
+        "hi": "किस खेल में स्टिक लगती है?",
+        "hinglish": "Kis khel mein stick lagti hai?"
+      },
+      "options": [
+        "hockey",
+        "chess",
+        "carrom"
+      ],
+      "answer": "hockey"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.T.S09",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "‘Mona is trailing behind’ means Mona is ...",
+      "questionMeaning": {
+        "hi": "‘Mona is trailing behind’ का मतलब?",
+        "hinglish": "‘Mona is trailing behind’ ka matlab?"
+      },
+      "options": [
+        "behind the others",
+        "leading the race",
+        "clapping"
+      ],
+      "answer": "behind the others"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.T.S10",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "What should a picnic message tell?",
+      "questionMeaning": {
+        "hi": "पिकनिक संदेश में क्या बताना चाहिए?",
+        "hinglish": "Picnic sandesh mein kya bataana chahiye?"
+      },
+      "options": [
+        "the place, date, fee, meeting point and things to bring",
+        "only your name",
+        "a story"
+      ],
+      "answer": "the place, date, fee, meeting point and things to bring"
+    }
+  ]
+}

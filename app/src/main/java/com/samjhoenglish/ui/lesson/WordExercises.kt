@@ -151,6 +151,7 @@ private fun highlight(sentence: String, word: String): AnnotatedString = buildAn
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
 internal fun SpellWordStep(step: SpellWord, feedback: Feedback, onAnswer: OnAnswer) {
+    val logAnswer = LocalAnswerLog.current
     val speaker = LocalSpeaker.current
     val language = LocalAppLanguage.current
     val target = step.word.english.lowercase()
@@ -165,6 +166,7 @@ internal fun SpellWordStep(step: SpellWord, feedback: Feedback, onAnswer: OnAnsw
 
     fun check(answer: String) {
         if (feedback.isDone || answer.isBlank()) return
+        logAnswer(answer.trim())
         if (answer.trim().lowercase() == target) onAnswer(true, null) else {
             onAnswer(false, null)
             placed = emptyList()

@@ -1,0 +1,193 @@
+{
+  "id": "B8.02.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.3.S02",
+    "B8.02.3.S03",
+    "B8.02.3.S04",
+    "B8.02.3.S05",
+    "B8.02.3.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "‘flora and fauna’ जैसे शब्द हमेशा जोड़ी में आते हैं। इन्हें binomials कहते हैं: law and order (क़ानून-व्यवस्था)।",
+        "hinglish": "‘flora and fauna’ jaise shabd hamesha jodi mein aate hain. Inhe binomials kehte hain: law and order (kaanoon-vyavastha).",
+        "en": "Words like ‘flora and fauna’ always come in pairs. They are called binomials: law and order."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.02.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "जोड़ी पूरी करो",
+        "hinglish": "Jodi poori karo",
+        "en": "Complete the pairs"
+      },
+      "pairs": [
+        {
+          "left": "law and",
+          "right": "order",
+          "meaning": {
+            "hi": "क़ानून-व्यवस्था",
+            "hinglish": "kaanoon-vyavastha"
+          }
+        },
+        {
+          "left": "bread and",
+          "right": "butter",
+          "meaning": {
+            "hi": "रोटी-मक्खन",
+            "hinglish": "roti-makkhan"
+          }
+        },
+        {
+          "left": "on and",
+          "right": "off",
+          "meaning": {
+            "hi": "कभी-कभी",
+            "hinglish": "kabhi-kabhi"
+          }
+        },
+        {
+          "left": "up and",
+          "right": "down",
+          "meaning": {
+            "hi": "ऊपर-नीचे",
+            "hinglish": "upar-neeche"
+          }
+        },
+        {
+          "left": "salt and",
+          "right": "pepper",
+          "meaning": {
+            "hi": "नमक-मिर्च",
+            "hinglish": "namak-mirch"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.02.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "जोड़ी पूरी करो",
+        "hinglish": "Jodi poori karo",
+        "en": "Complete the pairs"
+      },
+      "pairs": [
+        {
+          "left": "now and",
+          "right": "then",
+          "meaning": {
+            "hi": "कभी-कभार",
+            "hinglish": "kabhi-kabhaar"
+          }
+        },
+        {
+          "left": "black and",
+          "right": "white",
+          "meaning": {
+            "hi": "काला-सफ़ेद",
+            "hinglish": "kaala-safed"
+          }
+        },
+        {
+          "left": "health and",
+          "right": "hygiene",
+          "meaning": {
+            "hi": "सेहत और सफ़ाई",
+            "hinglish": "sehat aur safaai"
+          }
+        },
+        {
+          "left": "time and",
+          "right": "tide",
+          "meaning": {
+            "hi": "समय और ज्वार",
+            "hinglish": "samay aur jwaar"
+          }
+        },
+        {
+          "left": "forks and",
+          "right": "knives",
+          "meaning": {
+            "hi": "काँटे और छुरियाँ",
+            "hinglish": "kaante aur chhuriyaan"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.02.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Time and ___ wait for none.",
+      "answer": "tide",
+      "options": [
+        "tide",
+        "order",
+        "pepper"
+      ],
+      "meaning": {
+        "hi": "समय और ज्वार किसी का इंतज़ार नहीं करते।",
+        "hinglish": "Samay aur jwaar kisi ka intezaar nahi karte."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.02.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The police keep law and ___ in the city.",
+      "answer": "order",
+      "options": [
+        "order",
+        "tide",
+        "white"
+      ],
+      "meaning": {
+        "hi": "पुलिस शहर में क़ानून-व्यवस्था बनाए रखती है।",
+        "hinglish": "Police shahar mein kaanoon-vyavastha banaaye rakhti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.02.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "I visit my grandparents now and ___.",
+      "answer": "then",
+      "options": [
+        "then",
+        "off",
+        "down"
+      ],
+      "meaning": {
+        "hi": "मैं कभी-कभार दादा-दादी से मिलने जाता हूँ।",
+        "hinglish": "Main kabhi-kabhaar daada-daadi se milne jaata hoon."
+      }
+    }
+  ]
+}

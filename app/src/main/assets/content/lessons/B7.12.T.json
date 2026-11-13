@@ -1,0 +1,200 @@
+{
+  "id": "B7.12.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.12.T.S01",
+    "B7.12.T.S02",
+    "B7.12.T.S03",
+    "B7.12.T.S04",
+    "B7.12.T.S05",
+    "B7.12.T.S06",
+    "B7.12.T.S07",
+    "B7.12.T.S08",
+    "B7.12.T.S09",
+    "B7.12.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.12.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who is a chatterbox?",
+      "questionMeaning": {
+        "hi": "बातूनी कौन है?",
+        "hinglish": "Baatooni kaun hai?"
+      },
+      "options": [
+        "Bishni",
+        "Krishan",
+        "Lambu"
+      ],
+      "answer": "Bishni"
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why is Krishan called the wise?",
+      "questionMeaning": {
+        "hi": "कृष्ण को समझदार क्यों कहते हैं?",
+        "hinglish": "Krishan ko samajhdaar kyon kehte hain?"
+      },
+      "options": [
+        "He helps everyone find a solution to their problems.",
+        "He is the tallest.",
+        "He wears khaki."
+      ],
+      "answer": "He helps everyone find a solution to their problems."
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What do they do to inform their parents?",
+      "questionMeaning": {
+        "hi": "माता-पिता को ख़बर कैसे देते हैं?",
+        "hinglish": "Maata-pita ko khabar kaise dete hain?"
+      },
+      "options": [
+        "They call the postman chacha on the telephone.",
+        "They send Sheru home.",
+        "They write a letter."
+      ],
+      "answer": "They call the postman chacha on the telephone."
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.12.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "My two wheeler ___ when I was going home.",
+      "answer": "broke down",
+      "options": [
+        "broke down",
+        "three piece",
+        "board a bus"
+      ],
+      "meaning": {
+        "hi": "घर जाते समय मेरी गाड़ी ख़राब हो गई।",
+        "hinglish": "Ghar jaate samay meri gaadi kharaab ho gayi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "‘hare’ means ...",
+      "questionMeaning": {
+        "hi": "‘hare’ का मतलब?",
+        "hinglish": "‘hare’ ka matlab?"
+      },
+      "options": [
+        "rabbit",
+        "it grows on our head",
+        "an aircraft"
+      ],
+      "answer": "rabbit"
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "‘quite’ means ...",
+      "questionMeaning": {
+        "hi": "‘quite’ का मतलब?",
+        "hinglish": "‘quite’ ka matlab?"
+      },
+      "options": [
+        "completely",
+        "no noise",
+        "simple"
+      ],
+      "answer": "completely"
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "question": "Join: The teacher punished the boy. He was making a noise.",
+      "questionMeaning": {
+        "hi": "जोड़ो",
+        "hinglish": "Jodo"
+      },
+      "options": [
+        "The teacher punished the boy who was making a noise.",
+        "The teacher punished the boy which was making a noise.",
+        "The teacher punished the boy where was making a noise."
+      ],
+      "answer": "The teacher punished the boy who was making a noise."
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "question": "Tea is too hot to drink. =",
+      "questionMeaning": {
+        "hi": "बराबर वाक्य",
+        "hinglish": "Baraabar vaakya"
+      },
+      "options": [
+        "Tea is so hot that it cannot be drunk.",
+        "Tea is so hot that it can be drunk.",
+        "Tea is very hot to drink it."
+      ],
+      "answer": "Tea is so hot that it cannot be drunk."
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.T.S09",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Which one is a quality, not a dress?",
+      "questionMeaning": {
+        "hi": "कौन सा गुण है, कपड़ा नहीं?",
+        "hinglish": "Kaun sa gun hai, kapda nahi?"
+      },
+      "options": [
+        "honest",
+        "lungi",
+        "skirt"
+      ],
+      "answer": "honest"
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.T.S10",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Ramlal: ‘Are you all safe?’ Krishan: ...",
+      "questionMeaning": {
+        "hi": "कृष्ण क्या जवाब देता है?",
+        "hinglish": "Krishan kya jawab deta hai?"
+      },
+      "options": [
+        "Yes, of course, chacha.",
+        "Because the bus broke down.",
+        "We are at the fair."
+      ],
+      "answer": "Yes, of course, chacha."
+    }
+  ]
+}

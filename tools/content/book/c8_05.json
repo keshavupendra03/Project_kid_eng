@@ -1,0 +1,200 @@
+{
+  "grade": 8, "number": 5, "emoji": "💰", "title": "The Miser and his Gold", "pages": "34–42",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["कविता पढ़ो", "Kavita padho", "Read the poem"], "book": false,
+      "skills": ["book.words", "read.passage"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 34 पर कविता ‘The Miser and his Gold’ पढ़ो। एक कंजूस अपना सोना गड्ढे में छिपाकर रोज़ बस देखने आता है। एक दिन चोर सोना ले जाता है, तो पड़ोसी कहते हैं: अब रोज़ आकर गड्ढा देखते रहो! पहले ये शब्द सीख लो।", "Apni kitaab mein page 34 par kavita ‘The Miser and his Gold’ padho. Ek kanjoos apna sona gaddhe mein chhipaakar roz bas dekhne aata hai. Ek din chor sona le jaata hai, to padosi kehte hain: ab roz aakar gaddha dekhte raho! Pehle yeh shabd seekh lo.", "Read the poem ‘The Miser and his Gold’ on page 34 of your book. A miser hides his gold in a hole and comes every day just to look at it. One day a robber takes it, and the neighbours say: now come every day and look at the hole! First learn these words."]},
+        {"word": ["miser", "कंजूस", "kanjoos", "a person who hates to spend money", "The miser never bought anything.", "कंजूस ने कभी कुछ नहीं ख़रीदा।", "Kanjoos ne kabhi kuchh nahi khareeda."]},
+        {"word": ["treasure", "ख़ज़ाना", "khazaana", "a collection of valuable things", "He hid his treasure in a hole.", "उसने अपना ख़ज़ाना गड्ढे में छिपाया।", "Usne apna khazaana gaddhe mein chhipaaya."]},
+        {"word": ["knelt", "घुटनों के बल बैठा", "ghutnon ke bal baitha", "went down on the knees", "He knelt by the hole.", "वह गड्ढे के पास घुटनों के बल बैठा।", "Woh gaddhe ke paas ghutnon ke bal baitha."]},
+        {"word": ["clatter", "शोर-शराबा", "shor-sharaaba", "a loud noise", "He made a terrible clatter.", "उसने बहुत शोर मचाया।", "Usne bahut shor machaaya."]},
+        {"book": true, "q": ["Think of a popular saying about a miser.", "कंजूस पर कोई कहावत सोचो।", "Kanjoos par koi kahaavat socho.", ["चमड़ी जाए पर दमड़ी न जाए", "जल ही जीवन है"], "चमड़ी जाए पर दमड़ी न जाए", "In Hindi: ‘Chamdi jaaye par damdi na jaaye’ (he would lose his skin but not a penny). In English: ‘He would skin a flea for its hide.’", "हिंदी में: ‘चमड़ी जाए पर दमड़ी न जाए’। अंग्रेज़ी में: ‘He would skin a flea for its hide.’", "Hindi mein: ‘Chamdi jaaye par damdi na jaaye’. English mein: ‘He would skin a flea for its hide.’"]}
+      ]
+    },
+    {
+      "emoji": "👂", "title": ["पढ़ो और सीखो: तुकबंदी", "Padho aur seekho: tukbandi", "Read and Learn: rhyming words"], "book": true,
+      "skills": ["book.words"],
+      "steps": [
+        {"card": ["किताब की सूची: हर परिवार के शब्द एक जैसी आवाज़ पर ख़त्म होते हैं: hole, role, sole।", "Kitaab ki soochi: har parivaar ke shabd ek jaisi awaaz par khatm hote hain: hole, role, sole.", "The book's list: each family of words ends with the same sound: hole, role, sole."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["एक जैसी आवाज़ वाले शब्द साथ रखो", "Ek jaisi awaaz waale shabd saath rakho", "Put the rhyming words together"],
+          "groups": [
+            {"id": "ole", "name": "-ole", "emoji": "🕳️", "meaning": ["hole जैसे", "hole jaise"]},
+            {"id": "easure", "name": "-easure", "emoji": "💎", "meaning": ["treasure जैसे", "treasure jaise"]},
+            {"id": "old", "name": "-old", "emoji": "🪙", "meaning": ["gold जैसे", "gold jaise"]},
+            {"id": "atter", "name": "-atter", "emoji": "🔔", "meaning": ["clatter जैसे", "clatter jaise"]}
+          ],
+          "items": [
+            {"text": "hole", "emoji": "🕳️", "groups": ["ole"]},
+            {"text": "role", "emoji": "🎭", "groups": ["ole"]},
+            {"text": "sole", "emoji": "👟", "groups": ["ole"]},
+            {"text": "treasure", "emoji": "💎", "groups": ["easure"]},
+            {"text": "pleasure", "emoji": "😊", "groups": ["easure"]},
+            {"text": "measure", "emoji": "📏", "groups": ["easure"]},
+            {"text": "gold", "emoji": "🪙", "groups": ["old"]},
+            {"text": "bold", "emoji": "💪", "groups": ["old"]},
+            {"text": "hold", "emoji": "✋", "groups": ["old"]},
+            {"text": "clatter", "emoji": "🔔", "groups": ["atter"]},
+            {"text": "matter", "emoji": "❓", "groups": ["atter"]},
+            {"text": "batter", "emoji": "🏏", "groups": ["atter"]}
+          ]},
+        {"sayw": ["treasure", "ख़ज़ाना", "khazaana"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: मतलब और उल्टे शब्द", "Shabd Shakti: matlab aur ulte shabd", "Word Power: meanings and antonyms"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["(A) हर शब्द के दो मतलब दिए हैं। सही वाला चुनो।", "(A) Har shabd ke do matlab diye hain. Sahi waala chuno.", "(A) Two meanings are given for each word. Choose the correct one."]},
+        {"book": true, "q": ["pleasure", "सही मतलब चुनो", "Sahi matlab chuno", ["feeling of happiness", "long walk"], "feeling of happiness"]},
+        {"book": true, "q": ["terrible", "सही मतलब चुनो", "Sahi matlab chuno", ["very unpleasant", "glorious"], "very unpleasant"]},
+        {"book": true, "q": ["treasure", "सही मतलब चुनो", "Sahi matlab chuno", ["collection of valuable things", "refreshing"], "collection of valuable things"]},
+        {"book": true, "q": ["miser", "सही मतलब चुनो", "Sahi matlab chuno", ["one who hates to spend money", "driver"], "one who hates to spend money"]},
+        {"book": true, "q": ["chanced", "सही मतलब चुनो", "Sahi matlab chuno", ["happened", "shopping"], "happened"]},
+        {"book": true, "q": ["robber", "सही मतलब चुनो", "Sahi matlab chuno", ["one who steals", "an animal"], "one who steals"]},
+        {"card": ["(B) एक ही शब्द के अलग जगह अलग उल्टे होते हैं: hard luck → good luck, पर hard sum → easy sum।", "(B) Ek hi shabd ke alag jagah alag ulte hote hain: hard luck → good luck, par hard sum → easy sum.", "(B) One word can have different opposites in different places: hard luck → good luck, but hard sum → easy sum."]},
+        {"book": true, "pairs": ["सही उल्टा शब्द जोड़ो", "Sahi ulta shabd jodo", "Join with the right antonym", [
+          ["hard luck", "good luck", "बुरी क़िस्मत — अच्छी क़िस्मत", "buri kismat — achhi kismat"],
+          ["hard sum", "easy sum", "कठिन सवाल — आसान सवाल", "kathin sawaal — aasaan sawaal"],
+          ["light weight", "heavy weight", "हल्का वज़न — भारी वज़न", "halka vazan — bhaari vazan"],
+          ["light colour", "dark colour", "हल्का रंग — गहरा रंग", "halka rang — gehra rang"]]]},
+        {"book": true, "pairs": ["सही उल्टा शब्द जोड़ो", "Sahi ulta shabd jodo", "Join with the right antonym", [
+          ["fair work", "unfair work", "सही काम — गलत काम", "sahi kaam — galat kaam"],
+          ["fair complexion", "dark complexion", "गोरा रंग — साँवला रंग", "gora rang — saanvla rang"],
+          ["harsh voice", "soft voice", "कड़वी आवाज़ — मीठी आवाज़", "kadvi awaaz — meethi awaaz"],
+          ["harsh punishment", "mild punishment", "कड़ी सज़ा — हल्की सज़ा", "kadi saza — halki saza"]]]}
+      ]
+    },
+    {
+      "emoji": "🤫", "title": ["शब्द शक्ति (C): चुप अक्षर", "Shabd Shakti (C): chup akshar", "Word Power (C): silent letters"], "book": true,
+      "skills": ["book.words", "spell.word"],
+      "steps": [
+        {"card": ["कुछ अक्षर लिखे जाते हैं पर बोले नहीं जाते। कविता में knelt है: k चुप है (नेल्ट)।", "Kuchh akshar likhe jaate hain par bole nahi jaate. Kavita mein knelt hai: k chup hai (nelt).", "Some letters are written but not spoken. The poem has knelt: the k is silent."]},
+        {"book": true, "q": ["Wednesday: which letter is silent?", "कौन सा अक्षर चुप है?", "Kaun sa akshar chup hai?", ["d", "w", "y"], "d", "Wednesday is said ‘Wenz-day’; the first d is silent.", "Wednesday को ‘वेन्ज़डे’ बोलते हैं; पहला d चुप है।", "Wednesday ko ‘Wenz-day’ bolte hain; pehla d chup hai."]},
+        {"book": true, "q": ["sign: which letter is silent?", "कौन सा अक्षर चुप है?", "Kaun sa akshar chup hai?", ["g", "s", "n"], "g"]},
+        {"book": true, "q": ["comb: which letter is silent?", "कौन सा अक्षर चुप है?", "Kaun sa akshar chup hai?", ["b", "c", "m"], "b"]},
+        {"book": true, "q": ["knife: which letter is silent?", "कौन सा अक्षर चुप है?", "Kaun sa akshar chup hai?", ["k", "f", "n"], "k"]},
+        {"book": true, "q": ["walk: which letter is silent?", "कौन सा अक्षर चुप है?", "Kaun sa akshar chup hai?", ["l", "w", "k"], "l"]},
+        {"book": true, "q": ["hour: which letter is silent?", "कौन सा अक्षर चुप है?", "Kaun sa akshar chup hai?", ["h", "r", "u"], "h"]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["किताब: पाँच और शब्द। चुप अक्षर के हिसाब से रखो", "Kitaab: paanch aur shabd. Chup akshar ke hisaab se rakho", "The book: five more words. Sort by the silent letter"],
+          "groups": [
+            {"id": "k", "name": "silent k", "emoji": "🔪", "meaning": ["k चुप", "k chup"]},
+            {"id": "w", "name": "silent w", "emoji": "✍️", "meaning": ["w चुप", "w chup"]},
+            {"id": "b", "name": "silent b", "emoji": "💣", "meaning": ["b चुप", "b chup"]}
+          ],
+          "items": [
+            {"text": "knee", "emoji": "🦵", "groups": ["k"]},
+            {"text": "know", "emoji": "💡", "groups": ["k"]},
+            {"text": "write", "emoji": "✍️", "groups": ["w"]},
+            {"text": "wrong", "emoji": "❌", "groups": ["w"]},
+            {"text": "thumb", "emoji": "👍", "groups": ["b"]},
+            {"text": "climb", "emoji": "🧗", "groups": ["b"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["(A) सही जवाब पर निशान लगाओ।", "(A) Sahi jawab par nishaan lagaao.", "(A) Tick the correct answer."]},
+        {"book": true, "q": ["The poem is about ...", "कविता किस बारे में है?", "Kavita kis baare mein hai?", ["a miser", "a king", "a teacher", "a thief"], "a miser"]},
+        {"book": true, "q": ["The miser came to the hole to see his ...", "कंजूस गड्ढे पर क्या देखने आता था?", "Kanjoos gaddhe par kya dekhne aata tha?", ["treasure", "hens", "coins", "pots"], "treasure"]},
+        {"book": true, "q": ["The neighbours who came running did not know ...", "पड़ोसियों को क्या नहीं पता था?", "Padosiyon ko kya nahi pata tha?", ["why the miser was shouting", "who the miser was", "what the miser was doing"], "why the miser was shouting"]},
+        {"card": ["(B) सवालों के जवाब दो।", "(B) Sawaalon ke jawab do.", "(B) Answer the questions."]},
+        {"book": true, "q": ["What was the only pleasure of the miser?", "कंजूस की इकलौती ख़ुशी क्या थी?", "Kanjoos ki iklauti khushi kya thi?", ["to come every day and see his treasure", "to spend money", "to help his neighbours"], "to come every day and see his treasure", "The only pleasure of the miser was to come every day to see his treasure in the hole.", "कंजूस की इकलौती ख़ुशी थी रोज़ आकर गड्ढे में अपना ख़ज़ाना देखना।", "Kanjoos ki iklauti khushi thi roz aakar gaddhe mein apna khazaana dekhna."]},
+        {"book": true, "q": ["What did the robber do with the gold?", "चोर ने सोने का क्या किया?", "Chor ne sone ka kya kiya?", ["He came back the same night and took it away.", "He gave it to the king.", "He put more gold in it."], "He came back the same night and took it away.", "The robber came back the very same night and took away the gold.", "चोर उसी रात वापस आया और सोना ले गया।", "Chor usi raat waapas aaya aur sona le gaya."]},
+        {"book": true, "q": ["Why did the miser make a terrible clatter?", "कंजूस ने इतना शोर क्यों मचाया?", "Kanjoos ne itna shor kyon machaaya?", ["because his treasure was gone", "because he was happy", "because he saw a snake"], "because his treasure was gone", "The miser made a terrible clatter because he found that his treasure was gone.", "कंजूस ने बहुत शोर मचाया क्योंकि उसका ख़ज़ाना गायब था।", "Kanjoos ne bahut shor machaaya kyonki uska khazaana gaayab tha."]},
+        {"book": true, "q": ["What did the neighbours ask the miser?", "पड़ोसियों ने कंजूस से क्या पूछा?", "Padosiyon ne kanjoos se kya poochha?", ["What did you do with the gold before it was gone?", "Where is the robber?", "Can you lend us money?"], "What did you do with the gold before it was gone?", "The neighbours asked him what he did with the gold before it was gone.", "पड़ोसियों ने पूछा कि सोना जाने से पहले तुम उसका क्या करते थे।", "Padosiyon ne poochha ki sona jaane se pehle tum uska kya karte the."]},
+        {"book": true, "q": ["What did the miser say in reply?", "कंजूस ने क्या जवाब दिया?", "Kanjoos ne kya jawab diya?", ["He came every day to see it.", "He spent it on food.", "He gave it to the poor."], "He came every day to see it.", "The miser replied that he came every day to see it, and now he did not know what to do.", "कंजूस ने कहा कि वह रोज़ उसे देखने आता था, और अब क्या करे।", "Kanjoos ne kaha ki woh roz use dekhne aata tha, aur ab kya kare."]},
+        {"q": ["Why did the friend say ‘look at the hole instead’?", "दोस्त ने ‘गड्ढा देखते रहो’ क्यों कहा?", "Dost ne ‘gaddha dekhte raho’ kyon kaha?", ["The gold was of no use to the miser anyway.", "The hole was very beautiful.", "The robber would bring the gold back."], "The gold was of no use to the miser anyway."]}
+      ]
+    },
+    {
+      "emoji": "3️⃣", "title": ["चलो पढ़ें और लिखें: ज़िंदगी की तीन बातें", "Chalo padhein aur likhein: zindagi ki teen baatein", "Let's Read and Write: three things in life"], "book": true,
+      "skills": ["book.comprehension", "book.writing"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 37 पर ‘Three things in life’ कविता पढ़ो, फिर पूरा करो।", "Apni kitaab mein page 37 par ‘Three things in life’ kavita padho, phir poora karo.", "Read the poem ‘Three things in life’ on page 37 of your book, then complete."]},
+        {"book": true, "q": ["Three most valuable things in one's life:", "ज़िंदगी की तीन सबसे क़ीमती चीज़ें", "Zindagi ki teen sabse keemti cheezein", ["love, self-confidence and friends", "wine, pride and anger", "time, words and opportunity"], "love, self-confidence and friends"]},
+        {"book": true, "q": ["Three things that can destroy one's future:", "तीन चीज़ें जो भविष्य बर्बाद कर सकती हैं", "Teen cheezein jo bhavishya barbaad kar sakti hain", ["wine, pride and anger", "peace, hope and honesty", "love, self-confidence and friends"], "wine, pride and anger"]},
+        {"book": true, "q": ["Three things that can make one's life:", "तीन चीज़ें जो ज़िंदगी बनाती हैं", "Teen cheezein jo zindagi banaati hain", ["hard work, sincerity and commitment", "wine, pride and anger", "time, words and opportunity"], "hard work, sincerity and commitment"]},
+        {"q": ["Three things that, once gone, never come back:", "तीन चीज़ें जो एक बार जाकर नहीं लौटतीं", "Teen cheezein jo ek baar jaakar nahi lautatin", ["time, words and opportunity", "peace, hope and honesty", "love, friends and books"], "time, words and opportunity"]},
+        {"card": ["Let's Write: कविता ‘The Miser and his Gold’ का संदेश पूरा करो।", "Let's Write: kavita ‘The Miser and his Gold’ ka sandesh poora karo.", "Let's Write: complete the message of the poem ‘The Miser and his Gold’."]},
+        {"book": true, "build": ["पूरा करो: हमें लालची नहीं होना चाहिए क्योंकि पैसा तभी काम का है जब हम उसका उपयोग करें।", "Poora karo: Humein laalchi nahi hona chahiye kyonki paisa tabhi kaam ka hai jab hum uska upyog karein.", "Complete: We should not be greedy because ... (money is useful only when used)", "Money is useful only when we use it.", "पैसा तभी काम का है जब हम उसका उपयोग करें।", "Paisa tabhi kaam ka hai jab hum uska upyog karein."]},
+        {"book": true, "build": ["पूरा करो: हमें पड़ोसियों की मदद करनी चाहिए क्योंकि वे मुश्किल समय में हमारा साथ देते हैं।", "Poora karo: Humein padosiyon ki madad karni chahiye kyonki woh mushkil samay mein hamara saath dete hain.", "Complete: We should help our neighbours because ...", "They stand by us in times of trouble.", "वे मुश्किल समय में हमारा साथ देते हैं।", "Woh mushkil samay mein hamara saath dete hain."]}
+      ]
+    },
+    {
+      "emoji": "🔁", "title": ["दोहराव 1: शब्द और समझ", "Dohraav 1: shabd aur samajh", "Revision Exercises 1: words and comprehension"], "book": true,
+      "skills": ["book.words", "book.comprehension"],
+      "steps": [
+        {"card": ["किताब के पेज 39-42 पर पाठ 1 से 5 का दोहराव है। यह परीक्षा के लिए बहुत ज़रूरी है!", "Kitaab ke page 39-42 par paath 1 se 5 ka dohraav hai. Yeh pariksha ke liye bahut zaroori hai!", "Pages 39–42 of your book revise Lessons 1 to 5. This is very important for the exam!"]},
+        {"book": true, "pairs": ["उल्टे शब्द जोड़ो", "Ulte shabd jodo", "Join the antonyms", [
+          ["often", "seldom", "अक्सर — कभी-कभार", "aksar — kabhi-kabhaar"],
+          ["win", "lose", "जीतना — हारना", "jeetna — haarna"],
+          ["despair", "hope", "निराशा — उम्मीद", "niraasha — ummeed"],
+          ["end", "beginning", "अंत — शुरुआत", "ant — shuruaat"]]]},
+        {"book": true, "q": ["Which word comes first in a dictionary?", "शब्दकोश में पहले कौन?", "Shabdkosh mein pehle kaun?", ["abundance", "administered", "attraction"], "abundance", "Dictionary order: abundance, administered, attraction, beautiful, ferocious, furnished, perform, pocket.", "शब्दकोश का क्रम ऊपर अंग्रेज़ी में है। ab, ad, at: b, d, t के क्रम से।", "Shabdkosh ka kram upar English mein hai. ab, ad, at: b, d, t ke kram se."]},
+        {"book": true, "q": ["Which comes first: ‘ferocious’ or ‘furnished’?", "पहले कौन?", "Pehle kaun?", ["ferocious", "furnished"], "ferocious"]},
+        {"book": true, "q": ["One who treats patients", "मरीज़ों का इलाज करने वाला", "Mareezon ka ilaaj karne waala", ["doctor", "jeweller", "traveller"], "doctor"]},
+        {"book": true, "q": ["One who sells jewellery", "गहने बेचने वाला", "Gehne bechne waala", ["jeweller", "doctor", "tailor"], "jeweller"]},
+        {"book": true, "fb": ["Have you ___ the new film?", "seen", ["seen", "scene"], "क्या तुमने नई फ़िल्म देखी?", "Kya tumne nayi film dekhi?"]},
+        {"book": true, "fb": ["The last ___ of the play was very sad.", "scene", ["scene", "seen"], "नाटक का आख़िरी दृश्य बहुत दुखद था।", "Naatak ka aakhiri drishya bahut dukhad tha."]},
+        {"book": true, "fb": ["Come ___ and sit with me.", "here", ["here", "hear"], "यहाँ आओ और मेरे साथ बैठो।", "Yahan aao aur mere saath baitho."]},
+        {"book": true, "fb": ["I can ___ the birds singing.", "hear", ["hear", "here"], "मैं पक्षियों का गाना सुन सकता हूँ।", "Main pakshiyon ka gaana sun sakta hoon."]},
+        {"book": true, "fb": ["The ___ rises in the east.", "sun", ["sun", "son"], "सूरज पूरब में उगता है।", "Sooraj poorab mein ugta hai."]},
+        {"book": true, "fb": ["Mr. Sharma's ___ is a doctor.", "son", ["son", "sun"], "शर्मा जी का बेटा डॉक्टर है।", "Sharma ji ka beta doctor hai."]},
+        {"book": true, "q": ["The poem ‘Another Chance’ tells us ...", "कविता हमें क्या सिखाती है?", "Kavita humein kya sikhaati hai?", ["never to give up in despair", "to be sad", "to make money", "to be happy"], "never to give up in despair"]},
+        {"book": true, "q": ["Where is Kanha Kisli?", "कान्हा किसली कहाँ है?", "Kanha Kisli kahan hai?", ["Madhya Pradesh", "Maharashtra", "Bihar", "Uttarakhand"], "Madhya Pradesh"]},
+        {"book": true, "q": ["What happened to the ungrateful jeweller?", "एहसान फ़रामोश सुनार का क्या हुआ?", "Ehsaan faraamosh sunaar ka kya hua?", ["He was ashamed of his act.", "He got jewels.", "He was rewarded."], "He was ashamed of his act.", "In the lesson, the jeweller was very much ashamed of his act. (None of the book's four options says this exactly, so check with your teacher which one they want.)", "पाठ में सुनार अपने काम पर बहुत शर्मिंदा हुआ। (किताब के चारों विकल्पों में यह सीधे नहीं है, टीचर से पूछ लेना।)", "Paath mein sunaar apne kaam par bahut sharminda hua. (Kitaab ke chaaron vikalpon mein yeh seedhe nahi hai, teacher se poochh lena.)"]},
+        {"book": true, "q": ["The ‘Chipko Movement’ started in ...", "चिपको आंदोलन कहाँ शुरू हुआ?", "Chipko aandolan kahan shuru hua?", ["Uttarakhand", "Madhya Pradesh", "Chhattisgarh", "Rajasthan"], "Uttarakhand"]}
+      ]
+    },
+    {
+      "emoji": "🐢", "title": ["दोहराव 1: ग्रामर और पढ़ना", "Dohraav 1: grammar aur padhna", "Revision Exercises 1: grammar and reading"], "book": true,
+      "skills": ["book.grammar", "book.comprehension"],
+      "steps": [
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["When they arrived, the party ___ already. (begin)", "had begun", ["had begun", "had began", "has begun"], "जब वे पहुँचे, पार्टी पहले ही शुरू हो चुकी थी।", "Jab woh pahunche, party pehle hi shuru ho chuki thi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["The bell ___ before we entered the class. (ring)", "had rung", ["had rung", "had rang", "has rung"], "हमारे कक्षा में आने से पहले घंटी बज चुकी थी।", "Hamaare kaksha mein aane se pehle ghanti baj chuki thi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["I went for a walk after I ___ my dinner. (eat)", "had eaten", ["had eaten", "had ate", "have eaten"], "रात का खाना खाने के बाद मैं घूमने गया।", "Raat ka khaana khaane ke baad main ghoomne gaya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["The train ___ when she arrived. (leave)", "had left", ["had left", "has left", "had leave"], "जब वह पहुँची, ट्रेन जा चुकी थी।", "Jab woh pahunchi, train ja chuki thi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["Did you post the letter after you ___ it? (write)", "had written", ["had written", "had wrote", "has written"], "क्या तुमने लिखने के बाद चिट्ठी डाली?", "Kya tumne likhne ke baad chitthi daali?"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["Mona enjoyed the food as soon as she ___ it. (taste)", "had tasted", ["had tasted", "has tasted", "had taste"], "चखते ही मोना को खाना अच्छा लगा।", "Chakhte hi Mona ko khaana achha laga."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["I hurried to see him after I ___ the news. (hear)", "had heard", ["had heard", "had hear", "has heard"], "ख़बर सुनने के बाद मैं जल्दी से उससे मिलने गया।", "Khabar sunne ke baad main jaldi se usse milne gaya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘cargo’ is ...", "‘cargo’ का बहुवचन", "‘cargo’ ka bahuvachan", ["cargoes", "cargo's", "cargoies"], "cargoes", "cargoes (cargos is also used, but cargoes is the usual school answer).", "cargoes (cargos भी चलता है, पर स्कूल में cargoes लिखो)।", "cargoes (cargos bhi chalta hai, par school mein cargoes likho)."]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘glass’ is ...", "‘glass’ का बहुवचन", "‘glass’ ka bahuvachan", ["glasses", "glasss", "glassies"], "glasses"]},
+        {"card": ["कछुए और ख़रगोश की कहानी में a, an, the भरो।", "Kachhue aur khargosh ki kahani mein a, an, the bharo.", "Fill in a, an, the in the story of the tortoise and the hare."]},
+        {"book": true, "skills": ["book.grammar", "grammar.articles"], "fb": ["Once ___ tortoise was walking alone very slowly.", "a", ["a", "an", "the"], "एक बार एक कछुआ अकेला धीरे-धीरे चल रहा था।", "Ek baar ek kachhua akela dheere-dheere chal raha tha."]},
+        {"book": true, "skills": ["book.grammar", "grammar.articles"], "fb": ["He met a hare. ___ hare made fun of him.", "The", ["The", "A", "An"], "उसे एक ख़रगोश मिला। ख़रगोश ने उसका मज़ाक़ उड़ाया।", "Use ek khargosh mila. Khargosh ne uska mazaak udaaya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.articles"], "fb": ["The tortoise said that he could beat him in ___ race.", "a", ["a", "an", "the"], "कछुए ने कहा कि वह उसे दौड़ में हरा सकता है।", "Kachhue ne kaha ki woh use daud mein hara sakta hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.articles"], "fb": ["The hare thought he would take ___ little nap.", "a", ["a", "an", "the"], "ख़रगोश ने सोचा थोड़ी झपकी ले ले।", "Khargosh ne socha thodi jhapki le le."]},
+        {"book": true, "skills": ["book.grammar", "grammar.articles"], "fb": ["When the hare awoke, he ran like ___ tiger.", "a", ["a", "an", "the"], "जागकर ख़रगोश बाघ की तरह भागा।", "Jaagkar khargosh baagh ki tarah bhaaga."]},
+        {"book": true, "skills": ["book.grammar", "grammar.articles"], "fb": ["The tortoise had won ___ race.", "the", ["the", "a", "an"], "कछुआ दौड़ जीत चुका था।", "Kachhua daud jeet chuka tha."]},
+        {"card": ["किताब पेज 41: ‘Pack up your troubles’ गाना और मक्खियों वाला पैराग्राफ़ पढ़ो।", "Kitaab page 41: ‘Pack up your troubles’ gaana aur makkhiyon waala paragraph padho.", "Book page 41: read the song ‘Pack up your troubles’ and the passage about flies."]},
+        {"book": true, "q": ["What should we pack?", "हमें क्या बाँधना चाहिए?", "Humein kya baandhna chahiye?", ["our troubles, in our old kit bag", "our books", "our clothes"], "our troubles, in our old kit bag"]},
+        {"book": true, "q": ["Why should we not worry?", "हमें चिंता क्यों नहीं करनी चाहिए?", "Humein chinta kyon nahi karni chahiye?", ["Worrying is never worthwhile.", "Worrying makes us rich.", "Our parents will worry."], "Worrying is never worthwhile."]},
+        {"book": true, "q": ["What organ do flies use to taste things?", "मक्खियाँ किससे स्वाद लेती हैं?", "Makkhiyaan kisse swaad leti hain?", ["their feet", "their wings", "their eyes"], "their feet"]},
+        {"book": true, "q": ["Where do flies collect germs from?", "मक्खियाँ कीटाणु कहाँ से लाती हैं?", "Makkhiyaan keetaanu kahan se laati hain?", ["rotten food and plants", "clean water", "fresh fruit"], "rotten food and plants"]},
+        {"book": true, "q": ["How do germs get into a man's body?", "कीटाणु आदमी के शरीर में कैसे जाते हैं?", "Keetaanu aadmi ke shareer mein kaise jaate hain?", ["by eating food a fly has pumped its juice on", "by sleeping", "by reading"], "by eating food a fly has pumped its juice on", "If a fly pumps its stomach juice on our food and we eat it, the germs get into our body.", "अगर मक्खी हमारे खाने पर अपने पेट का रस डाले और हम वह खा लें, तो कीटाणु शरीर में चले जाते हैं।", "Agar makkhi hamaare khaane par apne pet ka ras daale aur hum woh kha lein, to keetaanu shareer mein chale jaate hain."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 5 का टेस्ट", "Paath 5 ka test", "Lesson 5 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What was the only pleasure of the miser?", "कंजूस की इकलौती ख़ुशी?", "Kanjoos ki iklauti khushi?", ["to come every day and see his treasure", "to spend money", "to help his neighbours"], "to come every day and see his treasure"]},
+        {"book": true, "q": ["Why did the miser make a terrible clatter?", "शोर क्यों मचाया?", "Shor kyon machaaya?", ["because his treasure was gone", "because he was happy", "because he saw a snake"], "because his treasure was gone"]},
+        {"book": true, "skills": ["book.words"], "q": ["chanced means ...", "मतलब", "Matlab", ["happened", "shopping"], "happened"]},
+        {"book": true, "skills": ["book.words"], "q": ["Opposite of ‘harsh punishment’", "उल्टा", "Ulta", ["mild punishment", "hard punishment", "dark punishment"], "mild punishment"]},
+        {"book": true, "skills": ["book.words"], "q": ["comb: which letter is silent?", "चुप अक्षर", "Chup akshar", ["b", "c", "m"], "b"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘treasure’?", "तुकबंदी", "Tukbandi", ["pleasure", "teacher", "trees"], "pleasure"]},
+        {"book": true, "q": ["Three things that can destroy one's future:", "बर्बाद करने वाली तीन चीज़ें", "Barbaad karne waali teen cheezein", ["wine, pride and anger", "peace, hope and honesty", "love, self-confidence and friends"], "wine, pride and anger"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["The bell ___ before we entered the class.", "had rung", ["had rung", "had rang", "has rung"], "हमारे आने से पहले घंटी बज चुकी थी।", "Hamaare aane se pehle ghanti baj chuki thi."]},
+        {"book": true, "skills": ["book.words"], "fb": ["I can ___ the birds singing.", "hear", ["hear", "here"], "मैं पक्षियों का गाना सुन सकता हूँ।", "Main pakshiyon ka gaana sun sakta hoon."]},
+        {"book": true, "q": ["What organ do flies use to taste things?", "मक्खियाँ किससे स्वाद लेती हैं?", "Makkhiyaan kisse swaad leti hain?", ["their feet", "their wings", "their eyes"], "their feet"]}
+      ]
+    }
+  ]
+}

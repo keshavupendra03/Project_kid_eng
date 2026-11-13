@@ -1,0 +1,150 @@
+{
+  "id": "B8.07.9",
+  "level": 8,
+  "bookSteps": [
+    "B8.07.9.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.07.9.S01",
+      "skills": [
+        "book.writing",
+        "book.talk"
+      ],
+      "text": {
+        "hi": "किताब: कक्षा में घूमकर दोस्तों से ये सवाल पूछो और तालिका भरो। पहले Tinku तुमसे पूछेगा।",
+        "hinglish": "Kitaab: kaksha mein ghoomkar doston se yeh sawaal poochho aur taalika bharo. Pehle Tinku tumse poochhega.",
+        "en": "The book: go round the class, ask these questions and fill in the table. First, Tinku will ask you."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B8.07.9.S02",
+      "skills": [
+        "book.writing",
+        "book.talk"
+      ],
+      "scene": "📋",
+      "turns": [
+        {
+          "id": "had",
+          "tinku": "Have you ever had flu or fever?",
+          "meaning": {
+            "hi": "क्या तुम्हें कभी फ़्लू या बुख़ार हुआ है?",
+            "hinglish": "Kya tumhe kabhi flu ya bukhaar hua hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have.",
+              "meaning": {
+                "hi": "हाँ, हुआ है।",
+                "hinglish": "Haan, hua hai."
+              },
+              "patterns": [
+                "yes i have",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I haven't.",
+              "meaning": {
+                "hi": "नहीं, नहीं हुआ।",
+                "hinglish": "Nahi, nahi hua."
+              },
+              "patterns": [
+                "no i havent",
+                "no i have not",
+                "no *",
+                "no"
+              ],
+              "next": "end"
+            }
+          ]
+        },
+        {
+          "id": "bed",
+          "tinku": "How long were you in bed?",
+          "meaning": {
+            "hi": "तुम कितने दिन बिस्तर पर रहे?",
+            "hinglish": "Tum kitne din bistar par rahe?"
+          },
+          "replies": [
+            {
+              "say": "I was in bed for three days.",
+              "meaning": {
+                "hi": "मैं तीन दिन बिस्तर पर रहा।",
+                "hinglish": "Main teen din bistar par raha."
+              },
+              "patterns": [
+                "i was in bed for *",
+                "for * days",
+                "* days",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "medicine",
+          "tinku": "What medicine was prescribed?",
+          "meaning": {
+            "hi": "कौन सी दवा दी गई?",
+            "hinglish": "Kaun si dava di gayi?"
+          },
+          "replies": [
+            {
+              "say": "Tablets were prescribed.",
+              "meaning": {
+                "hi": "गोलियाँ दी गईं।",
+                "hinglish": "Goliyaan di gayin."
+              },
+              "patterns": [
+                "tablets *",
+                "tablets",
+                "* tablets *"
+              ]
+            },
+            {
+              "say": "An injection was given.",
+              "meaning": {
+                "hi": "इंजेक्शन लगा।",
+                "hinglish": "Injection laga."
+              },
+              "patterns": [
+                "an injection *",
+                "* injection *",
+                "injection"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "care",
+          "tinku": "What precautions were you supposed to take?",
+          "meaning": {
+            "hi": "तुम्हें क्या सावधानियाँ रखनी थीं?",
+            "hinglish": "Tumhe kya saavdhaaniyaan rakhni thin?"
+          },
+          "replies": [
+            {
+              "say": "I was told not to eat spicy food.",
+              "meaning": {
+                "hi": "मुझे तीखा न खाने को कहा गया।",
+                "hinglish": "Mujhe teekha na khaane ko kaha gaya."
+              },
+              "patterns": [
+                "i was told *",
+                "no spicy food",
+                "* spicy *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

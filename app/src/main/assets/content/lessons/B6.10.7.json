@@ -1,0 +1,98 @@
+{
+  "id": "B6.10.7",
+  "level": 6,
+  "bookSteps": [
+    "B6.10.7.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.10.7.S01",
+      "skills": [
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब कहती है: 10 स्वतंत्रता सेनानियों की तस्वीरें इकट्ठा करो। पहले उनके बारे में जानो।",
+        "hinglish": "Kitaab kehti hai: 10 swatantrata senaaniyon ki tasveerein ikattha karo. Pehle unke baare mein jaano.",
+        "en": "The book says: collect pictures of 10 freedom fighters. First, learn about them."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.10.7.S02",
+      "skills": [
+        "book.activity"
+      ],
+      "instruction": {
+        "hi": "स्वतंत्रता सेनानी को उसकी पहचान से जोड़ो",
+        "hinglish": "Swatantrata senaani ko uski pehchaan se jodo",
+        "en": "Join each freedom fighter to what they are known for"
+      },
+      "pairs": [
+        {
+          "left": "Subhash Chandra Bose",
+          "right": "Give me blood, and I will give you freedom!",
+          "meaning": {
+            "hi": "‘तुम मुझे ख़ून दो, मैं तुम्हें आज़ादी दूँगा!’",
+            "hinglish": "‘Tum mujhe khoon do, main tumhe aazaadi doonga!’"
+          }
+        },
+        {
+          "left": "Bhagat Singh",
+          "right": "Inquilab Zindabad!",
+          "meaning": {
+            "hi": "‘इंक़लाब ज़िंदाबाद!’",
+            "hinglish": "‘Inquilab Zindabad!’"
+          }
+        },
+        {
+          "left": "Bal Gangadhar Tilak",
+          "right": "Swaraj is my birthright!",
+          "meaning": {
+            "hi": "‘स्वराज मेरा जन्मसिद्ध अधिकार है!’",
+            "hinglish": "‘Swaraj mera janmsiddh adhikaar hai!’"
+          }
+        },
+        {
+          "left": "Rani Laxmibai",
+          "right": "the brave Queen of Jhansi",
+          "meaning": {
+            "hi": "झाँसी की वीर रानी",
+            "hinglish": "Jhaansi ki veer rani"
+          }
+        },
+        {
+          "left": "Chandrashekhar Azad",
+          "right": "a brave revolutionary born in Madhya Pradesh",
+          "meaning": {
+            "hi": "मध्य प्रदेश में जन्मे वीर क्रांतिकारी",
+            "hinglish": "Madhya Pradesh mein janme veer kraantikaari"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.7.S03",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which army did Netaji Subhash Chandra Bose lead?",
+      "questionMeaning": {
+        "hi": "नेताजी ने कौन सी सेना का नेतृत्व किया?",
+        "hinglish": "Netaji ne kaun si sena ka netritva kiya?"
+      },
+      "options": [
+        "the Azad Hind Fauj (INA)",
+        "the Mughal army",
+        "the Roman army"
+      ],
+      "answer": "the Azad Hind Fauj (INA)",
+      "modelAnswer": "Netaji led the Azad Hind Fauj, the Indian National Army.",
+      "modelMeaning": {
+        "hi": "नेताजी ने आज़ाद हिंद फ़ौज का नेतृत्व किया।",
+        "hinglish": "Netaji ne Azaad Hind Fauj ka netritva kiya."
+      }
+    }
+  ]
+}

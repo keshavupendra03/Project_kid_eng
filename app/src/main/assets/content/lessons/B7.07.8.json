@@ -1,0 +1,124 @@
+{
+  "id": "B7.07.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.07.8.S01",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "बूढ़े आदमी ने सिर्फ़ ध्यान से देखकर सब पता कर लिया। इसे observation (ध्यान से देखना) कहते हैं। अच्छे जासूस और वैज्ञानिक यही करते हैं!",
+        "hinglish": "Boodhe aadmi ne sirf dhyaan se dekhkar sab pata kar liya. Ise observation (dhyaan se dekhna) kehte hain. Achhe jaasoos aur vaigyaanik yahi karte hain!",
+        "en": "The old man found out everything just by looking carefully. This is called observation. Good detectives and scientists do the same!"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.07.8.S02",
+      "skills": [
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "रेगिस्तान के शब्द जोड़ो",
+        "hinglish": "Registaan ke shabd jodo",
+        "en": "Join the desert words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "oasis",
+          "right": "a place in the desert with water and trees",
+          "meaning": {
+            "hi": "नख़लिस्तान (रेगिस्तान में पानी वाली जगह)",
+            "hinglish": "nakhlistaan (registaan mein paani waali jagah)"
+          }
+        },
+        {
+          "left": "sand dune",
+          "right": "a hill of sand",
+          "meaning": {
+            "hi": "रेत का टीला",
+            "hinglish": "ret ka teela"
+          }
+        },
+        {
+          "left": "cactus",
+          "right": "a desert plant with thorns",
+          "meaning": {
+            "hi": "नागफनी",
+            "hinglish": "naagphani"
+          }
+        },
+        {
+          "left": "hump",
+          "right": "the round lump on a camel's back",
+          "meaning": {
+            "hi": "कूबड़",
+            "hinglish": "koobad"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.8.S03",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "You see wet footprints going from the bathroom to the kitchen. What can you say?",
+      "questionMeaning": {
+        "hi": "बाथरूम से रसोई तक गीले पैरों के निशान हैं। क्या पता चलता है?",
+        "hinglish": "Bathroom se rasoi tak geele pairon ke nishaan hain. Kya pata chalta hai?"
+      },
+      "options": [
+        "Someone walked from the bathroom to the kitchen.",
+        "It rained inside.",
+        "Nobody is at home."
+      ],
+      "answer": "Someone walked from the bathroom to the kitchen."
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.8.S04",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "Which Indian state has the Thar desert?",
+      "questionMeaning": {
+        "hi": "थार रेगिस्तान भारत के किस राज्य में है?",
+        "hinglish": "Thar registaan Bharat ke kis rajya mein hai?"
+      },
+      "options": [
+        "Rajasthan",
+        "Kerala",
+        "Assam"
+      ],
+      "answer": "Rajasthan",
+      "modelAnswer": "The Thar desert is in Rajasthan.",
+      "modelMeaning": {
+        "hi": "थार रेगिस्तान राजस्थान में है।",
+        "hinglish": "Thar registaan Rajasthan mein hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.8.S05",
+      "skills": [
+        "vocab.nature"
+      ],
+      "sentence": "A camel can drink up to 100 litres of water in ten ___.",
+      "answer": "minutes",
+      "options": [
+        "minutes",
+        "years",
+        "days"
+      ],
+      "meaning": {
+        "hi": "ऊँट दस मिनट में 100 लीटर तक पानी पी सकता है।",
+        "hinglish": "Oont das minute mein 100 litre tak paani pee sakta hai."
+      }
+    }
+  ]
+}

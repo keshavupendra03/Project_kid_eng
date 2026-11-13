@@ -1,0 +1,196 @@
+{
+  "id": "B7.06.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.06.T.S01",
+    "B7.06.T.S02",
+    "B7.06.T.S03",
+    "B7.06.T.S04",
+    "B7.06.T.S05",
+    "B7.06.T.S06",
+    "B7.06.T.S07",
+    "B7.06.T.S08",
+    "B7.06.T.S09",
+    "B7.06.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.06.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What does the poet say about the cat's coat?",
+      "questionMeaning": {
+        "hi": "बिल्ली के बालों के बारे में कवि क्या कहता है?",
+        "hinglish": "Billi ke baalon ke baare mein kavi kya kehta hai?"
+      },
+      "options": [
+        "Her coat is so warm.",
+        "Her coat is red.",
+        "Her coat is wet."
+      ],
+      "answer": "Her coat is so warm."
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why will the pussy like the child?",
+      "questionMeaning": {
+        "hi": "बिल्ली बच्चे को क्यों पसंद करेगी?",
+        "hinglish": "Billi bachche ko kyon pasand karegi?"
+      },
+      "options": [
+        "because the child is gentle and good",
+        "because the child is tall",
+        "because the child sings"
+      ],
+      "answer": "because the child is gentle and good"
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Where will the pussy sit?",
+      "questionMeaning": {
+        "hi": "बिल्ली कहाँ बैठेगी?",
+        "hinglish": "Billi kahan baithegi?"
+      },
+      "options": [
+        "by the child's side",
+        "on the roof",
+        "in the kitchen"
+      ],
+      "answer": "by the child's side"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "The monkey has a long ___.",
+      "answer": "tail",
+      "options": [
+        "tail",
+        "tale"
+      ],
+      "meaning": {
+        "hi": "बंदर की लंबी पूँछ होती है।",
+        "hinglish": "Bandar ki lambi poonchh hoti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Fishermen go to the ___ every day.",
+      "answer": "sea",
+      "options": [
+        "sea",
+        "see"
+      ],
+      "meaning": {
+        "hi": "मछुआरे हर दिन समुद्र में जाते हैं।",
+        "hinglish": "Machhuaare har din samudra mein jaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word sounds like ‘coat’?",
+      "questionMeaning": {
+        "hi": "कौन सा शब्द ‘coat’ जैसा लगता है?",
+        "hinglish": "Kaun sa shabd ‘coat’ jaisa lagta hai?"
+      },
+      "options": [
+        "boat",
+        "cat",
+        "cut"
+      ],
+      "answer": "boat"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "A cheetah runs ___ of all animals.",
+      "answer": "the fastest",
+      "options": [
+        "the fastest",
+        "faster",
+        "fast"
+      ],
+      "meaning": {
+        "hi": "चीता सब जानवरों में सबसे तेज़ दौड़ता है।",
+        "hinglish": "Cheeta sab jaanwaron mein sabse tez daudta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "This box is as ___ as the other one.",
+      "answer": "big",
+      "options": [
+        "big",
+        "bigger",
+        "biggest"
+      ],
+      "meaning": {
+        "hi": "यह डिब्बा दूसरे जितना बड़ा है।",
+        "hinglish": "Yeh dibba doosre jitna bada hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.T.S09",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "‘It barks.’ Which animal?",
+      "questionMeaning": {
+        "hi": "‘It barks.’ कौन सा जानवर?",
+        "hinglish": "‘It barks.’ Kaun sa jaanwar?"
+      },
+      "options": [
+        "dog",
+        "cat"
+      ],
+      "answer": "dog"
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.T.S10",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "‘We call it mousi.’ Which animal?",
+      "questionMeaning": {
+        "hi": "‘We call it mousi.’ कौन सा जानवर?",
+        "hinglish": "‘We call it mousi.’ Kaun sa jaanwar?"
+      },
+      "options": [
+        "cat",
+        "dog"
+      ],
+      "answer": "cat"
+    }
+  ]
+}

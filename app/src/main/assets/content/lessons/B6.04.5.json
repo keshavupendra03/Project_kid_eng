@@ -1,0 +1,133 @@
+{
+  "id": "B6.04.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.04.5.S01",
+    "B6.04.5.S02",
+    "B6.04.5.S03",
+    "B6.04.5.S04",
+    "B6.04.5.S05"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.04.5.S01",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "When was Mahatma Gandhi born?",
+      "questionMeaning": {
+        "hi": "महात्मा गांधी का जन्म कब हुआ?",
+        "hinglish": "Mahatma Gandhi ka janm kab hua?"
+      },
+      "options": [
+        "on 2nd October 1869",
+        "on 15th August 1947",
+        "on 26th January 1950"
+      ],
+      "answer": "on 2nd October 1869",
+      "modelAnswer": "Mahatma Gandhi was born on 2nd October 1869 at Porbandar in Gujarat.",
+      "modelMeaning": {
+        "hi": "महात्मा गांधी का जन्म 2 अक्टूबर 1869 को गुजरात के पोरबंदर में हुआ।",
+        "hinglish": "Mahatma Gandhi ka janm 2 October 1869 ko Gujarat ke Porbandar mein hua."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.5.S02",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What was his father's name?",
+      "questionMeaning": {
+        "hi": "उनके पिता का नाम क्या था?",
+        "hinglish": "Unke pita ka naam kya tha?"
+      },
+      "options": [
+        "Karamchand Gandhi",
+        "Mohandas Gandhi",
+        "Harishchandra"
+      ],
+      "answer": "Karamchand Gandhi",
+      "modelAnswer": "His father's name was Karamchand Gandhi.",
+      "modelMeaning": {
+        "hi": "उनके पिता का नाम करमचंद गांधी था।",
+        "hinglish": "Unke pita ka naam Karamchand Gandhi tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.5.S03",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What was his mother's name?",
+      "questionMeaning": {
+        "hi": "उनकी माँ का नाम क्या था?",
+        "hinglish": "Unki maa ka naam kya tha?"
+      },
+      "options": [
+        "Putlibai",
+        "Kasturba",
+        "Laxmibai"
+      ],
+      "answer": "Putlibai",
+      "modelAnswer": "His mother's name was Putlibai.",
+      "modelMeaning": {
+        "hi": "उनकी माँ का नाम पुतलीबाई था।",
+        "hinglish": "Unki maa ka naam Putlibai tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.5.S04",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "When did he go to London?",
+      "questionMeaning": {
+        "hi": "वे लंदन कब गए?",
+        "hinglish": "Woh London kab gaye?"
+      },
+      "options": [
+        "in 1888, to study law",
+        "in 1947, for a holiday",
+        "in 1920, to play cricket"
+      ],
+      "answer": "in 1888, to study law",
+      "modelAnswer": "He went to London in 1888 to study law.",
+      "modelMeaning": {
+        "hi": "वे 1888 में क़ानून पढ़ने लंदन गए।",
+        "hinglish": "Woh 1888 mein kaanoon padhne London gaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.5.S05",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "Why did he go to South Africa?",
+      "questionMeaning": {
+        "hi": "वे दक्षिण अफ़्रीका क्यों गए?",
+        "hinglish": "Woh Dakshin Africa kyon gaye?"
+      },
+      "options": [
+        "to work as a lawyer for an Indian company",
+        "to see wild animals",
+        "to study at school"
+      ],
+      "answer": "to work as a lawyer for an Indian company",
+      "modelAnswer": "He went to South Africa in 1893 to work as a lawyer for an Indian company. There he fought against unfair treatment of Indians.",
+      "modelMeaning": {
+        "hi": "वे 1893 में एक भारतीय कंपनी के वकील बनकर दक्षिण अफ़्रीका गए। वहाँ उन्होंने भारतीयों के साथ अन्याय के ख़िलाफ़ लड़ाई लड़ी।",
+        "hinglish": "Woh 1893 mein ek Bhaarateeya company ke vakeel bankar Dakshin Africa gaye. Wahan unhone Bhaarateeyon ke saath anyaay ke khilaaf ladaai ladi."
+      }
+    }
+  ]
+}

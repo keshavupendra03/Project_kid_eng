@@ -1,0 +1,201 @@
+{
+  "id": "B8.11.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.11.T.S01",
+    "B8.11.T.S02",
+    "B8.11.T.S03",
+    "B8.11.T.S04",
+    "B8.11.T.S05",
+    "B8.11.T.S06",
+    "B8.11.T.S07",
+    "B8.11.T.S08",
+    "B8.11.T.S09",
+    "B8.11.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.11.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What is meant by ‘conservation’?",
+      "questionMeaning": {
+        "hi": "संरक्षण का मतलब",
+        "hinglish": "Sanrakshan ka matlab"
+      },
+      "options": [
+        "to save something, like water, energy or soil",
+        "to waste water",
+        "to build cities"
+      ],
+      "answer": "to save something, like water, energy or soil"
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why do villagers migrate to cities?",
+      "questionMeaning": {
+        "hi": "गाँव वाले शहर क्यों जाते हैं?",
+        "hinglish": "Gaanv waale shahar kyon jaate hain?"
+      },
+      "options": [
+        "Without water, crops fail, so they go in search of work.",
+        "To watch films.",
+        "Because cities have rivers."
+      ],
+      "answer": "Without water, crops fail, so they go in search of work."
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "A dam is ...",
+      "questionMeaning": {
+        "hi": "बाँध",
+        "hinglish": "Baandh"
+      },
+      "options": [
+        "a big wall across a river",
+        "a river",
+        "a pond",
+        "a well"
+      ],
+      "answer": "a big wall across a river"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Birds ___ from one place to the other.",
+      "answer": "migrate",
+      "options": [
+        "migrate",
+        "accommodate",
+        "conserve"
+      ],
+      "meaning": {
+        "hi": "पक्षी एक जगह से दूसरी जगह जाते हैं।",
+        "hinglish": "Pakshi ek jagah se doosri jagah jaate hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "There is ___ water in the glass.",
+      "answer": "sufficient",
+      "options": [
+        "sufficient",
+        "ruthless",
+        "conserve"
+      ],
+      "meaning": {
+        "hi": "गिलास में पर्याप्त पानी है।",
+        "hinglish": "Gilaas mein paryaapt paani hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "People ___ a lot about water conservation.",
+      "answer": "spoke",
+      "options": [
+        "spoke",
+        "speaked",
+        "speak"
+      ],
+      "meaning": {
+        "hi": "लोगों ने बहुत बात की।",
+        "hinglish": "Logon ne bahut baat ki."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "I always ___ ahead.",
+      "answer": "thought",
+      "options": [
+        "thought",
+        "thinked",
+        "think"
+      ],
+      "meaning": {
+        "hi": "मैं हमेशा आगे की सोचता था।",
+        "hinglish": "Main hamesha aage ki sochta tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.T.S08",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who wrote the letter to the teacher?",
+      "questionMeaning": {
+        "hi": "पत्र किसने लिखा?",
+        "hinglish": "Patra kisne likha?"
+      },
+      "options": [
+        "Abraham Lincoln",
+        "Mayank",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.T.S09",
+      "skills": [
+        "book.words"
+      ],
+      "question": "The noun of ‘fail’ is ...",
+      "questionMeaning": {
+        "hi": "संज्ञा (noun) रूप",
+        "hinglish": "Sangya (noun) roop"
+      },
+      "options": [
+        "failure",
+        "failment",
+        "failing"
+      ],
+      "answer": "failure"
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Thermal power stations use ...",
+      "questionMeaning": {
+        "hi": "थर्मल बिजलीघर",
+        "hinglish": "Thermal bijlighar"
+      },
+      "options": [
+        "coal",
+        "water",
+        "wind"
+      ],
+      "answer": "coal"
+    }
+  ]
+}

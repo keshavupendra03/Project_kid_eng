@@ -1,0 +1,155 @@
+{
+  "id": "B7.01.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.01.8.S01",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "इंद्रधनुष तब बनता है जब बारिश के बाद धूप निकलती है। सूरज की रोशनी पानी की बूँदों से गुज़रकर सात रंगों में बँट जाती है।",
+        "hinglish": "Indradhanush tab banta hai jab baarish ke baad dhoop nikalti hai. Sooraj ki roshni paani ki boondon se guzarkar saat rangon mein bant jaati hai.",
+        "en": "A rainbow comes when the sun shines after rain. Sunlight passes through raindrops and splits into seven colours."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.01.8.S02",
+      "skills": [
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "मौसम के शब्दों को उनके मतलब से जोड़ो",
+        "hinglish": "Mausam ke shabdon ko unke matlab se jodo",
+        "en": "Join the weather words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "sunny",
+          "right": "full of sunshine",
+          "meaning": {
+            "hi": "धूप वाला",
+            "hinglish": "dhoop waala"
+          }
+        },
+        {
+          "left": "cloudy",
+          "right": "full of clouds",
+          "meaning": {
+            "hi": "बादलों वाला",
+            "hinglish": "baadalon waala"
+          }
+        },
+        {
+          "left": "rainy",
+          "right": "with a lot of rain",
+          "meaning": {
+            "hi": "बारिश वाला",
+            "hinglish": "baarish waala"
+          }
+        },
+        {
+          "left": "windy",
+          "right": "with a lot of wind",
+          "meaning": {
+            "hi": "तेज़ हवा वाला",
+            "hinglish": "tez hawa waala"
+          }
+        },
+        {
+          "left": "stormy",
+          "right": "with strong wind and rain",
+          "meaning": {
+            "hi": "तूफ़ानी",
+            "hinglish": "toofaani"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.01.8.S03",
+      "skills": [
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "मौसमों (seasons) को उनके हिंदी नाम से जोड़ो",
+        "hinglish": "Mausamon (seasons) ko unke Hindi naam se jodo",
+        "en": "Join the seasons to their Hindi names"
+      },
+      "pairs": [
+        {
+          "left": "summer",
+          "right": "गर्मी",
+          "meaning": {
+            "hi": "गर्मी का मौसम",
+            "hinglish": "garmi ka mausam"
+          }
+        },
+        {
+          "left": "winter",
+          "right": "सर्दी",
+          "meaning": {
+            "hi": "सर्दी का मौसम",
+            "hinglish": "sardi ka mausam"
+          }
+        },
+        {
+          "left": "rainy season",
+          "right": "बरसात",
+          "meaning": {
+            "hi": "बारिश का मौसम",
+            "hinglish": "baarish ka mausam"
+          }
+        },
+        {
+          "left": "spring",
+          "right": "बसंत",
+          "meaning": {
+            "hi": "बसंत ऋतु",
+            "hinglish": "basant ritu"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.8.S04",
+      "skills": [
+        "vocab.nature"
+      ],
+      "sentence": "Take an umbrella. The sky is full of dark ___.",
+      "answer": "clouds",
+      "options": [
+        "clouds",
+        "stars",
+        "rainbows"
+      ],
+      "meaning": {
+        "hi": "छाता ले लो। आसमान काले बादलों से भरा है।",
+        "hinglish": "Chhaata le lo. Aasmaan kaale baadalon se bhara hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.8.S05",
+      "skills": [
+        "vocab.nature"
+      ],
+      "sentence": "A rainbow comes when the sun shines after the ___.",
+      "answer": "rain",
+      "options": [
+        "rain",
+        "night",
+        "wind"
+      ],
+      "meaning": {
+        "hi": "इंद्रधनुष तब आता है जब बारिश के बाद धूप निकलती है।",
+        "hinglish": "Indradhanush tab aata hai jab baarish ke baad dhoop nikalti hai."
+      }
+    }
+  ]
+}

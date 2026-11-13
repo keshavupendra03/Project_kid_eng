@@ -1,0 +1,139 @@
+{
+  "id": "B8.04.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.7.S02",
+    "B8.04.7.S03",
+    "B8.04.7.S04",
+    "B8.04.7.S05",
+    "B8.04.7.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.7.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "बीते समय के दो काम हों, तो जो पहले हुआ उसमें had + तीसरा रूप: The train had left before I arrived. (ट्रेन पहले जा चुकी थी, मैं बाद में पहुँचा)",
+        "hinglish": "Beete samay ke do kaam hon, to jo pehle hua usmein had + teesra roop: The train had left before I arrived. (Train pehle ja chuki thi, main baad mein pahuncha)",
+        "en": "When two things happened in the past, use had + 3rd form for the one that happened first: The train had left before I arrived."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.7.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Harry ___ before the doctor came. (die)",
+      "answer": "had died",
+      "options": [
+        "had died",
+        "has died",
+        "died had"
+      ],
+      "meaning": {
+        "hi": "डॉक्टर के आने से पहले हैरी मर चुका था।",
+        "hinglish": "Doctor ke aane se pehle Harry mar chuka tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.7.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "The rain ___ before you arrived. (stop)",
+      "answer": "had stopped",
+      "options": [
+        "had stopped",
+        "has stopped",
+        "had stop"
+      ],
+      "meaning": {
+        "hi": "तुम्हारे आने से पहले बारिश रुक चुकी थी।",
+        "hinglish": "Tumhaare aane se pehle baarish ruk chuki thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.7.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "I ___ the school before the bell rang. (reach)",
+      "answer": "had reached",
+      "options": [
+        "had reached",
+        "have reached",
+        "had reach"
+      ],
+      "meaning": {
+        "hi": "घंटी बजने से पहले मैं स्कूल पहुँच चुका था।",
+        "hinglish": "Ghanti bajne se pehle main school pahunch chuka tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.7.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "There was a storm after the plane ___. (land)",
+      "answer": "had landed",
+      "options": [
+        "had landed",
+        "has landed",
+        "had land"
+      ],
+      "meaning": {
+        "hi": "विमान उतर जाने के बाद तूफ़ान आया।",
+        "hinglish": "Vimaan utar jaane ke baad toofaan aaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.7.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "The thief ___ away before the police came. (run)",
+      "answer": "had run",
+      "options": [
+        "had run",
+        "had ran",
+        "has run"
+      ],
+      "meaning": {
+        "hi": "पुलिस के आने से पहले चोर भाग चुका था।",
+        "hinglish": "Police ke aane se pehle chor bhaag chuka tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.7.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "Which happened first? ‘I had finished my work before you came.’",
+      "questionMeaning": {
+        "hi": "पहले क्या हुआ?",
+        "hinglish": "Pehle kya hua?"
+      },
+      "options": [
+        "I finished my work.",
+        "You came."
+      ],
+      "answer": "I finished my work."
+    }
+  ]
+}

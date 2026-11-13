@@ -1,0 +1,221 @@
+{
+  "id": "B6.10.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.10.2.S02",
+    "B6.10.2.S03",
+    "B6.10.2.S04",
+    "B6.10.2.S05",
+    "B6.10.2.S06",
+    "B6.10.2.S07",
+    "B6.10.2.S08",
+    "B6.10.2.S09",
+    "B6.10.2.S10",
+    "B6.10.2.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.10.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: दिए गए शब्दों से पैराग्राफ़ पूरा करो: hungry, give, eat, near, his, breakfast, he, was, said, came।",
+        "hinglish": "Kitaab: diye gaye shabdon se paragraph poora karo: hungry, give, eat, near, his, breakfast, he, was, said, came.",
+        "en": "The book: complete the paragraph with hungry, give, eat, near, his, breakfast, he, was, said, came."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "A boy was sitting ___ the window.",
+      "answer": "near",
+      "options": [
+        "near",
+        "his",
+        "came"
+      ],
+      "meaning": {
+        "hi": "एक लड़का खिड़की के पास बैठा था।",
+        "hinglish": "Ek ladka khidki ke paas baitha tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "___ was having his breakfast.",
+      "answer": "He",
+      "options": [
+        "He",
+        "His",
+        "Was"
+      ],
+      "meaning": {
+        "hi": "वह अपना नाश्ता कर रहा था।",
+        "hinglish": "Woh apna naashta kar raha tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "He was having ___ breakfast.",
+      "answer": "his",
+      "options": [
+        "his",
+        "he",
+        "said"
+      ],
+      "meaning": {
+        "hi": "वह अपना नाश्ता कर रहा था।",
+        "hinglish": "Woh apna naashta kar raha tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "A beggar ___ to the window.",
+      "answer": "came",
+      "options": [
+        "came",
+        "said",
+        "give"
+      ],
+      "meaning": {
+        "hi": "एक भिखारी खिड़की पर आया।",
+        "hinglish": "Ek bhikhaari khidki par aaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "... and ___, “I have been hungry for two days.”",
+      "answer": "said",
+      "options": [
+        "said",
+        "came",
+        "near"
+      ],
+      "meaning": {
+        "hi": "और बोला, ‘मैं दो दिन से भूखा हूँ।’",
+        "hinglish": "Aur bola, ‘Main do din se bhookha hoon.’"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.2.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "“I have been ___ for two days.”",
+      "answer": "hungry",
+      "options": [
+        "hungry",
+        "breakfast",
+        "near"
+      ],
+      "meaning": {
+        "hi": "‘मैं दो दिन से भूखा हूँ।’",
+        "hinglish": "‘Main do din se bhookha hoon.’"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.2.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "“Please ___ me something to eat.”",
+      "answer": "give",
+      "options": [
+        "give",
+        "eat",
+        "came"
+      ],
+      "meaning": {
+        "hi": "‘कृपया मुझे कुछ खाने को दो।’",
+        "hinglish": "‘Kripya mujhe kuch khaane ko do.’"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.2.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "“Please give me something to ___.”",
+      "answer": "eat",
+      "options": [
+        "eat",
+        "give",
+        "said"
+      ],
+      "meaning": {
+        "hi": "‘कृपया मुझे कुछ खाने को दो।’",
+        "hinglish": "‘Kripya mujhe kuch khaane ko do.’"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.2.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The boy gave his ___ to the beggar.",
+      "answer": "breakfast",
+      "options": [
+        "breakfast",
+        "hungry",
+        "near"
+      ],
+      "meaning": {
+        "hi": "लड़के ने अपना नाश्ता भिखारी को दे दिया।",
+        "hinglish": "Ladke ne apna naashta bhikhaari ko de diya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.2.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The beggar ___ very happy.",
+      "answer": "was",
+      "options": [
+        "was",
+        "were",
+        "came"
+      ],
+      "meaning": {
+        "hi": "भिखारी बहुत ख़ुश था।",
+        "hinglish": "Bhikhaari bahut khush tha."
+      }
+    }
+  ]
+}

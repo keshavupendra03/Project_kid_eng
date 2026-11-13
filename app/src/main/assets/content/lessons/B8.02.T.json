@@ -1,0 +1,203 @@
+{
+  "id": "B8.02.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.T.S01",
+    "B8.02.T.S02",
+    "B8.02.T.S03",
+    "B8.02.T.S04",
+    "B8.02.T.S05",
+    "B8.02.T.S06",
+    "B8.02.T.S07",
+    "B8.02.T.S08",
+    "B8.02.T.S09",
+    "B8.02.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.02.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "When did Kanha National Park come into existence?",
+      "questionMeaning": {
+        "hi": "कान्हा कब बना?",
+        "hinglish": "Kanha kab bana?"
+      },
+      "options": [
+        "in 1955",
+        "in 1947",
+        "in 2006"
+      ],
+      "answer": "in 1955"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What type of huts are there at Kanha?",
+      "questionMeaning": {
+        "hi": "कैसी झोपड़ियाँ?",
+        "hinglish": "Kaisi jhopdiyaan?"
+      },
+      "options": [
+        "log huts",
+        "mud huts",
+        "glass huts"
+      ],
+      "answer": "log huts"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.T.S03",
+      "skills": [
+        "book.words"
+      ],
+      "question": "salt and ___",
+      "questionMeaning": {
+        "hi": "जोड़ी पूरी करो",
+        "hinglish": "Jodi poori karo"
+      },
+      "options": [
+        "pepper",
+        "butter",
+        "order"
+      ],
+      "answer": "pepper"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word comes first in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में पहले?",
+        "hinglish": "Shabdkosh mein pehle?"
+      },
+      "options": [
+        "climate",
+        "cobbler",
+        "call"
+      ],
+      "answer": "call"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.T.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘knife’ is ...",
+      "questionMeaning": {
+        "hi": "बहुवचन",
+        "hinglish": "Bahuvachan"
+      },
+      "options": [
+        "knives",
+        "knifes",
+        "knifs"
+      ],
+      "answer": "knives"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘ox’ is ...",
+      "questionMeaning": {
+        "hi": "बहुवचन",
+        "hinglish": "Bahuvachan"
+      },
+      "options": [
+        "oxen",
+        "oxes",
+        "oxs"
+      ],
+      "answer": "oxen"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "question": "The feminine of ‘fox’ is ...",
+      "questionMeaning": {
+        "hi": "स्त्रीलिंग",
+        "hinglish": "Streeling"
+      },
+      "options": [
+        "vixen",
+        "foxess",
+        "mare"
+      ],
+      "answer": "vixen"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "question": "The feminine of ‘host’ is ...",
+      "questionMeaning": {
+        "hi": "स्त्रीलिंग",
+        "hinglish": "Streeling"
+      },
+      "options": [
+        "hostess",
+        "hostes",
+        "mistress"
+      ],
+      "answer": "hostess"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.T.S09",
+      "skills": [
+        "book.talk",
+        "grammar.indirect_speech"
+      ],
+      "question": "Rahul: \"I reached there by bus.\"",
+      "questionMeaning": {
+        "hi": "अनिल को बताओ",
+        "hinglish": "Anil ko batao"
+      },
+      "options": [
+        "Rahul said that he reached there by bus.",
+        "Rahul said that I reached there by bus.",
+        "Rahul said that he reach there by bus."
+      ],
+      "answer": "Rahul said that he reached there by bus."
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "A tiger's chief food is ...",
+      "questionMeaning": {
+        "hi": "बाघ का मुख्य भोजन",
+        "hinglish": "Baagh ka mukhya bhojan"
+      },
+      "options": [
+        "deer, wild pigs and monkeys",
+        "grass and leaves",
+        "fish only"
+      ],
+      "answer": "deer, wild pigs and monkeys"
+    }
+  ]
+}

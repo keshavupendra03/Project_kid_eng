@@ -1,0 +1,224 @@
+{
+  "id": "B7.13.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.13.1.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.13.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "पाँचों दोस्त धौलपुर के मेले में पहुँच गए हैं! अब वे झूले झूलेंगे, खाना खाएँगे, और फिर एक मुश्किल आएगी। पहले किताब के सवाल।",
+        "hinglish": "Paanchon dost Dholpur ke mele mein pahunch gaye hain! Ab woh jhoole jhoolenge, khaana khaayenge, aur phir ek mushkil aayegi. Pehle kitaab ke sawaal.",
+        "en": "The five friends have reached the Dholpur fair! They will enjoy the rides and food, and then face a problem. First, the book's questions."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.13.1.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🎡",
+      "turns": [
+        {
+          "id": "swings",
+          "tinku": "Do you like swings?",
+          "meaning": {
+            "hi": "क्या तुम्हें झूले पसंद हैं?",
+            "hinglish": "Kya tumhe jhoole pasand hain?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I like swings very much.",
+              "meaning": {
+                "hi": "हाँ, मुझे झूले बहुत पसंद हैं।",
+                "hinglish": "Haan, mujhe jhoole bahut pasand hain."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, swings make me dizzy.",
+              "meaning": {
+                "hi": "नहीं, झूलों से मुझे चक्कर आते हैं।",
+                "hinglish": "Nahi, jhoolon se mujhe chakkar aate hain."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ride",
+          "tinku": "Which ride have you enjoyed the most?",
+          "meaning": {
+            "hi": "तुम्हें कौन सा झूला सबसे ज़्यादा अच्छा लगा?",
+            "hinglish": "Tumhe kaun sa jhoola sabse zyaada achha laga?"
+          },
+          "replies": [
+            {
+              "say": "I enjoyed the giant wheel the most.",
+              "meaning": {
+                "hi": "मुझे बड़ा झूला सबसे ज़्यादा अच्छा लगा।",
+                "hinglish": "Mujhe bada jhoola sabse zyaada achha laga."
+              },
+              "patterns": [
+                "i enjoyed *",
+                "i like *",
+                "*",
+                "* *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.13.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "filling",
+        "emoji": "",
+        "hindi": "पेट भरने वाला",
+        "hinglish": "pet bharne waala"
+      },
+      "meaning": "food that makes your stomach full",
+      "example": "Dal and rice is a filling meal.",
+      "exampleMeaning": {
+        "hi": "दाल-चावल पेट भरने वाला खाना है।",
+        "hinglish": "Daal-chaawal pet bharne waala khaana hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.13.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "dizzy",
+        "emoji": "",
+        "hindi": "चक्कर आना",
+        "hinglish": "chakkar aana"
+      },
+      "meaning": "feeling that things are spinning round you",
+      "example": "The fast swing made me dizzy.",
+      "exampleMeaning": {
+        "hi": "तेज़ झूले से मुझे चक्कर आ गए।",
+        "hinglish": "Tez jhoole se mujhe chakkar aa gaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.13.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "wooden",
+        "emoji": "",
+        "hindi": "लकड़ी का",
+        "hinglish": "lakdi ka"
+      },
+      "meaning": "made of wood",
+      "example": "We have a wooden table.",
+      "exampleMeaning": {
+        "hi": "हमारे पास लकड़ी की मेज़ है।",
+        "hinglish": "Hamare paas lakdi ki mez hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.13.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "pool",
+        "emoji": "",
+        "hindi": "(पैसे) मिलाना",
+        "hinglish": "(paise) milaana"
+      },
+      "meaning": "to put money together with others",
+      "example": "We pooled our money to buy a cake.",
+      "exampleMeaning": {
+        "hi": "हमने केक ख़रीदने के लिए पैसे मिलाए।",
+        "hinglish": "Humne cake khareedne ke liye paise milaaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.13.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "available",
+        "emoji": "",
+        "hindi": "उपलब्ध, मिलने वाला",
+        "hinglish": "uplabdh, milne waala"
+      },
+      "meaning": "that you can get or use",
+      "example": "Tickets are available at the counter.",
+      "exampleMeaning": {
+        "hi": "टिकट काउंटर पर मिलते हैं।",
+        "hinglish": "Ticket counter par milte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.13.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "journey",
+        "emoji": "",
+        "hindi": "यात्रा, सफ़र",
+        "hinglish": "yaatra, safar"
+      },
+      "meaning": "travelling from one place to another",
+      "example": "The journey to Delhi takes ten hours.",
+      "exampleMeaning": {
+        "hi": "दिल्ली का सफ़र दस घंटे का है।",
+        "hinglish": "Delhi ka safar das ghante ka hai."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.13.1.S09",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "available",
+        "emoji": "",
+        "hindi": "उपलब्ध",
+        "hinglish": "uplabdh"
+      }
+    }
+  ]
+}

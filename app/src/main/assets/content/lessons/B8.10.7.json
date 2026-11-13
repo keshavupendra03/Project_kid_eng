@@ -1,0 +1,353 @@
+{
+  "id": "B8.10.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.10.7.S02",
+    "B8.10.7.S03",
+    "B8.10.7.S04",
+    "B8.10.7.S05",
+    "B8.10.7.S06",
+    "B8.10.7.S07",
+    "B8.10.7.S08",
+    "B8.10.7.S09",
+    "B8.10.7.S10",
+    "B8.10.7.S11",
+    "B8.10.7.S12",
+    "B8.10.7.S13",
+    "B8.10.7.S14"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.10.7.S01",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "text": {
+        "hi": "किताब के पेज 84-87 पर पाठ 6 से 10 का दोहराव है।",
+        "hinglish": "Kitaab ke page 84-87 par paath 6 se 10 ka dohraav hai.",
+        "en": "Pages 84–87 of your book revise Lessons 6 to 10."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.7.S02",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "Krishna Devaraya rewarded the artist with the ___.",
+      "answer": "chief ministership",
+      "options": [
+        "chief ministership",
+        "prime ministership"
+      ],
+      "meaning": {
+        "hi": "कृष्णदेवराय ने चित्रकार को मुख्यमंत्री पद दिया।",
+        "hinglish": "Krishnadevaraya ne chitrakaar ko mukhyamantri pad diya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.7.S03",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "Raja Varma was a brilliant ___.",
+      "answer": "artist",
+      "options": [
+        "artist",
+        "cook"
+      ],
+      "meaning": {
+        "hi": "राजा वर्मा एक प्रतिभाशाली चित्रकार थे।",
+        "hinglish": "Raja Varma ek pratibhaashaali chitrakaar the."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.10.7.S04",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "instruction": {
+        "hi": "किताब: un/in वाले शब्द। सही उपसर्ग में रखो",
+        "hinglish": "Kitaab: un/in waale shabd. Sahi upsarg mein rakho",
+        "en": "The book: words with un/in. Sort by the prefix"
+      },
+      "groups": [
+        {
+          "id": "un",
+          "name": "un-",
+          "emoji": "🔵",
+          "meaning": {
+            "hi": "un वाले",
+            "hinglish": "un waale"
+          }
+        },
+        {
+          "id": "in",
+          "name": "in-",
+          "emoji": "🟣",
+          "meaning": {
+            "hi": "in वाले",
+            "hinglish": "in waale"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "unhappy",
+          "emoji": "😞",
+          "groups": [
+            "un"
+          ]
+        },
+        {
+          "text": "unkind",
+          "emoji": "😠",
+          "groups": [
+            "un"
+          ]
+        },
+        {
+          "text": "unable",
+          "emoji": "🚫",
+          "groups": [
+            "un"
+          ]
+        },
+        {
+          "text": "unexpected",
+          "emoji": "😲",
+          "groups": [
+            "un"
+          ]
+        },
+        {
+          "text": "incorrect",
+          "emoji": "❌",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "incomplete",
+          "emoji": "⏳",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "invisible",
+          "emoji": "👻",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "independent",
+          "emoji": "🗽",
+          "groups": [
+            "in"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.7.S05",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "Odd one out: clock, watch, tractor, timepiece",
+      "questionMeaning": {
+        "hi": "अलग शब्द",
+        "hinglish": "Alag shabd"
+      },
+      "options": [
+        "tractor",
+        "clock",
+        "watch",
+        "timepiece"
+      ],
+      "answer": "tractor"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.7.S06",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "Odd one out: thieves, ducks, robbers, pickpockets",
+      "questionMeaning": {
+        "hi": "अलग शब्द",
+        "hinglish": "Alag shabd"
+      },
+      "options": [
+        "ducks",
+        "thieves",
+        "robbers",
+        "pickpockets"
+      ],
+      "answer": "ducks"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.7.S07",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "A synonym of ‘join’ is ...",
+      "questionMeaning": {
+        "hi": "‘join’ का समानार्थी",
+        "hinglish": "‘join’ ka samaanaarthi"
+      },
+      "options": [
+        "connect",
+        "break",
+        "leave"
+      ],
+      "answer": "connect"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.7.S08",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "A synonym of ‘move’ is ...",
+      "questionMeaning": {
+        "hi": "‘move’ का समानार्थी",
+        "hinglish": "‘move’ ka samaanaarthi"
+      },
+      "options": [
+        "shift",
+        "stay",
+        "stop"
+      ],
+      "answer": "shift"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.7.S09",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "A rhyming word for ‘string’ is ...",
+      "questionMeaning": {
+        "hi": "‘string’ से तुक",
+        "hinglish": "‘string’ se tuk"
+      },
+      "options": [
+        "thing",
+        "strong",
+        "stand"
+      ],
+      "answer": "thing"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.7.S10",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "A rhyming word for ‘high’ is ...",
+      "questionMeaning": {
+        "hi": "‘high’ से तुक",
+        "hinglish": "‘high’ se tuk"
+      },
+      "options": [
+        "sky",
+        "hay",
+        "hug"
+      ],
+      "answer": "sky"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.7.S11",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "How did the king in ‘Measure for Measure’ realise his mistake?",
+      "questionMeaning": {
+        "hi": "राजा को गलती कैसे समझ आई?",
+        "hinglish": "Raja ko galti kaise samajh aayi?"
+      },
+      "options": [
+        "A carpenter cooked bad food, like an artist running the state.",
+        "The queen scolded him.",
+        "He read a book."
+      ],
+      "answer": "A carpenter cooked bad food, like an artist running the state."
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.7.S12",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "What is a disaster?",
+      "questionMeaning": {
+        "hi": "आपदा क्या है?",
+        "hinglish": "Aapda kya hai?"
+      },
+      "options": [
+        "an unexpected event like a flood or fire that causes great damage",
+        "a big festival",
+        "a kind of rain"
+      ],
+      "answer": "an unexpected event like a flood or fire that causes great damage"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.7.S13",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "What were Kalpana Chawla's hobbies?",
+      "questionMeaning": {
+        "hi": "कल्पना चावला के शौक़?",
+        "hinglish": "Kalpana Chawla ke shauk?"
+      },
+      "options": [
+        "reading, flying, hiking and bird-watching",
+        "cooking and dancing",
+        "cricket and chess"
+      ],
+      "answer": "reading, flying, hiking and bird-watching"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.7.S14",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "What is the dog doing in the poem ‘The Moon’?",
+      "questionMeaning": {
+        "hi": "कुत्ता क्या कर रहा है?",
+        "hinglish": "Kutta kya kar raha hai?"
+      },
+      "options": [
+        "howling by the door of the house",
+        "sleeping in bed",
+        "chasing the moon"
+      ],
+      "answer": "howling by the door of the house"
+    }
+  ]
+}

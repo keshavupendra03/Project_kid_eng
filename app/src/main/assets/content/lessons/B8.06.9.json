@@ -1,0 +1,82 @@
+{
+  "id": "B8.06.9",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.06.9.S01",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब: अकबर-बीरबल की 2-3 कहानियाँ इकट्ठा करो और कक्षा में पढ़ो। बीरबल अकबर के दरबार में थे, तेनाली रामन कृष्णदेवराय के।",
+        "hinglish": "Kitaab: Akbar-Birbal ki 2-3 kahaniyaan ikattha karo aur kaksha mein padho. Birbal Akbar ke darbaar mein the, Tenali Raman Krishnadevaraya ke.",
+        "en": "The book: collect 2 or 3 Akbar-Birbal stories and read them in class. Birbal was in Akbar's court; Tenali Raman was in Krishnadevaraya's."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.9.S02",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "question": "King Krishnadevaraya ruled which great empire?",
+      "questionMeaning": {
+        "hi": "कृष्णदेवराय किस साम्राज्य के राजा थे?",
+        "hinglish": "Krishnadevaraya kis saamraajya ke raja the?"
+      },
+      "options": [
+        "the Vijayanagara Empire",
+        "the Mughal Empire",
+        "the Maurya Empire"
+      ],
+      "answer": "the Vijayanagara Empire"
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.9.S03",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "question": "The title ‘Measure for Measure’ means ...",
+      "questionMeaning": {
+        "hi": "शीर्षक का मतलब",
+        "hinglish": "Sheershak ka matlab"
+      },
+      "options": [
+        "a mistake answered with a similar example",
+        "measuring food",
+        "a tailor's job"
+      ],
+      "answer": "a mistake answered with a similar example",
+      "modelAnswer": "Measure for measure: Tenali Raman answered the king's mistake (an artist as chief minister) with a similar one (a carpenter as cook).",
+      "modelMeaning": {
+        "hi": "जैसे को तैसा: राजा की गलती (चित्रकार को मुख्यमंत्री) का जवाब वैसी ही मिसाल (बढ़ई को रसोइया) से।",
+        "hinglish": "Jaise ko taisa: raja ki galti (chitrakaar ko mukhyamantri) ka jawab waisi hi misaal (badhai ko rasoiya) se."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.9.S04",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "question": "What is the lesson of this story?",
+      "questionMeaning": {
+        "hi": "कहानी की सीख",
+        "hinglish": "Kahani ki seekh"
+      },
+      "options": [
+        "Give each job to the person trained for it.",
+        "Artists are bad people.",
+        "Never invite the king."
+      ],
+      "answer": "Give each job to the person trained for it."
+    }
+  ]
+}

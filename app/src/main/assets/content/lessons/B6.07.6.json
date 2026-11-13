@@ -1,0 +1,110 @@
+{
+  "id": "B6.07.6",
+  "level": 6,
+  "bookSteps": [
+    "B6.07.6.S03",
+    "B6.07.6.S04",
+    "B6.07.6.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.07.6.S01",
+      "skills": [
+        "book.activity",
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: क्लास 6 बुधवार को पिकनिक जा रही है। राम, मीना, माया और रवि आज नहीं आए। उन्हें संदेश भेजो: जगह, तारीख़ और दिन, फ़ीस, मिलने की जगह, और क्या लाना है।",
+        "hinglish": "Kitaab: class 6 Budhwaar ko picnic ja rahi hai. Ram, Meena, Maya aur Ravi aaj nahi aaye. Unhe sandesh bhejo: jagah, taareekh aur din, fees, milne ki jagah, aur kya laana hai.",
+        "en": "The book: Class VI is going on a picnic on Wednesday. Ram, Meena, Maya and Ravi are absent today. Send them a message with the place, the date and day, the fee, the meeting point and what to bring."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.07.6.S02",
+      "skills": [
+        "book.activity",
+        "book.writing"
+      ],
+      "text": {
+        "hi": "संदेश ऐसे लिखो: Ram, We are going on a picnic. Date / Day: 20th January, Wednesday. Place of picnic: Van Vihar, Bhopal. Fee: Rs 50. Meeting point: the school gate at 8 a.m. Materials to bring: lunch, water bottle and a ball. Do come. Bye. Amit.",
+        "hinglish": "Sandesh aise likho: Ram, We are going on a picnic. Date / Day: 20th January, Wednesday. Place of picnic: Van Vihar, Bhopal. Fee: Rs 50. Meeting point: the school gate at 8 a.m. Materials to bring: lunch, water bottle and a ball. Do come. Bye. Amit.",
+        "en": "Write the message like this: Ram, We are going on a picnic. Date / Day: 20th January, Wednesday. Place of picnic: Van Vihar, Bhopal. Fee: Rs 50. Meeting point: the school gate at 8 a.m. Materials to bring: lunch, water bottle and a ball. Do come. Bye. Amit."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.6.S03",
+      "skills": [
+        "book.activity",
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संदेश की पहली लाइन: हम पिकनिक पर जा रहे हैं।",
+        "hinglish": "Sandesh ki pehli line: hum picnic par ja rahe hain.",
+        "en": "The first line of the message."
+      },
+      "answer": "We are going on a picnic.",
+      "meaning": {
+        "hi": "हम पिकनिक पर जा रहे हैं।",
+        "hinglish": "Hum picnic par ja rahe hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.6.S04",
+      "skills": [
+        "book.activity",
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मिलने की जगह: सुबह 8 बजे स्कूल के गेट पर मिलो।",
+        "hinglish": "Milne ki jagah: subah 8 baje school ke gate par milo.",
+        "en": "Say where and when to meet."
+      },
+      "answer": "Meet at the school gate at 8 a.m.",
+      "meaning": {
+        "hi": "सुबह 8 बजे स्कूल के गेट पर मिलो।",
+        "hinglish": "Subah 8 baje school ke gate par milo."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.6.S05",
+      "skills": [
+        "book.activity",
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "क्या लाना है: अपना खाना और पानी की बोतल लाना।",
+        "hinglish": "Kya laana hai: apna khaana aur paani ki botal laana.",
+        "en": "Say what to bring."
+      },
+      "answer": "Bring your lunch and a water bottle.",
+      "meaning": {
+        "hi": "अपना खाना और पानी की बोतल लाना।",
+        "hinglish": "Apna khaana aur paani ki botal laana."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.6.S06",
+      "skills": [
+        "book.activity",
+        "book.writing"
+      ],
+      "question": "Which is NOT needed in the picnic message?",
+      "questionMeaning": {
+        "hi": "पिकनिक संदेश में किसकी ज़रूरत नहीं है?",
+        "hinglish": "Picnic sandesh mein kiski zaroorat nahi hai?"
+      },
+      "options": [
+        "your favourite film",
+        "the meeting point",
+        "the date and day"
+      ],
+      "answer": "your favourite film"
+    }
+  ]
+}

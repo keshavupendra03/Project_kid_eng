@@ -1,0 +1,302 @@
+{
+  "id": "B7.12.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.12.6.S02",
+    "B7.12.6.S03",
+    "B7.12.6.S04",
+    "B7.12.6.S05",
+    "B7.12.6.S07",
+    "B7.12.6.S08",
+    "B7.12.6.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.12.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब का पहला सवाल: पिकनिक में रास्ता भटकने की घटना लिखो। शुरुआत किताब देती है: Once the members of my family and I went to a nearby riverside...",
+        "hinglish": "Kitaab ka pehla sawaal: picnic mein raasta bhatakne ki ghatna likho. Shuruaat kitaab deti hai: Once the members of my family and I went to a nearby riverside...",
+        "en": "The book's first task: write about a picnic where you lost your way. The book gives the start: Once the members of my family and I went to a nearby riverside..."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "आगे लिखो: फिर हम जंगल में रास्ता भूल गए।",
+        "hinglish": "Aage likho: phir hum jangal mein raasta bhool gaye.",
+        "en": "Continue: say you lost your way in the forest."
+      },
+      "answer": "Then we lost our way in the forest.",
+      "meaning": {
+        "hi": "फिर हम जंगल में रास्ता भूल गए।",
+        "hinglish": "Phir hum jangal mein raasta bhool gaye."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "आगे लिखो: मेरी छोटी बहन डरकर रोने लगी।",
+        "hinglish": "Aage likho: meri chhoti behen darkar rone lagi.",
+        "en": "Continue: say your little sister got scared and started crying."
+      },
+      "answer": "My little sister got scared and started crying.",
+      "meaning": {
+        "hi": "मेरी छोटी बहन डरकर रोने लगी।",
+        "hinglish": "Meri chhoti behen darkar rone lagi."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "आगे लिखो: हमें एक चरवाहा मिला जिसने रास्ता बताया।",
+        "hinglish": "Aage likho: humein ek charwaaha mila jisne raasta bataaya.",
+        "en": "Continue: say you met a shepherd who showed the way."
+      },
+      "answer": "We met a shepherd who showed us the way.",
+      "meaning": {
+        "hi": "हमें एक चरवाहा मिला जिसने हमें रास्ता दिखाया।",
+        "hinglish": "Humein ek charwaaha mila jisne humein raasta dikhaaya."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "आगे लिखो: हम शाम तक सुरक्षित घर लौट आए।",
+        "hinglish": "Aage likho: hum shaam tak surakshit ghar laut aaye.",
+        "en": "Continue: say you came back home safely by evening."
+      },
+      "answer": "We came back home safely by evening.",
+      "meaning": {
+        "hi": "हम शाम तक सुरक्षित घर लौट आए।",
+        "hinglish": "Hum shaam tak surakshit ghar laut aaye."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.12.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब का दूसरा सवाल: कृष्ण और डाकिया चाचा (रामलाल) की फ़ोन पर बातचीत पूरी करो। तुम कृष्ण बनो, मैं रामलाल बनता हूँ।",
+        "hinglish": "Kitaab ka doosra sawaal: Krishan aur daakiya chacha (Ramlal) ki phone par baatcheet poori karo. Tum Krishan bano, main Ramlal banta hoon.",
+        "en": "The book's second task: complete the phone talk between Krishan and Ramlal, the postman. You be Krishan; I'll be Ramlal."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.12.6.S07",
+      "skills": [
+        "book.writing",
+        "speak.sentence"
+      ],
+      "scene": "📞",
+      "turns": [
+        {
+          "id": "hello",
+          "tinku": "Hello? Who is speaking?",
+          "meaning": {
+            "hi": "हेलो? कौन बोल रहा है?",
+            "hinglish": "Hello? Kaun bol raha hai?"
+          },
+          "replies": [
+            {
+              "say": "Hello, chacha, this is Krishan here from Dholpur.",
+              "meaning": {
+                "hi": "हेलो चाचा, मैं धौलपुर से कृष्ण बोल रहा हूँ।",
+                "hinglish": "Hello chacha, main Dholpur se Krishan bol raha hoon."
+              },
+              "patterns": [
+                "hello chacha *",
+                "this is *",
+                "* krishan *",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "msg",
+          "tinku": "Hello, Krishan. This is Ramlal, the postman. What is it?",
+          "meaning": {
+            "hi": "हेलो कृष्ण, मैं रामलाल डाकिया। क्या बात है?",
+            "hinglish": "Hello Krishan, main Ramlal daakiya. Kya baat hai?"
+          },
+          "replies": [
+            {
+              "say": "Can you please tell my parents that we will come back tomorrow?",
+              "meaning": {
+                "hi": "क्या आप मेरे माता-पिता को बता देंगे कि हम कल लौटेंगे?",
+                "hinglish": "Kya aap mere maata-pita ko bata denge ki hum kal lautenge?"
+              },
+              "patterns": [
+                "can you please tell *",
+                "* come back tomorrow",
+                "* tomorrow",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "where",
+          "tinku": "Why? Where are you?",
+          "meaning": {
+            "hi": "क्यों? तुम कहाँ हो?",
+            "hinglish": "Kyon? Tum kahan ho?"
+          },
+          "replies": [
+            {
+              "say": "We are at the fair. It's late.",
+              "meaning": {
+                "hi": "हम मेले में हैं। देर हो गई है।",
+                "hinglish": "Hum mele mein hain. Der ho gayi hai."
+              },
+              "patterns": [
+                "we are at the fair *",
+                "we are at *",
+                "* fair *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "why",
+          "tinku": "Why do you want to stay?",
+          "meaning": {
+            "hi": "तुम रुकना क्यों चाहते हो?",
+            "hinglish": "Tum rukna kyon chahte ho?"
+          },
+          "replies": [
+            {
+              "say": "Because the bus broke down.",
+              "meaning": {
+                "hi": "क्योंकि बस ख़राब हो गई।",
+                "hinglish": "Kyonki bus kharaab ho gayi."
+              },
+              "patterns": [
+                "because the bus broke down",
+                "* broke down",
+                "* bus *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "safe",
+          "tinku": "Are you all safe?",
+          "meaning": {
+            "hi": "क्या तुम सब सुरक्षित हो?",
+            "hinglish": "Kya tum sab surakshit ho?"
+          },
+          "replies": [
+            {
+              "say": "Yes, of course, chacha.",
+              "meaning": {
+                "hi": "हाँ, बिल्कुल, चाचा।",
+                "hinglish": "Haan, bilkul, chacha."
+              },
+              "patterns": [
+                "yes *",
+                "yes",
+                "of course *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pass",
+          "tinku": "Good. I will pass the message on to your parents.",
+          "meaning": {
+            "hi": "ठीक है। मैं तुम्हारे माता-पिता को संदेश दे दूँगा।",
+            "hinglish": "Theek hai. Main tumhare maata-pita ko sandesh de doonga."
+          },
+          "replies": [
+            {
+              "say": "Thank you, chacha!",
+              "meaning": {
+                "hi": "शुक्रिया, चाचा!",
+                "hinglish": "Shukriya, chacha!"
+              },
+              "patterns": [
+                "thank you *",
+                "thank you",
+                "thanks *",
+                "thanks"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.6.S08",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Ramlal tells Krishan's father: ‘Krishan called from ___.’",
+      "questionMeaning": {
+        "hi": "रामलाल कृष्ण के पिता से कहता है: ‘कृष्ण का फ़ोन ___ से आया।’",
+        "hinglish": "Ramlal Krishan ke pita se kehta hai: ‘Krishan ka phone ___ se aaya.’"
+      },
+      "options": [
+        "Dholpur",
+        "Rampur",
+        "Bhopal"
+      ],
+      "answer": "Dholpur"
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.6.S09",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Why aren't the children coming back tonight?",
+      "questionMeaning": {
+        "hi": "बच्चे आज रात क्यों नहीं लौट रहे?",
+        "hinglish": "Bachche aaj raat kyon nahi laut rahe?"
+      },
+      "options": [
+        "Because the bus broke down.",
+        "Because they are lost.",
+        "Because Sheru ran away."
+      ],
+      "answer": "Because the bus broke down.",
+      "modelAnswer": "Ramlal said that they were not coming because the bus had broken down. They were all safe.",
+      "modelMeaning": {
+        "hi": "रामलाल ने बताया कि बस ख़राब होने की वजह से वे नहीं आ रहे। सब सुरक्षित हैं।",
+        "hinglish": "Ramlal ne bataaya ki bus kharaab hone ki wajah se woh nahi aa rahe. Sab surakshit hain."
+      }
+    }
+  ]
+}

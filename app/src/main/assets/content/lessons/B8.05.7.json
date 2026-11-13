@@ -1,0 +1,355 @@
+{
+  "id": "B8.05.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.05.7.S02",
+    "B8.05.7.S03",
+    "B8.05.7.S04",
+    "B8.05.7.S05",
+    "B8.05.7.S06",
+    "B8.05.7.S07",
+    "B8.05.7.S08",
+    "B8.05.7.S09",
+    "B8.05.7.S10",
+    "B8.05.7.S11",
+    "B8.05.7.S12",
+    "B8.05.7.S13",
+    "B8.05.7.S14",
+    "B8.05.7.S15",
+    "B8.05.7.S16"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.05.7.S01",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "text": {
+        "hi": "किताब के पेज 39-42 पर पाठ 1 से 5 का दोहराव है। यह परीक्षा के लिए बहुत ज़रूरी है!",
+        "hinglish": "Kitaab ke page 39-42 par paath 1 se 5 ka dohraav hai. Yeh pariksha ke liye bahut zaroori hai!",
+        "en": "Pages 39–42 of your book revise Lessons 1 to 5. This is very important for the exam!"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.05.7.S02",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "instruction": {
+        "hi": "उल्टे शब्द जोड़ो",
+        "hinglish": "Ulte shabd jodo",
+        "en": "Join the antonyms"
+      },
+      "pairs": [
+        {
+          "left": "often",
+          "right": "seldom",
+          "meaning": {
+            "hi": "अक्सर — कभी-कभार",
+            "hinglish": "aksar — kabhi-kabhaar"
+          }
+        },
+        {
+          "left": "win",
+          "right": "lose",
+          "meaning": {
+            "hi": "जीतना — हारना",
+            "hinglish": "jeetna — haarna"
+          }
+        },
+        {
+          "left": "despair",
+          "right": "hope",
+          "meaning": {
+            "hi": "निराशा — उम्मीद",
+            "hinglish": "niraasha — ummeed"
+          }
+        },
+        {
+          "left": "end",
+          "right": "beginning",
+          "meaning": {
+            "hi": "अंत — शुरुआत",
+            "hinglish": "ant — shuruaat"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.7.S03",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "Which word comes first in a dictionary?",
+      "questionMeaning": {
+        "hi": "शब्दकोश में पहले कौन?",
+        "hinglish": "Shabdkosh mein pehle kaun?"
+      },
+      "options": [
+        "abundance",
+        "administered",
+        "attraction"
+      ],
+      "answer": "abundance",
+      "modelAnswer": "Dictionary order: abundance, administered, attraction, beautiful, ferocious, furnished, perform, pocket.",
+      "modelMeaning": {
+        "hi": "शब्दकोश का क्रम ऊपर अंग्रेज़ी में है। ab, ad, at: b, d, t के क्रम से।",
+        "hinglish": "Shabdkosh ka kram upar English mein hai. ab, ad, at: b, d, t ke kram se."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.7.S04",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "Which comes first: ‘ferocious’ or ‘furnished’?",
+      "questionMeaning": {
+        "hi": "पहले कौन?",
+        "hinglish": "Pehle kaun?"
+      },
+      "options": [
+        "ferocious",
+        "furnished"
+      ],
+      "answer": "ferocious"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.7.S05",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "One who treats patients",
+      "questionMeaning": {
+        "hi": "मरीज़ों का इलाज करने वाला",
+        "hinglish": "Mareezon ka ilaaj karne waala"
+      },
+      "options": [
+        "doctor",
+        "jeweller",
+        "traveller"
+      ],
+      "answer": "doctor"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.7.S06",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "One who sells jewellery",
+      "questionMeaning": {
+        "hi": "गहने बेचने वाला",
+        "hinglish": "Gehne bechne waala"
+      },
+      "options": [
+        "jeweller",
+        "doctor",
+        "tailor"
+      ],
+      "answer": "jeweller"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.7.S07",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "Have you ___ the new film?",
+      "answer": "seen",
+      "options": [
+        "seen",
+        "scene"
+      ],
+      "meaning": {
+        "hi": "क्या तुमने नई फ़िल्म देखी?",
+        "hinglish": "Kya tumne nayi film dekhi?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.7.S08",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "The last ___ of the play was very sad.",
+      "answer": "scene",
+      "options": [
+        "scene",
+        "seen"
+      ],
+      "meaning": {
+        "hi": "नाटक का आख़िरी दृश्य बहुत दुखद था।",
+        "hinglish": "Naatak ka aakhiri drishya bahut dukhad tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.7.S09",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "Come ___ and sit with me.",
+      "answer": "here",
+      "options": [
+        "here",
+        "hear"
+      ],
+      "meaning": {
+        "hi": "यहाँ आओ और मेरे साथ बैठो।",
+        "hinglish": "Yahan aao aur mere saath baitho."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.7.S10",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "I can ___ the birds singing.",
+      "answer": "hear",
+      "options": [
+        "hear",
+        "here"
+      ],
+      "meaning": {
+        "hi": "मैं पक्षियों का गाना सुन सकता हूँ।",
+        "hinglish": "Main pakshiyon ka gaana sun sakta hoon."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.7.S11",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "The ___ rises in the east.",
+      "answer": "sun",
+      "options": [
+        "sun",
+        "son"
+      ],
+      "meaning": {
+        "hi": "सूरज पूरब में उगता है।",
+        "hinglish": "Sooraj poorab mein ugta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.7.S12",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "Mr. Sharma's ___ is a doctor.",
+      "answer": "son",
+      "options": [
+        "son",
+        "sun"
+      ],
+      "meaning": {
+        "hi": "शर्मा जी का बेटा डॉक्टर है।",
+        "hinglish": "Sharma ji ka beta doctor hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.7.S13",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "The poem ‘Another Chance’ tells us ...",
+      "questionMeaning": {
+        "hi": "कविता हमें क्या सिखाती है?",
+        "hinglish": "Kavita humein kya sikhaati hai?"
+      },
+      "options": [
+        "never to give up in despair",
+        "to be sad",
+        "to make money",
+        "to be happy"
+      ],
+      "answer": "never to give up in despair"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.7.S14",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "Where is Kanha Kisli?",
+      "questionMeaning": {
+        "hi": "कान्हा किसली कहाँ है?",
+        "hinglish": "Kanha Kisli kahan hai?"
+      },
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Bihar",
+        "Uttarakhand"
+      ],
+      "answer": "Madhya Pradesh"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.7.S15",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "What happened to the ungrateful jeweller?",
+      "questionMeaning": {
+        "hi": "एहसान फ़रामोश सुनार का क्या हुआ?",
+        "hinglish": "Ehsaan faraamosh sunaar ka kya hua?"
+      },
+      "options": [
+        "He was ashamed of his act.",
+        "He got jewels.",
+        "He was rewarded."
+      ],
+      "answer": "He was ashamed of his act.",
+      "modelAnswer": "In the lesson, the jeweller was very much ashamed of his act. (None of the book's four options says this exactly, so check with your teacher which one they want.)",
+      "modelMeaning": {
+        "hi": "पाठ में सुनार अपने काम पर बहुत शर्मिंदा हुआ। (किताब के चारों विकल्पों में यह सीधे नहीं है, टीचर से पूछ लेना।)",
+        "hinglish": "Paath mein sunaar apne kaam par bahut sharminda hua. (Kitaab ke chaaron vikalpon mein yeh seedhe nahi hai, teacher se poochh lena.)"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.7.S16",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "The ‘Chipko Movement’ started in ...",
+      "questionMeaning": {
+        "hi": "चिपको आंदोलन कहाँ शुरू हुआ?",
+        "hinglish": "Chipko aandolan kahan shuru hua?"
+      },
+      "options": [
+        "Uttarakhand",
+        "Madhya Pradesh",
+        "Chhattisgarh",
+        "Rajasthan"
+      ],
+      "answer": "Uttarakhand"
+    }
+  ]
+}

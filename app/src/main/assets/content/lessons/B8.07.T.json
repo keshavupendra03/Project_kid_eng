@@ -1,0 +1,202 @@
+{
+  "id": "B8.07.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.07.T.S01",
+    "B8.07.T.S02",
+    "B8.07.T.S03",
+    "B8.07.T.S04",
+    "B8.07.T.S05",
+    "B8.07.T.S06",
+    "B8.07.T.S07",
+    "B8.07.T.S08",
+    "B8.07.T.S09",
+    "B8.07.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.07.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What are epidemics?",
+      "questionMeaning": {
+        "hi": "महामारी क्या है?",
+        "hinglish": "Mahaamaari kya hai?"
+      },
+      "options": [
+        "infectious diseases that spread over a large population",
+        "heavy rains",
+        "broken dams"
+      ],
+      "answer": "infectious diseases that spread over a large population"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "How can we purify drinking water?",
+      "questionMeaning": {
+        "hi": "पानी कैसे साफ़ करें?",
+        "hinglish": "Paani kaise saaf karein?"
+      },
+      "options": [
+        "Use chlorine tablets or boil it.",
+        "Add sugar.",
+        "Keep it in the sun for a minute."
+      ],
+      "answer": "Use chlorine tablets or boil it."
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "During a flood, should we climb a tree?",
+      "questionMeaning": {
+        "hi": "क्या पेड़ पर चढ़ें?",
+        "hinglish": "Kya ped par chadhein?"
+      },
+      "options": [
+        "No, move to a higher place like a school building.",
+        "Yes, always.",
+        "Yes, the tallest tree."
+      ],
+      "answer": "No, move to a higher place like a school building."
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "The homophone of ‘our’ is ...",
+      "questionMeaning": {
+        "hi": "समान आवाज़ वाला शब्द",
+        "hinglish": "Samaan awaaz waala shabd"
+      },
+      "options": [
+        "hour",
+        "are",
+        "ore"
+      ],
+      "answer": "hour"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "The homophone of ‘pain’ is ...",
+      "questionMeaning": {
+        "hi": "समान आवाज़ वाला शब्द",
+        "hinglish": "Samaan awaaz waala shabd"
+      },
+      "options": [
+        "pane",
+        "paint",
+        "pan"
+      ],
+      "answer": "pane"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Hurry up ___ you will be late.",
+      "answer": "or",
+      "options": [
+        "or",
+        "and",
+        "but"
+      ],
+      "meaning": {
+        "hi": "जल्दी करो वरना देर हो जाएगी।",
+        "hinglish": "Jaldi karo varna der ho jaayegi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "He is slow ___ sure.",
+      "answer": "but",
+      "options": [
+        "but",
+        "or",
+        "and"
+      ],
+      "meaning": {
+        "hi": "वह धीमा है पर पक्का है।",
+        "hinglish": "Woh dheema hai par pakka hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "question": "Astrologers claim they can ___ your future.",
+      "questionMeaning": {
+        "hi": "fore- वाला शब्द",
+        "hinglish": "fore- waala shabd"
+      },
+      "options": [
+        "foretell",
+        "forecast",
+        "forenoon"
+      ],
+      "answer": "foretell"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.T.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "question": "Many drivers ___ the speed limit. (obey)",
+      "questionMeaning": {
+        "hi": "उपसर्ग",
+        "hinglish": "Upsarg"
+      },
+      "options": [
+        "disobey",
+        "unobey",
+        "reobey"
+      ],
+      "answer": "disobey"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "vefer → ?",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "fever",
+        "never",
+        "fewer"
+      ],
+      "answer": "fever"
+    }
+  ]
+}

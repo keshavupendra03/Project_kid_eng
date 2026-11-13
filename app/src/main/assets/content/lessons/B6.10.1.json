@@ -1,0 +1,134 @@
+{
+  "id": "B6.10.1",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.10.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "एक लड़का रोज़ अपना नाश्ता एक भूखे भिखारी को दे देता था। बड़ा होकर वही लड़का नेताजी सुभाष चंद्र बोस बना! पहले नए शब्द।",
+        "hinglish": "Ek ladka roz apna naashta ek bhookhe bhikhaari ko de deta tha. Bada hokar wahi ladka Netaji Subhash Chandra Bose bana! Pehle naye shabd.",
+        "en": "A boy gave his breakfast to a hungry beggar every day. That boy grew up to be Netaji Subhash Chandra Bose! First, new words."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.10.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "beggar",
+        "emoji": "",
+        "hindi": "भिखारी",
+        "hinglish": "bhikhaari"
+      },
+      "meaning": "a poor person who asks others for food or money",
+      "example": "The beggar was very hungry.",
+      "exampleMeaning": {
+        "hi": "भिखारी बहुत भूखा था।",
+        "hinglish": "Bhikhaari bahut bhookha tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.10.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "breakfast",
+        "emoji": "",
+        "hindi": "नाश्ता",
+        "hinglish": "naashta"
+      },
+      "meaning": "the first meal of the day",
+      "example": "I have milk and bread for breakfast.",
+      "exampleMeaning": {
+        "hi": "मैं नाश्ते में दूध और ब्रेड लेता/लेती हूँ।",
+        "hinglish": "Main naashte mein doodh aur bread leta/leti hoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.10.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "share",
+        "emoji": "",
+        "hindi": "हिस्सा",
+        "hinglish": "hissa"
+      },
+      "meaning": "the part that someone gets",
+      "example": "This is your share of the cake.",
+      "exampleMeaning": {
+        "hi": "यह केक में तुम्हारा हिस्सा है।",
+        "hinglish": "Yeh cake mein tumhara hissa hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.10.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "wondered",
+        "emoji": "",
+        "hindi": "सोचा, हैरान हुआ",
+        "hinglish": "socha, hairaan hua"
+      },
+      "meaning": "thought about something with surprise",
+      "example": "He wondered how poor people could be.",
+      "exampleMeaning": {
+        "hi": "उसने सोचा कि लोग कितने ग़रीब हो सकते हैं।",
+        "hinglish": "Usne socha ki log kitne gareeb ho sakte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.10.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "bookshelf",
+        "emoji": "",
+        "hindi": "किताबों की अलमारी",
+        "hinglish": "kitaabon ki almaari"
+      },
+      "meaning": "a shelf for keeping books",
+      "example": "Keep your books on the bookshelf.",
+      "exampleMeaning": {
+        "hi": "अपनी किताबें अलमारी में रखो।",
+        "hinglish": "Apni kitaabein almaari mein rakho."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B6.10.1.S07",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "breakfast",
+        "emoji": "",
+        "hindi": "नाश्ता",
+        "hinglish": "naashta"
+      }
+    }
+  ]
+}

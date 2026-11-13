@@ -1,0 +1,190 @@
+{
+  "id": "B6.10.6",
+  "level": 6,
+  "bookSteps": [
+    "B6.10.6.S02",
+    "B6.10.6.S03",
+    "B6.10.6.S04",
+    "B6.10.6.S05",
+    "B6.10.6.S06",
+    "B6.10.6.S07",
+    "B6.10.6.S08",
+    "B6.10.6.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.10.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: मोनू ने अपने चाचा श्याम (उज्जैन) को जन्मदिन के तोहफ़े के लिए धन्यवाद पत्र लिखा। खाली जगह भरो। संकेत: thank, well, fine, exams, lovely, like, working, aunt, Chhotu।",
+        "hinglish": "Kitaab: Monu ne apne chacha Shyam (Ujjain) ko janmdin ke tohfe ke liye dhanyavaad patra likha. Khaali jagah bharo. Sanket: thank, well, fine, exams, lovely, like, working, aunt, Chhotu.",
+        "en": "The book: Monu wrote to his uncle Shyam in Ujjain to thank him for a birthday gift. Fill in the blanks. Hints: thank, well, fine, exams, lovely, like, working, aunt, Chhotu."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "I am quite ___ and hope the same for you.",
+      "answer": "fine",
+      "options": [
+        "fine",
+        "lovely",
+        "working"
+      ],
+      "meaning": {
+        "hi": "मैं बिल्कुल ठीक हूँ और आपके लिए भी यही कामना करता हूँ।",
+        "hinglish": "Main bilkul theek hoon aur aapke liye bhi yahi kaamna karta hoon."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "___ you for such a lovely gift.",
+      "answer": "Thank",
+      "options": [
+        "Thank",
+        "Well",
+        "Like"
+      ],
+      "meaning": {
+        "hi": "इतने सुंदर तोहफ़े के लिए धन्यवाद।",
+        "hinglish": "Itne sundar tohfe ke liye dhanyavaad."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "Thank you for such a ___ gift.",
+      "answer": "lovely",
+      "options": [
+        "lovely",
+        "working",
+        "fine"
+      ],
+      "meaning": {
+        "hi": "इतने सुंदर तोहफ़े के लिए धन्यवाद।",
+        "hinglish": "Itne sundar tohfe ke liye dhanyavaad."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "I really ___ it very much.",
+      "answer": "liked",
+      "options": [
+        "liked",
+        "worked",
+        "thanked"
+      ],
+      "meaning": {
+        "hi": "मुझे वह सच में बहुत पसंद आया।",
+        "hinglish": "Mujhe woh sach mein bahut pasand aaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "My ___ are near.",
+      "answer": "exams",
+      "options": [
+        "exams",
+        "aunts",
+        "gifts"
+      ],
+      "meaning": {
+        "hi": "मेरी परीक्षाएँ पास हैं।",
+        "hinglish": "Meri parikshaayein paas hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.6.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "I am ___ hard.",
+      "answer": "working",
+      "options": [
+        "working",
+        "lovely",
+        "fine"
+      ],
+      "meaning": {
+        "hi": "मैं मेहनत कर रहा हूँ।",
+        "hinglish": "Main mehnat kar raha hoon."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.6.S08",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "Rest is ___.",
+      "answer": "well",
+      "options": [
+        "well",
+        "lovely",
+        "exams"
+      ],
+      "meaning": {
+        "hi": "बाकी सब ठीक है।",
+        "hinglish": "Baaki sab theek hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.6.S09",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "Convey my regards to ___ and love to Chhotu.",
+      "answer": "aunt",
+      "options": [
+        "aunt",
+        "exams",
+        "fine"
+      ],
+      "meaning": {
+        "hi": "चाची को मेरा प्रणाम और छोटू को प्यार देना।",
+        "hinglish": "Chaachi ko mera pranaam aur Chhotu ko pyaar dena."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.6.S10",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Monu ends the letter to his uncle with ...",
+      "questionMeaning": {
+        "hi": "मोनू चाचा को पत्र कैसे ख़त्म करता है?",
+        "hinglish": "Monu chacha ko patra kaise khatm karta hai?"
+      },
+      "options": [
+        "Yours lovingly,",
+        "Yours obediently,",
+        "Your friend,"
+      ],
+      "answer": "Yours lovingly,"
+    }
+  ]
+}

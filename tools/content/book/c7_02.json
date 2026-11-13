@@ -1,0 +1,186 @@
+{
+  "grade": 7, "number": 2, "emoji": "🐴", "title": "The Wise Man-I", "pages": "6–11",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["इस पाठ में भोला अपना घोड़ा बेचने बाज़ार जाता है। पहले पाठ के नए शब्द सीखते हैं।", "Is paath mein Bhola apna ghoda bechne baazaar jaata hai. Pehle paath ke naye shabd seekhte hain.", "In this lesson Bhola goes to the market to sell his horse. First, let's learn the new words."]},
+        {"word": ["bargain", "सौदा", "sauda", "an agreement to buy, sell or exchange something", "I got a good bargain at the fair.", "मुझे मेले में अच्छा सौदा मिला।", "Mujhe mele mein achha sauda mila."]},
+        {"word": ["exchange", "अदला-बदली करना", "adla-badli karna", "to give something and get something else for it", "Let us exchange our books.", "चलो अपनी किताबें आपस में बदल लें।", "Chalo apni kitaabein aapas mein badal lein."]},
+        {"word": ["decide", "तय करना", "tay karna", "to make up your mind about something", "We decided to go to the zoo.", "हमने चिड़ियाघर जाना तय किया।", "Humne chidiyaghar jaana tay kiya."]},
+        {"word": ["delicious", "स्वादिष्ट", "swaadisht", "very tasty", "Mother makes delicious kheer.", "माँ स्वादिष्ट खीर बनाती हैं।", "Maa swaadisht kheer banaati hain."]},
+        {"word": ["angel", "फ़रिश्ता", "farishta", "a kind and good person, like a spirit from heaven", "My little sister is an angel.", "मेरी छोटी बहन एक फ़रिश्ता है।", "Meri chhoti behen ek farishta hai."]},
+        {"word": ["fairy", "परी", "pari", "a tiny magic person in stories", "The fairy had silver wings.", "परी के चाँदी जैसे पंख थे।", "Pari ke chaandi jaise pankh the."]},
+        {"word": ["colt", "घोड़े का बच्चा", "ghode ka bachcha", "a young male horse", "The colt ran behind its mother.", "घोड़े का बच्चा अपनी माँ के पीछे दौड़ा।", "Ghode ka bachcha apni maa ke peechhe dauda."]},
+        {"word": ["fodder", "चारा", "chaara", "dry food for cows, horses and other animals", "The farmer gives fodder to his cows.", "किसान अपनी गायों को चारा देता है।", "Kisaan apni gaayon ko chaara deta hai."]},
+        {"sayw": ["delicious", "स्वादिष्ट", "swaadisht"], "skills": ["speak.word", "book.words"]},
+        {"sayw": ["exchange", "अदला-बदली करना", "adla-badli karna"], "skills": ["speak.word", "book.words"]},
+        {"book": true, "pairs": ["किताब के phrases को उनके मतलब से जोड़ो", "Kitaab ke phrases ko unke matlab se jodo", "Join the book's phrases to their meanings", [
+          ["a lot of", "very much, very many", "बहुत सारा", "bahut saara"],
+          ["a few", "a small number of", "कुछ, थोड़े से", "kuch, thode se"],
+          ["a herd of cattle", "a big group of cows or buffaloes", "मवेशियों का झुंड", "maveshiyon ka jhund"],
+          ["lay eggs", "what a hen does to give eggs", "अंडे देना", "ande dena"],
+          ["a few yards", "a short distance", "थोड़ी दूर (कुछ गज़)", "thodi door (kuch gaz)"]]]},
+        {"card": ["किताब पूछती है: barter system क्या है? पुराने समय में पैसे नहीं थे। लोग चीज़ के बदले चीज़ देते थे, जैसे अनाज के बदले कपड़ा। इसे barter (वस्तु-विनिमय) कहते हैं। भोला भी यही करता है!", "Kitaab poochhti hai: barter system kya hai? Puraane samay mein paise nahi the. Log cheez ke badle cheez dete the, jaise anaaj ke badle kapda. Ise barter (vastu-vinimay) kehte hain. Bhola bhi yahi karta hai!", "The book asks: what is the barter system? Long ago there was no money. People gave one thing for another, like grain for cloth. This is called barter. Bhola does the same!"]},
+        {"book": true, "q": ["What is the barter system?", "बार्टर सिस्टम क्या है?", "Barter system kya hai?", ["exchanging one thing for another thing", "buying things with money", "selling things on the internet"], "exchanging one thing for another thing", "The barter system means exchanging one thing for another thing, without money. It was used in old times, before money.", "बार्टर का मतलब है बिना पैसे के एक चीज़ के बदले दूसरी चीज़ लेना। यह पुराने समय में, पैसे आने से पहले होता था।", "Barter ka matlab hai bina paise ke ek cheez ke badle doosri cheez lena. Yeh puraane samay mein, paise aane se pehle hota tha."]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 6 से 8 तक ‘The Wise Man-I’ पढ़ो। फिर सवालों के जवाब दो।", "Apni kitaab mein page 6 se 8 tak ‘The Wise Man-I’ padho. Phir sawaalon ke jawab do.", "Read ‘The Wise Man-I’ on pages 6 to 8 of your book. Then answer the questions."]},
+        {"book": true, "q": ["Why did the horse trainer and his wife decide to sell the horse?", "घोड़ा सिखाने वाले और उसकी पत्नी ने घोड़ा बेचने का फ़ैसला क्यों किया?", "Ghoda sikhaane waale aur uski patni ne ghoda bechne ka faisla kyon kiya?", ["Because the horse ate a lot of fodder.", "Because the horse was very old.", "Because the Nawab asked for it."], "Because the horse ate a lot of fodder.", "They decided to sell the horse because it ate a lot of fodder and it was very expensive to feed it.", "उन्होंने घोड़ा बेचने का फ़ैसला किया क्योंकि वह बहुत चारा खाता था और उसे खिलाना बहुत महँगा था।", "Unhone ghoda bechne ka faisla kiya kyonki woh bahut chaara khaata tha aur use khilaana bahut mehnga tha."]},
+        {"book": true, "q": ["Where did Bhola go to sell the horse?", "भोला घोड़ा बेचने कहाँ गया?", "Bhola ghoda bechne kahan gaya?", ["to the market", "to the Nawab's palace", "to a village fair"], "to the market", "Bhola went to the market to sell the horse.", "भोला घोड़ा बेचने बाज़ार गया।", "Bhola ghoda bechne baazaar gaya."]},
+        {"book": true, "q": ["Whom did he meet first?", "वह सबसे पहले किससे मिला?", "Woh sabse pehle kisse mila?", ["a man with a donkey", "a woman with a sheep", "a boy with a hen"], "a man with a donkey", "He first met a man with a donkey.", "वह सबसे पहले एक गधे वाले आदमी से मिला।", "Woh sabse pehle ek gadhe waale aadmi se mila."]},
+        {"book": true, "q": ["Why did Bhola think of buying a sheep?", "भोला ने भेड़ लेने के बारे में क्यों सोचा?", "Bhola ne bhed lene ke baare mein kyon socha?", ["He thought his wife would like a sheep in place of a donkey.", "He wanted wool for a sweater.", "The donkey was ill."], "He thought his wife would like a sheep in place of a donkey.", "Bhola thought of getting a sheep because he felt his wife would like a sheep in place of a donkey.", "भोला ने भेड़ लेने का सोचा क्योंकि उसे लगा कि उसकी पत्नी को गधे की जगह भेड़ पसंद आएगी।", "Bhola ne bhed lene ka socha kyonki use laga ki uski patni ko gadhe ki jagah bhed pasand aayegi."]},
+        {"book": true, "q": ["What did the girl having the green mangoes ask the horse trainer?", "हरे आम वाली लड़की ने भोला से क्या पूछा?", "Hare aam waali ladki ne Bhola se kya poochha?", ["She asked whether the hen lays eggs.", "She asked the price of the hen.", "She asked where his wife lived."], "She asked whether the hen lays eggs.", "The girl asked the horse trainer whether his hen lays eggs.", "लड़की ने पूछा कि क्या उसकी मुर्गी अंडे देती है।", "Ladki ne poochha ki kya uski murgi ande deti hai."]},
+        {"card": ["अब किताब का True/False: वाक्य सही है तो True, गलत है तो False चुनो।", "Ab kitaab ka True/False: vaakya sahi hai to True, galat hai to False chuno.", "Now the book's True or False: pick True if the sentence is right, False if it is wrong."]},
+        {"book": true, "tf": ["Bhola's wife was Asha.", "भोला की पत्नी का नाम आशा था।", "Bhola ki patni ka naam Asha tha.", false, "False. Bhola's wife was Shanti.", "गलत। भोला की पत्नी शांति थी।", "Galat. Bhola ki patni Shanti thi."]},
+        {"book": true, "tf": ["Bhola spent little money for feeding his horse.", "भोला घोड़े को खिलाने में कम पैसे ख़र्च करता था।", "Bhola ghode ko khilaane mein kam paise kharch karta tha.", false, "False. It was very expensive to feed the horse.", "गलत। घोड़े को खिलाना बहुत महँगा था।", "Galat. Ghode ko khilaana bahut mehnga tha."]},
+        {"book": true, "tf": ["His wife loved to eat mango chutney.", "उसकी पत्नी को आम की चटनी बहुत पसंद थी।", "Uski patni ko aam ki chatni bahut pasand thi.", true]},
+        {"book": true, "tf": ["The girl had a basket full of green mangoes.", "लड़की के पास हरे आमों से भरी टोकरी थी।", "Ladki ke paas hare aamon se bhari tokri thi.", true]},
+        {"book": true, "tf": ["Bhola gave the sheep to the girl in exchange for her green mangoes.", "भोला ने हरे आमों के बदले लड़की को भेड़ दी।", "Bhola ne hare aamon ke badle ladki ko bhed di.", false, "False. Bhola gave the hen to the girl.", "गलत। भोला ने लड़की को मुर्गी दी थी।", "Galat. Bhola ne ladki ko murgi di thi."]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.jobs"],
+      "steps": [
+        {"card": ["किताब कहती है: एक शब्द में बताओ (one word)। जैसे ‘जो घोड़ा सिखाता है’ = horse trainer।", "Kitaab kehti hai: ek shabd mein batao (one word). Jaise ‘jo ghoda sikhaata hai’ = horse trainer.", "The book says: write one word for these. For example, one who trains a horse = horse trainer."]},
+        {"book": true, "q": ["One who trains a horse", "जो घोड़े को सिखाता है", "Jo ghode ko sikhaata hai", ["horse trainer", "shepherd", "mahout"], "horse trainer"]},
+        {"book": true, "q": ["One who looks after sheep", "जो भेड़ों की देखभाल करता है", "Jo bhedon ki dekhbhaal karta hai", ["shepherd", "farmer", "tailor"], "shepherd", "A shepherd looks after sheep.", "गड़ेरिया भेड़ों की देखभाल करता है।", "Gaderiya bhedon ki dekhbhaal karta hai."]},
+        {"book": true, "q": ["One who rides and controls an elephant", "जो हाथी पर बैठकर उसे चलाता है", "Jo haathi par baithkar use chalaata hai", ["mahout", "jockey", "driver"], "mahout", "A mahout rides and controls an elephant.", "महावत हाथी पर बैठकर उसे चलाता है।", "Mahaavat haathi par baithkar use chalaata hai."]},
+        {"book": true, "q": ["The person who controls wild animals in a circus", "सर्कस में जंगली जानवरों को काबू में रखने वाला", "Circus mein jangli jaanwaron ko kaabu mein rakhne waala", ["ringmaster", "joker", "shepherd"], "ringmaster", "A ringmaster (animal tamer) controls wild animals in a circus.", "रिंगमास्टर सर्कस में जंगली जानवरों को काबू में रखता है।", "Ringmaster circus mein jangli jaanwaron ko kaabu mein rakhta hai."]},
+        {"card": ["किताब में दूसरा अभ्यास: झुंड वाले शब्द (collective nouns)। a herd of cattle = मवेशियों का झुंड। किताब में कॉलम उल्टे-पुल्टे हैं, सही जोड़ी बनाओ।", "Kitaab mein doosra abhyaas: jhund waale shabd (collective nouns). a herd of cattle = maveshiyon ka jhund. Kitaab mein column ulte-pulte hain, sahi jodi banao.", "The book's second exercise: group words (collective nouns). A herd of cattle. The columns are mixed up in the book. Make the right pairs."]},
+        {"book": true, "pairs": ["सही जोड़ी बनाओ (Match the two columns)", "Sahi jodi banao (Match the two columns)", "Match the two columns", [
+          ["a herd of", "cattle", "मवेशियों का झुंड", "maveshiyon ka jhund"],
+          ["a bunch of", "grapes", "अंगूर का गुच्छा", "angoor ka guchchha"],
+          ["a heap of", "stones", "पत्थरों का ढेर", "pattharon ka dher"],
+          ["a bouquet of", "flowers", "फूलों का गुलदस्ता", "phoolon ka guldasta"],
+          ["a swarm of", "bees", "मधुमक्खियों का झुंड", "madhumakkhiyon ka jhund"],
+          ["an army of", "soldiers", "सैनिकों की सेना", "sainikon ki sena"]]]},
+        {"fb": ["A ___ of birds flew over the river.", "flock", ["flock", "bunch", "heap"], "पक्षियों का एक झुंड नदी के ऊपर से उड़ा।", "Pakshiyon ka ek jhund nadi ke upar se uda."]},
+        {"fb": ["I bought a ___ of bananas.", "bunch", ["bunch", "swarm", "army"], "मैंने केलों का एक गुच्छा ख़रीदा।", "Maine kelon ka ek guchchha khareeda."]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: who से वाक्य जोड़ो", "Grammar: who se vaakya jodo", "Grammar in Use: joining with ‘who’"], "book": true,
+      "skills": ["book.grammar", "grammar.relative"],
+      "steps": [
+        {"card": ["दो वाक्यों में एक ही इंसान हो, तो उन्हें ‘who’ से जोड़ सकते हैं। ‘who’ का मतलब है ‘जो’। The girl is Sarita. The girl is wearing a red sweater. → The girl who is wearing a red sweater is Sarita.", "Do vaakyon mein ek hi insaan ho, to unhe ‘who’ se jod sakte hain. ‘who’ ka matlab hai ‘jo’. The girl is Sarita. The girl is wearing a red sweater. → The girl who is wearing a red sweater is Sarita.", "When two sentences are about the same person, join them with ‘who’. The girl is Sarita. The girl is wearing a red sweater. → The girl who is wearing a red sweater is Sarita."]},
+        {"card": ["याद रखो: ‘who’ लोगों के लिए है। जानवरों और चीज़ों के लिए ‘which’ लगाते हैं: The dog which barks is mine.", "Yaad rakho: ‘who’ logon ke liye hai. Jaanwaron aur cheezon ke liye ‘which’ lagaate hain: The dog which barks is mine.", "Remember: ‘who’ is for people. For animals and things we use ‘which’: The dog which barks is mine."]},
+        {"book": true, "build": ["जोड़ो: The boy is wearing a blue cap. + The boy is the tallest boy in the class.", "Jodo: The boy is wearing a blue cap. + The boy is the tallest boy in the class.", "Join: The boy is wearing a blue cap. + He is the tallest boy in the class.", "The boy who is wearing a blue cap is the tallest boy in the class.", "जो लड़का नीली टोपी पहने है, वह क्लास का सबसे लंबा लड़का है।", "Jo ladka neeli topi pehne hai, woh class ka sabse lamba ladka hai.", ["which"]]},
+        {"book": true, "build": ["जोड़ो: Seema studies in class VIII. + Seema is the most brilliant student of the class.", "Jodo: Seema studies in class VIII. + Seema is the most brilliant student of the class.", "Join the two sentences about Seema.", "Seema, who studies in class VIII, is the most brilliant student of the class.", "सीमा, जो आठवीं कक्षा में पढ़ती है, क्लास की सबसे होशियार छात्रा है।", "Seema, jo aathvi kaksha mein padhti hai, class ki sabse hoshiyaar chhaatra hai.", ["which"]]},
+        {"book": true, "build": ["जोड़ो: John is a good story teller. + John is telling an interesting story.", "Jodo: John is a good story teller. + John is telling an interesting story.", "Join the two sentences about John.", "John, who is a good story teller, is telling an interesting story.", "जॉन, जो अच्छा कहानी सुनाने वाला है, एक मज़ेदार कहानी सुना रहा है।", "John, jo achha kahani sunaane waala hai, ek mazedaar kahani suna raha hai.", ["which"]]},
+        {"book": true, "build": ["जोड़ो: Gurmeet helps the boy. + The boy is blind.", "Jodo: Gurmeet helps the boy. + The boy is blind.", "Join: Gurmeet helps the boy. + The boy is blind.", "Gurmeet helps the boy who is blind.", "गुरमीत उस लड़के की मदद करता है जो देख नहीं सकता।", "Gurmeet us ladke ki madad karta hai jo dekh nahi sakta.", ["which"]]},
+        {"fb": ["The man ___ sells mangoes is my uncle.", "who", ["who", "which"], "जो आदमी आम बेचता है, वह मेरे चाचा हैं।", "Jo aadmi aam bechta hai, woh mere chacha hain."]},
+        {"fb": ["The dog ___ barks at night is very old.", "which", ["which", "who"], "जो कुत्ता रात को भौंकता है, वह बहुत बूढ़ा है।", "Jo kutta raat ko bhaunkta hai, woh bahut boodha hai."]},
+        {"fb": ["I know a girl ___ can sing very well.", "who", ["who", "which"], "मैं एक लड़की को जानता/जानती हूँ जो बहुत अच्छा गाती है।", "Main ek ladki ko jaanta/jaanti hoon jo bahut achha gaati hai."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें", "Chalo baat karein", "Let's Talk"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब कहती है: पालतू जानवरों और पक्षियों की लिस्ट बनाओ। पहले उन्हें छाँटो।", "Kitaab kehti hai: paaltu jaanwaron aur pakshiyon ki list banao. Pehle unhe chhaanto.", "The book says: make a list of domestic animals and birds. First, sort them."]},
+        {"book": true, "type": "sort_groups", "skills": ["book.activity", "vocab.animals"],
+          "instruction": ["हर जानवर को पक्षी या पालतू जानवर में रखो", "Har jaanwar ko pakshi ya paaltu jaanwar mein rakho", "Put each one in birds or domestic animals"],
+          "groups": [
+            {"id": "birds", "name": "birds", "emoji": "🐦", "meaning": ["पक्षी", "pakshi"]},
+            {"id": "animals", "name": "domestic animals", "emoji": "🏠", "meaning": ["पालतू जानवर", "paaltu jaanwar"]}
+          ],
+          "items": [
+            {"text": "sparrow", "emoji": "🐦", "groups": ["birds"]},
+            {"text": "cow", "emoji": "🐄", "groups": ["animals"]},
+            {"text": "pigeon", "emoji": "🕊️", "groups": ["birds"]},
+            {"text": "goat", "emoji": "🐐", "groups": ["animals"]},
+            {"text": "parrot", "emoji": "🦜", "groups": ["birds"]},
+            {"text": "dog", "emoji": "🐕", "groups": ["animals"]},
+            {"text": "hen", "emoji": "🐔", "groups": ["birds"]},
+            {"text": "buffalo", "emoji": "🐃", "groups": ["animals"]}
+          ]},
+        {"book": true, "type": "roleplay", "scene": "🐦", "turns": [
+          {"id": "bird", "tinku": "Which is the most commonly seen bird in your neighbourhood?",
+            "meaning": ["तुम्हारे मोहल्ले में सबसे ज़्यादा कौन सा पक्षी दिखता है?", "Tumhare mohalle mein sabse zyaada kaun sa pakshi dikhta hai?"],
+            "replies": [
+              {"say": "The sparrow is the most commonly seen bird.", "meaning": ["गौरैया सबसे ज़्यादा दिखती है। (कोई और पक्षी भी बोल सकते हो)", "Gauraiya sabse zyaada dikhti hai. (Koi aur pakshi bhi bol sakte ho)"], "patterns": ["the * is *", "*", "* *", "* * *"]}
+            ]},
+          {"id": "animal", "tinku": "Which animals are seen near or in your home?",
+            "meaning": ["तुम्हारे घर के पास या घर में कौन से जानवर दिखते हैं?", "Tumhare ghar ke paas ya ghar mein kaun se jaanwar dikhte hain?"],
+            "replies": [
+              {"say": "Cows and dogs are seen near my home.", "meaning": ["मेरे घर के पास गाय और कुत्ते दिखते हैं।", "Mere ghar ke paas gaay aur kutte dikhte hain."], "patterns": ["* are seen *", "*", "* *", "* * *"]}
+            ]},
+          {"id": "useful", "tinku": "How are these animals useful to you?",
+            "meaning": ["ये जानवर तुम्हारे किस काम आते हैं?", "Yeh jaanwar tumhare kis kaam aate hain?"],
+            "replies": [
+              {"say": "The cow gives us milk and the dog guards our house.", "meaning": ["गाय हमें दूध देती है और कुत्ता हमारे घर की रखवाली करता है।", "Gaay humein doodh deti hai aur kutta hamare ghar ki rakhwaali karta hai."], "patterns": ["the cow *", "* gives us *", "*", "* *", "* * *"], "next": "end"}
+            ]}
+        ]},
+        {"q": ["How is a hen useful to us?", "मुर्गी हमारे किस काम आती है?", "Murgi hamare kis kaam aati hai?", ["It gives us eggs.", "It gives us wool.", "It carries load."], "It gives us eggs.", "A hen is useful because it gives us eggs.", "मुर्गी काम की है क्योंकि वह हमें अंडे देती है।", "Murgi kaam ki hai kyonki woh humein ande deti hai."]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें", "Chalo likhein", "Let's Write"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब कहती है: दिए गए शब्दों से पैराग्राफ़ लिखो। चलो कहानी को अपने वाक्यों में लिखते हैं।", "Kitaab kehti hai: diye gaye shabdon se paragraph likho. Chalo kahani ko apne vaakyon mein likhte hain.", "The book says: write a paragraph with the given words. Let's write the story in our own sentences."]},
+        {"book": true, "build": ["शब्द: horse trainer, market, sell, horse", "Shabd: horse trainer, market, sell, horse", "Words: horse trainer, market, sell, horse", "The horse trainer went to the market to sell his horse.", "घोड़ा सिखाने वाला अपना घोड़ा बेचने बाज़ार गया।", "Ghoda sikhaane waala apna ghoda bechne baazaar gaya.", ["sold"]]},
+        {"book": true, "build": ["शब्द: Bhola, exchange, donkey, sheep", "Shabd: Bhola, exchange, donkey, sheep", "Words: Bhola, exchange, donkey, sheep", "Bhola exchanged the donkey for a sheep.", "भोला ने गधे के बदले भेड़ ले ली।", "Bhola ne gadhe ke badle bhed le li."]},
+        {"book": true, "build": ["शब्द: sheep, hen", "Shabd: sheep, hen", "Words: sheep, hen", "Then he exchanged the sheep for a hen.", "फिर उसने भेड़ के बदले मुर्गी ले ली।", "Phir usne bhed ke badle murgi le li."]},
+        {"book": true, "build": ["शब्द: a girl, hen, green mangoes", "Shabd: a girl, hen, green mangoes", "Words: a girl, hen, green mangoes", "A girl gave him green mangoes for the hen.", "एक लड़की ने मुर्गी के बदले उसे हरे आम दिए।", "Ek ladki ne murgi ke badle use hare aam diye."]},
+        {"card": ["अब आम पर पैराग्राफ़ (किताब का दूसरा सवाल)। ऐसे लिखो: The mango is the king of fruits. A mango tree gives us cool shade. Raw mangoes are green and sour. Ripe mangoes are yellow and sweet. We make jam, jelly, pickle and juice from mangoes. I love mangoes!", "Ab aam par paragraph (kitaab ka doosra sawaal). Aise likho: The mango is the king of fruits. A mango tree gives us cool shade. Raw mangoes are green and sour. Ripe mangoes are yellow and sweet. We make jam, jelly, pickle and juice from mangoes. I love mangoes!", "Now the paragraph on mangoes (the book's second task). Write: The mango is the king of fruits. A mango tree gives us cool shade. Raw mangoes are green and sour. Ripe mangoes are yellow and sweet. We make jam, jelly, pickle and juice from mangoes. I love mangoes!"]},
+        {"book": true, "build": ["आम के बारे में: कच्चे आम हरे और खट्टे होते हैं।", "Aam ke baare mein: kachche aam hare aur khatte hote hain.", "About mangoes: say what raw mangoes are like.", "Raw mangoes are green and sour.", "कच्चे आम हरे और खट्टे होते हैं।", "Kachche aam hare aur khatte hote hain.", ["sweet"]]},
+        {"book": true, "build": ["आम के बारे में: पके आम पीले और मीठे होते हैं।", "Aam ke baare mein: pake aam peele aur meethe hote hain.", "About mangoes: say what ripe mangoes are like.", "Ripe mangoes are yellow and sweet.", "पके आम पीले और मीठे होते हैं।", "Pake aam peele aur meethe hote hain.", ["sour"]]}
+      ]
+    },
+    {
+      "emoji": "🌳", "title": ["चलो करके देखें: should", "Chalo karke dekhein: should", "Let's Do It: should"], "book": true,
+      "skills": ["book.activity", "grammar.should"],
+      "steps": [
+        {"card": ["‘should’ का मतलब ‘चाहिए’। We should plant trees = हमें पेड़ लगाने चाहिए। ‘should not’ = नहीं चाहिए। We should not waste water.", "‘should’ ka matlab ‘chahiye’. We should plant trees = Humein ped lagaane chahiye. ‘should not’ = nahi chahiye. We should not waste water.", "‘Should’ tells us what is right to do. We should plant trees. ‘Should not’ tells us what not to do. We should not waste water."]},
+        {"book": true, "build": ["‘should’ से लिखो: Never cut green trees.", "‘should’ se likho: Never cut green trees.", "Rewrite with ‘should’: Never cut green trees.", "We should never cut green trees.", "हमें कभी हरे पेड़ नहीं काटने चाहिए।", "Humein kabhi hare ped nahi kaatne chahiye."]},
+        {"book": true, "build": ["‘should’ से लिखो: Do not hurt animals and birds.", "‘should’ se likho: Do not hurt animals and birds.", "Rewrite with ‘should’: Do not hurt animals and birds.", "We should not hurt animals and birds.", "हमें जानवरों और पक्षियों को चोट नहीं पहुँचानी चाहिए।", "Humein jaanwaron aur pakshiyon ko chot nahi pahunchaani chahiye."]},
+        {"book": true, "build": ["‘should’ से लिखो: Don't be cruel to animals.", "‘should’ se likho: Don't be cruel to animals.", "Rewrite with ‘should’: Don't be cruel to animals.", "We should not be cruel to animals.", "हमें जानवरों के साथ बुरा बर्ताव नहीं करना चाहिए।", "Humein jaanwaron ke saath bura bartaav nahi karna chahiye."]},
+        {"book": true, "build": ["‘should’ से लिखो: Feed our pets properly.", "‘should’ se likho: Feed our pets properly.", "Rewrite with ‘should’: Feed our pets properly.", "We should feed our pets properly.", "हमें अपने पालतू जानवरों को ठीक से खाना खिलाना चाहिए।", "Humein apne paaltu jaanwaron ko theek se khaana khilaana chahiye."]},
+        {"book": true, "fb": ["We should get up ___ in the morning.", "early", ["early", "late"], "हमें सुबह जल्दी उठना चाहिए।", "Humein subah jaldi uthna chahiye."]},
+        {"fb": ["We should ___ waste water.", "not", ["not", "always"], "हमें पानी बर्बाद नहीं करना चाहिए।", "Humein paani barbaad nahi karna chahiye."]},
+        {"fb": ["We should ___ our teachers.", "respect", ["respect", "tease"], "हमें अपने टीचर का सम्मान करना चाहिए।", "Humein apne teacher ka sammaan karna chahiye."]},
+        {"fix": ["We should not wastes food.", 3, "waste", "हमें खाना बर्बाद नहीं करना चाहिए।", "Humein khaana barbaad nahi karna chahiye."]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: बाज़ार की बातें", "Aur seekho: baazaar ki baatein", "Learn more: at the market"], "book": false,
+      "skills": ["vocab.places"],
+      "steps": [
+        {"pairs": ["बाज़ार के शब्दों को उनके मतलब से जोड़ो", "Baazaar ke shabdon ko unke matlab se jodo", "Join the market words to their meanings", [
+          ["buyer", "a person who buys", "ख़रीदने वाला", "khareedne waala"],
+          ["seller", "a person who sells", "बेचने वाला", "bechne waala"],
+          ["price", "how much money something costs", "दाम, क़ीमत", "daam, keemat"],
+          ["cheap", "low in price", "सस्ता", "sasta"],
+          ["expensive", "high in price", "महँगा", "mehnga"]]]},
+        {"fb": ["Gold is very ___.", "expensive", ["expensive", "cheap", "sour"], "सोना बहुत महँगा होता है।", "Sona bahut mehnga hota hai."]},
+        {"q": ["Bhola says the horse ‘eats like an elephant’. What does it mean?", "भोला कहता है घोड़ा ‘हाथी जैसा खाता है’। इसका क्या मतलब है?", "Bhola kehta hai ghoda ‘haathi jaisa khaata hai’. Iska kya matlab hai?", ["It eats a lot.", "It eats leaves.", "It eats very little."], "It eats a lot.", "‘Eats like an elephant’ means eats a lot.", "‘हाथी जैसा खाना’ मतलब बहुत ज़्यादा खाना।", "‘Haathi jaisa khaana’ matlab bahut zyaada khaana."]},
+        {"q": ["Bhola lived in Bhopal. Bhopal is the capital of which state?", "भोला भोपाल में रहता था। भोपाल किस राज्य की राजधानी है?", "Bhola Bhopal mein rehta tha. Bhopal kis rajya ki rajdhaani hai?", ["Madhya Pradesh", "Rajasthan", "Gujarat"], "Madhya Pradesh", "Bhopal is the capital of Madhya Pradesh.", "भोपाल मध्य प्रदेश की राजधानी है।", "Bhopal Madhya Pradesh ki rajdhaani hai."]},
+        {"q": ["Which do you need in the barter system?", "बार्टर में तुम्हें क्या चाहिए?", "Barter mein tumhe kya chahiye?", ["something to exchange", "a bank card", "a mobile phone"], "something to exchange"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 2 का टेस्ट", "Paath 2 ka test", "Lesson 2 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Where did Bhola go to sell the horse?", "भोला घोड़ा बेचने कहाँ गया?", "Bhola ghoda bechne kahan gaya?", ["to the market", "to the Nawab's palace", "to a village fair"], "to the market"]},
+        {"book": true, "q": ["Whom did he meet first?", "वह सबसे पहले किससे मिला?", "Woh sabse pehle kisse mila?", ["a man with a donkey", "a woman with a sheep", "a boy with a hen"], "a man with a donkey"]},
+        {"book": true, "tf": ["Bhola's wife was Asha.", "भोला की पत्नी आशा थी।", "Bhola ki patni Asha thi.", false]},
+        {"book": true, "tf": ["His wife loved to eat mango chutney.", "उसकी पत्नी को आम की चटनी पसंद थी।", "Uski patni ko aam ki chatni pasand thi.", true]},
+        {"book": true, "skills": ["book.words"], "q": ["One who looks after sheep", "जो भेड़ों की देखभाल करता है", "Jo bhedon ki dekhbhaal karta hai", ["shepherd", "farmer", "tailor"], "shepherd"]},
+        {"book": true, "skills": ["book.words"], "q": ["a swarm of ...", "किसका झुंड?", "Kiska jhund?", ["bees", "grapes", "stones"], "bees"]},
+        {"book": true, "skills": ["book.words"], "q": ["a bouquet of ...", "किसका गुलदस्ता?", "Kiska guldasta?", ["flowers", "soldiers", "cattle"], "flowers"]},
+        {"skills": ["book.grammar", "grammar.relative"], "fb": ["The girl ___ is wearing a red sweater is Sarita.", "who", ["who", "which"], "जो लड़की लाल स्वेटर पहने है, वह सरिता है।", "Jo ladki laal sweater pehne hai, woh Sarita hai."]},
+        {"book": true, "skills": ["book.activity", "grammar.should"], "fb": ["We should ___ cut green trees.", "never", ["never", "always"], "हमें कभी हरे पेड़ नहीं काटने चाहिए।", "Humein kabhi hare ped nahi kaatne chahiye."]},
+        {"skills": ["book.words"], "q": ["What does ‘delicious’ mean?", "‘delicious’ का क्या मतलब है?", "‘delicious’ ka kya matlab hai?", ["very tasty", "very costly", "very old"], "very tasty"]}
+      ]
+    }
+  ]
+}

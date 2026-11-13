@@ -1,0 +1,121 @@
+{
+  "id": "B6.04.6",
+  "level": 6,
+  "bookSteps": [
+    "B6.04.6.S02",
+    "B6.04.6.S03",
+    "B6.04.6.S04",
+    "B6.04.6.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.04.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: गांधीजी की कौन सी बातें तुम अपनाना चाहोगे? चुनो: self-help (अपना काम ख़ुद करना), simplicity (सादगी), truthfulness (सच्चाई), non-violence (अहिंसा), vegetarianism (शाकाहार)।",
+        "hinglish": "Kitaab: Gandhiji ki kaun si baatein tum apnaana chahoge? Chuno: self-help (apna kaam khud karna), simplicity (saadgi), truthfulness (sachchaai), non-violence (ahinsa), vegetarianism (shaakaahaar).",
+        "en": "The book: which of Gandhiji's ways would you like to follow? Choose from: self-help, simplicity, truthfulness, non-violence, vegetarianism."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.04.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "instruction": {
+        "hi": "गुणों को उनके मतलब से जोड़ो",
+        "hinglish": "Gunon ko unke matlab se jodo",
+        "en": "Join each value to its meaning"
+      },
+      "pairs": [
+        {
+          "left": "self-help",
+          "right": "doing your own work yourself",
+          "meaning": {
+            "hi": "अपना काम ख़ुद करना",
+            "hinglish": "apna kaam khud karna"
+          }
+        },
+        {
+          "left": "simplicity",
+          "right": "living a simple life",
+          "meaning": {
+            "hi": "सादगी",
+            "hinglish": "saadgi"
+          }
+        },
+        {
+          "left": "truthfulness",
+          "right": "always telling the truth",
+          "meaning": {
+            "hi": "सच्चाई",
+            "hinglish": "sachchaai"
+          }
+        },
+        {
+          "left": "non-violence",
+          "right": "never hurting anyone",
+          "meaning": {
+            "hi": "अहिंसा",
+            "hinglish": "ahinsa"
+          }
+        }
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.04.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मैं हमेशा सच बोलूँगा/बोलूँगी।",
+        "hinglish": "Main hamesha sach boloonga/bolungi.",
+        "en": "Say you will always tell the truth."
+      },
+      "answer": "I will always tell the truth.",
+      "meaning": {
+        "hi": "मैं हमेशा सच बोलूँगा/बोलूँगी।",
+        "hinglish": "Main hamesha sach boloonga/bolungi."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.04.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मैं अपना काम ख़ुद करूँगा/करूँगी।",
+        "hinglish": "Main apna kaam khud karoonga/karoongi.",
+        "en": "Say you will do your own work yourself."
+      },
+      "answer": "I will do my own work myself.",
+      "meaning": {
+        "hi": "मैं अपना काम ख़ुद करूँगा/करूँगी।",
+        "hinglish": "Main apna kaam khud karoonga/karoongi."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.04.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मैं किसी को चोट नहीं पहुँचाऊँगा/पहुँचाऊँगी।",
+        "hinglish": "Main kisi ko chot nahi pahunchaaunga/pahunchaaungi.",
+        "en": "Say you will not hurt anyone."
+      },
+      "answer": "I will not hurt anyone.",
+      "meaning": {
+        "hi": "मैं किसी को चोट नहीं पहुँचाऊँगा/पहुँचाऊँगी।",
+        "hinglish": "Main kisi ko chot nahi pahunchaaunga/pahunchaaungi."
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": "B8.12.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.12.6.S02",
+    "B8.12.6.S03",
+    "B8.12.6.S04"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.12.6.S01",
+      "skills": [
+        "book.activity",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: मानव संग्रहालय (भोपाल) या किसी आदिवासी गाँव जाओ, या टीचर से बात करके म.प्र. की जनजातियों के बारे में और जानो।",
+        "hinglish": "Kitaab: Maanav Sangrahaalay (Bhopal) ya kisi aadivaasi gaanv jaao, ya teacher se baat karke M.P. ki janjaatiyon ke baare mein aur jaano.",
+        "en": "The book: visit Manav Sangrahalaya (Bhopal) or a tribal village, or talk to your teacher, to learn more about the tribes of M.P."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.12.6.S02",
+      "skills": [
+        "book.activity",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "कला को उसकी जनजाति से जोड़ो",
+        "hinglish": "Kala ko uski janjaati se jodo",
+        "en": "Join each art form to its tribe"
+      },
+      "pairs": [
+        {
+          "left": "Pithora painting",
+          "right": "Bhil",
+          "meaning": {
+            "hi": "पिथोरा चित्रकला — भील",
+            "hinglish": "Pithora chitrakala — Bhil"
+          }
+        },
+        {
+          "left": "Gudani on doors",
+          "right": "Korku",
+          "meaning": {
+            "hi": "गुदनी — कोरकू",
+            "hinglish": "Gudani — Korku"
+          }
+        },
+        {
+          "left": "Cheenha wall painting",
+          "right": "Gond",
+          "meaning": {
+            "hi": "चीन्हा — गोंड",
+            "hinglish": "Cheenha — Gond"
+          }
+        },
+        {
+          "left": "Pandvani singing",
+          "right": "Teejan Bai",
+          "meaning": {
+            "hi": "पंडवानी — तीजन बाई",
+            "hinglish": "Pandvani — Teejan Bai"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.6.S03",
+      "skills": [
+        "book.activity",
+        "vocab.meaning"
+      ],
+      "question": "Name another tribe of Madhya Pradesh besides the Bhils.",
+      "questionMeaning": {
+        "hi": "भीलों के अलावा म.प्र. की कोई और जनजाति",
+        "hinglish": "Bheelon ke alaava M.P. ki koi aur janjaati"
+      },
+      "options": [
+        "Gonds",
+        "Nagas",
+        "Todas"
+      ],
+      "answer": "Gonds",
+      "modelAnswer": "Other tribes of M.P. are Gonds, Korkus, Baigas and Bhariyas.",
+      "modelMeaning": {
+        "hi": "म.प्र. की दूसरी जनजातियाँ: गोंड, कोरकू, बैगा और भारिया।",
+        "hinglish": "M.P. ki doosri janjaatiyaan: Gond, Korku, Baiga aur Bhaariya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.6.S04",
+      "skills": [
+        "book.activity",
+        "vocab.meaning"
+      ],
+      "question": "What do the Bhils call tattooing?",
+      "questionMeaning": {
+        "hi": "भील गोदने को क्या कहते हैं?",
+        "hinglish": "Bhil godne ko kya kehte hain?"
+      },
+      "options": [
+        "Godana",
+        "Gatla",
+        "Bhagoria"
+      ],
+      "answer": "Godana"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.6.S05",
+      "skills": [
+        "book.activity",
+        "vocab.meaning"
+      ],
+      "question": "Rani Durgavati, the brave queen of the Gond dynasty, ruled from which region?",
+      "questionMeaning": {
+        "hi": "गोंड रानी दुर्गावती कहाँ की रानी थीं?",
+        "hinglish": "Gond Rani Durgavati kahan ki rani thin?"
+      },
+      "options": [
+        "Gondwana (near Jabalpur)",
+        "Jaipur",
+        "Mysore"
+      ],
+      "answer": "Gondwana (near Jabalpur)"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.6.S06",
+      "skills": [
+        "book.activity",
+        "vocab.meaning"
+      ],
+      "question": "Where is the Manav Sangrahalaya (Museum of Mankind)?",
+      "questionMeaning": {
+        "hi": "मानव संग्रहालय कहाँ है?",
+        "hinglish": "Maanav Sangrahaalay kahan hai?"
+      },
+      "options": [
+        "Bhopal",
+        "Ujjain",
+        "Sagar"
+      ],
+      "answer": "Bhopal"
+    }
+  ]
+}

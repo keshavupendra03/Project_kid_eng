@@ -1,0 +1,95 @@
+{
+  "id": "B8.14.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.14.8.S02",
+    "B8.14.8.S03",
+    "B8.14.8.S04",
+    "B8.14.8.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.14.8.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: पाँच वाक्यों को सही क्रम में लगाकर आज़ाद पर पैराग्राफ़ बनाओ। पाठ के क्रम में: b → d → a → c → e।",
+        "hinglish": "Kitaab: paanch vaakyon ko sahi kram mein lagaakar Azad par paragraph banao. Paath ke kram mein: b → d → a → c → e.",
+        "en": "The book: put the five sentences in order to make a paragraph about Azad. In the lesson's order: b → d → a → c → e."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.8.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Which sentence comes first?",
+      "questionMeaning": {
+        "hi": "पहला वाक्य",
+        "hinglish": "Pehla vaakya"
+      },
+      "options": [
+        "Chandra Shekhar was born in village Bhabra in Jhabua district.",
+        "As a revolutionary, he adopted the surname ‘Azad’.",
+        "A special award will be presented at Bhopal on Balidan Diwas."
+      ],
+      "answer": "Chandra Shekhar was born in village Bhabra in Jhabua district."
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.8.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Which sentence comes second?",
+      "questionMeaning": {
+        "hi": "दूसरा वाक्य",
+        "hinglish": "Doosra vaakya"
+      },
+      "options": [
+        "For higher education he went to Sanskrit Pathshala at Varanasi.",
+        "He was deeply hurt by the Jallianwala Bagh massacre in 1919.",
+        "A special award will be presented at Bhopal on Balidan Diwas."
+      ],
+      "answer": "For higher education he went to Sanskrit Pathshala at Varanasi."
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.8.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Which sentence comes last?",
+      "questionMeaning": {
+        "hi": "आख़िरी वाक्य",
+        "hinglish": "Aakhiri vaakya"
+      },
+      "options": [
+        "A special award will be presented at Bhopal on Balidan Diwas.",
+        "Chandra Shekhar was born in village Bhabra in Jhabua district.",
+        "For higher education he went to Sanskrit Pathshala at Varanasi."
+      ],
+      "answer": "A special award will be presented at Bhopal on Balidan Diwas."
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.14.8.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "उन्होंने उपनाम ‘आज़ाद’ अपनाया।",
+        "hinglish": "Unhone upnaam ‘Azad’ apnaaya.",
+        "en": "Tell the surname he took as a revolutionary."
+      },
+      "answer": "He adopted the surname Azad.",
+      "meaning": {
+        "hi": "उन्होंने उपनाम आज़ाद अपनाया।",
+        "hinglish": "Unhone upnaam Azad apnaaya."
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "B6.02.7",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B6.02.7.S01",
+      "skills": [
+        "vocab.places"
+      ],
+      "instruction": {
+        "hi": "खेल के मैदान की चीज़ें जोड़ो",
+        "hinglish": "Khel ke maidaan ki cheezein jodo",
+        "en": "Join the playground words"
+      },
+      "pairs": [
+        {
+          "left": "swing",
+          "right": "you sit and go back and forth",
+          "meaning": {
+            "hi": "झूला",
+            "hinglish": "jhoola"
+          }
+        },
+        {
+          "left": "slide",
+          "right": "you slip down it",
+          "meaning": {
+            "hi": "फिसलपट्टी",
+            "hinglish": "phisalpatti"
+          }
+        },
+        {
+          "left": "see-saw",
+          "right": "two children go up and down",
+          "meaning": {
+            "hi": "सी-सॉ (ऊपर-नीचे वाला झूला)",
+            "hinglish": "see-saw (upar-neeche waala jhoola)"
+          }
+        },
+        {
+          "left": "sandpit",
+          "right": "a place full of sand to play in",
+          "meaning": {
+            "hi": "रेत का गड्ढा",
+            "hinglish": "ret ka gaddha"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.7.S02",
+      "skills": [
+        "vocab.places"
+      ],
+      "question": "Which word means the opposite of ‘up’?",
+      "questionMeaning": {
+        "hi": "‘up’ का उल्टा?",
+        "hinglish": "‘up’ ka ulta?"
+      },
+      "options": [
+        "down",
+        "over",
+        "high"
+      ],
+      "answer": "down"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.7.S03",
+      "skills": [
+        "vocab.places"
+      ],
+      "sentence": "We should hold the ropes tightly on a ___.",
+      "answer": "swing",
+      "options": [
+        "swing",
+        "book",
+        "plate"
+      ],
+      "meaning": {
+        "hi": "झूले पर रस्सियाँ कसकर पकड़नी चाहिए।",
+        "hinglish": "Jhoole par rassiyaan kaskar pakadni chahiye."
+      }
+    }
+  ]
+}

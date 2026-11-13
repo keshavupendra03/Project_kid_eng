@@ -1,0 +1,205 @@
+{
+  "id": "B8.01.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.01.5.S02",
+    "B8.01.5.S03",
+    "B8.01.5.S04",
+    "B8.01.5.S05",
+    "B8.01.5.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.01.5.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 4 पर दो कौवों की कहानी पढ़ो। एक ने थैले में रुई भरी, दूसरे ने नमक। फिर बारिश आई...",
+        "hinglish": "Apni kitaab mein page 4 par do kauvon ki kahani padho. Ek ne thaile mein rui bhari, doosre ne namak. Phir baarish aayi...",
+        "en": "Read the story of two crows on page 4. One filled his sack with cotton, the other with salt. Then it rained..."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.5.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What was the challenge?",
+      "questionMeaning": {
+        "hi": "चुनौती क्या थी?",
+        "hinglish": "Chunauti kya thi?"
+      },
+      "options": [
+        "Which crow could fly higher carrying a sack.",
+        "Which crow could eat more.",
+        "Which crow could sing better."
+      ],
+      "answer": "Which crow could fly higher carrying a sack.",
+      "modelAnswer": "The challenge was to see which crow could fly higher while carrying sacks of the same size.",
+      "modelMeaning": {
+        "hi": "चुनौती थी कि एक जैसे थैले उठाकर कौन सा कौवा ज़्यादा ऊँचा उड़ सकता है।",
+        "hinglish": "Chunauti thi ki ek jaise thaile uthaakar kaun sa kauva zyaada ooncha ud sakta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.5.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What was there in the first crow's sack?",
+      "questionMeaning": {
+        "hi": "पहले कौवे के थैले में क्या था?",
+        "hinglish": "Pehle kauve ke thaile mein kya tha?"
+      },
+      "options": [
+        "cotton",
+        "salt",
+        "sugar"
+      ],
+      "answer": "cotton",
+      "modelAnswer": "There was cotton in the first crow's sack.",
+      "modelMeaning": {
+        "hi": "पहले कौवे के थैले में रुई थी।",
+        "hinglish": "Pehle kauve ke thaile mein rui thi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.5.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What was there in the second crow's sack?",
+      "questionMeaning": {
+        "hi": "दूसरे कौवे के थैले में क्या था?",
+        "hinglish": "Doosre kauve ke thaile mein kya tha?"
+      },
+      "options": [
+        "salt",
+        "cotton",
+        "stones"
+      ],
+      "answer": "salt",
+      "modelAnswer": "There was salt in the second crow's sack.",
+      "modelMeaning": {
+        "hi": "दूसरे कौवे के थैले में नमक था।",
+        "hinglish": "Doosre kauve ke thaile mein namak tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.5.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who was expecting rain?",
+      "questionMeaning": {
+        "hi": "बारिश की उम्मीद किसे थी?",
+        "hinglish": "Baarish ki ummeed kise thi?"
+      },
+      "options": [
+        "the second crow",
+        "the first crow",
+        "nobody"
+      ],
+      "answer": "the second crow",
+      "modelAnswer": "The second crow was expecting rain.",
+      "modelMeaning": {
+        "hi": "दूसरे कौवे को बारिश की उम्मीद थी।",
+        "hinglish": "Doosre kauve ko baarish ki ummeed thi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.5.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who was defeated?",
+      "questionMeaning": {
+        "hi": "कौन हारा?",
+        "hinglish": "Kaun haara?"
+      },
+      "options": [
+        "the first crow",
+        "the second crow",
+        "both crows"
+      ],
+      "answer": "the first crow",
+      "modelAnswer": "The first crow was defeated because his cotton soaked up the rain and became very heavy.",
+      "modelMeaning": {
+        "hi": "पहला कौवा हारा क्योंकि उसकी रुई ने बारिश का पानी सोख लिया और बहुत भारी हो गई।",
+        "hinglish": "Pehla kauva haara kyonki uski rui ne baarish ka paani sokh liya aur bahut bhaari ho gayi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.5.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the salt sack become light?",
+      "questionMeaning": {
+        "hi": "नमक का थैला हल्का क्यों हुआ?",
+        "hinglish": "Namak ka thaila halka kyon hua?"
+      },
+      "options": [
+        "The salt dissolved in the rain.",
+        "The crow ate the salt.",
+        "The wind blew it away."
+      ],
+      "answer": "The salt dissolved in the rain."
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.5.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "word": {
+        "english": "dissolve",
+        "emoji": "",
+        "hindi": "घुल जाना",
+        "hinglish": "ghul jaana"
+      },
+      "meaning": "to mix completely into water",
+      "example": "Sugar dissolves in tea.",
+      "exampleMeaning": {
+        "hi": "चीनी चाय में घुल जाती है।",
+        "hinglish": "Cheeni chaay mein ghul jaati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.5.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "word": {
+        "english": "absorb",
+        "emoji": "",
+        "hindi": "सोख लेना",
+        "hinglish": "sokh lena"
+      },
+      "meaning": "to take in water",
+      "example": "A sponge absorbs water.",
+      "exampleMeaning": {
+        "hi": "स्पंज पानी सोख लेता है।",
+        "hinglish": "Sponge paani sokh leta hai."
+      }
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "B8.08.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.08.1.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.08.1.S01",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "यह कविता R. L. Stevenson की है। रात में चाँद सब पर चमकता है: चोर, बिल्ली, चूहे, कुत्ते और चमगादड़ पर। पर दिन वाले फूल और बच्चे सो जाते हैं। पहले मैं पढ़ूँगा, फिर तुम पढ़ना।",
+        "hinglish": "Yeh kavita R. L. Stevenson ki hai. Raat mein chaand sab par chamakta hai: chor, billi, choohe, kutte aur chamgaadad par. Par din waale phool aur bachche so jaate hain. Pehle main padhunga, phir tum padhna.",
+        "en": "This poem is by R. L. Stevenson. At night the moon shines on thieves, cats, mice, dogs and bats. But the flowers and children of the day go to sleep. I'll read first, then you read."
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "B8.08.1.S02",
+      "skills": [
+        "read.passage",
+        "speak.sentence"
+      ],
+      "title": {
+        "hi": "चाँद",
+        "hinglish": "Chaand",
+        "en": "The Moon"
+      },
+      "sentences": [
+        "The moon has a face like the clock in the hall;",
+        "She shines on thieves on the garden wall,",
+        "On streets and fields and harbour quays,",
+        "And birdies asleep in the forks of the trees.",
+        "",
+        "The squalling cat and the squeaking mouse,",
+        "The howling dog by the door of the house,",
+        "The bat that lies in bed at noon,",
+        "All love to be out by the light of the moon.",
+        "",
+        "But all of the things that belong to the day",
+        "Cuddle to sleep to be out of her way;",
+        "And flowers and children close their eyes",
+        "Till up in the morning the sun shall arise."
+      ],
+      "lineMeanings": [
+        {
+          "hi": "चाँद का चेहरा हॉल की घड़ी जैसा (गोल) है;",
+          "hinglish": "Chaand ka chehra hall ki ghadi jaisa (gol) hai;"
+        },
+        {
+          "hi": "वह बग़ीचे की दीवार पर चढ़े चोरों पर चमकता है,",
+          "hinglish": "Woh bageeche ki deewaar par chadhe choron par chamakta hai,"
+        },
+        {
+          "hi": "गलियों, खेतों और बंदरगाह के घाटों पर,",
+          "hinglish": "Galiyon, kheton aur bandargaah ke ghaaton par,"
+        },
+        {
+          "hi": "और पेड़ों की डालियों के बीच सोई चिड़ियों पर।",
+          "hinglish": "Aur pedon ki daaliyon ke beech soyi chidiyon par."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "चीख़ती बिल्ली और चीं-चीं करता चूहा,",
+          "hinglish": "Cheekhti billi aur cheen-cheen karta chooha,"
+        },
+        {
+          "hi": "घर के दरवाज़े पर हुआँ-हुआँ करता कुत्ता,",
+          "hinglish": "Ghar ke darwaaze par huaan-huaan karta kutta,"
+        },
+        {
+          "hi": "दोपहर में बिस्तर पर पड़ा रहने वाला चमगादड़,",
+          "hinglish": "Dopahar mein bistar par pada rehne waala chamgaadad,"
+        },
+        {
+          "hi": "सबको चाँदनी में बाहर रहना अच्छा लगता है।",
+          "hinglish": "Sabko chaandni mein baahar rehna achha lagta hai."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "पर दिन में रहने वाली सारी चीज़ें",
+          "hinglish": "Par din mein rehne waali saari cheezein"
+        },
+        {
+          "hi": "चाँद के रास्ते से हटकर सिमटकर सो जाती हैं;",
+          "hinglish": "Chaand ke raaste se hatkar simatkar so jaati hain;"
+        },
+        {
+          "hi": "और फूल और बच्चे आँखें बंद कर लेते हैं",
+          "hinglish": "Aur phool aur bachche aankhein band kar lete hain"
+        },
+        {
+          "hi": "जब तक सुबह सूरज नहीं निकलता।",
+          "hinglish": "Jab tak subah sooraj nahi nikalta."
+        }
+      ],
+      "words": [
+        {
+          "english": "harbour quays",
+          "hindi": "बंदरगाह के घाट",
+          "hinglish": "bandargaah ke ghaat"
+        },
+        {
+          "english": "squalling",
+          "hindi": "चीख़ती हुई",
+          "hinglish": "cheekhti hui"
+        },
+        {
+          "english": "squeaking",
+          "hindi": "चीं-चीं करता",
+          "hinglish": "cheen-cheen karta"
+        },
+        {
+          "english": "howling",
+          "hindi": "हुआँ-हुआँ करता",
+          "hinglish": "huaan-huaan karta"
+        },
+        {
+          "english": "cuddle",
+          "hindi": "लिपटना, गले लगना",
+          "hinglish": "lipatna, gale lagna"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.1.S03",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "question": "Do you like ‘Chanda Mama’? Why?",
+      "questionMeaning": {
+        "hi": "क्या तुम्हें ‘चंदा मामा’ पसंद है? क्यों?",
+        "hinglish": "Kya tumhe ‘Chanda Mama’ pasand hai? Kyon?"
+      },
+      "options": [
+        "Yes, because its cool, soft light is beautiful.",
+        "No, because it is hot."
+      ],
+      "answer": "Yes, because its cool, soft light is beautiful.",
+      "modelAnswer": "Answer about yourself: Yes, I like Chanda Mama because its cool and soft light looks beautiful at night.",
+      "modelMeaning": {
+        "hi": "अपने बारे में बताओ: हाँ, मुझे चंदा मामा पसंद है क्योंकि उसकी ठंडी, कोमल रोशनी रात में सुंदर लगती है।",
+        "hinglish": "Apne baare mein batao: Haan, mujhe Chanda Mama pasand hai kyonki uski thandi, komal roshni raat mein sundar lagti hai."
+      }
+    }
+  ]
+}

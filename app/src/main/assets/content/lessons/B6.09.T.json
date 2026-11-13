@@ -1,0 +1,198 @@
+{
+  "id": "B6.09.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.09.T.S01",
+    "B6.09.T.S02",
+    "B6.09.T.S03",
+    "B6.09.T.S04",
+    "B6.09.T.S05",
+    "B6.09.T.S06",
+    "B6.09.T.S07",
+    "B6.09.T.S08",
+    "B6.09.T.S09",
+    "B6.09.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.09.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? Denu was a washerman.",
+      "questionMeaning": {
+        "hi": "देनू धोबी था।",
+        "hinglish": "Denu dhobi tha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? Dhania sewed clothes for the fairies.",
+      "questionMeaning": {
+        "hi": "धनिया ने परियों के कपड़े सिले।",
+        "hinglish": "Dhania ne pariyon ke kapde sile."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "How did Denu and Dhania find out who made the shoes?",
+      "questionMeaning": {
+        "hi": "उन्हें कैसे पता चला?",
+        "hinglish": "Unhe kaise pata chala?"
+      },
+      "options": [
+        "They hid behind the door at night and watched.",
+        "They asked their neighbours.",
+        "They put a camera."
+      ],
+      "answer": "They hid behind the door at night and watched."
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "A barber ...",
+      "questionMeaning": {
+        "hi": "नाई क्या करता है?",
+        "hinglish": "Naai kya karta hai?"
+      },
+      "options": [
+        "cuts your hair",
+        "makes shoes",
+        "makes ornaments"
+      ],
+      "answer": "cuts your hair"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘greedy’?",
+      "questionMeaning": {
+        "hi": "‘greedy’ से तुक?",
+        "hinglish": "‘greedy’ se tuk?"
+      },
+      "options": [
+        "needy",
+        "wife",
+        "shop"
+      ],
+      "answer": "needy"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Opposite of ‘kind’",
+      "questionMeaning": {
+        "hi": "‘kind’ का उल्टा",
+        "hinglish": "‘kind’ ka ulta"
+      },
+      "options": [
+        "unkind",
+        "kindly",
+        "rekind"
+      ],
+      "answer": "unkind"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘wolf’ is ...",
+      "questionMeaning": {
+        "hi": "‘wolf’ का बहुवचन?",
+        "hinglish": "‘wolf’ ka bahuvachan?"
+      },
+      "options": [
+        "wolves",
+        "wolfs",
+        "wolfes"
+      ],
+      "answer": "wolves"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘shelf’ is ...",
+      "questionMeaning": {
+        "hi": "‘shelf’ का बहुवचन?",
+        "hinglish": "‘shelf’ ka bahuvachan?"
+      },
+      "options": [
+        "shelves",
+        "shelfs",
+        "shelfes"
+      ],
+      "answer": "shelves"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.T.S09",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Would you like to help the needy? (yes)",
+      "questionMeaning": {
+        "hi": "हाँ में जवाब",
+        "hinglish": "Haan mein jawab"
+      },
+      "options": [
+        "Yes, I would.",
+        "Yes, I do.",
+        "Yes, I can."
+      ],
+      "answer": "Yes, I would."
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.T.S10",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Something that goes with you all the time:",
+      "questionMeaning": {
+        "hi": "जो हमेशा साथ रहती है",
+        "hinglish": "Jo hamesha saath rehti hai"
+      },
+      "options": [
+        "shadow",
+        "school",
+        "sun"
+      ],
+      "answer": "shadow"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "B7.09.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.09.8.S01",
+      "skills": [
+        "vocab.home"
+      ],
+      "instruction": {
+        "hi": "घर से जुड़े शब्द जोड़ो",
+        "hinglish": "Ghar se jude shabd jodo",
+        "en": "Join the house words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "tenant",
+          "right": "a person who pays rent to live in a house",
+          "meaning": {
+            "hi": "किरायेदार",
+            "hinglish": "kiraayedaar"
+          }
+        },
+        {
+          "left": "rent",
+          "right": "money paid every month to live in a house",
+          "meaning": {
+            "hi": "किराया",
+            "hinglish": "kiraaya"
+          }
+        },
+        {
+          "left": "loan",
+          "right": "money borrowed from a bank",
+          "meaning": {
+            "hi": "क़र्ज़",
+            "hinglish": "karz"
+          }
+        },
+        {
+          "left": "owner",
+          "right": "the person a thing belongs to",
+          "meaning": {
+            "hi": "मालिक",
+            "hinglish": "maalik"
+          }
+        },
+        {
+          "left": "lakh",
+          "right": "one hundred thousand",
+          "meaning": {
+            "hi": "लाख",
+            "hinglish": "laakh"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.8.S02",
+      "skills": [
+        "vocab.home"
+      ],
+      "question": "Mr. Choudhary had one and a half lakh and a loan of one lakh. How much is that?",
+      "questionMeaning": {
+        "hi": "चौधरी के पास डेढ़ लाख थे और एक लाख का क़र्ज़। कुल कितना?",
+        "hinglish": "Choudhary ke paas dedh laakh the aur ek laakh ka karz. Kul kitna?"
+      },
+      "options": [
+        "two and a half lakh",
+        "three lakh",
+        "one lakh"
+      ],
+      "answer": "two and a half lakh",
+      "modelAnswer": "One and a half lakh plus one lakh is two and a half lakh, fifty thousand less than the price.",
+      "modelMeaning": {
+        "hi": "डेढ़ लाख और एक लाख मिलाकर ढाई लाख, जो क़ीमत से पचास हज़ार कम है।",
+        "hinglish": "Dedh laakh aur ek laakh milaakar dhaai laakh, jo keemat se pachaas hazaar kam hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.09.8.S03",
+      "skills": [
+        "vocab.home"
+      ],
+      "sentence": "We pay ___ to the landlord every month.",
+      "answer": "rent",
+      "options": [
+        "rent",
+        "loan",
+        "price"
+      ],
+      "meaning": {
+        "hi": "हम हर महीने मकान मालिक को किराया देते हैं।",
+        "hinglish": "Hum har mahine makaan maalik ko kiraaya dete hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.8.S04",
+      "skills": [
+        "vocab.home"
+      ],
+      "question": "Kali Ghat is in which city?",
+      "questionMeaning": {
+        "hi": "काली घाट किस शहर में है?",
+        "hinglish": "Kali Ghat kis shahar mein hai?"
+      },
+      "options": [
+        "Kolkata",
+        "Bhopal",
+        "Chennai"
+      ],
+      "answer": "Kolkata"
+    }
+  ]
+}

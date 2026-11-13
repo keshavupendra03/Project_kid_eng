@@ -1,0 +1,320 @@
+{
+  "id": "B8.14.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.14.3.S01",
+    "B8.14.3.S02",
+    "B8.14.3.S03",
+    "B8.14.3.S04",
+    "B8.14.3.S05",
+    "B8.14.3.S06",
+    "B8.14.3.S07",
+    "B8.14.3.S08",
+    "B8.14.3.S10",
+    "B8.14.3.S11",
+    "B8.14.3.S12",
+    "B8.14.3.S13",
+    "B8.14.3.S14"
+  ],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B8.14.3.S01",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "instruction": {
+        "hi": "dis- लगाकर उल्टा शब्द बनाओ",
+        "hinglish": "dis- lagaakar ulta shabd banao",
+        "en": "Make antonyms with dis-"
+      },
+      "pairs": [
+        {
+          "left": "courage",
+          "right": "discourage",
+          "meaning": {
+            "hi": "हिम्मत — हिम्मत तोड़ना",
+            "hinglish": "himmat — himmat todna"
+          }
+        },
+        {
+          "left": "agree",
+          "right": "disagree",
+          "meaning": {
+            "hi": "सहमत — असहमत",
+            "hinglish": "sahmat — asahmat"
+          }
+        },
+        {
+          "left": "appear",
+          "right": "disappear",
+          "meaning": {
+            "hi": "दिखना — ग़ायब होना",
+            "hinglish": "dikhna — gaayab hona"
+          }
+        },
+        {
+          "left": "comfort",
+          "right": "discomfort",
+          "meaning": {
+            "hi": "आराम — तकलीफ़",
+            "hinglish": "aaraam — takleef"
+          }
+        },
+        {
+          "left": "able",
+          "right": "disable",
+          "meaning": {
+            "hi": "सक्षम — अक्षम करना",
+            "hinglish": "saksham — aksham karna"
+          }
+        },
+        {
+          "left": "connect",
+          "right": "disconnect",
+          "meaning": {
+            "hi": "जोड़ना — काटना",
+            "hinglish": "jodna — kaatna"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S02",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "His father ___ to his joining politics.",
+      "answer": "disagreed",
+      "options": [
+        "disagreed",
+        "disappeared",
+        "disconnected"
+      ],
+      "meaning": {
+        "hi": "उनके पिता उनके राजनीति में आने से असहमत थे।",
+        "hinglish": "Unke pita unke raajneeti mein aane se asahmat the."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S03",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "The mice ___ as soon as they saw the cat.",
+      "answer": "disappeared",
+      "options": [
+        "disappeared",
+        "disagreed",
+        "disabled"
+      ],
+      "meaning": {
+        "hi": "बिल्ली देखते ही चूहे ग़ायब हो गए।",
+        "hinglish": "Billi dekhte hi choohe gaayab ho gaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S04",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "Meghna was ___ to see her marks in English.",
+      "answer": "discouraged",
+      "options": [
+        "discouraged",
+        "disconnected",
+        "disappeared"
+      ],
+      "meaning": {
+        "hi": "अंग्रेज़ी के नंबर देखकर मेघना का हौसला टूट गया।",
+        "hinglish": "Angrezi ke number dekhkar Meghna ka hausla toot gaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S05",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "He was ___ after the car accident.",
+      "answer": "disabled",
+      "options": [
+        "disabled",
+        "disagreed",
+        "discomfort"
+      ],
+      "meaning": {
+        "hi": "कार दुर्घटना के बाद वह विकलांग हो गया।",
+        "hinglish": "Car durghatna ke baad woh viklaang ho gaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S06",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "They ___ the phone because people were misusing it.",
+      "answer": "disconnected",
+      "options": [
+        "disconnected",
+        "disappeared",
+        "discouraged"
+      ],
+      "meaning": {
+        "hi": "लोग गलत इस्तेमाल कर रहे थे, इसलिए उन्होंने फ़ोन कटवा दिया।",
+        "hinglish": "Log galat istemaal kar rahe the, isliye unhone phone katwa diya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S07",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "One should not ___ the children.",
+      "answer": "discourage",
+      "options": [
+        "discourage",
+        "disconnect",
+        "disable"
+      ],
+      "meaning": {
+        "hi": "बच्चों का हौसला नहीं तोड़ना चाहिए।",
+        "hinglish": "Bachchon ka hausla nahi todna chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S08",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "Although he comes from a royal family, he put up with all the ___.",
+      "answer": "discomforts",
+      "options": [
+        "discomforts",
+        "disagrees",
+        "disappears"
+      ],
+      "meaning": {
+        "hi": "शाही परिवार का होकर भी उसने सारी तकलीफ़ें सहीं।",
+        "hinglish": "Shaahi parivaar ka hokar bhi usne saari takleefein sahin."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.14.3.S09",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "text": {
+        "hi": "(C) एक जैसी आवाज़, अलग मतलब: scene (दृश्य) – seen (देखा)।",
+        "hinglish": "(C) Ek jaisi awaaz, alag matlab: scene (drishya) – seen (dekha).",
+        "en": "(C) Same sound, different meanings: scene – seen."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S10",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "Please ___ for me at the gate.",
+      "answer": "wait",
+      "options": [
+        "wait",
+        "weight"
+      ],
+      "meaning": {
+        "hi": "कृपया गेट पर मेरा इंतज़ार करो।",
+        "hinglish": "Kripya gate par mera intezaar karo."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S11",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "The lion caught its ___.",
+      "answer": "prey",
+      "options": [
+        "prey",
+        "pray"
+      ],
+      "meaning": {
+        "hi": "शेर ने अपना शिकार पकड़ा।",
+        "hinglish": "Sher ne apna shikaar pakda."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S12",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "The ___ ran faster than the tortoise.",
+      "answer": "hare",
+      "options": [
+        "hare",
+        "hair"
+      ],
+      "meaning": {
+        "hi": "ख़रगोश कछुए से तेज़ भागा।",
+        "hinglish": "Khargosh kachhue se tez bhaaga."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S13",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "I ___ the answer.",
+      "answer": "knew",
+      "options": [
+        "knew",
+        "new"
+      ],
+      "meaning": {
+        "hi": "मुझे जवाब पता था।",
+        "hinglish": "Mujhe jawab pata tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.3.S14",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "We went to the ___ beach.",
+      "answer": "sea",
+      "options": [
+        "sea",
+        "see"
+      ],
+      "meaning": {
+        "hi": "हम समुद्र किनारे गए।",
+        "hinglish": "Hum samudra kinaare gaye."
+      }
+    }
+  ]
+}

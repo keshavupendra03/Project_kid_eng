@@ -1,0 +1,296 @@
+{
+  "id": "B6.06.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.06.4.S02",
+    "B6.06.4.S03",
+    "B6.06.4.S07",
+    "B6.06.4.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.06.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "text": {
+        "hi": "बहुवचन के नियम: 1) ज़्यादातर में s: book → books। 2) s, sh, ch पर ख़त्म हो तो es: bus → buses। 3) व्यंजन + y हो तो ies: baby → babies। 4) स्वर (a, e, i, o, u) + y हो तो सिर्फ़ s: boy → boys।",
+        "hinglish": "Bahuvachan ke niyam: 1) zyaadatar mein s: book → books. 2) s, sh, ch par khatm ho to es: bus → buses. 3) vyanjan + y ho to ies: baby → babies. 4) swar (a, e, i, o, u) + y ho to sirf s: boy → boys.",
+        "en": "Plural rules: 1) Most add s: book → books. 2) Ending in s, sh, ch: add es: bus → buses. 3) Consonant + y: change to ies: baby → babies. 4) Vowel + y: just add s: boy → boys."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.06.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "instruction": {
+        "hi": "एक को उसके बहुवचन से जोड़ो",
+        "hinglish": "Ek ko uske bahuvachan se jodo",
+        "en": "Join each word to its plural"
+      },
+      "pairs": [
+        {
+          "left": "arrow",
+          "right": "arrows",
+          "meaning": {
+            "hi": "तीर",
+            "hinglish": "teer"
+          }
+        },
+        {
+          "left": "prince",
+          "right": "princes",
+          "meaning": {
+            "hi": "राजकुमार",
+            "hinglish": "raajkumaar"
+          }
+        },
+        {
+          "left": "dress",
+          "right": "dresses",
+          "meaning": {
+            "hi": "पोशाकें",
+            "hinglish": "poshaakein"
+          }
+        },
+        {
+          "left": "bush",
+          "right": "bushes",
+          "meaning": {
+            "hi": "झाड़ियाँ",
+            "hinglish": "jhaadiyaan"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.06.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "instruction": {
+        "hi": "एक को उसके बहुवचन से जोड़ो",
+        "hinglish": "Ek ko uske bahuvachan se jodo",
+        "en": "Join each word to its plural"
+      },
+      "pairs": [
+        {
+          "left": "party",
+          "right": "parties",
+          "meaning": {
+            "hi": "पार्टियाँ",
+            "hinglish": "partiyaan"
+          }
+        },
+        {
+          "left": "family",
+          "right": "families",
+          "meaning": {
+            "hi": "परिवार",
+            "hinglish": "parivaar"
+          }
+        },
+        {
+          "left": "key",
+          "right": "keys",
+          "meaning": {
+            "hi": "चाबियाँ",
+            "hinglish": "chaabiyaan"
+          }
+        },
+        {
+          "left": "monkey",
+          "right": "monkeys",
+          "meaning": {
+            "hi": "बंदर",
+            "hinglish": "bandar"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "Which plural is correct?",
+      "questionMeaning": {
+        "hi": "कौन सा बहुवचन सही है?",
+        "hinglish": "Kaun sa bahuvachan sahi hai?"
+      },
+      "options": [
+        "countries",
+        "countrys",
+        "countryes"
+      ],
+      "answer": "countries"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "Which plural is correct?",
+      "questionMeaning": {
+        "hi": "कौन सा बहुवचन सही है?",
+        "hinglish": "Kaun sa bahuvachan sahi hai?"
+      },
+      "options": [
+        "days",
+        "daies",
+        "dayes"
+      ],
+      "answer": "days"
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.06.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "text": {
+        "hi": "बोलचाल में शब्द छोटे हो जाते हैं: I am → I'm, do not → don't। ’ (apostrophe) बताता है कि कोई अक्षर हटा है।",
+        "hinglish": "Bolchaal mein shabd chhote ho jaate hain: I am → I'm, do not → don't. ’ (apostrophe) bataata hai ki koi akshar hata hai.",
+        "en": "In speech, words get shorter: I am → I'm, do not → don't. The apostrophe (’) shows that letters are missing."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.06.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.contractions"
+      ],
+      "instruction": {
+        "hi": "छोटे रूप को पूरे रूप से जोड़ो",
+        "hinglish": "Chhote roop ko poore roop se jodo",
+        "en": "Match the short forms with the full forms"
+      },
+      "pairs": [
+        {
+          "left": "I'm",
+          "right": "I am",
+          "meaning": {
+            "hi": "मैं हूँ",
+            "hinglish": "main hoon"
+          }
+        },
+        {
+          "left": "I've",
+          "right": "I have",
+          "meaning": {
+            "hi": "मेरे पास है",
+            "hinglish": "mere paas hai"
+          }
+        },
+        {
+          "left": "I'll",
+          "right": "I will",
+          "meaning": {
+            "hi": "मैं करूँगा",
+            "hinglish": "main karoonga"
+          }
+        },
+        {
+          "left": "You'll",
+          "right": "You will",
+          "meaning": {
+            "hi": "तुम करोगे",
+            "hinglish": "tum karoge"
+          }
+        },
+        {
+          "left": "It's",
+          "right": "It is",
+          "meaning": {
+            "hi": "यह है",
+            "hinglish": "yeh hai"
+          }
+        },
+        {
+          "left": "It'll",
+          "right": "It will",
+          "meaning": {
+            "hi": "यह होगा",
+            "hinglish": "yeh hoga"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.06.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.contractions"
+      ],
+      "instruction": {
+        "hi": "छोटे रूप को पूरे रूप से जोड़ो",
+        "hinglish": "Chhote roop ko poore roop se jodo",
+        "en": "Match the short forms with the full forms"
+      },
+      "pairs": [
+        {
+          "left": "don't",
+          "right": "do not",
+          "meaning": {
+            "hi": "नहीं करना",
+            "hinglish": "nahi karna"
+          }
+        },
+        {
+          "left": "won't",
+          "right": "will not",
+          "meaning": {
+            "hi": "नहीं करेगा",
+            "hinglish": "nahi karega"
+          }
+        },
+        {
+          "left": "can't",
+          "right": "cannot",
+          "meaning": {
+            "hi": "नहीं कर सकता",
+            "hinglish": "nahi kar sakta"
+          }
+        },
+        {
+          "left": "that's",
+          "right": "that is",
+          "meaning": {
+            "hi": "वह है",
+            "hinglish": "woh hai"
+          }
+        },
+        {
+          "left": "what's",
+          "right": "what is",
+          "meaning": {
+            "hi": "क्या है",
+            "hinglish": "kya hai"
+          }
+        },
+        {
+          "left": "who's",
+          "right": "who is",
+          "meaning": {
+            "hi": "कौन है",
+            "hinglish": "kaun hai"
+          }
+        }
+      ]
+    }
+  ]
+}

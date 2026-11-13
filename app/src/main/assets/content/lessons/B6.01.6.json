@@ -1,0 +1,110 @@
+{
+  "id": "B6.01.6",
+  "level": 6,
+  "bookSteps": [
+    "B6.01.6.S02",
+    "B6.01.6.S03",
+    "B6.01.6.S04",
+    "B6.01.6.S05",
+    "B6.01.6.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.01.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब कहती है: पेड़ों के फ़ायदों पर पैराग्राफ़ लिखो। चलो वाक्य बनाते हैं।",
+        "hinglish": "Kitaab kehti hai: pedon ke faaydon par paragraph likho. Chalo vaakya banaate hain.",
+        "en": "The book says: write a paragraph on the uses of trees. Let's build the sentences."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.01.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "पेड़ बहुत काम के होते हैं।",
+        "hinglish": "Ped bahut kaam ke hote hain.",
+        "en": "Say that trees are very useful."
+      },
+      "answer": "Trees are very useful to us.",
+      "meaning": {
+        "hi": "पेड़ हमारे लिए बहुत काम के होते हैं।",
+        "hinglish": "Ped hamare liye bahut kaam ke hote hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.01.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "वे हमें ताज़ी हवा और छाँव देते हैं।",
+        "hinglish": "Woh humein taazi hawa aur chhaanv dete hain.",
+        "en": "Say they give fresh air and shade."
+      },
+      "answer": "They give us fresh air and shade.",
+      "meaning": {
+        "hi": "वे हमें ताज़ी हवा और छाँव देते हैं।",
+        "hinglish": "Woh humein taazi hawa aur chhaanv dete hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.01.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "हमें उनसे फल, लकड़ी और दवाइयाँ मिलती हैं।",
+        "hinglish": "Humein unse phal, lakdi aur davaaiyaan milti hain.",
+        "en": "Say what we get from them."
+      },
+      "answer": "We get fruits, wood and medicines from them.",
+      "meaning": {
+        "hi": "हमें उनसे फल, लकड़ी और दवाइयाँ मिलती हैं।",
+        "hinglish": "Humein unse phal, lakdi aur davaaiyaan milti hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.01.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "पक्षी पेड़ों पर रहते हैं।",
+        "hinglish": "Pakshi pedon par rehte hain.",
+        "en": "Say who lives in trees."
+      },
+      "answer": "Birds live in trees.",
+      "meaning": {
+        "hi": "पक्षी पेड़ों पर रहते हैं।",
+        "hinglish": "Pakshi pedon par rehte hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.01.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "हमें और पेड़ लगाने चाहिए।",
+        "hinglish": "Humein aur ped lagaane chahiye.",
+        "en": "Say that we should plant more trees."
+      },
+      "answer": "We should plant more trees.",
+      "meaning": {
+        "hi": "हमें और पेड़ लगाने चाहिए।",
+        "hinglish": "Humein aur ped lagaane chahiye."
+      }
+    }
+  ]
+}

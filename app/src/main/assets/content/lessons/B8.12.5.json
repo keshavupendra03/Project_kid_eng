@@ -1,0 +1,188 @@
+{
+  "id": "B8.12.5",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.12.5.S01",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब के पेज 111 पर मेले का विज्ञापन तस्वीर में है। अभ्यास के लिए यह विज्ञापन पढ़ो: ‘ग्रामीण व्यापार मेला, भोपाल हाट, 2 से 12 अक्टूबर। 150 स्टॉल, चंदेरी और महेश्वरी साड़ियाँ, बाग़ प्रिंट, आदिवासी गहने, रोज़ शाम लोक नृत्य। आयोजक: म.प्र. हस्तशिल्प विकास निगम।’",
+        "hinglish": "Kitaab ke page 111 par mele ka vigyaapan tasveer mein hai. Abhyaas ke liye yeh vigyaapan padho: ‘Graameen Vyaapaar Mela, Bhopal Haat, 2 se 12 October. 150 stall, Chanderi aur Maheshwari saadiyaan, Bagh print, aadivaasi gehne, roz shaam lok nritya. Aayojak: M.P. Hastashilp Vikaas Nigam.’",
+        "en": "The fair advert on page 111 is a picture. For practice, read this advert: ‘Rural Trade Fair, Bhopal Haat, 2nd to 12th October. 150 stalls, Chanderi and Maheshwari sarees, Bagh prints, tribal jewellery, folk dances every evening. Organised by M.P. Handicrafts Development Corporation.’"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.5.S02",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "Name the venue of this trade fair.",
+      "questionMeaning": {
+        "hi": "मेला कहाँ है?",
+        "hinglish": "Mela kahan hai?"
+      },
+      "options": [
+        "Bhopal Haat",
+        "Indore",
+        "Delhi"
+      ],
+      "answer": "Bhopal Haat"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.5.S03",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What is the duration of this fair?",
+      "questionMeaning": {
+        "hi": "मेला कब से कब तक?",
+        "hinglish": "Mela kab se kab tak?"
+      },
+      "options": [
+        "2nd to 12th October",
+        "only one day",
+        "the whole year"
+      ],
+      "answer": "2nd to 12th October"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.5.S04",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "How many stalls are there?",
+      "questionMeaning": {
+        "hi": "कितने स्टॉल हैं?",
+        "hinglish": "Kitne stall hain?"
+      },
+      "options": [
+        "150",
+        "12",
+        "2"
+      ],
+      "answer": "150"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.5.S05",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What dress materials are available?",
+      "questionMeaning": {
+        "hi": "कौन से कपड़े मिलेंगे?",
+        "hinglish": "Kaun se kapde milenge?"
+      },
+      "options": [
+        "Chanderi and Maheshwari sarees and Bagh prints",
+        "only jeans",
+        "school uniforms"
+      ],
+      "answer": "Chanderi and Maheshwari sarees and Bagh prints"
+    },
+    {
+      "type": "roleplay",
+      "id": "B8.12.5.S06",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "📞",
+      "turns": [
+        {
+          "id": "call",
+          "tinku": "Are you interested in visiting the Rural Trade Fair at Bhopal Haat?",
+          "meaning": {
+            "hi": "क्या तुम भोपाल हाट का ग्रामीण मेला देखने चलोगे?",
+            "hinglish": "Kya tum Bhopal Haat ka graameen mela dekhne chaloge?"
+          },
+          "replies": [
+            {
+              "say": "Oh yes. I will come with you in the evening.",
+              "meaning": {
+                "hi": "हाँ ज़रूर। मैं शाम को तुम्हारे साथ चलूँगा।",
+                "hinglish": "Haan zaroor. Main shaam ko tumhaare saath chaloonga."
+              },
+              "patterns": [
+                "oh yes *",
+                "yes *",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "when",
+          "tinku": "Do you know when it ends?",
+          "meaning": {
+            "hi": "पता है मेला कब तक है?",
+            "hinglish": "Pata hai mela kab tak hai?"
+          },
+          "replies": [
+            {
+              "say": "It is being held from 2nd to 12th October.",
+              "meaning": {
+                "hi": "यह 2 से 12 अक्टूबर तक है।",
+                "hinglish": "Yeh 2 se 12 October tak hai."
+              },
+              "patterns": [
+                "it is being held *",
+                "* october",
+                "* 12th *",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "tinku": "Will there be any cultural programme also?",
+          "meaning": {
+            "hi": "क्या कोई सांस्कृतिक कार्यक्रम भी होगा?",
+            "hinglish": "Kya koi saanskritik kaaryakram bhi hoga?"
+          },
+          "replies": [
+            {
+              "say": "Yes, there will be folk dances every evening.",
+              "meaning": {
+                "hi": "हाँ, रोज़ शाम लोक नृत्य होंगे।",
+                "hinglish": "Haan, roz shaam lok nritya honge."
+              },
+              "patterns": [
+                "yes *",
+                "* folk dances *",
+                "yes"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.12.5.S07",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब के पेज 112 पर 1991 और 2001 की जनगणना के बार डायग्राम हैं। उन्हें देखकर सवालों के जवाब वाला पैराग्राफ़ लिखो: सबसे ज़्यादा आबादी किस ज़िले में, किसमें सबसे ज़्यादा बढ़ी, आदि।",
+        "hinglish": "Kitaab ke page 112 par 1991 aur 2001 ki janganana ke bar diagram hain. Unhe dekhkar sawaalon ke jawab waala paragraph likho: sabse zyaada aabaadi kis zile mein, kismein sabse zyaada badhi, aadi.",
+        "en": "Page 112 of your book has bar diagrams from the 1991 and 2001 census. Use them to write a paragraph answering the questions: which district has the largest population, which grew the most, and so on."
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "B6.12.7",
+  "level": 6,
+  "bookSteps": [
+    "B6.12.7.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.12.7.S01",
+      "skills": [
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब: अकबर के गुणों का चार्ट पूरा करो: brave (बहादुर), wise (समझदार)... और कौन से शब्द उन पर ठीक बैठते हैं?",
+        "hinglish": "Kitaab: Akbar ke gunon ka chart poora karo: brave (bahaadur), wise (samajhdaar)... aur kaun se shabd un par theek baithte hain?",
+        "en": "The book: complete the chart of Akbar's qualities: brave, wise... which other words describe him?"
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B6.12.7.S02",
+      "skills": [
+        "book.activity"
+      ],
+      "instruction": {
+        "hi": "कौन से शब्द अकबर के गुण बताते हैं?",
+        "hinglish": "Kaun se shabd Akbar ke gun bataate hain?",
+        "en": "Which words describe Akbar's qualities?"
+      },
+      "groups": [
+        {
+          "id": "yes",
+          "name": "Akbar's qualities",
+          "emoji": "👑",
+          "meaning": {
+            "hi": "अकबर के गुण",
+            "hinglish": "Akbar ke gun"
+          }
+        },
+        {
+          "id": "no",
+          "name": "not Akbar",
+          "emoji": "❌",
+          "meaning": {
+            "hi": "अकबर के नहीं",
+            "hinglish": "Akbar ke nahi"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "brave",
+          "emoji": "🦁",
+          "groups": [
+            "yes"
+          ]
+        },
+        {
+          "text": "wise",
+          "emoji": "🦉",
+          "groups": [
+            "yes"
+          ]
+        },
+        {
+          "text": "generous",
+          "emoji": "🎁",
+          "groups": [
+            "yes"
+          ]
+        },
+        {
+          "text": "just",
+          "emoji": "⚖️",
+          "groups": [
+            "yes"
+          ]
+        },
+        {
+          "text": "lazy",
+          "emoji": "😴",
+          "groups": [
+            "no"
+          ]
+        },
+        {
+          "text": "cruel",
+          "emoji": "👿",
+          "groups": [
+            "no"
+          ]
+        }
+      ]
+    }
+  ]
+}

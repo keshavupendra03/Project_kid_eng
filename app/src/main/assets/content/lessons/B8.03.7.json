@@ -1,0 +1,148 @@
+{
+  "id": "B8.03.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.7.S02",
+    "B8.03.7.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.03.7.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब: जोड़ी में नोबेल पुरस्कार पर सवाल-जवाब करो। Tinku पूछेगा, तुम जवाब दो।",
+        "hinglish": "Kitaab: jodi mein Nobel puraskaar par sawaal-jawaab karo. Tinku poochhega, tum jawab do.",
+        "en": "The book: ask and answer about the Nobel Prize in pairs. Tinku asks, you reply."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B8.03.7.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🏅",
+      "turns": [
+        {
+          "id": "what",
+          "tinku": "What is the highest award in the world?",
+          "meaning": {
+            "hi": "दुनिया का सबसे बड़ा पुरस्कार कौन सा है?",
+            "hinglish": "Duniya ka sabse bada puraskaar kaun sa hai?"
+          },
+          "replies": [
+            {
+              "say": "The Nobel Prize is the highest award in the world.",
+              "meaning": {
+                "hi": "नोबेल पुरस्कार दुनिया का सबसे बड़ा पुरस्कार है।",
+                "hinglish": "Nobel puraskaar duniya ka sabse bada puraskaar hai."
+              },
+              "patterns": [
+                "the nobel prize *",
+                "nobel prize *",
+                "nobel prize",
+                "the nobel prize"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "why",
+          "tinku": "Why is it given?",
+          "meaning": {
+            "hi": "यह क्यों दिया जाता है?",
+            "hinglish": "Yeh kyon diya jaata hai?"
+          },
+          "replies": [
+            {
+              "say": "It is given for special work in peace, science and literature.",
+              "meaning": {
+                "hi": "यह शांति, विज्ञान और साहित्य में ख़ास काम के लिए दिया जाता है।",
+                "hinglish": "Yeh shaanti, vigyaan aur saahitya mein khaas kaam ke liye diya jaata hai."
+              },
+              "patterns": [
+                "it is given for *",
+                "for special work *",
+                "for *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "who",
+          "tinku": "Who gives the Nobel Prize?",
+          "meaning": {
+            "hi": "नोबेल पुरस्कार कौन देता है?",
+            "hinglish": "Nobel puraskaar kaun deta hai?"
+          },
+          "replies": [
+            {
+              "say": "Committees in Sweden and Norway give it.",
+              "meaning": {
+                "hi": "स्वीडन और नॉर्वे की समितियाँ देती हैं।",
+                "hinglish": "Sweden aur Norway ki samitiyaan deti hain."
+              },
+              "patterns": [
+                "committees in sweden and norway *",
+                "* sweden *",
+                "sweden and norway"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sen",
+          "tinku": "Who got the Nobel Prize in Economics?",
+          "meaning": {
+            "hi": "अर्थशास्त्र में नोबेल किसे मिला?",
+            "hinglish": "Arthashaastra mein Nobel kise mila?"
+          },
+          "replies": [
+            {
+              "say": "Amartya Sen got the Nobel Prize in Economics.",
+              "meaning": {
+                "hi": "अमर्त्य सेन को अर्थशास्त्र का नोबेल मिला।",
+                "hinglish": "Amartya Sen ko arthashaastra ka Nobel mila."
+              },
+              "patterns": [
+                "amartya sen *",
+                "amartya sen",
+                "* sen *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.7.S03",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "question": "In which of these fields is the Nobel Prize given?",
+      "questionMeaning": {
+        "hi": "नोबेल किस क्षेत्र में दिया जाता है?",
+        "hinglish": "Nobel kis kshetra mein diya jaata hai?"
+      },
+      "options": [
+        "Physics",
+        "Cricket",
+        "Cooking"
+      ],
+      "answer": "Physics",
+      "modelAnswer": "It is given for Peace, Physics, Chemistry, Literature, Economics and Medicine.",
+      "modelMeaning": {
+        "hi": "यह शांति, भौतिकी, रसायन, साहित्य, अर्थशास्त्र और चिकित्सा में दिया जाता है।",
+        "hinglish": "Yeh shaanti, bhautiki, rasaayan, saahitya, arthashaastra aur chikitsa mein diya jaata hai."
+      }
+    }
+  ]
+}

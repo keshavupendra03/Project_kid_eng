@@ -1,0 +1,227 @@
+{
+  "id": "B7.04.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.04.T.S01",
+    "B7.04.T.S02",
+    "B7.04.T.S03",
+    "B7.04.T.S04",
+    "B7.04.T.S07",
+    "B7.04.T.S08",
+    "B7.04.T.S09",
+    "B7.04.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "B7.04.T.S01",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Elephants can ___ up a whole tree.",
+      "answer": "gobble",
+      "options": [
+        "gobble",
+        "balance",
+        "watch"
+      ],
+      "meaning": {
+        "hi": "हाथी पूरा पेड़ गपागप खा सकते हैं।",
+        "hinglish": "Haathi poora ped gapagap kha sakte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.T.S02",
+      "skills": [
+        "book.words"
+      ],
+      "question": "What does ‘courtyard’ mean?",
+      "questionMeaning": {
+        "hi": "‘courtyard’ का क्या मतलब है?",
+        "hinglish": "‘courtyard’ ka kya matlab hai?"
+      },
+      "options": [
+        "an open space surrounded by buildings",
+        "an amusing drawing in a magazine",
+        "to eat something very fast"
+      ],
+      "answer": "an open space surrounded by buildings"
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "How did Appu drink a bucketful of water?",
+      "questionMeaning": {
+        "hi": "अप्पू ने बाल्टी भर पानी कैसे पिया?",
+        "hinglish": "Appu ne baalti bhar paani kaise piya?"
+      },
+      "options": [
+        "He sucked it all up from the bucket at one go.",
+        "He drank it slowly with a glass.",
+        "He spilled it on the ground."
+      ],
+      "answer": "He sucked it all up from the bucket at one go.",
+      "modelAnswer": "Appu sucked up all the water from the bucket with his trunk, at one go.",
+      "modelMeaning": {
+        "hi": "अप्पू ने अपनी सूँड से बाल्टी का सारा पानी एक ही बार में खींच लिया।",
+        "hinglish": "Appu ne apni soond se baalti ka saara paani ek hi baar mein kheench liya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.T.S04",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Where has she seen the elephants before?",
+      "questionMeaning": {
+        "hi": "उसने पहले हाथी कहाँ देखे हैं?",
+        "hinglish": "Usne pehle haathi kahan dekhe hain?"
+      },
+      "options": [
+        "In the movies and in cartoon shows on T.V.",
+        "In the zoo near her school.",
+        "In her grandfather's village."
+      ],
+      "answer": "In the movies and in cartoon shows on T.V.",
+      "modelAnswer": "She has seen elephants in the movies and in cartoon shows on T.V.",
+      "modelMeaning": {
+        "hi": "उसने हाथी फ़िल्मों में और टीवी पर कार्टून शो में देखे हैं।",
+        "hinglish": "Usne haathi filmon mein aur TV par cartoon show mein dekhe hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.T.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "sentence": "Please give me a ___ of bread.",
+      "answer": "slice",
+      "options": [
+        "slice",
+        "sheet",
+        "bar"
+      ],
+      "meaning": {
+        "hi": "कृपया मुझे ब्रेड का एक टुकड़ा दो।",
+        "hinglish": "Kripya mujhe bread ka ek tukda do."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "B7.04.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.uncountable"
+      ],
+      "words": [
+        "She",
+        "bought",
+        "two",
+        "soaps",
+        "from",
+        "the",
+        "shop."
+      ],
+      "wrong": 3,
+      "fix": "cakes of soap",
+      "meaning": {
+        "hi": "उसने दुकान से साबुन की दो टिकिया ख़रीदीं।",
+        "hinglish": "Usne dukaan se saabun ki do tikiya khareedin."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.T.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "The animal which is called \"The ship of the desert.\"",
+      "questionMeaning": {
+        "hi": "वह जानवर जिसे ‘रेगिस्तान का जहाज़’ कहते हैं।",
+        "hinglish": "Woh jaanwar jise ‘registaan ka jahaaz’ kehte hain."
+      },
+      "options": [
+        "camel",
+        "elephant",
+        "horse"
+      ],
+      "emojis": [
+        "🐪",
+        "🐘",
+        "🐎"
+      ],
+      "answer": "camel",
+      "modelAnswer": "The camel is called the ship of the desert.",
+      "modelMeaning": {
+        "hi": "ऊँट को रेगिस्तान का जहाज़ कहते हैं।",
+        "hinglish": "Oont ko registaan ka jahaaz kehte hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.T.S08",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Anita and her friends were a little ___ while sitting on the howdah.",
+      "answer": "scared",
+      "options": [
+        "scared",
+        "hungry",
+        "sleepy"
+      ],
+      "meaning": {
+        "hi": "हौदे पर बैठे हुए अनीता और उसके दोस्त थोड़े डरे हुए थे।",
+        "hinglish": "Haude par baithe hue Anita aur uske dost thode dare hue the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.T.S09",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which of these animals lives in water?",
+      "questionMeaning": {
+        "hi": "इनमें से कौन सा जानवर पानी में रहता है?",
+        "hinglish": "Inmein se kaun sa jaanwar paani mein rehta hai?"
+      },
+      "options": [
+        "frog",
+        "tiger",
+        "goat"
+      ],
+      "emojis": [
+        "🐸",
+        "🐅",
+        "🐐"
+      ],
+      "answer": "frog"
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.T.S10",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word means ‘feel certain’?",
+      "questionMeaning": {
+        "hi": "किस शब्द का मतलब ‘पक्का यक़ीन होना’ है?",
+        "hinglish": "Kis shabd ka matlab ‘pakka yaqeen hona’ hai?"
+      },
+      "options": [
+        "believe",
+        "balance",
+        "gobble"
+      ],
+      "answer": "believe"
+    }
+  ]
+}

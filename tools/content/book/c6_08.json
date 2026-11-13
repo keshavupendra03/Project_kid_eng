@@ -1,0 +1,235 @@
+{
+  "grade": 6, "number": 8, "emoji": "🐘", "title": "The Elephant", "pages": "43–53",
+  "sections": [
+    {
+      "emoji": "🎵", "title": ["सुनो और दोहराओ", "Suno aur dohraao", "Listen and Repeat"], "book": true,
+      "skills": ["book.words", "read.passage"],
+      "steps": [
+        {"card": ["यह कविता Herbert Asquith की है: एक हाथी बच्चों को पीठ पर बिठाकर झूमता हुआ चलता है। पहले मैं पढ़ूँगा, फिर तुम पढ़ना।", "Yeh kavita Herbert Asquith ki hai: ek haathi bachchon ko peeth par bithaakar jhoomta hua chalta hai. Pehle main padhunga, phir tum padhna.", "This poem is by Herbert Asquith: an elephant sways along with children on his back. I'll read first, then you read."]},
+        {"type": "read_along", "skills": ["read.passage", "speak.sentence"],
+          "title": ["हाथी", "Haathi", "The Elephant"],
+          "sentences": ["Here comes the elephant", "Swaying along", "With his cargo of children", "All singing a song:", "To the tinkle of laughter", "He goes on his way,", "And his cargo of children", "Have crowned him with may.", "", "His legs are in leather", "And padded his toes;", "He can root up an oak", "With a whisk of his nose.", "", "With a wave of his trunk", "And a turn of his chin", "He can pull down a house,", "Or pick up a pin.", "", "Beneath his grey forehead", "A little eye peers;", "Of what is he thinking", "Between those wide ears?"],
+          "lineMeanings": [
+            ["यह आ रहा है हाथी", "Yeh aa raha hai haathi"],
+            ["झूमता हुआ,", "Jhoomta hua,"],
+            ["पीठ पर बच्चों को लादे हुए,", "Peeth par bachchon ko laade hue,"],
+            ["जो सब गाना गा रहे हैं:", "Jo sab gaana ga rahe hain:"],
+            ["हँसी की खनखनाहट के साथ", "Hansi ki khankhanaahat ke saath"],
+            ["वह अपने रास्ते चलता है,", "Woh apne raaste chalta hai,"],
+            ["और पीठ पर बैठे बच्चों ने", "Aur peeth par baithe bachchon ne"],
+            ["उसे फूलों का ताज पहनाया है।", "Use phoolon ka taaj pehnaaya hai."],
+            ["", ""],
+            ["उसके पैरों पर चमड़े जैसी खाल है", "Uske pairon par chamde jaisi khaal hai"],
+            ["और उसके पंजों में गद्दी है;", "Aur uske panjon mein gaddi hai;"],
+            ["वह बलूत का पेड़ उखाड़ सकता है", "Woh baloot ka ped ukhaad sakta hai"],
+            ["अपनी सूँड़ के एक झटके से।", "Apni soond ke ek jhatke se."],
+            ["", ""],
+            ["अपनी सूँड़ हिलाकर", "Apni soond hilaakar"],
+            ["और ठोड़ी घुमाकर", "Aur thodi ghumaakar"],
+            ["वह घर भी गिरा सकता है,", "Woh ghar bhi gira sakta hai,"],
+            ["या एक सुई भी उठा सकता है।", "Ya ek sui bhi utha sakta hai."],
+            ["", ""],
+            ["उसके स्लेटी माथे के नीचे", "Uske sleti maathe ke neeche"],
+            ["एक छोटी सी आँख झाँकती है;", "Ek chhoti si aankh jhaankti hai;"],
+            ["वह क्या सोच रहा होगा", "Woh kya soch raha hoga"],
+            ["उन बड़े-बड़े कानों के बीच?", "Un bade-bade kaanon ke beech?"]
+          ],
+          "words": [
+            {"english": "swaying", "hindi": "झूमते हुए", "hinglish": "jhoomte hue"},
+            {"english": "cargo", "hindi": "लदा हुआ सामान (यहाँ बच्चे)", "hinglish": "lada hua saamaan (yahan bachche)"},
+            {"english": "may", "hindi": "नागफनी झाड़ी के सफ़ेद-गुलाबी फूल", "hinglish": "naagphani jhaadi ke safed-gulaabi phool"},
+            {"english": "peers", "hindi": "झाँकती है", "hinglish": "jhaankti hai"}
+          ]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर शब्द को उसके तुकबंदी परिवार में रखो", "Har shabd ko uske tukbandi parivaar mein rakho", "Put each word in its rhyming family"],
+          "groups": [
+            {"id": "ong", "name": "-ong (song)", "emoji": "🎶", "meaning": ["ॉन्ग", "ong"]},
+            {"id": "ay", "name": "-ay (way)", "emoji": "🛣️", "meaning": ["ए", "ay"]},
+            {"id": "ose", "name": "-ose (nose)", "emoji": "👃", "meaning": ["ओज़", "oz"]},
+            {"id": "in", "name": "-in (pin)", "emoji": "📌", "meaning": ["इन", "in"]},
+            {"id": "ears", "name": "-ears (ears)", "emoji": "👂", "meaning": ["इअर्स", "iyars"]}
+          ],
+          "items": [
+            {"text": "along", "emoji": "➡️", "groups": ["ong"]},
+            {"text": "may", "emoji": "🌸", "groups": ["ay"]},
+            {"text": "toes", "emoji": "🦶", "groups": ["ose"]},
+            {"text": "chin", "emoji": "🙂", "groups": ["in"]},
+            {"text": "peers", "emoji": "👀", "groups": ["ears"]},
+            {"text": "wrong", "emoji": "❌", "groups": ["ong"]},
+            {"text": "say", "emoji": "💬", "groups": ["ay"]},
+            {"text": "rose", "emoji": "🌹", "groups": ["ose"]},
+            {"text": "bin", "emoji": "🗑️", "groups": ["in"]},
+            {"text": "cheers", "emoji": "🎉", "groups": ["ears"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "🐾", "title": ["पढ़ो और सीखो: जानवरों के समूह", "Padho aur seekho: jaanwaron ke samooh", "Read and Learn: groups of animals"], "book": true,
+      "skills": ["book.words", "vocab.animals"],
+      "steps": [
+        {"card": ["जानवरों के तीन समूह: wild animals (जंगली), farm animals (खेत/फ़ार्म के), pet animals (पालतू)।", "Jaanwaron ke teen samooh: wild animals (jangli), farm animals (khet/farm ke), pet animals (paaltu).", "Animals can be in three groups: wild animals, farm animals and pet animals."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर जानवर को सही समूह में रखो", "Har jaanwar ko sahi samooh mein rakho", "Put each animal in its group"],
+          "groups": [
+            {"id": "wild", "name": "wild animals", "emoji": "🌳", "meaning": ["जंगली जानवर", "jangli jaanwar"]},
+            {"id": "farm", "name": "farm animals", "emoji": "🚜", "meaning": ["फ़ार्म के जानवर", "farm ke jaanwar"]},
+            {"id": "pet", "name": "pet animals", "emoji": "🏠", "meaning": ["पालतू जानवर", "paaltu jaanwar"]}
+          ],
+          "items": [
+            {"text": "elephant", "emoji": "🐘", "groups": ["wild"]},
+            {"text": "cow", "emoji": "🐄", "groups": ["farm"]},
+            {"text": "dog", "emoji": "🐕", "groups": ["pet"]},
+            {"text": "tiger", "emoji": "🐅", "groups": ["wild"]},
+            {"text": "sheep", "emoji": "🐑", "groups": ["farm"]},
+            {"text": "cat", "emoji": "🐈", "groups": ["pet"]},
+            {"text": "lion", "emoji": "🦁", "groups": ["wild"]},
+            {"text": "hen", "emoji": "🐔", "groups": ["farm"]},
+            {"text": "parrot", "emoji": "🦜", "groups": ["pet"]},
+            {"text": "monkey", "emoji": "🐒", "groups": ["wild"]},
+            {"text": "horse", "emoji": "🐎", "groups": ["farm"]},
+            {"text": "rabbit", "emoji": "🐇", "groups": ["pet"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.animals"],
+      "steps": [
+        {"card": ["किताब की पहेली में जानवरों के नाम भरने हैं। यहाँ सुराग पढ़कर जानवर चुनो।", "Kitaab ki paheli mein jaanwaron ke naam bharne hain. Yahan suraag padhkar jaanwar chuno.", "The book's puzzle asks for animal names. Read each clue here and pick the animal."]},
+        {"book": true, "type": "crossword", "entries": [
+          {"number": 1, "answer": "elephant", "across": true, "clue": "A huge animal with a trunk: ___", "given": true},
+          {"number": 2, "answer": "tiger", "across": false, "clue": "A wild cat with black stripes: ___"},
+          {"number": 3, "answer": "horse", "across": false, "clue": "A farm animal we can ride: ___"},
+          {"number": 4, "answer": "parrot", "across": false, "clue": "A green pet bird that can talk: ___"},
+          {"number": 5, "answer": "sheep", "across": true, "clue": "A farm animal that gives us wool: ___"},
+          {"number": 6, "answer": "rabbit", "across": true, "clue": "A pet with long ears that loves carrots: ___"}
+        ]},
+        {"book": true, "pairs": ["जानवरों को उनके बच्चों से जोड़ो", "Jaanwaron ko unke bachchon se jodo", "Match the animals with their young ones", [
+          ["cow", "calf", "बछड़ा", "bachhda"],
+          ["sheep", "lamb", "मेमना", "memna"],
+          ["hen", "chick", "चूज़ा", "choozaa"],
+          ["horse", "foal", "घोड़े का बच्चा", "ghode ka bachcha"],
+          ["duck", "duckling", "बत्तख का बच्चा", "battakh ka bachcha"],
+          ["pig", "piglet", "सूअर का बच्चा", "suar ka bachcha"]]]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"book": true, "q": ["How does the elephant come?", "हाथी कैसे आता है?", "Haathi kaise aata hai?", ["swaying along with children singing a song", "running very fast", "sleeping"], "swaying along with children singing a song", "The elephant comes swaying along with his cargo of children, all singing a song.", "हाथी झूमता हुआ आता है, उसकी पीठ पर बच्चे गाना गा रहे हैं।", "Haathi jhoomta hua aata hai, uski peeth par bachche gaana ga rahe hain."]},
+        {"book": true, "q": ["What is the cargo of the elephant?", "हाथी पर क्या लदा है?", "Haathi par kya lada hai?", ["children", "bananas", "wood"], "children", "The cargo of the elephant is children.", "हाथी पर बच्चे बैठे हैं।", "Haathi par bachche baithe hain."]},
+        {"book": true, "q": ["What can the elephant do with its trunk?", "हाथी अपनी सूँड से क्या कर सकता है?", "Haathi apni soond se kya kar sakta hai?", ["root up an oak, pull down a house or pick up a pin", "fly in the sky", "write a letter"], "root up an oak, pull down a house or pick up a pin", "With its trunk, the elephant can root up an oak tree, pull down a house or pick up a pin.", "हाथी अपनी सूँड से बलूत का पेड़ उखाड़ सकता है, घर गिरा सकता है या एक पिन उठा सकता है।", "Haathi apni soond se baloot ka ped ukhaad sakta hai, ghar gira sakta hai ya ek pin utha sakta hai."]},
+        {"book": true, "q": ["What did the children do to the elephant?", "बच्चों ने हाथी के साथ क्या किया?", "Bachchon ne haathi ke saath kya kiya?", ["They crowned him with may flowers.", "They hit him.", "They washed him."], "They crowned him with may flowers.", "The children crowned the elephant with may flowers.", "बच्चों ने हाथी को फूलों का मुकुट पहनाया।", "Bachchon ne haathi ko phoolon ka mukut pehnaaya."]},
+        {"says": ["He can pull down a house or pick up a pin.", "वह घर गिरा सकता है या एक पिन उठा सकता है।", "Woh ghar gira sakta hai ya ek pin utha sakta hai."], "skills": ["speak.sentence", "book.comprehension"]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: मेरी नाम की पर्ची", "Chalo baat karein: meri naam ki parchi", "Let's Talk: my name slip"], "book": true,
+      "skills": ["book.talk", "grammar.have_has"],
+      "steps": [
+        {"card": ["किताब का खेल: सबके नाम की पर्चियाँ मिला दी गई हैं। अपनी पर्ची ढूँढने के लिए पूछो: Do you have my name slip with you? जवाब: Yes, I have. / No, I don't have.", "Kitaab ka khel: sabke naam ki parchiyaan mila di gayi hain. Apni parchi dhoondhne ke liye poochho: Do you have my name slip with you? Jawab: Yes, I have. / No, I don't have.", "The book's game: everyone's name slips are mixed up. To find yours, ask: Do you have my name slip with you? Answer: Yes, I have. / No, I don't have."]},
+        {"book": true, "type": "roleplay", "scene": "📝", "turns": [
+          {"id": "ask", "tinku": "Hello! Do you have my name slip with you?", "meaning": ["हेलो! क्या मेरी नाम की पर्ची तुम्हारे पास है?", "Hello! Kya meri naam ki parchi tumhare paas hai?"],
+            "replies": [
+              {"say": "No, I don't have.", "meaning": ["नहीं, मेरे पास नहीं है।", "Nahi, mere paas nahi hai."], "patterns": ["no *", "no"]},
+              {"say": "Yes, I have.", "meaning": ["हाँ, मेरे पास है।", "Haan, mere paas hai."], "patterns": ["yes *", "yes"], "next": "found"}
+            ]},
+          {"id": "your", "tinku": "Okay. Now you ask me.", "meaning": ["ठीक है। अब तुम मुझसे पूछो।", "Theek hai. Ab tum mujhse poochho."],
+            "replies": [{"say": "Do you have my name slip with you?", "meaning": ["क्या मेरी पर्ची तुम्हारे पास है?", "Kya meri parchi tumhare paas hai?"], "patterns": ["do you have my name slip *", "do you have my *", "do you have *"]}]},
+          {"id": "found", "tinku": "Yes, I have! Here it is.", "meaning": ["हाँ, मेरे पास है! यह लो।", "Haan, mere paas hai! Yeh lo."],
+            "replies": [{"say": "Thank you!", "meaning": ["धन्यवाद!", "Dhanyavaad!"], "patterns": ["thank you *", "thank you", "thanks *", "thanks"], "next": "end"}]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें", "Chalo likhein", "Let's Write"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: दिए गए शब्दों से कविता का हिस्सा पूरा करो: crowned, elephant, cargo, song, way, laughter, children।", "Kitaab: diye gaye shabdon se kavita ka hissa poora karo: crowned, elephant, cargo, song, way, laughter, children.", "The book: complete the passage with crowned, elephant, cargo, song, way, laughter, children."]},
+        {"book": true, "fb": ["Here comes the ___ swaying along.", "elephant", ["elephant", "cargo", "song"], "यह आया हाथी झूमता हुआ।", "Yeh aaya haathi jhoomta hua."]},
+        {"book": true, "fb": ["... swaying along with his ___ of children.", "cargo", ["cargo", "song", "way"], "बच्चों से लदा झूमता हुआ।", "Bachchon se lada jhoomta hua."]},
+        {"book": true, "fb": ["All singing a ___.", "song", ["song", "laughter", "way"], "सब गाना गाते हुए।", "Sab gaana gaate hue."]},
+        {"book": true, "fb": ["To the tinkle of ___ he goes on his way.", "laughter", ["laughter", "children", "cargo"], "हँसी की खनक के साथ वह अपने रास्ते चलता है।", "Hansi ki khanak ke saath woh apne raaste chalta hai."]},
+        {"book": true, "fb": ["... he goes on his ___.", "way", ["way", "song", "cargo"], "वह अपने रास्ते चलता है।", "Woh apne raaste chalta hai."]},
+        {"book": true, "fb": ["And his cargo of ___ have crowned him with may.", "children", ["children", "laughter", "song"], "और बच्चों ने उसे फूलों का मुकुट पहनाया।", "Aur bachchon ne use phoolon ka mukut pehnaaya."]},
+        {"book": true, "fb": ["And his cargo of children have ___ him with may.", "crowned", ["crowned", "cargo", "way"], "बच्चों ने उसे फूलों का मुकुट पहनाया।", "Bachchon ne use phoolon ka mukut pehnaaya."]},
+        {"card": ["किताब (दोहराव 2): संकेतों से हाथी पर पाँच वाक्य लिखो। उदाहरण: huge — An elephant is a huge animal.", "Kitaab (dohraav 2): sanketon se haathi par paanch vaakya likho. Udaharan: huge — An elephant is a huge animal.", "The book (Revision 2): write five sentences about an elephant with the clues. Example: huge — An elephant is a huge animal."]},
+        {"book": true, "build": ["संकेत: trunk", "Sanket: trunk", "Clue: trunk", "An elephant has a long trunk.", "हाथी की लंबी सूँड होती है।", "Haathi ki lambi soond hoti hai."]},
+        {"book": true, "build": ["संकेत: tusks", "Sanket: tusks", "Clue: tusks", "It has two white tusks.", "उसके दो सफ़ेद दाँत होते हैं।", "Uske do safed daant hote hain."]},
+        {"book": true, "build": ["संकेत: strong", "Sanket: strong", "Clue: strong", "It is a very strong animal.", "यह बहुत ताक़तवर जानवर है।", "Yeh bahut taakatvar jaanwar hai."]},
+        {"book": true, "build": ["संकेत: heavy load", "Sanket: heavy load", "Clue: heavy load", "It can carry a heavy load.", "यह भारी बोझ उठा सकता है।", "Yeh bhaari bojh utha sakta hai."]},
+        {"book": true, "build": ["संकेत: ride", "Sanket: ride", "Clue: ride", "We can ride on an elephant.", "हम हाथी की सवारी कर सकते हैं।", "Hum haathi ki sawaari kar sakte hain."]}
+      ]
+    },
+    {
+      "emoji": "🔁", "title": ["दोहराव 2 (पाठ 5–8)", "Dohraav 2 (paath 5–8)", "Revision Exercises 2 (Lessons 5–8)"], "book": true,
+      "skills": ["book.words", "book.grammar"],
+      "steps": [
+        {"card": ["किताब के पेज 48-50 पर पाठ 5 से 8 का दोहराव है।", "Kitaab ke page 48-50 par paath 5 se 8 ka dohraav hai.", "Pages 48–50 of your book revise Lessons 5 to 8."]},
+        {"book": true, "q": ["rlee vlartt = ?", "उलझे अक्षर", "Uljhe akshar", ["traveller", "terrible", "travel"], "traveller"]},
+        {"book": true, "q": ["teplahne = ?", "उलझे अक्षर", "Uljhe akshar", ["elephant", "planet", "pentagon"], "elephant"]},
+        {"book": true, "q": ["roarw = ?", "उलझे अक्षर", "Uljhe akshar", ["arrow", "error", "worry"], "arrow"]},
+        {"book": true, "q": ["tnoil = ?", "उलझे अक्षर", "Uljhe akshar", ["lion", "lotion", "toil"], "lion"]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "pairs": ["एक को उसके बहुवचन से जोड़ो (किताब)", "Ek ko uske bahuvachan se jodo (kitaab)", "Write the singular or plural (book)", [
+          ["knife", "knives", "चाकू", "chaaku"],
+          ["bush", "bushes", "झाड़ियाँ", "jhaadiyaan"],
+          ["fairy", "fairies", "परियाँ", "pariyaan"],
+          ["key", "keys", "चाबियाँ", "chaabiyaan"],
+          ["foot", "feet", "पैर", "pair"],
+          ["mouse", "mice", "चूहे", "choohe"]]]},
+        {"card": ["अब उल्टा: ‘says that’ वाले वाक्य को सीधे बोले गए शब्दों में लिखो। उदाहरण: Mala says that she wants to be a doctor. → Mala says, \"I want to be a doctor.\"", "Ab ulta: ‘says that’ waale vaakya ko seedhe bole gaye shabdon mein likho. Udaharan: Mala says that she wants to be a doctor. → Mala says, \"I want to be a doctor.\"", "Now the other way: write ‘says that’ sentences as the exact spoken words. Example: Mala says that she wants to be a doctor. → Mala says, \"I want to be a doctor.\""]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "q": ["Meena says that she wants to be an engineer. =", "सीधे शब्दों में", "Seedhe shabdon mein", ["Meena says, \"I want to be an engineer.\"", "Meena says, \"She wants to be an engineer.\"", "Meena says I want engineer."], "Meena says, \"I want to be an engineer.\""]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "q": ["Gautam says that he wants to be a teacher. =", "सीधे शब्दों में", "Seedhe shabdon mein", ["Gautam says, \"I want to be a teacher.\"", "Gautam says, \"He wants to be a teacher.\"", "Gautam says that I am a teacher."], "Gautam says, \"I want to be a teacher.\""]},
+        {"book": true, "q": ["What can the elephant do with its trunk?", "हाथी सूँड से क्या कर सकता है?", "Haathi soond se kya kar sakta hai?", ["root up an oak, pull down a house or pick up a pin", "fly in the sky", "write a letter"], "root up an oak, pull down a house or pick up a pin"]},
+        {"book": true, "q": ["What do you think helped Mina?", "मीना को किसने मदद की?", "Mina ko kisne madad ki?", ["her self-confidence and steady running", "her height", "luck only"], "her self-confidence and steady running"]}
+      ]
+    },
+    {
+      "emoji": "📋", "title": ["अर्धवार्षिक परीक्षा का अभ्यास", "Ardhvaarshik pariksha ka abhyaas", "Half-yearly exam practice"], "book": true,
+      "skills": ["book.comprehension", "book.words"],
+      "steps": [
+        {"card": ["किताब के पेज 51-53 पर अर्धवार्षिक परीक्षा (Half Yearly Evaluation) का नमूना पेपर है।", "Kitaab ke page 51-53 par ardhvaarshik pariksha (Half Yearly Evaluation) ka namoona paper hai.", "Pages 51–53 of your book have a sample Half Yearly Evaluation paper."]},
+        {"book": true, "tf": ["Meena is tall, strong and well-built.", "मीना लंबी और ताक़तवर है।", "Meena lambi aur taakatvar hai.", false, "False. Meena (Mina) is thin and short.", "गलत। मीना पतली और छोटी है।", "Galat. Meena patli aur chhoti hai."]},
+        {"book": true, "tf": ["Yudhishtir is a Kaurav prince.", "युधिष्ठिर कौरव राजकुमार है।", "Yudhishthir Kaurav raajkumaar hai.", false, "False. Yudhishtir is a Pandav prince.", "गलत। युधिष्ठिर पांडव राजकुमार है।", "Galat. Yudhishthir Pandav raajkumaar hai."]},
+        {"book": true, "tf": ["The elephant has wide ears.", "हाथी के कान चौड़े होते हैं।", "Haathi ke kaan chaude hote hain.", true]},
+        {"book": true, "tf": ["The traveller does not like the stars.", "यात्री को तारे पसंद नहीं।", "Yaatri ko taare pasand nahi.", false, "False. The traveller thanks the star for its light.", "गलत। यात्री तारे को उसकी रोशनी के लिए धन्यवाद देता है।", "Galat. Yaatri taare ko uski roshni ke liye dhanyavaad deta hai."]},
+        {"book": true, "tf": ["The twinkle of the stars is wonderful.", "तारों का टिमटिमाना अद्भुत है।", "Taaron ka timtimaana adbhut hai.", true]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Meena is beautiful ___ Seema is not so beautiful.", "but", ["but", "and"], "मीना सुंदर है लेकिन सीमा उतनी सुंदर नहीं।", "Meena sundar hai lekin Seema utni sundar nahi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Seema ___ Meena both like to sing.", "and", ["and", "but"], "सीमा और मीना दोनों को गाना पसंद है।", "Seema aur Meena dono ko gaana pasand hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.punctuation"], "q": ["Which one has proper punctuation and capitals?", "किसमें सही विराम चिह्न और बड़े अक्षर हैं?", "Kismein sahi viraam chihn aur bade akshar hain?", ["Once Mr. Giles came for inspection. He gave five words to write as a spelling exercise. One of the words was ‘kettle’. I misspelt it.", "once mr giles came for inspection he gave five words to write", "Once mr. giles came. for inspection he gave Five words."], "Once Mr. Giles came for inspection. He gave five words to write as a spelling exercise. One of the words was ‘kettle’. I misspelt it."]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "q": ["Raman says, \"I want to be a teacher.\" =", "बिना उद्धरण चिह्न के", "Bina uddharan chihn ke", ["Raman says that he wants to be a teacher.", "Raman says that I want to be a teacher.", "Raman says he want teacher."], "Raman says that he wants to be a teacher."]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "q": ["I say, \"I want to be a lawyer.\" =", "बिना उद्धरण चिह्न के", "Bina uddharan chihn ke", ["I say that I want to be a lawyer.", "I say that he wants to be a lawyer.", "I says that I want lawyer."], "I say that I want to be a lawyer."]},
+        {"book": true, "q": ["What makes you a winner?", "तुम्हें विजेता क्या बनाता है?", "Tumhe vijeta kya banaata hai?", ["self-confidence and hard work", "being tall", "luck only"], "self-confidence and hard work", "Self-confidence and hard work make you a winner.", "आत्मविश्वास और मेहनत तुम्हें विजेता बनाते हैं।", "Aatmavishwaas aur mehnat tumhe vijeta banaate hain."]},
+        {"card": ["किताब का आख़िरी सवाल: दोस्त को संदेश लिखो कि तुम उसकी जन्मदिन पार्टी में नहीं आ सकते क्योंकि दादी के घर जा रहे हो। ऐसे लिखो: Dear Rohan, I am sorry I cannot come to your birthday party, as I am going to my grandma's home. Happy birthday! Have fun. Your friend, Amit.", "Kitaab ka aakhiri sawaal: dost ko sandesh likho ki tum uski janmdin party mein nahi aa sakte kyonki daadi ke ghar ja rahe ho. Aise likho: Dear Rohan, I am sorry I cannot come to your birthday party, as I am going to my grandma's home. Happy birthday! Have fun. Your friend, Amit.", "The paper's last question: write a message to your friend that you cannot come to the birthday party because you are going to your grandma's home. Write: Dear Rohan, I am sorry I cannot come to your birthday party, as I am going to my grandma's home. Happy birthday! Have fun. Your friend, Amit."]},
+        {"book": true, "skills": ["book.writing"], "build": ["संदेश: माफ़ करना, मैं तुम्हारी पार्टी में नहीं आ सकता/सकती।", "Sandesh: maaf karna, main tumhari party mein nahi aa sakta/sakti.", "Message: say sorry, you can't come to the party.", "I am sorry I cannot come to your party.", "माफ़ करना, मैं तुम्हारी पार्टी में नहीं आ सकता/सकती।", "Maaf karna, main tumhari party mein nahi aa sakta/sakti."]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: हाथी के बारे में", "Aur seekho: haathi ke baare mein", "Learn more: all about elephants"], "book": false,
+      "skills": ["vocab.animals"],
+      "steps": [
+        {"q": ["Which is the largest land animal?", "ज़मीन पर सबसे बड़ा जानवर कौन सा है?", "Zameen par sabse bada jaanwar kaun sa hai?", ["elephant", "giraffe", "horse"], "elephant", "The elephant is the largest land animal.", "हाथी ज़मीन पर रहने वाला सबसे बड़ा जानवर है।", "Haathi zameen par rehne waala sabse bada jaanwar hai.", ["🐘", "🦒", "🐎"]]},
+        {"q": ["What does an elephant eat?", "हाथी क्या खाता है?", "Haathi kya khaata hai?", ["grass, leaves, bananas and sugarcane", "meat", "fish"], "grass, leaves, bananas and sugarcane"]},
+        {"fb": ["The baby of an elephant is called a ___.", "calf", ["calf", "cub", "kitten"], "हाथी के बच्चे को calf कहते हैं।", "Haathi ke bachche ko calf kehte hain."]},
+        {"fb": ["An elephant uses its ___ like a hand.", "trunk", ["trunk", "tail", "ear"], "हाथी अपनी सूँड का इस्तेमाल हाथ की तरह करता है।", "Haathi apni soond ka istemaal haath ki tarah karta hai."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 8 का टेस्ट", "Paath 8 ka test", "Lesson 8 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What is the cargo of the elephant?", "हाथी पर क्या लदा है?", "Haathi par kya lada hai?", ["children", "bananas", "wood"], "children"]},
+        {"book": true, "q": ["What did the children do to the elephant?", "बच्चों ने हाथी के साथ क्या किया?", "Bachchon ne haathi ke saath kya kiya?", ["They crowned him with may flowers.", "They hit him.", "They washed him."], "They crowned him with may flowers."]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘nose’?", "‘nose’ से तुक?", "‘nose’ se tuk?", ["rose", "pin", "way"], "rose"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which is a farm animal?", "कौन सा फ़ार्म का जानवर है?", "Kaun sa farm ka jaanwar hai?", ["cow", "tiger", "parrot"], "cow"]},
+        {"book": true, "skills": ["book.words"], "q": ["The young one of a horse is a ...", "घोड़े का बच्चा?", "Ghode ka bachcha?", ["foal", "lamb", "calf"], "foal"]},
+        {"book": true, "skills": ["book.words"], "q": ["The young one of a sheep is a ...", "भेड़ का बच्चा?", "Bhed ka bachcha?", ["lamb", "chick", "piglet"], "lamb"]},
+        {"book": true, "skills": ["book.writing"], "fb": ["Here comes the elephant swaying along with his ___ of children.", "cargo", ["cargo", "song", "way"], "बच्चों से लदा हाथी झूमता आता है।", "Bachchon se lada haathi jhoomta aata hai."]},
+        {"book": true, "skills": ["book.talk"], "q": ["Do you have my name slip? (You don't have it.)", "क्या मेरी पर्ची तुम्हारे पास है? (नहीं है)", "Kya meri parchi tumhare paas hai? (Nahi hai)", ["No, I don't have.", "Yes, I have.", "No, I can't."], "No, I don't have."]},
+        {"book": true, "tf": ["Yudhishtir is a Kaurav prince.", "युधिष्ठिर कौरव राजकुमार है।", "Yudhishthir Kaurav raajkumaar hai.", false]},
+        {"book": true, "tf": ["The elephant has wide ears.", "हाथी के कान चौड़े होते हैं।", "Haathi ke kaan chaude hote hain.", true]}
+      ]
+    }
+  ]
+}

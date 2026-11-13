@@ -1,0 +1,315 @@
+{
+  "id": "B7.08.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.08.1.S02",
+    "B7.08.1.S03",
+    "B7.08.1.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.08.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "इस पाठ में बॉबी पियर्स नाम के नाव-दौड़ चैंपियन की सच्ची कहानी है, जिसने ओलंपिक रेस के बीच में बत्तख के बच्चों को बचाया! पहले किताब के सवाल।",
+        "hinglish": "Is paath mein Bobby Pearce naam ke naav-daud champion ki sachchi kahani hai, jisne Olympic race ke beech mein battakh ke bachchon ko bachaaya! Pehle kitaab ke sawaal.",
+        "en": "This lesson is the true story of Bobby Pearce, a rowing champion who saved ducklings in the middle of an Olympic race! First, the book's questions."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.08.1.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "⚽",
+      "turns": [
+        {
+          "id": "games",
+          "tinku": "What games do you play?",
+          "meaning": {
+            "hi": "तुम कौन से खेल खेलते हो?",
+            "hinglish": "Tum kaun se khel khelte ho?"
+          },
+          "replies": [
+            {
+              "say": "I play cricket and kabaddi.",
+              "meaning": {
+                "hi": "मैं क्रिकेट और कबड्डी खेलता/खेलती हूँ। (अपने खेल बोलो)",
+                "hinglish": "Main cricket aur kabaddi khelta/khelti hoon. (Apne khel bolo)"
+              },
+              "patterns": [
+                "i play *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "most",
+          "tinku": "Which game do you like the most?",
+          "meaning": {
+            "hi": "तुम्हें कौन सा खेल सबसे ज़्यादा पसंद है?",
+            "hinglish": "Tumhe kaun sa khel sabse zyaada pasand hai?"
+          },
+          "replies": [
+            {
+              "say": "I like cricket the most.",
+              "meaning": {
+                "hi": "मुझे क्रिकेट सबसे ज़्यादा पसंद है।",
+                "hinglish": "Mujhe cricket sabse zyaada pasand hai."
+              },
+              "patterns": [
+                "i like *",
+                "*",
+                "* *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What do you know about the Olympic Games? How often are they held?",
+      "questionMeaning": {
+        "hi": "ओलंपिक खेल कितने समय बाद होते हैं?",
+        "hinglish": "Olympic khel kitne samay baad hote hain?"
+      },
+      "options": [
+        "once in every four years",
+        "every year",
+        "once in ten years"
+      ],
+      "answer": "once in every four years",
+      "modelAnswer": "The Olympic Games are held once in every four years. Athletes from all the countries take part in them.",
+      "modelMeaning": {
+        "hi": "ओलंपिक खेल हर चार साल में एक बार होते हैं। सब देशों के खिलाड़ी इनमें हिस्सा लेते हैं।",
+        "hinglish": "Olympic khel har chaar saal mein ek baar hote hain. Sab deshon ke khilaadi inmein hissa lete hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.08.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "athlete",
+        "emoji": "",
+        "hindi": "खिलाड़ी (एथलीट)",
+        "hinglish": "khilaadi (athlete)"
+      },
+      "meaning": "a person who is good at sports and takes part in races",
+      "example": "The athlete ran very fast.",
+      "exampleMeaning": {
+        "hi": "खिलाड़ी बहुत तेज़ दौड़ा।",
+        "hinglish": "Khilaadi bahut tez dauda."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.08.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "ancient",
+        "emoji": "",
+        "hindi": "बहुत पुराना, प्राचीन",
+        "hinglish": "bahut puraana, praacheen"
+      },
+      "meaning": "very, very old; from long ago",
+      "example": "We saw an ancient temple in Khajuraho.",
+      "exampleMeaning": {
+        "hi": "हमने खजुराहो में एक प्राचीन मंदिर देखा।",
+        "hinglish": "Humne Khajuraho mein ek praacheen mandir dekha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.08.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "harbour",
+        "emoji": "",
+        "hindi": "बंदरगाह",
+        "hinglish": "bandargaah"
+      },
+      "meaning": "a place on the coast where ships and boats stay safely",
+      "example": "Many boats were in the harbour.",
+      "exampleMeaning": {
+        "hi": "बंदरगाह में बहुत सी नावें थीं।",
+        "hinglish": "Bandargaah mein bahut si naavein thin."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.08.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "rowing",
+        "emoji": "",
+        "hindi": "नाव खेना",
+        "hinglish": "naav khena"
+      },
+      "meaning": "moving a boat through water with oars",
+      "example": "Rowing makes your arms strong.",
+      "exampleMeaning": {
+        "hi": "नाव खेने से बाँहें मज़बूत होती हैं।",
+        "hinglish": "Naav khene se baahein mazboot hoti hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.08.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "competition",
+        "emoji": "",
+        "hindi": "प्रतियोगिता",
+        "hinglish": "pratiyogita"
+      },
+      "meaning": "a contest to find who is the best",
+      "example": "I won the drawing competition.",
+      "exampleMeaning": {
+        "hi": "मैंने ड्रॉइंग प्रतियोगिता जीती।",
+        "hinglish": "Maine drawing pratiyogita jeeti."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.08.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "champion",
+        "emoji": "",
+        "hindi": "विजेता, चैंपियन",
+        "hinglish": "vijeta, champion"
+      },
+      "meaning": "a person who wins a contest",
+      "example": "She is the chess champion of our school.",
+      "exampleMeaning": {
+        "hi": "वह हमारे स्कूल की शतरंज चैंपियन है।",
+        "hinglish": "Woh hamare school ki shatranj champion hai."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.08.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "किताब के phrases को उनके मतलब से जोड़ो",
+        "hinglish": "Kitaab ke phrases ko unke matlab se jodo",
+        "en": "Join the book's phrases to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "in the lead",
+          "right": "in the first place, ahead of others",
+          "meaning": {
+            "hi": "सबसे आगे",
+            "hinglish": "sabse aage"
+          }
+        },
+        {
+          "left": "catching up",
+          "right": "coming closer to someone ahead",
+          "meaning": {
+            "hi": "पीछे से पास आना",
+            "hinglish": "peechhe se paas aana"
+          }
+        },
+        {
+          "left": "out of danger",
+          "right": "safe now",
+          "meaning": {
+            "hi": "ख़तरे से बाहर",
+            "hinglish": "khatre se baahar"
+          }
+        },
+        {
+          "left": "in the finals",
+          "right": "in the last and deciding round",
+          "meaning": {
+            "hi": "फ़ाइनल मुक़ाबले में",
+            "hinglish": "final mukaable mein"
+          }
+        },
+        {
+          "left": "to win someone's heart",
+          "right": "to make someone love you",
+          "meaning": {
+            "hi": "किसी का दिल जीतना",
+            "hinglish": "kisi ka dil jeetna"
+          }
+        },
+        {
+          "left": "in the middle of",
+          "right": "at the centre of something",
+          "meaning": {
+            "hi": "बीच में",
+            "hinglish": "beech mein"
+          }
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B7.08.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "athlete",
+        "emoji": "",
+        "hindi": "खिलाड़ी",
+        "hinglish": "khilaadi"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.08.1.S12",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "champion",
+        "emoji": "",
+        "hindi": "विजेता",
+        "hinglish": "vijeta"
+      }
+    }
+  ]
+}

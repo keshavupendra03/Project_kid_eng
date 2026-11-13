@@ -1,0 +1,125 @@
+{
+  "id": "B7.03.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.03.6.S02",
+    "B7.03.6.S03",
+    "B7.03.6.S04",
+    "B7.03.6.S05",
+    "B7.03.6.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.03.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब कहती है: कल तुम बाज़ार गए थे, उसके बारे में लिखो। पहले मुश्किल शब्द: hustle and bustle = भीड़-भाड़ और चहल-पहल, eateries = खाने की दुकानें, bargaining = मोल-भाव।",
+        "hinglish": "Kitaab kehti hai: kal tum baazaar gaye the, uske baare mein likho. Pehle mushkil shabd: hustle and bustle = bheed-bhaad aur chahal-pahal, eateries = khaane ki dukaanein, bargaining = mol-bhaav.",
+        "en": "The book says: write about your visit to the market yesterday. First the hard words: hustle and bustle = crowd and noise, eateries = places to eat, bargaining = arguing about the price."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.03.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "कल मैं बाज़ार गया/गई।",
+        "hinglish": "Kal main baazaar gaya/gayi.",
+        "en": "Say that you went to the market yesterday."
+      },
+      "answer": "Yesterday I went to the market.",
+      "meaning": {
+        "hi": "कल मैं बाज़ार गया/गई।",
+        "hinglish": "Kal main baazaar gaya/gayi."
+      },
+      "extra": [
+        "go"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.03.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: hustle and bustle",
+        "hinglish": "Shabd: hustle and bustle",
+        "en": "Words: hustle and bustle"
+      },
+      "answer": "There was hustle and bustle everywhere.",
+      "meaning": {
+        "hi": "हर जगह भीड़-भाड़ और चहल-पहल थी।",
+        "hinglish": "Har jagah bheed-bhaad aur chahal-pahal thi."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.03.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: shopkeepers bargaining with customers",
+        "hinglish": "Shabd: shopkeepers bargaining with customers",
+        "en": "Words: shopkeepers bargaining with customers"
+      },
+      "answer": "Shopkeepers were bargaining with customers.",
+      "meaning": {
+        "hi": "दुकानदार ग्राहकों से मोल-भाव कर रहे थे।",
+        "hinglish": "Dukaandaar graahakon se mol-bhaav kar rahe the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.03.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: colourful lighting",
+        "hinglish": "Shabd: colourful lighting",
+        "en": "Words: colourful lighting"
+      },
+      "answer": "The shops had colourful lighting.",
+      "meaning": {
+        "hi": "दुकानों पर रंग-बिरंगी रोशनी थी।",
+        "hinglish": "Dukaanon par rang-birangi roshni thi."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.03.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: swings, sweet-shops",
+        "hinglish": "Shabd: swings, sweet-shops",
+        "en": "Words: swings, sweet-shops"
+      },
+      "answer": "Children enjoyed the swings and the sweet-shops.",
+      "meaning": {
+        "hi": "बच्चों ने झूलों और मिठाई की दुकानों का मज़ा लिया।",
+        "hinglish": "Bachchon ne jhoolon aur mithaai ki dukaanon ka mazaa liya."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.03.6.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "पूरा पैराग्राफ़: Yesterday I went to the market. There was hustle and bustle everywhere. Shopkeepers were bargaining with customers. The shops had colourful lighting. Children enjoyed the swings and the sweet-shops. People were eating at the eateries. I bought a toy from a fancy goods shop and clothes for my sister. I had a lot of fun!",
+        "hinglish": "Poora paragraph: Yesterday I went to the market. There was hustle and bustle everywhere. Shopkeepers were bargaining with customers. The shops had colourful lighting. Children enjoyed the swings and the sweet-shops. People were eating at the eateries. I bought a toy from a fancy goods shop and clothes for my sister. I had a lot of fun!",
+        "en": "The whole paragraph: Yesterday I went to the market. There was hustle and bustle everywhere. Shopkeepers were bargaining with customers. The shops had colourful lighting. Children enjoyed the swings and the sweet-shops. People were eating at the eateries. I bought a toy from a fancy goods shop and clothes for my sister. I had a lot of fun!"
+      }
+    }
+  ]
+}

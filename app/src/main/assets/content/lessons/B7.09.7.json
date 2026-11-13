@@ -1,0 +1,81 @@
+{
+  "id": "B7.09.7",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.09.7.S01",
+      "skills": [
+        "book.activity",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब कहती है: लाइब्रेरी से भूत की कहानियाँ पढ़ो और छोटे वाक्यों में दोस्तों को सुनाओ। चलो एक मज़ेदार छोटी कहानी के वाक्य बोलते हैं।",
+        "hinglish": "Kitaab kehti hai: library se bhoot ki kahaaniyaan padho aur chhote vaakyon mein doston ko sunaao. Chalo ek mazedaar chhoti kahani ke vaakya bolte hain.",
+        "en": "The book says: read ghost stories from the library and tell them in short sentences. Let's say the lines of a funny little story."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "B7.09.7.S02",
+      "skills": [
+        "speak.sentence",
+        "book.activity"
+      ],
+      "sentence": "One night, Raju saw something white in the garden.",
+      "meaning": {
+        "hi": "एक रात राजू ने बगीचे में कुछ सफ़ेद देखा।",
+        "hinglish": "Ek raat Raju ne bageeche mein kuch safed dekha.",
+        "en": "One night, Raju saw something white in the garden."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "B7.09.7.S03",
+      "skills": [
+        "speak.sentence",
+        "book.activity"
+      ],
+      "sentence": "He was very scared and called his father.",
+      "meaning": {
+        "hi": "वह बहुत डर गया और उसने पापा को बुलाया।",
+        "hinglish": "Woh bahut dar gaya aur usne papa ko bulaaya.",
+        "en": "He was very scared and called his father."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "B7.09.7.S04",
+      "skills": [
+        "speak.sentence",
+        "book.activity"
+      ],
+      "sentence": "It was only a white shirt on the clothes line!",
+      "meaning": {
+        "hi": "वह तो बस रस्सी पर टँगी एक सफ़ेद कमीज़ थी!",
+        "hinglish": "Woh to bas rassi par tangi ek safed kameez thi!",
+        "en": "It was only a white shirt on the clothes line!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.7.S05",
+      "skills": [
+        "book.activity",
+        "speak.sentence"
+      ],
+      "question": "What is the lesson of ‘The White Visitor’?",
+      "questionMeaning": {
+        "hi": "‘The White Visitor’ की सीख क्या है?",
+        "hinglish": "‘The White Visitor’ ki seekh kya hai?"
+      },
+      "options": [
+        "Be brave and find out the truth.",
+        "Always believe every story.",
+        "Never buy a house."
+      ],
+      "answer": "Be brave and find out the truth."
+    }
+  ]
+}

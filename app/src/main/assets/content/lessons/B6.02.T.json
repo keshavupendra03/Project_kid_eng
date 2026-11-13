@@ -1,0 +1,199 @@
+{
+  "id": "B6.02.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.02.T.S01",
+    "B6.02.T.S02",
+    "B6.02.T.S03",
+    "B6.02.T.S04",
+    "B6.02.T.S05",
+    "B6.02.T.S06",
+    "B6.02.T.S07",
+    "B6.02.T.S08",
+    "B6.02.T.S09",
+    "B6.02.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.02.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What is the pleasantest thing a child can do?",
+      "questionMeaning": {
+        "hi": "बच्चे के लिए सबसे सुहानी चीज़?",
+        "hinglish": "Bachche ke liye sabse suhaani cheez?"
+      },
+      "options": [
+        "to go up in a swing",
+        "to sleep",
+        "to do homework"
+      ],
+      "answer": "to go up in a swing"
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What does the child see going down the swing?",
+      "questionMeaning": {
+        "hi": "नीचे आते हुए बच्चा क्या देखता है?",
+        "hinglish": "Neeche aate hue bachcha kya dekhta hai?"
+      },
+      "options": [
+        "the green garden and the brown roof",
+        "the blue sky",
+        "the moon"
+      ],
+      "answer": "the green garden and the brown roof"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.T.S03",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Up in the air so ___?",
+      "answer": "blue",
+      "options": [
+        "blue",
+        "brown",
+        "green"
+      ],
+      "meaning": {
+        "hi": "इतनी नीली हवा में ऊपर?",
+        "hinglish": "Itni neeli hawa mein upar?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Down on the roof so ___,",
+      "answer": "brown",
+      "options": [
+        "brown",
+        "blue",
+        "green"
+      ],
+      "meaning": {
+        "hi": "इतनी भूरी छत पर,",
+        "hinglish": "Itni bhoori chhat par,"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘wall’?",
+      "questionMeaning": {
+        "hi": "‘wall’ से तुक मिलाने वाला शब्द?",
+        "hinglish": "‘wall’ se tuk milaane waala shabd?"
+      },
+      "options": [
+        "tall",
+        "wide",
+        "blue"
+      ],
+      "answer": "tall"
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘brown’?",
+      "questionMeaning": {
+        "hi": "‘brown’ से तुक मिलाने वाला शब्द?",
+        "hinglish": "‘brown’ se tuk milaane waala shabd?"
+      },
+      "options": [
+        "crown",
+        "clue",
+        "side"
+      ],
+      "answer": "crown"
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.T.S07",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which of these does the child see from the swing?",
+      "questionMeaning": {
+        "hi": "झूले से बच्चा क्या देखता है?",
+        "hinglish": "Jhoole se bachcha kya dekhta hai?"
+      },
+      "options": [
+        "cattle",
+        "aeroplane",
+        "sea"
+      ],
+      "answer": "cattle"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.T.S08",
+      "skills": [
+        "book.talk",
+        "grammar.can"
+      ],
+      "sentence": "I can swim. Can you? No, I ___.",
+      "answer": "can't",
+      "options": [
+        "can't",
+        "can"
+      ],
+      "meaning": {
+        "hi": "मैं तैर सकता हूँ। तुम? नहीं।",
+        "hinglish": "Main tair sakta hoon. Tum? Nahi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.T.S09",
+      "skills": [
+        "book.talk",
+        "grammar.can"
+      ],
+      "question": "‘Can you fly a kite?’ The answer if you can:",
+      "questionMeaning": {
+        "hi": "अगर तुम उड़ा सकते हो तो जवाब:",
+        "hinglish": "Agar tum uda sakte ho to jawab:"
+      },
+      "options": [
+        "Yes, I can.",
+        "Yes, I do.",
+        "No, I can't."
+      ],
+      "answer": "Yes, I can."
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.T.S10",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Who wrote ‘The Swing’?",
+      "questionMeaning": {
+        "hi": "‘The Swing’ किसने लिखी?",
+        "hinglish": "‘The Swing’ kisne likhi?"
+      },
+      "options": [
+        "Robert Louis Stevenson",
+        "Christina Rossetti",
+        "Jane Taylor"
+      ],
+      "answer": "Robert Louis Stevenson"
+    }
+  ]
+}

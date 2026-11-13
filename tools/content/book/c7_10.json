@@ -1,0 +1,172 @@
+{
+  "grade": 7, "number": 10, "emoji": "🚀", "title": "The Modern Way", "pages": "71–73",
+  "sections": [
+    {
+      "emoji": "🎵", "title": ["सुनो और दोहराओ", "Suno aur dohraao", "Listen and Repeat"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["इस कविता में एक लड़की अपने दोस्त को अपने रॉकेट में चाँद और मंगल (Mars) की सैर पर बुलाती है। यहाँ rocket = अंतरिक्ष यान (spacecraft)।", "Is kavita mein ek ladki apne dost ko apne rocket mein chaand aur mangal (Mars) ki sair par bulaati hai. Yahan rocket = antariksh yaan (spacecraft).", "In this poem a girl invites her friend for a trip to the Moon and Mars in her rocket. Here, a rocket means a spacecraft."]},
+        {"word": ["pleasant", "सुहाना, अच्छा", "suhaana, achha", "nice and enjoyable", "We had a pleasant evening in the park.", "पार्क में हमारी शाम बहुत सुहानी रही।", "Park mein hamari shaam bahut suhaani rahi."]},
+        {"word": ["trip", "सैर, यात्रा", "sair, yaatra", "a short journey to a place and back", "We went on a school trip to Sanchi.", "हम स्कूल की तरफ़ से साँची की सैर पर गए।", "Hum school ki taraf se Saanchi ki sair par gaye."]},
+        {"word": ["diamond", "हीरा", "heera", "a very hard, shining, costly stone", "The ring has a diamond in it.", "अँगूठी में एक हीरा है।", "Angoothi mein ek heera hai."]},
+        {"word": ["ease", "आसानी", "aasaani", "no difficulty", "She solved the sum with ease.", "उसने सवाल आसानी से हल कर लिया।", "Usne sawaal aasaani se hal kar liya."]},
+        {"word": ["long", "(यहाँ) बहुत चाहना", "(yahan) bahut chaahna", "to want something very much", "I long to see the sea.", "मैं समुद्र देखने के लिए तरस रहा/रही हूँ।", "Main samudra dekhne ke liye taras raha/rahi hoon."]},
+        {"card": ["किताब: एक जैसी आवाज़ वाले शब्दों को सुनो और दोहराओ। अब उन्हें उनके परिवार में रखो।", "Kitaab: ek jaisi awaaz waale shabdon ko suno aur dohraao. Ab unhe unke parivaar mein rakho.", "The book: listen to the rhyming words and repeat them. Now put each word in its rhyming family."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर शब्द को उसकी तुकबंदी वाले परिवार में रखो", "Har shabd ko uski tukbandi waale parivaar mein rakho", "Put each word in its rhyming family"],
+          "groups": [
+            {"id": "un", "name": "-un (fun)", "emoji": "🎉", "meaning": ["अन जैसी आवाज़", "un jaisi awaaz"]},
+            {"id": "ing", "name": "-ing (ring)", "emoji": "💍", "meaning": ["इंग जैसी आवाज़", "ing jaisi awaaz"]},
+            {"id": "ope", "name": "-ope (rope)", "emoji": "🔗", "meaning": ["ओप जैसी आवाज़", "ope jaisi awaaz"]},
+            {"id": "ust", "name": "-ust (just)", "emoji": "✅", "meaning": ["अस्ट जैसी आवाज़", "ast jaisi awaaz"]},
+            {"id": "ight", "name": "-ight (night)", "emoji": "🌙", "meaning": ["आइट जैसी आवाज़", "aait jaisi awaaz"]},
+            {"id": "ars", "name": "-ars (Mars)", "emoji": "🔴", "meaning": ["आर्स जैसी आवाज़", "aars jaisi awaaz"]}
+          ],
+          "items": [
+            {"text": "bun", "emoji": "🍞", "groups": ["un"]},
+            {"text": "sing", "emoji": "🎤", "groups": ["ing"]},
+            {"text": "hope", "emoji": "🙏", "groups": ["ope"]},
+            {"text": "must", "emoji": "❗", "groups": ["ust"]},
+            {"text": "might", "emoji": "💪", "groups": ["ight"]},
+            {"text": "cars", "emoji": "🚗", "groups": ["ars"]},
+            {"text": "gun", "emoji": "🔫", "groups": ["un"]},
+            {"text": "bring", "emoji": "🤲", "groups": ["ing"]},
+            {"text": "cope", "emoji": "🧘", "groups": ["ope"]},
+            {"text": "rust", "emoji": "🟫", "groups": ["ust"]},
+            {"text": "fight", "emoji": "🥊", "groups": ["ight"]},
+            {"text": "stars", "emoji": "⭐", "groups": ["ars"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["किताब के पेज 71 पर कविता ‘The Modern Way’ पढ़ो। फिर जवाब दो।", "Kitaab ke page 71 par kavita ‘The Modern Way’ padho. Phir jawab do.", "Read the poem ‘The Modern Way’ on page 71 of your book. Then answer."]},
+        {"book": true, "q": ["Whom does the poet invite?", "कवयित्री किसे बुलाती है?", "Kavayitri kise bulaati hai?", ["her friend", "her teacher", "her mother"], "her friend", "The poet invites her friend for a ride in her rocket.", "कवयित्री अपने दोस्त को अपने रॉकेट की सैर पर बुलाती है।", "Kavayitri apne dost ko apne rocket ki sair par bulaati hai."]},
+        {"book": true, "q": ["What does she want to see?", "वह क्या देखना चाहती है?", "Woh kya dekhna chahti hai?", ["the moon, and Mars if there is time", "the sea", "a forest"], "the moon, and Mars if there is time", "She wants to see the moon. If there is time, she wants to visit Mars too.", "वह चाँद देखना चाहती है। समय हो तो मंगल पर भी जाना चाहती है।", "Woh chaand dekhna chahti hai. Samay ho to mangal par bhi jaana chahti hai."]},
+        {"book": true, "q": ["Which are the things that attract her?", "कौन सी चीज़ें उसे अच्छी लगती हैं?", "Kaun si cheezein use achhi lagti hain?", ["the moon, Mars and the stars that shine like diamonds", "cars and trains", "rivers and mountains"], "the moon, Mars and the stars that shine like diamonds", "The moon, Mars and the stars that shine like diamonds in the sky attract her.", "चाँद, मंगल और आसमान में हीरों जैसे चमकते तारे उसे अच्छे लगते हैं।", "Chaand, mangal aur aasmaan mein heeron jaise chamakte taare use achhe lagte hain."]},
+        {"book": true, "q": ["Which test has she cleared?", "उसने कौन सा टेस्ट पास किया है?", "Usne kaun sa test paas kiya hai?", ["the test to fly a rocket", "a spelling test", "a swimming test"], "the test to fly a rocket", "She has passed the test to fly her rocket, with perfect ease.", "उसने रॉकेट उड़ाने का टेस्ट बड़ी आसानी से पास किया है।", "Usne rocket udaane ka test badi aasaani se paas kiya hai."]},
+        {"book": true, "q": ["What does she long to do?", "वह क्या करने के लिए तरस रही है?", "Woh kya karne ke liye taras rahi hai?", ["to take her friend for a ride in her rocket", "to go to school", "to buy a new car"], "to take her friend for a ride in her rocket", "She longs to take her friend for a ride in her rocket.", "वह अपने दोस्त को रॉकेट की सैर कराने के लिए तरस रही है।", "Woh apne dost ko rocket ki sair karaane ke liye taras rahi hai."]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: un- से उल्टा", "Shabd Shakti: un- se ulta", "Word Power: opposites with un-"], "book": true,
+      "skills": ["book.words", "grammar.prefix_suffix"],
+      "steps": [
+        {"card": ["शब्द के आगे ‘un’ लगाने से उल्टा मतलब: ease → unease (बेचैनी)।", "Shabd ke aage ‘un’ lagaane se ulta matlab: ease → unease (bechaini).", "Adding ‘un’ in front gives the opposite: ease → unease."]},
+        {"book": true, "pairs": ["हर शब्द को उसके उल्टे (un-) शब्द से जोड़ो", "Har shabd ko uske ulte (un-) shabd se jodo", "Join each word to its un- opposite", [
+          ["pleasant", "unpleasant", "अच्छा / बुरा, नापसंद", "achha / bura, naapasand"],
+          ["happy", "unhappy", "ख़ुश / दुखी", "khush / dukhi"],
+          ["wanted", "unwanted", "चाहा हुआ / अनचाहा", "chaaha hua / anchaaha"],
+          ["natural", "unnatural", "स्वाभाविक / अस्वाभाविक", "swaabhaavik / aswaabhaavik"]]]},
+        {"fb": ["The smell of the dustbin was very ___.", "unpleasant", ["unpleasant", "pleasant", "natural"], "कूड़ेदान की बदबू बहुत बुरी थी।", "Koodedaan ki badboo bahut buri thi."]},
+        {"fb": ["She was ___ because she lost her pen.", "unhappy", ["unhappy", "happy", "wanted"], "वह दुखी थी क्योंकि उसका पेन खो गया।", "Woh dukhi thi kyonki uska pen kho gaya."]},
+        {"q": ["What is the opposite of ‘kind’?", "‘kind’ का उल्टा क्या है?", "‘kind’ ka ulta kya hai?", ["unkind", "rekind", "kindful"], "unkind"]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: विराम चिह्न और शब्दों का क्रम", "Grammar: viraam chihn aur shabdon ka kram", "Grammar in Use: punctuation and word order"], "book": true,
+      "skills": ["book.grammar", "grammar.punctuation"],
+      "steps": [
+        {"card": ["विराम चिह्न (punctuation): वाक्य बड़े अक्षर (capital) से शुरू होता है और full stop (.) पर ख़त्म। ‘I’ हमेशा capital। रुकने के लिए comma (,)।", "Viraam chihn (punctuation): vaakya bade akshar (capital) se shuru hota hai aur full stop (.) par khatm. ‘I’ hamesha capital. Rukne ke liye comma (,).", "Punctuation: a sentence starts with a capital letter and ends with a full stop. ‘I’ is always a capital. Use a comma for a short pause."]},
+        {"book": true, "q": ["Which one is punctuated correctly?", "कौन सा सही विराम चिह्नों के साथ है?", "Kaun sa sahi viraam chihnon ke saath hai?", ["I have a tree, a green tree, to shade me from the sun. Under it I often sit, when all my work is done.", "i have a tree a green tree to shade me from the sun under it i often sit when all my work is done", "I have a tree. a green tree. to shade me. from the sun under it, I often sit when all my work is done"], "I have a tree, a green tree, to shade me from the sun. Under it I often sit, when all my work is done.", "I have a tree, a green tree, to shade me from the sun. Under it I often sit, when all my work is done.", "मेरे पास एक पेड़ है, एक हरा पेड़, जो मुझे धूप से छाँव देता है। काम ख़त्म होने पर मैं अक्सर उसके नीचे बैठता/बैठती हूँ।", "Mere paas ek ped hai, ek hara ped, jo mujhe dhoop se chhaanv deta hai. Kaam khatm hone par main aksar uske neeche baithta/baithti hoon."]},
+        {"q": ["Which word must always be a capital letter?", "कौन सा शब्द हमेशा बड़े अक्षर में लिखते हैं?", "Kaun sa shabd hamesha bade akshar mein likhte hain?", ["I", "tree", "sun"], "I"]},
+        {"card": ["अब बिखरे शब्दों से वाक्य बनाओ। किताब का उदाहरण: The moon / and / see / with / me / o / come → O! come with me and see the moon.", "Ab bikhre shabdon se vaakya banao. Kitaab ka udaharan: The moon / and / see / with / me / o / come → O! come with me and see the moon.", "Now make sentences from jumbled words. The book's example: The moon / and / see / with / me / o / come → O! come with me and see the moon."]},
+        {"book": true, "skills": ["book.grammar", "grammar.word_order"], "build": ["शब्द: have / time / if / we / will / visit / Mars / we", "Shabd: have / time / if / we / will / visit / Mars / we", "Words: have / time / if / we / will / visit / Mars / we", "If we have time, we will visit Mars.", "अगर समय हुआ, तो हम मंगल पर जाएँगे।", "Agar samay hua, to hum mangal par jaayenge."]},
+        {"book": true, "skills": ["book.grammar", "grammar.word_order"], "build": ["शब्द: it's / a / quite / trip / really / pleasant", "Shabd: it's / a / quite / trip / really / pleasant", "Words: it's / a / quite / trip / really / pleasant", "It's really quite a pleasant trip.", "यह सच में बहुत सुहानी सैर है।", "Yeh sach mein bahut suhaani sair hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.word_order"], "build": ["शब्द: diamonds / in / shine / the / sky / stars / like", "Shabd: diamonds / in / shine / the / sky / stars / like", "Words: diamonds / in / shine / the / sky / stars / like", "Stars shine like diamonds in the sky.", "तारे आसमान में हीरों की तरह चमकते हैं।", "Taare aasmaan mein heeron ki tarah chamakte hain."]},
+        {"book": true, "skills": ["book.grammar", "grammar.word_order"], "build": ["शब्द: my / rocket / just / waiting / is / outside", "Shabd: my / rocket / just / waiting / is / outside", "Words: my / rocket / just / waiting / is / outside", "My rocket is waiting just outside.", "मेरा रॉकेट ठीक बाहर इंतज़ार कर रहा है।", "Mera rocket theek baahar intezaar kar raha hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.word_order"], "build": ["शब्द: you / take / will / a / long / for / ride / I", "Shabd: you / take / will / a / long / for / ride / I", "Words: you / take / will / a / long / for / ride / I", "I will take you for a long ride.", "मैं तुम्हें लंबी सैर पर ले जाऊँगी।", "Main tumhe lambi sair par le jaaungi."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: ग्रह और अंतरिक्ष", "Chalo baat karein: grah aur antariksh", "Let's Talk: planets and space"], "book": true,
+      "skills": ["book.talk", "vocab.nature"],
+      "steps": [
+        {"card": ["हमारे सौर मंडल (solar system) में आठ ग्रह हैं: Mercury (बुध), Venus (शुक्र), Earth (पृथ्वी), Mars (मंगल), Jupiter (बृहस्पति), Saturn (शनि), Uranus (अरुण), Neptune (वरुण)।", "Hamare saur mandal (solar system) mein aath grah hain: Mercury (Budh), Venus (Shukra), Earth (Prithvi), Mars (Mangal), Jupiter (Brihaspati), Saturn (Shani), Uranus (Arun), Neptune (Varun).", "Our solar system has eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune."]},
+        {"book": true, "q": ["Which is the smallest planet?", "सबसे छोटा ग्रह कौन सा है?", "Sabse chhota grah kaun sa hai?", ["Mercury", "Jupiter", "Earth"], "Mercury", "Mercury is the smallest planet.", "बुध सबसे छोटा ग्रह है।", "Budh sabse chhota grah hai."]},
+        {"book": true, "q": ["Which is the hottest planet?", "सबसे गर्म ग्रह कौन सा है?", "Sabse garm grah kaun sa hai?", ["Venus", "Neptune", "Mars"], "Venus", "Venus is the hottest planet.", "शुक्र सबसे गर्म ग्रह है।", "Shukra sabse garm grah hai."]},
+        {"book": true, "q": ["What are the people who go into space called?", "अंतरिक्ष में जाने वाले लोगों को क्या कहते हैं?", "Antariksh mein jaane waale logon ko kya kehte hain?", ["astronauts", "pilots", "sailors"], "astronauts", "People who go into space are called astronauts.", "अंतरिक्ष में जाने वालों को अंतरिक्ष यात्री (astronauts) कहते हैं।", "Antariksh mein jaane waalon ko antariksh yaatri (astronauts) kehte hain."]},
+        {"book": true, "q": ["Name an Indian astronaut.", "किसी भारतीय अंतरिक्ष यात्री का नाम बताओ।", "Kisi Bhaarateeya antariksh yaatri ka naam batao.", ["Rakesh Sharma", "Sachin Tendulkar", "A. R. Rahman"], "Rakesh Sharma", "Rakesh Sharma was the first Indian to go into space, in 1984. Kalpana Chawla was the first woman of Indian origin in space.", "राकेश शर्मा 1984 में अंतरिक्ष जाने वाले पहले भारतीय थे। कल्पना चावला अंतरिक्ष जाने वाली भारतीय मूल की पहली महिला थीं।", "Rakesh Sharma 1984 mein antariksh jaane waale pehle Bhaarateeya the. Kalpana Chawla antariksh jaane waali Bhaarateeya mool ki pehli mahila thin."]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "🛰️", "turns": [
+          {"id": "space", "tinku": "What do you find most interesting about a space journey?", "meaning": ["अंतरिक्ष यात्रा में तुम्हें सबसे दिलचस्प क्या लगता है?", "Antariksh yaatra mein tumhe sabse dilchasp kya lagta hai?"],
+            "replies": [
+              {"say": "I find floating in space most interesting.", "meaning": ["मुझे अंतरिक्ष में तैरना सबसे दिलचस्प लगता है।", "Mujhe antariksh mein tairna sabse dilchasp lagta hai."], "patterns": ["i find *", "*", "* *", "* * *"], "next": "end"}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: छूटी हुई लाइनें", "Chalo likhein: chhooti hui lines", "Let's Write: the missing lines"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब कहती है: कविता की छूटी हुई लाइनें लिखो। पहले कविता याद करो, फिर सही लाइन चुनो।", "Kitaab kehti hai: kavita ki chhooti hui lines likho. Pehle kavita yaad karo, phir sahi line chuno.", "The book says: add the missing lines of the poem. Remember the poem, then pick the right line."]},
+        {"book": true, "q": ["O! come with me and see the moon. ... What comes next?", "इसके बाद कौन सी लाइन आती है?", "Iske baad kaun si line aati hai?", ["If we have time we'll visit Mars,", "My Rocket's waiting just outside.", "It won't take long."], "If we have time we'll visit Mars,"]},
+        {"book": true, "q": ["It's really quite a pleasant trip. ... What comes next?", "इसके बाद कौन सी लाइन आती है?", "Iske baad kaun si line aati hai?", ["Great fun at night with all the stars", "Please say you'll come,", "And long to take you for a ride."], "Great fun at night with all the stars"]},
+        {"book": true, "q": ["Great fun at night with all the stars ... What comes next?", "इसके बाद कौन सी लाइन आती है?", "Iske baad kaun si line aati hai?", ["That shine like diamonds in the sky.", "It won't take long.", "If we have time we'll visit Mars,"], "That shine like diamonds in the sky."]},
+        {"book": true, "q": ["Please say you'll come, ... What comes next?", "इसके बाद कौन सी लाइन आती है?", "Iske baad kaun si line aati hai?", ["It won't take long.", "That shine like diamonds in the sky.", "O! come with me and see the moon,"], "It won't take long."]},
+        {"book": true, "q": ["My Rocket's waiting just outside. ... What comes next?", "इसके बाद कौन सी लाइन आती है?", "Iske baad kaun si line aati hai?", ["I've passed my test with perfect ease,", "Great fun at night with all the stars", "It's really quite a pleasant trip."], "I've passed my test with perfect ease,"]}
+      ]
+    },
+    {
+      "emoji": "🌬️", "title": ["चलो करके देखें: प्रकृति की कविता", "Chalo karke dekhein: prakriti ki kavita", "Let's Do It: a poem on nature"], "book": false,
+      "skills": ["book.activity", "read.passage"],
+      "steps": [
+        {"card": ["किताब कहती है: प्रकृति पर कोई कविता ढूँढो और क्लास में सुनाओ। यह रही Christina Rossetti की एक छोटी कविता। पहले मैं पढ़ूँगा, फिर तुम पढ़कर अभ्यास करो।", "Kitaab kehti hai: prakriti par koi kavita dhoondho aur class mein sunaao. Yeh rahi Christina Rossetti ki ek chhoti kavita. Pehle main padhunga, phir tum padhkar abhyaas karo.", "The book says: find a poem on nature and recite it in class. Here is a short poem by Christina Rossetti. I'll read first; then you practise reading it."]},
+        {"type": "read_along", "skills": ["read.passage", "speak.sentence"],
+          "title": ["हवा को किसने देखा?", "Hawa ko kisne dekha?", "Who Has Seen the Wind?"],
+          "sentences": ["Who has seen the wind?", "Neither I nor you:", "But when the leaves hang trembling,", "The wind is passing through.", "", "Who has seen the wind?", "Neither you nor I:", "But when the trees bow down their heads,", "The wind is passing by."],
+          "lineMeanings": [
+            ["हवा को किसने देखा है?", "Hawa ko kisne dekha hai?"],
+            ["न मैंने, न तुमने:", "Na maine, na tumne:"],
+            ["पर जब पत्ते काँपते हुए लटकते हैं,", "Par jab patte kaanpte hue latakte hain,"],
+            ["तब हवा उनके बीच से गुज़र रही होती है।", "Tab hawa unke beech se guzar rahi hoti hai."],
+            ["", ""],
+            ["हवा को किसने देखा है?", "Hawa ko kisne dekha hai?"],
+            ["न तुमने, न मैंने:", "Na tumne, na maine:"],
+            ["पर जब पेड़ अपने सिर झुकाते हैं,", "Par jab ped apne sir jhukaate hain,"],
+            ["तब हवा पास से गुज़र रही होती है।", "Tab hawa paas se guzar rahi hoti hai."]
+          ],
+          "words": [
+            {"english": "wind", "hindi": "हवा", "hinglish": "hawa"},
+            {"english": "trembling", "hindi": "काँपते हुए", "hinglish": "kaanpte hue"},
+            {"english": "bow", "hindi": "झुकाना", "hinglish": "jhukaana"}
+          ]},
+        {"q": ["How do we know the wind is passing by, in this poem?", "इस कविता में हमें कैसे पता चलता है कि हवा गुज़र रही है?", "Is kavita mein humein kaise pata chalta hai ki hawa guzar rahi hai?", ["The leaves tremble and the trees bow their heads.", "We can see the wind.", "The sun comes out."], "The leaves tremble and the trees bow their heads."]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: भारत और अंतरिक्ष", "Aur seekho: Bharat aur antariksh", "Learn more: India in space"], "book": false,
+      "skills": ["vocab.nature"],
+      "steps": [
+        {"pairs": ["अंतरिक्ष के शब्द जोड़ो", "Antariksh ke shabd jodo", "Join the space words to their meanings", [
+          ["planet", "a big round body that moves around the sun", "ग्रह", "grah"],
+          ["satellite", "a body that moves around a planet", "उपग्रह", "upgrah"],
+          ["orbit", "the path around a planet or the sun", "कक्षा (घूमने का रास्ता)", "kaksha (ghoomne ka raasta)"],
+          ["telescope", "an instrument to see far-away things", "दूरबीन", "doorbeen"],
+          ["solar system", "the sun and the planets around it", "सौर मंडल", "saur mandal"]]]},
+        {"q": ["What is the name of India's space agency?", "भारत की अंतरिक्ष एजेंसी का नाम क्या है?", "Bharat ki antariksh agency ka naam kya hai?", ["ISRO", "NASA", "RBI"], "ISRO", "ISRO (Indian Space Research Organisation) is India's space agency.", "इसरो भारत की अंतरिक्ष एजेंसी है।", "ISRO Bharat ki antariksh agency hai."]},
+        {"q": ["Which Indian mission landed near the south pole of the moon?", "चाँद के दक्षिणी ध्रुव के पास कौन सा भारतीय मिशन उतरा?", "Chaand ke dakshini dhruv ke paas kaun sa Bhaarateeya mission utra?", ["Chandrayaan-3", "Mangalyaan", "Aryabhata"], "Chandrayaan-3", "Chandrayaan-3 landed near the south pole of the moon in 2023.", "चंद्रयान-3 2023 में चाँद के दक्षिणी ध्रुव के पास उतरा।", "Chandrayaan-3 2023 mein chaand ke dakshini dhruv ke paas utra."]},
+        {"q": ["Which planet do we live on?", "हम किस ग्रह पर रहते हैं?", "Hum kis grah par rehte hain?", ["Earth", "Mars", "Venus"], "Earth"]},
+        {"fb": ["The moon is a ___ of the Earth.", "satellite", ["satellite", "planet", "star"], "चाँद पृथ्वी का उपग्रह है।", "Chaand Prithvi ka upgrah hai."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 10 का टेस्ट", "Paath 10 ka test", "Lesson 10 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Whom does the poet invite?", "कवयित्री किसे बुलाती है?", "Kavayitri kise bulaati hai?", ["her friend", "her teacher", "her mother"], "her friend"]},
+        {"book": true, "q": ["What does she long to do?", "वह क्या करने को तरस रही है?", "Woh kya karne ko taras rahi hai?", ["to take her friend for a ride in her rocket", "to go to school", "to buy a new car"], "to take her friend for a ride in her rocket"]},
+        {"book": true, "q": ["Stars shine like ... in the sky.", "तारे आसमान में किसकी तरह चमकते हैं?", "Taare aasmaan mein kiski tarah chamakte hain?", ["diamonds", "lamps", "eyes"], "diamonds"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘night’?", "कौन सा शब्द ‘night’ से तुक मिलाता है?", "Kaun sa shabd ‘night’ se tuk milaata hai?", ["fight", "fun", "rope"], "fight"]},
+        {"book": true, "skills": ["book.words", "grammar.prefix_suffix"], "q": ["The opposite of ‘pleasant’ is ...", "‘pleasant’ का उल्टा?", "‘pleasant’ ka ulta?", ["unpleasant", "repleasant", "pleasantful"], "unpleasant"]},
+        {"book": true, "skills": ["book.words", "grammar.prefix_suffix"], "q": ["The opposite of ‘natural’ is ...", "‘natural’ का उल्टा?", "‘natural’ ka ulta?", ["unnatural", "denatural", "naturalless"], "unnatural"]},
+        {"book": true, "skills": ["book.grammar", "grammar.word_order"], "q": ["Which sentence is in the right order?", "कौन सा वाक्य सही क्रम में है?", "Kaun sa vaakya sahi kram mein hai?", ["My rocket is waiting just outside.", "Rocket my waiting is outside just.", "Just outside my is rocket waiting."], "My rocket is waiting just outside."]},
+        {"book": true, "skills": ["book.grammar", "grammar.punctuation"], "q": ["A sentence ends with a ...", "वाक्य किससे ख़त्म होता है?", "Vaakya kisse khatm hota hai?", ["full stop", "comma", "capital letter"], "full stop"]},
+        {"book": true, "skills": ["book.talk"], "q": ["Which is the hottest planet?", "सबसे गर्म ग्रह?", "Sabse garm grah?", ["Venus", "Neptune", "Mars"], "Venus"]},
+        {"book": true, "skills": ["book.talk"], "q": ["People who go into space are called ...", "अंतरिक्ष में जाने वाले कहलाते हैं ...", "Antariksh mein jaane waale kehlaate hain ...", ["astronauts", "pilots", "sailors"], "astronauts"]}
+      ]
+    }
+  ]
+}

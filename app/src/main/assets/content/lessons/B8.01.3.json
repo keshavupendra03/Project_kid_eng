@@ -1,0 +1,304 @@
+{
+  "id": "B8.01.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.01.3.S02",
+    "B8.01.3.S04",
+    "B8.01.3.S05",
+    "B8.01.3.S06",
+    "B8.01.3.S07",
+    "B8.01.3.S08",
+    "B8.01.3.S10",
+    "B8.01.3.S11",
+    "B8.01.3.S12",
+    "B8.01.3.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.01.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(A) कविता से उल्टे शब्द ढूँढो: good – bad। जवाब कविता में ही छिपे हैं!",
+        "hinglish": "(A) Kavita se ulte shabd dhoondho: good – bad. Jawab kavita mein hi chhipe hain!",
+        "en": "(A) Find the opposites in the poem: good – bad. The answers are hidden in the poem!"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.01.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "उल्टे शब्द जोड़ो (कविता से)",
+        "hinglish": "Ulte shabd jodo (kavita se)",
+        "en": "Join the opposites (from the poem)"
+      },
+      "pairs": [
+        {
+          "left": "success",
+          "right": "failure",
+          "meaning": {
+            "hi": "सफलता — असफलता",
+            "hinglish": "safalta — asafalta"
+          }
+        },
+        {
+          "left": "stale",
+          "right": "fresh",
+          "meaning": {
+            "hi": "बासी — ताज़ा",
+            "hinglish": "baasi — taaza"
+          }
+        },
+        {
+          "left": "hope",
+          "right": "despair",
+          "meaning": {
+            "hi": "उम्मीद — निराशा",
+            "hinglish": "ummeed — niraasha"
+          }
+        },
+        {
+          "left": "end",
+          "right": "beginning",
+          "meaning": {
+            "hi": "अंत — शुरुआत",
+            "hinglish": "ant — shuruaat"
+          }
+        },
+        {
+          "left": "shallow",
+          "right": "deep",
+          "meaning": {
+            "hi": "उथला — गहरा",
+            "hinglish": "uthla — gehra"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.01.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(B) सही स्वर (a, e, i, o, u) भरो।",
+        "hinglish": "(B) Sahi swar (a, e, i, o, u) bharo.",
+        "en": "(B) Fill in the correct vowel (a, e, i, o, u)."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "oft _ n",
+      "questionMeaning": {
+        "hi": "सही स्वर चुनो",
+        "hinglish": "Sahi swar chuno"
+      },
+      "options": [
+        "e",
+        "a",
+        "i"
+      ],
+      "answer": "e",
+      "modelAnswer": "often",
+      "modelMeaning": {
+        "hi": "अक्सर",
+        "hinglish": "aksar"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "bl _ t",
+      "questionMeaning": {
+        "hi": "सही स्वर चुनो",
+        "hinglish": "Sahi swar chuno"
+      },
+      "options": [
+        "o",
+        "a",
+        "u"
+      ],
+      "answer": "o",
+      "modelAnswer": "blot",
+      "modelMeaning": {
+        "hi": "धब्बा / मिटाना",
+        "hinglish": "dhabba / mitaana"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "w _ sh",
+      "questionMeaning": {
+        "hi": "सही स्वर चुनो",
+        "hinglish": "Sahi swar chuno"
+      },
+      "options": [
+        "i",
+        "a",
+        "e"
+      ],
+      "answer": "i",
+      "modelAnswer": "wish",
+      "modelMeaning": {
+        "hi": "इच्छा",
+        "hinglish": "ichchha"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "forg _ ve",
+      "questionMeaning": {
+        "hi": "सही स्वर चुनो",
+        "hinglish": "Sahi swar chuno"
+      },
+      "options": [
+        "i",
+        "e",
+        "a"
+      ],
+      "answer": "i",
+      "modelAnswer": "forgive",
+      "modelMeaning": {
+        "hi": "माफ़ करना",
+        "hinglish": "maaf karna"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "m _ stake",
+      "questionMeaning": {
+        "hi": "सही स्वर चुनो",
+        "hinglish": "Sahi swar chuno"
+      },
+      "options": [
+        "i",
+        "e",
+        "a"
+      ],
+      "answer": "i",
+      "modelAnswer": "mistake",
+      "modelMeaning": {
+        "hi": "गलती",
+        "hinglish": "galti"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.01.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(C) तुकबंदी वाले शब्द ढूँढो।",
+        "hinglish": "(C) Tukbandi waale shabd dhoondho.",
+        "en": "(C) Find the rhyming words."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.3.S10",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘shine’?",
+      "questionMeaning": {
+        "hi": "‘shine’ से तुक मिलाने वाला शब्द",
+        "hinglish": "‘shine’ se tuk milaane waala shabd"
+      },
+      "options": [
+        "line",
+        "shin",
+        "show"
+      ],
+      "answer": "line"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.3.S11",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘through’?",
+      "questionMeaning": {
+        "hi": "‘through’ से तुक मिलाने वाला शब्द",
+        "hinglish": "‘through’ se tuk milaane waala shabd"
+      },
+      "options": [
+        "new",
+        "though",
+        "tough"
+      ],
+      "answer": "new"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.3.S12",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘start’?",
+      "questionMeaning": {
+        "hi": "‘start’ से तुक मिलाने वाला शब्द",
+        "hinglish": "‘start’ se tuk milaane waala shabd"
+      },
+      "options": [
+        "heart",
+        "star",
+        "stand"
+      ],
+      "answer": "heart"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.3.S13",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘beginning’?",
+      "questionMeaning": {
+        "hi": "‘beginning’ से तुक मिलाने वाला शब्द",
+        "hinglish": "‘beginning’ se tuk milaane waala shabd"
+      },
+      "options": [
+        "winning",
+        "begin",
+        "being"
+      ],
+      "answer": "winning"
+    }
+  ]
+}

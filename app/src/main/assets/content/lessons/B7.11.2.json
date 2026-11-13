@@ -1,0 +1,352 @@
+{
+  "id": "B7.11.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.11.2.S02",
+    "B7.11.2.S03",
+    "B7.11.2.S04",
+    "B7.11.2.S05",
+    "B7.11.2.S06",
+    "B7.11.2.S07",
+    "B7.11.2.S09",
+    "B7.11.2.S10",
+    "B7.11.2.S11",
+    "B7.11.2.S12",
+    "B7.11.2.S13",
+    "B7.11.2.S15",
+    "B7.11.2.S16",
+    "B7.11.2.S17"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.11.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब के पेज 80-81 पर कविता ‘Lohri’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Kitaab ke page 80-81 par kavita ‘Lohri’ padho. Phir jawab do.",
+        "en": "Read the poem ‘Lohri’ on pages 80–81 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the poem about?",
+      "questionMeaning": {
+        "hi": "यह कविता किसके बारे में है?",
+        "hinglish": "Yeh kavita kiske baare mein hai?"
+      },
+      "options": [
+        "the festival of Lohri and a better way to celebrate it",
+        "a trip to the South",
+        "a cold winter night"
+      ],
+      "answer": "the festival of Lohri and a better way to celebrate it",
+      "modelAnswer": "The poem is about the festival of Lohri. It also tells us a better way to celebrate it without harming the environment.",
+      "modelMeaning": {
+        "hi": "यह कविता लोहड़ी के त्योहार के बारे में है। यह पर्यावरण को नुक़सान पहुँचाए बिना इसे मनाने का बेहतर तरीका भी बताती है।",
+        "hinglish": "Yeh kavita Lohri ke tyohaar ke baare mein hai. Yeh paryaavaran ko nuksaan pahunchaaye bina ise manaane ka behtar tareeka bhi bataati hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How are the days in the South during January?",
+      "questionMeaning": {
+        "hi": "जनवरी में दक्षिण में दिन कैसे होते हैं?",
+        "hinglish": "January mein dakshin mein din kaise hote hain?"
+      },
+      "options": [
+        "fine",
+        "very cold",
+        "rainy"
+      ],
+      "answer": "fine",
+      "modelAnswer": "The days in the South are fine during January.",
+      "modelMeaning": {
+        "hi": "जनवरी में दक्षिण में दिन अच्छे होते हैं।",
+        "hinglish": "January mein dakshin mein din achhe hote hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why do people collect twigs and leaves?",
+      "questionMeaning": {
+        "hi": "लोग टहनियाँ और पत्ते क्यों इकट्ठा करते हैं?",
+        "hinglish": "Log tahniyaan aur patte kyon ikattha karte hain?"
+      },
+      "options": [
+        "to make a big bonfire for Lohri",
+        "to make a nest",
+        "to feed their cows"
+      ],
+      "answer": "to make a big bonfire for Lohri",
+      "modelAnswer": "People collect twigs, leaves and wood to make a big pile for the Lohri bonfire.",
+      "modelMeaning": {
+        "hi": "लोग लोहड़ी के अलाव के लिए टहनियाँ, पत्ते और लकड़ी इकट्ठा करते हैं।",
+        "hinglish": "Log Lohri ke alaav ke liye tahniyaan, patte aur lakdi ikattha karte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What goes from hand to hand?",
+      "questionMeaning": {
+        "hi": "हाथ से हाथ क्या जाता है?",
+        "hinglish": "Haath se haath kya jaata hai?"
+      },
+      "options": [
+        "nuts and sweetmeats",
+        "twigs and leaves",
+        "money"
+      ],
+      "answer": "nuts and sweetmeats",
+      "modelAnswer": "Nuts and sweetmeats pass from hand to hand.",
+      "modelMeaning": {
+        "hi": "मेवे और मिठाइयाँ हाथ से हाथ जाती हैं।",
+        "hinglish": "Meve aur mithaaiyaan haath se haath jaati hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What, according to the poet, is not good for the environment?",
+      "questionMeaning": {
+        "hi": "कवि के अनुसार पर्यावरण के लिए क्या अच्छा नहीं है?",
+        "hinglish": "Kavi ke anusaar paryaavaran ke liye kya achha nahi hai?"
+      },
+      "options": [
+        "Bonfires burn a lot of wood and the smoke pollutes the air.",
+        "Eating sweets.",
+        "Singing songs."
+      ],
+      "answer": "Bonfires burn a lot of wood and the smoke pollutes the air.",
+      "modelAnswer": "According to the poet, bonfires are not good for the environment. They burn a lot of wood and the smoke pollutes the air.",
+      "modelMeaning": {
+        "hi": "कवि के अनुसार अलाव पर्यावरण के लिए अच्छे नहीं। इनमें बहुत लकड़ी जलती है और धुएँ से हवा गंदी होती है।",
+        "hinglish": "Kavi ke anusaar alaav paryaavaran ke liye achhe nahi. Inmein bahut lakdi jalti hai aur dhuein se hawa gandi hoti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How can Lohri be celebrated in a better way?",
+      "questionMeaning": {
+        "hi": "लोहड़ी को बेहतर तरीके से कैसे मनाया जा सकता है?",
+        "hinglish": "Lohri ko behtar tareeke se kaise manaaya ja sakta hai?"
+      },
+      "options": [
+        "by burning our hatred instead of wood",
+        "by burning more wood",
+        "by not meeting anyone"
+      ],
+      "answer": "by burning our hatred instead of wood",
+      "modelAnswer": "Lohri can be celebrated in a better way by burning our hatred instead of wood.",
+      "modelMeaning": {
+        "hi": "लकड़ी की जगह अपनी नफ़रत जलाकर लोहड़ी बेहतर तरीके से मनाई जा सकती है।",
+        "hinglish": "Lakdi ki jagah apni nafrat jalaakar Lohri behtar tareeke se manaayi ja sakti hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.11.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अब किताब का दूसरा भाग: कविता की लाइन के लिए सही शब्द चुनो।",
+        "hinglish": "Ab kitaab ka doosra bhaag: kavita ki line ke liye sahi shabd chuno.",
+        "en": "Now part B: pick the right word for each line of the poem."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Down in the North / South.",
+      "questionMeaning": {
+        "hi": "सही शब्द चुनो",
+        "hinglish": "Sahi shabd chuno"
+      },
+      "options": [
+        "South",
+        "North"
+      ],
+      "answer": "South"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Soon we have a great small / big pile.",
+      "questionMeaning": {
+        "hi": "सही शब्द चुनो",
+        "hinglish": "Sahi shabd chuno"
+      },
+      "options": [
+        "big",
+        "small"
+      ],
+      "answer": "big"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The flame will leap up / down high.",
+      "questionMeaning": {
+        "hi": "सही शब्द चुनो",
+        "hinglish": "Sahi shabd chuno"
+      },
+      "options": [
+        "up",
+        "down"
+      ],
+      "answer": "up"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Bonfires consume a lot of / a little wood.",
+      "questionMeaning": {
+        "hi": "सही शब्द चुनो",
+        "hinglish": "Sahi shabd chuno"
+      },
+      "options": [
+        "a lot of",
+        "a little"
+      ],
+      "answer": "a lot of"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Yet there must be a good / better way.",
+      "questionMeaning": {
+        "hi": "सही शब्द चुनो",
+        "hinglish": "Sahi shabd chuno"
+      },
+      "options": [
+        "better",
+        "good"
+      ],
+      "answer": "better"
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.11.2.S14",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अब छूटी हुई लाइनें (किताब का भाग C)।",
+        "hinglish": "Ab chhooti hui lines (kitaab ka bhaag C).",
+        "en": "Now the missing lines (part C)."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S15",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Down in the South, ... (next line)",
+      "questionMeaning": {
+        "hi": "अगली लाइन?",
+        "hinglish": "Agli line?"
+      },
+      "options": [
+        "The days are fine,",
+        "January's Lohri time.",
+        "Leap right into the sky."
+      ],
+      "answer": "The days are fine,"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S16",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Bonfires consume a lot of wood, ... (next line)",
+      "questionMeaning": {
+        "hi": "अगली लाइन?",
+        "hinglish": "Agli line?"
+      },
+      "options": [
+        "For the environment this is not so good.",
+        "Nuts and sweetmeats make the ornaments,",
+        "And wood of any sort,"
+      ],
+      "answer": "For the environment this is not so good."
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.2.S17",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Let's burn our hatred instead of wood ... (next line)",
+      "questionMeaning": {
+        "hi": "अगली लाइन?",
+        "hinglish": "Agli line?"
+      },
+      "options": [
+        "And send it up in flames for good.",
+        "The days are fine,",
+        "To celebrate winter's passing."
+      ],
+      "answer": "And send it up in flames for good."
+    }
+  ]
+}

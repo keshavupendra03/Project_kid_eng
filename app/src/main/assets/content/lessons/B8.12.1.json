@@ -1,0 +1,179 @@
+{
+  "id": "B8.12.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.12.1.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.12.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "खट्टाली गाँव में एक मेहमान सत्तू और उसके चाचा जाम सिंह से भील जनजाति के बारे में जानता है: घर, कला, कपड़े, गहने, त्योहार और नाच। यह हमारे मध्य प्रदेश की शान है!",
+        "hinglish": "Khattali gaanv mein ek mehmaan Sattu aur uske chaacha Jam Singh se Bhil janjaati ke baare mein jaanta hai: ghar, kala, kapde, gehne, tyohaar aur naach. Yeh hamaare Madhya Pradesh ki shaan hai!",
+        "en": "In Khattali village, a visitor learns about the Bhil tribe from Sattu and his uncle Jam Singh: houses, art, dresses, ornaments, festivals and dances. This is the pride of our Madhya Pradesh!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Have you ever been to a tribal village? Tell something about it.",
+      "questionMeaning": {
+        "hi": "क्या तुम कभी किसी आदिवासी गाँव गए हो?",
+        "hinglish": "Kya tum kabhi kisi aadivaasi gaanv gaye ho?"
+      },
+      "options": [
+        "Yes, the houses were painted and people wore colourful dresses.",
+        "No, never."
+      ],
+      "answer": "Yes, the houses were painted and people wore colourful dresses.",
+      "modelAnswer": "Answer about yourself, for example: Yes, I went to a Bhil village near Jhabua. The houses were made of bamboo and mud, and the walls had beautiful paintings.",
+      "modelMeaning": {
+        "hi": "अपने बारे में बताओ, जैसे: हाँ, मैं झाबुआ के पास एक भील गाँव गया था। घर बाँस और मिट्टी के थे और दीवारों पर सुंदर चित्र थे।",
+        "hinglish": "Apne baare mein batao, jaise: Haan, main Jhabua ke paas ek Bhil gaanv gaya tha. Ghar baans aur mitti ke the aur deewaron par sundar chitra the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.12.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "tribe",
+        "emoji": "",
+        "hindi": "जनजाति",
+        "hinglish": "janjaati"
+      },
+      "meaning": "a group of people with the same customs and culture",
+      "example": "The Bhils are a tribe of M.P.",
+      "exampleMeaning": {
+        "hi": "भील म.प्र. की एक जनजाति है।",
+        "hinglish": "Bhil M.P. ki ek janjaati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.12.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "dynasty",
+        "emoji": "",
+        "hindi": "राजवंश",
+        "hinglish": "raajvansh"
+      },
+      "meaning": "a family of rulers",
+      "example": "Rani Durgavati belonged to the Gond dynasty.",
+      "exampleMeaning": {
+        "hi": "रानी दुर्गावती गोंड राजवंश की थीं।",
+        "hinglish": "Rani Durgavati Gond raajvansh ki thin."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.12.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "folklore",
+        "emoji": "",
+        "hindi": "लोककथाएँ",
+        "hinglish": "lokkathaayein"
+      },
+      "meaning": "old stories and beliefs of a people",
+      "example": "Our grandparents know a lot of folklore.",
+      "exampleMeaning": {
+        "hi": "दादा-दादी बहुत सी लोककथाएँ जानते हैं।",
+        "hinglish": "Daada-daadi bahut si lokkathaayein jaante hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.12.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "customary",
+        "emoji": "",
+        "hindi": "रिवाज़ के अनुसार",
+        "hinglish": "rivaaz ke anusaar"
+      },
+      "meaning": "usual because of tradition",
+      "example": "Tattooing is customary among Bhils.",
+      "exampleMeaning": {
+        "hi": "भीलों में गोदना एक रिवाज़ है।",
+        "hinglish": "Bheelon mein godna ek rivaaz hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.12.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "erected",
+        "emoji": "",
+        "hindi": "खड़ा किया",
+        "hinglish": "khada kiya"
+      },
+      "meaning": "built or put up straight",
+      "example": "A Gatla is erected in memory of a family member.",
+      "exampleMeaning": {
+        "hi": "परिवार के सदस्य की याद में गाटला खड़ा किया जाता है।",
+        "hinglish": "Parivaar ke sadasya ki yaad mein Gatla khada kiya jaata hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.12.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "recognition",
+        "emoji": "",
+        "hindi": "पहचान, मान्यता",
+        "hinglish": "pehchaan, maanyata"
+      },
+      "meaning": "being known and respected",
+      "example": "Tribal art is getting world recognition.",
+      "exampleMeaning": {
+        "hi": "आदिवासी कला को दुनिया में पहचान मिल रही है।",
+        "hinglish": "Aadivaasi kala ko duniya mein pehchaan mil rahi hai."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.12.1.S09",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "tribe",
+        "emoji": "",
+        "hindi": "जनजाति",
+        "hinglish": "janjaati"
+      }
+    }
+  ]
+}

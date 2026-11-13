@@ -1,0 +1,240 @@
+{
+  "id": "B6.05.1",
+  "level": 6,
+  "bookSteps": [
+    "B6.05.1.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.05.1.S01",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "यह मशहूर कविता Jane Taylor की है। कवि रात में चमकते तारे से बात करता है। पहले मैं पढ़ूँगा, फिर तुम पढ़ना।",
+        "hinglish": "Yeh mashhoor kavita Jane Taylor ki hai. Kavi raat mein chamakte taare se baat karta hai. Pehle main padhunga, phir tum padhna.",
+        "en": "This famous poem is by Jane Taylor. The poet talks to a star shining at night. I'll read first, then you read."
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "B6.05.1.S02",
+      "skills": [
+        "read.passage",
+        "speak.sentence"
+      ],
+      "title": {
+        "hi": "तारा",
+        "hinglish": "Taara",
+        "en": "The Star"
+      },
+      "sentences": [
+        "Twinkle, twinkle, little star,",
+        "How I wonder what you are!",
+        "Up above the world so high,",
+        "Like a diamond in the sky.",
+        "",
+        "When the blazing sun is gone,",
+        "When there nothing shines upon,",
+        "Then you show your little light,",
+        "Twinkle, twinkle, all the night.",
+        "",
+        "Then the traveller in the dark",
+        "Thanks you for your tiny spark;",
+        "He could not see which way to go,",
+        "If you did not twinkle so."
+      ],
+      "lineMeanings": [
+        {
+          "hi": "टिमटिम करते छोटे तारे,",
+          "hinglish": "Timtim karte chhote taare,"
+        },
+        {
+          "hi": "मैं सोचता हूँ, तुम क्या हो!",
+          "hinglish": "Main sochta hoon, tum kya ho!"
+        },
+        {
+          "hi": "दुनिया से इतने ऊपर,",
+          "hinglish": "Duniya se itne upar,"
+        },
+        {
+          "hi": "आसमान में हीरे की तरह।",
+          "hinglish": "Aasmaan mein heere ki tarah."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "जब तेज़ जलता सूरज चला जाता है,",
+          "hinglish": "Jab tez jalta sooraj chala jaata hai,"
+        },
+        {
+          "hi": "जब उसकी रोशनी किसी पर नहीं पड़ती,",
+          "hinglish": "Jab uski roshni kisi par nahi padti,"
+        },
+        {
+          "hi": "तब तुम अपनी छोटी सी रोशनी दिखाते हो,",
+          "hinglish": "Tab tum apni chhoti si roshni dikhaate ho,"
+        },
+        {
+          "hi": "पूरी रात टिमटिमाते हो।",
+          "hinglish": "Poori raat timtimaate ho."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "तब अँधेरे में चलता यात्री",
+          "hinglish": "Tab andhere mein chalta yaatri"
+        },
+        {
+          "hi": "तुम्हारी छोटी सी चमक के लिए तुम्हें धन्यवाद देता है;",
+          "hinglish": "Tumhaari chhoti si chamak ke liye tumhe dhanyavaad deta hai;"
+        },
+        {
+          "hi": "उसे रास्ता नहीं दिखता,",
+          "hinglish": "Use raasta nahi dikhta,"
+        },
+        {
+          "hi": "अगर तुम ऐसे न टिमटिमाते।",
+          "hinglish": "Agar tum aise na timtimaate."
+        }
+      ],
+      "words": [
+        {
+          "english": "twinkle",
+          "hindi": "टिमटिमाना",
+          "hinglish": "timtimaana"
+        },
+        {
+          "english": "wonder",
+          "hindi": "सोचना, हैरान होना",
+          "hinglish": "sochna, hairaan hona"
+        },
+        {
+          "english": "blazing",
+          "hindi": "तेज़ जलता हुआ",
+          "hinglish": "tez jalta hua"
+        },
+        {
+          "english": "spark",
+          "hindi": "चिंगारी, छोटी रोशनी",
+          "hinglish": "chingaari, chhoti roshni"
+        }
+      ]
+    },
+    {
+      "type": "sort_groups",
+      "id": "B6.05.1.S03",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके तुकबंदी परिवार में रखो",
+        "hinglish": "Har shabd ko uske tukbandi parivaar mein rakho",
+        "en": "Put each word in its rhyming family"
+      },
+      "groups": [
+        {
+          "id": "inkle",
+          "name": "-inkle (twinkle)",
+          "emoji": "✨",
+          "meaning": {
+            "hi": "इंकल",
+            "hinglish": "inkal"
+          }
+        },
+        {
+          "id": "ar",
+          "name": "-ar (star)",
+          "emoji": "⭐",
+          "meaning": {
+            "hi": "आर",
+            "hinglish": "aar"
+          }
+        },
+        {
+          "id": "y",
+          "name": "-y (sky)",
+          "emoji": "🌌",
+          "meaning": {
+            "hi": "आइ",
+            "hinglish": "aai"
+          }
+        },
+        {
+          "id": "ark",
+          "name": "-ark (spark)",
+          "emoji": "🎇",
+          "meaning": {
+            "hi": "आर्क",
+            "hinglish": "aark"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "sprinkle",
+          "emoji": "💧",
+          "groups": [
+            "inkle"
+          ]
+        },
+        {
+          "text": "scar",
+          "emoji": "🩹",
+          "groups": [
+            "ar"
+          ]
+        },
+        {
+          "text": "sly",
+          "emoji": "🦊",
+          "groups": [
+            "y"
+          ]
+        },
+        {
+          "text": "stark",
+          "emoji": "⛰️",
+          "groups": [
+            "ark"
+          ]
+        },
+        {
+          "text": "wrinkle",
+          "emoji": "👴",
+          "groups": [
+            "inkle"
+          ]
+        },
+        {
+          "text": "far",
+          "emoji": "🔭",
+          "groups": [
+            "ar"
+          ]
+        },
+        {
+          "text": "my",
+          "emoji": "🙋",
+          "groups": [
+            "y"
+          ]
+        },
+        {
+          "text": "dark",
+          "emoji": "🌑",
+          "groups": [
+            "ark"
+          ]
+        }
+      ]
+    }
+  ]
+}

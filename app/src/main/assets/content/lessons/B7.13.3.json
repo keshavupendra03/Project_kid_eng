@@ -1,0 +1,247 @@
+{
+  "id": "B7.13.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.13.3.S02",
+    "B7.13.3.S03",
+    "B7.13.3.S04",
+    "B7.13.3.S05",
+    "B7.13.3.S06",
+    "B7.13.3.S07",
+    "B7.13.3.S08",
+    "B7.13.3.S09",
+    "B7.13.3.S10",
+    "B7.13.3.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.13.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब का उदाहरण: The four friends pooled their money to buy bus tickets. अब सही phrase चुनो।",
+        "hinglish": "Kitaab ka udaharan: The four friends pooled their money to buy bus tickets. Ab sahi phrase chuno.",
+        "en": "The book's example: The four friends pooled their money to buy bus tickets. Now pick the right phrase."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "I have put my pen somewhere. I am not able to ___.",
+      "answer": "trace it",
+      "options": [
+        "trace it",
+        "opt for",
+        "go round"
+      ],
+      "meaning": {
+        "hi": "मैंने पेन कहीं रख दिया। मैं उसे ढूँढ नहीं पा रहा/रही।",
+        "hinglish": "Maine pen kahin rakh diya. Main use dhoondh nahi pa raha/rahi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "What will you ___ after matriculation: Arts, Science or Commerce?",
+      "answer": "opt for",
+      "options": [
+        "opt for",
+        "get lost",
+        "find out"
+      ],
+      "meaning": {
+        "hi": "दसवीं के बाद तुम क्या चुनोगे: आर्ट्स, साइंस या कॉमर्स?",
+        "hinglish": "Dasvi ke baad tum kya chunoge: Arts, Science ya Commerce?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The child held his mother's hand tightly so that he may not ___.",
+      "answer": "get lost",
+      "options": [
+        "get lost",
+        "get dizzy",
+        "go round"
+      ],
+      "meaning": {
+        "hi": "बच्चे ने माँ का हाथ कसकर पकड़ा ताकि वह खो न जाए।",
+        "hinglish": "Bachche ne maa ka haath kaskar pakda taaki woh kho na jaaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "___ the correct solution of this sum.",
+      "answer": "Find out",
+      "options": [
+        "Find out",
+        "Opt for",
+        "Pool money"
+      ],
+      "meaning": {
+        "hi": "इस सवाल का सही हल निकालो।",
+        "hinglish": "Is sawaal ka sahi hal nikaalo."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "There were several ___ at the fair.",
+      "answer": "joy rides",
+      "options": [
+        "joy rides",
+        "get dizzy",
+        "trace it"
+      ],
+      "meaning": {
+        "hi": "मेले में कई मज़ेदार झूले थे।",
+        "hinglish": "Mele mein kai mazedaar jhoole the."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "If you stand under the hot sun you will ___.",
+      "answer": "get dizzy",
+      "options": [
+        "get dizzy",
+        "opt for",
+        "joy rides"
+      ],
+      "meaning": {
+        "hi": "तेज़ धूप में खड़े रहोगे तो चक्कर आएँगे।",
+        "hinglish": "Tez dhoop mein khade rahoge to chakkar aayenge."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The principal likes to ___ the school to see all the classes.",
+      "answer": "go round",
+      "options": [
+        "go round",
+        "get lost",
+        "pool money"
+      ],
+      "meaning": {
+        "hi": "प्रिंसिपल सारी क्लासें देखने के लिए स्कूल का चक्कर लगाना पसंद करते हैं।",
+        "hinglish": "Principal saari classein dekhne ke liye school ka chakkar lagaana pasand karte hain."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.13.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "एक जैसी आवाज़ वाले शब्दों को सही मतलब से जोड़ो",
+        "hinglish": "Ek jaisi awaaz waale shabdon ko sahi matlab se jodo",
+        "en": "Match the sound-alike words with their meanings"
+      },
+      "pairs": [
+        {
+          "left": "fare",
+          "right": "money paid for a ticket",
+          "meaning": {
+            "hi": "किराया",
+            "hinglish": "kiraaya"
+          }
+        },
+        {
+          "left": "fair",
+          "right": "a gathering of shops and rides for fun",
+          "meaning": {
+            "hi": "मेला",
+            "hinglish": "mela"
+          }
+        },
+        {
+          "left": "here",
+          "right": "opposite of ‘there’",
+          "meaning": {
+            "hi": "यहाँ",
+            "hinglish": "yahan"
+          }
+        },
+        {
+          "left": "hear",
+          "right": "receiving sounds by ear",
+          "meaning": {
+            "hi": "सुनना",
+            "hinglish": "sunna"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.3.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The bus ___ to Dholpur was three rupees.",
+      "answer": "fare",
+      "options": [
+        "fare",
+        "fair"
+      ],
+      "meaning": {
+        "hi": "धौलपुर का बस किराया तीन रुपये था।",
+        "hinglish": "Dholpur ka bus kiraaya teen rupaye tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.3.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "I can't ___ you. Please speak loudly.",
+      "answer": "hear",
+      "options": [
+        "hear",
+        "here"
+      ],
+      "meaning": {
+        "hi": "मैं तुम्हें सुन नहीं पा रहा। कृपया ज़ोर से बोलो।",
+        "hinglish": "Main tumhe sun nahi pa raha. Kripya zor se bolo."
+      }
+    }
+  ]
+}

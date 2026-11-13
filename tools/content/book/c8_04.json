@@ -1,0 +1,199 @@
+{
+  "grade": 8, "number": 4, "emoji": "🌳", "title": "Trees : Our Saviours", "pages": "25–33",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["उत्तराखंड के गाँव वालों ने पेड़ों से लिपटकर उन्हें कटने से बचाया। यही ‘चिपको आंदोलन’ है, बिना हिंसा का एक बड़ा आंदोलन।", "Uttarakhand ke gaanv waalon ne pedon se lipatkar unhe katne se bachaaya. Yahi ‘Chipko Aandolan’ hai, bina hinsa ka ek bada aandolan.", "Villagers in Uttarakhand hugged trees to stop them from being cut. This is the ‘Chipko Movement’, a great non-violent movement."]},
+        {"book": true, "q": ["What do we get from trees?", "पेड़ों से हमें क्या मिलता है?", "Pedon se humein kya milta hai?", ["fruit, wood, fodder, medicine and fresh air", "only plastic", "nothing"], "fruit, wood, fodder, medicine and fresh air", "We get fruit, wood, fuel, fodder for cattle, herbs for medicine, shade and fresh air from trees. Trees also stop floods and soil erosion.", "पेड़ों से हमें फल, लकड़ी, ईंधन, पशुओं का चारा, दवा की जड़ी-बूटियाँ, छाया और ताज़ी हवा मिलती है। पेड़ बाढ़ और मिट्टी का कटाव भी रोकते हैं।", "Pedon se humein phal, lakdi, eendhan, pashuon ka chaara, dava ki jadi-bootiyaan, chhaaya aur taazi hawa milti hai. Ped baadh aur mitti ka kataav bhi rokte hain."]},
+        {"book": true, "q": ["Name a kind of tree.", "किसी पेड़ का नाम बताओ", "Kisi ped ka naam batao", ["neem", "rose", "grass"], "neem", "Some kinds of trees: neem, mango, banyan, peepal, teak, sal, deodar.", "कुछ पेड़: नीम, आम, बरगद, पीपल, सागौन, साल, देवदार।", "Kuchh ped: neem, aam, bargad, peepal, saagaun, saal, devdaar."]},
+        {"word": ["deforestation", "जंगलों की कटाई", "junglon ki kataai", "cutting down forests", "Deforestation causes floods.", "जंगलों की कटाई से बाढ़ आती है।", "Junglon ki kataai se baadh aati hai."]},
+        {"word": ["fodder", "चारा", "chaara", "food for cattle", "Trees give fodder for cattle.", "पेड़ पशुओं को चारा देते हैं।", "Ped pashuon ko chaara dete hain."]},
+        {"word": ["precious", "क़ीमती", "keemti", "of great value", "Let us save our precious trees.", "आओ अपने क़ीमती पेड़ बचाएँ।", "Aao apne keemti ped bachaayein."]},
+        {"word": ["procession", "जुलूस", "juloos", "people walking together in a line", "The village marched in a procession.", "पूरा गाँव जुलूस में चला।", "Poora gaanv juloos mein chala."]},
+        {"word": ["non-violent", "अहिंसक", "ahinsak", "without fighting or hurting", "Chipko was a non-violent movement.", "चिपको एक अहिंसक आंदोलन था।", "Chipko ek ahinsak aandolan tha."]},
+        {"word": ["conservation", "संरक्षण", "sanrakshan", "protecting nature from harm", "Forest conservation is important.", "जंगलों का संरक्षण ज़रूरी है।", "Junglon ka sanrakshan zaroori hai."]},
+        {"sayw": ["conservation", "संरक्षण", "sanrakshan"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🚫", "title": ["शब्द शक्ति (A): dis- और un-", "Shabd Shakti (A): dis- aur un-", "Word Power (A): dis- and un-"], "book": true,
+      "skills": ["book.words", "grammar.prefix_suffix"],
+      "steps": [
+        {"card": ["शब्द के आगे dis या un लगाने से मतलब ‘नहीं’ हो जाता है: like → dislike, friendly → unfriendly।", "Shabd ke aage dis ya un lagaane se matlab ‘nahi’ ho jaata hai: like → dislike, friendly → unfriendly.", "Adding dis or un before a word often means ‘not’: like → dislike, friendly → unfriendly."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["किस शब्द के आगे क्या लगेगा?", "Kis shabd ke aage kya lagega?", "Which prefix does each word take?"],
+          "groups": [
+            {"id": "dis", "name": "dis-", "emoji": "🔴", "meaning": ["dis लगेगा", "dis lagega"]},
+            {"id": "un", "name": "un-", "emoji": "🔵", "meaning": ["un लगेगा", "un lagega"]}
+          ],
+          "items": [
+            {"text": "happy", "emoji": "😊", "groups": ["un"]},
+            {"text": "continue", "emoji": "▶️", "groups": ["dis"]},
+            {"text": "agree", "emoji": "🤝", "groups": ["dis"]},
+            {"text": "fair", "emoji": "⚖️", "groups": ["un"]},
+            {"text": "kind", "emoji": "💗", "groups": ["un"]},
+            {"text": "approve", "emoji": "✅", "groups": ["dis"]}
+          ]},
+        {"book": true, "q": ["happy → ?", "उल्टा शब्द बनाओ", "Ulta shabd banao", ["unhappy", "dishappy", "inhappy"], "unhappy"]},
+        {"book": true, "q": ["approve → ?", "उल्टा शब्द बनाओ", "Ulta shabd banao", ["disapprove", "unapprove", "inapprove"], "disapprove"]}
+      ]
+    },
+    {
+      "emoji": "🧥", "title": ["शब्द शक्ति (B): मिलते-जुलते शब्द", "Shabd Shakti (B): milte-julte shabd", "Word Power (B): confusing pairs"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["cloth = कपड़ा (थान), clothes = पहनने के कपड़े। elder = परिवार में बड़ा, older = उम्र में ज़्यादा। child-like = बच्चे जैसा भोला (अच्छा), childish = बचकाना (बुरा)। adapt = ढल जाना, adopt = अपना लेना।", "cloth = kapda (thaan), clothes = pehenne ke kapde. elder = parivaar mein bada, older = umar mein zyaada. child-like = bachche jaisa bhola (achha), childish = bachkaana (bura). adapt = dhal jaana, adopt = apna lena.", "cloth = material, clothes = what we wear. elder = senior in a family, older = more in age. child-like = innocent (good), childish = silly (bad). adapt = adjust to, adopt = take as your own."]},
+        {"book": true, "fb": ["___ are made of cloth.", "Clothes", ["Clothes", "Cloth", "Cloths"], "कपड़े (पहनने वाले) कपड़े (थान) से बनते हैं।", "Kapde (pehenne waale) kapde (thaan) se bante hain."]},
+        {"book": true, "fb": ["My ___ brother obviously is older than me.", "elder", ["elder", "older", "eldest"], "मेरा बड़ा भाई ज़ाहिर है मुझसे उम्र में बड़ा है।", "Mera bada bhai zaahir hai mujhse umar mein bada hai."]},
+        {"book": true, "fb": ["My elder brother obviously is ___ than me.", "older", ["older", "elder", "oldest"], "मेरा बड़ा भाई ज़ाहिर है मुझसे उम्र में बड़ा है।", "Mera bada bhai zaahir hai mujhse umar mein bada hai."]},
+        {"book": true, "fb": ["My grandfather is old and is ___.", "child-like", ["child-like", "childish"], "मेरे दादाजी बूढ़े हैं और बच्चों जैसे भोले हैं।", "Mere daadaji boodhe hain aur bachchon jaise bhole hain."]},
+        {"book": true, "fb": ["My uncle often behaves in a ___ manner which I don't like.", "childish", ["childish", "child-like"], "मेरे चाचा अक्सर बचकाना बर्ताव करते हैं, जो मुझे पसंद नहीं।", "Mere chaacha aksar bachkaana bartaav karte hain, jo mujhe pasand nahi."]},
+        {"book": true, "fb": ["We can ___ to western ways of living but not adopt them.", "adapt", ["adapt", "adopt"], "हम पश्चिमी रहन-सहन में ढल सकते हैं, पर उसे अपना नहीं सकते।", "Hum pashchimi rehan-sehan mein dhal sakte hain, par use apna nahi sakte."]},
+        {"book": true, "fb": ["We can adapt to western ways of living but not ___ them.", "adopt", ["adopt", "adapt"], "हम पश्चिमी रहन-सहन में ढल सकते हैं, पर उसे अपना नहीं सकते।", "Hum pashchimi rehan-sehan mein dhal sakte hain, par use apna nahi sakte."]}
+      ]
+    },
+    {
+      "emoji": "🧩", "title": ["शब्द शक्ति (C): संयुक्त शब्द", "Shabd Shakti (C): sanyukt shabd", "Word Power (C): compound words"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["दो शब्द मिलकर एक नया शब्द: land + slide = landslide, fire + wood = firewood, axe + men = axemen। इन्हें compound words कहते हैं।", "Do shabd milkar ek naya shabd: land + slide = landslide, fire + wood = firewood, axe + men = axemen. Inhe compound words kehte hain.", "Two words make one new word: land + slide = landslide, fire + wood = firewood. These are compound words."]},
+        {"book": true, "pairs": ["दो शब्द जोड़कर नया शब्द बनाओ", "Do shabd jodkar naya shabd banao", "Join to make compound words", [
+          ["black +", "board", "ब्लैकबोर्ड", "blackboard"],
+          ["tooth +", "brush", "टूथब्रश", "toothbrush"],
+          ["news +", "paper", "अख़बार", "akhbaar"],
+          ["tea +", "pot", "चायदानी", "chaaydaani"],
+          ["note +", "book", "कॉपी", "copy"]]]},
+        {"book": true, "pairs": ["दो शब्द जोड़कर नया शब्द बनाओ", "Do shabd jodkar naya shabd banao", "Join to make compound words", [
+          ["rain +", "coat", "बरसाती", "barsaati"],
+          ["farm +", "house", "खेत का घर", "khet ka ghar"],
+          ["fore +", "head", "माथा", "maatha"],
+          ["suit +", "case", "सूटकेस", "suitcase"],
+          ["bar +", "graph", "दंड आलेख", "dand aalekh"]]]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 25-27 पर पाठ पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 25-27 par paath padho, phir jawab do.", "Read the lesson on pages 25–27 of your book, then answer."]},
+        {"book": true, "q": ["Why did the workers from a factory come to the village of Gopeshwar?", "कारख़ाने के मज़दूर गोपेश्वर क्यों आए?", "Kaarkhaane ke mazdoor Gopeshwar kyon aaye?", ["to cut ash trees for railway sleepers", "to plant new trees", "to build a school"], "to cut ash trees for railway sleepers", "The workers came to Gopeshwar to cut the ash trees. The wood was to be used to make sleepers for the railways.", "मज़दूर गोपेश्वर में ऐश के पेड़ काटने आए थे। लकड़ी से रेल की पटरियों के स्लीपर बनने थे।", "Mazdoor Gopeshwar mein ash ke ped kaatne aaye the. Lakdi se rail ki patriyon ke sleeper banne the."]},
+        {"book": true, "q": ["What did the villagers decide when the axemen refused to return?", "कुल्हाड़ी वाले नहीं लौटे तो गाँव वालों ने क्या तय किया?", "Kulhaadi waale nahi laute to gaanv waalon ne kya tay kiya?", ["They would not let the axes touch the trees.", "They would sell the trees.", "They would leave the village."], "They would not let the axes touch the trees.", "The villagers decided that they would not let the axes touch the trees, no matter what happened. They would hug the trees.", "गाँव वालों ने तय किया कि चाहे कुछ भी हो, वे कुल्हाड़ियों को पेड़ों तक नहीं पहुँचने देंगे। वे पेड़ों से लिपट जाएँगे।", "Gaanv waalon ne tay kiya ki chaahe kuchh bhi ho, woh kulhaadiyon ko pedon tak nahi pahunchne denge. Woh pedon se lipat jaayenge."]},
+        {"book": true, "q": ["What did the axemen do when the villagers hugged the trees and shouted ‘Chipko’?", "जब गाँव वाले पेड़ों से लिपटे, तो कुल्हाड़ी वालों ने क्या किया?", "Jab gaanv waale pedon se lipte, to kulhaadi waalon ne kya kiya?", ["They were frightened and ran away.", "They cut the trees anyway.", "They joined the villagers for lunch."], "They were frightened and ran away.", "The axemen were frightened by the turn the situation had taken and ran away.", "हालात देखकर कुल्हाड़ी वाले डर गए और भाग गए।", "Haalaat dekhkar kulhaadi waale dar gaye aur bhaag gaye."]},
+        {"book": true, "q": ["What did the villagers do when the contractors chose another forest?", "ठेकेदारों ने दूसरा जंगल चुना तो गाँव वालों ने क्या किया?", "Thekedaaron ne doosra jungle chuna to gaanv waalon ne kya kiya?", ["They marched there in a procession with drums and banners.", "They gave up.", "They called the police."], "They marched there in a procession with drums and banners.", "The whole village, men and women, old and young, marched in a procession with drums, trumpets and banners like ‘Chop me – not the tree’.", "पूरा गाँव, आदमी-औरतें, बूढ़े-जवान, ढोल, तुरही और ‘मुझे काटो, पेड़ को नहीं’ जैसे बैनर लेकर जुलूस में गया।", "Poora gaanv, aadmi-auratein, boodhe-jawaan, dhol, turhi aur ‘mujhe kaato, ped ko nahi’ jaise banner lekar juloos mein gaya."]},
+        {"book": true, "q": ["What is the work of ‘Dasohli Gram Swarajya Mandal’?", "‘दसोली ग्राम स्वराज्य मंडल’ का काम क्या है?", "‘Dasohli Gram Swarajya Mandal’ ka kaam kya hai?", ["to regenerate the degraded forests", "to cut trees", "to build railways"], "to regenerate the degraded forests", "The Dasohli Gram Swarajya Mandal works to regenerate (grow again) the degraded forests.", "दसोली ग्राम स्वराज्य मंडल ख़राब हुए जंगलों को फिर से हरा-भरा करने का काम करता है।", "Dasohli Gram Swarajya Mandal kharaab hue junglon ko phir se hara-bhara karne ka kaam karta hai."]},
+        {"card": ["(B) सही या गलत बताओ।", "(B) Sahi ya galat batao.", "(B) Say True or False."]},
+        {"book": true, "tf": ["Trees were being saved by the contractors.", "ठेकेदार पेड़ बचा रहे थे।", "Thekedaar ped bacha rahe the.", false, "False. The contractors were destroying the forests.", "गलत। ठेकेदार जंगल नष्ट कर रहे थे।", "Galat. Thekedaar jungle nasht kar rahe the."]},
+        {"book": true, "tf": ["In 1953, a group of people from a factory arrived at the village of Gopeshwar.", "1953 में कारख़ाने के लोग गोपेश्वर आए।", "1953 mein kaarkhaane ke log Gopeshwar aaye.", false, "False. They arrived in March 1973.", "गलत। वे मार्च 1973 में आए।", "Galat. Woh March 1973 mein aaye."]},
+        {"book": true, "tf": ["‘Chipko’ or ‘Hug the trees’ was a non-violent movement of the mountain people to save their trees.", "चिपको पहाड़ी लोगों का पेड़ बचाने का अहिंसक आंदोलन था।", "Chipko pahaadi logon ka ped bachaane ka ahinsak aandolan tha.", true]},
+        {"book": true, "tf": ["Dasohli Gram Swarajya Mandal is an organisation to regenerate the degraded forests.", "दसोली ग्राम स्वराज्य मंडल ख़राब जंगलों को फिर से उगाने वाली संस्था है।", "Dasohli Gram Swarajya Mandal kharaab junglon ko phir se ugaane waali sanstha hai.", true]},
+        {"book": true, "tf": ["Chipko Movement proved very valuable in the conservation of forests.", "चिपको आंदोलन जंगलों के संरक्षण में बहुत काम का साबित हुआ।", "Chipko aandolan junglon ke sanrakshan mein bahut kaam ka saabit hua.", true]}
+      ]
+    },
+    {
+      "emoji": "🥭", "title": ["सीखो (A): सर्वनाम", "Seekho (A): sarvanaam", "Let's Learn (A): pronouns"], "book": true,
+      "skills": ["book.grammar", "grammar.he_she_it"],
+      "steps": [
+        {"card": ["संज्ञा की जगह आने वाले शब्द सर्वनाम हैं: he, she, it, they, I, you, we, them। Reena → she, Mother and father → they।", "Sangya ki jagah aane waale shabd sarvanaam hain: he, she, it, they, I, you, we, them. Reena → she, Mother and father → they.", "Words that replace nouns are pronouns: he, she, it, they, I, you, we, them. Reena → she, Mother and father → they."]},
+        {"book": true, "fb": ["Leena always enjoyed it because ___ was allowed to spend most of the day at the mango grove.", "she", ["she", "he", "they"], "लीना को मज़ा आता था क्योंकि उसे दिन भर आम के बाग़ में रहने दिया जाता था।", "Leena ko maza aata tha kyonki use din bhar aam ke baag mein rehne diya jaata tha."]},
+        {"book": true, "fb": ["Her uncle was a friend of the man who owned the grove and ___ always gave mangoes at a special rate.", "he", ["he", "she", "it"], "उसके चाचा बाग़ के मालिक के दोस्त थे और वह हमेशा ख़ास दाम पर आम देता था।", "Uske chaacha baag ke maalik ke dost the aur woh hamesha khaas daam par aam deta tha."]},
+        {"book": true, "fb": ["This year ___ aunt joined her.", "her", ["her", "she", "his"], "इस साल उसकी चाची भी उसके साथ आईं।", "Is saal uski chaachi bhi uske saath aayin."]},
+        {"book": true, "fb": ["This year her aunt joined ___, and together they set off.", "her", ["her", "she", "it"], "इस साल उसकी चाची उसके साथ आईं और दोनों चल पड़ीं।", "Is saal uski chaachi uske saath aayin aur dono chal padin."]},
+        {"book": true, "fb": ["The branches were so bowed down with the weight that ___ almost touched the ground.", "they", ["they", "it", "she"], "डालियाँ बोझ से इतनी झुकी थीं कि लगभग ज़मीन छू रही थीं।", "Daaliyaan bojh se itni jhuki thin ki lagbhag zameen chhoo rahi thin."]},
+        {"book": true, "fb": ["___ spent hours picking the fruit.", "They", ["They", "It", "He"], "उन्होंने घंटों फल तोड़े।", "Unhone ghanton phal tode."]},
+        {"book": true, "fb": ["They spent hours picking the fruit, eating most of ___.", "it", ["it", "them", "her"], "उन्होंने घंटों फल तोड़े और ज़्यादातर खा गईं।", "Unhone ghanton phal tode aur zyaadatar kha gayin."]}
+      ]
+    },
+    {
+      "emoji": "🚂", "title": ["सीखो (B): Past Perfect Tense", "Seekho (B): Past Perfect Tense", "Let's Learn (B): the past perfect tense"], "book": true,
+      "skills": ["book.grammar", "grammar.tenses"],
+      "steps": [
+        {"card": ["बीते समय के दो काम हों, तो जो पहले हुआ उसमें had + तीसरा रूप: The train had left before I arrived. (ट्रेन पहले जा चुकी थी, मैं बाद में पहुँचा)", "Beete samay ke do kaam hon, to jo pehle hua usmein had + teesra roop: The train had left before I arrived. (Train pehle ja chuki thi, main baad mein pahuncha)", "When two things happened in the past, use had + 3rd form for the one that happened first: The train had left before I arrived."]},
+        {"book": true, "fb": ["Harry ___ before the doctor came. (die)", "had died", ["had died", "has died", "died had"], "डॉक्टर के आने से पहले हैरी मर चुका था।", "Doctor ke aane se pehle Harry mar chuka tha."]},
+        {"book": true, "fb": ["The rain ___ before you arrived. (stop)", "had stopped", ["had stopped", "has stopped", "had stop"], "तुम्हारे आने से पहले बारिश रुक चुकी थी।", "Tumhaare aane se pehle baarish ruk chuki thi."]},
+        {"book": true, "fb": ["I ___ the school before the bell rang. (reach)", "had reached", ["had reached", "have reached", "had reach"], "घंटी बजने से पहले मैं स्कूल पहुँच चुका था।", "Ghanti bajne se pehle main school pahunch chuka tha."]},
+        {"book": true, "fb": ["There was a storm after the plane ___. (land)", "had landed", ["had landed", "has landed", "had land"], "विमान उतर जाने के बाद तूफ़ान आया।", "Vimaan utar jaane ke baad toofaan aaya."]},
+        {"book": true, "fb": ["The thief ___ away before the police came. (run)", "had run", ["had run", "had ran", "has run"], "पुलिस के आने से पहले चोर भाग चुका था।", "Police ke aane se pehle chor bhaag chuka tha."]},
+        {"q": ["Which happened first? ‘I had finished my work before you came.’", "पहले क्या हुआ?", "Pehle kya hua?", ["I finished my work.", "You came."], "I finished my work."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: सवाल बनाओ", "Chalo baat karein: sawaal banao", "Let's Talk: frame the questions"], "book": true,
+      "skills": ["book.talk", "grammar.wh_questions"],
+      "steps": [
+        {"card": ["तुम सुबह पार्क में घूमने गए थे। दोस्तों ने सवाल पूछे। जवाब दिए गए हैं, तुम सही सवाल चुनो।", "Tum subah park mein ghoomne gaye the. Doston ne sawaal poochhe. Jawab diye gaye hain, tum sahi sawaal chuno.", "You went to a park for a morning walk. Your friends asked questions. The answers are given; choose the right question."]},
+        {"book": true, "q": ["Ans: I went for a morning walk.", "इस जवाब का सवाल चुनो", "Is jawab ka sawaal chuno", ["Where did you go this morning?", "Who went with you?", "When did you come back?"], "Where did you go this morning?"]},
+        {"book": true, "q": ["Ans: My mother and sister went with me.", "इस जवाब का सवाल चुनो", "Is jawab ka sawaal chuno", ["Who went with you?", "What did you see there?", "Did you enjoy it?"], "Who went with you?"]},
+        {"book": true, "q": ["Ans: We saw a large number of people and children there.", "इस जवाब का सवाल चुनो", "Is jawab ka sawaal chuno", ["What did you see there?", "Where did you go?", "When did you come back?"], "What did you see there?"]},
+        {"book": true, "q": ["Ans: Some were walking about, some were reading newspapers.", "इस जवाब का सवाल चुनो", "Is jawab ka sawaal chuno", ["What were they doing?", "Who went with you?", "Did you enjoy it?"], "What were they doing?"]},
+        {"book": true, "q": ["Ans: We came back at 9 o'clock.", "इस जवाब का सवाल चुनो", "Is jawab ka sawaal chuno", ["When did you come back?", "Where did you go?", "What did you see there?"], "When did you come back?"]},
+        {"book": true, "q": ["Ans: Yes, we enjoyed and returned home full of energy.", "इस जवाब का सवाल चुनो", "Is jawab ka sawaal chuno", ["Did you enjoy it?", "Who went with you?", "What were they doing?"], "Did you enjoy it?"]},
+        {"says": ["Where did you go this morning?", "तुम आज सुबह कहाँ गए थे?", "Tum aaj subah kahan gaye the?"], "skills": ["speak.sentence", "book.talk"]}
+      ]
+    },
+    {
+      "emoji": "📌", "title": ["चलो पढ़ें: स्कूल का नोटिस", "Chalo padhein: school ka notice", "Let's Read: the school notice"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 30 पर वल्लभ भाई स्कूल, भोपाल का नोटिस पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 30 par Vallabh Bhai School, Bhopal ka notice padho, phir jawab do.", "Read the notice of Vallabh Bhai School, Bhopal on page 30 of your book, then answer."]},
+        {"book": true, "fb": ["Anurag has put up a ___ on his school noticeboard.", "notice", ["notice", "letter", "poster"], "अनुराग ने स्कूल के नोटिस बोर्ड पर एक सूचना लगाई है।", "Anurag ne school ke notice board par ek soochna lagaayi hai."]},
+        {"book": true, "fb": ["Anurag is the ___ secretary of Vallabh Bhai School.", "cultural", ["cultural", "sports", "school"], "अनुराग वल्लभ भाई स्कूल का सांस्कृतिक सचिव है।", "Anurag Vallabh Bhai School ka saanskritik sachiv hai."]},
+        {"book": true, "q": ["Which ceremony was being held at Vallabh Bhai School?", "स्कूल में कौन सा समारोह था?", "School mein kaun sa samaaroh tha?", ["a tree plantation ceremony", "a prize distribution", "a sports day"], "a tree plantation ceremony", "A tree plantation ceremony was being held at Vallabh Bhai School on 15th October 2006.", "वल्लभ भाई स्कूल में 15 अक्टूबर 2006 को वृक्षारोपण समारोह था।", "Vallabh Bhai School mein 15 October 2006 ko vrikshaaropan samaaroh tha."]},
+        {"book": true, "q": ["How many plants are to be contributed by each class?", "हर कक्षा कितने पौधे देगी?", "Har kaksha kitne paudhe degi?", ["a minimum of five", "exactly two", "ten or more"], "a minimum of five", "Each class should contribute a minimum of five plants.", "हर कक्षा को कम से कम पाँच पौधे देने हैं।", "Har kaksha ko kam se kam paanch paudhe dene hain."]},
+        {"book": true, "q": ["Name and designation of the student who wrote the notice:", "नोटिस लिखने वाले का नाम और पद", "Notice likhne waale ka naam aur pad", ["Anurag, Cultural Secretary", "Anu, Head Girl", "Vallabh, Principal"], "Anurag, Cultural Secretary"]},
+        {"book": true, "q": ["Which word in the notice means ‘complete and enthusiastic’?", "किस शब्द का मतलब ‘पूरे जोश वाला’ है?", "Kis shabd ka matlab ‘poore josh waala’ hai?", ["wholehearted", "minimum", "premises"], "wholehearted"]}
+      ]
+    },
+    {
+      "emoji": "✉️", "title": ["चलो लिखें: संपादक को पत्र", "Chalo likhein: sampaadak ko patra", "Let's Write: a letter to the editor"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: तुम अनुराग हो। घर के पास कुछ लोग एक हरा पेड़ काट रहे थे। अख़बार के संपादक को शिकायत का पत्र लिखो। शुरुआत: Sir, I would like to draw your attention to ... अंत: Yours truly।", "Kitaab: tum Anurag ho. Ghar ke paas kuchh log ek hara ped kaat rahe the. Akhbaar ke sampaadak ko shikaayat ka patra likho. Shuruaat: Sir, I would like to draw your attention to ... Ant: Yours truly.", "The book: you are Anurag. Some people were cutting a green tree near your house. Write a letter of complaint to the editor. Begin: Sir, I would like to draw your attention to ... End: Yours truly."]},
+        {"book": true, "q": ["How do we end a letter to the editor?", "संपादक को पत्र कैसे ख़त्म करें?", "Sampaadak ko patra kaise khatm karein?", ["Yours truly", "Yours affectionately", "Your loving son"], "Yours truly"]},
+        {"book": true, "build": ["पेड़ सबके लिए क़ीमती हैं।", "Ped sabke liye keemti hain.", "Say how valuable trees are to everyone.", "Trees are valuable to all.", "पेड़ सबके लिए क़ीमती हैं।", "Ped sabke liye keemti hain."]},
+        {"book": true, "build": ["पेड़ बारिश लाते हैं और हवा साफ़ रखते हैं।", "Ped baarish laate hain aur hawa saaf rakhte hain.", "Tell two good things trees do.", "Trees bring rain and keep the air clean.", "पेड़ बारिश लाते हैं और हवा साफ़ रखते हैं।", "Ped baarish laate hain aur hawa saaf rakhte hain."]},
+        {"book": true, "build": ["पेड़ काटना पर्यावरण के लिए ख़तरा है।", "Ped kaatna paryaavaran ke liye khatra hai.", "Say what cutting them means for nature.", "Cutting trees is a threat to the environment.", "पेड़ काटना पर्यावरण के लिए ख़तरा है।", "Ped kaatna paryaavaran ke liye khatra hai."]},
+        {"book": true, "build": ["अधिकारियों को सख़्त कार्रवाई करनी चाहिए।", "Adhikaariyon ko sakht kaarrvaai karni chahiye.", "Ask officials to act firmly.", "The authorities should take strict action.", "अधिकारियों को सख़्त कार्रवाई करनी चाहिए।", "Adhikaariyon ko sakht kaarrvaai karni chahiye."]}
+      ]
+    },
+    {
+      "emoji": "🌲", "title": ["चलो करके देखें: पेड़ और उनके उपयोग", "Chalo karke dekhein: ped aur unke upyog", "Let's Do It: trees and their uses"], "book": true,
+      "skills": ["book.activity", "vocab.nature"],
+      "steps": [
+        {"card": ["किताब: कम से कम पाँच पेड़ों के चित्र बनाओ और हर एक के दो उपयोग लिखो। यहाँ कुछ उदाहरण हैं।", "Kitaab: kam se kam paanch pedon ke chitra banao aur har ek ke do upyog likho. Yahan kuchh udaaharan hain.", "The book: draw at least five trees and write two uses of each. Here are some examples."]},
+        {"book": true, "pairs": ["पेड़ को उसके उपयोग से जोड़ो", "Ped ko uske upyog se jodo", "Join each tree to a use", [
+          ["neem", "medicine and datun", "नीम — दवा और दातुन", "neem — dava aur daatun"],
+          ["mango", "sweet fruit", "आम — मीठे फल", "aam — meethe phal"],
+          ["banyan", "cool shade", "बरगद — ठंडी छाया", "bargad — thandi chhaaya"],
+          ["teak", "strong wood for furniture", "सागौन — फ़र्नीचर की लकड़ी", "saagaun — furniture ki lakdi"],
+          ["bamboo", "baskets and ladders", "बाँस — टोकरी और सीढ़ी", "baans — tokri aur seedhi"]]]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: पेड़ बचाने वाले", "Aur seekho: ped bachaane waale", "Learn more: tree savers"], "book": false,
+      "skills": ["vocab.meaning"],
+      "steps": [
+        {"q": ["In 1974, the brave woman who led the women of Reni village to hug trees was ...", "1974 में रेणी गाँव की औरतों का नेतृत्व किसने किया?", "1974 mein Reni gaanv ki auraton ka netritva kisne kiya?", ["Gaura Devi", "Indira Gandhi", "Lata Mangeshkar"], "Gaura Devi"]},
+        {"q": ["Long before Chipko, in 1730, Amrita Devi and the Bishnoi people gave their lives to save which trees in Rajasthan?", "1730 में अमृता देवी और बिश्नोई लोगों ने राजस्थान में किन पेड़ों के लिए जान दी?", "1730 mein Amrita Devi aur Bishnoi logon ne Rajasthan mein kin pedon ke liye jaan di?", ["khejri trees", "apple trees", "coconut trees"], "khejri trees"]},
+        {"q": ["Which leader is famous for the Chipko Movement?", "चिपको आंदोलन के लिए कौन से नेता मशहूर हैं?", "Chipko aandolan ke liye kaun se neta mashhoor hain?", ["Sunderlal Bahuguna", "Sachin Tendulkar", "A. R. Rahman"], "Sunderlal Bahuguna"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 4 का टेस्ट", "Paath 4 ka test", "Lesson 4 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Why did the factory workers come to Gopeshwar?", "मज़दूर क्यों आए?", "Mazdoor kyon aaye?", ["to cut ash trees for railway sleepers", "to plant new trees", "to build a school"], "to cut ash trees for railway sleepers"]},
+        {"book": true, "tf": ["In 1953, a group of people from a factory arrived at Gopeshwar.", "1953 में लोग गोपेश्वर आए।", "1953 mein log Gopeshwar aaye.", false]},
+        {"book": true, "skills": ["book.words", "grammar.prefix_suffix"], "q": ["agree → ?", "उल्टा शब्द", "Ulta shabd", ["disagree", "unagree", "inagree"], "disagree"]},
+        {"book": true, "skills": ["book.words", "grammar.prefix_suffix"], "q": ["kind → ?", "उल्टा शब्द", "Ulta shabd", ["unkind", "diskind", "inkind"], "unkind"]},
+        {"book": true, "skills": ["book.words"], "fb": ["We can ___ to new ways of living.", "adapt", ["adapt", "adopt"], "हम नए तरीक़ों में ढल सकते हैं।", "Hum naye tareeqon mein dhal sakte hain."]},
+        {"book": true, "skills": ["book.words"], "q": ["fore + ___ = a compound word", "संयुक्त शब्द", "Sanyukt shabd", ["head", "pot", "coat"], "head"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["The thief ___ away before the police came.", "had run", ["had run", "had ran", "has run"], "पुलिस के आने से पहले चोर भाग चुका था।", "Police ke aane se pehle chor bhaag chuka tha."]},
+        {"book": true, "skills": ["book.grammar", "grammar.he_she_it"], "fb": ["Mother and father have come. ___ are glad.", "They", ["They", "She", "It"], "माँ और पिताजी आए हैं। वे ख़ुश हैं।", "Maa aur pitaji aaye hain. Woh khush hain."]},
+        {"book": true, "skills": ["book.talk", "grammar.wh_questions"], "q": ["Ans: We came back at 9 o'clock.", "सवाल चुनो", "Sawaal chuno", ["When did you come back?", "Where did you go?", "Who went with you?"], "When did you come back?"]},
+        {"book": true, "q": ["Which word means ‘complete and enthusiastic’?", "पूरे जोश वाला", "Poore josh waala", ["wholehearted", "minimum", "premises"], "wholehearted"]}
+      ]
+    }
+  ]
+}

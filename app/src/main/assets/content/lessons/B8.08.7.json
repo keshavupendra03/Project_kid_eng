@@ -1,0 +1,107 @@
+{
+  "id": "B8.08.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.08.7.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.08.7.S01",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "किताब: चाँद के सारे रूप (कलाएँ) थर्मोकोल या कार्ड शीट पर बनाओ, रंगो और कक्षा में टाँगो। फिर चाँद पर कुछ लाइनें लिखो।",
+        "hinglish": "Kitaab: chaand ke saare roop (kalaayein) thermocol ya card sheet par banao, rango aur kaksha mein taango. Phir chaand par kuchh lines likho.",
+        "en": "The book: draw all the faces (phases) of the moon on a thermocol or card sheet, paint them and hang them in class. Then write a few lines about the moon."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.08.7.S02",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "चाँद के रूप जोड़ो",
+        "hinglish": "Chaand ke roop jodo",
+        "en": "Join the phases of the moon"
+      },
+      "pairs": [
+        {
+          "left": "new moon",
+          "right": "no moon is seen",
+          "meaning": {
+            "hi": "अमावस्या",
+            "hinglish": "amaavasya"
+          }
+        },
+        {
+          "left": "crescent",
+          "right": "a thin curved moon",
+          "meaning": {
+            "hi": "दूज का चाँद",
+            "hinglish": "dooj ka chaand"
+          }
+        },
+        {
+          "left": "half moon",
+          "right": "half of it shines",
+          "meaning": {
+            "hi": "आधा चाँद",
+            "hinglish": "aadha chaand"
+          }
+        },
+        {
+          "left": "full moon",
+          "right": "a fully round moon",
+          "meaning": {
+            "hi": "पूर्णिमा",
+            "hinglish": "poornima"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.7.S03",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "question": "Why does the moon shine?",
+      "questionMeaning": {
+        "hi": "चाँद क्यों चमकता है?",
+        "hinglish": "Chaand kyon chamakta hai?"
+      },
+      "options": [
+        "It reflects the light of the sun.",
+        "It has its own fire.",
+        "It has many bulbs."
+      ],
+      "answer": "It reflects the light of the sun."
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.7.S04",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "question": "Which Indian mission landed near the moon's south pole in 2023?",
+      "questionMeaning": {
+        "hi": "2023 में कौन सा भारतीय मिशन चाँद के दक्षिणी ध्रुव के पास उतरा?",
+        "hinglish": "2023 mein kaun sa Bharatiya mission chaand ke dakshini dhruv ke paas utra?"
+      },
+      "options": [
+        "Chandrayaan-3",
+        "Mangalyaan",
+        "Aryabhata"
+      ],
+      "answer": "Chandrayaan-3"
+    }
+  ]
+}

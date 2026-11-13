@@ -1,0 +1,201 @@
+{
+  "id": "B8.13.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.13.T.S01",
+    "B8.13.T.S02",
+    "B8.13.T.S03",
+    "B8.13.T.S04",
+    "B8.13.T.S05",
+    "B8.13.T.S06",
+    "B8.13.T.S07",
+    "B8.13.T.S08",
+    "B8.13.T.S09",
+    "B8.13.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.13.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Which is the best of all virtues?",
+      "questionMeaning": {
+        "hi": "सबसे अच्छा गुण",
+        "hinglish": "Sabse achha gun"
+      },
+      "options": [
+        "to hate none",
+        "to be rich",
+        "to be strong"
+      ],
+      "answer": "to hate none"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Which is the worst enemy of man?",
+      "questionMeaning": {
+        "hi": "सबसे बड़ा दुश्मन",
+        "hinglish": "Sabse bada dushman"
+      },
+      "options": [
+        "anger",
+        "hunger",
+        "fear"
+      ],
+      "answer": "anger"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why did Yudhishthira ask for Nakula?",
+      "questionMeaning": {
+        "hi": "नकुल को क्यों माँगा?",
+        "hinglish": "Nakul ko kyon maanga?"
+      },
+      "options": [
+        "So that one son of each mother, Kunti and Madri, stays alive.",
+        "Because Nakula was the strongest.",
+        "Because he did not love Bhima and Arjuna."
+      ],
+      "answer": "So that one son of each mother, Kunti and Madri, stays alive."
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.T.S04",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Yudhishthira was Nakula's ...",
+      "questionMeaning": {
+        "hi": "रिश्ता",
+        "hinglish": "Rishta"
+      },
+      "options": [
+        "half brother",
+        "real brother",
+        "cousin"
+      ],
+      "answer": "half brother"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "a wild plant growing where it is not wanted",
+      "questionMeaning": {
+        "hi": "एक शब्द",
+        "hinglish": "Ek shabd"
+      },
+      "options": [
+        "weed",
+        "wood",
+        "wheat"
+      ],
+      "answer": "weed"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "wander means ...",
+      "questionMeaning": {
+        "hi": "मतलब",
+        "hinglish": "Matlab"
+      },
+      "options": [
+        "to walk slowly around without purpose",
+        "a sign",
+        "a magic creature"
+      ],
+      "answer": "to walk slowly around without purpose"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.13.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "sentence": "He is a liar, what he says ___ be true.",
+      "answer": "can't",
+      "options": [
+        "can't",
+        "can",
+        "might"
+      ],
+      "meaning": {
+        "hi": "उसकी बात सच नहीं हो सकती।",
+        "hinglish": "Uski baat sach nahi ho sakti."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.13.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.can"
+      ],
+      "sentence": "___ I use your phone?",
+      "answer": "May",
+      "options": [
+        "May",
+        "Might",
+        "Must"
+      ],
+      "meaning": {
+        "hi": "क्या मैं फ़ोन इस्तेमाल कर सकता हूँ?",
+        "hinglish": "Kya main phone istemaal kar sakta hoon?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.T.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "question": "Bhima paid no heed to the voice. (very strong)",
+      "questionMeaning": {
+        "hi": "who से जोड़ो",
+        "hinglish": "who se jodo"
+      },
+      "options": [
+        "Bhima, who was very strong, paid no heed to the voice.",
+        "Bhima paid no heed, who was very strong, to the voice.",
+        "Bhima, whom was very strong, paid no heed to the voice."
+      ],
+      "answer": "Bhima, who was very strong, paid no heed to the voice."
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "When did Yudhishthira himself go to the pool?",
+      "questionMeaning": {
+        "hi": "युधिष्ठिर कब गए?",
+        "hinglish": "Yudhishthir kab gaye?"
+      },
+      "options": [
+        "at 6 pm",
+        "at 5.45 pm",
+        "at 4.50 pm"
+      ],
+      "answer": "at 6 pm"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "B8.02.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.8.S02",
+    "B8.02.8.S03",
+    "B8.02.8.S04",
+    "B8.02.8.S05",
+    "B8.02.8.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.8.S01",
+      "skills": [
+        "book.talk",
+        "grammar.indirect_speech"
+      ],
+      "text": {
+        "hi": "राहुल की बात अनिल को बताओ। I → he, my → his, और काम का समय पीछे जाता है: like → liked, would like → would like। किताब का उदाहरण: Rahul said that he visited Kanha Kisli during the holidays.",
+        "hinglish": "Rahul ki baat Anil ko batao. I → he, my → his, aur kaam ka samay peechhe jaata hai: like → liked, would like → would like. Kitaab ka udaaharan: Rahul said that he visited Kanha Kisli during the holidays.",
+        "en": "Tell Anil what Rahul said. I → he, my → his, and the tense moves back. The book's example: Rahul said that he visited Kanha Kisli during the holidays."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.8.S02",
+      "skills": [
+        "book.talk",
+        "grammar.indirect_speech"
+      ],
+      "question": "Rahul: \"I reached there by bus.\"",
+      "questionMeaning": {
+        "hi": "राहुल की बात अनिल को बताओ",
+        "hinglish": "Rahul ki baat Anil ko batao"
+      },
+      "options": [
+        "Rahul said that he reached there by bus.",
+        "Rahul said that I reached there by bus.",
+        "Rahul said that he reach there by bus."
+      ],
+      "answer": "Rahul said that he reached there by bus."
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.8.S03",
+      "skills": [
+        "book.talk",
+        "grammar.indirect_speech"
+      ],
+      "question": "Rahul: \"I went to Baghira log huts.\"",
+      "questionMeaning": {
+        "hi": "राहुल की बात अनिल को बताओ",
+        "hinglish": "Rahul ki baat Anil ko batao"
+      },
+      "options": [
+        "Rahul said that he went to Baghira log huts.",
+        "Rahul said that I went to Baghira log huts.",
+        "Rahul said that he go to Baghira log huts."
+      ],
+      "answer": "Rahul said that he went to Baghira log huts."
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.8.S04",
+      "skills": [
+        "book.talk",
+        "grammar.indirect_speech"
+      ],
+      "question": "Rahul: \"I saw many animals and birds.\"",
+      "questionMeaning": {
+        "hi": "राहुल की बात अनिल को बताओ",
+        "hinglish": "Rahul ki baat Anil ko batao"
+      },
+      "options": [
+        "Rahul said that he saw many animals and birds.",
+        "Rahul said that I saw many animals and birds.",
+        "Rahul said that he sees many animals and birds."
+      ],
+      "answer": "Rahul said that he saw many animals and birds."
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.8.S05",
+      "skills": [
+        "book.talk",
+        "grammar.indirect_speech"
+      ],
+      "question": "Rahul: \"I liked its natural beauty.\"",
+      "questionMeaning": {
+        "hi": "राहुल की बात अनिल को बताओ",
+        "hinglish": "Rahul ki baat Anil ko batao"
+      },
+      "options": [
+        "Rahul said that he liked its natural beauty.",
+        "Rahul said that I liked its natural beauty.",
+        "Rahul said that he likes my natural beauty."
+      ],
+      "answer": "Rahul said that he liked its natural beauty."
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.8.S06",
+      "skills": [
+        "book.talk",
+        "grammar.indirect_speech"
+      ],
+      "question": "Rahul: \"I would like to visit it again.\"",
+      "questionMeaning": {
+        "hi": "राहुल की बात अनिल को बताओ",
+        "hinglish": "Rahul ki baat Anil ko batao"
+      },
+      "options": [
+        "Rahul said that he would like to visit it again.",
+        "Rahul said that I would like to visit it again.",
+        "Rahul said that he will like to visit it again."
+      ],
+      "answer": "Rahul said that he would like to visit it again."
+    },
+    {
+      "type": "say_sentence",
+      "id": "B8.02.8.S07",
+      "skills": [
+        "speak.sentence",
+        "book.talk"
+      ],
+      "sentence": "Rahul said that he saw many animals and birds.",
+      "meaning": {
+        "hi": "राहुल ने कहा कि उसने कई जानवर और पक्षी देखे।",
+        "hinglish": "Rahul ne kaha ki usne kai jaanwar aur pakshi dekhe.",
+        "en": "Rahul said that he saw many animals and birds."
+      }
+    }
+  ]
+}

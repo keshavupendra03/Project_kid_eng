@@ -1,0 +1,380 @@
+{
+  "id": "B7.05.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.05.4.S03",
+    "B7.05.4.S04",
+    "B7.05.4.S05",
+    "B7.05.4.S06",
+    "B7.05.4.S07",
+    "B7.05.4.S08",
+    "B7.05.4.S10",
+    "B7.05.4.S11",
+    "B7.05.4.S12",
+    "B7.05.4.S13",
+    "B7.05.4.S15",
+    "B7.05.4.S16"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.05.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "text": {
+        "hi": "बीते समय (past) के वाक्य को सवाल बनाना हो तो शुरू में ‘Did’ लगाओ और काम वाले शब्द को पहले रूप में करो: He had no ticket. → Did he have a ticket? (had → have)",
+        "hinglish": "Beete samay (past) ke vaakya ko sawaal banaana ho to shuru mein ‘Did’ lagao aur kaam waale shabd ko pehle roop mein karo: He had no ticket. → Did he have a ticket? (had → have)",
+        "en": "To turn a past sentence into a question, put ‘Did’ first and use the base form of the verb: He had a ticket. → Did he have a ticket? (had → have)"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.05.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "text": {
+        "hi": "याद रखो: Did के बाद हमेशा सीधा रूप: got → get, lived → live, paid → pay, started → start।",
+        "hinglish": "Yaad rakho: Did ke baad hamesha seedha roop: got → get, lived → live, paid → pay, started → start.",
+        "en": "Remember: after Did, always the base form: got → get, lived → live, paid → pay, started → start."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "prompt": {
+        "hi": "सवाल बनाओ: The man had a bag.",
+        "hinglish": "Sawaal banao: The man had a bag.",
+        "en": "Make a question: The man had a bag."
+      },
+      "answer": "Did the man have a bag?",
+      "meaning": {
+        "hi": "क्या उस आदमी के पास बैग था?",
+        "hinglish": "Kya us aadmi ke paas bag tha?"
+      },
+      "extra": [
+        "had"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "prompt": {
+        "hi": "सवाल बनाओ: The T.T.E. had a hat.",
+        "hinglish": "Sawaal banao: The T.T.E. had a hat.",
+        "en": "Make a question: The T.T.E. had a hat."
+      },
+      "answer": "Did the T.T.E. have a hat?",
+      "meaning": {
+        "hi": "क्या टीटीई के पास टोपी थी?",
+        "hinglish": "Kya TTE ke paas topi thi?"
+      },
+      "extra": [
+        "had"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "prompt": {
+        "hi": "सवाल बनाओ: He got into the A/C coach.",
+        "hinglish": "Sawaal banao: He got into the A/C coach.",
+        "en": "Make a question: He got into the A/C coach."
+      },
+      "answer": "Did he get into the A/C coach?",
+      "meaning": {
+        "hi": "क्या वह एसी डिब्बे में चढ़ा?",
+        "hinglish": "Kya woh AC dibbe mein chadha?"
+      },
+      "extra": [
+        "got"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "prompt": {
+        "hi": "सवाल बनाओ: Vinod lived in Indore.",
+        "hinglish": "Sawaal banao: Vinod lived in Indore.",
+        "en": "Make a question: Vinod lived in Indore."
+      },
+      "answer": "Did Vinod live in Indore?",
+      "meaning": {
+        "hi": "क्या विनोद इंदौर में रहता था?",
+        "hinglish": "Kya Vinod Indore mein rehta tha?"
+      },
+      "extra": [
+        "lived"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "prompt": {
+        "hi": "सवाल बनाओ: Vinod paid the difference.",
+        "hinglish": "Sawaal banao: Vinod paid the difference.",
+        "en": "Make a question: Vinod paid the difference."
+      },
+      "answer": "Did Vinod pay the difference?",
+      "meaning": {
+        "hi": "क्या विनोद ने बाकी पैसे दिए?",
+        "hinglish": "Kya Vinod ne baaki paise diye?"
+      },
+      "extra": [
+        "paid"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "prompt": {
+        "hi": "सवाल बनाओ: The passengers started whispering.",
+        "hinglish": "Sawaal banao: The passengers started whispering.",
+        "en": "Make a question: The passengers started whispering."
+      },
+      "answer": "Did the passengers start whispering?",
+      "meaning": {
+        "hi": "क्या यात्री फुसफुसाने लगे?",
+        "hinglish": "Kya yaatri phusphusaane lage?"
+      },
+      "extra": [
+        "started"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.05.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "text": {
+        "hi": "अब किताब का अगला अभ्यास: बिखरे शब्दों से सही वाक्य बनाओ। उदाहरण: Indore / in / lived / Vinod → Vinod lived in Indore.",
+        "hinglish": "Ab kitaab ka agla abhyaas: bikhre shabdon se sahi vaakya banao. Udaharan: Indore / in / lived / Vinod → Vinod lived in Indore.",
+        "en": "Next in the book: rearrange the words to make sentences. Example: Indore / in / lived / Vinod → Vinod lived in Indore."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "शब्द: travelled / he / A/C / coach / in / an",
+        "hinglish": "Shabd: travelled / he / A/C / coach / in / an",
+        "en": "Words: travelled / he / A/C / coach / in / an"
+      },
+      "answer": "He travelled in an A/C coach.",
+      "meaning": {
+        "hi": "उसने एसी डिब्बे में सफ़र किया।",
+        "hinglish": "Usne AC dibbe mein safar kiya."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "शब्द: to / difference / the / pay / decided / he",
+        "hinglish": "Shabd: to / difference / the / pay / decided / he",
+        "en": "Words: to / difference / the / pay / decided / he"
+      },
+      "answer": "He decided to pay the difference.",
+      "meaning": {
+        "hi": "उसने बाकी पैसे देने का फ़ैसला किया।",
+        "hinglish": "Usne baaki paise dene ka faisla kiya."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "शब्द: young man / the / dressed / was / poorly",
+        "hinglish": "Shabd: young man / the / dressed / was / poorly",
+        "en": "Words: young man / the / dressed / was / poorly"
+      },
+      "answer": "The young man was poorly dressed.",
+      "meaning": {
+        "hi": "नौजवान ने फटे-पुराने कपड़े पहने थे।",
+        "hinglish": "Naujawaan ne phate-puraane kapde pehne the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "शब्द: Vinod / the / in / kept / his / hand / money / ready",
+        "hinglish": "Shabd: Vinod / the / in / kept / his / hand / money / ready",
+        "en": "Words: Vinod / the / in / kept / his / hand / money / ready"
+      },
+      "answer": "Vinod kept the money ready in his hand.",
+      "meaning": {
+        "hi": "विनोद ने पैसे अपने हाथ में तैयार रखे।",
+        "hinglish": "Vinod ne paise apne haath mein taiyaar rakhe."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.05.4.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "text": {
+        "hi": "शब्द के आगे re लगाने से मतलब ‘फिर से’ (rewrite = फिर से लिखना)। un लगाने से मतलब ‘नहीं’ (unhappy = ख़ुश नहीं)। पीछे ful लगाने से मतलब ‘भरा हुआ’ (wonderful)।",
+        "hinglish": "Shabd ke aage re lagaane se matlab ‘phir se’ (rewrite = phir se likhna). un lagaane se matlab ‘nahi’ (unhappy = khush nahi). Peechhe ful lagaane se matlab ‘bhara hua’ (wonderful).",
+        "en": "‘re’ at the start means again (rewrite = write again). ‘un’ means not (unhappy = not happy). ‘ful’ at the end means full of (wonderful = full of wonder)."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.05.4.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "instruction": {
+        "hi": "नए शब्द को उसके मतलब से जोड़ो (re, un)",
+        "hinglish": "Naye shabd ko uske matlab se jodo (re, un)",
+        "en": "Join each new word to its meaning (re, un)"
+      },
+      "pairs": [
+        {
+          "left": "retotal",
+          "right": "total again",
+          "meaning": {
+            "hi": "फिर से जोड़ना",
+            "hinglish": "phir se jodna"
+          }
+        },
+        {
+          "left": "retell",
+          "right": "tell again",
+          "meaning": {
+            "hi": "फिर से बताना",
+            "hinglish": "phir se bataana"
+          }
+        },
+        {
+          "left": "redial",
+          "right": "dial again",
+          "meaning": {
+            "hi": "फिर से नंबर मिलाना",
+            "hinglish": "phir se number milaana"
+          }
+        },
+        {
+          "left": "unofficial",
+          "right": "not official",
+          "meaning": {
+            "hi": "ग़ैर-सरकारी",
+            "hinglish": "gair-sarkaari"
+          }
+        },
+        {
+          "left": "uncomfortable",
+          "right": "not comfortable",
+          "meaning": {
+            "hi": "असहज",
+            "hinglish": "asahaj"
+          }
+        },
+        {
+          "left": "unexpected",
+          "right": "not expected",
+          "meaning": {
+            "hi": "अचानक, जिसकी उम्मीद न हो",
+            "hinglish": "achaanak, jiski ummeed na ho"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.05.4.S16",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "instruction": {
+        "hi": "ful वाले शब्द को उसके मतलब से जोड़ो",
+        "hinglish": "ful waale shabd ko uske matlab se jodo",
+        "en": "Join each -ful word to its meaning"
+      },
+      "pairs": [
+        {
+          "left": "harmful",
+          "right": "full of harm",
+          "meaning": {
+            "hi": "नुक़सानदेह",
+            "hinglish": "nuksaandeh"
+          }
+        },
+        {
+          "left": "hopeful",
+          "right": "full of hope",
+          "meaning": {
+            "hi": "आशा से भरा",
+            "hinglish": "aasha se bhara"
+          }
+        },
+        {
+          "left": "fearful",
+          "right": "full of fear",
+          "meaning": {
+            "hi": "डरा हुआ",
+            "hinglish": "dara hua"
+          }
+        },
+        {
+          "left": "wonderful",
+          "right": "full of wonder",
+          "meaning": {
+            "hi": "अद्भुत",
+            "hinglish": "adbhut"
+          }
+        }
+      ]
+    }
+  ]
+}

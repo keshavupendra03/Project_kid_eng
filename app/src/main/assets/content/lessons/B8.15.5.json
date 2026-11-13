@@ -1,0 +1,126 @@
+{
+  "id": "B8.15.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.15.5.S02",
+    "B8.15.5.S03",
+    "B8.15.5.S04",
+    "B8.15.5.S05",
+    "B8.15.5.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.15.5.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 137 पर पत्तियों वाली कविता पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 137 par pattiyon waali kavita padho, phir jawab do.",
+        "en": "Read the poem about the leaves on page 137 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.5.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the leaves say in the spring?",
+      "questionMeaning": {
+        "hi": "बसंत में पत्तियों ने क्या कहा?",
+        "hinglish": "Basant mein pattiyon ne kya kaha?"
+      },
+      "options": [
+        "It's spring; here we are, opening and stretching on every tree.",
+        "We are weary.",
+        "Aren't we all gay?"
+      ],
+      "answer": "It's spring; here we are, opening and stretching on every tree."
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.5.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "In which season do birds make nests in the trees?",
+      "questionMeaning": {
+        "hi": "चिड़ियाँ किस मौसम में घोंसले बनाती हैं?",
+        "hinglish": "Chidiyaan kis mausam mein ghonsle banaati hain?"
+      },
+      "options": [
+        "summer",
+        "winter",
+        "autumn"
+      ],
+      "answer": "summer"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.5.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the leaves say in the autumn?",
+      "questionMeaning": {
+        "hi": "पतझड़ में पत्तियों ने क्या कहा?",
+        "hinglish": "Patjhad mein pattiyon ne kya kaha?"
+      },
+      "options": [
+        "Aren't we all gay?",
+        "Weary are we.",
+        "Here we are."
+      ],
+      "answer": "Aren't we all gay?",
+      "modelAnswer": "In autumn the leaves said, ‘It's autumn, aren't we all gay?’ They were scarlet, golden and russet.",
+      "modelMeaning": {
+        "hi": "पतझड़ में पत्तियों ने कहा, ‘पतझड़ है, क्या हम सब रंगीन नहीं?’ वे लाल, सुनहरी और भूरी थीं।",
+        "hinglish": "Patjhad mein pattiyon ne kaha, ‘Patjhad hai, kya hum sab rangeen nahi?’ Woh laal, sunahri aur bhoori thin."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.5.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What happened to the leaves in the winter?",
+      "questionMeaning": {
+        "hi": "सर्दी में पत्तियों का क्या हुआ?",
+        "hinglish": "Sardi mein pattiyon ka kya hua?"
+      },
+      "options": [
+        "They were weary, so they lay down and slept under the tree.",
+        "They turned green.",
+        "They flew to the sky."
+      ],
+      "answer": "They were weary, so they lay down and slept under the tree."
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.5.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "An appropriate title for the poem:",
+      "questionMeaning": {
+        "hi": "उचित शीर्षक",
+        "hinglish": "Uchit sheershak"
+      },
+      "options": [
+        "The Leaves and the Seasons",
+        "My Pet Bird",
+        "The Rainy Day"
+      ],
+      "answer": "The Leaves and the Seasons"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "B8.03.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.3.S02",
+    "B8.03.3.S03",
+    "B8.03.3.S04",
+    "B8.03.3.S05",
+    "B8.03.3.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.03.3.S01",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "text": {
+        "hi": "संज्ञा + full = विशेषण, पर एक l हट जाता है: tact + full = tactful। कुछ शब्दों में आख़िरी अक्षर बदलता है: beauty → beautiful (y → i)।",
+        "hinglish": "Sangya + full = visheshan, par ek l hat jaata hai: tact + full = tactful. Kuchh shabdon mein aakhiri akshar badalta hai: beauty → beautiful (y → i).",
+        "en": "Noun + full = adjective, but one l is dropped: tact + full = tactful. In some words the last letter changes: beauty → beautiful (y → i)."
+      }
+    },
+    {
+      "type": "crossword",
+      "id": "B8.03.3.S02",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "entries": [
+        {
+          "number": 1,
+          "answer": "thankful",
+          "across": true,
+          "clue": "thank + full = ___",
+          "row": 6,
+          "col": 0
+        },
+        {
+          "number": 2,
+          "answer": "graceful",
+          "across": false,
+          "clue": "grace + full = ___",
+          "row": 4,
+          "col": 2
+        },
+        {
+          "number": 3,
+          "answer": "peaceful",
+          "across": true,
+          "clue": "peace + full = ___",
+          "row": 8,
+          "col": 1
+        },
+        {
+          "number": 4,
+          "answer": "helpful",
+          "across": false,
+          "clue": "help + full = ___",
+          "row": 0,
+          "col": 7
+        },
+        {
+          "number": 5,
+          "answer": "painful",
+          "across": true,
+          "clue": "pain + full = ___",
+          "row": 2,
+          "col": 1
+        }
+      ],
+      "rows": 12,
+      "cols": 9
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.3.S03",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "meaning + full = ?",
+      "questionMeaning": {
+        "hi": "-ful जोड़ो",
+        "hinglish": "-ful jodo"
+      },
+      "options": [
+        "meaningful",
+        "meaningfull",
+        "meanful"
+      ],
+      "answer": "meaningful"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.3.S04",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "wonder + full = ?",
+      "questionMeaning": {
+        "hi": "-ful जोड़ो",
+        "hinglish": "-ful jodo"
+      },
+      "options": [
+        "wonderful",
+        "wonderfull",
+        "wondeful"
+      ],
+      "answer": "wonderful"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.3.S05",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "power + full = ?",
+      "questionMeaning": {
+        "hi": "-ful जोड़ो",
+        "hinglish": "-ful jodo"
+      },
+      "options": [
+        "powerful",
+        "powerfull",
+        "powful"
+      ],
+      "answer": "powerful"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.3.S06",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "hope + full = ?",
+      "questionMeaning": {
+        "hi": "-ful जोड़ो",
+        "hinglish": "-ful jodo"
+      },
+      "options": [
+        "hopeful",
+        "hopefull",
+        "hopful"
+      ],
+      "answer": "hopeful"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.3.S07",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "beauty + full = ?",
+      "questionMeaning": {
+        "hi": "-ful जोड़ो (y बदलेगा)",
+        "hinglish": "-ful jodo (y badlega)"
+      },
+      "options": [
+        "beautiful",
+        "beautyful",
+        "beautifull"
+      ],
+      "answer": "beautiful"
+    }
+  ]
+}

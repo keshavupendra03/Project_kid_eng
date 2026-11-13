@@ -1,0 +1,110 @@
+{
+  "id": "B6.06.6",
+  "level": 6,
+  "bookSteps": [
+    "B6.06.6.S02",
+    "B6.06.6.S03",
+    "B6.06.6.S04",
+    "B6.06.6.S05",
+    "B6.06.6.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.06.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: संकेतों की मदद से अर्जुन के बारे में छह वाक्य लिखो: a Pandav prince, very good archer, elder to, younger than, son of। उदाहरण: Arjun was a Pandav prince.",
+        "hinglish": "Kitaab: sanketon ki madad se Arjun ke baare mein chhah vaakya likho: a Pandav prince, very good archer, elder to, younger than, son of. Udaharan: Arjun was a Pandav prince.",
+        "en": "The book: write six sentences about Arjun with the clues: a Pandav prince, very good archer, elder to, younger than, son of. Example: Arjun was a Pandav prince."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.06.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: very good archer",
+        "hinglish": "Sanket: very good archer",
+        "en": "Clue: very good archer"
+      },
+      "answer": "He was a very good archer.",
+      "meaning": {
+        "hi": "वे बहुत अच्छे धनुर्धर थे।",
+        "hinglish": "Woh bahut achhe dhanurdhar the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.06.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: younger than (युधिष्ठिर और भीम)",
+        "hinglish": "Sanket: younger than (Yudhishthir aur Bheem)",
+        "en": "Clue: younger than Yudhisthir and Bhim"
+      },
+      "answer": "He was younger than Yudhisthir and Bhim.",
+      "meaning": {
+        "hi": "वे युधिष्ठिर और भीम से छोटे थे।",
+        "hinglish": "Woh Yudhishthir aur Bheem se chhote the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.06.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: elder to (नकुल और सहदेव)",
+        "hinglish": "Sanket: elder to (Nakul aur Sahadev)",
+        "en": "Clue: elder to Nakul and Sahadev"
+      },
+      "answer": "He was elder to Nakul and Sahadev.",
+      "meaning": {
+        "hi": "वे नकुल और सहदेव से बड़े थे।",
+        "hinglish": "Woh Nakul aur Sahadev se bade the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.06.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: son of (पांडु और कुंती)",
+        "hinglish": "Sanket: son of (Pandu aur Kunti)",
+        "en": "Clue: son of Pandu and Kunti"
+      },
+      "answer": "He was the son of Pandu and Kunti.",
+      "meaning": {
+        "hi": "वे पांडु और कुंती के पुत्र थे।",
+        "hinglish": "Woh Pandu aur Kunti ke putra the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.06.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: Guru Dron's favourite student",
+        "hinglish": "Sanket: Guru Dron's favourite student",
+        "en": "Clue: Guru Dron's favourite student"
+      },
+      "answer": "He was Guru Dron's favourite student.",
+      "meaning": {
+        "hi": "वे गुरु द्रोण के सबसे प्रिय शिष्य थे।",
+        "hinglish": "Woh Guru Dron ke sabse priya shishya the."
+      }
+    }
+  ]
+}

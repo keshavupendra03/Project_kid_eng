@@ -1,0 +1,181 @@
+{
+  "id": "B8.03.9",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.9.S02",
+    "B8.03.9.S03",
+    "B8.03.9.S04",
+    "B8.03.9.S05",
+    "B8.03.9.S06",
+    "B8.03.9.S07",
+    "B8.03.9.S08",
+    "B8.03.9.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.03.9.S01",
+      "skills": [
+        "book.writing",
+        "grammar.punctuation"
+      ],
+      "text": {
+        "hi": "याद रखो: वाक्य और नाम (Seema, Mumbai) बड़े अक्षर से। सवाल पर ?, हैरानी पर !, सूची में कॉमा (,)।",
+        "hinglish": "Yaad rakho: vaakya aur naam (Seema, Mumbai) bade akshar se. Sawaal par ?, hairaani par !, soochi mein comma (,).",
+        "en": "Remember: sentences and names (Seema, Mumbai) start with capitals. ? for questions, ! for surprise, commas in a list."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.9.S02",
+      "skills": [
+        "book.writing",
+        "grammar.punctuation"
+      ],
+      "question": "seema says they will leave for mumbai",
+      "questionMeaning": {
+        "hi": "सही विराम चिह्न वाला वाक्य चुनो",
+        "hinglish": "Sahi viraam chihn waala vaakya chuno"
+      },
+      "options": [
+        "Seema says they will leave for Mumbai.",
+        "seema says they will leave for mumbai.",
+        "Seema says they will leave for Mumbai?"
+      ],
+      "answer": "Seema says they will leave for Mumbai."
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.9.S03",
+      "skills": [
+        "book.writing",
+        "grammar.punctuation"
+      ],
+      "question": "have you heard about missiles",
+      "questionMeaning": {
+        "hi": "सही विराम चिह्न वाला वाक्य चुनो",
+        "hinglish": "Sahi viraam chihn waala vaakya chuno"
+      },
+      "options": [
+        "Have you heard about missiles?",
+        "Have you heard about missiles.",
+        "have you heard about missiles!"
+      ],
+      "answer": "Have you heard about missiles?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.9.S04",
+      "skills": [
+        "book.writing",
+        "grammar.punctuation"
+      ],
+      "question": "what a beautiful building",
+      "questionMeaning": {
+        "hi": "सही विराम चिह्न वाला वाक्य चुनो",
+        "hinglish": "Sahi viraam chihn waala vaakya chuno"
+      },
+      "options": [
+        "What a beautiful building!",
+        "What a beautiful building?",
+        "what a beautiful building."
+      ],
+      "answer": "What a beautiful building!"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.9.S05",
+      "skills": [
+        "book.writing",
+        "grammar.punctuation"
+      ],
+      "question": "ram mohan sohan twinkle are friends",
+      "questionMeaning": {
+        "hi": "सही विराम चिह्न वाला वाक्य चुनो",
+        "hinglish": "Sahi viraam chihn waala vaakya chuno"
+      },
+      "options": [
+        "Ram, Mohan, Sohan, Twinkle are friends.",
+        "ram, mohan, sohan, twinkle are friends.",
+        "Ram Mohan Sohan Twinkle are friends?"
+      ],
+      "answer": "Ram, Mohan, Sohan, Twinkle are friends."
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.9.S06",
+      "skills": [
+        "book.writing",
+        "grammar.punctuation"
+      ],
+      "question": "can you put these articles on the rack",
+      "questionMeaning": {
+        "hi": "सही विराम चिह्न वाला वाक्य चुनो",
+        "hinglish": "Sahi viraam chihn waala vaakya chuno"
+      },
+      "options": [
+        "Can you put these articles on the rack?",
+        "Can you put these articles on the rack.",
+        "can you put these articles on the Rack?"
+      ],
+      "answer": "Can you put these articles on the rack?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.9.S07",
+      "skills": [
+        "book.writing",
+        "grammar.punctuation"
+      ],
+      "question": "do you know how rumours spread",
+      "questionMeaning": {
+        "hi": "सही विराम चिह्न वाला वाक्य चुनो",
+        "hinglish": "Sahi viraam chihn waala vaakya chuno"
+      },
+      "options": [
+        "Do you know how rumours spread?",
+        "Do you know how rumours spread!",
+        "do you know how rumours spread."
+      ],
+      "answer": "Do you know how rumours spread?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.9.S08",
+      "skills": [
+        "book.writing",
+        "grammar.punctuation"
+      ],
+      "question": "the poem is about the winter season",
+      "questionMeaning": {
+        "hi": "सही विराम चिह्न वाला वाक्य चुनो",
+        "hinglish": "Sahi viraam chihn waala vaakya chuno"
+      },
+      "options": [
+        "The poem is about the winter season.",
+        "The poem is about the winter season?",
+        "the Poem is about the Winter season."
+      ],
+      "answer": "The poem is about the winter season."
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.9.S09",
+      "skills": [
+        "book.writing",
+        "grammar.punctuation"
+      ],
+      "question": "if you came across a helpless man what would you do",
+      "questionMeaning": {
+        "hi": "सही विराम चिह्न वाला वाक्य चुनो",
+        "hinglish": "Sahi viraam chihn waala vaakya chuno"
+      },
+      "options": [
+        "If you came across a helpless man, what would you do?",
+        "If you came across a helpless man. What would you do.",
+        "if you came across a helpless man, what would you do!"
+      ],
+      "answer": "If you came across a helpless man, what would you do?"
+    }
+  ]
+}

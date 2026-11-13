@@ -1,0 +1,160 @@
+{
+  "id": "B7.01.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.01.2.S02",
+    "B7.01.2.S03",
+    "B7.01.2.S04",
+    "B7.01.2.S05",
+    "B7.01.2.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.01.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब के पेज 1 पर कविता ‘The Rainbow’ एक बार फिर पढ़ो। फिर सही विकल्प चुनो।",
+        "hinglish": "Kitaab ke page 1 par kavita ‘The Rainbow’ ek baar phir padho. Phir sahi vikalp chuno.",
+        "en": "Read the poem ‘The Rainbow’ on page 1 of your book once more. Then choose the correct option."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do you think the poem is about?",
+      "questionMeaning": {
+        "hi": "तुम्हें क्या लगता है, यह कविता किसके बारे में है?",
+        "hinglish": "Tumhe kya lagta hai, yeh kavita kiske baare mein hai?"
+      },
+      "options": [
+        "clouds",
+        "bridges",
+        "rainbow"
+      ],
+      "answer": "rainbow",
+      "modelAnswer": "The poem is about the rainbow.",
+      "modelMeaning": {
+        "hi": "यह कविता इंद्रधनुष के बारे में है।",
+        "hinglish": "Yeh kavita indradhanush ke baare mein hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where do boats and ships sail? (boats sail on - ships sail on)",
+      "questionMeaning": {
+        "hi": "नावें और जहाज़ कहाँ चलते हैं?",
+        "hinglish": "Naavein aur jahaaz kahan chalte hain?"
+      },
+      "options": [
+        "river - sea",
+        "road - river",
+        "sky - sea"
+      ],
+      "answer": "river - sea",
+      "modelAnswer": "Boats sail on the rivers and ships sail on the seas.",
+      "modelMeaning": {
+        "hi": "नावें नदियों में चलती हैं और जहाज़ समुद्र में चलते हैं।",
+        "hinglish": "Naavein nadiyon mein chalti hain aur jahaaz samudra mein chalte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The rainbow makes a bridge ...",
+      "questionMeaning": {
+        "hi": "इंद्रधनुष एक पुल बनाता है ...",
+        "hinglish": "Indradhanush ek pul banaata hai ..."
+      },
+      "options": [
+        "over trains",
+        "from the earth to the sky",
+        "over tall buildings"
+      ],
+      "answer": "from the earth to the sky",
+      "modelAnswer": "The rainbow makes a bridge from the earth to the sky.",
+      "modelMeaning": {
+        "hi": "इंद्रधनुष धरती से आसमान तक एक पुल बनाता है।",
+        "hinglish": "Indradhanush dharti se aasmaan tak ek pul banaata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The prettiest bridge is ...",
+      "questionMeaning": {
+        "hi": "सबसे सुंदर पुल ... है।",
+        "hinglish": "Sabse sundar pul ... hai."
+      },
+      "options": [
+        "made by clouds",
+        "made by a rainbow",
+        "made over rivers"
+      ],
+      "answer": "made by a rainbow",
+      "modelAnswer": "The prettiest bridge is made by a rainbow.",
+      "modelMeaning": {
+        "hi": "सबसे सुंदर पुल इंद्रधनुष बनाता है।",
+        "hinglish": "Sabse sundar pul indradhanush banaata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The rainbow is the ...",
+      "questionMeaning": {
+        "hi": "इंद्रधनुष सबसे ... है।",
+        "hinglish": "Indradhanush sabse ... hai."
+      },
+      "options": [
+        "prettier",
+        "pretty",
+        "prettiest"
+      ],
+      "answer": "prettiest",
+      "modelAnswer": "The rainbow is the prettiest.",
+      "modelMeaning": {
+        "hi": "इंद्रधनुष सबसे सुंदर है।",
+        "hinglish": "Indradhanush sabse sundar hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "B7.01.2.S07",
+      "skills": [
+        "speak.sentence",
+        "book.comprehension"
+      ],
+      "sentence": "The rainbow builds a road from earth to sky.",
+      "meaning": {
+        "hi": "इंद्रधनुष धरती से आसमान तक एक सड़क बनाता है।",
+        "hinglish": "Indradhanush dharti se aasmaan tak ek sadak banaata hai.",
+        "en": "The rainbow builds a road from earth to sky."
+      }
+    }
+  ]
+}

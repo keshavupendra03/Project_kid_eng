@@ -1,0 +1,325 @@
+{
+  "id": "B7.12.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.12.1.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.12.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "इस पाठ में रामपुर गाँव के पाँच दोस्त—किश्तो, बिशनी, लंबू, कृष्ण और गिट्टू—अपने कुत्ते शेरू के साथ धौलपुर का मेला देखने निकलते हैं। पहले किताब के सवाल।",
+        "hinglish": "Is paath mein Rampur gaon ke paanch dost—Kishto, Bishni, Lambu, Krishan aur Gittoo—apne kutte Sheru ke saath Dholpur ka mela dekhne nikalte hain. Pehle kitaab ke sawaal.",
+        "en": "In this lesson five friends from Rampur village, Kishto, Bishni, Lambu, Krishan and Gittoo, set out with their dog Sheru for the fair at Dholpur. First, the book's questions."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.12.1.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🎠",
+      "turns": [
+        {
+          "id": "friend",
+          "tinku": "Who is your best friend?",
+          "meaning": {
+            "hi": "तुम्हारा सबसे अच्छा दोस्त कौन है?",
+            "hinglish": "Tumhara sabse achha dost kaun hai?"
+          },
+          "replies": [
+            {
+              "say": "My best friend is Rohan.",
+              "meaning": {
+                "hi": "मेरा सबसे अच्छा दोस्त रोहन है। (अपने दोस्त का नाम बोलो)",
+                "hinglish": "Mera sabse achha dost Rohan hai. (Apne dost ka naam bolo)"
+              },
+              "patterns": [
+                "my best friend is *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "quality",
+          "tinku": "What do you like most about your friend?",
+          "meaning": {
+            "hi": "तुम्हें अपने दोस्त की कौन सी बात सबसे अच्छी लगती है?",
+            "hinglish": "Tumhe apne dost ki kaun si baat sabse achhi lagti hai?"
+          },
+          "replies": [
+            {
+              "say": "My friend is honest and helpful.",
+              "meaning": {
+                "hi": "मेरा दोस्त ईमानदार है और मदद करता है।",
+                "hinglish": "Mera dost imaandaar hai aur madad karta hai."
+              },
+              "patterns": [
+                "my friend is *",
+                "he is *",
+                "she is *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fair",
+          "tinku": "Have you ever been to a fair? What do you like to do there?",
+          "meaning": {
+            "hi": "क्या तुम कभी मेले में गए हो? वहाँ तुम्हें क्या करना पसंद है?",
+            "hinglish": "Kya tum kabhi mele mein gaye ho? Wahan tumhe kya karna pasand hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I like to ride the giant wheel.",
+              "meaning": {
+                "hi": "हाँ, मुझे बड़ा झूला (giant wheel) पसंद है।",
+                "hinglish": "Haan, mujhe bada jhoola (giant wheel) pasand hai."
+              },
+              "patterns": [
+                "yes *",
+                "i like *",
+                "*",
+                "* *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.12.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "chatterbox",
+        "emoji": "",
+        "hindi": "बहुत बातें करने वाला",
+        "hinglish": "bahut baatein karne waala"
+      },
+      "meaning": "a person who talks a lot",
+      "example": "My little sister is a chatterbox.",
+      "exampleMeaning": {
+        "hi": "मेरी छोटी बहन बहुत बातूनी है।",
+        "hinglish": "Meri chhoti behen bahut baatooni hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.12.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "plait",
+        "emoji": "",
+        "hindi": "चोटी",
+        "hinglish": "choti"
+      },
+      "meaning": "long hair twisted together",
+      "example": "Bishni has two plaits.",
+      "exampleMeaning": {
+        "hi": "बिशनी की दो चोटियाँ हैं।",
+        "hinglish": "Bishni ki do chotiyaan hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.12.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "scales",
+        "emoji": "",
+        "hindi": "तराज़ू",
+        "hinglish": "taraazoo"
+      },
+      "meaning": "an instrument for weighing things",
+      "example": "The shopkeeper weighed the rice on the scales.",
+      "exampleMeaning": {
+        "hi": "दुकानदार ने चावल तराज़ू पर तौला।",
+        "hinglish": "Dukaandaar ne chaawal taraazoo par taula."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.12.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "innocent",
+        "emoji": "",
+        "hindi": "भोला, मासूम",
+        "hinglish": "bhola, maasoom"
+      },
+      "meaning": "simple and without any bad thoughts",
+      "example": "The baby has an innocent smile.",
+      "exampleMeaning": {
+        "hi": "बच्चे की मुस्कान मासूम है।",
+        "hinglish": "Bachche ki muskaan maasoom hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.12.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "awkward",
+        "emoji": "",
+        "hindi": "अटपटा, बेढंगा",
+        "hinglish": "atpata, bedhanga"
+      },
+      "meaning": "not comfortable or graceful",
+      "example": "He felt awkward in his new shoes.",
+      "exampleMeaning": {
+        "hi": "नए जूतों में उसे अटपटा लगा।",
+        "hinglish": "Naye jooton mein use atpata laga."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.12.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "gossip",
+        "emoji": "",
+        "hindi": "गपशप",
+        "hinglish": "gapshap"
+      },
+      "meaning": "talk about other people's lives",
+      "example": "Do not spread gossip.",
+      "exampleMeaning": {
+        "hi": "गपशप मत फैलाओ।",
+        "hinglish": "Gapshap mat phailaao."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.12.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "maze",
+        "emoji": "",
+        "hindi": "भूल-भुलैया",
+        "hinglish": "bhool-bhulaiya"
+      },
+      "meaning": "a puzzle of paths where it is easy to get lost",
+      "example": "We got lost in the maze at the fair.",
+      "exampleMeaning": {
+        "hi": "हम मेले की भूल-भुलैया में खो गए।",
+        "hinglish": "Hum mele ki bhool-bhulaiya mein kho gaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.12.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "aquarium",
+        "emoji": "",
+        "hindi": "मछलीघर",
+        "hinglish": "machhlighar"
+      },
+      "meaning": "a glass tank where fish are kept",
+      "example": "There were red fish in the aquarium.",
+      "exampleMeaning": {
+        "hi": "मछलीघर में लाल मछलियाँ थीं।",
+        "hinglish": "Machhlighar mein laal machhliyaan thin."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.12.1.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "शब्दों और phrases को उनके मतलब से जोड़ो",
+        "hinglish": "Shabdon aur phrases ko unke matlab se jodo",
+        "en": "Join the words and phrases to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "huddle together",
+          "right": "sit very close to each other",
+          "meaning": {
+            "hi": "एक-दूसरे से सटकर बैठना",
+            "hinglish": "ek-doosre se satkar baithna"
+          }
+        },
+        {
+          "left": "a childish idea",
+          "right": "a silly idea, like a small child's",
+          "meaning": {
+            "hi": "बचकाना विचार",
+            "hinglish": "bachkaana vichaar"
+          }
+        },
+        {
+          "left": "gait",
+          "right": "the way a person walks",
+          "meaning": {
+            "hi": "चाल",
+            "hinglish": "chaal"
+          }
+        },
+        {
+          "left": "copies",
+          "right": "does the same as someone else",
+          "meaning": {
+            "hi": "नक़ल करता है",
+            "hinglish": "nakal karta hai"
+          }
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B7.12.1.S12",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "aquarium",
+        "emoji": "",
+        "hindi": "मछलीघर",
+        "hinglish": "machhlighar"
+      }
+    }
+  ]
+}

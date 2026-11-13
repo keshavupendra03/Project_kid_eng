@@ -1,0 +1,159 @@
+{
+  "id": "B8.10.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.10.2.S01"
+  ],
+  "steps": [
+    {
+      "type": "sort_groups",
+      "id": "B8.10.2.S01",
+      "skills": [
+        "book.words"
+      ],
+      "instruction": {
+        "hi": "एक जैसी आवाज़ वाले शब्द साथ रखो",
+        "hinglish": "Ek jaisi awaaz waale shabd saath rakho",
+        "en": "Put the rhyming words together"
+      },
+      "groups": [
+        {
+          "id": "ays",
+          "name": "-ays",
+          "emoji": "☀️",
+          "meaning": {
+            "hi": "days जैसे",
+            "hinglish": "days jaise"
+          }
+        },
+        {
+          "id": "unch",
+          "name": "-unch",
+          "emoji": "🍱",
+          "meaning": {
+            "hi": "lunch जैसे",
+            "hinglish": "lunch jaise"
+          }
+        },
+        {
+          "id": "een",
+          "name": "-een",
+          "emoji": "🟢",
+          "meaning": {
+            "hi": "green जैसे",
+            "hinglish": "green jaise"
+          }
+        },
+        {
+          "id": "igh",
+          "name": "-igh / -ie",
+          "emoji": "⬆️",
+          "meaning": {
+            "hi": "high जैसे",
+            "hinglish": "high jaise"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "days",
+          "emoji": "📅",
+          "groups": [
+            "ays"
+          ]
+        },
+        {
+          "text": "stays",
+          "emoji": "🏠",
+          "groups": [
+            "ays"
+          ]
+        },
+        {
+          "text": "rays",
+          "emoji": "🌞",
+          "groups": [
+            "ays"
+          ]
+        },
+        {
+          "text": "bunch",
+          "emoji": "🎈",
+          "groups": [
+            "unch"
+          ]
+        },
+        {
+          "text": "lunch",
+          "emoji": "🍱",
+          "groups": [
+            "unch"
+          ]
+        },
+        {
+          "text": "munch",
+          "emoji": "😋",
+          "groups": [
+            "unch"
+          ]
+        },
+        {
+          "text": "green",
+          "emoji": "🟢",
+          "groups": [
+            "een"
+          ]
+        },
+        {
+          "text": "teen",
+          "emoji": "🧑",
+          "groups": [
+            "een"
+          ]
+        },
+        {
+          "text": "between",
+          "emoji": "↔️",
+          "groups": [
+            "een"
+          ]
+        },
+        {
+          "text": "high",
+          "emoji": "⬆️",
+          "groups": [
+            "igh"
+          ]
+        },
+        {
+          "text": "sigh",
+          "emoji": "😮‍💨",
+          "groups": [
+            "igh"
+          ]
+        },
+        {
+          "text": "tie",
+          "emoji": "👔",
+          "groups": [
+            "igh"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B8.10.2.S02",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "between",
+        "emoji": "",
+        "hindi": "बीच में",
+        "hinglish": "beech mein"
+      }
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "B6.03.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.03.4.S02",
+    "B6.03.4.S03",
+    "B6.03.4.S04",
+    "B6.03.4.S06",
+    "B6.03.4.S07",
+    "B6.03.4.S08",
+    "B6.03.4.S09",
+    "B6.03.4.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.03.4.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 10-11 पर ‘The King and the Spider’ पढ़ो। पहले बताओ कि कहानी में क्या पहले हुआ।",
+        "hinglish": "Apni kitaab mein page 10-11 par ‘The King and the Spider’ padho. Pehle batao ki kahani mein kya pehle hua.",
+        "en": "Read ‘The King and the Spider’ on pages 10–11 of your book. First, tell what happened first in the story."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.4.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which comes first in the story?",
+      "questionMeaning": {
+        "hi": "कहानी में सबसे पहले क्या आता है?",
+        "hinglish": "Kahani mein sabse pehle kya aata hai?"
+      },
+      "options": [
+        "The King was wise, brave and kind.",
+        "The King was sad and worried.",
+        "Many of his soldiers were killed."
+      ],
+      "answer": "The King was wise, brave and kind."
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.4.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What comes just after ‘People were very happy in his kingdom’?",
+      "questionMeaning": {
+        "hi": "‘लोग राज्य में ख़ुश थे’ के ठीक बाद क्या आता है?",
+        "hinglish": "‘Log raajya mein khush the’ ke theek baad kya aata hai?"
+      },
+      "options": [
+        "Once a neighbouring King attacked his country.",
+        "The King was sad and worried.",
+        "The King was wise, brave and kind."
+      ],
+      "answer": "Once a neighbouring King attacked his country."
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.4.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which comes last of these?",
+      "questionMeaning": {
+        "hi": "इनमें से आख़िर में क्या आता है?",
+        "hinglish": "Inmein se aakhir mein kya aata hai?"
+      },
+      "options": [
+        "The King was sad and worried.",
+        "Many of his soldiers were killed.",
+        "Once a neighbouring King attacked his country."
+      ],
+      "answer": "The King was sad and worried."
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.03.4.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "सही क्रम: 3. The King was wise, brave and kind. 5. People were very happy in his kingdom. 4. Once a neighbouring King attacked his country. 2. Many of his soldiers were killed. 1. The King was sad and worried.",
+        "hinglish": "Sahi kram: 3. The King was wise, brave and kind. 5. People were very happy in his kingdom. 4. Once a neighbouring King attacked his country. 2. Many of his soldiers were killed. 1. The King was sad and worried.",
+        "en": "The right order: 3. The King was wise, brave and kind. 5. People were very happy in his kingdom. 4. Once a neighbouring King attacked his country. 2. Many of his soldiers were killed. 1. The King was sad and worried."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.4.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What kind of ruler was the King?",
+      "questionMeaning": {
+        "hi": "राजा कैसा शासक था?",
+        "hinglish": "Raja kaisa shaasak tha?"
+      },
+      "options": [
+        "wise, brave and kind",
+        "cruel and lazy",
+        "weak and afraid"
+      ],
+      "answer": "wise, brave and kind",
+      "modelAnswer": "The King was a wise, brave and kind ruler.",
+      "modelMeaning": {
+        "hi": "राजा समझदार, बहादुर और दयालु शासक था।",
+        "hinglish": "Raja samajhdaar, bahaadur aur dayaalu shaasak tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.4.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who attacked his country?",
+      "questionMeaning": {
+        "hi": "उसके देश पर किसने हमला किया?",
+        "hinglish": "Uske desh par kisne hamla kiya?"
+      },
+      "options": [
+        "a neighbouring king",
+        "a spider",
+        "his own soldiers"
+      ],
+      "answer": "a neighbouring king",
+      "modelAnswer": "A neighbouring king attacked his country.",
+      "modelMeaning": {
+        "hi": "एक पड़ोसी राजा ने उसके देश पर हमला किया।",
+        "hinglish": "Ek padosi raja ne uske desh par hamla kiya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.4.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What happened to the King and his soldiers in the battle?",
+      "questionMeaning": {
+        "hi": "लड़ाई में राजा और सैनिकों का क्या हुआ?",
+        "hinglish": "Ladaai mein raja aur sainikon ka kya hua?"
+      },
+      "options": [
+        "He lost; many soldiers were killed and others ran away.",
+        "They won easily.",
+        "They all went home happily."
+      ],
+      "answer": "He lost; many soldiers were killed and others ran away.",
+      "modelAnswer": "The King lost the battle. Many of his soldiers were killed and others ran away to save their lives. The King had to hide in a cave.",
+      "modelMeaning": {
+        "hi": "राजा लड़ाई हार गया। कई सैनिक मारे गए और बाकी जान बचाकर भाग गए। राजा को गुफ़ा में छिपना पड़ा।",
+        "hinglish": "Raja ladaai haar gaya. Kai sainik maare gaye aur baaki jaan bachaakar bhaag gaye. Raja ko gufaa mein chhipna pada."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.4.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the King see in the cave?",
+      "questionMeaning": {
+        "hi": "राजा ने गुफ़ा में क्या देखा?",
+        "hinglish": "Raja ne gufaa mein kya dekha?"
+      },
+      "options": [
+        "a spider trying again and again to climb the wall",
+        "a lion sleeping",
+        "a box of gold"
+      ],
+      "answer": "a spider trying again and again to climb the wall",
+      "modelAnswer": "In the cave, the King saw a spider trying again and again to climb the wall. At last it succeeded.",
+      "modelMeaning": {
+        "hi": "गुफ़ा में राजा ने एक मकड़ी को बार-बार दीवार पर चढ़ने की कोशिश करते देखा। आख़िर में वह सफल हुई।",
+        "hinglish": "Gufaa mein raja ne ek makdi ko baar-baar deewaar par chadhne ki koshish karte dekha. Aakhir mein woh safal hui."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.4.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the King do after watching the spider?",
+      "questionMeaning": {
+        "hi": "मकड़ी को देखकर राजा ने क्या किया?",
+        "hinglish": "Makdi ko dekhkar raja ne kya kiya?"
+      },
+      "options": [
+        "He united his soldiers, attacked again and defeated his enemy.",
+        "He stayed in the cave forever.",
+        "He gave his kingdom away."
+      ],
+      "answer": "He united his soldiers, attacked again and defeated his enemy.",
+      "modelAnswer": "After watching the spider, the King got his confidence back. He united his soldiers, attacked his enemy and finally defeated him.",
+      "modelMeaning": {
+        "hi": "मकड़ी को देखकर राजा का आत्मविश्वास लौट आया। उसने सैनिकों को इकट्ठा किया, हमला किया और दुश्मन को हरा दिया।",
+        "hinglish": "Makdi ko dekhkar raja ka aatmavishwaas laut aaya. Usne sainikon ko ikattha kiya, hamla kiya aur dushman ko hara diya."
+      }
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "id": "B7.02.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.02.1.S12",
+    "B7.02.1.S14"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.02.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "इस पाठ में भोला अपना घोड़ा बेचने बाज़ार जाता है। पहले पाठ के नए शब्द सीखते हैं।",
+        "hinglish": "Is paath mein Bhola apna ghoda bechne baazaar jaata hai. Pehle paath ke naye shabd seekhte hain.",
+        "en": "In this lesson Bhola goes to the market to sell his horse. First, let's learn the new words."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.02.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "bargain",
+        "emoji": "",
+        "hindi": "सौदा",
+        "hinglish": "sauda"
+      },
+      "meaning": "an agreement to buy, sell or exchange something",
+      "example": "I got a good bargain at the fair.",
+      "exampleMeaning": {
+        "hi": "मुझे मेले में अच्छा सौदा मिला।",
+        "hinglish": "Mujhe mele mein achha sauda mila."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.02.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "exchange",
+        "emoji": "",
+        "hindi": "अदला-बदली करना",
+        "hinglish": "adla-badli karna"
+      },
+      "meaning": "to give something and get something else for it",
+      "example": "Let us exchange our books.",
+      "exampleMeaning": {
+        "hi": "चलो अपनी किताबें आपस में बदल लें।",
+        "hinglish": "Chalo apni kitaabein aapas mein badal lein."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.02.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "decide",
+        "emoji": "",
+        "hindi": "तय करना",
+        "hinglish": "tay karna"
+      },
+      "meaning": "to make up your mind about something",
+      "example": "We decided to go to the zoo.",
+      "exampleMeaning": {
+        "hi": "हमने चिड़ियाघर जाना तय किया।",
+        "hinglish": "Humne chidiyaghar jaana tay kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.02.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "delicious",
+        "emoji": "",
+        "hindi": "स्वादिष्ट",
+        "hinglish": "swaadisht"
+      },
+      "meaning": "very tasty",
+      "example": "Mother makes delicious kheer.",
+      "exampleMeaning": {
+        "hi": "माँ स्वादिष्ट खीर बनाती हैं।",
+        "hinglish": "Maa swaadisht kheer banaati hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.02.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "angel",
+        "emoji": "",
+        "hindi": "फ़रिश्ता",
+        "hinglish": "farishta"
+      },
+      "meaning": "a kind and good person, like a spirit from heaven",
+      "example": "My little sister is an angel.",
+      "exampleMeaning": {
+        "hi": "मेरी छोटी बहन एक फ़रिश्ता है।",
+        "hinglish": "Meri chhoti behen ek farishta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.02.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "fairy",
+        "emoji": "",
+        "hindi": "परी",
+        "hinglish": "pari"
+      },
+      "meaning": "a tiny magic person in stories",
+      "example": "The fairy had silver wings.",
+      "exampleMeaning": {
+        "hi": "परी के चाँदी जैसे पंख थे।",
+        "hinglish": "Pari ke chaandi jaise pankh the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.02.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "colt",
+        "emoji": "",
+        "hindi": "घोड़े का बच्चा",
+        "hinglish": "ghode ka bachcha"
+      },
+      "meaning": "a young male horse",
+      "example": "The colt ran behind its mother.",
+      "exampleMeaning": {
+        "hi": "घोड़े का बच्चा अपनी माँ के पीछे दौड़ा।",
+        "hinglish": "Ghode ka bachcha apni maa ke peechhe dauda."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.02.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "fodder",
+        "emoji": "",
+        "hindi": "चारा",
+        "hinglish": "chaara"
+      },
+      "meaning": "dry food for cows, horses and other animals",
+      "example": "The farmer gives fodder to his cows.",
+      "exampleMeaning": {
+        "hi": "किसान अपनी गायों को चारा देता है।",
+        "hinglish": "Kisaan apni gaayon ko chaara deta hai."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.02.1.S10",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "delicious",
+        "emoji": "",
+        "hindi": "स्वादिष्ट",
+        "hinglish": "swaadisht"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.02.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "exchange",
+        "emoji": "",
+        "hindi": "अदला-बदली करना",
+        "hinglish": "adla-badli karna"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.02.1.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "किताब के phrases को उनके मतलब से जोड़ो",
+        "hinglish": "Kitaab ke phrases ko unke matlab se jodo",
+        "en": "Join the book's phrases to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "a lot of",
+          "right": "very much, very many",
+          "meaning": {
+            "hi": "बहुत सारा",
+            "hinglish": "bahut saara"
+          }
+        },
+        {
+          "left": "a few",
+          "right": "a small number of",
+          "meaning": {
+            "hi": "कुछ, थोड़े से",
+            "hinglish": "kuch, thode se"
+          }
+        },
+        {
+          "left": "a herd of cattle",
+          "right": "a big group of cows or buffaloes",
+          "meaning": {
+            "hi": "मवेशियों का झुंड",
+            "hinglish": "maveshiyon ka jhund"
+          }
+        },
+        {
+          "left": "lay eggs",
+          "right": "what a hen does to give eggs",
+          "meaning": {
+            "hi": "अंडे देना",
+            "hinglish": "ande dena"
+          }
+        },
+        {
+          "left": "a few yards",
+          "right": "a short distance",
+          "meaning": {
+            "hi": "थोड़ी दूर (कुछ गज़)",
+            "hinglish": "thodi door (kuch gaz)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.02.1.S13",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब पूछती है: barter system क्या है? पुराने समय में पैसे नहीं थे। लोग चीज़ के बदले चीज़ देते थे, जैसे अनाज के बदले कपड़ा। इसे barter (वस्तु-विनिमय) कहते हैं। भोला भी यही करता है!",
+        "hinglish": "Kitaab poochhti hai: barter system kya hai? Puraane samay mein paise nahi the. Log cheez ke badle cheez dete the, jaise anaaj ke badle kapda. Ise barter (vastu-vinimay) kehte hain. Bhola bhi yahi karta hai!",
+        "en": "The book asks: what is the barter system? Long ago there was no money. People gave one thing for another, like grain for cloth. This is called barter. Bhola does the same!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.1.S14",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What is the barter system?",
+      "questionMeaning": {
+        "hi": "बार्टर सिस्टम क्या है?",
+        "hinglish": "Barter system kya hai?"
+      },
+      "options": [
+        "exchanging one thing for another thing",
+        "buying things with money",
+        "selling things on the internet"
+      ],
+      "answer": "exchanging one thing for another thing",
+      "modelAnswer": "The barter system means exchanging one thing for another thing, without money. It was used in old times, before money.",
+      "modelMeaning": {
+        "hi": "बार्टर का मतलब है बिना पैसे के एक चीज़ के बदले दूसरी चीज़ लेना। यह पुराने समय में, पैसे आने से पहले होता था।",
+        "hinglish": "Barter ka matlab hai bina paise ke ek cheez ke badle doosri cheez lena. Yeh puraane samay mein, paise aane se pehle hota tha."
+      }
+    }
+  ]
+}

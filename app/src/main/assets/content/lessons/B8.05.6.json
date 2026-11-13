@@ -1,0 +1,151 @@
+{
+  "id": "B8.05.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.05.6.S02",
+    "B8.05.6.S03",
+    "B8.05.6.S04",
+    "B8.05.6.S07",
+    "B8.05.6.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.05.6.S01",
+      "skills": [
+        "book.comprehension",
+        "book.writing"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 37 पर ‘Three things in life’ कविता पढ़ो, फिर पूरा करो।",
+        "hinglish": "Apni kitaab mein page 37 par ‘Three things in life’ kavita padho, phir poora karo.",
+        "en": "Read the poem ‘Three things in life’ on page 37 of your book, then complete."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.6.S02",
+      "skills": [
+        "book.comprehension",
+        "book.writing"
+      ],
+      "question": "Three most valuable things in one's life:",
+      "questionMeaning": {
+        "hi": "ज़िंदगी की तीन सबसे क़ीमती चीज़ें",
+        "hinglish": "Zindagi ki teen sabse keemti cheezein"
+      },
+      "options": [
+        "love, self-confidence and friends",
+        "wine, pride and anger",
+        "time, words and opportunity"
+      ],
+      "answer": "love, self-confidence and friends"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.6.S03",
+      "skills": [
+        "book.comprehension",
+        "book.writing"
+      ],
+      "question": "Three things that can destroy one's future:",
+      "questionMeaning": {
+        "hi": "तीन चीज़ें जो भविष्य बर्बाद कर सकती हैं",
+        "hinglish": "Teen cheezein jo bhavishya barbaad kar sakti hain"
+      },
+      "options": [
+        "wine, pride and anger",
+        "peace, hope and honesty",
+        "love, self-confidence and friends"
+      ],
+      "answer": "wine, pride and anger"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.6.S04",
+      "skills": [
+        "book.comprehension",
+        "book.writing"
+      ],
+      "question": "Three things that can make one's life:",
+      "questionMeaning": {
+        "hi": "तीन चीज़ें जो ज़िंदगी बनाती हैं",
+        "hinglish": "Teen cheezein jo zindagi banaati hain"
+      },
+      "options": [
+        "hard work, sincerity and commitment",
+        "wine, pride and anger",
+        "time, words and opportunity"
+      ],
+      "answer": "hard work, sincerity and commitment"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.6.S05",
+      "skills": [
+        "book.comprehension",
+        "book.writing"
+      ],
+      "question": "Three things that, once gone, never come back:",
+      "questionMeaning": {
+        "hi": "तीन चीज़ें जो एक बार जाकर नहीं लौटतीं",
+        "hinglish": "Teen cheezein jo ek baar jaakar nahi lautatin"
+      },
+      "options": [
+        "time, words and opportunity",
+        "peace, hope and honesty",
+        "love, friends and books"
+      ],
+      "answer": "time, words and opportunity"
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.05.6.S06",
+      "skills": [
+        "book.comprehension",
+        "book.writing"
+      ],
+      "text": {
+        "hi": "Let's Write: कविता ‘The Miser and his Gold’ का संदेश पूरा करो।",
+        "hinglish": "Let's Write: kavita ‘The Miser and his Gold’ ka sandesh poora karo.",
+        "en": "Let's Write: complete the message of the poem ‘The Miser and his Gold’."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.05.6.S07",
+      "skills": [
+        "book.comprehension",
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "पूरा करो: हमें लालची नहीं होना चाहिए क्योंकि पैसा तभी काम का है जब हम उसका उपयोग करें।",
+        "hinglish": "Poora karo: Humein laalchi nahi hona chahiye kyonki paisa tabhi kaam ka hai jab hum uska upyog karein.",
+        "en": "Complete: We should not be greedy because ... (money is useful only when used)"
+      },
+      "answer": "Money is useful only when we use it.",
+      "meaning": {
+        "hi": "पैसा तभी काम का है जब हम उसका उपयोग करें।",
+        "hinglish": "Paisa tabhi kaam ka hai jab hum uska upyog karein."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.05.6.S08",
+      "skills": [
+        "book.comprehension",
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "पूरा करो: हमें पड़ोसियों की मदद करनी चाहिए क्योंकि वे मुश्किल समय में हमारा साथ देते हैं।",
+        "hinglish": "Poora karo: Humein padosiyon ki madad karni chahiye kyonki woh mushkil samay mein hamara saath dete hain.",
+        "en": "Complete: We should help our neighbours because ..."
+      },
+      "answer": "They stand by us in times of trouble.",
+      "meaning": {
+        "hi": "वे मुश्किल समय में हमारा साथ देते हैं।",
+        "hinglish": "Woh mushkil samay mein hamara saath dete hain."
+      }
+    }
+  ]
+}

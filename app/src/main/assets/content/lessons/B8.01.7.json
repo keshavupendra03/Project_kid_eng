@@ -1,0 +1,139 @@
+{
+  "id": "B8.01.7",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.01.7.S01",
+      "skills": [
+        "book.activity"
+      ],
+      "text": {
+        "hi": "हर अक्षर का एक नंबर है: A = 1, B = 2, C = 3 ... Z = 26। किताब के संदेश के शब्द खोलो!",
+        "hinglish": "Har akshar ka ek number hai: A = 1, B = 2, C = 3 ... Z = 26. Kitaab ke sandesh ke shabd kholo!",
+        "en": "Each letter has a number: A = 1, B = 2, C = 3 ... Z = 26. Decode the words from the book's message!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.7.S02",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Decode: 14 5 22 5 18",
+      "questionMeaning": {
+        "hi": "संदेश खोलो",
+        "hinglish": "Sandesh kholo"
+      },
+      "options": [
+        "NEVER",
+        "NEWER",
+        "LEVER"
+      ],
+      "answer": "NEVER"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.7.S03",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Decode: 7 9 22 5",
+      "questionMeaning": {
+        "hi": "संदेश खोलो",
+        "hinglish": "Sandesh kholo"
+      },
+      "options": [
+        "GIVE",
+        "FIVE",
+        "HIVE"
+      ],
+      "answer": "GIVE"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.7.S04",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Decode: 21 16",
+      "questionMeaning": {
+        "hi": "संदेश खोलो",
+        "hinglish": "Sandesh kholo"
+      },
+      "options": [
+        "UP",
+        "UN",
+        "TO"
+      ],
+      "answer": "UP"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.7.S05",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Decode: 8 15 16 5",
+      "questionMeaning": {
+        "hi": "संदेश खोलो",
+        "hinglish": "Sandesh kholo"
+      },
+      "options": [
+        "HOPE",
+        "ROPE",
+        "HOME"
+      ],
+      "answer": "HOPE"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.7.S06",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Decode: 4 5 19 16 1 9 18",
+      "questionMeaning": {
+        "hi": "संदेश खोलो",
+        "hinglish": "Sandesh kholo"
+      },
+      "options": [
+        "DESPAIR",
+        "REPAIRS",
+        "DESPITE"
+      ],
+      "answer": "DESPAIR"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.7.S07",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Write ‘SUN’ in numbers.",
+      "questionMeaning": {
+        "hi": "‘SUN’ को नंबरों में लिखो",
+        "hinglish": "‘SUN’ ko numberon mein likho"
+      },
+      "options": [
+        "19 21 14",
+        "18 21 14",
+        "19 20 14"
+      ],
+      "answer": "19 21 14"
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.01.7.S08",
+      "skills": [
+        "book.activity"
+      ],
+      "text": {
+        "hi": "अब किताब में पूरा संदेश जोड़ो। सीख वही है: Never give up hope!",
+        "hinglish": "Ab kitaab mein poora sandesh jodo. Seekh wahi hai: Never give up hope!",
+        "en": "Now put together the full message in your book. The lesson is the same: Never give up hope!"
+      }
+    }
+  ]
+}

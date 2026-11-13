@@ -1,0 +1,128 @@
+{
+  "id": "B7.13.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.13.7.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.13.7.S01",
+      "skills": [
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब कहती है: मेले में जो अच्छा लगा उसकी लिस्ट बनाओ और तस्वीर बनाओ। पहले इन चीज़ों को छाँटो।",
+        "hinglish": "Kitaab kehti hai: mele mein jo achha laga uski list banao aur tasveer banao. Pehle in cheezon ko chhaanto.",
+        "en": "The book says: list the things you enjoyed at a fair and draw a picture. First, sort these things."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.13.7.S02",
+      "skills": [
+        "book.activity"
+      ],
+      "instruction": {
+        "hi": "हर चीज़ को खाने या झूले/सवारी में रखो",
+        "hinglish": "Har cheez ko khaane ya jhoole/sawaari mein rakho",
+        "en": "Is it food, or a swing or ride?"
+      },
+      "groups": [
+        {
+          "id": "food",
+          "name": "sweets and dishes",
+          "emoji": "🍽️",
+          "meaning": {
+            "hi": "मिठाई और पकवान",
+            "hinglish": "mithaai aur pakwaan"
+          }
+        },
+        {
+          "id": "ride",
+          "name": "swings and rides",
+          "emoji": "🎡",
+          "meaning": {
+            "hi": "झूले और सवारी",
+            "hinglish": "jhoole aur sawaari"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "jalebi",
+          "emoji": "🍥",
+          "groups": [
+            "food"
+          ]
+        },
+        {
+          "text": "merry-go-round",
+          "emoji": "🎠",
+          "groups": [
+            "ride"
+          ]
+        },
+        {
+          "text": "samosa",
+          "emoji": "🥟",
+          "groups": [
+            "food"
+          ]
+        },
+        {
+          "text": "giant wheel",
+          "emoji": "🎡",
+          "groups": [
+            "ride"
+          ]
+        },
+        {
+          "text": "kulfi",
+          "emoji": "🍦",
+          "groups": [
+            "food"
+          ]
+        },
+        {
+          "text": "see-saw",
+          "emoji": "⚖️",
+          "groups": [
+            "ride"
+          ]
+        },
+        {
+          "text": "pani-puri",
+          "emoji": "🍲",
+          "groups": [
+            "food"
+          ]
+        },
+        {
+          "text": "train ride",
+          "emoji": "🚂",
+          "groups": [
+            "ride"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.7.S03",
+      "skills": [
+        "book.activity"
+      ],
+      "prompt": {
+        "hi": "अपनी तस्वीर के बारे में: मेले में बहुत भीड़ और रोशनी थी।",
+        "hinglish": "Apni tasveer ke baare mein: mele mein bahut bheed aur roshni thi.",
+        "en": "About your picture: the fair was crowded and full of lights."
+      },
+      "answer": "The fair was crowded and full of lights.",
+      "meaning": {
+        "hi": "मेले में बहुत भीड़ और रोशनी थी।",
+        "hinglish": "Mele mein bahut bheed aur roshni thi."
+      }
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "id": "B6.09.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.09.5.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.09.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब: सोचो तुम एक परी हो। मैं पूछूँगा ‘Would you like to ...?’ जवाब दो: ‘Yes, I would.’ या ‘No, I won't.’",
+        "hinglish": "Kitaab: socho tum ek pari ho. Main poochhunga ‘Would you like to ...?’ Jawab do: ‘Yes, I would.’ ya ‘No, I won't.’",
+        "en": "The book: imagine you are a fairy. I'll ask ‘Would you like to ...?’ Answer ‘Yes, I would.’ or ‘No, I won't.’"
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.09.5.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🧚",
+      "turns": [
+        {
+          "id": "poor",
+          "tinku": "Would you like to give food to the poor?",
+          "meaning": {
+            "hi": "क्या तुम ग़रीबों को खाना देना चाहोगे?",
+            "hinglish": "Kya tum gareebon ko khaana dena chahoge?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I would.",
+              "meaning": {
+                "hi": "हाँ, मैं देना चाहूँगा/चाहूँगी।",
+                "hinglish": "Haan, main dena chahunga/chahungi."
+              },
+              "patterns": [
+                "yes i would",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I won't.",
+              "meaning": {
+                "hi": "नहीं, मैं नहीं दूँगा/दूँगी।",
+                "hinglish": "Nahi, main nahi doonga/doongi."
+              },
+              "patterns": [
+                "no i wont",
+                "no i will not",
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "tv",
+          "tinku": "Would you like to watch television all the time?",
+          "meaning": {
+            "hi": "क्या तुम हर समय टीवी देखना चाहोगे?",
+            "hinglish": "Kya tum har samay TV dekhna chahoge?"
+          },
+          "replies": [
+            {
+              "say": "No, I won't.",
+              "meaning": {
+                "hi": "नहीं, मैं नहीं देखूँगा/देखूँगी।",
+                "hinglish": "Nahi, main nahi dekhoonga/dekhoongi."
+              },
+              "patterns": [
+                "no i wont",
+                "no i will not",
+                "no *",
+                "no"
+              ]
+            },
+            {
+              "say": "Yes, I would.",
+              "meaning": {
+                "hi": "हाँ, मैं देखना चाहूँगा/चाहूँगी।",
+                "hinglish": "Haan, main dekhna chahunga/chahungi."
+              },
+              "patterns": [
+                "yes i would",
+                "yes *",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "old",
+          "tinku": "Would you like to use your money to help the old and the needy?",
+          "meaning": {
+            "hi": "क्या तुम अपने पैसे बूढ़ों और ज़रूरतमंदों की मदद में लगाना चाहोगे?",
+            "hinglish": "Kya tum apne paise boodhon aur zaroorat-mandon ki madad mein lagaana chahoge?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I would.",
+              "meaning": {
+                "hi": "हाँ, मैं ज़रूर लगाऊँगा/लगाऊँगी।",
+                "hinglish": "Haan, main zaroor lagaaunga/lagaaungi."
+              },
+              "patterns": [
+                "yes i would",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I won't.",
+              "meaning": {
+                "hi": "नहीं, मैं नहीं लगाऊँगा/लगाऊँगी।",
+                "hinglish": "Nahi, main nahi lagaaunga/lagaaungi."
+              },
+              "patterns": [
+                "no i wont",
+                "no i will not",
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "books",
+          "tinku": "Would you like to buy lots of good books to read?",
+          "meaning": {
+            "hi": "क्या तुम पढ़ने के लिए बहुत सी अच्छी किताबें ख़रीदना चाहोगे?",
+            "hinglish": "Kya tum padhne ke liye bahut si achhi kitaabein khareedna chahoge?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I would.",
+              "meaning": {
+                "hi": "हाँ, मैं ख़रीदना चाहूँगा/चाहूँगी।",
+                "hinglish": "Haan, main khareedna chahunga/chahungi."
+              },
+              "patterns": [
+                "yes i would",
+                "yes *",
+                "yes"
+              ],
+              "next": "end"
+            },
+            {
+              "say": "No, I won't.",
+              "meaning": {
+                "hi": "नहीं, मैं नहीं ख़रीदूँगा/ख़रीदूँगी।",
+                "hinglish": "Nahi, main nahi khareedoonga/khareedoongi."
+              },
+              "patterns": [
+                "no i wont",
+                "no i will not",
+                "no *",
+                "no"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

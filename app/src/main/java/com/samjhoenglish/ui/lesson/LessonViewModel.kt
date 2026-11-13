@@ -49,6 +49,8 @@ data class LessonUiState(
     val saved: Boolean = false,
     /** What to do next: may be this same lesson if it needs another go. */
     val nextLessonId: String? = null,
+    /** Steps copied exactly from the school textbook: they can come in the exam. */
+    val bookSteps: Set<String> = emptySet(),
 ) {
     val current: Step? get() = steps.getOrNull(position)
     val empty: Boolean get() = !loading && !error && steps.isEmpty()
@@ -91,6 +93,7 @@ class LessonViewModel(
                         lessonSize = plan.steps.size,
                         reviewCount = plan.reviewCount,
                         questions = plan.steps.drop(plan.reviewCount).count { it.isQuestion },
+                        bookSteps = plan.bookSteps,
                     )
                 },
                 onFailure = { LessonUiState(loading = false, error = true) },

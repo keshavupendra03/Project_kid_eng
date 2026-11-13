@@ -1,0 +1,199 @@
+{
+  "id": "B7.11.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.11.T.S01",
+    "B7.11.T.S02",
+    "B7.11.T.S03",
+    "B7.11.T.S04",
+    "B7.11.T.S05",
+    "B7.11.T.S06",
+    "B7.11.T.S07",
+    "B7.11.T.S08",
+    "B7.11.T.S09",
+    "B7.11.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.11.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What goes from hand to hand?",
+      "questionMeaning": {
+        "hi": "हाथ से हाथ क्या जाता है?",
+        "hinglish": "Haath se haath kya jaata hai?"
+      },
+      "options": [
+        "nuts and sweetmeats",
+        "twigs and leaves",
+        "money"
+      ],
+      "answer": "nuts and sweetmeats"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "How can Lohri be celebrated in a better way?",
+      "questionMeaning": {
+        "hi": "लोहड़ी बेहतर तरीके से कैसे मनाएँ?",
+        "hinglish": "Lohri behtar tareeke se kaise manaayein?"
+      },
+      "options": [
+        "by burning our hatred instead of wood",
+        "by burning more wood",
+        "by not meeting anyone"
+      ],
+      "answer": "by burning our hatred instead of wood"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Bonfires consume a lot of / a little wood.",
+      "questionMeaning": {
+        "hi": "सही शब्द चुनो",
+        "hinglish": "Sahi shabd chuno"
+      },
+      "options": [
+        "a lot of",
+        "a little"
+      ],
+      "answer": "a lot of"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "amfle = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर",
+        "hinglish": "Uljhe akshar"
+      },
+      "options": [
+        "flame",
+        "female",
+        "fame"
+      ],
+      "answer": "flame"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Owls ___ in the day and ___ in the night.",
+      "questionMeaning": {
+        "hi": "सही क्रम",
+        "hinglish": "Sahi kram"
+      },
+      "options": [
+        "sleep ... wake up",
+        "wake up ... sleep"
+      ],
+      "answer": "sleep ... wake up"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "In which word does g sound like j?",
+      "questionMeaning": {
+        "hi": "किस शब्द में g ‘ज’ जैसा है?",
+        "hinglish": "Kis shabd mein g ‘ja’ jaisa hai?"
+      },
+      "options": [
+        "giant",
+        "grass",
+        "give"
+      ],
+      "answer": "giant"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Letter Q comes ___ letters P and R.",
+      "answer": "between",
+      "options": [
+        "between",
+        "among",
+        "across"
+      ],
+      "meaning": {
+        "hi": "Q, P और R के बीच आता है।",
+        "hinglish": "Q, P aur R ke beech aata hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "She works ___ the poor.",
+      "answer": "among",
+      "options": [
+        "among",
+        "between",
+        "into"
+      ],
+      "meaning": {
+        "hi": "वह ग़रीबों के बीच काम करती है।",
+        "hinglish": "Woh gareebon ke beech kaam karti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.T.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Vinita: I went to the market yesterday. In indirect speech:",
+      "questionMeaning": {
+        "hi": "indirect speech में",
+        "hinglish": "Indirect speech mein"
+      },
+      "options": [
+        "Vinita said that she had gone to the market the day before.",
+        "Vinita said that I went to the market yesterday.",
+        "Vinita said she goes to the market."
+      ],
+      "answer": "Vinita said that she had gone to the market the day before."
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.T.S10",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Christmas is celebrated on ...",
+      "questionMeaning": {
+        "hi": "क्रिसमस कब मनाते हैं?",
+        "hinglish": "Christmas kab manaate hain?"
+      },
+      "options": [
+        "25th December",
+        "1st January",
+        "15th August"
+      ],
+      "answer": "25th December"
+    }
+  ]
+}

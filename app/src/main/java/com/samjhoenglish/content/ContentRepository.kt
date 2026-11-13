@@ -46,6 +46,13 @@ class ContentRepository(private val assets: AssetManager) {
         .toMap()
         .also { wordIndexCache = it }
 
+    /** School textbook chapters, by class. */
+    suspend fun book(): BookFile = bookCache ?: withContext(Dispatchers.IO) {
+        ContentJson.decodeFromString<BookFile>(read("content/book.json"))
+    }.also { bookCache = it }
+
+    private var bookCache: BookFile? = null
+
     suspend fun lesson(id: String): Lesson = withContext(Dispatchers.IO) {
         ContentJson.decodeFromString<Lesson>(read("content/lessons/$id.json"))
     }

@@ -1,0 +1,247 @@
+{
+  "id": "B6.03.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.03.5.S02",
+    "B6.03.5.S03",
+    "B6.03.5.S04",
+    "B6.03.5.S05",
+    "B6.03.5.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.03.5.S01",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब के पेज 14 पर रविंदर तेजपाल के बारे में पैराग्राफ़ पढ़ो। फिर सवालों के जवाब दो। उदाहरण: What does Ravinder Tejpal do? He is a police officer.",
+        "hinglish": "Kitaab ke page 14 par Ravinder Tejpal ke baare mein paragraph padho. Phir sawaalon ke jawab do. Udaharan: What does Ravinder Tejpal do? He is a police officer.",
+        "en": "Read the paragraph about Ravinder Tejpal on page 14. Then answer. Example: What does Ravinder Tejpal do? He is a police officer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.5.S02",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "How old is he?",
+      "questionMeaning": {
+        "hi": "उसकी उम्र कितनी है?",
+        "hinglish": "Uski umar kitni hai?"
+      },
+      "options": [
+        "about 35 years old",
+        "25 years old",
+        "50 years old"
+      ],
+      "answer": "about 35 years old",
+      "modelAnswer": "He is about 35 years old.",
+      "modelMeaning": {
+        "hi": "उसकी उम्र लगभग 35 साल है।",
+        "hinglish": "Uski umar lagbhag 35 saal hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.5.S03",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What is his father's name?",
+      "questionMeaning": {
+        "hi": "उसके पिता का नाम क्या है?",
+        "hinglish": "Uske pita ka naam kya hai?"
+      },
+      "options": [
+        "Mohindra Tejpal",
+        "Sumant",
+        "Hemant"
+      ],
+      "answer": "Mohindra Tejpal",
+      "modelAnswer": "His father's name is Mohindra Tejpal.",
+      "modelMeaning": {
+        "hi": "उसके पिता का नाम मोहिंद्र तेजपाल है।",
+        "hinglish": "Uske pita ka naam Mohindra Tejpal hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.5.S04",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What are the names of his children?",
+      "questionMeaning": {
+        "hi": "उसके बच्चों के नाम क्या हैं?",
+        "hinglish": "Uske bachchon ke naam kya hain?"
+      },
+      "options": [
+        "Sumant and Hemant",
+        "Monika and Mohindra",
+        "Ravi and Raju"
+      ],
+      "answer": "Sumant and Hemant",
+      "modelAnswer": "His children are Sumant and Hemant.",
+      "modelMeaning": {
+        "hi": "उसके बच्चों के नाम सुमंत और हेमंत हैं।",
+        "hinglish": "Uske bachchon ke naam Sumant aur Hemant hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.5.S05",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What does he play with his sons?",
+      "questionMeaning": {
+        "hi": "वह अपने बेटों के साथ क्या खेलता है?",
+        "hinglish": "Woh apne beton ke saath kya khelta hai?"
+      },
+      "options": [
+        "cricket",
+        "football",
+        "chess"
+      ],
+      "answer": "cricket",
+      "modelAnswer": "He plays cricket with his sons in the evening.",
+      "modelMeaning": {
+        "hi": "वह शाम को अपने बेटों के साथ क्रिकेट खेलता है।",
+        "hinglish": "Woh shaam ko apne beton ke saath cricket khelta hai."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.03.5.S06",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🙋",
+      "turns": [
+        {
+          "id": "name",
+          "tinku": "What's your name?",
+          "meaning": {
+            "hi": "तुम्हारा नाम क्या है?",
+            "hinglish": "Tumhara naam kya hai?"
+          },
+          "replies": [
+            {
+              "say": "My name is {child}.",
+              "meaning": {
+                "hi": "मेरा नाम ... है।",
+                "hinglish": "Mera naam ... hai."
+              },
+              "patterns": [
+                "my name is *",
+                "i am *",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "age",
+          "tinku": "How old are you?",
+          "meaning": {
+            "hi": "तुम कितने साल के हो?",
+            "hinglish": "Tum kitne saal ke ho?"
+          },
+          "replies": [
+            {
+              "say": "I am eleven years old.",
+              "meaning": {
+                "hi": "मैं ग्यारह साल का/की हूँ। (अपनी उम्र बोलो)",
+                "hinglish": "Main gyaarah saal ka/ki hoon. (Apni umar bolo)"
+              },
+              "patterns": [
+                "i am * years old",
+                "i am *",
+                "* years old",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "like",
+          "tinku": "What things do you like?",
+          "meaning": {
+            "hi": "तुम्हें कौन सी चीज़ें पसंद हैं?",
+            "hinglish": "Tumhe kaun si cheezein pasand hain?"
+          },
+          "replies": [
+            {
+              "say": "I like books and cricket.",
+              "meaning": {
+                "hi": "मुझे किताबें और क्रिकेट पसंद हैं।",
+                "hinglish": "Mujhe kitaabein aur cricket pasand hain."
+              },
+              "patterns": [
+                "i like *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mother",
+          "tinku": "What's your mother?",
+          "meaning": {
+            "hi": "तुम्हारी माँ क्या करती हैं?",
+            "hinglish": "Tumhari maa kya karti hain?"
+          },
+          "replies": [
+            {
+              "say": "My mother is a teacher.",
+              "meaning": {
+                "hi": "मेरी माँ टीचर हैं। (या: homemaker, farmer...)",
+                "hinglish": "Meri maa teacher hain. (Ya: homemaker, farmer...)"
+              },
+              "patterns": [
+                "my mother is *",
+                "she is *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "father",
+          "tinku": "What's your father?",
+          "meaning": {
+            "hi": "तुम्हारे पिता क्या करते हैं?",
+            "hinglish": "Tumhare pita kya karte hain?"
+          },
+          "replies": [
+            {
+              "say": "My father is a farmer.",
+              "meaning": {
+                "hi": "मेरे पिता किसान हैं। (अपने पिता का काम बोलो)",
+                "hinglish": "Mere pita kisaan hain. (Apne pita ka kaam bolo)"
+              },
+              "patterns": [
+                "my father is *",
+                "he is *",
+                "*",
+                "* *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

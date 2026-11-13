@@ -1,0 +1,343 @@
+{
+  "id": "B6.01.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.01.4.S02",
+    "B6.01.4.S03",
+    "B6.01.4.S06",
+    "B6.01.4.S07",
+    "B6.01.4.S08",
+    "B6.01.4.S09",
+    "B6.01.4.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.01.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "text": {
+        "hi": "big (बड़ा) → bigger (ज़्यादा बड़ा) → biggest (सबसे बड़ा)। ज़्यादातर शब्दों में -er और -est लगाते हैं: tall, taller, tallest।",
+        "hinglish": "big (bada) → bigger (zyaada bada) → biggest (sabse bada). Zyaadatar shabdon mein -er aur -est lagaate hain: tall, taller, tallest.",
+        "en": "big → bigger → biggest. Most words just add -er and -est: tall, taller, tallest."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.01.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके ‘ज़्यादा’ वाले रूप से जोड़ो",
+        "hinglish": "Har shabd ko uske ‘zyaada’ waale roop se jodo",
+        "en": "Join each word to its -er form"
+      },
+      "pairs": [
+        {
+          "left": "wide",
+          "right": "wider",
+          "meaning": {
+            "hi": "ज़्यादा चौड़ा",
+            "hinglish": "zyaada chauda"
+          }
+        },
+        {
+          "left": "tall",
+          "right": "taller",
+          "meaning": {
+            "hi": "ज़्यादा लंबा",
+            "hinglish": "zyaada lamba"
+          }
+        },
+        {
+          "left": "deep",
+          "right": "deeper",
+          "meaning": {
+            "hi": "ज़्यादा गहरा",
+            "hinglish": "zyaada gehra"
+          }
+        },
+        {
+          "left": "sweet",
+          "right": "sweeter",
+          "meaning": {
+            "hi": "ज़्यादा मीठा",
+            "hinglish": "zyaada meetha"
+          }
+        },
+        {
+          "left": "slow",
+          "right": "slower",
+          "meaning": {
+            "hi": "ज़्यादा धीमा",
+            "hinglish": "zyaada dheema"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.01.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके ‘सबसे’ वाले रूप से जोड़ो",
+        "hinglish": "Har shabd ko uske ‘sabse’ waale roop se jodo",
+        "en": "Join each word to its -est form"
+      },
+      "pairs": [
+        {
+          "left": "wide",
+          "right": "widest",
+          "meaning": {
+            "hi": "सबसे चौड़ा",
+            "hinglish": "sabse chauda"
+          }
+        },
+        {
+          "left": "tall",
+          "right": "tallest",
+          "meaning": {
+            "hi": "सबसे लंबा",
+            "hinglish": "sabse lamba"
+          }
+        },
+        {
+          "left": "deep",
+          "right": "deepest",
+          "meaning": {
+            "hi": "सबसे गहरा",
+            "hinglish": "sabse gehra"
+          }
+        },
+        {
+          "left": "sweet",
+          "right": "sweetest",
+          "meaning": {
+            "hi": "सबसे मीठा",
+            "hinglish": "sabse meetha"
+          }
+        },
+        {
+          "left": "slow",
+          "right": "slowest",
+          "meaning": {
+            "hi": "सबसे धीमा",
+            "hinglish": "sabse dheema"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "The banyan tree is ___ than the mango tree.",
+      "answer": "bigger",
+      "options": [
+        "bigger",
+        "biggest",
+        "big"
+      ],
+      "meaning": {
+        "hi": "बरगद का पेड़ आम के पेड़ से बड़ा है।",
+        "hinglish": "Bargad ka ped aam ke ped se bada hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.01.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "text": {
+        "hi": "‘Do you like ...?’ का जवाब छोटे में: हाँ तो ‘Yes, I do.’ नहीं तो ‘No, I don't.’",
+        "hinglish": "‘Do you like ...?’ ka jawab chhote mein: haan to ‘Yes, I do.’ nahi to ‘No, I don't.’",
+        "en": "The short answer to ‘Do you like ...?’ is ‘Yes, I do.’ or ‘No, I don't.’"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "Mona: Do you like bananas? Shalu: No, ___.",
+      "answer": "I don't",
+      "options": [
+        "I don't",
+        "I do"
+      ],
+      "meaning": {
+        "hi": "मोना: क्या तुम्हें केले पसंद हैं? शालू: नहीं।",
+        "hinglish": "Mona: Kya tumhe kele pasand hain? Shalu: Nahi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "Mona: Do you like mangoes? Shalu: Yes, ___.",
+      "answer": "I do",
+      "options": [
+        "I do",
+        "I don't"
+      ],
+      "meaning": {
+        "hi": "मोना: क्या तुम्हें आम पसंद हैं? शालू: हाँ।",
+        "hinglish": "Mona: Kya tumhe aam pasand hain? Shalu: Haan."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "Mohan: I like football. Do you? Shyam: No, ___.",
+      "answer": "I don't",
+      "options": [
+        "I don't",
+        "I do"
+      ],
+      "meaning": {
+        "hi": "मोहन: मुझे फ़ुटबॉल पसंद है। तुम्हें? श्याम: नहीं।",
+        "hinglish": "Mohan: Mujhe football pasand hai. Tumhe? Shyam: Nahi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "Grandpa: I like walking. Do you? Grandson: Yes, ___.",
+      "answer": "I do",
+      "options": [
+        "I do",
+        "I don't"
+      ],
+      "meaning": {
+        "hi": "दादाजी: मुझे टहलना पसंद है। तुम्हें? पोता: हाँ।",
+        "hinglish": "Daadaji: Mujhe tahalna pasand hai. Tumhe? Pota: Haan."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "Hariram: I like reading. Do you? Baliram: No, ___. I like watching the T.V.",
+      "answer": "I don't",
+      "options": [
+        "I don't",
+        "I do"
+      ],
+      "meaning": {
+        "hi": "हरिराम: मुझे पढ़ना पसंद है। तुम्हें? बलिराम: नहीं, मुझे टीवी देखना पसंद है।",
+        "hinglish": "Hariram: Mujhe padhna pasand hai. Tumhe? Baliram: Nahi, mujhe TV dekhna pasand hai."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.01.4.S11",
+      "skills": [
+        "speak.sentence",
+        "grammar.yes_no_questions"
+      ],
+      "scene": "🥭",
+      "turns": [
+        {
+          "id": "trees",
+          "tinku": "Do you like trees?",
+          "meaning": {
+            "hi": "क्या तुम्हें पेड़ पसंद हैं?",
+            "hinglish": "Kya tumhe ped pasand hain?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I do.",
+              "meaning": {
+                "hi": "हाँ, पसंद हैं।",
+                "hinglish": "Haan, pasand hain."
+              },
+              "patterns": [
+                "yes i do",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I don't.",
+              "meaning": {
+                "hi": "नहीं, पसंद नहीं।",
+                "hinglish": "Nahi, pasand nahi."
+              },
+              "patterns": [
+                "no i dont",
+                "no i do not",
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mango",
+          "tinku": "Do you like mangoes?",
+          "meaning": {
+            "hi": "क्या तुम्हें आम पसंद हैं?",
+            "hinglish": "Kya tumhe aam pasand hain?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I do.",
+              "meaning": {
+                "hi": "हाँ, पसंद हैं।",
+                "hinglish": "Haan, pasand hain."
+              },
+              "patterns": [
+                "yes i do",
+                "yes *",
+                "yes"
+              ],
+              "next": "end"
+            },
+            {
+              "say": "No, I don't.",
+              "meaning": {
+                "hi": "नहीं, पसंद नहीं।",
+                "hinglish": "Nahi, pasand nahi."
+              },
+              "patterns": [
+                "no i dont",
+                "no i do not",
+                "no *",
+                "no"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "grade": 7, "number": 14, "emoji": "🏯", "title": "A Visit to Orchha", "pages": "101–108",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["क्लास 7 के बच्चे ओरछा घूमकर आए हैं, जो मध्य प्रदेश में बेतवा नदी के किनारे है। अब वे टीचर से बहुत सवाल पूछ रहे हैं! पहले किताब के सवाल।", "Class 7 ke bachche Orchha ghoomkar aaye hain, jo Madhya Pradesh mein Betwa nadi ke kinaare hai. Ab woh teacher se bahut sawaal poochh rahe hain! Pehle kitaab ke sawaal.", "Class 7 has visited Orchha, on the bank of the Betwa river in Madhya Pradesh. Now they ask their teacher lots of questions! First, the book's questions."]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "🛕", "turns": [
+          {"id": "seen", "tinku": "Have you seen any old temple?", "meaning": ["क्या तुमने कोई पुराना मंदिर देखा है?", "Kya tumne koi puraana mandir dekha hai?"],
+            "replies": [
+              {"say": "Yes, I have seen an old temple.", "meaning": ["हाँ, मैंने एक पुराना मंदिर देखा है।", "Haan, maine ek puraana mandir dekha hai."], "patterns": ["yes *", "yes"]},
+              {"say": "No, I have not seen one.", "meaning": ["नहीं, मैंने नहीं देखा।", "Nahi, maine nahi dekha."], "patterns": ["no *", "no"], "next": "end"}
+            ]},
+          {"id": "where", "tinku": "Where is it situated?", "meaning": ["वह कहाँ है?", "Woh kahan hai?"],
+            "replies": [{"say": "It is in my village.", "meaning": ["वह मेरे गाँव में है। (जगह का नाम बोलो)", "Woh mere gaon mein hai. (Jagah ka naam bolo)"], "patterns": ["it is in *", "it is *", "in *", "*", "* *"], "next": "end"}]}
+        ]},
+        {"card": ["किताब का ‘Read and Learn’ कुछ मिलते-जुलते शब्द सिखाता है: cenotaph, cemetery, graveyard, tomb, epitaph। ध्यान से अंतर समझो।", "Kitaab ka ‘Read and Learn’ kuch milte-julte shabd sikhaata hai: cenotaph, cemetery, graveyard, tomb, epitaph. Dhyaan se antar samjho.", "The book's Read and Learn teaches some similar words: cenotaph, cemetery, graveyard, tomb, epitaph. Learn the difference carefully."]},
+        {"book": true, "pairs": ["हर शब्द को उसके मतलब से जोड़ो", "Har shabd ko uske matlab se jodo", "Join each word to its meaning", [
+          ["cenotaph", "a monument for someone who died somewhere else", "स्मारक (शव कहीं और)", "smaarak (shav kahin aur)"],
+          ["cemetery", "a large burial ground", "बड़ा क़ब्रिस्तान", "bada kabristaan"],
+          ["graveyard", "a burial ground", "क़ब्रिस्तान", "kabristaan"],
+          ["tomb", "a monument built over the place where a person is buried", "मक़बरा", "makbara"],
+          ["epitaph", "words written on a tombstone in memory of a person", "समाधि-लेख", "samaadhi-lekh"]]]},
+        {"word": ["confluence", "संगम", "sangam", "the place where two or more rivers meet", "Prayagraj is famous for its confluence.", "प्रयागराज अपने संगम के लिए मशहूर है।", "Prayagraj apne sangam ke liye mashhoor hai."]},
+        {"word": ["monument", "स्मारक", "smaarak", "a building made in memory of a person or event", "India Gate is a famous monument.", "इंडिया गेट एक मशहूर स्मारक है।", "India Gate ek mashhoor smaarak hai."]},
+        {"word": ["mural", "भित्ति चित्र (दीवार पर बना चित्र)", "bhitti chitra (deewaar par bana chitra)", "a painting on a wall", "The temple walls have beautiful murals.", "मंदिर की दीवारों पर सुंदर चित्र हैं।", "Mandir ki deewaaron par sundar chitra hain."]},
+        {"word": ["tourist", "पर्यटक, सैलानी", "paryatak, sailaani", "a person who travels for pleasure", "Many tourists visit Khajuraho.", "बहुत से पर्यटक खजुराहो घूमने आते हैं।", "Bahut se paryatak Khajuraho ghoomne aate hain."]},
+        {"sayw": ["monument", "स्मारक", "smaarak"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 101 से 103 तक ‘A Visit to Orchha’ पढ़ो। फिर जवाब दो।", "Apni kitaab mein page 101 se 103 tak ‘A Visit to Orchha’ padho. Phir jawab do.", "Read ‘A Visit to Orchha’ on pages 101 to 103 of your book. Then answer."]},
+        {"book": true, "q": ["Why were the students of class VII happy?", "क्लास 7 के बच्चे ख़ुश क्यों थे?", "Class 7 ke bachche khush kyon the?", ["They had visited Orchha and were discussing it.", "They had a holiday.", "They won a prize."], "They had visited Orchha and were discussing it.", "The students of class VII were happy because they had visited Orchha and were excited to discuss their visit.", "क्लास 7 के बच्चे ख़ुश थे क्योंकि वे ओरछा घूमकर आए थे और उसके बारे में बात करने को उत्साहित थे।", "Class 7 ke bachche khush the kyonki woh Orchha ghoomkar aaye the aur uske baare mein baat karne ko utsaahit the."]},
+        {"book": true, "q": ["What is the meeting place of rivers called?", "नदियों के मिलने की जगह को क्या कहते हैं?", "Nadiyon ke milne ki jagah ko kya kehte hain?", ["Sangam or confluence", "a dam", "a bridge"], "Sangam or confluence", "The meeting place of rivers is called Sangam. In English it is called a confluence.", "नदियों के मिलने की जगह को संगम कहते हैं। इंग्लिश में इसे confluence कहते हैं।", "Nadiyon ke milne ki jagah ko sangam kehte hain. English mein ise confluence kehte hain."]},
+        {"book": true, "q": ["What is a cenotaph?", "cenotaph क्या है?", "Cenotaph kya hai?", ["a monument built in memory of people who died in far away places", "a big river", "a kind of painting"], "a monument built in memory of people who died in far away places", "A cenotaph is a monument built in memory of soldiers, sailors or others who died in some far away places.", "cenotaph उन लोगों की याद में बना स्मारक है जो कहीं दूर मरे।", "Cenotaph un logon ki yaad mein bana smaarak hai jo kahin door mare."]},
+        {"book": true, "q": ["What are the cenotaphs at Orchha called?", "ओरछा के स्मारकों को क्या कहते हैं?", "Orchha ke smaarakon ko kya kehte hain?", ["chhatries", "tombs", "murals"], "chhatries", "The cenotaphs at Orchha are called chhatries.", "ओरछा के स्मारकों को छतरियाँ कहते हैं।", "Orchha ke smaarakon ko chhatriyaan kehte hain."]},
+        {"book": true, "q": ["Who built the buildings at Orchha?", "ओरछा की इमारतें किसने बनवाईं?", "Orchha ki imaaratein kisne banwaayin?", ["the Bundela kings", "the Mughal kings", "the British"], "the Bundela kings", "The Bundela kings built the buildings at Orchha.", "ओरछा की इमारतें बुंदेला राजाओं ने बनवाईं।", "Orchha ki imaaratein Bundela raajaon ne banwaayin."]},
+        {"book": true, "q": ["Which style do the wall paintings at Orchha belong to?", "ओरछा की दीवारों के चित्र किस शैली के हैं?", "Orchha ki deewaaron ke chitra kis shaili ke hain?", ["the Bundela style", "the Mughal style", "the Kangra style"], "the Bundela style", "The wall paintings at Orchha belong to the Bundela style, a part of the Rajput style.", "ओरछा के भित्ति चित्र बुंदेला शैली के हैं, जो राजपूत शैली का हिस्सा है।", "Orchha ke bhitti chitra Bundela shaili ke hain, jo Rajput shaili ka hissa hai."]},
+        {"book": true, "q": ["When were the wall paintings very popular?", "दीवार के चित्र कब बहुत लोकप्रिय थे?", "Deewaar ke chitra kab bahut lokpriya the?", ["in the 16th and 17th centuries", "in the 20th century", "last year"], "in the 16th and 17th centuries", "Wall paintings were very popular in the 16th and 17th centuries.", "दीवार के चित्र 16वीं और 17वीं सदी में बहुत लोकप्रिय थे।", "Deewaar ke chitra 16vi aur 17vi sadi mein bahut lokpriya the."]},
+        {"book": true, "q": ["Who looks after old monuments and buildings?", "पुराने स्मारकों की देखभाल कौन करता है?", "Puraane smaarakon ki dekhbhaal kaun karta hai?", ["the Archaeological Department", "the Railway Department", "the school"], "the Archaeological Department", "The Archaeological Department looks after old monuments and buildings.", "पुरातत्व विभाग पुराने स्मारकों और इमारतों की देखभाल करता है।", "Puraatatva vibhaag puraane smaarakon aur imaaraton ki dekhbhaal karta hai."]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["याद रखो: tomb (मक़बरा) में व्यक्ति वहीं दफ़न होता है। cenotaph में व्यक्ति वहाँ नहीं होता, यह बस उसकी याद में बना स्मारक है।", "Yaad rakho: tomb (makbara) mein vyakti wahin dafan hota hai. Cenotaph mein vyakti wahan nahi hota, yeh bas uski yaad mein bana smaarak hai.", "Remember: in a tomb, the person is buried right there. A cenotaph is only a memorial; the person is not there."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर इमारत को cenotaph या tomb में रखो", "Har imaarat ko cenotaph ya tomb mein rakho", "Classify into cenotaphs and tombs"],
+          "groups": [
+            {"id": "cenotaph", "name": "cenotaph", "emoji": "🕯️", "meaning": ["स्मारक", "smaarak"]},
+            {"id": "tomb", "name": "tomb", "emoji": "🕌", "meaning": ["मक़बरा", "makbara"]}
+          ],
+          "items": [
+            {"text": "The Taj Mahal", "emoji": "🕌", "groups": ["tomb"]},
+            {"text": "Amar Jyoti at Vijay Chowk", "emoji": "🔥", "groups": ["cenotaph"]},
+            {"text": "Rajghat", "emoji": "🌸", "groups": ["cenotaph"]},
+            {"text": "Humayun Ka Makbara", "emoji": "🏛️", "groups": ["tomb"]},
+            {"text": "Chhatries at Orchha", "emoji": "⛩️", "groups": ["cenotaph"]},
+            {"text": "Samadhi of Laxmibai", "emoji": "⚔️", "groups": ["cenotaph"]},
+            {"text": "Chhatries at Maheshwar and Indore", "emoji": "🏯", "groups": ["cenotaph"]}
+          ]},
+        {"book": true, "q": ["One word: one who serves in an army", "एक शब्द: जो सेना में काम करता है", "Ek shabd: jo sena mein kaam karta hai", ["soldier", "sailor", "tourist"], "soldier"]},
+        {"book": true, "q": ["One word: one who sails on a ship", "एक शब्द: जो जहाज़ पर चलता है", "Ek shabd: jo jahaaz par chalta hai", ["sailor", "soldier", "tourist"], "sailor"]},
+        {"book": true, "q": ["One word: a meeting place of rivers", "एक शब्द: नदियों के मिलने की जगह", "Ek shabd: nadiyon ke milne ki jagah", ["confluence", "monument", "archaeology"], "confluence"]},
+        {"book": true, "q": ["One word: a building built in memory of some event or person", "एक शब्द: किसी घटना या व्यक्ति की याद में बनी इमारत", "Ek shabd: kisi ghatna ya vyakti ki yaad mein bani imaarat", ["monument", "confluence", "sailor"], "monument"]},
+        {"book": true, "q": ["One word: a person who travels for pleasure", "एक शब्द: जो मज़े के लिए घूमता है", "Ek shabd: jo maze ke liye ghoomta hai", ["tourist", "soldier", "archaeology"], "tourist"]},
+        {"book": true, "q": ["One word: the study of history from old buildings and objects found in the ground", "एक शब्द: ज़मीन से मिली पुरानी चीज़ों से इतिहास का अध्ययन", "Ek shabd: zameen se mili puraani cheezon se itihaas ka adhyayan", ["archaeology", "monument", "confluence"], "archaeology"]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: सवाल की indirect speech और शब्दों के रूप", "Grammar: sawaal ki indirect speech aur shabdon ke roop", "Grammar in Use: reported questions and word forms"], "book": true,
+      "skills": ["book.grammar", "grammar.indirect_speech"],
+      "steps": [
+        {"card": ["सवाल को indirect में बदलते समय: said to → asked, सवाल का क्रम सीधे वाक्य जैसा, और ? हट जाता है। Ramu said to Mohan, \"Where are you going?\" → Ramu asked Mohan where he was going.", "Sawaal ko indirect mein badalte samay: said to → asked, sawaal ka kram seedhe vaakya jaisa, aur ? hat jaata hai. Ramu said to Mohan, \"Where are you going?\" → Ramu asked Mohan where he was going.", "When reporting a question: said to → asked, the words go in normal sentence order, and the ? goes away. Ramu said to Mohan, \"Where are you going?\" → Ramu asked Mohan where he was going."]},
+        {"book": true, "build": ["बदलो: He said to me, \"What are you doing?\"", "Badlo: He said to me, \"What are you doing?\"", "Change: He said to me, \"What are you doing?\"", "He asked me what I was doing.", "उसने मुझसे पूछा कि मैं क्या कर रहा/रही था/थी।", "Usne mujhse poochha ki main kya kar raha/rahi tha/thi.", ["are", "you"]]},
+        {"book": true, "build": ["बदलो: Jyoti said to the boy, \"Where do you live?\"", "Badlo: Jyoti said to the boy, \"Where do you live?\"", "Change: Jyoti said to the boy, \"Where do you live?\"", "Jyoti asked the boy where he lived.", "ज्योति ने लड़के से पूछा कि वह कहाँ रहता है।", "Jyoti ne ladke se poochha ki woh kahan rehta hai.", ["do", "live"]]},
+        {"book": true, "build": ["बदलो: Seema said to her son, \"Where are you going?\"", "Badlo: Seema said to her son, \"Where are you going?\"", "Change: Seema said to her son, \"Where are you going?\"", "Seema asked her son where he was going.", "सीमा ने अपने बेटे से पूछा कि वह कहाँ जा रहा था।", "Seema ne apne bete se poochha ki woh kahan ja raha tha.", ["are"]]},
+        {"book": true, "build": ["बदलो: She said to her sister, \"What do you want?\"", "Badlo: She said to her sister, \"What do you want?\"", "Change: She said to her sister, \"What do you want?\"", "She asked her sister what she wanted.", "उसने अपनी बहन से पूछा कि उसे क्या चाहिए था।", "Usne apni behen se poochha ki use kya chahiye tha.", ["do", "want"]]},
+        {"book": true, "build": ["बदलो: He said to Sangita, \"What do you like the most?\"", "Badlo: He said to Sangita, \"What do you like the most?\"", "Change: He said to Sangita, \"What do you like the most?\"", "He asked Sangita what she liked the most.", "उसने संगीता से पूछा कि उसे सबसे ज़्यादा क्या पसंद था।", "Usne Sangita se poochha ki use sabse zyaada kya pasand tha.", ["do", "like"]]},
+        {"book": true, "build": ["बदलो: The headmaster said to the students, \"Which lesson are you reading today?\"", "Badlo: The headmaster said to the students, \"Which lesson are you reading today?\"", "Change the headmaster's question into indirect speech.", "The headmaster asked the students which lesson they were reading that day.", "हेडमास्टर ने बच्चों से पूछा कि वे उस दिन कौन सा पाठ पढ़ रहे थे।", "Headmaster ne bachchon se poochha ki woh us din kaun sa paath padh rahe the.", ["today", "are"]]},
+        {"book": true, "build": ["बदलो: The landlady said to the student, \"When will you be back from Bhopal?\"", "Badlo: The landlady said to the student, \"When will you be back from Bhopal?\"", "Change the landlady's question into indirect speech.", "The landlady asked the student when he would be back from Bhopal.", "मकान मालकिन ने छात्र से पूछा कि वह भोपाल से कब लौटेगा।", "Makaan maalkin ne chhaatra se poochha ki woh Bhopal se kab lautega.", ["will"]]},
+        {"book": true, "build": ["बदलो: The students said to the teacher, \"When shall we visit Van Vihar?\"", "Badlo: The students said to the teacher, \"When shall we visit Van Vihar?\"", "Change the students' question into indirect speech.", "The students asked the teacher when they would visit Van Vihar.", "छात्रों ने टीचर से पूछा कि वे वन विहार कब जाएँगे।", "Chhaatron ne teacher se poochha ki woh Van Vihar kab jaayenge.", ["shall", "we"]]},
+        {"card": ["किताब: एक ही शब्द के दो रूप। sweet (मीठा, विशेषण) → sweetness (मिठास, संज्ञा)। I enjoy the sweetness of honey.", "Kitaab: ek hi shabd ke do roop. sweet (meetha, visheshan) → sweetness (mithaas, sangya). I enjoy the sweetness of honey.", "The book: two forms of one word. sweet (adjective) → sweetness (noun). I enjoy the sweetness of honey."]},
+        {"book": true, "skills": ["book.grammar", "grammar.prefix_suffix"], "pairs": ["संज्ञा (noun) को उसके विशेषण (adjective) से जोड़ो", "Sangya (noun) ko uske visheshan (adjective) se jodo", "Match each noun with its adjective", [
+          ["goodness", "good", "अच्छाई / अच्छा", "achhaai / achha"],
+          ["help", "helpful", "मदद / मददगार", "madad / madadgaar"],
+          ["skill", "skilful", "हुनर / हुनरमंद", "hunar / hunarmand"],
+          ["courage", "courageous", "हिम्मत / हिम्मती", "himmat / himmati"],
+          ["mischief", "mischievous", "शरारत / शरारती", "sharaarat / sharaarati"],
+          ["labour", "laborious", "मेहनत / मेहनत वाला", "mehnat / mehnat waala"]]]},
+        {"book": true, "skills": ["book.grammar", "grammar.prefix_suffix"], "fb": ["The soldier was very ___.", "courageous", ["courageous", "courage"], "सैनिक बहुत हिम्मती था।", "Sainik bahut himmati tha."]},
+        {"book": true, "skills": ["book.grammar", "grammar.prefix_suffix"], "fb": ["The little monkey is very ___.", "mischievous", ["mischievous", "mischief"], "छोटा बंदर बहुत शरारती है।", "Chhota bandar bahut sharaarati hai."]},
+        {"book": true, "pairs": ["झुंड वाले शब्द जोड़ो (Match the following)", "Jhund waale shabd jodo (Match the following)", "Match the following", [
+          ["galaxy", "stars", "तारों की आकाशगंगा", "taaron ki aakaashganga"],
+          ["flock", "sheep", "भेड़ों का झुंड", "bhedon ka jhund"],
+          ["team", "cricketers", "क्रिकेट खिलाड़ियों की टीम", "cricket khilaadiyon ki team"],
+          ["pride of", "lions", "शेरों का झुंड", "sheron ka jhund"],
+          ["choir", "singers", "गायकों की मंडली", "gaayakon ki mandali"],
+          ["band", "musicians", "संगीतकारों का बैंड", "sangeetkaaron ka band"]]]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: कान्हा की सैर का प्लान", "Chalo baat karein: Kanha ki sair ka plan", "Let's Talk: planning a visit to Kanha"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["कान्हा मध्य प्रदेश का राष्ट्रीय उद्यान (national park) है। सबसे पास का स्टेशन नैनपुर है। वहाँ घने जंगल, हिरण, हाथी और बाघ दिखते हैं। चलो सैर का प्लान बनाते हैं।", "Kanha Madhya Pradesh ka rashtriya udyaan (national park) hai. Sabse paas ka station Nainpur hai. Wahan ghane jangal, hiran, haathi aur baagh dikhte hain. Chalo sair ka plan banaate hain.", "Kanha is a national park in Madhya Pradesh. The nearest railway station is Nainpur. There are dense forests, deer, elephants and tigers. Let's plan a visit."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["जंगल की सैर पर क्या ले जाओगे, और क्या नहीं?", "Jangal ki sair par kya le jaaoge, aur kya nahi?", "What will you take to the forest, and what not?"],
+          "groups": [
+            {"id": "take", "name": "take with you", "emoji": "🎒", "meaning": ["साथ ले जाओ", "saath le jaao"]},
+            {"id": "leave", "name": "leave at home", "emoji": "🏠", "meaning": ["घर पर छोड़ दो", "ghar par chhod do"]}
+          ],
+          "items": [
+            {"text": "water bottle", "emoji": "💧", "groups": ["take"]},
+            {"text": "camera", "emoji": "📷", "groups": ["take"]},
+            {"text": "loud music speaker", "emoji": "🔊", "groups": ["leave"]},
+            {"text": "cap", "emoji": "🧢", "groups": ["take"]},
+            {"text": "plastic bags to throw in the forest", "emoji": "🛍️", "groups": ["leave"]},
+            {"text": "first-aid box", "emoji": "🩹", "groups": ["take"]}
+          ]},
+        {"book": true, "type": "roleplay", "scene": "🐅", "turns": [
+          {"id": "friends", "tinku": "Who will go with you to Kanha?", "meaning": ["तुम्हारे साथ कान्हा कौन जाएगा?", "Tumhare saath Kanha kaun jaayega?"],
+            "replies": [{"say": "My friends Ravi and Seema will go with me.", "meaning": ["मेरे दोस्त रवि और सीमा मेरे साथ जाएँगे।", "Mere dost Ravi aur Seema mere saath jaayenge."], "patterns": ["my friends *", "* will go with me", "*", "* *", "* * *"]}]},
+          {"id": "money", "tinku": "How much money will you need?", "meaning": ["तुम्हें कितने पैसे चाहिए होंगे?", "Tumhe kitne paise chahiye honge?"],
+            "replies": [{"say": "We will need about two thousand rupees.", "meaning": ["हमें लगभग दो हज़ार रुपये चाहिए होंगे।", "Humein lagbhag do hazaar rupaye chahiye honge."], "patterns": ["we will need *", "about *", "*", "* *", "* * *"]}]},
+          {"id": "see", "tinku": "What do you want to see there?", "meaning": ["तुम वहाँ क्या देखना चाहते हो?", "Tum wahan kya dekhna chahte ho?"],
+            "replies": [{"say": "I want to see a tiger.", "meaning": ["मैं बाघ देखना चाहता/चाहती हूँ।", "Main baagh dekhna chahta/chahti hoon."], "patterns": ["i want to see *", "*", "* *"], "next": "end"}]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: कान्हा की सैर पर चिट्ठी", "Chalo likhein: Kanha ki sair par chitthi", "Let's Write: a letter about Kanha"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब का ढाँचा: Arera Colony, Bhopal - 462 016, 25 December, 2005. Dear Ashish, ... Yours affectionately, (नाम)। बीच में कान्हा की सैर के बारे में लिखो।", "Kitaab ka dhaancha: Arera Colony, Bhopal - 462 016, 25 December, 2005. Dear Ashish, ... Yours affectionately, (naam). Beech mein Kanha ki sair ke baare mein likho.", "The book's format: Arera Colony, Bhopal - 462 016, 25 December, 2005. Dear Ashish, ... Yours affectionately, (name). In the middle, write about your visit to Kanha."]},
+        {"book": true, "build": ["चिट्ठी: पिछले हफ़्ते मैं कान्हा नेशनल पार्क गया/गई।", "Chitthi: pichhle hafte main Kanha National Park gaya/gayi.", "Letter: say you visited Kanha National Park last week.", "Last week I visited Kanha National Park.", "पिछले हफ़्ते मैं कान्हा नेशनल पार्क गया/गई।", "Pichhle hafte main Kanha National Park gaya/gayi."]},
+        {"book": true, "build": ["चिट्ठी: हम ट्रेन से नैनपुर गए।", "Chitthi: hum train se Nainpur gaye.", "Letter: say you went to Nainpur by train.", "We went to Nainpur by train.", "हम ट्रेन से नैनपुर गए।", "Hum train se Nainpur gaye."]},
+        {"book": true, "build": ["चिट्ठी: हमने घने जंगल में हिरण और हाथी देखे।", "Chitthi: humne ghane jangal mein hiran aur haathi dekhe.", "Letter: say you saw deer and elephants in the dense forest.", "We saw deer and elephants in the dense forest.", "हमने घने जंगल में हिरण और हाथी देखे।", "Humne ghane jangal mein hiran aur haathi dekhe."]},
+        {"book": true, "build": ["चिट्ठी: सबसे अच्छी बात थी कि हमने एक बाघ देखा!", "Chitthi: sabse achhi baat thi ki humne ek baagh dekha!", "Letter: say the best part was seeing a tiger.", "The best part was that we saw a tiger!", "सबसे अच्छी बात यह थी कि हमने एक बाघ देखा!", "Sabse achhi baat yeh thi ki humne ek baagh dekha!"]},
+        {"q": ["How does this letter to a friend end?", "दोस्त को यह चिट्ठी कैसे ख़त्म होती है?", "Dost ko yeh chitthi kaise khatm hoti hai?", ["Yours affectionately,", "Yours obediently,", "To, The Principal,"], "Yours affectionately,"]}
+      ]
+    },
+    {
+      "emoji": "🖌️", "title": ["चलो करके देखें: भीमबेटका", "Chalo karke dekhein: Bhimbetka", "Let's Do It: Bhimbetka"], "book": true,
+      "skills": ["book.activity", "read.understand"],
+      "steps": [
+        {"card": ["किताब के पेज 107-108 पर भीमबेटका के बारे में पाठ पढ़ो। ये भोपाल के पास की गुफ़ाएँ हैं, जिनमें हज़ारों साल पुराने चित्र हैं।", "Kitaab ke page 107-108 par Bhimbetka ke baare mein paath padho. Yeh Bhopal ke paas ki gufaayein hain, jinmein hazaaron saal puraane chitra hain.", "Read the passage on Bhimbetka on pages 107–108 of your book. These caves near Bhopal have paintings thousands of years old."]},
+        {"book": true, "q": ["How far is Bhimbetka from Bhopal?", "भीमबेटका भोपाल से कितनी दूर है?", "Bhimbetka Bhopal se kitni door hai?", ["46 km south of Bhopal", "460 km north of Bhopal", "4 km east of Bhopal"], "46 km south of Bhopal", "Bhimbetka is 46 km south of Bhopal.", "भीमबेटका भोपाल से 46 किलोमीटर दक्षिण में है।", "Bhimbetka Bhopal se 46 kilometre dakshin mein hai."]},
+        {"book": true, "q": ["Whose life is depicted in the paintings?", "चित्रों में किसका जीवन दिखाया गया है?", "Chitron mein kiska jeevan dikhaaya gaya hai?", ["the pre-historic cave-dwellers", "the Mughal kings", "the British"], "the pre-historic cave-dwellers", "The paintings depict the life of the pre-historic cave-dwellers.", "चित्रों में प्राचीन गुफ़ा-वासियों का जीवन दिखाया गया है।", "Chitron mein praacheen gufaa-vaasiyon ka jeevan dikhaaya gaya hai."]},
+        {"book": true, "q": ["What are the colours used in these paintings?", "इन चित्रों में कौन से रंग हैं?", "In chitron mein kaun se rang hain?", ["mainly red and white, sometimes green and yellow", "only blue", "black and pink"], "mainly red and white, sometimes green and yellow", "The paintings are mainly in red and white, with the occasional use of green and yellow.", "चित्र ज़्यादातर लाल और सफ़ेद हैं, कभी-कभी हरा और पीला भी।", "Chitra zyaadatar laal aur safed hain, kabhi-kabhi hara aur peela bhi."]},
+        {"book": true, "q": ["Name the animals seen in these paintings.", "इन चित्रों में कौन से जानवर दिखते हैं?", "In chitron mein kaun se jaanwar dikhte hain?", ["bisons, tigers, lions, bears, elephants and crocodiles", "penguins and kangaroos", "only cats"], "bisons, tigers, lions, bears, elephants and crocodiles", "Bisons, tigers, lions, bears, elephants, antelopes, dogs, lizards and crocodiles are seen in these paintings.", "इन चित्रों में बाइसन, बाघ, शेर, भालू, हाथी, हिरण, कुत्ते, छिपकली और मगरमच्छ दिखते हैं।", "In chitron mein bison, baagh, sher, bhaalu, haathi, hiran, kutte, chhipkali aur magarmachh dikhte hain."]},
+        {"book": true, "q": ["What shows that the same rock surface was used again and again?", "कैसे पता चलता है कि एक ही चट्टान बार-बार इस्तेमाल हुई?", "Kaise pata chalta hai ki ek hi chattaan baar-baar istemaal hui?", ["the superimposition of paintings", "the size of the caves", "the colour of the rock"], "the superimposition of paintings", "The superimposition of paintings (one painting over another) shows that the same rock surface was used by different people at different times.", "एक चित्र के ऊपर दूसरा चित्र बना होना दिखाता है कि अलग-अलग समय पर अलग लोगों ने एक ही चट्टान इस्तेमाल की।", "Ek chitra ke upar doosra chitra bana hona dikhaata hai ki alag-alag samay par alag logon ne ek hi chattaan istemaal ki."]},
+        {"book": true, "pairs": ["शब्दों को उनके मतलब से जोड़ो", "Shabdon ko unke matlab se jodo", "Match the words with their meanings", [
+          ["dense", "thick", "घना", "ghana"],
+          ["depict", "show", "दिखाना", "dikhaana"],
+          ["occur", "happen", "होना, घटना", "hona, ghatna"],
+          ["frequently", "very often", "बार-बार", "baar-baar"],
+          ["superimpose", "write over", "ऊपर बनाना", "upar banaana"]]]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: मध्य प्रदेश की धरोहर", "Aur seekho: Madhya Pradesh ki dharohar", "Learn more: the heritage of Madhya Pradesh"], "book": false,
+      "skills": ["vocab.places"],
+      "steps": [
+        {"card": ["मध्य प्रदेश में तीन विश्व धरोहर (World Heritage) जगहें हैं: खजुराहो के मंदिर, साँची का स्तूप और भीमबेटका की गुफ़ाएँ।", "Madhya Pradesh mein teen vishwa dharohar (World Heritage) jagahein hain: Khajuraho ke mandir, Saanchi ka stoop aur Bhimbetka ki gufaayein.", "Madhya Pradesh has three World Heritage Sites: the temples of Khajuraho, the Stupa at Sanchi and the rock shelters of Bhimbetka."]},
+        {"pairs": ["हर जगह को उसकी पहचान से जोड़ो", "Har jagah ko uski pehchaan se jodo", "Join each place to what it is famous for", [
+          ["Khajuraho", "beautifully carved temples", "नक़्क़ाशी वाले मंदिर", "nakkaashi waale mandir"],
+          ["Sanchi", "the great Buddhist stupa", "बौद्ध स्तूप", "Bauddh stoop"],
+          ["Bhimbetka", "pre-historic cave paintings", "प्राचीन गुफ़ा चित्र", "praacheen gufaa chitra"],
+          ["Orchha", "chhatries on the Betwa river", "बेतवा किनारे छतरियाँ", "Betwa kinaare chhatriyaan"]]]},
+        {"q": ["Which two rivers meet at Orchha?", "ओरछा में कौन सी दो नदियाँ मिलती हैं?", "Orchha mein kaun si do nadiyaan milti hain?", ["the Betwa and the Jamni", "the Ganga and the Yamuna", "the Narmada and the Tapti"], "the Betwa and the Jamni", "The Betwa and the Jamni meet at Orchha.", "ओरछा में बेतवा और जामनी नदियाँ मिलती हैं।", "Orchha mein Betwa aur Jaamni nadiyaan milti hain."]},
+        {"q": ["Which three rivers meet at the Sangam in Prayagraj (Allahabad)?", "प्रयागराज के संगम पर कौन सी तीन नदियाँ मिलती हैं?", "Prayagraj ke sangam par kaun si teen nadiyaan milti hain?", ["the Ganga, the Yamuna and the Saraswati", "the Betwa, the Jamni and the Narmada", "the Krishna, the Kaveri and the Godavari"], "the Ganga, the Yamuna and the Saraswati"]},
+        {"fb": ["We should not write or scratch on old ___.", "monuments", ["monuments", "notebooks", "boards"], "हमें पुराने स्मारकों पर नहीं लिखना या खुरचना चाहिए।", "Humein puraane smaarakon par nahi likhna ya khurachna chahiye."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 14 का टेस्ट", "Paath 14 ka test", "Lesson 14 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What are the cenotaphs at Orchha called?", "ओरछा के स्मारक क्या कहलाते हैं?", "Orchha ke smaarak kya kehlaate hain?", ["chhatries", "tombs", "murals"], "chhatries"]},
+        {"book": true, "q": ["Who built the buildings at Orchha?", "ओरछा की इमारतें किसने बनवाईं?", "Orchha ki imaaratein kisne banwaayin?", ["the Bundela kings", "the Mughal kings", "the British"], "the Bundela kings"]},
+        {"book": true, "q": ["Who looks after old monuments and buildings?", "पुराने स्मारकों की देखभाल कौन करता है?", "Puraane smaarakon ki dekhbhaal kaun karta hai?", ["the Archaeological Department", "the Railway Department", "the school"], "the Archaeological Department"]},
+        {"book": true, "skills": ["book.words"], "q": ["The Taj Mahal is a ...", "ताजमहल एक ... है।", "Taj Mahal ek ... hai.", ["tomb", "cenotaph"], "tomb"]},
+        {"book": true, "skills": ["book.words"], "q": ["One word: a meeting place of rivers", "नदियों के मिलने की जगह", "Nadiyon ke milne ki jagah", ["confluence", "monument", "archaeology"], "confluence"]},
+        {"book": true, "skills": ["book.words"], "q": ["a pride of ...", "किसका झुंड?", "Kiska jhund?", ["lions", "sheep", "stars"], "lions"]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "q": ["Jyoti said to the boy, \"Where do you live?\" In indirect speech:", "indirect speech में", "Indirect speech mein", ["Jyoti asked the boy where he lived.", "Jyoti asked the boy where do you live.", "Jyoti said the boy where he live?"], "Jyoti asked the boy where he lived."]},
+        {"book": true, "skills": ["book.grammar", "grammar.prefix_suffix"], "q": ["The adjective of ‘skill’ is ...", "‘skill’ का विशेषण?", "‘skill’ ka visheshan?", ["skilful", "skillness", "skilled-ful"], "skilful"]},
+        {"book": true, "skills": ["book.activity"], "q": ["How far is Bhimbetka from Bhopal?", "भीमबेटका भोपाल से कितनी दूर है?", "Bhimbetka Bhopal se kitni door hai?", ["46 km south of Bhopal", "460 km north of Bhopal", "4 km east of Bhopal"], "46 km south of Bhopal"]},
+        {"book": true, "skills": ["book.activity"], "q": ["‘dense’ means ...", "‘dense’ का मतलब?", "‘dense’ ka matlab?", ["thick", "happen", "show"], "thick"]}
+      ]
+    }
+  ]
+}

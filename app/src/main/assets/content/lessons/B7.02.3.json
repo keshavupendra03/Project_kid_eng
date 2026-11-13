@@ -1,0 +1,231 @@
+{
+  "id": "B7.02.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.02.3.S02",
+    "B7.02.3.S03",
+    "B7.02.3.S04",
+    "B7.02.3.S05",
+    "B7.02.3.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.02.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "किताब कहती है: एक शब्द में बताओ (one word)। जैसे ‘जो घोड़ा सिखाता है’ = horse trainer।",
+        "hinglish": "Kitaab kehti hai: ek shabd mein batao (one word). Jaise ‘jo ghoda sikhaata hai’ = horse trainer.",
+        "en": "The book says: write one word for these. For example, one who trains a horse = horse trainer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.jobs"
+      ],
+      "question": "One who trains a horse",
+      "questionMeaning": {
+        "hi": "जो घोड़े को सिखाता है",
+        "hinglish": "Jo ghode ko sikhaata hai"
+      },
+      "options": [
+        "horse trainer",
+        "shepherd",
+        "mahout"
+      ],
+      "answer": "horse trainer"
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.jobs"
+      ],
+      "question": "One who looks after sheep",
+      "questionMeaning": {
+        "hi": "जो भेड़ों की देखभाल करता है",
+        "hinglish": "Jo bhedon ki dekhbhaal karta hai"
+      },
+      "options": [
+        "shepherd",
+        "farmer",
+        "tailor"
+      ],
+      "answer": "shepherd",
+      "modelAnswer": "A shepherd looks after sheep.",
+      "modelMeaning": {
+        "hi": "गड़ेरिया भेड़ों की देखभाल करता है।",
+        "hinglish": "Gaderiya bhedon ki dekhbhaal karta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.jobs"
+      ],
+      "question": "One who rides and controls an elephant",
+      "questionMeaning": {
+        "hi": "जो हाथी पर बैठकर उसे चलाता है",
+        "hinglish": "Jo haathi par baithkar use chalaata hai"
+      },
+      "options": [
+        "mahout",
+        "jockey",
+        "driver"
+      ],
+      "answer": "mahout",
+      "modelAnswer": "A mahout rides and controls an elephant.",
+      "modelMeaning": {
+        "hi": "महावत हाथी पर बैठकर उसे चलाता है।",
+        "hinglish": "Mahaavat haathi par baithkar use chalaata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.jobs"
+      ],
+      "question": "The person who controls wild animals in a circus",
+      "questionMeaning": {
+        "hi": "सर्कस में जंगली जानवरों को काबू में रखने वाला",
+        "hinglish": "Circus mein jangli jaanwaron ko kaabu mein rakhne waala"
+      },
+      "options": [
+        "ringmaster",
+        "joker",
+        "shepherd"
+      ],
+      "answer": "ringmaster",
+      "modelAnswer": "A ringmaster (animal tamer) controls wild animals in a circus.",
+      "modelMeaning": {
+        "hi": "रिंगमास्टर सर्कस में जंगली जानवरों को काबू में रखता है।",
+        "hinglish": "Ringmaster circus mein jangli jaanwaron ko kaabu mein rakhta hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.02.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "किताब में दूसरा अभ्यास: झुंड वाले शब्द (collective nouns)। a herd of cattle = मवेशियों का झुंड। किताब में कॉलम उल्टे-पुल्टे हैं, सही जोड़ी बनाओ।",
+        "hinglish": "Kitaab mein doosra abhyaas: jhund waale shabd (collective nouns). a herd of cattle = maveshiyon ka jhund. Kitaab mein column ulte-pulte hain, sahi jodi banao.",
+        "en": "The book's second exercise: group words (collective nouns). A herd of cattle. The columns are mixed up in the book. Make the right pairs."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.02.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.jobs"
+      ],
+      "instruction": {
+        "hi": "सही जोड़ी बनाओ (Match the two columns)",
+        "hinglish": "Sahi jodi banao (Match the two columns)",
+        "en": "Match the two columns"
+      },
+      "pairs": [
+        {
+          "left": "a herd of",
+          "right": "cattle",
+          "meaning": {
+            "hi": "मवेशियों का झुंड",
+            "hinglish": "maveshiyon ka jhund"
+          }
+        },
+        {
+          "left": "a bunch of",
+          "right": "grapes",
+          "meaning": {
+            "hi": "अंगूर का गुच्छा",
+            "hinglish": "angoor ka guchchha"
+          }
+        },
+        {
+          "left": "a heap of",
+          "right": "stones",
+          "meaning": {
+            "hi": "पत्थरों का ढेर",
+            "hinglish": "pattharon ka dher"
+          }
+        },
+        {
+          "left": "a bouquet of",
+          "right": "flowers",
+          "meaning": {
+            "hi": "फूलों का गुलदस्ता",
+            "hinglish": "phoolon ka guldasta"
+          }
+        },
+        {
+          "left": "a swarm of",
+          "right": "bees",
+          "meaning": {
+            "hi": "मधुमक्खियों का झुंड",
+            "hinglish": "madhumakkhiyon ka jhund"
+          }
+        },
+        {
+          "left": "an army of",
+          "right": "soldiers",
+          "meaning": {
+            "hi": "सैनिकों की सेना",
+            "hinglish": "sainikon ki sena"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.jobs"
+      ],
+      "sentence": "A ___ of birds flew over the river.",
+      "answer": "flock",
+      "options": [
+        "flock",
+        "bunch",
+        "heap"
+      ],
+      "meaning": {
+        "hi": "पक्षियों का एक झुंड नदी के ऊपर से उड़ा।",
+        "hinglish": "Pakshiyon ka ek jhund nadi ke upar se uda."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.jobs"
+      ],
+      "sentence": "I bought a ___ of bananas.",
+      "answer": "bunch",
+      "options": [
+        "bunch",
+        "swarm",
+        "army"
+      ],
+      "meaning": {
+        "hi": "मैंने केलों का एक गुच्छा ख़रीदा।",
+        "hinglish": "Maine kelon ka ek guchchha khareeda."
+      }
+    }
+  ]
+}

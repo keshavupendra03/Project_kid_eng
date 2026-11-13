@@ -1,0 +1,254 @@
+{
+  "id": "B7.04.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.04.2.S02",
+    "B7.04.2.S03",
+    "B7.04.2.S04",
+    "B7.04.2.S05",
+    "B7.04.2.S06",
+    "B7.04.2.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.04.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 18 से 20 तक ‘Anita Feeds Appu’ पढ़ो। फिर किताब के सवालों के जवाब दो। हर जवाब के बाद देखो कि परीक्षा में पूरा जवाब कैसे लिखना है।",
+        "hinglish": "Apni kitaab mein page 18 se 20 tak ‘Anita Feeds Appu’ padho. Phir kitaab ke sawaalon ke jawab do. Har jawab ke baad dekho ki pariksha mein poora jawab kaise likhna hai.",
+        "en": "Read ‘Anita Feeds Appu’ on pages 18 to 20 of your book. Then answer the book's questions. After each answer, see how to write the full answer in the exam."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why is Anita very excited today?",
+      "questionMeaning": {
+        "hi": "आज अनीता बहुत उत्साहित क्यों है?",
+        "hinglish": "Aaj Anita bahut utsaahit kyon hai?"
+      },
+      "options": [
+        "Because Appu, the elephant, is at her door.",
+        "Because it is her birthday today.",
+        "Because her father bought her a new toy."
+      ],
+      "answer": "Because Appu, the elephant, is at her door.",
+      "modelAnswer": "Anita is very excited today because she sees Appu, the elephant, at her door.",
+      "modelMeaning": {
+        "hi": "अनीता आज बहुत उत्साहित है क्योंकि वह अप्पू हाथी को अपने दरवाज़े पर देखती है।",
+        "hinglish": "Anita aaj bahut utsaahit hai kyonki woh Appu haathi ko apne darwaaze par dekhti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where has she seen the elephants before?",
+      "questionMeaning": {
+        "hi": "उसने पहले हाथी कहाँ देखे हैं?",
+        "hinglish": "Usne pehle haathi kahan dekhe hain?"
+      },
+      "options": [
+        "In the movies and in cartoon shows on T.V.",
+        "In the zoo near her school.",
+        "In her grandfather's village."
+      ],
+      "answer": "In the movies and in cartoon shows on T.V.",
+      "modelAnswer": "She has seen elephants in the movies and in cartoon shows on T.V.",
+      "modelMeaning": {
+        "hi": "उसने हाथी फ़िल्मों में और टीवी पर कार्टून शो में देखे हैं।",
+        "hinglish": "Usne haathi filmon mein aur TV par cartoon show mein dekhe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How did Appu drink a bucketful of water?",
+      "questionMeaning": {
+        "hi": "अप्पू ने बाल्टी भर पानी कैसे पिया?",
+        "hinglish": "Appu ne baalti bhar paani kaise piya?"
+      },
+      "options": [
+        "He sucked it all up from the bucket at one go.",
+        "He drank it slowly with a glass.",
+        "He spilled it on the ground."
+      ],
+      "answer": "He sucked it all up from the bucket at one go.",
+      "modelAnswer": "Appu sucked up all the water from the bucket with his trunk, at one go.",
+      "modelMeaning": {
+        "hi": "अप्पू ने अपनी सूँड से बाल्टी का सारा पानी एक ही बार में खींच लिया।",
+        "hinglish": "Appu ne apni soond se baalti ka saara paani ek hi baar mein kheench liya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did Appu do with his trunk?",
+      "questionMeaning": {
+        "hi": "अप्पू ने अपनी सूँड से क्या किया?",
+        "hinglish": "Appu ne apni soond se kya kiya?"
+      },
+      "options": [
+        "He took bananas in his trunk and put them into his mouth.",
+        "He picked up Anita and put her on his back.",
+        "He pulled the gate open."
+      ],
+      "answer": "He took bananas in his trunk and put them into his mouth.",
+      "modelAnswer": "Appu took the bananas in his trunk and put them into his mouth. He used his trunk like a hand.",
+      "modelMeaning": {
+        "hi": "अप्पू ने सूँड से केले पकड़े और मुँह में डाले। उसने अपनी सूँड का इस्तेमाल हाथ की तरह किया।",
+        "hinglish": "Appu ne soond se kele pakde aur munh mein daale. Usne apni soond ka istemaal haath ki tarah kiya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How did the Mahout help the children ride Appu?",
+      "questionMeaning": {
+        "hi": "महावत ने बच्चों को अप्पू की सवारी करने में कैसे मदद की?",
+        "hinglish": "Mahaavat ne bachchon ko Appu ki sawaari karne mein kaise madad ki?"
+      },
+      "options": [
+        "He helped them climb on to Appu's back and sit in the howdah.",
+        "He gave them a ladder and went away.",
+        "He told them to hold Appu's tail."
+      ],
+      "answer": "He helped them climb on to Appu's back and sit in the howdah.",
+      "modelAnswer": "The Mahout helped the children climb on to the elephant's back and sit in the howdah.",
+      "modelMeaning": {
+        "hi": "महावत ने बच्चों को हाथी की पीठ पर चढ़ने और हौदे में बैठने में मदद की।",
+        "hinglish": "Mahaavat ne bachchon ko haathi ki peeth par chadhne aur haude mein baithne mein madad ki."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.04.2.S07",
+      "skills": [
+        "book.comprehension",
+        "speak.sentence"
+      ],
+      "scene": "🐘",
+      "turns": [
+        {
+          "id": "ride",
+          "tinku": "Have you ever had an elephant ride? Did you like it?",
+          "meaning": {
+            "hi": "क्या तुमने कभी हाथी की सवारी की है? क्या तुम्हें अच्छा लगा?",
+            "hinglish": "Kya tumne kabhi haathi ki sawaari ki hai? Kya tumhe achha laga?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have. I liked it very much.",
+              "meaning": {
+                "hi": "हाँ, की है। मुझे बहुत अच्छा लगा।",
+                "hinglish": "Haan, ki hai. Mujhe bahut achha laga."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ],
+              "next": "yes"
+            },
+            {
+              "say": "No, I have not. But I would like to have one.",
+              "meaning": {
+                "hi": "नहीं, नहीं की। पर मैं करना चाहूँगा/चाहूँगी।",
+                "hinglish": "Nahi, nahi ki. Par main karna chahunga/chahungi."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ],
+              "next": "no"
+            }
+          ]
+        },
+        {
+          "id": "yes",
+          "tinku": "Wow! You are lucky. Elephants are very big!",
+          "meaning": {
+            "hi": "वाह! तुम किस्मत वाले हो। हाथी बहुत बड़े होते हैं!",
+            "hinglish": "Waah! Tum kismat waale ho. Haathi bahut bade hote hain!"
+          },
+          "replies": [
+            {
+              "say": "Yes, they are very big.",
+              "meaning": {
+                "hi": "हाँ, वे बहुत बड़े होते हैं।",
+                "hinglish": "Haan, woh bahut bade hote hain."
+              },
+              "patterns": [
+                "yes *",
+                "they are *",
+                "yes"
+              ],
+              "next": "end"
+            }
+          ]
+        },
+        {
+          "id": "no",
+          "tinku": "Maybe one day you will ride an elephant like Anita!",
+          "meaning": {
+            "hi": "शायद एक दिन तुम भी अनीता की तरह हाथी की सवारी करोगे!",
+            "hinglish": "Shaayad ek din tum bhi Anita ki tarah haathi ki sawaari karoge!"
+          },
+          "replies": [
+            {
+              "say": "I hope so!",
+              "meaning": {
+                "hi": "मुझे भी यही उम्मीद है!",
+                "hinglish": "Mujhe bhi yahi ummeed hai!"
+              },
+              "patterns": [
+                "i hope so",
+                "i hope *",
+                "yes *",
+                "yes",
+                "okay"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "say_sentence",
+      "id": "B7.04.2.S08",
+      "skills": [
+        "speak.sentence",
+        "book.comprehension"
+      ],
+      "sentence": "Anita is very excited because Appu is at her door.",
+      "meaning": {
+        "hi": "अनीता बहुत उत्साहित है क्योंकि अप्पू उसके दरवाज़े पर है।",
+        "hinglish": "Anita bahut utsaahit hai kyonki Appu uske darwaaze par hai.",
+        "en": "Anita is very excited because Appu is at her door."
+      }
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "B8.02.9",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.9.S02",
+    "B8.02.9.S03",
+    "B8.02.9.S04",
+    "B8.02.9.S05",
+    "B8.02.9.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.9.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 12-13 पर बाघों वाला पैराग्राफ़ पढ़ो और जानकारी पूरी करो।",
+        "hinglish": "Apni kitaab mein page 12-13 par baaghon waala paragraph padho aur jaankaari poori karo.",
+        "en": "Read the paragraph about tigers on pages 12–13 of your book and complete the information."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.9.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Tigers are found in ...",
+      "questionMeaning": {
+        "hi": "बाघ कहाँ पाए जाते हैं?",
+        "hinglish": "Baagh kahan paaye jaate hain?"
+      },
+      "options": [
+        "India and South-East Asia",
+        "Africa and Europe",
+        "only in zoos"
+      ],
+      "answer": "India and South-East Asia",
+      "modelAnswer": "Tigers are found in (i) India and (ii) most of the countries of South-East Asia.",
+      "modelMeaning": {
+        "hi": "बाघ (i) भारत और (ii) दक्षिण-पूर्व एशिया के ज़्यादातर देशों में पाए जाते हैं।",
+        "hinglish": "Baagh (i) Bharat aur (ii) dakshin-poorv Asia ke zyaadatar deshon mein paaye jaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.9.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Tigers live in ...",
+      "questionMeaning": {
+        "hi": "बाघ कहाँ रहते हैं?",
+        "hinglish": "Baagh kahan rehte hain?"
+      },
+      "options": [
+        "forests and grassy plains",
+        "deserts and snow",
+        "rivers and seas"
+      ],
+      "answer": "forests and grassy plains",
+      "modelAnswer": "Tigers live in (i) forests and (ii) grassy plains.",
+      "modelMeaning": {
+        "hi": "बाघ (i) जंगलों और (ii) घास के मैदानों में रहते हैं।",
+        "hinglish": "Baagh (i) junglon aur (ii) ghaas ke maidaanon mein rehte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.9.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Tigers live there because ...",
+      "questionMeaning": {
+        "hi": "बाघ वहाँ क्यों रहते हैं?",
+        "hinglish": "Baagh wahan kyon rehte hain?"
+      },
+      "options": [
+        "there are lots of animals to hunt for food",
+        "it is cold there",
+        "people feed them"
+      ],
+      "answer": "there are lots of animals to hunt for food",
+      "modelAnswer": "Tigers live there because there are lots of other animals for them to hunt for food.",
+      "modelMeaning": {
+        "hi": "बाघ वहाँ रहते हैं क्योंकि वहाँ शिकार के लिए बहुत से जानवर हैं।",
+        "hinglish": "Baagh wahan rehte hain kyonki wahan shikaar ke liye bahut se jaanwar hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.9.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "In the jungle, a tiger's body is ...",
+      "questionMeaning": {
+        "hi": "जंगल में बाघ का शरीर कैसा दिखता है?",
+        "hinglish": "Jungle mein baagh ka shareer kaisa dikhta hai?"
+      },
+      "options": [
+        "hard to see",
+        "very easy to see",
+        "white"
+      ],
+      "answer": "hard to see",
+      "modelAnswer": "A tiger's skin looks bright in a zoo, but in the jungle and grasslands it is hard to see. It has strong, sharp teeth.",
+      "modelMeaning": {
+        "hi": "चिड़ियाघर में बाघ की खाल चमकीली दिखती है, पर जंगल में उसे देखना मुश्किल है। उसके दाँत मज़बूत और नुकीले हैं।",
+        "hinglish": "Chidiyaghar mein baagh ki khaal chamkeeli dikhti hai, par jungle mein use dekhna mushkil hai. Uske daant mazboot aur nukeele hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.9.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "A tiger's chief food is ...",
+      "questionMeaning": {
+        "hi": "बाघ का मुख्य भोजन क्या है?",
+        "hinglish": "Baagh ka mukhya bhojan kya hai?"
+      },
+      "options": [
+        "deer, wild pigs and monkeys",
+        "grass and leaves",
+        "fish only"
+      ],
+      "answer": "deer, wild pigs and monkeys",
+      "modelAnswer": "A tiger's chief food is deer, wild pigs, monkeys and other animals.",
+      "modelMeaning": {
+        "hi": "बाघ का मुख्य भोजन हिरण, जंगली सूअर, बंदर और दूसरे जानवर हैं।",
+        "hinglish": "Baagh ka mukhya bhojan hiran, jungli sooar, bandar aur doosre jaanwar hain."
+      }
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "id": "B7.10.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.10.1.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.10.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "इस कविता में एक लड़की अपने दोस्त को अपने रॉकेट में चाँद और मंगल (Mars) की सैर पर बुलाती है। यहाँ rocket = अंतरिक्ष यान (spacecraft)।",
+        "hinglish": "Is kavita mein ek ladki apne dost ko apne rocket mein chaand aur mangal (Mars) ki sair par bulaati hai. Yahan rocket = antariksh yaan (spacecraft).",
+        "en": "In this poem a girl invites her friend for a trip to the Moon and Mars in her rocket. Here, a rocket means a spacecraft."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.10.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "pleasant",
+        "emoji": "",
+        "hindi": "सुहाना, अच्छा",
+        "hinglish": "suhaana, achha"
+      },
+      "meaning": "nice and enjoyable",
+      "example": "We had a pleasant evening in the park.",
+      "exampleMeaning": {
+        "hi": "पार्क में हमारी शाम बहुत सुहानी रही।",
+        "hinglish": "Park mein hamari shaam bahut suhaani rahi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.10.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "trip",
+        "emoji": "",
+        "hindi": "सैर, यात्रा",
+        "hinglish": "sair, yaatra"
+      },
+      "meaning": "a short journey to a place and back",
+      "example": "We went on a school trip to Sanchi.",
+      "exampleMeaning": {
+        "hi": "हम स्कूल की तरफ़ से साँची की सैर पर गए।",
+        "hinglish": "Hum school ki taraf se Saanchi ki sair par gaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.10.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "diamond",
+        "emoji": "",
+        "hindi": "हीरा",
+        "hinglish": "heera"
+      },
+      "meaning": "a very hard, shining, costly stone",
+      "example": "The ring has a diamond in it.",
+      "exampleMeaning": {
+        "hi": "अँगूठी में एक हीरा है।",
+        "hinglish": "Angoothi mein ek heera hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.10.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "ease",
+        "emoji": "",
+        "hindi": "आसानी",
+        "hinglish": "aasaani"
+      },
+      "meaning": "no difficulty",
+      "example": "She solved the sum with ease.",
+      "exampleMeaning": {
+        "hi": "उसने सवाल आसानी से हल कर लिया।",
+        "hinglish": "Usne sawaal aasaani se hal kar liya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.10.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "long",
+        "emoji": "",
+        "hindi": "(यहाँ) बहुत चाहना",
+        "hinglish": "(yahan) bahut chaahna"
+      },
+      "meaning": "to want something very much",
+      "example": "I long to see the sea.",
+      "exampleMeaning": {
+        "hi": "मैं समुद्र देखने के लिए तरस रहा/रही हूँ।",
+        "hinglish": "Main samudra dekhne ke liye taras raha/rahi hoon."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.10.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: एक जैसी आवाज़ वाले शब्दों को सुनो और दोहराओ। अब उन्हें उनके परिवार में रखो।",
+        "hinglish": "Kitaab: ek jaisi awaaz waale shabdon ko suno aur dohraao. Ab unhe unke parivaar mein rakho.",
+        "en": "The book: listen to the rhyming words and repeat them. Now put each word in its rhyming family."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.10.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसकी तुकबंदी वाले परिवार में रखो",
+        "hinglish": "Har shabd ko uski tukbandi waale parivaar mein rakho",
+        "en": "Put each word in its rhyming family"
+      },
+      "groups": [
+        {
+          "id": "un",
+          "name": "-un (fun)",
+          "emoji": "🎉",
+          "meaning": {
+            "hi": "अन जैसी आवाज़",
+            "hinglish": "un jaisi awaaz"
+          }
+        },
+        {
+          "id": "ing",
+          "name": "-ing (ring)",
+          "emoji": "💍",
+          "meaning": {
+            "hi": "इंग जैसी आवाज़",
+            "hinglish": "ing jaisi awaaz"
+          }
+        },
+        {
+          "id": "ope",
+          "name": "-ope (rope)",
+          "emoji": "🔗",
+          "meaning": {
+            "hi": "ओप जैसी आवाज़",
+            "hinglish": "ope jaisi awaaz"
+          }
+        },
+        {
+          "id": "ust",
+          "name": "-ust (just)",
+          "emoji": "✅",
+          "meaning": {
+            "hi": "अस्ट जैसी आवाज़",
+            "hinglish": "ast jaisi awaaz"
+          }
+        },
+        {
+          "id": "ight",
+          "name": "-ight (night)",
+          "emoji": "🌙",
+          "meaning": {
+            "hi": "आइट जैसी आवाज़",
+            "hinglish": "aait jaisi awaaz"
+          }
+        },
+        {
+          "id": "ars",
+          "name": "-ars (Mars)",
+          "emoji": "🔴",
+          "meaning": {
+            "hi": "आर्स जैसी आवाज़",
+            "hinglish": "aars jaisi awaaz"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "bun",
+          "emoji": "🍞",
+          "groups": [
+            "un"
+          ]
+        },
+        {
+          "text": "sing",
+          "emoji": "🎤",
+          "groups": [
+            "ing"
+          ]
+        },
+        {
+          "text": "hope",
+          "emoji": "🙏",
+          "groups": [
+            "ope"
+          ]
+        },
+        {
+          "text": "must",
+          "emoji": "❗",
+          "groups": [
+            "ust"
+          ]
+        },
+        {
+          "text": "might",
+          "emoji": "💪",
+          "groups": [
+            "ight"
+          ]
+        },
+        {
+          "text": "cars",
+          "emoji": "🚗",
+          "groups": [
+            "ars"
+          ]
+        },
+        {
+          "text": "gun",
+          "emoji": "🔫",
+          "groups": [
+            "un"
+          ]
+        },
+        {
+          "text": "bring",
+          "emoji": "🤲",
+          "groups": [
+            "ing"
+          ]
+        },
+        {
+          "text": "cope",
+          "emoji": "🧘",
+          "groups": [
+            "ope"
+          ]
+        },
+        {
+          "text": "rust",
+          "emoji": "🟫",
+          "groups": [
+            "ust"
+          ]
+        },
+        {
+          "text": "fight",
+          "emoji": "🥊",
+          "groups": [
+            "ight"
+          ]
+        },
+        {
+          "text": "stars",
+          "emoji": "⭐",
+          "groups": [
+            "ars"
+          ]
+        }
+      ]
+    }
+  ]
+}

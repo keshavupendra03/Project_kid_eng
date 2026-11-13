@@ -1,0 +1,196 @@
+{
+  "id": "B7.13.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.13.2.S02",
+    "B7.13.2.S03",
+    "B7.13.2.S04",
+    "B7.13.2.S05",
+    "B7.13.2.S06",
+    "B7.13.2.S07",
+    "B7.13.2.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.13.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 93 से 95 तक ‘One-Way Ticket-II’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 93 se 95 tak ‘One-Way Ticket-II’ padho. Phir jawab do.",
+        "en": "Read ‘One-Way Ticket-II’ on pages 93 to 95 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the children like most when they reached the fair?",
+      "questionMeaning": {
+        "hi": "मेले पहुँचकर बच्चों को सबसे ज़्यादा क्या अच्छा लगा?",
+        "hinglish": "Mele pahunchkar bachchon ko sabse zyaada kya achha laga?"
+      },
+      "options": [
+        "the beautiful lights",
+        "the jalebies",
+        "the bus"
+      ],
+      "answer": "the beautiful lights",
+      "modelAnswer": "When they reached the fair, the children liked the beautiful lights the most.",
+      "modelMeaning": {
+        "hi": "मेले पहुँचकर बच्चों को सुंदर रोशनी सबसे अच्छी लगी।",
+        "hinglish": "Mele pahunchkar bachchon ko sundar roshni sabse achhi lagi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the children decide to stay together?",
+      "questionMeaning": {
+        "hi": "बच्चों ने साथ रहने का फ़ैसला क्यों किया?",
+        "hinglish": "Bachchon ne saath rehne ka faisla kyon kiya?"
+      },
+      "options": [
+        "so that nobody got lost in the crowd",
+        "because it was cold",
+        "because they had one ticket"
+      ],
+      "answer": "so that nobody got lost in the crowd",
+      "modelAnswer": "They decided to stay together so that nobody got lost in the crowd. It is difficult to trace anyone who gets lost.",
+      "modelMeaning": {
+        "hi": "उन्होंने साथ रहने का फ़ैसला किया ताकि कोई भीड़ में खो न जाए। खोए हुए को ढूँढना मुश्किल होता है।",
+        "hinglish": "Unhone saath rehne ka faisla kiya taaki koi bheed mein kho na jaaye. Khoye hue ko dhoondhna mushkil hota hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why do you think jalebies and bhajias are filling?",
+      "questionMeaning": {
+        "hi": "जलेबी और भजिया पेट भरने वाले क्यों हैं?",
+        "hinglish": "Jalebi aur bhajia pet bharne waale kyon hain?"
+      },
+      "options": [
+        "They are fried and heavy, so they fill the stomach.",
+        "They are very light.",
+        "They are made of water."
+      ],
+      "answer": "They are fried and heavy, so they fill the stomach.",
+      "modelAnswer": "Jalebies and bhajias are filling because they are fried and heavy food, so they fill the stomach quickly.",
+      "modelMeaning": {
+        "hi": "जलेबी और भजिया तले हुए भारी खाने हैं, इसलिए पेट जल्दी भर जाता है।",
+        "hinglish": "Jalebi aur bhajia tale hue bhaari khaane hain, isliye pet jaldi bhar jaata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why do you like a caterpillar-train ride?",
+      "questionMeaning": {
+        "hi": "तुम्हें इल्ली (caterpillar) जैसी ट्रेन की सवारी क्यों अच्छी लगती है?",
+        "hinglish": "Tumhe illi (caterpillar) jaisi train ki sawaari kyon achhi lagti hai?"
+      },
+      "options": [
+        "It is a joy ride that takes us round the fair.",
+        "It is very slow and boring.",
+        "It goes to Delhi."
+      ],
+      "answer": "It is a joy ride that takes us round the fair.",
+      "modelAnswer": "I like the caterpillar-train ride because it is a joy ride and it takes us round the whole fair.",
+      "modelMeaning": {
+        "hi": "मुझे यह सवारी अच्छी लगती है क्योंकि यह मज़ेदार है और पूरे मेले का चक्कर लगवाती है।",
+        "hinglish": "Mujhe yeh sawaari achhi lagti hai kyonki yeh mazedaar hai aur poore mele ka chakkar lagwaati hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What kind of seats does a merry-go-round have?",
+      "questionMeaning": {
+        "hi": "घोड़ों वाले झूले (merry-go-round) में कैसी सीटें होती हैं?",
+        "hinglish": "Ghodon waale jhoole (merry-go-round) mein kaisi seatein hoti hain?"
+      },
+      "options": [
+        "decorated wooden horses",
+        "bus seats",
+        "beds"
+      ],
+      "answer": "decorated wooden horses",
+      "modelAnswer": "A merry-go-round has decorated wooden horses as seats.",
+      "modelMeaning": {
+        "hi": "उसमें सजे हुए लकड़ी के घोड़े सीट होते हैं।",
+        "hinglish": "Usmein saje hue lakdi ke ghode seat hote hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did Lambu want to go on a merry-go-round?",
+      "questionMeaning": {
+        "hi": "लंबू घोड़ों वाले झूले पर क्यों जाना चाहता था?",
+        "hinglish": "Lambu ghodon waale jhoole par kyon jaana chahta tha?"
+      },
+      "options": [
+        "because he could ride a horse there",
+        "because it was free",
+        "because it was slow"
+      ],
+      "answer": "because he could ride a horse there",
+      "modelAnswer": "Lambu wanted to go on the merry-go-round because he could ride a horse there.",
+      "modelMeaning": {
+        "hi": "लंबू उस झूले पर जाना चाहता था क्योंकि वहाँ घोड़े की सवारी कर सकते थे।",
+        "hinglish": "Lambu us jhoole par jaana chahta tha kyonki wahan ghode ki sawaari kar sakte the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why is the story called ‘One-Way Ticket’?",
+      "questionMeaning": {
+        "hi": "कहानी का नाम ‘One-Way Ticket’ क्यों है?",
+        "hinglish": "Kahani ka naam ‘One-Way Ticket’ kyon hai?"
+      },
+      "options": [
+        "They had money only for one way; Krishan's savings paid for the return.",
+        "The bus went only one way.",
+        "They never came back."
+      ],
+      "answer": "They had money only for one way; Krishan's savings paid for the return.",
+      "modelAnswer": "The story is called ‘One-Way Ticket’ because the children had money only for one way. Krishan's saved money paid for their tickets back home.",
+      "modelMeaning": {
+        "hi": "कहानी का नाम ‘वन-वे टिकट’ है क्योंकि बच्चों के पास सिर्फ़ एक तरफ़ के पैसे थे। कृष्ण के बचाए पैसों से वापसी के टिकट आए।",
+        "hinglish": "Kahani ka naam ‘One-Way Ticket’ hai kyonki bachchon ke paas sirf ek taraf ke paise the. Krishan ke bachaaye paison se waapsi ke ticket aaye."
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "B7.01.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.01.6.S02",
+    "B7.01.6.S03",
+    "B7.01.6.S04",
+    "B7.01.6.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.01.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब कहती है: ‘rainbow’ पर एक पैराग्राफ़ लिखो। चलो एक-एक वाक्य बनाते हैं।",
+        "hinglish": "Kitaab kehti hai: ‘rainbow’ par ek paragraph likho. Chalo ek-ek vaakya banaate hain.",
+        "en": "The book says: write a paragraph on ‘rainbow’. Let's build it one sentence at a time."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.01.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "इंद्रधनुष बहुत सुंदर होता है।",
+        "hinglish": "Indradhanush bahut sundar hota hai.",
+        "en": "Say that a rainbow is very beautiful."
+      },
+      "answer": "A rainbow is very beautiful.",
+      "meaning": {
+        "hi": "इंद्रधनुष बहुत सुंदर होता है।",
+        "hinglish": "Indradhanush bahut sundar hota hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.01.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "यह बारिश के मौसम में आसमान में दिखता है।",
+        "hinglish": "Yeh baarish ke mausam mein aasmaan mein dikhta hai.",
+        "en": "Say where and when we see it."
+      },
+      "answer": "We see it in the sky in the rainy season.",
+      "meaning": {
+        "hi": "हम इसे बारिश के मौसम में आसमान में देखते हैं।",
+        "hinglish": "Hum ise baarish ke mausam mein aasmaan mein dekhte hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.01.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "यह बादलों के बीच एक सुंदर पुल जैसा लगता है।",
+        "hinglish": "Yeh baadalon ke beech ek sundar pul jaisa lagta hai.",
+        "en": "Say what it looks like among the clouds."
+      },
+      "answer": "It looks like a pretty bridge in the clouds.",
+      "meaning": {
+        "hi": "यह बादलों में एक सुंदर पुल जैसा लगता है।",
+        "hinglish": "Yeh baadalon mein ek sundar pul jaisa lagta hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.01.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "इंद्रधनुष में सात रंग होते हैं।",
+        "hinglish": "Indradhanush mein saat rang hote hain.",
+        "en": "Say how many colours it has."
+      },
+      "answer": "A rainbow has seven colours.",
+      "meaning": {
+        "hi": "इंद्रधनुष में सात रंग होते हैं।",
+        "hinglish": "Indradhanush mein saat rang hote hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.01.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "पूरा पैराग्राफ़ अपनी कॉपी में ऐसे लिखो: A rainbow is very beautiful. We see it in the sky in the rainy season. It comes when the sun shines after the rain. It looks like a pretty bridge in the clouds. A rainbow has seven colours: violet, indigo, blue, green, yellow, orange and red.",
+        "hinglish": "Poora paragraph apni copy mein aise likho: A rainbow is very beautiful. We see it in the sky in the rainy season. It comes when the sun shines after the rain. It looks like a pretty bridge in the clouds. A rainbow has seven colours: violet, indigo, blue, green, yellow, orange and red.",
+        "en": "Write the whole paragraph in your notebook: A rainbow is very beautiful. We see it in the sky in the rainy season. It comes when the sun shines after the rain. It looks like a pretty bridge in the clouds. A rainbow has seven colours: violet, indigo, blue, green, yellow, orange and red."
+      }
+    }
+  ]
+}

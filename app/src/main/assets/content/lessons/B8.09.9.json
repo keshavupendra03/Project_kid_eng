@@ -1,0 +1,77 @@
+{
+  "id": "B8.09.9",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.09.9.S01",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब: कल्पना चावला और राकेश शर्मा की तस्वीरें और जानकारी स्क्रैपबुक में चिपकाओ और कक्षा में पढ़ो।",
+        "hinglish": "Kitaab: Kalpana Chawla aur Rakesh Sharma ki tasveerein aur jaankaari scrapbook mein chipkaao aur kaksha mein padho.",
+        "en": "The book: paste pictures and information about Kalpana Chawla and Rakesh Sharma in your scrapbook and read it in class."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.9.S02",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "question": "When asked how India looked from space, Rakesh Sharma said ...",
+      "questionMeaning": {
+        "hi": "अंतरिक्ष से भारत कैसा दिखता है, पूछने पर राकेश शर्मा ने कहा",
+        "hinglish": "Antariksh se Bharat kaisa dikhta hai, poochhne par Rakesh Sharma ne kaha"
+      },
+      "options": [
+        "‘Saare Jahan Se Achha’",
+        "‘Jai Hind’",
+        "‘Very small’"
+      ],
+      "answer": "‘Saare Jahan Se Achha’"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.9.S03",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "question": "What does NASA stand for?",
+      "questionMeaning": {
+        "hi": "NASA का पूरा नाम?",
+        "hinglish": "NASA ka poora naam?"
+      },
+      "options": [
+        "National Aeronautics and Space Administration",
+        "National Air and Sea Agency",
+        "New Astronaut School of America"
+      ],
+      "answer": "National Aeronautics and Space Administration"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.9.S04",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "question": "What is India's space agency called?",
+      "questionMeaning": {
+        "hi": "भारत की अंतरिक्ष एजेंसी का नाम?",
+        "hinglish": "Bharat ki antariksh agency ka naam?"
+      },
+      "options": [
+        "ISRO",
+        "NASA",
+        "DRDO"
+      ],
+      "answer": "ISRO"
+    }
+  ]
+}

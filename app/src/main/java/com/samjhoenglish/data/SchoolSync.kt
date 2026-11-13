@@ -14,6 +14,9 @@ import com.samjhoenglish.content.isWordPower
 import com.samjhoenglish.content.lessonOrder
 import com.samjhoenglish.data.db.ProgressDao
 import com.samjhoenglish.data.db.SchoolLink
+import com.samjhoenglish.data.db.SchoolTest
+import com.samjhoenglish.data.db.TestAttempt
+import com.samjhoenglish.content.Lesson
 import com.samjhoenglish.learning.Learning
 import com.samjhoenglish.learning.WordPower
 import kotlinx.coroutines.Dispatchers
@@ -60,8 +63,46 @@ data class SyncDay(val day: Long, val minutes: Int)
 @Serializable
 data class SyncSkill(val skill: String, val mastery: Float, val attempts: Int)
 
+/**
+ * Progress in one chapter of the school textbook (e.g. B7.04): parts finished, stars, and the
+ * chapter test's stars once taken. Sent only for chapters the child has started.
+ */
 @Serializable
-data class SyncPayload(val summary: SyncSummary, val days: List<SyncDay>, val skills: List<SyncSkill>)
+data class SyncChapter(val chapter: String, val done: Int, val total: Int, val stars: Int, val testStars: Int?)
+
+@Serializable
+data class SyncPayload(val summary: SyncSummary, val days: List<SyncDay>, val skills: List<SyncSkill>, val chapters: List<SyncChapter>)
+
+/** A test as the school sends it. [questions] are [lessonId, stepId] pairs, already in the app. */
+@Serializable
+data class ServerTest(
+    val id: Long,
+    val kind: String,
+    val title: String,
+    val minutes: Int,
+    val closesAt: Long,
+    val questions: List<List<String>>,
+    val done: Boolean = false,
+)
+
+@Serializable
+private data class ServerTests(val needsConsent: Boolean = false, val tests: List<ServerTest> = emptyList())
+
+/** One answer in a handed-in test: the question, right or not, and what the child gave. */
+@Serializable
+data class TestAnswer(val l: String, val s: String, val ok: Boolean, val given: String = "")
+
+@Serializable
+private data class SentAnswer(val s: String, val ok: Boolean, val given: String)
+
+@Serializable
+private data class ResultBody(val answers: List<SentAnswer>, val seconds: Int)
+
+@Serializable
+private data class ConsentBody(val consent: Boolean, val consentVersion: String)
+
+/** A new test for one child, for the "new test" notification. */
+data class NewTest(val childId: Long, val studentName: String, val title: String)
 
 @Serializable
 private data class JoinRequest(val code: String, val consent: Boolean, val consentVersion: String)
@@ -107,8 +148,110 @@ class SchoolSync(
         val (status, _) = post("/api/device/unlink", "{}", link.deviceToken) ?: return false
         if (status != 200 && status != 401) return false
         dao.deleteSchoolLink(childId)
+        dao.deleteSchoolTests(childId)
         return true
     }
+
+    // ---------- School tests ----------
+
+    /**
+     * Asks the school which tests this child has, and keeps them on the phone so the child can take
+     * them offline. Returns the tests not yet announced to the parent. Null if the phone is offline.
+     */
+    suspend fun fetchTests(childId: Long): List<NewTest>? {
+        val link = dao.schoolLinkNow(childId) ?: return emptyList()
+        val (status, text) = request("GET", "/api/device/tests", null, link.deviceToken) ?: return null
+        if (status == 401) {
+            dao.deleteSchoolLink(childId)
+            dao.deleteSchoolTests(childId)
+            return emptyList()
+        }
+        if (status != 200) return null
+        val reply = json.decodeFromString<ServerTests>(text)
+        if (reply.needsConsent != link.needsTestsConsent) dao.upsertSchoolLink(link.copy(needsTestsConsent = reply.needsConsent))
+        val known = dao.schoolTestsNow(childId).associateBy { it.testId }
+        val now = System.currentTimeMillis()
+        val tests = reply.tests.filter { t -> t.questions.all { it.size == 2 } }.map { t ->
+            SchoolTest(
+                childId = childId, testId = t.id, kind = t.kind, title = t.title, minutes = t.minutes, closesAt = t.closesAt,
+                questions = json.encodeToString(t.questions), receivedAt = known[t.id]?.receivedAt ?: now,
+                notified = known[t.id]?.notified ?: false, doneOnServer = t.done,
+            )
+        }
+        dao.upsertSchoolTests(tests)
+        dao.deleteSchoolTestsExcept(childId, tests.map { it.testId }.ifEmpty { listOf(-1L) })
+        val fresh = tests.filter { !it.notified && !it.doneOnServer && it.closesAt > now && dao.testAttempt(childId, it.testId)?.submittedAt == null }
+        if (fresh.isNotEmpty()) dao.markTestsNotified(childId, fresh.map { it.testId })
+        return fresh.map { NewTest(childId, link.studentName, it.title) }
+    }
+
+    /** Fetches tests for every connected child and hands in finished ones. Returns tests to announce. */
+    suspend fun checkTests(): List<NewTest> {
+        uploadResults()
+        return dao.schoolLinks().flatMap { fetchTests(it.childId).orEmpty() }
+    }
+
+    /** Sends every finished test the school doesn't have yet. */
+    suspend fun uploadResults() {
+        for (attempt in dao.testsToUpload()) {
+            val link = dao.schoolLinkNow(attempt.childId)
+            if (link == null) {
+                // Disconnected from school: the result stays on the phone for the parent only.
+                dao.upsertTestAttempt(attempt.copy(uploaded = true))
+                continue
+            }
+            val answers = json.decodeFromString<List<TestAnswer>>(attempt.answers)
+            val body = json.encodeToString(ResultBody(answers.map { SentAnswer(it.s, it.ok, it.given.take(200)) }, attempt.seconds))
+            val (status, _) = request("POST", "/api/device/tests/${attempt.testId}/result", body, link.deviceToken) ?: return
+            // 404/409: the teacher deleted or closed the test; nothing more can be done with it.
+            if (status == 200 || status == 404 || status == 409 || status == 400) dao.upsertTestAttempt(attempt.copy(uploaded = true))
+        }
+    }
+
+    /** The parent agrees to the newer consent that covers tests. Returns false if offline. */
+    suspend fun acceptTestsConsent(childId: Long): Boolean {
+        val link = dao.schoolLinkNow(childId) ?: return false
+        val (status, _) = request("POST", "/api/device/consent", json.encodeToString(ConsentBody(true, CONSENT_VERSION)), link.deviceToken) ?: return false
+        if (status != 200) return false
+        dao.upsertSchoolLink(link.copy(needsTestsConsent = false))
+        fetchTests(childId)
+        sync(childId, force = true)
+        return true
+    }
+
+    /** The questions of a test, in order, or null if one is missing (the app needs updating). */
+    suspend fun testSteps(test: SchoolTest): List<Pair<String, Step>>? {
+        val pairs = json.decodeFromString<List<List<String>>>(test.questions)
+        val lessons = HashMap<String, Lesson?>()
+        return pairs.map { (lessonId, stepId) ->
+            val lesson = lessons.getOrPut(lessonId) { runCatching { content.lesson(lessonId) }.getOrNull() } ?: return null
+            val step = lesson.steps.firstOrNull { it.id == stepId } ?: return null
+            lessonId to step
+        }
+    }
+
+    fun activeTests(childId: Long): Flow<List<SchoolTest>> = dao.activeTests(childId, System.currentTimeMillis())
+
+    fun results(childId: Long): Flow<List<TestAttempt>> = dao.testResults(childId)
+
+    suspend fun test(childId: Long, testId: Long): SchoolTest? = dao.schoolTest(childId, testId)
+
+    suspend fun attempt(childId: Long, testId: Long): TestAttempt? = dao.testAttempt(childId, testId)
+
+    suspend fun saveAttempt(attempt: TestAttempt) = dao.upsertTestAttempt(attempt)
+
+    fun answersOf(attempt: TestAttempt): List<TestAnswer> = json.decodeFromString(attempt.answers)
+
+    /** The questions behind a handed-in test's answers, to show them again (questions no longer in the app are left out). */
+    suspend fun stepsOf(answers: List<TestAnswer>): List<Pair<String, Step>> {
+        val lessons = HashMap<String, Lesson?>()
+        return answers.mapNotNull { a ->
+            val lesson = lessons.getOrPut(a.l) { runCatching { content.lesson(a.l) }.getOrNull() } ?: return@mapNotNull null
+            lesson.steps.firstOrNull { it.id == a.s }?.let { a.l to it }
+        }
+    }
+
+    fun encodeAnswers(answers: List<TestAnswer>): String = json.encodeToString(answers)
 
     suspend fun syncAll() {
         dao.schoolLinks().forEach { sync(it.childId, force = false) }
@@ -185,25 +328,45 @@ class SchoolSync(
                 .filter { (_, minutes) -> minutes > 0 }
                 .map { (day, minutes) -> SyncDay(day, minutes) },
             skills = dao.skillsChangedSince(childId, link.skillsSentUntil).take(MAX_SKILLS).map { SyncSkill(it.skill, it.mastery, it.attempts) },
+            chapters = chapterProgress(link.grade, status),
         )
+    }
+
+    /** The child's progress in each textbook chapter of their school class that they have started. */
+    private suspend fun chapterProgress(grade: Int, status: Map<String, Learning.LessonStatus>): List<SyncChapter> {
+        val chapters = content.book().classes.firstOrNull { it.grade == grade }?.chapters ?: return emptyList()
+        return chapters.mapNotNull { chapter ->
+            val parts = chapter.sections.filterNot { it.test }
+            val done = parts.count { status[it.id]?.completed == true }
+            val test = chapter.sections.firstOrNull { it.test }?.let { status[it.id] }?.takeIf { it.completed }
+            if (done == 0 && test == null) return@mapNotNull null
+            SyncChapter(
+                chapter = chapter.id, done = done, total = parts.size,
+                stars = parts.sumOf { status[it.id]?.bestStars ?: 0 }, testStars = test?.bestStars,
+            )
+        }
     }
 
     private fun isWordQuestion(step: Step): Boolean =
         (step is ListenTap || step is WordPick || step is MatchMeaning || step is ListenRead || step is SayWord) &&
             step.skills.any { it.startsWith("vocab.") }
 
+    private suspend fun post(path: String, body: String, token: String?): Pair<Int, String>? = request("POST", path, body, token)
+
     /** Returns (status, body), or null if the server couldn't be reached. */
-    private suspend fun post(path: String, body: String, token: String?): Pair<Int, String>? = withContext(Dispatchers.IO) {
+    private suspend fun request(method: String, path: String, body: String?, token: String?): Pair<Int, String>? = withContext(Dispatchers.IO) {
         try {
             val connection = URL(BuildConfig.SCHOOL_API_URL + path).openConnection() as HttpURLConnection
             try {
-                connection.requestMethod = "POST"
+                connection.requestMethod = method
                 connection.connectTimeout = TIMEOUT_MS
                 connection.readTimeout = TIMEOUT_MS
-                connection.doOutput = true
-                connection.setRequestProperty("content-type", "application/json")
                 if (token != null) connection.setRequestProperty("authorization", "Bearer $token")
-                connection.outputStream.use { it.write(body.toByteArray()) }
+                if (body != null) {
+                    connection.doOutput = true
+                    connection.setRequestProperty("content-type", "application/json")
+                    connection.outputStream.use { it.write(body.toByteArray()) }
+                }
                 val status = connection.responseCode
                 val stream = if (status < 400) connection.inputStream else connection.errorStream
                 status to (stream?.bufferedReader()?.use { it.readText() }.orEmpty())
@@ -217,7 +380,7 @@ class SchoolSync(
 
     companion object {
         /** Bump when the words of the consent screen change. The server must accept the new version. */
-        const val CONSENT_VERSION = "2026-11-v3"
+        const val CONSENT_VERSION = "2026-11-v4"
         private const val MIN_SYNC_GAP_MS = 15 * 60_000L
         private const val READINGS_COUNTED = 10
         private const val DAYS_SENT = 7

@@ -1,0 +1,115 @@
+{
+  "id": "B7.10.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.10.6.S02",
+    "B7.10.6.S03",
+    "B7.10.6.S04",
+    "B7.10.6.S05",
+    "B7.10.6.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.10.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब कहती है: कविता की छूटी हुई लाइनें लिखो। पहले कविता याद करो, फिर सही लाइन चुनो।",
+        "hinglish": "Kitaab kehti hai: kavita ki chhooti hui lines likho. Pehle kavita yaad karo, phir sahi line chuno.",
+        "en": "The book says: add the missing lines of the poem. Remember the poem, then pick the right line."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "O! come with me and see the moon. ... What comes next?",
+      "questionMeaning": {
+        "hi": "इसके बाद कौन सी लाइन आती है?",
+        "hinglish": "Iske baad kaun si line aati hai?"
+      },
+      "options": [
+        "If we have time we'll visit Mars,",
+        "My Rocket's waiting just outside.",
+        "It won't take long."
+      ],
+      "answer": "If we have time we'll visit Mars,"
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "It's really quite a pleasant trip. ... What comes next?",
+      "questionMeaning": {
+        "hi": "इसके बाद कौन सी लाइन आती है?",
+        "hinglish": "Iske baad kaun si line aati hai?"
+      },
+      "options": [
+        "Great fun at night with all the stars",
+        "Please say you'll come,",
+        "And long to take you for a ride."
+      ],
+      "answer": "Great fun at night with all the stars"
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Great fun at night with all the stars ... What comes next?",
+      "questionMeaning": {
+        "hi": "इसके बाद कौन सी लाइन आती है?",
+        "hinglish": "Iske baad kaun si line aati hai?"
+      },
+      "options": [
+        "That shine like diamonds in the sky.",
+        "It won't take long.",
+        "If we have time we'll visit Mars,"
+      ],
+      "answer": "That shine like diamonds in the sky."
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Please say you'll come, ... What comes next?",
+      "questionMeaning": {
+        "hi": "इसके बाद कौन सी लाइन आती है?",
+        "hinglish": "Iske baad kaun si line aati hai?"
+      },
+      "options": [
+        "It won't take long.",
+        "That shine like diamonds in the sky.",
+        "O! come with me and see the moon,"
+      ],
+      "answer": "It won't take long."
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "My Rocket's waiting just outside. ... What comes next?",
+      "questionMeaning": {
+        "hi": "इसके बाद कौन सी लाइन आती है?",
+        "hinglish": "Iske baad kaun si line aati hai?"
+      },
+      "options": [
+        "I've passed my test with perfect ease,",
+        "Great fun at night with all the stars",
+        "It's really quite a pleasant trip."
+      ],
+      "answer": "I've passed my test with perfect ease,"
+    }
+  ]
+}

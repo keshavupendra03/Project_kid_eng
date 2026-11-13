@@ -1,0 +1,66 @@
+{
+  "id": "B8.01.8",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.01.8.S01",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "‘Every cloud has a silver lining’ means ...",
+      "questionMeaning": {
+        "hi": "इसका मतलब?",
+        "hinglish": "Iska matlab?"
+      },
+      "options": [
+        "Something good comes even in bad times.",
+        "Clouds are made of silver.",
+        "It will rain today."
+      ],
+      "answer": "Something good comes even in bad times.",
+      "modelAnswer": "Every cloud has a silver lining: even a bad situation has something good in it.",
+      "modelMeaning": {
+        "hi": "हर बादल में चाँदी की लकीर होती है: बुरे समय में भी कुछ अच्छा छिपा होता है।",
+        "hinglish": "Har baadal mein chaandi ki lakeer hoti hai: bure samay mein bhi kuchh achha chhipa hota hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.8.S02",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "‘Practice makes perfect’ means ...",
+      "questionMeaning": {
+        "hi": "इसका मतलब?",
+        "hinglish": "Iska matlab?"
+      },
+      "options": [
+        "Doing something again and again makes you good at it.",
+        "You should never practise.",
+        "Only perfect people practise."
+      ],
+      "answer": "Doing something again and again makes you good at it."
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.8.S03",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "‘Failure is the stepping stone to success’ means ...",
+      "questionMeaning": {
+        "hi": "इसका मतलब?",
+        "hinglish": "Iska matlab?"
+      },
+      "options": [
+        "We learn from failure and then succeed.",
+        "Failure is a kind of stone.",
+        "Never try again."
+      ],
+      "answer": "We learn from failure and then succeed."
+    }
+  ]
+}

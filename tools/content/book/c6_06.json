@@ -1,0 +1,197 @@
+{
+  "grade": 6, "number": 6, "emoji": "🏹", "title": "The Test", "pages": "28–35",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "grammar.plurals"],
+      "steps": [
+        {"card": ["यह पाठ एक नाटक है: गुरु द्रोण पांडव और कौरव राजकुमारों की परीक्षा लेते हैं। पहले किताब के सवाल।", "Yeh paath ek naatak hai: Guru Dron Pandav aur Kaurav raajkumaaron ki pariksha lete hain. Pehle kitaab ke sawaal.", "This lesson is a play: Guru Dron tests the Pandav and Kaurav princes. First, the book's questions."]},
+        {"book": true, "q": ["Who are Yudhisthir, Bhim, Arjun, Nakul and Sahadev?", "युधिष्ठिर, भीम, अर्जुन, नकुल और सहदेव कौन हैं?", "Yudhishthir, Bheem, Arjun, Nakul aur Sahadev kaun hain?", ["the five Pandav brothers", "five Kaurav princes", "five teachers"], "the five Pandav brothers", "They are the five Pandav brothers from the Mahabharata.", "वे महाभारत के पाँच पांडव भाई हैं।", "Woh Mahabharat ke paanch Pandav bhai hain."]},
+        {"book": true, "q": ["What was Arjun famous for?", "अर्जुन किस बात के लिए मशहूर थे?", "Arjun kis baat ke liye mashhoor the?", ["archery (shooting with a bow and arrow)", "wrestling", "cooking"], "archery (shooting with a bow and arrow)", "Arjun was famous for archery. He was a very good archer.", "अर्जुन तीरंदाज़ी के लिए मशहूर थे। वे बहुत अच्छे धनुर्धर थे।", "Arjun teerandaazi ke liye mashhoor the. Woh bahut achhe dhanurdhar the."]},
+        {"book": true, "q": ["Who was their teacher?", "उनके गुरु कौन थे?", "Unke guru kaun the?", ["Dronacharya", "Duryodhan", "Bhim"], "Dronacharya", "Their teacher was Dronacharya (Guru Dron).", "उनके गुरु द्रोणाचार्य थे।", "Unke guru Dronaachaarya the."]},
+        {"card": ["कुछ शब्दों का बहुवचन (plural) अलग होता है, s नहीं लगता: man → men, child → children। इन्हें याद कर लो।", "Kuch shabdon ka bahuvachan (plural) alag hota hai, s nahi lagta: man → men, child → children. Inhe yaad kar lo.", "Some words have special plurals with no s: man → men, child → children. Learn them."]},
+        {"book": true, "pairs": ["एक को उसके बहुवचन से जोड़ो", "Ek ko uske bahuvachan se jodo", "Join each word to its plural", [
+          ["man", "men", "आदमी", "aadmi"],
+          ["woman", "women", "औरतें", "auratein"],
+          ["tooth", "teeth", "दाँत", "daant"],
+          ["foot", "feet", "पैर", "pair"],
+          ["child", "children", "बच्चे", "bachche"]]]},
+        {"book": true, "pairs": ["एक को उसके बहुवचन से जोड़ो", "Ek ko uske bahuvachan se jodo", "Join each word to its plural", [
+          ["mouse", "mice", "चूहे", "choohe"],
+          ["louse", "lice", "जूँएँ", "joonein"],
+          ["goose", "geese", "हंस (बत्तख जैसे)", "hans (battakh jaise)"],
+          ["deer", "deer", "हिरण (वही रहता है)", "hiran (wahi rehta hai)"]]]},
+        {"fb": ["The dentist checked my ___.", "teeth", ["teeth", "tooths", "toothes"], "डॉक्टर ने मेरे दाँत देखे।", "Doctor ne mere daant dekhe."]},
+        {"fb": ["Many ___ are playing in the park.", "children", ["children", "childs", "childrens"], "पार्क में बहुत से बच्चे खेल रहे हैं।", "Park mein bahut se bachche khel rahe hain."]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"word": ["target", "निशाना", "nishaana", "the thing you aim at", "He hit the target with his arrow.", "उसने तीर से निशाना लगाया।", "Usne teer se nishaana lagaaya."]},
+        {"word": ["successful", "सफल", "safal", "doing what you wanted to do", "Hard work makes us successful.", "मेहनत हमें सफल बनाती है।", "Mehnat humein safal banaati hai."]},
+        {"word": ["concentrate", "ध्यान लगाना", "dhyaan lagaana", "to think about only one thing", "Concentrate on your studies.", "अपनी पढ़ाई पर ध्यान लगाओ।", "Apni padhaai par dhyaan lagaao."]},
+        {"card": ["किताब: इन शब्दों से अपने वाक्य बनाओ: ride, tree, arrow, target, successful।", "Kitaab: in shabdon se apne vaakya banao: ride, tree, arrow, target, successful.", "The book: make your own sentences with ride, tree, arrow, target, successful."]},
+        {"book": true, "build": ["‘ride’ से वाक्य: मैं साइकिल चला सकता/सकती हूँ।", "‘ride’ se vaakya: main cycle chala sakta/sakti hoon.", "A sentence with ‘ride’.", "I can ride a bicycle.", "मैं साइकिल चला सकता/सकती हूँ।", "Main cycle chala sakta/sakti hoon."]},
+        {"book": true, "build": ["‘tree’ से वाक्य: पेड़ पर एक चिड़िया है।", "‘tree’ se vaakya: ped par ek chidiya hai.", "A sentence with ‘tree’.", "There is a bird in the tree.", "पेड़ पर एक चिड़िया है।", "Ped par ek chidiya hai."]},
+        {"book": true, "build": ["‘arrow’ से वाक्य: अर्जुन ने तीर चलाया।", "‘arrow’ se vaakya: Arjun ne teer chalaaya.", "A sentence with ‘arrow’.", "Arjun shot an arrow.", "अर्जुन ने तीर चलाया।", "Arjun ne teer chalaaya."]},
+        {"book": true, "build": ["‘target’ से वाक्य: चिड़िया की आँख निशाना थी।", "‘target’ se vaakya: chidiya ki aankh nishaana thi.", "A sentence with ‘target’.", "The bird's eye was the target.", "चिड़िया की आँख निशाना थी।", "Chidiya ki aankh nishaana thi."]},
+        {"book": true, "build": ["‘successful’ से वाक्य: मेहनत करने वाले सफल होते हैं।", "‘successful’ se vaakya: mehnat karne waale safal hote hain.", "A sentence with ‘successful’.", "Hard-working people are successful.", "मेहनत करने वाले लोग सफल होते हैं।", "Mehnat karne waale log safal hote hain."]},
+        {"card": ["किताब में जन्मदिन की पार्टी की तस्वीर है। चीज़ों को उनके नाम से जोड़ो।", "Kitaab mein janmdin ki party ki tasveer hai. Cheezon ko unke naam se jodo.", "The book has a picture of a birthday party. Match the things with their names."]},
+        {"book": true, "pairs": ["चीज़ को उसके नाम से जोड़ो", "Cheez ko uske naam se jodo", "Match each thing with its name", [
+          ["🎈", "balloons", "गुब्बारे", "gubbaare"],
+          ["🎂", "cake", "केक", "cake"],
+          ["🕯️", "candles", "मोमबत्तियाँ", "mombattiyaan"],
+          ["🤡", "clown", "जोकर", "joker"],
+          ["🎁", "gift", "तोहफ़ा", "tohfa"],
+          ["🧚", "fairy", "परी", "pari"]]]},
+        {"book": true, "pairs": ["फलों को उनके नाम से जोड़ो", "Phalon ko unke naam se jodo", "Match each fruit with its name", [
+          ["🍎", "apple", "सेब", "seb"],
+          ["🥭", "mango", "आम", "aam"],
+          ["🍇", "grapes", "अंगूर", "angoor"],
+          ["🍌", "bananas", "केले", "kele"],
+          ["🧃", "juice", "जूस", "juice"]]]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Reading comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 28 से 31 तक नाटक ‘The Test’ पढ़ो। फिर जवाब दो।", "Apni kitaab mein page 28 se 31 tak naatak ‘The Test’ padho. Phir jawab do.", "Read the play ‘The Test’ on pages 28 to 31 of your book. Then answer."]},
+        {"book": true, "q": ["___ is the eldest of Pandav Princes.", "पांडवों में सबसे बड़ा कौन है?", "Pandavon mein sabse bada kaun hai?", ["Arjun", "Bhim", "Yudhisthir", "Nakul"], "Yudhisthir"]},
+        {"book": true, "q": ["___ is a Kaurav prince.", "कौरव राजकुमार कौन है?", "Kaurav raajkumaar kaun hai?", ["Yudhisthir", "Duryodhan", "Dronacharya", "Sahadev"], "Duryodhan"]},
+        {"book": true, "q": ["___ was ‘the target’ in the test.", "परीक्षा में निशाना क्या था?", "Pariksha mein nishaana kya tha?", ["The bird", "The tree", "The bird's right eye", "The fruit"], "The bird's right eye"]},
+        {"book": true, "q": ["___ shot ‘the target’ finally.", "आख़िर में निशाना किसने लगाया?", "Aakhir mein nishaana kisne lagaaya?", ["Bhim", "Duryodhan", "Yudhisthir", "Arjun"], "Arjun"]},
+        {"book": true, "q": ["___ is the teacher of Pandav and Kaurav Princes.", "पांडव और कौरव राजकुमारों के गुरु कौन हैं?", "Pandav aur Kaurav raajkumaaron ke guru kaun hain?", ["Bhim", "Nakul", "Dronacharya", "Duryodhan"], "Dronacharya"]},
+        {"book": true, "q": ["What different skills did Guru Dron teach the princes?", "गुरु द्रोण ने क्या-क्या सिखाया?", "Guru Dron ne kya-kya sikhaaya?", ["to use different arms, ride a horse and fight the enemy", "to cook and sing", "to read and write only"], "to use different arms, ride a horse and fight the enemy", "Guru Dron taught the princes how to use different arms, to ride a horse and to fight the enemy well.", "गुरु द्रोण ने राजकुमारों को अलग-अलग हथियार चलाना, घुड़सवारी और दुश्मन से लड़ना सिखाया।", "Guru Dron ne raajkumaaron ko alag-alag hathiyaar chalaana, ghudsawaari aur dushman se ladna sikhaaya."]},
+        {"book": true, "q": ["What was the test?", "परीक्षा क्या थी?", "Pariksha kya thi?", ["to shoot the bird in its right eye", "to climb the tree", "to ride a horse"], "to shoot the bird in its right eye", "The test was to shoot the bird on the tree in its right eye.", "परीक्षा पेड़ पर बैठी चिड़िया की दाईं आँख में तीर मारने की थी।", "Pariksha ped par baithi chidiya ki daayin aankh mein teer maarne ki thi."]},
+        {"book": true, "q": ["Why didn't he allow the other princes to shoot?", "उन्होंने बाकी राजकुमारों को तीर क्यों नहीं चलाने दिया?", "Unhone baaki raajkumaaron ko teer kyon nahi chalaane diya?", ["They failed to concentrate on the target.", "They were too young.", "They had no arrows."], "They failed to concentrate on the target.", "He did not allow them to shoot because they saw many things and failed to concentrate on the target.", "उन्होंने उन्हें तीर नहीं चलाने दिया क्योंकि वे बहुत कुछ देख रहे थे और निशाने पर ध्यान नहीं लगा पाए।", "Unhone unhe teer nahi chalaane diya kyonki woh bahut kuch dekh rahe the aur nishaane par dhyaan nahi laga paaye."]},
+        {"book": true, "q": ["Why was he satisfied with Arjun's answer?", "वे अर्जुन के जवाब से संतुष्ट क्यों थे?", "Woh Arjun ke jawab se santusht kyon the?", ["Arjun saw only the bird's eye, so he was focused on the target.", "Arjun saw the whole tree.", "Arjun did not answer."], "Arjun saw only the bird's eye, so he was focused on the target.", "He was satisfied because Arjun saw only the bird's right eye and nothing else. He was fully focused on the target.", "वे संतुष्ट थे क्योंकि अर्जुन को सिर्फ़ चिड़िया की दाईं आँख दिख रही थी, और कुछ नहीं। उनका पूरा ध्यान निशाने पर था।", "Woh santusht the kyonki Arjun ko sirf chidiya ki daayin aankh dikh rahi thi, aur kuch nahi. Unka poora dhyaan nishaane par tha."]},
+        {"book": true, "q": ["What do we need to do to be successful in life?", "जीवन में सफल होने के लिए क्या करना चाहिए?", "Jeevan mein safal hone ke liye kya karna chahiye?", ["Keep our eyes focused only on the goal.", "Look at everything around us.", "Never try anything."], "Keep our eyes focused only on the goal.", "To be successful in life, we must always keep our eyes focused only on our goal.", "जीवन में सफल होने के लिए हमें हमेशा अपना ध्यान सिर्फ़ अपने लक्ष्य पर रखना चाहिए।", "Jeevan mein safal hone ke liye humein hamesha apna dhyaan sirf apne lakshya par rakhna chahiye."]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: बहुवचन और छोटे रूप", "Grammar: bahuvachan aur chhote roop", "Grammar in Use: plurals and short forms"], "book": true,
+      "skills": ["book.grammar", "grammar.plurals"],
+      "steps": [
+        {"card": ["बहुवचन के नियम: 1) ज़्यादातर में s: book → books। 2) s, sh, ch पर ख़त्म हो तो es: bus → buses। 3) व्यंजन + y हो तो ies: baby → babies। 4) स्वर (a, e, i, o, u) + y हो तो सिर्फ़ s: boy → boys।", "Bahuvachan ke niyam: 1) zyaadatar mein s: book → books. 2) s, sh, ch par khatm ho to es: bus → buses. 3) vyanjan + y ho to ies: baby → babies. 4) swar (a, e, i, o, u) + y ho to sirf s: boy → boys.", "Plural rules: 1) Most add s: book → books. 2) Ending in s, sh, ch: add es: bus → buses. 3) Consonant + y: change to ies: baby → babies. 4) Vowel + y: just add s: boy → boys."]},
+        {"book": true, "pairs": ["एक को उसके बहुवचन से जोड़ो", "Ek ko uske bahuvachan se jodo", "Join each word to its plural", [
+          ["arrow", "arrows", "तीर", "teer"],
+          ["prince", "princes", "राजकुमार", "raajkumaar"],
+          ["dress", "dresses", "पोशाकें", "poshaakein"],
+          ["bush", "bushes", "झाड़ियाँ", "jhaadiyaan"]]]},
+        {"book": true, "pairs": ["एक को उसके बहुवचन से जोड़ो", "Ek ko uske bahuvachan se jodo", "Join each word to its plural", [
+          ["party", "parties", "पार्टियाँ", "partiyaan"],
+          ["family", "families", "परिवार", "parivaar"],
+          ["key", "keys", "चाबियाँ", "chaabiyaan"],
+          ["monkey", "monkeys", "बंदर", "bandar"]]]},
+        {"q": ["Which plural is correct?", "कौन सा बहुवचन सही है?", "Kaun sa bahuvachan sahi hai?", ["countries", "countrys", "countryes"], "countries"]},
+        {"q": ["Which plural is correct?", "कौन सा बहुवचन सही है?", "Kaun sa bahuvachan sahi hai?", ["days", "daies", "dayes"], "days"]},
+        {"card": ["बोलचाल में शब्द छोटे हो जाते हैं: I am → I'm, do not → don't। ’ (apostrophe) बताता है कि कोई अक्षर हटा है।", "Bolchaal mein shabd chhote ho jaate hain: I am → I'm, do not → don't. ’ (apostrophe) bataata hai ki koi akshar hata hai.", "In speech, words get shorter: I am → I'm, do not → don't. The apostrophe (’) shows that letters are missing."]},
+        {"book": true, "skills": ["book.grammar", "grammar.contractions"], "pairs": ["छोटे रूप को पूरे रूप से जोड़ो", "Chhote roop ko poore roop se jodo", "Match the short forms with the full forms", [
+          ["I'm", "I am", "मैं हूँ", "main hoon"],
+          ["I've", "I have", "मेरे पास है", "mere paas hai"],
+          ["I'll", "I will", "मैं करूँगा", "main karoonga"],
+          ["You'll", "You will", "तुम करोगे", "tum karoge"],
+          ["It's", "It is", "यह है", "yeh hai"],
+          ["It'll", "It will", "यह होगा", "yeh hoga"]]]},
+        {"book": true, "skills": ["book.grammar", "grammar.contractions"], "pairs": ["छोटे रूप को पूरे रूप से जोड़ो", "Chhote roop ko poore roop se jodo", "Match the short forms with the full forms", [
+          ["don't", "do not", "नहीं करना", "nahi karna"],
+          ["won't", "will not", "नहीं करेगा", "nahi karega"],
+          ["can't", "cannot", "नहीं कर सकता", "nahi kar sakta"],
+          ["that's", "that is", "वह है", "woh hai"],
+          ["what's", "what is", "क्या है", "kya hai"],
+          ["who's", "who is", "कौन है", "kaun hai"]]]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: खेल", "Chalo baat karein: khel", "Let's Talk: games"], "book": true,
+      "skills": ["book.talk", "grammar.like"],
+      "steps": [
+        {"card": ["किताब: दोस्तों से पूछो उन्हें कौन से खेल पसंद हैं और कौन से नहीं। जवाब: I like ... या I don't like ...", "Kitaab: doston se poochho unhe kaun se khel pasand hain aur kaun se nahi. Jawab: I like ... ya I don't like ...", "The book: ask your friends which games they like and don't like. Answer: I like ... or I don't like ..."]},
+        {"book": true, "type": "roleplay", "scene": "🏏", "turns": [
+          {"id": "cricket", "tinku": "Do you like cricket?", "meaning": ["क्या तुम्हें क्रिकेट पसंद है?", "Kya tumhe cricket pasand hai?"],
+            "replies": [
+              {"say": "Yes, I like cricket.", "meaning": ["हाँ, मुझे क्रिकेट पसंद है।", "Haan, mujhe cricket pasand hai."], "patterns": ["yes *", "yes", "i like *"]},
+              {"say": "No, I don't like cricket.", "meaning": ["नहीं, मुझे क्रिकेट पसंद नहीं।", "Nahi, mujhe cricket pasand nahi."], "patterns": ["no *", "no", "i dont like *", "i do not like *"]}
+            ]},
+          {"id": "swim", "tinku": "Do you like swimming?", "meaning": ["क्या तुम्हें तैरना पसंद है?", "Kya tumhe tairna pasand hai?"],
+            "replies": [
+              {"say": "Yes, I like swimming.", "meaning": ["हाँ, मुझे तैरना पसंद है।", "Haan, mujhe tairna pasand hai."], "patterns": ["yes *", "yes", "i like *"]},
+              {"say": "No, I don't like swimming.", "meaning": ["नहीं, मुझे तैरना पसंद नहीं।", "Nahi, mujhe tairna pasand nahi."], "patterns": ["no *", "no", "i dont like *", "i do not like *"]}
+            ]},
+          {"id": "archery", "tinku": "Do you like archery, like Arjun?", "meaning": ["क्या तुम्हें अर्जुन की तरह तीरंदाज़ी पसंद है?", "Kya tumhe Arjun ki tarah teerandaazi pasand hai?"],
+            "replies": [
+              {"say": "Yes, I like archery.", "meaning": ["हाँ, मुझे तीरंदाज़ी पसंद है।", "Haan, mujhe teerandaazi pasand hai."], "patterns": ["yes *", "yes", "i like *"], "next": "end"},
+              {"say": "No, I don't like archery.", "meaning": ["नहीं, मुझे तीरंदाज़ी पसंद नहीं।", "Nahi, mujhe teerandaazi pasand nahi."], "patterns": ["no *", "no", "i dont like *", "i do not like *"], "next": "end"}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: अर्जुन के बारे में", "Chalo likhein: Arjun ke baare mein", "Let's Write: about Arjun"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: संकेतों की मदद से अर्जुन के बारे में छह वाक्य लिखो: a Pandav prince, very good archer, elder to, younger than, son of। उदाहरण: Arjun was a Pandav prince.", "Kitaab: sanketon ki madad se Arjun ke baare mein chhah vaakya likho: a Pandav prince, very good archer, elder to, younger than, son of. Udaharan: Arjun was a Pandav prince.", "The book: write six sentences about Arjun with the clues: a Pandav prince, very good archer, elder to, younger than, son of. Example: Arjun was a Pandav prince."]},
+        {"book": true, "build": ["संकेत: very good archer", "Sanket: very good archer", "Clue: very good archer", "He was a very good archer.", "वे बहुत अच्छे धनुर्धर थे।", "Woh bahut achhe dhanurdhar the."]},
+        {"book": true, "build": ["संकेत: younger than (युधिष्ठिर और भीम)", "Sanket: younger than (Yudhishthir aur Bheem)", "Clue: younger than Yudhisthir and Bhim", "He was younger than Yudhisthir and Bhim.", "वे युधिष्ठिर और भीम से छोटे थे।", "Woh Yudhishthir aur Bheem se chhote the."]},
+        {"book": true, "build": ["संकेत: elder to (नकुल और सहदेव)", "Sanket: elder to (Nakul aur Sahadev)", "Clue: elder to Nakul and Sahadev", "He was elder to Nakul and Sahadev.", "वे नकुल और सहदेव से बड़े थे।", "Woh Nakul aur Sahadev se bade the."]},
+        {"book": true, "build": ["संकेत: son of (पांडु और कुंती)", "Sanket: son of (Pandu aur Kunti)", "Clue: son of Pandu and Kunti", "He was the son of Pandu and Kunti.", "वे पांडु और कुंती के पुत्र थे।", "Woh Pandu aur Kunti ke putra the."]},
+        {"book": true, "build": ["संकेत: Guru Dron's favourite student", "Sanket: Guru Dron's favourite student", "Clue: Guru Dron's favourite student", "He was Guru Dron's favourite student.", "वे गुरु द्रोण के सबसे प्रिय शिष्य थे।", "Woh Guru Dron ke sabse priya shishya the."]}
+      ]
+    },
+    {
+      "emoji": "🏸", "title": ["चलो करके देखें: घर के अंदर और बाहर के खेल", "Chalo karke dekhein: ghar ke andar aur baahar ke khel", "Let's Do It: indoor and outdoor games"], "book": true,
+      "skills": ["book.activity"],
+      "steps": [
+        {"card": ["किताब कहती है: घर के अंदर (indoor) और बाहर (outdoor) के खेलों की तस्वीरें इकट्ठा करो। पहले उन्हें छाँटो।", "Kitaab kehti hai: ghar ke andar (indoor) aur baahar (outdoor) ke khelon ki tasveerein ikattha karo. Pehle unhe chhaanto.", "The book says: collect pictures of indoor and outdoor games. First, sort them."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर खेल को indoor या outdoor में रखो", "Har khel ko indoor ya outdoor mein rakho", "Is each game indoor or outdoor?"],
+          "groups": [
+            {"id": "in", "name": "indoor games", "emoji": "🏠", "meaning": ["घर के अंदर के खेल", "ghar ke andar ke khel"]},
+            {"id": "out", "name": "outdoor games", "emoji": "🌳", "meaning": ["बाहर के खेल", "baahar ke khel"]}
+          ],
+          "items": [
+            {"text": "chess", "emoji": "♟️", "groups": ["in"]},
+            {"text": "cricket", "emoji": "🏏", "groups": ["out"]},
+            {"text": "carrom", "emoji": "🎯", "groups": ["in"]},
+            {"text": "football", "emoji": "⚽", "groups": ["out"]},
+            {"text": "ludo", "emoji": "🎲", "groups": ["in"]},
+            {"text": "hockey", "emoji": "🏑", "groups": ["out"]},
+            {"text": "table tennis", "emoji": "🏓", "groups": ["in"]},
+            {"text": "kabaddi", "emoji": "🤼", "groups": ["out"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: लक्ष्य पर ध्यान", "Aur seekho: lakshya par dhyaan", "Learn more: focus on the goal"], "book": false,
+      "skills": ["vocab.meaning"],
+      "steps": [
+        {"pairs": ["तीरंदाज़ी के शब्द जोड़ो", "Teerandaazi ke shabd jodo", "Join the archery words", [
+          ["bow", "a curved stick with a string to shoot arrows", "धनुष", "dhanush"],
+          ["arrow", "a thin stick with a sharp point", "तीर", "teer"],
+          ["archer", "a person who shoots with a bow", "धनुर्धर", "dhanurdhar"],
+          ["aim", "to point at a target", "निशाना साधना", "nishaana saadhna"]]]},
+        {"q": ["What is the lesson of this story?", "इस कहानी की सीख क्या है?", "Is kahani ki seekh kya hai?", ["Focus only on your goal to succeed.", "Look at many things at once.", "Birds live in trees."], "Focus only on your goal to succeed."]},
+        {"fb": ["To do well in exams, we must ___ on our studies.", "concentrate", ["concentrate", "sleep", "play"], "परीक्षा में अच्छा करने के लिए हमें पढ़ाई पर ध्यान लगाना चाहिए।", "Pariksha mein achha karne ke liye humein padhaai par dhyaan lagaana chahiye."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 6 का टेस्ट", "Paath 6 ka test", "Lesson 6 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["___ was ‘the target’ in the test.", "निशाना क्या था?", "Nishaana kya tha?", ["The bird", "The tree", "The bird's right eye", "The fruit"], "The bird's right eye"]},
+        {"book": true, "q": ["Why didn't he allow the other princes to shoot?", "बाकी राजकुमारों को तीर क्यों नहीं चलाने दिया?", "Baaki raajkumaaron ko teer kyon nahi chalaane diya?", ["They failed to concentrate on the target.", "They were too young.", "They had no arrows."], "They failed to concentrate on the target."]},
+        {"book": true, "q": ["___ is a Kaurav prince.", "कौरव राजकुमार कौन?", "Kaurav raajkumaar kaun?", ["Yudhisthir", "Duryodhan", "Dronacharya", "Sahadev"], "Duryodhan"]},
+        {"book": true, "skills": ["book.words", "grammar.plurals"], "q": ["The plural of ‘mouse’ is ...", "‘mouse’ का बहुवचन?", "‘mouse’ ka bahuvachan?", ["mice", "mouses", "mices"], "mice"]},
+        {"book": true, "skills": ["book.words", "grammar.plurals"], "q": ["The plural of ‘deer’ is ...", "‘deer’ का बहुवचन?", "‘deer’ ka bahuvachan?", ["deer", "deers", "deeres"], "deer"]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘family’ is ...", "‘family’ का बहुवचन?", "‘family’ ka bahuvachan?", ["families", "familys", "familyes"], "families"]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘bush’ is ...", "‘bush’ का बहुवचन?", "‘bush’ ka bahuvachan?", ["bushes", "bushs", "bushies"], "bushes"]},
+        {"book": true, "skills": ["book.grammar", "grammar.contractions"], "q": ["won't = ?", "won't का पूरा रूप?", "won't ka poora roop?", ["will not", "would not", "want not"], "will not"]},
+        {"book": true, "skills": ["book.grammar", "grammar.contractions"], "q": ["I've = ?", "I've का पूरा रूप?", "I've ka poora roop?", ["I have", "I give", "I am"], "I have"]},
+        {"book": true, "skills": ["book.writing"], "q": ["Arjun was a very good ...", "अर्जुन बहुत अच्छे ... थे।", "Arjun bahut achhe ... the.", ["archer", "cook", "singer"], "archer"]}
+      ]
+    }
+  ]
+}

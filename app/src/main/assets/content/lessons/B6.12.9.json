@@ -1,0 +1,335 @@
+{
+  "id": "B6.12.9",
+  "level": 6,
+  "bookSteps": [
+    "B6.12.9.S02",
+    "B6.12.9.S03",
+    "B6.12.9.S04",
+    "B6.12.9.S05",
+    "B6.12.9.S06",
+    "B6.12.9.S07",
+    "B6.12.9.S08",
+    "B6.12.9.S09",
+    "B6.12.9.S10",
+    "B6.12.9.S11",
+    "B6.12.9.S12",
+    "B6.12.9.S13",
+    "B6.12.9.S14",
+    "B6.12.9.S15"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.12.9.S01",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "text": {
+        "hi": "किताब के पेज 78-80 पर वार्षिक परीक्षा (Annual Evaluation) का नमूना पेपर है। यह पूरे साल का पक्का अभ्यास है!",
+        "hinglish": "Kitaab ke page 78-80 par vaarshik pariksha (Annual Evaluation) ka namoona paper hai. Yeh poore saal ka pakka abhyaas hai!",
+        "en": "Pages 78–80 of your book have a sample Annual Evaluation paper. It is great practice for the whole year!"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.9.S02",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "sentence": "The boy went to the kitchen and brought his ___.",
+      "answer": "breakfast",
+      "options": [
+        "breakfast",
+        "beggar",
+        "window"
+      ],
+      "meaning": {
+        "hi": "लड़का रसोई में गया और अपना नाश्ता लाया।",
+        "hinglish": "Ladka rasoi mein gaya aur apna naashta laaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.9.S03",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "sentence": "... when a ___ came to the window.",
+      "answer": "beggar",
+      "options": [
+        "beggar",
+        "breakfast",
+        "mother"
+      ],
+      "meaning": {
+        "hi": "तभी एक भिखारी खिड़की पर आया।",
+        "hinglish": "Tabhi ek bhikhaari khidki par aaya."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.12.9.S04",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "instruction": {
+        "hi": "लोगों को उनके काम से जोड़ो",
+        "hinglish": "Logon ko unke kaam se jodo",
+        "en": "Match the people with the work they do"
+      },
+      "pairs": [
+        {
+          "left": "goldsmith",
+          "right": "makes ornaments of gold",
+          "meaning": {
+            "hi": "सुनार",
+            "hinglish": "sunaar"
+          }
+        },
+        {
+          "left": "carpenter",
+          "right": "makes tables and chairs",
+          "meaning": {
+            "hi": "बढ़ई",
+            "hinglish": "badhai"
+          }
+        },
+        {
+          "left": "barber",
+          "right": "cuts your hair",
+          "meaning": {
+            "hi": "नाई",
+            "hinglish": "naai"
+          }
+        },
+        {
+          "left": "cobbler",
+          "right": "makes and mends shoes",
+          "meaning": {
+            "hi": "मोची",
+            "hinglish": "mochi"
+          }
+        },
+        {
+          "left": "tailor",
+          "right": "makes garments",
+          "meaning": {
+            "hi": "दर्ज़ी",
+            "hinglish": "darzi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.9.S05",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "Opposite of ‘rich’",
+      "questionMeaning": {
+        "hi": "‘rich’ का उल्टा",
+        "hinglish": "‘rich’ ka ulta"
+      },
+      "options": [
+        "poor",
+        "happy",
+        "tall"
+      ],
+      "answer": "poor"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.9.S06",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "Opposite of ‘ugly’",
+      "questionMeaning": {
+        "hi": "‘ugly’ का उल्टा",
+        "hinglish": "‘ugly’ ka ulta"
+      },
+      "options": [
+        "beautiful",
+        "dark",
+        "sad"
+      ],
+      "answer": "beautiful"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.9.S07",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "Rhyming word: along → ?",
+      "questionMeaning": {
+        "hi": "तुकबंदी वाला शब्द",
+        "hinglish": "Tukbandi waala shabd"
+      },
+      "options": [
+        "song",
+        "long time",
+        "alone"
+      ],
+      "answer": "song"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.9.S08",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "Rhyming word: sky → ?",
+      "questionMeaning": {
+        "hi": "तुकबंदी वाला शब्द",
+        "hinglish": "Tukbandi waala shabd"
+      },
+      "options": [
+        "high",
+        "sea",
+        "sun"
+      ],
+      "answer": "high"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.9.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Where ___ they last month?",
+      "answer": "were",
+      "options": [
+        "were",
+        "are",
+        "was"
+      ],
+      "meaning": {
+        "hi": "पिछले महीने वे कहाँ थे?",
+        "hinglish": "Pichhle mahine woh kahan the?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.9.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘calf’ is ...",
+      "questionMeaning": {
+        "hi": "‘calf’ का बहुवचन",
+        "hinglish": "‘calf’ ka bahuvachan"
+      },
+      "options": [
+        "calves",
+        "calfs",
+        "calfes"
+      ],
+      "answer": "calves"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.9.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "Ramesh went home ___ after losing the match.",
+      "answer": "sadly",
+      "options": [
+        "sadly",
+        "happily",
+        "loudly"
+      ],
+      "meaning": {
+        "hi": "मैच हारने के बाद रमेश दुखी होकर घर गया।",
+        "hinglish": "Match haarne ke baad Ramesh dukhi hokar ghar gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.9.S12",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? Birbal was a king.",
+      "questionMeaning": {
+        "hi": "बीरबल राजा थे।",
+        "hinglish": "Birbal raja the."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.9.S13",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? The fairies made the shoes.",
+      "questionMeaning": {
+        "hi": "परियों ने जूते बनाए।",
+        "hinglish": "Pariyon ne joote banaaye."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.9.S14",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "Did Denu succeed?",
+      "questionMeaning": {
+        "hi": "क्या देनू सफल हुआ?",
+        "hinglish": "Kya Denu safal hua?"
+      },
+      "options": [
+        "Yes, he stood in the cold water all night.",
+        "No, he ran away.",
+        "No, he never tried."
+      ],
+      "answer": "Yes, he stood in the cold water all night."
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.9.S15",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "When does the moonbeam come over your bed?",
+      "questionMeaning": {
+        "hi": "चाँद की किरण कब आती है?",
+        "hinglish": "Chaand ki kiran kab aati hai?"
+      },
+      "options": [
+        "deep in the night, when all is still",
+        "in the afternoon",
+        "early in the morning"
+      ],
+      "answer": "deep in the night, when all is still"
+    }
+  ]
+}

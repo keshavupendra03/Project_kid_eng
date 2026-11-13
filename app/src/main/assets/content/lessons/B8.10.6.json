@@ -1,0 +1,92 @@
+{
+  "id": "B8.10.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.10.6.S02",
+    "B8.10.6.S03",
+    "B8.10.6.S04",
+    "B8.10.6.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.10.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: मेले में देखे गुब्बारे वाले पर पैराग्राफ़ लिखो: गुब्बारों के आकार, रंग और वह और क्या बेचता है। शुरुआत: Once I had been to a fair near my village...",
+        "hinglish": "Kitaab: mele mein dekhe gubbaare waale par paragraph likho: gubbaaron ke aakaar, rang aur woh aur kya bechta hai. Shuruaat: Once I had been to a fair near my village...",
+        "en": "The book: write a paragraph about a balloon seller at a fair: the shapes and colours of balloons and other things he sells. Begin: Once I had been to a fair near my village..."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.10.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "वहाँ मैंने एक गुब्बारे वाला देखा।",
+        "hinglish": "Wahan maine ek gubbaare waala dekha.",
+        "en": "Tell whom you noticed at the fair."
+      },
+      "answer": "There I saw a balloon seller.",
+      "meaning": {
+        "hi": "वहाँ मैंने एक गुब्बारे वाला देखा।",
+        "hinglish": "Wahan maine ek gubbaare waala dekha."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.10.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "उसके गुब्बारे लाल, पीले और नीले थे।",
+        "hinglish": "Uske gubbaare laal, peele aur neele the.",
+        "en": "Tell the colours of his balloons."
+      },
+      "answer": "His balloons were red, yellow and blue.",
+      "meaning": {
+        "hi": "उसके गुब्बारे लाल, पीले और नीले थे।",
+        "hinglish": "Uske gubbaare laal, peele aur neele the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.10.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "कुछ गुब्बारे जानवरों के आकार के थे।",
+        "hinglish": "Kuchh gubbaare jaanwaron ke aakaar ke the.",
+        "en": "Tell about their shapes."
+      },
+      "answer": "Some balloons were shaped like animals.",
+      "meaning": {
+        "hi": "कुछ गुब्बारे जानवरों के आकार के थे।",
+        "hinglish": "Kuchh gubbaare jaanwaron ke aakaar ke the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.10.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "वह सीटियाँ और फिरकियाँ भी बेचता था।",
+        "hinglish": "Woh seetiyaan aur phirkiyaan bhi bechta tha.",
+        "en": "Tell what else he was selling."
+      },
+      "answer": "He also sold whistles and pinwheels.",
+      "meaning": {
+        "hi": "वह सीटियाँ और फिरकियाँ भी बेचता था।",
+        "hinglish": "Woh seetiyaan aur phirkiyaan bhi bechta tha."
+      }
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "B7.01.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.01.1.S03",
+    "B7.01.1.S04"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.01.1.S01",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "यह कविता Christina Rossetti की है। पहले मैं पढ़ूँगा, फिर तुम पढ़ना। जो शब्द सही पढ़ोगे वह हरा हो जाएगा।",
+        "hinglish": "Yeh kavita Christina Rossetti ki hai. Pehle main padhunga, phir tum padhna. Jo shabd sahi padhoge woh hara ho jaayega.",
+        "en": "This poem is by Christina Rossetti. I'll read it first, then you read. Each word you read right turns green."
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "B7.01.1.S02",
+      "skills": [
+        "read.passage",
+        "speak.sentence"
+      ],
+      "title": {
+        "hi": "इंद्रधनुष",
+        "hinglish": "Indradhanush",
+        "en": "The Rainbow"
+      },
+      "sentences": [
+        "Boats sail on the rivers,",
+        "And ships sail on the seas;",
+        "But clouds that sail across the sky",
+        "Are prettier far than these.",
+        "",
+        "There are bridges on the rivers,",
+        "As pretty as you please,",
+        "But the bow that bridges heaven,",
+        "And overtops the trees,",
+        "And builds a road from earth to sky,",
+        "Is prettier far than these."
+      ],
+      "lineMeanings": [
+        {
+          "hi": "नदियों पर नावें चलती हैं,",
+          "hinglish": "Nadiyon par naavein chalti hain,"
+        },
+        {
+          "hi": "और समुद्रों पर जहाज़;",
+          "hinglish": "Aur samudron par jahaaz;"
+        },
+        {
+          "hi": "पर आसमान में तैरते बादल",
+          "hinglish": "Par aasmaan mein tairte baadal"
+        },
+        {
+          "hi": "इन सबसे कहीं ज़्यादा सुंदर हैं।",
+          "hinglish": "In sabse kahin zyaada sundar hain."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "नदियों पर पुल बने हैं,",
+          "hinglish": "Nadiyon par pul bane hain,"
+        },
+        {
+          "hi": "जितने चाहो उतने सुंदर,",
+          "hinglish": "Jitne chaaho utne sundar,"
+        },
+        {
+          "hi": "पर वह धनुष (इंद्रधनुष) जो आसमान पर पुल बनाता है,",
+          "hinglish": "Par woh dhanush (indradhanush) jo aasmaan par pul banaata hai,"
+        },
+        {
+          "hi": "और पेड़ों से भी ऊँचा है,",
+          "hinglish": "Aur pedon se bhi ooncha hai,"
+        },
+        {
+          "hi": "और धरती से आसमान तक सड़क बनाता है,",
+          "hinglish": "Aur dharti se aasmaan tak sadak banaata hai,"
+        },
+        {
+          "hi": "वह इन सबसे कहीं ज़्यादा सुंदर है।",
+          "hinglish": "Woh in sabse kahin zyaada sundar hai."
+        }
+      ],
+      "words": [
+        {
+          "english": "sail",
+          "hindi": "पानी या हवा में चलना",
+          "hinglish": "paani ya hawa mein chalna"
+        },
+        {
+          "english": "bridges",
+          "hindi": "पुल",
+          "hinglish": "pul"
+        },
+        {
+          "english": "heaven",
+          "hindi": "आसमान",
+          "hinglish": "aasmaan"
+        },
+        {
+          "english": "overtops",
+          "hindi": "ऊपर से निकल जाता है",
+          "hinglish": "upar se nikal jaata hai"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.1.S03",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "question": "Which word ends with the same sound as ‘trees’?",
+      "questionMeaning": {
+        "hi": "कौन सा शब्द ‘trees’ जैसी आवाज़ पर ख़त्म होता है?",
+        "hinglish": "Kaun sa shabd ‘trees’ jaisi awaaz par khatm hota hai?"
+      },
+      "options": [
+        "seas",
+        "sky",
+        "road"
+      ],
+      "answer": "seas",
+      "modelAnswer": "trees, seas, these, please",
+      "modelMeaning": {
+        "hi": "ये सब ‘ईज़’ की आवाज़ पर ख़त्म होते हैं।",
+        "hinglish": "Yeh sab ‘eez’ ki awaaz par khatm hote hain."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.01.1.S04",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "instruction": {
+        "hi": "हर वाक्य से तुकबंदी (rhyme) वाले शब्दों की जोड़ी बनाओ",
+        "hinglish": "Har vaakya se tukbandi (rhyme) waale shabdon ki jodi banao",
+        "en": "Join the rhyming words from each sentence"
+      },
+      "pairs": [
+        {
+          "left": "bake",
+          "right": "cake",
+          "meaning": {
+            "hi": "मुझे जन्मदिन का केक बनाना पसंद है।",
+            "hinglish": "Mujhe janmdin ka cake banana pasand hai."
+          }
+        },
+        {
+          "left": "king",
+          "right": "sing",
+          "meaning": {
+            "hi": "एक बार एक राजा ने गाना सीखा।",
+            "hinglish": "Ek baar ek raja ne gaana seekha."
+          }
+        },
+        {
+          "left": "cat",
+          "right": "mat",
+          "meaning": {
+            "hi": "एक बिल्ली चटाई पर बैठी।",
+            "hinglish": "Ek billi chataai par baithi."
+          }
+        },
+        {
+          "left": "boy",
+          "right": "joy",
+          "meaning": {
+            "hi": "छोटा लड़का ख़ुशी से नाचा।",
+            "hinglish": "Chhota ladka khushi se naacha."
+          }
+        },
+        {
+          "left": "hen",
+          "right": "pen",
+          "meaning": {
+            "hi": "एक मुर्गी ने पेन से लिखा।",
+            "hinglish": "Ek murgi ne pen se likha."
+          }
+        },
+        {
+          "left": "frog",
+          "right": "log",
+          "meaning": {
+            "hi": "मेंढक लकड़ी के लट्ठे पर बैठा।",
+            "hinglish": "Mendhak lakdi ke latthe par baitha."
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.1.S05",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "question": "Which word rhymes with ‘rain’?",
+      "questionMeaning": {
+        "hi": "कौन सा शब्द ‘rain’ से तुक मिलाता है?",
+        "hinglish": "Kaun sa shabd ‘rain’ se tuk milaata hai?"
+      },
+      "options": [
+        "train",
+        "rose",
+        "sun"
+      ],
+      "answer": "train"
+    }
+  ]
+}

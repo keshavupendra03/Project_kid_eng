@@ -1,0 +1,92 @@
+{
+  "id": "B6.07.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.07.5.S02",
+    "B6.07.5.S03",
+    "B6.07.5.S04",
+    "B6.07.5.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.07.5.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: तस्वीरें देखो और संकेतों से 4-5 वाक्य लिखो: about to start, Sona leading, Mona trailing behind, clapping। शुरुआत: The race is about to start.",
+        "hinglish": "Kitaab: tasveerein dekho aur sanketon se 4-5 vaakya likho: about to start, Sona leading, Mona trailing behind, clapping. Shuruaat: The race is about to start.",
+        "en": "The book: look at the pictures and write 4–5 sentences with the clues: about to start, Sona leading, Mona trailing behind, clapping. Start: The race is about to start."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.5.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: Sona leading",
+        "hinglish": "Sanket: Sona leading",
+        "en": "Clue: Sona leading"
+      },
+      "answer": "Sona is leading the race.",
+      "meaning": {
+        "hi": "सोना दौड़ में सबसे आगे है।",
+        "hinglish": "Sona daud mein sabse aage hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.5.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: Mona trailing behind",
+        "hinglish": "Sanket: Mona trailing behind",
+        "en": "Clue: Mona trailing behind"
+      },
+      "answer": "Mona is trailing behind.",
+      "meaning": {
+        "hi": "मोना पीछे रह गई है।",
+        "hinglish": "Mona peechhe reh gayi hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.5.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संकेत: clapping",
+        "hinglish": "Sanket: clapping",
+        "en": "Clue: clapping"
+      },
+      "answer": "The children are clapping and cheering.",
+      "meaning": {
+        "hi": "बच्चे ताली बजा रहे हैं और हौसला बढ़ा रहे हैं।",
+        "hinglish": "Bachche taali baja rahe hain aur hausla badha rahe hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.5.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "आख़िरी वाक्य: सोना दौड़ जीत जाती है।",
+        "hinglish": "Aakhiri vaakya: Sona daud jeet jaati hai.",
+        "en": "Last line: say that Sona wins."
+      },
+      "answer": "Sona wins the race.",
+      "meaning": {
+        "hi": "सोना दौड़ जीत जाती है।",
+        "hinglish": "Sona daud jeet jaati hai."
+      }
+    }
+  ]
+}

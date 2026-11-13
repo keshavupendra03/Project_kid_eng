@@ -1,0 +1,194 @@
+{
+  "grade": 7, "number": 11, "emoji": "🔥", "title": "Lohri", "pages": "80–85",
+  "sections": [
+    {
+      "emoji": "🎵", "title": ["सुनो और दोहराओ", "Suno aur dohraao", "Listen and Repeat"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["यह कविता लोहड़ी के त्योहार के बारे में है, जो जनवरी में उत्तर भारत में मनाया जाता है। कवि कहता है कि त्योहार मनाओ, पर पर्यावरण को नुक़सान पहुँचाए बिना।", "Yeh kavita Lohri ke tyohaar ke baare mein hai, jo January mein uttar Bharat mein manaaya jaata hai. Kavi kehta hai ki tyohaar manaao, par paryaavaran ko nuksaan pahunchaaye bina.", "This poem is about Lohri, a festival celebrated in North India in January. The poet says: celebrate, but without harming the environment."]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "🎉", "turns": [
+          {"id": "name", "tinku": "Which festival do you like the most?", "meaning": ["तुम्हें कौन सा त्योहार सबसे ज़्यादा पसंद है?", "Tumhe kaun sa tyohaar sabse zyaada pasand hai?"],
+            "replies": [{"say": "I like Diwali the most.", "meaning": ["मुझे दिवाली सबसे ज़्यादा पसंद है।", "Mujhe Diwali sabse zyaada pasand hai."], "patterns": ["i like *", "*", "* *"]}]},
+          {"id": "how", "tinku": "How do you celebrate it?", "meaning": ["तुम उसे कैसे मनाते हो?", "Tum use kaise manaate ho?"],
+            "replies": [{"say": "We light lamps and share sweets.", "meaning": ["हम दीये जलाते हैं और मिठाई बाँटते हैं।", "Hum diye jalaate hain aur mithaai baant-te hain."], "patterns": ["we *", "*", "* *", "* * *"], "next": "end"}]}
+        ]},
+        {"word": ["twig", "पतली टहनी", "patli tahni", "a small thin branch of a tree", "The bird made a nest with twigs.", "चिड़िया ने टहनियों से घोंसला बनाया।", "Chidiya ne tahniyon se ghonsla banaaya."]},
+        {"word": ["bonfire", "अलाव, बड़ी आग", "alaav, badi aag", "a big fire made outdoors", "We sat around the bonfire on a cold night.", "ठंडी रात में हम अलाव के चारों ओर बैठे।", "Thandi raat mein hum alaav ke chaaron or baithe."]},
+        {"word": ["consume", "खपत करना, ख़र्च करना", "khapat karna, kharch karna", "to use up", "Big cars consume a lot of petrol.", "बड़ी गाड़ियाँ बहुत पेट्रोल ख़र्च करती हैं।", "Badi gaadiyaan bahut petrol kharch karti hain."]},
+        {"word": ["polluted", "प्रदूषित, गंदा", "pradooshit, ganda", "made dirty and harmful", "The river is polluted with waste.", "नदी कचरे से प्रदूषित है।", "Nadi kachre se pradooshit hai."]},
+        {"word": ["hatred", "नफ़रत", "nafrat", "a very strong feeling of not liking", "Love is better than hatred.", "प्यार नफ़रत से बेहतर है।", "Pyaar nafrat se behtar hai."]},
+        {"book": true, "pairs": ["एक जैसी आवाज़ वाले शब्द जोड़ो", "Ek jaisi awaaz waale shabd jodo", "Join the words that sound alike", [
+          ["mine", "shine", "मेरा / चमकना", "mera / chamakna"],
+          ["pine", "fine", "चीड़ का पेड़ / अच्छा", "cheed ka ped / achha"],
+          ["mile", "pile", "मील / ढेर", "meel / dher"],
+          ["land", "band", "ज़मीन / बैंड", "zameen / band"],
+          ["now", "vow", "अभी / वचन", "abhi / vachan"],
+          ["wood", "hood", "लकड़ी / टोपी (हुड)", "lakdi / topi (hood)"]]]},
+        {"card": ["किताब: कविता सुनकर खाली जगह भरो।", "Kitaab: kavita sunkar khaali jagah bharo.", "The book: listen to the poem and fill in the gaps."]},
+        {"book": true, "fb": ["___ in the South, the days are fine.", "Down", ["Down", "Up", "Out"], "दक्षिण में दिन अच्छे होते हैं।", "Dakshin mein din achhe hote hain."]},
+        {"book": true, "fb": ["When ___ comes around.", "January", ["January", "June", "Lohri"], "जब जनवरी आती है।", "Jab January aati hai."]},
+        {"book": true, "fb": ["But up in the ___, and in the hills and so forth.", "North", ["North", "South", "sky"], "पर ऊपर उत्तर में, और पहाड़ों में।", "Par upar uttar mein, aur pahaadon mein."]},
+        {"book": true, "fb": ["January's ___ time.", "Lohri", ["Lohri", "Holi", "Diwali"], "जनवरी लोहड़ी का समय है।", "January Lohri ka samay hai."]},
+        {"book": true, "q": ["Which word from the poem rhymes with ‘blame’?", "कविता का कौन सा शब्द ‘blame’ से तुक मिलाता है?", "Kavita ka kaun sa shabd ‘blame’ se tuk milaata hai?", ["flame", "wood", "smoke"], "flame"]},
+        {"book": true, "q": ["Which word from the poem rhymes with ‘letter’?", "कविता का कौन सा शब्द ‘letter’ से तुक मिलाता है?", "Kavita ka kaun sa shabd ‘letter’ se tuk milaata hai?", ["better", "leaves", "high"], "better"]},
+        {"book": true, "q": ["Which word from the poem rhymes with ‘cuts’?", "कविता का कौन सा शब्द ‘cuts’ से तुक मिलाता है?", "Kavita ka kaun sa shabd ‘cuts’ se tuk milaata hai?", ["nuts", "twigs", "hills"], "nuts"]},
+        {"book": true, "q": ["Which word from the poem rhymes with ‘file’?", "कविता का कौन सा शब्द ‘file’ से तुक मिलाता है?", "Kavita ka kaun sa shabd ‘file’ se tuk milaata hai?", ["pile", "fine", "wood"], "pile"]},
+        {"book": true, "q": ["Which word from the poem rhymes with ‘turn’?", "कविता का कौन सा शब्द ‘turn’ से तुक मिलाता है?", "Kavita ka kaun sa shabd ‘turn’ se tuk milaata hai?", ["burn", "send", "leap"], "burn"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["किताब के पेज 80-81 पर कविता ‘Lohri’ पढ़ो। फिर जवाब दो।", "Kitaab ke page 80-81 par kavita ‘Lohri’ padho. Phir jawab do.", "Read the poem ‘Lohri’ on pages 80–81 of your book. Then answer."]},
+        {"book": true, "q": ["What is the poem about?", "यह कविता किसके बारे में है?", "Yeh kavita kiske baare mein hai?", ["the festival of Lohri and a better way to celebrate it", "a trip to the South", "a cold winter night"], "the festival of Lohri and a better way to celebrate it", "The poem is about the festival of Lohri. It also tells us a better way to celebrate it without harming the environment.", "यह कविता लोहड़ी के त्योहार के बारे में है। यह पर्यावरण को नुक़सान पहुँचाए बिना इसे मनाने का बेहतर तरीका भी बताती है।", "Yeh kavita Lohri ke tyohaar ke baare mein hai. Yeh paryaavaran ko nuksaan pahunchaaye bina ise manaane ka behtar tareeka bhi bataati hai."]},
+        {"book": true, "q": ["How are the days in the South during January?", "जनवरी में दक्षिण में दिन कैसे होते हैं?", "January mein dakshin mein din kaise hote hain?", ["fine", "very cold", "rainy"], "fine", "The days in the South are fine during January.", "जनवरी में दक्षिण में दिन अच्छे होते हैं।", "January mein dakshin mein din achhe hote hain."]},
+        {"book": true, "q": ["Why do people collect twigs and leaves?", "लोग टहनियाँ और पत्ते क्यों इकट्ठा करते हैं?", "Log tahniyaan aur patte kyon ikattha karte hain?", ["to make a big bonfire for Lohri", "to make a nest", "to feed their cows"], "to make a big bonfire for Lohri", "People collect twigs, leaves and wood to make a big pile for the Lohri bonfire.", "लोग लोहड़ी के अलाव के लिए टहनियाँ, पत्ते और लकड़ी इकट्ठा करते हैं।", "Log Lohri ke alaav ke liye tahniyaan, patte aur lakdi ikattha karte hain."]},
+        {"book": true, "q": ["What goes from hand to hand?", "हाथ से हाथ क्या जाता है?", "Haath se haath kya jaata hai?", ["nuts and sweetmeats", "twigs and leaves", "money"], "nuts and sweetmeats", "Nuts and sweetmeats pass from hand to hand.", "मेवे और मिठाइयाँ हाथ से हाथ जाती हैं।", "Meve aur mithaaiyaan haath se haath jaati hain."]},
+        {"book": true, "q": ["What, according to the poet, is not good for the environment?", "कवि के अनुसार पर्यावरण के लिए क्या अच्छा नहीं है?", "Kavi ke anusaar paryaavaran ke liye kya achha nahi hai?", ["Bonfires burn a lot of wood and the smoke pollutes the air.", "Eating sweets.", "Singing songs."], "Bonfires burn a lot of wood and the smoke pollutes the air.", "According to the poet, bonfires are not good for the environment. They burn a lot of wood and the smoke pollutes the air.", "कवि के अनुसार अलाव पर्यावरण के लिए अच्छे नहीं। इनमें बहुत लकड़ी जलती है और धुएँ से हवा गंदी होती है।", "Kavi ke anusaar alaav paryaavaran ke liye achhe nahi. Inmein bahut lakdi jalti hai aur dhuein se hawa gandi hoti hai."]},
+        {"book": true, "q": ["How can Lohri be celebrated in a better way?", "लोहड़ी को बेहतर तरीके से कैसे मनाया जा सकता है?", "Lohri ko behtar tareeke se kaise manaaya ja sakta hai?", ["by burning our hatred instead of wood", "by burning more wood", "by not meeting anyone"], "by burning our hatred instead of wood", "Lohri can be celebrated in a better way by burning our hatred instead of wood.", "लकड़ी की जगह अपनी नफ़रत जलाकर लोहड़ी बेहतर तरीके से मनाई जा सकती है।", "Lakdi ki jagah apni nafrat jalaakar Lohri behtar tareeke se manaayi ja sakti hai."]},
+        {"card": ["अब किताब का दूसरा भाग: कविता की लाइन के लिए सही शब्द चुनो।", "Ab kitaab ka doosra bhaag: kavita ki line ke liye sahi shabd chuno.", "Now part B: pick the right word for each line of the poem."]},
+        {"book": true, "q": ["Down in the North / South.", "सही शब्द चुनो", "Sahi shabd chuno", ["South", "North"], "South"]},
+        {"book": true, "q": ["Soon we have a great small / big pile.", "सही शब्द चुनो", "Sahi shabd chuno", ["big", "small"], "big"]},
+        {"book": true, "q": ["The flame will leap up / down high.", "सही शब्द चुनो", "Sahi shabd chuno", ["up", "down"], "up"]},
+        {"book": true, "q": ["Bonfires consume a lot of / a little wood.", "सही शब्द चुनो", "Sahi shabd chuno", ["a lot of", "a little"], "a lot of"]},
+        {"book": true, "q": ["Yet there must be a good / better way.", "सही शब्द चुनो", "Sahi shabd chuno", ["better", "good"], "better"]},
+        {"card": ["अब छूटी हुई लाइनें (किताब का भाग C)।", "Ab chhooti hui lines (kitaab ka bhaag C).", "Now the missing lines (part C)."]},
+        {"book": true, "q": ["Down in the South, ... (next line)", "अगली लाइन?", "Agli line?", ["The days are fine,", "January's Lohri time.", "Leap right into the sky."], "The days are fine,"]},
+        {"book": true, "q": ["Bonfires consume a lot of wood, ... (next line)", "अगली लाइन?", "Agli line?", ["For the environment this is not so good.", "Nuts and sweetmeats make the ornaments,", "And wood of any sort,"], "For the environment this is not so good."]},
+        {"book": true, "q": ["Let's burn our hatred instead of wood ... (next line)", "अगली लाइन?", "Agli line?", ["And send it up in flames for good.", "The days are fine,", "To celebrate winter's passing."], "And send it up in flames for good."]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["किताब: उलझे अक्षरों से सही शब्द बनाओ। उदाहरण: semunoc = consume।", "Kitaab: uljhe aksharon se sahi shabd banao. Udaharan: semunoc = consume.", "The book: rearrange the jumbled letters. Example: semunoc = consume."]},
+        {"book": true, "q": ["sillh = ?", "उलझे अक्षर: sillh", "Uljhe akshar: sillh", ["hills", "shell", "hails"], "hills"]},
+        {"book": true, "q": ["amfle = ?", "उलझे अक्षर: amfle", "Uljhe akshar: amfle", ["flame", "female", "fame"], "flame"]},
+        {"book": true, "q": ["wsigt = ?", "उलझे अक्षर: wsigt", "Uljhe akshar: wsigt", ["twigs", "wigs", "gifts"], "twigs"]},
+        {"book": true, "q": ["sntu = ?", "उलझे अक्षर: sntu", "Uljhe akshar: sntu", ["nuts", "stun", "tuns"], "nuts"]},
+        {"book": true, "q": ["lipe = ?", "उलझे अक्षर: lipe", "Uljhe akshar: lipe", ["pile", "lip", "pale"], "pile"]},
+        {"book": true, "q": ["yelolw = ?", "उलझे अक्षर: yelolw", "Uljhe akshar: yelolw", ["yellow", "lowly", "willow"], "yellow"]},
+        {"book": true, "q": ["dowo = ?", "उलझे अक्षर: dowo", "Uljhe akshar: dowo", ["wood", "word", "door"], "wood"]},
+        {"book": true, "q": ["lkof = ?", "उलझे अक्षर: lkof", "Uljhe akshar: lkof", ["folk", "flock", "fork"], "folk"]},
+        {"card": ["अब किताब का भाग B: हर वाक्य में दो खाली जगह हैं; एक में शब्द, दूसरी में उसका उल्टा।", "Ab kitaab ka bhaag B: har vaakya mein do khaali jagah hain; ek mein shabd, doosri mein uska ulta.", "Now part B: each sentence has two gaps, one for a word and one for its opposite."]},
+        {"book": true, "q": ["Sohan always does the ___ thing first and leaves the ___ one. (difficult / easy)", "सही क्रम चुनो", "Sahi kram chuno", ["easy ... difficult", "difficult ... easy"], "easy ... difficult", "Sohan always does the easy thing first and leaves the difficult one.", "सोहन हमेशा आसान काम पहले करता है और मुश्किल वाला छोड़ देता है।", "Sohan hamesha aasaan kaam pehle karta hai aur mushkil waala chhod deta hai."]},
+        {"book": true, "q": ["Owls ___ in the day and ___ in the night. (sleep / wake up)", "सही क्रम चुनो", "Sahi kram chuno", ["sleep ... wake up", "wake up ... sleep"], "sleep ... wake up", "Owls sleep in the day and wake up in the night.", "उल्लू दिन में सोते हैं और रात में जागते हैं।", "Ulloo din mein sote hain aur raat mein jaagte hain."]},
+        {"book": true, "q": ["Chandra is ___ and smart whereas her friend Chandini is ___ and lazy. (wise / foolish)", "सही क्रम चुनो", "Sahi kram chuno", ["wise ... foolish", "foolish ... wise"], "wise ... foolish", "Chandra is wise and smart whereas her friend Chandini is foolish and lazy.", "चंद्रा समझदार और होशियार है जबकि उसकी दोस्त चाँदनी मूर्ख और आलसी है।", "Chandra samajhdaar aur hoshiyaar hai jabki uski dost Chaandni moorkh aur aalsi hai."]},
+        {"book": true, "q": ["It is very ___ in the park but it is ___ here. (noisy / quiet)", "सही क्रम चुनो", "Sahi kram chuno", ["noisy ... quiet", "quiet ... noisy"], "noisy ... quiet", "It is very noisy in the park but it is quiet here.", "पार्क में बहुत शोर है पर यहाँ शांति है।", "Park mein bahut shor hai par yahan shaanti hai."]},
+        {"book": true, "q": ["Silk is ___ but handmade cloth is ___. (smooth / rough)", "सही क्रम चुनो", "Sahi kram chuno", ["smooth ... rough", "rough ... smooth"], "smooth ... rough", "Silk is smooth but handmade cloth is rough.", "रेशम चिकना होता है पर हाथ का बना कपड़ा खुरदरा होता है।", "Resham chikna hota hai par haath ka bana kapda khurdara hota hai."]},
+        {"card": ["‘g’ दो तरह से बोला जाता है: gap में ‘ग’ जैसा, और gem में ‘ज’ जैसा। अक्सर g के बाद e, i, y हो तो ‘ज’ (gem, giant), नहीं तो ‘ग’ (gap, grow)। पर give और get अपवाद हैं!", "‘g’ do tarah se bola jaata hai: gap mein ‘ga’ jaisa, aur gem mein ‘ja’ jaisa. Aksar g ke baad e, i, y ho to ‘ja’ (gem, giant), nahi to ‘ga’ (gap, grow). Par give aur get apvaad hain!", "‘g’ has two sounds: like ‘g’ in gap and like ‘j’ in gem. Usually g before e, i or y sounds like j (gem, giant); otherwise like g (gap, grow). But give and get are exceptions!"]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर शब्द को उसकी g की आवाज़ के हिसाब से रखो", "Har shabd ko uski g ki awaaz ke hisaab se rakho", "Sort the words by their g sound"],
+          "groups": [
+            {"id": "gem", "name": "g as in gem (j sound)", "emoji": "💎", "meaning": ["‘ज’ की आवाज़", "‘ja’ ki awaaz"]},
+            {"id": "gap", "name": "g as in gap", "emoji": "🕳️", "meaning": ["‘ग’ की आवाज़", "‘ga’ ki awaaz"]}
+          ],
+          "items": [
+            {"text": "give", "emoji": "🎁", "groups": ["gap"]},
+            {"text": "ginger", "emoji": "🍵", "groups": ["gem"]},
+            {"text": "grow", "emoji": "🌱", "groups": ["gap"]},
+            {"text": "get", "emoji": "🤲", "groups": ["gap"]},
+            {"text": "geometry", "emoji": "📐", "groups": ["gem"]},
+            {"text": "grass", "emoji": "🌿", "groups": ["gap"]},
+            {"text": "guest", "emoji": "🧳", "groups": ["gap"]},
+            {"text": "giant", "emoji": "🗿", "groups": ["gem"]},
+            {"text": "geography", "emoji": "🗺️", "groups": ["gem"]},
+            {"text": "judge", "emoji": "⚖️", "groups": ["gem"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: prepositions और indirect speech", "Grammar: prepositions aur indirect speech", "Grammar in Use: prepositions and indirect speech"], "book": true,
+      "skills": ["book.grammar", "grammar.where_prepositions"],
+      "steps": [
+        {"card": ["between = दो के बीच में; among = कई के बीच में; into = अंदर की ओर; across = आर-पार; up = ऊपर।", "between = do ke beech mein; among = kai ke beech mein; into = andar ki or; across = aar-paar; up = upar.", "between = in the middle of two; among = in the middle of many; into = going inside; across = from one side to the other; up = higher."]},
+        {"book": true, "fb": ["Letter Q comes ___ letters P and R of the English alphabet.", "between", ["between", "among", "across"], "अंग्रेज़ी वर्णमाला में Q, P और R के बीच आता है।", "Angrezi varnamaala mein Q, P aur R ke beech aata hai."]},
+        {"book": true, "fb": ["Smoke goes ___ in the sky.", "up", ["up", "into", "between"], "धुआँ आसमान में ऊपर जाता है।", "Dhuaan aasmaan mein upar jaata hai."]},
+        {"book": true, "fb": ["Don't throw waste paper anywhere. Put it ___ a dustbin.", "into", ["into", "among", "up"], "रद्दी कागज़ इधर-उधर मत फेंको। उसे कूड़ेदान में डालो।", "Raddi kaagaz idhar-udhar mat phenko. Use koodedaan mein daalo."]},
+        {"book": true, "fb": ["The cat ran ___ the room quickly.", "across", ["across", "between", "up"], "बिल्ली तेज़ी से कमरे के आर-पार दौड़ी।", "Billi tezi se kamre ke aar-paar daudi."]},
+        {"book": true, "fb": ["She works ___ the poor.", "among", ["among", "between", "into"], "वह ग़रीबों के बीच काम करती है।", "Woh gareebon ke beech kaam karti hai."]},
+        {"card": ["अब बातचीत को indirect speech में बदलो। किताब का उदाहरण: Rani: Seema, where did you go last Sunday? → Rani asked Seema where she had gone last Sunday। (did go → had gone, yesterday → the day before, today → that day, will → would)", "Ab baatcheet ko indirect speech mein badlo. Kitaab ka udaharan: Rani: Seema, where did you go last Sunday? → Rani asked Seema where she had gone last Sunday. (did go → had gone, yesterday → the day before, today → that day, will → would)", "Now change the conversation into indirect speech. The book's example: Rani: Seema, where did you go last Sunday? → Rani asked Seema where she had gone last Sunday. (did go → had gone, yesterday → the day before, today → that day, will → would)"]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "build": ["बदलो: Bala: Vinita, where did you go yesterday?", "Badlo: Bala: Vinita, where did you go yesterday?", "Change: Bala: Vinita, where did you go yesterday?", "Bala asked Vinita where she had gone the day before.", "बाला ने विनीता से पूछा कि वह एक दिन पहले कहाँ गई थी।", "Bala ne Vinita se poochha ki woh ek din pehle kahan gayi thi.", ["yesterday", "did"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "build": ["बदलो: Vinita: I went to the market yesterday.", "Badlo: Vinita: I went to the market yesterday.", "Change: Vinita: I went to the market yesterday.", "Vinita said that she had gone to the market the day before.", "विनीता ने कहा कि वह एक दिन पहले बाज़ार गई थी।", "Vinita ne kaha ki woh ek din pehle baazaar gayi thi.", ["I", "went"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "build": ["बदलो: Bala: What did you buy there?", "Badlo: Bala: What did you buy there?", "Change: Bala: What did you buy there?", "Bala asked what she had bought there.", "बाला ने पूछा कि उसने वहाँ क्या ख़रीदा था।", "Bala ne poochha ki usne wahan kya khareeda tha.", ["did", "buy"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "build": ["बदलो: Vinita: I bought some vegetables and fruits.", "Badlo: Vinita: I bought some vegetables and fruits.", "Change: Vinita: I bought some vegetables and fruits.", "Vinita said that she had bought some vegetables and fruits.", "विनीता ने कहा कि उसने कुछ सब्ज़ियाँ और फल ख़रीदे थे।", "Vinita ne kaha ki usne kuch sabziyaan aur phal khareede the.", ["I"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "build": ["बदलो: Bala: Will you come with me today?", "Badlo: Bala: Will you come with me today?", "Change: Bala: Will you come with me today?", "Bala asked if she would come with him that day.", "बाला ने पूछा कि क्या वह उस दिन उसके साथ चलेगी।", "Bala ne poochha ki kya woh us din uske saath chalegi.", ["will", "today"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "build": ["बदलो: Vinita: Yes, I will.", "Badlo: Vinita: Yes, I will.", "Change: Vinita: Yes, I will.", "Vinita said that she would.", "विनीता ने कहा कि वह चलेगी।", "Vinita ne kaha ki woh chalegi.", ["will"]]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: त्योहार", "Chalo baat karein: tyohaar", "Let's Talk: festivals"], "book": true,
+      "skills": ["book.talk", "vocab.meaning"],
+      "steps": [
+        {"card": ["किताब कहती है: दिवाली, ईद और क्रिसमस के बारे में जानकारी इकट्ठा करके तालिका भरो: कब, कैसे और क्यों मनाते हैं।", "Kitaab kehti hai: Diwali, Id aur Christmas ke baare mein jaankari ikattha karke taalika bharo: kab, kaise aur kyon manaate hain.", "The book says: collect information about Diwali, Id and Christmas and fill the chart: when, how and why they are celebrated."]},
+        {"book": true, "pairs": ["हर त्योहार को यह बताओ कि वह क्यों मनाते हैं", "Har tyohaar ko yeh batao ki woh kyon manaate hain", "Match each festival with why it is celebrated", [
+          ["Diwali", "Lord Rama came back to Ayodhya", "भगवान राम अयोध्या लौटे", "Bhagwaan Ram Ayodhya laute"],
+          ["Id", "the end of the month of fasting (Ramzan)", "रमज़ान के रोज़ों का अंत", "Ramzan ke rozon ka ant"],
+          ["Christmas", "the birthday of Jesus Christ", "ईसा मसीह का जन्मदिन", "Isa Maseeh ka janmdin"],
+          ["Lohri", "the end of winter and the new harvest", "सर्दी का अंत और नई फ़सल", "sardi ka ant aur nayi fasal"]]]},
+        {"book": true, "pairs": ["हर त्योहार को यह बताओ कि वह कब आता है", "Har tyohaar ko yeh batao ki woh kab aata hai", "Match each festival with when it comes", [
+          ["Christmas", "on 25th December", "25 दिसंबर को", "25 December ko"],
+          ["Lohri", "in January", "जनवरी में", "January mein"],
+          ["Diwali", "in October or November", "अक्टूबर या नवंबर में", "October ya November mein"],
+          ["Holi", "in March", "मार्च में", "March mein"]]]},
+        {"says": ["We celebrate Diwali by lighting lamps.", "हम दीये जलाकर दिवाली मनाते हैं।", "Hum diye jalaakar Diwali manaate hain."], "skills": ["speak.sentence", "book.talk"]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: होली", "Chalo likhein: Holi", "Let's Write: Holi"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब कहती है: होली पर एक पैराग्राफ़ लिखो। चलो वाक्य बनाते हैं।", "Kitaab kehti hai: Holi par ek paragraph likho. Chalo vaakya banaate hain.", "The book says: write a paragraph on Holi. Let's build the sentences."]},
+        {"book": true, "build": ["होली रंगों का त्योहार है।", "Holi rangon ka tyohaar hai.", "Say what kind of festival Holi is.", "Holi is the festival of colours.", "होली रंगों का त्योहार है।", "Holi rangon ka tyohaar hai."]},
+        {"book": true, "build": ["यह मार्च में आता है।", "Yeh March mein aata hai.", "Say when it comes.", "It comes in the month of March.", "यह मार्च के महीने में आता है।", "Yeh March ke mahine mein aata hai."]},
+        {"book": true, "build": ["लोग एक-दूसरे पर रंग डालते हैं।", "Log ek-doosre par rang daalte hain.", "Say what people do with colours.", "People put colours on one another.", "लोग एक-दूसरे पर रंग डालते हैं।", "Log ek-doosre par rang daalte hain."]},
+        {"book": true, "build": ["हम गुझिया और मिठाइयाँ खाते हैं।", "Hum gujhiya aur mithaaiyaan khaate hain.", "Say what you eat on Holi.", "We eat gujiyas and sweets.", "हम गुझिया और मिठाइयाँ खाते हैं।", "Hum gujhiya aur mithaaiyaan khaate hain."]},
+        {"card": ["पूरा पैराग्राफ़: Holi is the festival of colours. It comes in the month of March. The night before Holi, people burn Holika. On Holi, people put colours on one another and say ‘Happy Holi’. We eat gujiyas and sweets. We should play with safe, natural colours and save water.", "Poora paragraph: Holi is the festival of colours. It comes in the month of March. The night before Holi, people burn Holika. On Holi, people put colours on one another and say ‘Happy Holi’. We eat gujiyas and sweets. We should play with safe, natural colours and save water.", "The whole paragraph: Holi is the festival of colours. It comes in the month of March. The night before Holi, people burn Holika. On Holi, people put colours on one another and say ‘Happy Holi’. We eat gujiyas and sweets. We should play with safe, natural colours and save water."]}
+      ]
+    },
+    {
+      "emoji": "🎊", "title": ["चलो करके देखें: त्योहार पहचानो", "Chalo karke dekhein: tyohaar pehchaano", "Let's Do It: name the festival"], "book": true,
+      "skills": ["book.activity"],
+      "steps": [
+        {"card": ["किताब कहती है: त्योहारों की तस्वीरें इकट्ठा करके कॉपी में चिपकाओ। पहले यहाँ तस्वीर से त्योहार पहचानो।", "Kitaab kehti hai: tyohaaron ki tasveerein ikattha karke copy mein chipkaao. Pehle yahan tasveer se tyohaar pehchaano.", "The book says: collect festival pictures and paste them in your notebook. First, name the festival from the picture here."]},
+        {"book": true, "q": ["Which festival is this? 🪔", "यह कौन सा त्योहार है?", "Yeh kaun sa tyohaar hai?", ["Diwali", "Christmas", "Holi"], "Diwali"]},
+        {"book": true, "q": ["Which festival is this? 🎄", "यह कौन सा त्योहार है?", "Yeh kaun sa tyohaar hai?", ["Christmas", "Id", "Lohri"], "Christmas"]},
+        {"book": true, "q": ["Which festival is this? 🌙", "यह कौन सा त्योहार है?", "Yeh kaun sa tyohaar hai?", ["Id", "Diwali", "Holi"], "Id"]},
+        {"book": true, "q": ["Which festival is this? 🪁", "यह कौन सा त्योहार है?", "Yeh kaun sa tyohaar hai?", ["Makar Sankranti", "Christmas", "Id"], "Makar Sankranti"]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: पर्यावरण बचाकर त्योहार", "Aur seekho: paryaavaran bachaakar tyohaar", "Learn more: green festivals"], "book": false,
+      "skills": ["vocab.nature"],
+      "steps": [
+        {"pairs": ["पर्यावरण के शब्द जोड़ो", "Paryaavaran ke shabd jodo", "Join the environment words to their meanings", [
+          ["pollution", "making air, water or land dirty", "प्रदूषण", "pradooshan"],
+          ["environment", "the air, water, land and life around us", "पर्यावरण", "paryaavaran"],
+          ["eco-friendly", "not harmful to nature", "प्रकृति के लिए सुरक्षित", "prakriti ke liye surakshit"],
+          ["harvest", "the time of cutting crops", "फ़सल कटाई", "fasal kataai"]]]},
+        {"q": ["Which is an eco-friendly way to celebrate Diwali?", "दिवाली मनाने का प्रकृति के लिए सुरक्षित तरीका कौन सा है?", "Diwali manaane ka prakriti ke liye surakshit tareeka kaun sa hai?", ["lighting clay lamps instead of loud crackers", "burning old tyres", "bursting many crackers at night"], "lighting clay lamps instead of loud crackers"]},
+        {"q": ["Which is better for the environment on Holi?", "होली पर पर्यावरण के लिए क्या बेहतर है?", "Holi par paryaavaran ke liye kya behtar hai?", ["natural colours and less water", "chemical colours", "wasting lots of water"], "natural colours and less water"]},
+        {"fb": ["Smoke from bonfires makes the air ___.", "polluted", ["polluted", "fresh", "clean"], "अलाव का धुआँ हवा को गंदा करता है।", "Alaav ka dhuaan hawa ko ganda karta hai."]},
+        {"fb": ["Let's burn our ___ instead of wood.", "hatred", ["hatred", "books", "sweets"], "आओ लकड़ी की जगह अपनी नफ़रत जलाएँ।", "Aao lakdi ki jagah apni nafrat jalaayein."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 11 का टेस्ट", "Paath 11 ka test", "Lesson 11 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What goes from hand to hand?", "हाथ से हाथ क्या जाता है?", "Haath se haath kya jaata hai?", ["nuts and sweetmeats", "twigs and leaves", "money"], "nuts and sweetmeats"]},
+        {"book": true, "q": ["How can Lohri be celebrated in a better way?", "लोहड़ी बेहतर तरीके से कैसे मनाएँ?", "Lohri behtar tareeke se kaise manaayein?", ["by burning our hatred instead of wood", "by burning more wood", "by not meeting anyone"], "by burning our hatred instead of wood"]},
+        {"book": true, "q": ["Bonfires consume a lot of / a little wood.", "सही शब्द चुनो", "Sahi shabd chuno", ["a lot of", "a little"], "a lot of"]},
+        {"book": true, "skills": ["book.words"], "q": ["amfle = ?", "उलझे अक्षर", "Uljhe akshar", ["flame", "female", "fame"], "flame"]},
+        {"book": true, "skills": ["book.words"], "q": ["Owls ___ in the day and ___ in the night.", "सही क्रम", "Sahi kram", ["sleep ... wake up", "wake up ... sleep"], "sleep ... wake up"]},
+        {"book": true, "skills": ["book.words"], "q": ["In which word does g sound like j?", "किस शब्द में g ‘ज’ जैसा है?", "Kis shabd mein g ‘ja’ jaisa hai?", ["giant", "grass", "give"], "giant"]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["Letter Q comes ___ letters P and R.", "between", ["between", "among", "across"], "Q, P और R के बीच आता है।", "Q, P aur R ke beech aata hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["She works ___ the poor.", "among", ["among", "between", "into"], "वह ग़रीबों के बीच काम करती है।", "Woh gareebon ke beech kaam karti hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "q": ["Vinita: I went to the market yesterday. In indirect speech:", "indirect speech में", "Indirect speech mein", ["Vinita said that she had gone to the market the day before.", "Vinita said that I went to the market yesterday.", "Vinita said she goes to the market."], "Vinita said that she had gone to the market the day before."]},
+        {"book": true, "skills": ["book.talk"], "q": ["Christmas is celebrated on ...", "क्रिसमस कब मनाते हैं?", "Christmas kab manaate hain?", ["25th December", "1st January", "15th August"], "25th December"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "grade": 8, "number": 9, "emoji": "🚀", "title": "Kalpana: The Star", "pages": "73–79",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["कल्पना चावला अंतरिक्ष में जाने वाली पहली भारतीय महिला थीं। यह पाठ उनके स्कूल के बच्चों का एक काल्पनिक इंटरव्यू है: उनका बचपन, पढ़ाई, नासा और अंतरिक्ष की यात्राएँ।", "Kalpana Chawla antariksh mein jaane waali pehli Bharatiya mahila thin. Yeh paath unke school ke bachchon ka ek kaalpanik interview hai: unka bachpan, padhaai, NASA aur antariksh ki yaatraayein.", "Kalpana Chawla was the first Indian woman to go into space. This lesson is an imaginary interview by children of her school: her childhood, studies, NASA and her space missions."]},
+        {"book": true, "q": ["Who was the first person to travel into space?", "अंतरिक्ष में जाने वाले पहले इंसान कौन थे?", "Antariksh mein jaane waale pehle insaan kaun the?", ["Yuri Gagarin", "Neil Armstrong", "Rakesh Sharma"], "Yuri Gagarin", "Yuri Gagarin of the Soviet Union was the first person to travel into space, in 1961.", "सोवियत संघ के यूरी गागरिन 1961 में अंतरिक्ष में जाने वाले पहले इंसान थे।", "Soviet Sangh ke Yuri Gagarin 1961 mein antariksh mein jaane waale pehle insaan the."]},
+        {"book": true, "q": ["Who was the first Indian to travel into space?", "अंतरिक्ष में जाने वाले पहले भारतीय कौन थे?", "Antariksh mein jaane waale pehle Bharatiya kaun the?", ["Rakesh Sharma", "Kalpana Chawla", "A. P. J. Abdul Kalam"], "Rakesh Sharma", "Rakesh Sharma was the first Indian to travel into space, in 1984.", "राकेश शर्मा 1984 में अंतरिक्ष में जाने वाले पहले भारतीय थे।", "Rakesh Sharma 1984 mein antariksh mein jaane waale pehle Bharatiya the."]},
+        {"book": true, "q": ["Who was the first Indian woman to go into space?", "अंतरिक्ष में जाने वाली पहली भारतीय महिला?", "Antariksh mein jaane waali pehli Bharatiya mahila?", ["Kalpana Chawla", "Sunita Williams", "Indira Gandhi"], "Kalpana Chawla"]},
+        {"word": ["astronaut", "अंतरिक्ष यात्री", "antariksh yaatri", "a person who travels into space", "Kalpana Chawla was an astronaut.", "कल्पना चावला अंतरिक्ष यात्री थीं।", "Kalpana Chawla antariksh yaatri thin."]},
+        {"word": ["aeronautics", "वैमानिकी", "vaimaaniki", "the science of building and flying aircraft", "She studied aeronautics.", "उन्होंने वैमानिकी पढ़ी।", "Unhone vaimaaniki padhi."]},
+        {"word": ["inspiration", "प्रेरणा", "prerna", "someone or something that makes you want to do well", "She is an inspiration to young girls.", "वे लड़कियों की प्रेरणा हैं।", "Woh ladkiyon ki prerna hain."]},
+        {"word": ["colleagues", "सहकर्मी", "sahkarmi", "people who work with you", "She was liked by her colleagues.", "उनके सहकर्मी उन्हें पसंद करते थे।", "Unke sahkarmi unhe pasand karte the."]},
+        {"word": ["perished", "मारे गए, नष्ट हुए", "maare gaye, nasht hue", "died or was destroyed", "Columbia perished with her crew.", "कोलंबिया अपने दल के साथ नष्ट हो गया।", "Columbia apne dal ke saath nasht ho gaya."]},
+        {"word": ["immortal", "अमर", "amar", "living forever", "She is immortal in our hearts.", "वे हमारे दिलों में अमर हैं।", "Woh hamaare dilon mein amar hain."]},
+        {"sayw": ["astronaut", "अंतरिक्ष यात्री", "antariksh yaatri"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: स्पेलिंग और मिलान", "Shabd Shakti: spelling aur milaan", "Word Power: spellings and matching"], "book": true,
+      "skills": ["book.words", "spell.word"],
+      "steps": [
+        {"card": ["(A) किताब के ये शब्द गलत लिखे हैं। सही स्पेलिंग चुनो।", "(A) Kitaab ke yeh shabd galat likhe hain. Sahi spelling chuno.", "(A) These words in the book are misspelt. Choose the correct spelling."]},
+        {"book": true, "q": ["strickt → ?", "सही स्पेलिंग", "Sahi spelling", ["strict", "strikt", "stricct"], "strict", "strict = कड़ा, सख़्त (firm about rules).", "strict = कड़ा, सख़्त।", "strict = kada, sakht."]},
+        {"book": true, "q": ["mision → ?", "सही स्पेलिंग", "Sahi spelling", ["mission", "misson", "mishion"], "mission", "mission = मिशन, ख़ास काम (an important task or journey).", "mission = ख़ास काम या यात्रा।", "mission = khaas kaam ya yaatra."]},
+        {"book": true, "q": ["intresting → ?", "सही स्पेलिंग", "Sahi spelling", ["interesting", "intresteing", "interisting"], "interesting", "interesting = दिलचस्प.", "interesting = दिलचस्प।", "interesting = dilchasp."]},
+        {"book": true, "q": ["inspier → ?", "सही स्पेलिंग", "Sahi spelling", ["inspire", "inspare", "enspire"], "inspire", "inspire = प्रेरित करना.", "inspire = प्रेरित करना।", "inspire = prerit karna."]},
+        {"book": true, "q": ["entyre → ?", "सही स्पेलिंग", "Sahi spelling", ["entire", "entier", "intire"], "entire", "entire = पूरा (whole).", "entire = पूरा।", "entire = poora."]},
+        {"book": true, "q": ["genral → ?", "सही स्पेलिंग", "Sahi spelling", ["general", "genaral", "jeneral"], "general", "general = आम, सामान्य.", "general = आम, सामान्य।", "general = aam, saamaanya."]},
+        {"book": true, "q": ["interupt → ?", "सही स्पेलिंग", "Sahi spelling", ["interrupt", "interrapt", "enterupt"], "interrupt", "interrupt = बीच में टोकना.", "interrupt = बीच में टोकना।", "interrupt = beech mein tokna."]},
+        {"book": true, "q": ["purfarm → ?", "सही स्पेलिंग", "Sahi spelling", ["perform", "parform", "perfrom"], "perform", "perform = करना, प्रदर्शन करना.", "perform = करना, प्रदर्शन करना।", "perform = karna, pradarshan karna."]},
+        {"book": true, "pairs": ["(B) कॉलम मिलाओ", "(B) Column milaao", "(B) Match the columns", [
+          ["Rakesh Sharma", "astronaut", "राकेश शर्मा — अंतरिक्ष यात्री", "Rakesh Sharma — antariksh yaatri"],
+          ["Dr. A. P. J. Abdul Kalam", "scientist", "डॉ. कलाम — वैज्ञानिक", "Dr. Kalam — vaigyaanik"],
+          ["Sir Isaac Newton", "law of gravitation", "न्यूटन — गुरुत्वाकर्षण का नियम", "Newton — gurutvaakarshan ka niyam"],
+          ["Alexander Graham Bell", "telephone", "ग्राहम बेल — टेलीफ़ोन", "Graham Bell — telephone"]]]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 73-75 पर इंटरव्यू पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 73-75 par interview padho, phir jawab do.", "Read the interview on pages 73–75 of your book, then answer."]},
+        {"book": true, "q": ["When and where was Kalpana Chawla born?", "कल्पना चावला कब और कहाँ पैदा हुईं?", "Kalpana Chawla kab aur kahan paida huin?", ["on 1 July 1961 in Karnal, Haryana", "on 1 February 2003 in Texas", "in 1984 in Delhi"], "on 1 July 1961 in Karnal, Haryana", "Kalpana Chawla was born on 1 July 1961 in Karnal, Haryana.", "कल्पना चावला का जन्म 1 जुलाई 1961 को करनाल, हरियाणा में हुआ।", "Kalpana Chawla ka janm 1 July 1961 ko Karnal, Haryana mein hua."]},
+        {"book": true, "q": ["What were her hobbies?", "उनके शौक़ क्या थे?", "Unke shauk kya the?", ["reading, flying, hiking and bird-watching", "cooking and dancing", "cricket and chess"], "reading, flying, hiking and bird-watching", "Her hobbies were reading, flying, hiking and bird-watching.", "उनके शौक़ थे पढ़ना, उड़ान भरना, पहाड़ों पर पैदल घूमना और पक्षी देखना।", "Unke shauk the padhna, udaan bharna, pahaadon par paidal ghoomna aur pakshi dekhna."]},
+        {"book": true, "q": ["Who inspired her to fly?", "उन्हें उड़ने की प्रेरणा किसने दी?", "Unhe udne ki prerna kisne di?", ["J. R. D. Tata, the pioneering Indian pilot", "Rakesh Sharma", "her teacher"], "J. R. D. Tata, the pioneering Indian pilot", "She was inspired by the pioneering Indian pilot J. R. D. Tata.", "उन्हें भारत के अग्रणी पायलट जे. आर. डी. टाटा से प्रेरणा मिली।", "Unhe Bharat ke agrani pilot J. R. D. Tata se prerna mili."]},
+        {"book": true, "q": ["When did she first fly into space?", "वे पहली बार अंतरिक्ष में कब गईं?", "Woh pehli baar antariksh mein kab gayin?", ["on 19 November 1997", "on 16 January 2003", "in 1988"], "on 19 November 1997", "She first flew into space on 19 November 1997 in the Space Shuttle Columbia (flight STS-87).", "वे पहली बार 19 नवंबर 1997 को स्पेस शटल कोलंबिया (STS-87) में अंतरिक्ष गईं।", "Woh pehli baar 19 November 1997 ko Space Shuttle Columbia (STS-87) mein antariksh gayin."]},
+        {"book": true, "q": ["How many experiments did the crew of Flight STS-107 perform?", "STS-107 के दल ने कितने प्रयोग किए?", "STS-107 ke dal ne kitne prayog kiye?", ["eighty", "eighteen", "eight"], "eighty", "The crew of Flight STS-107 successfully performed eighty experiments in space.", "STS-107 के दल ने अंतरिक्ष में अस्सी प्रयोग सफलता से किए।", "STS-107 ke dal ne antariksh mein assi prayog safalta se kiye."]},
+        {"card": ["(B) अब लंबे जवाब (3-5 वाक्य)।", "(B) Ab lambe jawab (3-5 vaakya).", "(B) Now the longer answers (3–5 sentences)."]},
+        {"book": true, "q": ["What courses did Kalpana Chawla go through to become an astronaut?", "अंतरिक्ष यात्री बनने के लिए उन्होंने कौन से कोर्स किए?", "Antariksh yaatri banne ke liye unhone kaun se course kiye?", ["B.E. in Aeronautical Engineering, then M.S. and Ph.D. in Aerospace Engineering", "only a pilot's licence", "a medical degree"], "B.E. in Aeronautical Engineering, then M.S. and Ph.D. in Aerospace Engineering", "After passing Higher Secondary from Tagore School, Karnal in 1976, she did her Bachelor's in Aeronautical Engineering from Punjab Engineering College, Chandigarh in 1982. She did her Master's in Aerospace Engineering from the University of Texas in 1984 and her Ph.D. from the University of Colorado in 1988.", "1976 में करनाल के टैगोर स्कूल से हायर सेकेंडरी के बाद उन्होंने 1982 में पंजाब इंजीनियरिंग कॉलेज, चंडीगढ़ से एयरोनॉटिकल इंजीनियरिंग की डिग्री ली। 1984 में टेक्सास यूनिवर्सिटी से एयरोस्पेस इंजीनियरिंग में मास्टर्स और 1988 में कोलोराडो यूनिवर्सिटी से पीएच.डी. की।", "1976 mein Karnal ke Tagore School se Higher Secondary ke baad unhone 1982 mein Punjab Engineering College, Chandigarh se Aeronautical Engineering ki degree li. 1984 mein Texas University se Aerospace Engineering mein Master's aur 1988 mein Colorado University se Ph.D. ki."]},
+        {"book": true, "q": ["Describe her first space mission.", "उनके पहले अंतरिक्ष मिशन के बारे में बताओ।", "Unke pehle antariksh mission ke baare mein batao.", ["Columbia flight STS-87 in 1997; she was mission specialist and robotic arm operator.", "She flew alone to the moon.", "She stayed on Mars."], "Columbia flight STS-87 in 1997; she was mission specialist and robotic arm operator.", "Her first space mission was in the Space Shuttle Columbia on 19 November 1997. The flight was called STS-87. She worked with a six-member crew as a mission specialist and prime robotic arm operator. She enjoyed every moment of it.", "उनका पहला मिशन 19 नवंबर 1997 को स्पेस शटल कोलंबिया में था। उड़ान का नाम STS-87 था। उन्होंने छह लोगों के दल के साथ मिशन विशेषज्ञ और रोबोटिक आर्म चलाने वाली के रूप में काम किया। उन्हें हर पल अच्छा लगा।", "Unka pehla mission 19 November 1997 ko Space Shuttle Columbia mein tha. Udaan ka naam STS-87 tha. Unhone chhah logon ke dal ke saath mission specialist aur robotic arm chalaane waali ke roop mein kaam kiya. Unhe har pal achha laga."]},
+        {"book": true, "q": ["Describe her last space mission.", "उनके आख़िरी मिशन के बारे में बताओ।", "Unke aakhiri mission ke baare mein batao.", ["Columbia STS-107 in 2003; 80 experiments, but it broke up 16 minutes before landing.", "It landed safely on the moon.", "It never took off."], "Columbia STS-107 in 2003; 80 experiments, but it broke up 16 minutes before landing.", "Her last mission was Columbia flight STS-107. It took off on 16 January 2003 for science and research. The crew performed eighty experiments. Sadly, 16 minutes before landing the spacecraft developed a snag, and Columbia perished with her crew on 1 February 2003.", "उनका आख़िरी मिशन कोलंबिया STS-107 था, जो 16 जनवरी 2003 को गया। दल ने अस्सी प्रयोग किए। दुख की बात है कि उतरने से 16 मिनट पहले यान में ख़राबी आई और 1 फ़रवरी 2003 को कोलंबिया अपने दल के साथ नष्ट हो गया।", "Unka aakhiri mission Columbia STS-107 tha, jo 16 January 2003 ko gaya. Dal ne assi prayog kiye. Dukh ki baat hai ki utarne se 16 minute pehle yaan mein kharaabi aayi aur 1 February 2003 ko Columbia apne dal ke saath nasht ho gaya."]},
+        {"book": true, "q": ["Which is an honour given to Kalpana Chawla after her death?", "मृत्यु के बाद उन्हें कौन सा सम्मान मिला?", "Mrityu ke baad unhe kaun sa sammaan mila?", ["A hill on Mars is named after her.", "A river was named after her.", "She became Prime Minister."], "A hill on Mars is named after her.", "An asteroid (51826) and a hill on Mars are named after her. India named its weather satellites ‘Kalpana’. The University of Texas named a hall after her, and NASA dedicated a supercomputer to her.", "एक क्षुद्रग्रह (51826) और मंगल की एक पहाड़ी उनके नाम पर है। भारत ने मौसम उपग्रहों का नाम ‘कल्पना’ रखा। टेक्सास यूनिवर्सिटी में एक हॉल और नासा का एक सुपर कंप्यूटर उनके नाम है।", "Ek kshudragrah (51826) aur Mangal ki ek pahaadi unke naam par hai. Bharat ne mausam upgrahon ka naam ‘Kalpana’ rakha. Texas University mein ek hall aur NASA ka ek super computer unke naam hai."]}
+      ]
+    },
+    {
+      "emoji": "🏃", "title": ["सीखो (A): क्रिया-विशेषण", "Seekho (A): kriya-visheshan", "Let's Learn (A): adverbs"], "book": true,
+      "skills": ["book.grammar", "grammar.adverbs"],
+      "steps": [
+        {"card": ["Adverb बताता है काम कैसे, कहाँ या कब हुआ: Santa writes neatly (कैसे), The boys are waiting outside (कहाँ), She left early (कब)।", "Adverb bataata hai kaam kaise, kahan ya kab hua: Santa writes neatly (kaise), The boys are waiting outside (kahan), She left early (kab).", "An adverb tells how, where or when an action happens: writes neatly (how), waiting outside (where), left early (when)."]},
+        {"book": true, "q": ["She behaved foolishly. Which word is the adverb?", "Adverb कौन सा है?", "Adverb kaun sa hai?", ["foolishly", "behaved", "She"], "foolishly"]},
+        {"book": true, "q": ["We looked for her everywhere.", "Adverb कौन सा है?", "Adverb kaun sa hai?", ["everywhere", "looked", "her"], "everywhere"]},
+        {"book": true, "q": ["The children laughed loudly.", "Adverb कौन सा है?", "Adverb kaun sa hai?", ["loudly", "laughed", "children"], "loudly"]},
+        {"book": true, "q": ["The school will open tomorrow.", "Adverb कौन सा है?", "Adverb kaun sa hai?", ["tomorrow", "open", "school"], "tomorrow"]},
+        {"book": true, "q": ["The soldiers fought bravely.", "Adverb कौन सा है?", "Adverb kaun sa hai?", ["bravely", "fought", "soldiers"], "bravely"]},
+        {"book": true, "q": ["She wrote to me yesterday.", "Adverb कौन सा है?", "Adverb kaun sa hai?", ["yesterday", "wrote", "me"], "yesterday"]},
+        {"book": true, "q": ["He lives here.", "Adverb कौन सा है?", "Adverb kaun sa hai?", ["here", "lives", "He"], "here"]},
+        {"book": true, "q": ["The old man walked slowly.", "Adverb कौन सा है?", "Adverb kaun sa hai?", ["slowly", "old", "walked"], "slowly"]},
+        {"book": true, "q": ["She ran fast.", "Adverb कौन सा है?", "Adverb kaun sa hai?", ["fast", "ran", "She"], "fast"]},
+        {"book": true, "q": ["The bus stops there.", "Adverb कौन सा है?", "Adverb kaun sa hai?", ["there", "stops", "bus"], "there"]},
+        {"type": "sort_groups",
+          "instruction": ["Adverb क्या बताता है: कैसे, कहाँ या कब?", "Adverb kya bataata hai: kaise, kahan ya kab?", "Does the adverb tell how, where or when?"],
+          "groups": [
+            {"id": "how", "name": "how", "emoji": "🎨", "meaning": ["कैसे", "kaise"]},
+            {"id": "where", "name": "where", "emoji": "📍", "meaning": ["कहाँ", "kahan"]},
+            {"id": "when", "name": "when", "emoji": "🕒", "meaning": ["कब", "kab"]}
+          ],
+          "items": [
+            {"text": "bravely", "emoji": "🛡️", "groups": ["how"]},
+            {"text": "slowly", "emoji": "🐢", "groups": ["how"]},
+            {"text": "everywhere", "emoji": "🌍", "groups": ["where"]},
+            {"text": "here", "emoji": "👇", "groups": ["where"]},
+            {"text": "tomorrow", "emoji": "📅", "groups": ["when"]},
+            {"text": "yesterday", "emoji": "⏪", "groups": ["when"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "📍", "title": ["सीखो (B): सही preposition", "Seekho (B): sahi preposition", "Let's Learn (B): the right preposition"], "book": true,
+      "skills": ["book.grammar", "grammar.where_prepositions"],
+      "steps": [
+        {"card": ["कुछ शब्दों के साथ हमेशा ख़ास preposition आता है: agree to (प्रस्ताव), popular with, congratulate on, interest in, beware of, taller than, senior to, prefer to।", "Kuchh shabdon ke saath hamesha khaas preposition aata hai: agree to (prastaav), popular with, congratulate on, interest in, beware of, taller than, senior to, prefer to.", "Some words always take a fixed preposition: agree to (a proposal), popular with, congratulate on, interest in, beware of, taller than, senior to, prefer to."]},
+        {"book": true, "fb": ["Do not agree ___ his proposal.", "to", ["to", "with", "about"], "उसके प्रस्ताव से सहमत मत होना।", "Uske prastaav se sahmat mat hona."]},
+        {"book": true, "fb": ["Rohan is popular ___ his classmates.", "with", ["with", "among", "to"], "रोहन अपने सहपाठियों में लोकप्रिय है।", "Rohan apne sahpaathiyon mein lokpriya hai."]},
+        {"book": true, "fb": ["They congratulated the team ___ its success.", "on", ["on", "about", "from"], "उन्होंने टीम को जीत की बधाई दी।", "Unhone team ko jeet ki badhaai di."]},
+        {"book": true, "fb": ["Hari takes interest ___ his studies.", "in", ["in", "about", "over"], "हरि पढ़ाई में रुचि लेता है।", "Hari padhaai mein ruchi leta hai."]},
+        {"book": true, "fb": ["Beware ___ the dog.", "of", ["of", "from", "about"], "कुत्ते से सावधान।", "Kutte se saavdhaan."]},
+        {"book": true, "fb": ["Mr. Das was late for his work ___ an hour.", "by", ["by", "in", "of"], "दास जी काम पर एक घंटा देर से पहुँचे।", "Das ji kaam par ek ghanta der se pahunche."]},
+        {"book": true, "fb": ["Jeetu is taller ___ Aslam.", "than", ["than", "to", "by"], "जीतू असलम से लंबा है।", "Jeetu Aslam se lamba hai."]},
+        {"book": true, "fb": ["He is senior ___ me in service.", "to", ["to", "than", "by"], "वह नौकरी में मुझसे सीनियर है।", "Woh naukri mein mujhse senior hai."]},
+        {"book": true, "fb": ["Good health is necessary ___ success in life.", "for", ["for", "with", "of"], "जीवन में सफलता के लिए अच्छी सेहत ज़रूरी है।", "Jeevan mein safalta ke liye achhi sehat zaroori hai."]},
+        {"book": true, "fb": ["I prefer milk ___ tea.", "to", ["to", "than", "from"], "मुझे चाय से ज़्यादा दूध पसंद है।", "Mujhe chaay se zyaada doodh pasand hai."]}
+      ]
+    },
+    {
+      "emoji": "🎤", "title": ["चलो बात करें: टॉपर का इंटरव्यू", "Chalo baat karein: topper ka interview", "Let's Talk: interview the topper"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब: एक रिपोर्टर ज़िला परीक्षा में पहले आए दीपक का इंटरव्यू लेता है। Tinku रिपोर्टर है, तुम दीपक हो।", "Kitaab: ek reporter zila pariksha mein pehle aaye Deepak ka interview leta hai. Tinku reporter hai, tum Deepak ho.", "The book: a reporter interviews Deepak, who came first in the district exam. Tinku is the reporter; you are Deepak."]},
+        {"book": true, "type": "roleplay", "scene": "🎤", "turns": [
+          {"id": "hi", "tinku": "Congratulations, Deepak! I am from the Daily Times.", "meaning": ["बधाई हो दीपक! मैं डेली टाइम्स से हूँ।", "Badhaai ho Deepak! Main Daily Times se hoon."],
+            "replies": [
+              {"say": "Thank you, Sir. Please have a seat.", "meaning": ["धन्यवाद सर। कृपया बैठिए।", "Dhanyavaad sir. Kripya baithiye."], "patterns": ["thank you *", "thank you", "thanks *"]}
+            ]},
+          {"id": "hours", "tinku": "How many hours did you study every day?", "meaning": ["तुम रोज़ कितने घंटे पढ़ते थे?", "Tum roz kitne ghante padhte the?"],
+            "replies": [
+              {"say": "I studied for five hours every day.", "meaning": ["मैं रोज़ पाँच घंटे पढ़ता था।", "Main roz paanch ghante padhta tha."], "patterns": ["i studied for *", "* hours *", "*"]}
+            ]},
+          {"id": "credit", "tinku": "Who would you like to give the credit to?", "meaning": ["इस सफलता का श्रेय किसे दोगे?", "Is safalta ka shrey kise doge?"],
+            "replies": [
+              {"say": "I give the credit to my parents and teachers.", "meaning": ["मैं श्रेय माता-पिता और शिक्षकों को देता हूँ।", "Main shrey maata-pita aur shikshakon ko deta hoon."], "patterns": ["i give the credit to *", "my parents *", "* teachers *", "* parents *"]}
+            ]},
+          {"id": "future", "tinku": "What do you want to become?", "meaning": ["तुम क्या बनना चाहते हो?", "Tum kya banna chahte ho?"],
+            "replies": [
+              {"say": "I want to become an astronaut.", "meaning": ["मैं अंतरिक्ष यात्री बनना चाहता हूँ।", "Main antariksh yaatri banna chahta hoon."], "patterns": ["i want to become *", "* astronaut", "an *", "a *"], "next": "end"}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "💻", "title": ["चलो पढ़ें: कंप्यूटर", "Chalo padhein: computer", "Let's Read: the computer"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 78 पर कंप्यूटर वाला पैराग्राफ़ पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 78 par computer waala paragraph padho, phir jawab do.", "Read the passage about the computer on page 78 of your book, then answer."]},
+        {"book": true, "q": ["What two things could Charles Babbage's first computer do?", "बैबेज का पहला कंप्यूटर कौन से दो काम कर सकता था?", "Babbage ka pehla computer kaun se do kaam kar sakta tha?", ["carry out long calculations and print the results", "play chess and sing", "think and decide"], "carry out long calculations and print the results"]},
+        {"book": true, "q": ["What is data?", "डेटा क्या है?", "Data kya hai?", ["all the information that is fed into a computer", "a kind of computer", "a computer game"], "all the information that is fed into a computer"]},
+        {"book": true, "q": ["What is a computer programme?", "कंप्यूटर प्रोग्राम क्या है?", "Computer programme kya hai?", ["the information and the instructions together", "only the screen", "the machine itself"], "the information and the instructions together", "The information (data) and the clear instructions about what to do with it make up a computer programme.", "डेटा और उससे क्या करना है, इसके साफ़ निर्देश मिलकर कंप्यूटर प्रोग्राम बनाते हैं।", "Data aur usse kya karna hai, iske saaf nirdesh milkar computer programme banaate hain."]},
+        {"book": true, "q": ["In what way is a computer like a human brain?", "कंप्यूटर इंसानी दिमाग़ जैसा कैसे है?", "Computer insaani dimaag jaisa kaise hai?", ["It has a memory and can store information.", "It can feel happy.", "It can think up new ideas."], "It has a memory and can store information."]},
+        {"book": true, "q": ["In what way is the computer better than the human brain?", "कंप्यूटर दिमाग़ से बेहतर कैसे है?", "Computer dimaag se behtar kaise hai?", ["It solves problems much faster and more accurately.", "It takes decisions.", "It has feelings."], "It solves problems much faster and more accurately."]},
+        {"book": true, "q": ["In what way is the human brain better than the computer?", "इंसानी दिमाग़ कंप्यूटर से बेहतर कैसे है?", "Insaani dimaag computer se behtar kaise hai?", ["It can take decisions and think up new ideas.", "It is faster at sums.", "It never forgets."], "It can take decisions and think up new ideas."]},
+        {"book": true, "pairs": ["(B) शब्दों को उनके मतलब से जोड़ो", "(B) Shabdon ko unke matlab se jodo", "(B) Match the words with their meanings", [
+          ["in a flash", "in very little time", "पल भर में", "pal bhar mein"],
+          ["accurately", "correctly, without any mistake", "बिल्कुल सही", "bilkul sahi"],
+          ["complicated", "long and complex", "उलझा हुआ", "uljha hua"],
+          ["expert", "who can do something really well", "माहिर", "maahir"],
+          ["accurate", "exact", "सटीक", "sateek"]]]}
+      ]
+    },
+    {
+      "emoji": "✉️", "title": ["चलो लिखें: दोस्त को पत्र", "Chalo likhein: dost ko patra", "Let's Write: a letter to a friend"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: तुम अशोक हो (3 अशोक विला, इंदौर)। दोस्त विनीत को लिखो कि तुम कल्पना चावला से प्रेरित होकर अंतरिक्ष यात्री बनना चाहते हो।", "Kitaab: tum Ashok ho (3 Ashok Vilas, Indore). Dost Vinit ko likho ki tum Kalpana Chawla se prerit hokar antariksh yaatri banna chahte ho.", "The book: you are Ashok (3 Ashok Vilas, Indore). Write to your friend Vinit that you are inspired by Kalpana Chawla and want to be an astronaut."]},
+        {"book": true, "build": ["मैं कल्पना चावला से बहुत प्रेरित हूँ।", "Main Kalpana Chawla se bahut prerit hoon.", "Say who has inspired you.", "I am inspired by Kalpana Chawla.", "मैं कल्पना चावला से प्रेरित हूँ।", "Main Kalpana Chawla se prerit hoon."]},
+        {"book": true, "build": ["मैं उनकी तरह अंतरिक्ष यात्री बनना चाहता हूँ।", "Main unki tarah antariksh yaatri banna chahta hoon.", "Say your dream job, like hers.", "I want to be an astronaut like her.", "मैं उनकी तरह अंतरिक्ष यात्री बनना चाहता हूँ।", "Main unki tarah antariksh yaatri banna chahta hoon."]},
+        {"book": true, "build": ["मैं गणित और विज्ञान मेहनत से पढ़ूँगा।", "Main ganit aur vigyaan mehnat se padhoonga.", "Promise to work hard in two subjects.", "I will study Maths and Science hard.", "मैं गणित और विज्ञान मेहनत से पढ़ूँगा।", "Main ganit aur vigyaan mehnat se padhoonga."]},
+        {"book": true, "build": ["फिर मैं किसी अच्छे संस्थान से इंजीनियर बनूँगा।", "Phir main kisi achhe sansthaan se engineer banoonga.", "Tell your next step after school.", "Then I will become an engineer.", "फिर मैं इंजीनियर बनूँगा।", "Phir main engineer banoonga."]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: भारत के अंतरिक्ष यात्री", "Aur seekho: Bharat ke antariksh yaatri", "Learn more: India's space travellers"], "book": false,
+      "skills": ["vocab.meaning", "book.activity"],
+      "steps": [
+        {"card": ["किताब: कल्पना चावला और राकेश शर्मा की तस्वीरें और जानकारी स्क्रैपबुक में चिपकाओ और कक्षा में पढ़ो।", "Kitaab: Kalpana Chawla aur Rakesh Sharma ki tasveerein aur jaankaari scrapbook mein chipkaao aur kaksha mein padho.", "The book: paste pictures and information about Kalpana Chawla and Rakesh Sharma in your scrapbook and read it in class."]},
+        {"q": ["When asked how India looked from space, Rakesh Sharma said ...", "अंतरिक्ष से भारत कैसा दिखता है, पूछने पर राकेश शर्मा ने कहा", "Antariksh se Bharat kaisa dikhta hai, poochhne par Rakesh Sharma ne kaha", ["‘Saare Jahan Se Achha’", "‘Jai Hind’", "‘Very small’"], "‘Saare Jahan Se Achha’"]},
+        {"q": ["What does NASA stand for?", "NASA का पूरा नाम?", "NASA ka poora naam?", ["National Aeronautics and Space Administration", "National Air and Sea Agency", "New Astronaut School of America"], "National Aeronautics and Space Administration"]},
+        {"q": ["What is India's space agency called?", "भारत की अंतरिक्ष एजेंसी का नाम?", "Bharat ki antariksh agency ka naam?", ["ISRO", "NASA", "DRDO"], "ISRO"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 9 का टेस्ट", "Paath 9 ka test", "Lesson 9 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["When and where was Kalpana Chawla born?", "कब और कहाँ जन्म?", "Kab aur kahan janm?", ["on 1 July 1961 in Karnal, Haryana", "on 1 February 2003 in Texas", "in 1984 in Delhi"], "on 1 July 1961 in Karnal, Haryana"]},
+        {"book": true, "q": ["Who inspired her to fly?", "किसने प्रेरणा दी?", "Kisne prerna di?", ["J. R. D. Tata, the pioneering Indian pilot", "Rakesh Sharma", "her teacher"], "J. R. D. Tata, the pioneering Indian pilot"]},
+        {"book": true, "q": ["How many experiments did the STS-107 crew perform?", "कितने प्रयोग?", "Kitne prayog?", ["eighty", "eighteen", "eight"], "eighty"]},
+        {"book": true, "skills": ["book.words"], "q": ["interupt → ?", "सही स्पेलिंग", "Sahi spelling", ["interrupt", "interrapt", "enterupt"], "interrupt"]},
+        {"book": true, "skills": ["book.words"], "q": ["Alexander Graham Bell is known for the ...", "ग्राहम बेल", "Graham Bell", ["telephone", "law of gravitation", "space flight"], "telephone"]},
+        {"book": true, "skills": ["book.grammar", "grammar.adverbs"], "q": ["The soldiers fought bravely. Adverb?", "क्रिया-विशेषण (Adverb) कौन सा है?", "Kriya-visheshan (Adverb) kaun sa hai?", ["bravely", "fought", "soldiers"], "bravely"]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["Beware ___ the dog.", "of", ["of", "from", "about"], "कुत्ते से सावधान।", "Kutte se saavdhaan."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["I prefer milk ___ tea.", "to", ["to", "than", "from"], "मुझे चाय से ज़्यादा दूध पसंद है।", "Mujhe chaay se zyaada doodh pasand hai."]},
+        {"book": true, "q": ["What is data?", "डेटा क्या है?", "Data kya hai?", ["all the information that is fed into a computer", "a kind of computer", "a computer game"], "all the information that is fed into a computer"]},
+        {"book": true, "q": ["‘in a flash’ means ...", "मतलब", "Matlab", ["in very little time", "with a camera", "very brightly"], "in very little time"]}
+      ]
+    }
+  ]
+}

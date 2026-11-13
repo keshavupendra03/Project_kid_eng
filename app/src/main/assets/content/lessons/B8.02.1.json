@@ -1,0 +1,219 @@
+{
+  "id": "B8.02.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.1.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "यह दो भाई-बहनों, देव और सुविज्ञा, की बातचीत है। देव हाल ही में मध्य प्रदेश के कान्हा किसली नेशनल पार्क गया था और वहाँ के बाघों, हिरणों और पक्षियों के बारे में बताता है।",
+        "hinglish": "Yeh do cousins, Dev aur Suvigya, ki baatcheet hai. Dev haal hi mein Madhya Pradesh ke Kanha Kisli National Park gaya tha aur wahan ke baaghon, hirnon aur pakshiyon ke baare mein bataata hai.",
+        "en": "This is a talk between two cousins, Dev and Suvigya. Dev recently visited Kanha Kisli National Park in Madhya Pradesh and tells about its tigers, deer and birds."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Have you ever been to a National Park?",
+      "questionMeaning": {
+        "hi": "क्या तुम कभी नेशनल पार्क गए हो?",
+        "hinglish": "Kya tum kabhi National Park gaye ho?"
+      },
+      "options": [
+        "Yes, I have been to a National Park.",
+        "No, I have not been to a National Park."
+      ],
+      "answer": "Yes, I have been to a National Park.",
+      "modelAnswer": "Answer about yourself: Yes, I have been to Kanha National Park. / No, I have not been to a National Park yet.",
+      "modelMeaning": {
+        "hi": "अपने बारे में बताओ: हाँ, मैं कान्हा गया हूँ। / नहीं, अभी तक नहीं गया।",
+        "hinglish": "Apne baare mein batao: Haan, main Kanha gaya hoon. / Nahi, abhi tak nahi gaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.02.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "situated",
+        "emoji": "",
+        "hindi": "स्थित",
+        "hinglish": "sthit"
+      },
+      "meaning": "found in a place",
+      "example": "Kanha is situated in Mandla district.",
+      "exampleMeaning": {
+        "hi": "कान्हा मंडला ज़िले में स्थित है।",
+        "hinglish": "Kanha Mandla zile mein sthit hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.02.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "existence",
+        "emoji": "",
+        "hindi": "अस्तित्व",
+        "hinglish": "astitva"
+      },
+      "meaning": "being there, being real",
+      "example": "The park came into existence in 1955.",
+      "exampleMeaning": {
+        "hi": "पार्क 1955 में बना।",
+        "hinglish": "Park 1955 mein bana."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.02.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "flora and fauna",
+        "emoji": "",
+        "hindi": "पेड़-पौधे और जीव-जंतु",
+        "hinglish": "ped-paudhe aur jeev-jantu"
+      },
+      "meaning": "plants and animals of a place",
+      "example": "Kanha is famous for its flora and fauna.",
+      "exampleMeaning": {
+        "hi": "कान्हा अपने पेड़-पौधों और जीव-जंतुओं के लिए मशहूर है।",
+        "hinglish": "Kanha apne ped-paudhon aur jeev-jantuon ke liye mashhoor hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.02.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "glimpse",
+        "emoji": "",
+        "hindi": "झलक",
+        "hinglish": "jhalak"
+      },
+      "meaning": "a quick look",
+      "example": "I had a glimpse of the tiger.",
+      "exampleMeaning": {
+        "hi": "मुझे बाघ की झलक मिली।",
+        "hinglish": "Mujhe baagh ki jhalak mili."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.02.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "ferocious",
+        "emoji": "",
+        "hindi": "ख़ूँख़ार",
+        "hinglish": "khoonkhaar"
+      },
+      "meaning": "fierce and dangerous",
+      "example": "The forest has ferocious animals.",
+      "exampleMeaning": {
+        "hi": "जंगल में ख़ूँख़ार जानवर हैं।",
+        "hinglish": "Jungle mein khoonkhaar jaanwar hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.02.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "habitat",
+        "emoji": "",
+        "hindi": "प्राकृतिक घर",
+        "hinglish": "praakritik ghar"
+      },
+      "meaning": "the natural home of an animal",
+      "example": "The forest is the tiger's habitat.",
+      "exampleMeaning": {
+        "hi": "जंगल बाघ का प्राकृतिक घर है।",
+        "hinglish": "Jungle baagh ka praakritik ghar hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.02.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "rivulet",
+        "emoji": "",
+        "hindi": "छोटी नदी, नाला",
+        "hinglish": "chhoti nadi, naala"
+      },
+      "meaning": "a small stream",
+      "example": "The tiger drank from the rivulet.",
+      "exampleMeaning": {
+        "hi": "बाघ ने नाले से पानी पिया।",
+        "hinglish": "Baagh ne naale se paani piya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.02.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "mammals",
+        "emoji": "",
+        "hindi": "स्तनधारी",
+        "hinglish": "stanadhaari"
+      },
+      "meaning": "animals that feed milk to their babies",
+      "example": "Tigers and deer are mammals.",
+      "exampleMeaning": {
+        "hi": "बाघ और हिरण स्तनधारी हैं।",
+        "hinglish": "Baagh aur hiran stanadhaari hain."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.02.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "ferocious",
+        "emoji": "",
+        "hindi": "ख़ूँख़ार",
+        "hinglish": "khoonkhaar"
+      }
+    }
+  ]
+}

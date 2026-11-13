@@ -1,0 +1,173 @@
+{
+  "id": "B7.10.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.10.4.S02",
+    "B7.10.4.S05",
+    "B7.10.4.S06",
+    "B7.10.4.S07",
+    "B7.10.4.S08",
+    "B7.10.4.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.10.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "text": {
+        "hi": "विराम चिह्न (punctuation): वाक्य बड़े अक्षर (capital) से शुरू होता है और full stop (.) पर ख़त्म। ‘I’ हमेशा capital। रुकने के लिए comma (,)।",
+        "hinglish": "Viraam chihn (punctuation): vaakya bade akshar (capital) se shuru hota hai aur full stop (.) par khatm. ‘I’ hamesha capital. Rukne ke liye comma (,).",
+        "en": "Punctuation: a sentence starts with a capital letter and ends with a full stop. ‘I’ is always a capital. Use a comma for a short pause."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "question": "Which one is punctuated correctly?",
+      "questionMeaning": {
+        "hi": "कौन सा सही विराम चिह्नों के साथ है?",
+        "hinglish": "Kaun sa sahi viraam chihnon ke saath hai?"
+      },
+      "options": [
+        "I have a tree, a green tree, to shade me from the sun. Under it I often sit, when all my work is done.",
+        "i have a tree a green tree to shade me from the sun under it i often sit when all my work is done",
+        "I have a tree. a green tree. to shade me. from the sun under it, I often sit when all my work is done"
+      ],
+      "answer": "I have a tree, a green tree, to shade me from the sun. Under it I often sit, when all my work is done.",
+      "modelAnswer": "I have a tree, a green tree, to shade me from the sun. Under it I often sit, when all my work is done.",
+      "modelMeaning": {
+        "hi": "मेरे पास एक पेड़ है, एक हरा पेड़, जो मुझे धूप से छाँव देता है। काम ख़त्म होने पर मैं अक्सर उसके नीचे बैठता/बैठती हूँ।",
+        "hinglish": "Mere paas ek ped hai, ek hara ped, jo mujhe dhoop se chhaanv deta hai. Kaam khatm hone par main aksar uske neeche baithta/baithti hoon."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "question": "Which word must always be a capital letter?",
+      "questionMeaning": {
+        "hi": "कौन सा शब्द हमेशा बड़े अक्षर में लिखते हैं?",
+        "hinglish": "Kaun sa shabd hamesha bade akshar mein likhte hain?"
+      },
+      "options": [
+        "I",
+        "tree",
+        "sun"
+      ],
+      "answer": "I"
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.10.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "text": {
+        "hi": "अब बिखरे शब्दों से वाक्य बनाओ। किताब का उदाहरण: The moon / and / see / with / me / o / come → O! come with me and see the moon.",
+        "hinglish": "Ab bikhre shabdon se vaakya banao. Kitaab ka udaharan: The moon / and / see / with / me / o / come → O! come with me and see the moon.",
+        "en": "Now make sentences from jumbled words. The book's example: The moon / and / see / with / me / o / come → O! come with me and see the moon."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.10.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "शब्द: have / time / if / we / will / visit / Mars / we",
+        "hinglish": "Shabd: have / time / if / we / will / visit / Mars / we",
+        "en": "Words: have / time / if / we / will / visit / Mars / we"
+      },
+      "answer": "If we have time, we will visit Mars.",
+      "meaning": {
+        "hi": "अगर समय हुआ, तो हम मंगल पर जाएँगे।",
+        "hinglish": "Agar samay hua, to hum mangal par jaayenge."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.10.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "शब्द: it's / a / quite / trip / really / pleasant",
+        "hinglish": "Shabd: it's / a / quite / trip / really / pleasant",
+        "en": "Words: it's / a / quite / trip / really / pleasant"
+      },
+      "answer": "It's really quite a pleasant trip.",
+      "meaning": {
+        "hi": "यह सच में बहुत सुहानी सैर है।",
+        "hinglish": "Yeh sach mein bahut suhaani sair hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.10.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "शब्द: diamonds / in / shine / the / sky / stars / like",
+        "hinglish": "Shabd: diamonds / in / shine / the / sky / stars / like",
+        "en": "Words: diamonds / in / shine / the / sky / stars / like"
+      },
+      "answer": "Stars shine like diamonds in the sky.",
+      "meaning": {
+        "hi": "तारे आसमान में हीरों की तरह चमकते हैं।",
+        "hinglish": "Taare aasmaan mein heeron ki tarah chamakte hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.10.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "शब्द: my / rocket / just / waiting / is / outside",
+        "hinglish": "Shabd: my / rocket / just / waiting / is / outside",
+        "en": "Words: my / rocket / just / waiting / is / outside"
+      },
+      "answer": "My rocket is waiting just outside.",
+      "meaning": {
+        "hi": "मेरा रॉकेट ठीक बाहर इंतज़ार कर रहा है।",
+        "hinglish": "Mera rocket theek baahar intezaar kar raha hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.10.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "शब्द: you / take / will / a / long / for / ride / I",
+        "hinglish": "Shabd: you / take / will / a / long / for / ride / I",
+        "en": "Words: you / take / will / a / long / for / ride / I"
+      },
+      "answer": "I will take you for a long ride.",
+      "meaning": {
+        "hi": "मैं तुम्हें लंबी सैर पर ले जाऊँगी।",
+        "hinglish": "Main tumhe lambi sair par le jaaungi."
+      }
+    }
+  ]
+}

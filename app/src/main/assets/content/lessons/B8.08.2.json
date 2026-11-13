@@ -1,0 +1,159 @@
+{
+  "id": "B8.08.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.08.2.S01"
+  ],
+  "steps": [
+    {
+      "type": "sort_groups",
+      "id": "B8.08.2.S01",
+      "skills": [
+        "book.words"
+      ],
+      "instruction": {
+        "hi": "एक जैसी आवाज़ वाले शब्द साथ रखो",
+        "hinglish": "Ek jaisi awaaz waale shabd saath rakho",
+        "en": "Put the rhyming words together"
+      },
+      "groups": [
+        {
+          "id": "all",
+          "name": "-all",
+          "emoji": "🧱",
+          "meaning": {
+            "hi": "wall जैसे",
+            "hinglish": "wall jaise"
+          }
+        },
+        {
+          "id": "ouse",
+          "name": "-ouse",
+          "emoji": "🐭",
+          "meaning": {
+            "hi": "mouse जैसे",
+            "hinglish": "mouse jaise"
+          }
+        },
+        {
+          "id": "ield",
+          "name": "-ield",
+          "emoji": "🌾",
+          "meaning": {
+            "hi": "field जैसे",
+            "hinglish": "field jaise"
+          }
+        },
+        {
+          "id": "oon",
+          "name": "-oon",
+          "emoji": "🌙",
+          "meaning": {
+            "hi": "moon जैसे",
+            "hinglish": "moon jaise"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "hall",
+          "emoji": "🏛️",
+          "groups": [
+            "all"
+          ]
+        },
+        {
+          "text": "wall",
+          "emoji": "🧱",
+          "groups": [
+            "all"
+          ]
+        },
+        {
+          "text": "fall",
+          "emoji": "🍂",
+          "groups": [
+            "all"
+          ]
+        },
+        {
+          "text": "mouse",
+          "emoji": "🐭",
+          "groups": [
+            "ouse"
+          ]
+        },
+        {
+          "text": "house",
+          "emoji": "🏠",
+          "groups": [
+            "ouse"
+          ]
+        },
+        {
+          "text": "louse",
+          "emoji": "🐛",
+          "groups": [
+            "ouse"
+          ]
+        },
+        {
+          "text": "yield",
+          "emoji": "🌽",
+          "groups": [
+            "ield"
+          ]
+        },
+        {
+          "text": "field",
+          "emoji": "🌾",
+          "groups": [
+            "ield"
+          ]
+        },
+        {
+          "text": "shield",
+          "emoji": "🛡️",
+          "groups": [
+            "ield"
+          ]
+        },
+        {
+          "text": "moon",
+          "emoji": "🌙",
+          "groups": [
+            "oon"
+          ]
+        },
+        {
+          "text": "noon",
+          "emoji": "☀️",
+          "groups": [
+            "oon"
+          ]
+        },
+        {
+          "text": "soon",
+          "emoji": "⏰",
+          "groups": [
+            "oon"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B8.08.2.S02",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "shield",
+        "emoji": "",
+        "hindi": "ढाल",
+        "hinglish": "dhaal"
+      }
+    }
+  ]
+}

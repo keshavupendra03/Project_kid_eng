@@ -1,0 +1,111 @@
+{
+  "id": "B6.06.7",
+  "level": 6,
+  "bookSteps": [
+    "B6.06.7.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.06.7.S01",
+      "skills": [
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब कहती है: घर के अंदर (indoor) और बाहर (outdoor) के खेलों की तस्वीरें इकट्ठा करो। पहले उन्हें छाँटो।",
+        "hinglish": "Kitaab kehti hai: ghar ke andar (indoor) aur baahar (outdoor) ke khelon ki tasveerein ikattha karo. Pehle unhe chhaanto.",
+        "en": "The book says: collect pictures of indoor and outdoor games. First, sort them."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B6.06.7.S02",
+      "skills": [
+        "book.activity"
+      ],
+      "instruction": {
+        "hi": "हर खेल को indoor या outdoor में रखो",
+        "hinglish": "Har khel ko indoor ya outdoor mein rakho",
+        "en": "Is each game indoor or outdoor?"
+      },
+      "groups": [
+        {
+          "id": "in",
+          "name": "indoor games",
+          "emoji": "🏠",
+          "meaning": {
+            "hi": "घर के अंदर के खेल",
+            "hinglish": "ghar ke andar ke khel"
+          }
+        },
+        {
+          "id": "out",
+          "name": "outdoor games",
+          "emoji": "🌳",
+          "meaning": {
+            "hi": "बाहर के खेल",
+            "hinglish": "baahar ke khel"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "chess",
+          "emoji": "♟️",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "cricket",
+          "emoji": "🏏",
+          "groups": [
+            "out"
+          ]
+        },
+        {
+          "text": "carrom",
+          "emoji": "🎯",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "football",
+          "emoji": "⚽",
+          "groups": [
+            "out"
+          ]
+        },
+        {
+          "text": "ludo",
+          "emoji": "🎲",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "hockey",
+          "emoji": "🏑",
+          "groups": [
+            "out"
+          ]
+        },
+        {
+          "text": "table tennis",
+          "emoji": "🏓",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "kabaddi",
+          "emoji": "🤼",
+          "groups": [
+            "out"
+          ]
+        }
+      ]
+    }
+  ]
+}

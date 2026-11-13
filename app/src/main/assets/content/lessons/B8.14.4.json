@@ -1,0 +1,171 @@
+{
+  "id": "B8.14.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.14.4.S02",
+    "B8.14.4.S03",
+    "B8.14.4.S04",
+    "B8.14.4.S05",
+    "B8.14.4.S06",
+    "B8.14.4.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.14.4.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 126-128 पर पाठ पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 126-128 par paath padho, phir jawab do.",
+        "en": "Read the lesson on pages 126–128 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.4.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When and where was Chandra Shekhar born?",
+      "questionMeaning": {
+        "hi": "चंद्रशेखर कब और कहाँ पैदा हुए?",
+        "hinglish": "Chandrashekhar kab aur kahan paida hue?"
+      },
+      "options": [
+        "on 23rd July 1906 in Bhabra, Jhabua district",
+        "in 1931 in Allahabad",
+        "in 1919 in Amritsar"
+      ],
+      "answer": "on 23rd July 1906 in Bhabra, Jhabua district",
+      "modelAnswer": "Chandra Shekhar was born on 23rd July 1906 in village Bhabra in Jhabua district (present Madhya Pradesh).",
+      "modelMeaning": {
+        "hi": "चंद्रशेखर का जन्म 23 जुलाई 1906 को झाबुआ ज़िले (आज का म.प्र.) के भाबरा गाँव में हुआ।",
+        "hinglish": "Chandrashekhar ka janm 23 July 1906 ko Jhabua zile (aaj ka M.P.) ke Bhabra gaanv mein hua."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.4.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where did he receive his early education?",
+      "questionMeaning": {
+        "hi": "उनकी शुरुआती पढ़ाई कहाँ हुई?",
+        "hinglish": "Unki shuruaati padhaai kahan hui?"
+      },
+      "options": [
+        "in Bhabra",
+        "in Varanasi",
+        "in Bhopal"
+      ],
+      "answer": "in Bhabra",
+      "modelAnswer": "He received his early education in Bhabra. For higher education he went to a Sanskrit Pathshala at Varanasi.",
+      "modelMeaning": {
+        "hi": "उनकी शुरुआती पढ़ाई भाबरा में हुई। आगे की पढ़ाई के लिए वे वाराणसी की संस्कृत पाठशाला गए।",
+        "hinglish": "Unki shuruaati padhaai Bhabra mein hui. Aage ki padhaai ke liye woh Varanasi ki Sanskrit Paathshaala gaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.4.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What attracted Chandra Shekhar?",
+      "questionMeaning": {
+        "hi": "चंद्रशेखर किससे आकर्षित हुए?",
+        "hinglish": "Chandrashekhar kisse aakarshit hue?"
+      },
+      "options": [
+        "the non-cooperation movement of 1920–21 led by Gandhiji",
+        "the British army",
+        "cricket"
+      ],
+      "answer": "the non-cooperation movement of 1920–21 led by Gandhiji",
+      "modelAnswer": "He was attracted by the great national upsurge of the non-violent non-cooperation movement of 1920–21 under Mahatma Gandhi.",
+      "modelMeaning": {
+        "hi": "वे 1920-21 में गांधीजी के नेतृत्व वाले अहिंसक असहयोग आंदोलन की राष्ट्रीय लहर से आकर्षित हुए।",
+        "hinglish": "Woh 1920-21 mein Gandhiji ke netritva waale ahinsak asahyog aandolan ki raashtriya lehar se aakarshit hue."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.4.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which statement of Chandra Shekhar provoked the magistrate?",
+      "questionMeaning": {
+        "hi": "किस बात से मजिस्ट्रेट भड़का?",
+        "hinglish": "Kis baat se magistrate bhadka?"
+      },
+      "options": [
+        "His name ‘Azad’, father ‘Swatantra’, home ‘Prison’.",
+        "He said he was a priest.",
+        "He said he was sorry."
+      ],
+      "answer": "His name ‘Azad’, father ‘Swatantra’, home ‘Prison’.",
+      "modelAnswer": "He gave his name as ‘Azad’, his father's name as ‘Swatantra’ and his residence as ‘Prison’. This provoked the magistrate, who sentenced him to fifteen lashes.",
+      "modelMeaning": {
+        "hi": "उन्होंने अपना नाम ‘आज़ाद’, पिता का नाम ‘स्वतंत्र’ और घर ‘जेल’ बताया। इससे मजिस्ट्रेट भड़क गया और पंद्रह कोड़ों की सज़ा दी।",
+        "hinglish": "Unhone apna naam ‘Azad’, pita ka naam ‘Swatantra’ aur ghar ‘Jail’ bataaya. Isse magistrate bhadak gaya aur pandrah kodon ki saza di."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.4.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What were the revolutionary acts of Chandra Shekhar?",
+      "questionMeaning": {
+        "hi": "उनके क्रांतिकारी काम क्या थे?",
+        "hinglish": "Unke kraantikaari kaam kya the?"
+      },
+      "options": [
+        "He worked with Bhagat Singh and was involved in the Kakori Case.",
+        "He wrote poems only.",
+        "He joined the British police."
+      ],
+      "answer": "He worked with Bhagat Singh and was involved in the Kakori Case.",
+      "modelAnswer": "He was the mentor of Bhagat Singh and both took part in revolutionary activities. He was involved in the Kakori Case and became a terror for the British police.",
+      "modelMeaning": {
+        "hi": "वे भगत सिंह के मार्गदर्शक थे और दोनों ने क्रांतिकारी काम किए। वे काकोरी कांड में शामिल थे और अंग्रेज़ पुलिस के लिए दहशत बन गए।",
+        "hinglish": "Woh Bhagat Singh ke maargdarshak the aur dono ne kraantikaari kaam kiye. Woh Kakori Kaand mein shaamil the aur angrez police ke liye dehshat ban gaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.4.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How did Chandra Shekhar prove his name ‘Azad’?",
+      "questionMeaning": {
+        "hi": "उन्होंने ‘आज़ाद’ नाम कैसे सच किया?",
+        "hinglish": "Unhone ‘Azad’ naam kaise sach kiya?"
+      },
+      "options": [
+        "He was never caught alive by the police.",
+        "He ran away to another country.",
+        "He became a magistrate."
+      ],
+      "answer": "He was never caught alive by the police.",
+      "modelAnswer": "Surrounded by the police in Azad Park, Allahabad on 27 February 1931, he fought bravely and then shot himself. He kept his pledge of never being caught alive, and stayed ‘Azad’ (free).",
+      "modelMeaning": {
+        "hi": "27 फ़रवरी 1931 को इलाहाबाद के आज़ाद पार्क में घिरने पर वे बहादुरी से लड़े और ख़ुद को गोली मार ली। उन्होंने कभी ज़िंदा न पकड़े जाने की क़सम निभाई और ‘आज़ाद’ ही रहे।",
+        "hinglish": "27 February 1931 ko Allahabad ke Azad Park mein ghirne par woh bahaaduri se lade aur khud ko goli maar li. Unhone kabhi zinda na pakde jaane ki kasam nibhaayi aur ‘Azad’ hi rahe."
+      }
+    }
+  ]
+}

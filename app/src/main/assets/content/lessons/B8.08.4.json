@@ -1,0 +1,276 @@
+{
+  "id": "B8.08.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.08.4.S01",
+    "B8.08.4.S02",
+    "B8.08.4.S03",
+    "B8.08.4.S04",
+    "B8.08.4.S05",
+    "B8.08.4.S06",
+    "B8.08.4.S07",
+    "B8.08.4.S09",
+    "B8.08.4.S10",
+    "B8.08.4.S11",
+    "B8.08.4.S12"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.08.4.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the shape of the moon according to the poem?",
+      "questionMeaning": {
+        "hi": "कविता के अनुसार चाँद का आकार कैसा है?",
+        "hinglish": "Kavita ke anusaar chaand ka aakaar kaisa hai?"
+      },
+      "options": [
+        "round, like the face of the clock in the hall",
+        "like a boat",
+        "like a banana"
+      ],
+      "answer": "round, like the face of the clock in the hall",
+      "modelAnswer": "According to the poem, the moon has a round face like the clock in the hall.",
+      "modelMeaning": {
+        "hi": "कविता के अनुसार चाँद का चेहरा हॉल की घड़ी की तरह गोल है।",
+        "hinglish": "Kavita ke anusaar chaand ka chehra hall ki ghadi ki tarah gol hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.4.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where do the birdies sleep?",
+      "questionMeaning": {
+        "hi": "चिड़ियाँ कहाँ सोती हैं?",
+        "hinglish": "Chidiyaan kahan soti hain?"
+      },
+      "options": [
+        "in the forks of the trees",
+        "in the house",
+        "on the wall"
+      ],
+      "answer": "in the forks of the trees",
+      "modelAnswer": "The birdies sleep in the forks of the trees.",
+      "modelMeaning": {
+        "hi": "चिड़ियाँ पेड़ों की डालियों के बीच सोती हैं।",
+        "hinglish": "Chidiyaan pedon ki daaliyon ke beech soti hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.4.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the dog doing?",
+      "questionMeaning": {
+        "hi": "कुत्ता क्या कर रहा है?",
+        "hinglish": "Kutta kya kar raha hai?"
+      },
+      "options": [
+        "howling by the door of the house",
+        "sleeping in bed",
+        "chasing the moon"
+      ],
+      "answer": "howling by the door of the house",
+      "modelAnswer": "The dog is howling by the door of the house.",
+      "modelMeaning": {
+        "hi": "कुत्ता घर के दरवाज़े पर हुआँ-हुआँ कर रहा है।",
+        "hinglish": "Kutta ghar ke darwaaze par huaan-huaan kar raha hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.4.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where is the bat?",
+      "questionMeaning": {
+        "hi": "चमगादड़ कहाँ है?",
+        "hinglish": "Chamgaadad kahan hai?"
+      },
+      "options": [
+        "It lies in bed at noon and comes out at night.",
+        "on the garden wall",
+        "in the forks of the trees"
+      ],
+      "answer": "It lies in bed at noon and comes out at night.",
+      "modelAnswer": "The bat lies in bed at noon and loves to come out in the moonlight.",
+      "modelMeaning": {
+        "hi": "चमगादड़ दोपहर में बिस्तर पर पड़ा रहता है और चाँदनी में बाहर आना पसंद करता है।",
+        "hinglish": "Chamgaadad dopahar mein bistar par pada rehta hai aur chaandni mein baahar aana pasand karta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.4.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do the flowers and children do till morning?",
+      "questionMeaning": {
+        "hi": "फूल और बच्चे सुबह तक क्या करते हैं?",
+        "hinglish": "Phool aur bachche subah tak kya karte hain?"
+      },
+      "options": [
+        "They close their eyes and sleep.",
+        "They play outside.",
+        "They watch the moon."
+      ],
+      "answer": "They close their eyes and sleep.",
+      "modelAnswer": "The flowers and children close their eyes and sleep till the sun rises in the morning.",
+      "modelMeaning": {
+        "hi": "फूल और बच्चे सुबह सूरज निकलने तक आँखें बंद करके सोते हैं।",
+        "hinglish": "Phool aur bachche subah sooraj nikalne tak aankhein band karke sote hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.4.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do the things that belong to the day do when the moon is out?",
+      "questionMeaning": {
+        "hi": "दिन वाली चीज़ें चाँद निकलने पर क्या करती हैं?",
+        "hinglish": "Din waali cheezein chaand nikalne par kya karti hain?"
+      },
+      "options": [
+        "They cuddle to sleep to be out of her way.",
+        "They go out to play.",
+        "They shine brightly."
+      ],
+      "answer": "They cuddle to sleep to be out of her way.",
+      "modelAnswer": "The things that belong to the day cuddle up and sleep to be out of the moon's way.",
+      "modelMeaning": {
+        "hi": "दिन वाली चीज़ें चाँद के रास्ते से हटने के लिए सिमटकर सो जाती हैं।",
+        "hinglish": "Din waali cheezein chaand ke raaste se hatne ke liye simatkar so jaati hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.4.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "‘Cuddle’ means:",
+      "questionMeaning": {
+        "hi": "‘Cuddle’ का मतलब",
+        "hinglish": "‘Cuddle’ ka matlab"
+      },
+      "options": [
+        "hug",
+        "lie down",
+        "rest",
+        "close"
+      ],
+      "answer": "hug"
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.08.4.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "(B) कविता से सही शब्द भरो।",
+        "hinglish": "(B) Kavita se sahi shabd bharo.",
+        "en": "(B) Fill in the right word from the poem."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.08.4.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "a ___ elephant",
+      "answer": "trumpeting",
+      "options": [
+        "trumpeting",
+        "squeaking",
+        "howling",
+        "squalling"
+      ],
+      "meaning": {
+        "hi": "चिंघाड़ता हाथी",
+        "hinglish": "chinghaadta haathi"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.08.4.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "a ___ dog",
+      "answer": "howling",
+      "options": [
+        "howling",
+        "squeaking",
+        "trumpeting",
+        "squalling"
+      ],
+      "meaning": {
+        "hi": "हुआँ-हुआँ करता कुत्ता",
+        "hinglish": "huaan-huaan karta kutta"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.08.4.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "a ___ cat",
+      "answer": "squalling",
+      "options": [
+        "squalling",
+        "trumpeting",
+        "howling",
+        "squeaking"
+      ],
+      "meaning": {
+        "hi": "चीख़ती बिल्ली",
+        "hinglish": "cheekhti billi"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.08.4.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "a ___ mouse",
+      "answer": "squeaking",
+      "options": [
+        "squeaking",
+        "squalling",
+        "trumpeting",
+        "howling"
+      ],
+      "meaning": {
+        "hi": "चीं-चीं करता चूहा",
+        "hinglish": "cheen-cheen karta chooha"
+      }
+    }
+  ]
+}

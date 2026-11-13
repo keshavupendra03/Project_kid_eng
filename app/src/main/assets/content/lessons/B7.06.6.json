@@ -1,0 +1,122 @@
+{
+  "id": "B7.06.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.06.6.S02",
+    "B7.06.6.S03",
+    "B7.06.6.S04",
+    "B7.06.6.S05",
+    "B7.06.6.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.06.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब कहती है: बिल्ली के बारे में पाँच वाक्य लिखो। चलो एक-एक करके बनाते हैं।",
+        "hinglish": "Kitaab kehti hai: billi ke baare mein paanch vaakya likho. Chalo ek-ek karke banaate hain.",
+        "en": "The book says: write five sentences about cats. Let's build them one by one."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.06.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "बिल्ली एक पालतू जानवर है।",
+        "hinglish": "Billi ek paaltu jaanwar hai.",
+        "en": "Say that the cat is a pet animal."
+      },
+      "answer": "The cat is a pet animal.",
+      "meaning": {
+        "hi": "बिल्ली एक पालतू जानवर है।",
+        "hinglish": "Billi ek paaltu jaanwar hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.06.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "उसके चार पैर और एक लंबी पूँछ होती है।",
+        "hinglish": "Uske chaar pair aur ek lambi poonchh hoti hai.",
+        "en": "Say what its legs and tail are like."
+      },
+      "answer": "It has four legs and a long tail.",
+      "meaning": {
+        "hi": "उसके चार पैर और एक लंबी पूँछ होती है।",
+        "hinglish": "Uske chaar pair aur ek lambi poonchh hoti hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.06.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "उसके बाल नरम होते हैं।",
+        "hinglish": "Uske baal naram hote hain.",
+        "en": "Say what its coat is like."
+      },
+      "answer": "Its coat is soft and warm.",
+      "meaning": {
+        "hi": "उसके बाल नरम और गर्म होते हैं।",
+        "hinglish": "Uske baal naram aur garm hote hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.06.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "उसे दूध और मछली पसंद है।",
+        "hinglish": "Use doodh aur machhli pasand hai.",
+        "en": "Say what it likes to eat."
+      },
+      "answer": "It likes milk and fish.",
+      "meaning": {
+        "hi": "उसे दूध और मछली पसंद है।",
+        "hinglish": "Use doodh aur machhli pasand hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.06.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "वह चूहे पकड़ती है।",
+        "hinglish": "Woh choohe pakadti hai.",
+        "en": "Say what it catches."
+      },
+      "answer": "It catches rats.",
+      "meaning": {
+        "hi": "वह चूहे पकड़ती है।",
+        "hinglish": "Woh choohe pakadti hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.06.6.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब का दूसरा सवाल: अपने पालतू जानवर पर पाँच वाक्य। ऐसे लिखो: I have a pet dog. His name is Moti. He is brown and white. He likes milk and bread. He watches our house at night. (अपने पालतू का नाम और रंग बदलो!)",
+        "hinglish": "Kitaab ka doosra sawaal: apne paaltu jaanwar par paanch vaakya. Aise likho: I have a pet dog. His name is Moti. He is brown and white. He likes milk and bread. He watches our house at night. (Apne paaltu ka naam aur rang badlo!)",
+        "en": "The book's second task: five sentences about your pet. For example: I have a pet dog. His name is Moti. He is brown and white. He likes milk and bread. He watches our house at night. (Change the name and colour to your own pet's!)"
+      }
+    }
+  ]
+}

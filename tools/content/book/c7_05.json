@@ -1,0 +1,229 @@
+{
+  "grade": 7, "number": 5, "emoji": "🚆", "title": "The Crowded Train", "pages": "26–33",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["इस पाठ में विनोद भोपाल से इंदौर ट्रेन से जाता है। ट्रेन में बहुत भीड़ है। पहले किताब के सवालों पर बात करते हैं।", "Is paath mein Vinod Bhopal se Indore train se jaata hai. Train mein bahut bheed hai. Pehle kitaab ke sawaalon par baat karte hain.", "In this lesson Vinod travels by train from Bhopal to Indore. The train is very crowded. First, let's talk about the book's questions."]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "🚆", "turns": [
+          {"id": "train", "tinku": "Have you ever travelled by train?", "meaning": ["क्या तुमने कभी ट्रेन से सफ़र किया है?", "Kya tumne kabhi train se safar kiya hai?"],
+            "replies": [
+              {"say": "Yes, I have travelled by train.", "meaning": ["हाँ, मैंने ट्रेन से सफ़र किया है।", "Haan, maine train se safar kiya hai."], "patterns": ["yes *", "yes"]},
+              {"say": "No, I have never travelled by train.", "meaning": ["नहीं, मैंने कभी ट्रेन से सफ़र नहीं किया।", "Nahi, maine kabhi train se safar nahi kiya."], "patterns": ["no *", "no"]}
+            ]},
+          {"id": "ticket", "tinku": "Have you ever bought a ticket yourself?", "meaning": ["क्या तुमने कभी ख़ुद टिकट ख़रीदा है?", "Kya tumne kabhi khud ticket khareeda hai?"],
+            "replies": [
+              {"say": "Yes, I have bought a ticket myself.", "meaning": ["हाँ, मैंने ख़ुद टिकट ख़रीदा है।", "Haan, maine khud ticket khareeda hai."], "patterns": ["yes *", "yes"], "next": "end"},
+              {"say": "No, my parents buy the tickets.", "meaning": ["नहीं, मेरे मम्मी-पापा टिकट ख़रीदते हैं।", "Nahi, mere mummy-papa ticket khareedte hain."], "patterns": ["no *", "no"], "next": "end"}
+            ]}
+        ]},
+        {"book": true, "q": ["What happens if someone travels without a ticket?", "अगर कोई बिना टिकट सफ़र करे तो क्या होता है?", "Agar koi bina ticket safar kare to kya hota hai?", ["He has to pay a fine (penalty).", "He gets a free seat.", "He gets a prize."], "He has to pay a fine (penalty).", "If someone travels without a ticket, he has to pay a fine. He can even be sent to jail.", "बिना टिकट सफ़र करने वाले को जुर्माना देना पड़ता है। उसे जेल भी हो सकती है।", "Bina ticket safar karne waale ko jurmaana dena padta hai. Use jail bhi ho sakti hai."]},
+        {"word": ["overcrowded", "बहुत ज़्यादा भीड़ वाला", "bahut zyaada bheed waala", "with too many people in it", "The bus was overcrowded on Diwali.", "दिवाली पर बस में बहुत भीड़ थी।", "Diwali par bus mein bahut bheed thi."]},
+        {"word": ["official visit", "काम से (दफ़्तर के काम से) जाना", "kaam se (daftar ke kaam se) jaana", "a trip made for office work", "My father went to Delhi on an official visit.", "पापा दफ़्तर के काम से दिल्ली गए।", "Papa daftar ke kaam se Delhi gaye."]},
+        {"word": ["worn-out", "घिसा हुआ, पुराना", "ghisa hua, puraana", "old and damaged by long use", "He wore worn-out shoes.", "उसने घिसे हुए जूते पहने थे।", "Usne ghise hue joote pehne the."]},
+        {"word": ["vacant", "खाली", "khaali", "empty; not being used", "There was one vacant seat in the bus.", "बस में एक सीट खाली थी।", "Bus mein ek seat khaali thi."]},
+        {"word": ["valid", "मान्य, सही", "maanya, sahi", "that can be used and is accepted by law", "You need a valid ticket to travel.", "सफ़र के लिए सही (मान्य) टिकट चाहिए।", "Safar ke liye sahi (maanya) ticket chahiye."]},
+        {"word": ["penalty", "जुर्माना", "jurmaana", "money you pay for breaking a rule", "He paid a penalty for travelling without a ticket.", "उसने बिना टिकट सफ़र का जुर्माना दिया।", "Usne bina ticket safar ka jurmaana diya."]},
+        {"word": ["fare", "किराया", "kiraaya", "the money you pay for a journey", "The bus fare to Bhopal is two hundred rupees.", "भोपाल का बस किराया दो सौ रुपये है।", "Bhopal ka bus kiraaya do sau rupaye hai."]},
+        {"pairs": ["उल्टे मतलब वाले शब्द जोड़ो", "Ulte matlab waale shabd jodo", "Join the opposites", [
+          ["well-dressed", "poorly-dressed", "अच्छे कपड़ों वाला / फटे-पुराने कपड़ों वाला", "achhe kapdon waala / phate-puraane kapdon waala"],
+          ["vacant", "full", "खाली / भरा हुआ", "khaali / bhara hua"],
+          ["new", "worn-out", "नया / घिसा हुआ", "naya / ghisa hua"],
+          ["rich", "poor", "अमीर / ग़रीब", "ameer / gareeb"]]]},
+        {"sayw": ["overcrowded", "बहुत भीड़ वाला", "bahut bheed waala"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 26 और 27 पर ‘The Crowded Train’ पढ़ो। फिर सही विकल्प चुनो।", "Apni kitaab mein page 26 aur 27 par ‘The Crowded Train’ padho. Phir sahi vikalp chuno.", "Read ‘The Crowded Train’ on pages 26 and 27 of your book. Then choose the right option."]},
+        {"book": true, "q": ["Where did Vinod go?", "विनोद कहाँ गया?", "Vinod kahan gaya?", ["Bhopal", "Indore", "Gwalior"], "Bhopal", "Vinod went to Bhopal on an official visit.", "विनोद दफ़्तर के काम से भोपाल गया।", "Vinod daftar ke kaam se Bhopal gaya."]},
+        {"book": true, "q": ["Why did Vinod decide to travel by A/C class?", "विनोद ने एसी क्लास में जाने का फ़ैसला क्यों किया?", "Vinod ne AC class mein jaane ka faisla kyon kiya?", ["He had a lot of money.", "The train was overcrowded.", "He was sick."], "The train was overcrowded.", "Vinod decided to travel by A/C class because the train was overcrowded.", "विनोद ने एसी में जाने का फ़ैसला किया क्योंकि ट्रेन में बहुत भीड़ थी।", "Vinod ne AC mein jaane ka faisla kiya kyonki train mein bahut bheed thi."]},
+        {"book": true, "q": ["The other passengers in the coach ...", "डिब्बे के बाकी यात्री ...", "Dibbe ke baaki yaatri ...", ["did not look to be rich", "were poorly dressed", "had valid tickets"], "had valid tickets"]},
+        {"book": true, "q": ["The young man who got in just when the train moved ...", "जो नौजवान ट्रेन चलते ही चढ़ा, वह ...", "Jo naujawaan train chalte hi chadha, woh ...", ["was well dressed", "did not seem to have a job", "was carrying a new suitcase"], "did not seem to have a job"]},
+        {"book": true, "q": ["Who did not have a valid ticket?", "किसके पास सही टिकट नहीं था?", "Kiske paas sahi ticket nahi tha?", ["Vinod", "All other passengers", "The young man"], "Vinod", "Vinod did not have a valid ticket for the A/C coach, so he paid the difference. The young man had a valid ticket.", "विनोद के पास एसी का सही टिकट नहीं था, इसलिए उसने बाकी पैसे दिए। नौजवान के पास सही टिकट था।", "Vinod ke paas AC ka sahi ticket nahi tha, isliye usne baaki paise diye. Naujawaan ke paas sahi ticket tha."]},
+        {"card": ["अब किताब का दूसरा सवाल: घटनाओं को सही क्रम में लगाओ। सोचो, पहले क्या हुआ, फिर क्या।", "Ab kitaab ka doosra sawaal: ghatnaaon ko sahi kram mein lagao. Socho, pehle kya hua, phir kya.", "Now the book's second task: put the events in order. Think: what happened first, then what?"]},
+        {"book": true, "q": ["Which of these happened first?", "इनमें से सबसे पहले क्या हुआ?", "Inmein se sabse pehle kya hua?", ["Vinod wanted to go back to Indore.", "The T.T.E. appeared.", "Vinod paid the difference."], "Vinod wanted to go back to Indore."]},
+        {"book": true, "q": ["What happened after Vinod saw the large crowd on the platform?", "प्लेटफ़ॉर्म पर भीड़ देखने के बाद क्या हुआ?", "Platform par bheed dekhne ke baad kya hua?", ["He noticed some seats were vacant in the A/C coach.", "Vinod paid the difference.", "The T.T.E. appeared."], "He noticed some seats were vacant in the A/C coach."]},
+        {"book": true, "q": ["What happened just after the poorly-dressed young man jumped in?", "फटे कपड़ों वाले नौजवान के चढ़ने के ठीक बाद क्या हुआ?", "Phate kapdon waale naujawaan ke chadhne ke theek baad kya hua?", ["All the passengers were surprised to see such a man in the A/C coach.", "Vinod wanted to go back to Indore.", "He noticed some seats were vacant."], "All the passengers were surprised to see such a man in the A/C coach."]},
+        {"book": true, "q": ["What happened just before Vinod paid the difference?", "विनोद के पैसे देने से ठीक पहले क्या हुआ?", "Vinod ke paise dene se theek pehle kya hua?", ["The T.T.E. appeared.", "Vinod wanted to go back to Indore.", "He saw a large crowd on the platform."], "The T.T.E. appeared."]},
+        {"card": ["सही क्रम: 3. Vinod wanted to go back to Indore. 6. He was surprised to see an unusually large crowd on the platform. 5. He noticed some seats were vacant in the A/C coach. 7. A poorly-dressed young man jumped into the coach. 4. All the passengers were surprised to see such a man. 2. The T.T.E. appeared. 1. Vinod paid the difference.", "Sahi kram: 3. Vinod wanted to go back to Indore. 6. He was surprised to see an unusually large crowd on the platform. 5. He noticed some seats were vacant in the A/C coach. 7. A poorly-dressed young man jumped into the coach. 4. All the passengers were surprised to see such a man. 2. The T.T.E. appeared. 1. Vinod paid the difference.", "The right order: 3. Vinod wanted to go back to Indore. 6. He was surprised to see an unusually large crowd on the platform. 5. He noticed some seats were vacant in the A/C coach. 7. A poorly-dressed young man jumped into the coach. 4. All the passengers were surprised to see such a man. 2. The T.T.E. appeared. 1. Vinod paid the difference."]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"book": true, "fb": ["He is a ___ person.", "well-dressed", ["well-dressed", "vacant seat", "valid ticket"], "वह अच्छे कपड़े पहनने वाला इंसान है।", "Woh achhe kapde pehenne waala insaan hai."]},
+        {"book": true, "fb": ["A ___ lady walked into the shop.", "poorly-dressed", ["poorly-dressed", "highly priced", "over-crowded"], "फटे-पुराने कपड़ों वाली एक औरत दुकान में आई।", "Phate-puraane kapdon waali ek aurat dukaan mein aayi."]},
+        {"book": true, "fb": ["Meena bought a ___ dress.", "highly priced", ["highly priced", "over-crowded", "valid ticket"], "मीना ने एक महँगी ड्रेस ख़रीदी।", "Meena ne ek mehngi dress khareedi."]},
+        {"book": true, "fb": ["My coat is really ___.", "worn-out", ["worn-out", "vacant seat", "valid ticket"], "मेरा कोट सच में घिस गया है।", "Mera coat sach mein ghis gaya hai."]},
+        {"book": true, "fb": ["Rashid found that the train was ___.", "over-crowded", ["over-crowded", "highly priced", "vacant seat"], "राशिद ने देखा कि ट्रेन में बहुत भीड़ थी।", "Rashid ne dekha ki train mein bahut bheed thi."]},
+        {"book": true, "fb": ["It was very difficult to find a ___ in the over-crowded train.", "vacant seat", ["vacant seat", "valid ticket", "worn-out"], "भीड़ वाली ट्रेन में खाली सीट ढूँढना बहुत मुश्किल था।", "Bheed waali train mein khaali seat dhoondhna bahut mushkil tha."]},
+        {"book": true, "fb": ["We must have a ___ for travelling in a train.", "valid ticket", ["valid ticket", "vacant seat", "well-dressed"], "ट्रेन में सफ़र के लिए हमारे पास सही टिकट होना चाहिए।", "Train mein safar ke liye hamare paas sahi ticket hona chahiye."]},
+        {"book": true, "q": ["Encircle the odd word: coach, compartment, carriage, box", "अलग शब्द चुनो", "Alag shabd chuno", ["coach", "compartment", "carriage", "box"], "box", "box, because the others are parts of a train.", "box, क्योंकि बाकी सब ट्रेन के डिब्बे हैं।", "box, kyonki baaki sab train ke dibbe hain."]},
+        {"book": true, "q": ["Encircle the odd word: T.T.E., air-hostess, bus conductor, passenger", "अलग शब्द चुनो", "Alag shabd chuno", ["T.T.E.", "air-hostess", "bus conductor", "passenger"], "passenger", "passenger, because the others work on trains, planes or buses.", "यात्री, क्योंकि बाकी सब वहाँ काम करते हैं।", "Yaatri, kyonki baaki sab wahan kaam karte hain."]},
+        {"book": true, "q": ["Encircle the odd word: driver, pilot, guard, taxi driver", "अलग शब्द चुनो", "Alag shabd chuno", ["driver", "pilot", "guard", "taxi driver"], "guard", "guard, because the others drive or fly vehicles.", "गार्ड, क्योंकि बाकी सब गाड़ी चलाते हैं।", "Guard, kyonki baaki sab gaadi chalaate hain."]},
+        {"book": true, "q": ["Encircle the odd word: crowd, pupil, herd, swarm", "अलग शब्द चुनो", "Alag shabd chuno", ["crowd", "pupil", "herd", "swarm"], "pupil", "pupil, because the others are words for groups.", "pupil (छात्र), क्योंकि बाकी सब झुंड वाले शब्द हैं।", "pupil (chhaatra), kyonki baaki sab jhund waale shabd hain."]},
+        {"book": true, "q": ["Encircle the odd word: train, bus, house, aeroplane", "अलग शब्द चुनो", "Alag shabd chuno", ["train", "bus", "house", "aeroplane"], "house", "house, because it is not a vehicle.", "घर, क्योंकि यह गाड़ी नहीं है।", "Ghar, kyonki yeh gaadi nahi hai."]},
+        {"card": ["अब किताब की पहेली! हर सुराग (clue) पढ़ो और सही शब्द चुनो।", "Ab kitaab ki paheli! Har suraag (clue) padho aur sahi shabd chuno.", "Now the book's crossword! Read each clue and pick the right word."]},
+        {"book": true, "type": "crossword", "entries": [
+          {"number": 1, "answer": "passenger", "across": false, "clue": "One who travels on a public or private conveyance: ___", "given": true},
+          {"number": 2, "answer": "train", "across": true, "clue": "This runs on rails: ___"},
+          {"number": 3, "answer": "ticket", "across": true, "clue": "A piece of paper that gives the right to travel in a train or a bus: ___"},
+          {"number": 4, "answer": "platform", "across": false, "clue": "A place near a railway track for passengers to get on and off the trains: ___"},
+          {"number": 5, "answer": "crowd", "across": true, "clue": "A large number of people gathered together: ___"},
+          {"number": 6, "answer": "coach", "across": false, "clue": "A luxury bus used for longer journeys: ___"},
+          {"number": 7, "answer": "bridge", "across": true, "clue": "A structure across a river, road, etc.: ___"},
+          {"number": 8, "answer": "luggage", "across": true, "clue": "Suitcases or other bags of a traveller: ___"},
+          {"number": 9, "answer": "river", "across": false, "clue": "A natural flow of water from one place to another: ___"},
+          {"number": 10, "answer": "airport", "across": true, "clue": "A place where aeroplanes land and take off: ___"}
+        ]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: Did से सवाल", "Grammar: Did se sawaal", "Grammar in Use: questions with Did"], "book": true,
+      "skills": ["book.grammar", "grammar.did_questions"],
+      "steps": [
+        {"card": ["बीते समय (past) के वाक्य को सवाल बनाना हो तो शुरू में ‘Did’ लगाओ और काम वाले शब्द को पहले रूप में करो: He had no ticket. → Did he have a ticket? (had → have)", "Beete samay (past) ke vaakya ko sawaal banaana ho to shuru mein ‘Did’ lagao aur kaam waale shabd ko pehle roop mein karo: He had no ticket. → Did he have a ticket? (had → have)", "To turn a past sentence into a question, put ‘Did’ first and use the base form of the verb: He had a ticket. → Did he have a ticket? (had → have)"]},
+        {"card": ["याद रखो: Did के बाद हमेशा सीधा रूप: got → get, lived → live, paid → pay, started → start।", "Yaad rakho: Did ke baad hamesha seedha roop: got → get, lived → live, paid → pay, started → start.", "Remember: after Did, always the base form: got → get, lived → live, paid → pay, started → start."]},
+        {"book": true, "build": ["सवाल बनाओ: The man had a bag.", "Sawaal banao: The man had a bag.", "Make a question: The man had a bag.", "Did the man have a bag?", "क्या उस आदमी के पास बैग था?", "Kya us aadmi ke paas bag tha?", ["had"]]},
+        {"book": true, "build": ["सवाल बनाओ: The T.T.E. had a hat.", "Sawaal banao: The T.T.E. had a hat.", "Make a question: The T.T.E. had a hat.", "Did the T.T.E. have a hat?", "क्या टीटीई के पास टोपी थी?", "Kya TTE ke paas topi thi?", ["had"]]},
+        {"book": true, "build": ["सवाल बनाओ: He got into the A/C coach.", "Sawaal banao: He got into the A/C coach.", "Make a question: He got into the A/C coach.", "Did he get into the A/C coach?", "क्या वह एसी डिब्बे में चढ़ा?", "Kya woh AC dibbe mein chadha?", ["got"]]},
+        {"book": true, "build": ["सवाल बनाओ: Vinod lived in Indore.", "Sawaal banao: Vinod lived in Indore.", "Make a question: Vinod lived in Indore.", "Did Vinod live in Indore?", "क्या विनोद इंदौर में रहता था?", "Kya Vinod Indore mein rehta tha?", ["lived"]]},
+        {"book": true, "build": ["सवाल बनाओ: Vinod paid the difference.", "Sawaal banao: Vinod paid the difference.", "Make a question: Vinod paid the difference.", "Did Vinod pay the difference?", "क्या विनोद ने बाकी पैसे दिए?", "Kya Vinod ne baaki paise diye?", ["paid"]]},
+        {"book": true, "build": ["सवाल बनाओ: The passengers started whispering.", "Sawaal banao: The passengers started whispering.", "Make a question: The passengers started whispering.", "Did the passengers start whispering?", "क्या यात्री फुसफुसाने लगे?", "Kya yaatri phusphusaane lage?", ["started"]]},
+        {"card": ["अब किताब का अगला अभ्यास: बिखरे शब्दों से सही वाक्य बनाओ। उदाहरण: Indore / in / lived / Vinod → Vinod lived in Indore.", "Ab kitaab ka agla abhyaas: bikhre shabdon se sahi vaakya banao. Udaharan: Indore / in / lived / Vinod → Vinod lived in Indore.", "Next in the book: rearrange the words to make sentences. Example: Indore / in / lived / Vinod → Vinod lived in Indore."]},
+        {"book": true, "skills": ["book.grammar", "grammar.word_order"], "build": ["शब्द: travelled / he / A/C / coach / in / an", "Shabd: travelled / he / A/C / coach / in / an", "Words: travelled / he / A/C / coach / in / an", "He travelled in an A/C coach.", "उसने एसी डिब्बे में सफ़र किया।", "Usne AC dibbe mein safar kiya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.word_order"], "build": ["शब्द: to / difference / the / pay / decided / he", "Shabd: to / difference / the / pay / decided / he", "Words: to / difference / the / pay / decided / he", "He decided to pay the difference.", "उसने बाकी पैसे देने का फ़ैसला किया।", "Usne baaki paise dene ka faisla kiya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.word_order"], "build": ["शब्द: young man / the / dressed / was / poorly", "Shabd: young man / the / dressed / was / poorly", "Words: young man / the / dressed / was / poorly", "The young man was poorly dressed.", "नौजवान ने फटे-पुराने कपड़े पहने थे।", "Naujawaan ne phate-puraane kapde pehne the."]},
+        {"book": true, "skills": ["book.grammar", "grammar.word_order"], "build": ["शब्द: Vinod / the / in / kept / his / hand / money / ready", "Shabd: Vinod / the / in / kept / his / hand / money / ready", "Words: Vinod / the / in / kept / his / hand / money / ready", "Vinod kept the money ready in his hand.", "विनोद ने पैसे अपने हाथ में तैयार रखे।", "Vinod ne paise apne haath mein taiyaar rakhe."]},
+        {"card": ["शब्द के आगे re लगाने से मतलब ‘फिर से’ (rewrite = फिर से लिखना)। un लगाने से मतलब ‘नहीं’ (unhappy = ख़ुश नहीं)। पीछे ful लगाने से मतलब ‘भरा हुआ’ (wonderful)।", "Shabd ke aage re lagaane se matlab ‘phir se’ (rewrite = phir se likhna). un lagaane se matlab ‘nahi’ (unhappy = khush nahi). Peechhe ful lagaane se matlab ‘bhara hua’ (wonderful).", "‘re’ at the start means again (rewrite = write again). ‘un’ means not (unhappy = not happy). ‘ful’ at the end means full of (wonderful = full of wonder)."]},
+        {"book": true, "skills": ["book.grammar", "grammar.prefix_suffix"], "pairs": ["नए शब्द को उसके मतलब से जोड़ो (re, un)", "Naye shabd ko uske matlab se jodo (re, un)", "Join each new word to its meaning (re, un)", [
+          ["retotal", "total again", "फिर से जोड़ना", "phir se jodna"],
+          ["retell", "tell again", "फिर से बताना", "phir se bataana"],
+          ["redial", "dial again", "फिर से नंबर मिलाना", "phir se number milaana"],
+          ["unofficial", "not official", "ग़ैर-सरकारी", "gair-sarkaari"],
+          ["uncomfortable", "not comfortable", "असहज", "asahaj"],
+          ["unexpected", "not expected", "अचानक, जिसकी उम्मीद न हो", "achaanak, jiski ummeed na ho"]]]},
+        {"book": true, "skills": ["book.grammar", "grammar.prefix_suffix"], "pairs": ["ful वाले शब्द को उसके मतलब से जोड़ो", "ful waale shabd ko uske matlab se jodo", "Join each -ful word to its meaning", [
+          ["harmful", "full of harm", "नुक़सानदेह", "nuksaandeh"],
+          ["hopeful", "full of hope", "आशा से भरा", "aasha se bhara"],
+          ["fearful", "full of fear", "डरा हुआ", "dara hua"],
+          ["wonderful", "full of wonder", "अद्भुत", "adbhut"]]]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें", "Chalo baat karein", "Let's Talk"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब कहती है: शब्दों की जोड़ियाँ बनाओ, जैसे old table, old man। सही जोड़ी चुनो।", "Kitaab kehti hai: shabdon ki jodiyaan banao, jaise old table, old man. Sahi jodi chuno.", "The book says: make word pairs like old table, old man. Pick the pair that makes sense."]},
+        {"book": true, "fb": ["The ___ train had no empty seats.", "crowded", ["crowded", "weak", "torn"], "भीड़ वाली ट्रेन में कोई सीट खाली नहीं थी।", "Bheed waali train mein koi seat khaali nahi thi."]},
+        {"book": true, "fb": ["I need a new ticket. This one is ___.", "torn", ["torn", "strong", "crowded"], "मुझे नया टिकट चाहिए। यह फटा हुआ है।", "Mujhe naya ticket chahiye. Yeh phata hua hai."]},
+        {"book": true, "fb": ["He bought a ___ ticket.", "first class", ["first class", "weak", "small"], "उसने फ़र्स्ट क्लास का टिकट ख़रीदा।", "Usne first class ka ticket khareeda."]},
+        {"book": true, "fb": ["The ___ man could not lift the heavy box.", "weak", ["weak", "first class", "crowded"], "कमज़ोर आदमी भारी डिब्बा नहीं उठा सका।", "Kamzor aadmi bhaari dibba nahi utha saka."]},
+        {"card": ["अब टिकट खिड़की पर बात करते हैं। मैं टिकट बाबू हूँ, तुम इंदौर का टिकट माँगो।", "Ab ticket khidki par baat karte hain. Main ticket babu hoon, tum Indore ka ticket maango.", "Now let's talk at the ticket window. I am the ticket clerk; ask for a ticket to Indore."]},
+        {"type": "roleplay", "scene": "🎫", "turns": [
+          {"id": "hello", "tinku": "Good morning! Where do you want to go?", "meaning": ["सुप्रभात! आपको कहाँ जाना है?", "Suprabhaat! Aapko kahan jaana hai?"],
+            "replies": [
+              {"say": "I want to go to Indore.", "meaning": ["मुझे इंदौर जाना है।", "Mujhe Indore jaana hai."], "patterns": ["i want to go to *", "to *", "* indore", "*", "* *"]}
+            ]},
+          {"id": "how", "tinku": "How many tickets do you need?", "meaning": ["आपको कितने टिकट चाहिए?", "Aapko kitne ticket chahiye?"],
+            "replies": [
+              {"say": "I need one ticket, please.", "meaning": ["मुझे एक टिकट चाहिए।", "Mujhe ek ticket chahiye."], "patterns": ["i need * ticket *", "i need * tickets", "one ticket *", "* ticket", "*"]}
+            ]},
+          {"id": "class", "tinku": "Second class or A/C class?", "meaning": ["सेकंड क्लास या एसी क्लास?", "Second class ya AC class?"],
+            "replies": [
+              {"say": "Second class, please.", "meaning": ["सेकंड क्लास, प्लीज़।", "Second class, please."], "patterns": ["second class *", "second class", "second"]},
+              {"say": "A/C class, please.", "meaning": ["एसी क्लास, प्लीज़।", "AC class, please."], "patterns": ["a c class *", "ac class *", "a c *", "ac *", "a c", "ac"]}
+            ]},
+          {"id": "pay", "tinku": "Here is your ticket. Have a happy journey!", "meaning": ["यह रहा आपका टिकट। आपकी यात्रा शुभ हो!", "Yeh raha aapka ticket. Aapki yaatra shubh ho!"],
+            "replies": [
+              {"say": "Thank you very much!", "meaning": ["बहुत-बहुत शुक्रिया!", "Bahut-bahut shukriya!"], "patterns": ["thank you *", "thank you", "thanks *", "thanks"]}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: यात्रा और छुट्टी की अर्ज़ी", "Chalo likhein: yaatra aur chhutti ki arzi", "Let's Write: a journey and a leave application"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब का पहला सवाल: अपनी किसी यात्रा के बारे में लिखो। सवालों के जवाब देते जाओ, पैराग्राफ़ बन जाएगा: कब और कहाँ गए? कौन साथ था? क्या देखा?", "Kitaab ka pehla sawaal: apni kisi yaatra ke baare mein likho. Sawaalon ke jawab dete jaao, paragraph ban jaayega: kab aur kahan gaye? Kaun saath tha? Kya dekha?", "The book's first task: write about a journey. Answer the questions one by one and you have a paragraph: when and where did you go? Who was with you? What did you see?"]},
+        {"book": true, "build": ["कब और कहाँ गए: पिछली गर्मियों में मैं उज्जैन गया/गई।", "Kab aur kahan gaye: pichhli garmiyon mein main Ujjain gaya/gayi.", "Say when and where you went (Ujjain, last summer).", "Last summer I went to Ujjain by train.", "पिछली गर्मियों में मैं ट्रेन से उज्जैन गया/गई।", "Pichhli garmiyon mein main train se Ujjain gaya/gayi."]},
+        {"book": true, "build": ["तैयारी: हमने एक हफ़्ता पहले टिकट बुक किए।", "Taiyaari: humne ek hafta pehle ticket book kiye.", "Say how you planned the journey.", "We booked our tickets a week before.", "हमने एक हफ़्ता पहले टिकट बुक किए।", "Humne ek hafta pehle ticket book kiye."]},
+        {"book": true, "build": ["कौन साथ था: मेरे मम्मी-पापा और बहन साथ थे।", "Kaun saath tha: mere mummy-papa aur behen saath the.", "Say who went with you.", "My parents and my sister went with me.", "मेरे मम्मी-पापा और बहन मेरे साथ गए।", "Mere mummy-papa aur behen mere saath gaye."]},
+        {"book": true, "build": ["अनुभव: सफ़र बहुत मज़ेदार था।", "Anubhav: safar bahut mazedaar tha.", "Say how the journey was.", "The journey was very enjoyable.", "सफ़र बहुत मज़ेदार था।", "Safar bahut mazedaar tha."]},
+        {"card": ["किताब का दूसरा सवाल: प्रिंसिपल को चार दिन की छुट्टी की अर्ज़ी। परीक्षा में यह ढाँचा याद रखो: To, The Principal, (School name). Subject: Application for four days' leave. Sir/Madam, I am a student of class VII. I have to go out of station with my family. So I request you to grant me leave for four days. Thanking you. Yours obediently, (Your name), Class VII.", "Kitaab ka doosra sawaal: principal ko chaar din ki chhutti ki arzi. Pariksha mein yeh dhaancha yaad rakho: To, The Principal, (School name). Subject: Application for four days' leave. Sir/Madam, I am a student of class VII. I have to go out of station with my family. So I request you to grant me leave for four days. Thanking you. Yours obediently, (Your name), Class VII.", "The book's second task: a leave application to the principal. Remember this format for the exam: To, The Principal, (School name). Subject: Application for four days' leave. Sir/Madam, I am a student of class VII. I have to go out of station with my family. So I request you to grant me leave for four days. Thanking you. Yours obediently, (Your name), Class VII."]},
+        {"book": true, "build": ["अर्ज़ी की मुख्य लाइन: कृपया मुझे चार दिन की छुट्टी दें।", "Arzi ki mukhya line: kripya mujhe chaar din ki chhutti dein.", "The main line of the application: ask for four days' leave.", "I request you to grant me leave for four days.", "कृपया मुझे चार दिन की छुट्टी देने की कृपा करें।", "Kripya mujhe chaar din ki chhutti dene ki kripa karein.", ["give"]]},
+        {"q": ["How does a leave application to the principal end?", "प्रिंसिपल को अर्ज़ी कैसे ख़त्म होती है?", "Principal ko arzi kaise khatm hoti hai?", ["Thanking you. Yours obediently,", "Bye bye! See you,", "Your best friend,"], "Thanking you. Yours obediently,"]},
+        {"q": ["What do we write first in a leave application?", "छुट्टी की अर्ज़ी में सबसे पहले क्या लिखते हैं?", "Chhutti ki arzi mein sabse pehle kya likhte hain?", ["To, The Principal,", "Dear friend,", "Thanking you."], "To, The Principal,"]}
+      ]
+    },
+    {
+      "emoji": "🚒", "title": ["चलो करके देखें: फ़ायर स्टेशन को फ़ोन", "Chalo karke dekhein: fire station ko phone", "Let's Do It: calling the fire station"], "book": true,
+      "skills": ["book.activity", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब में दीपिका फ़ायर स्टेशन को फ़ोन करती है। मैं फ़ायर ऑफ़िसर हूँ, तुम दीपिका बनो और उसकी लाइनें बोलो।", "Kitaab mein Dipika fire station ko phone karti hai. Main fire officer hoon, tum Dipika bano aur uski lines bolo.", "In the book, Dipika calls the fire station. I am the fire officer; you be Dipika and say her lines."]},
+        {"book": true, "type": "roleplay", "scene": "🚒", "turns": [
+          {"id": "start", "tinku": "Hello, fire station. Who is calling?", "meaning": ["हेलो, फ़ायर स्टेशन। कौन बोल रहा है?", "Hello, fire station. Kaun bol raha hai?"],
+            "replies": [
+              {"say": "Hello! Is this the fire station?", "meaning": ["हेलो! क्या यह फ़ायर स्टेशन है?", "Hello! Kya yeh fire station hai?"], "patterns": ["hello is this the fire station", "is this the fire station", "hello *", "*"]}
+            ]},
+          {"id": "problem", "tinku": "Yes, please. What's the problem?", "meaning": ["जी हाँ। क्या समस्या है?", "Ji haan. Kya samasya hai?"],
+            "replies": [
+              {"say": "I am Dipika calling from Jail Road.", "meaning": ["मैं जेल रोड से दीपिका बोल रही हूँ।", "Main Jail Road se Dipika bol rahi hoon."], "patterns": ["i am * calling from *", "i am *", "*", "* *"]}
+            ]},
+          {"id": "what", "tinku": "Yes, please. What has happened?", "meaning": ["जी, बताइए। क्या हुआ है?", "Ji, bataiye. Kya hua hai?"],
+            "replies": [
+              {"say": "My neighbour's house is on fire.", "meaning": ["मेरे पड़ोसी के घर में आग लगी है।", "Mere padosi ke ghar mein aag lagi hai."], "patterns": ["my neighbours house is on fire", "* house is on fire", "* on fire", "* fire *"]}
+            ]},
+          {"id": "address", "tinku": "Give us the exact address, please.", "meaning": ["कृपया हमें पूरा पता बताइए।", "Kripya humein poora pata bataiye."],
+            "replies": [
+              {"say": "Come to the Gandhi Eye Hospital. It's the third house on your right.", "meaning": ["गांधी आई हॉस्पिटल आइए। दाईं ओर तीसरा घर है।", "Gandhi Eye Hospital aaiye. Daayin or teesra ghar hai."], "patterns": ["come to the gandhi eye hospital *", "come to *", "* hospital *", "*", "* *", "* * *"]}
+            ]},
+          {"id": "coming", "tinku": "Alright, we are just coming!", "meaning": ["ठीक है, हम अभी आ रहे हैं!", "Theek hai, hum abhi aa rahe hain!"],
+            "replies": [
+              {"say": "Thank you! Please come quickly.", "meaning": ["शुक्रिया! जल्दी आइए।", "Shukriya! Jaldi aaiye."], "patterns": ["thank you *", "thank you", "please come *", "*"]}
+            ]}
+        ]},
+        {"q": ["Which number do you call for the fire brigade in India?", "भारत में फ़ायर ब्रिगेड के लिए कौन सा नंबर मिलाते हैं?", "Bharat mein fire brigade ke liye kaun sa number milaate hain?", ["101", "108", "100"], "101", "We call 101 for the fire brigade. 112 also works for all emergencies.", "फ़ायर ब्रिगेड के लिए 101 मिलाते हैं। 112 हर मुसीबत में काम करता है।", "Fire brigade ke liye 101 milaate hain. 112 har museebat mein kaam karta hai."]},
+        {"card": ["किताब का दूसरा काम: रेलवे रिज़र्वेशन फ़ॉर्म भरना। उसमें ये चीज़ें लिखते हैं: Name (नाम), Age (उम्र), Train number (ट्रेन नंबर), From (कहाँ से), To (कहाँ तक), Date of journey (यात्रा की तारीख़), Class (क्लास)।", "Kitaab ka doosra kaam: railway reservation form bharna. Usmein yeh cheezein likhte hain: Name (naam), Age (umar), Train number, From (kahan se), To (kahan tak), Date of journey (yaatra ki taareekh), Class.", "The book's second task: filling a railway reservation form. It asks for: Name, Age, Train number, From, To, Date of journey and Class."]},
+        {"q": ["In a reservation form, what do you write under ‘From’?", "रिज़र्वेशन फ़ॉर्म में ‘From’ में क्या लिखते हैं?", "Reservation form mein ‘From’ mein kya likhte hain?", ["the station where the journey starts", "your father's name", "the price of the ticket"], "the station where the journey starts"]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: रेल यात्रा", "Aur seekho: rail yaatra", "Learn more: train travel"], "book": false,
+      "skills": ["vocab.vehicles"],
+      "steps": [
+        {"pairs": ["रेल यात्रा के शब्दों को उनके मतलब से जोड़ो", "Rail yaatra ke shabdon ko unke matlab se jodo", "Join the train words to their meanings", [
+          ["berth", "a bed on a train", "ट्रेन की सोने वाली सीट", "train ki sone waali seat"],
+          ["booking counter", "where you buy tickets", "टिकट खिड़की", "ticket khidki"],
+          ["engine", "the front part that pulls the train", "इंजन", "engine"],
+          ["track", "the rails a train runs on", "पटरी", "patri"],
+          ["signal", "a light that tells a train to stop or go", "सिग्नल", "signal"]]]},
+        {"fb": ["The train stopped at the red ___.", "signal", ["signal", "berth", "fare"], "ट्रेन लाल सिग्नल पर रुकी।", "Train laal signal par ruki."]},
+        {"fb": ["Please stand behind the yellow line on the ___.", "platform", ["platform", "ticket", "luggage"], "कृपया प्लेटफ़ॉर्म पर पीली लाइन के पीछे खड़े रहें।", "Kripya platform par peeli line ke peechhe khade rahein."]},
+        {"q": ["Which is the right thing to do on a train?", "ट्रेन में क्या करना सही है?", "Train mein kya karna sahi hai?", ["Keep your ticket safe and your luggage with you.", "Throw garbage out of the window.", "Pull the chain for fun."], "Keep your ticket safe and your luggage with you."]},
+        {"q": ["Bhopal and Indore are cities of which state?", "भोपाल और इंदौर किस राज्य के शहर हैं?", "Bhopal aur Indore kis rajya ke shahar hain?", ["Madhya Pradesh", "Bihar", "Kerala"], "Madhya Pradesh"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 5 का टेस्ट", "Paath 5 ka test", "Lesson 5 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Why did Vinod decide to travel by A/C class?", "विनोद ने एसी क्लास क्यों चुनी?", "Vinod ne AC class kyon chuni?", ["He had a lot of money.", "The train was overcrowded.", "He was sick."], "The train was overcrowded."]},
+        {"book": true, "q": ["The young man who got in just when the train moved ...", "चलती ट्रेन में चढ़ने वाला नौजवान ...", "Chalti train mein chadhne waala naujawaan ...", ["was well dressed", "did not seem to have a job", "was carrying a new suitcase"], "did not seem to have a job"]},
+        {"book": true, "q": ["Which happened last?", "आख़िर में क्या हुआ?", "Aakhir mein kya hua?", ["Vinod paid the difference.", "The T.T.E. appeared.", "Vinod wanted to go back to Indore."], "Vinod paid the difference."]},
+        {"book": true, "skills": ["book.words"], "fb": ["We must have a ___ for travelling in a train.", "valid ticket", ["valid ticket", "vacant seat", "well-dressed"], "ट्रेन में सफ़र के लिए सही टिकट होना चाहिए।", "Train mein safar ke liye sahi ticket hona chahiye."]},
+        {"book": true, "skills": ["book.words"], "q": ["Encircle the odd word: train, bus, house, aeroplane", "अलग शब्द चुनो", "Alag shabd chuno", ["train", "bus", "house", "aeroplane"], "house"]},
+        {"book": true, "skills": ["book.words"], "q": ["A place where aeroplanes land and take off", "जहाँ हवाई जहाज़ उतरते और उड़ते हैं", "Jahan hawaai jahaaz utarte aur udte hain", ["airport", "platform", "bridge"], "airport"]},
+        {"book": true, "skills": ["book.grammar", "grammar.did_questions"], "q": ["Make a question: Vinod lived in Indore.", "सवाल बनाओ", "Sawaal banao", ["Did Vinod live in Indore?", "Did Vinod lived in Indore?", "Vinod did live in Indore?"], "Did Vinod live in Indore?"]},
+        {"book": true, "skills": ["book.grammar", "grammar.prefix_suffix"], "q": ["un + comfortable = ?", "un लगाकर नया शब्द", "un lagaakar naya shabd", ["uncomfortable", "recomfortable", "comfortableful"], "uncomfortable"]},
+        {"book": true, "skills": ["book.grammar", "grammar.prefix_suffix"], "q": ["What does ‘hopeful’ mean?", "‘hopeful’ का मतलब?", "‘hopeful’ ka matlab?", ["full of hope", "without hope", "hope again"], "full of hope"]},
+        {"book": true, "skills": ["book.writing"], "q": ["A leave application to the principal begins with ...", "प्रिंसिपल को अर्ज़ी शुरू होती है ...", "Principal ko arzi shuru hoti hai ...", ["To, The Principal,", "Dear Rahul,", "Thanking you."], "To, The Principal,"]}
+      ]
+    }
+  ]
+}

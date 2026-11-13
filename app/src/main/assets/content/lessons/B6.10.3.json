@@ -1,0 +1,350 @@
+{
+  "id": "B6.10.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.10.3.S02",
+    "B6.10.3.S03",
+    "B6.10.3.S04",
+    "B6.10.3.S05",
+    "B6.10.3.S06",
+    "B6.10.3.S07",
+    "B6.10.3.S08",
+    "B6.10.3.S09",
+    "B6.10.3.S10",
+    "B6.10.3.S11",
+    "B6.10.3.S12",
+    "B6.10.3.S13",
+    "B6.10.3.S14",
+    "B6.10.3.S15"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.10.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 61 पर ‘A Kind Boy’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 61 par ‘A Kind Boy’ padho. Phir jawab do.",
+        "en": "Read ‘A Kind Boy’ on page 61 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The boy was studying.",
+      "questionMeaning": {
+        "hi": "लड़का पढ़ रहा था।",
+        "hinglish": "Ladka padh raha tha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The mother gave presents to the boy.",
+      "questionMeaning": {
+        "hi": "माँ ने लड़के को तोहफ़े दिए।",
+        "hinglish": "Maa ne ladke ko tohfe diye."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. The mother called him for breakfast.",
+      "modelMeaning": {
+        "hi": "गलत। माँ ने उसे नाश्ते के लिए बुलाया।",
+        "hinglish": "Galat. Maa ne use naashte ke liye bulaaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The boy was very hungry.",
+      "questionMeaning": {
+        "hi": "लड़का बहुत भूखा था।",
+        "hinglish": "Ladka bahut bhookha tha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. The beggar was very hungry.",
+      "modelMeaning": {
+        "hi": "गलत। भिखारी बहुत भूखा था।",
+        "hinglish": "Galat. Bhikhaari bahut bhookha tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The beggar had not eaten for two days.",
+      "questionMeaning": {
+        "hi": "भिखारी ने दो दिन से कुछ नहीं खाया था।",
+        "hinglish": "Bhikhaari ne do din se kuch nahi khaaya tha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The boy gave his breakfast to the beggar.",
+      "questionMeaning": {
+        "hi": "लड़के ने अपना नाश्ता भिखारी को दिया।",
+        "hinglish": "Ladke ne apna naashta bhikhaari ko diya."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The boy was later known as Sardar Bhagat Singh.",
+      "questionMeaning": {
+        "hi": "लड़का बाद में सरदार भगत सिंह के नाम से जाना गया।",
+        "hinglish": "Ladka baad mein Sardar Bhagat Singh ke naam se jaana gaya."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. He was later known as Netaji Subhash Chandra Bose.",
+      "modelMeaning": {
+        "hi": "गलत। वह बाद में नेताजी सुभाष चंद्र बोस के नाम से जाना गया।",
+        "hinglish": "Galat. Woh baad mein Netaji Subhash Chandra Bose ke naam se jaana gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where was the young boy sitting?",
+      "questionMeaning": {
+        "hi": "लड़का कहाँ बैठा था?",
+        "hinglish": "Ladka kahan baitha tha?"
+      },
+      "options": [
+        "at his table near the window",
+        "in the kitchen",
+        "under a tree"
+      ],
+      "answer": "at his table near the window",
+      "modelAnswer": "The young boy was sitting at his table near the window.",
+      "modelMeaning": {
+        "hi": "लड़का खिड़की के पास अपनी मेज़ पर बैठा था।",
+        "hinglish": "Ladka khidki ke paas apni mez par baitha tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What was he doing near the window?",
+      "questionMeaning": {
+        "hi": "वह खिड़की के पास क्या कर रहा था?",
+        "hinglish": "Woh khidki ke paas kya kar raha tha?"
+      },
+      "options": [
+        "his homework",
+        "sleeping",
+        "playing"
+      ],
+      "answer": "his homework",
+      "modelAnswer": "He was doing his homework.",
+      "modelMeaning": {
+        "hi": "वह अपना होमवर्क कर रहा था।",
+        "hinglish": "Woh apna homework kar raha tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did his mother call him?",
+      "questionMeaning": {
+        "hi": "माँ ने उसे क्यों बुलाया?",
+        "hinglish": "Maa ne use kyon bulaaya?"
+      },
+      "options": [
+        "to have his breakfast",
+        "to go to school",
+        "to buy vegetables"
+      ],
+      "answer": "to have his breakfast",
+      "modelAnswer": "His mother called him to have his breakfast.",
+      "modelMeaning": {
+        "hi": "माँ ने उसे नाश्ता करने के लिए बुलाया।",
+        "hinglish": "Maa ne use naashta karne ke liye bulaaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the beggar say?",
+      "questionMeaning": {
+        "hi": "भिखारी ने क्या कहा?",
+        "hinglish": "Bhikhaari ne kya kaha?"
+      },
+      "options": [
+        "Please give me something to eat. I have not eaten for two days.",
+        "Please give me money.",
+        "Please give me clothes."
+      ],
+      "answer": "Please give me something to eat. I have not eaten for two days.",
+      "modelAnswer": "The beggar said, \"Please give me something to eat. I have not eaten anything for two days.\"",
+      "modelMeaning": {
+        "hi": "भिखारी ने कहा, ‘कृपया मुझे कुछ खाने को दो। मैंने दो दिन से कुछ नहीं खाया।’",
+        "hinglish": "Bhikhaari ne kaha, ‘Kripya mujhe kuch khaane ko do. Maine do din se kuch nahi khaaya.’"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the boy give to the beggar?",
+      "questionMeaning": {
+        "hi": "लड़के ने भिखारी को क्या दिया?",
+        "hinglish": "Ladke ne bhikhaari ko kya diya?"
+      },
+      "options": [
+        "his breakfast",
+        "his books",
+        "money"
+      ],
+      "answer": "his breakfast",
+      "modelAnswer": "The boy gave his breakfast to the beggar.",
+      "modelMeaning": {
+        "hi": "लड़के ने भिखारी को अपना नाश्ता दिया।",
+        "hinglish": "Ladke ne bhikhaari ko apna naashta diya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the boy give his breakfast to the beggar?",
+      "questionMeaning": {
+        "hi": "लड़के ने अपना नाश्ता भिखारी को क्यों दिया?",
+        "hinglish": "Ladke ne apna naashta bhikhaari ko kyon diya?"
+      },
+      "options": [
+        "The beggar was very poor and hungry.",
+        "He did not like the food.",
+        "His mother told him to."
+      ],
+      "answer": "The beggar was very poor and hungry.",
+      "modelAnswer": "The boy gave his breakfast to the beggar because the beggar was very poor and hungry. The boy felt sorry for him.",
+      "modelMeaning": {
+        "hi": "लड़के ने नाश्ता दिया क्योंकि भिखारी बहुत ग़रीब और भूखा था। लड़के को उस पर दया आई।",
+        "hinglish": "Ladke ne naashta diya kyonki bhikhaari bahut gareeb aur bhookha tha. Ladke ko us par daya aayi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S14",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did his mother find on the bookshelf?",
+      "questionMeaning": {
+        "hi": "माँ को किताबों की अलमारी में क्या मिला?",
+        "hinglish": "Maa ko kitaabon ki almaari mein kya mila?"
+      },
+      "options": [
+        "her son's breakfasts packed in a corner, with red ants around",
+        "money",
+        "toys"
+      ],
+      "answer": "her son's breakfasts packed in a corner, with red ants around",
+      "modelAnswer": "His mother found her son's breakfasts packed in a corner of the bookshelf, with red ants all around.",
+      "modelMeaning": {
+        "hi": "माँ को अलमारी के कोने में बेटे के नाश्ते रखे मिले, और चारों ओर लाल चींटियाँ थीं।",
+        "hinglish": "Maa ko almaari ke kone mein bete ke naashte rakhe mile, aur chaaron or laal cheentiyaan thin."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.3.S15",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the boy keep his breakfast on the bookshelf?",
+      "questionMeaning": {
+        "hi": "लड़के ने नाश्ता अलमारी में क्यों रखा?",
+        "hinglish": "Ladke ne naashta almaari mein kyon rakha?"
+      },
+      "options": [
+        "He was waiting for the beggar to take his share.",
+        "He forgot to eat it.",
+        "He did not like it."
+      ],
+      "answer": "He was waiting for the beggar to take his share.",
+      "modelAnswer": "The boy kept his breakfast on the bookshelf because he was waiting for the beggar to come and take his share.",
+      "modelMeaning": {
+        "hi": "लड़के ने नाश्ता अलमारी में रखा क्योंकि वह भिखारी के आकर अपना हिस्सा लेने का इंतज़ार कर रहा था।",
+        "hinglish": "Ladke ne naashta almaari mein rakha kyonki woh bhikhaari ke aakar apna hissa lene ka intezaar kar raha tha."
+      }
+    }
+  ]
+}

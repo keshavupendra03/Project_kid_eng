@@ -1,0 +1,181 @@
+{
+  "grade": 6, "number": 9, "emoji": "👞", "title": "The Cobbler and the Fairies", "pages": "54–60",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["यह एक नाटक है: ग़रीब मोची देनू और उसकी पत्नी धनिया के पास आख़िरी चमड़ा बचा है। रात में परियाँ आकर उनके लिए जूते बना देती हैं!", "Yeh ek naatak hai: gareeb mochi Denu aur uski patni Dhania ke paas aakhiri chamda bacha hai. Raat mein pariyaan aakar unke liye joote bana deti hain!", "This is a play: a poor cobbler, Denu, and his wife Dhania have their last piece of leather. At night, fairies come and make shoes for them!"]},
+        {"book": true, "q": ["Who is a cobbler?", "मोची (cobbler) कौन होता है?", "Mochi (cobbler) kaun hota hai?", ["a person who makes and mends shoes", "a person who cuts hair", "a person who makes gold ornaments"], "a person who makes and mends shoes", "A cobbler is a person who makes and mends shoes.", "मोची वह है जो जूते बनाता और ठीक करता है।", "Mochi woh hai jo joote banaata aur theek karta hai."]},
+        {"book": true, "q": ["What is a fairy?", "परी क्या होती है?", "Pari kya hoti hai?", ["a tiny magical person in stories", "a big animal", "a kind of shoe"], "a tiny magical person in stories", "A fairy is a tiny magical person in stories, often with wings.", "परी कहानियों में एक छोटी जादुई प्राणी होती है, अक्सर पंखों वाली।", "Pari kahaaniyon mein ek chhoti jaadui praani hoti hai, aksar pankhon waali."]},
+        {"word": ["leather", "चमड़ा", "chamda", "the skin of animals used to make shoes and bags", "My father has a leather belt.", "पापा के पास चमड़े की बेल्ट है।", "Papa ke paas chamde ki belt hai."]},
+        {"word": ["workshop", "कारख़ाना, काम की जगह", "kaarkhaana, kaam ki jagah", "a room where things are made or mended", "The carpenter works in his workshop.", "बढ़ई अपनी काम की जगह पर काम करता है।", "Badhai apni kaam ki jagah par kaam karta hai."]},
+        {"word": ["needy", "ज़रूरतमंद", "zaroorat-mand", "poor; needing help", "We should help the needy.", "हमें ज़रूरतमंदों की मदद करनी चाहिए।", "Humein zaroorat-mandon ki madad karni chahiye."]},
+        {"word": ["greedy", "लालची", "laalchi", "wanting more than you need", "The greedy dog lost its bone.", "लालची कुत्ते ने अपनी हड्डी खो दी।", "Laalchi kutte ne apni haddi kho di."]},
+        {"word": ["sew", "सिलना", "silna", "to join cloth or leather with a needle and thread (says ‘so’)", "Mother can sew clothes.", "माँ कपड़े सिल सकती हैं।", "Maa kapde sil sakti hain."]},
+        {"card": ["किताब का नोट: sew को ‘सो’ बोलते हैं। तीन रूप: sew (सो), sewed (सोड), sewn (सोन)।", "Kitaab ka note: sew ko ‘so’ bolte hain. Teen roop: sew (so), sewed (sod), sewn (son).", "A note from the book: ‘sew’ sounds like ‘so’. Its three forms: sew, sewed, sewn."]},
+        {"sayw": ["sew", "सिलना", "silna"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"book": true, "type": "sort_groups",
+          "instruction": ["चमड़े से बनी चीज़ें कौन सी हैं?", "Chamde se bani cheezein kaun si hain?", "Which things are made of leather?"],
+          "groups": [
+            {"id": "leather", "name": "made of leather", "emoji": "👜", "meaning": ["चमड़े से बनी", "chamde se bani"]},
+            {"id": "not", "name": "not leather", "emoji": "❌", "meaning": ["चमड़े की नहीं", "chamde ki nahi"]}
+          ],
+          "items": [
+            {"text": "bags", "emoji": "👜", "groups": ["leather"]},
+            {"text": "shoes", "emoji": "👞", "groups": ["leather"]},
+            {"text": "belt", "emoji": "🧷", "groups": ["leather"]},
+            {"text": "purse", "emoji": "👛", "groups": ["leather"]},
+            {"text": "jacket", "emoji": "🧥", "groups": ["leather"]},
+            {"text": "glass", "emoji": "🥛", "groups": ["not"]},
+            {"text": "pencil", "emoji": "✏️", "groups": ["not"]}
+          ]},
+        {"card": ["उल्टे शब्द (opposites): happy → unhappy। अब बाकी के उल्टे बताओ।", "Ulte shabd (opposites): happy → unhappy. Ab baaki ke ulte batao.", "Opposites: happy → unhappy. Now find the rest."]},
+        {"book": true, "q": ["Opposite of ‘kind’", "‘kind’ का उल्टा", "‘kind’ ka ulta", ["unkind", "kindly", "rekind"], "unkind"]},
+        {"book": true, "q": ["Opposite of ‘night’", "‘night’ का उल्टा", "‘night’ ka ulta", ["day", "dark", "moon"], "day"]},
+        {"book": true, "q": ["Opposite of ‘beautiful’", "‘beautiful’ का उल्टा", "‘beautiful’ ka ulta", ["ugly", "pretty", "lovely"], "ugly"]},
+        {"book": true, "q": ["Opposite of ‘bright’", "‘bright’ का उल्टा", "‘bright’ ka ulta", ["dull", "shining", "light"], "dull"]},
+        {"book": true, "pairs": ["लोगों को उनके काम से जोड़ो", "Logon ko unke kaam se jodo", "Match the people with the work they do", [
+          ["dentist", "looks after your teeth", "दाँतों का डॉक्टर", "daanton ka doctor"],
+          ["goldsmith", "makes ornaments of gold", "सुनार", "sunaar"],
+          ["cobbler", "makes and mends shoes", "मोची", "mochi"],
+          ["barber", "cuts your hair", "नाई", "naai"],
+          ["carpenter", "makes tables and chairs", "बढ़ई", "badhai"]]]},
+        {"card": ["बड़े शब्द में छोटे शब्द छिपे होते हैं: leather में eat और her।", "Bade shabd mein chhote shabd chhipe hote hain: leather mein eat aur her.", "Bigger words hide smaller words: leather hides eat and her."]},
+        {"book": true, "q": ["Which small word is in ‘teacher’?", "‘teacher’ में कौन सा छोटा शब्द है?", "‘teacher’ mein kaun sa chhota shabd hai?", ["tea", "toe", "ten"], "tea", "teacher hides tea, each and ache.", "teacher में tea, each और ache छिपे हैं।", "teacher mein tea, each aur ache chhipe hain."]},
+        {"book": true, "q": ["Which small word is in ‘chair’?", "‘chair’ में कौन सा छोटा शब्द है?", "‘chair’ mein kaun sa chhota shabd hai?", ["hair", "chin", "car"], "hair", "chair hides hair and air.", "chair में hair और air छिपे हैं।", "chair mein hair aur air chhipe hain."]},
+        {"book": true, "q": ["Which small word is in ‘carpet’?", "‘carpet’ में कौन सा छोटा शब्द है?", "‘carpet’ mein kaun sa chhota shabd hai?", ["pet", "cap", "pot"], "pet", "carpet hides car and pet.", "carpet में car और pet छिपे हैं।", "carpet mein car aur pet chhipe hain."]},
+        {"book": true, "q": ["Which small word is in ‘fairy’?", "‘fairy’ में कौन सा छोटा शब्द है?", "‘fairy’ mein kaun sa chhota shabd hai?", ["fair", "fry", "fire"], "fair", "fairy hides fair and air.", "fairy में fair और air छिपे हैं।", "fairy mein fair aur air chhipe hain."]},
+        {"book": true, "pairs": ["तुकबंदी वाली जोड़ियाँ बनाओ", "Tukbandi waali jodiyaan banao", "Find the rhyming pairs", [
+          ["fear", "dear", "डर / प्यारा", "dar / pyaara"],
+          ["leather", "weather", "चमड़ा / मौसम", "chamda / mausam"],
+          ["bright", "night", "चमकीला / रात", "chamkeela / raat"],
+          ["greedy", "needy", "लालची / ज़रूरतमंद", "laalchi / zaroorat-mand"],
+          ["wife", "knife", "पत्नी / चाकू", "patni / chaaku"],
+          ["hide", "wide", "छिपना / चौड़ा", "chhipna / chauda"],
+          ["find", "kind", "ढूँढना / दयालु", "dhoondhna / dayaalu"],
+          ["shop", "flop", "दुकान / गिरना", "dukaan / girna"]]]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 54-56 पर नाटक ‘The Cobbler and the Fairies’ पढ़ो। फिर जवाब दो।", "Apni kitaab mein page 54-56 par naatak ‘The Cobbler and the Fairies’ padho. Phir jawab do.", "Read the play ‘The Cobbler and the Fairies’ on pages 54–56 of your book. Then answer."]},
+        {"book": true, "tf": ["Denu was a washerman.", "देनू धोबी था।", "Denu dhobi tha.", false, "False. Denu was a cobbler.", "गलत। देनू मोची था।", "Galat. Denu mochi tha."]},
+        {"book": true, "tf": ["The fairies made the shoes.", "परियों ने जूते बनाए।", "Pariyon ne joote banaaye.", true]},
+        {"book": true, "tf": ["Dhania sewed clothes for the fairies.", "धनिया ने परियों के लिए कपड़े सिले।", "Dhania ne pariyon ke liye kapde sile.", true]},
+        {"book": true, "tf": ["Denu made clothes for the fairies.", "देनू ने परियों के लिए कपड़े बनाए।", "Denu ne pariyon ke liye kapde banaaye.", false, "False. Dhania made the clothes.", "गलत। कपड़े धनिया ने बनाए।", "Galat. Kapde Dhania ne banaaye."]},
+        {"book": true, "tf": ["Dhania said that God will help them.", "धनिया ने कहा कि भगवान मदद करेंगे।", "Dhania ne kaha ki Bhagwaan madad karenge.", true]},
+        {"book": true, "q": ["Why was Denu worried?", "देनू परेशान क्यों था?", "Denu pareshaan kyon tha?", ["It was his last piece of leather and he had no money.", "His shoes were stolen.", "His wife was ill."], "It was his last piece of leather and he had no money.", "Denu was worried because it was his last piece of leather and he had no money to buy more. He feared they would have no food.", "देनू परेशान था क्योंकि आख़िरी चमड़ा बचा था और और ख़रीदने के पैसे नहीं थे। उसे डर था कि खाना नहीं मिलेगा।", "Denu pareshaan tha kyonki aakhiri chamda bacha tha aur aur khareedne ke paise nahi the. Use dar tha ki khaana nahi milega."]},
+        {"book": true, "q": ["What did Denu find in his workshop next morning?", "अगली सुबह देनू को काम की जगह पर क्या मिला?", "Agli subah Denu ko kaam ki jagah par kya mila?", ["a new pair of shining shoes", "a bag of gold", "a fairy sleeping"], "a new pair of shining shoes", "Next morning, Denu found a new pair of shoes shining bright in his workshop.", "अगली सुबह देनू को अपनी जगह पर चमकते नए जूते मिले।", "Agli subah Denu ko apni jagah par chamakte naye joote mile."]},
+        {"book": true, "q": ["What did Dhania make for the fairies?", "धनिया ने परियों के लिए क्या बनाया?", "Dhania ne pariyon ke liye kya banaaya?", ["nice clothes", "shoes", "sweets"], "nice clothes", "Dhania made nice, bright and colourful clothes for the fairies.", "धनिया ने परियों के लिए सुंदर रंग-बिरंगे कपड़े बनाए।", "Dhania ne pariyon ke liye sundar rang-birange kapde banaaye."]},
+        {"book": true, "q": ["How did Denu and Dhania find out who made the shoes?", "देनू और धनिया को कैसे पता चला कि जूते कौन बनाता है?", "Denu aur Dhania ko kaise pata chala ki joote kaun banaata hai?", ["They hid behind the door at night and watched.", "They asked their neighbours.", "They put a camera."], "They hid behind the door at night and watched.", "They hid behind the door at night and saw five fairies come in and make the shoes.", "उन्होंने रात को दरवाज़े के पीछे छिपकर देखा कि पाँच परियाँ आकर जूते बनाती हैं।", "Unhone raat ko darwaaze ke peechhe chhipkar dekha ki paanch pariyaan aakar joote banaati hain."]},
+        {"book": true, "q": ["What did the fairies do when they got new clothes?", "नए कपड़े पाकर परियों ने क्या किया?", "Naye kapde paakar pariyon ne kya kiya?", ["They put them on happily and sang and danced all night.", "They threw them away.", "They sold them."], "They put them on happily and sang and danced all night.", "The fairies put on the new clothes happily and sang and danced all night.", "परियों ने ख़ुशी से नए कपड़े पहने और सारी रात नाचीं-गाईं।", "Pariyon ne khushi se naye kapde pehne aur saari raat naachin-gaayin."]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: एक से अनेक (f → ves)", "Grammar: ek se anek (f → ves)", "Grammar in Use: one and many (f → ves)"], "book": true,
+      "skills": ["book.grammar", "grammar.plurals"],
+      "steps": [
+        {"card": ["f या fe पर ख़त्म होने वाले कई शब्दों में बहुवचन में ves लगता है: leaf → leaves, knife → knives।", "f ya fe par khatm hone waale kai shabdon mein bahuvachan mein ves lagta hai: leaf → leaves, knife → knives.", "Many words ending in f or fe change to ves in the plural: leaf → leaves, knife → knives."]},
+        {"book": true, "pairs": ["एक को अनेक से जोड़ो", "Ek ko anek se jodo", "Match one with many", [
+          ["leaf", "leaves", "पत्तियाँ", "pattiyaan"],
+          ["shelf", "shelves", "अलमारी के ख़ाने", "almaari ke khaane"],
+          ["knife", "knives", "चाकू", "chaaku"],
+          ["half", "halves", "आधे", "aadhe"],
+          ["wolf", "wolves", "भेड़िए", "bhediye"],
+          ["calf", "calves", "बछड़े", "bachhde"]]]},
+        {"fb": ["The tree has many green ___.", "leaves", ["leaves", "leafs", "leafes"], "पेड़ पर बहुत सी हरी पत्तियाँ हैं।", "Ped par bahut si hari pattiyaan hain."]},
+        {"fb": ["Cut the apple into two ___.", "halves", ["halves", "halfs", "half"], "सेब को दो आधे हिस्सों में काटो।", "Seb ko do aadhe hisson mein kaato."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: अगर तुम परी होते", "Chalo baat karein: agar tum pari hote", "Let's Talk: if you were a fairy"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब: सोचो तुम एक परी हो। मैं पूछूँगा ‘Would you like to ...?’ जवाब दो: ‘Yes, I would.’ या ‘No, I won't.’", "Kitaab: socho tum ek pari ho. Main poochhunga ‘Would you like to ...?’ Jawab do: ‘Yes, I would.’ ya ‘No, I won't.’", "The book: imagine you are a fairy. I'll ask ‘Would you like to ...?’ Answer ‘Yes, I would.’ or ‘No, I won't.’"]},
+        {"book": true, "type": "roleplay", "scene": "🧚", "turns": [
+          {"id": "poor", "tinku": "Would you like to give food to the poor?", "meaning": ["क्या तुम ग़रीबों को खाना देना चाहोगे?", "Kya tum gareebon ko khaana dena chahoge?"],
+            "replies": [
+              {"say": "Yes, I would.", "meaning": ["हाँ, मैं देना चाहूँगा/चाहूँगी।", "Haan, main dena chahunga/chahungi."], "patterns": ["yes i would", "yes *", "yes"]},
+              {"say": "No, I won't.", "meaning": ["नहीं, मैं नहीं दूँगा/दूँगी।", "Nahi, main nahi doonga/doongi."], "patterns": ["no i wont", "no i will not", "no *", "no"]}
+            ]},
+          {"id": "tv", "tinku": "Would you like to watch television all the time?", "meaning": ["क्या तुम हर समय टीवी देखना चाहोगे?", "Kya tum har samay TV dekhna chahoge?"],
+            "replies": [
+              {"say": "No, I won't.", "meaning": ["नहीं, मैं नहीं देखूँगा/देखूँगी।", "Nahi, main nahi dekhoonga/dekhoongi."], "patterns": ["no i wont", "no i will not", "no *", "no"]},
+              {"say": "Yes, I would.", "meaning": ["हाँ, मैं देखना चाहूँगा/चाहूँगी।", "Haan, main dekhna chahunga/chahungi."], "patterns": ["yes i would", "yes *", "yes"]}
+            ]},
+          {"id": "old", "tinku": "Would you like to use your money to help the old and the needy?", "meaning": ["क्या तुम अपने पैसे बूढ़ों और ज़रूरतमंदों की मदद में लगाना चाहोगे?", "Kya tum apne paise boodhon aur zaroorat-mandon ki madad mein lagaana chahoge?"],
+            "replies": [
+              {"say": "Yes, I would.", "meaning": ["हाँ, मैं ज़रूर लगाऊँगा/लगाऊँगी।", "Haan, main zaroor lagaaunga/lagaaungi."], "patterns": ["yes i would", "yes *", "yes"]},
+              {"say": "No, I won't.", "meaning": ["नहीं, मैं नहीं लगाऊँगा/लगाऊँगी।", "Nahi, main nahi lagaaunga/lagaaungi."], "patterns": ["no i wont", "no i will not", "no *", "no"]}
+            ]},
+          {"id": "books", "tinku": "Would you like to buy lots of good books to read?", "meaning": ["क्या तुम पढ़ने के लिए बहुत सी अच्छी किताबें ख़रीदना चाहोगे?", "Kya tum padhne ke liye bahut si achhi kitaabein khareedna chahoge?"],
+            "replies": [
+              {"say": "Yes, I would.", "meaning": ["हाँ, मैं ख़रीदना चाहूँगा/चाहूँगी।", "Haan, main khareedna chahunga/chahungi."], "patterns": ["yes i would", "yes *", "yes"], "next": "end"},
+              {"say": "No, I won't.", "meaning": ["नहीं, मैं नहीं ख़रीदूँगा/ख़रीदूँगी।", "Nahi, main nahi khareedoonga/khareedoongi."], "patterns": ["no i wont", "no i will not", "no *", "no"], "next": "end"}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: पहेलियाँ और काम", "Chalo likhein: paheliyaan aur kaam", "Let's Write: riddles and jobs"], "book": true,
+      "skills": ["book.writing", "vocab.jobs"],
+      "steps": [
+        {"book": true, "q": ["A bow of colours in the sky: r____", "आसमान में रंगों का धनुष", "Aasmaan mein rangon ka dhanush", ["rainbow", "rain", "river"], "rainbow"]},
+        {"book": true, "q": ["A big animal that eats sugarcane: e____", "गन्ना खाने वाला बड़ा जानवर", "Ganna khaane waala bada jaanwar", ["elephant", "eagle", "emu"], "elephant"]},
+        {"book": true, "q": ["Something that goes with you all the time: s____", "जो हर समय तुम्हारे साथ जाती है", "Jo har samay tumhare saath jaati hai", ["shadow", "school", "sun"], "shadow"]},
+        {"card": ["किताब के बॉक्स में दस पेशे (professions) छिपे हैं, जैसे architect। यहाँ हर पेशे को उसके काम से जोड़ो।", "Kitaab ke box mein das peshe (professions) chhipe hain, jaise architect. Yahan har peshe ko uske kaam se jodo.", "The box in the book hides ten professions, like architect. Here, join each profession to its work."]},
+        {"book": true, "pairs": ["पेशे को उसके काम से जोड़ो", "Peshe ko uske kaam se jodo", "Join each profession to its work", [
+          ["architect", "plans buildings", "भवन का नक़्शा बनाने वाला", "bhavan ka naksha banaane waala"],
+          ["nurse", "looks after patients", "नर्स", "nurse"],
+          ["driver", "drives a bus or car", "ड्राइवर", "driver"],
+          ["gardener", "looks after plants", "माली", "maali"],
+          ["advocate", "fights cases in court", "वकील", "vakeel"],
+          ["pilot", "flies an aeroplane", "पायलट", "pilot"]]]},
+        {"book": true, "pairs": ["पेशे को उसके काम से जोड़ो", "Peshe ko uske kaam se jodo", "Join each profession to its work", [
+          ["teacher", "teaches students", "शिक्षक", "shikshak"],
+          ["painter", "paints walls or pictures", "पेंटर", "painter"],
+          ["engineer", "builds machines and roads", "इंजीनियर", "engineer"],
+          ["artist", "draws and paints pictures", "कलाकार", "kalaakaar"]]]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: दया और मदद", "Aur seekho: daya aur madad", "Learn more: kindness and help"], "book": false,
+      "skills": ["vocab.feelings"],
+      "steps": [
+        {"q": ["What is the lesson of this play?", "इस नाटक की सीख क्या है?", "Is naatak ki seekh kya hai?", ["Be kind and thankful to those who help us.", "Never work hard.", "Fairies are greedy."], "Be kind and thankful to those who help us."]},
+        {"fb": ["The fairies like to help the ___.", "needy", ["needy", "greedy", "lazy"], "परियों को ज़रूरतमंदों की मदद करना पसंद है।", "Pariyon ko zaroorat-mandon ki madad karna pasand hai."]},
+        {"fb": ["They feed everybody except the ones who are ___.", "greedy", ["greedy", "needy", "kind"], "वे सबको खिलाती हैं, सिवाय लालचियों के।", "Woh sabko khilaati hain, sivaay laalchiyon ke."]},
+        {"pairs": ["अच्छे गुण जोड़ो", "Achhe gun jodo", "Join the good qualities", [
+          ["kind", "helpful and caring", "दयालु", "dayaalu"],
+          ["thankful", "saying thanks for help", "आभारी", "aabhaari"],
+          ["honest", "never cheating", "ईमानदार", "imaandaar"],
+          ["generous", "happy to give to others", "उदार", "udaar"]]]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 9 का टेस्ट", "Paath 9 ka test", "Lesson 9 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "tf": ["Denu was a washerman.", "देनू धोबी था।", "Denu dhobi tha.", false]},
+        {"book": true, "tf": ["Dhania sewed clothes for the fairies.", "धनिया ने परियों के कपड़े सिले।", "Dhania ne pariyon ke kapde sile.", true]},
+        {"book": true, "q": ["How did Denu and Dhania find out who made the shoes?", "उन्हें कैसे पता चला?", "Unhe kaise pata chala?", ["They hid behind the door at night and watched.", "They asked their neighbours.", "They put a camera."], "They hid behind the door at night and watched."]},
+        {"book": true, "skills": ["book.words"], "q": ["A barber ...", "नाई क्या करता है?", "Naai kya karta hai?", ["cuts your hair", "makes shoes", "makes ornaments"], "cuts your hair"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘greedy’?", "‘greedy’ से तुक?", "‘greedy’ se tuk?", ["needy", "wife", "shop"], "needy"]},
+        {"book": true, "skills": ["book.words"], "q": ["Opposite of ‘kind’", "‘kind’ का उल्टा", "‘kind’ ka ulta", ["unkind", "kindly", "rekind"], "unkind"]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘wolf’ is ...", "‘wolf’ का बहुवचन?", "‘wolf’ ka bahuvachan?", ["wolves", "wolfs", "wolfes"], "wolves"]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘shelf’ is ...", "‘shelf’ का बहुवचन?", "‘shelf’ ka bahuvachan?", ["shelves", "shelfs", "shelfes"], "shelves"]},
+        {"book": true, "skills": ["book.talk"], "q": ["Would you like to help the needy? (yes)", "हाँ में जवाब", "Haan mein jawab", ["Yes, I would.", "Yes, I do.", "Yes, I can."], "Yes, I would."]},
+        {"book": true, "skills": ["book.writing"], "q": ["Something that goes with you all the time:", "जो हमेशा साथ रहती है", "Jo hamesha saath rehti hai", ["shadow", "school", "sun"], "shadow"]}
+      ]
+    }
+  ]
+}

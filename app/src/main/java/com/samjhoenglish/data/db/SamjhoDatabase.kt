@@ -13,13 +13,14 @@ import androidx.room.RoomDatabase
     entities = [
         Child::class, LessonProgress::class, SkillState::class, ItemState::class,
         Attempt::class, StudySession::class, MissionState::class, SchoolLink::class, ReadingResult::class, ExpressResult::class,
+        SchoolTest::class, TestAttempt::class,
     ],
-    version = 6,
+    version = 7,
     // 2 adds the parent section, 3 school links, 4 reading results, 5 Tinku Express, 6 removes the Voice Diary
-    // (the app no longer keeps any recording of a child's voice). Children's existing progress is kept.
+    // (the app no longer keeps any recording of a child's voice), 7 adds school tests. Children's existing progress is kept.
     autoMigrations = [
         AutoMigration(from = 1, to = 2), AutoMigration(from = 2, to = 3), AutoMigration(from = 3, to = 4), AutoMigration(from = 4, to = 5),
-        AutoMigration(from = 5, to = 6, spec = SamjhoDatabase.DropVoiceDiary::class),
+        AutoMigration(from = 5, to = 6, spec = SamjhoDatabase.DropVoiceDiary::class), AutoMigration(from = 6, to = 7),
     ],
 )
 abstract class SamjhoDatabase : RoomDatabase() {

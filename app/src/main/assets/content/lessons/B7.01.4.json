@@ -1,0 +1,299 @@
+{
+  "id": "B7.01.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.01.4.S03",
+    "B7.01.4.S05",
+    "B7.01.4.S06",
+    "B7.01.4.S07",
+    "B7.01.4.S08",
+    "B7.01.4.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.01.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "text": {
+        "hi": "तुलना के तीन रूप: tall = लंबा, taller = ज़्यादा लंबा (दो में), tallest = सबसे लंबा (सब में)। Taller के बाद अक्सर ‘than’ आता है: Ravi is taller than Mohan.",
+        "hinglish": "Tulna ke teen roop: tall = lamba, taller = zyaada lamba (do mein), tallest = sabse lamba (sab mein). Taller ke baad aksar ‘than’ aata hai: Ravi is taller than Mohan.",
+        "en": "Three forms for comparing: tall, taller (between two), tallest (of all). After taller we often use ‘than’: Ravi is taller than Mohan."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.01.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "text": {
+        "hi": "छोटा नियम: ज़्यादातर शब्दों में -er और -est जोड़ो (great, greater, greatest)। अगर शब्द y पर ख़त्म हो, तो y को i बनाओ: pretty, prettier, prettiest।",
+        "hinglish": "Chhota niyam: zyaadatar shabdon mein -er aur -est jodo (great, greater, greatest). Agar shabd y par khatm ho, to y ko i banao: pretty, prettier, prettiest.",
+        "en": "A small rule: most words add -er and -est (great, greater, greatest). If a word ends in y, change y to i: pretty, prettier, prettiest."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.01.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके ‘सबसे’ वाले रूप से जोड़ो",
+        "hinglish": "Har shabd ko uske ‘sabse’ waale roop se jodo",
+        "en": "Join each word to its -est form"
+      },
+      "pairs": [
+        {
+          "left": "wise",
+          "right": "wisest",
+          "meaning": {
+            "hi": "सबसे समझदार",
+            "hinglish": "sabse samajhdaar"
+          }
+        },
+        {
+          "left": "high",
+          "right": "highest",
+          "meaning": {
+            "hi": "सबसे ऊँचा",
+            "hinglish": "sabse ooncha"
+          }
+        },
+        {
+          "left": "bright",
+          "right": "brightest",
+          "meaning": {
+            "hi": "सबसे चमकीला",
+            "hinglish": "sabse chamkeela"
+          }
+        },
+        {
+          "left": "small",
+          "right": "smallest",
+          "meaning": {
+            "hi": "सबसे छोटा",
+            "hinglish": "sabse chhota"
+          }
+        },
+        {
+          "left": "thick",
+          "right": "thickest",
+          "meaning": {
+            "hi": "सबसे मोटा",
+            "hinglish": "sabse mota"
+          }
+        },
+        {
+          "left": "pretty",
+          "right": "prettiest",
+          "meaning": {
+            "hi": "सबसे सुंदर",
+            "hinglish": "sabse sundar"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.01.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "text": {
+        "hi": "किताब का उदाहरण: Shubhra is pretty. Her sister is prettier than her. अब किताब के शब्दों से तुम वाक्य बनाओ।",
+        "hinglish": "Kitaab ka udaharan: Shubhra is pretty. Her sister is prettier than her. Ab kitaab ke shabdon se tum vaakya banao.",
+        "en": "The book's example: Shubhra is pretty. Her sister is prettier than her. Now make sentences with the book's words."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.01.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "prompt": {
+        "hi": "‘great - greater’: हमारी टीम महान है, पर उनकी टीम और भी महान है।",
+        "hinglish": "‘great - greater’: Hamari team mahaan hai, par unki team aur bhi mahaan hai.",
+        "en": "Use ‘great - greater’ (two teams)."
+      },
+      "answer": "Our team is great, but their team is greater.",
+      "extra": [
+        "greatest"
+      ],
+      "meaning": {
+        "hi": "हमारी टीम बढ़िया है, पर उनकी टीम और भी बढ़िया है।",
+        "hinglish": "Hamari team badhiya hai, par unki team aur bhi badhiya hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.01.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "prompt": {
+        "hi": "‘wise - wiser’: दादाजी पापा से ज़्यादा समझदार हैं।",
+        "hinglish": "‘wise - wiser’: Daadaji Papa se zyaada samajhdaar hain.",
+        "en": "Use ‘wiser’ (grandfather and father)."
+      },
+      "answer": "My grandfather is wiser than my father.",
+      "extra": [
+        "wisest"
+      ],
+      "meaning": {
+        "hi": "मेरे दादाजी मेरे पापा से ज़्यादा समझदार हैं।",
+        "hinglish": "Mere daadaji mere papa se zyaada samajhdaar hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.01.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "prompt": {
+        "hi": "‘bright - brighter’: सूरज चाँद से ज़्यादा चमकीला है।",
+        "hinglish": "‘bright - brighter’: Sooraj chaand se zyaada chamkeela hai.",
+        "en": "Use ‘brighter’ (the sun and the moon)."
+      },
+      "answer": "The sun is brighter than the moon.",
+      "extra": [
+        "brightest"
+      ],
+      "meaning": {
+        "hi": "सूरज चाँद से ज़्यादा चमकीला है।",
+        "hinglish": "Sooraj chaand se zyaada chamkeela hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.01.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "prompt": {
+        "hi": "‘fresh - fresher’: यह आम उस आम से ज़्यादा ताज़ा है।",
+        "hinglish": "‘fresh - fresher’: Yeh aam us aam se zyaada taaza hai.",
+        "en": "Use ‘fresher’ (two mangoes)."
+      },
+      "answer": "This mango is fresher than that one.",
+      "extra": [
+        "freshest"
+      ],
+      "meaning": {
+        "hi": "यह आम उस वाले से ज़्यादा ताज़ा है।",
+        "hinglish": "Yeh aam us waale se zyaada taaza hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.01.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "prompt": {
+        "hi": "‘high - higher’: पहाड़ पहाड़ी से ज़्यादा ऊँचा है।",
+        "hinglish": "‘high - higher’: Pahaad pahaadi se zyaada ooncha hai.",
+        "en": "Use ‘higher’ (a mountain and a hill)."
+      },
+      "answer": "The mountain is higher than the hill.",
+      "extra": [
+        "highest"
+      ],
+      "meaning": {
+        "hi": "पहाड़ पहाड़ी से ज़्यादा ऊँचा है।",
+        "hinglish": "Pahaad pahaadi se zyaada ooncha hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "Mount Everest is the ___ mountain in the world.",
+      "answer": "highest",
+      "options": [
+        "highest",
+        "higher",
+        "high"
+      ],
+      "meaning": {
+        "hi": "माउंट एवरेस्ट दुनिया का सबसे ऊँचा पहाड़ है।",
+        "hinglish": "Mount Everest duniya ka sabse ooncha pahaad hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "An elephant is ___ than a horse.",
+      "answer": "bigger",
+      "options": [
+        "bigger",
+        "biggest",
+        "big"
+      ],
+      "meaning": {
+        "hi": "हाथी घोड़े से बड़ा होता है।",
+        "hinglish": "Haathi ghode se bada hota hai."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "B7.01.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "words": [
+        "Rita",
+        "is",
+        "tallest",
+        "than",
+        "Sita."
+      ],
+      "wrong": 2,
+      "fix": "taller",
+      "meaning": {
+        "hi": "रीता सीता से लंबी है।",
+        "hinglish": "Reeta Sita se lambi hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "pretty → prettier → ?",
+      "questionMeaning": {
+        "hi": "pretty का ‘सबसे’ वाला रूप क्या है?",
+        "hinglish": "pretty ka ‘sabse’ waala roop kya hai?"
+      },
+      "options": [
+        "prettiest",
+        "prettyest",
+        "most pretty"
+      ],
+      "answer": "prettiest"
+    }
+  ]
+}

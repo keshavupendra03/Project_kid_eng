@@ -1,0 +1,194 @@
+{
+  "id": "B8.01.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.01.4.S02",
+    "B8.01.4.S03",
+    "B8.01.4.S04",
+    "B8.01.4.S05",
+    "B8.01.4.S06",
+    "B8.01.4.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.01.4.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 1 पर कविता पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 1 par kavita padho, phir jawab do.",
+        "en": "Read the poem on page 1 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.4.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why do we wish for another chance?",
+      "questionMeaning": {
+        "hi": "हम एक और मौक़े की इच्छा क्यों करते हैं?",
+        "hinglish": "Hum ek aur mauke ki ichchha kyon karte hain?"
+      },
+      "options": [
+        "To make a fresh beginning and correct our mistakes.",
+        "To get a holiday.",
+        "To blame others."
+      ],
+      "answer": "To make a fresh beginning and correct our mistakes.",
+      "modelAnswer": "We wish for another chance to make a fresh beginning, to blot out our mistakes and to change failure into winning.",
+      "modelMeaning": {
+        "hi": "हम एक और मौक़ा चाहते हैं ताकि नई शुरुआत कर सकें, गलतियाँ मिटा सकें और हार को जीत में बदल सकें।",
+        "hinglish": "Hum ek aur mauka chahte hain taaki nayi shuruaat kar sakein, galtiyaan mita sakein aur haar ko jeet mein badal sakein."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.4.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does it take to make a brand new start?",
+      "questionMeaning": {
+        "hi": "नई शुरुआत के लिए क्या चाहिए?",
+        "hinglish": "Nayi shuruaat ke liye kya chahiye?"
+      },
+      "options": [
+        "a deep desire to try with all our heart",
+        "a new day",
+        "a lot of money"
+      ],
+      "answer": "a deep desire to try with all our heart",
+      "modelAnswer": "It does not take a new day to make a brand new start. It only takes a deep desire to try with all our heart.",
+      "modelMeaning": {
+        "hi": "नई शुरुआत के लिए नया दिन ज़रूरी नहीं। बस पूरे दिल से कोशिश करने की गहरी इच्छा चाहिए।",
+        "hinglish": "Nayi shuruaat ke liye naya din zaroori nahi. Bas poore dil se koshish karne ki gehri ichchha chahiye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.4.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does the poet mean by ‘adding a little sunshine to the world’?",
+      "questionMeaning": {
+        "hi": "‘दुनिया में थोड़ी धूप जोड़ने’ का मतलब क्या है?",
+        "hinglish": "‘Duniya mein thodi dhoop jodne’ ka matlab kya hai?"
+      },
+      "options": [
+        "spreading happiness and kindness around us",
+        "making the weather hot",
+        "planting trees"
+      ],
+      "answer": "spreading happiness and kindness around us",
+      "modelAnswer": "By adding a little sunshine, the poet means spreading happiness, love and kindness in the world around us.",
+      "modelMeaning": {
+        "hi": "थोड़ी धूप जोड़ने का मतलब है हमारे आसपास ख़ुशी, प्यार और दया फैलाना।",
+        "hinglish": "Thodi dhoop jodne ka matlab hai hamare aaspaas khushi, pyaar aur daya phailaana."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.4.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why should we never give up in despair?",
+      "questionMeaning": {
+        "hi": "हमें निराशा में हार क्यों नहीं माननी चाहिए?",
+        "hinglish": "Humein niraasha mein haar kyon nahi maanni chahiye?"
+      },
+      "options": [
+        "There is always a tomorrow and hope of starting anew.",
+        "Because others will laugh.",
+        "Because despair is fun."
+      ],
+      "answer": "There is always a tomorrow and hope of starting anew.",
+      "modelAnswer": "We should never give up in despair because there is always a tomorrow and the hope of starting anew.",
+      "modelMeaning": {
+        "hi": "हमें निराशा में हार नहीं माननी चाहिए क्योंकि हमेशा एक कल होता है और नए सिरे से शुरू करने की उम्मीद रहती है।",
+        "hinglish": "Humein niraasha mein haar nahi maanni chahiye kyonki hamesha ek kal hota hai aur naye sire se shuru karne ki ummeed rehti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.4.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What should we hope for our future?",
+      "questionMeaning": {
+        "hi": "हमें अपने भविष्य के लिए क्या उम्मीद करनी चाहिए?",
+        "hinglish": "Humein apne bhavishya ke liye kya ummeed karni chahiye?"
+      },
+      "options": [
+        "a new and better start",
+        "no work at all",
+        "only failure"
+      ],
+      "answer": "a new and better start",
+      "modelAnswer": "We should hope for a new and better start, and live a little better every day.",
+      "modelMeaning": {
+        "hi": "हमें एक नई और बेहतर शुरुआत की उम्मीद करनी चाहिए और हर दिन थोड़ा बेहतर जीना चाहिए।",
+        "hinglish": "Humein ek nayi aur behtar shuruaat ki ummeed karni chahiye aur har din thoda behtar jeena chahiye."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.01.4.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "(B) कविता की लाइनें पूरी करो",
+        "hinglish": "(B) Kavita ki lines poori karo",
+        "en": "(B) Match the lines of the poem"
+      },
+      "pairs": [
+        {
+          "left": "a chance to blot",
+          "right": "our mistakes",
+          "meaning": {
+            "hi": "गलतियाँ मिटाने का मौक़ा",
+            "hinglish": "galtiyaan mitaane ka mauka"
+          }
+        },
+        {
+          "left": "it only takes",
+          "right": "a deep desire",
+          "meaning": {
+            "hi": "बस गहरी इच्छा चाहिए",
+            "hinglish": "bas gehri ichchha chahiye"
+          }
+        },
+        {
+          "left": "to add a little",
+          "right": "sunshine",
+          "meaning": {
+            "hi": "थोड़ी धूप जोड़ना",
+            "hinglish": "thodi dhoop jodna"
+          }
+        },
+        {
+          "left": "so never give up",
+          "right": "in despair",
+          "meaning": {
+            "hi": "निराशा में हार मत मानो",
+            "hinglish": "niraasha mein haar mat maano"
+          }
+        }
+      ]
+    }
+  ]
+}

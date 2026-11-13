@@ -1,0 +1,107 @@
+{
+  "id": "B7.12.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.12.8.S01",
+      "skills": [
+        "vocab.places"
+      ],
+      "instruction": {
+        "hi": "मेले की चीज़ें जोड़ो",
+        "hinglish": "Mele ki cheezein jodo",
+        "en": "Join the fair words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "giant wheel",
+          "right": "a very big wheel with seats that goes round",
+          "meaning": {
+            "hi": "बड़ा झूला",
+            "hinglish": "bada jhoola"
+          }
+        },
+        {
+          "left": "merry-go-round",
+          "right": "a round ride with wooden horses",
+          "meaning": {
+            "hi": "घोड़ों वाला गोल झूला",
+            "hinglish": "ghodon waala gol jhoola"
+          }
+        },
+        {
+          "left": "hansi ghar",
+          "right": "a house of funny mirrors",
+          "meaning": {
+            "hi": "हँसी घर (मज़ेदार शीशे)",
+            "hinglish": "hansi ghar (mazedaar sheeshe)"
+          }
+        },
+        {
+          "left": "stall",
+          "right": "a small shop at a fair",
+          "meaning": {
+            "hi": "दुकान, स्टॉल",
+            "hinglish": "dukaan, stall"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.8.S02",
+      "skills": [
+        "vocab.places"
+      ],
+      "question": "Why is the story called ‘One-Way Ticket’?",
+      "questionMeaning": {
+        "hi": "कहानी का नाम ‘One-Way Ticket’ क्यों है?",
+        "hinglish": "Kahani ka naam ‘One-Way Ticket’ kyon hai?"
+      },
+      "options": [
+        "They went one way but could not come back the same way.",
+        "The tickets were free.",
+        "The bus went in circles."
+      ],
+      "answer": "They went one way but could not come back the same way."
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.8.S03",
+      "skills": [
+        "vocab.places"
+      ],
+      "question": "What should you do if you get lost at a fair?",
+      "questionMeaning": {
+        "hi": "मेले में खो जाओ तो क्या करना चाहिए?",
+        "hinglish": "Mele mein kho jaao to kya karna chahiye?"
+      },
+      "options": [
+        "Go to a police booth or the help desk.",
+        "Go with any stranger.",
+        "Run away from the fair."
+      ],
+      "answer": "Go to a police booth or the help desk."
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.12.8.S04",
+      "skills": [
+        "vocab.places"
+      ],
+      "sentence": "The five friends were a ___ group.",
+      "answer": "happy",
+      "options": [
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "meaning": {
+        "hi": "पाँचों दोस्त एक ख़ुशमिज़ाज टोली थे।",
+        "hinglish": "Paanchon dost ek khushmizaaj toli the."
+      }
+    }
+  ]
+}

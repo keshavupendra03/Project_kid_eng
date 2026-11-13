@@ -1,0 +1,92 @@
+{
+  "id": "B8.15.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.15.6.S02",
+    "B8.15.6.S03",
+    "B8.15.6.S04",
+    "B8.15.6.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.15.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: कविता के साथ वाली तस्वीर देखो और 5-6 वाक्यों में उसका वर्णन करो। इन वाक्यों से मदद लो।",
+        "hinglish": "Kitaab: kavita ke saath waali tasveer dekho aur 5-6 vaakyon mein uska varnan karo. In vaakyon se madad lo.",
+        "en": "The book: look at the picture with the poem and describe it in 5–6 sentences. Use these sentences to help."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.15.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तस्वीर में एक चेरी का पेड़ है।",
+        "hinglish": "Tasveer mein ek cherry ka ped hai.",
+        "en": "Say what tree is in the picture."
+      },
+      "answer": "There is a cherry tree in the picture.",
+      "meaning": {
+        "hi": "तस्वीर में एक चेरी का पेड़ है।",
+        "hinglish": "Tasveer mein ek cherry ka ped hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.15.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "एक चिड़िया ने डाल पर घोंसला बनाया है।",
+        "hinglish": "Ek chidiya ne daal par ghonsla banaaya hai.",
+        "en": "Tell what the bird has made."
+      },
+      "answer": "A bird has built a nest on a branch.",
+      "meaning": {
+        "hi": "एक चिड़िया ने डाल पर घोंसला बनाया है।",
+        "hinglish": "Ek chidiya ne daal par ghonsla banaaya hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.15.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "घोंसले में चार छोटे अंडे हैं।",
+        "hinglish": "Ghonsle mein chaar chhote ande hain.",
+        "en": "Tell what is inside the nest."
+      },
+      "answer": "There are four little eggs in the nest.",
+      "meaning": {
+        "hi": "घोंसले में चार छोटे अंडे हैं।",
+        "hinglish": "Ghonsle mein chaar chhote ande hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.15.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "एक बच्चा ख़ुशी से घोंसले को देख रहा है।",
+        "hinglish": "Ek bachcha khushi se ghonsle ko dekh raha hai.",
+        "en": "Tell what the child is doing."
+      },
+      "answer": "A child is happily looking at the nest.",
+      "meaning": {
+        "hi": "एक बच्चा ख़ुशी से घोंसले को देख रहा है।",
+        "hinglish": "Ek bachcha khushi se ghonsle ko dekh raha hai."
+      }
+    }
+  ]
+}

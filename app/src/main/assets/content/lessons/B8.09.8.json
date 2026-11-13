@@ -1,0 +1,92 @@
+{
+  "id": "B8.09.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.09.8.S02",
+    "B8.09.8.S03",
+    "B8.09.8.S04",
+    "B8.09.8.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.09.8.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: तुम अशोक हो (3 अशोक विला, इंदौर)। दोस्त विनीत को लिखो कि तुम कल्पना चावला से प्रेरित होकर अंतरिक्ष यात्री बनना चाहते हो।",
+        "hinglish": "Kitaab: tum Ashok ho (3 Ashok Vilas, Indore). Dost Vinit ko likho ki tum Kalpana Chawla se prerit hokar antariksh yaatri banna chahte ho.",
+        "en": "The book: you are Ashok (3 Ashok Vilas, Indore). Write to your friend Vinit that you are inspired by Kalpana Chawla and want to be an astronaut."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.09.8.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मैं कल्पना चावला से बहुत प्रेरित हूँ।",
+        "hinglish": "Main Kalpana Chawla se bahut prerit hoon.",
+        "en": "Say who has inspired you."
+      },
+      "answer": "I am inspired by Kalpana Chawla.",
+      "meaning": {
+        "hi": "मैं कल्पना चावला से प्रेरित हूँ।",
+        "hinglish": "Main Kalpana Chawla se prerit hoon."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.09.8.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मैं उनकी तरह अंतरिक्ष यात्री बनना चाहता हूँ।",
+        "hinglish": "Main unki tarah antariksh yaatri banna chahta hoon.",
+        "en": "Say your dream job, like hers."
+      },
+      "answer": "I want to be an astronaut like her.",
+      "meaning": {
+        "hi": "मैं उनकी तरह अंतरिक्ष यात्री बनना चाहता हूँ।",
+        "hinglish": "Main unki tarah antariksh yaatri banna chahta hoon."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.09.8.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मैं गणित और विज्ञान मेहनत से पढ़ूँगा।",
+        "hinglish": "Main ganit aur vigyaan mehnat se padhoonga.",
+        "en": "Promise to work hard in two subjects."
+      },
+      "answer": "I will study Maths and Science hard.",
+      "meaning": {
+        "hi": "मैं गणित और विज्ञान मेहनत से पढ़ूँगा।",
+        "hinglish": "Main ganit aur vigyaan mehnat se padhoonga."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.09.8.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "फिर मैं किसी अच्छे संस्थान से इंजीनियर बनूँगा।",
+        "hinglish": "Phir main kisi achhe sansthaan se engineer banoonga.",
+        "en": "Tell your next step after school."
+      },
+      "answer": "Then I will become an engineer.",
+      "meaning": {
+        "hi": "फिर मैं इंजीनियर बनूँगा।",
+        "hinglish": "Phir main engineer banoonga."
+      }
+    }
+  ]
+}

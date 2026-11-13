@@ -1,0 +1,281 @@
+{
+  "id": "B8.08.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.08.3.S02",
+    "B8.08.3.S03",
+    "B8.08.3.S04",
+    "B8.08.3.S05",
+    "B8.08.3.S06",
+    "B8.08.3.S08",
+    "B8.08.3.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.08.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "(A) हर समूह में एक शब्द बाक़ियों से अलग है। उसे ढूँढो!",
+        "hinglish": "(A) Har samooh mein ek shabd baakiyon se alag hai. Use dhoondho!",
+        "en": "(A) In each group, one word is different from the rest. Find it!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "question": "moon, earth, rocket, sun",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "rocket",
+        "moon",
+        "earth",
+        "sun"
+      ],
+      "answer": "rocket",
+      "modelAnswer": "rocket: the others are natural heavenly bodies; a rocket is made by man.",
+      "modelMeaning": {
+        "hi": "rocket: बाक़ी सब प्राकृतिक आकाशीय पिंड हैं; रॉकेट इंसान ने बनाया है।",
+        "hinglish": "rocket: baaki sab praakritik aakaashiya pind hain; rocket insaan ne banaaya hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "question": "nap, sleep, awake, siesta",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "awake",
+        "nap",
+        "sleep",
+        "siesta"
+      ],
+      "answer": "awake",
+      "modelAnswer": "awake: the other three are kinds of sleep.",
+      "modelMeaning": {
+        "hi": "awake: बाक़ी तीनों सोने से जुड़े हैं।",
+        "hinglish": "awake: baaki teeno sone se jude hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "question": "glow, dark, shine, illumine",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "dark",
+        "glow",
+        "shine",
+        "illumine"
+      ],
+      "answer": "dark",
+      "modelAnswer": "dark: the other three are about light.",
+      "modelMeaning": {
+        "hi": "dark: बाक़ी तीनों रोशनी से जुड़े हैं।",
+        "hinglish": "dark: baaki teeno roshni se jude hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "question": "evening, week, afternoon, morning",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "week",
+        "evening",
+        "afternoon",
+        "morning"
+      ],
+      "answer": "week",
+      "modelAnswer": "week: the other three are parts of a day.",
+      "modelMeaning": {
+        "hi": "week: बाक़ी तीनों दिन के हिस्से हैं।",
+        "hinglish": "week: baaki teeno din ke hisse hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "question": "leaves, flowers, fields, trees",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "fields",
+        "leaves",
+        "flowers",
+        "trees"
+      ],
+      "answer": "fields",
+      "modelAnswer": "fields: the other three are plants or parts of plants.",
+      "modelMeaning": {
+        "hi": "fields: बाक़ी तीनों पेड़-पौधे या उनके हिस्से हैं।",
+        "hinglish": "fields: baaki teeno ped-paudhe ya unke hisse hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.08.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "(C) कविता में ‘howling dog’ है। किताब के बॉक्स से जानवरों की आवाज़ें: howl, mew, bark, roar, trumpet, crow, buzz, bray, neigh।",
+        "hinglish": "(C) Kavita mein ‘howling dog’ hai. Kitaab ke box se jaanwaron ki awaazein: howl, mew, bark, roar, trumpet, crow, buzz, bray, neigh.",
+        "en": "(C) The poem has ‘howling dog’. Animal sounds from the book's help box: howl, mew, bark, roar, trumpet, crow, buzz, bray, neigh."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.08.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "जानवर को उसकी आवाज़ से जोड़ो",
+        "hinglish": "Jaanwar ko uski awaaz se jodo",
+        "en": "Join each animal to its sound"
+      },
+      "pairs": [
+        {
+          "left": "dog",
+          "right": "bark",
+          "meaning": {
+            "hi": "कुत्ता — भौंकना",
+            "hinglish": "kutta — bhaunkna"
+          }
+        },
+        {
+          "left": "cat",
+          "right": "mew",
+          "meaning": {
+            "hi": "बिल्ली — म्याऊँ",
+            "hinglish": "billi — myaaun"
+          }
+        },
+        {
+          "left": "lion",
+          "right": "roar",
+          "meaning": {
+            "hi": "शेर — दहाड़ना",
+            "hinglish": "sher — dahaadna"
+          }
+        },
+        {
+          "left": "elephant",
+          "right": "trumpet",
+          "meaning": {
+            "hi": "हाथी — चिंघाड़ना",
+            "hinglish": "haathi — chinghaadna"
+          }
+        },
+        {
+          "left": "wolf",
+          "right": "howl",
+          "meaning": {
+            "hi": "भेड़िया — हुआँ-हुआँ",
+            "hinglish": "bhediya — huaan-huaan"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.08.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "जानवर को उसकी आवाज़ से जोड़ो",
+        "hinglish": "Jaanwar ko uski awaaz se jodo",
+        "en": "Join each animal to its sound"
+      },
+      "pairs": [
+        {
+          "left": "cock",
+          "right": "crow",
+          "meaning": {
+            "hi": "मुर्ग़ा — बाँग देना",
+            "hinglish": "murga — baang dena"
+          }
+        },
+        {
+          "left": "bee",
+          "right": "buzz",
+          "meaning": {
+            "hi": "मधुमक्खी — भिनभिनाना",
+            "hinglish": "madhumakkhi — bhinbhinaana"
+          }
+        },
+        {
+          "left": "donkey",
+          "right": "bray",
+          "meaning": {
+            "hi": "गधा — रेंकना",
+            "hinglish": "gadha — renkna"
+          }
+        },
+        {
+          "left": "horse",
+          "right": "neigh",
+          "meaning": {
+            "hi": "घोड़ा — हिनहिनाना",
+            "hinglish": "ghoda — hinhinaana"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.08.3.S10",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "(B) किताब के गोले में छिपे जानवर-पक्षी ढूँढो, जैसे frog। तुम्हारे गोले में और भी हैं: तोता, मोर, मेंढक...",
+        "hinglish": "(B) Kitaab ke gole mein chhipe jaanwar-pakshi dhoondho, jaise frog. Tumhaare gole mein aur bhi hain: tota, mor, mendhak...",
+        "en": "(B) Find the animals and birds hidden in the circle in your book, like frog."
+      }
+    }
+  ]
+}

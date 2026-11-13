@@ -1,0 +1,289 @@
+{
+  "id": "B7.09.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.09.1.S02",
+    "B7.09.1.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.09.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "यह पाठ एक नाटक है। डॉक्टर दास एक ऐसा घर ख़रीदना चाहते हैं जिसके बारे में लोग कहते हैं कि वहाँ भूत आता है! पहले किताब के सवाल।",
+        "hinglish": "Yeh paath ek naatak hai. Doctor Dass ek aisa ghar khareedna chahte hain jiske baare mein log kehte hain ki wahan bhoot aata hai! Pehle kitaab ke sawaal.",
+        "en": "This lesson is a play. Doctor Dass wants to buy a house that people say has a ghost! First, the book's questions."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.09.1.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "👻",
+      "turns": [
+        {
+          "id": "know",
+          "tinku": "Do you believe in ghosts?",
+          "meaning": {
+            "hi": "क्या तुम भूतों पर विश्वास करते हो?",
+            "hinglish": "Kya tum bhooton par vishwaas karte ho?"
+          },
+          "replies": [
+            {
+              "say": "No, I do not believe in ghosts.",
+              "meaning": {
+                "hi": "नहीं, मैं भूतों पर विश्वास नहीं करता/करती।",
+                "hinglish": "Nahi, main bhooton par vishwaas nahi karta/karti."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ]
+            },
+            {
+              "say": "Yes, I believe in ghosts.",
+              "meaning": {
+                "hi": "हाँ, मैं भूतों पर विश्वास करता/करती हूँ।",
+                "hinglish": "Haan, main bhooton par vishwaas karta/karti hoon."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "story",
+          "tinku": "Do you know any ghost story, movie or T.V. serial?",
+          "meaning": {
+            "hi": "क्या तुम कोई भूत की कहानी, फ़िल्म या टीवी सीरियल जानते हो?",
+            "hinglish": "Kya tum koi bhoot ki kahani, film ya TV serial jaante ho?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I know a funny ghost story.",
+              "meaning": {
+                "hi": "हाँ, मुझे भूत की एक मज़ेदार कहानी पता है।",
+                "hinglish": "Haan, mujhe bhoot ki ek mazedaar kahani pata hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ],
+              "next": "end"
+            },
+            {
+              "say": "No, I do not know any.",
+              "meaning": {
+                "hi": "नहीं, मुझे कोई नहीं पता।",
+                "hinglish": "Nahi, mujhe koi nahi pata."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.09.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "several",
+        "emoji": "",
+        "hindi": "कई",
+        "hinglish": "kai"
+      },
+      "meaning": "more than two but not many",
+      "example": "Several children were absent today.",
+      "exampleMeaning": {
+        "hi": "आज कई बच्चे ग़ैरहाज़िर थे।",
+        "hinglish": "Aaj kai bachche gairhaazir the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.09.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "price",
+        "emoji": "",
+        "hindi": "दाम, क़ीमत",
+        "hinglish": "daam, keemat"
+      },
+      "meaning": "the money you pay to buy something",
+      "example": "The price of the house is three lakh.",
+      "exampleMeaning": {
+        "hi": "घर की क़ीमत तीन लाख है।",
+        "hinglish": "Ghar ki keemat teen laakh hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.09.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "warn",
+        "emoji": "",
+        "hindi": "चेतावनी देना",
+        "hinglish": "chetaavani dena"
+      },
+      "meaning": "to tell someone about a danger before it happens",
+      "example": "Father warned us about the busy road.",
+      "exampleMeaning": {
+        "hi": "पापा ने हमें भीड़ वाली सड़क के बारे में चेताया।",
+        "hinglish": "Papa ne humein bheed waali sadak ke baare mein chetaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.09.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "soldier",
+        "emoji": "",
+        "hindi": "सैनिक",
+        "hinglish": "sainik"
+      },
+      "meaning": "a person who is in the army",
+      "example": "The soldier was very brave.",
+      "exampleMeaning": {
+        "hi": "सैनिक बहुत बहादुर था।",
+        "hinglish": "Sainik bahut bahaadur tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.09.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "incident",
+        "emoji": "",
+        "hindi": "घटना",
+        "hinglish": "ghatna"
+      },
+      "meaning": "something that happens",
+      "example": "Tell me about the incident in the market.",
+      "exampleMeaning": {
+        "hi": "मुझे बाज़ार वाली घटना के बारे में बताओ।",
+        "hinglish": "Mujhe baazaar waali ghatna ke baare mein batao."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.09.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "pause",
+        "emoji": "",
+        "hindi": "ठहराव, रुकना",
+        "hinglish": "thehraav, rukna"
+      },
+      "meaning": "a short stop while speaking or doing something",
+      "example": "He spoke with long pauses.",
+      "exampleMeaning": {
+        "hi": "वह लंबे-लंबे ठहराव के साथ बोला।",
+        "hinglish": "Woh lambe-lambe thehraav ke saath bola."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.09.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "किताब के phrases को उनके मतलब से जोड़ो",
+        "hinglish": "Kitaab ke phrases ko unke matlab se jodo",
+        "en": "Join the book's phrases to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "prices are going up",
+          "right": "things are getting costlier",
+          "meaning": {
+            "hi": "दाम बढ़ रहे हैं",
+            "hinglish": "daam badh rahe hain"
+          }
+        },
+        {
+          "left": "in a bad state",
+          "right": "in a poor condition",
+          "meaning": {
+            "hi": "बुरी हालत में",
+            "hinglish": "buri haalat mein"
+          }
+        },
+        {
+          "left": "in good order",
+          "right": "in a good condition",
+          "meaning": {
+            "hi": "अच्छी हालत में",
+            "hinglish": "achhi haalat mein"
+          }
+        },
+        {
+          "left": "by the light of",
+          "right": "using the light from",
+          "meaning": {
+            "hi": "की रोशनी में",
+            "hinglish": "ki roshni mein"
+          }
+        },
+        {
+          "left": "afraid of",
+          "right": "scared of",
+          "meaning": {
+            "hi": "से डरना",
+            "hinglish": "se darna"
+          }
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B7.09.1.S10",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "soldier",
+        "emoji": "",
+        "hindi": "सैनिक",
+        "hinglish": "sainik"
+      }
+    }
+  ]
+}

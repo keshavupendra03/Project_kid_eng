@@ -1,0 +1,121 @@
+{
+  "id": "B6.04.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.04.2.S02",
+    "B6.04.2.S03",
+    "B6.04.2.S04",
+    "B6.04.2.S05",
+    "B6.04.2.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.04.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: दिए गए शब्दों से खाली जगह भरो: impression, lie, reality, copied, power।",
+        "hinglish": "Kitaab: diye gaye shabdon se khaali jagah bharo: impression, lie, reality, copied, power.",
+        "en": "The book: fill in the blanks with impression, lie, reality, copied, power."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The life of Mahatma Gandhi left a lasting ___ on my mind.",
+      "answer": "impression",
+      "options": [
+        "impression",
+        "reality",
+        "power"
+      ],
+      "meaning": {
+        "hi": "महात्मा गांधी के जीवन ने मेरे मन पर गहरी छाप छोड़ी।",
+        "hinglish": "Mahatma Gandhi ke jeevan ne mere man par gehri chhaap chhodi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Till today Gandhiji is a living ___ for Indians.",
+      "answer": "reality",
+      "options": [
+        "reality",
+        "lie",
+        "copied"
+      ],
+      "meaning": {
+        "hi": "आज भी गांधीजी भारतीयों के लिए जीवित सच्चाई हैं।",
+        "hinglish": "Aaj bhi Gandhiji Bhaarateeyon ke liye jeevit sachchaai hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "He is an example to be ___.",
+      "answer": "copied",
+      "options": [
+        "copied",
+        "power",
+        "lie"
+      ],
+      "meaning": {
+        "hi": "वे एक ऐसा उदाहरण हैं जिसे अपनाना चाहिए।",
+        "hinglish": "Woh ek aisa udaharan hain jise apnaana chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "He did not remember having told a ___ during his school days.",
+      "answer": "lie",
+      "options": [
+        "lie",
+        "reality",
+        "impression"
+      ],
+      "meaning": {
+        "hi": "उन्हें याद नहीं कि स्कूल के दिनों में उन्होंने कभी झूठ बोला हो।",
+        "hinglish": "Unhe yaad nahi ki school ke dinon mein unhone kabhi jhooth bola ho."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "He taught us the ___ of non-violence and non-cooperation.",
+      "answer": "power",
+      "options": [
+        "power",
+        "lie",
+        "copied"
+      ],
+      "meaning": {
+        "hi": "उन्होंने हमें अहिंसा और असहयोग की ताक़त सिखाई।",
+        "hinglish": "Unhone humein ahinsa aur asahyog ki taakat sikhaayi."
+      }
+    }
+  ]
+}

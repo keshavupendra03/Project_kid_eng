@@ -1,0 +1,104 @@
+{
+  "id": "B7.11.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.11.6.S02",
+    "B7.11.6.S03",
+    "B7.11.6.S04",
+    "B7.11.6.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.11.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब कहती है: होली पर एक पैराग्राफ़ लिखो। चलो वाक्य बनाते हैं।",
+        "hinglish": "Kitaab kehti hai: Holi par ek paragraph likho. Chalo vaakya banaate hain.",
+        "en": "The book says: write a paragraph on Holi. Let's build the sentences."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.11.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "होली रंगों का त्योहार है।",
+        "hinglish": "Holi rangon ka tyohaar hai.",
+        "en": "Say what kind of festival Holi is."
+      },
+      "answer": "Holi is the festival of colours.",
+      "meaning": {
+        "hi": "होली रंगों का त्योहार है।",
+        "hinglish": "Holi rangon ka tyohaar hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.11.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "यह मार्च में आता है।",
+        "hinglish": "Yeh March mein aata hai.",
+        "en": "Say when it comes."
+      },
+      "answer": "It comes in the month of March.",
+      "meaning": {
+        "hi": "यह मार्च के महीने में आता है।",
+        "hinglish": "Yeh March ke mahine mein aata hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.11.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "लोग एक-दूसरे पर रंग डालते हैं।",
+        "hinglish": "Log ek-doosre par rang daalte hain.",
+        "en": "Say what people do with colours."
+      },
+      "answer": "People put colours on one another.",
+      "meaning": {
+        "hi": "लोग एक-दूसरे पर रंग डालते हैं।",
+        "hinglish": "Log ek-doosre par rang daalte hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.11.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "हम गुझिया और मिठाइयाँ खाते हैं।",
+        "hinglish": "Hum gujhiya aur mithaaiyaan khaate hain.",
+        "en": "Say what you eat on Holi."
+      },
+      "answer": "We eat gujiyas and sweets.",
+      "meaning": {
+        "hi": "हम गुझिया और मिठाइयाँ खाते हैं।",
+        "hinglish": "Hum gujhiya aur mithaaiyaan khaate hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.11.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "पूरा पैराग्राफ़: Holi is the festival of colours. It comes in the month of March. The night before Holi, people burn Holika. On Holi, people put colours on one another and say ‘Happy Holi’. We eat gujiyas and sweets. We should play with safe, natural colours and save water.",
+        "hinglish": "Poora paragraph: Holi is the festival of colours. It comes in the month of March. The night before Holi, people burn Holika. On Holi, people put colours on one another and say ‘Happy Holi’. We eat gujiyas and sweets. We should play with safe, natural colours and save water.",
+        "en": "The whole paragraph: Holi is the festival of colours. It comes in the month of March. The night before Holi, people burn Holika. On Holi, people put colours on one another and say ‘Happy Holi’. We eat gujiyas and sweets. We should play with safe, natural colours and save water."
+      }
+    }
+  ]
+}

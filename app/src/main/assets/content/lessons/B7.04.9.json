@@ -1,0 +1,283 @@
+{
+  "id": "B7.04.9",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_word",
+      "id": "B7.04.9.S01",
+      "skills": [
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "trunk",
+        "emoji": "",
+        "hindi": "सूँड",
+        "hinglish": "soond"
+      },
+      "meaning": "the long nose of an elephant",
+      "example": "An elephant drinks water with its trunk.",
+      "exampleMeaning": {
+        "hi": "हाथी अपनी सूँड से पानी पीता है।",
+        "hinglish": "Haathi apni soond se paani peeta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.04.9.S02",
+      "skills": [
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "tusk",
+        "emoji": "",
+        "hindi": "हाथी दाँत",
+        "hinglish": "haathi daant"
+      },
+      "meaning": "a long pointed tooth of an elephant",
+      "example": "The elephant has two white tusks.",
+      "exampleMeaning": {
+        "hi": "हाथी के दो सफ़ेद दाँत हैं।",
+        "hinglish": "Haathi ke do safed daant hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.04.9.S03",
+      "skills": [
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "mahout",
+        "emoji": "",
+        "hindi": "महावत",
+        "hinglish": "mahaavat"
+      },
+      "meaning": "a person who looks after and rides an elephant",
+      "example": "The mahout gave the elephant a bath.",
+      "exampleMeaning": {
+        "hi": "महावत ने हाथी को नहलाया।",
+        "hinglish": "Mahaavat ne haathi ko nehlaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.04.9.S04",
+      "skills": [
+        "vocab.animals"
+      ],
+      "word": {
+        "english": "howdah",
+        "emoji": "",
+        "hindi": "हौदा",
+        "hinglish": "hauda"
+      },
+      "meaning": "a seat with a cover on an elephant's back",
+      "example": "Six children sat in the howdah.",
+      "exampleMeaning": {
+        "hi": "हौदे में छह बच्चे बैठे।",
+        "hinglish": "Haude mein chhah bachche baithe."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.04.9.S05",
+      "skills": [
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "हर जानवर को उसके घर से जोड़ो",
+        "hinglish": "Har jaanwar ko uske ghar se jodo",
+        "en": "Join each animal to its home"
+      },
+      "pairs": [
+        {
+          "left": "lion",
+          "right": "den",
+          "meaning": {
+            "hi": "मांद",
+            "hinglish": "maand"
+          }
+        },
+        {
+          "left": "bird",
+          "right": "nest",
+          "meaning": {
+            "hi": "घोंसला",
+            "hinglish": "ghonsla"
+          }
+        },
+        {
+          "left": "dog",
+          "right": "kennel",
+          "meaning": {
+            "hi": "कुत्ते का घर",
+            "hinglish": "kutte ka ghar"
+          }
+        },
+        {
+          "left": "horse",
+          "right": "stable",
+          "meaning": {
+            "hi": "अस्तबल",
+            "hinglish": "astabal"
+          }
+        },
+        {
+          "left": "bee",
+          "right": "hive",
+          "meaning": {
+            "hi": "मधुमक्खी का छत्ता",
+            "hinglish": "madhumakkhi ka chhatta"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.04.9.S06",
+      "skills": [
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "हर जानवर को उसके बच्चे से जोड़ो",
+        "hinglish": "Har jaanwar ko uske bachche se jodo",
+        "en": "Join each animal to its young one"
+      },
+      "pairs": [
+        {
+          "left": "cow",
+          "right": "calf",
+          "meaning": {
+            "hi": "बछड़ा",
+            "hinglish": "bachhda"
+          }
+        },
+        {
+          "left": "dog",
+          "right": "puppy",
+          "meaning": {
+            "hi": "पिल्ला",
+            "hinglish": "pilla"
+          }
+        },
+        {
+          "left": "cat",
+          "right": "kitten",
+          "meaning": {
+            "hi": "बिल्ली का बच्चा",
+            "hinglish": "billi ka bachcha"
+          }
+        },
+        {
+          "left": "lion",
+          "right": "cub",
+          "meaning": {
+            "hi": "शेर का बच्चा",
+            "hinglish": "sher ka bachcha"
+          }
+        },
+        {
+          "left": "hen",
+          "right": "chick",
+          "meaning": {
+            "hi": "चूज़ा",
+            "hinglish": "choozaa"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.9.S07",
+      "skills": [
+        "vocab.animals"
+      ],
+      "sentence": "An elephant ___ loudly.",
+      "answer": "trumpets",
+      "options": [
+        "trumpets",
+        "barks",
+        "mews"
+      ],
+      "meaning": {
+        "hi": "हाथी ज़ोर से चिंघाड़ता है।",
+        "hinglish": "Haathi zor se chinghaadta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.9.S08",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Raju drank the whole glass of milk ___.",
+      "answer": "at one go",
+      "options": [
+        "at one go",
+        "right there",
+        "fall off"
+      ],
+      "meaning": {
+        "hi": "राजू ने पूरा गिलास दूध एक ही बार में पी लिया।",
+        "hinglish": "Raju ne poora gilaas doodh ek hi baar mein pee liya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.9.S09",
+      "skills": [
+        "vocab.animals"
+      ],
+      "question": "Which animal is the national animal of India?",
+      "questionMeaning": {
+        "hi": "भारत का राष्ट्रीय पशु कौन सा है?",
+        "hinglish": "Bharat ka rashtriya pashu kaun sa hai?"
+      },
+      "options": [
+        "tiger",
+        "lion",
+        "elephant"
+      ],
+      "emojis": [
+        "🐅",
+        "🦁",
+        "🐘"
+      ],
+      "answer": "tiger",
+      "modelAnswer": "The tiger is the national animal of India.",
+      "modelMeaning": {
+        "hi": "बाघ भारत का राष्ट्रीय पशु है।",
+        "hinglish": "Baagh Bharat ka rashtriya pashu hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.9.S10",
+      "skills": [
+        "vocab.animals"
+      ],
+      "question": "Which is the state animal of Madhya Pradesh?",
+      "questionMeaning": {
+        "hi": "मध्य प्रदेश का राज्य पशु कौन सा है?",
+        "hinglish": "Madhya Pradesh ka rajya pashu kaun sa hai?"
+      },
+      "options": [
+        "barasingha (swamp deer)",
+        "camel",
+        "peacock"
+      ],
+      "emojis": [
+        "🦌",
+        "🐪",
+        "🦚"
+      ],
+      "answer": "barasingha (swamp deer)",
+      "modelAnswer": "The barasingha is the state animal of Madhya Pradesh.",
+      "modelMeaning": {
+        "hi": "बारहसिंगा मध्य प्रदेश का राज्य पशु है।",
+        "hinglish": "Baarahsinga Madhya Pradesh ka rajya pashu hai."
+      }
+    }
+  ]
+}

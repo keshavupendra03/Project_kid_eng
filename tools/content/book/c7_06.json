@@ -1,0 +1,205 @@
+{
+  "grade": 7, "number": 6, "emoji": "🐈", "title": "I Love Little Pussy", "pages": "42–46",
+  "sections": [
+    {
+      "emoji": "🎵", "title": ["सुनो और दोहराओ", "Suno aur dohraao", "Listen and Repeat"], "book": true,
+      "skills": ["book.words", "read.passage"],
+      "steps": [
+        {"card": ["यह छोटी सी कविता एक बिल्ली (pussy) के बारे में है। Pussy यानी प्यारी बिल्ली। पहले मैं पढ़ूँगा, फिर तुम पढ़ना।", "Yeh chhoti si kavita ek billi (pussy) ke baare mein hai. Pussy yaani pyaari billi. Pehle main padhunga, phir tum padhna.", "This little poem is about a cat. ‘Pussy’ is a pet name for a cat. I'll read first, then you read."]},
+        {"type": "read_along", "skills": ["read.passage", "speak.sentence"],
+          "title": ["मुझे छोटी बिल्ली प्यारी है", "Mujhe chhoti billi pyaari hai", "I Love Little Pussy"],
+          "sentences": ["I love little pussy,", "Her coat is so warm,", "And if I don't hurt her,", "She'll do no harm.", "", "So I'll not pull her tail,", "Or drive her away,", "But pussy and I,", "Very gently will play.", "", "She'll sit by my side,", "And I'll give her food,", "And she'll like me because,", "I am gentle and good."],
+          "lineMeanings": [
+            ["मुझे छोटी बिल्ली प्यारी है,", "Mujhe chhoti billi pyaari hai,"],
+            ["उसके बाल बहुत गर्म हैं,", "Uske baal bahut garm hain,"],
+            ["और अगर मैं उसे चोट न पहुँचाऊँ,", "Aur agar main use chot na pahunchaaun,"],
+            ["तो वह भी कोई नुक़सान नहीं करेगी।", "To woh bhi koi nuksaan nahi karegi."],
+            ["", ""],
+            ["इसलिए मैं उसकी पूँछ नहीं खींचूँगा,", "Isliye main uski poonchh nahi kheenchoonga,"],
+            ["न उसे भगाऊँगा,", "Na use bhagaaunga,"],
+            ["बल्कि बिल्ली और मैं", "Balki billi aur main"],
+            ["बहुत प्यार से खेलेंगे।", "Bahut pyaar se khelenge."],
+            ["", ""],
+            ["वह मेरे पास बैठेगी,", "Woh mere paas baithegi,"],
+            ["और मैं उसे खाना दूँगा,", "Aur main use khaana doonga,"],
+            ["और वह मुझे पसंद करेगी क्योंकि", "Aur woh mujhe pasand karegi kyonki"],
+            ["मैं नरम और अच्छा हूँ।", "Main naram aur achha hoon."]
+          ],
+          "words": [
+            {"english": "coat", "hindi": "(यहाँ) बिल्ली के बाल", "hinglish": "(yahan) billi ke baal"},
+            {"english": "harm", "hindi": "नुक़सान", "hinglish": "nuksaan"},
+            {"english": "gently", "hindi": "प्यार से, धीरे से", "hinglish": "pyaar se, dheere se"},
+            {"english": "gentle", "hindi": "नरम दिल, कोमल", "hinglish": "naram dil, komal"}
+          ]},
+        {"book": true, "pairs": ["एक जैसी आवाज़ वाले शब्द जोड़ो (Listen and Repeat)", "Ek jaisi awaaz waale shabd jodo (Listen and Repeat)", "Join the words that sound alike", [
+          ["coat", "boat", "कोट / नाव", "coat / naav"],
+          ["tail", "mail", "पूँछ / डाक", "poonchh / daak"],
+          ["side", "ride", "बगल / सवारी", "bagal / sawaari"],
+          ["harm", "farm", "नुक़सान / खेत", "nuksaan / khet"]]]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "🐾", "turns": [
+          {"id": "pet", "tinku": "Do you have a pet?", "meaning": ["क्या तुम्हारे पास कोई पालतू जानवर है?", "Kya tumhare paas koi paaltu jaanwar hai?"],
+            "replies": [
+              {"say": "Yes, I have a pet dog.", "meaning": ["हाँ, मेरे पास एक पालतू कुत्ता है।", "Haan, mere paas ek paaltu kutta hai."], "patterns": ["yes *", "yes"], "next": "name"},
+              {"say": "No, I do not have a pet.", "meaning": ["नहीं, मेरे पास कोई पालतू जानवर नहीं है।", "Nahi, mere paas koi paaltu jaanwar nahi hai."], "patterns": ["no *", "no"], "next": "like"}
+            ]},
+          {"id": "name", "tinku": "What do you call it?", "meaning": ["तुम उसे किस नाम से बुलाते हो?", "Tum use kis naam se bulaate ho?"],
+            "replies": [
+              {"say": "I call it Moti.", "meaning": ["मैं उसे मोती बुलाता/बुलाती हूँ। (अपने पालतू का नाम बोलो)", "Main use Moti bulaata/bulaati hoon. (Apne paaltu ka naam bolo)"], "patterns": ["i call it *", "its name is *", "*", "* *"], "next": "end"}
+            ]},
+          {"id": "like", "tinku": "Which pet would you like to have?", "meaning": ["तुम कौन सा पालतू रखना चाहोगे?", "Tum kaun sa paaltu rakhna chahoge?"],
+            "replies": [
+              {"say": "I would like to have a cat.", "meaning": ["मैं बिल्ली रखना चाहूँगा/चाहूँगी।", "Main billi rakhna chahunga/chahungi."], "patterns": ["i would like *", "*", "* *"], "next": "end"}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"book": true, "q": ["What is the poem about?", "यह कविता किसके बारे में है?", "Yeh kavita kiske baare mein hai?", ["a little cat", "a big dog", "a farm"], "a little cat", "The poem is about a little cat (pussy) and a child who loves her.", "यह कविता एक छोटी बिल्ली और उससे प्यार करने वाले बच्चे के बारे में है।", "Yeh kavita ek chhoti billi aur usse pyaar karne waale bachche ke baare mein hai."]},
+        {"book": true, "q": ["What does the poet say about the cat's coat?", "कवि बिल्ली के बालों (coat) के बारे में क्या कहता है?", "Kavi billi ke baalon (coat) ke baare mein kya kehta hai?", ["Her coat is so warm.", "Her coat is red.", "Her coat is wet."], "Her coat is so warm.", "The poet says that the cat's coat is so warm.", "कवि कहता है कि बिल्ली के बाल बहुत गर्म हैं।", "Kavi kehta hai ki billi ke baal bahut garm hain."]},
+        {"book": true, "q": ["What will the child do with the pussy?", "बच्चा बिल्ली के साथ क्या करेगा?", "Bachcha billi ke saath kya karega?", ["The child will play gently with her.", "The child will pull her tail.", "The child will drive her away."], "The child will play gently with her.", "The child will not pull her tail or drive her away. The child will play gently with her.", "बच्चा उसकी पूँछ नहीं खींचेगा, उसे भगाएगा नहीं, बल्कि प्यार से उसके साथ खेलेगा।", "Bachcha uski poonchh nahi kheenchega, use bhagaayega nahi, balki pyaar se uske saath khelega."]},
+        {"book": true, "q": ["Where will the pussy sit?", "बिल्ली कहाँ बैठेगी?", "Billi kahan baithegi?", ["by the child's side", "on the roof", "in the kitchen"], "by the child's side", "The pussy will sit by the child's side.", "बिल्ली बच्चे के पास बैठेगी।", "Billi bachche ke paas baithegi."]},
+        {"book": true, "q": ["Why will the pussy like the child?", "बिल्ली बच्चे को क्यों पसंद करेगी?", "Billi bachche ko kyon pasand karegi?", ["because the child is gentle and good", "because the child is tall", "because the child sings"], "because the child is gentle and good", "The pussy will like the child because the child is gentle and good.", "बिल्ली बच्चे को पसंद करेगी क्योंकि बच्चा कोमल और अच्छा है।", "Billi bachche ko pasand karegi kyonki bachcha komal aur achha hai."]},
+        {"says": ["She'll like me because I am gentle and good.", "वह मुझे पसंद करेगी क्योंकि मैं कोमल और अच्छा/अच्छी हूँ।", "Woh mujhe pasand karegi kyonki main komal aur achha/achhi hoon."], "skills": ["speak.sentence", "book.comprehension"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: शब्द ढूँढो और homophones", "Shabd Shakti: shabd dhoondho aur homophones", "Word Power: find words and homophones"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["किताब के ‘word square’ में कविता के 9 शब्द छिपे हैं, जैसे harm। यहाँ बताओ कौन सा शब्द कविता का है।", "Kitaab ke ‘word square’ mein kavita ke 9 shabd chhipe hain, jaise harm. Yahan batao kaun sa shabd kavita ka hai.", "The book's word square hides 9 words from the poem, like harm. Here, sort out which words are from the poem."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर शब्द को सही ग्रुप में रखो: कविता में है या नहीं?", "Har shabd ko sahi group mein rakho: kavita mein hai ya nahi?", "Is each word in the poem or not?"],
+          "groups": [
+            {"id": "in", "name": "in the poem", "emoji": "✅", "meaning": ["कविता में है", "kavita mein hai"]},
+            {"id": "out", "name": "not in the poem", "emoji": "❌", "meaning": ["कविता में नहीं है", "kavita mein nahi hai"]}
+          ],
+          "items": [
+            {"text": "harm", "emoji": "🔤", "groups": ["in"]},
+            {"text": "love", "emoji": "❤️", "groups": ["in"]},
+            {"text": "gentle", "emoji": "🤲", "groups": ["in"]},
+            {"text": "tail", "emoji": "🐈", "groups": ["in"]},
+            {"text": "coat", "emoji": "🧥", "groups": ["in"]},
+            {"text": "milk", "emoji": "🥛", "groups": ["out"]},
+            {"text": "food", "emoji": "🍲", "groups": ["in"]},
+            {"text": "jump", "emoji": "🦘", "groups": ["out"]},
+            {"text": "warm", "emoji": "🔥", "groups": ["in"]},
+            {"text": "mouse", "emoji": "🐭", "groups": ["out"]}
+          ]},
+        {"card": ["Homophones: ऐसे शब्द जो एक जैसे बोले जाते हैं पर मतलब अलग है। tail (पूँछ) – tale (कहानी), see (देखना) – sea (समुद्र), hole (छेद) – whole (पूरा), write (लिखना) – right (सही), I (मैं) – eye (आँख)।", "Homophones: aise shabd jo ek jaise bole jaate hain par matlab alag hai. tail (poonchh) – tale (kahani), see (dekhna) – sea (samudra), hole (chhed) – whole (poora), write (likhna) – right (sahi), I (main) – eye (aankh).", "Homophones sound the same but mean different things: tail – tale, see – sea, hole – whole, write – right, I – eye."]},
+        {"book": true, "fb": ["The monkey has a long ___.", "tail", ["tail", "tale"], "बंदर की लंबी पूँछ होती है।", "Bandar ki lambi poonchh hoti hai."]},
+        {"book": true, "fb": ["I saw a man with one ___.", "eye", ["eye", "I"], "मैंने एक आँख वाले आदमी को देखा।", "Maine ek aankh waale aadmi ko dekha."]},
+        {"book": true, "fb": ["A snake lives in a ___.", "hole", ["hole", "whole"], "साँप बिल में रहता है।", "Saanp bil mein rehta hai."]},
+        {"book": true, "fb": ["___ a letter to your friend.", "Write", ["Write", "Right"], "अपने दोस्त को चिट्ठी लिखो।", "Apne dost ko chitthi likho."]},
+        {"book": true, "fb": ["Fishermen go to the ___ every day.", "sea", ["sea", "see"], "मछुआरे हर दिन समुद्र में जाते हैं।", "Machhuaare har din samudra mein jaate hain."]},
+        {"fb": ["Grandmother told us a ___ about a king.", "tale", ["tale", "tail"], "दादी ने हमें एक राजा की कहानी सुनाई।", "Daadi ne humein ek raja ki kahani sunaayi."]},
+        {"fb": ["He ate the ___ pizza by himself!", "whole", ["whole", "hole"], "उसने पूरा पिज़्ज़ा अकेले खा लिया!", "Usne poora pizza akele kha liya!"]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: as...as, -er than, the -est", "Grammar: as...as, -er than, the -est", "Grammar in Use: as...as, -er than, the -est"], "book": true,
+      "skills": ["book.grammar", "grammar.comparison"],
+      "steps": [
+        {"card": ["दो चीज़ें बराबर हों तो ‘as ... as’: Sona is as thin as her sister (सोना अपनी बहन जितनी पतली है)। बराबर न हों तो ‘not as ... as’।", "Do cheezein baraabar hon to ‘as ... as’: Sona is as thin as her sister (Sona apni behen jitni patli hai). Baraabar na hon to ‘not as ... as’.", "When two things are equal, use ‘as ... as’: Sona is as thin as her sister. When they are not equal, use ‘not as ... as’."]},
+        {"book": true, "fb": ["Meena is ___ her friend Meeta.", "as old as", ["as old as", "as big as", "as sweet as"], "मीना अपनी दोस्त मीता जितनी उम्र की है।", "Meena apni dost Meeta jitni umar ki hai."]},
+        {"book": true, "fb": ["These mangoes are not ___ the ones we ate yesterday.", "as sweet as", ["as sweet as", "as old as", "as thin as"], "ये आम कल वाले आमों जितने मीठे नहीं हैं।", "Yeh aam kal waale aamon jitne meethe nahi hain."]},
+        {"book": true, "fb": ["This box is ___ the other one.", "as big as", ["as big as", "as sweet as", "as old as"], "यह डिब्बा दूसरे डिब्बे जितना बड़ा है।", "Yeh dibba doosre dibbe jitna bada hai."]},
+        {"book": true, "fb": ["Raju's handwriting is ___ his father's.", "as good as", ["as good as", "as big as", "as thin as"], "राजू की लिखावट उसके पापा जितनी अच्छी है।", "Raju ki likhaavat uske papa jitni achhi hai."]},
+        {"card": ["अब अपने बारे में लिखो (किताब): I am taller than my brother. दो की तुलना में -er + than।", "Ab apne baare mein likho (kitaab): I am taller than my brother. Do ki tulna mein -er + than.", "Now write about yourself (book): I am taller than my brother. Comparing two uses -er + than."]},
+        {"book": true, "build": ["अपने बारे में: मैं अपनी बहन से छोटा/छोटी (उम्र में) हूँ।", "Apne baare mein: main apni behen se chhota/chhoti (umar mein) hoon.", "About you: younger than your sister.", "I am younger than my sister.", "मैं अपनी बहन से उम्र में छोटा/छोटी हूँ।", "Main apni behen se umar mein chhota/chhoti hoon.", ["youngest"]]},
+        {"book": true, "build": ["अपने बारे में: मैं पापा से छोटा/छोटी (क़द में) हूँ।", "Apne baare mein: main papa se chhota/chhoti (kad mein) hoon.", "About you: shorter than your father.", "I am shorter than my father.", "मैं क़द में पापा से छोटा/छोटी हूँ।", "Main kad mein papa se chhota/chhoti hoon.", ["shortest"]]},
+        {"book": true, "build": ["अपने बारे में: मैं अपने चचेरे भाई से छोटा/छोटी हूँ।", "Apne baare mein: main apne chachere bhai se chhota/chhoti hoon.", "About you: smaller than your cousin.", "I am smaller than my cousin.", "मैं अपने चचेरे भाई से छोटा/छोटी हूँ।", "Main apne chachere bhai se chhota/chhoti hoon.", ["smallest"]]},
+        {"card": ["सब में सबसे हो तो ‘the -est’: the fastest (सबसे तेज़), the highest (सबसे ऊँचा), the best (सबसे अच्छा)।", "Sab mein sabse ho to ‘the -est’: the fastest (sabse tez), the highest (sabse ooncha), the best (sabse achha).", "When it's the most of all, use ‘the -est’: the fastest, the highest, the best."]},
+        {"book": true, "fb": ["The humming bird is ___ bird.", "the smallest", ["the smallest", "the fastest", "the highest"], "हमिंग बर्ड सबसे छोटी चिड़िया है।", "Humming bird sabse chhoti chidiya hai."]},
+        {"book": true, "fb": ["Mt. Everest is ___ mountain peak in the world.", "the highest", ["the highest", "the longest", "the best"], "माउंट एवरेस्ट दुनिया की सबसे ऊँची चोटी है।", "Mount Everest duniya ki sabse oonchi choti hai."]},
+        {"book": true, "fb": ["A cheetah runs ___ of all animals.", "the fastest", ["the fastest", "the smallest", "the longest"], "चीता सब जानवरों में सबसे तेज़ दौड़ता है।", "Cheeta sab jaanwaron mein sabse tez daudta hai."]},
+        {"book": true, "fb": ["Birbal told ___ story to Akbar.", "the longest", ["the longest", "the highest", "the fastest"], "बीरबल ने अकबर को सबसे लंबी कहानी सुनाई।", "Birbal ne Akbar ko sabse lambi kahani sunaayi."]},
+        {"book": true, "fb": ["Sujata is ___ student of her class.", "the best", ["the best", "the highest", "the fastest"], "सुजाता अपनी क्लास की सबसे अच्छी छात्रा है।", "Sujata apni class ki sabse achhi chhaatra hai."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: कुत्ता या बिल्ली?", "Chalo baat karein: kutta ya billi?", "Let's Talk: dog or cat?"], "book": true,
+      "skills": ["book.talk", "vocab.animals"],
+      "steps": [
+        {"card": ["किताब में दो जानवरों के बारे में वाक्य मिले-जुले हैं। हर वाक्य पढ़ो और बताओ, यह कुत्ते के बारे में है या बिल्ली के।", "Kitaab mein do jaanwaron ke baare mein vaakya mile-jule hain. Har vaakya padho aur batao, yeh kutte ke baare mein hai ya billi ke.", "The book mixes up sentences about two animals. Read each one and say: is it about the dog or the cat?"]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर वाक्य को सही जानवर के पास रखो", "Har vaakya ko sahi jaanwar ke paas rakho", "Put each sentence with the right animal"],
+          "groups": [
+            {"id": "dog", "name": "dog", "emoji": "🐕", "meaning": ["कुत्ता", "kutta"]},
+            {"id": "cat", "name": "cat", "emoji": "🐈", "meaning": ["बिल्ली", "billi"]}
+          ],
+          "items": [
+            {"text": "It watches our house.", "emoji": "🏠", "groups": ["dog"]},
+            {"text": "It comes silently in the kitchen and sips the milk.", "emoji": "🥛", "groups": ["cat"]},
+            {"text": "It is very faithful.", "emoji": "🤝", "groups": ["dog"]},
+            {"text": "It is tamed.", "emoji": "🏡", "groups": ["dog", "cat"]},
+            {"text": "The rats are afraid of it.", "emoji": "🐀", "groups": ["cat"]},
+            {"text": "It mews.", "emoji": "🔉", "groups": ["cat"]},
+            {"text": "It barks.", "emoji": "📢", "groups": ["dog"]},
+            {"text": "We call it mousi.", "emoji": "👵", "groups": ["cat"]}
+          ]},
+        {"says": ["The dog is very faithful.", "कुत्ता बहुत वफ़ादार होता है।", "Kutta bahut wafaadaar hota hai."], "skills": ["speak.sentence", "book.talk"]},
+        {"says": ["The rats are afraid of the cat.", "चूहे बिल्ली से डरते हैं।", "Choohe billi se darte hain."], "skills": ["speak.sentence", "book.talk"]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: बिल्ली के बारे में", "Chalo likhein: billi ke baare mein", "Let's Write: about cats"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब कहती है: बिल्ली के बारे में पाँच वाक्य लिखो। चलो एक-एक करके बनाते हैं।", "Kitaab kehti hai: billi ke baare mein paanch vaakya likho. Chalo ek-ek karke banaate hain.", "The book says: write five sentences about cats. Let's build them one by one."]},
+        {"book": true, "build": ["बिल्ली एक पालतू जानवर है।", "Billi ek paaltu jaanwar hai.", "Say that the cat is a pet animal.", "The cat is a pet animal.", "बिल्ली एक पालतू जानवर है।", "Billi ek paaltu jaanwar hai."]},
+        {"book": true, "build": ["उसके चार पैर और एक लंबी पूँछ होती है।", "Uske chaar pair aur ek lambi poonchh hoti hai.", "Say what its legs and tail are like.", "It has four legs and a long tail.", "उसके चार पैर और एक लंबी पूँछ होती है।", "Uske chaar pair aur ek lambi poonchh hoti hai."]},
+        {"book": true, "build": ["उसके बाल नरम होते हैं।", "Uske baal naram hote hain.", "Say what its coat is like.", "Its coat is soft and warm.", "उसके बाल नरम और गर्म होते हैं।", "Uske baal naram aur garm hote hain."]},
+        {"book": true, "build": ["उसे दूध और मछली पसंद है।", "Use doodh aur machhli pasand hai.", "Say what it likes to eat.", "It likes milk and fish.", "उसे दूध और मछली पसंद है।", "Use doodh aur machhli pasand hai."]},
+        {"book": true, "build": ["वह चूहे पकड़ती है।", "Woh choohe pakadti hai.", "Say what it catches.", "It catches rats.", "वह चूहे पकड़ती है।", "Woh choohe pakadti hai."]},
+        {"card": ["किताब का दूसरा सवाल: अपने पालतू जानवर पर पाँच वाक्य। ऐसे लिखो: I have a pet dog. His name is Moti. He is brown and white. He likes milk and bread. He watches our house at night. (अपने पालतू का नाम और रंग बदलो!)", "Kitaab ka doosra sawaal: apne paaltu jaanwar par paanch vaakya. Aise likho: I have a pet dog. His name is Moti. He is brown and white. He likes milk and bread. He watches our house at night. (Apne paaltu ka naam aur rang badlo!)", "The book's second task: five sentences about your pet. For example: I have a pet dog. His name is Moti. He is brown and white. He likes milk and bread. He watches our house at night. (Change the name and colour to your own pet's!)"]}
+      ]
+    },
+    {
+      "emoji": "🐾", "title": ["चलो करके देखें: पालतू जानवर", "Chalo karke dekhein: paaltu jaanwar", "Let's Do It: pet animals"], "book": true,
+      "skills": ["book.activity", "vocab.animals"],
+      "steps": [
+        {"card": ["किताब कहती है: पालतू जानवरों की तस्वीरें इकट्ठा करो और उनके नाम लिखो। पहले यहाँ नाम पहचानो।", "Kitaab kehti hai: paaltu jaanwaron ki tasveerein ikattha karo aur unke naam likho. Pehle yahan naam pehchaano.", "The book says: collect pictures of pet animals and write their names. First, name them here."]},
+        {"book": true, "q": ["Which pet is this? 🐇", "यह कौन सा पालतू जानवर है?", "Yeh kaun sa paaltu jaanwar hai?", ["rabbit", "rat", "goat"], "rabbit"]},
+        {"book": true, "q": ["Which pet is this? 🦜", "यह कौन सा पालतू पक्षी है?", "Yeh kaun sa paaltu pakshi hai?", ["parrot", "crow", "hen"], "parrot"]},
+        {"book": true, "q": ["Which pet is this? 🐟", "यह कौन सा पालतू जानवर है?", "Yeh kaun sa paaltu jaanwar hai?", ["fish", "frog", "duck"], "fish"]},
+        {"book": true, "q": ["Which pet is this? 🐢", "यह कौन सा पालतू जानवर है?", "Yeh kaun sa paaltu jaanwar hai?", ["tortoise", "snake", "lizard"], "tortoise"]},
+        {"q": ["Which of these is NOT a pet animal?", "इनमें से कौन पालतू जानवर नहीं है?", "Inmein se kaun paaltu jaanwar nahi hai?", ["tiger", "dog", "cat"], "tiger", "", "", "", ["🐅", "🐕", "🐈"]]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: बिल्ली की दुनिया", "Aur seekho: billi ki duniya", "Learn more: all about cats"], "book": false,
+      "skills": ["vocab.animals"],
+      "steps": [
+        {"pairs": ["बिल्ली से जुड़े शब्द जोड़ो", "Billi se jude shabd jodo", "Join the cat words to their meanings", [
+          ["kitten", "a baby cat", "बिल्ली का बच्चा", "billi ka bachcha"],
+          ["paw", "the foot of a cat or dog", "पंजा", "panja"],
+          ["whiskers", "long hairs near a cat's mouth", "मूँछें", "moonchhein"],
+          ["purr", "the soft happy sound of a cat", "ख़ुश बिल्ली की गुर्राहट", "khush billi ki gurraahat"],
+          ["claws", "sharp nails of a cat", "नाख़ून", "naakhoon"]]]},
+        {"q": ["‘It is raining cats and dogs.’ What does it mean?", "‘It is raining cats and dogs’ का क्या मतलब है?", "‘It is raining cats and dogs’ ka kya matlab hai?", ["It is raining very heavily.", "Cats are falling from the sky.", "It is not raining."], "It is raining very heavily.", "‘Raining cats and dogs’ means raining very heavily.", "इसका मतलब है बहुत तेज़ बारिश हो रही है।", "Iska matlab hai bahut tez baarish ho rahi hai."]},
+        {"fb": ["The little ___ was playing with a ball of wool.", "kitten", ["kitten", "puppy", "calf"], "बिल्ली का बच्चा ऊन के गोले से खेल रहा था।", "Billi ka bachcha oon ke gole se khel raha tha."]},
+        {"fb": ["We should be ___ with animals.", "gentle", ["gentle", "cruel", "rough"], "हमें जानवरों के साथ प्यार से पेश आना चाहिए।", "Humein jaanwaron ke saath pyaar se pesh aana chahiye."]},
+        {"q": ["Which big cat lives in the forests of Madhya Pradesh?", "मध्य प्रदेश के जंगलों में कौन सी बड़ी बिल्ली रहती है?", "Madhya Pradesh ke jangalon mein kaun si badi billi rehti hai?", ["tiger", "camel", "penguin"], "tiger", "The tiger lives in the forests of Madhya Pradesh. MP is called the Tiger State of India.", "बाघ मध्य प्रदेश के जंगलों में रहता है। मध्य प्रदेश को ‘टाइगर स्टेट’ कहते हैं।", "Baagh Madhya Pradesh ke jangalon mein rehta hai. Madhya Pradesh ko ‘Tiger State’ kehte hain.", ["🐅", "🐪", "🐧"]]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 6 का टेस्ट", "Paath 6 ka test", "Lesson 6 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What does the poet say about the cat's coat?", "बिल्ली के बालों के बारे में कवि क्या कहता है?", "Billi ke baalon ke baare mein kavi kya kehta hai?", ["Her coat is so warm.", "Her coat is red.", "Her coat is wet."], "Her coat is so warm."]},
+        {"book": true, "q": ["Why will the pussy like the child?", "बिल्ली बच्चे को क्यों पसंद करेगी?", "Billi bachche ko kyon pasand karegi?", ["because the child is gentle and good", "because the child is tall", "because the child sings"], "because the child is gentle and good"]},
+        {"book": true, "q": ["Where will the pussy sit?", "बिल्ली कहाँ बैठेगी?", "Billi kahan baithegi?", ["by the child's side", "on the roof", "in the kitchen"], "by the child's side"]},
+        {"book": true, "skills": ["book.words"], "fb": ["The monkey has a long ___.", "tail", ["tail", "tale"], "बंदर की लंबी पूँछ होती है।", "Bandar ki lambi poonchh hoti hai."]},
+        {"book": true, "skills": ["book.words"], "fb": ["Fishermen go to the ___ every day.", "sea", ["sea", "see"], "मछुआरे हर दिन समुद्र में जाते हैं।", "Machhuaare har din samudra mein jaate hain."]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word sounds like ‘coat’?", "कौन सा शब्द ‘coat’ जैसा लगता है?", "Kaun sa shabd ‘coat’ jaisa lagta hai?", ["boat", "cat", "cut"], "boat"]},
+        {"book": true, "skills": ["book.grammar", "grammar.comparison"], "fb": ["A cheetah runs ___ of all animals.", "the fastest", ["the fastest", "faster", "fast"], "चीता सब जानवरों में सबसे तेज़ दौड़ता है।", "Cheeta sab jaanwaron mein sabse tez daudta hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.comparison"], "fb": ["This box is as ___ as the other one.", "big", ["big", "bigger", "biggest"], "यह डिब्बा दूसरे जितना बड़ा है।", "Yeh dibba doosre jitna bada hai."]},
+        {"book": true, "skills": ["book.talk"], "q": ["‘It barks.’ Which animal?", "‘It barks.’ कौन सा जानवर?", "‘It barks.’ Kaun sa jaanwar?", ["dog", "cat"], "dog"]},
+        {"book": true, "skills": ["book.talk"], "q": ["‘We call it mousi.’ Which animal?", "‘We call it mousi.’ कौन सा जानवर?", "‘We call it mousi.’ Kaun sa jaanwar?", ["cat", "dog"], "cat"]}
+      ]
+    }
+  ]
+}

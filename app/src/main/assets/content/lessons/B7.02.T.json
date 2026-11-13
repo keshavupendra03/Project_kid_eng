@@ -1,0 +1,194 @@
+{
+  "id": "B7.02.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.02.T.S01",
+    "B7.02.T.S02",
+    "B7.02.T.S03",
+    "B7.02.T.S04",
+    "B7.02.T.S05",
+    "B7.02.T.S06",
+    "B7.02.T.S07",
+    "B7.02.T.S09"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.02.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Where did Bhola go to sell the horse?",
+      "questionMeaning": {
+        "hi": "भोला घोड़ा बेचने कहाँ गया?",
+        "hinglish": "Bhola ghoda bechne kahan gaya?"
+      },
+      "options": [
+        "to the market",
+        "to the Nawab's palace",
+        "to a village fair"
+      ],
+      "answer": "to the market"
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Whom did he meet first?",
+      "questionMeaning": {
+        "hi": "वह सबसे पहले किससे मिला?",
+        "hinglish": "Woh sabse pehle kisse mila?"
+      },
+      "options": [
+        "a man with a donkey",
+        "a woman with a sheep",
+        "a boy with a hen"
+      ],
+      "answer": "a man with a donkey"
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? Bhola's wife was Asha.",
+      "questionMeaning": {
+        "hi": "भोला की पत्नी आशा थी।",
+        "hinglish": "Bhola ki patni Asha thi."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.T.S04",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? His wife loved to eat mango chutney.",
+      "questionMeaning": {
+        "hi": "उसकी पत्नी को आम की चटनी पसंद थी।",
+        "hinglish": "Uski patni ko aam ki chatni pasand thi."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "One who looks after sheep",
+      "questionMeaning": {
+        "hi": "जो भेड़ों की देखभाल करता है",
+        "hinglish": "Jo bhedon ki dekhbhaal karta hai"
+      },
+      "options": [
+        "shepherd",
+        "farmer",
+        "tailor"
+      ],
+      "answer": "shepherd"
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "a swarm of ...",
+      "questionMeaning": {
+        "hi": "किसका झुंड?",
+        "hinglish": "Kiska jhund?"
+      },
+      "options": [
+        "bees",
+        "grapes",
+        "stones"
+      ],
+      "answer": "bees"
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.T.S07",
+      "skills": [
+        "book.words"
+      ],
+      "question": "a bouquet of ...",
+      "questionMeaning": {
+        "hi": "किसका गुलदस्ता?",
+        "hinglish": "Kiska guldasta?"
+      },
+      "options": [
+        "flowers",
+        "soldiers",
+        "cattle"
+      ],
+      "answer": "flowers"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "sentence": "The girl ___ is wearing a red sweater is Sarita.",
+      "answer": "who",
+      "options": [
+        "who",
+        "which"
+      ],
+      "meaning": {
+        "hi": "जो लड़की लाल स्वेटर पहने है, वह सरिता है।",
+        "hinglish": "Jo ladki laal sweater pehne hai, woh Sarita hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.T.S09",
+      "skills": [
+        "book.activity",
+        "grammar.should"
+      ],
+      "sentence": "We should ___ cut green trees.",
+      "answer": "never",
+      "options": [
+        "never",
+        "always"
+      ],
+      "meaning": {
+        "hi": "हमें कभी हरे पेड़ नहीं काटने चाहिए।",
+        "hinglish": "Humein kabhi hare ped nahi kaatne chahiye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.T.S10",
+      "skills": [
+        "book.words"
+      ],
+      "question": "What does ‘delicious’ mean?",
+      "questionMeaning": {
+        "hi": "‘delicious’ का क्या मतलब है?",
+        "hinglish": "‘delicious’ ka kya matlab hai?"
+      },
+      "options": [
+        "very tasty",
+        "very costly",
+        "very old"
+      ],
+      "answer": "very tasty"
+    }
+  ]
+}

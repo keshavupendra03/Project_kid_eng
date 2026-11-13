@@ -1,0 +1,89 @@
+{
+  "id": "B6.10.8",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.10.8.S01",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "question": "What do you learn from the kind boy?",
+      "questionMeaning": {
+        "hi": "दयालु लड़के से तुम क्या सीखते हो?",
+        "hinglish": "Dayaalu ladke se tum kya seekhte ho?"
+      },
+      "options": [
+        "We should share with the poor and hungry.",
+        "We should keep food in bookshelves.",
+        "We should not eat breakfast."
+      ],
+      "answer": "We should share with the poor and hungry."
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.10.8.S02",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "instruction": {
+        "hi": "भावनाओं के शब्द जोड़ो",
+        "hinglish": "Bhaavnaaon ke shabd jodo",
+        "en": "Join the feeling words"
+      },
+      "pairs": [
+        {
+          "left": "kind",
+          "right": "caring about others",
+          "meaning": {
+            "hi": "दयालु",
+            "hinglish": "dayaalu"
+          }
+        },
+        {
+          "left": "sorry",
+          "right": "feeling sad for someone",
+          "meaning": {
+            "hi": "दुखी, अफ़सोस",
+            "hinglish": "dukhi, afsos"
+          }
+        },
+        {
+          "left": "hungry",
+          "right": "wanting food",
+          "meaning": {
+            "hi": "भूखा",
+            "hinglish": "bhookha"
+          }
+        },
+        {
+          "left": "happy",
+          "right": "feeling good",
+          "meaning": {
+            "hi": "ख़ुश",
+            "hinglish": "khush"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.10.8.S03",
+      "skills": [
+        "vocab.feelings"
+      ],
+      "question": "Netaji Subhash Chandra Bose's birthday, 23rd January, is celebrated as ...",
+      "questionMeaning": {
+        "hi": "23 जनवरी, नेताजी का जन्मदिन, किस रूप में मनाया जाता है?",
+        "hinglish": "23 January, Netaji ka janmdin, kis roop mein manaaya jaata hai?"
+      },
+      "options": [
+        "Parakram Diwas",
+        "Teachers' Day",
+        "Children's Day"
+      ],
+      "answer": "Parakram Diwas"
+    }
+  ]
+}

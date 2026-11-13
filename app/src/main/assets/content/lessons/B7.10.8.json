@@ -1,0 +1,143 @@
+{
+  "id": "B7.10.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.10.8.S01",
+      "skills": [
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "अंतरिक्ष के शब्द जोड़ो",
+        "hinglish": "Antariksh ke shabd jodo",
+        "en": "Join the space words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "planet",
+          "right": "a big round body that moves around the sun",
+          "meaning": {
+            "hi": "ग्रह",
+            "hinglish": "grah"
+          }
+        },
+        {
+          "left": "satellite",
+          "right": "a body that moves around a planet",
+          "meaning": {
+            "hi": "उपग्रह",
+            "hinglish": "upgrah"
+          }
+        },
+        {
+          "left": "orbit",
+          "right": "the path around a planet or the sun",
+          "meaning": {
+            "hi": "कक्षा (घूमने का रास्ता)",
+            "hinglish": "kaksha (ghoomne ka raasta)"
+          }
+        },
+        {
+          "left": "telescope",
+          "right": "an instrument to see far-away things",
+          "meaning": {
+            "hi": "दूरबीन",
+            "hinglish": "doorbeen"
+          }
+        },
+        {
+          "left": "solar system",
+          "right": "the sun and the planets around it",
+          "meaning": {
+            "hi": "सौर मंडल",
+            "hinglish": "saur mandal"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.8.S02",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "What is the name of India's space agency?",
+      "questionMeaning": {
+        "hi": "भारत की अंतरिक्ष एजेंसी का नाम क्या है?",
+        "hinglish": "Bharat ki antariksh agency ka naam kya hai?"
+      },
+      "options": [
+        "ISRO",
+        "NASA",
+        "RBI"
+      ],
+      "answer": "ISRO",
+      "modelAnswer": "ISRO (Indian Space Research Organisation) is India's space agency.",
+      "modelMeaning": {
+        "hi": "इसरो भारत की अंतरिक्ष एजेंसी है।",
+        "hinglish": "ISRO Bharat ki antariksh agency hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.8.S03",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "Which Indian mission landed near the south pole of the moon?",
+      "questionMeaning": {
+        "hi": "चाँद के दक्षिणी ध्रुव के पास कौन सा भारतीय मिशन उतरा?",
+        "hinglish": "Chaand ke dakshini dhruv ke paas kaun sa Bhaarateeya mission utra?"
+      },
+      "options": [
+        "Chandrayaan-3",
+        "Mangalyaan",
+        "Aryabhata"
+      ],
+      "answer": "Chandrayaan-3",
+      "modelAnswer": "Chandrayaan-3 landed near the south pole of the moon in 2023.",
+      "modelMeaning": {
+        "hi": "चंद्रयान-3 2023 में चाँद के दक्षिणी ध्रुव के पास उतरा।",
+        "hinglish": "Chandrayaan-3 2023 mein chaand ke dakshini dhruv ke paas utra."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.8.S04",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "Which planet do we live on?",
+      "questionMeaning": {
+        "hi": "हम किस ग्रह पर रहते हैं?",
+        "hinglish": "Hum kis grah par rehte hain?"
+      },
+      "options": [
+        "Earth",
+        "Mars",
+        "Venus"
+      ],
+      "answer": "Earth"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.10.8.S05",
+      "skills": [
+        "vocab.nature"
+      ],
+      "sentence": "The moon is a ___ of the Earth.",
+      "answer": "satellite",
+      "options": [
+        "satellite",
+        "planet",
+        "star"
+      ],
+      "meaning": {
+        "hi": "चाँद पृथ्वी का उपग्रह है।",
+        "hinglish": "Chaand Prithvi ka upgrah hai."
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "B8.11.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.11.5.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.11.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब: पाँच-पाँच के समूह में बात करो और तालिका भरो: तुम्हारे पास पानी का कौन सा स्रोत है, क्या वह चालू है, उसे कैसे ठीक रखें। उदाहरण: अपराजिता: tubewell, yes, by allowing water to percolate down into the earth।",
+        "hinglish": "Kitaab: paanch-paanch ke samooh mein baat karo aur taalika bharo: tumhaare paas paani ka kaun sa srot hai, kya woh chaalu hai, use kaise theek rakhein. Udaaharan: Aparajita: tubewell, yes, by allowing water to percolate down into the earth.",
+        "en": "The book: talk in groups of five and fill in the table: your source of water, whether it works, how to maintain it. Example: Aparajita: tubewell, yes, by allowing water to percolate down into the earth."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B8.11.5.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🚰",
+      "turns": [
+        {
+          "id": "source",
+          "tinku": "What is the source of water near your house?",
+          "meaning": {
+            "hi": "तुम्हारे घर के पास पानी का स्रोत क्या है?",
+            "hinglish": "Tumhaare ghar ke paas paani ka srot kya hai?"
+          },
+          "replies": [
+            {
+              "say": "There is a tubewell near my house.",
+              "meaning": {
+                "hi": "मेरे घर के पास एक ट्यूबवेल है।",
+                "hinglish": "Mere ghar ke paas ek tubewell hai."
+              },
+              "patterns": [
+                "there is a *",
+                "a *",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "works",
+          "tinku": "Is it in working order?",
+          "meaning": {
+            "hi": "क्या वह चालू है?",
+            "hinglish": "Kya woh chaalu hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, it is.",
+              "meaning": {
+                "hi": "हाँ, चालू है।",
+                "hinglish": "Haan, chaalu hai."
+              },
+              "patterns": [
+                "yes it is",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, it isn't.",
+              "meaning": {
+                "hi": "नहीं, चालू नहीं है।",
+                "hinglish": "Nahi, chaalu nahi hai."
+              },
+              "patterns": [
+                "no it isnt",
+                "no it is not",
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "keep",
+          "tinku": "How can it be maintained?",
+          "meaning": {
+            "hi": "उसे ठीक कैसे रखा जा सकता है?",
+            "hinglish": "Use theek kaise rakha ja sakta hai?"
+          },
+          "replies": [
+            {
+              "say": "By letting rainwater percolate into the earth.",
+              "meaning": {
+                "hi": "बारिश का पानी धरती में रिसने देकर।",
+                "hinglish": "Baarish ka paani dharti mein risne dekar."
+              },
+              "patterns": [
+                "by *",
+                "* rainwater *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

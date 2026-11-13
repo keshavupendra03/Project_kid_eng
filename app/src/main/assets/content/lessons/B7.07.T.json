@@ -1,0 +1,200 @@
+{
+  "id": "B7.07.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.07.T.S01",
+    "B7.07.T.S02",
+    "B7.07.T.S03",
+    "B7.07.T.S04",
+    "B7.07.T.S05",
+    "B7.07.T.S06",
+    "B7.07.T.S07",
+    "B7.07.T.S08",
+    "B7.07.T.S09",
+    "B7.07.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.07.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "The two merchants were looking ...",
+      "questionMeaning": {
+        "hi": "दोनों व्यापारी ढूँढ रहे थे ...",
+        "hinglish": "Dono vyaapaari dhoondh rahe the ..."
+      },
+      "options": [
+        "for their friend",
+        "for their lost camel",
+        "for their family members"
+      ],
+      "answer": "for their lost camel"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "The old man knew the camel was lame because ...",
+      "questionMeaning": {
+        "hi": "बूढ़े आदमी को कैसे पता था कि ऊँट लंगड़ा है?",
+        "hinglish": "Boodhe aadmi ko kaise pata tha ki oont langda hai?"
+      },
+      "options": [
+        "one of its footprints could hardly be seen",
+        "the ants carried fallen grains",
+        "he had seen the camel before"
+      ],
+      "answer": "one of its footprints could hardly be seen"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "The Khalifa said to the merchants ...",
+      "questionMeaning": {
+        "hi": "ख़लीफ़ा ने व्यापारियों से कहा ...",
+        "hinglish": "Khalifa ne vyaapaariyon se kaha ..."
+      },
+      "options": [
+        "use your ears",
+        "use your eyes",
+        "use your mouth"
+      ],
+      "answer": "use your eyes"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.T.S04",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "The old man had ...",
+      "questionMeaning": {
+        "hi": "बूढ़े आदमी ने ...",
+        "hinglish": "Boodhe aadmi ne ..."
+      },
+      "options": [
+        "stolen the camel",
+        "killed the camel",
+        "never seen the camel"
+      ],
+      "answer": "never seen the camel"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "What does ‘merchant’ mean?",
+      "questionMeaning": {
+        "hi": "‘merchant’ का मतलब?",
+        "hinglish": "‘merchant’ ka matlab?"
+      },
+      "options": [
+        "a person who buys and sells goods",
+        "a tiny insect",
+        "without excitement"
+      ],
+      "answer": "a person who buys and sells goods"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Ramesh had not done his homework, so he made ___ of falling sick.",
+      "answer": "a lame excuse",
+      "options": [
+        "a lame excuse",
+        "foolproof",
+        "the ship of the desert"
+      ],
+      "meaning": {
+        "hi": "रमेश ने बीमार होने का कमज़ोर बहाना बनाया।",
+        "hinglish": "Ramesh ne beemaar hone ka kamzor bahaana banaaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Two boys ___ in the ground with a ball.",
+      "answer": "were playing",
+      "options": [
+        "were playing",
+        "plays",
+        "is playing"
+      ],
+      "meaning": {
+        "hi": "दो लड़के मैदान में गेंद से खेल रहे थे।",
+        "hinglish": "Do ladke maidaan mein gend se khel rahe the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.wh_questions"
+      ],
+      "question": "She has her lunch at 10 o'clock. Ask with ‘when’.",
+      "questionMeaning": {
+        "hi": "‘when’ से सवाल बनाओ",
+        "hinglish": "‘when’ se sawaal banao"
+      },
+      "options": [
+        "When does she have her lunch?",
+        "When she has her lunch?",
+        "When does she has her lunch?"
+      ],
+      "answer": "When does she have her lunch?"
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.T.S09",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "What's the use of the camel's hump?",
+      "questionMeaning": {
+        "hi": "ऊँट के कूबड़ का क्या काम है?",
+        "hinglish": "Oont ke koobad ka kya kaam hai?"
+      },
+      "options": [
+        "It gives energy when food and water are scarce.",
+        "It stores sand.",
+        "It helps it to swim."
+      ],
+      "answer": "It gives energy when food and water are scarce."
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.T.S10",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "A flightless bird, white and black, eats fish.",
+      "questionMeaning": {
+        "hi": "न उड़ने वाला पक्षी, मछली खाता है।",
+        "hinglish": "Na udne waala pakshi, machhli khaata hai."
+      },
+      "options": [
+        "penguin",
+        "crow",
+        "parrot"
+      ],
+      "answer": "penguin"
+    }
+  ]
+}

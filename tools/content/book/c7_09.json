@@ -1,0 +1,194 @@
+{
+  "grade": 7, "number": 9, "emoji": "👻", "title": "The White Visitor", "pages": "63–70",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["यह पाठ एक नाटक है। डॉक्टर दास एक ऐसा घर ख़रीदना चाहते हैं जिसके बारे में लोग कहते हैं कि वहाँ भूत आता है! पहले किताब के सवाल।", "Yeh paath ek naatak hai. Doctor Dass ek aisa ghar khareedna chahte hain jiske baare mein log kehte hain ki wahan bhoot aata hai! Pehle kitaab ke sawaal.", "This lesson is a play. Doctor Dass wants to buy a house that people say has a ghost! First, the book's questions."]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "👻", "turns": [
+          {"id": "know", "tinku": "Do you believe in ghosts?", "meaning": ["क्या तुम भूतों पर विश्वास करते हो?", "Kya tum bhooton par vishwaas karte ho?"],
+            "replies": [
+              {"say": "No, I do not believe in ghosts.", "meaning": ["नहीं, मैं भूतों पर विश्वास नहीं करता/करती।", "Nahi, main bhooton par vishwaas nahi karta/karti."], "patterns": ["no *", "no"]},
+              {"say": "Yes, I believe in ghosts.", "meaning": ["हाँ, मैं भूतों पर विश्वास करता/करती हूँ।", "Haan, main bhooton par vishwaas karta/karti hoon."], "patterns": ["yes *", "yes"]}
+            ]},
+          {"id": "story", "tinku": "Do you know any ghost story, movie or T.V. serial?", "meaning": ["क्या तुम कोई भूत की कहानी, फ़िल्म या टीवी सीरियल जानते हो?", "Kya tum koi bhoot ki kahani, film ya TV serial jaante ho?"],
+            "replies": [
+              {"say": "Yes, I know a funny ghost story.", "meaning": ["हाँ, मुझे भूत की एक मज़ेदार कहानी पता है।", "Haan, mujhe bhoot ki ek mazedaar kahani pata hai."], "patterns": ["yes *", "yes"], "next": "end"},
+              {"say": "No, I do not know any.", "meaning": ["नहीं, मुझे कोई नहीं पता।", "Nahi, mujhe koi nahi pata."], "patterns": ["no *", "no"], "next": "end"}
+            ]}
+        ]},
+        {"word": ["several", "कई", "kai", "more than two but not many", "Several children were absent today.", "आज कई बच्चे ग़ैरहाज़िर थे।", "Aaj kai bachche gairhaazir the."]},
+        {"word": ["price", "दाम, क़ीमत", "daam, keemat", "the money you pay to buy something", "The price of the house is three lakh.", "घर की क़ीमत तीन लाख है।", "Ghar ki keemat teen laakh hai."]},
+        {"word": ["warn", "चेतावनी देना", "chetaavani dena", "to tell someone about a danger before it happens", "Father warned us about the busy road.", "पापा ने हमें भीड़ वाली सड़क के बारे में चेताया।", "Papa ne humein bheed waali sadak ke baare mein chetaaya."]},
+        {"word": ["soldier", "सैनिक", "sainik", "a person who is in the army", "The soldier was very brave.", "सैनिक बहुत बहादुर था।", "Sainik bahut bahaadur tha."]},
+        {"word": ["incident", "घटना", "ghatna", "something that happens", "Tell me about the incident in the market.", "मुझे बाज़ार वाली घटना के बारे में बताओ।", "Mujhe baazaar waali ghatna ke baare mein batao."]},
+        {"word": ["pause", "ठहराव, रुकना", "thehraav, rukna", "a short stop while speaking or doing something", "He spoke with long pauses.", "वह लंबे-लंबे ठहराव के साथ बोला।", "Woh lambe-lambe thehraav ke saath bola."]},
+        {"book": true, "pairs": ["किताब के phrases को उनके मतलब से जोड़ो", "Kitaab ke phrases ko unke matlab se jodo", "Join the book's phrases to their meanings", [
+          ["prices are going up", "things are getting costlier", "दाम बढ़ रहे हैं", "daam badh rahe hain"],
+          ["in a bad state", "in a poor condition", "बुरी हालत में", "buri haalat mein"],
+          ["in good order", "in a good condition", "अच्छी हालत में", "achhi haalat mein"],
+          ["by the light of", "using the light from", "की रोशनी में", "ki roshni mein"],
+          ["afraid of", "scared of", "से डरना", "se darna"]]]},
+        {"sayw": ["soldier", "सैनिक", "sainik"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 63 से 66 तक नाटक ‘The White Visitor’ पढ़ो। फिर जवाब दो।", "Apni kitaab mein page 63 se 66 tak naatak ‘The White Visitor’ padho. Phir jawab do.", "Read the play ‘The White Visitor’ on pages 63 to 66 of your book. Then answer."]},
+        {"book": true, "q": ["Why did Dr. Dass need to buy a house?", "डॉ. दास को घर क्यों ख़रीदना था?", "Dr. Dass ko ghar kyon khareedna tha?", ["He had come to live and work in Kali Ghat.", "He wanted to sell it later.", "His old house was haunted."], "He had come to live and work in Kali Ghat.", "Dr. Dass needed a house because he had come to live and work in Kali Ghat.", "डॉ. दास को घर चाहिए था क्योंकि वे काली घाट में रहने और काम करने आए थे।", "Dr. Dass ko ghar chahiye tha kyonki woh Kali Ghat mein rehne aur kaam karne aaye the."]},
+        {"book": true, "q": ["Why did he want to buy Shanti Bhawan?", "वे शांति भवन क्यों ख़रीदना चाहते थे?", "Woh Shanti Bhawan kyon khareedna chahte the?", ["It was cheap and in the middle of the town.", "It had a big garden.", "Mr. Choudhary told him to buy it."], "It was cheap and in the middle of the town.", "He wanted to buy Shanti Bhawan because it was cheap, only three lakh, and it was in the middle of the town.", "वे शांति भवन ख़रीदना चाहते थे क्योंकि वह सस्ता था, सिर्फ़ तीन लाख का, और शहर के बीच में था।", "Woh Shanti Bhawan khareedna chahte the kyonki woh sasta tha, sirf teen laakh ka, aur shahar ke beech mein tha."]},
+        {"book": true, "q": ["What reason did Mr. Choudhary give Dr. Dass so that he wouldn't buy Shanti Bhawan?", "चौधरी ने डॉ. दास को शांति भवन न ख़रीदने का क्या कारण बताया?", "Choudhary ne Dr. Dass ko Shanti Bhawan na khareedne ka kya kaaran bataaya?", ["He said Mrs Ghosh's ghost visits the house at night.", "He said the house was broken.", "He said the house was very costly."], "He said Mrs Ghosh's ghost visits the house at night.", "Mr. Choudhary said there were strange stories about the house. People said the dead owner, Mrs Ghosh, came back at night to visit it.", "चौधरी ने कहा कि घर के बारे में अजीब कहानियाँ हैं। लोग कहते हैं कि मरी हुई मालकिन श्रीमती घोष रात को घर आती हैं।", "Choudhary ne kaha ki ghar ke baare mein ajeeb kahaaniyaan hain. Log kehte hain ki mari hui maalkin Shrimati Ghosh raat ko ghar aati hain."]},
+        {"book": true, "q": ["Why did Dr. Dass want to spend a night in the house before buying it?", "डॉ. दास ख़रीदने से पहले घर में एक रात क्यों बिताना चाहते थे?", "Dr. Dass khareedne se pehle ghar mein ek raat kyon bitaana chahte the?", ["To find out if the ghost stories were true.", "Because he had no other place.", "To meet Mr. Ghosh."], "To find out if the ghost stories were true.", "Dr. Dass wanted to spend a night there to find out the truth about the ghost stories. He did not believe in them.", "डॉ. दास भूत की कहानियों का सच जानने के लिए वहाँ रात बिताना चाहते थे। वे उन पर विश्वास नहीं करते थे।", "Dr. Dass bhoot ki kahaaniyon ka sach jaanne ke liye wahan raat bitaana chahte the. Woh un par vishwaas nahi karte the."]},
+        {"book": true, "q": ["Who was the ‘White Visitor’?", "‘सफ़ेद मेहमान’ कौन था?", "‘Safed mehmaan’ kaun tha?", ["Mr. Choudhary", "Mrs Ghosh's ghost", "Mr. Ghosh"], "Mr. Choudhary", "The White Visitor was Mr. Choudhary. Dr. Dass suspected him, so he said, \"Mr. Choudhary, I believe,\" as soon as he pulled off the cloth.", "सफ़ेद मेहमान चौधरी थे। डॉ. दास को उन पर पहले से शक था।", "Safed mehmaan Choudhary the. Dr. Dass ko un par pehle se shak tha."]},
+        {"book": true, "q": ["What qualities of Dr. Dass helped him in buying the house?", "डॉ. दास के किन गुणों ने घर ख़रीदने में मदद की?", "Dr. Dass ke kin gunon ne ghar khareedne mein madad ki?", ["He was brave, smart and did not believe in ghosts.", "He was rich and lazy.", "He was afraid and quiet."], "He was brave, smart and did not believe in ghosts.", "Dr. Dass was brave, smart and determined. He did not believe in ghosts, so he found out the truth.", "डॉ. दास बहादुर, समझदार और पक्के इरादे वाले थे। वे भूतों पर विश्वास नहीं करते थे, इसलिए उन्होंने सच पता कर लिया।", "Dr. Dass bahaadur, samajhdaar aur pakke iraade waale the. Woh bhooton par vishwaas nahi karte the, isliye unhone sach pata kar liya."]},
+        {"book": true, "q": ["Why did Mr. Choudhary ask Dr. Dass not to talk about this incident?", "चौधरी ने डॉ. दास से इस घटना के बारे में किसी को न बताने को क्यों कहा?", "Choudhary ne Dr. Dass se is ghatna ke baare mein kisi ko na bataane ko kyon kaha?", ["He was afraid he would lose his business.", "He was ashamed of his white cloth.", "He wanted to keep the house."], "He was afraid he would lose his business.", "Mr. Choudhary asked him not to tell anyone because he would lose his business.", "चौधरी ने किसी को न बताने को कहा क्योंकि उनका कारोबार चौपट हो जाता।", "Choudhary ne kisi ko na bataane ko kaha kyonki unka kaarobaar chaupat ho jaata."]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: गुण और लोग", "Shabd Shakti: gun aur log", "Word Power: qualities and people"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर गुण को डॉ. दास या मिस्टर चौधरी के पास रखो", "Har gun ko Dr. Dass ya Mister Choudhary ke paas rakho", "Put each quality with Dr. Dass or Mr. Choudhary"],
+          "groups": [
+            {"id": "dass", "name": "Dr. Dass", "emoji": "🩺", "meaning": ["डॉक्टर दास", "Doctor Dass"]},
+            {"id": "choudhary", "name": "Mr. Choudhary", "emoji": "🏠", "meaning": ["मिस्टर चौधरी", "Mister Choudhary"]}
+          ],
+          "items": [
+            {"text": "smart", "emoji": "💡", "groups": ["dass"]},
+            {"text": "intelligent", "emoji": "🧠", "groups": ["dass"]},
+            {"text": "not straightforward", "emoji": "🌀", "groups": ["choudhary"]},
+            {"text": "determined", "emoji": "💪", "groups": ["dass"]},
+            {"text": "lacks confidence", "emoji": "😟", "groups": ["choudhary"]},
+            {"text": "clever", "emoji": "🦊", "groups": ["dass", "choudhary"]},
+            {"text": "brave", "emoji": "🦁", "groups": ["dass"]},
+            {"text": "greedy", "emoji": "💰", "groups": ["choudhary"]}
+          ]},
+        {"book": true, "pairs": ["सही जोड़ी बनाओ (Match the following)", "Sahi jodi banao (Match the following)", "Match the following", [
+          ["one who lends money", "moneylender", "साहूकार", "saahookaar"],
+          ["one who rents out a house", "landlord", "मकान मालिक", "makaan maalik"],
+          ["one who arrests thieves", "policeman", "पुलिस वाला", "police waala"],
+          ["one who sings", "singer", "गायक", "gaayak"],
+          ["one who builds houses", "builder", "मकान बनाने वाला", "makaan banaane waala"],
+          ["one who works with and rides an elephant", "mahout", "महावत", "mahaavat"],
+          ["the spirit of a dead person", "ghost", "भूत", "bhoot"]]]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: phrases, कही बात (indirect speech), he/she/it", "Grammar: phrases, kahi baat (indirect speech), he/she/it", "Grammar in Use: phrases, reported speech, he/she/it"], "book": true,
+      "skills": ["book.grammar"],
+      "steps": [
+        {"book": true, "fb": ["All my records are ___.", "in good order", ["in good order", "afraid of", "dressed in"], "मेरे सारे रिकॉर्ड अच्छी हालत में हैं।", "Mere saare record achhi haalat mein hain."]},
+        {"book": true, "fb": ["His grandmother is very old; she is ___ of health.", "in a bad state", ["in a bad state", "by the light of", "head to foot"], "उनकी दादी बहुत बूढ़ी हैं; उनकी सेहत ख़राब है।", "Unki daadi bahut boodhi hain; unki sehat kharaab hai."]},
+        {"book": true, "fb": ["Sohan went ___ his sister last month.", "to visit", ["to visit", "afraid of", "at the end"], "सोहन पिछले महीने अपनी बहन से मिलने गया।", "Sohan pichhle mahine apni behen se milne gaya."]},
+        {"book": true, "fb": ["He is working ___ the moon.", "by the light of", ["by the light of", "in good order", "dressed in"], "वह चाँद की रोशनी में काम कर रहा है।", "Woh chaand ki roshni mein kaam kar raha hai."]},
+        {"book": true, "fb": ["Suman was ___ a khadi saree to act as a leader.", "dressed in", ["dressed in", "afraid of", "to visit"], "नेता का किरदार निभाने के लिए सुमन ने खादी की साड़ी पहनी थी।", "Neta ka kirdaar nibhaane ke liye Suman ne khaadi ki saadi pehni thi."]},
+        {"book": true, "fb": ["The sick child gets cured ___ of the story.", "at the end", ["at the end", "head to foot", "in good order"], "कहानी के अंत में बीमार बच्चा ठीक हो जाता है।", "Kahani ke ant mein beemaar bachcha theek ho jaata hai."]},
+        {"book": true, "fb": ["She was wearing black clothes from ___.", "head to foot", ["head to foot", "at the end", "to visit"], "उसने सिर से पैर तक काले कपड़े पहने थे।", "Usne sir se pair tak kaale kapde pehne the."]},
+        {"book": true, "fb": ["I am not ___ ghosts.", "afraid of", ["afraid of", "dressed in", "by the light of"], "मैं भूतों से नहीं डरता/डरती।", "Main bhooton se nahi darta/darti."]},
+        {"card": ["किसी की कही बात अपने शब्दों में बताना = indirect speech। Seema asked Geeta, \"What are you doing today?\" → Seema asked Geeta what she was doing that day। बदलाव: am → was, I → she, today → that day, will → would।", "Kisi ki kahi baat apne shabdon mein bataana = indirect speech. Seema asked Geeta, \"What are you doing today?\" → Seema asked Geeta what she was doing that day. Badlaav: am → was, I → she, today → that day, will → would.", "Telling what someone said in your own words is indirect speech. Seema asked Geeta, \"What are you doing today?\" → Seema asked Geeta what she was doing that day. Changes: am → was, I → she, today → that day, will → would."]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "build": ["बदलो: Geeta said, \"I am going to my grandmother's place.\"", "Badlo: Geeta said, \"I am going to my grandmother's place.\"", "Change: Geeta said, \"I am going to my grandmother's place.\"", "Geeta said that she was going to her grandmother's place.", "गीता ने कहा कि वह अपनी दादी के घर जा रही थी।", "Geeta ne kaha ki woh apni daadi ke ghar ja rahi thi.", ["am", "my"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "build": ["बदलो: Seema asked, \"How far is your grandmother's house?\"", "Badlo: Seema asked, \"How far is your grandmother's house?\"", "Change: Seema asked, \"How far is your grandmother's house?\"", "Seema asked how far her grandmother's house was.", "सीमा ने पूछा कि उसकी दादी का घर कितनी दूर था।", "Seema ne poochha ki uski daadi ka ghar kitni door tha.", ["is", "your"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "build": ["बदलो: Geeta said, \"It is not very far. I will have to take a bus to Sonpur village.\"", "Badlo: Geeta said, \"It is not very far. I will have to take a bus to Sonpur village.\"", "Change Geeta's words into indirect speech.", "Geeta said that it was not very far and she would have to take a bus to Sonpur village.", "गीता ने कहा कि वह ज़्यादा दूर नहीं था और उसे सोनपुर गाँव के लिए बस लेनी पड़ेगी।", "Geeta ne kaha ki woh zyaada door nahi tha aur use Sonpur gaon ke liye bus leni padegi.", ["will", "is"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "build": ["बदलो: Seema said, \"Sonpur is a nice village. I have seen it.\"", "Badlo: Seema said, \"Sonpur is a nice village. I have seen it.\"", "Change Seema's words into indirect speech.", "Seema said that Sonpur was a nice village and she had seen it.", "सीमा ने कहा कि सोनपुर एक अच्छा गाँव था और उसने उसे देखा था।", "Seema ne kaha ki Sonpur ek achha gaon tha aur usne use dekha tha.", ["is", "have"]]},
+        {"card": ["आदमी या लड़का = he, औरत या लड़की = she, जो दोनों हो सकते हैं (baby, teacher) = he/she, चीज़ें = it।", "Aadmi ya ladka = he, aurat ya ladki = she, jo dono ho sakte hain (baby, teacher) = he/she, cheezein = it.", "A man or boy = he, a woman or girl = she, words that can be either (baby, teacher) = he/she, things = it."]},
+        {"book": true, "skills": ["book.grammar", "grammar.gender"], "type": "sort_groups",
+          "instruction": ["हर शब्द को he, she, he/she या it में रखो", "Har shabd ko he, she, he/she ya it mein rakho", "Put each word under he, she, he/she or it"],
+          "groups": [
+            {"id": "he", "name": "he", "emoji": "👦", "meaning": ["पुरुष", "purush"]},
+            {"id": "she", "name": "she", "emoji": "👧", "meaning": ["स्त्री", "stree"]},
+            {"id": "both", "name": "he / she", "emoji": "🧑", "meaning": ["दोनों हो सकते हैं", "dono ho sakte hain"]},
+            {"id": "it", "name": "it", "emoji": "📦", "meaning": ["चीज़", "cheez"]}
+          ],
+          "items": [
+            {"text": "king", "emoji": "🤴", "groups": ["he"]},
+            {"text": "mother", "emoji": "👩", "groups": ["she"]},
+            {"text": "pencil", "emoji": "✏️", "groups": ["it"]},
+            {"text": "baby", "emoji": "👶", "groups": ["both"]},
+            {"text": "father", "emoji": "👨", "groups": ["he"]},
+            {"text": "tree", "emoji": "🌳", "groups": ["it"]},
+            {"text": "queen", "emoji": "👸", "groups": ["she"]},
+            {"text": "teacher", "emoji": "🧑‍🏫", "groups": ["both"]},
+            {"text": "uncle", "emoji": "🧔", "groups": ["he"]},
+            {"text": "lioness", "emoji": "🦁", "groups": ["she"]},
+            {"text": "cousin", "emoji": "🧒", "groups": ["both"]},
+            {"text": "box", "emoji": "📦", "groups": ["it"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें", "Chalo baat karein", "Let's Talk"], "book": true,
+      "skills": ["book.talk", "read.understand"],
+      "steps": [
+        {"book": true, "q": ["What stories did Mr. Choudhary tell about ‘Shanti Bhawan’?", "चौधरी ने शांति भवन के बारे में क्या कहानियाँ सुनाईं?", "Choudhary ne Shanti Bhawan ke baare mein kya kahaaniyaan sunaayin?", ["that the dead owner comes back at night", "that it has gold inside", "that a king lived there"], "that the dead owner comes back at night"]},
+        {"book": true, "q": ["Does Dr. Dass believe in Mr. Choudhary's stories?", "क्या डॉ. दास चौधरी की कहानियों पर विश्वास करते हैं?", "Kya Dr. Dass Choudhary ki kahaaniyon par vishwaas karte hain?", ["No, he does not.", "Yes, he does.", "He is not sure."], "No, he does not."]},
+        {"book": true, "q": ["How does he plan to find out the truth?", "वे सच कैसे पता करने की सोचते हैं?", "Woh sach kaise pata karne ki sochte hain?", ["by spending a night in the house", "by asking the police", "by reading a book about ghosts"], "by spending a night in the house"]},
+        {"book": true, "q": ["What happens in Shanti Bhawan after midnight?", "आधी रात के बाद शांति भवन में क्या होता है?", "Aadhi raat ke baad Shanti Bhawan mein kya hota hai?", ["Someone dressed in white comes into the room.", "The lamp goes out.", "Mr. Ghosh arrives."], "Someone dressed in white comes into the room."]},
+        {"book": true, "q": ["What does Dr. Dass say to the White Visitor?", "डॉ. दास सफ़ेद मेहमान से क्या कहते हैं?", "Dr. Dass safed mehmaan se kya kehte hain?", ["Go away. I want to finish this book.", "Please take the house.", "I am very afraid of you."], "Go away. I want to finish this book."]},
+        {"book": true, "q": ["How does Dr. Dass find out the truth?", "डॉ. दास सच कैसे पता करते हैं?", "Dr. Dass sach kaise pata karte hain?", ["He throws his book and pulls the white cloth off the Visitor's face.", "He calls the police.", "He runs out of the house."], "He throws his book and pulls the white cloth off the Visitor's face."]},
+        {"book": true, "pairs": ["सवाल (A) को जवाब (B) से जोड़ो", "Sawaal (A) ko jawab (B) se jodo", "Match the answers in B with the questions in A", [
+          ["I feel sorry for Mr. Choudhary, don't you?", "No, I don't.", "मुझे चौधरी पर तरस आता है, तुम्हें नहीं? / नहीं।", "Mujhe Choudhary par taras aata hai, tumhe nahi? / Nahi."],
+          ["Why don't you?", "I think Mr. Choudhary was trying to cheat.", "क्यों नहीं? / मुझे लगता है वह धोखा देना चाहते थे।", "Kyon nahi? / Mujhe lagta hai woh dhokha dena chahte the."],
+          ["Do you think Dr. Dass was right?", "Yes, he was.", "क्या डॉ. दास सही थे? / हाँ।", "Kya Dr. Dass sahi the? / Haan."],
+          ["Dr. Dass taught him a lesson, didn't he?", "Yes, he did.", "डॉ. दास ने उन्हें सबक सिखाया, है ना? / हाँ।", "Dr. Dass ne unhe sabak sikhaaya, hai na? / Haan."]]]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: डॉ. दास की चिट्ठी", "Chalo likhein: Dr. Dass ki chitthi", "Let's Write: Dr. Dass's letter"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब कहती है: सोचो तुम डॉ. दास हो। अपनी बहन को चिट्ठी लिखो कि घर कैसे ख़रीदा और बगीचे के लिए क्या सोचा है। ढाँचा: Shyamla Hills, Kolkata, January 15, 2003. Dear Meena, ... Yours affectionately, (नाम)।", "Kitaab kehti hai: socho tum Dr. Dass ho. Apni behen ko chitthi likho ki ghar kaise khareeda aur bageeche ke liye kya socha hai. Dhaancha: Shyamla Hills, Kolkata, January 15, 2003. Dear Meena, ... Yours affectionately, (naam).", "The book says: imagine you are Dr. Dass. Write to your sister about how you bought the house and your plans for the garden. Format: Shyamla Hills, Kolkata, January 15, 2003. Dear Meena, ... Yours affectionately, (name)."]},
+        {"book": true, "build": ["चिट्ठी: मैंने शांति भवन नाम का एक घर ख़रीदा है।", "Chitthi: maine Shanti Bhawan naam ka ek ghar khareeda hai.", "Letter: say you have bought a house called Shanti Bhawan.", "I have bought a house called Shanti Bhawan.", "मैंने शांति भवन नाम का एक घर ख़रीदा है।", "Maine Shanti Bhawan naam ka ek ghar khareeda hai."]},
+        {"book": true, "build": ["चिट्ठी: लोग कहते थे वहाँ भूत आता है।", "Chitthi: log kehte the wahan bhoot aata hai.", "Letter: say people said a ghost visited it.", "People said that a ghost visited the house.", "लोग कहते थे कि उस घर में भूत आता है।", "Log kehte the ki us ghar mein bhoot aata hai."]},
+        {"book": true, "build": ["चिट्ठी: पर भूत असल में एक लालची आदमी था।", "Chitthi: par bhoot asal mein ek laalchi aadmi tha.", "Letter: say the ghost was really a greedy man.", "But the ghost was really a greedy man.", "पर भूत असल में एक लालची आदमी था।", "Par bhoot asal mein ek laalchi aadmi tha."]},
+        {"book": true, "build": ["चिट्ठी: मैं घर के बाहर फूलों का बगीचा लगाऊँगा।", "Chitthi: main ghar ke baahar phoolon ka bageecha lagaaunga.", "Letter: say you will plant a flower garden outside the house.", "I will plant a flower garden outside the house.", "मैं घर के बाहर फूलों का बगीचा लगाऊँगा।", "Main ghar ke baahar phoolon ka bageecha lagaaunga."]},
+        {"q": ["How does Dr. Dass end the letter to his sister?", "डॉ. दास बहन को चिट्ठी कैसे ख़त्म करते हैं?", "Dr. Dass behen ko chitthi kaise khatm karte hain?", ["Yours affectionately,", "Yours obediently,", "To, The Principal,"], "Yours affectionately,"]}
+      ]
+    },
+    {
+      "emoji": "📚", "title": ["चलो करके देखें: कहानी सुनाओ", "Chalo karke dekhein: kahani sunaao", "Let's Do It: tell a story"], "book": false,
+      "skills": ["book.activity", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब कहती है: लाइब्रेरी से भूत की कहानियाँ पढ़ो और छोटे वाक्यों में दोस्तों को सुनाओ। चलो एक मज़ेदार छोटी कहानी के वाक्य बोलते हैं।", "Kitaab kehti hai: library se bhoot ki kahaaniyaan padho aur chhote vaakyon mein doston ko sunaao. Chalo ek mazedaar chhoti kahani ke vaakya bolte hain.", "The book says: read ghost stories from the library and tell them in short sentences. Let's say the lines of a funny little story."]},
+        {"says": ["One night, Raju saw something white in the garden.", "एक रात राजू ने बगीचे में कुछ सफ़ेद देखा।", "Ek raat Raju ne bageeche mein kuch safed dekha."], "skills": ["speak.sentence", "book.activity"]},
+        {"says": ["He was very scared and called his father.", "वह बहुत डर गया और उसने पापा को बुलाया।", "Woh bahut dar gaya aur usne papa ko bulaaya."], "skills": ["speak.sentence", "book.activity"]},
+        {"says": ["It was only a white shirt on the clothes line!", "वह तो बस रस्सी पर टँगी एक सफ़ेद कमीज़ थी!", "Woh to bas rassi par tangi ek safed kameez thi!"], "skills": ["speak.sentence", "book.activity"]},
+        {"q": ["What is the lesson of ‘The White Visitor’?", "‘The White Visitor’ की सीख क्या है?", "‘The White Visitor’ ki seekh kya hai?", ["Be brave and find out the truth.", "Always believe every story.", "Never buy a house."], "Be brave and find out the truth."]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: घर ख़रीदना", "Aur seekho: ghar khareedna", "Learn more: buying a house"], "book": false,
+      "skills": ["vocab.home"],
+      "steps": [
+        {"pairs": ["घर से जुड़े शब्द जोड़ो", "Ghar se jude shabd jodo", "Join the house words to their meanings", [
+          ["tenant", "a person who pays rent to live in a house", "किरायेदार", "kiraayedaar"],
+          ["rent", "money paid every month to live in a house", "किराया", "kiraaya"],
+          ["loan", "money borrowed from a bank", "क़र्ज़", "karz"],
+          ["owner", "the person a thing belongs to", "मालिक", "maalik"],
+          ["lakh", "one hundred thousand", "लाख", "laakh"]]]},
+        {"q": ["Mr. Choudhary had one and a half lakh and a loan of one lakh. How much is that?", "चौधरी के पास डेढ़ लाख थे और एक लाख का क़र्ज़। कुल कितना?", "Choudhary ke paas dedh laakh the aur ek laakh ka karz. Kul kitna?", ["two and a half lakh", "three lakh", "one lakh"], "two and a half lakh", "One and a half lakh plus one lakh is two and a half lakh, fifty thousand less than the price.", "डेढ़ लाख और एक लाख मिलाकर ढाई लाख, जो क़ीमत से पचास हज़ार कम है।", "Dedh laakh aur ek laakh milaakar dhaai laakh, jo keemat se pachaas hazaar kam hai."]},
+        {"fb": ["We pay ___ to the landlord every month.", "rent", ["rent", "loan", "price"], "हम हर महीने मकान मालिक को किराया देते हैं।", "Hum har mahine makaan maalik ko kiraaya dete hain."]},
+        {"q": ["Kali Ghat is in which city?", "काली घाट किस शहर में है?", "Kali Ghat kis shahar mein hai?", ["Kolkata", "Bhopal", "Chennai"], "Kolkata"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 9 का टेस्ट", "Paath 9 ka test", "Lesson 9 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Who was the ‘White Visitor’?", "सफ़ेद मेहमान कौन था?", "Safed mehmaan kaun tha?", ["Mr. Choudhary", "Mrs Ghosh's ghost", "Mr. Ghosh"], "Mr. Choudhary"]},
+        {"book": true, "q": ["Why did Dr. Dass need to buy a house?", "डॉ. दास को घर क्यों चाहिए था?", "Dr. Dass ko ghar kyon chahiye tha?", ["He had come to live and work in Kali Ghat.", "He wanted to sell it later.", "His old house was haunted."], "He had come to live and work in Kali Ghat."]},
+        {"book": true, "q": ["Why did Mr. Choudhary ask Dr. Dass not to talk about this incident?", "चौधरी ने किसी को न बताने को क्यों कहा?", "Choudhary ne kisi ko na bataane ko kyon kaha?", ["He was afraid he would lose his business.", "He was ashamed of his cloth.", "He wanted to keep the house."], "He was afraid he would lose his business."]},
+        {"book": true, "skills": ["book.words"], "q": ["one who rents out a house", "जो मकान किराये पर देता है", "Jo makaan kiraaye par deta hai", ["landlord", "builder", "moneylender"], "landlord"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word describes Mr. Choudhary?", "कौन सा शब्द चौधरी के लिए है?", "Kaun sa shabd Choudhary ke liye hai?", ["greedy", "brave", "determined"], "greedy"]},
+        {"book": true, "skills": ["book.grammar"], "fb": ["I am not ___ ghosts.", "afraid of", ["afraid of", "dressed in", "by the light of"], "मैं भूतों से नहीं डरता/डरती।", "Main bhooton se nahi darta/darti."]},
+        {"book": true, "skills": ["book.grammar"], "fb": ["She was wearing black clothes from ___.", "head to foot", ["head to foot", "at the end", "to visit"], "उसने सिर से पैर तक काले कपड़े पहने थे।", "Usne sir se pair tak kaale kapde pehne the."]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "q": ["Geeta said, \"I am going to my grandmother's place.\" In indirect speech:", "indirect speech में:", "Indirect speech mein:", ["Geeta said that she was going to her grandmother's place.", "Geeta said that I am going to my grandmother's place.", "Geeta said she is going to my place."], "Geeta said that she was going to her grandmother's place."]},
+        {"book": true, "skills": ["book.grammar", "grammar.gender"], "q": ["‘lioness’ is ...", "‘lioness’ के लिए ...", "‘lioness’ ke liye ...", ["she", "he", "it"], "she"]},
+        {"book": true, "skills": ["book.talk"], "q": ["Dr. Dass taught him a lesson, didn't he?", "डॉ. दास ने उन्हें सबक सिखाया, है ना?", "Dr. Dass ne unhe sabak sikhaaya, hai na?", ["Yes, he did.", "No, I don't.", "Yes, he was."], "Yes, he did."]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "B6.06.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.06.3.S02",
+    "B6.06.3.S03",
+    "B6.06.3.S04",
+    "B6.06.3.S05",
+    "B6.06.3.S06",
+    "B6.06.3.S07",
+    "B6.06.3.S08",
+    "B6.06.3.S09",
+    "B6.06.3.S10",
+    "B6.06.3.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.06.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 28 से 31 तक नाटक ‘The Test’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 28 se 31 tak naatak ‘The Test’ padho. Phir jawab do.",
+        "en": "Read the play ‘The Test’ on pages 28 to 31 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "___ is the eldest of Pandav Princes.",
+      "questionMeaning": {
+        "hi": "पांडवों में सबसे बड़ा कौन है?",
+        "hinglish": "Pandavon mein sabse bada kaun hai?"
+      },
+      "options": [
+        "Arjun",
+        "Bhim",
+        "Yudhisthir",
+        "Nakul"
+      ],
+      "answer": "Yudhisthir"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "___ is a Kaurav prince.",
+      "questionMeaning": {
+        "hi": "कौरव राजकुमार कौन है?",
+        "hinglish": "Kaurav raajkumaar kaun hai?"
+      },
+      "options": [
+        "Yudhisthir",
+        "Duryodhan",
+        "Dronacharya",
+        "Sahadev"
+      ],
+      "answer": "Duryodhan"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "___ was ‘the target’ in the test.",
+      "questionMeaning": {
+        "hi": "परीक्षा में निशाना क्या था?",
+        "hinglish": "Pariksha mein nishaana kya tha?"
+      },
+      "options": [
+        "The bird",
+        "The tree",
+        "The bird's right eye",
+        "The fruit"
+      ],
+      "answer": "The bird's right eye"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "___ shot ‘the target’ finally.",
+      "questionMeaning": {
+        "hi": "आख़िर में निशाना किसने लगाया?",
+        "hinglish": "Aakhir mein nishaana kisne lagaaya?"
+      },
+      "options": [
+        "Bhim",
+        "Duryodhan",
+        "Yudhisthir",
+        "Arjun"
+      ],
+      "answer": "Arjun"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "___ is the teacher of Pandav and Kaurav Princes.",
+      "questionMeaning": {
+        "hi": "पांडव और कौरव राजकुमारों के गुरु कौन हैं?",
+        "hinglish": "Pandav aur Kaurav raajkumaaron ke guru kaun hain?"
+      },
+      "options": [
+        "Bhim",
+        "Nakul",
+        "Dronacharya",
+        "Duryodhan"
+      ],
+      "answer": "Dronacharya"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What different skills did Guru Dron teach the princes?",
+      "questionMeaning": {
+        "hi": "गुरु द्रोण ने क्या-क्या सिखाया?",
+        "hinglish": "Guru Dron ne kya-kya sikhaaya?"
+      },
+      "options": [
+        "to use different arms, ride a horse and fight the enemy",
+        "to cook and sing",
+        "to read and write only"
+      ],
+      "answer": "to use different arms, ride a horse and fight the enemy",
+      "modelAnswer": "Guru Dron taught the princes how to use different arms, to ride a horse and to fight the enemy well.",
+      "modelMeaning": {
+        "hi": "गुरु द्रोण ने राजकुमारों को अलग-अलग हथियार चलाना, घुड़सवारी और दुश्मन से लड़ना सिखाया।",
+        "hinglish": "Guru Dron ne raajkumaaron ko alag-alag hathiyaar chalaana, ghudsawaari aur dushman se ladna sikhaaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What was the test?",
+      "questionMeaning": {
+        "hi": "परीक्षा क्या थी?",
+        "hinglish": "Pariksha kya thi?"
+      },
+      "options": [
+        "to shoot the bird in its right eye",
+        "to climb the tree",
+        "to ride a horse"
+      ],
+      "answer": "to shoot the bird in its right eye",
+      "modelAnswer": "The test was to shoot the bird on the tree in its right eye.",
+      "modelMeaning": {
+        "hi": "परीक्षा पेड़ पर बैठी चिड़िया की दाईं आँख में तीर मारने की थी।",
+        "hinglish": "Pariksha ped par baithi chidiya ki daayin aankh mein teer maarne ki thi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why didn't he allow the other princes to shoot?",
+      "questionMeaning": {
+        "hi": "उन्होंने बाकी राजकुमारों को तीर क्यों नहीं चलाने दिया?",
+        "hinglish": "Unhone baaki raajkumaaron ko teer kyon nahi chalaane diya?"
+      },
+      "options": [
+        "They failed to concentrate on the target.",
+        "They were too young.",
+        "They had no arrows."
+      ],
+      "answer": "They failed to concentrate on the target.",
+      "modelAnswer": "He did not allow them to shoot because they saw many things and failed to concentrate on the target.",
+      "modelMeaning": {
+        "hi": "उन्होंने उन्हें तीर नहीं चलाने दिया क्योंकि वे बहुत कुछ देख रहे थे और निशाने पर ध्यान नहीं लगा पाए।",
+        "hinglish": "Unhone unhe teer nahi chalaane diya kyonki woh bahut kuch dekh rahe the aur nishaane par dhyaan nahi laga paaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.3.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why was he satisfied with Arjun's answer?",
+      "questionMeaning": {
+        "hi": "वे अर्जुन के जवाब से संतुष्ट क्यों थे?",
+        "hinglish": "Woh Arjun ke jawab se santusht kyon the?"
+      },
+      "options": [
+        "Arjun saw only the bird's eye, so he was focused on the target.",
+        "Arjun saw the whole tree.",
+        "Arjun did not answer."
+      ],
+      "answer": "Arjun saw only the bird's eye, so he was focused on the target.",
+      "modelAnswer": "He was satisfied because Arjun saw only the bird's right eye and nothing else. He was fully focused on the target.",
+      "modelMeaning": {
+        "hi": "वे संतुष्ट थे क्योंकि अर्जुन को सिर्फ़ चिड़िया की दाईं आँख दिख रही थी, और कुछ नहीं। उनका पूरा ध्यान निशाने पर था।",
+        "hinglish": "Woh santusht the kyonki Arjun ko sirf chidiya ki daayin aankh dikh rahi thi, aur kuch nahi. Unka poora dhyaan nishaane par tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.3.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do we need to do to be successful in life?",
+      "questionMeaning": {
+        "hi": "जीवन में सफल होने के लिए क्या करना चाहिए?",
+        "hinglish": "Jeevan mein safal hone ke liye kya karna chahiye?"
+      },
+      "options": [
+        "Keep our eyes focused only on the goal.",
+        "Look at everything around us.",
+        "Never try anything."
+      ],
+      "answer": "Keep our eyes focused only on the goal.",
+      "modelAnswer": "To be successful in life, we must always keep our eyes focused only on our goal.",
+      "modelMeaning": {
+        "hi": "जीवन में सफल होने के लिए हमें हमेशा अपना ध्यान सिर्फ़ अपने लक्ष्य पर रखना चाहिए।",
+        "hinglish": "Jeevan mein safal hone ke liye humein hamesha apna dhyaan sirf apne lakshya par rakhna chahiye."
+      }
+    }
+  ]
+}

@@ -28,6 +28,7 @@ class SchoolContractTest {
             ),
             days = listOf(SyncDay(day = 0, minutes = 25)),
             skills = listOf(SyncSkill("sound.th", 0.25f, 6), SyncSkill("vocab.body", 0.9f, 8)),
+            chapters = listOf(SyncChapter("B7.04", done = 3, total = 9, stars = 7, testStars = null), SyncChapter("B7.01", done = 9, total = 9, stars = 24, testStars = 3)),
         )
         val fixture = Json.parseToJsonElement(File(web, "test/fixtures/sync-payload.json").readText())
         assertEquals(fixture, Json.parseToJsonElement(Json.encodeToString(payload)))
@@ -36,7 +37,7 @@ class SchoolContractTest {
     @Test
     fun onlyTheAgreedFieldsCanBeSent() {
         val sent = Json.parseToJsonElement(File(web, "test/fixtures/sync-payload.json").readText()) as JsonObject
-        assertEquals(setOf("summary", "days", "skills"), sent.keys)
+        assertEquals(setOf("summary", "days", "skills", "chapters"), sent.keys)
     }
 
     /** Run with UPDATE_WEB_SKILLS=1 after changing skill names, to refresh the website's copy. */

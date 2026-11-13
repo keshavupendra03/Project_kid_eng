@@ -1,0 +1,118 @@
+{
+  "id": "B7.10.7",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.10.7.S01",
+      "skills": [
+        "book.activity",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "किताब कहती है: प्रकृति पर कोई कविता ढूँढो और क्लास में सुनाओ। यह रही Christina Rossetti की एक छोटी कविता। पहले मैं पढ़ूँगा, फिर तुम पढ़कर अभ्यास करो।",
+        "hinglish": "Kitaab kehti hai: prakriti par koi kavita dhoondho aur class mein sunaao. Yeh rahi Christina Rossetti ki ek chhoti kavita. Pehle main padhunga, phir tum padhkar abhyaas karo.",
+        "en": "The book says: find a poem on nature and recite it in class. Here is a short poem by Christina Rossetti. I'll read first; then you practise reading it."
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "B7.10.7.S02",
+      "skills": [
+        "read.passage",
+        "speak.sentence"
+      ],
+      "title": {
+        "hi": "हवा को किसने देखा?",
+        "hinglish": "Hawa ko kisne dekha?",
+        "en": "Who Has Seen the Wind?"
+      },
+      "sentences": [
+        "Who has seen the wind?",
+        "Neither I nor you:",
+        "But when the leaves hang trembling,",
+        "The wind is passing through.",
+        "",
+        "Who has seen the wind?",
+        "Neither you nor I:",
+        "But when the trees bow down their heads,",
+        "The wind is passing by."
+      ],
+      "lineMeanings": [
+        {
+          "hi": "हवा को किसने देखा है?",
+          "hinglish": "Hawa ko kisne dekha hai?"
+        },
+        {
+          "hi": "न मैंने, न तुमने:",
+          "hinglish": "Na maine, na tumne:"
+        },
+        {
+          "hi": "पर जब पत्ते काँपते हुए लटकते हैं,",
+          "hinglish": "Par jab patte kaanpte hue latakte hain,"
+        },
+        {
+          "hi": "तब हवा उनके बीच से गुज़र रही होती है।",
+          "hinglish": "Tab hawa unke beech se guzar rahi hoti hai."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "हवा को किसने देखा है?",
+          "hinglish": "Hawa ko kisne dekha hai?"
+        },
+        {
+          "hi": "न तुमने, न मैंने:",
+          "hinglish": "Na tumne, na maine:"
+        },
+        {
+          "hi": "पर जब पेड़ अपने सिर झुकाते हैं,",
+          "hinglish": "Par jab ped apne sir jhukaate hain,"
+        },
+        {
+          "hi": "तब हवा पास से गुज़र रही होती है।",
+          "hinglish": "Tab hawa paas se guzar rahi hoti hai."
+        }
+      ],
+      "words": [
+        {
+          "english": "wind",
+          "hindi": "हवा",
+          "hinglish": "hawa"
+        },
+        {
+          "english": "trembling",
+          "hindi": "काँपते हुए",
+          "hinglish": "kaanpte hue"
+        },
+        {
+          "english": "bow",
+          "hindi": "झुकाना",
+          "hinglish": "jhukaana"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.7.S03",
+      "skills": [
+        "book.activity",
+        "read.passage"
+      ],
+      "question": "How do we know the wind is passing by, in this poem?",
+      "questionMeaning": {
+        "hi": "इस कविता में हमें कैसे पता चलता है कि हवा गुज़र रही है?",
+        "hinglish": "Is kavita mein humein kaise pata chalta hai ki hawa guzar rahi hai?"
+      },
+      "options": [
+        "The leaves tremble and the trees bow their heads.",
+        "We can see the wind.",
+        "The sun comes out."
+      ],
+      "answer": "The leaves tremble and the trees bow their heads."
+    }
+  ]
+}

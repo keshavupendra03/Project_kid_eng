@@ -1,0 +1,143 @@
+{
+  "id": "B7.02.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.02.8.S01",
+      "skills": [
+        "vocab.places"
+      ],
+      "instruction": {
+        "hi": "बाज़ार के शब्दों को उनके मतलब से जोड़ो",
+        "hinglish": "Baazaar ke shabdon ko unke matlab se jodo",
+        "en": "Join the market words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "buyer",
+          "right": "a person who buys",
+          "meaning": {
+            "hi": "ख़रीदने वाला",
+            "hinglish": "khareedne waala"
+          }
+        },
+        {
+          "left": "seller",
+          "right": "a person who sells",
+          "meaning": {
+            "hi": "बेचने वाला",
+            "hinglish": "bechne waala"
+          }
+        },
+        {
+          "left": "price",
+          "right": "how much money something costs",
+          "meaning": {
+            "hi": "दाम, क़ीमत",
+            "hinglish": "daam, keemat"
+          }
+        },
+        {
+          "left": "cheap",
+          "right": "low in price",
+          "meaning": {
+            "hi": "सस्ता",
+            "hinglish": "sasta"
+          }
+        },
+        {
+          "left": "expensive",
+          "right": "high in price",
+          "meaning": {
+            "hi": "महँगा",
+            "hinglish": "mehnga"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.8.S02",
+      "skills": [
+        "vocab.places"
+      ],
+      "sentence": "Gold is very ___.",
+      "answer": "expensive",
+      "options": [
+        "expensive",
+        "cheap",
+        "sour"
+      ],
+      "meaning": {
+        "hi": "सोना बहुत महँगा होता है।",
+        "hinglish": "Sona bahut mehnga hota hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.8.S03",
+      "skills": [
+        "vocab.places"
+      ],
+      "question": "Bhola says the horse ‘eats like an elephant’. What does it mean?",
+      "questionMeaning": {
+        "hi": "भोला कहता है घोड़ा ‘हाथी जैसा खाता है’। इसका क्या मतलब है?",
+        "hinglish": "Bhola kehta hai ghoda ‘haathi jaisa khaata hai’. Iska kya matlab hai?"
+      },
+      "options": [
+        "It eats a lot.",
+        "It eats leaves.",
+        "It eats very little."
+      ],
+      "answer": "It eats a lot.",
+      "modelAnswer": "‘Eats like an elephant’ means eats a lot.",
+      "modelMeaning": {
+        "hi": "‘हाथी जैसा खाना’ मतलब बहुत ज़्यादा खाना।",
+        "hinglish": "‘Haathi jaisa khaana’ matlab bahut zyaada khaana."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.8.S04",
+      "skills": [
+        "vocab.places"
+      ],
+      "question": "Bhola lived in Bhopal. Bhopal is the capital of which state?",
+      "questionMeaning": {
+        "hi": "भोला भोपाल में रहता था। भोपाल किस राज्य की राजधानी है?",
+        "hinglish": "Bhola Bhopal mein rehta tha. Bhopal kis rajya ki rajdhaani hai?"
+      },
+      "options": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Gujarat"
+      ],
+      "answer": "Madhya Pradesh",
+      "modelAnswer": "Bhopal is the capital of Madhya Pradesh.",
+      "modelMeaning": {
+        "hi": "भोपाल मध्य प्रदेश की राजधानी है।",
+        "hinglish": "Bhopal Madhya Pradesh ki rajdhaani hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.8.S05",
+      "skills": [
+        "vocab.places"
+      ],
+      "question": "Which do you need in the barter system?",
+      "questionMeaning": {
+        "hi": "बार्टर में तुम्हें क्या चाहिए?",
+        "hinglish": "Barter mein tumhe kya chahiye?"
+      },
+      "options": [
+        "something to exchange",
+        "a bank card",
+        "a mobile phone"
+      ],
+      "answer": "something to exchange"
+    }
+  ]
+}

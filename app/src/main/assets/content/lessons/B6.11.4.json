@@ -1,0 +1,92 @@
+{
+  "id": "B6.11.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.11.4.S02",
+    "B6.11.4.S03",
+    "B6.11.4.S04",
+    "B6.11.4.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.11.4.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: तस्वीर देखकर पाँच वाक्य लिखो। तस्वीर में रात है और एक बच्चा सो रहा है।",
+        "hinglish": "Kitaab: tasveer dekhkar paanch vaakya likho. Tasveer mein raat hai aur ek bachcha so raha hai.",
+        "en": "The book: look at the picture and write five sentences. It is night and a child is sleeping."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.11.4.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "रात है और चाँद चमक रहा है।",
+        "hinglish": "Raat hai aur chaand chamak raha hai.",
+        "en": "Say it is night and the moon is shining."
+      },
+      "answer": "It is night and the moon is shining.",
+      "meaning": {
+        "hi": "रात है और चाँद चमक रहा है।",
+        "hinglish": "Raat hai aur chaand chamak raha hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.11.4.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "एक बच्चा अपने बिस्तर पर सो रहा है।",
+        "hinglish": "Ek bachcha apne bistar par so raha hai.",
+        "en": "Say a child is sleeping in bed."
+      },
+      "answer": "A child is sleeping in his bed.",
+      "meaning": {
+        "hi": "एक बच्चा अपने बिस्तर पर सो रहा है।",
+        "hinglish": "Ek bachcha apne bistar par so raha hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.11.4.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चाँदनी खिड़की से अंदर आ रही है।",
+        "hinglish": "Chaandni khidki se andar aa rahi hai.",
+        "en": "Say moonlight comes in through the window."
+      },
+      "answer": "Moonlight is coming in through the window.",
+      "meaning": {
+        "hi": "चाँदनी खिड़की से अंदर आ रही है।",
+        "hinglish": "Chaandni khidki se andar aa rahi hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.11.4.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "बच्चा एक सुंदर सपना देख रहा है।",
+        "hinglish": "Bachcha ek sundar sapna dekh raha hai.",
+        "en": "Say the child is having a sweet dream."
+      },
+      "answer": "The child is having a sweet dream.",
+      "meaning": {
+        "hi": "बच्चा एक सुंदर सपना देख रहा है।",
+        "hinglish": "Bachcha ek sundar sapna dekh raha hai."
+      }
+    }
+  ]
+}

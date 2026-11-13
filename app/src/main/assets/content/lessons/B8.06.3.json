@@ -1,0 +1,313 @@
+{
+  "id": "B8.06.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.06.3.S02",
+    "B8.06.3.S03",
+    "B8.06.3.S04",
+    "B8.06.3.S05",
+    "B8.06.3.S06",
+    "B8.06.3.S07",
+    "B8.06.3.S08",
+    "B8.06.3.S09",
+    "B8.06.3.S10",
+    "B8.06.3.S11",
+    "B8.06.3.S12",
+    "B8.06.3.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.06.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 47-48 पर कहानी पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 47-48 par kahani padho, phir jawab do.",
+        "en": "Read the story on pages 47–48 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who was invited to the court to draw the portrait of the king?",
+      "questionMeaning": {
+        "hi": "राजा का चित्र बनाने के लिए दरबार में किसे बुलाया गया?",
+        "hinglish": "Raja ka chitra banaane ke liye darbaar mein kise bulaaya gaya?"
+      },
+      "options": [
+        "Raja Varma",
+        "Tenali Raman",
+        "a carpenter"
+      ],
+      "answer": "Raja Varma",
+      "modelAnswer": "Raja Varma, a brilliant artist, was invited to the court to draw the portrait of the king.",
+      "modelMeaning": {
+        "hi": "एक प्रतिभाशाली चित्रकार राजा वर्मा को राजा का चित्र बनाने के लिए दरबार में बुलाया गया।",
+        "hinglish": "Ek pratibhaashaali chitrakaar Raja Varma ko raja ka chitra banaane ke liye darbaar mein bulaaya gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did Raja Varma become close and dear to the king?",
+      "questionMeaning": {
+        "hi": "राजा वर्मा राजा के क़रीबी और प्यारे क्यों बने?",
+        "hinglish": "Raja Varma raja ke kareebi aur pyaare kyon bane?"
+      },
+      "options": [
+        "because of his genius as an artist",
+        "because he was rich",
+        "because he was the king's son"
+      ],
+      "answer": "because of his genius as an artist",
+      "modelAnswer": "Raja Varma became close and dear to the king because of his genius. His portrait of the king seemed to come alive.",
+      "modelMeaning": {
+        "hi": "राजा वर्मा अपनी प्रतिभा के कारण राजा के क़रीबी बने। उनका बनाया राजा का चित्र जैसे जीवित लगता था।",
+        "hinglish": "Raja Varma apni pratibha ke kaaran raja ke kareebi bane. Unka banaaya raja ka chitra jaise jeevit lagta tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why were the people unhappy with the chief minister's administration?",
+      "questionMeaning": {
+        "hi": "लोग मुख्यमंत्री के काम से नाख़ुश क्यों थे?",
+        "hinglish": "Log mukhyamantri ke kaam se naakhush kyon the?"
+      },
+      "options": [
+        "His hasty decisions and bad management caused chaos.",
+        "He raised taxes too much.",
+        "He never came to the court."
+      ],
+      "answer": "His hasty decisions and bad management caused chaos.",
+      "modelAnswer": "The people were unhappy because Raja Varma had no experience of administration. His hasty decisions and bad management threw everything into disorder and chaos.",
+      "modelMeaning": {
+        "hi": "लोग नाख़ुश थे क्योंकि राजा वर्मा को राज चलाने का कोई अनुभव नहीं था। उनके जल्दबाज़ी के फ़ैसलों और बुरे प्रबंधन से सब गड़बड़ हो गया।",
+        "hinglish": "Log naakhush the kyonki Raja Varma ko raaj chalaane ka koi anubhav nahi tha. Unke jaldbaazi ke faislon aur bure prabandhan se sab gadbad ho gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who wanted Tenali Raman's help?",
+      "questionMeaning": {
+        "hi": "तेनाली रामन की मदद किसने माँगी?",
+        "hinglish": "Tenali Raman ki madad kisne maangi?"
+      },
+      "options": [
+        "the elders of the town",
+        "the queen",
+        "Raja Varma"
+      ],
+      "answer": "the elders of the town",
+      "modelAnswer": "The elders of the town wanted Tenali Raman's help to get rid of the inept chief minister.",
+      "modelMeaning": {
+        "hi": "नगर के बुज़ुर्गों ने नाकाबिल मुख्यमंत्री से छुटकारे के लिए तेनाली रामन की मदद माँगी।",
+        "hinglish": "Nagar ke buzurgon ne naakaabil mukhyamantri se chhutkaare ke liye Tenali Raman ki madad maangi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who was given the job of preparing the food in Tenali Raman's house?",
+      "questionMeaning": {
+        "hi": "तेनाली रामन के घर खाना बनाने का काम किसे मिला?",
+        "hinglish": "Tenali Raman ke ghar khaana banaane ka kaam kise mila?"
+      },
+      "options": [
+        "a very good carpenter",
+        "a famous cook",
+        "Raja Varma"
+      ],
+      "answer": "a very good carpenter",
+      "modelAnswer": "A very good carpenter was given the job of preparing the food.",
+      "modelMeaning": {
+        "hi": "एक बहुत अच्छे बढ़ई को खाना बनाने का काम दिया गया।",
+        "hinglish": "Ek bahut achhe badhai ko khaana banaane ka kaam diya gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Did the cook prepare very tasty food? Why not?",
+      "questionMeaning": {
+        "hi": "क्या रसोइए ने स्वादिष्ट खाना बनाया? क्यों नहीं?",
+        "hinglish": "Kya rasoiye ne swaadisht khaana banaaya? Kyon nahi?"
+      },
+      "options": [
+        "No, because he was a carpenter, not a cook.",
+        "Yes, it was delicious.",
+        "No, because there was no salt."
+      ],
+      "answer": "No, because he was a carpenter, not a cook.",
+      "modelAnswer": "No. The food was badly cooked and unbearably hot because the cook was a carpenter, not a cook.",
+      "modelMeaning": {
+        "hi": "नहीं। खाना बुरी तरह पका और बहुत तीखा था क्योंकि बनाने वाला रसोइया नहीं, बढ़ई था।",
+        "hinglish": "Nahi. Khaana buri tarah paka aur bahut teekha tha kyonki banaane waala rasoiya nahi, badhai tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did Tenali Raman invite the king, the queen and some courtiers to his house?",
+      "questionMeaning": {
+        "hi": "तेनाली रामन ने राजा, रानी और दरबारियों को घर क्यों बुलाया?",
+        "hinglish": "Tenali Raman ne raja, rani aur darbaariyon ko ghar kyon bulaaya?"
+      },
+      "options": [
+        "to make the king realise his mistake",
+        "to celebrate his birthday",
+        "to show his new house"
+      ],
+      "answer": "to make the king realise his mistake",
+      "modelAnswer": "Tenali Raman invited them to lunch to make the king realise his mistake of making an artist the chief minister.",
+      "modelMeaning": {
+        "hi": "तेनाली रामन ने उन्हें खाने पर बुलाया ताकि राजा को चित्रकार को मुख्यमंत्री बनाने की गलती समझ आए।",
+        "hinglish": "Tenali Raman ne unhe khaane par bulaaya taaki raja ko chitrakaar ko mukhyamantri banaane ki galti samajh aaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How did the king realise his mistake?",
+      "questionMeaning": {
+        "hi": "राजा को अपनी गलती कैसे समझ आई?",
+        "hinglish": "Raja ko apni galti kaise samajh aayi?"
+      },
+      "options": [
+        "Raman asked: if an artist can be a chief minister, can't a carpenter be a cook?",
+        "The queen told him.",
+        "Raja Varma told him."
+      ],
+      "answer": "Raman asked: if an artist can be a chief minister, can't a carpenter be a cook?",
+      "modelAnswer": "Tenali Raman asked the king, ‘If an artist can become a chief minister, can't a carpenter become a cook?’ The king at once understood his mistake.",
+      "modelMeaning": {
+        "hi": "तेनाली रामन ने पूछा, ‘अगर एक चित्रकार मुख्यमंत्री बन सकता है, तो बढ़ई रसोइया क्यों नहीं?’ राजा तुरंत अपनी गलती समझ गए।",
+        "hinglish": "Tenali Raman ne poochha, ‘Agar ek chitrakaar mukhyamantri ban sakta hai, to badhai rasoiya kyon nahi?’ Raja turant apni galti samajh gaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When did Raja Varma resign from his post?",
+      "questionMeaning": {
+        "hi": "राजा वर्मा ने पद से इस्तीफ़ा कब दिया?",
+        "hinglish": "Raja Varma ne pad se istifa kab diya?"
+      },
+      "options": [
+        "when he came to know about the incident at Raman's house",
+        "after one year",
+        "when the king ordered him"
+      ],
+      "answer": "when he came to know about the incident at Raman's house",
+      "modelAnswer": "Raja Varma resigned immediately when he came to know about the awkward incident at Raman's house.",
+      "modelMeaning": {
+        "hi": "रामन के घर की घटना का पता चलते ही राजा वर्मा ने तुरंत इस्तीफ़ा दे दिया।",
+        "hinglish": "Raman ke ghar ki ghatna ka pata chalte hi Raja Varma ne turant istifa de diya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Was Raja Varma happy as the chief minister? Why not?",
+      "questionMeaning": {
+        "hi": "क्या राजा वर्मा मुख्यमंत्री बनकर ख़ुश थे?",
+        "hinglish": "Kya Raja Varma mukhyamantri bankar khush the?"
+      },
+      "options": [
+        "No, he was happy to remain an artist.",
+        "Yes, he loved ruling.",
+        "Yes, he wanted more power."
+      ],
+      "answer": "No, he was happy to remain an artist.",
+      "modelAnswer": "No. He had no experience of administration. Later he told Tenali Raman that he was happy to remain an artist.",
+      "modelMeaning": {
+        "hi": "नहीं। उन्हें राज चलाने का अनुभव नहीं था। बाद में उन्होंने तेनाली रामन से कहा कि वे चित्रकार रहकर ही ख़ुश हैं।",
+        "hinglish": "Nahi. Unhe raaj chalaane ka anubhav nahi tha. Baad mein unhone Tenali Raman se kaha ki woh chitrakaar rehkar hi khush hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The king invited ___ to the court and asked him to draw his portrait.",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "Raja Varma",
+        "Tenali Raman",
+        "one of the courtiers",
+        "one of his ministers"
+      ],
+      "answer": "Raja Varma"
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.3.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Tenali Raman did not invite ___.",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "Raja Varma",
+        "the king",
+        "the queen",
+        "the courtiers"
+      ],
+      "answer": "Raja Varma"
+    }
+  ]
+}

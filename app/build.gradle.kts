@@ -91,6 +91,8 @@ dependencies {
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.androidx.room.runtime)
     implementation(libs.androidx.room.ktx)
+    // Checks for new school tests about once an hour, even when the app is closed.
+    implementation(libs.androidx.work.runtime)
     ksp(libs.androidx.room.compiler)
     debugImplementation(libs.androidx.compose.ui.tooling)
     // Read-along test only (offline Indian English listener). Model: python tools/get_vosk_model.py

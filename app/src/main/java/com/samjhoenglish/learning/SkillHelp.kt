@@ -10,7 +10,7 @@ import com.samjhoenglish.i18n.L
 data class SkillHelp(val hint: L?, val explain: L)
 
 object SkillHelps {
-    fun of(skill: String): SkillHelp? = named[skill] ?: vocab(skill) ?: letter(skill)
+    fun of(skill: String): SkillHelp? = named[skill] ?: book[skill] ?: vocab(skill) ?: letter(skill)
 
     private fun vocab(skill: String): SkillHelp? {
         if (!skill.startsWith("vocab.") || skill in SkillCatalog.broad) return null
@@ -39,6 +39,43 @@ object SkillHelps {
 
     private fun help(hi: String, hinglish: String, en: String, hi2: String, hinglish2: String, en2: String) =
         SkillHelp(L(hi, hinglish, en), L(hi2, hinglish2, en2))
+
+    /** A second explanation with no short hint (the exercise's own hint is used after a wrong answer). */
+    private fun explainOnly(hi: String, hinglish: String, en: String) = SkillHelp(null, L(hi, hinglish, en))
+
+    // Textbook chapter sections. Their wrong-answer hints come from the exercise itself.
+    private val book: Map<String, SkillHelp> = mapOf(
+        "book.words" to explainOnly(
+            "हर नए शब्द से अपनी ज़िंदगी की एक लाइन बनाओ, जैसे: I gobble my lunch when I am hungry. अपनी बनाई लाइन याद रहती है!",
+            "Har naye shabd se apni zindagi ki ek line banao, jaise: I gobble my lunch when I am hungry. Apni banaayi line yaad rehti hai!",
+            "Make a line about your own life with each new word, like: I gobble my lunch when I am hungry. A line you make yourself is easy to remember!",
+        ),
+        "book.comprehension" to explainOnly(
+            "कहानी फिर से पढ़ो, पर हर पैराग्राफ़ के बाद रुककर खुद से पूछो: कौन? क्या किया? क्यों? सवाल का मुख्य शब्द (जैसे trunk या water) कहानी में ढूँढो। जवाब उसी लाइन के पास होता है।",
+            "Kahani phir se padho, par har paragraph ke baad rukkar khud se poochho: kaun? kya kiya? kyon? Sawaal ka mukhya shabd (jaise trunk ya water) kahani mein dhoondho. Jawab usi line ke paas hota hai.",
+            "Read the story again, but stop after each paragraph and ask: who? what did they do? why? Find the question's key word (like trunk or water) in the story. The answer is near that line.",
+        ),
+        "book.grammar" to explainOnly(
+            "किताब के उदाहरण ज़ोर से तीन बार बोलो। फिर उसी ढाँचे में अपनी एक लाइन बनाओ, सिर्फ़ एक शब्द बदलकर: a slice of bread → a slice of cake।",
+            "Kitaab ke udaharan zor se teen baar bolo. Phir usi dhaanche mein apni ek line banao, sirf ek shabd badalkar: a slice of bread → a slice of cake.",
+            "Say the book's examples aloud three times. Then make your own line in the same pattern, changing just one word: a slice of bread → a slice of cake.",
+        ),
+        "book.talk" to explainOnly(
+            "पहले जवाब हिंदी में सोचो, फिर छोटा इंग्लिश जवाब बोलो: Yes, I would. या No, I would not. छोटा जवाब भी सही जवाब है!",
+            "Pehle jawab Hindi mein socho, phir chhota English jawab bolo: Yes, I would. Ya No, I would not. Chhota jawab bhi sahi jawab hai!",
+            "Think of the answer first, then say a short English answer: Yes, I would. Or: No, I would not. A short answer is still a right answer!",
+        ),
+        "book.writing" to explainOnly(
+            "लिखने से पहले नोट्स के हर हिस्से से एक लाइन बनाओ: home : trees → He lives on the trees. फिर सारी लाइनें जोड़ दो, पैराग्राफ़ बन जाएगा।",
+            "Likhne se pehle notes ke har hisse se ek line banao: home : trees → He lives on the trees. Phir saari lines jod do, paragraph ban jaayega.",
+            "Before writing, turn each part of the notes into one line: home : trees → He lives on the trees. Then put the lines together and you have a paragraph.",
+        ),
+        "book.activity" to explainOnly(
+            "हर जानवर के बारे में दो सवाल पूछो: यह कहाँ रहता है, पानी में, जंगल में या हमारे घर में? क्या यह उड़ता है? जवाब से ग्रुप पता चल जाएगा।",
+            "Har jaanwar ke baare mein do sawaal poochho: yeh kahan rehta hai, paani mein, jangal mein ya hamare ghar mein? Kya yeh udta hai? Jawab se group pata chal jaayega.",
+            "Ask two questions about each animal: where does it live, in water, in the forest or in our homes? Does it fly? The answers tell you its group.",
+        ),
+    )
 
     private val named: Map<String, SkillHelp> = mapOf(
         // Sentences
@@ -153,6 +190,142 @@ object SkillHelps {
             "हिंदी में ‘क्या’ लाइन के अंत में आता है: तुम्हारा नाम क्या है? इंग्लिश में What सबसे पहले: What is your name?",
             "Hindi mein ‘kya’ line ke ant mein aata hai: Tumhara naam kya hai? English mein What sabse pehle: What is your name?",
             "The question word comes first in English: What is your name? Where is my bag? Who is he?",
+        ),
+        "grammar.uncountable" to help(
+            "bread, soap में s नहीं लगता। गिनना हो तो: a slice of bread.",
+            "bread, soap mein s nahi lagta. Ginna ho to: a slice of bread.",
+            "Bread and soap don't take s. To count them: a slice of bread.",
+            "हिंदी में भी हम ‘दो पानी’ नहीं बोलते, ‘दो गिलास पानी’ बोलते हैं। इंग्लिश में भी ऐसा ही है: two slices of bread, a cake of soap, a sheet of paper। पहले बर्तन या टुकड़ा, फिर of, फिर चीज़।",
+            "Hindi mein bhi hum ‘do paani’ nahi bolte, ‘do gilaas paani’ bolte hain. English mein bhi aisa hi hai: two slices of bread, a cake of soap, a sheet of paper. Pehle bartan ya tukda, phir of, phir cheez.",
+            "We don't say ‘two waters’, we say ‘two glasses of water’. It's the same with bread and soap: two slices of bread, a cake of soap, a sheet of paper. First the piece, then of, then the thing.",
+        ),
+        "grammar.comparison" to help(
+            "दो की तुलना में -er और than, सब में -est: taller than, the tallest.",
+            "Do ki tulna mein -er aur than, sab mein -est: taller than, the tallest.",
+            "Two things: -er and than. All of them: the -est.",
+            "तीन पेंसिल लो: छोटी, बड़ी, सबसे बड़ी। बोलो: This pencil is long. That one is longer. This is the longest! दो की बात में -er, सब में -est।",
+            "Teen pencil lo: chhoti, badi, sabse badi. Bolo: This pencil is long. That one is longer. This is the longest! Do ki baat mein -er, sab mein -est.",
+            "Take three pencils: short, long and longest. Say: This pencil is long. That one is longer. This is the longest! Two things use -er; all of them use -est.",
+        ),
+        "grammar.relative" to help(
+            "लोगों के लिए who, जानवर और चीज़ों के लिए which।",
+            "Logon ke liye who, jaanwar aur cheezon ke liye which.",
+            "who for people, which for animals and things.",
+            "दो वाक्यों में जो इंसान दोनों में है, उसके बाद ‘who’ लगाओ और दूसरी बात वहीं जोड़ दो। The boy is tall. The boy plays cricket. → The boy who plays cricket is tall. ‘who’ = ‘जो’।",
+            "Do vaakyon mein jo insaan dono mein hai, uske baad ‘who’ lagao aur doosri baat wahin jod do. The boy is tall. The boy plays cricket. → The boy who plays cricket is tall. ‘who’ = ‘jo’.",
+            "Find the person who is in both sentences. Put ‘who’ after them and add the other idea right there. The boy is tall. The boy plays cricket. → The boy who plays cricket is tall.",
+        ),
+        "grammar.should" to help(
+            "should = चाहिए, should not = नहीं चाहिए। should के बाद ‘to’ नहीं लगता।",
+            "should = chahiye, should not = nahi chahiye. should ke baad ‘to’ nahi lagta.",
+            "should = right to do; should not = not right. No ‘to’ after should.",
+            "अपने स्कूल के नियम सोचो। ‘हमें समय पर आना चाहिए’ = We should come on time. ‘हमें झूठ नहीं बोलना चाहिए’ = We should not tell lies. चाहिए = should!",
+            "Apne school ke niyam socho. ‘Humein samay par aana chahiye’ = We should come on time. ‘Humein jhooth nahi bolna chahiye’ = We should not tell lies. Chahiye = should!",
+            "Think of your school rules. We should come on time. We should not tell lies. Good things to do use should; things to avoid use should not.",
+        ),
+        "grammar.to_for" to help(
+            "काम वाले शब्द से पहले to (to buy), किसी के लिए for (for you)।",
+            "Kaam waale shabd se pehle to (to buy), kisi ke liye for (for you).",
+            "to before an action word (to buy); for someone (for you).",
+            "सोचो: ‘करने के लिए’ = to + काम (to eat, to play)। ‘किसी के लिए’ या ‘किसी के बदले’ = for (for my mother, for ten rupees)। काम है तो to, इंसान या चीज़ है तो for!",
+            "Socho: ‘karne ke liye’ = to + kaam (to eat, to play). ‘Kisi ke liye’ ya ‘kisi ke badle’ = for (for my mother, for ten rupees). Kaam hai to to, insaan ya cheez hai to for!",
+            "Think: to do something = to + action (to eat, to play). For a person or in exchange for a thing = for (for my mother, for ten rupees). An action takes to; a person or thing takes for!",
+        ),
+        "grammar.few_little" to help(
+            "गिन सकते हो तो few, नहीं गिन सकते तो little।",
+            "Gin sakte ho to few, nahi gin sakte to little.",
+            "Can count it? few. Can't count it? little.",
+            "पानी गिन नहीं सकते, तो a little water। पेंसिल गिन सकते हैं, तो a few pencils। और ‘a’ लगा हो तो मतलब ‘थोड़ा है’; ‘a’ न हो तो मतलब ‘लगभग नहीं है’।",
+            "Paani gin nahi sakte, to a little water. Pencil gin sakte hain, to a few pencils. Aur ‘a’ laga ho to matlab ‘thoda hai’; ‘a’ na ho to matlab ‘lagbhag nahi hai’.",
+            "You can't count water, so a little water. You can count pencils, so a few pencils. With ‘a’ it means there is some; without ‘a’ it means almost none.",
+        ),
+        "grammar.did_questions" to help(
+            "Did पहले, फिर काम वाला शब्द सीधे रूप में: Did he go?",
+            "Did pehle, phir kaam waala shabd seedhe roop mein: Did he go?",
+            "Did first, then the base verb: Did he go?",
+            "Did अपने साथ बीता हुआ समय ले आता है, इसलिए बाद वाला शब्द सीधा रहता है। He went. → Did he go? (went नहीं, go)। She played. → Did she play?",
+            "Did apne saath beeta hua samay le aata hai, isliye baad waala shabd seedha rehta hai. He went. → Did he go? (went nahi, go). She played. → Did she play?",
+            "Did already carries the past, so the next verb stays plain. He went. → Did he go? (not went). She played. → Did she play?",
+        ),
+        "grammar.prefix_suffix" to help(
+            "re = फिर से, un = नहीं, ful = भरा हुआ।",
+            "re = phir se, un = nahi, ful = bhara hua.",
+            "re = again, un = not, ful = full of.",
+            "तीन छोटे जादुई टुकड़े याद करो: re (फिर से) → retell = फिर से बताना। un (नहीं) → unkind = दयालु नहीं। ful (भरा) → careful = सावधानी से भरा।",
+            "Teen chhote jaadui tukde yaad karo: re (phir se) → retell = phir se bataana. un (nahi) → unkind = dayaalu nahi. ful (bhara) → careful = saavdhaani se bhara.",
+            "Remember three little magic parts: re (again) → retell = tell again. un (not) → unkind = not kind. ful (full of) → careful = full of care.",
+        ),
+        "grammar.tenses" to help(
+            "पहले देखो: काम कब हुआ? बीता, चल रहा, या आगे होगा?",
+            "Pehle dekho: kaam kab hua? Beeta, chal raha, ya aage hoga?",
+            "First ask: when? Past, going on, or future?",
+            "समय की एक लाइन सोचो: कल (played, ran), अभी (is playing), कल आने वाला (will play)। वाक्य में ‘yesterday’, ‘now’, ‘tomorrow’ जैसे शब्द ढूँढो, वही बताते हैं कौन सा रूप लगेगा।",
+            "Samay ki ek line socho: kal (played, ran), abhi (is playing), kal aane waala (will play). Vaakya mein ‘yesterday’, ‘now’, ‘tomorrow’ jaise shabd dhoondho, wahi bataate hain kaun sa roop lagega.",
+            "Picture a time line: yesterday (played, ran), now (is playing), tomorrow (will play). Look for words like yesterday, now and tomorrow in the sentence. They tell you which form to use.",
+        ),
+        "grammar.indirect_speech" to help(
+            "कही हुई बात बताते समय समय पीछे जाता है: is → was, will → would।",
+            "Kahi hui baat bataate samay samay peechhe jaata hai: is → was, will → would.",
+            "When reporting, the time moves back: is → was, will → would.",
+            "सोचो तुम कल की बात किसी और को बता रहे हो। गीता ने कहा था ‘मैं जा रही हूँ’ → Geeta said that she was going। I बदलकर she, am बदलकर was, क्योंकि बात बीत चुकी है।",
+            "Socho tum kal ki baat kisi aur ko bata rahe ho. Geeta ne kaha tha ‘main ja rahi hoon’ → Geeta said that she was going. I badalkar she, am badalkar was, kyonki baat beet chuki hai.",
+            "Imagine telling someone else what was said yesterday. Geeta said, ‘I am going’ → Geeta said that she was going. I becomes she, am becomes was, because it is in the past now.",
+        ),
+        "grammar.gender" to help(
+            "लड़का/आदमी = he, लड़की/औरत = she, चीज़ = it।",
+            "Ladka/aadmi = he, ladki/aurat = she, cheez = it.",
+            "Boy or man = he, girl or woman = she, thing = it.",
+            "अपने घर को सोचो: Papa = he, Mummy = she, TV = it। जो लड़का या लड़की दोनों हो सकते हैं, जैसे teacher या baby, उनके लिए he या she दोनों ठीक हैं।",
+            "Apne ghar ko socho: Papa = he, Mummy = she, TV = it. Jo ladka ya ladki dono ho sakte hain, jaise teacher ya baby, unke liye he ya she dono theek hain.",
+            "Think of your home: Papa = he, Mummy = she, TV = it. Words like teacher or baby can be a boy or a girl, so he or she both work.",
+        ),
+        "grammar.punctuation" to help(
+            "वाक्य बड़े अक्षर से शुरू, full stop पर ख़त्म। I हमेशा बड़ा।",
+            "Vaakya bade akshar se shuru, full stop par khatm. I hamesha bada.",
+            "Start with a capital, end with a full stop. I is always capital.",
+            "ज़ोर से पढ़ो: जहाँ आवाज़ पूरी रुकती है वहाँ full stop (.), जहाँ थोड़ा रुकती है वहाँ comma (,)। और हर नए वाक्य का पहला अक्षर बड़ा लिखो।",
+            "Zor se padho: jahan awaaz poori rukti hai wahan full stop (.), jahan thoda rukti hai wahan comma (,). Aur har naye vaakya ka pehla akshar bada likho.",
+            "Read it aloud: where your voice stops fully, put a full stop. Where it pauses a little, put a comma. And start every new sentence with a capital letter.",
+        ),
+        "grammar.too_so" to help(
+            "too ... to = इतना कि नहीं हो सकता = so ... that ... cannot।",
+            "too ... to = itna ki nahi ho sakta = so ... that ... cannot.",
+            "too ... to = so ... that ... cannot.",
+            "‘too’ में ‘नहीं’ छिपा होता है। Too hot to drink = इतनी गर्म कि पी नहीं सकते। इसलिए so ... that वाले वाक्य में cannot लिखना मत भूलो।",
+            "‘too’ mein ‘nahi’ chhipa hota hai. Too hot to drink = itni garm ki pee nahi sakte. Isliye so ... that waale vaakya mein cannot likhna mat bhoolo.",
+            "‘too’ hides a ‘not’ inside it. Too hot to drink = so hot that you cannot drink it. So don't forget ‘cannot’ in the so ... that sentence.",
+        ),
+        "grammar.conjunctions" to help(
+            "मिलती बातें = and (और), उल्टी बातें = but (लेकिन)।",
+            "Milti baatein = and (aur), ulti baatein = but (lekin).",
+            "Similar ideas: and. Opposite ideas: but.",
+            "दोनों बातें पढ़ो। अगर दोनों एक जैसी हैं (मुझे आम पसंद है, केले भी) तो and। अगर दूसरी बात पहली से उल्टी है (मुझे आम पसंद है, पर केले नहीं) तो but।",
+            "Dono baatein padho. Agar dono ek jaisi hain (mujhe aam pasand hai, kele bhi) to and. Agar doosri baat pehli se ulti hai (mujhe aam pasand hai, par kele nahi) to but.",
+            "Read both ideas. If they agree (I like mangoes, and bananas too), use and. If the second is the opposite (I like mangoes, but not bananas), use but.",
+        ),
+        "grammar.plurals" to help(
+            "ज़्यादातर में s, s/sh/ch पर es, व्यंजन+y पर ies।",
+            "Zyaadatar mein s, s/sh/ch par es, vyanjan+y par ies.",
+            "Most add s; s/sh/ch add es; consonant + y becomes ies.",
+            "शब्द का आख़िरी अक्षर देखो। bus में आख़िर में s है, तो buses (बोलने में ‘इज़’ जुड़ता है)। baby में y से पहले b है, तो babies। boy में y से पहले o है, तो बस boys।",
+            "Shabd ka aakhiri akshar dekho. bus mein aakhir mein s hai, to buses (bolne mein ‘iz’ judta hai). baby mein y se pehle b hai, to babies. boy mein y se pehle o hai, to bas boys.",
+            "Look at the last letter. bus ends in s, so buses (you hear an extra ‘iz’). In baby, y comes after b, so babies. In boy, y comes after o, so just boys.",
+        ),
+        "grammar.adverbs" to help(
+            "काम कैसे हुआ? विशेषण + ly: quick → quickly।",
+            "Kaam kaise hua? Visheshan + ly: quick → quickly.",
+            "How was it done? Adjective + ly: quick → quickly.",
+            "पहले सोचो वाक्य में क्या हुआ और कैसे हुआ। ख़ुश होकर गया → happily। ज़ोर से बोला → loudly। happy जैसे y वाले शब्द में y की जगह i: happily।",
+            "Pehle socho vaakya mein kya hua aur kaise hua. Khush hokar gaya → happily. Zor se bola → loudly. happy jaise y waale shabd mein y ki jagah i: happily.",
+            "First think what happened and how. Went in a happy way → happily. Spoke in a loud way → loudly. In words like happy, y becomes i: happily.",
+        ),
+        "grammar.contractions" to help(
+            "’ बताता है कि अक्षर हटे हैं: do not → don't।",
+            "’ bataata hai ki akshar hate hain: do not → don't.",
+            "The ’ shows missing letters: do not → don't.",
+            "छोटा रूप वहीं बनता है जहाँ से अक्षर हटे: I am में a हटा → I'm। do not में o हटा → don't। हटे अक्षर की जगह ’ लगता है।",
+            "Chhota roop wahin banta hai jahan se akshar hate: I am mein a hata → I'm. do not mein o hata → don't. Hate akshar ki jagah ’ lagta hai.",
+            "The short form puts ’ where letters were dropped: I am drops a → I'm. do not drops o → don't.",
         ),
         "grammar.simple_present" to help(
             "He या She के साथ काम वाले शब्द में s लगता है: He plays.",

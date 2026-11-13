@@ -1,0 +1,201 @@
+{
+  "id": "B7.13.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.13.T.S01",
+    "B7.13.T.S02",
+    "B7.13.T.S03",
+    "B7.13.T.S04",
+    "B7.13.T.S05",
+    "B7.13.T.S06",
+    "B7.13.T.S07",
+    "B7.13.T.S08",
+    "B7.13.T.S09",
+    "B7.13.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.13.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why did the children decide to stay together?",
+      "questionMeaning": {
+        "hi": "बच्चे साथ क्यों रहे?",
+        "hinglish": "Bachche saath kyon rahe?"
+      },
+      "options": [
+        "so that nobody got lost in the crowd",
+        "because it was cold",
+        "because they had one ticket"
+      ],
+      "answer": "so that nobody got lost in the crowd"
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What kind of seats does a merry-go-round have?",
+      "questionMeaning": {
+        "hi": "merry-go-round में कैसी सीटें होती हैं?",
+        "hinglish": "Merry-go-round mein kaisi seatein hoti hain?"
+      },
+      "options": [
+        "decorated wooden horses",
+        "bus seats",
+        "beds"
+      ],
+      "answer": "decorated wooden horses"
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who saved money for the return tickets?",
+      "questionMeaning": {
+        "hi": "वापसी के टिकट के पैसे किसने बचाए?",
+        "hinglish": "Waapsi ke ticket ke paise kisne bachaaye?"
+      },
+      "options": [
+        "Krishan",
+        "Lambu",
+        "Bishni"
+      ],
+      "answer": "Krishan"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "The child held his mother's hand tightly so that he may not ___.",
+      "answer": "get lost",
+      "options": [
+        "get lost",
+        "get dizzy",
+        "go round"
+      ],
+      "meaning": {
+        "hi": "बच्चे ने हाथ कसकर पकड़ा ताकि खो न जाए।",
+        "hinglish": "Bachche ne haath kaskar pakda taaki kho na jaaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "‘fare’ means ...",
+      "questionMeaning": {
+        "hi": "‘fare’ का मतलब?",
+        "hinglish": "‘fare’ ka matlab?"
+      },
+      "options": [
+        "money paid for a ticket",
+        "a gathering of shops",
+        "opposite of there"
+      ],
+      "answer": "money paid for a ticket"
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "question": "Join: You want something. I do not know. (what)",
+      "questionMeaning": {
+        "hi": "जोड़ो",
+        "hinglish": "Jodo"
+      },
+      "options": [
+        "I do not know what you want.",
+        "I do not know who you want.",
+        "What I do not know you want."
+      ],
+      "answer": "I do not know what you want."
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "question": "It is so dark that one can't see. =",
+      "questionMeaning": {
+        "hi": "बराबर वाक्य",
+        "hinglish": "Baraabar vaakya"
+      },
+      "options": [
+        "It is too dark to see.",
+        "It is too dark that one can see.",
+        "It is so dark to see."
+      ],
+      "answer": "It is too dark to see."
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "question": "Which mark ends a question?",
+      "questionMeaning": {
+        "hi": "सवाल किस चिह्न पर ख़त्म होता है?",
+        "hinglish": "Sawaal kis chihn par khatm hota hai?"
+      },
+      "options": [
+        "question mark (?)",
+        "full stop (.)",
+        "comma (,)"
+      ],
+      "answer": "question mark (?)"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.T.S09",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "I'll ___ Montu at Habibganj railway station.",
+      "answer": "receive",
+      "options": [
+        "receive",
+        "leave",
+        "bring"
+      ],
+      "meaning": {
+        "hi": "मैं मोंटू को स्टेशन पर लेने जाऊँगी।",
+        "hinglish": "Main Montu ko station par lene jaaungi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.T.S10",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which one is a ride, not food?",
+      "questionMeaning": {
+        "hi": "कौन सा झूला है, खाना नहीं?",
+        "hinglish": "Kaun sa jhoola hai, khaana nahi?"
+      },
+      "options": [
+        "giant wheel",
+        "kulfi",
+        "samosa"
+      ],
+      "answer": "giant wheel"
+    }
+  ]
+}

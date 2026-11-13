@@ -1,0 +1,198 @@
+{
+  "id": "B6.10.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.10.4.S02",
+    "B6.10.4.S03",
+    "B6.10.4.S04",
+    "B6.10.4.S05",
+    "B6.10.4.S06",
+    "B6.10.4.S07",
+    "B6.10.4.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.10.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "आज की बात: is (एक), are (कई या you)। बीती बात: was (एक), were (कई या you)। Today is Monday. Yesterday was Sunday.",
+        "hinglish": "Aaj ki baat: is (ek), are (kai ya you). Beeti baat: was (ek), were (kai ya you). Today is Monday. Yesterday was Sunday.",
+        "en": "Now: is (one), are (many, or you). Past: was (one), were (many, or you). Today is Monday. Yesterday was Sunday."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "What day ___ it today?",
+      "answer": "is",
+      "options": [
+        "is",
+        "was",
+        "were"
+      ],
+      "meaning": {
+        "hi": "आज कौन सा दिन है?",
+        "hinglish": "Aaj kaun sa din hai?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "What day ___ it yesterday?",
+      "answer": "was",
+      "options": [
+        "was",
+        "is",
+        "are"
+      ],
+      "meaning": {
+        "hi": "कल कौन सा दिन था?",
+        "hinglish": "Kal kaun sa din tha?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "What month ___ this?",
+      "answer": "is",
+      "options": [
+        "is",
+        "were",
+        "was"
+      ],
+      "meaning": {
+        "hi": "यह कौन सा महीना है?",
+        "hinglish": "Yeh kaun sa mahina hai?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "What month ___ the last month?",
+      "answer": "was",
+      "options": [
+        "was",
+        "is",
+        "are"
+      ],
+      "meaning": {
+        "hi": "पिछला महीना कौन सा था?",
+        "hinglish": "Pichhla mahina kaun sa tha?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Where ___ you now?",
+      "answer": "are",
+      "options": [
+        "are",
+        "were",
+        "is"
+      ],
+      "meaning": {
+        "hi": "तुम अभी कहाँ हो?",
+        "hinglish": "Tum abhi kahan ho?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.10.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Where ___ you yesterday?",
+      "answer": "were",
+      "options": [
+        "were",
+        "are",
+        "was"
+      ],
+      "meaning": {
+        "hi": "तुम कल कहाँ थे?",
+        "hinglish": "Tum kal kahan the?"
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.10.4.S08",
+      "skills": [
+        "book.grammar",
+        "speak.sentence"
+      ],
+      "scene": "📅",
+      "turns": [
+        {
+          "id": "today",
+          "tinku": "What day is it today?",
+          "meaning": {
+            "hi": "आज कौन सा दिन है?",
+            "hinglish": "Aaj kaun sa din hai?"
+          },
+          "replies": [
+            {
+              "say": "Today is Monday.",
+              "meaning": {
+                "hi": "आज सोमवार है। (आज का दिन बोलो)",
+                "hinglish": "Aaj Somvaar hai. (Aaj ka din bolo)"
+              },
+              "patterns": [
+                "today is *",
+                "it is *",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "yesterday",
+          "tinku": "What day was it yesterday?",
+          "meaning": {
+            "hi": "कल कौन सा दिन था?",
+            "hinglish": "Kal kaun sa din tha?"
+          },
+          "replies": [
+            {
+              "say": "Yesterday was Sunday.",
+              "meaning": {
+                "hi": "कल रविवार था।",
+                "hinglish": "Kal Ravivaar tha."
+              },
+              "patterns": [
+                "yesterday was *",
+                "it was *",
+                "*"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

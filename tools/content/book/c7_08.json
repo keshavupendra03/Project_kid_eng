@@ -1,0 +1,175 @@
+{
+  "grade": 7, "number": 8, "emoji": "🏅", "title": "The Olympic Champion", "pages": "56–62",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["इस पाठ में बॉबी पियर्स नाम के नाव-दौड़ चैंपियन की सच्ची कहानी है, जिसने ओलंपिक रेस के बीच में बत्तख के बच्चों को बचाया! पहले किताब के सवाल।", "Is paath mein Bobby Pearce naam ke naav-daud champion ki sachchi kahani hai, jisne Olympic race ke beech mein battakh ke bachchon ko bachaaya! Pehle kitaab ke sawaal.", "This lesson is the true story of Bobby Pearce, a rowing champion who saved ducklings in the middle of an Olympic race! First, the book's questions."]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "⚽", "turns": [
+          {"id": "games", "tinku": "What games do you play?", "meaning": ["तुम कौन से खेल खेलते हो?", "Tum kaun se khel khelte ho?"],
+            "replies": [{"say": "I play cricket and kabaddi.", "meaning": ["मैं क्रिकेट और कबड्डी खेलता/खेलती हूँ। (अपने खेल बोलो)", "Main cricket aur kabaddi khelta/khelti hoon. (Apne khel bolo)"], "patterns": ["i play *", "*", "* *"]}]},
+          {"id": "most", "tinku": "Which game do you like the most?", "meaning": ["तुम्हें कौन सा खेल सबसे ज़्यादा पसंद है?", "Tumhe kaun sa khel sabse zyaada pasand hai?"],
+            "replies": [{"say": "I like cricket the most.", "meaning": ["मुझे क्रिकेट सबसे ज़्यादा पसंद है।", "Mujhe cricket sabse zyaada pasand hai."], "patterns": ["i like *", "*", "* *"], "next": "end"}]}
+        ]},
+        {"book": true, "q": ["What do you know about the Olympic Games? How often are they held?", "ओलंपिक खेल कितने समय बाद होते हैं?", "Olympic khel kitne samay baad hote hain?", ["once in every four years", "every year", "once in ten years"], "once in every four years", "The Olympic Games are held once in every four years. Athletes from all the countries take part in them.", "ओलंपिक खेल हर चार साल में एक बार होते हैं। सब देशों के खिलाड़ी इनमें हिस्सा लेते हैं।", "Olympic khel har chaar saal mein ek baar hote hain. Sab deshon ke khilaadi inmein hissa lete hain."]},
+        {"word": ["athlete", "खिलाड़ी (एथलीट)", "khilaadi (athlete)", "a person who is good at sports and takes part in races", "The athlete ran very fast.", "खिलाड़ी बहुत तेज़ दौड़ा।", "Khilaadi bahut tez dauda."]},
+        {"word": ["ancient", "बहुत पुराना, प्राचीन", "bahut puraana, praacheen", "very, very old; from long ago", "We saw an ancient temple in Khajuraho.", "हमने खजुराहो में एक प्राचीन मंदिर देखा।", "Humne Khajuraho mein ek praacheen mandir dekha."]},
+        {"word": ["harbour", "बंदरगाह", "bandargaah", "a place on the coast where ships and boats stay safely", "Many boats were in the harbour.", "बंदरगाह में बहुत सी नावें थीं।", "Bandargaah mein bahut si naavein thin."]},
+        {"word": ["rowing", "नाव खेना", "naav khena", "moving a boat through water with oars", "Rowing makes your arms strong.", "नाव खेने से बाँहें मज़बूत होती हैं।", "Naav khene se baahein mazboot hoti hain."]},
+        {"word": ["competition", "प्रतियोगिता", "pratiyogita", "a contest to find who is the best", "I won the drawing competition.", "मैंने ड्रॉइंग प्रतियोगिता जीती।", "Maine drawing pratiyogita jeeti."]},
+        {"word": ["champion", "विजेता, चैंपियन", "vijeta, champion", "a person who wins a contest", "She is the chess champion of our school.", "वह हमारे स्कूल की शतरंज चैंपियन है।", "Woh hamare school ki shatranj champion hai."]},
+        {"book": true, "pairs": ["किताब के phrases को उनके मतलब से जोड़ो", "Kitaab ke phrases ko unke matlab se jodo", "Join the book's phrases to their meanings", [
+          ["in the lead", "in the first place, ahead of others", "सबसे आगे", "sabse aage"],
+          ["catching up", "coming closer to someone ahead", "पीछे से पास आना", "peechhe se paas aana"],
+          ["out of danger", "safe now", "ख़तरे से बाहर", "khatre se baahar"],
+          ["in the finals", "in the last and deciding round", "फ़ाइनल मुक़ाबले में", "final mukaable mein"],
+          ["to win someone's heart", "to make someone love you", "किसी का दिल जीतना", "kisi ka dil jeetna"],
+          ["in the middle of", "at the centre of something", "बीच में", "beech mein"]]]},
+        {"sayw": ["athlete", "खिलाड़ी", "khilaadi"], "skills": ["speak.word", "book.words"]},
+        {"sayw": ["champion", "विजेता", "vijeta"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 56 और 57 पर ‘The Olympic Champion’ पढ़ो। फिर जवाब दो।", "Apni kitaab mein page 56 aur 57 par ‘The Olympic Champion’ padho. Phir jawab do.", "Read ‘The Olympic Champion’ on pages 56 and 57 of your book. Then answer."]},
+        {"book": true, "q": ["What do we know about the ancient Olympic Games?", "हम पुराने ओलंपिक खेलों के बारे में क्या जानते हैं?", "Hum puraane Olympic khelon ke baare mein kya jaante hain?", ["They were held in Greece in 776 B.C. at Olympia.", "They were held in India in 1928.", "They were held in Sydney."], "They were held in Greece in 776 B.C. at Olympia.", "We know only a few things about the ancient Olympic Games. An Olympic sports festival was held in Greece in 776 B.C. at Olympia.", "हम पुराने ओलंपिक के बारे में थोड़ा ही जानते हैं। 776 ईसा पूर्व में ग्रीस के ओलंपिया में एक खेल उत्सव हुआ था।", "Hum puraane Olympic ke baare mein thoda hi jaante hain. 776 isa poorv mein Greece ke Olympia mein ek khel utsav hua tha."]},
+        {"book": true, "q": ["Where did the Olympic Games get their name from?", "ओलंपिक खेलों का नाम कहाँ से आया?", "Olympic khelon ka naam kahan se aaya?", ["from Olympia, the place in Greece where they were held", "from a king called Olympus", "from a river"], "from Olympia, the place in Greece where they were held", "The Olympic Games got their name from Olympia, the place in Greece where they were first held.", "ओलंपिक का नाम ग्रीस की जगह ओलंपिया से आया, जहाँ ये पहली बार हुए।", "Olympic ka naam Greece ki jagah Olympia se aaya, jahan yeh pehli baar hue."]},
+        {"book": true, "q": ["Who won a gold medal for rowing in the Olympic Games of 1928?", "1928 के ओलंपिक में नाव-दौड़ का स्वर्ण पदक किसने जीता?", "1928 ke Olympic mein naav-daud ka swarn padak kisne jeeta?", ["Bobby Pearce", "Ken Myers", "Milkha Singh"], "Bobby Pearce", "Bobby Pearce won a gold medal for rowing in the Olympic Games of 1928.", "बॉबी पियर्स ने 1928 के ओलंपिक में नाव-दौड़ का स्वर्ण पदक जीता।", "Bobby Pearce ne 1928 ke Olympic mein naav-daud ka swarn padak jeeta."]},
+        {"book": true, "q": ["At what age did he win the first race?", "उसने पहली रेस किस उम्र में जीती?", "Usne pehli race kis umar mein jeeti?", ["six", "fourteen", "twenty"], "six", "He won his first race at the age of six, against fourteen-year-olds.", "उसने छह साल की उम्र में पहली रेस जीती, चौदह साल के लड़कों के ख़िलाफ़।", "Usne chhah saal ki umar mein pehli race jeeti, chaudah saal ke ladkon ke khilaaf."]},
+        {"book": true, "q": ["Who did he compete with in the finals of the Amsterdam Olympics?", "एम्स्टर्डम ओलंपिक के फ़ाइनल में उसका मुक़ाबला किससे था?", "Amsterdam Olympic ke final mein uska mukaabla kisse tha?", ["Ken Myers of America", "his father", "a Dutch boy"], "Ken Myers of America", "He competed against Ken Myers of America in the finals.", "फ़ाइनल में उसका मुक़ाबला अमेरिका के केन मायर्स से था।", "Final mein uska mukaabla America ke Ken Myers se tha."]},
+        {"book": true, "q": ["What caused Bobby to slow down in the middle of the race?", "रेस के बीच में बॉबी ने रफ़्तार क्यों कम की?", "Race ke beech mein Bobby ne raftaar kyon kam ki?", ["A duck and her ducklings were swimming across his path.", "His boat broke.", "He was tired."], "A duck and her ducklings were swimming across his path.", "Bobby slowed down because a duck and her ducklings were swimming across the waterway into the path of his boat.", "बॉबी ने रफ़्तार कम की क्योंकि एक बत्तख और उसके बच्चे उसकी नाव के रास्ते में तैर रहे थे।", "Bobby ne raftaar kam ki kyonki ek battakh aur uske bachche uski naav ke raaste mein tair rahe the."]},
+        {"book": true, "q": ["What did he do when he saw a duck and her ducklings swimming across the waterway?", "बत्तख और उसके बच्चों को देखकर उसने क्या किया?", "Battakh aur uske bachchon ko dekhkar usne kya kiya?", ["He slowed down and waited till they were out of danger.", "He went faster.", "He stopped the race and went home."], "He slowed down and waited till they were out of danger.", "He slowed down his boat and waited until all the ducklings were out of danger. Then he picked up speed and won the race.", "उसने नाव धीमी की और बच्चों के सुरक्षित निकलने तक रुका। फिर तेज़ होकर रेस जीत गया।", "Usne naav dheemi ki aur bachchon ke surakshit nikalne tak ruka. Phir tez hokar race jeet gaya."]},
+        {"card": ["अब किताब का True/False।", "Ab kitaab ka True/False.", "Now the book's true or false."]},
+        {"book": true, "tf": ["Athletes come from all the countries to take part in the Olympic Games.", "ओलंपिक में सब देशों के खिलाड़ी आते हैं।", "Olympic mein sab deshon ke khilaadi aate hain.", true]},
+        {"book": true, "tf": ["Bobby Pearce's father was a great wrestler.", "बॉबी के पिता बड़े पहलवान थे।", "Bobby ke pita bade pahalwaan the.", false, "False. His father was a great sculling (rowing) champion.", "गलत। उसके पिता नाव-दौड़ के चैंपियन थे।", "Galat. Uske pita naav-daud ke champion the."]},
+        {"book": true, "tf": ["At the age of six, Bobby won the first race.", "छह साल की उम्र में बॉबी ने पहली रेस जीती।", "Chhah saal ki umar mein Bobby ne pehli race jeeti.", true]},
+        {"book": true, "tf": ["The people on the bank were silent.", "किनारे पर लोग चुप थे।", "Kinaare par log chup the.", false, "False. They were cheering and shouting.", "गलत। वे चिल्ला रहे थे और हौसला बढ़ा रहे थे।", "Galat. Woh chilla rahe the aur hausla badha rahe the."]},
+        {"book": true, "tf": ["His friends in the Australian Olympic team were not surprised.", "उसके दोस्त हैरान नहीं थे।", "Uske dost hairaan nahi the.", true]},
+        {"book": true, "tf": ["In all these years he lost a few races.", "इन सालों में वह कुछ रेस हारा।", "In saalon mein woh kuch race haara.", false, "False. He never lost a single race.", "गलत। वह एक भी रेस नहीं हारा।", "Galat. Woh ek bhi race nahi haara."]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: छोटे रूप (-let, -ette)", "Shabd Shakti: chhote roop (-let, -ette)", "Word Power: small forms (-let, -ette)"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["Duckling = बत्तख का बच्चा। -let या -ette लगने से चीज़ का छोटा रूप या जानवर का बच्चा बनता है: pig → piglet (सूअर का बच्चा), book → booklet (छोटी किताब)।", "Duckling = battakh ka bachcha. -let ya -ette lagne se cheez ka chhota roop ya jaanwar ka bachcha banta hai: pig → piglet (suar ka bachcha), book → booklet (chhoti kitaab).", "Duckling = a baby duck. -let or -ette makes a smaller thing or a baby creature: pig → piglet, book → booklet."]},
+        {"book": true, "pairs": ["हर शब्द को उसके छोटे रूप से जोड़ो", "Har shabd ko uske chhote roop se jodo", "Match each word to its small form", [
+          ["pig", "piglet", "सूअर का बच्चा", "suar ka bachcha"],
+          ["owl", "owlet", "उल्लू का बच्चा", "ulloo ka bachcha"],
+          ["swan", "cygnet", "हंस का बच्चा", "hans ka bachcha"],
+          ["book", "booklet", "छोटी किताब", "chhoti kitaab"],
+          ["river", "rivulet", "छोटी नदी", "chhoti nadi"],
+          ["kitchen", "kitchenette", "छोटी रसोई", "chhoti rasoi"]]]},
+        {"fb": ["The duck was swimming with her ___.", "ducklings", ["ducklings", "piglets", "booklets"], "बत्तख अपने बच्चों के साथ तैर रही थी।", "Battakh apne bachchon ke saath tair rahi thi."]},
+        {"fb": ["The teacher gave us a small ___ about the Olympics.", "booklet", ["booklet", "rivulet", "owlet"], "टीचर ने हमें ओलंपिक पर एक छोटी किताब दी।", "Teacher ne humein Olympic par ek chhoti kitaab di."]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: क्रिया के रूप और prepositions", "Grammar: kriya ke roop aur prepositions", "Grammar in Use: verb forms and prepositions"], "book": true,
+      "skills": ["book.grammar", "grammar.tenses"],
+      "steps": [
+        {"card": ["बीती बात के लिए क्रिया का दूसरा रूप: win → won, hear → heard, seem → seemed, wait → waited। ‘has’ के बाद तीसरा रूप: has won।", "Beeti baat ke liye kriya ka doosra roop: win → won, hear → heard, seem → seemed, wait → waited. ‘has’ ke baad teesra roop: has won.", "For the past, use the past form: win → won, hear → heard, seem → seemed, wait → waited. After ‘has’, use the third form: has won."]},
+        {"book": true, "fb": ["Our Indian Cricket Team ___ the World Cup in 1983.", "won", ["won", "win", "wins"], "हमारी भारतीय क्रिकेट टीम ने 1983 में वर्ल्ड कप जीता।", "Hamari Bharatiya cricket team ne 1983 mein World Cup jeeta."]},
+        {"book": true, "fb": ["There was complete silence outside. Suddenly I ___ a noise.", "heard", ["heard", "hear", "hearing"], "बाहर पूरा सन्नाटा था। अचानक मैंने एक आवाज़ सुनी।", "Baahar poora sannaata tha. Achaanak maine ek awaaz suni."]},
+        {"book": true, "fb": ["Milkha Singh was leading in the race. It ___ that he would win the race.", "seemed", ["seemed", "seems", "seeming"], "मिल्खा सिंह आगे था। ऐसा लगा कि वह रेस जीत जाएगा।", "Milkha Singh aage tha. Aisa laga ki woh race jeet jaayega."]},
+        {"book": true, "fb": ["We couldn't play the match because of heavy rains. We ___ until the rain stopped.", "waited", ["waited", "wait", "waits"], "भारी बारिश की वजह से हम मैच नहीं खेल सके। हम बारिश रुकने तक इंतज़ार करते रहे।", "Bhaari baarish ki wajah se hum match nahi khel sake. Hum baarish rukne tak intezaar karte rahe."]},
+        {"book": true, "fb": ["Kamal is the 800 metre champion. So far he has ___ many races and never lost any.", "won", ["won", "win", "winning"], "कमल 800 मीटर का चैंपियन है। अब तक वह कई रेस जीत चुका है।", "Kamal 800 metre ka champion hai. Ab tak woh kai race jeet chuka hai."]},
+        {"card": ["Prepositions छोटे शब्द हैं जो जगह या तरीका बताते हैं: on (ऊपर), in (अंदर), into (अंदर की तरफ़ जाते हुए), across (आर-पार), with (के साथ), to (की ओर), by (से, जैसे by bus)।", "Prepositions chhote shabd hain jo jagah ya tareeka bataate hain: on (upar), in (andar), into (andar ki taraf jaate hue), across (aar-paar), with (ke saath), to (ki or), by (se, jaise by bus).", "Prepositions are small words for place or way: on, in, into, across, with, to, by (as in by bus)."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["We should not write ___ walls.", "on", ["on", "into", "by"], "हमें दीवारों पर नहीं लिखना चाहिए।", "Humein deewaaron par nahi likhna chahiye."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["There is plenty of water ___ the jug.", "in", ["in", "across", "with"], "जग में बहुत पानी है।", "Jug mein bahut paani hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["Children are playing ___ a football.", "with", ["with", "on", "across"], "बच्चे फ़ुटबॉल से खेल रहे हैं।", "Bachche football se khel rahe hain."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["Ashu drew a line ___ the page.", "across", ["across", "into", "with"], "आशु ने पन्ने के आर-पार एक लाइन खींची।", "Ashu ne panne ke aar-paar ek line kheenchi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["Abu jumped ___ the river.", "into", ["into", "on", "by"], "अबू नदी में कूद गया।", "Abu nadi mein kood gaya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["We go ___ school by bus.", "to", ["to", "on", "with"], "हम बस से स्कूल जाते हैं।", "Hum bus se school jaate hain."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["We go to school ___ bus.", "by", ["by", "in", "across"], "हम बस से स्कूल जाते हैं।", "Hum bus se school jaate hain."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["Mehak kept the book ___ her bag.", "in", ["in", "on", "across"], "महक ने किताब अपने बैग में रखी।", "Mehak ne kitaab apne bag mein rakhi."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: दोस्त के बारे में पूछो", "Chalo baat karein: dost ke baare mein poochho", "Let's Talk: ask your friend"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब कहती है: दोस्तों से सवाल पूछकर तालिका भरो। आज मैं तुमसे वही सवाल पूछता हूँ, तुम अपने बारे में बताओ।", "Kitaab kehti hai: doston se sawaal poochhkar taalika bharo. Aaj main tumse wahi sawaal poochhta hoon, tum apne baare mein batao.", "The book says: ask your friends questions and fill the table. Today I'll ask you the same questions; tell me about yourself."]},
+        {"book": true, "type": "roleplay", "scene": "📋", "turns": [
+          {"id": "join", "tinku": "When did you join the school?", "meaning": ["तुमने स्कूल में दाख़िला कब लिया?", "Tumne school mein daakhila kab liya?"],
+            "replies": [{"say": "I joined the school in 2020.", "meaning": ["मैंने 2020 में स्कूल में दाख़िला लिया। (अपना साल बोलो)", "Maine 2020 mein school mein daakhila liya. (Apna saal bolo)"], "patterns": ["i joined the school in *", "i joined *", "in *", "*", "* *"]}]},
+          {"id": "game", "tinku": "What game do you like to play?", "meaning": ["तुम्हें कौन सा खेल खेलना पसंद है?", "Tumhe kaun sa khel khelna pasand hai?"],
+            "replies": [{"say": "I like to play kabaddi.", "meaning": ["मुझे कबड्डी खेलना पसंद है।", "Mujhe kabaddi khelna pasand hai."], "patterns": ["i like to play *", "i like *", "*", "* *"]}]},
+          {"id": "colour", "tinku": "What colour do you like the most?", "meaning": ["तुम्हें कौन सा रंग सबसे ज़्यादा पसंद है?", "Tumhe kaun sa rang sabse zyaada pasand hai?"],
+            "replies": [{"say": "I like blue the most.", "meaning": ["मुझे नीला सबसे ज़्यादा पसंद है।", "Mujhe neela sabse zyaada pasand hai."], "patterns": ["i like *", "*", "* *"]}]},
+          {"id": "subject", "tinku": "What's your favourite subject?", "meaning": ["तुम्हारा पसंदीदा विषय कौन सा है?", "Tumhara pasandeeda vishay kaun sa hai?"],
+            "replies": [{"say": "My favourite subject is Science.", "meaning": ["मेरा पसंदीदा विषय विज्ञान है।", "Mera pasandeeda vishay vigyaan hai."], "patterns": ["my favourite subject is *", "*", "* *"]}]},
+          {"id": "fruit", "tinku": "Which fruit do you like the most?", "meaning": ["तुम्हें कौन सा फल सबसे ज़्यादा पसंद है?", "Tumhe kaun sa phal sabse zyaada pasand hai?"],
+            "replies": [{"say": "I like mangoes the most.", "meaning": ["मुझे आम सबसे ज़्यादा पसंद हैं।", "Mujhe aam sabse zyaada pasand hain."], "patterns": ["i like *", "*", "* *"]}]},
+          {"id": "birth", "tinku": "What's your date of birth?", "meaning": ["तुम्हारी जन्म तिथि क्या है?", "Tumhari janm tithi kya hai?"],
+            "replies": [{"say": "My date of birth is 14th November.", "meaning": ["मेरी जन्म तिथि 14 नवंबर है। (अपनी तारीख़ बोलो)", "Meri janm tithi 14 November hai. (Apni taareekh bolo)"], "patterns": ["my date of birth is *", "*", "* *", "* * *"], "next": "end"}]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: तालिका से वाक्य और चिट्ठी", "Chalo likhein: taalika se vaakya aur chitthi", "Let's Write: sentences from a table, and a letter"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब की तालिका में आशु के बारे में लिखा है: 1998 में स्कूल आया, क्रिकेट, नीला रंग, विज्ञान, केला, 14 नवंबर 1993। इससे वाक्य बनाओ।", "Kitaab ki taalika mein Ashu ke baare mein likha hai: 1998 mein school aaya, cricket, neela rang, vigyaan, kela, 14 November 1993. Isse vaakya banao.", "The book's table says about Ashu: joined in 1998, cricket, blue, science, banana, 14th November 1993. Make sentences from it."]},
+        {"book": true, "build": ["तालिका: Joined school in 1998", "Taalika: Joined school in 1998", "Table: joined school in 1998", "Ashu joined the school in the year 1998.", "आशु ने 1998 में स्कूल में दाख़िला लिया।", "Ashu ne 1998 mein school mein daakhila liya."]},
+        {"book": true, "build": ["तालिका: Game – cricket", "Taalika: Game – cricket", "Table: game – cricket", "He likes to play cricket.", "उसे क्रिकेट खेलना पसंद है।", "Use cricket khelna pasand hai.", ["plays"]]},
+        {"book": true, "build": ["तालिका: Subject – Science", "Taalika: Subject – Science", "Table: subject – Science", "His favourite subject is Science.", "उसका पसंदीदा विषय विज्ञान है।", "Uska pasandeeda vishay vigyaan hai."]},
+        {"book": true, "build": ["तालिका: Fruit – banana", "Taalika: Fruit – banana", "Table: fruit – banana", "His favourite fruit is banana.", "उसका पसंदीदा फल केला है।", "Uska pasandeeda phal kela hai."]},
+        {"card": ["किताब का दूसरा सवाल: दोस्त को स्कूल के खेल-कूद के बारे में चिट्ठी। ढाँचा: (ऊपर दाईं ओर) तुम्हारा पता और तारीख़। Dear Rahul, I hope you are fine. Last week our school held its Sports Day. ... I won the 100 metre race! ... With love, (तुम्हारा नाम)।", "Kitaab ka doosra sawaal: dost ko school ke khel-kood ke baare mein chitthi. Dhaancha: (upar daayin or) tumhara pata aur taareekh. Dear Rahul, I hope you are fine. Last week our school held its Sports Day. ... I won the 100 metre race! ... With love, (tumhara naam).", "The book's second task: a letter to a friend about a sports event at school. Format: your address and the date at the top right. Dear Rahul, I hope you are fine. Last week our school held its Sports Day. ... I won the 100 metre race! ... With love, (your name)."]},
+        {"book": true, "build": ["चिट्ठी की शुरुआत: मुझे उम्मीद है तुम ठीक हो।", "Chitthi ki shuruaat: mujhe ummeed hai tum theek ho.", "Start of the letter: say you hope your friend is fine.", "I hope you are fine.", "मुझे उम्मीद है तुम ठीक हो।", "Mujhe ummeed hai tum theek ho."]},
+        {"book": true, "build": ["चिट्ठी: पिछले हफ़्ते हमारे स्कूल में खेल दिवस हुआ।", "Chitthi: pichhle hafte hamare school mein khel diwas hua.", "Letter: say your school held its Sports Day last week.", "Last week our school held its Sports Day.", "पिछले हफ़्ते हमारे स्कूल में खेल दिवस हुआ।", "Pichhle hafte hamare school mein khel diwas hua."]},
+        {"book": true, "build": ["चिट्ठी: मैंने 100 मीटर की दौड़ जीती।", "Chitthi: maine 100 metre ki daud jeeti.", "Letter: say you won the 100 metre race.", "I won the 100 metre race.", "मैंने 100 मीटर की दौड़ जीती।", "Maine 100 metre ki daud jeeti.", ["win"]]},
+        {"q": ["How do we end a letter to a friend?", "दोस्त को चिट्ठी कैसे ख़त्म करते हैं?", "Dost ko chitthi kaise khatm karte hain?", ["With love, (your name)", "Yours obediently,", "To, The Principal"], "With love, (your name)"]}
+      ]
+    },
+    {
+      "emoji": "📰", "title": ["चलो करके देखें: अख़बार पढ़ना", "Chalo karke dekhein: akhbaar padhna", "Let's Do It: reading the newspaper"], "book": true,
+      "skills": ["book.activity", "read.understand"],
+      "steps": [
+        {"card": ["किताब के पेज 61 पर चार ख़बरें हैं, पर उनकी हेडलाइन मिल गई हैं। हर ख़बर पढ़ो और सही हेडलाइन जोड़ो। हेडलाइन = ख़बर का छोटा शीर्षक।", "Kitaab ke page 61 par chaar khabrein hain, par unki headline mil gayi hain. Har khabar padho aur sahi headline jodo. Headline = khabar ka chhota sheershak.", "Page 61 of your book has four news items with mixed-up headlines. Read each one and join it to the right headline. A headline is the short title of a news item."]},
+        {"book": true, "pairs": ["हर हेडलाइन को उसकी ख़बर से जोड़ो", "Har headline ko uski khabar se jodo", "Match each headline with its news item", [
+          ["Indians make junior golf final", "An Indian team won its qualifier and reached the World Junior golf finals.", "भारत की टीम जूनियर गोल्फ़ फ़ाइनल में", "Bharat ki team junior golf final mein"],
+          ["MP tableau thrills kids", "MP's Mowgli tableau at the Republic Day parade delighted the children.", "मध्य प्रदेश की झाँकी ने बच्चों को रोमांचित किया", "Madhya Pradesh ki jhaanki ne bachchon ko romaanchit kiya"],
+          ["Lok Adalat on Jan 30", "A Lok Adalat will be held at the Bhopal District Court to settle cases.", "30 जनवरी को लोक अदालत", "30 January ko Lok Adalat"],
+          ["Cabinet approves Governor's address", "The State Cabinet, chaired by the Chief Minister, approved the Governor's speech.", "कैबिनेट ने राज्यपाल का भाषण मंज़ूर किया", "Cabinet ne Rajyapaal ka bhaashan manzoor kiya"]]]},
+        {"q": ["Mowgli is the hero of which famous book?", "मोगली किस मशहूर किताब का हीरो है?", "Mowgli kis mashhoor kitaab ka hero hai?", ["The Jungle Book", "The Lost Camel", "Panchatantra"], "The Jungle Book", "Mowgli is the hero of Rudyard Kipling's The Jungle Book. Its forest is the Pench forest of Madhya Pradesh.", "मोगली रुडयार्ड किपलिंग की ‘द जंगल बुक’ का हीरो है। उसका जंगल मध्य प्रदेश का पेंच है।", "Mowgli Rudyard Kipling ki ‘The Jungle Book’ ka hero hai. Uska jangal Madhya Pradesh ka Pench hai."]},
+        {"q": ["What is a headline?", "हेडलाइन क्या होती है?", "Headline kya hoti hai?", ["the short title of a news item", "the last line of a letter", "a long story"], "the short title of a news item"]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: ओलंपिक और खेल", "Aur seekho: Olympic aur khel", "Learn more: the Olympics and sports"], "book": false,
+      "skills": ["vocab.meaning"],
+      "steps": [
+        {"pairs": ["खेल के शब्द जोड़ो", "Khel ke shabd jodo", "Join the sports words to their meanings", [
+          ["medal", "a metal prize for the winner", "पदक", "padak"],
+          ["trophy", "a cup given to the winner", "ट्रॉफ़ी, जीत का कप", "trophy, jeet ka cup"],
+          ["referee", "the person who makes sure the rules are followed", "रेफ़री", "referee"],
+          ["stadium", "a big ground with seats for watching sports", "स्टेडियम", "stadium"],
+          ["team", "a group of players who play together", "टीम", "team"]]]},
+        {"q": ["How many rings are there on the Olympic flag?", "ओलंपिक झंडे पर कितने छल्ले हैं?", "Olympic jhande par kitne chhalle hain?", ["five", "three", "seven"], "five", "The Olympic flag has five rings. They stand for five parts of the world.", "ओलंपिक झंडे पर पाँच छल्ले हैं। ये दुनिया के पाँच हिस्सों के लिए हैं।", "Olympic jhande par paanch chhalle hain. Yeh duniya ke paanch hisson ke liye hain."]},
+        {"q": ["Which Indian won a gold medal in javelin throw at the Tokyo Olympics?", "टोक्यो ओलंपिक में भाला फेंक का स्वर्ण पदक किस भारतीय ने जीता?", "Tokyo Olympic mein bhaala phenk ka swarn padak kis Bhaarateeya ne jeeta?", ["Neeraj Chopra", "Sachin Tendulkar", "Milkha Singh"], "Neeraj Chopra", "Neeraj Chopra won a gold medal in javelin throw at the Tokyo Olympics.", "नीरज चोपड़ा ने टोक्यो ओलंपिक में भाला फेंक का स्वर्ण पदक जीता।", "Neeraj Chopra ne Tokyo Olympic mein bhaala phenk ka swarn padak jeeta."]},
+        {"q": ["What made Bobby Pearce a true champion?", "बॉबी पियर्स को सच्चा चैंपियन क्या बनाता है?", "Bobby Pearce ko sachcha champion kya banaata hai?", ["He was kind to the ducklings and still won.", "He was very rich.", "He never practised."], "He was kind to the ducklings and still won.", "Bobby was a true champion because he was kind and still won the race.", "बॉबी सच्चा चैंपियन था क्योंकि वह दयालु था और फिर भी रेस जीता।", "Bobby sachcha champion tha kyonki woh dayaalu tha aur phir bhi race jeeta."]},
+        {"fb": ["Our school team won a big ___ at the sports meet.", "trophy", ["trophy", "referee", "stadium"], "हमारी स्कूल टीम ने खेल प्रतियोगिता में एक बड़ी ट्रॉफ़ी जीती।", "Hamari school team ne khel pratiyogita mein ek badi trophy jeeti."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 8 का टेस्ट", "Paath 8 ka test", "Lesson 8 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Who won a gold medal for rowing in the Olympic Games of 1928?", "1928 में नाव-दौड़ का स्वर्ण पदक किसने जीता?", "1928 mein naav-daud ka swarn padak kisne jeeta?", ["Bobby Pearce", "Ken Myers", "Milkha Singh"], "Bobby Pearce"]},
+        {"book": true, "q": ["What caused Bobby to slow down in the middle of the race?", "बॉबी ने रफ़्तार क्यों कम की?", "Bobby ne raftaar kyon kam ki?", ["A duck and her ducklings were swimming across his path.", "His boat broke.", "He was tired."], "A duck and her ducklings were swimming across his path."]},
+        {"book": true, "tf": ["The people on the bank were silent.", "किनारे पर लोग चुप थे।", "Kinaare par log chup the.", false]},
+        {"book": true, "tf": ["At the age of six, Bobby won the first race.", "छह साल में पहली रेस जीती।", "Chhah saal mein pehli race jeeti.", true]},
+        {"book": true, "skills": ["book.words"], "q": ["swan → ?", "हंस का बच्चा?", "Hans ka bachcha?", ["cygnet", "owlet", "piglet"], "cygnet"]},
+        {"book": true, "skills": ["book.words"], "q": ["river → ?", "छोटी नदी?", "Chhoti nadi?", ["rivulet", "riverette", "riverling"], "rivulet"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["Our Indian Cricket Team ___ the World Cup in 1983.", "won", ["won", "win", "wins"], "भारतीय टीम ने 1983 में वर्ल्ड कप जीता।", "Bharatiya team ne 1983 mein World Cup jeeta."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["Abu jumped ___ the river.", "into", ["into", "on", "by"], "अबू नदी में कूद गया।", "Abu nadi mein kood gaya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["Ashu drew a line ___ the page.", "across", ["across", "into", "with"], "आशु ने पन्ने के आर-पार लाइन खींची।", "Ashu ne panne ke aar-paar line kheenchi."]},
+        {"book": true, "skills": ["book.activity"], "q": ["‘MP tableau thrills kids’ is the headline of the news about ...", "‘MP tableau thrills kids’ किस ख़बर की हेडलाइन है?", "‘MP tableau thrills kids’ kis khabar ki headline hai?", ["the Mowgli tableau at the Republic Day parade", "a golf match", "a court in Bhopal"], "the Mowgli tableau at the Republic Day parade"]}
+      ]
+    }
+  ]
+}

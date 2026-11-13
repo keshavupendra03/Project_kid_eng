@@ -32,9 +32,60 @@ class ContentValidationTest {
         val words = ContentJson.decodeFromString<WordPowerFile>(File(root, "wordpower.json").readText())
         val wordLessons = words.bands.flatMap { b -> b.packs.flatMap { listOf(it.id, it.testId) } } + words.placement
         wordLessons.forEach { if (!File(root, "lessons/$it.json").exists()) problems += "$it: listed in wordpower.json but file is missing" }
-        val listed = (levels + reading).flatMap { l -> l.lessons.map { it.id } }.toSet() + wordLessons
-        lessonFiles.forEach { if (it.nameWithoutExtension !in listed) problems += "${it.name}: not listed in levels.json, reading.json or wordpower.json" }
+        val book = ContentJson.decodeFromString<BookFile>(File(root, "book.json").readText())
+        val bookLessons = book.classes.flatMap { c -> c.chapters.flatMap { ch -> ch.sections.map { it.id } } }
+        bookLessons.forEach {
+            if (!File(root, "lessons/$it.json").exists()) problems += "$it: listed in book.json but file is missing"
+            if (!it.isBookLesson) problems += "$it: textbook sections must be named B<class>.<chapter>.<section>"
+        }
+        val listed = (levels + reading).flatMap { l -> l.lessons.map { it.id } }.toSet() + wordLessons + bookLessons
+        lessonFiles.forEach { if (it.nameWithoutExtension !in listed) problems += "${it.name}: not listed in levels.json, reading.json, wordpower.json or book.json" }
         assertNoProblems(problems)
+    }
+
+    /** Textbook chapters: sections in order, book questions that exist, crosswords whose words really cross. */
+    @Test
+    fun bookChaptersAreWellFormed() {
+        val book = ContentJson.decodeFromString<BookFile>(File(root, "book.json").readText())
+        val problems = mutableListOf<String>()
+        book.classes.forEach { cls ->
+            if (cls.grade !in 6..8) problems += "class ${cls.grade}: the textbook chapters are for Classes 6-8"
+            cls.chapters.forEach { chapter ->
+                if (chapter.id != "B${cls.grade}.%02d".format(chapter.number)) problems += "${chapter.id}: id doesn't match class ${cls.grade}, lesson ${chapter.number}"
+                if (chapter.sections.count { it.test } != 1 || !chapter.sections.last().test) problems += "${chapter.id}: needs exactly one test, at the end"
+                chapter.sections.forEach { section ->
+                    section.title.check("${section.id} title", problems)
+                    if (section.id.bookChapterId != chapter.id) problems += "${section.id}: not in chapter ${chapter.id}"
+                    val file = File(root, "lessons/${section.id}.json")
+                    if (!file.exists()) return@forEach
+                    val lesson = ContentJson.decodeFromString<Lesson>(file.readText())
+                    if (lesson.level != cls.grade) problems += "${section.id}: level should be the class, ${cls.grade}"
+                    val ids = lesson.steps.map { it.id }.toSet()
+                    lesson.bookSteps.forEach { if (it !in ids) problems += "${section.id}: book step $it doesn't exist" }
+                    lesson.bookSteps.forEach { id -> if (lesson.steps.first { it.id == id }.let { !it.isQuestion }) problems += "$id: only questions can be marked as book questions" }
+                    if (section.book && lesson.bookSteps.isEmpty()) problems += "${section.id}: a book section has no book questions"
+                    if (lesson.steps.none { it.isQuestion }) problems += "${section.id}: no questions"
+                    lesson.steps.filterIsInstance<Crossword>().forEach { checkCrossword(it, problems) }
+                }
+            }
+        }
+        assertNoProblems(problems)
+    }
+
+    private fun checkCrossword(step: Crossword, problems: MutableList<String>) {
+        val grid = mutableMapOf<Pair<Int, Int>, Char>()
+        step.entries.forEach { entry ->
+            if (step.entries.count { it.number == entry.number } > 1) problems += "${step.id}: number ${entry.number} used twice"
+            if (entry.clue.split(BLANK).size != 2) problems += "${step.id}/${entry.number}: clue needs exactly one $BLANK"
+            if (!entry.answer.all { it.isLetter() }) problems += "${step.id}/${entry.number}: only letters fit in the grid"
+            entry.cells.forEachIndexed { i, cell ->
+                if (cell.first !in 0 until step.rows || cell.second !in 0 until step.cols) problems += "${step.id}/${entry.number}: runs off the grid"
+                val letter = entry.answer[i].lowercaseChar()
+                val before = grid.put(cell, letter)
+                if (before != null && before != letter) problems += "${step.id}/${entry.number}: '$letter' crosses '$before' at $cell"
+            }
+        }
+        if (step.entries.none { !it.given }) problems += "${step.id}: nothing to solve"
     }
 
     /**
@@ -257,6 +308,18 @@ class ContentValidationTest {
                 if (step.sentences.none { it.isNotBlank() }) problems += "$id: nothing to read"
                 if (step.sentences.firstOrNull().isNullOrBlank() || step.sentences.lastOrNull().isNullOrBlank()) problems += "$id: passage starts or ends with a blank line"
                 step.words.forEach { if (it.english.isBlank() || it.hindi.isNullOrBlank()) problems += "$id: key word needs English and Hindi" }
+                // Book poems must say what every line means; elsewhere it is optional but must line up.
+                if (id.startsWith("B") && step.lineMeanings.isEmpty()) problems += "$id: book poem needs a meaning for each line"
+                if (step.lineMeanings.isNotEmpty()) {
+                    if (step.lineMeanings.size != step.sentences.size) {
+                        problems += "$id: ${step.lineMeanings.size} line meanings for ${step.sentences.size} lines"
+                    } else {
+                        step.sentences.zip(step.lineMeanings).forEachIndexed { n, (line, m) ->
+                            if (line.isBlank() != (m.hi.isBlank() && m.hinglish.isBlank())) problems += "$id: line ${n + 1} meaning doesn't match a line"
+                            else if (line.isNotBlank()) m.check("$id line ${n + 1}", problems)
+                        }
+                    }
+                }
             }
             is StoryQuestion -> {
                 step.question.check(id, problems)
@@ -268,6 +331,40 @@ class ContentValidationTest {
                 step.exampleMeaning?.check(id, problems) ?: run { problems += "$id: the example has no Hindi meaning" }
             }
             is SpellWord -> if (!step.word.english.all { it.isLetter() }) problems += "$id: only letters can be spelled with tiles or typing"
+            is Choice -> {
+                if (step.question.isBlank()) problems += "$id: no question"
+                checkOptions(id, step.answer, step.options, problems)
+                if (step.emojis.isNotEmpty() && step.emojis.size != step.options.size) problems += "$id: needs one picture per option, or none"
+                step.questionMeaning?.check(id, problems)
+                if ((step.modelAnswer == null) != (step.modelMeaning == null)) problems += "$id: an exam answer needs its Hindi meaning"
+                step.modelMeaning?.check(id, problems)
+            }
+            is MatchPairs -> {
+                step.instruction.check(id, problems)
+                if (step.pairs.size !in 3..8) problems += "$id: needs 3-8 pairs"
+                if (step.pairs.map { it.left }.toSet().size != step.pairs.size) problems += "$id: a word appears twice"
+                if (step.pairs.map { it.right }.toSet().size != step.pairs.size) problems += "$id: a meaning appears twice"
+                step.pairs.forEach { it.meaning?.check(id, problems) }
+            }
+            is Crossword -> Unit // Checked in bookChaptersAreWellFormed.
+            is SortGroups -> {
+                step.instruction.check(id, problems)
+                val groups = step.groups.map { it.id }.toSet()
+                if (groups.size != step.groups.size) problems += "$id: duplicate group"
+                step.groups.forEach { it.meaning.check(id, problems) }
+                step.items.forEach { item ->
+                    if (item.groups.isEmpty() || item.groups.any { it !in groups }) problems += "$id: '${item.text}' points to a missing group"
+                }
+                if (step.items.map { it.text }.toSet().size != step.items.size) problems += "$id: an item appears twice"
+            }
+            is BuildSentence -> {
+                step.prompt.check(id, problems)
+                step.meaning.check(id, problems)
+                if (step.tiles.size < 2) problems += "$id: a sentence needs at least 2 words"
+                if (step.extra.any { it in step.tiles }) problems += "$id: an extra tile is also in the answer"
+                // The English prompt must not give the answer away.
+                if (step.prompt.en.contains(step.answer)) problems += "$id: the English prompt contains the answer"
+            }
         }
     }
 

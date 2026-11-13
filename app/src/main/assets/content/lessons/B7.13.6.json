@@ -1,0 +1,190 @@
+{
+  "id": "B7.13.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.13.6.S02",
+    "B7.13.6.S03",
+    "B7.13.6.S04",
+    "B7.13.6.S05",
+    "B7.13.6.S06",
+    "B7.13.6.S07",
+    "B7.13.6.S08",
+    "B7.13.6.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.13.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब के पेज 99-100 पर सोनम और उसके पापा की फ़ोन पर बातचीत पढ़ो। मोंटू कल भोपाल आ रहा है। अब सोनम का पैराग्राफ़ पूरा करो।",
+        "hinglish": "Kitaab ke page 99-100 par Sonam aur uske papa ki phone par baatcheet padho. Montu kal Bhopal aa raha hai. Ab Sonam ka paragraph poora karo.",
+        "en": "Read the phone talk between Sonam and her father on pages 99–100. Montu is coming to Bhopal tomorrow. Now complete Sonam's paragraph."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "I'll ___ Montu at Habibganj railway station.",
+      "answer": "receive",
+      "options": [
+        "receive",
+        "leave",
+        "bring"
+      ],
+      "meaning": {
+        "hi": "मैं मोंटू को हबीबगंज स्टेशन पर लेने जाऊँगी।",
+        "hinglish": "Main Montu ko Habibganj station par lene jaaungi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "I'll receive Montu at ___ railway station.",
+      "answer": "Habibganj",
+      "options": [
+        "Habibganj",
+        "Delhi",
+        "Arera Colony"
+      ],
+      "meaning": {
+        "hi": "मैं मोंटू को हबीबगंज रेलवे स्टेशन पर लूँगी।",
+        "hinglish": "Main Montu ko Habibganj railway station par loongi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "Then I'll ___ Montu to our house at Professors' Colony.",
+      "answer": "bring",
+      "options": [
+        "bring",
+        "receive",
+        "have"
+      ],
+      "meaning": {
+        "hi": "फिर मैं मोंटू को प्रोफ़ेसर्स कॉलोनी वाले घर ले आऊँगी।",
+        "hinglish": "Phir main Montu ko Professors' Colony waale ghar le aaungi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "We'll then ___ breakfast.",
+      "answer": "have",
+      "options": [
+        "have",
+        "leave",
+        "receive"
+      ],
+      "meaning": {
+        "hi": "फिर हम नाश्ता करेंगे।",
+        "hinglish": "Phir hum naashta karenge."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "Then we'll ___ for the NIIT computer centre.",
+      "answer": "leave",
+      "options": [
+        "leave",
+        "bring",
+        "have"
+      ],
+      "meaning": {
+        "hi": "फिर हम एनआईआईटी कंप्यूटर सेंटर के लिए निकलेंगे।",
+        "hinglish": "Phir hum NIIT computer centre ke liye niklenge."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.6.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "Montu will then take his ___.",
+      "answer": "test",
+      "options": [
+        "test",
+        "luggage",
+        "train"
+      ],
+      "meaning": {
+        "hi": "फिर मोंटू अपना टेस्ट देगा।",
+        "hinglish": "Phir Montu apna test dega."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.6.S08",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "He will be free by ___.",
+      "answer": "5 p.m.",
+      "options": [
+        "5 p.m.",
+        "9.30 a.m.",
+        "7.30 p.m."
+      ],
+      "meaning": {
+        "hi": "वह शाम 5 बजे तक फ़्री हो जाएगा।",
+        "hinglish": "Woh shaam 5 baje tak free ho jaayega."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.13.6.S09",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "We will pick up his ___ and then go to the main station at Bhopal.",
+      "answer": "luggage",
+      "options": [
+        "luggage",
+        "test",
+        "breakfast"
+      ],
+      "meaning": {
+        "hi": "हम उसका सामान लेंगे और फिर भोपाल के मुख्य स्टेशन जाएँगे।",
+        "hinglish": "Hum uska saamaan lenge aur phir Bhopal ke mukhya station jaayenge."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.6.S10",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "At what time does Montu's train to Delhi leave?",
+      "questionMeaning": {
+        "hi": "मोंटू की दिल्ली वाली ट्रेन कब छूटेगी?",
+        "hinglish": "Montu ki Delhi waali train kab chhootegi?"
+      },
+      "options": [
+        "7.30 p.m.",
+        "9.30 a.m.",
+        "5 p.m."
+      ],
+      "answer": "7.30 p.m."
+    }
+  ]
+}

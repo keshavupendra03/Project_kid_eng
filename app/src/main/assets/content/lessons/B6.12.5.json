@@ -1,0 +1,175 @@
+{
+  "id": "B6.12.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.12.5.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.12.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब: दोस्तों से पता करो किसने ये काम किए हैं। जवाब: Yes, I have. / No, I haven't.",
+        "hinglish": "Kitaab: doston se pata karo kisne yeh kaam kiye hain. Jawab: Yes, I have. / No, I haven't.",
+        "en": "The book: find out who has done these things. Answer: Yes, I have. / No, I haven't."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.12.5.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🐍",
+      "turns": [
+        {
+          "id": "snake",
+          "tinku": "Have you ever seen a snake?",
+          "meaning": {
+            "hi": "क्या तुमने कभी साँप देखा है?",
+            "hinglish": "Kya tumne kabhi saanp dekha hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have.",
+              "meaning": {
+                "hi": "हाँ, देखा है।",
+                "hinglish": "Haan, dekha hai."
+              },
+              "patterns": [
+                "yes i have",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I haven't.",
+              "meaning": {
+                "hi": "नहीं, नहीं देखा।",
+                "hinglish": "Nahi, nahi dekha."
+              },
+              "patterns": [
+                "no i havent",
+                "no i have not",
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "taj",
+          "tinku": "Have you visited the Taj Mahal?",
+          "meaning": {
+            "hi": "क्या तुम ताजमहल गए हो?",
+            "hinglish": "Kya tum Taj Mahal gaye ho?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have.",
+              "meaning": {
+                "hi": "हाँ, गया/गई हूँ।",
+                "hinglish": "Haan, gaya/gayi hoon."
+              },
+              "patterns": [
+                "yes i have",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I haven't.",
+              "meaning": {
+                "hi": "नहीं, नहीं गया/गई।",
+                "hinglish": "Nahi, nahi gaya/gayi."
+              },
+              "patterns": [
+                "no i havent",
+                "no i have not",
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "boat",
+          "tinku": "Have you sailed in a boat?",
+          "meaning": {
+            "hi": "क्या तुमने नाव में सैर की है?",
+            "hinglish": "Kya tumne naav mein sair ki hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have.",
+              "meaning": {
+                "hi": "हाँ, की है।",
+                "hinglish": "Haan, ki hai."
+              },
+              "patterns": [
+                "yes i have",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I haven't.",
+              "meaning": {
+                "hi": "नहीं, नहीं की।",
+                "hinglish": "Nahi, nahi ki."
+              },
+              "patterns": [
+                "no i havent",
+                "no i have not",
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "help",
+          "tinku": "Have you helped someone in need?",
+          "meaning": {
+            "hi": "क्या तुमने किसी ज़रूरतमंद की मदद की है?",
+            "hinglish": "Kya tumne kisi zaroorat-mand ki madad ki hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have.",
+              "meaning": {
+                "hi": "हाँ, की है।",
+                "hinglish": "Haan, ki hai."
+              },
+              "patterns": [
+                "yes i have",
+                "yes *",
+                "yes"
+              ],
+              "next": "end"
+            },
+            {
+              "say": "No, I haven't.",
+              "meaning": {
+                "hi": "नहीं, नहीं की।",
+                "hinglish": "Nahi, nahi ki."
+              },
+              "patterns": [
+                "no i havent",
+                "no i have not",
+                "no *",
+                "no"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

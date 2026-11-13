@@ -1,0 +1,250 @@
+{
+  "id": "B8.11.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.11.3.S02",
+    "B8.11.3.S03",
+    "B8.11.3.S04",
+    "B8.11.3.S05",
+    "B8.11.3.S06",
+    "B8.11.3.S07",
+    "B8.11.3.S08",
+    "B8.11.3.S09",
+    "B8.11.3.S10",
+    "B8.11.3.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.11.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 91-93 पर मयंक की चिट्ठी पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 91-93 par Mayank ki chitthi padho, phir jawab do.",
+        "en": "Read Mayank's letter on pages 91–93 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where does Mayank live?",
+      "questionMeaning": {
+        "hi": "मयंक कहाँ रहता है?",
+        "hinglish": "Mayank kahan rehta hai?"
+      },
+      "options": [
+        "in Kevadeshwar village, District Indore",
+        "in Itarsi",
+        "in Bhopal city"
+      ],
+      "answer": "in Kevadeshwar village, District Indore",
+      "modelAnswer": "Mayank lives in a small village, Kevadeshwar, in Indore district.",
+      "modelMeaning": {
+        "hi": "मयंक इंदौर ज़िले के एक छोटे गाँव केवडेश्वर में रहता है।",
+        "hinglish": "Mayank Indore zile ke ek chhote gaanv Kevadeshwar mein rehta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who wrote a letter to Priya and why?",
+      "questionMeaning": {
+        "hi": "प्रिया को चिट्ठी किसने और क्यों लिखी?",
+        "hinglish": "Priya ko chitthi kisne aur kyon likhi?"
+      },
+      "options": [
+        "Mayank, to tell her about the water conservation programme",
+        "Her teacher, about exams",
+        "Her father, about a holiday"
+      ],
+      "answer": "Mayank, to tell her about the water conservation programme",
+      "modelAnswer": "Mayank wrote the letter to Priya in reply to her letter, to tell her about the water conservation programme in his village.",
+      "modelMeaning": {
+        "hi": "मयंक ने प्रिया की चिट्ठी के जवाब में उसे गाँव के जल संरक्षण कार्यक्रम के बारे में बताने के लिए लिखी।",
+        "hinglish": "Mayank ne Priya ki chitthi ke jawab mein use gaanv ke jal sanrakshan kaaryakram ke baare mein bataane ke liye likhi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What programme was launched in the village?",
+      "questionMeaning": {
+        "hi": "गाँव में कौन सा कार्यक्रम शुरू हुआ?",
+        "hinglish": "Gaanv mein kaun sa kaaryakram shuru hua?"
+      },
+      "options": [
+        "a water conservation programme",
+        "a sports programme",
+        "a tree-cutting programme"
+      ],
+      "answer": "a water conservation programme"
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is meant by the word ‘conservation’?",
+      "questionMeaning": {
+        "hi": "‘conservation’ का मतलब?",
+        "hinglish": "‘conservation’ ka matlab?"
+      },
+      "options": [
+        "to save something, like water, energy or soil",
+        "to waste water",
+        "to build cities"
+      ],
+      "answer": "to save something, like water, energy or soil",
+      "modelAnswer": "Conservation literally means to save something. It may be water, energy, soil or some species of animals and plants.",
+      "modelMeaning": {
+        "hi": "संरक्षण का मतलब है किसी चीज़ को बचाना, जैसे पानी, ऊर्जा, मिट्टी या जीव-जंतु और पौधे।",
+        "hinglish": "Sanrakshan ka matlab hai kisi cheez ko bachaana, jaise paani, oorja, mitti ya jeev-jantu aur paudhe."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why do the villagers migrate to cities and towns?",
+      "questionMeaning": {
+        "hi": "गाँव वाले शहर क्यों जाते हैं?",
+        "hinglish": "Gaanv waale shahar kyon jaate hain?"
+      },
+      "options": [
+        "Without water, crops fail, so they go in search of work.",
+        "To watch films.",
+        "Because cities have rivers."
+      ],
+      "answer": "Without water, crops fail, so they go in search of work.",
+      "modelAnswer": "When there is no water, crops fail and there is a shortage of food. So the villagers migrate to cities and towns in search of work.",
+      "modelMeaning": {
+        "hi": "पानी न होने से फ़सलें ख़राब होती हैं और अनाज की कमी होती है, इसलिए गाँव वाले काम की तलाश में शहर जाते हैं।",
+        "hinglish": "Paani na hone se fasalein kharaab hoti hain aur anaaj ki kami hoti hai, isliye gaanv waale kaam ki talaash mein shahar jaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What are we trying to do under the water conservation programme?",
+      "questionMeaning": {
+        "hi": "जल संरक्षण कार्यक्रम में क्या कर रहे हैं?",
+        "hinglish": "Jal sanrakshan kaaryakram mein kya kar rahe hain?"
+      },
+      "options": [
+        "harvest rainwater with bunds, ponds, wells and stop dams",
+        "build new roads",
+        "sell water"
+      ],
+      "answer": "harvest rainwater with bunds, ponds, wells and stop dams",
+      "modelAnswer": "We are trying to harvest rainwater: farmers build Medha Bandh and small ponds in fields, old wells and ponds are deepened and cleaned, and stop dams are repaired.",
+      "modelMeaning": {
+        "hi": "हम बारिश का पानी जमा कर रहे हैं: किसान खेतों में मेढ़ बंध और छोटे तालाब बना रहे हैं, पुराने कुएँ-तालाब गहरे और साफ़ हो रहे हैं, और स्टॉप डैम ठीक हो रहे हैं।",
+        "hinglish": "Hum baarish ka paani jama kar rahe hain: kisaan kheton mein medh bandh aur chhote taalaab bana rahe hain, puraane kuen-taalaab gehre aur saaf ho rahe hain, aur stop dam theek ho rahe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "A dam is ...",
+      "questionMeaning": {
+        "hi": "बाँध क्या है?",
+        "hinglish": "Baandh kya hai?"
+      },
+      "options": [
+        "a big wall across a river",
+        "a river",
+        "a pond",
+        "a well"
+      ],
+      "answer": "a big wall across a river"
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "A burning issue means ...",
+      "questionMeaning": {
+        "hi": "ज्वलंत मुद्दा",
+        "hinglish": "Jwalant mudda"
+      },
+      "options": [
+        "an important topic",
+        "a painful topic",
+        "an unwanted topic",
+        "a useless topic"
+      ],
+      "answer": "an important topic"
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.3.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "A ‘slogan’ means ...",
+      "questionMeaning": {
+        "hi": "नारा",
+        "hinglish": "Naara"
+      },
+      "options": [
+        "words giving a message attractively and quickly",
+        "sentences used in advertisements",
+        "dialogues in a film",
+        "a show gun"
+      ],
+      "answer": "words giving a message attractively and quickly"
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.3.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "We receive water for irrigation ...",
+      "questionMeaning": {
+        "hi": "सिंचाई का पानी कहाँ से?",
+        "hinglish": "Sinchaai ka paani kahan se?"
+      },
+      "options": [
+        "through rainfall",
+        "by melting snow",
+        "from the sea",
+        "by dismantling dams"
+      ],
+      "answer": "through rainfall"
+    }
+  ]
+}

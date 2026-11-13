@@ -1,0 +1,203 @@
+{
+  "id": "B8.06.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.06.T.S01",
+    "B8.06.T.S02",
+    "B8.06.T.S03",
+    "B8.06.T.S04",
+    "B8.06.T.S05",
+    "B8.06.T.S06",
+    "B8.06.T.S07",
+    "B8.06.T.S08",
+    "B8.06.T.S09",
+    "B8.06.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.06.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who was given the job of preparing the food?",
+      "questionMeaning": {
+        "hi": "खाना किसने बनाया?",
+        "hinglish": "Khaana kisne banaaya?"
+      },
+      "options": [
+        "a very good carpenter",
+        "a famous cook",
+        "Raja Varma"
+      ],
+      "answer": "a very good carpenter"
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "How did the king realise his mistake?",
+      "questionMeaning": {
+        "hi": "राजा को गलती कैसे समझ आई?",
+        "hinglish": "Raja ko galti kaise samajh aayi?"
+      },
+      "options": [
+        "Raman asked: if an artist can be a chief minister, can't a carpenter be a cook?",
+        "The queen told him.",
+        "Raja Varma told him."
+      ],
+      "answer": "Raman asked: if an artist can be a chief minister, can't a carpenter be a cook?"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.T.S03",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "We dined in ___ surroundings.",
+      "answer": "sumptuous",
+      "options": [
+        "sumptuous",
+        "prominent",
+        "inept"
+      ],
+      "meaning": {
+        "hi": "हमने शानदार माहौल में खाना खाया।",
+        "hinglish": "Humne shaandaar maahaul mein khaana khaaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "livid means ...",
+      "questionMeaning": {
+        "hi": "मतलब",
+        "hinglish": "Matlab"
+      },
+      "options": [
+        "very angry",
+        "very happy",
+        "very tired"
+      ],
+      "answer": "very angry"
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.T.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "question": "You want to know if the train is on time.",
+      "questionMeaning": {
+        "hi": "सवाल बनाओ",
+        "hinglish": "Sawaal banao"
+      },
+      "options": [
+        "Is the train on time?",
+        "Does the train on time?",
+        "The train is on time?"
+      ],
+      "answer": "Is the train on time?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.wh_questions"
+      ],
+      "question": "Ask the boy's age.",
+      "questionMeaning": {
+        "hi": "उम्र पूछो",
+        "hinglish": "Umar poochho"
+      },
+      "options": [
+        "How old are you?",
+        "How old you are?",
+        "How much old are you?"
+      ],
+      "answer": "How old are you?"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "sentence": "I ___ seen him for a while.",
+      "answer": "haven't",
+      "options": [
+        "haven't",
+        "didn't",
+        "wasn't"
+      ],
+      "meaning": {
+        "hi": "मैंने उसे कुछ समय से नहीं देखा।",
+        "hinglish": "Maine use kuchh samay se nahi dekha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "Meera is cooking the dinner. (question)",
+      "questionMeaning": {
+        "hi": "प्रश्नवाचक",
+        "hinglish": "Prashnavaachak"
+      },
+      "options": [
+        "Is Meera cooking the dinner?",
+        "Does Meera cooking the dinner?",
+        "Meera is cooking the dinner?"
+      ],
+      "answer": "Is Meera cooking the dinner?"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.T.S09",
+      "skills": [
+        "book.writing",
+        "grammar.tenses"
+      ],
+      "sentence": "The guard ___ a red flag.",
+      "answer": "is waving",
+      "options": [
+        "is waving",
+        "is waveing",
+        "are waving"
+      ],
+      "meaning": {
+        "hi": "गार्ड लाल झंडी हिला रहा है।",
+        "hinglish": "Guard laal jhandi hila raha hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What do you do if there is a fault in the valve?",
+      "questionMeaning": {
+        "hi": "वाल्व ख़राब हो तो?",
+        "hinglish": "Valve kharaab ho to?"
+      },
+      "options": [
+        "Replace it.",
+        "Pump more air.",
+        "Remove the wheel."
+      ],
+      "answer": "Replace it."
+    }
+  ]
+}

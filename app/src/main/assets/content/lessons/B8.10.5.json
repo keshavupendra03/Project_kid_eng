@@ -1,0 +1,166 @@
+{
+  "id": "B8.10.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.10.5.S02",
+    "B8.10.5.S03",
+    "B8.10.5.S04",
+    "B8.10.5.S05",
+    "B8.10.5.S06",
+    "B8.10.5.S07",
+    "B8.10.5.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.10.5.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 82-83 पर बहरे दोस्त की मज़ेदार कहानी पढ़ो। वह पहले से जवाब सोचकर जाता है, पर बीमार दोस्त के जवाब कुछ और निकलते हैं!",
+        "hinglish": "Apni kitaab mein page 82-83 par behre dost ki mazedaar kahani padho. Woh pehle se jawab sochkar jaata hai, par beemaar dost ke jawab kuchh aur nikalte hain!",
+        "en": "Read the funny story of the deaf friend on pages 82–83. He plans the answers in advance, but his sick friend says something else!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.5.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where did the rich man live?",
+      "questionMeaning": {
+        "hi": "अमीर आदमी कहाँ रहता था?",
+        "hinglish": "Ameer aadmi kahan rehta tha?"
+      },
+      "options": [
+        "in a small village",
+        "in a big city",
+        "in a palace"
+      ],
+      "answer": "in a small village"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.5.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the deaf friend visit the rich man?",
+      "questionMeaning": {
+        "hi": "बहरा दोस्त अमीर आदमी से मिलने क्यों गया?",
+        "hinglish": "Behra dost ameer aadmi se milne kyon gaya?"
+      },
+      "options": [
+        "He was ill, and the friend wanted to make him happy.",
+        "To borrow money.",
+        "To sell him rice."
+      ],
+      "answer": "He was ill, and the friend wanted to make him happy.",
+      "modelAnswer": "The deaf friend learned that the rich man was ill, so he went to visit him and try to make him happy.",
+      "modelMeaning": {
+        "hi": "बहरे दोस्त को पता चला कि अमीर आदमी बीमार है, इसलिए वह उसे ख़ुश करने मिलने गया।",
+        "hinglish": "Behre dost ko pata chala ki ameer aadmi beemaar hai, isliye woh use khush karne milne gaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.5.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "The ___ man was ill.",
+      "answer": "rich",
+      "options": [
+        "rich",
+        "deaf"
+      ],
+      "meaning": {
+        "hi": "अमीर आदमी बीमार था।",
+        "hinglish": "Ameer aadmi beemaar tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.5.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "The deaf man wanted to make the rich man ___.",
+      "answer": "happy",
+      "options": [
+        "happy",
+        "angry"
+      ],
+      "meaning": {
+        "hi": "बहरा आदमी अमीर आदमी को ख़ुश करना चाहता था।",
+        "hinglish": "Behra aadmi ameer aadmi ko khush karna chahta tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.5.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The deaf man's questions made the rich man happy.",
+      "questionMeaning": {
+        "hi": "बहरे आदमी के सवालों से अमीर ख़ुश हुआ।",
+        "hinglish": "Behre aadmi ke sawaalon se ameer khush hua."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. They made him angry.",
+      "modelMeaning": {
+        "hi": "गलत। सवालों से वह नाराज़ हुआ।",
+        "hinglish": "Galat. Sawaalon se woh naaraaz hua."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.5.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The deaf man said all the ‘wrong’ things because he could not hear the rich man's answers.",
+      "questionMeaning": {
+        "hi": "बहरा आदमी जवाब नहीं सुन सका, इसलिए गलत बातें कहीं।",
+        "hinglish": "Behra aadmi jawab nahi sun saka, isliye galat baatein kahin."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.5.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The deaf man went home, thinking that he had made his friend happy.",
+      "questionMeaning": {
+        "hi": "बहरा आदमी यह सोचकर घर गया कि उसने दोस्त को ख़ुश कर दिया।",
+        "hinglish": "Behra aadmi yeh sochkar ghar gaya ki usne dost ko khush kar diya."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "id": "B7.03.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.03.4.S02",
+    "B7.03.4.S03",
+    "B7.03.4.S04",
+    "B7.03.4.S05",
+    "B7.03.4.S06",
+    "B7.03.4.S07",
+    "B7.03.4.S08",
+    "B7.03.4.S09",
+    "B7.03.4.S10",
+    "B7.03.4.S11",
+    "B7.03.4.S13",
+    "B7.03.4.S14",
+    "B7.03.4.S15",
+    "B7.03.4.S16",
+    "B7.03.4.S17",
+    "B7.03.4.S18"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.03.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "text": {
+        "hi": "‘to’ अक्सर काम वाले शब्द से पहले आता है: to buy, to feed (करने के लिए)। ‘for’ किसी के लिए या किसी चीज़ के बदले: for my wife (पत्नी के लिए), for a donkey (गधे के बदले)।",
+        "hinglish": "‘to’ aksar kaam waale shabd se pehle aata hai: to buy, to feed (karne ke liye). ‘for’ kisi ke liye ya kisi cheez ke badle: for my wife (patni ke liye), for a donkey (gadhe ke badle).",
+        "en": "‘to’ often comes before an action word: to buy, to feed. ‘for’ means for someone, or in exchange for something: for my wife, for a donkey."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "They made a plan ___ deceive him.",
+      "answer": "to",
+      "options": [
+        "to",
+        "for"
+      ],
+      "meaning": {
+        "hi": "उन्होंने उसे धोखा देने की योजना बनाई।",
+        "hinglish": "Unhone use dhokha dene ki yojana banaayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "The mangoes are ___ my wife.",
+      "answer": "for",
+      "options": [
+        "for",
+        "to"
+      ],
+      "meaning": {
+        "hi": "आम मेरी पत्नी के लिए हैं।",
+        "hinglish": "Aam meri patni ke liye hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "She always agrees ___ my decisions.",
+      "answer": "to",
+      "options": [
+        "to",
+        "for"
+      ],
+      "meaning": {
+        "hi": "वह हमेशा मेरे फ़ैसलों से सहमत होती है।",
+        "hinglish": "Woh hamesha mere faislon se sahmat hoti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "You will pay the same amount ___ us.",
+      "answer": "to",
+      "options": [
+        "to",
+        "for"
+      ],
+      "meaning": {
+        "hi": "तुम हमें उतने ही पैसे दोगे।",
+        "hinglish": "Tum humein utne hi paise doge."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "His wife was waiting ___ her husband.",
+      "answer": "for",
+      "options": [
+        "for",
+        "to"
+      ],
+      "meaning": {
+        "hi": "उसकी पत्नी अपने पति का इंतज़ार कर रही थी।",
+        "hinglish": "Uski patni apne pati ka intezaar kar rahi thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "What have you brought ___ me?",
+      "answer": "for",
+      "options": [
+        "for",
+        "to"
+      ],
+      "meaning": {
+        "hi": "तुम मेरे लिए क्या लाए हो?",
+        "hinglish": "Tum mere liye kya laaye ho?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "I sold the horse ___ a donkey.",
+      "answer": "for",
+      "options": [
+        "for",
+        "to"
+      ],
+      "meaning": {
+        "hi": "मैंने घोड़ा गधे के बदले बेच दिया।",
+        "hinglish": "Maine ghoda gadhe ke badle bech diya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "I exchanged the donkey ___ a sheep.",
+      "answer": "for",
+      "options": [
+        "for",
+        "to"
+      ],
+      "meaning": {
+        "hi": "मैंने गधे के बदले भेड़ ली।",
+        "hinglish": "Maine gadhe ke badle bhed li."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "A hen is cheaper ___ feed than a sheep.",
+      "answer": "to",
+      "options": [
+        "to",
+        "for"
+      ],
+      "meaning": {
+        "hi": "मुर्गी को खिलाना भेड़ से सस्ता है।",
+        "hinglish": "Murgi ko khilaana bhed se sasta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "I shall use the money ___ buy another horse.",
+      "answer": "to",
+      "options": [
+        "to",
+        "for"
+      ],
+      "meaning": {
+        "hi": "मैं पैसे से दूसरा घोड़ा ख़रीदूँगा।",
+        "hinglish": "Main paise se doosra ghoda khareedunga."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.03.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "text": {
+        "hi": "अब little, a little, few, a few। जो गिन नहीं सकते (milk, time) उनके साथ little। जो गिन सकते हैं (coins, friends) उनके साथ few। ‘little/few’ = लगभग नहीं के बराबर; ‘a little/a few’ = थोड़ा-सा तो है।",
+        "hinglish": "Ab little, a little, few, a few. Jo gin nahi sakte (milk, time) unke saath little. Jo gin sakte hain (coins, friends) unke saath few. ‘little/few’ = lagbhag nahi ke baraabar; ‘a little/a few’ = thoda-sa to hai.",
+        "en": "Now little, a little, few and a few. Use little for things we can't count (milk, time) and few for things we can count (coins, friends). ‘little/few’ means almost none; ‘a little/a few’ means some."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.few_little"
+      ],
+      "sentence": "I have ___ time to stay.",
+      "answer": "little",
+      "options": [
+        "little",
+        "few",
+        "a few"
+      ],
+      "meaning": {
+        "hi": "मेरे पास रुकने के लिए बहुत कम समय है।",
+        "hinglish": "Mere paas rukne ke liye bahut kam samay hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.few_little"
+      ],
+      "sentence": "He knows ___ of the story.",
+      "answer": "a little",
+      "options": [
+        "a little",
+        "a few",
+        "few"
+      ],
+      "meaning": {
+        "hi": "उसे कहानी का थोड़ा-सा पता है।",
+        "hinglish": "Use kahani ka thoda-sa pata hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.few_little"
+      ],
+      "sentence": "I have ___ milk so we can't have tea.",
+      "answer": "little",
+      "options": [
+        "little",
+        "few",
+        "a few"
+      ],
+      "meaning": {
+        "hi": "मेरे पास बहुत कम दूध है, इसलिए हम चाय नहीं पी सकते।",
+        "hinglish": "Mere paas bahut kam doodh hai, isliye hum chai nahi pee sakte."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S16",
+      "skills": [
+        "book.grammar",
+        "grammar.few_little"
+      ],
+      "sentence": "They have ___ coins.",
+      "answer": "a few",
+      "options": [
+        "a few",
+        "a little",
+        "little"
+      ],
+      "meaning": {
+        "hi": "उनके पास कुछ सिक्के हैं।",
+        "hinglish": "Unke paas kuch sikke hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S17",
+      "skills": [
+        "book.grammar",
+        "grammar.few_little"
+      ],
+      "sentence": "He has ___ friends, as he is new to Indore.",
+      "answer": "few",
+      "options": [
+        "few",
+        "little",
+        "a little"
+      ],
+      "meaning": {
+        "hi": "उसके बहुत कम दोस्त हैं, क्योंकि वह इंदौर में नया है।",
+        "hinglish": "Uske bahut kam dost hain, kyonki woh Indore mein naya hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.4.S18",
+      "skills": [
+        "book.grammar",
+        "grammar.few_little"
+      ],
+      "sentence": "She left Bhopal ___ days ago.",
+      "answer": "a few",
+      "options": [
+        "a few",
+        "a little",
+        "little"
+      ],
+      "meaning": {
+        "hi": "वह कुछ दिन पहले भोपाल से गई।",
+        "hinglish": "Woh kuch din pehle Bhopal se gayi."
+      }
+    }
+  ]
+}

@@ -1,5 +1,8 @@
 package com.samjhoenglish.ui.home
 
+import com.samjhoenglish.data.db.SchoolTest
+import com.samjhoenglish.ui.test.ActiveTestCards
+
 import android.content.Intent
 import android.speech.tts.TextToSpeech
 import androidx.compose.foundation.BorderStroke
@@ -57,6 +60,7 @@ import com.samjhoenglish.ui.components.SpeakButton
 import com.samjhoenglish.ui.components.TinkuSays
 import com.samjhoenglish.ui.theme.Leaf
 import com.samjhoenglish.ui.theme.LevelColors
+import com.samjhoenglish.ui.theme.Indigo
 import com.samjhoenglish.ui.theme.Teal
 import java.util.Calendar
 
@@ -82,6 +86,9 @@ fun HomeScreen(
     onOpenReading: () -> Unit = {},
     onOpenExpress: () -> Unit = {},
     onOpenWordPower: () -> Unit = {},
+    onOpenBook: () -> Unit = {},
+    activeTests: List<SchoolTest> = emptyList(),
+    onOpenTest: (Long) -> Unit = {},
 ) {
     val say = rememberSay()
     var message by rememberSaveable { mutableStateOf(TinkuMessage.INTRO) }
@@ -146,6 +153,11 @@ fun HomeScreen(
         )
 
         Spacer(Modifier.height(20.dp))
+        // A test from the teacher comes first, so the child can't miss it.
+        if (activeTests.isNotEmpty()) {
+            ActiveTestCards(activeTests, onOpenTest)
+            Spacer(Modifier.height(14.dp))
+        }
         val next = journey.nextLesson
         BigButton(
             text = UiStrings.todayTask.text(),
@@ -158,6 +170,17 @@ fun HomeScreen(
             enabled = journey.loaded,
             onClick = onStartToday,
         )
+
+        journey.myBook?.let { book ->
+            Spacer(Modifier.height(14.dp))
+            BigButton(
+                text = "📕 ${UiStrings.myBook.text()}",
+                subtitle = UiStrings.myBookCard.text().format(book.grade),
+                emoji = "",
+                color = Indigo,
+                onClick = onOpenBook,
+            )
+        }
 
         if (journey.readingLevels.isNotEmpty()) {
             Spacer(Modifier.height(14.dp))

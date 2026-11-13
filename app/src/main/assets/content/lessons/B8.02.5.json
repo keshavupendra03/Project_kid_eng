@@ -1,0 +1,243 @@
+{
+  "id": "B8.02.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.5.S02",
+    "B8.02.5.S03",
+    "B8.02.5.S04",
+    "B8.02.5.S05",
+    "B8.02.5.S06",
+    "B8.02.5.S07",
+    "B8.02.5.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.5.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "text": {
+        "hi": "नियम: व्यंजन + y → ies (pony → ponies), स्वर + y → s (monkey → monkeys), f/fe → ves (leaf → leaves, knife → knives)। कुछ ख़ास: ox → oxen, mouse → mice, deer → deer।",
+        "hinglish": "Niyam: vyanjan + y → ies (pony → ponies), swar + y → s (monkey → monkeys), f/fe → ves (leaf → leaves, knife → knives). Kuchh khaas: ox → oxen, mouse → mice, deer → deer.",
+        "en": "Rules: consonant + y → ies (pony → ponies), vowel + y → s (monkey → monkeys), f/fe → ves (leaf → leaves, knife → knives). Special: ox → oxen, mouse → mice, deer → deer."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.02.5.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "instruction": {
+        "hi": "एक से अनेक बनाओ",
+        "hinglish": "Ek se anek banao",
+        "en": "Join each word to its plural"
+      },
+      "pairs": [
+        {
+          "left": "pony",
+          "right": "ponies",
+          "meaning": {
+            "hi": "टट्टू",
+            "hinglish": "tattu"
+          }
+        },
+        {
+          "left": "piano",
+          "right": "pianos",
+          "meaning": {
+            "hi": "पियानो",
+            "hinglish": "piano"
+          }
+        },
+        {
+          "left": "leaf",
+          "right": "leaves",
+          "meaning": {
+            "hi": "पत्ता",
+            "hinglish": "patta"
+          }
+        },
+        {
+          "left": "proof",
+          "right": "proofs",
+          "meaning": {
+            "hi": "सबूत",
+            "hinglish": "saboot"
+          }
+        },
+        {
+          "left": "ox",
+          "right": "oxen",
+          "meaning": {
+            "hi": "बैल",
+            "hinglish": "bail"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.02.5.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "instruction": {
+        "hi": "एक से अनेक बनाओ",
+        "hinglish": "Ek se anek banao",
+        "en": "Join each word to its plural"
+      },
+      "pairs": [
+        {
+          "left": "tomato",
+          "right": "tomatoes",
+          "meaning": {
+            "hi": "टमाटर",
+            "hinglish": "tamaatar"
+          }
+        },
+        {
+          "left": "company",
+          "right": "companies",
+          "meaning": {
+            "hi": "कंपनी",
+            "hinglish": "company"
+          }
+        },
+        {
+          "left": "army",
+          "right": "armies",
+          "meaning": {
+            "hi": "सेना",
+            "hinglish": "sena"
+          }
+        },
+        {
+          "left": "monkey",
+          "right": "monkeys",
+          "meaning": {
+            "hi": "बंदर",
+            "hinglish": "bandar"
+          }
+        },
+        {
+          "left": "knife",
+          "right": "knives",
+          "meaning": {
+            "hi": "चाकू",
+            "hinglish": "chaaku"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.5.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘deer’ is ...",
+      "questionMeaning": {
+        "hi": "‘deer’ का बहुवचन",
+        "hinglish": "‘deer’ ka bahuvachan"
+      },
+      "options": [
+        "deer",
+        "deers",
+        "deeres"
+      ],
+      "answer": "deer"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.5.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘man-servant’ is ...",
+      "questionMeaning": {
+        "hi": "‘man-servant’ का बहुवचन",
+        "hinglish": "‘man-servant’ ka bahuvachan"
+      },
+      "options": [
+        "men-servants",
+        "man-servants",
+        "men-servant"
+      ],
+      "answer": "men-servants",
+      "modelAnswer": "In man-servant both parts change: men-servants.",
+      "modelMeaning": {
+        "hi": "man-servant में दोनों हिस्से बदलते हैं: men-servants।",
+        "hinglish": "man-servant mein dono hisse badalte hain: men-servants."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.5.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘mouse’ is ...",
+      "questionMeaning": {
+        "hi": "‘mouse’ का बहुवचन",
+        "hinglish": "‘mouse’ ka bahuvachan"
+      },
+      "options": [
+        "mice",
+        "mouses",
+        "mices"
+      ],
+      "answer": "mice"
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.5.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘dozen’ is ...",
+      "questionMeaning": {
+        "hi": "‘dozen’ का बहुवचन",
+        "hinglish": "‘dozen’ ka bahuvachan"
+      },
+      "options": [
+        "dozens",
+        "dozenes",
+        "dozenies"
+      ],
+      "answer": "dozens",
+      "modelAnswer": "dozens (but with a number we say ‘two dozen eggs’).",
+      "modelMeaning": {
+        "hi": "dozens (पर संख्या के साथ ‘two dozen eggs’ कहते हैं)।",
+        "hinglish": "dozens (par sankhya ke saath ‘two dozen eggs’ kehte hain)."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.5.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘lady’ is ...",
+      "questionMeaning": {
+        "hi": "‘lady’ का बहुवचन",
+        "hinglish": "‘lady’ ka bahuvachan"
+      },
+      "options": [
+        "ladies",
+        "ladys",
+        "ladyes"
+      ],
+      "answer": "ladies"
+    }
+  ]
+}

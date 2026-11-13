@@ -1,0 +1,199 @@
+{
+  "id": "B6.03.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.03.T.S01",
+    "B6.03.T.S02",
+    "B6.03.T.S03",
+    "B6.03.T.S04",
+    "B6.03.T.S05",
+    "B6.03.T.S06",
+    "B6.03.T.S07",
+    "B6.03.T.S08",
+    "B6.03.T.S09",
+    "B6.03.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.03.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What kind of ruler was the King?",
+      "questionMeaning": {
+        "hi": "राजा कैसा शासक था?",
+        "hinglish": "Raja kaisa shaasak tha?"
+      },
+      "options": [
+        "wise, brave and kind",
+        "cruel and lazy",
+        "weak and afraid"
+      ],
+      "answer": "wise, brave and kind"
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What did the King see in the cave?",
+      "questionMeaning": {
+        "hi": "राजा ने गुफ़ा में क्या देखा?",
+        "hinglish": "Raja ne gufaa mein kya dekha?"
+      },
+      "options": [
+        "a spider trying again and again to climb the wall",
+        "a lion sleeping",
+        "a box of gold"
+      ],
+      "answer": "a spider trying again and again to climb the wall"
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.T.S03",
+      "skills": [
+        "book.words"
+      ],
+      "question": "a fleet of ...",
+      "questionMeaning": {
+        "hi": "किसका बेड़ा?",
+        "hinglish": "Kiska beda?"
+      },
+      "options": [
+        "ships",
+        "sticks",
+        "stars"
+      ],
+      "answer": "ships"
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "a bundle of ...",
+      "questionMeaning": {
+        "hi": "किसका गट्ठर?",
+        "hinglish": "Kiska gatthar?"
+      },
+      "options": [
+        "sticks",
+        "players",
+        "people"
+      ],
+      "answer": "sticks"
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "The opposite of ‘friend’ is ...",
+      "questionMeaning": {
+        "hi": "‘friend’ का उल्टा?",
+        "hinglish": "‘friend’ ka ulta?"
+      },
+      "options": [
+        "enemy",
+        "brother",
+        "king"
+      ],
+      "answer": "enemy"
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "The opposite of ‘weakness’ is ...",
+      "questionMeaning": {
+        "hi": "‘weakness’ का उल्टा?",
+        "hinglish": "‘weakness’ ka ulta?"
+      },
+      "options": [
+        "strength",
+        "sadness",
+        "kindness"
+      ],
+      "answer": "strength"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Ram likes to go to school ___ Shyam does not like school at all.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "राम को स्कूल पसंद है लेकिन श्याम को नहीं।",
+        "hinglish": "Ram ko school pasand hai lekin Shyam ko nahi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "question": "Which word must start with a capital letter?",
+      "questionMeaning": {
+        "hi": "कौन सा शब्द बड़े अक्षर से शुरू होगा?",
+        "hinglish": "Kaun sa shabd bade akshar se shuru hoga?"
+      },
+      "options": [
+        "Jhansi",
+        "queen",
+        "brave"
+      ],
+      "answer": "Jhansi"
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.T.S09",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "What does Ravinder Tejpal do?",
+      "questionMeaning": {
+        "hi": "रविंदर तेजपाल क्या करता है?",
+        "hinglish": "Ravinder Tejpal kya karta hai?"
+      },
+      "options": [
+        "He is a police officer.",
+        "He is a farmer.",
+        "He is a teacher."
+      ],
+      "answer": "He is a police officer."
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.T.S10",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which insect is useful?",
+      "questionMeaning": {
+        "hi": "कौन सा कीड़ा उपयोगी है?",
+        "hinglish": "Kaun sa keeda upyogi hai?"
+      },
+      "options": [
+        "honeybee",
+        "mosquito",
+        "cockroach"
+      ],
+      "answer": "honeybee"
+    }
+  ]
+}

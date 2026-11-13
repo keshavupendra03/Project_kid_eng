@@ -1,0 +1,387 @@
+{
+  "id": "B6.01.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.01.2.S02",
+    "B6.01.2.S03",
+    "B6.01.2.S05",
+    "B6.01.2.S06",
+    "B6.01.2.S07",
+    "B6.01.2.S08",
+    "B6.01.2.S10",
+    "B6.01.2.S11",
+    "B6.01.2.S12",
+    "B6.01.2.S13",
+    "B6.01.2.S14",
+    "B6.01.2.S15"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.01.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "दो शब्द जुड़कर एक नया शब्द बनाते हैं: hand + bag = handbag (हाथ का बैग)।",
+        "hinglish": "Do shabd judkar ek naya shabd banaate hain: hand + bag = handbag (haath ka bag).",
+        "en": "Two words join to make a new word: hand + bag = handbag."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.01.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "दो शब्द जोड़कर नया शब्द बनाओ",
+        "hinglish": "Do shabd jodkar naya shabd banao",
+        "en": "Join two words to make a new word"
+      },
+      "pairs": [
+        {
+          "left": "hand + made",
+          "right": "handmade",
+          "meaning": {
+            "hi": "हाथ से बना",
+            "hinglish": "haath se bana"
+          }
+        },
+        {
+          "left": "hand + writing",
+          "right": "handwriting",
+          "meaning": {
+            "hi": "लिखावट",
+            "hinglish": "likhaavat"
+          }
+        },
+        {
+          "left": "bath + room",
+          "right": "bathroom",
+          "meaning": {
+            "hi": "नहाने का कमरा",
+            "hinglish": "nahaane ka kamra"
+          }
+        },
+        {
+          "left": "bath + tub",
+          "right": "bathtub",
+          "meaning": {
+            "hi": "नहाने का टब",
+            "hinglish": "nahaane ka tub"
+          }
+        },
+        {
+          "left": "rain + coat",
+          "right": "raincoat",
+          "meaning": {
+            "hi": "बरसाती",
+            "hinglish": "barsaati"
+          }
+        },
+        {
+          "left": "rain + bow",
+          "right": "rainbow",
+          "meaning": {
+            "hi": "इंद्रधनुष",
+            "hinglish": "indradhanush"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.01.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "दो शब्द जोड़कर नया शब्द बनाओ",
+        "hinglish": "Do shabd jodkar naya shabd banao",
+        "en": "Join two words to make a new word"
+      },
+      "pairs": [
+        {
+          "left": "rain + water",
+          "right": "rainwater",
+          "meaning": {
+            "hi": "बारिश का पानी",
+            "hinglish": "baarish ka paani"
+          }
+        },
+        {
+          "left": "finger + tip",
+          "right": "fingertip",
+          "meaning": {
+            "hi": "उँगली का सिरा",
+            "hinglish": "ungli ka sira"
+          }
+        },
+        {
+          "left": "finger + print",
+          "right": "fingerprint",
+          "meaning": {
+            "hi": "उँगली का निशान",
+            "hinglish": "ungli ka nishaan"
+          }
+        },
+        {
+          "left": "finger + chips",
+          "right": "finger chips",
+          "meaning": {
+            "hi": "आलू की लंबी चिप्स",
+            "hinglish": "aaloo ki lambi chips"
+          }
+        },
+        {
+          "left": "bath + soap",
+          "right": "bath soap",
+          "meaning": {
+            "hi": "नहाने का साबुन",
+            "hinglish": "nahaane ka saabun"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.01.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "छिपे हुए शब्द ढूँढो! swing में wing (पंख) और in छिपे हैं। बड़े शब्द के अंदर छोटा शब्द देखो।",
+        "hinglish": "Chhipe hue shabd dhoondho! swing mein wing (pankh) aur in chhipe hain. Bade shabd ke andar chhota shabd dekho.",
+        "en": "Find the hidden words! swing hides wing and in. Look for a small word inside the big word."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word is hidden in ‘flower’?",
+      "questionMeaning": {
+        "hi": "‘flower’ में कौन सा शब्द छिपा है?",
+        "hinglish": "‘flower’ mein kaun sa shabd chhipa hai?"
+      },
+      "options": [
+        "low",
+        "fly",
+        "few"
+      ],
+      "answer": "low",
+      "modelAnswer": "flower hides ‘flow’ and ‘low’.",
+      "modelMeaning": {
+        "hi": "flower में flow और low छिपे हैं।",
+        "hinglish": "flower mein flow aur low chhipe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word is hidden in ‘search’?",
+      "questionMeaning": {
+        "hi": "‘search’ में कौन सा शब्द छिपा है?",
+        "hinglish": "‘search’ mein kaun sa shabd chhipa hai?"
+      },
+      "options": [
+        "ear",
+        "eye",
+        "arm"
+      ],
+      "answer": "ear",
+      "modelAnswer": "search hides ‘sea’ and ‘ear’.",
+      "modelMeaning": {
+        "hi": "search में sea और ear छिपे हैं।",
+        "hinglish": "search mein sea aur ear chhipe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.2.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word is hidden in ‘sparrows’?",
+      "questionMeaning": {
+        "hi": "‘sparrows’ में कौन सा शब्द छिपा है?",
+        "hinglish": "‘sparrows’ mein kaun sa shabd chhipa hai?"
+      },
+      "options": [
+        "arrow",
+        "pen",
+        "rose"
+      ],
+      "answer": "arrow",
+      "modelAnswer": "sparrows hides ‘arrow’, ‘arrows’ and ‘row’.",
+      "modelMeaning": {
+        "hi": "sparrows में arrow और row छिपे हैं।",
+        "hinglish": "sparrows mein arrow aur row chhipe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.2.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word is hidden in ‘banyan’?",
+      "questionMeaning": {
+        "hi": "‘banyan’ में कौन सा शब्द छिपा है?",
+        "hinglish": "‘banyan’ mein kaun sa shabd chhipa hai?"
+      },
+      "options": [
+        "any",
+        "boy",
+        "tree"
+      ],
+      "answer": "any",
+      "modelAnswer": "banyan hides ‘any’ and ‘an’.",
+      "modelMeaning": {
+        "hi": "banyan में any और an छिपे हैं।",
+        "hinglish": "banyan mein any aur an chhipe hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.01.2.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "अब किताब का पैराग्राफ़: आम के पेड़ के बारे में खाली जगह भरो।",
+        "hinglish": "Ab kitaab ka paragraph: aam ke ped ke baare mein khaali jagah bharo.",
+        "en": "Now the book's paragraph: fill the gaps about a mango tree."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.2.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The mango tree in my ___ is forty years old.",
+      "answer": "village",
+      "options": [
+        "village",
+        "juice",
+        "sweet"
+      ],
+      "meaning": {
+        "hi": "मेरे गाँव का आम का पेड़ चालीस साल पुराना है।",
+        "hinglish": "Mere gaon ka aam ka ped chaalees saal puraana hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.2.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The mango tree in my village is ___ years old.",
+      "answer": "forty",
+      "options": [
+        "forty",
+        "sweet",
+        "tree"
+      ],
+      "meaning": {
+        "hi": "मेरे गाँव का आम का पेड़ चालीस साल पुराना है।",
+        "hinglish": "Mere gaon ka aam ka ped chaalees saal puraana hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.2.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "It gives us ___. They are sweet.",
+      "answer": "mangoes",
+      "options": [
+        "mangoes",
+        "pickles",
+        "village"
+      ],
+      "meaning": {
+        "hi": "यह हमें आम देता है। वे मीठे होते हैं।",
+        "hinglish": "Yeh humein aam deta hai. Woh meethe hote hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.2.S13",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "It gives us mangoes. They are ___.",
+      "answer": "sweet",
+      "options": [
+        "sweet",
+        "forty",
+        "juice"
+      ],
+      "meaning": {
+        "hi": "यह हमें आम देता है। वे मीठे होते हैं।",
+        "hinglish": "Yeh humein aam deta hai. Woh meethe hote hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.2.S14",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "My mother makes ___ and juice with them.",
+      "answer": "pickles",
+      "options": [
+        "pickles",
+        "village",
+        "tree"
+      ],
+      "meaning": {
+        "hi": "मेरी माँ उनसे अचार और जूस बनाती हैं।",
+        "hinglish": "Meri maa unse achaar aur juice banaati hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.2.S15",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "I like the mango ___.",
+      "answer": "tree",
+      "options": [
+        "tree",
+        "forty",
+        "sweet"
+      ],
+      "meaning": {
+        "hi": "मुझे आम का पेड़ पसंद है।",
+        "hinglish": "Mujhe aam ka ped pasand hai."
+      }
+    }
+  ]
+}

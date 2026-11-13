@@ -1,0 +1,69 @@
+{
+  "id": "B8.02.12",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.02.12.S01",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "question": "Which rare deer is saved at Kanha and is the State Animal of M.P.?",
+      "questionMeaning": {
+        "hi": "कौन सा दुर्लभ हिरण कान्हा में बचाया गया और म.प्र. का राजकीय पशु है?",
+        "hinglish": "Kaun sa durlabh hiran Kanha mein bachaaya gaya aur M.P. ka raajkeeya pashu hai?"
+      },
+      "options": [
+        "barasingha (swamp deer)",
+        "blackbuck",
+        "sambhar"
+      ],
+      "answer": "barasingha (swamp deer)",
+      "modelAnswer": "The barasingha (swamp deer) is the State Animal of Madhya Pradesh. Kanha saved it from dying out.",
+      "modelMeaning": {
+        "hi": "बारहसिंगा म.प्र. का राजकीय पशु है। कान्हा ने इसे ख़त्म होने से बचाया।",
+        "hinglish": "Baarahsingha M.P. ka raajkeeya pashu hai. Kanha ne ise khatm hone se bachaaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.12.S02",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "question": "Why is Madhya Pradesh called the ‘Tiger State’?",
+      "questionMeaning": {
+        "hi": "म.प्र. को ‘टाइगर स्टेट’ क्यों कहते हैं?",
+        "hinglish": "M.P. ko ‘Tiger State’ kyon kehte hain?"
+      },
+      "options": [
+        "It has the most tigers in India.",
+        "Its flag has a tiger.",
+        "Tigers were born there first."
+      ],
+      "answer": "It has the most tigers in India."
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.12.S03",
+      "skills": [
+        "vocab.meaning",
+        "vocab.animals"
+      ],
+      "question": "We should keep quiet in a National Park because ...",
+      "questionMeaning": {
+        "hi": "पार्क में चुप क्यों रहें?",
+        "hinglish": "Park mein chup kyon rahein?"
+      },
+      "options": [
+        "noise disturbs the animals",
+        "it is a library",
+        "talking is not allowed anywhere"
+      ],
+      "answer": "noise disturbs the animals"
+    }
+  ]
+}

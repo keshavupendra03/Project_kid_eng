@@ -1,0 +1,165 @@
+{
+  "id": "B8.10.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.10.4.S02",
+    "B8.10.4.S03",
+    "B8.10.4.S04",
+    "B8.10.4.S05",
+    "B8.10.4.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.10.4.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 80 पर कविता पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 80 par kavita padho, phir jawab do.",
+        "en": "Read the poem on page 80 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.4.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who always comes on market days?",
+      "questionMeaning": {
+        "hi": "बाज़ार के दिन हमेशा कौन आता है?",
+        "hinglish": "Baazaar ke din hamesha kaun aata hai?"
+      },
+      "options": [
+        "the balloon man",
+        "the postman",
+        "the milkman"
+      ],
+      "answer": "the balloon man",
+      "modelAnswer": "The balloon man always comes on market days.",
+      "modelMeaning": {
+        "hi": "बाज़ार के दिन हमेशा गुब्बारे वाला आता है।",
+        "hinglish": "Baazaar ke din hamesha gubbaare waala aata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.4.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does he hold?",
+      "questionMeaning": {
+        "hi": "वह क्या पकड़े रहता है?",
+        "hinglish": "Woh kya pakde rehta hai?"
+      },
+      "options": [
+        "a lovely bunch of balloons",
+        "a basket of fruit",
+        "a drum"
+      ],
+      "answer": "a lovely bunch of balloons",
+      "modelAnswer": "He holds a lovely bunch of balloons.",
+      "modelMeaning": {
+        "hi": "वह गुब्बारों का एक सुंदर गुच्छा पकड़े रहता है।",
+        "hinglish": "Woh gubbaaron ka ek sundar guchchha pakde rehta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.4.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What colours are the balloons that shine far away?",
+      "questionMeaning": {
+        "hi": "दूर से चमकने वाले गुब्बारे किस रंग के हैं?",
+        "hinglish": "Door se chamakne waale gubbaare kis rang ke hain?"
+      },
+      "options": [
+        "red, purple, blue and green",
+        "black and white",
+        "only yellow"
+      ],
+      "answer": "red, purple, blue and green",
+      "modelAnswer": "The balloons are red and purple, blue and green.",
+      "modelMeaning": {
+        "hi": "गुब्बारे लाल, बैंगनी, नीले और हरे हैं।",
+        "hinglish": "Gubbaare laal, baingani, neele aur hare hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.4.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What would the balloons look like in the sky?",
+      "questionMeaning": {
+        "hi": "आसमान में गुब्बारे कैसे दिखेंगे?",
+        "hinglish": "Aasmaan mein gubbaare kaise dikhenge?"
+      },
+      "options": [
+        "very pretty",
+        "very ugly",
+        "like birds' nests"
+      ],
+      "answer": "very pretty",
+      "modelAnswer": "The balloons would look pretty sailing high in the sky.",
+      "modelMeaning": {
+        "hi": "आसमान में ऊँचे तैरते गुब्बारे बहुत सुंदर दिखेंगे।",
+        "hinglish": "Aasmaan mein oonche tairte gubbaare bahut sundar dikhenge."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.4.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does the poet say in the third stanza?",
+      "questionMeaning": {
+        "hi": "तीसरे पद में कवि क्या कहता है?",
+        "hinglish": "Teesre pad mein kavi kya kehta hai?"
+      },
+      "options": [
+        "Some balloons are big, some small, tied with a string; in the wind they tug hard.",
+        "The balloon man sells sweets.",
+        "The balloons burst in the sun."
+      ],
+      "answer": "Some balloons are big, some small, tied with a string; in the wind they tug hard.",
+      "modelAnswer": "In the third stanza the poet says that some balloons are big and some are small. They are all tied together with a string, and when the wind blows they tug and tug like anything.",
+      "modelMeaning": {
+        "hi": "तीसरे पद में कवि कहता है कि कुछ गुब्बारे बड़े और कुछ छोटे हैं। सब एक डोर से बँधे हैं, और हवा चलने पर ज़ोर-ज़ोर से खिंचते हैं।",
+        "hinglish": "Teesre pad mein kavi kehta hai ki kuchh gubbaare bade aur kuchh chhote hain. Sab ek dor se bandhe hain, aur hawa chalne par zor-zor se khinchte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.4.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why do we see the balloons even when carts and people get between?",
+      "questionMeaning": {
+        "hi": "गाड़ियाँ और लोग बीच में हों, फिर भी गुब्बारे क्यों दिखते हैं?",
+        "hinglish": "Gaadiyaan aur log beech mein hon, phir bhi gubbaare kyon dikhte hain?"
+      },
+      "options": [
+        "They are high up and shine in the sun.",
+        "They are on the ground.",
+        "They make a loud noise."
+      ],
+      "answer": "They are high up and shine in the sun."
+    }
+  ]
+}

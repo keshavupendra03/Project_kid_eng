@@ -1,0 +1,112 @@
+{
+  "id": "B7.13.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.13.5.S01"
+  ],
+  "steps": [
+    {
+      "type": "roleplay",
+      "id": "B7.13.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🍥",
+      "turns": [
+        {
+          "id": "name",
+          "tinku": "What's your name?",
+          "meaning": {
+            "hi": "तुम्हारा नाम क्या है?",
+            "hinglish": "Tumhara naam kya hai?"
+          },
+          "replies": [
+            {
+              "say": "My name is {child}.",
+              "meaning": {
+                "hi": "मेरा नाम ... है।",
+                "hinglish": "Mera naam ... hai."
+              },
+              "patterns": [
+                "my name is *",
+                "i am *",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sweet",
+          "tinku": "Which sweets and dishes do you like most?",
+          "meaning": {
+            "hi": "तुम्हें कौन सी मिठाई और पकवान सबसे ज़्यादा पसंद हैं?",
+            "hinglish": "Tumhe kaun si mithaai aur pakwaan sabse zyaada pasand hain?"
+          },
+          "replies": [
+            {
+              "say": "I like jalebi and samosa most.",
+              "meaning": {
+                "hi": "मुझे जलेबी और समोसा सबसे ज़्यादा पसंद हैं।",
+                "hinglish": "Mujhe jalebi aur samosa sabse zyaada pasand hain."
+              },
+              "patterns": [
+                "i like *",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "swing",
+          "tinku": "Which swings do you prefer?",
+          "meaning": {
+            "hi": "तुम्हें कौन से झूले ज़्यादा पसंद हैं?",
+            "hinglish": "Tumhe kaun se jhoole zyaada pasand hain?"
+          },
+          "replies": [
+            {
+              "say": "I prefer the giant wheel.",
+              "meaning": {
+                "hi": "मुझे बड़ा झूला ज़्यादा पसंद है।",
+                "hinglish": "Mujhe bada jhoola zyaada pasand hai."
+              },
+              "patterns": [
+                "i prefer *",
+                "i like *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rides",
+          "tinku": "What rides did you take in the fair you visited last?",
+          "meaning": {
+            "hi": "पिछली बार मेले में तुमने कौन सी सवारी की?",
+            "hinglish": "Pichhli baar mele mein tumne kaun si sawaari ki?"
+          },
+          "replies": [
+            {
+              "say": "I took the train ride and the horse ride.",
+              "meaning": {
+                "hi": "मैंने ट्रेन और घोड़े की सवारी की।",
+                "hinglish": "Maine train aur ghode ki sawaari ki."
+              },
+              "patterns": [
+                "i took *",
+                "*",
+                "* *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

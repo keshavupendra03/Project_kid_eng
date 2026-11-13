@@ -1,0 +1,329 @@
+{
+  "id": "B7.13.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.13.4.S02",
+    "B7.13.4.S03",
+    "B7.13.4.S04",
+    "B7.13.4.S05",
+    "B7.13.4.S06",
+    "B7.13.4.S07",
+    "B7.13.4.S09",
+    "B7.13.4.S10",
+    "B7.13.4.S11",
+    "B7.13.4.S12",
+    "B7.13.4.S13",
+    "B7.13.4.S14",
+    "B7.13.4.S15"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.13.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "text": {
+        "hi": "किताब का उदाहरण: Sheila wants to live in a house. Shyam lives there. (where) → Sheila wants to live in the house where Shyam lives.",
+        "hinglish": "Kitaab ka udaharan: Sheila wants to live in a house. Shyam lives there. (where) → Sheila wants to live in the house where Shyam lives.",
+        "en": "The book's example: Sheila wants to live in a house. Shyam lives there. (where) → Sheila wants to live in the house where Shyam lives."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो (when): I entered the room. Sheila was sleeping.",
+        "hinglish": "Jodo (when): I entered the room. Sheila was sleeping.",
+        "en": "Join with ‘when’: I entered the room. Sheila was sleeping."
+      },
+      "answer": "Sheila was sleeping when I entered the room.",
+      "meaning": {
+        "hi": "जब मैं कमरे में गया/गई, तब शीला सो रही थी।",
+        "hinglish": "Jab main kamre mein gaya/gayi, tab Sheela so rahi thi."
+      },
+      "extra": [
+        "where"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो (where): Mohan has gone. I do not know.",
+        "hinglish": "Jodo (where): Mohan has gone. I do not know.",
+        "en": "Join with ‘where’: Mohan has gone. I do not know."
+      },
+      "answer": "I do not know where Mohan has gone.",
+      "meaning": {
+        "hi": "मुझे नहीं पता मोहन कहाँ गया है।",
+        "hinglish": "Mujhe nahi pata Mohan kahan gaya hai."
+      },
+      "extra": [
+        "when"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो (when): The doctor came. The patient had died.",
+        "hinglish": "Jodo (when): The doctor came. The patient had died.",
+        "en": "Join with ‘when’: The doctor came. The patient had died."
+      },
+      "answer": "The patient had died when the doctor came.",
+      "meaning": {
+        "hi": "जब डॉक्टर आए, तब तक मरीज़ मर चुका था।",
+        "hinglish": "Jab doctor aaye, tab tak mareez mar chuka tha."
+      },
+      "extra": [
+        "who"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो (where): Mother kept the milk on the shelf. The cat could not reach it.",
+        "hinglish": "Jodo (where): Mother kept the milk on the shelf. The cat could not reach it.",
+        "en": "Join with ‘where’ (milk and the cat)."
+      },
+      "answer": "Mother kept the milk on the shelf where the cat could not reach it.",
+      "meaning": {
+        "hi": "माँ ने दूध उस ताक पर रखा जहाँ बिल्ली नहीं पहुँच सकती थी।",
+        "hinglish": "Maa ne doodh us taak par rakha jahan billi nahi pahunch sakti thi."
+      },
+      "extra": [
+        "when"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो (what): You want something. I do not know.",
+        "hinglish": "Jodo (what): You want something. I do not know.",
+        "en": "Join with ‘what’: You want something. I do not know."
+      },
+      "answer": "I do not know what you want.",
+      "meaning": {
+        "hi": "मुझे नहीं पता तुम क्या चाहते हो।",
+        "hinglish": "Mujhe nahi pata tum kya chahte ho."
+      },
+      "extra": [
+        "where"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो (who): The police caught the thief. He had stolen the necklace.",
+        "hinglish": "Jodo (who): The police caught the thief. He had stolen the necklace.",
+        "en": "Join with ‘who’ (the thief and the necklace)."
+      },
+      "answer": "The police caught the thief who had stolen the necklace.",
+      "meaning": {
+        "hi": "पुलिस ने उस चोर को पकड़ा जिसने हार चुराया था।",
+        "hinglish": "Police ne us chor ko pakda jisne haar churaaya tha."
+      },
+      "extra": [
+        "which"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.13.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "text": {
+        "hi": "अब उल्टा: ‘so ... that ... can't’ को ‘too’ से लिखो। The door is so small that I can't enter it. → The door is too small for me to enter.",
+        "hinglish": "Ab ulta: ‘so ... that ... can't’ ko ‘too’ se likho. The door is so small that I can't enter it. → The door is too small for me to enter.",
+        "en": "Now the other way: rewrite ‘so ... that ... can't’ with ‘too’. The door is so small that I can't enter it. → The door is too small for me to enter."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "prompt": {
+        "hi": "‘too’ से लिखो: This exercise is so difficult that I can't do it.",
+        "hinglish": "‘too’ se likho: This exercise is so difficult that I can't do it.",
+        "en": "Use ‘too’: This exercise is so difficult that I can't do it."
+      },
+      "answer": "This exercise is too difficult for me to do.",
+      "meaning": {
+        "hi": "यह अभ्यास मेरे लिए इतना मुश्किल है कि मैं नहीं कर सकता/सकती।",
+        "hinglish": "Yeh abhyaas mere liye itna mushkil hai ki main nahi kar sakta/sakti."
+      },
+      "extra": [
+        "so"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "prompt": {
+        "hi": "‘too’ से लिखो: It is so hot that I can't walk outside.",
+        "hinglish": "‘too’ se likho: It is so hot that I can't walk outside.",
+        "en": "Use ‘too’: It is so hot that I can't walk outside."
+      },
+      "answer": "It is too hot for me to walk outside.",
+      "meaning": {
+        "hi": "इतनी गर्मी है कि मैं बाहर नहीं चल सकता/सकती।",
+        "hinglish": "Itni garmi hai ki main baahar nahi chal sakta/sakti."
+      },
+      "extra": [
+        "so"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "prompt": {
+        "hi": "‘too’ से लिखो: It is so dark that one can't see.",
+        "hinglish": "‘too’ se likho: It is so dark that one can't see.",
+        "en": "Use ‘too’: It is so dark that one can't see."
+      },
+      "answer": "It is too dark to see.",
+      "meaning": {
+        "hi": "इतना अँधेरा है कि कुछ दिखता नहीं।",
+        "hinglish": "Itna andhera hai ki kuch dikhta nahi."
+      },
+      "extra": [
+        "so"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "prompt": {
+        "hi": "‘too’ से लिखो: She is so young that she can't do such hard work.",
+        "hinglish": "‘too’ se likho: She is so young that she can't do such hard work.",
+        "en": "Use ‘too’: She is so young that she can't do such hard work."
+      },
+      "answer": "She is too young to do such hard work.",
+      "meaning": {
+        "hi": "वह इतना कठिन काम करने के लिए बहुत छोटी है।",
+        "hinglish": "Woh itna kathin kaam karne ke liye bahut chhoti hai."
+      },
+      "extra": [
+        "so"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.13.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "prompt": {
+        "hi": "‘too’ से लिखो: The bed is so hard that no one can sleep on it.",
+        "hinglish": "‘too’ se likho: The bed is so hard that no one can sleep on it.",
+        "en": "Use ‘too’: The bed is so hard that no one can sleep on it."
+      },
+      "answer": "The bed is too hard to sleep on.",
+      "meaning": {
+        "hi": "बिस्तर इतना सख़्त है कि उस पर सोया नहीं जा सकता।",
+        "hinglish": "Bistar itna sakht hai ki us par soya nahi ja sakta."
+      },
+      "extra": [
+        "so"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.4.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "question": "Which part is punctuated correctly?",
+      "questionMeaning": {
+        "hi": "कौन सा हिस्सा सही विराम चिह्नों के साथ है?",
+        "hinglish": "Kaun sa hissa sahi viraam chihnon ke saath hai?"
+      },
+      "options": [
+        "Bishni said, \"What is this model about?\"",
+        "bishni said what is this model about",
+        "Bishni said. what is this model about!"
+      ],
+      "answer": "Bishni said, \"What is this model about?\""
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.4.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "question": "Where do inverted commas (\" \") go?",
+      "questionMeaning": {
+        "hi": "उद्धरण चिह्न (\" \") कहाँ लगते हैं?",
+        "hinglish": "Uddharan chihn (\" \") kahan lagte hain?"
+      },
+      "options": [
+        "around the exact words someone says",
+        "after every name",
+        "at the end of a paragraph"
+      ],
+      "answer": "around the exact words someone says"
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.13.4.S16",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "text": {
+        "hi": "किताब का पूरा सही जवाब: Once Bishni, Kishto, Gittu and Lambu went to see a Bal Mela in the nearby high school. There they saw many science models made by the students. Bishni said, \"What is this model about?\" Kishto explained, \"This tells you how water is pumped up with the help of an electric motor.\" Bishni said, \"I can see water coming out of the tap!\" Lambu said, \"Such models are called working models.\"",
+        "hinglish": "Kitaab ka poora sahi jawab: Once Bishni, Kishto, Gittu and Lambu went to see a Bal Mela in the nearby high school. There they saw many science models made by the students. Bishni said, \"What is this model about?\" Kishto explained, \"This tells you how water is pumped up with the help of an electric motor.\" Bishni said, \"I can see water coming out of the tap!\" Lambu said, \"Such models are called working models.\"",
+        "en": "The full answer: Once Bishni, Kishto, Gittu and Lambu went to see a Bal Mela in the nearby high school. There they saw many science models made by the students. Bishni said, \"What is this model about?\" Kishto explained, \"This tells you how water is pumped up with the help of an electric motor.\" Bishni said, \"I can see water coming out of the tap!\" Lambu said, \"Such models are called working models.\""
+      }
+    }
+  ]
+}

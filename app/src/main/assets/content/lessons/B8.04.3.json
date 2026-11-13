@@ -1,0 +1,157 @@
+{
+  "id": "B8.04.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.3.S02",
+    "B8.04.3.S03",
+    "B8.04.3.S04",
+    "B8.04.3.S05",
+    "B8.04.3.S06",
+    "B8.04.3.S07",
+    "B8.04.3.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "cloth = कपड़ा (थान), clothes = पहनने के कपड़े। elder = परिवार में बड़ा, older = उम्र में ज़्यादा। child-like = बच्चे जैसा भोला (अच्छा), childish = बचकाना (बुरा)। adapt = ढल जाना, adopt = अपना लेना।",
+        "hinglish": "cloth = kapda (thaan), clothes = pehenne ke kapde. elder = parivaar mein bada, older = umar mein zyaada. child-like = bachche jaisa bhola (achha), childish = bachkaana (bura). adapt = dhal jaana, adopt = apna lena.",
+        "en": "cloth = material, clothes = what we wear. elder = senior in a family, older = more in age. child-like = innocent (good), childish = silly (bad). adapt = adjust to, adopt = take as your own."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "___ are made of cloth.",
+      "answer": "Clothes",
+      "options": [
+        "Clothes",
+        "Cloth",
+        "Cloths"
+      ],
+      "meaning": {
+        "hi": "कपड़े (पहनने वाले) कपड़े (थान) से बनते हैं।",
+        "hinglish": "Kapde (pehenne waale) kapde (thaan) se bante hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "My ___ brother obviously is older than me.",
+      "answer": "elder",
+      "options": [
+        "elder",
+        "older",
+        "eldest"
+      ],
+      "meaning": {
+        "hi": "मेरा बड़ा भाई ज़ाहिर है मुझसे उम्र में बड़ा है।",
+        "hinglish": "Mera bada bhai zaahir hai mujhse umar mein bada hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "My elder brother obviously is ___ than me.",
+      "answer": "older",
+      "options": [
+        "older",
+        "elder",
+        "oldest"
+      ],
+      "meaning": {
+        "hi": "मेरा बड़ा भाई ज़ाहिर है मुझसे उम्र में बड़ा है।",
+        "hinglish": "Mera bada bhai zaahir hai mujhse umar mein bada hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "My grandfather is old and is ___.",
+      "answer": "child-like",
+      "options": [
+        "child-like",
+        "childish"
+      ],
+      "meaning": {
+        "hi": "मेरे दादाजी बूढ़े हैं और बच्चों जैसे भोले हैं।",
+        "hinglish": "Mere daadaji boodhe hain aur bachchon jaise bhole hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "My uncle often behaves in a ___ manner which I don't like.",
+      "answer": "childish",
+      "options": [
+        "childish",
+        "child-like"
+      ],
+      "meaning": {
+        "hi": "मेरे चाचा अक्सर बचकाना बर्ताव करते हैं, जो मुझे पसंद नहीं।",
+        "hinglish": "Mere chaacha aksar bachkaana bartaav karte hain, jo mujhe pasand nahi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "We can ___ to western ways of living but not adopt them.",
+      "answer": "adapt",
+      "options": [
+        "adapt",
+        "adopt"
+      ],
+      "meaning": {
+        "hi": "हम पश्चिमी रहन-सहन में ढल सकते हैं, पर उसे अपना नहीं सकते।",
+        "hinglish": "Hum pashchimi rehan-sehan mein dhal sakte hain, par use apna nahi sakte."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "We can adapt to western ways of living but not ___ them.",
+      "answer": "adopt",
+      "options": [
+        "adopt",
+        "adapt"
+      ],
+      "meaning": {
+        "hi": "हम पश्चिमी रहन-सहन में ढल सकते हैं, पर उसे अपना नहीं सकते।",
+        "hinglish": "Hum pashchimi rehan-sehan mein dhal sakte hain, par use apna nahi sakte."
+      }
+    }
+  ]
+}

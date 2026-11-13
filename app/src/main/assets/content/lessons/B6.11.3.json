@@ -1,0 +1,215 @@
+{
+  "id": "B6.11.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.11.3.S02",
+    "B6.11.3.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.11.3.S01",
+      "skills": [
+        "book.talk",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: मेले में तुमने और दोस्तों ने क्या ख़रीदा? चीज़ों को उनके समूह में रखो: clothes, toys, sweets, books, utensils (बर्तन)।",
+        "hinglish": "Kitaab: mele mein tumne aur doston ne kya khareeda? Cheezon ko unke samooh mein rakho: clothes, toys, sweets, books, utensils (bartan).",
+        "en": "The book: what did you and your friends buy at the fair? Put the things in groups: clothes, toys, sweets, books, utensils."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B6.11.3.S02",
+      "skills": [
+        "book.talk",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर चीज़ को सही समूह में रखो",
+        "hinglish": "Har cheez ko sahi samooh mein rakho",
+        "en": "Put each thing in its group"
+      },
+      "groups": [
+        {
+          "id": "clothes",
+          "name": "clothes",
+          "emoji": "👕",
+          "meaning": {
+            "hi": "कपड़े",
+            "hinglish": "kapde"
+          }
+        },
+        {
+          "id": "toys",
+          "name": "toys",
+          "emoji": "🧸",
+          "meaning": {
+            "hi": "खिलौने",
+            "hinglish": "khilaune"
+          }
+        },
+        {
+          "id": "sweets",
+          "name": "sweets",
+          "emoji": "🍬",
+          "meaning": {
+            "hi": "मिठाइयाँ",
+            "hinglish": "mithaaiyaan"
+          }
+        },
+        {
+          "id": "books",
+          "name": "books",
+          "emoji": "📚",
+          "meaning": {
+            "hi": "किताबें",
+            "hinglish": "kitaabein"
+          }
+        },
+        {
+          "id": "utensils",
+          "name": "utensils",
+          "emoji": "🍽️",
+          "meaning": {
+            "hi": "बर्तन",
+            "hinglish": "bartan"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "sweater",
+          "emoji": "🧶",
+          "groups": [
+            "clothes"
+          ]
+        },
+        {
+          "text": "doll",
+          "emoji": "🎎",
+          "groups": [
+            "toys"
+          ]
+        },
+        {
+          "text": "laddoo",
+          "emoji": "🟠",
+          "groups": [
+            "sweets"
+          ]
+        },
+        {
+          "text": "storybook",
+          "emoji": "📖",
+          "groups": [
+            "books"
+          ]
+        },
+        {
+          "text": "plates",
+          "emoji": "🍽️",
+          "groups": [
+            "utensils"
+          ]
+        },
+        {
+          "text": "shirt",
+          "emoji": "👔",
+          "groups": [
+            "clothes"
+          ]
+        },
+        {
+          "text": "toy aeroplane",
+          "emoji": "✈️",
+          "groups": [
+            "toys"
+          ]
+        },
+        {
+          "text": "jalebi",
+          "emoji": "🍥",
+          "groups": [
+            "sweets"
+          ]
+        },
+        {
+          "text": "colouring book",
+          "emoji": "🖍️",
+          "groups": [
+            "books"
+          ]
+        },
+        {
+          "text": "cups",
+          "emoji": "☕",
+          "groups": [
+            "utensils"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.11.3.S03",
+      "skills": [
+        "book.talk",
+        "vocab.meaning"
+      ],
+      "scene": "🎪",
+      "turns": [
+        {
+          "id": "buy",
+          "tinku": "What did you buy at the fair?",
+          "meaning": {
+            "hi": "तुमने मेले में क्या ख़रीदा?",
+            "hinglish": "Tumne mele mein kya khareeda?"
+          },
+          "replies": [
+            {
+              "say": "I bought a doll and some barfi.",
+              "meaning": {
+                "hi": "मैंने एक गुड़िया और कुछ बर्फ़ी ख़रीदी।",
+                "hinglish": "Maine ek gudiya aur kuch barfi khareedi."
+              },
+              "patterns": [
+                "i bought *",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "friend",
+          "tinku": "And what did your friend buy?",
+          "meaning": {
+            "hi": "और तुम्हारे दोस्त ने क्या ख़रीदा?",
+            "hinglish": "Aur tumhare dost ne kya khareeda?"
+          },
+          "replies": [
+            {
+              "say": "My friend bought a bat and a storybook.",
+              "meaning": {
+                "hi": "मेरे दोस्त ने एक बल्ला और कहानी की किताब ख़रीदी।",
+                "hinglish": "Mere dost ne ek balla aur kahani ki kitaab khareedi."
+              },
+              "patterns": [
+                "my friend bought *",
+                "he bought *",
+                "she bought *",
+                "*",
+                "* *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

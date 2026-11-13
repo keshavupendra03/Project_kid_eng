@@ -1,0 +1,196 @@
+{
+  "grade": 8, "number": 15, "emoji": "🐦", "title": "A Secret", "pages": "135–142",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["कविता पढ़ो", "Kavita padho", "Read the poem"], "book": false,
+      "skills": ["book.words", "read.passage"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 135 पर कविता ‘A Secret’ पढ़ो। एक बच्चा, एक रॉबिन चिड़िया और चेरी का पेड़ मिलकर एक राज़ छिपा रहे हैं। ख़ाली जगहों में छिपा राज़ तुम पहचान सकते हो? पहले ये शब्द सीख लो।", "Apni kitaab mein page 135 par kavita ‘A Secret’ padho. Ek bachcha, ek robin chidiya aur cherry ka ped milkar ek raaz chhipa rahe hain. Khaali jagahon mein chhipa raaz tum pehchaan sakte ho? Pehle yeh shabd seekh lo.", "Read the poem ‘A Secret’ on page 135 of your book. A child, a robin and a cherry tree share a secret. Can you guess the secret hidden in the blanks? First learn these words."]},
+        {"word": ["secret", "राज़", "raaz", "something only a few people know", "Can you keep a secret?", "क्या तुम राज़ रख सकते हो?", "Kya tum raaz rakh sakte ho?"]},
+        {"word": ["robin", "रॉबिन (एक छोटी चिड़िया)", "robin (ek chhoti chidiya)", "a small bird with a red chest", "The robin built a nest.", "रॉबिन ने घोंसला बनाया।", "Robin ne ghonsla banaaya."]},
+        {"word": ["peep", "राज़ खोलना, झाँकना", "raaz kholna, jhaankna", "to look quickly; here, to tell a secret", "Don't peep, keep the secret!", "राज़ मत खोलना!", "Raaz mat kholna!"]},
+        {"book": true, "q": ["Where do birds lay their eggs?", "चिड़ियाँ अंडे कहाँ देती हैं?", "Chidiyaan ande kahan deti hain?", ["in their nests", "in the water", "in the sky"], "in their nests", "Birds live in trees and lay their eggs in nests which they build with twigs, grass and straw.", "चिड़ियाँ पेड़ों पर रहती हैं और तिनकों, घास से बने घोंसलों में अंडे देती हैं।", "Chidiyaan pedon par rehti hain aur tinkon, ghaas se bane ghonslon mein ande deti hain."]}
+      ]
+    },
+    {
+      "emoji": "👂", "title": ["सुनो और दोहराओ", "Suno aur dohraao", "Listen and Repeat"], "book": true,
+      "skills": ["book.words"],
+      "steps": [
+        {"book": true, "type": "sort_groups",
+          "instruction": ["एक जैसी आवाज़ वाले शब्द साथ रखो", "Ek jaisi awaaz waale shabd saath rakho", "Put the rhyming words together"],
+          "groups": [
+            {"id": "ee", "name": "-ee", "emoji": "🌳", "meaning": ["tree जैसे", "tree jaise"]},
+            {"id": "est", "name": "-est", "emoji": "🪺", "meaning": ["nest जैसे", "nest jaise"]},
+            {"id": "eep", "name": "-eep", "emoji": "👀", "meaning": ["peep जैसे", "peep jaise"]},
+            {"id": "aid", "name": "-aid / -ade", "emoji": "🥚", "meaning": ["laid जैसे", "laid jaise"]}
+          ],
+          "items": [
+            {"text": "three", "emoji": "3️⃣", "groups": ["ee"]},
+            {"text": "tree", "emoji": "🌳", "groups": ["ee"]},
+            {"text": "free", "emoji": "🕊️", "groups": ["ee"]},
+            {"text": "best", "emoji": "🥇", "groups": ["est"]},
+            {"text": "rest", "emoji": "😴", "groups": ["est"]},
+            {"text": "chest", "emoji": "🧰", "groups": ["est"]},
+            {"text": "peep", "emoji": "👀", "groups": ["eep"]},
+            {"text": "keep", "emoji": "🔑", "groups": ["eep"]},
+            {"text": "beep", "emoji": "📢", "groups": ["eep"]},
+            {"text": "laid", "emoji": "🥚", "groups": ["aid"]},
+            {"text": "afraid", "emoji": "😨", "groups": ["aid"]},
+            {"text": "grade", "emoji": "🅰️", "groups": ["aid"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: तुकबंदी और g की आवाज़", "Shabd Shakti: tukbandi aur g ki awaaz", "Word Power: rhymes and the two sounds of g"], "book": true,
+      "skills": ["book.words", "spell.word"],
+      "steps": [
+        {"book": true, "fb": ["We are three under the sweet cherry ___.", "tree", ["tree", "wrong", "weep"], "हम तीनों मीठे चेरी के पेड़ के नीचे हैं।", "Hum teeno meethe cherry ke ped ke neeche hain."]},
+        {"book": true, "fb": ["When I sing a song, I am never ___.", "wrong", ["wrong", "tree", "weep"], "जब मैं गाना गाता हूँ, कभी गलत नहीं होता।", "Jab main gaana gaata hoon, kabhi galat nahi hota."]},
+        {"book": true, "fb": ["When I sleep I never ___.", "weep", ["weep", "wrong", "tree"], "जब मैं सोता हूँ, कभी नहीं रोता।", "Jab main sota hoon, kabhi nahi rota."]},
+        {"card": ["g की दो आवाज़ें: page में ‘ज’ (giraffe), pig में ‘ग’ (glass)। अक्सर e, i, y से पहले g ‘ज’ बोलता है।", "g ki do awaazein: page mein ‘j’ (giraffe), pig mein ‘g’ (glass). Aksar e, i, y se pehle g ‘j’ bolta hai.", "g has two sounds: ‘j’ as in page (giraffe) and ‘g’ as in pig (glass). Before e, i or y, g often sounds like j."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["g की आवाज़ के हिसाब से रखो", "g ki awaaz ke hisaab se rakho", "Sort by the sound of g"],
+          "groups": [
+            {"id": "j", "name": "g as in page", "emoji": "🦒", "meaning": ["‘ज’ की आवाज़", "‘j’ ki awaaz"]},
+            {"id": "g", "name": "g as in pig", "emoji": "🐷", "meaning": ["‘ग’ की आवाज़", "‘g’ ki awaaz"]}
+          ],
+          "items": [
+            {"text": "giraffe", "emoji": "🦒", "groups": ["j"]},
+            {"text": "bridge", "emoji": "🌉", "groups": ["j"]},
+            {"text": "cage", "emoji": "🐦", "groups": ["j"]},
+            {"text": "gem", "emoji": "💎", "groups": ["j"]},
+            {"text": "giant", "emoji": "🧌", "groups": ["j"]},
+            {"text": "gypsy", "emoji": "🎪", "groups": ["j"]},
+            {"text": "age", "emoji": "🎂", "groups": ["j"]},
+            {"text": "message", "emoji": "✉️", "groups": ["j"]},
+            {"text": "leg", "emoji": "🦵", "groups": ["g"]},
+            {"text": "gun", "emoji": "🔫", "groups": ["g"]},
+            {"text": "gate", "emoji": "🚪", "groups": ["g"]},
+            {"text": "glass", "emoji": "🥛", "groups": ["g"]},
+            {"text": "go", "emoji": "🟢", "groups": ["g"]},
+            {"text": "bag", "emoji": "👜", "groups": ["g"]},
+            {"text": "grass", "emoji": "🌿", "groups": ["g"]},
+            {"text": "twig", "emoji": "🌱", "groups": ["g"]}
+          ]},
+        {"sayw": ["giraffe", "जिराफ़", "jiraaf"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"book": true, "q": ["Who is the speaker in the poem?", "कविता में बोलने वाला कौन है?", "Kavita mein bolne waala kaun hai?", ["a child", "the robin", "the tree"], "a child", "The speaker in the poem is a child.", "कविता में बोलने वाला एक बच्चा है।", "Kavita mein bolne waala ek bachcha hai."]},
+        {"book": true, "q": ["Who told the secret to the boy?", "बच्चे को राज़ किसने बताया?", "Bachche ko raaz kisne bataaya?", ["the tree", "the robin", "his mother"], "the tree", "The cherry tree told the secret to the boy.", "चेरी के पेड़ ने बच्चे को राज़ बताया।", "Cherry ke ped ne bachche ko raaz bataaya."]},
+        {"book": true, "q": ["What does the poet mean by ‘four little ...’?", "‘four little’ का मतलब?", "‘four little’ ka matlab?", ["four little eggs", "four little birds", "four little leaves"], "four little eggs", "By ‘four little’ the poet means four little eggs laid by the robin in her nest.", "‘four little’ का मतलब है रॉबिन के घोंसले में रखे चार छोटे अंडे।", "‘four little’ ka matlab hai robin ke ghonsle mein rakhe chaar chhote ande."]},
+        {"book": true, "q": ["Who told the secret to the tree?", "पेड़ को राज़ किसने बताया?", "Ped ko raaz kisne bataaya?", ["the bird (the robin)", "the boy", "the wind"], "the bird (the robin)"]},
+        {"book": true, "q": ["When will the secret be out?", "राज़ कब खुलेगा?", "Raaz kab khulega?", ["when the little birds fly out", "tomorrow morning", "when it rains"], "when the little birds fly out", "The secret will be out when the little birds hatch and fly out of the nest.", "राज़ तब खुलेगा जब छोटे बच्चे अंडों से निकलकर घोंसले से उड़ जाएँगे।", "Raaz tab khulega jab chhote bachche andon se nikalkar ghonsle se ud jaayenge."]},
+        {"book": true, "q": ["What is the secret?", "राज़ क्या है?", "Raaz kya hai?", ["The robin has built a nest in the cherry tree and laid four eggs.", "The tree is going to fall.", "The boy found money."], "The robin has built a nest in the cherry tree and laid four eggs.", "The secret is that the robin has built a nest in the cherry tree and laid four little eggs in it.", "राज़ यह है कि रॉबिन ने चेरी के पेड़ पर घोंसला बनाया है और उसमें चार छोटे अंडे दिए हैं।", "Raaz yeh hai ki robin ne cherry ke ped par ghonsla banaaya hai aur usmein chaar chhote ande diye hain."]},
+        {"book": true, "q": ["‘Just we three’: the bird, the poet and ...?", "तीसरा कौन?", "Teesra kaun?", ["the cherry tree", "the mother", "the cat"], "the cherry tree"]}
+      ]
+    },
+    {
+      "emoji": "🍂", "title": ["चलो पढ़ें: पत्तियाँ और मौसम", "Chalo padhein: pattiyaan aur mausam", "Let's Read: the leaves and the seasons"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 137 पर पत्तियों वाली कविता पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 137 par pattiyon waali kavita padho, phir jawab do.", "Read the poem about the leaves on page 137 of your book, then answer."]},
+        {"book": true, "q": ["What did the leaves say in the spring?", "बसंत में पत्तियों ने क्या कहा?", "Basant mein pattiyon ne kya kaha?", ["It's spring; here we are, opening and stretching on every tree.", "We are weary.", "Aren't we all gay?"], "It's spring; here we are, opening and stretching on every tree."]},
+        {"book": true, "q": ["In which season do birds make nests in the trees?", "चिड़ियाँ किस मौसम में घोंसले बनाती हैं?", "Chidiyaan kis mausam mein ghonsle banaati hain?", ["summer", "winter", "autumn"], "summer"]},
+        {"book": true, "q": ["What did the leaves say in the autumn?", "पतझड़ में पत्तियों ने क्या कहा?", "Patjhad mein pattiyon ne kya kaha?", ["Aren't we all gay?", "Weary are we.", "Here we are."], "Aren't we all gay?", "In autumn the leaves said, ‘It's autumn, aren't we all gay?’ They were scarlet, golden and russet.", "पतझड़ में पत्तियों ने कहा, ‘पतझड़ है, क्या हम सब रंगीन नहीं?’ वे लाल, सुनहरी और भूरी थीं।", "Patjhad mein pattiyon ne kaha, ‘Patjhad hai, kya hum sab rangeen nahi?’ Woh laal, sunahri aur bhoori thin."]},
+        {"book": true, "q": ["What happened to the leaves in the winter?", "सर्दी में पत्तियों का क्या हुआ?", "Sardi mein pattiyon ka kya hua?", ["They were weary, so they lay down and slept under the tree.", "They turned green.", "They flew to the sky."], "They were weary, so they lay down and slept under the tree."]},
+        {"book": true, "q": ["An appropriate title for the poem:", "उचित शीर्षक", "Uchit sheershak", ["The Leaves and the Seasons", "My Pet Bird", "The Rainy Day"], "The Leaves and the Seasons"]}
+      ]
+    },
+    {
+      "emoji": "🖼️", "title": ["चलो लिखें: तस्वीर का वर्णन", "Chalo likhein: tasveer ka varnan", "Let's Write: describe the picture"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: कविता के साथ वाली तस्वीर देखो और 5-6 वाक्यों में उसका वर्णन करो। इन वाक्यों से मदद लो।", "Kitaab: kavita ke saath waali tasveer dekho aur 5-6 vaakyon mein uska varnan karo. In vaakyon se madad lo.", "The book: look at the picture with the poem and describe it in 5–6 sentences. Use these sentences to help."]},
+        {"book": true, "build": ["तस्वीर में एक चेरी का पेड़ है।", "Tasveer mein ek cherry ka ped hai.", "Say what tree is in the picture.", "There is a cherry tree in the picture.", "तस्वीर में एक चेरी का पेड़ है।", "Tasveer mein ek cherry ka ped hai."]},
+        {"book": true, "build": ["एक चिड़िया ने डाल पर घोंसला बनाया है।", "Ek chidiya ne daal par ghonsla banaaya hai.", "Tell what the bird has made.", "A bird has built a nest on a branch.", "एक चिड़िया ने डाल पर घोंसला बनाया है।", "Ek chidiya ne daal par ghonsla banaaya hai."]},
+        {"book": true, "build": ["घोंसले में चार छोटे अंडे हैं।", "Ghonsle mein chaar chhote ande hain.", "Tell what is inside the nest.", "There are four little eggs in the nest.", "घोंसले में चार छोटे अंडे हैं।", "Ghonsle mein chaar chhote ande hain."]},
+        {"book": true, "build": ["एक बच्चा ख़ुशी से घोंसले को देख रहा है।", "Ek bachcha khushi se ghonsle ko dekh raha hai.", "Tell what the child is doing.", "A child is happily looking at the nest.", "एक बच्चा ख़ुशी से घोंसले को देख रहा है।", "Ek bachcha khushi se ghonsle ko dekh raha hai."]}
+      ]
+    },
+    {
+      "emoji": "🔁", "title": ["दोहराव 3: शब्द और समझ", "Dohraav 3: shabd aur samajh", "Revision Exercises 3: words and comprehension"], "book": true,
+      "skills": ["book.words", "book.comprehension"],
+      "steps": [
+        {"card": ["किताब के पेज 139-142 पर पाठ 11 से 15 का दोहराव है।", "Kitaab ke page 139-142 par paath 11 se 15 ka dohraav hai.", "Pages 139–142 of your book revise Lessons 11 to 15."]},
+        {"book": true, "skills": ["book.words", "grammar.adverbs"], "pairs": ["-ly जोड़ो", "-ly jodo", "Add -ly", [
+          ["polite", "politely", "विनम्रता से", "vinamrata se"],
+          ["general", "generally", "आम तौर पर", "aam taur par"],
+          ["happy", "happily", "ख़ुशी से", "khushi se"],
+          ["slow", "slowly", "धीरे से", "dheere se"],
+          ["faithful", "faithfully", "वफ़ादारी से", "vafaadaari se"],
+          ["kind", "kindly", "दया से", "daya se"]]]},
+        {"book": true, "fb": ["We should ___ other passengers in a bus.", "accommodate", ["accommodate", "migrate", "conserve"], "बस में दूसरे यात्रियों को जगह देनी चाहिए।", "Bus mein doosre yaatriyon ko jagah deni chahiye."]},
+        {"book": true, "fb": ["Birds ___ from one place to the other.", "migrate", ["migrate", "conserve", "accommodate"], "पक्षी एक जगह से दूसरी जगह जाते हैं।", "Pakshi ek jagah se doosri jagah jaate hain."]},
+        {"book": true, "fb": ["We must ___ water.", "conserve", ["conserve", "migrate", "accommodate"], "हमें पानी बचाना चाहिए।", "Humein paani bachaana chahiye."]},
+        {"book": true, "fb": ["My grandmother sells milk at the ___.", "dairy", ["dairy", "diary"], "मेरी दादी डेरी पर दूध बेचती हैं।", "Meri daadi dairy par doodh bechti hain."]},
+        {"book": true, "fb": ["I write in my ___ every night.", "diary", ["diary", "dairy"], "मैं हर रात डायरी लिखता हूँ।", "Main har raat diary likhta hoon."]},
+        {"book": true, "fb": ["I got a lower ___ in the train.", "berth", ["berth", "birth"], "मुझे ट्रेन में नीचे की सीट मिली।", "Mujhe train mein neeche ki seat mili."]},
+        {"book": true, "fb": ["A ___ ran into the forest.", "deer", ["deer", "dear"], "एक हिरण जंगल में भागा।", "Ek hiran jungle mein bhaaga."]},
+        {"book": true, "q": ["‘Burning issues’ means ...", "ज्वलंत मुद्दे", "Jwalant mudde", ["important topics", "painful topics", "unwanted topics"], "important topics"]},
+        {"book": true, "q": ["Who told the secret to the boy?", "राज़ किसने बताया?", "Raaz kisne bataaya?", ["the tree", "the robin", "his mother"], "the tree"]},
+        {"book": true, "q": ["Do the Bhils like colourful dresses?", "भीलों को रंगीन कपड़े?", "Bheelon ko rangeen kapde?", ["Yes", "No"], "Yes"]},
+        {"book": true, "pairs": ["(D) मिलान करो", "(D) Milaan karo", "(D) Match the following", [
+          ["Yaksha was highly pleased with", "Yudhishthira", "यक्ष युधिष्ठिर से ख़ुश हुआ", "Yaksha Yudhishthir se khush hua"],
+          ["The leaves say in the autumn", "we are all gay", "पतझड़ में पत्तियाँ: हम सब रंगीन", "patjhad mein pattiyaan: hum sab rangeen"],
+          ["The Chipko Movement", "was for the protection of forests", "चिपको आंदोलन: जंगल बचाने के लिए", "Chipko aandolan: jungle bachaane ke liye"]]]}
+      ]
+    },
+    {
+      "emoji": "🌙", "title": ["दोहराव 3: ग्रामर और पढ़ना", "Dohraav 3: grammar aur padhna", "Revision Exercises 3: grammar and reading"], "book": true,
+      "skills": ["book.grammar", "book.comprehension"],
+      "steps": [
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["Leela ___ in Gwalior.", "lived", ["lived", "lives", "living"], "लीला ग्वालियर में रहती थी।", "Leela Gwalior mein rehti thi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["He ___ to write an article.", "wanted", ["wanted", "wants", "want"], "वह एक लेख लिखना चाहता था।", "Woh ek lekh likhna chahta tha."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["The students ___ the function.", "attended", ["attended", "attend", "attends"], "छात्र समारोह में गए।", "Chhaatra samaaroh mein gaye."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "q": ["The teacher guided me. (passive)", "Passive वाक्य बनाओ", "Passive vaakya banao", ["I was guided by the teacher.", "I am guided by the teacher.", "The teacher was guided by me."], "I was guided by the teacher."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "q": ["The children make toys. (passive)", "Passive वाक्य बनाओ", "Passive vaakya banao", ["Toys are made by the children.", "Toys were made by the children.", "Toys is made by the children."], "Toys are made by the children."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "q": ["Bring some water. (passive)", "Passive वाक्य बनाओ", "Passive vaakya banao", ["Let some water be brought.", "Some water brought.", "Water is bring."], "Let some water be brought.", "An order becomes passive with ‘Let ... be + 3rd form’: Let some water be brought.", "आदेश वाले वाक्य का passive: Let ... be + तीसरा रूप: Let some water be brought.", "Aadesh waale vaakya ka passive: Let ... be + teesra roop: Let some water be brought."]},
+        {"book": true, "skills": ["book.grammar", "grammar.can"], "fb": ["The weather report says it ___ rain today.", "might", ["might", "can't", "must"], "मौसम की ख़बर कहती है आज बारिश हो सकती है।", "Mausam ki khabar kehti hai aaj baarish ho sakti hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.can"], "fb": ["___ I use your pen?", "May", ["May", "Might", "Must"], "क्या मैं तुम्हारा पेन ले सकता हूँ?", "Kya main tumhaara pen le sakta hoon?"]},
+        {"book": true, "skills": ["book.grammar", "grammar.can"], "fb": ["There ___ be more trouble in future.", "could", ["could", "can't", "must"], "आगे और परेशानी हो सकती है।", "Aage aur pareshaani ho sakti hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["Pari told a lie, so he ___ her. (punish)", "punished", ["punished", "punish", "punishes"], "परी ने झूठ बोला, इसलिए उसने उसे सज़ा दी।", "Pari ne jhooth bola, isliye usne use saza di."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["His turban is clean, he ___ it yesterday. (wash)", "washed", ["washed", "washes", "wash"], "उसकी पगड़ी साफ़ है, उसने कल धोई थी।", "Uski pagdi saaf hai, usne kal dhoyi thi."]},
+        {"card": ["किताब पेज 141-142: ईद वाला पैराग्राफ़ और ‘I love my teacher’ कविता पढ़ो।", "Kitaab page 141-142: Eid waala paragraph aur ‘I love my teacher’ kavita padho.", "Book pages 141–142: read the passage about Eid and the poem ‘I love my teacher’."]},
+        {"book": true, "q": ["When is Eid celebrated?", "ईद कब मनाई जाती है?", "Eid kab manaayi jaati hai?", ["at the end of the holy month of Ramzan", "in the rainy season", "on New Year's Day"], "at the end of the holy month of Ramzan"]},
+        {"book": true, "q": ["What is Ramzan?", "रमज़ान क्या है?", "Ramzaan kya hai?", ["a holy month of fasting, prayer and purification", "a festival of lights", "a harvest dance"], "a holy month of fasting, prayer and purification"]},
+        {"book": true, "q": ["Where do children go with their elders on Eid?", "ईद पर बच्चे बड़ों के साथ कहाँ जाते हैं?", "Eid par bachche badon ke saath kahan jaate hain?", ["to the Eidgah", "to school", "to the market only"], "to the Eidgah"]},
+        {"book": true, "q": ["How do people greet one another on Eid?", "ईद पर लोग कैसे मिलते हैं?", "Eid par log kaise milte hain?", ["They greet and hug one another.", "They shake hands only.", "They don't meet."], "They greet and hug one another."]},
+        {"book": true, "q": ["Why does the poet love his teacher? (one reason)", "कवि टीचर को क्यों प्यार करता है?", "Kavi teacher ko kyon pyaar karta hai?", ["He is full of life and always bright.", "He gives no homework.", "He fights a lot."], "He is full of life and always bright."]},
+        {"book": true, "pairs": ["कविता से तुकबंदी वाले शब्द", "Kavita se tukbandi waale shabd", "Rhyming words from the poem", [
+          ["life", "strife", "जीवन — झगड़ा", "jeevan — jhagda"],
+          ["light", "bright", "रोशनी — चमकीला", "roshni — chamkeela"],
+          ["fight", "night", "लड़ाई — रात", "ladaai — raat"]]]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: हमारे पक्षी", "Aur seekho: hamaare pakshi", "Learn more: our birds"], "book": false,
+      "skills": ["vocab.animals", "book.activity"],
+      "steps": [
+        {"card": ["किताब: पुस्तकालय जाकर पक्षियों या पेड़ों पर कोई कविता ढूँढो और कॉपी में लिखो।", "Kitaab: pustakaalay jaakar pakshiyon ya pedon par koi kavita dhoondho aur copy mein likho.", "The book: visit your library, find a poem on birds or trees and write it in your notebook."]},
+        {"q": ["What is the State Bird of Madhya Pradesh?", "म.प्र. का राजकीय पक्षी?", "M.P. ka raajkeeya pakshi?", ["the Indian paradise flycatcher (Doodhraj)", "the peacock", "the sparrow"], "the Indian paradise flycatcher (Doodhraj)"]},
+        {"q": ["What is India's National Bird?", "भारत का राष्ट्रीय पक्षी?", "Bharat ka raashtriya pakshi?", ["the peacock", "the parrot", "the crow"], "the peacock"]},
+        {"q": ["Why should we not touch a bird's nest?", "घोंसले को क्यों नहीं छूना चाहिए?", "Ghonsle ko kyon nahi chhoona chahiye?", ["The bird may get scared and leave its eggs.", "Nests are very hot.", "Nests are made of gold."], "The bird may get scared and leave its eggs."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 15 का टेस्ट", "Paath 15 ka test", "Lesson 15 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What is the secret?", "राज़ क्या है?", "Raaz kya hai?", ["The robin has built a nest in the cherry tree and laid four eggs.", "The tree is going to fall.", "The boy found money."], "The robin has built a nest in the cherry tree and laid four eggs."]},
+        {"book": true, "q": ["When will the secret be out?", "राज़ कब खुलेगा?", "Raaz kab khulega?", ["when the little birds fly out", "tomorrow morning", "when it rains"], "when the little birds fly out"]},
+        {"book": true, "q": ["Who told the secret to the tree?", "पेड़ को किसने बताया?", "Ped ko kisne bataaya?", ["the bird (the robin)", "the boy", "the wind"], "the bird (the robin)"]},
+        {"book": true, "skills": ["book.words"], "q": ["In which word does g sound like the g in ‘page’?", "page वाली g", "page waali g", ["giant", "glass", "twig"], "giant"]},
+        {"book": true, "skills": ["book.words"], "q": ["In which word does g sound like the g in ‘pig’?", "pig वाली g", "pig waali g", ["grass", "cage", "gem"], "grass"]},
+        {"book": true, "skills": ["book.words"], "fb": ["When I sleep I never ___.", "weep", ["weep", "wrong", "tree"], "सोते समय मैं कभी नहीं रोता।", "Sote samay main kabhi nahi rota."]},
+        {"book": true, "q": ["What did the leaves say in the autumn?", "पतझड़ में?", "Patjhad mein?", ["Aren't we all gay?", "Weary are we.", "Here we are."], "Aren't we all gay?"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "q": ["The children make toys. (passive)", "Passive वाक्य बनाओ", "Passive vaakya banao", ["Toys are made by the children.", "Toys were made by the children.", "Toys is made by the children."], "Toys are made by the children."]},
+        {"book": true, "skills": ["book.words"], "fb": ["I write in my ___ every night.", "diary", ["diary", "dairy"], "मैं हर रात डायरी लिखता हूँ।", "Main har raat diary likhta hoon."]},
+        {"book": true, "q": ["Where do children go with their elders on Eid?", "ईद पर कहाँ?", "Eid par kahan?", ["to the Eidgah", "to school", "to the market only"], "to the Eidgah"]}
+      ]
+    }
+  ]
+}

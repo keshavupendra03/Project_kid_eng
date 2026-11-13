@@ -1,0 +1,199 @@
+{
+  "id": "B6.07.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.07.4.S01"
+  ],
+  "steps": [
+    {
+      "type": "roleplay",
+      "id": "B6.07.4.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🏸",
+      "turns": [
+        {
+          "id": "which",
+          "tinku": "Which game do you play?",
+          "meaning": {
+            "hi": "तुम कौन सा खेल खेलते हो?",
+            "hinglish": "Tum kaun sa khel khelte ho?"
+          },
+          "replies": [
+            {
+              "say": "I play badminton.",
+              "meaning": {
+                "hi": "मैं बैडमिंटन खेलता/खेलती हूँ। (अपना खेल बोलो)",
+                "hinglish": "Main badminton khelta/khelti hoon. (Apna khel bolo)"
+              },
+              "patterns": [
+                "i play *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kind",
+          "tinku": "Is it an indoor game or an outdoor game?",
+          "meaning": {
+            "hi": "यह घर के अंदर का खेल है या बाहर का?",
+            "hinglish": "Yeh ghar ke andar ka khel hai ya baahar ka?"
+          },
+          "replies": [
+            {
+              "say": "It is an outdoor game.",
+              "meaning": {
+                "hi": "यह बाहर का खेल है।",
+                "hinglish": "Yeh baahar ka khel hai."
+              },
+              "patterns": [
+                "* outdoor *",
+                "outdoor *",
+                "outdoor",
+                "* outdoor"
+              ]
+            },
+            {
+              "say": "It is an indoor game.",
+              "meaning": {
+                "hi": "यह अंदर का खेल है।",
+                "hinglish": "Yeh andar ka khel hai."
+              },
+              "patterns": [
+                "* indoor *",
+                "indoor *",
+                "indoor",
+                "* indoor"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "net",
+          "tinku": "Do you use a net in this game?",
+          "meaning": {
+            "hi": "क्या इस खेल में जाल (net) लगता है?",
+            "hinglish": "Kya is khel mein jaal (net) lagta hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, we use a net.",
+              "meaning": {
+                "hi": "हाँ, जाल लगता है।",
+                "hinglish": "Haan, jaal lagta hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, we don't use a net.",
+              "meaning": {
+                "hi": "नहीं, जाल नहीं लगता।",
+                "hinglish": "Nahi, jaal nahi lagta."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "players",
+          "tinku": "How many players take part in this game?",
+          "meaning": {
+            "hi": "इस खेल में कितने खिलाड़ी होते हैं?",
+            "hinglish": "Is khel mein kitne khilaadi hote hain?"
+          },
+          "replies": [
+            {
+              "say": "Two or four players take part.",
+              "meaning": {
+                "hi": "दो या चार खिलाड़ी होते हैं।",
+                "hinglish": "Do ya chaar khilaadi hote hain."
+              },
+              "patterns": [
+                "*",
+                "* *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.07.4.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "instruction": {
+        "hi": "हर खेल को उसकी चीज़ से जोड़ो",
+        "hinglish": "Har khel ko uski cheez se jodo",
+        "en": "Join each game to what you use"
+      },
+      "pairs": [
+        {
+          "left": "cricket",
+          "right": "a bat and a ball",
+          "meaning": {
+            "hi": "बल्ला और गेंद",
+            "hinglish": "balla aur gend"
+          }
+        },
+        {
+          "left": "hockey",
+          "right": "a stick and a ball",
+          "meaning": {
+            "hi": "हॉकी स्टिक और गेंद",
+            "hinglish": "hockey stick aur gend"
+          }
+        },
+        {
+          "left": "badminton",
+          "right": "a racket, a shuttle and a net",
+          "meaning": {
+            "hi": "रैकेट, चिड़िया और जाल",
+            "hinglish": "racket, chidiya aur jaal"
+          }
+        },
+        {
+          "left": "kabaddi",
+          "right": "nothing but strong players",
+          "meaning": {
+            "hi": "कुछ नहीं, बस खिलाड़ी",
+            "hinglish": "kuch nahi, bas khilaadi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.4.S03",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "question": "How many players are there in a cricket team?",
+      "questionMeaning": {
+        "hi": "क्रिकेट टीम में कितने खिलाड़ी होते हैं?",
+        "hinglish": "Cricket team mein kitne khilaadi hote hain?"
+      },
+      "options": [
+        "eleven",
+        "six",
+        "five"
+      ],
+      "answer": "eleven"
+    }
+  ]
+}

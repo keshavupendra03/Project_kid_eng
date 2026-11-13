@@ -1,0 +1,414 @@
+{
+  "id": "B7.09.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.09.4.S01",
+    "B7.09.4.S02",
+    "B7.09.4.S03",
+    "B7.09.4.S04",
+    "B7.09.4.S05",
+    "B7.09.4.S06",
+    "B7.09.4.S07",
+    "B7.09.4.S08",
+    "B7.09.4.S10",
+    "B7.09.4.S11",
+    "B7.09.4.S12",
+    "B7.09.4.S13",
+    "B7.09.4.S15"
+  ],
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "B7.09.4.S01",
+      "skills": [
+        "book.grammar"
+      ],
+      "sentence": "All my records are ___.",
+      "answer": "in good order",
+      "options": [
+        "in good order",
+        "afraid of",
+        "dressed in"
+      ],
+      "meaning": {
+        "hi": "मेरे सारे रिकॉर्ड अच्छी हालत में हैं।",
+        "hinglish": "Mere saare record achhi haalat mein hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.09.4.S02",
+      "skills": [
+        "book.grammar"
+      ],
+      "sentence": "His grandmother is very old; she is ___ of health.",
+      "answer": "in a bad state",
+      "options": [
+        "in a bad state",
+        "by the light of",
+        "head to foot"
+      ],
+      "meaning": {
+        "hi": "उनकी दादी बहुत बूढ़ी हैं; उनकी सेहत ख़राब है।",
+        "hinglish": "Unki daadi bahut boodhi hain; unki sehat kharaab hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.09.4.S03",
+      "skills": [
+        "book.grammar"
+      ],
+      "sentence": "Sohan went ___ his sister last month.",
+      "answer": "to visit",
+      "options": [
+        "to visit",
+        "afraid of",
+        "at the end"
+      ],
+      "meaning": {
+        "hi": "सोहन पिछले महीने अपनी बहन से मिलने गया।",
+        "hinglish": "Sohan pichhle mahine apni behen se milne gaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.09.4.S04",
+      "skills": [
+        "book.grammar"
+      ],
+      "sentence": "He is working ___ the moon.",
+      "answer": "by the light of",
+      "options": [
+        "by the light of",
+        "in good order",
+        "dressed in"
+      ],
+      "meaning": {
+        "hi": "वह चाँद की रोशनी में काम कर रहा है।",
+        "hinglish": "Woh chaand ki roshni mein kaam kar raha hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.09.4.S05",
+      "skills": [
+        "book.grammar"
+      ],
+      "sentence": "Suman was ___ a khadi saree to act as a leader.",
+      "answer": "dressed in",
+      "options": [
+        "dressed in",
+        "afraid of",
+        "to visit"
+      ],
+      "meaning": {
+        "hi": "नेता का किरदार निभाने के लिए सुमन ने खादी की साड़ी पहनी थी।",
+        "hinglish": "Neta ka kirdaar nibhaane ke liye Suman ne khaadi ki saadi pehni thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.09.4.S06",
+      "skills": [
+        "book.grammar"
+      ],
+      "sentence": "The sick child gets cured ___ of the story.",
+      "answer": "at the end",
+      "options": [
+        "at the end",
+        "head to foot",
+        "in good order"
+      ],
+      "meaning": {
+        "hi": "कहानी के अंत में बीमार बच्चा ठीक हो जाता है।",
+        "hinglish": "Kahani ke ant mein beemaar bachcha theek ho jaata hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.09.4.S07",
+      "skills": [
+        "book.grammar"
+      ],
+      "sentence": "She was wearing black clothes from ___.",
+      "answer": "head to foot",
+      "options": [
+        "head to foot",
+        "at the end",
+        "to visit"
+      ],
+      "meaning": {
+        "hi": "उसने सिर से पैर तक काले कपड़े पहने थे।",
+        "hinglish": "Usne sir se pair tak kaale kapde pehne the."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.09.4.S08",
+      "skills": [
+        "book.grammar"
+      ],
+      "sentence": "I am not ___ ghosts.",
+      "answer": "afraid of",
+      "options": [
+        "afraid of",
+        "dressed in",
+        "by the light of"
+      ],
+      "meaning": {
+        "hi": "मैं भूतों से नहीं डरता/डरती।",
+        "hinglish": "Main bhooton se nahi darta/darti."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.09.4.S09",
+      "skills": [
+        "book.grammar"
+      ],
+      "text": {
+        "hi": "किसी की कही बात अपने शब्दों में बताना = indirect speech। Seema asked Geeta, \"What are you doing today?\" → Seema asked Geeta what she was doing that day। बदलाव: am → was, I → she, today → that day, will → would।",
+        "hinglish": "Kisi ki kahi baat apne shabdon mein bataana = indirect speech. Seema asked Geeta, \"What are you doing today?\" → Seema asked Geeta what she was doing that day. Badlaav: am → was, I → she, today → that day, will → would.",
+        "en": "Telling what someone said in your own words is indirect speech. Seema asked Geeta, \"What are you doing today?\" → Seema asked Geeta what she was doing that day. Changes: am → was, I → she, today → that day, will → would."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.09.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Geeta said, \"I am going to my grandmother's place.\"",
+        "hinglish": "Badlo: Geeta said, \"I am going to my grandmother's place.\"",
+        "en": "Change: Geeta said, \"I am going to my grandmother's place.\""
+      },
+      "answer": "Geeta said that she was going to her grandmother's place.",
+      "meaning": {
+        "hi": "गीता ने कहा कि वह अपनी दादी के घर जा रही थी।",
+        "hinglish": "Geeta ne kaha ki woh apni daadi ke ghar ja rahi thi."
+      },
+      "extra": [
+        "am",
+        "my"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.09.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Seema asked, \"How far is your grandmother's house?\"",
+        "hinglish": "Badlo: Seema asked, \"How far is your grandmother's house?\"",
+        "en": "Change: Seema asked, \"How far is your grandmother's house?\""
+      },
+      "answer": "Seema asked how far her grandmother's house was.",
+      "meaning": {
+        "hi": "सीमा ने पूछा कि उसकी दादी का घर कितनी दूर था।",
+        "hinglish": "Seema ne poochha ki uski daadi ka ghar kitni door tha."
+      },
+      "extra": [
+        "is",
+        "your"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.09.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Geeta said, \"It is not very far. I will have to take a bus to Sonpur village.\"",
+        "hinglish": "Badlo: Geeta said, \"It is not very far. I will have to take a bus to Sonpur village.\"",
+        "en": "Change Geeta's words into indirect speech."
+      },
+      "answer": "Geeta said that it was not very far and she would have to take a bus to Sonpur village.",
+      "meaning": {
+        "hi": "गीता ने कहा कि वह ज़्यादा दूर नहीं था और उसे सोनपुर गाँव के लिए बस लेनी पड़ेगी।",
+        "hinglish": "Geeta ne kaha ki woh zyaada door nahi tha aur use Sonpur gaon ke liye bus leni padegi."
+      },
+      "extra": [
+        "will",
+        "is"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.09.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Seema said, \"Sonpur is a nice village. I have seen it.\"",
+        "hinglish": "Badlo: Seema said, \"Sonpur is a nice village. I have seen it.\"",
+        "en": "Change Seema's words into indirect speech."
+      },
+      "answer": "Seema said that Sonpur was a nice village and she had seen it.",
+      "meaning": {
+        "hi": "सीमा ने कहा कि सोनपुर एक अच्छा गाँव था और उसने उसे देखा था।",
+        "hinglish": "Seema ne kaha ki Sonpur ek achha gaon tha aur usne use dekha tha."
+      },
+      "extra": [
+        "is",
+        "have"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.09.4.S14",
+      "skills": [
+        "book.grammar"
+      ],
+      "text": {
+        "hi": "आदमी या लड़का = he, औरत या लड़की = she, जो दोनों हो सकते हैं (baby, teacher) = he/she, चीज़ें = it।",
+        "hinglish": "Aadmi ya ladka = he, aurat ya ladki = she, jo dono ho sakte hain (baby, teacher) = he/she, cheezein = it.",
+        "en": "A man or boy = he, a woman or girl = she, words that can be either (baby, teacher) = he/she, things = it."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.09.4.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को he, she, he/she या it में रखो",
+        "hinglish": "Har shabd ko he, she, he/she ya it mein rakho",
+        "en": "Put each word under he, she, he/she or it"
+      },
+      "groups": [
+        {
+          "id": "he",
+          "name": "he",
+          "emoji": "👦",
+          "meaning": {
+            "hi": "पुरुष",
+            "hinglish": "purush"
+          }
+        },
+        {
+          "id": "she",
+          "name": "she",
+          "emoji": "👧",
+          "meaning": {
+            "hi": "स्त्री",
+            "hinglish": "stree"
+          }
+        },
+        {
+          "id": "both",
+          "name": "he / she",
+          "emoji": "🧑",
+          "meaning": {
+            "hi": "दोनों हो सकते हैं",
+            "hinglish": "dono ho sakte hain"
+          }
+        },
+        {
+          "id": "it",
+          "name": "it",
+          "emoji": "📦",
+          "meaning": {
+            "hi": "चीज़",
+            "hinglish": "cheez"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "king",
+          "emoji": "🤴",
+          "groups": [
+            "he"
+          ]
+        },
+        {
+          "text": "mother",
+          "emoji": "👩",
+          "groups": [
+            "she"
+          ]
+        },
+        {
+          "text": "pencil",
+          "emoji": "✏️",
+          "groups": [
+            "it"
+          ]
+        },
+        {
+          "text": "baby",
+          "emoji": "👶",
+          "groups": [
+            "both"
+          ]
+        },
+        {
+          "text": "father",
+          "emoji": "👨",
+          "groups": [
+            "he"
+          ]
+        },
+        {
+          "text": "tree",
+          "emoji": "🌳",
+          "groups": [
+            "it"
+          ]
+        },
+        {
+          "text": "queen",
+          "emoji": "👸",
+          "groups": [
+            "she"
+          ]
+        },
+        {
+          "text": "teacher",
+          "emoji": "🧑‍🏫",
+          "groups": [
+            "both"
+          ]
+        },
+        {
+          "text": "uncle",
+          "emoji": "🧔",
+          "groups": [
+            "he"
+          ]
+        },
+        {
+          "text": "lioness",
+          "emoji": "🦁",
+          "groups": [
+            "she"
+          ]
+        },
+        {
+          "text": "cousin",
+          "emoji": "🧒",
+          "groups": [
+            "both"
+          ]
+        },
+        {
+          "text": "box",
+          "emoji": "📦",
+          "groups": [
+            "it"
+          ]
+        }
+      ]
+    }
+  ]
+}

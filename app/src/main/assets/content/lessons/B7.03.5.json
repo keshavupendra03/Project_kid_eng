@@ -1,0 +1,228 @@
+{
+  "id": "B7.03.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.03.5.S02",
+    "B7.03.5.S03",
+    "B7.03.5.S04",
+    "B7.03.5.S05",
+    "B7.03.5.S06",
+    "B7.03.5.S07",
+    "B7.03.5.S08",
+    "B7.03.5.S09",
+    "B7.03.5.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.03.5.S01",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "text": {
+        "hi": "किताब में एक छोटी कहानी है: एक औरत अंडे बेचने जा रही थी। खाली जगह भरकर कहानी पूरी करो।",
+        "hinglish": "Kitaab mein ek chhoti kahani hai: ek aurat ande bechne ja rahi thi. Khaali jagah bharkar kahani poori karo.",
+        "en": "The book has a short story: a woman was going to sell eggs. Fill the gaps to finish the story."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.5.S02",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "sentence": "A woman was carrying a ___ of eggs.",
+      "answer": "basket",
+      "options": [
+        "basket",
+        "full",
+        "more"
+      ],
+      "meaning": {
+        "hi": "एक औरत अंडों की टोकरी ले जा रही थी।",
+        "hinglish": "Ek aurat andon ki tokri le ja rahi thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.5.S03",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "sentence": "She was going ___ to sell them.",
+      "answer": "to the market",
+      "options": [
+        "to the market",
+        "stumbled",
+        "looking"
+      ],
+      "meaning": {
+        "hi": "वह उन्हें बेचने बाज़ार जा रही थी।",
+        "hinglish": "Woh unhe bechne baazaar ja rahi thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.5.S04",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "sentence": "She thought she would get ___ money by selling.",
+      "answer": "more",
+      "options": [
+        "more",
+        "broke",
+        "basket"
+      ],
+      "meaning": {
+        "hi": "उसने सोचा कि बेचकर उसे ज़्यादा पैसे मिलेंगे।",
+        "hinglish": "Usne socha ki bechkar use zyaada paise milenge."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.5.S05",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "sentence": "Then she would buy ___ hens.",
+      "answer": "many more",
+      "options": [
+        "many more",
+        "stumbled",
+        "full"
+      ],
+      "meaning": {
+        "hi": "फिर वह और बहुत सी मुर्गियाँ ख़रीदेगी।",
+        "hinglish": "Phir woh aur bahut si murgiyaan khareedegi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.5.S06",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "sentence": "She was not ___ on the road.",
+      "answer": "looking",
+      "options": [
+        "looking",
+        "basket",
+        "more"
+      ],
+      "meaning": {
+        "hi": "वह सड़क पर देख नहीं रही थी।",
+        "hinglish": "Woh sadak par dekh nahi rahi thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.5.S07",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "sentence": "Do you know ___?",
+      "answer": "what happened",
+      "options": [
+        "what happened",
+        "to the market",
+        "many more"
+      ],
+      "meaning": {
+        "hi": "क्या तुम जानते हो क्या हुआ?",
+        "hinglish": "Kya tum jaante ho kya hua?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.5.S08",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "sentence": "She ___.",
+      "answer": "stumbled",
+      "options": [
+        "stumbled",
+        "looking",
+        "basket"
+      ],
+      "meaning": {
+        "hi": "वह लड़खड़ा गई।",
+        "hinglish": "Woh ladkhada gayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.5.S09",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "sentence": "All the eggs ___.",
+      "answer": "were thrown out",
+      "options": [
+        "were thrown out",
+        "more",
+        "looking"
+      ],
+      "meaning": {
+        "hi": "सारे अंडे बाहर गिर गए।",
+        "hinglish": "Saare ande baahar gir gaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.5.S10",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "sentence": "Most of them ___.",
+      "answer": "broke",
+      "options": [
+        "broke",
+        "basket",
+        "many more"
+      ],
+      "meaning": {
+        "hi": "उनमें से ज़्यादातर टूट गए।",
+        "hinglish": "Unmein se zyaadatar toot gaye."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.03.5.S11",
+      "skills": [
+        "book.talk",
+        "book.words"
+      ],
+      "text": {
+        "hi": "इस कहानी की सीख एक मशहूर कहावत है: Don't count your chickens before they hatch. यानी काम पूरा होने से पहले ही उसके सपने मत देखो।",
+        "hinglish": "Is kahani ki seekh ek mashhoor kahaavat hai: Don't count your chickens before they hatch. Yaani kaam poora hone se pehle hi uske sapne mat dekho.",
+        "en": "The lesson of this story is a famous saying: Don't count your chickens before they hatch. Don't plan with something you don't have yet."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "B7.03.5.S12",
+      "skills": [
+        "speak.sentence",
+        "book.talk"
+      ],
+      "sentence": "Don't count your chickens before they hatch.",
+      "meaning": {
+        "hi": "काम पूरा होने से पहले ही उसके सपने मत देखो।",
+        "hinglish": "Kaam poora hone se pehle hi uske sapne mat dekho.",
+        "en": "Don't count your chickens before they hatch."
+      }
+    }
+  ]
+}

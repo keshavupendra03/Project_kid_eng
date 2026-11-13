@@ -1,0 +1,151 @@
+{
+  "id": "B8.04.9",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.9.S02",
+    "B8.04.9.S03",
+    "B8.04.9.S04",
+    "B8.04.9.S05",
+    "B8.04.9.S06",
+    "B8.04.9.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.9.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 30 पर वल्लभ भाई स्कूल, भोपाल का नोटिस पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 30 par Vallabh Bhai School, Bhopal ka notice padho, phir jawab do.",
+        "en": "Read the notice of Vallabh Bhai School, Bhopal on page 30 of your book, then answer."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.9.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "Anurag has put up a ___ on his school noticeboard.",
+      "answer": "notice",
+      "options": [
+        "notice",
+        "letter",
+        "poster"
+      ],
+      "meaning": {
+        "hi": "अनुराग ने स्कूल के नोटिस बोर्ड पर एक सूचना लगाई है।",
+        "hinglish": "Anurag ne school ke notice board par ek soochna lagaayi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.9.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "Anurag is the ___ secretary of Vallabh Bhai School.",
+      "answer": "cultural",
+      "options": [
+        "cultural",
+        "sports",
+        "school"
+      ],
+      "meaning": {
+        "hi": "अनुराग वल्लभ भाई स्कूल का सांस्कृतिक सचिव है।",
+        "hinglish": "Anurag Vallabh Bhai School ka saanskritik sachiv hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.9.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which ceremony was being held at Vallabh Bhai School?",
+      "questionMeaning": {
+        "hi": "स्कूल में कौन सा समारोह था?",
+        "hinglish": "School mein kaun sa samaaroh tha?"
+      },
+      "options": [
+        "a tree plantation ceremony",
+        "a prize distribution",
+        "a sports day"
+      ],
+      "answer": "a tree plantation ceremony",
+      "modelAnswer": "A tree plantation ceremony was being held at Vallabh Bhai School on 15th October 2006.",
+      "modelMeaning": {
+        "hi": "वल्लभ भाई स्कूल में 15 अक्टूबर 2006 को वृक्षारोपण समारोह था।",
+        "hinglish": "Vallabh Bhai School mein 15 October 2006 ko vrikshaaropan samaaroh tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.9.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How many plants are to be contributed by each class?",
+      "questionMeaning": {
+        "hi": "हर कक्षा कितने पौधे देगी?",
+        "hinglish": "Har kaksha kitne paudhe degi?"
+      },
+      "options": [
+        "a minimum of five",
+        "exactly two",
+        "ten or more"
+      ],
+      "answer": "a minimum of five",
+      "modelAnswer": "Each class should contribute a minimum of five plants.",
+      "modelMeaning": {
+        "hi": "हर कक्षा को कम से कम पाँच पौधे देने हैं।",
+        "hinglish": "Har kaksha ko kam se kam paanch paudhe dene hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.9.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Name and designation of the student who wrote the notice:",
+      "questionMeaning": {
+        "hi": "नोटिस लिखने वाले का नाम और पद",
+        "hinglish": "Notice likhne waale ka naam aur pad"
+      },
+      "options": [
+        "Anurag, Cultural Secretary",
+        "Anu, Head Girl",
+        "Vallabh, Principal"
+      ],
+      "answer": "Anurag, Cultural Secretary"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.9.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which word in the notice means ‘complete and enthusiastic’?",
+      "questionMeaning": {
+        "hi": "किस शब्द का मतलब ‘पूरे जोश वाला’ है?",
+        "hinglish": "Kis shabd ka matlab ‘poore josh waala’ hai?"
+      },
+      "options": [
+        "wholehearted",
+        "minimum",
+        "premises"
+      ],
+      "answer": "wholehearted"
+    }
+  ]
+}

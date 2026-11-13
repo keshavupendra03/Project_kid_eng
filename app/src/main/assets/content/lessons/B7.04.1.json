@@ -1,0 +1,288 @@
+{
+  "id": "B7.04.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.04.1.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.04.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "इस पाठ ‘Anita Feeds Appu’ में 7 नए शब्द हैं। हर शब्द सुनो, उसका मतलब समझो और बोलो।",
+        "hinglish": "Is paath ‘Anita Feeds Appu’ mein 7 naye shabd hain. Har shabd suno, uska matlab samjho aur bolo.",
+        "en": "This lesson, ‘Anita Feeds Appu’, has 7 new words. Listen to each word, learn its meaning and say it."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.04.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "balance",
+        "emoji": "",
+        "hindi": "संतुलन बनाना (संभलना)",
+        "hinglish": "santulan banana (sambhalna)"
+      },
+      "meaning": "to keep steady",
+      "example": "Can you balance a book on your head?",
+      "exampleMeaning": {
+        "hi": "क्या तुम अपने सिर पर किताब संभाल सकते हो?",
+        "hinglish": "Kya tum apne sir par kitaab sambhaal sakte ho?"
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.04.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "believe",
+        "emoji": "",
+        "hindi": "विश्वास करना",
+        "hinglish": "vishwaas karna"
+      },
+      "meaning": "to feel certain that something is true",
+      "example": "I believe my friend because he never tells lies.",
+      "exampleMeaning": {
+        "hi": "मैं अपने दोस्त पर विश्वास करता/करती हूँ क्योंकि वह कभी झूठ नहीं बोलता।",
+        "hinglish": "Main apne dost par vishwaas karta/karti hoon kyonki woh kabhi jhooth nahi bolta."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.04.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "cartoon",
+        "emoji": "",
+        "hindi": "कार्टून (मज़ेदार चित्र)",
+        "hinglish": "cartoon (mazedaar chitra)"
+      },
+      "meaning": "a funny drawing in a newspaper, a magazine or on T.V.",
+      "example": "My little brother loves cartoons.",
+      "exampleMeaning": {
+        "hi": "मेरे छोटे भाई को कार्टून बहुत पसंद हैं।",
+        "hinglish": "Mere chhote bhai ko cartoon bahut pasand hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.04.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "courtyard",
+        "emoji": "",
+        "hindi": "आँगन",
+        "hinglish": "aangan"
+      },
+      "meaning": "an open space with buildings around it",
+      "example": "Grandmother dries chillies in the courtyard.",
+      "exampleMeaning": {
+        "hi": "दादी आँगन में मिर्च सुखाती हैं।",
+        "hinglish": "Daadi aangan mein mirch sukhaati hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.04.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "excited",
+        "emoji": "",
+        "hindi": "उत्साहित (बहुत ख़ुश और जोश में)",
+        "hinglish": "utsaahit (bahut khush aur josh mein)"
+      },
+      "meaning": "very happy and eager about something",
+      "example": "We are excited about the school picnic.",
+      "exampleMeaning": {
+        "hi": "हम स्कूल की पिकनिक को लेकर बहुत उत्साहित हैं।",
+        "hinglish": "Hum school ki picnic ko lekar bahut utsaahit hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.04.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "gobble",
+        "emoji": "",
+        "hindi": "जल्दी-जल्दी खा जाना (गपागप)",
+        "hinglish": "jaldi-jaldi kha jaana (gapagap)"
+      },
+      "meaning": "to eat something very fast",
+      "example": "The hungry goat gobbled up all the grass.",
+      "exampleMeaning": {
+        "hi": "भूखी बकरी सारी घास गपागप खा गई।",
+        "hinglish": "Bhookhi bakri saari ghaas gapagap kha gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.04.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "surprised",
+        "emoji": "",
+        "hindi": "हैरान",
+        "hinglish": "hairaan"
+      },
+      "meaning": "feeling surprise because something was not expected",
+      "example": "I was surprised to see snow on the hills.",
+      "exampleMeaning": {
+        "hi": "पहाड़ों पर बर्फ़ देखकर मैं हैरान रह गया/गई।",
+        "hinglish": "Pahaadon par barf dekhkar main hairaan reh gaya/gayi."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.04.1.S09",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "courtyard",
+        "emoji": "",
+        "hindi": "आँगन",
+        "hinglish": "aangan"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.04.1.S10",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "believe",
+        "emoji": "",
+        "hindi": "विश्वास करना",
+        "hinglish": "vishwaas karna"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.04.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "surprised",
+        "emoji": "",
+        "hindi": "हैरान",
+        "hinglish": "hairaan"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.04.1.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "अब पाठ के 7 छोटे वाक्यांश (phrases) सीखते हैं, जैसे ‘at one go’ यानी ‘एक ही बार में’।",
+        "hinglish": "Ab paath ke 7 chhote phrases seekhte hain, jaise ‘at one go’ yaani ‘ek hi baar mein’.",
+        "en": "Now let's learn the lesson's 7 phrases, like ‘at one go’, which means all at once."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.04.1.S13",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर phrase को उसके मतलब से जोड़ो",
+        "hinglish": "Har phrase ko uske matlab se jodo",
+        "en": "Join each phrase to its meaning"
+      },
+      "pairs": [
+        {
+          "left": "at one go",
+          "right": "all at once, in one try",
+          "meaning": {
+            "hi": "एक ही बार में",
+            "hinglish": "ek hi baar mein"
+          }
+        },
+        {
+          "left": "right there",
+          "right": "exactly in that place",
+          "meaning": {
+            "hi": "ठीक वहीं",
+            "hinglish": "theek wahin"
+          }
+        },
+        {
+          "left": "to fall off",
+          "right": "to drop down from something",
+          "meaning": {
+            "hi": "गिर जाना",
+            "hinglish": "gir jaana"
+          }
+        },
+        {
+          "left": "to feed",
+          "right": "to give food to someone",
+          "meaning": {
+            "hi": "खाना खिलाना",
+            "hinglish": "khaana khilaana"
+          }
+        },
+        {
+          "left": "to help",
+          "right": "to make work easier for someone",
+          "meaning": {
+            "hi": "मदद करना",
+            "hinglish": "madad karna"
+          }
+        },
+        {
+          "left": "to ride",
+          "right": "to sit on an animal or a cycle and move",
+          "meaning": {
+            "hi": "सवारी करना",
+            "hinglish": "sawaari karna"
+          }
+        },
+        {
+          "left": "to watch",
+          "right": "to look at something carefully for some time",
+          "meaning": {
+            "hi": "ध्यान से देखना",
+            "hinglish": "dhyaan se dekhna"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "B6.02.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.02.5.S02",
+    "B6.02.5.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.02.5.S01",
+      "skills": [
+        "book.talk",
+        "grammar.can"
+      ],
+      "text": {
+        "hi": "‘Can you ...?’ का जवाब: कर सकते हो तो ‘Yes, I can.’ नहीं तो ‘No, I can't.’ किताब का उदाहरण: I can swim. Can you? No, I can't.",
+        "hinglish": "‘Can you ...?’ ka jawab: kar sakte ho to ‘Yes, I can.’ nahi to ‘No, I can't.’ Kitaab ka udaharan: I can swim. Can you? No, I can't.",
+        "en": "Answer ‘Can you ...?’ with ‘Yes, I can.’ or ‘No, I can't.’ The book's example: I can swim. Can you? No, I can't."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.02.5.S02",
+      "skills": [
+        "book.talk",
+        "grammar.can"
+      ],
+      "scene": "🤸",
+      "turns": [
+        {
+          "id": "bicycle",
+          "tinku": "I can ride a bicycle. Can you?",
+          "meaning": {
+            "hi": "मैं साइकिल चला सकता हूँ। क्या तुम चला सकते हो?",
+            "hinglish": "Main cycle chala sakta hoon. Kya tum chala sakte ho?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I can.",
+              "meaning": {
+                "hi": "हाँ, मैं चला सकता/सकती हूँ।",
+                "hinglish": "Haan, main chala sakta/sakti hoon."
+              },
+              "patterns": [
+                "yes i can",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I can't.",
+              "meaning": {
+                "hi": "नहीं, मैं नहीं चला सकता/सकती।",
+                "hinglish": "Nahi, main nahi chala sakta/sakti."
+              },
+              "patterns": [
+                "no i cant",
+                "no i cannot",
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kite",
+          "tinku": "I can fly a kite. Can you?",
+          "meaning": {
+            "hi": "मैं पतंग उड़ा सकता हूँ। तुम?",
+            "hinglish": "Main patang uda sakta hoon. Tum?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I can.",
+              "meaning": {
+                "hi": "हाँ, मैं उड़ा सकता/सकती हूँ।",
+                "hinglish": "Haan, main uda sakta/sakti hoon."
+              },
+              "patterns": [
+                "yes i can",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I can't.",
+              "meaning": {
+                "hi": "नहीं, मैं नहीं उड़ा सकता/सकती।",
+                "hinglish": "Nahi, main nahi uda sakta/sakti."
+              },
+              "patterns": [
+                "no i cant",
+                "no i cannot",
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cook",
+          "tinku": "I can cook food. Can you?",
+          "meaning": {
+            "hi": "मैं खाना बना सकता हूँ। तुम?",
+            "hinglish": "Main khaana bana sakta hoon. Tum?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I can.",
+              "meaning": {
+                "hi": "हाँ, मैं बना सकता/सकती हूँ।",
+                "hinglish": "Haan, main bana sakta/sakti hoon."
+              },
+              "patterns": [
+                "yes i can",
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I can't.",
+              "meaning": {
+                "hi": "नहीं, मैं नहीं बना सकता/सकती।",
+                "hinglish": "Nahi, main nahi bana sakta/sakti."
+              },
+              "patterns": [
+                "no i cant",
+                "no i cannot",
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jump",
+          "tinku": "I can jump high. Can you?",
+          "meaning": {
+            "hi": "मैं ऊँचा कूद सकता हूँ। तुम?",
+            "hinglish": "Main ooncha kood sakta hoon. Tum?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I can.",
+              "meaning": {
+                "hi": "हाँ, मैं कूद सकता/सकती हूँ।",
+                "hinglish": "Haan, main kood sakta/sakti hoon."
+              },
+              "patterns": [
+                "yes i can",
+                "yes *",
+                "yes"
+              ],
+              "next": "end"
+            },
+            {
+              "say": "No, I can't.",
+              "meaning": {
+                "hi": "नहीं, मैं नहीं कूद सकता/सकती।",
+                "hinglish": "Nahi, main nahi kood sakta/sakti."
+              },
+              "patterns": [
+                "no i cant",
+                "no i cannot",
+                "no *",
+                "no"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.5.S03",
+      "skills": [
+        "book.talk",
+        "grammar.can"
+      ],
+      "sentence": "I can swim. Can you? No, I ___.",
+      "answer": "can't",
+      "options": [
+        "can't",
+        "can"
+      ],
+      "meaning": {
+        "hi": "मैं तैर सकता हूँ। तुम? नहीं, मैं नहीं तैर सकता।",
+        "hinglish": "Main tair sakta hoon. Tum? Nahi, main nahi tair sakta."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.5.S04",
+      "skills": [
+        "book.talk",
+        "grammar.can"
+      ],
+      "sentence": "A fish ___ swim, but it can't fly.",
+      "answer": "can",
+      "options": [
+        "can",
+        "can't"
+      ],
+      "meaning": {
+        "hi": "मछली तैर सकती है, पर उड़ नहीं सकती।",
+        "hinglish": "Machhli tair sakti hai, par ud nahi sakti."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.5.S05",
+      "skills": [
+        "book.talk",
+        "grammar.can"
+      ],
+      "sentence": "A cow ___ fly.",
+      "answer": "can't",
+      "options": [
+        "can't",
+        "can"
+      ],
+      "meaning": {
+        "hi": "गाय उड़ नहीं सकती।",
+        "hinglish": "Gaay ud nahi sakti."
+      }
+    }
+  ]
+}

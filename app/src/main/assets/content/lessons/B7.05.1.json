@@ -1,0 +1,325 @@
+{
+  "id": "B7.05.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.05.1.S02",
+    "B7.05.1.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.05.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "इस पाठ में विनोद भोपाल से इंदौर ट्रेन से जाता है। ट्रेन में बहुत भीड़ है। पहले किताब के सवालों पर बात करते हैं।",
+        "hinglish": "Is paath mein Vinod Bhopal se Indore train se jaata hai. Train mein bahut bheed hai. Pehle kitaab ke sawaalon par baat karte hain.",
+        "en": "In this lesson Vinod travels by train from Bhopal to Indore. The train is very crowded. First, let's talk about the book's questions."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.05.1.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🚆",
+      "turns": [
+        {
+          "id": "train",
+          "tinku": "Have you ever travelled by train?",
+          "meaning": {
+            "hi": "क्या तुमने कभी ट्रेन से सफ़र किया है?",
+            "hinglish": "Kya tumne kabhi train se safar kiya hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have travelled by train.",
+              "meaning": {
+                "hi": "हाँ, मैंने ट्रेन से सफ़र किया है।",
+                "hinglish": "Haan, maine train se safar kiya hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I have never travelled by train.",
+              "meaning": {
+                "hi": "नहीं, मैंने कभी ट्रेन से सफ़र नहीं किया।",
+                "hinglish": "Nahi, maine kabhi train se safar nahi kiya."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ticket",
+          "tinku": "Have you ever bought a ticket yourself?",
+          "meaning": {
+            "hi": "क्या तुमने कभी ख़ुद टिकट ख़रीदा है?",
+            "hinglish": "Kya tumne kabhi khud ticket khareeda hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have bought a ticket myself.",
+              "meaning": {
+                "hi": "हाँ, मैंने ख़ुद टिकट ख़रीदा है।",
+                "hinglish": "Haan, maine khud ticket khareeda hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ],
+              "next": "end"
+            },
+            {
+              "say": "No, my parents buy the tickets.",
+              "meaning": {
+                "hi": "नहीं, मेरे मम्मी-पापा टिकट ख़रीदते हैं।",
+                "hinglish": "Nahi, mere mummy-papa ticket khareedte hain."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What happens if someone travels without a ticket?",
+      "questionMeaning": {
+        "hi": "अगर कोई बिना टिकट सफ़र करे तो क्या होता है?",
+        "hinglish": "Agar koi bina ticket safar kare to kya hota hai?"
+      },
+      "options": [
+        "He has to pay a fine (penalty).",
+        "He gets a free seat.",
+        "He gets a prize."
+      ],
+      "answer": "He has to pay a fine (penalty).",
+      "modelAnswer": "If someone travels without a ticket, he has to pay a fine. He can even be sent to jail.",
+      "modelMeaning": {
+        "hi": "बिना टिकट सफ़र करने वाले को जुर्माना देना पड़ता है। उसे जेल भी हो सकती है।",
+        "hinglish": "Bina ticket safar karne waale ko jurmaana dena padta hai. Use jail bhi ho sakti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.05.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "overcrowded",
+        "emoji": "",
+        "hindi": "बहुत ज़्यादा भीड़ वाला",
+        "hinglish": "bahut zyaada bheed waala"
+      },
+      "meaning": "with too many people in it",
+      "example": "The bus was overcrowded on Diwali.",
+      "exampleMeaning": {
+        "hi": "दिवाली पर बस में बहुत भीड़ थी।",
+        "hinglish": "Diwali par bus mein bahut bheed thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.05.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "official visit",
+        "emoji": "",
+        "hindi": "काम से (दफ़्तर के काम से) जाना",
+        "hinglish": "kaam se (daftar ke kaam se) jaana"
+      },
+      "meaning": "a trip made for office work",
+      "example": "My father went to Delhi on an official visit.",
+      "exampleMeaning": {
+        "hi": "पापा दफ़्तर के काम से दिल्ली गए।",
+        "hinglish": "Papa daftar ke kaam se Delhi gaye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.05.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "worn-out",
+        "emoji": "",
+        "hindi": "घिसा हुआ, पुराना",
+        "hinglish": "ghisa hua, puraana"
+      },
+      "meaning": "old and damaged by long use",
+      "example": "He wore worn-out shoes.",
+      "exampleMeaning": {
+        "hi": "उसने घिसे हुए जूते पहने थे।",
+        "hinglish": "Usne ghise hue joote pehne the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.05.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "vacant",
+        "emoji": "",
+        "hindi": "खाली",
+        "hinglish": "khaali"
+      },
+      "meaning": "empty; not being used",
+      "example": "There was one vacant seat in the bus.",
+      "exampleMeaning": {
+        "hi": "बस में एक सीट खाली थी।",
+        "hinglish": "Bus mein ek seat khaali thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.05.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "valid",
+        "emoji": "",
+        "hindi": "मान्य, सही",
+        "hinglish": "maanya, sahi"
+      },
+      "meaning": "that can be used and is accepted by law",
+      "example": "You need a valid ticket to travel.",
+      "exampleMeaning": {
+        "hi": "सफ़र के लिए सही (मान्य) टिकट चाहिए।",
+        "hinglish": "Safar ke liye sahi (maanya) ticket chahiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.05.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "penalty",
+        "emoji": "",
+        "hindi": "जुर्माना",
+        "hinglish": "jurmaana"
+      },
+      "meaning": "money you pay for breaking a rule",
+      "example": "He paid a penalty for travelling without a ticket.",
+      "exampleMeaning": {
+        "hi": "उसने बिना टिकट सफ़र का जुर्माना दिया।",
+        "hinglish": "Usne bina ticket safar ka jurmaana diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.05.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "fare",
+        "emoji": "",
+        "hindi": "किराया",
+        "hinglish": "kiraaya"
+      },
+      "meaning": "the money you pay for a journey",
+      "example": "The bus fare to Bhopal is two hundred rupees.",
+      "exampleMeaning": {
+        "hi": "भोपाल का बस किराया दो सौ रुपये है।",
+        "hinglish": "Bhopal ka bus kiraaya do sau rupaye hai."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.05.1.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "उल्टे मतलब वाले शब्द जोड़ो",
+        "hinglish": "Ulte matlab waale shabd jodo",
+        "en": "Join the opposites"
+      },
+      "pairs": [
+        {
+          "left": "well-dressed",
+          "right": "poorly-dressed",
+          "meaning": {
+            "hi": "अच्छे कपड़ों वाला / फटे-पुराने कपड़ों वाला",
+            "hinglish": "achhe kapdon waala / phate-puraane kapdon waala"
+          }
+        },
+        {
+          "left": "vacant",
+          "right": "full",
+          "meaning": {
+            "hi": "खाली / भरा हुआ",
+            "hinglish": "khaali / bhara hua"
+          }
+        },
+        {
+          "left": "new",
+          "right": "worn-out",
+          "meaning": {
+            "hi": "नया / घिसा हुआ",
+            "hinglish": "naya / ghisa hua"
+          }
+        },
+        {
+          "left": "rich",
+          "right": "poor",
+          "meaning": {
+            "hi": "अमीर / ग़रीब",
+            "hinglish": "ameer / gareeb"
+          }
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B7.05.1.S12",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "overcrowded",
+        "emoji": "",
+        "hindi": "बहुत भीड़ वाला",
+        "hinglish": "bahut bheed waala"
+      }
+    }
+  ]
+}

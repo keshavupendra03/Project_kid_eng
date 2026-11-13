@@ -1,0 +1,66 @@
+{
+  "id": "B6.12.10",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.12.10.S01",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "Birbal was one of Akbar's ‘nine gems’. What are they called?",
+      "questionMeaning": {
+        "hi": "बीरबल अकबर के ‘नौ रत्नों’ में से एक थे। उन्हें क्या कहते हैं?",
+        "hinglish": "Birbal Akbar ke ‘nau ratnon’ mein se ek the. Unhe kya kehte hain?"
+      },
+      "options": [
+        "Navratnas",
+        "Panchatantra",
+        "Pandavas"
+      ],
+      "answer": "Navratnas"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.10.S02",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "Which famous singer was also one of Akbar's Navratnas?",
+      "questionMeaning": {
+        "hi": "कौन से मशहूर गायक भी अकबर के नवरत्न थे?",
+        "hinglish": "Kaun se mashhoor gaayak bhi Akbar ke navratna the?"
+      },
+      "options": [
+        "Tansen",
+        "Kalidas",
+        "Tulsidas"
+      ],
+      "answer": "Tansen",
+      "modelAnswer": "Tansen, the great singer, was one of Akbar's Navratnas. He was born near Gwalior in Madhya Pradesh.",
+      "modelMeaning": {
+        "hi": "महान गायक तानसेन अकबर के नवरत्नों में से एक थे। उनका जन्म मध्य प्रदेश के ग्वालियर के पास हुआ था।",
+        "hinglish": "Mahaan gaayak Tansen Akbar ke navratnon mein se ek the. Unka janm Madhya Pradesh ke Gwalior ke paas hua tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.10.S03",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "What is the lesson of this story?",
+      "questionMeaning": {
+        "hi": "इस कहानी की सीख क्या है?",
+        "hinglish": "Is kahani ki seekh kya hai?"
+      },
+      "options": [
+        "Be fair and think wisely before judging.",
+        "Never help the poor.",
+        "Kings are always right."
+      ],
+      "answer": "Be fair and think wisely before judging."
+    }
+  ]
+}

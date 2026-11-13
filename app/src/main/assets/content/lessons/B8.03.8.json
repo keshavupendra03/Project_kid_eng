@@ -1,0 +1,171 @@
+{
+  "id": "B8.03.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.8.S02",
+    "B8.03.8.S03",
+    "B8.03.8.S04",
+    "B8.03.8.S05",
+    "B8.03.8.S06",
+    "B8.03.8.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.03.8.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 21 पर अख़बार की तीन ख़बरें पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 21 par akhbaar ki teen khabrein padho, phir jawab do.",
+        "en": "Read the three newspaper cuttings on page 21 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.8.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The three news items are about ...",
+      "questionMeaning": {
+        "hi": "तीन ख़बरें किस बारे में हैं?",
+        "hinglish": "Teen khabrein kis baare mein hain?"
+      },
+      "options": [
+        "a woman fighting a leopard, giant animals on islands, and the Delhi metro",
+        "a cricket match, a film and the weather",
+        "three new schools"
+      ],
+      "answer": "a woman fighting a leopard, giant animals on islands, and the Delhi metro",
+      "modelAnswer": "a. A woman fights a leopard to save her son. b. Isolated islands have giant species. c. The third phase of the Delhi metro was inaugurated.",
+      "modelMeaning": {
+        "hi": "a. एक औरत ने बेटे को बचाने के लिए तेंदुए से लड़ाई की। b. अलग-थलग द्वीपों पर विशाल जीव। c. दिल्ली मेट्रो के तीसरे चरण का उद्घाटन।",
+        "hinglish": "a. Ek aurat ne bete ko bachaane ke liye tendue se ladaai ki. b. Alag-thalag dweepon par vishaal jeev. c. Delhi metro ke teesre charan ka udghaatan."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.8.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who is the man-eater?",
+      "questionMeaning": {
+        "hi": "आदमखोर कौन है?",
+        "hinglish": "Aadamkhor kaun hai?"
+      },
+      "options": [
+        "a leopard",
+        "a tiger",
+        "a crocodile"
+      ],
+      "answer": "a leopard",
+      "modelAnswer": "The man-eater is a leopard.",
+      "modelMeaning": {
+        "hi": "आदमखोर एक तेंदुआ है।",
+        "hinglish": "Aadamkhor ek tendua hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.8.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why do animals on islands evolve into gigantic versions?",
+      "questionMeaning": {
+        "hi": "द्वीपों पर जानवर विशाल क्यों हो जाते हैं?",
+        "hinglish": "Dweepon par jaanwar vishaal kyon ho jaate hain?"
+      },
+      "options": [
+        "because of isolation and lack of competition",
+        "because they eat sugar",
+        "because of the cold"
+      ],
+      "answer": "because of isolation and lack of competition",
+      "modelAnswer": "Animals on islands evolve into gigantic versions because of isolation and a lack of competition.",
+      "modelMeaning": {
+        "hi": "द्वीपों पर जानवर अकेलेपन और मुक़ाबले की कमी की वजह से विशाल हो जाते हैं।",
+        "hinglish": "Dweepon par jaanwar akelepan aur muqaable ki kami ki wajah se vishaal ho jaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.8.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who is Sue Lieberman?",
+      "questionMeaning": {
+        "hi": "सू लीबरमैन कौन हैं?",
+        "hinglish": "Sue Lieberman kaun hain?"
+      },
+      "options": [
+        "an evolutionary biologist at WWF International",
+        "a film actress",
+        "the Prime Minister"
+      ],
+      "answer": "an evolutionary biologist at WWF International",
+      "modelAnswer": "Sue Lieberman is an evolutionary biologist and director of the global species programme for WWF International.",
+      "modelMeaning": {
+        "hi": "सू लीबरमैन एक जीव-विकास वैज्ञानिक और WWF इंटरनेशनल के वैश्विक प्रजाति कार्यक्रम की निदेशक हैं।",
+        "hinglish": "Sue Lieberman ek jeev-vikaas vaigyaanik aur WWF International ke vaishvik prajaati kaaryakram ki nideshak hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.8.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which is the longest stretch of the Delhi metro rail?",
+      "questionMeaning": {
+        "hi": "दिल्ली मेट्रो का सबसे लंबा हिस्सा कौन सा है?",
+        "hinglish": "Delhi metro ka sabse lamba hissa kaun sa hai?"
+      },
+      "options": [
+        "Rajiv Chowk to Dwarka (22.8 km)",
+        "Kashmere Gate to Rohini",
+        "Delhi to Agra"
+      ],
+      "answer": "Rajiv Chowk to Dwarka (22.8 km)",
+      "modelAnswer": "The 22.8 km stretch from Rajiv Chowk to Dwarka is the longest for the Delhi metro rail.",
+      "modelMeaning": {
+        "hi": "राजीव चौक से द्वारका तक 22.8 किमी का हिस्सा दिल्ली मेट्रो का सबसे लंबा है।",
+        "hinglish": "Rajiv Chowk se Dwarka tak 22.8 km ka hissa Delhi metro ka sabse lamba hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.8.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What are Komodo dragons?",
+      "questionMeaning": {
+        "hi": "कोमोडो ड्रैगन क्या हैं?",
+        "hinglish": "Komodo dragon kya hain?"
+      },
+      "options": [
+        "the world's largest lizards",
+        "flying snakes",
+        "big birds"
+      ],
+      "answer": "the world's largest lizards",
+      "modelAnswer": "Komodo dragons are the world's largest lizards. They can be 3 metres long and weigh up to 225 kg.",
+      "modelMeaning": {
+        "hi": "कोमोडो ड्रैगन दुनिया की सबसे बड़ी छिपकलियाँ हैं। ये 3 मीटर लंबी और 225 किलो तक भारी हो सकती हैं।",
+        "hinglish": "Komodo dragon duniya ki sabse badi chhipkaliyaan hain. Yeh 3 meter lambi aur 225 kilo tak bhaari ho sakti hain."
+      }
+    }
+  ]
+}

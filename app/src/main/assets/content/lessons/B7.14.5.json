@@ -1,0 +1,182 @@
+{
+  "id": "B7.14.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.14.5.S02",
+    "B7.14.5.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.14.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "कान्हा मध्य प्रदेश का राष्ट्रीय उद्यान (national park) है। सबसे पास का स्टेशन नैनपुर है। वहाँ घने जंगल, हिरण, हाथी और बाघ दिखते हैं। चलो सैर का प्लान बनाते हैं।",
+        "hinglish": "Kanha Madhya Pradesh ka rashtriya udyaan (national park) hai. Sabse paas ka station Nainpur hai. Wahan ghane jangal, hiran, haathi aur baagh dikhte hain. Chalo sair ka plan banaate hain.",
+        "en": "Kanha is a national park in Madhya Pradesh. The nearest railway station is Nainpur. There are dense forests, deer, elephants and tigers. Let's plan a visit."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.14.5.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "instruction": {
+        "hi": "जंगल की सैर पर क्या ले जाओगे, और क्या नहीं?",
+        "hinglish": "Jangal ki sair par kya le jaaoge, aur kya nahi?",
+        "en": "What will you take to the forest, and what not?"
+      },
+      "groups": [
+        {
+          "id": "take",
+          "name": "take with you",
+          "emoji": "🎒",
+          "meaning": {
+            "hi": "साथ ले जाओ",
+            "hinglish": "saath le jaao"
+          }
+        },
+        {
+          "id": "leave",
+          "name": "leave at home",
+          "emoji": "🏠",
+          "meaning": {
+            "hi": "घर पर छोड़ दो",
+            "hinglish": "ghar par chhod do"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "water bottle",
+          "emoji": "💧",
+          "groups": [
+            "take"
+          ]
+        },
+        {
+          "text": "camera",
+          "emoji": "📷",
+          "groups": [
+            "take"
+          ]
+        },
+        {
+          "text": "loud music speaker",
+          "emoji": "🔊",
+          "groups": [
+            "leave"
+          ]
+        },
+        {
+          "text": "cap",
+          "emoji": "🧢",
+          "groups": [
+            "take"
+          ]
+        },
+        {
+          "text": "plastic bags to throw in the forest",
+          "emoji": "🛍️",
+          "groups": [
+            "leave"
+          ]
+        },
+        {
+          "text": "first-aid box",
+          "emoji": "🩹",
+          "groups": [
+            "take"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.14.5.S03",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🐅",
+      "turns": [
+        {
+          "id": "friends",
+          "tinku": "Who will go with you to Kanha?",
+          "meaning": {
+            "hi": "तुम्हारे साथ कान्हा कौन जाएगा?",
+            "hinglish": "Tumhare saath Kanha kaun jaayega?"
+          },
+          "replies": [
+            {
+              "say": "My friends Ravi and Seema will go with me.",
+              "meaning": {
+                "hi": "मेरे दोस्त रवि और सीमा मेरे साथ जाएँगे।",
+                "hinglish": "Mere dost Ravi aur Seema mere saath jaayenge."
+              },
+              "patterns": [
+                "my friends *",
+                "* will go with me",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "money",
+          "tinku": "How much money will you need?",
+          "meaning": {
+            "hi": "तुम्हें कितने पैसे चाहिए होंगे?",
+            "hinglish": "Tumhe kitne paise chahiye honge?"
+          },
+          "replies": [
+            {
+              "say": "We will need about two thousand rupees.",
+              "meaning": {
+                "hi": "हमें लगभग दो हज़ार रुपये चाहिए होंगे।",
+                "hinglish": "Humein lagbhag do hazaar rupaye chahiye honge."
+              },
+              "patterns": [
+                "we will need *",
+                "about *",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "see",
+          "tinku": "What do you want to see there?",
+          "meaning": {
+            "hi": "तुम वहाँ क्या देखना चाहते हो?",
+            "hinglish": "Tum wahan kya dekhna chahte ho?"
+          },
+          "replies": [
+            {
+              "say": "I want to see a tiger.",
+              "meaning": {
+                "hi": "मैं बाघ देखना चाहता/चाहती हूँ।",
+                "hinglish": "Main baagh dekhna chahta/chahti hoon."
+              },
+              "patterns": [
+                "i want to see *",
+                "*",
+                "* *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

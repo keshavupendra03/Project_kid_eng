@@ -1,0 +1,149 @@
+{
+  "id": "B8.13.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.13.2.S01",
+    "B8.13.2.S03",
+    "B8.13.2.S04",
+    "B8.13.2.S05",
+    "B8.13.2.S06"
+  ],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B8.13.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "(A) शब्द को उसके मतलब से जोड़ो",
+        "hinglish": "(A) Shabd ko uske matlab se jodo",
+        "en": "(A) Match the words with their meanings"
+      },
+      "pairs": [
+        {
+          "left": "symbol",
+          "right": "a sign used to represent something",
+          "meaning": {
+            "hi": "प्रतीक",
+            "hinglish": "prateek"
+          }
+        },
+        {
+          "left": "wander",
+          "right": "to walk slowly around without purpose",
+          "meaning": {
+            "hi": "भटकना",
+            "hinglish": "bhatakna"
+          }
+        },
+        {
+          "left": "vegetation",
+          "right": "the plants found in a particular area",
+          "meaning": {
+            "hi": "वनस्पति",
+            "hinglish": "vanaspati"
+          }
+        },
+        {
+          "left": "spirit",
+          "right": "an imaginary creature with magic powers",
+          "meaning": {
+            "hi": "आत्मा, प्रेत",
+            "hinglish": "aatma, pret"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.13.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(B) एक शब्द में बताओ। पहला अक्षर दिया है।",
+        "hinglish": "(B) Ek shabd mein batao. Pehla akshar diya hai.",
+        "en": "(B) Give one word. The first letter is given."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "a small area of still water, especially one that is artificial (p___)",
+      "questionMeaning": {
+        "hi": "एक शब्द: p से",
+        "hinglish": "Ek shabd: p se"
+      },
+      "options": [
+        "pool",
+        "pond",
+        "puddle"
+      ],
+      "answer": "pool"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "which is connected with God (d___)",
+      "questionMeaning": {
+        "hi": "एक शब्द: d से",
+        "hinglish": "Ek shabd: d se"
+      },
+      "options": [
+        "divine",
+        "devil",
+        "danger"
+      ],
+      "answer": "divine"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "a wild plant growing where it is not wanted (w___)",
+      "questionMeaning": {
+        "hi": "एक शब्द: w से",
+        "hinglish": "Ek shabd: w se"
+      },
+      "options": [
+        "weed",
+        "wood",
+        "wheat"
+      ],
+      "answer": "weed"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "behaviour that shows high moral standards (v___)",
+      "questionMeaning": {
+        "hi": "एक शब्द: v से",
+        "hinglish": "Ek shabd: v se"
+      },
+      "options": [
+        "virtue",
+        "victory",
+        "voice"
+      ],
+      "answer": "virtue"
+    }
+  ]
+}

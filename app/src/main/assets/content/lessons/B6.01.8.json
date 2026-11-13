@@ -1,0 +1,129 @@
+{
+  "id": "B6.01.8",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B6.01.8.S01",
+      "skills": [
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "पेड़ के हिस्से जोड़ो",
+        "hinglish": "Ped ke hisse jodo",
+        "en": "Join the parts of a tree"
+      },
+      "pairs": [
+        {
+          "left": "root",
+          "right": "it holds the tree in the soil",
+          "meaning": {
+            "hi": "जड़",
+            "hinglish": "jad"
+          }
+        },
+        {
+          "left": "trunk",
+          "right": "the thick main stem",
+          "meaning": {
+            "hi": "तना",
+            "hinglish": "tana"
+          }
+        },
+        {
+          "left": "branch",
+          "right": "it grows out of the trunk",
+          "meaning": {
+            "hi": "डाली",
+            "hinglish": "daali"
+          }
+        },
+        {
+          "left": "leaf",
+          "right": "the green flat part",
+          "meaning": {
+            "hi": "पत्ती",
+            "hinglish": "patti"
+          }
+        },
+        {
+          "left": "fruit",
+          "right": "the part we eat",
+          "meaning": {
+            "hi": "फल",
+            "hinglish": "phal"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.01.8.S02",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "किताब के पाठ में पेड़ पर एक छोटी कविता ‘I have a tree’ है। उसे अपनी किताब में पढ़ो और ज़ोर से बोलो। पहले ये दो शब्द सीख लो।",
+        "hinglish": "Kitaab ke paath mein ped par ek chhoti kavita ‘I have a tree’ hai. Use apni kitaab mein padho aur zor se bolo. Pehle yeh do shabd seekh lo.",
+        "en": "The lesson has a little poem about a tree, ‘I have a tree’. Read it in your book and say it aloud. First learn these two words."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.01.8.S03",
+      "skills": [
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "shade",
+        "emoji": "",
+        "hindi": "छाँव",
+        "hinglish": "chhaanv"
+      },
+      "meaning": "a cool place away from the sun",
+      "example": "The tree gives us shade.",
+      "exampleMeaning": {
+        "hi": "पेड़ हमें छाँव देता है।",
+        "hinglish": "Ped humein chhaanv deta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.01.8.S04",
+      "skills": [
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "often",
+        "emoji": "",
+        "hindi": "अक्सर",
+        "hinglish": "aksar"
+      },
+      "meaning": "many times",
+      "example": "I often sit under the tree.",
+      "exampleMeaning": {
+        "hi": "मैं अक्सर पेड़ के नीचे बैठता हूँ।",
+        "hinglish": "Main aksar ped ke neeche baithta hoon."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.8.S05",
+      "skills": [
+        "vocab.nature"
+      ],
+      "sentence": "The ___ holds the tree in the soil.",
+      "answer": "root",
+      "options": [
+        "root",
+        "leaf",
+        "fruit"
+      ],
+      "meaning": {
+        "hi": "जड़ पेड़ को मिट्टी में थामे रखती है।",
+        "hinglish": "Jad ped ko mitti mein thaame rakhti hai."
+      }
+    }
+  ]
+}

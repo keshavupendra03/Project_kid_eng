@@ -1,0 +1,201 @@
+{
+  "grade": 7, "number": 12, "emoji": "🎡", "title": "One-Way Ticket-I", "pages": "86–92",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["इस पाठ में रामपुर गाँव के पाँच दोस्त—किश्तो, बिशनी, लंबू, कृष्ण और गिट्टू—अपने कुत्ते शेरू के साथ धौलपुर का मेला देखने निकलते हैं। पहले किताब के सवाल।", "Is paath mein Rampur gaon ke paanch dost—Kishto, Bishni, Lambu, Krishan aur Gittoo—apne kutte Sheru ke saath Dholpur ka mela dekhne nikalte hain. Pehle kitaab ke sawaal.", "In this lesson five friends from Rampur village, Kishto, Bishni, Lambu, Krishan and Gittoo, set out with their dog Sheru for the fair at Dholpur. First, the book's questions."]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "🎠", "turns": [
+          {"id": "friend", "tinku": "Who is your best friend?", "meaning": ["तुम्हारा सबसे अच्छा दोस्त कौन है?", "Tumhara sabse achha dost kaun hai?"],
+            "replies": [{"say": "My best friend is Rohan.", "meaning": ["मेरा सबसे अच्छा दोस्त रोहन है। (अपने दोस्त का नाम बोलो)", "Mera sabse achha dost Rohan hai. (Apne dost ka naam bolo)"], "patterns": ["my best friend is *", "*", "* *"]}]},
+          {"id": "quality", "tinku": "What do you like most about your friend?", "meaning": ["तुम्हें अपने दोस्त की कौन सी बात सबसे अच्छी लगती है?", "Tumhe apne dost ki kaun si baat sabse achhi lagti hai?"],
+            "replies": [{"say": "My friend is honest and helpful.", "meaning": ["मेरा दोस्त ईमानदार है और मदद करता है।", "Mera dost imaandaar hai aur madad karta hai."], "patterns": ["my friend is *", "he is *", "she is *", "*", "* *"]}]},
+          {"id": "fair", "tinku": "Have you ever been to a fair? What do you like to do there?", "meaning": ["क्या तुम कभी मेले में गए हो? वहाँ तुम्हें क्या करना पसंद है?", "Kya tum kabhi mele mein gaye ho? Wahan tumhe kya karna pasand hai?"],
+            "replies": [{"say": "Yes, I like to ride the giant wheel.", "meaning": ["हाँ, मुझे बड़ा झूला (giant wheel) पसंद है।", "Haan, mujhe bada jhoola (giant wheel) pasand hai."], "patterns": ["yes *", "i like *", "*", "* *", "* * *"], "next": "end"}]}
+        ]},
+        {"word": ["chatterbox", "बहुत बातें करने वाला", "bahut baatein karne waala", "a person who talks a lot", "My little sister is a chatterbox.", "मेरी छोटी बहन बहुत बातूनी है।", "Meri chhoti behen bahut baatooni hai."]},
+        {"word": ["plait", "चोटी", "choti", "long hair twisted together", "Bishni has two plaits.", "बिशनी की दो चोटियाँ हैं।", "Bishni ki do chotiyaan hain."]},
+        {"word": ["scales", "तराज़ू", "taraazoo", "an instrument for weighing things", "The shopkeeper weighed the rice on the scales.", "दुकानदार ने चावल तराज़ू पर तौला।", "Dukaandaar ne chaawal taraazoo par taula."]},
+        {"word": ["innocent", "भोला, मासूम", "bhola, maasoom", "simple and without any bad thoughts", "The baby has an innocent smile.", "बच्चे की मुस्कान मासूम है।", "Bachche ki muskaan maasoom hai."]},
+        {"word": ["awkward", "अटपटा, बेढंगा", "atpata, bedhanga", "not comfortable or graceful", "He felt awkward in his new shoes.", "नए जूतों में उसे अटपटा लगा।", "Naye jooton mein use atpata laga."]},
+        {"word": ["gossip", "गपशप", "gapshap", "talk about other people's lives", "Do not spread gossip.", "गपशप मत फैलाओ।", "Gapshap mat phailaao."]},
+        {"word": ["maze", "भूल-भुलैया", "bhool-bhulaiya", "a puzzle of paths where it is easy to get lost", "We got lost in the maze at the fair.", "हम मेले की भूल-भुलैया में खो गए।", "Hum mele ki bhool-bhulaiya mein kho gaye."]},
+        {"word": ["aquarium", "मछलीघर", "machhlighar", "a glass tank where fish are kept", "There were red fish in the aquarium.", "मछलीघर में लाल मछलियाँ थीं।", "Machhlighar mein laal machhliyaan thin."]},
+        {"pairs": ["शब्दों और phrases को उनके मतलब से जोड़ो", "Shabdon aur phrases ko unke matlab se jodo", "Join the words and phrases to their meanings", [
+          ["huddle together", "sit very close to each other", "एक-दूसरे से सटकर बैठना", "ek-doosre se satkar baithna"],
+          ["a childish idea", "a silly idea, like a small child's", "बचकाना विचार", "bachkaana vichaar"],
+          ["gait", "the way a person walks", "चाल", "chaal"],
+          ["copies", "does the same as someone else", "नक़ल करता है", "nakal karta hai"]]]},
+        {"sayw": ["aquarium", "मछलीघर", "machhlighar"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 86 से 88 तक ‘One-Way Ticket-I’ पढ़ो। फिर जवाब दो।", "Apni kitaab mein page 86 se 88 tak ‘One-Way Ticket-I’ padho. Phir jawab do.", "Read ‘One-Way Ticket-I’ on pages 86 to 88 of your book. Then answer."]},
+        {"book": true, "q": ["What does Kishto wear?", "किश्तो क्या पहनता है?", "Kishto kya pehenta hai?", ["a long khadi kurta and short pyjamas", "khaki clothes", "a ghagra and choli"], "a long khadi kurta and short pyjamas", "Kishto wears a long khadi kurta, perhaps his father's, and pyjamas that are too short for his long legs.", "किश्तो लंबा खादी कुर्ता पहनता है, शायद अपने पिता का, और ऐसा पायजामा जो उसकी लंबी टाँगों के लिए छोटा है।", "Kishto lamba khaadi kurta pehenta hai, shaayad apne pita ka, aur aisa pyjama jo uski lambi taangon ke liye chhota hai."]},
+        {"book": true, "q": ["Who is a chatterbox?", "बातूनी कौन है?", "Baatooni kaun hai?", ["Bishni", "Krishan", "Lambu"], "Bishni", "Bishni is a chatterbox. She is bold too.", "बिशनी बातूनी है। वह निडर भी है।", "Bishni baatooni hai. Woh nidar bhi hai."]},
+        {"book": true, "q": ["What does Lambu always do?", "लंबू हमेशा क्या करता है?", "Lambu hamesha kya karta hai?", ["He butts in and asks silly questions or gives childish ideas.", "He gathers news.", "He solves everyone's problems."], "He butts in and asks silly questions or gives childish ideas.", "Lambu always butts in and asks silly questions or gives childish ideas.", "लंबू हमेशा बीच में बोलता है और बेतुके सवाल पूछता है या बचकाने सुझाव देता है।", "Lambu hamesha beech mein bolta hai aur betuke sawaal poochhta hai ya bachkaane sujhaav deta hai."]},
+        {"book": true, "q": ["Why is Krishan called the wise?", "कृष्ण को समझदार क्यों कहते हैं?", "Krishan ko samajhdaar kyon kehte hain?", ["He helps everyone find a solution to their problems.", "He is the tallest.", "He wears khaki."], "He helps everyone find a solution to their problems.", "Krishan is called the wise because he helps you find a solution to anything you cannot solve.", "कृष्ण को समझदार कहते हैं क्योंकि जो बात कोई हल न कर सके, उसका हल वह निकाल देता है।", "Krishan ko samajhdaar kehte hain kyonki jo baat koi hal na kar sake, uska hal woh nikaal deta hai."]},
+        {"book": true, "q": ["Describe Gittoo's dress. How does he keep everybody informed?", "गिट्टू के कपड़े कैसे हैं? वह सबको ख़बर कैसे देता है?", "Gittoo ke kapde kaise hain? Woh sabko khabar kaise deta hai?", ["He wears khaki and gathers news and gossip from the whole village.", "He wears a dhoti and reads newspapers.", "He wears a kurta and writes letters."], "He wears khaki and gathers news and gossip from the whole village.", "Gittoo is always dressed in khaki. He plays the policeman and postman, gathers news and gossip from the whole village and keeps everyone informed.", "गिट्टू हमेशा ख़ाकी कपड़े पहनता है। वह पुलिस और डाकिए का खेल खेलता है और पूरे गाँव की ख़बरें इकट्ठा करके सबको बताता है।", "Gittoo hamesha khaaki kapde pehenta hai. Woh police aur daakiye ka khel khelta hai aur poore gaon ki khabrein ikattha karke sabko bataata hai."]},
+        {"book": true, "q": ["What do the children plan after the bus breaks down?", "बस ख़राब होने के बाद बच्चे क्या योजना बनाते हैं?", "Bus kharaab hone ke baad bachche kya yojana banaate hain?", ["to walk to the fair and come back by the morning bus", "to go back home", "to wait for a new bus"], "to walk to the fair and come back by the morning bus", "After the bus breaks down, they plan to walk to the fair and return the next day by the morning bus.", "बस ख़राब होने पर वे पैदल मेले जाने और अगले दिन सुबह की बस से लौटने की योजना बनाते हैं।", "Bus kharaab hone par woh paidal mele jaane aur agle din subah ki bus se lautne ki yojana banaate hain."]},
+        {"book": true, "q": ["Why does Krishan suggest going on foot?", "कृष्ण पैदल जाने का सुझाव क्यों देता है?", "Krishan paidal jaane ka sujhaav kyon deta hai?", ["The bus has broken down and they still want to see the fair.", "He likes long walks.", "The fair is very near."], "The bus has broken down and they still want to see the fair.", "Krishan suggests going on foot because the bus has broken down and they still want to see the fair.", "कृष्ण पैदल जाने को कहता है क्योंकि बस ख़राब है और वे फिर भी मेला देखना चाहते हैं।", "Krishan paidal jaane ko kehta hai kyonki bus kharaab hai aur woh phir bhi mela dekhna chahte hain."]},
+        {"book": true, "q": ["What do they do to inform their parents?", "माता-पिता को ख़बर देने के लिए वे क्या करते हैं?", "Maata-pita ko khabar dene ke liye woh kya karte hain?", ["They call the postman chacha on the telephone.", "They send Sheru home.", "They write a letter."], "They call the postman chacha on the telephone.", "They call the postman chacha on the telephone to tell their parents that they are safe and will be back the next day.", "वे डाकिया चाचा को फ़ोन करते हैं ताकि माता-पिता को बता सकें कि वे सुरक्षित हैं और कल लौटेंगे।", "Woh daakiya chacha ko phone karte hain taaki maata-pita ko bata sakein ki woh surakshit hain aur kal lautenge."]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"book": true, "fb": ["My two wheeler ___ when I was going home.", "broke down", ["broke down", "three piece", "board a bus"], "घर जाते समय मेरी दोपहिया गाड़ी ख़राब हो गई।", "Ghar jaate samay meri dopahiya gaadi kharaab ho gayi."]},
+        {"book": true, "fb": ["Moti, the dog, is ___ on all the people going inside the gate.", "keeping a watch", ["keeping a watch", "broke down", "three piece"], "मोती कुत्ता गेट के अंदर जाने वाले सब लोगों पर नज़र रख रहा है।", "Moti kutta gate ke andar jaane waale sab logon par nazar rakh raha hai."]},
+        {"book": true, "fb": ["We have to ___ at Pipariya to go to Pachmarhi.", "board a bus", ["board a bus", "keeping a watch", "broke down"], "पचमढ़ी जाने के लिए हमें पिपरिया से बस पकड़नी पड़ती है।", "Pachmarhi jaane ke liye humein Pipariya se bus pakadni padti hai."]},
+        {"book": true, "fb": ["I have a ___ blue suit.", "three piece", ["three piece", "board a bus", "keeping a watch"], "मेरे पास तीन हिस्सों वाला नीला सूट है।", "Mere paas teen hisson waala neela suit hai."]},
+        {"card": ["किताब में एक जैसी आवाज़ वाले शब्दों के मतलब उल्टे-पुल्टे हैं। सही मतलब जोड़ो।", "Kitaab mein ek jaisi awaaz waale shabdon ke matlab ulte-pulte hain. Sahi matlab jodo.", "In the book, the meanings of the sound-alike words are mixed up. Join each word to its right meaning."]},
+        {"book": true, "pairs": ["हर शब्द को उसके सही मतलब से जोड़ो", "Har shabd ko uske sahi matlab se jodo", "Match each word with its right meaning", [
+          ["tire", "exhaust (make tired)", "थकाना", "thakaana"],
+          ["tyre", "rubber covering on wheels", "टायर", "tyre"],
+          ["hare", "rabbit", "ख़रगोश", "khargosh"],
+          ["hair", "it grows on our head", "बाल", "baal"],
+          ["quiet", "no noise", "शांत", "shaant"],
+          ["quite", "completely", "पूरी तरह", "poori tarah"],
+          ["plain", "simple", "सादा", "saada"],
+          ["plane", "an aircraft", "हवाई जहाज़", "hawaai jahaaz"]]]},
+        {"book": true, "fb": ["Please keep ___ in the library.", "quiet", ["quiet", "quite"], "कृपया लाइब्रेरी में शांत रहो।", "Kripya library mein shaant raho."]},
+        {"book": true, "fb": ["The car has a flat ___.", "tyre", ["tyre", "tire"], "गाड़ी का टायर पंक्चर है।", "Gaadi ka tyre puncture hai."]},
+        {"book": true, "fb": ["The ___ landed at Bhopal airport.", "plane", ["plane", "plain"], "हवाई जहाज़ भोपाल हवाई अड्डे पर उतरा।", "Hawaai jahaaz Bhopal hawaai adde par utra."]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: वाक्य जोड़ना और too ... to", "Grammar: vaakya jodna aur too ... to", "Grammar in Use: joining sentences and too ... to"], "book": true,
+      "skills": ["book.grammar", "grammar.relative"],
+      "steps": [
+        {"card": ["दो वाक्य who (कौन), which (कौन सा), when (जब), where (जहाँ) से जुड़ते हैं। किताब का उदाहरण: Ranjana wants to buy a book. Ramu has the same book. → Ranjana wants to buy the same book which Ramu has.", "Do vaakya who (kaun), which (kaun sa), when (jab), where (jahan) se judte hain. Kitaab ka udaharan: Ranjana wants to buy a book. Ramu has the same book. → Ranjana wants to buy the same book which Ramu has.", "Two sentences can be joined with who, which, when or where. The book's example: Ranjana wants to buy a book. Ramu has the same book. → Ranjana wants to buy the same book which Ramu has."]},
+        {"book": true, "build": ["जोड़ो (when): Mother went to market. Ramu was sleeping.", "Jodo (when): Mother went to market. Ramu was sleeping.", "Join with ‘when’: Mother went to market. Ramu was sleeping.", "Mother went to market when Ramu was sleeping.", "जब रामू सो रहा था, तब माँ बाज़ार गईं।", "Jab Ramu so raha tha, tab maa baazaar gayin.", ["where"]]},
+        {"book": true, "build": ["जोड़ो (where): I found the pen. I had kept it.", "Jodo (where): I found the pen. I had kept it.", "Join with ‘where’: I found the pen. I had kept it.", "I found the pen where I had kept it.", "मुझे पेन वहीं मिला जहाँ मैंने उसे रखा था।", "Mujhe pen wahin mila jahan maine use rakha tha.", ["when"]]},
+        {"book": true, "build": ["जोड़ो (when): Sona called me. I was reading.", "Jodo (when): Sona called me. I was reading.", "Join with ‘when’: Sona called me. I was reading.", "Sona called me when I was reading.", "जब मैं पढ़ रहा/रही था/थी, तब सोना ने मुझे बुलाया।", "Jab main padh raha/rahi tha/thi, tab Sona ne mujhe bulaaya.", ["who"]]},
+        {"book": true, "build": ["जोड़ो (who): The teacher punished the boy. He was making a noise.", "Jodo (who): The teacher punished the boy. He was making a noise.", "Join with ‘who’: The teacher punished the boy. He was making a noise.", "The teacher punished the boy who was making a noise.", "टीचर ने उस लड़के को सज़ा दी जो शोर कर रहा था।", "Teacher ne us ladke ko saza di jo shor kar raha tha.", ["which"]]},
+        {"card": ["‘too ... to’ = इतना ज़्यादा कि नहीं हो सकता। इसे ‘so ... that ... cannot’ से लिख सकते हैं। Tea is too hot to drink. → Tea is so hot that it cannot be drunk। (drink, drank, drunk)", "‘too ... to’ = itna zyaada ki nahi ho sakta. Ise ‘so ... that ... cannot’ se likh sakte hain. Tea is too hot to drink. → Tea is so hot that it cannot be drunk. (drink, drank, drunk)", "‘too ... to’ means so much that it can't be done. We can rewrite it with ‘so ... that ... cannot’. Tea is too hot to drink. → Tea is so hot that it cannot be drunk. (drink, drank, drunk)"]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "build": ["‘too’ हटाओ: The ceiling is too high to reach.", "‘too’ hatao: The ceiling is too high to reach.", "Remove ‘too’: The ceiling is too high to reach.", "The ceiling is so high that it cannot be reached.", "छत इतनी ऊँची है कि उस तक पहुँचा नहीं जा सकता।", "Chhat itni oonchi hai ki us tak pahuncha nahi ja sakta.", ["too"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "build": ["‘too’ हटाओ: The shirt is too big to wear.", "‘too’ hatao: The shirt is too big to wear.", "Remove ‘too’: The shirt is too big to wear.", "The shirt is so big that it cannot be worn.", "कमीज़ इतनी बड़ी है कि पहनी नहीं जा सकती।", "Kameez itni badi hai ki pehni nahi ja sakti.", ["too"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "build": ["‘too’ हटाओ: This dress is too costly to buy.", "‘too’ hatao: This dress is too costly to buy.", "Remove ‘too’: This dress is too costly to buy.", "This dress is so costly that it cannot be bought.", "यह ड्रेस इतनी महँगी है कि ख़रीदी नहीं जा सकती।", "Yeh dress itni mehngi hai ki khareedi nahi ja sakti.", ["too"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "build": ["‘too’ हटाओ: My school is too far to walk to.", "‘too’ hatao: My school is too far to walk to.", "Remove ‘too’: My school is too far to walk to.", "My school is so far that I cannot walk to it.", "मेरा स्कूल इतना दूर है कि मैं पैदल नहीं जा सकता/सकती।", "Mera school itna door hai ki main paidal nahi ja sakta/sakti.", ["too"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "build": ["‘too’ हटाओ: This picture is too large to hang.", "‘too’ hatao: This picture is too large to hang.", "Remove ‘too’: This picture is too large to hang.", "This picture is so large that it cannot be hung.", "यह तस्वीर इतनी बड़ी है कि टाँगी नहीं जा सकती।", "Yeh tasveer itni badi hai ki taangi nahi ja sakti.", ["too"]]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: कपड़े और गुण", "Chalo baat karein: kapde aur gun", "Let's Talk: clothes and qualities"], "book": true,
+      "skills": ["book.talk", "vocab.clothes"],
+      "steps": [
+        {"card": ["किताब कहती है: घर के लोगों के कपड़ों और गुणों की बात करो। उदाहरण: grandfather — dhoti, kurta — loving, old।", "Kitaab kehti hai: ghar ke logon ke kapdon aur gunon ki baat karo. Udaharan: grandfather — dhoti, kurta — loving, old.", "The book says: talk about the clothes and qualities of your family members. Example: grandfather — dhoti, kurta — loving, old."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर शब्द को कपड़ा या गुण (quality) में रखो", "Har shabd ko kapda ya gun (quality) mein rakho", "Is each word a dress or a quality?"],
+          "groups": [
+            {"id": "dress", "name": "dress", "emoji": "👕", "meaning": ["कपड़ा", "kapda"]},
+            {"id": "quality", "name": "quality", "emoji": "💖", "meaning": ["गुण", "gun"]}
+          ],
+          "items": [
+            {"text": "dhoti", "emoji": "🧵", "groups": ["dress"]},
+            {"text": "honest", "emoji": "🤝", "groups": ["quality"]},
+            {"text": "saree", "emoji": "🥻", "groups": ["dress"]},
+            {"text": "brave", "emoji": "🦁", "groups": ["quality"]},
+            {"text": "T-shirt", "emoji": "👕", "groups": ["dress"]},
+            {"text": "hard working", "emoji": "💪", "groups": ["quality"]},
+            {"text": "kurta", "emoji": "👘", "groups": ["dress"]},
+            {"text": "affectionate", "emoji": "🤗", "groups": ["quality"]}
+          ]},
+        {"book": true, "type": "roleplay", "scene": "👨‍👩‍👧", "turns": [
+          {"id": "father", "tinku": "What does your father wear?", "meaning": ["तुम्हारे पापा क्या पहनते हैं?", "Tumhare papa kya pehente hain?"],
+            "replies": [{"say": "My father wears a shirt and a pair of trousers.", "meaning": ["मेरे पापा शर्ट और पैंट पहनते हैं।", "Mere papa shirt aur pant pehente hain."], "patterns": ["my father wears *", "he wears *", "*", "* *", "* * *"]}]},
+          {"id": "quality", "tinku": "What is he like?", "meaning": ["वे कैसे हैं? (उनके गुण)", "Woh kaise hain? (Unke gun)"],
+            "replies": [{"say": "He is hard working and loving.", "meaning": ["वे मेहनती और प्यार करने वाले हैं।", "Woh mehnati aur pyaar karne waale hain."], "patterns": ["he is *", "*", "* *"]}]},
+          {"id": "mother", "tinku": "And what does your mother wear?", "meaning": ["और तुम्हारी माँ क्या पहनती हैं?", "Aur tumhari maa kya pehenti hain?"],
+            "replies": [{"say": "My mother wears a saree.", "meaning": ["मेरी माँ साड़ी पहनती हैं।", "Meri maa saadi pehenti hain."], "patterns": ["my mother wears *", "she wears *", "*", "* *"], "next": "end"}]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें", "Chalo likhein", "Let's Write"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब का पहला सवाल: पिकनिक में रास्ता भटकने की घटना लिखो। शुरुआत किताब देती है: Once the members of my family and I went to a nearby riverside...", "Kitaab ka pehla sawaal: picnic mein raasta bhatakne ki ghatna likho. Shuruaat kitaab deti hai: Once the members of my family and I went to a nearby riverside...", "The book's first task: write about a picnic where you lost your way. The book gives the start: Once the members of my family and I went to a nearby riverside..."]},
+        {"book": true, "build": ["आगे लिखो: फिर हम जंगल में रास्ता भूल गए।", "Aage likho: phir hum jangal mein raasta bhool gaye.", "Continue: say you lost your way in the forest.", "Then we lost our way in the forest.", "फिर हम जंगल में रास्ता भूल गए।", "Phir hum jangal mein raasta bhool gaye."]},
+        {"book": true, "build": ["आगे लिखो: मेरी छोटी बहन डरकर रोने लगी।", "Aage likho: meri chhoti behen darkar rone lagi.", "Continue: say your little sister got scared and started crying.", "My little sister got scared and started crying.", "मेरी छोटी बहन डरकर रोने लगी।", "Meri chhoti behen darkar rone lagi."]},
+        {"book": true, "build": ["आगे लिखो: हमें एक चरवाहा मिला जिसने रास्ता बताया।", "Aage likho: humein ek charwaaha mila jisne raasta bataaya.", "Continue: say you met a shepherd who showed the way.", "We met a shepherd who showed us the way.", "हमें एक चरवाहा मिला जिसने हमें रास्ता दिखाया।", "Humein ek charwaaha mila jisne humein raasta dikhaaya."]},
+        {"book": true, "build": ["आगे लिखो: हम शाम तक सुरक्षित घर लौट आए।", "Aage likho: hum shaam tak surakshit ghar laut aaye.", "Continue: say you came back home safely by evening.", "We came back home safely by evening.", "हम शाम तक सुरक्षित घर लौट आए।", "Hum shaam tak surakshit ghar laut aaye."]},
+        {"card": ["किताब का दूसरा सवाल: कृष्ण और डाकिया चाचा (रामलाल) की फ़ोन पर बातचीत पूरी करो। तुम कृष्ण बनो, मैं रामलाल बनता हूँ।", "Kitaab ka doosra sawaal: Krishan aur daakiya chacha (Ramlal) ki phone par baatcheet poori karo. Tum Krishan bano, main Ramlal banta hoon.", "The book's second task: complete the phone talk between Krishan and Ramlal, the postman. You be Krishan; I'll be Ramlal."]},
+        {"book": true, "type": "roleplay", "skills": ["book.writing", "speak.sentence"], "scene": "📞", "turns": [
+          {"id": "hello", "tinku": "Hello? Who is speaking?", "meaning": ["हेलो? कौन बोल रहा है?", "Hello? Kaun bol raha hai?"],
+            "replies": [{"say": "Hello, chacha, this is Krishan here from Dholpur.", "meaning": ["हेलो चाचा, मैं धौलपुर से कृष्ण बोल रहा हूँ।", "Hello chacha, main Dholpur se Krishan bol raha hoon."], "patterns": ["hello chacha *", "this is *", "* krishan *", "*", "* *", "* * *"]}]},
+          {"id": "msg", "tinku": "Hello, Krishan. This is Ramlal, the postman. What is it?", "meaning": ["हेलो कृष्ण, मैं रामलाल डाकिया। क्या बात है?", "Hello Krishan, main Ramlal daakiya. Kya baat hai?"],
+            "replies": [{"say": "Can you please tell my parents that we will come back tomorrow?", "meaning": ["क्या आप मेरे माता-पिता को बता देंगे कि हम कल लौटेंगे?", "Kya aap mere maata-pita ko bata denge ki hum kal lautenge?"], "patterns": ["can you please tell *", "* come back tomorrow", "* tomorrow", "*", "* *", "* * *"]}]},
+          {"id": "where", "tinku": "Why? Where are you?", "meaning": ["क्यों? तुम कहाँ हो?", "Kyon? Tum kahan ho?"],
+            "replies": [{"say": "We are at the fair. It's late.", "meaning": ["हम मेले में हैं। देर हो गई है।", "Hum mele mein hain. Der ho gayi hai."], "patterns": ["we are at the fair *", "we are at *", "* fair *", "*", "* *"]}]},
+          {"id": "why", "tinku": "Why do you want to stay?", "meaning": ["तुम रुकना क्यों चाहते हो?", "Tum rukna kyon chahte ho?"],
+            "replies": [{"say": "Because the bus broke down.", "meaning": ["क्योंकि बस ख़राब हो गई।", "Kyonki bus kharaab ho gayi."], "patterns": ["because the bus broke down", "* broke down", "* bus *", "*", "* *"]}]},
+          {"id": "safe", "tinku": "Are you all safe?", "meaning": ["क्या तुम सब सुरक्षित हो?", "Kya tum sab surakshit ho?"],
+            "replies": [{"say": "Yes, of course, chacha.", "meaning": ["हाँ, बिल्कुल, चाचा।", "Haan, bilkul, chacha."], "patterns": ["yes *", "yes", "of course *"]}]},
+          {"id": "pass", "tinku": "Good. I will pass the message on to your parents.", "meaning": ["ठीक है। मैं तुम्हारे माता-पिता को संदेश दे दूँगा।", "Theek hai. Main tumhare maata-pita ko sandesh de doonga."],
+            "replies": [{"say": "Thank you, chacha!", "meaning": ["शुक्रिया, चाचा!", "Shukriya, chacha!"], "patterns": ["thank you *", "thank you", "thanks *", "thanks"]}]}
+        ]},
+        {"book": true, "q": ["Ramlal tells Krishan's father: ‘Krishan called from ___.’", "रामलाल कृष्ण के पिता से कहता है: ‘कृष्ण का फ़ोन ___ से आया।’", "Ramlal Krishan ke pita se kehta hai: ‘Krishan ka phone ___ se aaya.’", ["Dholpur", "Rampur", "Bhopal"], "Dholpur"]},
+        {"book": true, "q": ["Why aren't the children coming back tonight?", "बच्चे आज रात क्यों नहीं लौट रहे?", "Bachche aaj raat kyon nahi laut rahe?", ["Because the bus broke down.", "Because they are lost.", "Because Sheru ran away."], "Because the bus broke down.", "Ramlal said that they were not coming because the bus had broken down. They were all safe.", "रामलाल ने बताया कि बस ख़राब होने की वजह से वे नहीं आ रहे। सब सुरक्षित हैं।", "Ramlal ne bataaya ki bus kharaab hone ki wajah se woh nahi aa rahe. Sab surakshit hain."]}
+      ]
+    },
+    {
+      "emoji": "🖼️", "title": ["चलो करके देखें: तस्वीर का वर्णन", "Chalo karke dekhein: tasveer ka varnan", "Let's Do It: describe a picture"], "book": true,
+      "skills": ["book.activity"],
+      "steps": [
+        {"card": ["किताब की दो तस्वीरें हैं: एक दादाजी और एक स्कूल की लड़की। इन शब्दों से वर्णन करो: round face, old man, young girl, wears spectacles, big eyes, short hair, bald।", "Kitaab ki do tasveerein hain: ek daadaji aur ek school ki ladki. In shabdon se varnan karo: round face, old man, young girl, wears spectacles, big eyes, short hair, bald.", "The book has two pictures: a grandfather and a school girl. Describe them with: round face, old man, young girl, wears spectacles, big eyes, short hair, bald."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर वाक्यांश को दादाजी या स्कूल की लड़की के पास रखो", "Har vaakyansh ko daadaji ya school ki ladki ke paas rakho", "Put each clue with the grandfather or the school girl"],
+          "groups": [
+            {"id": "old", "name": "the grandfather", "emoji": "👴", "meaning": ["दादाजी", "daadaji"]},
+            {"id": "girl", "name": "the school girl", "emoji": "👧", "meaning": ["स्कूल की लड़की", "school ki ladki"]}
+          ],
+          "items": [
+            {"text": "old man", "emoji": "👴", "groups": ["old"]},
+            {"text": "young girl", "emoji": "🎒", "groups": ["girl"]},
+            {"text": "bald", "emoji": "🧑‍🦲", "groups": ["old"]},
+            {"text": "wears spectacles", "emoji": "👓", "groups": ["old"]},
+            {"text": "short hair", "emoji": "💇", "groups": ["girl"]},
+            {"text": "big eyes", "emoji": "👀", "groups": ["girl", "old"]}
+          ]},
+        {"book": true, "build": ["दादाजी का वर्णन: वे चश्मा पहनते हैं।", "Daadaji ka varnan: woh chashma pehente hain.", "Describe the grandfather: he wears spectacles.", "The old man wears spectacles.", "बूढ़े आदमी चश्मा पहनते हैं।", "Boodhe aadmi chashma pehente hain."]},
+        {"book": true, "build": ["लड़की का वर्णन: उसकी बड़ी आँखें और छोटे बाल हैं।", "Ladki ka varnan: uski badi aankhein aur chhote baal hain.", "Describe the girl: big eyes and short hair.", "The girl has big eyes and short hair.", "लड़की की बड़ी आँखें और छोटे बाल हैं।", "Ladki ki badi aankhein aur chhote baal hain."]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: मेले की सैर", "Aur seekho: mele ki sair", "Learn more: a day at the fair"], "book": false,
+      "skills": ["vocab.places"],
+      "steps": [
+        {"pairs": ["मेले की चीज़ें जोड़ो", "Mele ki cheezein jodo", "Join the fair words to their meanings", [
+          ["giant wheel", "a very big wheel with seats that goes round", "बड़ा झूला", "bada jhoola"],
+          ["merry-go-round", "a round ride with wooden horses", "घोड़ों वाला गोल झूला", "ghodon waala gol jhoola"],
+          ["hansi ghar", "a house of funny mirrors", "हँसी घर (मज़ेदार शीशे)", "hansi ghar (mazedaar sheeshe)"],
+          ["stall", "a small shop at a fair", "दुकान, स्टॉल", "dukaan, stall"]]]},
+        {"q": ["Why is the story called ‘One-Way Ticket’?", "कहानी का नाम ‘One-Way Ticket’ क्यों है?", "Kahani ka naam ‘One-Way Ticket’ kyon hai?", ["They went one way but could not come back the same way.", "The tickets were free.", "The bus went in circles."], "They went one way but could not come back the same way."]},
+        {"q": ["What should you do if you get lost at a fair?", "मेले में खो जाओ तो क्या करना चाहिए?", "Mele mein kho jaao to kya karna chahiye?", ["Go to a police booth or the help desk.", "Go with any stranger.", "Run away from the fair."], "Go to a police booth or the help desk."]},
+        {"fb": ["The five friends were a ___ group.", "happy", ["happy", "sad", "angry"], "पाँचों दोस्त एक ख़ुशमिज़ाज टोली थे।", "Paanchon dost ek khushmizaaj toli the."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 12 का टेस्ट", "Paath 12 ka test", "Lesson 12 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Who is a chatterbox?", "बातूनी कौन है?", "Baatooni kaun hai?", ["Bishni", "Krishan", "Lambu"], "Bishni"]},
+        {"book": true, "q": ["Why is Krishan called the wise?", "कृष्ण को समझदार क्यों कहते हैं?", "Krishan ko samajhdaar kyon kehte hain?", ["He helps everyone find a solution to their problems.", "He is the tallest.", "He wears khaki."], "He helps everyone find a solution to their problems."]},
+        {"book": true, "q": ["What do they do to inform their parents?", "माता-पिता को ख़बर कैसे देते हैं?", "Maata-pita ko khabar kaise dete hain?", ["They call the postman chacha on the telephone.", "They send Sheru home.", "They write a letter."], "They call the postman chacha on the telephone."]},
+        {"book": true, "skills": ["book.words"], "fb": ["My two wheeler ___ when I was going home.", "broke down", ["broke down", "three piece", "board a bus"], "घर जाते समय मेरी गाड़ी ख़राब हो गई।", "Ghar jaate samay meri gaadi kharaab ho gayi."]},
+        {"book": true, "skills": ["book.words"], "q": ["‘hare’ means ...", "‘hare’ का मतलब?", "‘hare’ ka matlab?", ["rabbit", "it grows on our head", "an aircraft"], "rabbit"]},
+        {"book": true, "skills": ["book.words"], "q": ["‘quite’ means ...", "‘quite’ का मतलब?", "‘quite’ ka matlab?", ["completely", "no noise", "simple"], "completely"]},
+        {"book": true, "skills": ["book.grammar", "grammar.relative"], "q": ["Join: The teacher punished the boy. He was making a noise.", "जोड़ो", "Jodo", ["The teacher punished the boy who was making a noise.", "The teacher punished the boy which was making a noise.", "The teacher punished the boy where was making a noise."], "The teacher punished the boy who was making a noise."]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "q": ["Tea is too hot to drink. =", "बराबर वाक्य", "Baraabar vaakya", ["Tea is so hot that it cannot be drunk.", "Tea is so hot that it can be drunk.", "Tea is very hot to drink it."], "Tea is so hot that it cannot be drunk."]},
+        {"book": true, "skills": ["book.talk"], "q": ["Which one is a quality, not a dress?", "कौन सा गुण है, कपड़ा नहीं?", "Kaun sa gun hai, kapda nahi?", ["honest", "lungi", "skirt"], "honest"]},
+        {"book": true, "skills": ["book.writing"], "q": ["Ramlal: ‘Are you all safe?’ Krishan: ...", "कृष्ण क्या जवाब देता है?", "Krishan kya jawab deta hai?", ["Yes, of course, chacha.", "Because the bus broke down.", "We are at the fair."], "Yes, of course, chacha."]}
+      ]
+    }
+  ]
+}

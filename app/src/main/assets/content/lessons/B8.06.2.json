@@ -1,0 +1,161 @@
+{
+  "id": "B8.06.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.06.2.S02",
+    "B8.06.2.S03",
+    "B8.06.2.S04",
+    "B8.06.2.S05",
+    "B8.06.2.S06",
+    "B8.06.2.S07",
+    "B8.06.2.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.06.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब के वाक्यों में कुछ शब्द गलत जगह लगे हैं। पाठ से सही शब्द चुनो।",
+        "hinglish": "Kitaab ke vaakyon mein kuchh shabd galat jagah lage hain. Paath se sahi shabd chuno.",
+        "en": "In the book's sentences, some words are used wrongly. Choose the correct word from the lesson."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "When they put the first morsel of food in their mouths, the people began to ___ asking for water again and again.",
+      "answer": "pant and rasp",
+      "options": [
+        "pant and rasp",
+        "on the spur of",
+        "prominent"
+      ],
+      "meaning": {
+        "hi": "पहला निवाला खाते ही लोग हाँफने लगे और बार-बार पानी माँगने लगे।",
+        "hinglish": "Pehla nivaala khaate hi log haanfne lage aur baar-baar paani maangne lage."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "We dined in ___ surroundings.",
+      "answer": "sumptuous",
+      "options": [
+        "sumptuous",
+        "prominent",
+        "inept"
+      ],
+      "meaning": {
+        "hi": "हमने शानदार माहौल में खाना खाया।",
+        "hinglish": "Humne shaandaar maahaul mein khaana khaaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Raja Varma drew images of ___ characters of men and women from the Puranas.",
+      "answer": "prominent",
+      "options": [
+        "prominent",
+        "portrait",
+        "livid"
+      ],
+      "meaning": {
+        "hi": "राजा वर्मा ने पुराणों के प्रमुख पात्रों के चित्र बनाए।",
+        "hinglish": "Raja Varma ne Puraanon ke pramukh paatron ke chitra banaaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "He played a ___ part in the campaign.",
+      "answer": "prominent",
+      "options": [
+        "prominent",
+        "sumptuous",
+        "courteous"
+      ],
+      "meaning": {
+        "hi": "उसने अभियान में प्रमुख भूमिका निभाई।",
+        "hinglish": "Usne abhiyaan mein pramukh bhoomika nibhaayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "I phoned him up ___ the moment.",
+      "answer": "on the spur of",
+      "options": [
+        "on the spur of",
+        "pant and rasp",
+        "in spite of"
+      ],
+      "meaning": {
+        "hi": "मैंने उसी पल अचानक उसे फ़ोन किया।",
+        "hinglish": "Maine usi pal achaanak use phone kiya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.2.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "___ of the art comes mostly from business and private individuals.",
+      "answer": "Patronage",
+      "options": [
+        "Patronage",
+        "Embarrassment",
+        "Portrait"
+      ],
+      "meaning": {
+        "hi": "कला को सहारा ज़्यादातर व्यापारियों और आम लोगों से मिलता है।",
+        "hinglish": "Kala ko sahaara zyaadatar vyaapaariyon aur aam logon se milta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.2.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The king was pleased with the artist when his ___ was ready.",
+      "answer": "portrait",
+      "options": [
+        "portrait",
+        "patronage",
+        "morsel"
+      ],
+      "meaning": {
+        "hi": "चित्र तैयार होने पर राजा चित्रकार से ख़ुश हुए।",
+        "hinglish": "Chitra taiyaar hone par raja chitrakaar se khush hue."
+      }
+    }
+  ]
+}

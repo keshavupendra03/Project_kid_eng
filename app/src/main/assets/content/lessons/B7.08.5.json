@@ -1,0 +1,170 @@
+{
+  "id": "B7.08.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.08.5.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.08.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब कहती है: दोस्तों से सवाल पूछकर तालिका भरो। आज मैं तुमसे वही सवाल पूछता हूँ, तुम अपने बारे में बताओ।",
+        "hinglish": "Kitaab kehti hai: doston se sawaal poochhkar taalika bharo. Aaj main tumse wahi sawaal poochhta hoon, tum apne baare mein batao.",
+        "en": "The book says: ask your friends questions and fill the table. Today I'll ask you the same questions; tell me about yourself."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.08.5.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "📋",
+      "turns": [
+        {
+          "id": "join",
+          "tinku": "When did you join the school?",
+          "meaning": {
+            "hi": "तुमने स्कूल में दाख़िला कब लिया?",
+            "hinglish": "Tumne school mein daakhila kab liya?"
+          },
+          "replies": [
+            {
+              "say": "I joined the school in 2020.",
+              "meaning": {
+                "hi": "मैंने 2020 में स्कूल में दाख़िला लिया। (अपना साल बोलो)",
+                "hinglish": "Maine 2020 mein school mein daakhila liya. (Apna saal bolo)"
+              },
+              "patterns": [
+                "i joined the school in *",
+                "i joined *",
+                "in *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "game",
+          "tinku": "What game do you like to play?",
+          "meaning": {
+            "hi": "तुम्हें कौन सा खेल खेलना पसंद है?",
+            "hinglish": "Tumhe kaun sa khel khelna pasand hai?"
+          },
+          "replies": [
+            {
+              "say": "I like to play kabaddi.",
+              "meaning": {
+                "hi": "मुझे कबड्डी खेलना पसंद है।",
+                "hinglish": "Mujhe kabaddi khelna pasand hai."
+              },
+              "patterns": [
+                "i like to play *",
+                "i like *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "colour",
+          "tinku": "What colour do you like the most?",
+          "meaning": {
+            "hi": "तुम्हें कौन सा रंग सबसे ज़्यादा पसंद है?",
+            "hinglish": "Tumhe kaun sa rang sabse zyaada pasand hai?"
+          },
+          "replies": [
+            {
+              "say": "I like blue the most.",
+              "meaning": {
+                "hi": "मुझे नीला सबसे ज़्यादा पसंद है।",
+                "hinglish": "Mujhe neela sabse zyaada pasand hai."
+              },
+              "patterns": [
+                "i like *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "subject",
+          "tinku": "What's your favourite subject?",
+          "meaning": {
+            "hi": "तुम्हारा पसंदीदा विषय कौन सा है?",
+            "hinglish": "Tumhara pasandeeda vishay kaun sa hai?"
+          },
+          "replies": [
+            {
+              "say": "My favourite subject is Science.",
+              "meaning": {
+                "hi": "मेरा पसंदीदा विषय विज्ञान है।",
+                "hinglish": "Mera pasandeeda vishay vigyaan hai."
+              },
+              "patterns": [
+                "my favourite subject is *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fruit",
+          "tinku": "Which fruit do you like the most?",
+          "meaning": {
+            "hi": "तुम्हें कौन सा फल सबसे ज़्यादा पसंद है?",
+            "hinglish": "Tumhe kaun sa phal sabse zyaada pasand hai?"
+          },
+          "replies": [
+            {
+              "say": "I like mangoes the most.",
+              "meaning": {
+                "hi": "मुझे आम सबसे ज़्यादा पसंद हैं।",
+                "hinglish": "Mujhe aam sabse zyaada pasand hain."
+              },
+              "patterns": [
+                "i like *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "birth",
+          "tinku": "What's your date of birth?",
+          "meaning": {
+            "hi": "तुम्हारी जन्म तिथि क्या है?",
+            "hinglish": "Tumhari janm tithi kya hai?"
+          },
+          "replies": [
+            {
+              "say": "My date of birth is 14th November.",
+              "meaning": {
+                "hi": "मेरी जन्म तिथि 14 नवंबर है। (अपनी तारीख़ बोलो)",
+                "hinglish": "Meri janm tithi 14 November hai. (Apni taareekh bolo)"
+              },
+              "patterns": [
+                "my date of birth is *",
+                "*",
+                "* *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

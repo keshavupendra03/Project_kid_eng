@@ -1,0 +1,187 @@
+{
+  "id": "B8.07.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.07.5.S02",
+    "B8.07.5.S03",
+    "B8.07.5.S04",
+    "B8.07.5.S05",
+    "B8.07.5.S06",
+    "B8.07.5.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.07.5.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "text": {
+        "hi": "in, un, dis, non = नहीं; over = बहुत ज़्यादा; re = फिर से; fore = पहले। जैसे: redo (फिर करना), overeat (ज़्यादा खाना)।",
+        "hinglish": "in, un, dis, non = nahi; over = bahut zyaada; re = phir se; fore = pehle. Jaise: redo (phir karna), overeat (zyaada khaana).",
+        "en": "in, un, dis, non = not; over = too much; re = again; fore = before. Example: redo, overeat."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.5.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "Many drivers ___ the speed restriction on roads. (obey)",
+      "answer": "disobey",
+      "options": [
+        "disobey",
+        "unobey",
+        "reobey"
+      ],
+      "meaning": {
+        "hi": "बहुत से ड्राइवर सड़क पर गति सीमा नहीं मानते।",
+        "hinglish": "Bahut se driver sadak par gati seema nahi maante."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.5.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "I had to ___ the directions because I couldn't understand them. (read)",
+      "answer": "reread",
+      "options": [
+        "reread",
+        "overread",
+        "unread"
+      ],
+      "meaning": {
+        "hi": "मुझे निर्देश फिर से पढ़ने पड़े क्योंकि समझ नहीं आए।",
+        "hinglish": "Mujhe nirdesh phir se padhne pade kyonki samajh nahi aaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.5.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "The garden hasn't been mown, so weeds have ___. (grown)",
+      "answer": "overgrown",
+      "options": [
+        "overgrown",
+        "regrown",
+        "ungrown"
+      ],
+      "meaning": {
+        "hi": "बग़ीचे की घास नहीं कटी, इसलिए खरपतवार बहुत बढ़ गई है।",
+        "hinglish": "Bageeche ki ghaas nahi kati, isliye kharpatwaar bahut badh gayi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.5.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "I ___ the ball she had lost. (placed)",
+      "answer": "replaced",
+      "options": [
+        "replaced",
+        "displaced",
+        "overplaced"
+      ],
+      "meaning": {
+        "hi": "उसकी खोई गेंद की जगह मैंने नई गेंद दे दी।",
+        "hinglish": "Uski khoyi gend ki jagah maine nayi gend de di."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.5.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "These slippers are made of ___ plastic. (cycled)",
+      "answer": "recycled",
+      "options": [
+        "recycled",
+        "uncycled",
+        "overcycled"
+      ],
+      "meaning": {
+        "hi": "ये चप्पलें दोबारा इस्तेमाल हुए प्लास्टिक से बनी हैं।",
+        "hinglish": "Yeh chappalein dobaara istemaal hue plastic se bani hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.07.5.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "text": {
+        "hi": "(b) fore = पहले: forecast (पहले से अनुमान), foretell (भविष्य बताना), forenoon (दोपहर से पहले), forefront (सबसे आगे), forefathers (पूर्वज)।",
+        "hinglish": "(b) fore = pehle: forecast (pehle se anumaan), foretell (bhavishya bataana), forenoon (dopahar se pehle), forefront (sabse aage), forefathers (poorvaj).",
+        "en": "(b) fore = before: forecast, foretell, forenoon, forefront, forefathers."
+      }
+    },
+    {
+      "type": "crossword",
+      "id": "B8.07.5.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "entries": [
+        {
+          "number": 1,
+          "answer": "forecast",
+          "across": false,
+          "clue": "According to last evening's weather ___, it may rain today.",
+          "row": 1,
+          "col": 3
+        },
+        {
+          "number": 2,
+          "answer": "foretell",
+          "across": false,
+          "clue": "Astrologers claim that they can ___ your future.",
+          "row": 1,
+          "col": 8
+        },
+        {
+          "number": 3,
+          "answer": "forenoon",
+          "across": true,
+          "clue": "He has applied for half a day's leave in the ___ today.",
+          "row": 2,
+          "col": 2
+        },
+        {
+          "number": 4,
+          "answer": "forefront",
+          "across": false,
+          "clue": "A true leader is always in the ___.",
+          "row": 0,
+          "col": 0
+        },
+        {
+          "number": 5,
+          "answer": "forefathers",
+          "across": true,
+          "clue": "We don't often realise that we owe a lot to our ___.",
+          "row": 4,
+          "col": 0
+        }
+      ],
+      "rows": 9,
+      "cols": 11
+    }
+  ]
+}

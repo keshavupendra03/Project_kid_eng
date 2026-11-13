@@ -1,0 +1,253 @@
+{
+  "id": "B7.07.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.07.4.S02",
+    "B7.07.4.S03",
+    "B7.07.4.S04",
+    "B7.07.4.S05",
+    "B7.07.4.S06",
+    "B7.07.4.S07",
+    "B7.07.4.S09",
+    "B7.07.4.S10",
+    "B7.07.4.S11",
+    "B7.07.4.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.07.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "बीते समय में जो काम चल रहा था, उसके लिए was/were + ing: Two boys were playing (दो लड़के खेल रहे थे)। जो काम हो गया, उसके लिए दूसरा रूप: They ran (वे दौड़े)।",
+        "hinglish": "Beete samay mein jo kaam chal raha tha, uske liye was/were + ing: Two boys were playing (do ladke khel rahe the). Jo kaam ho gaya, uske liye doosra roop: They ran (woh daude).",
+        "en": "For an action going on in the past, use was/were + ing: Two boys were playing. For a finished action, use the past form: They ran."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Two boys ___ in the ground with a ball. (play)",
+      "answer": "were playing",
+      "options": [
+        "were playing",
+        "plays",
+        "is playing"
+      ],
+      "meaning": {
+        "hi": "दो लड़के मैदान में गेंद से खेल रहे थे।",
+        "hinglish": "Do ladke maidaan mein gend se khel rahe the."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "A few boys ___ them. (watch)",
+      "answer": "were watching",
+      "options": [
+        "were watching",
+        "watches",
+        "was watch"
+      ],
+      "meaning": {
+        "hi": "कुछ लड़के उन्हें देख रहे थे।",
+        "hinglish": "Kuch ladke unhe dekh rahe the."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "All of them ___ their free time. (enjoy)",
+      "answer": "were enjoying",
+      "options": [
+        "were enjoying",
+        "enjoys",
+        "is enjoy"
+      ],
+      "meaning": {
+        "hi": "वे सब अपने खाली समय का मज़ा ले रहे थे।",
+        "hinglish": "Woh sab apne khaali samay ka mazaa le rahe the."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Suddenly it started ___. (rain)",
+      "answer": "raining",
+      "options": [
+        "raining",
+        "rains",
+        "rained"
+      ],
+      "meaning": {
+        "hi": "अचानक बारिश होने लगी।",
+        "hinglish": "Achaanak baarish hone lagi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Now all of them ___ back to their rooms. (run)",
+      "answer": "ran",
+      "options": [
+        "ran",
+        "runs",
+        "running"
+      ],
+      "meaning": {
+        "hi": "अब वे सब दौड़कर अपने कमरों में चले गए।",
+        "hinglish": "Ab woh sab daudkar apne kamron mein chale gaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "One of them ___ up the ball. (pick)",
+      "answer": "picked",
+      "options": [
+        "picked",
+        "picks",
+        "picking"
+      ],
+      "meaning": {
+        "hi": "उनमें से एक ने गेंद उठा ली।",
+        "hinglish": "Unmein se ek ne gend utha li."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.07.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "अब जवाब से सवाल बनाओ। किताब का उदाहरण: Suman has her lunch at office. (where) → Where does Suman have her lunch?",
+        "hinglish": "Ab jawab se sawaal banao. Kitaab ka udaharan: Suman has her lunch at office. (where) → Where does Suman have her lunch?",
+        "en": "Now make questions from answers. The book's example: Suman has her lunch at office. (where) → Where does Suman have her lunch?"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.07.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.wh_questions"
+      ],
+      "prompt": {
+        "hi": "जवाब: She has her lunch at 10 o'clock. (when)",
+        "hinglish": "Jawab: She has her lunch at 10 o'clock. (when)",
+        "en": "Answer: She has her lunch at 10 o'clock. Ask with ‘when’."
+      },
+      "answer": "When does she have her lunch?",
+      "meaning": {
+        "hi": "वह दोपहर का खाना कब खाती है?",
+        "hinglish": "Woh dopahar ka khaana kab khaati hai?"
+      },
+      "extra": [
+        "has"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.07.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.wh_questions"
+      ],
+      "prompt": {
+        "hi": "जवाब: She has chappaties and vegetables for lunch. (what)",
+        "hinglish": "Jawab: She has chappaties and vegetables for lunch. (what)",
+        "en": "Answer: She has chappaties and vegetables. Ask with ‘what’."
+      },
+      "answer": "What does she have for lunch?",
+      "meaning": {
+        "hi": "वह दोपहर में क्या खाती है?",
+        "hinglish": "Woh dopahar mein kya khaati hai?"
+      },
+      "extra": [
+        "has"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.07.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.wh_questions"
+      ],
+      "prompt": {
+        "hi": "जवाब: She had dinner at her friend's home last night. (where)",
+        "hinglish": "Jawab: She had dinner at her friend's home last night. (where)",
+        "en": "Answer: She had dinner at her friend's home. Ask with ‘where’."
+      },
+      "answer": "Where did she have dinner last night?",
+      "meaning": {
+        "hi": "कल रात उसने खाना कहाँ खाया?",
+        "hinglish": "Kal raat usne khaana kahan khaaya?"
+      },
+      "extra": [
+        "had"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.07.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "किताब का एक नोट: apostrophe (’)। एक के लिए ’s (the man's story), कई (s वाले) के लिए s’ (the merchants' story)।",
+        "hinglish": "Kitaab ka ek note: apostrophe (’). Ek ke liye ’s (the man's story), kai (s waale) ke liye s’ (the merchants' story).",
+        "en": "A note from the book: the apostrophe. One person: ’s (the man's story). More than one, ending in s: s’ (the merchants' story)."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The story of the two merchants is ...",
+      "questionMeaning": {
+        "hi": "दोनों व्यापारियों की कहानी = ...",
+        "hinglish": "Dono vyaapaariyon ki kahani = ..."
+      },
+      "options": [
+        "the merchants' story",
+        "the merchant's story",
+        "the merchants story's"
+      ],
+      "answer": "the merchants' story"
+    }
+  ]
+}

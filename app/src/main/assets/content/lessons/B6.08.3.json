@@ -1,0 +1,147 @@
+{
+  "id": "B6.08.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.08.3.S02",
+    "B6.08.3.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.08.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "किताब की पहेली में जानवरों के नाम भरने हैं। यहाँ सुराग पढ़कर जानवर चुनो।",
+        "hinglish": "Kitaab ki paheli mein jaanwaron ke naam bharne hain. Yahan suraag padhkar jaanwar chuno.",
+        "en": "The book's puzzle asks for animal names. Read each clue here and pick the animal."
+      }
+    },
+    {
+      "type": "crossword",
+      "id": "B6.08.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "entries": [
+        {
+          "number": 1,
+          "answer": "elephant",
+          "across": true,
+          "clue": "A huge animal with a trunk: ___",
+          "given": true,
+          "row": 4,
+          "col": 0
+        },
+        {
+          "number": 2,
+          "answer": "tiger",
+          "across": false,
+          "clue": "A wild cat with black stripes: ___",
+          "row": 1,
+          "col": 0
+        },
+        {
+          "number": 3,
+          "answer": "horse",
+          "across": false,
+          "clue": "A farm animal we can ride: ___",
+          "row": 0,
+          "col": 2
+        },
+        {
+          "number": 4,
+          "answer": "parrot",
+          "across": false,
+          "clue": "A green pet bird that can talk: ___",
+          "row": 4,
+          "col": 3
+        },
+        {
+          "number": 5,
+          "answer": "sheep",
+          "across": true,
+          "clue": "A farm animal that gives us wool: ___",
+          "row": 0,
+          "col": 1
+        },
+        {
+          "number": 6,
+          "answer": "rabbit",
+          "across": true,
+          "clue": "A pet with long ears that loves carrots: ___",
+          "row": 6,
+          "col": 3
+        }
+      ],
+      "rows": 10,
+      "cols": 9
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.08.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "जानवरों को उनके बच्चों से जोड़ो",
+        "hinglish": "Jaanwaron ko unke bachchon se jodo",
+        "en": "Match the animals with their young ones"
+      },
+      "pairs": [
+        {
+          "left": "cow",
+          "right": "calf",
+          "meaning": {
+            "hi": "बछड़ा",
+            "hinglish": "bachhda"
+          }
+        },
+        {
+          "left": "sheep",
+          "right": "lamb",
+          "meaning": {
+            "hi": "मेमना",
+            "hinglish": "memna"
+          }
+        },
+        {
+          "left": "hen",
+          "right": "chick",
+          "meaning": {
+            "hi": "चूज़ा",
+            "hinglish": "choozaa"
+          }
+        },
+        {
+          "left": "horse",
+          "right": "foal",
+          "meaning": {
+            "hi": "घोड़े का बच्चा",
+            "hinglish": "ghode ka bachcha"
+          }
+        },
+        {
+          "left": "duck",
+          "right": "duckling",
+          "meaning": {
+            "hi": "बत्तख का बच्चा",
+            "hinglish": "battakh ka bachcha"
+          }
+        },
+        {
+          "left": "pig",
+          "right": "piglet",
+          "meaning": {
+            "hi": "सूअर का बच्चा",
+            "hinglish": "suar ka bachcha"
+          }
+        }
+      ]
+    }
+  ]
+}

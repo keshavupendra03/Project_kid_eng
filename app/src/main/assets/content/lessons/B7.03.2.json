@@ -1,0 +1,289 @@
+{
+  "id": "B7.03.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.03.2.S02",
+    "B7.03.2.S03",
+    "B7.03.2.S04",
+    "B7.03.2.S05",
+    "B7.03.2.S06",
+    "B7.03.2.S07",
+    "B7.03.2.S09",
+    "B7.03.2.S10",
+    "B7.03.2.S11",
+    "B7.03.2.S12",
+    "B7.03.2.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.03.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 12 और 13 पर ‘The Wise Man-II’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 12 aur 13 par ‘The Wise Man-II’ padho. Phir jawab do.",
+        "en": "Read ‘The Wise Man-II’ on pages 12 and 13 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the thugs ask Bhola?",
+      "questionMeaning": {
+        "hi": "ठगों ने भोला से क्या पूछा?",
+        "hinglish": "Thagon ne Bhola se kya poochha?"
+      },
+      "options": [
+        "They asked him to sell his mangoes.",
+        "They asked him for his horse.",
+        "They asked him the way home."
+      ],
+      "answer": "They asked him to sell his mangoes.",
+      "modelAnswer": "The thugs asked Bhola, \"Will you sell these mangoes, Sir?\"",
+      "modelMeaning": {
+        "hi": "ठगों ने भोला से पूछा, ‘क्या आप ये आम बेचेंगे?’",
+        "hinglish": "Thagon ne Bhola se poochha, ‘Kya aap yeh aam bechenge?’"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Did Bhola agree to sell the green mangoes?",
+      "questionMeaning": {
+        "hi": "क्या भोला हरे आम बेचने को राज़ी हुआ?",
+        "hinglish": "Kya Bhola hare aam bechne ko raazi hua?"
+      },
+      "options": [
+        "No, they were for his wife.",
+        "Yes, for a thousand rupees.",
+        "Yes, for a horse."
+      ],
+      "answer": "No, they were for his wife.",
+      "modelAnswer": "No, Bhola did not agree to sell the mangoes because they were for his wife.",
+      "modelMeaning": {
+        "hi": "नहीं, भोला आम बेचने को राज़ी नहीं हुआ क्योंकि वे उसकी पत्नी के लिए थे।",
+        "hinglish": "Nahi, Bhola aam bechne ko raazi nahi hua kyonki woh uski patni ke liye the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Did Bhola's wife like chutney?",
+      "questionMeaning": {
+        "hi": "क्या भोला की पत्नी को चटनी पसंद थी?",
+        "hinglish": "Kya Bhola ki patni ko chatni pasand thi?"
+      },
+      "options": [
+        "Yes, she liked mango chutney very much.",
+        "No, she did not like it.",
+        "She had never eaten it."
+      ],
+      "answer": "Yes, she liked mango chutney very much.",
+      "modelAnswer": "Yes, Bhola's wife liked mango chutney very much.",
+      "modelMeaning": {
+        "hi": "हाँ, भोला की पत्नी को आम की चटनी बहुत पसंद थी।",
+        "hinglish": "Haan, Bhola ki patni ko aam ki chatni bahut pasand thi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What was the bet?",
+      "questionMeaning": {
+        "hi": "शर्त क्या थी?",
+        "hinglish": "Shart kya thi?"
+      },
+      "options": [
+        "Rs 1000 for Bhola if his wife did not get angry; Bhola pays the same if she did.",
+        "Bhola would give them his mangoes.",
+        "The thugs would buy his hen."
+      ],
+      "answer": "Rs 1000 for Bhola if his wife did not get angry; Bhola pays the same if she did.",
+      "modelAnswer": "The thugs would give Bhola a thousand rupees if his wife did not get angry. Bhola would pay them the same amount if she went against his decision.",
+      "modelMeaning": {
+        "hi": "अगर पत्नी नाराज़ न हो तो ठग भोला को हज़ार रुपये देंगे। अगर वह नाराज़ हो, तो भोला उन्हें उतने ही रुपये देगा।",
+        "hinglish": "Agar patni naaraaz na ho to thag Bhola ko hazaar rupaye denge. Agar woh naaraaz ho, to Bhola unhe utne hi rupaye dega."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who won the bet?",
+      "questionMeaning": {
+        "hi": "शर्त किसने जीती?",
+        "hinglish": "Shart kisne jeeti?"
+      },
+      "options": [
+        "Bhola",
+        "the thugs",
+        "Shanti's brother"
+      ],
+      "answer": "Bhola",
+      "modelAnswer": "Bhola won the bet.",
+      "modelMeaning": {
+        "hi": "भोला ने शर्त जीती।",
+        "hinglish": "Bhola ne shart jeeti."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How did Bhola plan to spend the money?",
+      "questionMeaning": {
+        "hi": "भोला ने पैसे कैसे ख़र्च करने का सोचा?",
+        "hinglish": "Bhola ne paise kaise kharch karne ka socha?"
+      },
+      "options": [
+        "He would buy another horse.",
+        "He would buy a house.",
+        "He would give it to the Nawab."
+      ],
+      "answer": "He would buy another horse.",
+      "modelAnswer": "Bhola planned to buy another horse with the money.",
+      "modelMeaning": {
+        "hi": "भोला ने उस पैसे से दूसरा घोड़ा ख़रीदने का सोचा।",
+        "hinglish": "Bhola ne us paise se doosra ghoda khareedne ka socha."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.03.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अब किताब का ‘सही विकल्प चुनो’।",
+        "hinglish": "Ab kitaab ka ‘sahi vikalp chuno’.",
+        "en": "Now the book's ‘tick the correct option’."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where did Bhola meet the thugs?",
+      "questionMeaning": {
+        "hi": "भोला ठगों से कहाँ मिला?",
+        "hinglish": "Bhola thagon se kahan mila?"
+      },
+      "options": [
+        "Bhopal",
+        "village",
+        "market"
+      ],
+      "answer": "market"
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the thugs say to Bhola?",
+      "questionMeaning": {
+        "hi": "ठगों ने भोला से क्या कहा?",
+        "hinglish": "Thagon ne Bhola se kya kaha?"
+      },
+      "options": [
+        "to have a bet",
+        "to throw the mangoes",
+        "to sell the mangoes"
+      ],
+      "answer": "to sell the mangoes"
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How much money was offered in the bet?",
+      "questionMeaning": {
+        "hi": "शर्त में कितने पैसे थे?",
+        "hinglish": "Shart mein kitne paise the?"
+      },
+      "options": [
+        "A hundred rupees",
+        "Ten thousand rupees",
+        "One thousand rupees"
+      ],
+      "answer": "One thousand rupees"
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "With whom did Bhola return home?",
+      "questionMeaning": {
+        "hi": "भोला किसके साथ घर लौटा?",
+        "hinglish": "Bhola kiske saath ghar lauta?"
+      },
+      "options": [
+        "two strangers (the thugs)",
+        "his brothers",
+        "the Nawab"
+      ],
+      "answer": "two strangers (the thugs)",
+      "modelAnswer": "Bhola returned home with the two strangers, who were the thugs.",
+      "modelMeaning": {
+        "hi": "भोला दो अजनबियों के साथ घर लौटा, जो असल में ठग थे।",
+        "hinglish": "Bhola do ajnabiyon ke saath ghar lauta, jo asal mein thag the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.2.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Did the thugs succeed in their plan?",
+      "questionMeaning": {
+        "hi": "क्या ठग अपनी चाल में कामयाब हुए?",
+        "hinglish": "Kya thag apni chaal mein kaamyaab hue?"
+      },
+      "options": [
+        "No.",
+        "Yes.",
+        "I am not sure."
+      ],
+      "answer": "No."
+    }
+  ]
+}

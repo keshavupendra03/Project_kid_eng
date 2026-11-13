@@ -1,0 +1,199 @@
+{
+  "id": "B7.08.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.08.T.S01",
+    "B7.08.T.S02",
+    "B7.08.T.S03",
+    "B7.08.T.S04",
+    "B7.08.T.S05",
+    "B7.08.T.S06",
+    "B7.08.T.S07",
+    "B7.08.T.S08",
+    "B7.08.T.S09",
+    "B7.08.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.08.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who won a gold medal for rowing in the Olympic Games of 1928?",
+      "questionMeaning": {
+        "hi": "1928 में नाव-दौड़ का स्वर्ण पदक किसने जीता?",
+        "hinglish": "1928 mein naav-daud ka swarn padak kisne jeeta?"
+      },
+      "options": [
+        "Bobby Pearce",
+        "Ken Myers",
+        "Milkha Singh"
+      ],
+      "answer": "Bobby Pearce"
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What caused Bobby to slow down in the middle of the race?",
+      "questionMeaning": {
+        "hi": "बॉबी ने रफ़्तार क्यों कम की?",
+        "hinglish": "Bobby ne raftaar kyon kam ki?"
+      },
+      "options": [
+        "A duck and her ducklings were swimming across his path.",
+        "His boat broke.",
+        "He was tired."
+      ],
+      "answer": "A duck and her ducklings were swimming across his path."
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? The people on the bank were silent.",
+      "questionMeaning": {
+        "hi": "किनारे पर लोग चुप थे।",
+        "hinglish": "Kinaare par log chup the."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.T.S04",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? At the age of six, Bobby won the first race.",
+      "questionMeaning": {
+        "hi": "छह साल में पहली रेस जीती।",
+        "hinglish": "Chhah saal mein pehli race jeeti."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "swan → ?",
+      "questionMeaning": {
+        "hi": "हंस का बच्चा?",
+        "hinglish": "Hans ka bachcha?"
+      },
+      "options": [
+        "cygnet",
+        "owlet",
+        "piglet"
+      ],
+      "answer": "cygnet"
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "river → ?",
+      "questionMeaning": {
+        "hi": "छोटी नदी?",
+        "hinglish": "Chhoti nadi?"
+      },
+      "options": [
+        "rivulet",
+        "riverette",
+        "riverling"
+      ],
+      "answer": "rivulet"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Our Indian Cricket Team ___ the World Cup in 1983.",
+      "answer": "won",
+      "options": [
+        "won",
+        "win",
+        "wins"
+      ],
+      "meaning": {
+        "hi": "भारतीय टीम ने 1983 में वर्ल्ड कप जीता।",
+        "hinglish": "Bharatiya team ne 1983 mein World Cup jeeta."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Abu jumped ___ the river.",
+      "answer": "into",
+      "options": [
+        "into",
+        "on",
+        "by"
+      ],
+      "meaning": {
+        "hi": "अबू नदी में कूद गया।",
+        "hinglish": "Abu nadi mein kood gaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.T.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Ashu drew a line ___ the page.",
+      "answer": "across",
+      "options": [
+        "across",
+        "into",
+        "with"
+      ],
+      "meaning": {
+        "hi": "आशु ने पन्ने के आर-पार लाइन खींची।",
+        "hinglish": "Ashu ne panne ke aar-paar line kheenchi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.T.S10",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "‘MP tableau thrills kids’ is the headline of the news about ...",
+      "questionMeaning": {
+        "hi": "‘MP tableau thrills kids’ किस ख़बर की हेडलाइन है?",
+        "hinglish": "‘MP tableau thrills kids’ kis khabar ki headline hai?"
+      },
+      "options": [
+        "the Mowgli tableau at the Republic Day parade",
+        "a golf match",
+        "a court in Bhopal"
+      ],
+      "answer": "the Mowgli tableau at the Republic Day parade"
+    }
+  ]
+}

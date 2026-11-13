@@ -1,0 +1,179 @@
+{
+  "grade": 6, "number": 4, "emoji": "👓", "title": "My Childhood", "pages": "16–24",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["नए शब्द", "Naye shabd", "New words"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["यह पाठ महात्मा गांधी के बचपन के बारे में है, उनके ही शब्दों में। किताब पूछती है: क्या तुम गांधीजी के जीवन की कोई कहानी जानते हो?", "Yeh paath Mahatma Gandhi ke bachpan ke baare mein hai, unke hi shabdon mein. Kitaab poochhti hai: kya tum Gandhiji ke jeevan ki koi kahani jaante ho?", "This lesson is about Mahatma Gandhi's childhood, in his own words. The book asks: do you know any stories from Gandhiji's life?"]},
+        {"word": ["impression", "असर, छाप", "asar, chhaap", "an effect that stays in your mind", "The story left a deep impression on me.", "कहानी ने मुझ पर गहरी छाप छोड़ी।", "Kahani ne mujh par gehri chhaap chhodi."]},
+        {"word": ["captured", "जीत लिया, मोह लिया", "jeet liya, moh liya", "took hold of; won", "The song captured my heart.", "गाने ने मेरा दिल जीत लिया।", "Gaane ne mera dil jeet liya."]},
+        {"word": ["companion", "साथी", "saathi", "a friend who spends time with you", "My dog is my best companion.", "मेरा कुत्ता मेरा सबसे अच्छा साथी है।", "Mera kutta mera sabse achha saathi hai."]},
+        {"word": ["inspection", "निरीक्षण, जाँच", "nireekshan, jaanch", "a visit to check how things are done", "An officer came to our school for inspection.", "एक अफ़सर हमारे स्कूल में निरीक्षण के लिए आए।", "Ek afsar hamare school mein nireekshan ke liye aaye."]},
+        {"word": ["misspelt", "गलत वर्तनी लिखी", "galat vartani likhi", "wrote a word with the wrong letters", "I misspelt the word ‘kettle’.", "मैंने ‘kettle’ शब्द की गलत स्पेलिंग लिखी।", "Maine ‘kettle’ shabd ki galat spelling likhi."]},
+        {"word": ["prompt", "इशारा करना, बताना", "ishaara karna, bataana", "to help someone by whispering the answer", "The teacher tried to prompt me.", "टीचर ने मुझे इशारा करने की कोशिश की।", "Teacher ne mujhe ishaara karne ki koshish ki."]},
+        {"word": ["shy", "शर्मीला", "sharmeela", "nervous with other people", "The new girl was shy.", "नई लड़की शर्मीली थी।", "Nayi ladki sharmeeli thi."]},
+        {"sayw": ["impression", "छाप", "chhaap"], "skills": ["speak.word", "book.words"]},
+        {"sayw": ["companion", "साथी", "saathi"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["किताब: दिए गए शब्दों से खाली जगह भरो: impression, lie, reality, copied, power।", "Kitaab: diye gaye shabdon se khaali jagah bharo: impression, lie, reality, copied, power.", "The book: fill in the blanks with impression, lie, reality, copied, power."]},
+        {"book": true, "fb": ["The life of Mahatma Gandhi left a lasting ___ on my mind.", "impression", ["impression", "reality", "power"], "महात्मा गांधी के जीवन ने मेरे मन पर गहरी छाप छोड़ी।", "Mahatma Gandhi ke jeevan ne mere man par gehri chhaap chhodi."]},
+        {"book": true, "fb": ["Till today Gandhiji is a living ___ for Indians.", "reality", ["reality", "lie", "copied"], "आज भी गांधीजी भारतीयों के लिए जीवित सच्चाई हैं।", "Aaj bhi Gandhiji Bhaarateeyon ke liye jeevit sachchaai hain."]},
+        {"book": true, "fb": ["He is an example to be ___.", "copied", ["copied", "power", "lie"], "वे एक ऐसा उदाहरण हैं जिसे अपनाना चाहिए।", "Woh ek aisa udaharan hain jise apnaana chahiye."]},
+        {"book": true, "fb": ["He did not remember having told a ___ during his school days.", "lie", ["lie", "reality", "impression"], "उन्हें याद नहीं कि स्कूल के दिनों में उन्होंने कभी झूठ बोला हो।", "Unhe yaad nahi ki school ke dinon mein unhone kabhi jhooth bola ho."]},
+        {"book": true, "fb": ["He taught us the ___ of non-violence and non-cooperation.", "power", ["power", "lie", "copied"], "उन्होंने हमें अहिंसा और असहयोग की ताक़त सिखाई।", "Unhone humein ahinsa aur asahyog ki taakat sikhaayi."]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब के पेज 16 पर ‘My Childhood’ पढ़ो। फिर जवाब दो।", "Apni kitaab ke page 16 par ‘My Childhood’ padho. Phir jawab do.", "Read ‘My Childhood’ on page 16 of your book. Then answer."]},
+        {"book": true, "q": ["What was the task that Mr. Giles set?", "मिस्टर जाइल्स ने क्या काम दिया?", "Mister Giles ne kya kaam diya?", ["He gave five words to write as a spelling exercise.", "He asked them to draw a picture.", "He asked them to sing a song."], "He gave five words to write as a spelling exercise.", "Mr. Giles gave the students five words to write as a spelling exercise.", "मिस्टर जाइल्स ने बच्चों को स्पेलिंग के अभ्यास के लिए पाँच शब्द लिखने को दिए।", "Mister Giles ne bachchon ko spelling ke abhyaas ke liye paanch shabd likhne ko diye."]},
+        {"book": true, "q": ["Why didn't Gandhiji copy?", "गांधीजी ने नक़ल क्यों नहीं की?", "Gandhiji ne nakal kyon nahi ki?", ["He was honest and did not want to cheat.", "He did not see his neighbour.", "He knew all the spellings."], "He was honest and did not want to cheat.", "Gandhiji did not copy because he was honest. He did not want to cheat, even when the teacher tried to prompt him.", "गांधीजी ने नक़ल नहीं की क्योंकि वे ईमानदार थे। टीचर के इशारे के बाद भी वे धोखा नहीं देना चाहते थे।", "Gandhiji ne nakal nahi ki kyonki woh imaandaar the. Teacher ke ishaare ke baad bhi woh dhokha nahi dena chahte the."]},
+        {"book": true, "q": ["What left a lasting impression on Gandhiji's mind?", "गांधीजी के मन पर गहरी छाप किसने छोड़ी?", "Gandhiji ke man par gehri chhaap kisne chhodi?", ["the book about Shravana and his picture carrying his blind parents", "a film about kings", "a trip to London"], "the book about Shravana and his picture carrying his blind parents", "The book ‘Shravana Pitrabhakti Natak’ and the picture of Shravana carrying his blind parents left a lasting impression on his mind.", "‘श्रवण पितृभक्ति नाटक’ किताब और अंधे माता-पिता को काँवड़ में ले जाते श्रवण की तस्वीर ने उनके मन पर गहरी छाप छोड़ी।", "‘Shravan Pitrabhakti Naatak’ kitaab aur andhe maata-pita ko kaanwad mein le jaate Shravan ki tasveer ne unke man par gehri chhaap chhodi."]},
+        {"book": true, "q": ["Why were ‘Shravana’ and ‘Harishchandra’ important to Mahatma Gandhi?", "श्रवण और हरिश्चंद्र गांधीजी के लिए क्यों ज़रूरी थे?", "Shravan aur Harishchandra Gandhiji ke liye kyon zaroori the?", ["They taught him love for parents and truthfulness.", "They were his school friends.", "They gave him money."], "They taught him love for parents and truthfulness.", "Shravana taught him love and service for parents, and Harishchandra taught him to always speak the truth. They were living realities for him.", "श्रवण ने उन्हें माता-पिता की सेवा और हरिश्चंद्र ने हमेशा सच बोलना सिखाया। वे उनके लिए जीवित सच्चाई थे।", "Shravan ne unhe maata-pita ki seva aur Harishchandra ne hamesha sach bolna sikhaaya. Woh unke liye jeevit sachchaai the."]},
+        {"book": true, "q": ["Are they important to you and why?", "क्या वे तुम्हारे लिए ज़रूरी हैं, और क्यों?", "Kya woh tumhare liye zaroori hain, aur kyon?", ["Yes, they teach us to be truthful and to love our parents.", "No, they are only old stories.", "I don't know them."], "Yes, they teach us to be truthful and to love our parents.", "Yes, they are important to me because they teach me to always tell the truth and to love and serve my parents.", "हाँ, वे मेरे लिए ज़रूरी हैं क्योंकि वे सिखाते हैं कि हमेशा सच बोलो और माता-पिता की सेवा करो।", "Haan, woh mere liye zaroori hain kyonki woh sikhaate hain ki hamesha sach bolo aur maata-pita ki seva karo."]},
+        {"tf": ["Gandhiji copied the spelling from his neighbour.", "गांधीजी ने पड़ोसी से स्पेलिंग नक़ल की।", "Gandhiji ne padosi se spelling nakal ki.", false, "False. He did not copy.", "गलत। उन्होंने नक़ल नहीं की।", "Galat. Unhone nakal nahi ki."]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: बीता हुआ समय (past tense)", "Grammar: beeta hua samay (past tense)", "Grammar in Use: the past tense"], "book": true,
+      "skills": ["book.grammar", "grammar.tenses"],
+      "steps": [
+        {"card": ["बीती बात के लिए क्रिया का दूसरा रूप। ज़्यादातर में -ed लगता है: cook → cooked, play → played। कुछ बिल्कुल बदल जाते हैं: write → wrote, give → gave।", "Beeti baat ke liye kriya ka doosra roop. Zyaadatar mein -ed lagta hai: cook → cooked, play → played. Kuch bilkul badal jaate hain: write → wrote, give → gave.", "For the past, use the past form. Most verbs add -ed: cook → cooked, play → played. Some change completely: write → wrote, give → gave."]},
+        {"book": true, "pairs": ["हर क्रिया को उसके बीते रूप से जोड़ो (-ed वाले)", "Har kriya ko uske beete roop se jodo (-ed waale)", "Join each verb to its past form (-ed)", [
+          ["cook", "cooked", "पकाया", "pakaaya"],
+          ["play", "played", "खेला", "khela"],
+          ["clean", "cleaned", "साफ़ किया", "saaf kiya"],
+          ["like", "liked", "पसंद किया", "pasand kiya"]]]},
+        {"book": true, "pairs": ["ये क्रियाएँ बदल जाती हैं — बीते रूप से जोड़ो", "Yeh kriyaayein badal jaati hain — beete roop se jodo", "These verbs change — join them to their past forms", [
+          ["think", "thought", "सोचा", "socha"],
+          ["make", "made", "बनाया", "banaaya"],
+          ["write", "wrote", "लिखा", "likha"],
+          ["ride", "rode", "सवारी की", "sawaari ki"],
+          ["give", "gave", "दिया", "diya"],
+          ["run", "ran", "दौड़ा", "dauda"]]]},
+        {"card": ["y पर ख़त्म होने वाले शब्द: y हटाकर -ied: try → tried, fry → fried, copy → copied। कुछ शब्द नहीं बदलते: put → put, hit → hit, read → read (पर ‘रेड’ बोलते हैं), cut → cut।", "y par khatm hone waale shabd: y hataakar -ied: try → tried, fry → fried, copy → copied. Kuch shabd nahi badalte: put → put, hit → hit, read → read (par ‘red’ bolte hain), cut → cut.", "Words ending in y: drop y and add -ied: try → tried, fry → fried, copy → copied. Some don't change: put → put, hit → hit, read → read (said ‘red’), cut → cut."]},
+        {"book": true, "build": ["बीते समय में वाक्य: मैंने उसकी मदद करने की कोशिश की। (try)", "Beete samay mein vaakya: maine uski madad karne ki koshish ki. (try)", "A past sentence with ‘try’.", "I tried to help him.", "मैंने उसकी मदद करने की कोशिश की।", "Maine uski madad karne ki koshish ki.", ["try"]]},
+        {"book": true, "build": ["बीते समय में वाक्य: माँ ने पकौड़े तले। (fry)", "Beete samay mein vaakya: maa ne pakode tale. (fry)", "A past sentence with ‘fry’.", "Mother fried pakoras.", "माँ ने पकौड़े तले।", "Maa ne pakode tale.", ["fry"]]},
+        {"book": true, "build": ["बीते समय में वाक्य: मैंने उसे एक चिट्ठी लिखी। (write)", "Beete samay mein vaakya: maine use ek chitthi likhi. (write)", "A past sentence with ‘write’.", "I wrote a letter to him.", "मैंने उसे एक चिट्ठी लिखी।", "Maine use ek chitthi likhi.", ["write"]]},
+        {"book": true, "build": ["बीते समय में वाक्य: उसने गेंद को ज़ोर से मारा। (hit)", "Beete samay mein vaakya: usne gend ko zor se maara. (hit)", "A past sentence with ‘hit’.", "He hit the ball hard.", "उसने गेंद को ज़ोर से मारा।", "Usne gend ko zor se maara.", ["hits"]]},
+        {"card": ["किताब: रामू अपने दादाजी के बारे में आज (present) की बातें कहता है। उन्हें बीते समय (past) में बदलो।", "Kitaab: Ramu apne daadaji ke baare mein aaj (present) ki baatein kehta hai. Unhe beete samay (past) mein badlo.", "The book: Ramu talks about his grandfather in the present. Change it into the past."]},
+        {"book": true, "fb": ["My grandfather ___ up early in the morning. (wakes)", "woke", ["woke", "waked", "wakes"], "मेरे दादाजी सुबह जल्दी उठे।", "Mere daadaji subah jaldi uthe."]},
+        {"book": true, "fb": ["He ___ to market. (goes)", "went", ["went", "goed", "goes"], "वे बाज़ार गए।", "Woh baazaar gaye."]},
+        {"book": true, "fb": ["He ___ fruit, chocolates and vegetables. (buys)", "bought", ["bought", "buyed", "buys"], "उन्होंने फल, चॉकलेट और सब्ज़ियाँ ख़रीदीं।", "Unhone phal, chocolate aur sabziyaan khareedin."]},
+        {"book": true, "fb": ["He ___ home. (comes)", "came", ["came", "comed", "comes"], "वे घर आए।", "Woh ghar aaye."]},
+        {"book": true, "fb": ["Then he ___ lunch and rested for a while. (has)", "had", ["had", "has", "haved"], "फिर उन्होंने खाना खाया और थोड़ी देर आराम किया।", "Phir unhone khaana khaaya aur thodi der aaraam kiya."]},
+        {"book": true, "fb": ["In the evening, he ___ us stories from the Panchatantra. (tells)", "told", ["told", "telled", "tells"], "शाम को उन्होंने हमें पंचतंत्र की कहानियाँ सुनाईं।", "Shaam ko unhone humein Panchatantra ki kahaaniyaan sunaayin."]},
+        {"book": true, "fb": ["We ___ our grandfather. (like)", "liked", ["liked", "likes", "liken"], "हमें अपने दादाजी अच्छे लगते थे।", "Humein apne daadaji achhe lagte the."]},
+        {"book": true, "pairs": ["क्रिया के तीन रूप: पहले रूप को दूसरे रूप से जोड़ो", "Kriya ke teen roop: pehle roop ko doosre roop se jodo", "Three forms: join each verb to its past form", [
+          ["remember", "remembered", "याद किया", "yaad kiya"],
+          ["avoid", "avoided", "बचा, दूर रहा", "bacha, door raha"],
+          ["purchase", "purchased", "ख़रीदा", "khareeda"],
+          ["capture", "captured", "पकड़ा, जीता", "pakda, jeeta"],
+          ["move", "moved", "हिला, चला", "hila, chala"]]]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: गांधीजी", "Chalo baat karein: Gandhiji", "Let's Talk: Gandhiji"], "book": true,
+      "skills": ["book.talk", "read.understand"],
+      "steps": [
+        {"book": true, "q": ["When was Mahatma Gandhi born?", "महात्मा गांधी का जन्म कब हुआ?", "Mahatma Gandhi ka janm kab hua?", ["on 2nd October 1869", "on 15th August 1947", "on 26th January 1950"], "on 2nd October 1869", "Mahatma Gandhi was born on 2nd October 1869 at Porbandar in Gujarat.", "महात्मा गांधी का जन्म 2 अक्टूबर 1869 को गुजरात के पोरबंदर में हुआ।", "Mahatma Gandhi ka janm 2 October 1869 ko Gujarat ke Porbandar mein hua."]},
+        {"book": true, "q": ["What was his father's name?", "उनके पिता का नाम क्या था?", "Unke pita ka naam kya tha?", ["Karamchand Gandhi", "Mohandas Gandhi", "Harishchandra"], "Karamchand Gandhi", "His father's name was Karamchand Gandhi.", "उनके पिता का नाम करमचंद गांधी था।", "Unke pita ka naam Karamchand Gandhi tha."]},
+        {"book": true, "q": ["What was his mother's name?", "उनकी माँ का नाम क्या था?", "Unki maa ka naam kya tha?", ["Putlibai", "Kasturba", "Laxmibai"], "Putlibai", "His mother's name was Putlibai.", "उनकी माँ का नाम पुतलीबाई था।", "Unki maa ka naam Putlibai tha."]},
+        {"book": true, "q": ["When did he go to London?", "वे लंदन कब गए?", "Woh London kab gaye?", ["in 1888, to study law", "in 1947, for a holiday", "in 1920, to play cricket"], "in 1888, to study law", "He went to London in 1888 to study law.", "वे 1888 में क़ानून पढ़ने लंदन गए।", "Woh 1888 mein kaanoon padhne London gaye."]},
+        {"book": true, "q": ["Why did he go to South Africa?", "वे दक्षिण अफ़्रीका क्यों गए?", "Woh Dakshin Africa kyon gaye?", ["to work as a lawyer for an Indian company", "to see wild animals", "to study at school"], "to work as a lawyer for an Indian company", "He went to South Africa in 1893 to work as a lawyer for an Indian company. There he fought against unfair treatment of Indians.", "वे 1893 में एक भारतीय कंपनी के वकील बनकर दक्षिण अफ़्रीका गए। वहाँ उन्होंने भारतीयों के साथ अन्याय के ख़िलाफ़ लड़ाई लड़ी।", "Woh 1893 mein ek Bhaarateeya company ke vakeel bankar Dakshin Africa gaye. Wahan unhone Bhaarateeyon ke saath anyaay ke khilaaf ladaai ladi."]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: गांधीजी से क्या सीखें", "Chalo likhein: Gandhiji se kya seekhein", "Let's Write: what we learn from Gandhiji"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: गांधीजी की कौन सी बातें तुम अपनाना चाहोगे? चुनो: self-help (अपना काम ख़ुद करना), simplicity (सादगी), truthfulness (सच्चाई), non-violence (अहिंसा), vegetarianism (शाकाहार)।", "Kitaab: Gandhiji ki kaun si baatein tum apnaana chahoge? Chuno: self-help (apna kaam khud karna), simplicity (saadgi), truthfulness (sachchaai), non-violence (ahinsa), vegetarianism (shaakaahaar).", "The book: which of Gandhiji's ways would you like to follow? Choose from: self-help, simplicity, truthfulness, non-violence, vegetarianism."]},
+        {"book": true, "pairs": ["गुणों को उनके मतलब से जोड़ो", "Gunon ko unke matlab se jodo", "Join each value to its meaning", [
+          ["self-help", "doing your own work yourself", "अपना काम ख़ुद करना", "apna kaam khud karna"],
+          ["simplicity", "living a simple life", "सादगी", "saadgi"],
+          ["truthfulness", "always telling the truth", "सच्चाई", "sachchaai"],
+          ["non-violence", "never hurting anyone", "अहिंसा", "ahinsa"]]]},
+        {"book": true, "build": ["मैं हमेशा सच बोलूँगा/बोलूँगी।", "Main hamesha sach boloonga/bolungi.", "Say you will always tell the truth.", "I will always tell the truth.", "मैं हमेशा सच बोलूँगा/बोलूँगी।", "Main hamesha sach boloonga/bolungi."]},
+        {"book": true, "build": ["मैं अपना काम ख़ुद करूँगा/करूँगी।", "Main apna kaam khud karoonga/karoongi.", "Say you will do your own work yourself.", "I will do my own work myself.", "मैं अपना काम ख़ुद करूँगा/करूँगी।", "Main apna kaam khud karoonga/karoongi."]},
+        {"book": true, "build": ["मैं किसी को चोट नहीं पहुँचाऊँगा/पहुँचाऊँगी।", "Main kisi ko chot nahi pahunchaaunga/pahunchaaungi.", "Say you will not hurt anyone.", "I will not hurt anyone.", "मैं किसी को चोट नहीं पहुँचाऊँगा/पहुँचाऊँगी।", "Main kisi ko chot nahi pahunchaaunga/pahunchaaungi."]}
+      ]
+    },
+    {
+      "emoji": "🔁", "title": ["दोहराव 1 (पाठ 1–4)", "Dohraav 1 (paath 1–4)", "Revision Exercises 1 (Lessons 1–4)"], "book": true,
+      "skills": ["book.words", "book.comprehension"],
+      "steps": [
+        {"card": ["किताब के पेज 20-21 पर पहले चार पाठों का दोहराव है। परीक्षा की अच्छी तैयारी!", "Kitaab ke page 20-21 par pehle chaar paathon ka dohraav hai. Pariksha ki achhi taiyaari!", "Pages 20–21 of your book revise the first four lessons. Good practice for the exam!"]},
+        {"book": true, "fb": ["Many of his ___ were killed.", "soldiers", ["soldiers", "branches", "worried"], "उसके कई सैनिक मारे गए।", "Uske kai sainik maare gaye."]},
+        {"book": true, "fb": ["He was very sad and ___.", "worried", ["worried", "buried", "prompt"], "वह बहुत दुखी और परेशान था।", "Woh bahut dukhi aur pareshaan tha."]},
+        {"book": true, "fb": ["The tree spread its ___.", "branches", ["branches", "soldiers", "childhood"], "पेड़ ने अपनी डालियाँ फैलाईं।", "Ped ne apni daaliyaan phailaayin."]},
+        {"book": true, "fb": ["The teacher tried to ___ Gandhiji.", "prompt", ["prompt", "bury", "worry"], "टीचर ने गांधीजी को इशारा करने की कोशिश की।", "Teacher ne Gandhiji ko ishaara karne ki koshish ki."]},
+        {"book": true, "fb": ["A little seed was ___ deep in the soil.", "buried", ["buried", "worried", "branches"], "एक छोटा बीज मिट्टी में गहरा दबा था।", "Ek chhota beej mitti mein gehra daba tha."]},
+        {"book": true, "q": ["What did the King do after watching the spider?", "मकड़ी को देखकर राजा ने क्या किया?", "Makdi ko dekhkar raja ne kya kiya?", ["He united his soldiers and defeated his enemy.", "He stayed in the cave.", "He went to sleep."], "He united his soldiers and defeated his enemy."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Radha ___ Sita are two friends.", "and", ["and", "but"], "राधा और सीता दो सहेलियाँ हैं।", "Radha aur Sita do saheliyaan hain."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Radha is intelligent and hardworking ___ Sita is dull and lazy.", "but", ["but", "and"], "राधा होशियार और मेहनती है लेकिन सीता सुस्त और आलसी है।", "Radha hoshiyaar aur mehnati hai lekin Sita sust aur aalsi hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Radha likes to go to school ___ Sita does not like school at all.", "but", ["but", "and"], "राधा को स्कूल पसंद है लेकिन सीता को बिल्कुल नहीं।", "Radha ko school pasand hai lekin Sita ko bilkul nahi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.comparison"], "q": ["high → higher → ?", "high का ‘सबसे’ वाला रूप?", "high ka ‘sabse’ waala roop?", ["highest", "highier", "most high"], "highest"]},
+        {"book": true, "skills": ["book.grammar", "grammar.comparison"], "q": ["slow → ? → slowest", "बीच वाला रूप?", "Beech waala roop?", ["slower", "slowly", "more slow"], "slower"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "q": ["The past form of ‘climb’ is ...", "‘climb’ का बीता रूप?", "‘climb’ ka beeta roop?", ["climbed", "clumb", "climbs"], "climbed"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "q": ["The past form of ‘slip’ is ...", "‘slip’ का बीता रूप?", "‘slip’ ka beeta roop?", ["slipped", "sliped", "slips"], "slipped"]}
+      ]
+    },
+    {
+      "emoji": "📋", "title": ["तिमाही परीक्षा का अभ्यास", "Timaahi pariksha ka abhyaas", "Quarterly exam practice"], "book": true,
+      "skills": ["book.comprehension", "book.words"],
+      "steps": [
+        {"card": ["किताब के पेज 22-24 पर तिमाही परीक्षा (Quarterly Evaluation) का नमूना पेपर है। ये सवाल परीक्षा जैसे हैं!", "Kitaab ke page 22-24 par timaahi pariksha (Quarterly Evaluation) ka namoona paper hai. Yeh sawaal pariksha jaise hain!", "Pages 22–24 of your book have a sample Quarterly Evaluation paper. These questions are just like the exam!"]},
+        {"book": true, "tf": ["The spider did not succeed in climbing.", "मकड़ी चढ़ने में सफल नहीं हुई।", "Makdi chadhne mein safal nahi hui.", false, "False. At last the spider succeeded in climbing the wall.", "गलत। आख़िर में मकड़ी दीवार पर चढ़ गई।", "Galat. Aakhir mein makdi deewaar par chadh gayi."]},
+        {"book": true, "tf": ["It is a pleasant thing to sway in a swing.", "झूले पर झूलना सुहानी चीज़ है।", "Jhoole par jhoolna suhaani cheez hai.", true]},
+        {"book": true, "tf": ["It was a fifty-year-old mango tree.", "वह पचास साल पुराना आम का पेड़ था।", "Woh pachaas saal puraana aam ka ped tha.", false, "False. It was a fifty-year-old banyan tree.", "गलत। वह पचास साल पुराना बरगद का पेड़ था।", "Galat. Woh pachaas saal puraana bargad ka ped tha."]},
+        {"book": true, "tf": ["Gandhiji left Porbandar at the age of eight.", "गांधीजी आठ साल की उम्र में पोरबंदर छोड़कर गए।", "Gandhiji aath saal ki umar mein Porbandar chhodkar gaye.", false, "False. He was about seven when his father left Porbandar for Rajkot.", "गलत। वे लगभग सात साल के थे जब उनके पिता पोरबंदर से राजकोट गए।", "Galat. Woh lagbhag saat saal ke the jab unke pita Porbandar se Rajkot gaye."]},
+        {"book": true, "tf": ["Gandhiji misspelt the word kettle.", "गांधीजी ने kettle की गलत स्पेलिंग लिखी।", "Gandhiji ne kettle ki galat spelling likhi.", true]},
+        {"book": true, "q": ["Opposite: pass → f____", "उल्टा शब्द", "Ulta shabd", ["fail", "fall", "fine"], "fail"]},
+        {"book": true, "q": ["Opposite: sad → h____", "उल्टा शब्द", "Ulta shabd", ["happy", "high", "hard"], "happy"]},
+        {"book": true, "q": ["Rhyming word: wide → ?", "तुकबंदी वाला शब्द", "Tukbandi waala shabd", ["side", "wind", "white"], "side"]},
+        {"book": true, "q": ["Rhyming word: blue → ?", "तुकबंदी वाला शब्द", "Tukbandi waala shabd", ["glue", "blow", "black"], "glue"]},
+        {"book": true, "q": ["Make a new word: hand + ...", "नया शब्द बनाओ", "Naya shabd banao", ["handbag", "handrain", "handbath"], "handbag"]},
+        {"book": true, "fb": ["a ___ of stars", "cluster", ["cluster", "herd", "fleet"], "तारों का गुच्छा", "Taaron ka guchchha"]},
+        {"book": true, "fb": ["Do you like trees? Yes, ___.", "I do", ["I do", "I don't"], "क्या तुम्हें पेड़ पसंद हैं? हाँ।", "Kya tumhe ped pasand hain? Haan."]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: बापू", "Aur seekho: Baapu", "Learn more: Bapu"], "book": false,
+      "skills": ["vocab.meaning"],
+      "steps": [
+        {"q": ["Gandhiji is called the ‘Father of the ...’", "गांधीजी को ‘... का पिता’ कहते हैं।", "Gandhiji ko ‘... ka pita’ kehte hain.", ["Nation", "Village", "School"], "Nation", "Gandhiji is called the Father of the Nation. We lovingly call him Bapu.", "गांधीजी को राष्ट्रपिता कहते हैं। हम प्यार से उन्हें बापू कहते हैं।", "Gandhiji ko Rashtrapita kehte hain. Hum pyaar se unhe Baapu kehte hain."]},
+        {"q": ["On which day do we celebrate Gandhi Jayanti?", "गांधी जयंती कब मनाते हैं?", "Gandhi Jayanti kab manaate hain?", ["2nd October", "14th November", "5th September"], "2nd October"]},
+        {"pairs": ["इन बड़े दिनों को जोड़ो", "In bade dinon ko jodo", "Join the special days", [
+          ["Gandhi Jayanti", "2nd October", "2 अक्टूबर", "2 October"],
+          ["Children's Day", "14th November", "14 नवंबर", "14 November"],
+          ["Teachers' Day", "5th September", "5 सितंबर", "5 September"],
+          ["Independence Day", "15th August", "15 अगस्त", "15 August"]]]},
+        {"fb": ["We should always speak the ___.", "truth", ["truth", "lies", "loudly"], "हमें हमेशा सच बोलना चाहिए।", "Humein hamesha sach bolna chahiye."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 4 का टेस्ट", "Paath 4 ka test", "Lesson 4 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What was the task that Mr. Giles set?", "मिस्टर जाइल्स ने क्या काम दिया?", "Mister Giles ne kya kaam diya?", ["He gave five words to write as a spelling exercise.", "He asked them to draw a picture.", "He asked them to sing a song."], "He gave five words to write as a spelling exercise."]},
+        {"book": true, "q": ["Why didn't Gandhiji copy?", "गांधीजी ने नक़ल क्यों नहीं की?", "Gandhiji ne nakal kyon nahi ki?", ["He was honest and did not want to cheat.", "He did not see his neighbour.", "He knew all the spellings."], "He was honest and did not want to cheat."]},
+        {"book": true, "q": ["Which word did Gandhiji misspell?", "गांधीजी ने कौन सी स्पेलिंग गलत लिखी?", "Gandhiji ne kaun si spelling galat likhi?", ["kettle", "kitten", "kennel"], "kettle"]},
+        {"book": true, "skills": ["book.words"], "fb": ["He taught us the ___ of non-violence.", "power", ["power", "lie", "copied"], "उन्होंने हमें अहिंसा की ताक़त सिखाई।", "Unhone humein ahinsa ki taakat sikhaayi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "q": ["The past form of ‘write’ is ...", "‘write’ का बीता रूप?", "‘write’ ka beeta roop?", ["wrote", "writed", "written"], "wrote"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "q": ["The past form of ‘copy’ is ...", "‘copy’ का बीता रूप?", "‘copy’ ka beeta roop?", ["copied", "copyed", "copies"], "copied"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["He ___ to market yesterday. (go)", "went", ["went", "goed", "goes"], "वह कल बाज़ार गया।", "Woh kal baazaar gaya."]},
+        {"book": true, "skills": ["book.talk"], "q": ["Mahatma Gandhi was born on ...", "महात्मा गांधी का जन्म?", "Mahatma Gandhi ka janm?", ["2nd October 1869", "15th August 1947", "26th January 1950"], "2nd October 1869"]},
+        {"book": true, "skills": ["book.words"], "tf": ["Gandhiji misspelt the word kettle.", "गांधीजी ने kettle गलत लिखा।", "Gandhiji ne kettle galat likha.", true]},
+        {"book": true, "skills": ["book.writing"], "q": ["‘Truthfulness’ means ...", "‘Truthfulness’ का मतलब?", "‘Truthfulness’ ka matlab?", ["always telling the truth", "never hurting anyone", "living simply"], "always telling the truth"]}
+      ]
+    }
+  ]
+}

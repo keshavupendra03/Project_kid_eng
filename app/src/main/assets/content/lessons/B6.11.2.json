@@ -1,0 +1,267 @@
+{
+  "id": "B6.11.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.11.2.S01",
+    "B6.11.2.S02",
+    "B6.11.2.S03",
+    "B6.11.2.S04",
+    "B6.11.2.S05",
+    "B6.11.2.S06",
+    "B6.11.2.S07",
+    "B6.11.2.S08",
+    "B6.11.2.S09",
+    "B6.11.2.S10",
+    "B6.11.2.S11"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.11.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The moonbeam climbs a tree.",
+      "questionMeaning": {
+        "hi": "चाँद की किरण पेड़ पर चढ़ती है।",
+        "hinglish": "Chaand ki kiran ped par chadhti hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. It climbs the window's sill.",
+      "modelMeaning": {
+        "hi": "गलत। वह खिड़की की चौखट पर चढ़ती है।",
+        "hinglish": "Galat. Woh khidki ki chaukhat par chadhti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? It wants to see if you are in your bed.",
+      "questionMeaning": {
+        "hi": "वह देखना चाहती है कि तुम बिस्तर पर हो या नहीं।",
+        "hinglish": "Woh dekhna chahti hai ki tum bistar par ho ya nahi."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. It sees if sleep has closed your eyes.",
+      "modelMeaning": {
+        "hi": "गलत। वह देखती है कि नींद ने तुम्हारी आँखें बंद कीं या नहीं।",
+        "hinglish": "Galat. Woh dekhti hai ki neend ne tumhari aankhein band kin ya nahi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? It has a pinch of salt in its hands.",
+      "questionMeaning": {
+        "hi": "उसके हाथ में चुटकी भर नमक है।",
+        "hinglish": "Uske haath mein chutki bhar namak hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. It has a pinch of gold and some fairy sand.",
+      "modelMeaning": {
+        "hi": "गलत। उसके हाथ में चुटकी भर सोना और परियों की रेत है।",
+        "hinglish": "Galat. Uske haath mein chutki bhar sona aur pariyon ki ret hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? It has a lot of money for you.",
+      "questionMeaning": {
+        "hi": "उसके पास तुम्हारे लिए बहुत पैसे हैं।",
+        "hinglish": "Uske paas tumhare liye bahut paise hain."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? It wants to take you to the land of dreams.",
+      "questionMeaning": {
+        "hi": "वह तुम्हें सपनों की दुनिया में ले जाना चाहती है।",
+        "hinglish": "Woh tumhe sapnon ki duniya mein le jaana chahti hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? It touches your eyes with magic.",
+      "questionMeaning": {
+        "hi": "वह जादू से तुम्हारी आँखें छूती है।",
+        "hinglish": "Woh jaadoo se tumhari aankhein chhooti hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "modelAnswer": "True. It touches your eyes with golden beams.",
+      "modelMeaning": {
+        "hi": "सही। वह सुनहरी किरणों से तुम्हारी आँखें छूती है।",
+        "hinglish": "Sahi. Woh sunahri kirnon se tumhari aankhein chhooti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does the moonbeam see?",
+      "questionMeaning": {
+        "hi": "चाँद की किरण क्या देखती है?",
+        "hinglish": "Chaand ki kiran kya dekhti hai?"
+      },
+      "options": [
+        "if sleep has closed your eyes",
+        "your books",
+        "the trees"
+      ],
+      "answer": "if sleep has closed your eyes",
+      "modelAnswer": "The moonbeam sees if sleep has closed your eyes.",
+      "modelMeaning": {
+        "hi": "चाँद की किरण देखती है कि नींद ने तुम्हारी आँखें बंद कीं या नहीं।",
+        "hinglish": "Chaand ki kiran dekhti hai ki neend ne tumhari aankhein band kin ya nahi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When does the moonbeam come over your bed?",
+      "questionMeaning": {
+        "hi": "चाँद की किरण तुम्हारे बिस्तर पर कब आती है?",
+        "hinglish": "Chaand ki kiran tumhare bistar par kab aati hai?"
+      },
+      "options": [
+        "deep in the night, when all is still",
+        "in the afternoon",
+        "early in the morning"
+      ],
+      "answer": "deep in the night, when all is still",
+      "modelAnswer": "The moonbeam comes deep in the night, when all is still.",
+      "modelMeaning": {
+        "hi": "चाँद की किरण गहरी रात में आती है, जब सब शांत होता है।",
+        "hinglish": "Chaand ki kiran gehri raat mein aati hai, jab sab shaant hota hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.2.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How does the moonbeam come?",
+      "questionMeaning": {
+        "hi": "चाँद की किरण कैसे आती है?",
+        "hinglish": "Chaand ki kiran kaise aati hai?"
+      },
+      "options": [
+        "tip-toe on gentle feet",
+        "running and shouting",
+        "with a loud bang"
+      ],
+      "answer": "tip-toe on gentle feet",
+      "modelAnswer": "The moonbeam climbs the window sill and comes tip-toe on gentle feet.",
+      "modelMeaning": {
+        "hi": "चाँद की किरण खिड़की से चढ़कर धीरे-धीरे पंजों के बल आती है।",
+        "hinglish": "Chaand ki kiran khidki se chadhkar dheere-dheere panjon ke bal aati hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.2.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does the moonbeam have in its hand?",
+      "questionMeaning": {
+        "hi": "चाँद की किरण के हाथ में क्या है?",
+        "hinglish": "Chaand ki kiran ke haath mein kya hai?"
+      },
+      "options": [
+        "a pinch of gold and some fairy sand",
+        "a book",
+        "a candle"
+      ],
+      "answer": "a pinch of gold and some fairy sand",
+      "modelAnswer": "The moonbeam has a pinch of gold and some fairy sand in its hand.",
+      "modelMeaning": {
+        "hi": "चाँद की किरण के हाथ में चुटकी भर सोना और परियों की रेत है।",
+        "hinglish": "Chaand ki kiran ke haath mein chutki bhar sona aur pariyon ki ret hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.2.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where does the moonbeam take you?",
+      "questionMeaning": {
+        "hi": "चाँद की किरण तुम्हें कहाँ ले जाती है?",
+        "hinglish": "Chaand ki kiran tumhe kahan le jaati hai?"
+      },
+      "options": [
+        "to the land of dreams",
+        "to school",
+        "to the market"
+      ],
+      "answer": "to the land of dreams",
+      "modelAnswer": "The moonbeam takes you to the land of dreams.",
+      "modelMeaning": {
+        "hi": "चाँद की किरण तुम्हें सपनों की दुनिया में ले जाती है।",
+        "hinglish": "Chaand ki kiran tumhe sapnon ki duniya mein le jaati hai."
+      }
+    }
+  ]
+}

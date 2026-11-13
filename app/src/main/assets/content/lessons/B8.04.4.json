@@ -1,0 +1,133 @@
+{
+  "id": "B8.04.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.4.S02",
+    "B8.04.4.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.4.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "दो शब्द मिलकर एक नया शब्द: land + slide = landslide, fire + wood = firewood, axe + men = axemen। इन्हें compound words कहते हैं।",
+        "hinglish": "Do shabd milkar ek naya shabd: land + slide = landslide, fire + wood = firewood, axe + men = axemen. Inhe compound words kehte hain.",
+        "en": "Two words make one new word: land + slide = landslide, fire + wood = firewood. These are compound words."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.04.4.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "दो शब्द जोड़कर नया शब्द बनाओ",
+        "hinglish": "Do shabd jodkar naya shabd banao",
+        "en": "Join to make compound words"
+      },
+      "pairs": [
+        {
+          "left": "black +",
+          "right": "board",
+          "meaning": {
+            "hi": "ब्लैकबोर्ड",
+            "hinglish": "blackboard"
+          }
+        },
+        {
+          "left": "tooth +",
+          "right": "brush",
+          "meaning": {
+            "hi": "टूथब्रश",
+            "hinglish": "toothbrush"
+          }
+        },
+        {
+          "left": "news +",
+          "right": "paper",
+          "meaning": {
+            "hi": "अख़बार",
+            "hinglish": "akhbaar"
+          }
+        },
+        {
+          "left": "tea +",
+          "right": "pot",
+          "meaning": {
+            "hi": "चायदानी",
+            "hinglish": "chaaydaani"
+          }
+        },
+        {
+          "left": "note +",
+          "right": "book",
+          "meaning": {
+            "hi": "कॉपी",
+            "hinglish": "copy"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.04.4.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "दो शब्द जोड़कर नया शब्द बनाओ",
+        "hinglish": "Do shabd jodkar naya shabd banao",
+        "en": "Join to make compound words"
+      },
+      "pairs": [
+        {
+          "left": "rain +",
+          "right": "coat",
+          "meaning": {
+            "hi": "बरसाती",
+            "hinglish": "barsaati"
+          }
+        },
+        {
+          "left": "farm +",
+          "right": "house",
+          "meaning": {
+            "hi": "खेत का घर",
+            "hinglish": "khet ka ghar"
+          }
+        },
+        {
+          "left": "fore +",
+          "right": "head",
+          "meaning": {
+            "hi": "माथा",
+            "hinglish": "maatha"
+          }
+        },
+        {
+          "left": "suit +",
+          "right": "case",
+          "meaning": {
+            "hi": "सूटकेस",
+            "hinglish": "suitcase"
+          }
+        },
+        {
+          "left": "bar +",
+          "right": "graph",
+          "meaning": {
+            "hi": "दंड आलेख",
+            "hinglish": "dand aalekh"
+          }
+        }
+      ]
+    }
+  ]
+}

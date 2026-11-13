@@ -1,0 +1,252 @@
+{
+  "id": "B7.03.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.03.7.S02",
+    "B7.03.7.S03",
+    "B7.03.7.S04",
+    "B7.03.7.S05",
+    "B7.03.7.S06",
+    "B7.03.7.S07",
+    "B7.03.7.S08",
+    "B7.03.7.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.03.7.S01",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब के पेज 17 पर ‘Two Friends’ कहानी पढ़ो: दीपक और भोला जंगल में थे और एक भालू आ गया। फिर सवालों के जवाब दो।",
+        "hinglish": "Kitaab ke page 17 par ‘Two Friends’ kahani padho: Deepak aur Bhola jangal mein the aur ek bhaalu aa gaya. Phir sawaalon ke jawab do.",
+        "en": "Read the story ‘Two Friends’ on page 17 of your book: Deepak and Bhola were in a forest when a bear came. Then answer the questions."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.7.S02",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "What happened when Deepak and Bhola were walking through the forest?",
+      "questionMeaning": {
+        "hi": "जब दीपक और भोला जंगल से जा रहे थे, तब क्या हुआ?",
+        "hinglish": "Jab Deepak aur Bhola jangal se ja rahe the, tab kya hua?"
+      },
+      "options": [
+        "A bear attacked them.",
+        "They found some gold.",
+        "It started raining."
+      ],
+      "answer": "A bear attacked them.",
+      "modelAnswer": "A bear attacked them when they were walking through the forest.",
+      "modelMeaning": {
+        "hi": "जब वे जंगल से जा रहे थे, तब एक भालू ने उन पर हमला किया।",
+        "hinglish": "Jab woh jangal se ja rahe the, tab ek bhaalu ne un par hamla kiya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.7.S03",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "What did Deepak do?",
+      "questionMeaning": {
+        "hi": "दीपक ने क्या किया?",
+        "hinglish": "Deepak ne kya kiya?"
+      },
+      "options": [
+        "He climbed a tree.",
+        "He fought the bear.",
+        "He ran home."
+      ],
+      "answer": "He climbed a tree.",
+      "modelAnswer": "Deepak climbed a tree and sat there.",
+      "modelMeaning": {
+        "hi": "दीपक पेड़ पर चढ़कर बैठ गया।",
+        "hinglish": "Deepak ped par chadhkar baith gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.7.S04",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "What did Bhola do?",
+      "questionMeaning": {
+        "hi": "भोला ने क्या किया?",
+        "hinglish": "Bhola ne kya kiya?"
+      },
+      "options": [
+        "He fell to the ground and played dead.",
+        "He climbed a tree too.",
+        "He shouted for help."
+      ],
+      "answer": "He fell to the ground and played dead.",
+      "modelAnswer": "Bhola fell to the ground and pretended to be dead.",
+      "modelMeaning": {
+        "hi": "भोला ज़मीन पर गिरकर मरने का नाटक करने लगा।",
+        "hinglish": "Bhola zameen par girkar marne ka naatak karne laga."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.7.S05",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "What did the bear do?",
+      "questionMeaning": {
+        "hi": "भालू ने क्या किया?",
+        "hinglish": "Bhaalu ne kya kiya?"
+      },
+      "options": [
+        "It sniffed his face, thought he was dead and went away.",
+        "It ate Bhola's food.",
+        "It climbed the tree."
+      ],
+      "answer": "It sniffed his face, thought he was dead and went away.",
+      "modelAnswer": "The bear sniffed Bhola's face, decided he was dead and went away.",
+      "modelMeaning": {
+        "hi": "भालू ने भोला का चेहरा सूँघा, सोचा कि वह मर गया है, और चला गया।",
+        "hinglish": "Bhaalu ne Bhola ka chehra soongha, socha ki woh mar gaya hai, aur chala gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.7.S06",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "What did Deepak say to Bhola when the bear had gone?",
+      "questionMeaning": {
+        "hi": "भालू के जाने के बाद दीपक ने भोला से क्या कहा?",
+        "hinglish": "Bhaalu ke jaane ke baad Deepak ne Bhola se kya kaha?"
+      },
+      "options": [
+        "What did the bear whisper in your ear?",
+        "Let us go home now.",
+        "I am sorry, my friend."
+      ],
+      "answer": "What did the bear whisper in your ear?",
+      "modelAnswer": "Deepak smiled and said, \"What did the bear whisper in your ear?\"",
+      "modelMeaning": {
+        "hi": "दीपक ने मुस्कुराकर पूछा, ‘भालू ने तुम्हारे कान में क्या कहा?’",
+        "hinglish": "Deepak ne muskuraakar poochha, ‘Bhaalu ne tumhare kaan mein kya kaha?’"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.7.S07",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "What did Bhola say to him?",
+      "questionMeaning": {
+        "hi": "भोला ने उससे क्या कहा?",
+        "hinglish": "Bhola ne usse kya kaha?"
+      },
+      "options": [
+        "Someone who deserts his friend in danger is not a friend at all.",
+        "The bear was my friend.",
+        "Let us catch the bear."
+      ],
+      "answer": "Someone who deserts his friend in danger is not a friend at all.",
+      "modelAnswer": "Bhola said, \"Someone who deserts his friend in times of danger is not a friend at all.\"",
+      "modelMeaning": {
+        "hi": "भोला ने कहा, ‘जो मुसीबत में दोस्त को छोड़ दे, वह दोस्त ही नहीं है।’",
+        "hinglish": "Bhola ne kaha, ‘Jo museebat mein dost ko chhod de, woh dost hi nahi hai.’"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.7.S08",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "Was Deepak a good friend?",
+      "questionMeaning": {
+        "hi": "क्या दीपक अच्छा दोस्त था?",
+        "hinglish": "Kya Deepak achha dost tha?"
+      },
+      "options": [
+        "No, he left Bhola alone in danger.",
+        "Yes, he was very brave.",
+        "Yes, he helped Bhola."
+      ],
+      "answer": "No, he left Bhola alone in danger.",
+      "modelAnswer": "No, Deepak was not a good friend because he left Bhola alone in danger.",
+      "modelMeaning": {
+        "hi": "नहीं, दीपक अच्छा दोस्त नहीं था क्योंकि उसने मुसीबत में भोला को अकेला छोड़ दिया।",
+        "hinglish": "Nahi, Deepak achha dost nahi tha kyonki usne museebat mein Bhola ko akela chhod diya."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.03.7.S09",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "शब्दों को उनके मतलब से जोड़ो",
+        "hinglish": "Shabdon ko unke matlab se jodo",
+        "en": "Match the words with their meanings"
+      },
+      "pairs": [
+        {
+          "left": "breathing",
+          "right": "to take air into lungs and expel it",
+          "meaning": {
+            "hi": "साँस लेना",
+            "hinglish": "saans lena"
+          }
+        },
+        {
+          "left": "sniff",
+          "right": "to smell by drawing air suddenly through the nose",
+          "meaning": {
+            "hi": "सूँघना",
+            "hinglish": "soonghna"
+          }
+        },
+        {
+          "left": "lumbered off",
+          "right": "walk away with heavy steps",
+          "meaning": {
+            "hi": "भारी क़दमों से चले जाना",
+            "hinglish": "bhaari kadamon se chale jaana"
+          }
+        },
+        {
+          "left": "play dead",
+          "right": "to pretend to be dead",
+          "meaning": {
+            "hi": "मरने का नाटक करना",
+            "hinglish": "marne ka naatak karna"
+          }
+        },
+        {
+          "left": "attack",
+          "right": "to act harmfully",
+          "meaning": {
+            "hi": "हमला करना",
+            "hinglish": "hamla karna"
+          }
+        }
+      ]
+    }
+  ]
+}

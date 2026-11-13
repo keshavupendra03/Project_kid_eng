@@ -1,0 +1,225 @@
+{
+  "id": "B8.01.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.01.1.S02",
+    "B8.01.1.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.01.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "यह कविता बताती है कि गलती के बाद भी हम फिर से शुरुआत कर सकते हैं। नया दिन ज़रूरी नहीं, बस दिल से कोशिश करने की चाह चाहिए।",
+        "hinglish": "Yeh kavita bataati hai ki galti ke baad bhi hum phir se shuruaat kar sakte hain. Naya din zaroori nahi, bas dil se koshish karne ki chaah chahiye.",
+        "en": "This poem says we can always start again after a mistake. We don't need a new day, only a deep wish to try with all our heart."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What should we do to correct our mistakes?",
+      "questionMeaning": {
+        "hi": "अपनी गलतियाँ सुधारने के लिए हमें क्या करना चाहिए?",
+        "hinglish": "Apni galtiyaan sudhaarne ke liye humein kya karna chahiye?"
+      },
+      "options": [
+        "Accept them and try again with all our heart.",
+        "Hide them from everyone.",
+        "Stop working."
+      ],
+      "answer": "Accept them and try again with all our heart.",
+      "modelAnswer": "To correct our mistakes, we should accept them, learn from them and try again with all our heart.",
+      "modelMeaning": {
+        "hi": "गलतियाँ सुधारने के लिए हमें उन्हें मानना, उनसे सीखना और पूरे दिल से फिर कोशिश करनी चाहिए।",
+        "hinglish": "Galtiyaan sudhaarne ke liye humein unhe maanna, unse seekhna aur poore dil se phir koshish karni chahiye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What should we do to change our failure into success?",
+      "questionMeaning": {
+        "hi": "असफलता को सफलता में कैसे बदलें?",
+        "hinglish": "Asafalta ko safalta mein kaise badlein?"
+      },
+      "options": [
+        "Work hard and never lose hope.",
+        "Wait for luck.",
+        "Blame others."
+      ],
+      "answer": "Work hard and never lose hope.",
+      "modelAnswer": "To change failure into success, we should work hard, keep trying and never lose hope.",
+      "modelMeaning": {
+        "hi": "असफलता को सफलता में बदलने के लिए हमें मेहनत करनी चाहिए, कोशिश करते रहना चाहिए और कभी उम्मीद नहीं छोड़नी चाहिए।",
+        "hinglish": "Asafalta ko safalta mein badalne ke liye humein mehnat karni chahiye, koshish karte rehna chahiye aur kabhi ummeed nahi chhodni chahiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "chance",
+        "emoji": "",
+        "hindi": "मौक़ा",
+        "hinglish": "mauka"
+      },
+      "meaning": "a time when you can do something",
+      "example": "Give me one more chance.",
+      "exampleMeaning": {
+        "hi": "मुझे एक और मौक़ा दो।",
+        "hinglish": "Mujhe ek aur mauka do."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "blot out",
+        "emoji": "",
+        "hindi": "मिटा देना",
+        "hinglish": "mita dena"
+      },
+      "meaning": "to remove completely",
+      "example": "Rain can blot out the writing.",
+      "exampleMeaning": {
+        "hi": "बारिश लिखावट मिटा सकती है।",
+        "hinglish": "Baarish likhaavat mita sakti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "failure",
+        "emoji": "",
+        "hindi": "असफलता",
+        "hinglish": "asafalta"
+      },
+      "meaning": "not succeeding",
+      "example": "Failure teaches us lessons.",
+      "exampleMeaning": {
+        "hi": "असफलता हमें सबक सिखाती है।",
+        "hinglish": "Asafalta humein sabak sikhaati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "desire",
+        "emoji": "",
+        "hindi": "इच्छा, चाह",
+        "hinglish": "ichchha, chaah"
+      },
+      "meaning": "a strong wish",
+      "example": "She has a desire to become a doctor.",
+      "exampleMeaning": {
+        "hi": "उसकी डॉक्टर बनने की इच्छा है।",
+        "hinglish": "Uski doctor banne ki ichchha hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "forgiving",
+        "emoji": "",
+        "hindi": "माफ़ करने वाला",
+        "hinglish": "maaf karne waala"
+      },
+      "meaning": "ready to forgive others",
+      "example": "A forgiving friend is a true friend.",
+      "exampleMeaning": {
+        "hi": "माफ़ करने वाला दोस्त सच्चा दोस्त है।",
+        "hinglish": "Maaf karne waala dost sachcha dost hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "despair",
+        "emoji": "",
+        "hindi": "निराशा",
+        "hinglish": "niraasha"
+      },
+      "meaning": "complete loss of hope",
+      "example": "Never give up in despair.",
+      "exampleMeaning": {
+        "hi": "निराशा में कभी हार मत मानो।",
+        "hinglish": "Niraasha mein kabhi haar mat maano."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "anew",
+        "emoji": "",
+        "hindi": "नए सिरे से",
+        "hinglish": "naye sire se"
+      },
+      "meaning": "again, in a new way",
+      "example": "Let us start anew.",
+      "exampleMeaning": {
+        "hi": "चलो नए सिरे से शुरू करें।",
+        "hinglish": "Chalo naye sire se shuru karein."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.01.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "despair",
+        "emoji": "",
+        "hindi": "निराशा",
+        "hinglish": "niraasha"
+      }
+    }
+  ]
+}

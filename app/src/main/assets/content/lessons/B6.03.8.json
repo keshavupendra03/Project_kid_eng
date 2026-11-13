@@ -1,0 +1,101 @@
+{
+  "id": "B6.03.8",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.03.8.S01",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "मकड़ी आठ पैरों वाला जीव है और जाला बनाती है। वैज्ञानिक तौर पर मकड़ी कीड़ा (insect) नहीं है, क्योंकि कीड़ों के छह पैर होते हैं!",
+        "hinglish": "Makdi aath pairon waala jeev hai aur jaala banaati hai. Vaigyaanik taur par makdi keeda (insect) nahi hai, kyonki keedon ke chhah pair hote hain!",
+        "en": "A spider has eight legs and spins a web. Scientifically a spider is not an insect, because insects have six legs!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.8.S02",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "How many legs does a spider have?",
+      "questionMeaning": {
+        "hi": "मकड़ी के कितने पैर होते हैं?",
+        "hinglish": "Makdi ke kitne pair hote hain?"
+      },
+      "options": [
+        "eight",
+        "six",
+        "four"
+      ],
+      "answer": "eight"
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.03.8.S03",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हिम्मत वाले शब्द जोड़ो",
+        "hinglish": "Himmat waale shabd jodo",
+        "en": "Join the words about courage"
+      },
+      "pairs": [
+        {
+          "left": "brave",
+          "right": "not afraid",
+          "meaning": {
+            "hi": "बहादुर",
+            "hinglish": "bahaadur"
+          }
+        },
+        {
+          "left": "patient",
+          "right": "able to wait calmly",
+          "meaning": {
+            "hi": "धैर्यवान",
+            "hinglish": "dhairyavaan"
+          }
+        },
+        {
+          "left": "hard-working",
+          "right": "working with great effort",
+          "meaning": {
+            "hi": "मेहनती",
+            "hinglish": "mehnati"
+          }
+        },
+        {
+          "left": "web",
+          "right": "the net a spider makes",
+          "meaning": {
+            "hi": "जाला",
+            "hinglish": "jaala"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.03.8.S04",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "sentence": "If at first you don't succeed, try ___.",
+      "answer": "again",
+      "options": [
+        "again",
+        "never",
+        "less"
+      ],
+      "meaning": {
+        "hi": "अगर पहली बार में सफल न हो, तो फिर कोशिश करो।",
+        "hinglish": "Agar pehli baar mein safal na ho, to phir koshish karo."
+      }
+    }
+  ]
+}

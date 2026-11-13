@@ -1,0 +1,269 @@
+{
+  "id": "B7.02.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.02.2.S02",
+    "B7.02.2.S03",
+    "B7.02.2.S04",
+    "B7.02.2.S05",
+    "B7.02.2.S06",
+    "B7.02.2.S08",
+    "B7.02.2.S09",
+    "B7.02.2.S10",
+    "B7.02.2.S11",
+    "B7.02.2.S12"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.02.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 6 से 8 तक ‘The Wise Man-I’ पढ़ो। फिर सवालों के जवाब दो।",
+        "hinglish": "Apni kitaab mein page 6 se 8 tak ‘The Wise Man-I’ padho. Phir sawaalon ke jawab do.",
+        "en": "Read ‘The Wise Man-I’ on pages 6 to 8 of your book. Then answer the questions."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the horse trainer and his wife decide to sell the horse?",
+      "questionMeaning": {
+        "hi": "घोड़ा सिखाने वाले और उसकी पत्नी ने घोड़ा बेचने का फ़ैसला क्यों किया?",
+        "hinglish": "Ghoda sikhaane waale aur uski patni ne ghoda bechne ka faisla kyon kiya?"
+      },
+      "options": [
+        "Because the horse ate a lot of fodder.",
+        "Because the horse was very old.",
+        "Because the Nawab asked for it."
+      ],
+      "answer": "Because the horse ate a lot of fodder.",
+      "modelAnswer": "They decided to sell the horse because it ate a lot of fodder and it was very expensive to feed it.",
+      "modelMeaning": {
+        "hi": "उन्होंने घोड़ा बेचने का फ़ैसला किया क्योंकि वह बहुत चारा खाता था और उसे खिलाना बहुत महँगा था।",
+        "hinglish": "Unhone ghoda bechne ka faisla kiya kyonki woh bahut chaara khaata tha aur use khilaana bahut mehnga tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where did Bhola go to sell the horse?",
+      "questionMeaning": {
+        "hi": "भोला घोड़ा बेचने कहाँ गया?",
+        "hinglish": "Bhola ghoda bechne kahan gaya?"
+      },
+      "options": [
+        "to the market",
+        "to the Nawab's palace",
+        "to a village fair"
+      ],
+      "answer": "to the market",
+      "modelAnswer": "Bhola went to the market to sell the horse.",
+      "modelMeaning": {
+        "hi": "भोला घोड़ा बेचने बाज़ार गया।",
+        "hinglish": "Bhola ghoda bechne baazaar gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Whom did he meet first?",
+      "questionMeaning": {
+        "hi": "वह सबसे पहले किससे मिला?",
+        "hinglish": "Woh sabse pehle kisse mila?"
+      },
+      "options": [
+        "a man with a donkey",
+        "a woman with a sheep",
+        "a boy with a hen"
+      ],
+      "answer": "a man with a donkey",
+      "modelAnswer": "He first met a man with a donkey.",
+      "modelMeaning": {
+        "hi": "वह सबसे पहले एक गधे वाले आदमी से मिला।",
+        "hinglish": "Woh sabse pehle ek gadhe waale aadmi se mila."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did Bhola think of buying a sheep?",
+      "questionMeaning": {
+        "hi": "भोला ने भेड़ लेने के बारे में क्यों सोचा?",
+        "hinglish": "Bhola ne bhed lene ke baare mein kyon socha?"
+      },
+      "options": [
+        "He thought his wife would like a sheep in place of a donkey.",
+        "He wanted wool for a sweater.",
+        "The donkey was ill."
+      ],
+      "answer": "He thought his wife would like a sheep in place of a donkey.",
+      "modelAnswer": "Bhola thought of getting a sheep because he felt his wife would like a sheep in place of a donkey.",
+      "modelMeaning": {
+        "hi": "भोला ने भेड़ लेने का सोचा क्योंकि उसे लगा कि उसकी पत्नी को गधे की जगह भेड़ पसंद आएगी।",
+        "hinglish": "Bhola ne bhed lene ka socha kyonki use laga ki uski patni ko gadhe ki jagah bhed pasand aayegi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the girl having the green mangoes ask the horse trainer?",
+      "questionMeaning": {
+        "hi": "हरे आम वाली लड़की ने भोला से क्या पूछा?",
+        "hinglish": "Hare aam waali ladki ne Bhola se kya poochha?"
+      },
+      "options": [
+        "She asked whether the hen lays eggs.",
+        "She asked the price of the hen.",
+        "She asked where his wife lived."
+      ],
+      "answer": "She asked whether the hen lays eggs.",
+      "modelAnswer": "The girl asked the horse trainer whether his hen lays eggs.",
+      "modelMeaning": {
+        "hi": "लड़की ने पूछा कि क्या उसकी मुर्गी अंडे देती है।",
+        "hinglish": "Ladki ne poochha ki kya uski murgi ande deti hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.02.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अब किताब का True/False: वाक्य सही है तो True, गलत है तो False चुनो।",
+        "hinglish": "Ab kitaab ka True/False: vaakya sahi hai to True, galat hai to False chuno.",
+        "en": "Now the book's True or False: pick True if the sentence is right, False if it is wrong."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Bhola's wife was Asha.",
+      "questionMeaning": {
+        "hi": "भोला की पत्नी का नाम आशा था।",
+        "hinglish": "Bhola ki patni ka naam Asha tha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. Bhola's wife was Shanti.",
+      "modelMeaning": {
+        "hi": "गलत। भोला की पत्नी शांति थी।",
+        "hinglish": "Galat. Bhola ki patni Shanti thi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.2.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Bhola spent little money for feeding his horse.",
+      "questionMeaning": {
+        "hi": "भोला घोड़े को खिलाने में कम पैसे ख़र्च करता था।",
+        "hinglish": "Bhola ghode ko khilaane mein kam paise kharch karta tha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. It was very expensive to feed the horse.",
+      "modelMeaning": {
+        "hi": "गलत। घोड़े को खिलाना बहुत महँगा था।",
+        "hinglish": "Galat. Ghode ko khilaana bahut mehnga tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.2.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? His wife loved to eat mango chutney.",
+      "questionMeaning": {
+        "hi": "उसकी पत्नी को आम की चटनी बहुत पसंद थी।",
+        "hinglish": "Uski patni ko aam ki chatni bahut pasand thi."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.2.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The girl had a basket full of green mangoes.",
+      "questionMeaning": {
+        "hi": "लड़की के पास हरे आमों से भरी टोकरी थी।",
+        "hinglish": "Ladki ke paas hare aamon se bhari tokri thi."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.2.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Bhola gave the sheep to the girl in exchange for her green mangoes.",
+      "questionMeaning": {
+        "hi": "भोला ने हरे आमों के बदले लड़की को भेड़ दी।",
+        "hinglish": "Bhola ne hare aamon ke badle ladki ko bhed di."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. Bhola gave the hen to the girl.",
+      "modelMeaning": {
+        "hi": "गलत। भोला ने लड़की को मुर्गी दी थी।",
+        "hinglish": "Galat. Bhola ne ladki ko murgi di thi."
+      }
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "id": "B6.12.8",
+  "level": 6,
+  "bookSteps": [
+    "B6.12.8.S02",
+    "B6.12.8.S03",
+    "B6.12.8.S04",
+    "B6.12.8.S05",
+    "B6.12.8.S06",
+    "B6.12.8.S07",
+    "B6.12.8.S08",
+    "B6.12.8.S09",
+    "B6.12.8.S10",
+    "B6.12.8.S12",
+    "B6.12.8.S13",
+    "B6.12.8.S14",
+    "B6.12.8.S15",
+    "B6.12.8.S16",
+    "B6.12.8.S17",
+    "B6.12.8.S18",
+    "B6.12.8.S20"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.12.8.S01",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "text": {
+        "hi": "किताब के पेज 76-77 पर पूरे साल का दोहराव है।",
+        "hinglish": "Kitaab ke page 76-77 par poore saal ka dohraav hai.",
+        "en": "Pages 76–77 of your book revise the whole year."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.8.S02",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "sentence": "Once a neighbouring king ___ his country.",
+      "answer": "attacked",
+      "options": [
+        "attacked",
+        "favour",
+        "save"
+      ],
+      "meaning": {
+        "hi": "एक बार पड़ोसी राजा ने उसके देश पर हमला किया।",
+        "hinglish": "Ek baar padosi raja ne uske desh par hamla kiya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.8.S03",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "sentence": "Luck did not ___ him.",
+      "answer": "favour",
+      "options": [
+        "favour",
+        "battle",
+        "cave"
+      ],
+      "meaning": {
+        "hi": "क़िस्मत ने उसका साथ नहीं दिया।",
+        "hinglish": "Kismat ne uska saath nahi diya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.8.S04",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "sentence": "He lost the ___.",
+      "answer": "battle",
+      "options": [
+        "battle",
+        "house",
+        "soldiers"
+      ],
+      "meaning": {
+        "hi": "वह युद्ध हार गया।",
+        "hinglish": "Woh yuddh haar gaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.8.S05",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "sentence": "Many of his soldiers were killed and others ran away to ___ their lives.",
+      "answer": "save",
+      "options": [
+        "save",
+        "favour",
+        "attacked"
+      ],
+      "meaning": {
+        "hi": "उसके कई सैनिक मारे गए और बाकी जान बचाकर भागे।",
+        "hinglish": "Uske kai sainik maare gaye aur baaki jaan bachaakar bhaage."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.8.S06",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "sentence": "The king ___ had to hide in a cave.",
+      "answer": "himself",
+      "options": [
+        "himself",
+        "house",
+        "battle"
+      ],
+      "meaning": {
+        "hi": "राजा को ख़ुद एक गुफ़ा में छिपना पड़ा।",
+        "hinglish": "Raja ko khud ek gufaa mein chhipna pada."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.8.S07",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "question": "Opposite of ‘strong’",
+      "questionMeaning": {
+        "hi": "‘strong’ का उल्टा",
+        "hinglish": "‘strong’ ka ulta"
+      },
+      "options": [
+        "weak",
+        "tall",
+        "brave"
+      ],
+      "answer": "weak"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.8.S08",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "question": "Opposite of ‘unhappy’",
+      "questionMeaning": {
+        "hi": "‘unhappy’ का उल्टा",
+        "hinglish": "‘unhappy’ ka ulta"
+      },
+      "options": [
+        "happy",
+        "sad",
+        "angry"
+      ],
+      "answer": "happy"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.8.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘branch’ is ...",
+      "questionMeaning": {
+        "hi": "‘branch’ का बहुवचन",
+        "hinglish": "‘branch’ ka bahuvachan"
+      },
+      "options": [
+        "branches",
+        "branchs",
+        "branchies"
+      ],
+      "answer": "branches"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.8.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘sheep’ is ...",
+      "questionMeaning": {
+        "hi": "‘sheep’ का बहुवचन",
+        "hinglish": "‘sheep’ ka bahuvachan"
+      },
+      "options": [
+        "sheep",
+        "sheeps",
+        "sheepes"
+      ],
+      "answer": "sheep"
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.12.8.S11",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "text": {
+        "hi": "शब्द से संज्ञा बनाओ: teach → teacher (जो सिखाता है)।",
+        "hinglish": "Shabd se sangya banao: teach → teacher (jo sikhaata hai).",
+        "en": "Make nouns: teach → teacher (one who teaches)."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.12.8.S12",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "instruction": {
+        "hi": "काम से करने वाले का नाम बनाओ",
+        "hinglish": "Kaam se karne waale ka naam banao",
+        "en": "Make nouns from the words"
+      },
+      "pairs": [
+        {
+          "left": "play",
+          "right": "player",
+          "meaning": {
+            "hi": "खिलाड़ी",
+            "hinglish": "khilaadi"
+          }
+        },
+        {
+          "left": "clean",
+          "right": "cleaner",
+          "meaning": {
+            "hi": "सफ़ाई करने वाला",
+            "hinglish": "safaai karne waala"
+          }
+        },
+        {
+          "left": "think",
+          "right": "thinker",
+          "meaning": {
+            "hi": "विचारक",
+            "hinglish": "vichaarak"
+          }
+        },
+        {
+          "left": "write",
+          "right": "writer",
+          "meaning": {
+            "hi": "लेखक",
+            "hinglish": "lekhak"
+          }
+        },
+        {
+          "left": "bowl",
+          "right": "bowler",
+          "meaning": {
+            "hi": "गेंदबाज़",
+            "hinglish": "gendbaaz"
+          }
+        },
+        {
+          "left": "cricket",
+          "right": "cricketer",
+          "meaning": {
+            "hi": "क्रिकेट खिलाड़ी",
+            "hinglish": "cricket khilaadi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.8.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "My father ___ up early in the morning. (wakes → past)",
+      "answer": "woke",
+      "options": [
+        "woke",
+        "wakes",
+        "waked"
+      ],
+      "meaning": {
+        "hi": "मेरे पिता सुबह जल्दी उठे।",
+        "hinglish": "Mere pita subah jaldi uthe."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.8.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Girls ___ a race. (run → past)",
+      "answer": "ran",
+      "options": [
+        "ran",
+        "run",
+        "runned"
+      ],
+      "meaning": {
+        "hi": "लड़कियों ने दौड़ लगाई।",
+        "hinglish": "Ladkiyon ne daud lagaayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.8.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Like Gandhi he ___ the truth. (speaks → past)",
+      "answer": "spoke",
+      "options": [
+        "spoke",
+        "speaks",
+        "speaked"
+      ],
+      "meaning": {
+        "hi": "गांधी की तरह उसने सच बोला।",
+        "hinglish": "Gandhi ki tarah usne sach bola."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.8.S16",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Arjun ___ at the right eye of the bird. (shoots → past)",
+      "answer": "shot",
+      "options": [
+        "shot",
+        "shooted",
+        "shoots"
+      ],
+      "meaning": {
+        "hi": "अर्जुन ने चिड़िया की दाईं आँख पर निशाना लगाया।",
+        "hinglish": "Arjun ne chidiya ki daayin aankh par nishaana lagaaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.8.S17",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "question": "True or false? The boy kept the breakfast in the bookshelf because the beggar refused to take it.",
+      "questionMeaning": {
+        "hi": "लड़के ने नाश्ता इसलिए रखा क्योंकि भिखारी ने मना कर दिया।",
+        "hinglish": "Ladke ne naashta isliye rakha kyonki bhikhaari ne mana kar diya."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. The beggar did not come, so the boy kept it for him.",
+      "modelMeaning": {
+        "hi": "गलत। भिखारी आया ही नहीं, इसलिए लड़के ने उसके लिए रखा।",
+        "hinglish": "Galat. Bhikhaari aaya hi nahi, isliye ladke ne uske liye rakha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.8.S18",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "question": "True or false? Gandhiji spelt ‘kettle’ correctly.",
+      "questionMeaning": {
+        "hi": "गांधीजी ने kettle सही लिखा।",
+        "hinglish": "Gandhiji ne kettle sahi likha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.12.8.S19",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "text": {
+        "hi": "किताब: ‘A Cow’ (गाय) पर पाँच वाक्य लिखो: The cow is a domestic animal. It has four legs, two horns and a tail. It gives us milk. It eats grass. We should take good care of it.",
+        "hinglish": "Kitaab: ‘A Cow’ (gaay) par paanch vaakya likho: The cow is a domestic animal. It has four legs, two horns and a tail. It gives us milk. It eats grass. We should take good care of it.",
+        "en": "The book: write five sentences on ‘A Cow’: The cow is a domestic animal. It has four legs, two horns and a tail. It gives us milk. It eats grass. We should take good care of it."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.12.8.S20",
+      "skills": [
+        "book.words",
+        "book.grammar"
+      ],
+      "prompt": {
+        "hi": "गाय: यह हमें दूध देती है।",
+        "hinglish": "Gaay: yeh humein doodh deti hai.",
+        "en": "Cow: say it gives us milk."
+      },
+      "answer": "The cow gives us milk.",
+      "meaning": {
+        "hi": "गाय हमें दूध देती है।",
+        "hinglish": "Gaay humein doodh deti hai."
+      }
+    }
+  ]
+}

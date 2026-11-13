@@ -1,0 +1,198 @@
+{
+  "id": "B6.05.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.05.T.S01",
+    "B6.05.T.S02",
+    "B6.05.T.S03",
+    "B6.05.T.S04",
+    "B6.05.T.S05",
+    "B6.05.T.S06",
+    "B6.05.T.S07",
+    "B6.05.T.S08",
+    "B6.05.T.S09",
+    "B6.05.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.05.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who does the traveller thank?",
+      "questionMeaning": {
+        "hi": "यात्री किसे धन्यवाद देता है?",
+        "hinglish": "Yaatri kise dhanyavaad deta hai?"
+      },
+      "options": [
+        "the little star",
+        "the sun",
+        "his friend"
+      ],
+      "answer": "the little star"
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why does he thank it?",
+      "questionMeaning": {
+        "hi": "क्यों?",
+        "hinglish": "Kyon?"
+      },
+      "options": [
+        "Its light shows him which way to go in the dark.",
+        "It gives him food.",
+        "It sings to him."
+      ],
+      "answer": "Its light shows him which way to go in the dark."
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.05.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "sentence": "Like a ___ in the sky.",
+      "answer": "diamond",
+      "options": [
+        "diamond",
+        "tea tray",
+        "kite"
+      ],
+      "meaning": {
+        "hi": "आसमान में हीरे की तरह।",
+        "hinglish": "Aasmaan mein heere ki tarah."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.05.T.S04",
+      "skills": [
+        "book.comprehension"
+      ],
+      "sentence": "When the ___ sun is gone,",
+      "answer": "blazing",
+      "options": [
+        "blazing",
+        "tiny",
+        "little"
+      ],
+      "meaning": {
+        "hi": "जब तेज़ जलता सूरज चला जाता है,",
+        "hinglish": "Jab tez jalta sooraj chala jaata hai,"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘spark’?",
+      "questionMeaning": {
+        "hi": "‘spark’ से तुक मिलाने वाला शब्द?",
+        "hinglish": "‘spark’ se tuk milaane waala shabd?"
+      },
+      "options": [
+        "dark",
+        "star",
+        "sky"
+      ],
+      "answer": "dark"
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘twinkle’?",
+      "questionMeaning": {
+        "hi": "‘twinkle’ से तुक?",
+        "hinglish": "‘twinkle’ se tuk?"
+      },
+      "options": [
+        "wrinkle",
+        "star",
+        "far"
+      ],
+      "answer": "wrinkle"
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.T.S07",
+      "skills": [
+        "book.words"
+      ],
+      "question": "In the funny poem, the bat is like a ...",
+      "questionMeaning": {
+        "hi": "मज़ेदार कविता में चमगादड़ किसकी तरह है?",
+        "hinglish": "Mazedaar kavita mein chamgaadad kiski tarah hai?"
+      },
+      "options": [
+        "tea tray",
+        "diamond",
+        "lamp"
+      ],
+      "answer": "tea tray"
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.T.S08",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "‘When does the train ___?’ (to leave)",
+      "questionMeaning": {
+        "hi": "छूटने के लिए कौन सा शब्द?",
+        "hinglish": "Chhootne ke liye kaun sa shabd?"
+      },
+      "options": [
+        "depart",
+        "arrive",
+        "stop"
+      ],
+      "answer": "depart"
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.T.S09",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "The Narmada Express arrives at ...",
+      "questionMeaning": {
+        "hi": "नर्मदा एक्सप्रेस कब आती है?",
+        "hinglish": "Narmada Express kab aati hai?"
+      },
+      "options": [
+        "9:30 p.m.",
+        "9:45 p.m.",
+        "9:30 a.m."
+      ],
+      "answer": "9:30 p.m."
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What lights the traveller in the dark?",
+      "questionMeaning": {
+        "hi": "अँधेरे में यात्री को रोशनी कौन देता है?",
+        "hinglish": "Andhere mein yaatri ko roshni kaun deta hai?"
+      },
+      "options": [
+        "the tiny spark of the star",
+        "a torch",
+        "a fire"
+      ],
+      "answer": "the tiny spark of the star"
+    }
+  ]
+}

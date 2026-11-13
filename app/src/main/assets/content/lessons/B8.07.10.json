@@ -1,0 +1,96 @@
+{
+  "id": "B8.07.10",
+  "level": 8,
+  "bookSteps": [
+    "B8.07.10.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.07.10.S01",
+      "skills": [
+        "book.activity",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: टीचर और दोस्तों की मदद से कक्षा के लिए फ़र्स्ट एड किट बनाओ। किताब में सामान की सूची है।",
+        "hinglish": "Kitaab: teacher aur doston ki madad se kaksha ke liye first aid kit banao. Kitaab mein saamaan ki soochi hai.",
+        "en": "The book: make a first aid kit for your class with your teacher and friends. The book lists the items."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.07.10.S02",
+      "skills": [
+        "book.activity",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "सामान को उसके काम से जोड़ो",
+        "hinglish": "Saamaan ko uske kaam se jodo",
+        "en": "Join each item to its use"
+      },
+      "pairs": [
+        {
+          "left": "antiseptic lotion",
+          "right": "cleans a wound",
+          "meaning": {
+            "hi": "घाव साफ़ करने का घोल",
+            "hinglish": "ghaav saaf karne ka ghol"
+          }
+        },
+        {
+          "left": "bandage",
+          "right": "covers a wound",
+          "meaning": {
+            "hi": "पट्टी",
+            "hinglish": "patti"
+          }
+        },
+        {
+          "left": "thermometer",
+          "right": "checks fever",
+          "meaning": {
+            "hi": "थर्मामीटर — बुख़ार नापना",
+            "hinglish": "thermometer — bukhaar naapna"
+          }
+        },
+        {
+          "left": "tweezers",
+          "right": "pulls out a thorn",
+          "meaning": {
+            "hi": "चिमटी — काँटा निकालना",
+            "hinglish": "chimti — kaanta nikaalna"
+          }
+        },
+        {
+          "left": "scissors",
+          "right": "cuts the bandage",
+          "meaning": {
+            "hi": "कैंची — पट्टी काटना",
+            "hinglish": "kainchi — patti kaatna"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.10.S03",
+      "skills": [
+        "book.activity",
+        "vocab.meaning"
+      ],
+      "question": "Medicines should be given only ...",
+      "questionMeaning": {
+        "hi": "दवा कब देनी चाहिए?",
+        "hinglish": "Dava kab deni chahiye?"
+      },
+      "options": [
+        "by an adult or a doctor",
+        "by any child",
+        "without asking"
+      ],
+      "answer": "by an adult or a doctor"
+    }
+  ]
+}

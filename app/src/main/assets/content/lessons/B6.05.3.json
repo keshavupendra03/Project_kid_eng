@@ -1,0 +1,281 @@
+{
+  "id": "B6.05.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.05.3.S02",
+    "B6.05.3.S03",
+    "B6.05.3.S04",
+    "B6.05.3.S05",
+    "B6.05.3.S06",
+    "B6.05.3.S07",
+    "B6.05.3.S08",
+    "B6.05.3.S09",
+    "B6.05.3.S10",
+    "B6.05.3.S11",
+    "B6.05.3.S12",
+    "B6.05.3.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.05.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब: कविता की खाली जगह भरो।",
+        "hinglish": "Kitaab: kavita ki khaali jagah bharo.",
+        "en": "The book: fill in the blanks to complete the poem."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.05.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "When the ___ sun is gone,",
+      "answer": "blazing",
+      "options": [
+        "blazing",
+        "tiny",
+        "little"
+      ],
+      "meaning": {
+        "hi": "जब तेज़ जलता सूरज चला जाता है,",
+        "hinglish": "Jab tez jalta sooraj chala jaata hai,"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.05.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "When there nothing shines ___,",
+      "answer": "upon",
+      "options": [
+        "upon",
+        "under",
+        "away"
+      ],
+      "meaning": {
+        "hi": "जब किसी चीज़ पर कुछ नहीं चमकता,",
+        "hinglish": "Jab kisi cheez par kuch nahi chamakta,"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.05.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "Then you show your ___ light,",
+      "answer": "little",
+      "options": [
+        "little",
+        "blazing",
+        "dark"
+      ],
+      "meaning": {
+        "hi": "तब तुम अपनी छोटी सी रोशनी दिखाते हो,",
+        "hinglish": "Tab tum apni chhoti si roshni dikhaate ho,"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.05.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "Twinkle, twinkle, all the ___.",
+      "answer": "night",
+      "options": [
+        "night",
+        "day",
+        "sky"
+      ],
+      "meaning": {
+        "hi": "सारी रात टिमटिमाते हो।",
+        "hinglish": "Saari raat timtimaate ho."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.05.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "Then the ___ in the dark",
+      "answer": "traveller",
+      "options": [
+        "traveller",
+        "teacher",
+        "farmer"
+      ],
+      "meaning": {
+        "hi": "तब अँधेरे में यात्री",
+        "hinglish": "Tab andhere mein yaatri"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.05.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "Thanks you for your tiny ___;",
+      "answer": "spark",
+      "options": [
+        "spark",
+        "star",
+        "sky"
+      ],
+      "meaning": {
+        "hi": "तुम्हारी छोटी सी रोशनी के लिए धन्यवाद देता है;",
+        "hinglish": "Tumhari chhoti si roshni ke liye dhanyavaad deta hai;"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.05.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "He could not see which ___ to go,",
+      "answer": "way",
+      "options": [
+        "way",
+        "day",
+        "star"
+      ],
+      "meaning": {
+        "hi": "उसे दिखता नहीं कि किस रास्ते जाए,",
+        "hinglish": "Use dikhta nahi ki kis raaste jaaye,"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.05.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "If you did not ___ so.",
+      "answer": "twinkle",
+      "options": [
+        "twinkle",
+        "sleep",
+        "cry"
+      ],
+      "meaning": {
+        "hi": "अगर तुम ऐसे न टिमटिमाते।",
+        "hinglish": "Agar tum aise na timtimaate."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.3.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What happens when the sun goes away?",
+      "questionMeaning": {
+        "hi": "सूरज के जाने पर क्या होता है?",
+        "hinglish": "Sooraj ke jaane par kya hota hai?"
+      },
+      "options": [
+        "The star shows its little light all night.",
+        "It starts raining.",
+        "The moon goes to sleep."
+      ],
+      "answer": "The star shows its little light all night.",
+      "modelAnswer": "When the sun goes away, the star shows its little light and twinkles all the night.",
+      "modelMeaning": {
+        "hi": "सूरज के जाने पर तारा अपनी छोटी रोशनी दिखाता है और सारी रात टिमटिमाता है।",
+        "hinglish": "Sooraj ke jaane par taara apni chhoti roshni dikhaata hai aur saari raat timtimaata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.3.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who does the traveller thank?",
+      "questionMeaning": {
+        "hi": "यात्री किसे धन्यवाद देता है?",
+        "hinglish": "Yaatri kise dhanyavaad deta hai?"
+      },
+      "options": [
+        "the little star",
+        "the sun",
+        "his friend"
+      ],
+      "answer": "the little star",
+      "modelAnswer": "The traveller thanks the little star.",
+      "modelMeaning": {
+        "hi": "यात्री छोटे तारे को धन्यवाद देता है।",
+        "hinglish": "Yaatri chhote taare ko dhanyavaad deta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.3.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why does he thank it?",
+      "questionMeaning": {
+        "hi": "वह उसे धन्यवाद क्यों देता है?",
+        "hinglish": "Woh use dhanyavaad kyon deta hai?"
+      },
+      "options": [
+        "Its light shows him which way to go in the dark.",
+        "It gives him food.",
+        "It sings to him."
+      ],
+      "answer": "Its light shows him which way to go in the dark.",
+      "modelAnswer": "He thanks the star because its tiny spark shows him which way to go in the dark.",
+      "modelMeaning": {
+        "hi": "वह तारे को धन्यवाद देता है क्योंकि उसकी छोटी रोशनी अँधेरे में रास्ता दिखाती है।",
+        "hinglish": "Woh taare ko dhanyavaad deta hai kyonki uski chhoti roshni andhere mein raasta dikhaati hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.3.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What lights the traveller?",
+      "questionMeaning": {
+        "hi": "यात्री को रोशनी कौन देता है?",
+        "hinglish": "Yaatri ko roshni kaun deta hai?"
+      },
+      "options": [
+        "the bright and tiny spark of the star",
+        "a torch",
+        "a fire"
+      ],
+      "answer": "the bright and tiny spark of the star",
+      "modelAnswer": "The bright and tiny spark of the star lights the traveller in the dark.",
+      "modelMeaning": {
+        "hi": "तारे की चमकीली छोटी रोशनी अँधेरे में यात्री को रास्ता दिखाती है।",
+        "hinglish": "Taare ki chamkeeli chhoti roshni andhere mein yaatri ko raasta dikhaati hai."
+      }
+    }
+  ]
+}

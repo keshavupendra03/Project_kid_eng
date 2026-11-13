@@ -5,6 +5,6 @@
  * setting here can expose them: the phone doesn't send them (see SchoolSync.kt).
  */
 export const VISIBILITY = {
-  headmaster: { progress: true, minutes: true, skills: true, parentContact: true },
-  teacher: { progress: true, minutes: true, skills: true, parentContact: false },
+  headmaster: { progress: true, minutes: true, skills: true, parentContact: true, tests: true },
+  teacher: { progress: true, minutes: true, skills: true, parentContact: false, tests: true },
 };

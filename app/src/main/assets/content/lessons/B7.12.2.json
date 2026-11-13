@@ -1,0 +1,221 @@
+{
+  "id": "B7.12.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.12.2.S02",
+    "B7.12.2.S03",
+    "B7.12.2.S04",
+    "B7.12.2.S05",
+    "B7.12.2.S06",
+    "B7.12.2.S07",
+    "B7.12.2.S08",
+    "B7.12.2.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.12.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 86 से 88 तक ‘One-Way Ticket-I’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 86 se 88 tak ‘One-Way Ticket-I’ padho. Phir jawab do.",
+        "en": "Read ‘One-Way Ticket-I’ on pages 86 to 88 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does Kishto wear?",
+      "questionMeaning": {
+        "hi": "किश्तो क्या पहनता है?",
+        "hinglish": "Kishto kya pehenta hai?"
+      },
+      "options": [
+        "a long khadi kurta and short pyjamas",
+        "khaki clothes",
+        "a ghagra and choli"
+      ],
+      "answer": "a long khadi kurta and short pyjamas",
+      "modelAnswer": "Kishto wears a long khadi kurta, perhaps his father's, and pyjamas that are too short for his long legs.",
+      "modelMeaning": {
+        "hi": "किश्तो लंबा खादी कुर्ता पहनता है, शायद अपने पिता का, और ऐसा पायजामा जो उसकी लंबी टाँगों के लिए छोटा है।",
+        "hinglish": "Kishto lamba khaadi kurta pehenta hai, shaayad apne pita ka, aur aisa pyjama jo uski lambi taangon ke liye chhota hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who is a chatterbox?",
+      "questionMeaning": {
+        "hi": "बातूनी कौन है?",
+        "hinglish": "Baatooni kaun hai?"
+      },
+      "options": [
+        "Bishni",
+        "Krishan",
+        "Lambu"
+      ],
+      "answer": "Bishni",
+      "modelAnswer": "Bishni is a chatterbox. She is bold too.",
+      "modelMeaning": {
+        "hi": "बिशनी बातूनी है। वह निडर भी है।",
+        "hinglish": "Bishni baatooni hai. Woh nidar bhi hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does Lambu always do?",
+      "questionMeaning": {
+        "hi": "लंबू हमेशा क्या करता है?",
+        "hinglish": "Lambu hamesha kya karta hai?"
+      },
+      "options": [
+        "He butts in and asks silly questions or gives childish ideas.",
+        "He gathers news.",
+        "He solves everyone's problems."
+      ],
+      "answer": "He butts in and asks silly questions or gives childish ideas.",
+      "modelAnswer": "Lambu always butts in and asks silly questions or gives childish ideas.",
+      "modelMeaning": {
+        "hi": "लंबू हमेशा बीच में बोलता है और बेतुके सवाल पूछता है या बचकाने सुझाव देता है।",
+        "hinglish": "Lambu hamesha beech mein bolta hai aur betuke sawaal poochhta hai ya bachkaane sujhaav deta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why is Krishan called the wise?",
+      "questionMeaning": {
+        "hi": "कृष्ण को समझदार क्यों कहते हैं?",
+        "hinglish": "Krishan ko samajhdaar kyon kehte hain?"
+      },
+      "options": [
+        "He helps everyone find a solution to their problems.",
+        "He is the tallest.",
+        "He wears khaki."
+      ],
+      "answer": "He helps everyone find a solution to their problems.",
+      "modelAnswer": "Krishan is called the wise because he helps you find a solution to anything you cannot solve.",
+      "modelMeaning": {
+        "hi": "कृष्ण को समझदार कहते हैं क्योंकि जो बात कोई हल न कर सके, उसका हल वह निकाल देता है।",
+        "hinglish": "Krishan ko samajhdaar kehte hain kyonki jo baat koi hal na kar sake, uska hal woh nikaal deta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Describe Gittoo's dress. How does he keep everybody informed?",
+      "questionMeaning": {
+        "hi": "गिट्टू के कपड़े कैसे हैं? वह सबको ख़बर कैसे देता है?",
+        "hinglish": "Gittoo ke kapde kaise hain? Woh sabko khabar kaise deta hai?"
+      },
+      "options": [
+        "He wears khaki and gathers news and gossip from the whole village.",
+        "He wears a dhoti and reads newspapers.",
+        "He wears a kurta and writes letters."
+      ],
+      "answer": "He wears khaki and gathers news and gossip from the whole village.",
+      "modelAnswer": "Gittoo is always dressed in khaki. He plays the policeman and postman, gathers news and gossip from the whole village and keeps everyone informed.",
+      "modelMeaning": {
+        "hi": "गिट्टू हमेशा ख़ाकी कपड़े पहनता है। वह पुलिस और डाकिए का खेल खेलता है और पूरे गाँव की ख़बरें इकट्ठा करके सबको बताता है।",
+        "hinglish": "Gittoo hamesha khaaki kapde pehenta hai. Woh police aur daakiye ka khel khelta hai aur poore gaon ki khabrein ikattha karke sabko bataata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do the children plan after the bus breaks down?",
+      "questionMeaning": {
+        "hi": "बस ख़राब होने के बाद बच्चे क्या योजना बनाते हैं?",
+        "hinglish": "Bus kharaab hone ke baad bachche kya yojana banaate hain?"
+      },
+      "options": [
+        "to walk to the fair and come back by the morning bus",
+        "to go back home",
+        "to wait for a new bus"
+      ],
+      "answer": "to walk to the fair and come back by the morning bus",
+      "modelAnswer": "After the bus breaks down, they plan to walk to the fair and return the next day by the morning bus.",
+      "modelMeaning": {
+        "hi": "बस ख़राब होने पर वे पैदल मेले जाने और अगले दिन सुबह की बस से लौटने की योजना बनाते हैं।",
+        "hinglish": "Bus kharaab hone par woh paidal mele jaane aur agle din subah ki bus se lautne ki yojana banaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why does Krishan suggest going on foot?",
+      "questionMeaning": {
+        "hi": "कृष्ण पैदल जाने का सुझाव क्यों देता है?",
+        "hinglish": "Krishan paidal jaane ka sujhaav kyon deta hai?"
+      },
+      "options": [
+        "The bus has broken down and they still want to see the fair.",
+        "He likes long walks.",
+        "The fair is very near."
+      ],
+      "answer": "The bus has broken down and they still want to see the fair.",
+      "modelAnswer": "Krishan suggests going on foot because the bus has broken down and they still want to see the fair.",
+      "modelMeaning": {
+        "hi": "कृष्ण पैदल जाने को कहता है क्योंकि बस ख़राब है और वे फिर भी मेला देखना चाहते हैं।",
+        "hinglish": "Krishan paidal jaane ko kehta hai kyonki bus kharaab hai aur woh phir bhi mela dekhna chahte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.12.2.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do they do to inform their parents?",
+      "questionMeaning": {
+        "hi": "माता-पिता को ख़बर देने के लिए वे क्या करते हैं?",
+        "hinglish": "Maata-pita ko khabar dene ke liye woh kya karte hain?"
+      },
+      "options": [
+        "They call the postman chacha on the telephone.",
+        "They send Sheru home.",
+        "They write a letter."
+      ],
+      "answer": "They call the postman chacha on the telephone.",
+      "modelAnswer": "They call the postman chacha on the telephone to tell their parents that they are safe and will be back the next day.",
+      "modelMeaning": {
+        "hi": "वे डाकिया चाचा को फ़ोन करते हैं ताकि माता-पिता को बता सकें कि वे सुरक्षित हैं और कल लौटेंगे।",
+        "hinglish": "Woh daakiya chacha ko phone karte hain taaki maata-pita ko bata sakein ki woh surakshit hain aur kal lautenge."
+      }
+    }
+  ]
+}

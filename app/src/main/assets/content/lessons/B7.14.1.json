@@ -1,0 +1,254 @@
+{
+  "id": "B7.14.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.14.1.S02",
+    "B7.14.1.S04"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.14.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "क्लास 7 के बच्चे ओरछा घूमकर आए हैं, जो मध्य प्रदेश में बेतवा नदी के किनारे है। अब वे टीचर से बहुत सवाल पूछ रहे हैं! पहले किताब के सवाल।",
+        "hinglish": "Class 7 ke bachche Orchha ghoomkar aaye hain, jo Madhya Pradesh mein Betwa nadi ke kinaare hai. Ab woh teacher se bahut sawaal poochh rahe hain! Pehle kitaab ke sawaal.",
+        "en": "Class 7 has visited Orchha, on the bank of the Betwa river in Madhya Pradesh. Now they ask their teacher lots of questions! First, the book's questions."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.14.1.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🛕",
+      "turns": [
+        {
+          "id": "seen",
+          "tinku": "Have you seen any old temple?",
+          "meaning": {
+            "hi": "क्या तुमने कोई पुराना मंदिर देखा है?",
+            "hinglish": "Kya tumne koi puraana mandir dekha hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have seen an old temple.",
+              "meaning": {
+                "hi": "हाँ, मैंने एक पुराना मंदिर देखा है।",
+                "hinglish": "Haan, maine ek puraana mandir dekha hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I have not seen one.",
+              "meaning": {
+                "hi": "नहीं, मैंने नहीं देखा।",
+                "hinglish": "Nahi, maine nahi dekha."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ],
+              "next": "end"
+            }
+          ]
+        },
+        {
+          "id": "where",
+          "tinku": "Where is it situated?",
+          "meaning": {
+            "hi": "वह कहाँ है?",
+            "hinglish": "Woh kahan hai?"
+          },
+          "replies": [
+            {
+              "say": "It is in my village.",
+              "meaning": {
+                "hi": "वह मेरे गाँव में है। (जगह का नाम बोलो)",
+                "hinglish": "Woh mere gaon mein hai. (Jagah ka naam bolo)"
+              },
+              "patterns": [
+                "it is in *",
+                "it is *",
+                "in *",
+                "*",
+                "* *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.14.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब का ‘Read and Learn’ कुछ मिलते-जुलते शब्द सिखाता है: cenotaph, cemetery, graveyard, tomb, epitaph। ध्यान से अंतर समझो।",
+        "hinglish": "Kitaab ka ‘Read and Learn’ kuch milte-julte shabd sikhaata hai: cenotaph, cemetery, graveyard, tomb, epitaph. Dhyaan se antar samjho.",
+        "en": "The book's Read and Learn teaches some similar words: cenotaph, cemetery, graveyard, tomb, epitaph. Learn the difference carefully."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.14.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके मतलब से जोड़ो",
+        "hinglish": "Har shabd ko uske matlab se jodo",
+        "en": "Join each word to its meaning"
+      },
+      "pairs": [
+        {
+          "left": "cenotaph",
+          "right": "a monument for someone who died somewhere else",
+          "meaning": {
+            "hi": "स्मारक (शव कहीं और)",
+            "hinglish": "smaarak (shav kahin aur)"
+          }
+        },
+        {
+          "left": "cemetery",
+          "right": "a large burial ground",
+          "meaning": {
+            "hi": "बड़ा क़ब्रिस्तान",
+            "hinglish": "bada kabristaan"
+          }
+        },
+        {
+          "left": "graveyard",
+          "right": "a burial ground",
+          "meaning": {
+            "hi": "क़ब्रिस्तान",
+            "hinglish": "kabristaan"
+          }
+        },
+        {
+          "left": "tomb",
+          "right": "a monument built over the place where a person is buried",
+          "meaning": {
+            "hi": "मक़बरा",
+            "hinglish": "makbara"
+          }
+        },
+        {
+          "left": "epitaph",
+          "right": "words written on a tombstone in memory of a person",
+          "meaning": {
+            "hi": "समाधि-लेख",
+            "hinglish": "samaadhi-lekh"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.14.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "confluence",
+        "emoji": "",
+        "hindi": "संगम",
+        "hinglish": "sangam"
+      },
+      "meaning": "the place where two or more rivers meet",
+      "example": "Prayagraj is famous for its confluence.",
+      "exampleMeaning": {
+        "hi": "प्रयागराज अपने संगम के लिए मशहूर है।",
+        "hinglish": "Prayagraj apne sangam ke liye mashhoor hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.14.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "monument",
+        "emoji": "",
+        "hindi": "स्मारक",
+        "hinglish": "smaarak"
+      },
+      "meaning": "a building made in memory of a person or event",
+      "example": "India Gate is a famous monument.",
+      "exampleMeaning": {
+        "hi": "इंडिया गेट एक मशहूर स्मारक है।",
+        "hinglish": "India Gate ek mashhoor smaarak hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.14.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "mural",
+        "emoji": "",
+        "hindi": "भित्ति चित्र (दीवार पर बना चित्र)",
+        "hinglish": "bhitti chitra (deewaar par bana chitra)"
+      },
+      "meaning": "a painting on a wall",
+      "example": "The temple walls have beautiful murals.",
+      "exampleMeaning": {
+        "hi": "मंदिर की दीवारों पर सुंदर चित्र हैं।",
+        "hinglish": "Mandir ki deewaaron par sundar chitra hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.14.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "tourist",
+        "emoji": "",
+        "hindi": "पर्यटक, सैलानी",
+        "hinglish": "paryatak, sailaani"
+      },
+      "meaning": "a person who travels for pleasure",
+      "example": "Many tourists visit Khajuraho.",
+      "exampleMeaning": {
+        "hi": "बहुत से पर्यटक खजुराहो घूमने आते हैं।",
+        "hinglish": "Bahut se paryatak Khajuraho ghoomne aate hain."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.14.1.S09",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "monument",
+        "emoji": "",
+        "hindi": "स्मारक",
+        "hinglish": "smaarak"
+      }
+    }
+  ]
+}

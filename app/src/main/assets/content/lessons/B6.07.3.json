@@ -1,0 +1,237 @@
+{
+  "id": "B6.07.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.07.3.S02",
+    "B6.07.3.S03",
+    "B6.07.3.S04",
+    "B6.07.3.S05",
+    "B6.07.3.S06",
+    "B6.07.3.S08",
+    "B6.07.3.S09",
+    "B6.07.3.S10",
+    "B6.07.3.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.07.3.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "text": {
+        "hi": "किसी की बात बताते समय: Mala says, \"I want to be a doctor.\" → Mala says that she wants to be a doctor। I → she/he, want → wants।",
+        "hinglish": "Kisi ki baat bataate samay: Mala says, \"I want to be a doctor.\" → Mala says that she wants to be a doctor. I → she/he, want → wants.",
+        "en": "To report what someone says: Mala says, \"I want to be a doctor.\" → Mala says that she wants to be a doctor. I → she/he, want → wants."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.3.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Mina says, \"I want to be an engineer.\"",
+        "hinglish": "Badlo: Mina says, \"I want to be an engineer.\"",
+        "en": "Change: Mina says, \"I want to be an engineer.\""
+      },
+      "answer": "Mina says that she wants to be an engineer.",
+      "meaning": {
+        "hi": "मीना कहती है कि वह इंजीनियर बनना चाहती है।",
+        "hinglish": "Mina kehti hai ki woh engineer banna chahti hai."
+      },
+      "extra": [
+        "I",
+        "want"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.3.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Gautam says, \"I want to be a lawyer.\"",
+        "hinglish": "Badlo: Gautam says, \"I want to be a lawyer.\"",
+        "en": "Change: Gautam says, \"I want to be a lawyer.\""
+      },
+      "answer": "Gautam says that he wants to be a lawyer.",
+      "meaning": {
+        "hi": "गौतम कहता है कि वह वकील बनना चाहता है।",
+        "hinglish": "Gautam kehta hai ki woh vakeel banna chahta hai."
+      },
+      "extra": [
+        "I",
+        "want"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.3.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Ravi says, \"I want to be a teacher.\"",
+        "hinglish": "Badlo: Ravi says, \"I want to be a teacher.\"",
+        "en": "Change: Ravi says, \"I want to be a teacher.\""
+      },
+      "answer": "Ravi says that he wants to be a teacher.",
+      "meaning": {
+        "hi": "रवि कहता है कि वह टीचर बनना चाहता है।",
+        "hinglish": "Ravi kehta hai ki woh teacher banna chahta hai."
+      },
+      "extra": [
+        "I",
+        "want"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.3.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Arif says, \"I want to be a pilot.\"",
+        "hinglish": "Badlo: Arif says, \"I want to be a pilot.\"",
+        "en": "Change: Arif says, \"I want to be a pilot.\""
+      },
+      "answer": "Arif says that he wants to be a pilot.",
+      "meaning": {
+        "hi": "आरिफ़ कहता है कि वह पायलट बनना चाहता है।",
+        "hinglish": "Aarif kehta hai ki woh pilot banna chahta hai."
+      },
+      "extra": [
+        "I",
+        "want"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.3.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Radha says, \"I want to be an inspector.\"",
+        "hinglish": "Badlo: Radha says, \"I want to be an inspector.\"",
+        "en": "Change: Radha says, \"I want to be an inspector.\""
+      },
+      "answer": "Radha says that she wants to be an inspector.",
+      "meaning": {
+        "hi": "राधा कहती है कि वह इंस्पेक्टर बनना चाहती है।",
+        "hinglish": "Radha kehti hai ki woh inspector banna chahti hai."
+      },
+      "extra": [
+        "I",
+        "want"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.07.3.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "text": {
+        "hi": "किताब: रिपोर्टर ने मीना से सवाल पूछे। मीना की बातों को ‘Meena says that ...’ से लिखो। उदाहरण: Meena says that she gets up early in the morning.",
+        "hinglish": "Kitaab: reporter ne Meena se sawaal poochhe. Meena ki baaton ko ‘Meena says that ...’ se likho. Udaharan: Meena says that she gets up early in the morning.",
+        "en": "The book: a reporter asked Meena questions. Write her answers with ‘Meena says that ...’. Example: Meena says that she gets up early in the morning."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.3.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "मीना: \"I run 4 kilometres everyday.\"",
+        "hinglish": "Meena: \"I run 4 kilometres everyday.\"",
+        "en": "Meena: \"I run 4 kilometres everyday.\""
+      },
+      "answer": "Meena says that she runs 4 kilometres every day.",
+      "meaning": {
+        "hi": "मीना कहती है कि वह हर दिन 4 किलोमीटर दौड़ती है।",
+        "hinglish": "Meena kehti hai ki woh har din 4 kilometre daudti hai."
+      },
+      "extra": [
+        "run"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.3.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "मीना: \"I have milk and parathas after the exercise.\"",
+        "hinglish": "Meena: \"I have milk and parathas after the exercise.\"",
+        "en": "Meena: \"I have milk and parathas after the exercise.\""
+      },
+      "answer": "Meena says that she has milk and parathas after the exercise.",
+      "meaning": {
+        "hi": "मीना कहती है कि वह कसरत के बाद दूध और पराठे खाती है।",
+        "hinglish": "Meena kehti hai ki woh kasrat ke baad doodh aur paraathe khaati hai."
+      },
+      "extra": [
+        "have"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.3.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "मीना: \"I go to school at 11.00 o'clock.\"",
+        "hinglish": "Meena: \"I go to school at 11.00 o'clock.\"",
+        "en": "Meena: \"I go to school at 11.00 o'clock.\""
+      },
+      "answer": "Meena says that she goes to school at 11 o'clock.",
+      "meaning": {
+        "hi": "मीना कहती है कि वह 11 बजे स्कूल जाती है।",
+        "hinglish": "Meena kehti hai ki woh 11 baje school jaati hai."
+      },
+      "extra": [
+        "go"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.07.3.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "मीना: \"I am there till 5.00 o'clock.\"",
+        "hinglish": "Meena: \"I am there till 5.00 o'clock.\"",
+        "en": "Meena: \"I am there till 5.00 o'clock.\""
+      },
+      "answer": "Meena says that she is there till 5 o'clock.",
+      "meaning": {
+        "hi": "मीना कहती है कि वह 5 बजे तक वहाँ रहती है।",
+        "hinglish": "Meena kehti hai ki woh 5 baje tak wahan rehti hai."
+      },
+      "extra": [
+        "am"
+      ]
+    }
+  ]
+}

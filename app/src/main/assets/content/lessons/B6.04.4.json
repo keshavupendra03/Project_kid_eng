@@ -1,0 +1,443 @@
+{
+  "id": "B6.04.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.04.4.S02",
+    "B6.04.4.S03",
+    "B6.04.4.S05",
+    "B6.04.4.S06",
+    "B6.04.4.S07",
+    "B6.04.4.S08",
+    "B6.04.4.S10",
+    "B6.04.4.S11",
+    "B6.04.4.S12",
+    "B6.04.4.S13",
+    "B6.04.4.S14",
+    "B6.04.4.S15",
+    "B6.04.4.S16",
+    "B6.04.4.S17"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.04.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "बीती बात के लिए क्रिया का दूसरा रूप। ज़्यादातर में -ed लगता है: cook → cooked, play → played। कुछ बिल्कुल बदल जाते हैं: write → wrote, give → gave।",
+        "hinglish": "Beeti baat ke liye kriya ka doosra roop. Zyaadatar mein -ed lagta hai: cook → cooked, play → played. Kuch bilkul badal jaate hain: write → wrote, give → gave.",
+        "en": "For the past, use the past form. Most verbs add -ed: cook → cooked, play → played. Some change completely: write → wrote, give → gave."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.04.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "instruction": {
+        "hi": "हर क्रिया को उसके बीते रूप से जोड़ो (-ed वाले)",
+        "hinglish": "Har kriya ko uske beete roop se jodo (-ed waale)",
+        "en": "Join each verb to its past form (-ed)"
+      },
+      "pairs": [
+        {
+          "left": "cook",
+          "right": "cooked",
+          "meaning": {
+            "hi": "पकाया",
+            "hinglish": "pakaaya"
+          }
+        },
+        {
+          "left": "play",
+          "right": "played",
+          "meaning": {
+            "hi": "खेला",
+            "hinglish": "khela"
+          }
+        },
+        {
+          "left": "clean",
+          "right": "cleaned",
+          "meaning": {
+            "hi": "साफ़ किया",
+            "hinglish": "saaf kiya"
+          }
+        },
+        {
+          "left": "like",
+          "right": "liked",
+          "meaning": {
+            "hi": "पसंद किया",
+            "hinglish": "pasand kiya"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.04.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "instruction": {
+        "hi": "ये क्रियाएँ बदल जाती हैं — बीते रूप से जोड़ो",
+        "hinglish": "Yeh kriyaayein badal jaati hain — beete roop se jodo",
+        "en": "These verbs change — join them to their past forms"
+      },
+      "pairs": [
+        {
+          "left": "think",
+          "right": "thought",
+          "meaning": {
+            "hi": "सोचा",
+            "hinglish": "socha"
+          }
+        },
+        {
+          "left": "make",
+          "right": "made",
+          "meaning": {
+            "hi": "बनाया",
+            "hinglish": "banaaya"
+          }
+        },
+        {
+          "left": "write",
+          "right": "wrote",
+          "meaning": {
+            "hi": "लिखा",
+            "hinglish": "likha"
+          }
+        },
+        {
+          "left": "ride",
+          "right": "rode",
+          "meaning": {
+            "hi": "सवारी की",
+            "hinglish": "sawaari ki"
+          }
+        },
+        {
+          "left": "give",
+          "right": "gave",
+          "meaning": {
+            "hi": "दिया",
+            "hinglish": "diya"
+          }
+        },
+        {
+          "left": "run",
+          "right": "ran",
+          "meaning": {
+            "hi": "दौड़ा",
+            "hinglish": "dauda"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.04.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "y पर ख़त्म होने वाले शब्द: y हटाकर -ied: try → tried, fry → fried, copy → copied। कुछ शब्द नहीं बदलते: put → put, hit → hit, read → read (पर ‘रेड’ बोलते हैं), cut → cut।",
+        "hinglish": "y par khatm hone waale shabd: y hataakar -ied: try → tried, fry → fried, copy → copied. Kuch shabd nahi badalte: put → put, hit → hit, read → read (par ‘red’ bolte hain), cut → cut.",
+        "en": "Words ending in y: drop y and add -ied: try → tried, fry → fried, copy → copied. Some don't change: put → put, hit → hit, read → read (said ‘red’), cut → cut."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.04.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "prompt": {
+        "hi": "बीते समय में वाक्य: मैंने उसकी मदद करने की कोशिश की। (try)",
+        "hinglish": "Beete samay mein vaakya: maine uski madad karne ki koshish ki. (try)",
+        "en": "A past sentence with ‘try’."
+      },
+      "answer": "I tried to help him.",
+      "meaning": {
+        "hi": "मैंने उसकी मदद करने की कोशिश की।",
+        "hinglish": "Maine uski madad karne ki koshish ki."
+      },
+      "extra": [
+        "try"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.04.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "prompt": {
+        "hi": "बीते समय में वाक्य: माँ ने पकौड़े तले। (fry)",
+        "hinglish": "Beete samay mein vaakya: maa ne pakode tale. (fry)",
+        "en": "A past sentence with ‘fry’."
+      },
+      "answer": "Mother fried pakoras.",
+      "meaning": {
+        "hi": "माँ ने पकौड़े तले।",
+        "hinglish": "Maa ne pakode tale."
+      },
+      "extra": [
+        "fry"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.04.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "prompt": {
+        "hi": "बीते समय में वाक्य: मैंने उसे एक चिट्ठी लिखी। (write)",
+        "hinglish": "Beete samay mein vaakya: maine use ek chitthi likhi. (write)",
+        "en": "A past sentence with ‘write’."
+      },
+      "answer": "I wrote a letter to him.",
+      "meaning": {
+        "hi": "मैंने उसे एक चिट्ठी लिखी।",
+        "hinglish": "Maine use ek chitthi likhi."
+      },
+      "extra": [
+        "write"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.04.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "prompt": {
+        "hi": "बीते समय में वाक्य: उसने गेंद को ज़ोर से मारा। (hit)",
+        "hinglish": "Beete samay mein vaakya: usne gend ko zor se maara. (hit)",
+        "en": "A past sentence with ‘hit’."
+      },
+      "answer": "He hit the ball hard.",
+      "meaning": {
+        "hi": "उसने गेंद को ज़ोर से मारा।",
+        "hinglish": "Usne gend ko zor se maara."
+      },
+      "extra": [
+        "hits"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.04.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "किताब: रामू अपने दादाजी के बारे में आज (present) की बातें कहता है। उन्हें बीते समय (past) में बदलो।",
+        "hinglish": "Kitaab: Ramu apne daadaji ke baare mein aaj (present) ki baatein kehta hai. Unhe beete samay (past) mein badlo.",
+        "en": "The book: Ramu talks about his grandfather in the present. Change it into the past."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "My grandfather ___ up early in the morning. (wakes)",
+      "answer": "woke",
+      "options": [
+        "woke",
+        "waked",
+        "wakes"
+      ],
+      "meaning": {
+        "hi": "मेरे दादाजी सुबह जल्दी उठे।",
+        "hinglish": "Mere daadaji subah jaldi uthe."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "He ___ to market. (goes)",
+      "answer": "went",
+      "options": [
+        "went",
+        "goed",
+        "goes"
+      ],
+      "meaning": {
+        "hi": "वे बाज़ार गए।",
+        "hinglish": "Woh baazaar gaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "He ___ fruit, chocolates and vegetables. (buys)",
+      "answer": "bought",
+      "options": [
+        "bought",
+        "buyed",
+        "buys"
+      ],
+      "meaning": {
+        "hi": "उन्होंने फल, चॉकलेट और सब्ज़ियाँ ख़रीदीं।",
+        "hinglish": "Unhone phal, chocolate aur sabziyaan khareedin."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "He ___ home. (comes)",
+      "answer": "came",
+      "options": [
+        "came",
+        "comed",
+        "comes"
+      ],
+      "meaning": {
+        "hi": "वे घर आए।",
+        "hinglish": "Woh ghar aaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.4.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Then he ___ lunch and rested for a while. (has)",
+      "answer": "had",
+      "options": [
+        "had",
+        "has",
+        "haved"
+      ],
+      "meaning": {
+        "hi": "फिर उन्होंने खाना खाया और थोड़ी देर आराम किया।",
+        "hinglish": "Phir unhone khaana khaaya aur thodi der aaraam kiya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.4.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "In the evening, he ___ us stories from the Panchatantra. (tells)",
+      "answer": "told",
+      "options": [
+        "told",
+        "telled",
+        "tells"
+      ],
+      "meaning": {
+        "hi": "शाम को उन्होंने हमें पंचतंत्र की कहानियाँ सुनाईं।",
+        "hinglish": "Shaam ko unhone humein Panchatantra ki kahaaniyaan sunaayin."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.4.S16",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "We ___ our grandfather. (like)",
+      "answer": "liked",
+      "options": [
+        "liked",
+        "likes",
+        "liken"
+      ],
+      "meaning": {
+        "hi": "हमें अपने दादाजी अच्छे लगते थे।",
+        "hinglish": "Humein apne daadaji achhe lagte the."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.04.4.S17",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "instruction": {
+        "hi": "क्रिया के तीन रूप: पहले रूप को दूसरे रूप से जोड़ो",
+        "hinglish": "Kriya ke teen roop: pehle roop ko doosre roop se jodo",
+        "en": "Three forms: join each verb to its past form"
+      },
+      "pairs": [
+        {
+          "left": "remember",
+          "right": "remembered",
+          "meaning": {
+            "hi": "याद किया",
+            "hinglish": "yaad kiya"
+          }
+        },
+        {
+          "left": "avoid",
+          "right": "avoided",
+          "meaning": {
+            "hi": "बचा, दूर रहा",
+            "hinglish": "bacha, door raha"
+          }
+        },
+        {
+          "left": "purchase",
+          "right": "purchased",
+          "meaning": {
+            "hi": "ख़रीदा",
+            "hinglish": "khareeda"
+          }
+        },
+        {
+          "left": "capture",
+          "right": "captured",
+          "meaning": {
+            "hi": "पकड़ा, जीता",
+            "hinglish": "pakda, jeeta"
+          }
+        },
+        {
+          "left": "move",
+          "right": "moved",
+          "meaning": {
+            "hi": "हिला, चला",
+            "hinglish": "hila, chala"
+          }
+        }
+      ]
+    }
+  ]
+}

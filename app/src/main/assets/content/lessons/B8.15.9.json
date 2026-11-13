@@ -1,0 +1,77 @@
+{
+  "id": "B8.15.9",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.15.9.S01",
+      "skills": [
+        "vocab.animals",
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब: पुस्तकालय जाकर पक्षियों या पेड़ों पर कोई कविता ढूँढो और कॉपी में लिखो।",
+        "hinglish": "Kitaab: pustakaalay jaakar pakshiyon ya pedon par koi kavita dhoondho aur copy mein likho.",
+        "en": "The book: visit your library, find a poem on birds or trees and write it in your notebook."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.9.S02",
+      "skills": [
+        "vocab.animals",
+        "book.activity"
+      ],
+      "question": "What is the State Bird of Madhya Pradesh?",
+      "questionMeaning": {
+        "hi": "म.प्र. का राजकीय पक्षी?",
+        "hinglish": "M.P. ka raajkeeya pakshi?"
+      },
+      "options": [
+        "the Indian paradise flycatcher (Doodhraj)",
+        "the peacock",
+        "the sparrow"
+      ],
+      "answer": "the Indian paradise flycatcher (Doodhraj)"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.9.S03",
+      "skills": [
+        "vocab.animals",
+        "book.activity"
+      ],
+      "question": "What is India's National Bird?",
+      "questionMeaning": {
+        "hi": "भारत का राष्ट्रीय पक्षी?",
+        "hinglish": "Bharat ka raashtriya pakshi?"
+      },
+      "options": [
+        "the peacock",
+        "the parrot",
+        "the crow"
+      ],
+      "answer": "the peacock"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.9.S04",
+      "skills": [
+        "vocab.animals",
+        "book.activity"
+      ],
+      "question": "Why should we not touch a bird's nest?",
+      "questionMeaning": {
+        "hi": "घोंसले को क्यों नहीं छूना चाहिए?",
+        "hinglish": "Ghonsle ko kyon nahi chhoona chahiye?"
+      },
+      "options": [
+        "The bird may get scared and leave its eggs.",
+        "Nests are very hot.",
+        "Nests are made of gold."
+      ],
+      "answer": "The bird may get scared and leave its eggs."
+    }
+  ]
+}

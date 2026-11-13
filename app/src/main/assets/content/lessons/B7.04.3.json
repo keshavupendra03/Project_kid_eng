@@ -1,0 +1,137 @@
+{
+  "id": "B7.04.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.04.3.S01"
+  ],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.04.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके मतलब से जोड़ो (Match the words with their meanings)",
+        "hinglish": "Har shabd ko uske matlab se jodo (Match the words with their meanings)",
+        "en": "Match the words with their meanings"
+      },
+      "pairs": [
+        {
+          "left": "balance",
+          "right": "keep steady",
+          "meaning": {
+            "hi": "संतुलन बनाना",
+            "hinglish": "santulan banana"
+          }
+        },
+        {
+          "left": "believe",
+          "right": "feel certain",
+          "meaning": {
+            "hi": "विश्वास करना",
+            "hinglish": "vishwaas karna"
+          }
+        },
+        {
+          "left": "cartoon",
+          "right": "an amusing drawing in a newspaper or magazine",
+          "meaning": {
+            "hi": "कार्टून, मज़ेदार चित्र",
+            "hinglish": "cartoon, mazedaar chitra"
+          }
+        },
+        {
+          "left": "courtyard",
+          "right": "an open space that is partly or completely surrounded by buildings",
+          "meaning": {
+            "hi": "आँगन",
+            "hinglish": "aangan"
+          }
+        },
+        {
+          "left": "excited",
+          "right": "feeling or showing happiness and enthusiasm",
+          "meaning": {
+            "hi": "उत्साहित",
+            "hinglish": "utsaahit"
+          }
+        },
+        {
+          "left": "gobble",
+          "right": "to eat something very fast",
+          "meaning": {
+            "hi": "गपागप खाना",
+            "hinglish": "gapagap khaana"
+          }
+        },
+        {
+          "left": "surprised",
+          "right": "feeling or showing surprise",
+          "meaning": {
+            "hi": "हैरान",
+            "hinglish": "hairaan"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The hungry boy ___ his lunch in two minutes.",
+      "answer": "gobbled",
+      "options": [
+        "gobbled",
+        "balanced",
+        "believed"
+      ],
+      "meaning": {
+        "hi": "भूखे लड़के ने दो मिनट में अपना खाना गपागप खा लिया।",
+        "hinglish": "Bhookhe ladke ne do minute mein apna khaana gapagap kha liya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Riya could not ___ her eyes. She won the first prize!",
+      "answer": "believe",
+      "options": [
+        "believe",
+        "balance",
+        "gobble"
+      ],
+      "meaning": {
+        "hi": "रिया को अपनी आँखों पर विश्वास नहीं हुआ। उसने पहला इनाम जीता!",
+        "hinglish": "Riya ko apni aankhon par vishwaas nahi hua. Usne pehla inaam jeeta!"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "We dry our clothes in the ___.",
+      "answer": "courtyard",
+      "options": [
+        "courtyard",
+        "cartoon",
+        "balance"
+      ],
+      "meaning": {
+        "hi": "हम अपने कपड़े आँगन में सुखाते हैं।",
+        "hinglish": "Hum apne kapde aangan mein sukhaate hain."
+      }
+    }
+  ]
+}

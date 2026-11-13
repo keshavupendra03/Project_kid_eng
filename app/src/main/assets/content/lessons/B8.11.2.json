@@ -1,0 +1,254 @@
+{
+  "id": "B8.11.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.11.2.S02",
+    "B8.11.2.S03",
+    "B8.11.2.S04",
+    "B8.11.2.S05",
+    "B8.11.2.S06",
+    "B8.11.2.S07",
+    "B8.11.2.S09",
+    "B8.11.2.S10",
+    "B8.11.2.S11",
+    "B8.11.2.S12",
+    "B8.11.2.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.11.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(A) किताब की तस्वीरों के नीचे लिखे वाक्यों में बॉक्स से सही शब्द भरो: accumulate, migrate, ruthless, sufficient, conserve, accommodate।",
+        "hinglish": "(A) Kitaab ki tasveeron ke neeche likhe vaakyon mein box se sahi shabd bharo: accumulate, migrate, ruthless, sufficient, conserve, accommodate.",
+        "en": "(A) Fill in the sentences under the pictures in your book with words from the box: accumulate, migrate, ruthless, sufficient, conserve, accommodate."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "We should ___ other passengers also.",
+      "answer": "accommodate",
+      "options": [
+        "accommodate",
+        "migrate",
+        "accumulate"
+      ],
+      "meaning": {
+        "hi": "हमें दूसरे यात्रियों को भी जगह देनी चाहिए।",
+        "hinglish": "Humein doosre yaatriyon ko bhi jagah deni chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "There is ___ water in the glass.",
+      "answer": "sufficient",
+      "options": [
+        "sufficient",
+        "ruthless",
+        "conserve"
+      ],
+      "meaning": {
+        "hi": "गिलास में पर्याप्त पानी है।",
+        "hinglish": "Gilaas mein paryaapt paani hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Birds ___ from one place to the other.",
+      "answer": "migrate",
+      "options": [
+        "migrate",
+        "accommodate",
+        "conserve"
+      ],
+      "meaning": {
+        "hi": "पक्षी एक जगह से दूसरी जगह जाते हैं।",
+        "hinglish": "Pakshi ek jagah se doosri jagah jaate hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "___ cutting of the trees has resulted in scanty rainfall.",
+      "answer": "Ruthless",
+      "options": [
+        "Ruthless",
+        "Sufficient",
+        "Conserve"
+      ],
+      "meaning": {
+        "hi": "पेड़ों की अंधाधुंध कटाई से बारिश कम हुई है।",
+        "hinglish": "Pedon ki andhaadhundh kataai se baarish kam hui hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "We must ___ water.",
+      "answer": "conserve",
+      "options": [
+        "conserve",
+        "migrate",
+        "accommodate"
+      ],
+      "meaning": {
+        "hi": "हमें पानी बचाना चाहिए।",
+        "hinglish": "Humein paani bachaana chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "To ___ money and wealth sometimes creates problems.",
+      "answer": "accumulate",
+      "options": [
+        "accumulate",
+        "migrate",
+        "sufficient"
+      ],
+      "meaning": {
+        "hi": "पैसा और धन जमा करना कभी-कभी परेशानी बनता है।",
+        "hinglish": "Paisa aur dhan jama karna kabhi-kabhi pareshaani banta hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.11.2.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(B) पैराग्राफ़ पूरा करो: information, villagers, appreciate, burning issues, motivate।",
+        "hinglish": "(B) Paragraph poora karo: information, villagers, appreciate, burning issues, motivate.",
+        "en": "(B) Complete the paragraph with: information, villagers, appreciate, burning issues, motivate."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The ___ don't have enough information about many burning issues.",
+      "answer": "villagers",
+      "options": [
+        "villagers",
+        "information",
+        "motivate"
+      ],
+      "meaning": {
+        "hi": "गाँव वालों को कई ज्वलंत मुद्दों की पूरी जानकारी नहीं है।",
+        "hinglish": "Gaanv waalon ko kai jwalant muddon ki poori jaankaari nahi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The villagers don't have enough ___ about many burning issues.",
+      "answer": "information",
+      "options": [
+        "information",
+        "villagers",
+        "appreciate"
+      ],
+      "meaning": {
+        "hi": "गाँव वालों को कई ज्वलंत मुद्दों की पूरी जानकारी नहीं है।",
+        "hinglish": "Gaanv waalon ko kai jwalant muddon ki poori jaankaari nahi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The villagers don't have enough information about many ___.",
+      "answer": "burning issues",
+      "options": [
+        "burning issues",
+        "villagers",
+        "motivate"
+      ],
+      "meaning": {
+        "hi": "गाँव वालों को कई ज्वलंत मुद्दों की पूरी जानकारी नहीं है।",
+        "hinglish": "Gaanv waalon ko kai jwalant muddon ki poori jaankaari nahi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "It is our duty to ___ them to know about these.",
+      "answer": "motivate",
+      "options": [
+        "motivate",
+        "appreciate",
+        "information"
+      ],
+      "meaning": {
+        "hi": "उन्हें इनके बारे में जानने के लिए प्रेरित करना हमारा कर्तव्य है।",
+        "hinglish": "Unhe inke baare mein jaanne ke liye prerit karna hamaara kartavya hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.2.S13",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "We should draw the best out of them and ___ their efforts.",
+      "answer": "appreciate",
+      "options": [
+        "appreciate",
+        "motivate",
+        "villagers"
+      ],
+      "meaning": {
+        "hi": "हमें उनकी कोशिशों की सराहना करनी चाहिए।",
+        "hinglish": "Humein unki koshishon ki saraahna karni chahiye."
+      }
+    }
+  ]
+}

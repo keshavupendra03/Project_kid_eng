@@ -1,0 +1,233 @@
+{
+  "id": "B7.05.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.05.5.S02",
+    "B7.05.5.S03",
+    "B7.05.5.S04",
+    "B7.05.5.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.05.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब कहती है: शब्दों की जोड़ियाँ बनाओ, जैसे old table, old man। सही जोड़ी चुनो।",
+        "hinglish": "Kitaab kehti hai: shabdon ki jodiyaan banao, jaise old table, old man. Sahi jodi chuno.",
+        "en": "The book says: make word pairs like old table, old man. Pick the pair that makes sense."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.5.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "sentence": "The ___ train had no empty seats.",
+      "answer": "crowded",
+      "options": [
+        "crowded",
+        "weak",
+        "torn"
+      ],
+      "meaning": {
+        "hi": "भीड़ वाली ट्रेन में कोई सीट खाली नहीं थी।",
+        "hinglish": "Bheed waali train mein koi seat khaali nahi thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.5.S03",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "sentence": "I need a new ticket. This one is ___.",
+      "answer": "torn",
+      "options": [
+        "torn",
+        "strong",
+        "crowded"
+      ],
+      "meaning": {
+        "hi": "मुझे नया टिकट चाहिए। यह फटा हुआ है।",
+        "hinglish": "Mujhe naya ticket chahiye. Yeh phata hua hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.5.S04",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "sentence": "He bought a ___ ticket.",
+      "answer": "first class",
+      "options": [
+        "first class",
+        "weak",
+        "small"
+      ],
+      "meaning": {
+        "hi": "उसने फ़र्स्ट क्लास का टिकट ख़रीदा।",
+        "hinglish": "Usne first class ka ticket khareeda."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.5.S05",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "sentence": "The ___ man could not lift the heavy box.",
+      "answer": "weak",
+      "options": [
+        "weak",
+        "first class",
+        "crowded"
+      ],
+      "meaning": {
+        "hi": "कमज़ोर आदमी भारी डिब्बा नहीं उठा सका।",
+        "hinglish": "Kamzor aadmi bhaari dibba nahi utha saka."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.05.5.S06",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "अब टिकट खिड़की पर बात करते हैं। मैं टिकट बाबू हूँ, तुम इंदौर का टिकट माँगो।",
+        "hinglish": "Ab ticket khidki par baat karte hain. Main ticket babu hoon, tum Indore ka ticket maango.",
+        "en": "Now let's talk at the ticket window. I am the ticket clerk; ask for a ticket to Indore."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.05.5.S07",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🎫",
+      "turns": [
+        {
+          "id": "hello",
+          "tinku": "Good morning! Where do you want to go?",
+          "meaning": {
+            "hi": "सुप्रभात! आपको कहाँ जाना है?",
+            "hinglish": "Suprabhaat! Aapko kahan jaana hai?"
+          },
+          "replies": [
+            {
+              "say": "I want to go to Indore.",
+              "meaning": {
+                "hi": "मुझे इंदौर जाना है।",
+                "hinglish": "Mujhe Indore jaana hai."
+              },
+              "patterns": [
+                "i want to go to *",
+                "to *",
+                "* indore",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "how",
+          "tinku": "How many tickets do you need?",
+          "meaning": {
+            "hi": "आपको कितने टिकट चाहिए?",
+            "hinglish": "Aapko kitne ticket chahiye?"
+          },
+          "replies": [
+            {
+              "say": "I need one ticket, please.",
+              "meaning": {
+                "hi": "मुझे एक टिकट चाहिए।",
+                "hinglish": "Mujhe ek ticket chahiye."
+              },
+              "patterns": [
+                "i need * ticket *",
+                "i need * tickets",
+                "one ticket *",
+                "* ticket",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "class",
+          "tinku": "Second class or A/C class?",
+          "meaning": {
+            "hi": "सेकंड क्लास या एसी क्लास?",
+            "hinglish": "Second class ya AC class?"
+          },
+          "replies": [
+            {
+              "say": "Second class, please.",
+              "meaning": {
+                "hi": "सेकंड क्लास, प्लीज़।",
+                "hinglish": "Second class, please."
+              },
+              "patterns": [
+                "second class *",
+                "second class",
+                "second"
+              ]
+            },
+            {
+              "say": "A/C class, please.",
+              "meaning": {
+                "hi": "एसी क्लास, प्लीज़।",
+                "hinglish": "AC class, please."
+              },
+              "patterns": [
+                "a c class *",
+                "ac class *",
+                "a c *",
+                "ac *",
+                "a c",
+                "ac"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pay",
+          "tinku": "Here is your ticket. Have a happy journey!",
+          "meaning": {
+            "hi": "यह रहा आपका टिकट। आपकी यात्रा शुभ हो!",
+            "hinglish": "Yeh raha aapka ticket. Aapki yaatra shubh ho!"
+          },
+          "replies": [
+            {
+              "say": "Thank you very much!",
+              "meaning": {
+                "hi": "बहुत-बहुत शुक्रिया!",
+                "hinglish": "Bahut-bahut shukriya!"
+              },
+              "patterns": [
+                "thank you *",
+                "thank you",
+                "thanks *",
+                "thanks"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

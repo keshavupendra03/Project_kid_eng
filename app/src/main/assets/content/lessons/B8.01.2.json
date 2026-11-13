@@ -1,0 +1,185 @@
+{
+  "id": "B8.01.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.01.2.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.01.2.S01",
+      "skills": [
+        "book.words"
+      ],
+      "text": {
+        "hi": "किताब की सूची में हर लाइन के शब्दों की आख़िरी आवाज़ एक जैसी है: start, heart, part। इन्हें बोलकर देखो!",
+        "hinglish": "Kitaab ki soochi mein har line ke shabdon ki aakhiri awaaz ek jaisi hai: start, heart, part. Inhe bolkar dekho!",
+        "en": "In the book's list, the words in each group end with the same sound: start, heart, part. Say them aloud!"
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.01.2.S02",
+      "skills": [
+        "book.words"
+      ],
+      "instruction": {
+        "hi": "एक जैसी आवाज़ वाले शब्द साथ रखो",
+        "hinglish": "Ek jaisi awaaz waale shabd saath rakho",
+        "en": "Put the words with the same ending sound together"
+      },
+      "groups": [
+        {
+          "id": "ing",
+          "name": "-ing",
+          "emoji": "🌱",
+          "meaning": {
+            "hi": "beginning जैसे",
+            "hinglish": "beginning jaise"
+          }
+        },
+        {
+          "id": "art",
+          "name": "-art",
+          "emoji": "❤️",
+          "meaning": {
+            "hi": "heart जैसे",
+            "hinglish": "heart jaise"
+          }
+        },
+        {
+          "id": "etter",
+          "name": "-etter",
+          "emoji": "✉️",
+          "meaning": {
+            "hi": "letter जैसे",
+            "hinglish": "letter jaise"
+          }
+        },
+        {
+          "id": "eep",
+          "name": "-eep",
+          "emoji": "🌊",
+          "meaning": {
+            "hi": "deep जैसे",
+            "hinglish": "deep jaise"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "beginning",
+          "emoji": "🌱",
+          "groups": [
+            "ing"
+          ]
+        },
+        {
+          "text": "winning",
+          "emoji": "🏆",
+          "groups": [
+            "ing"
+          ]
+        },
+        {
+          "text": "forgiving",
+          "emoji": "🤝",
+          "groups": [
+            "ing"
+          ]
+        },
+        {
+          "text": "start",
+          "emoji": "🏁",
+          "groups": [
+            "art"
+          ]
+        },
+        {
+          "text": "heart",
+          "emoji": "❤️",
+          "groups": [
+            "art"
+          ]
+        },
+        {
+          "text": "part",
+          "emoji": "🧩",
+          "groups": [
+            "art"
+          ]
+        },
+        {
+          "text": "better",
+          "emoji": "👍",
+          "groups": [
+            "etter"
+          ]
+        },
+        {
+          "text": "letter",
+          "emoji": "✉️",
+          "groups": [
+            "etter"
+          ]
+        },
+        {
+          "text": "fetter",
+          "emoji": "⛓️",
+          "groups": [
+            "etter"
+          ]
+        },
+        {
+          "text": "deep",
+          "emoji": "🌊",
+          "groups": [
+            "eep"
+          ]
+        },
+        {
+          "text": "keep",
+          "emoji": "🔑",
+          "groups": [
+            "eep"
+          ]
+        },
+        {
+          "text": "beep",
+          "emoji": "📢",
+          "groups": [
+            "eep"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B8.01.2.S03",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "heart",
+        "emoji": "",
+        "hindi": "दिल",
+        "hinglish": "dil"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.01.2.S04",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "forgiving",
+        "emoji": "",
+        "hindi": "माफ़ करने वाला",
+        "hinglish": "maaf karne waala"
+      }
+    }
+  ]
+}

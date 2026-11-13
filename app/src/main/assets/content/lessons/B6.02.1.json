@@ -1,0 +1,304 @@
+{
+  "id": "B6.02.1",
+  "level": 6,
+  "bookSteps": [
+    "B6.02.1.S04"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.02.1.S01",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "यह कविता Robert Louis Stevenson की है। एक बच्चा झूले पर ऊपर जाकर क्या-क्या देखता है, यही इसमें है। पहले मैं पढ़ूँगा, फिर तुम पढ़ना।",
+        "hinglish": "Yeh kavita Robert Louis Stevenson ki hai. Ek bachcha jhoole par upar jaakar kya-kya dekhta hai, yahi ismein hai. Pehle main padhunga, phir tum padhna.",
+        "en": "This poem is by Robert Louis Stevenson. A child goes up on a swing and tells us what he sees. I'll read first, then you read."
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "B6.02.1.S02",
+      "skills": [
+        "read.passage",
+        "speak.sentence"
+      ],
+      "title": {
+        "hi": "झूला",
+        "hinglish": "Jhoola",
+        "en": "The Swing"
+      },
+      "sentences": [
+        "How do you like to go up in a swing,",
+        "Up in the air so blue?",
+        "Oh, I do think it's the pleasantest thing",
+        "Ever a child can do!",
+        "",
+        "Up in the air and over the wall,",
+        "Till I can see so wide,",
+        "Rivers and trees and cattle and all",
+        "Over the countryside.",
+        "",
+        "Till I look down on the garden green,",
+        "Down on the roof so brown,",
+        "Up in the air I go flying again,",
+        "Up in the air and down!"
+      ],
+      "lineMeanings": [
+        {
+          "hi": "तुम्हें झूले पर ऊपर जाना कैसा लगता है,",
+          "hinglish": "Tumhe jhoole par upar jaana kaisa lagta hai,"
+        },
+        {
+          "hi": "नीले-नीले आसमान में ऊपर?",
+          "hinglish": "Neele-neele aasmaan mein upar?"
+        },
+        {
+          "hi": "मुझे तो लगता है यह सबसे मज़ेदार काम है",
+          "hinglish": "Mujhe to lagta hai yeh sabse mazedaar kaam hai"
+        },
+        {
+          "hi": "जो कोई बच्चा कर सकता है!",
+          "hinglish": "Jo koi bachcha kar sakta hai!"
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "हवा में ऊपर, दीवार के भी ऊपर,",
+          "hinglish": "Hawa mein upar, deewaar ke bhi upar,"
+        },
+        {
+          "hi": "इतना ऊपर कि मैं दूर-दूर तक देख सकूँ,",
+          "hinglish": "Itna upar ki main door-door tak dekh sakoon,"
+        },
+        {
+          "hi": "नदियाँ, पेड़, गाय-भैंस और सब कुछ",
+          "hinglish": "Nadiyaan, ped, gaay-bhains aur sab kuchh"
+        },
+        {
+          "hi": "पूरे गाँव-देहात में।",
+          "hinglish": "Poore gaanv-dehaat mein."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "फिर मैं नीचे हरे बग़ीचे को देखता हूँ,",
+          "hinglish": "Phir main neeche hare bageeche ko dekhta hoon,"
+        },
+        {
+          "hi": "नीचे भूरी-भूरी छत को,",
+          "hinglish": "Neeche bhoori-bhoori chhat ko,"
+        },
+        {
+          "hi": "फिर से मैं हवा में ऊपर उड़ जाता हूँ,",
+          "hinglish": "Phir se main hawa mein upar ud jaata hoon,"
+        },
+        {
+          "hi": "हवा में ऊपर, और फिर नीचे!",
+          "hinglish": "Hawa mein upar, aur phir neeche!"
+        }
+      ],
+      "words": [
+        {
+          "english": "pleasantest",
+          "hindi": "सबसे अच्छा, सबसे सुहाना",
+          "hinglish": "sabse achha, sabse suhaana"
+        },
+        {
+          "english": "cattle",
+          "hindi": "मवेशी (गाय-भैंस)",
+          "hinglish": "maveshi (gaay-bhains)"
+        },
+        {
+          "english": "countryside",
+          "hindi": "गाँव-देहात",
+          "hinglish": "gaon-dehaat"
+        },
+        {
+          "english": "roof",
+          "hindi": "छत",
+          "hinglish": "chhat"
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.02.1.S03",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "किताब: इन शब्दों को सुनो और ज़ोर से दोहराओ। हर लाइन के शब्द एक जैसी आवाज़ पर ख़त्म होते हैं।",
+        "hinglish": "Kitaab: in shabdon ko suno aur zor se dohraao. Har line ke shabd ek jaisi awaaz par khatm hote hain.",
+        "en": "The book: listen to these words and say them aloud. The words in each family end with the same sound."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B6.02.1.S04",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके तुकबंदी परिवार में रखो",
+        "hinglish": "Har shabd ko uske tukbandi parivaar mein rakho",
+        "en": "Put each word in its rhyming family"
+      },
+      "groups": [
+        {
+          "id": "ing",
+          "name": "-ing (swing)",
+          "emoji": "🎢",
+          "meaning": {
+            "hi": "इंग",
+            "hinglish": "ing"
+          }
+        },
+        {
+          "id": "ue",
+          "name": "-ue (blue)",
+          "emoji": "🔵",
+          "meaning": {
+            "hi": "ऊ",
+            "hinglish": "oo"
+          }
+        },
+        {
+          "id": "all",
+          "name": "-all (wall)",
+          "emoji": "🧱",
+          "meaning": {
+            "hi": "ऑल",
+            "hinglish": "all"
+          }
+        },
+        {
+          "id": "ide",
+          "name": "-ide (wide)",
+          "emoji": "↔️",
+          "meaning": {
+            "hi": "आइड",
+            "hinglish": "aaid"
+          }
+        },
+        {
+          "id": "own",
+          "name": "-own (brown)",
+          "emoji": "🟤",
+          "meaning": {
+            "hi": "आउन",
+            "hinglish": "aaun"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "bring",
+          "emoji": "🤲",
+          "groups": [
+            "ing"
+          ]
+        },
+        {
+          "text": "glue",
+          "emoji": "🧴",
+          "groups": [
+            "ue"
+          ]
+        },
+        {
+          "text": "call",
+          "emoji": "📞",
+          "groups": [
+            "all"
+          ]
+        },
+        {
+          "text": "side",
+          "emoji": "⬅️",
+          "groups": [
+            "ide"
+          ]
+        },
+        {
+          "text": "crown",
+          "emoji": "👑",
+          "groups": [
+            "own"
+          ]
+        },
+        {
+          "text": "thing",
+          "emoji": "📦",
+          "groups": [
+            "ing"
+          ]
+        },
+        {
+          "text": "clue",
+          "emoji": "🔍",
+          "groups": [
+            "ue"
+          ]
+        },
+        {
+          "text": "tall",
+          "emoji": "🦒",
+          "groups": [
+            "all"
+          ]
+        },
+        {
+          "text": "ride",
+          "emoji": "🚲",
+          "groups": [
+            "ide"
+          ]
+        },
+        {
+          "text": "down",
+          "emoji": "⬇️",
+          "groups": [
+            "own"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B6.02.1.S05",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "pleasantest",
+        "emoji": "",
+        "hindi": "सबसे सुहाना",
+        "hinglish": "sabse suhaana"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B6.02.1.S06",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "countryside",
+        "emoji": "",
+        "hindi": "गाँव-देहात",
+        "hinglish": "gaon-dehaat"
+      }
+    }
+  ]
+}

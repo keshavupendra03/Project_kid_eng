@@ -1,0 +1,198 @@
+{
+  "id": "B6.09.1",
+  "level": 6,
+  "bookSteps": [
+    "B6.09.1.S02",
+    "B6.09.1.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.09.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "यह एक नाटक है: ग़रीब मोची देनू और उसकी पत्नी धनिया के पास आख़िरी चमड़ा बचा है। रात में परियाँ आकर उनके लिए जूते बना देती हैं!",
+        "hinglish": "Yeh ek naatak hai: gareeb mochi Denu aur uski patni Dhania ke paas aakhiri chamda bacha hai. Raat mein pariyaan aakar unke liye joote bana deti hain!",
+        "en": "This is a play: a poor cobbler, Denu, and his wife Dhania have their last piece of leather. At night, fairies come and make shoes for them!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Who is a cobbler?",
+      "questionMeaning": {
+        "hi": "मोची (cobbler) कौन होता है?",
+        "hinglish": "Mochi (cobbler) kaun hota hai?"
+      },
+      "options": [
+        "a person who makes and mends shoes",
+        "a person who cuts hair",
+        "a person who makes gold ornaments"
+      ],
+      "answer": "a person who makes and mends shoes",
+      "modelAnswer": "A cobbler is a person who makes and mends shoes.",
+      "modelMeaning": {
+        "hi": "मोची वह है जो जूते बनाता और ठीक करता है।",
+        "hinglish": "Mochi woh hai jo joote banaata aur theek karta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What is a fairy?",
+      "questionMeaning": {
+        "hi": "परी क्या होती है?",
+        "hinglish": "Pari kya hoti hai?"
+      },
+      "options": [
+        "a tiny magical person in stories",
+        "a big animal",
+        "a kind of shoe"
+      ],
+      "answer": "a tiny magical person in stories",
+      "modelAnswer": "A fairy is a tiny magical person in stories, often with wings.",
+      "modelMeaning": {
+        "hi": "परी कहानियों में एक छोटी जादुई प्राणी होती है, अक्सर पंखों वाली।",
+        "hinglish": "Pari kahaaniyon mein ek chhoti jaadui praani hoti hai, aksar pankhon waali."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.09.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "leather",
+        "emoji": "",
+        "hindi": "चमड़ा",
+        "hinglish": "chamda"
+      },
+      "meaning": "the skin of animals used to make shoes and bags",
+      "example": "My father has a leather belt.",
+      "exampleMeaning": {
+        "hi": "पापा के पास चमड़े की बेल्ट है।",
+        "hinglish": "Papa ke paas chamde ki belt hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.09.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "workshop",
+        "emoji": "",
+        "hindi": "कारख़ाना, काम की जगह",
+        "hinglish": "kaarkhaana, kaam ki jagah"
+      },
+      "meaning": "a room where things are made or mended",
+      "example": "The carpenter works in his workshop.",
+      "exampleMeaning": {
+        "hi": "बढ़ई अपनी काम की जगह पर काम करता है।",
+        "hinglish": "Badhai apni kaam ki jagah par kaam karta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.09.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "needy",
+        "emoji": "",
+        "hindi": "ज़रूरतमंद",
+        "hinglish": "zaroorat-mand"
+      },
+      "meaning": "poor; needing help",
+      "example": "We should help the needy.",
+      "exampleMeaning": {
+        "hi": "हमें ज़रूरतमंदों की मदद करनी चाहिए।",
+        "hinglish": "Humein zaroorat-mandon ki madad karni chahiye."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.09.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "greedy",
+        "emoji": "",
+        "hindi": "लालची",
+        "hinglish": "laalchi"
+      },
+      "meaning": "wanting more than you need",
+      "example": "The greedy dog lost its bone.",
+      "exampleMeaning": {
+        "hi": "लालची कुत्ते ने अपनी हड्डी खो दी।",
+        "hinglish": "Laalchi kutte ne apni haddi kho di."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.09.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "sew",
+        "emoji": "",
+        "hindi": "सिलना",
+        "hinglish": "silna"
+      },
+      "meaning": "to join cloth or leather with a needle and thread (says ‘so’)",
+      "example": "Mother can sew clothes.",
+      "exampleMeaning": {
+        "hi": "माँ कपड़े सिल सकती हैं।",
+        "hinglish": "Maa kapde sil sakti hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.09.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब का नोट: sew को ‘सो’ बोलते हैं। तीन रूप: sew (सो), sewed (सोड), sewn (सोन)।",
+        "hinglish": "Kitaab ka note: sew ko ‘so’ bolte hain. Teen roop: sew (so), sewed (sod), sewn (son).",
+        "en": "A note from the book: ‘sew’ sounds like ‘so’. Its three forms: sew, sewed, sewn."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B6.09.1.S10",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "sew",
+        "emoji": "",
+        "hindi": "सिलना",
+        "hinglish": "silna"
+      }
+    }
+  ]
+}

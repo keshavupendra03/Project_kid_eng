@@ -1,0 +1,146 @@
+{
+  "grade": 6, "number": 11, "emoji": "🌙", "title": "A Moonbeam Comes", "pages": "65–68",
+  "sections": [
+    {
+      "emoji": "🎵", "title": ["सुनो और दोहराओ", "Suno aur dohraao", "Listen and Repeat"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["यह कविता Ruskin Bond की है: रात में चाँद की एक किरण (moonbeam) खिड़की से आती है और तुम्हें सपनों की दुनिया में ले जाती है। कविता अपनी किताब के पेज 65 पर पढ़ो।", "Yeh kavita Ruskin Bond ki hai: raat mein chaand ki ek kiran (moonbeam) khidki se aati hai aur tumhe sapnon ki duniya mein le jaati hai. Kavita apni kitaab ke page 65 par padho.", "This poem is by Ruskin Bond: at night a moonbeam comes through the window and takes you to the land of dreams. Read the poem on page 65 of your book."]},
+        {"word": ["moonbeam", "चाँद की किरण", "chaand ki kiran", "a ray of light from the moon", "A moonbeam came through the window.", "चाँद की एक किरण खिड़की से अंदर आई।", "Chaand ki ek kiran khidki se andar aayi."]},
+        {"word": ["sill", "खिड़की की चौखट", "khidki ki chaukhat", "the flat shelf at the bottom of a window", "The cat sat on the window sill.", "बिल्ली खिड़की की चौखट पर बैठी।", "Billi khidki ki chaukhat par baithi."]},
+        {"word": ["clasped", "कसकर पकड़ा हुआ", "kaskar pakda hua", "held tightly", "She clasped her mother's hand.", "उसने माँ का हाथ कसकर पकड़ा।", "Usne maa ka haath kaskar pakda."]},
+        {"word": ["tip-toe", "पंजों के बल, धीरे से", "panjon ke bal, dheere se", "walking quietly on the front of your feet", "He came in on tip-toe.", "वह पंजों के बल धीरे से अंदर आया।", "Woh panjon ke bal dheere se andar aaya."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर शब्द को उसके तुकबंदी परिवार में रखो", "Har shabd ko uske tukbandi parivaar mein rakho", "Put each word in its rhyming family"],
+          "groups": [
+            {"id": "ight", "name": "-ight (night)", "emoji": "🌃", "meaning": ["आइट", "aait"]},
+            {"id": "ill", "name": "-ill (sill)", "emoji": "🖼️", "meaning": ["इल", "il"]},
+            {"id": "eep", "name": "-eep (sleep)", "emoji": "😴", "meaning": ["ईप", "eep"]},
+            {"id": "old", "name": "-old (gold)", "emoji": "🥇", "meaning": ["ओल्ड", "old"]}
+          ],
+          "items": [
+            {"text": "fight", "emoji": "🥊", "groups": ["ight"]},
+            {"text": "bill", "emoji": "🧾", "groups": ["ill"]},
+            {"text": "deep", "emoji": "🌊", "groups": ["eep"]},
+            {"text": "hold", "emoji": "✋", "groups": ["old"]},
+            {"text": "right", "emoji": "✅", "groups": ["ight"]},
+            {"text": "hill", "emoji": "⛰️", "groups": ["ill"]},
+            {"text": "keep", "emoji": "📦", "groups": ["eep"]},
+            {"text": "bold", "emoji": "💪", "groups": ["old"]}
+          ]},
+        {"book": true, "q": ["Which word from the poem rhymes with ‘still’?", "कविता का कौन सा शब्द ‘still’ से तुक मिलाता है?", "Kavita ka kaun sa shabd ‘still’ se tuk milaata hai?", ["sill", "sleep", "feet"], "sill"]},
+        {"book": true, "q": ["Which word from the poem rhymes with ‘sand’?", "कविता का कौन सा शब्द ‘sand’ से तुक मिलाता है?", "Kavita ka kaun sa shabd ‘sand’ se tuk milaata hai?", ["hand", "gold", "bed"], "hand"]},
+        {"book": true, "q": ["Which word from the poem rhymes with ‘beams’?", "कविता का कौन सा शब्द ‘beams’ से तुक मिलाता है?", "Kavita ka kaun sa shabd ‘beams’ se tuk milaata hai?", ["dreams", "eyes", "night"], "dreams"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Reading Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"book": true, "tf": ["The moonbeam climbs a tree.", "चाँद की किरण पेड़ पर चढ़ती है।", "Chaand ki kiran ped par chadhti hai.", false, "False. It climbs the window's sill.", "गलत। वह खिड़की की चौखट पर चढ़ती है।", "Galat. Woh khidki ki chaukhat par chadhti hai."]},
+        {"book": true, "tf": ["It wants to see if you are in your bed.", "वह देखना चाहती है कि तुम बिस्तर पर हो या नहीं।", "Woh dekhna chahti hai ki tum bistar par ho ya nahi.", false, "False. It sees if sleep has closed your eyes.", "गलत। वह देखती है कि नींद ने तुम्हारी आँखें बंद कीं या नहीं।", "Galat. Woh dekhti hai ki neend ne tumhari aankhein band kin ya nahi."]},
+        {"book": true, "tf": ["It has a pinch of salt in its hands.", "उसके हाथ में चुटकी भर नमक है।", "Uske haath mein chutki bhar namak hai.", false, "False. It has a pinch of gold and some fairy sand.", "गलत। उसके हाथ में चुटकी भर सोना और परियों की रेत है।", "Galat. Uske haath mein chutki bhar sona aur pariyon ki ret hai."]},
+        {"book": true, "tf": ["It has a lot of money for you.", "उसके पास तुम्हारे लिए बहुत पैसे हैं।", "Uske paas tumhare liye bahut paise hain.", false]},
+        {"book": true, "tf": ["It wants to take you to the land of dreams.", "वह तुम्हें सपनों की दुनिया में ले जाना चाहती है।", "Woh tumhe sapnon ki duniya mein le jaana chahti hai.", true]},
+        {"book": true, "tf": ["It touches your eyes with magic.", "वह जादू से तुम्हारी आँखें छूती है।", "Woh jaadoo se tumhari aankhein chhooti hai.", true, "True. It touches your eyes with golden beams.", "सही। वह सुनहरी किरणों से तुम्हारी आँखें छूती है।", "Sahi. Woh sunahri kirnon se tumhari aankhein chhooti hai."]},
+        {"book": true, "q": ["What does the moonbeam see?", "चाँद की किरण क्या देखती है?", "Chaand ki kiran kya dekhti hai?", ["if sleep has closed your eyes", "your books", "the trees"], "if sleep has closed your eyes", "The moonbeam sees if sleep has closed your eyes.", "चाँद की किरण देखती है कि नींद ने तुम्हारी आँखें बंद कीं या नहीं।", "Chaand ki kiran dekhti hai ki neend ne tumhari aankhein band kin ya nahi."]},
+        {"book": true, "q": ["When does the moonbeam come over your bed?", "चाँद की किरण तुम्हारे बिस्तर पर कब आती है?", "Chaand ki kiran tumhare bistar par kab aati hai?", ["deep in the night, when all is still", "in the afternoon", "early in the morning"], "deep in the night, when all is still", "The moonbeam comes deep in the night, when all is still.", "चाँद की किरण गहरी रात में आती है, जब सब शांत होता है।", "Chaand ki kiran gehri raat mein aati hai, jab sab shaant hota hai."]},
+        {"book": true, "q": ["How does the moonbeam come?", "चाँद की किरण कैसे आती है?", "Chaand ki kiran kaise aati hai?", ["tip-toe on gentle feet", "running and shouting", "with a loud bang"], "tip-toe on gentle feet", "The moonbeam climbs the window sill and comes tip-toe on gentle feet.", "चाँद की किरण खिड़की से चढ़कर धीरे-धीरे पंजों के बल आती है।", "Chaand ki kiran khidki se chadhkar dheere-dheere panjon ke bal aati hai."]},
+        {"book": true, "q": ["What does the moonbeam have in its hand?", "चाँद की किरण के हाथ में क्या है?", "Chaand ki kiran ke haath mein kya hai?", ["a pinch of gold and some fairy sand", "a book", "a candle"], "a pinch of gold and some fairy sand", "The moonbeam has a pinch of gold and some fairy sand in its hand.", "चाँद की किरण के हाथ में चुटकी भर सोना और परियों की रेत है।", "Chaand ki kiran ke haath mein chutki bhar sona aur pariyon ki ret hai."]},
+        {"book": true, "q": ["Where does the moonbeam take you?", "चाँद की किरण तुम्हें कहाँ ले जाती है?", "Chaand ki kiran tumhe kahan le jaati hai?", ["to the land of dreams", "to school", "to the market"], "to the land of dreams", "The moonbeam takes you to the land of dreams.", "चाँद की किरण तुम्हें सपनों की दुनिया में ले जाती है।", "Chaand ki kiran tumhe sapnon ki duniya mein le jaati hai."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: मेले की ख़रीदारी", "Chalo baat karein: mele ki khareedaari", "Let's Talk: shopping at the fair"], "book": true,
+      "skills": ["book.talk", "vocab.meaning"],
+      "steps": [
+        {"card": ["किताब: मेले में तुमने और दोस्तों ने क्या ख़रीदा? चीज़ों को उनके समूह में रखो: clothes, toys, sweets, books, utensils (बर्तन)।", "Kitaab: mele mein tumne aur doston ne kya khareeda? Cheezon ko unke samooh mein rakho: clothes, toys, sweets, books, utensils (bartan).", "The book: what did you and your friends buy at the fair? Put the things in groups: clothes, toys, sweets, books, utensils."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर चीज़ को सही समूह में रखो", "Har cheez ko sahi samooh mein rakho", "Put each thing in its group"],
+          "groups": [
+            {"id": "clothes", "name": "clothes", "emoji": "👕", "meaning": ["कपड़े", "kapde"]},
+            {"id": "toys", "name": "toys", "emoji": "🧸", "meaning": ["खिलौने", "khilaune"]},
+            {"id": "sweets", "name": "sweets", "emoji": "🍬", "meaning": ["मिठाइयाँ", "mithaaiyaan"]},
+            {"id": "books", "name": "books", "emoji": "📚", "meaning": ["किताबें", "kitaabein"]},
+            {"id": "utensils", "name": "utensils", "emoji": "🍽️", "meaning": ["बर्तन", "bartan"]}
+          ],
+          "items": [
+            {"text": "sweater", "emoji": "🧶", "groups": ["clothes"]},
+            {"text": "doll", "emoji": "🎎", "groups": ["toys"]},
+            {"text": "laddoo", "emoji": "🟠", "groups": ["sweets"]},
+            {"text": "storybook", "emoji": "📖", "groups": ["books"]},
+            {"text": "plates", "emoji": "🍽️", "groups": ["utensils"]},
+            {"text": "shirt", "emoji": "👔", "groups": ["clothes"]},
+            {"text": "toy aeroplane", "emoji": "✈️", "groups": ["toys"]},
+            {"text": "jalebi", "emoji": "🍥", "groups": ["sweets"]},
+            {"text": "colouring book", "emoji": "🖍️", "groups": ["books"]},
+            {"text": "cups", "emoji": "☕", "groups": ["utensils"]}
+          ]},
+        {"book": true, "type": "roleplay", "scene": "🎪", "turns": [
+          {"id": "buy", "tinku": "What did you buy at the fair?", "meaning": ["तुमने मेले में क्या ख़रीदा?", "Tumne mele mein kya khareeda?"],
+            "replies": [{"say": "I bought a doll and some barfi.", "meaning": ["मैंने एक गुड़िया और कुछ बर्फ़ी ख़रीदी।", "Maine ek gudiya aur kuch barfi khareedi."], "patterns": ["i bought *", "*", "* *", "* * *"]}]},
+          {"id": "friend", "tinku": "And what did your friend buy?", "meaning": ["और तुम्हारे दोस्त ने क्या ख़रीदा?", "Aur tumhare dost ne kya khareeda?"],
+            "replies": [{"say": "My friend bought a bat and a storybook.", "meaning": ["मेरे दोस्त ने एक बल्ला और कहानी की किताब ख़रीदी।", "Mere dost ne ek balla aur kahani ki kitaab khareedi."], "patterns": ["my friend bought *", "he bought *", "she bought *", "*", "* *", "* * *"], "next": "end"}]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: तस्वीर के बारे में", "Chalo likhein: tasveer ke baare mein", "Let's Write: about the picture"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: तस्वीर देखकर पाँच वाक्य लिखो। तस्वीर में रात है और एक बच्चा सो रहा है।", "Kitaab: tasveer dekhkar paanch vaakya likho. Tasveer mein raat hai aur ek bachcha so raha hai.", "The book: look at the picture and write five sentences. It is night and a child is sleeping."]},
+        {"book": true, "build": ["रात है और चाँद चमक रहा है।", "Raat hai aur chaand chamak raha hai.", "Say it is night and the moon is shining.", "It is night and the moon is shining.", "रात है और चाँद चमक रहा है।", "Raat hai aur chaand chamak raha hai."]},
+        {"book": true, "build": ["एक बच्चा अपने बिस्तर पर सो रहा है।", "Ek bachcha apne bistar par so raha hai.", "Say a child is sleeping in bed.", "A child is sleeping in his bed.", "एक बच्चा अपने बिस्तर पर सो रहा है।", "Ek bachcha apne bistar par so raha hai."]},
+        {"book": true, "build": ["चाँदनी खिड़की से अंदर आ रही है।", "Chaandni khidki se andar aa rahi hai.", "Say moonlight comes in through the window.", "Moonlight is coming in through the window.", "चाँदनी खिड़की से अंदर आ रही है।", "Chaandni khidki se andar aa rahi hai."]},
+        {"book": true, "build": ["बच्चा एक सुंदर सपना देख रहा है।", "Bachcha ek sundar sapna dekh raha hai.", "Say the child is having a sweet dream.", "The child is having a sweet dream.", "बच्चा एक सुंदर सपना देख रहा है।", "Bachcha ek sundar sapna dekh raha hai."]}
+      ]
+    },
+    {
+      "emoji": "🪐", "title": ["चलो करके देखें: ग्रहों के नाम", "Chalo karke dekhein: grahon ke naam", "Let's Do It: names of the planets"], "book": true,
+      "skills": ["book.activity", "vocab.nature"],
+      "steps": [
+        {"card": ["किताब में नौ ग्रहों के नाम हैं: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto। ध्यान दो: 2006 में वैज्ञानिकों ने Pluto को ‘बौना ग्रह’ (dwarf planet) कहना शुरू किया। अब सौर मंडल में आठ ग्रह माने जाते हैं।", "Kitaab mein nau grahon ke naam hain: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto. Dhyaan do: 2006 mein vaigyaanikon ne Pluto ko ‘bauna grah’ (dwarf planet) kehna shuru kiya. Ab saur mandal mein aath grah maane jaate hain.", "The book lists nine planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto. Note: in 2006 scientists started calling Pluto a ‘dwarf planet’. Now the solar system is said to have eight planets."]},
+        {"book": true, "q": ["M____ is the planet closest to the sun.", "सूरज के सबसे पास वाला ग्रह", "Sooraj ke sabse paas waala grah", ["Mercury", "Mars", "Moon"], "Mercury"]},
+        {"book": true, "q": ["E____ is the planet we live on.", "जिस ग्रह पर हम रहते हैं", "Jis grah par hum rehte hain", ["Earth", "Venus", "Saturn"], "Earth"]},
+        {"book": true, "q": ["M____ is called the Red Planet.", "लाल ग्रह", "Laal grah", ["Mars", "Mercury", "Jupiter"], "Mars"]},
+        {"book": true, "q": ["J____ is the biggest planet.", "सबसे बड़ा ग्रह", "Sabse bada grah", ["Jupiter", "Saturn", "Neptune"], "Jupiter"]},
+        {"book": true, "q": ["S____ is the planet with beautiful rings.", "सुंदर छल्लों वाला ग्रह", "Sundar chhallon waala grah", ["Saturn", "Uranus", "Venus"], "Saturn"]},
+        {"book": true, "pairs": ["ग्रहों के इंग्लिश और हिंदी नाम जोड़ो", "Grahon ke English aur Hindi naam jodo", "Join the English and Hindi names of the planets", [
+          ["Venus", "शुक्र", "शुक्र", "Shukra"],
+          ["Uranus", "अरुण", "अरुण", "Arun"],
+          ["Neptune", "वरुण", "वरुण", "Varun"],
+          ["Mercury", "बुध", "बुध", "Budh"],
+          ["Jupiter", "बृहस्पति", "बृहस्पति", "Brihaspati"]]]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: चाँद", "Aur seekho: chaand", "Learn more: the moon"], "book": false,
+      "skills": ["vocab.nature"],
+      "steps": [
+        {"pairs": ["चाँद के शब्द जोड़ो", "Chaand ke shabd jodo", "Join the moon words", [
+          ["full moon", "the moon as a full round circle", "पूर्णिमा का चाँद", "poornima ka chaand"],
+          ["new moon", "when we cannot see the moon", "अमावस", "amaavas"],
+          ["moonlight", "the light from the moon", "चाँदनी", "chaandni"],
+          ["crescent", "the thin curved moon", "आधा-अधूरा (हँसिए जैसा) चाँद", "aadha-adhoora (hansiye jaisa) chaand"]]]},
+        {"q": ["The moon gets its light from ...", "चाँद को रोशनी कहाँ से मिलती है?", "Chaand ko roshni kahan se milti hai?", ["the sun", "itself", "the stars"], "the sun", "The moon has no light of its own. It shines with light from the sun.", "चाँद की अपनी रोशनी नहीं होती। वह सूरज की रोशनी से चमकता है।", "Chaand ki apni roshni nahi hoti. Woh sooraj ki roshni se chamakta hai."]},
+        {"fb": ["Good night! Sweet ___!", "dreams", ["dreams", "beams", "hands"], "शुभ रात्रि! मीठे सपने!", "Shubh raatri! Meethe sapne!"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 11 का टेस्ट", "Paath 11 ka test", "Lesson 11 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Where does the moonbeam take you?", "चाँद की किरण कहाँ ले जाती है?", "Chaand ki kiran kahan le jaati hai?", ["to the land of dreams", "to school", "to the market"], "to the land of dreams"]},
+        {"book": true, "q": ["What does the moonbeam have in its hand?", "चाँद की किरण के हाथ में क्या है?", "Chaand ki kiran ke haath mein kya hai?", ["a pinch of gold and some fairy sand", "a book", "a candle"], "a pinch of gold and some fairy sand"]},
+        {"book": true, "tf": ["The moonbeam climbs a tree.", "चाँद की किरण पेड़ पर चढ़ती है।", "Chaand ki kiran ped par chadhti hai.", false]},
+        {"book": true, "tf": ["It wants to take you to the land of dreams.", "वह तुम्हें सपनों की दुनिया में ले जाना चाहती है।", "Woh tumhe sapnon ki duniya mein le jaana chahti hai.", true]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘sleep’?", "‘sleep’ से तुक?", "‘sleep’ se tuk?", ["keep", "sill", "gold"], "keep"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘beams’?", "‘beams’ से तुक?", "‘beams’ se tuk?", ["dreams", "eyes", "night"], "dreams"]},
+        {"book": true, "skills": ["book.talk"], "q": ["Which one is a utensil?", "कौन सा बर्तन है?", "Kaun sa bartan hai?", ["cup", "doll", "sweater"], "cup"]},
+        {"book": true, "skills": ["book.activity"], "q": ["Which planet do we live on?", "हम किस ग्रह पर रहते हैं?", "Hum kis grah par rehte hain?", ["Earth", "Mars", "Venus"], "Earth"]},
+        {"book": true, "skills": ["book.activity"], "q": ["Which is the biggest planet?", "सबसे बड़ा ग्रह?", "Sabse bada grah?", ["Jupiter", "Mercury", "Earth"], "Jupiter"]},
+        {"book": true, "skills": ["book.writing"], "q": ["‘A moonbeam’ means ...", "‘moonbeam’ का मतलब?", "‘moonbeam’ ka matlab?", ["a ray of light from the moon", "a kind of bean", "a dream"], "a ray of light from the moon"]}
+      ]
+    }
+  ]
+}

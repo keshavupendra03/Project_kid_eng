@@ -1,0 +1,168 @@
+{
+  "id": "B6.01.1",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.01.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "यह पाठ गाँव के पचास साल पुराने बरगद के पेड़ के बारे में है, और बताता है कि पेड़ कितने काम के हैं। पहले नए शब्द सीखो।",
+        "hinglish": "Yeh paath gaon ke pachaas saal puraane bargad ke ped ke baare mein hai, aur bataata hai ki ped kitne kaam ke hain. Pehle naye shabd seekho.",
+        "en": "This lesson is about a fifty-year-old banyan tree in a village, and how useful trees are. First, learn the new words."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.01.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "banyan",
+        "emoji": "",
+        "hindi": "बरगद",
+        "hinglish": "bargad"
+      },
+      "meaning": "a big tree with roots that hang down from its branches",
+      "example": "The banyan tree gives cool shade.",
+      "exampleMeaning": {
+        "hi": "बरगद का पेड़ ठंडी छाँव देता है।",
+        "hinglish": "Bargad ka ped thandi chhaanv deta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.01.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "seed",
+        "emoji": "",
+        "hindi": "बीज",
+        "hinglish": "beej"
+      },
+      "meaning": "a small thing from which a new plant grows",
+      "example": "A big tree grows from a small seed.",
+      "exampleMeaning": {
+        "hi": "छोटे से बीज से बड़ा पेड़ उगता है।",
+        "hinglish": "Chhote se beej se bada ped ugta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.01.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "soil",
+        "emoji": "",
+        "hindi": "मिट्टी",
+        "hinglish": "mitti"
+      },
+      "meaning": "the top layer of the ground where plants grow",
+      "example": "Plants grow in the soil.",
+      "exampleMeaning": {
+        "hi": "पौधे मिट्टी में उगते हैं।",
+        "hinglish": "Paudhe mitti mein ugte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.01.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "shade",
+        "emoji": "",
+        "hindi": "छाँव",
+        "hinglish": "chhaanv"
+      },
+      "meaning": "a cool place out of the sun",
+      "example": "We sat in the shade of the tree.",
+      "exampleMeaning": {
+        "hi": "हम पेड़ की छाँव में बैठे।",
+        "hinglish": "Hum ped ki chhaanv mein baithe."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.01.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "branch",
+        "emoji": "",
+        "hindi": "डाली",
+        "hinglish": "daali"
+      },
+      "meaning": "a part of a tree that grows out of the trunk",
+      "example": "A bird sat on the branch.",
+      "exampleMeaning": {
+        "hi": "एक चिड़िया डाली पर बैठी।",
+        "hinglish": "Ek chidiya daali par baithi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.01.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.nature"
+      ],
+      "word": {
+        "english": "passer-by",
+        "emoji": "",
+        "hindi": "राहगीर",
+        "hinglish": "raahgeer"
+      },
+      "meaning": "a person walking past a place",
+      "example": "A passer-by asked me the way.",
+      "exampleMeaning": {
+        "hi": "एक राहगीर ने मुझसे रास्ता पूछा।",
+        "hinglish": "Ek raahgeer ne mujhse raasta poochha."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B6.01.1.S08",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "banyan",
+        "emoji": "",
+        "hindi": "बरगद",
+        "hinglish": "bargad"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B6.01.1.S09",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "branches",
+        "emoji": "",
+        "hindi": "डालियाँ",
+        "hinglish": "daaliyaan"
+      }
+    }
+  ]
+}

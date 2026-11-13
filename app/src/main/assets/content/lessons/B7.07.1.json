@@ -1,0 +1,295 @@
+{
+  "id": "B7.07.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.07.1.S02",
+    "B7.07.1.S03",
+    "B7.07.1.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.07.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "इस पाठ में एक बूढ़ा आदमी सिर्फ़ पैरों के निशान देखकर खोए हुए ऊँट के बारे में सब बता देता है! पहले किताब का सवाल: क्या तुम पैरों के निशान पहचान सकते हो?",
+        "hinglish": "Is paath mein ek boodha aadmi sirf pairon ke nishaan dekhkar khoye hue oont ke baare mein sab bata deta hai! Pehle kitaab ka sawaal: kya tum pairon ke nishaan pehchaan sakte ho?",
+        "en": "In this lesson an old man tells everything about a lost camel just by looking at footprints! First the book's question: can you recognise the footprints of an animal?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Whose footprints are big and round, like a plate?",
+      "questionMeaning": {
+        "hi": "किसके पैरों के निशान थाली जैसे बड़े और गोल होते हैं?",
+        "hinglish": "Kiske pairon ke nishaan thaali jaise bade aur gol hote hain?"
+      },
+      "options": [
+        "elephant",
+        "duck",
+        "man"
+      ],
+      "answer": "elephant",
+      "emojis": [
+        "🐘",
+        "🦆",
+        "🧍"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Whose footprints look like a fan with three toes joined by skin?",
+      "questionMeaning": {
+        "hi": "किसके पैरों के निशान पंखे जैसे, तीन उँगलियों वाले होते हैं?",
+        "hinglish": "Kiske pairon ke nishaan pankhe jaise, teen ungliyon waale hote hain?"
+      },
+      "options": [
+        "duck",
+        "lion",
+        "camel"
+      ],
+      "answer": "duck",
+      "emojis": [
+        "🦆",
+        "🦁",
+        "🐪"
+      ]
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.07.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "merchant",
+        "emoji": "",
+        "hindi": "व्यापारी",
+        "hinglish": "vyaapaari"
+      },
+      "meaning": "a person who buys and sells goods",
+      "example": "The merchant sold cloth in the market.",
+      "exampleMeaning": {
+        "hi": "व्यापारी बाज़ार में कपड़ा बेचता था।",
+        "hinglish": "Vyaapaari baazaar mein kapda bechta tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.07.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "desert",
+        "emoji": "",
+        "hindi": "रेगिस्तान",
+        "hinglish": "registaan"
+      },
+      "meaning": "a dry place with sand and very little rain",
+      "example": "Camels live in the desert.",
+      "exampleMeaning": {
+        "hi": "ऊँट रेगिस्तान में रहते हैं।",
+        "hinglish": "Oont registaan mein rehte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.07.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "footprints",
+        "emoji": "",
+        "hindi": "पैरों के निशान",
+        "hinglish": "pairon ke nishaan"
+      },
+      "meaning": "marks left by feet or shoes",
+      "example": "We saw footprints on the wet sand.",
+      "exampleMeaning": {
+        "hi": "हमने गीली रेत पर पैरों के निशान देखे।",
+        "hinglish": "Humne geeli ret par pairon ke nishaan dekhe."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.07.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "lame",
+        "emoji": "",
+        "hindi": "लंगड़ा",
+        "hinglish": "langda"
+      },
+      "meaning": "not able to walk well because of a bad leg",
+      "example": "The old horse was lame.",
+      "exampleMeaning": {
+        "hi": "बूढ़ा घोड़ा लंगड़ा था।",
+        "hinglish": "Boodha ghoda langda tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.07.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "calmly",
+        "emoji": "",
+        "hindi": "शांति से",
+        "hinglish": "shaanti se"
+      },
+      "meaning": "without getting angry or excited",
+      "example": "She answered calmly.",
+      "exampleMeaning": {
+        "hi": "उसने शांति से जवाब दिया।",
+        "hinglish": "Usne shaanti se jawab diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.07.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "dragged",
+        "emoji": "",
+        "hindi": "घसीटा",
+        "hinglish": "ghaseeta"
+      },
+      "meaning": "pulled someone or something along with force",
+      "example": "The dog dragged the stick.",
+      "exampleMeaning": {
+        "hi": "कुत्ते ने लकड़ी को घसीटा।",
+        "hinglish": "Kutte ne lakdi ko ghaseeta."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.07.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "perhaps",
+        "emoji": "",
+        "hindi": "शायद",
+        "hinglish": "shaayad"
+      },
+      "meaning": "maybe",
+      "example": "Perhaps it will rain today.",
+      "exampleMeaning": {
+        "hi": "शायद आज बारिश होगी।",
+        "hinglish": "Shaayad aaj baarish hogi."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.07.1.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "किताब के मुहावरों को उनके मतलब से जोड़ो",
+        "hinglish": "Kitaab ke muhaavron ko unke matlab se jodo",
+        "en": "Join the book's phrases to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "a lame excuse",
+          "right": "a weak reason that nobody believes",
+          "meaning": {
+            "hi": "कमज़ोर बहाना",
+            "hinglish": "kamzor bahaana"
+          }
+        },
+        {
+          "left": "foolproof",
+          "right": "so good that it cannot fail",
+          "meaning": {
+            "hi": "पक्का, जो फ़ेल न हो",
+            "hinglish": "pakka, jo fail na ho"
+          }
+        },
+        {
+          "left": "to turn a blind eye",
+          "right": "to pretend not to see",
+          "meaning": {
+            "hi": "अनदेखा करना",
+            "hinglish": "andekha karna"
+          }
+        },
+        {
+          "left": "to work hard",
+          "right": "to put in a lot of effort",
+          "meaning": {
+            "hi": "मेहनत करना",
+            "hinglish": "mehnat karna"
+          }
+        },
+        {
+          "left": "the ship of the desert",
+          "right": "the camel",
+          "meaning": {
+            "hi": "ऊँट",
+            "hinglish": "oont"
+          }
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B7.07.1.S12",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "merchant",
+        "emoji": "",
+        "hindi": "व्यापारी",
+        "hinglish": "vyaapaari"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.07.1.S13",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "footprints",
+        "emoji": "",
+        "hindi": "पैरों के निशान",
+        "hinglish": "pairon ke nishaan"
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "B8.04.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.6.S02",
+    "B8.04.6.S03",
+    "B8.04.6.S04",
+    "B8.04.6.S05",
+    "B8.04.6.S06",
+    "B8.04.6.S07",
+    "B8.04.6.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.6.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.he_she_it"
+      ],
+      "text": {
+        "hi": "संज्ञा की जगह आने वाले शब्द सर्वनाम हैं: he, she, it, they, I, you, we, them। Reena → she, Mother and father → they।",
+        "hinglish": "Sangya ki jagah aane waale shabd sarvanaam hain: he, she, it, they, I, you, we, them. Reena → she, Mother and father → they.",
+        "en": "Words that replace nouns are pronouns: he, she, it, they, I, you, we, them. Reena → she, Mother and father → they."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.6.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.he_she_it"
+      ],
+      "sentence": "Leena always enjoyed it because ___ was allowed to spend most of the day at the mango grove.",
+      "answer": "she",
+      "options": [
+        "she",
+        "he",
+        "they"
+      ],
+      "meaning": {
+        "hi": "लीना को मज़ा आता था क्योंकि उसे दिन भर आम के बाग़ में रहने दिया जाता था।",
+        "hinglish": "Leena ko maza aata tha kyonki use din bhar aam ke baag mein rehne diya jaata tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.6.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.he_she_it"
+      ],
+      "sentence": "Her uncle was a friend of the man who owned the grove and ___ always gave mangoes at a special rate.",
+      "answer": "he",
+      "options": [
+        "he",
+        "she",
+        "it"
+      ],
+      "meaning": {
+        "hi": "उसके चाचा बाग़ के मालिक के दोस्त थे और वह हमेशा ख़ास दाम पर आम देता था।",
+        "hinglish": "Uske chaacha baag ke maalik ke dost the aur woh hamesha khaas daam par aam deta tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.6.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.he_she_it"
+      ],
+      "sentence": "This year ___ aunt joined her.",
+      "answer": "her",
+      "options": [
+        "her",
+        "she",
+        "his"
+      ],
+      "meaning": {
+        "hi": "इस साल उसकी चाची भी उसके साथ आईं।",
+        "hinglish": "Is saal uski chaachi bhi uske saath aayin."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.6.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.he_she_it"
+      ],
+      "sentence": "This year her aunt joined ___, and together they set off.",
+      "answer": "her",
+      "options": [
+        "her",
+        "she",
+        "it"
+      ],
+      "meaning": {
+        "hi": "इस साल उसकी चाची उसके साथ आईं और दोनों चल पड़ीं।",
+        "hinglish": "Is saal uski chaachi uske saath aayin aur dono chal padin."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.6.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.he_she_it"
+      ],
+      "sentence": "The branches were so bowed down with the weight that ___ almost touched the ground.",
+      "answer": "they",
+      "options": [
+        "they",
+        "it",
+        "she"
+      ],
+      "meaning": {
+        "hi": "डालियाँ बोझ से इतनी झुकी थीं कि लगभग ज़मीन छू रही थीं।",
+        "hinglish": "Daaliyaan bojh se itni jhuki thin ki lagbhag zameen chhoo rahi thin."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.6.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.he_she_it"
+      ],
+      "sentence": "___ spent hours picking the fruit.",
+      "answer": "They",
+      "options": [
+        "They",
+        "It",
+        "He"
+      ],
+      "meaning": {
+        "hi": "उन्होंने घंटों फल तोड़े।",
+        "hinglish": "Unhone ghanton phal tode."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.6.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.he_she_it"
+      ],
+      "sentence": "They spent hours picking the fruit, eating most of ___.",
+      "answer": "it",
+      "options": [
+        "it",
+        "them",
+        "her"
+      ],
+      "meaning": {
+        "hi": "उन्होंने घंटों फल तोड़े और ज़्यादातर खा गईं।",
+        "hinglish": "Unhone ghanton phal tode aur zyaadatar kha gayin."
+      }
+    }
+  ]
+}

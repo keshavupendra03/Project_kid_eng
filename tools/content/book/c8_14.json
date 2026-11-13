@@ -1,0 +1,153 @@
+{
+  "grade": 8, "number": 14, "emoji": "🇮🇳", "title": "Azad : The Martyr", "pages": "126–134",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["चंद्रशेखर आज़ाद का जन्म हमारे मध्य प्रदेश के झाबुआ ज़िले के भाबरा गाँव में हुआ था। उन्होंने क़सम खाई थी कि अंग्रेज़ उन्हें कभी ज़िंदा नहीं पकड़ पाएँगे, और उन्होंने यह क़सम निभाई।", "Chandrashekhar Azad ka janm hamaare Madhya Pradesh ke Jhabua zile ke Bhabra gaanv mein hua tha. Unhone kasam khaayi thi ki angrez unhe kabhi zinda nahi pakad paayenge, aur unhone yeh kasam nibhaayi.", "Chandra Shekhar Azad was born in Bhabra village in Jhabua district of our Madhya Pradesh. He pledged that the British would never catch him alive, and he kept that pledge."]},
+        {"book": true, "q": ["Name any freedom fighter from Madhya Pradesh.", "म.प्र. का कोई स्वतंत्रता सेनानी", "M.P. ka koi swatantrata senaani", ["Chandra Shekhar Azad", "Subhas Chandra Bose", "Bhagat Singh"], "Chandra Shekhar Azad", "Chandra Shekhar Azad (born in Bhabra, Jhabua) and Rani Avantibai Lodhi of Ramgarh are freedom fighters from Madhya Pradesh. Tantya Bhil of Nimar also fought the British.", "चंद्रशेखर आज़ाद (भाबरा, झाबुआ) और रामगढ़ की रानी अवंतीबाई लोधी म.प्र. के स्वतंत्रता सेनानी हैं। निमाड़ के टंट्या भील भी अंग्रेज़ों से लड़े।", "Chandrashekhar Azad (Bhabra, Jhabua) aur Ramgarh ki Rani Avantibai Lodhi M.P. ke swatantrata senaani hain. Nimaad ke Tantya Bhil bhi angrezon se lade."]},
+        {"word": ["ardent", "उत्साही, सच्चा", "utsaahi, sachcha", "full of strong feeling", "He was an ardent follower of Hanuman.", "वे हनुमान के सच्चे भक्त थे।", "Woh Hanuman ke sachche bhakt the."]},
+        {"word": ["disguise", "भेस बदलना", "bhes badalna", "to change how you look so no one knows you", "He disguised himself as a priest.", "उन्होंने पुजारी का भेस बनाया।", "Unhone pujaari ka bhes banaaya."]},
+        {"word": ["provoke", "भड़काना", "bhadkaana", "to make someone angry", "His answer provoked the magistrate.", "उनके जवाब ने मजिस्ट्रेट को भड़का दिया।", "Unke jawab ne magistrate ko bhadka diya."]},
+        {"word": ["mentor", "मार्गदर्शक, गुरु", "maargdarshak, guru", "a person who guides you", "Azad was the mentor of Bhagat Singh.", "आज़ाद भगत सिंह के मार्गदर्शक थे।", "Azad Bhagat Singh ke maargdarshak the."]},
+        {"word": ["betray", "धोखा देना", "dhokha dena", "to be disloyal to someone who trusts you", "An informer betrayed him.", "एक मुख़बिर ने उन्हें धोखा दिया।", "Ek mukhbir ne unhe dhokha diya."]},
+        {"word": ["valiantly", "बहादुरी से", "bahaaduri se", "very bravely", "Azad fought valiantly.", "आज़ाद बहादुरी से लड़े।", "Azad bahaaduri se lade."]},
+        {"word": ["pledge", "प्रतिज्ञा, क़सम", "pratigya, kasam", "a serious promise", "He kept his pledge.", "उन्होंने अपनी प्रतिज्ञा निभाई।", "Unhone apni pratigya nibhaayi."]},
+        {"sayw": ["martyr", "शहीद", "shaheed"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति (A): उलझे अक्षर", "Shabd Shakti (A): uljhe akshar", "Word Power (A): jumbled letters"], "book": true,
+      "skills": ["book.words", "spell.word"],
+      "steps": [
+        {"card": ["अक्षरों को सही क्रम में लगाकर पाठ के शब्द बनाओ।", "Aksharon ko sahi kram mein lagaakar paath ke shabd banao.", "Rearrange the letters to make words from the lesson."]},
+        {"book": true, "q": ["s e e p a c", "अक्षर सुलझाओ", "Akshar suljhaao", ["escape", "peaces", "spaces"], "escape"]},
+        {"book": true, "q": ["o t m n e r", "अक्षर सुलझाओ", "Akshar suljhaao", ["mentor", "monster", "torment"], "mentor"]},
+        {"book": true, "q": ["l p d g e e", "अक्षर सुलझाओ", "Akshar suljhaao", ["pledge", "pegged", "ledges"], "pledge"]},
+        {"book": true, "q": ["t n e r a d", "अक्षर सुलझाओ", "Akshar suljhaao", ["ardent", "ranted", "trader"], "ardent"]},
+        {"book": true, "q": ["l y r e a", "अक्षर सुलझाओ", "Akshar suljhaao", ["early", "layer", "relay"], "early"]},
+        {"book": true, "q": ["r s e t p i", "अक्षर सुलझाओ", "Akshar suljhaao", ["priest", "stripe", "sprite"], "priest"]},
+        {"book": true, "q": ["u r e g c a o", "अक्षर सुलझाओ", "Akshar suljhaao", ["courage", "cougar", "grocer"], "courage"]},
+        {"book": true, "q": ["r r e t o r", "अक्षर सुलझाओ", "Akshar suljhaao", ["terror", "retro", "error"], "terror"]}
+      ]
+    },
+    {
+      "emoji": "🚫", "title": ["शब्द शक्ति (B, C): dis- और एक जैसी आवाज़", "Shabd Shakti (B, C): dis- aur ek jaisi awaaz", "Word Power (B, C): dis- and homophones"], "book": true,
+      "skills": ["book.words", "grammar.prefix_suffix"],
+      "steps": [
+        {"book": true, "pairs": ["dis- लगाकर उल्टा शब्द बनाओ", "dis- lagaakar ulta shabd banao", "Make antonyms with dis-", [
+          ["courage", "discourage", "हिम्मत — हिम्मत तोड़ना", "himmat — himmat todna"],
+          ["agree", "disagree", "सहमत — असहमत", "sahmat — asahmat"],
+          ["appear", "disappear", "दिखना — ग़ायब होना", "dikhna — gaayab hona"],
+          ["comfort", "discomfort", "आराम — तकलीफ़", "aaraam — takleef"],
+          ["able", "disable", "सक्षम — अक्षम करना", "saksham — aksham karna"],
+          ["connect", "disconnect", "जोड़ना — काटना", "jodna — kaatna"]]]},
+        {"book": true, "fb": ["His father ___ to his joining politics.", "disagreed", ["disagreed", "disappeared", "disconnected"], "उनके पिता उनके राजनीति में आने से असहमत थे।", "Unke pita unke raajneeti mein aane se asahmat the."]},
+        {"book": true, "fb": ["The mice ___ as soon as they saw the cat.", "disappeared", ["disappeared", "disagreed", "disabled"], "बिल्ली देखते ही चूहे ग़ायब हो गए।", "Billi dekhte hi choohe gaayab ho gaye."]},
+        {"book": true, "fb": ["Meghna was ___ to see her marks in English.", "discouraged", ["discouraged", "disconnected", "disappeared"], "अंग्रेज़ी के नंबर देखकर मेघना का हौसला टूट गया।", "Angrezi ke number dekhkar Meghna ka hausla toot gaya."]},
+        {"book": true, "fb": ["He was ___ after the car accident.", "disabled", ["disabled", "disagreed", "discomfort"], "कार दुर्घटना के बाद वह विकलांग हो गया।", "Car durghatna ke baad woh viklaang ho gaya."]},
+        {"book": true, "fb": ["They ___ the phone because people were misusing it.", "disconnected", ["disconnected", "disappeared", "discouraged"], "लोग गलत इस्तेमाल कर रहे थे, इसलिए उन्होंने फ़ोन कटवा दिया।", "Log galat istemaal kar rahe the, isliye unhone phone katwa diya."]},
+        {"book": true, "fb": ["One should not ___ the children.", "discourage", ["discourage", "disconnect", "disable"], "बच्चों का हौसला नहीं तोड़ना चाहिए।", "Bachchon ka hausla nahi todna chahiye."]},
+        {"book": true, "fb": ["Although he comes from a royal family, he put up with all the ___.", "discomforts", ["discomforts", "disagrees", "disappears"], "शाही परिवार का होकर भी उसने सारी तकलीफ़ें सहीं।", "Shaahi parivaar ka hokar bhi usne saari takleefein sahin."]},
+        {"card": ["(C) एक जैसी आवाज़, अलग मतलब: scene (दृश्य) – seen (देखा)।", "(C) Ek jaisi awaaz, alag matlab: scene (drishya) – seen (dekha).", "(C) Same sound, different meanings: scene – seen."]},
+        {"book": true, "fb": ["Please ___ for me at the gate.", "wait", ["wait", "weight"], "कृपया गेट पर मेरा इंतज़ार करो।", "Kripya gate par mera intezaar karo."]},
+        {"book": true, "fb": ["The lion caught its ___.", "prey", ["prey", "pray"], "शेर ने अपना शिकार पकड़ा।", "Sher ne apna shikaar pakda."]},
+        {"book": true, "fb": ["The ___ ran faster than the tortoise.", "hare", ["hare", "hair"], "ख़रगोश कछुए से तेज़ भागा।", "Khargosh kachhue se tez bhaaga."]},
+        {"book": true, "fb": ["I ___ the answer.", "knew", ["knew", "new"], "मुझे जवाब पता था।", "Mujhe jawab pata tha."]},
+        {"book": true, "fb": ["We went to the ___ beach.", "sea", ["sea", "see"], "हम समुद्र किनारे गए।", "Hum samudra kinaare gaye."]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 126-128 पर पाठ पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 126-128 par paath padho, phir jawab do.", "Read the lesson on pages 126–128 of your book, then answer."]},
+        {"book": true, "q": ["When and where was Chandra Shekhar born?", "चंद्रशेखर कब और कहाँ पैदा हुए?", "Chandrashekhar kab aur kahan paida hue?", ["on 23rd July 1906 in Bhabra, Jhabua district", "in 1931 in Allahabad", "in 1919 in Amritsar"], "on 23rd July 1906 in Bhabra, Jhabua district", "Chandra Shekhar was born on 23rd July 1906 in village Bhabra in Jhabua district (present Madhya Pradesh).", "चंद्रशेखर का जन्म 23 जुलाई 1906 को झाबुआ ज़िले (आज का म.प्र.) के भाबरा गाँव में हुआ।", "Chandrashekhar ka janm 23 July 1906 ko Jhabua zile (aaj ka M.P.) ke Bhabra gaanv mein hua."]},
+        {"book": true, "q": ["Where did he receive his early education?", "उनकी शुरुआती पढ़ाई कहाँ हुई?", "Unki shuruaati padhaai kahan hui?", ["in Bhabra", "in Varanasi", "in Bhopal"], "in Bhabra", "He received his early education in Bhabra. For higher education he went to a Sanskrit Pathshala at Varanasi.", "उनकी शुरुआती पढ़ाई भाबरा में हुई। आगे की पढ़ाई के लिए वे वाराणसी की संस्कृत पाठशाला गए।", "Unki shuruaati padhaai Bhabra mein hui. Aage ki padhaai ke liye woh Varanasi ki Sanskrit Paathshaala gaye."]},
+        {"book": true, "q": ["What attracted Chandra Shekhar?", "चंद्रशेखर किससे आकर्षित हुए?", "Chandrashekhar kisse aakarshit hue?", ["the non-cooperation movement of 1920–21 led by Gandhiji", "the British army", "cricket"], "the non-cooperation movement of 1920–21 led by Gandhiji", "He was attracted by the great national upsurge of the non-violent non-cooperation movement of 1920–21 under Mahatma Gandhi.", "वे 1920-21 में गांधीजी के नेतृत्व वाले अहिंसक असहयोग आंदोलन की राष्ट्रीय लहर से आकर्षित हुए।", "Woh 1920-21 mein Gandhiji ke netritva waale ahinsak asahyog aandolan ki raashtriya lehar se aakarshit hue."]},
+        {"book": true, "q": ["Which statement of Chandra Shekhar provoked the magistrate?", "किस बात से मजिस्ट्रेट भड़का?", "Kis baat se magistrate bhadka?", ["His name ‘Azad’, father ‘Swatantra’, home ‘Prison’.", "He said he was a priest.", "He said he was sorry."], "His name ‘Azad’, father ‘Swatantra’, home ‘Prison’.", "He gave his name as ‘Azad’, his father's name as ‘Swatantra’ and his residence as ‘Prison’. This provoked the magistrate, who sentenced him to fifteen lashes.", "उन्होंने अपना नाम ‘आज़ाद’, पिता का नाम ‘स्वतंत्र’ और घर ‘जेल’ बताया। इससे मजिस्ट्रेट भड़क गया और पंद्रह कोड़ों की सज़ा दी।", "Unhone apna naam ‘Azad’, pita ka naam ‘Swatantra’ aur ghar ‘Jail’ bataaya. Isse magistrate bhadak gaya aur pandrah kodon ki saza di."]},
+        {"book": true, "q": ["What were the revolutionary acts of Chandra Shekhar?", "उनके क्रांतिकारी काम क्या थे?", "Unke kraantikaari kaam kya the?", ["He worked with Bhagat Singh and was involved in the Kakori Case.", "He wrote poems only.", "He joined the British police."], "He worked with Bhagat Singh and was involved in the Kakori Case.", "He was the mentor of Bhagat Singh and both took part in revolutionary activities. He was involved in the Kakori Case and became a terror for the British police.", "वे भगत सिंह के मार्गदर्शक थे और दोनों ने क्रांतिकारी काम किए। वे काकोरी कांड में शामिल थे और अंग्रेज़ पुलिस के लिए दहशत बन गए।", "Woh Bhagat Singh ke maargdarshak the aur dono ne kraantikaari kaam kiye. Woh Kakori Kaand mein shaamil the aur angrez police ke liye dehshat ban gaye."]},
+        {"book": true, "q": ["How did Chandra Shekhar prove his name ‘Azad’?", "उन्होंने ‘आज़ाद’ नाम कैसे सच किया?", "Unhone ‘Azad’ naam kaise sach kiya?", ["He was never caught alive by the police.", "He ran away to another country.", "He became a magistrate."], "He was never caught alive by the police.", "Surrounded by the police in Azad Park, Allahabad on 27 February 1931, he fought bravely and then shot himself. He kept his pledge of never being caught alive, and stayed ‘Azad’ (free).", "27 फ़रवरी 1931 को इलाहाबाद के आज़ाद पार्क में घिरने पर वे बहादुरी से लड़े और ख़ुद को गोली मार ली। उन्होंने कभी ज़िंदा न पकड़े जाने की क़सम निभाई और ‘आज़ाद’ ही रहे।", "27 February 1931 ko Allahabad ke Azad Park mein ghirne par woh bahaaduri se lade aur khud ko goli maar li. Unhone kabhi zinda na pakde jaane ki kasam nibhaayi aur ‘Azad’ hi rahe."]}
+      ]
+    },
+    {
+      "emoji": "👵", "title": ["सीखो: Reported Speech", "Seekho: Reported Speech", "Let's Learn: reported speech"], "book": true,
+      "skills": ["book.grammar", "grammar.indirect_speech"],
+      "steps": [
+        {"card": ["किसी की बात आगे बताते समय: I → she, today → that day, this → that, और समय पीछे: is → was, has bought → had bought, would like → would like।", "Kisi ki baat aage bataate samay: I → she, today → that day, this → that, aur samay peechhe: is → was, has bought → had bought, would like → would like.", "When reporting: I → she, today → that day, this → that, and the tense moves back: is → was, has bought → had bought."]},
+        {"book": true, "q": ["Asha: \"I don't want to play today.\"", "रिपोर्ट करो", "Report karo", ["She said that she didn't want to play that day.", "She said that I don't want to play today.", "She said that she doesn't want to play today."], "She said that she didn't want to play that day."]},
+        {"book": true, "q": ["Asha: \"I am buying this pair of jeans.\"", "रिपोर्ट करो", "Report karo", ["She said that she was buying that pair of jeans.", "She said that I am buying this pair of jeans.", "She said that she is buying this pair of jeans."], "She said that she was buying that pair of jeans."]},
+        {"card": ["मनुजा ने अपनी दादी के बारे में बताया। अनिल को बताओ। उदाहरण: She told that her grandmother was widely travelled.", "Manuja ne apni daadi ke baare mein bataaya. Anil ko batao. Udaaharan: She told that her grandmother was widely travelled.", "Manuja told you about her grandmother. Tell Anil. Example: She told that her grandmother was widely travelled."]},
+        {"book": true, "q": ["Manuja: \"She's recently bought a new dress.\"", "अनिल को बताओ", "Anil ko batao", ["She told that her grandmother had recently bought a new dress.", "She told that my grandmother has recently bought a new dress.", "She told that her grandmother buys a new dress."], "She told that her grandmother had recently bought a new dress."]},
+        {"book": true, "q": ["Manuja: \"She's written a number of books.\"", "अनिल को बताओ", "Anil ko batao", ["She told that her grandmother had written a number of books.", "She told that her grandmother has wrote a number of books.", "She told that my grandmother had written a number of books."], "She told that her grandmother had written a number of books."]},
+        {"book": true, "q": ["Manuja: \"She's very interesting company.\"", "अनिल को बताओ", "Anil ko batao", ["She told that her grandmother was very interesting company.", "She told that her grandmother is very interesting company.", "She told that my grandmother was very interesting company."], "She told that her grandmother was very interesting company."]},
+        {"book": true, "q": ["Manuja: \"She's recently broken her left foot.\"", "अनिल को बताओ", "Anil ko batao", ["She told that her grandmother had recently broken her left foot.", "She told that her grandmother has recently broke her left foot.", "She told that my grandmother had broken my left foot."], "She told that her grandmother had recently broken her left foot."]}
+      ]
+    },
+    {
+      "emoji": "🗓️", "title": ["चलो बात करें: टाइम टेबल", "Chalo baat karein: time table", "Let's Talk: the timetable"], "book": true,
+      "skills": ["book.talk", "read.understand"],
+      "steps": [
+        {"card": ["कक्षा 8 का टाइम टेबल: 11.00 अंग्रेज़ी (R. Mishra), 11.35 गणित (Mr. Mathew), 12.10 हिंदी (R. K. Singh), 12.45 EVS (R. Khan), 1.20 से 1.55 लंच, 1.55 संस्कृत (T. Joshi), 2.30 विज्ञान (P. Shrivastava), 3.05 से 3.40 खेल (V. P. Patel)।", "Kaksha 8 ka time table: 11.00 Angrezi (R. Mishra), 11.35 Ganit (Mr. Mathew), 12.10 Hindi (R. K. Singh), 12.45 EVS (R. Khan), 1.20 se 1.55 lunch, 1.55 Sanskrit (T. Joshi), 2.30 Vigyaan (P. Shrivastava), 3.05 se 3.40 khel (V. P. Patel).", "Class VIII timetable: 11.00 English (R. Mishra), 11.35 Maths (Mr. Mathew), 12.10 Hindi (R. K. Singh), 12.45 EVS (R. Khan), 1.20–1.55 lunch, 1.55 Sanskrit (T. Joshi), 2.30 Science (P. Shrivastava), 3.05–3.40 Sports (V. P. Patel)."]},
+        {"book": true, "q": ["Who teaches us EVS?", "EVS कौन पढ़ाते हैं?", "EVS kaun padhaate hain?", ["R. Khan", "R. Mishra", "T. Joshi"], "R. Khan"]},
+        {"book": true, "q": ["How long is the lunch break?", "लंच कितनी देर का है?", "Lunch kitni der ka hai?", ["35 minutes", "1 hour", "20 minutes"], "35 minutes"]},
+        {"book": true, "q": ["When does the science class begin?", "विज्ञान की कक्षा कब शुरू होती है?", "Vigyaan ki kaksha kab shuru hoti hai?", ["at 2.30", "at 1.55", "at 3.05"], "at 2.30"]},
+        {"book": true, "q": ["In which period do we have sports?", "खेल किस पीरियड में है?", "Khel kis period mein hai?", ["in the 7th period", "in the 1st period", "in the 5th period"], "in the 7th period"]},
+        {"book": true, "q": ["What does Mr. Mathew teach?", "मैथ्यू सर क्या पढ़ाते हैं?", "Mathew sir kya padhaate hain?", ["Maths", "Science", "English"], "Maths"]},
+        {"book": true, "q": ["What is taught in the fifth period?", "पाँचवें पीरियड में क्या?", "Paanchven period mein kya?", ["Sanskrit", "Science", "Hindi"], "Sanskrit"]},
+        {"book": true, "q": ["At what time does the school close?", "स्कूल कब बंद होता है?", "School kab band hota hai?", ["at 3.40", "at 3.05", "at 1.20"], "at 3.40"]}
+      ]
+    },
+    {
+      "emoji": "🔥", "title": ["चलो पढ़ें: भगत सिंह", "Chalo padhein: Bhagat Singh", "Let's Read: Bhagat Singh"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 132 पर भगत सिंह वाला पैराग्राफ़ पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 132 par Bhagat Singh waala paragraph padho, phir jawab do.", "Read the passage about Bhagat Singh on page 132 of your book, then answer."]},
+        {"book": true, "tf": ["Bhagat Singh's name echoed all over the country.", "भगत सिंह का नाम पूरे देश में गूँजा।", "Bhagat Singh ka naam poore desh mein goonja.", true]},
+        {"book": true, "tf": ["His name did not inspire the youth in India.", "उनके नाम ने युवाओं को प्रेरित नहीं किया।", "Unke naam ne yuvaaon ko prerit nahi kiya.", false, "False. He became an inspiration for the youth.", "गलत। वे युवाओं की प्रेरणा बन गए।", "Galat. Woh yuvaaon ki prerna ban gaye."]},
+        {"book": true, "q": ["“Bhagat Singh became a symbol of freedom.” Who said this?", "यह किसने कहा?", "Yeh kisne kaha?", ["Pandit Jawaharlal Nehru", "Mahatma Gandhi", "Chandra Shekhar Azad"], "Pandit Jawaharlal Nehru"]},
+        {"book": true, "q": ["Alphabetical order of: hero, brought, symbol, amazing", "वर्णमाला क्रम", "Varnamaala kram", ["amazing, brought, hero, symbol", "brought, amazing, hero, symbol", "amazing, hero, brought, symbol"], "amazing, brought, hero, symbol"]},
+        {"book": true, "q": ["A suitable title for the passage:", "शीर्षक", "Sheershak", ["Bhagat Singh: A Symbol of Freedom", "The Punjab Villages", "A Song for Saunders"], "Bhagat Singh: A Symbol of Freedom"]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: वाक्य सही क्रम में", "Chalo likhein: vaakya sahi kram mein", "Let's Write: put the sentences in order"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: पाँच वाक्यों को सही क्रम में लगाकर आज़ाद पर पैराग्राफ़ बनाओ। पाठ के क्रम में: b → d → a → c → e।", "Kitaab: paanch vaakyon ko sahi kram mein lagaakar Azad par paragraph banao. Paath ke kram mein: b → d → a → c → e.", "The book: put the five sentences in order to make a paragraph about Azad. In the lesson's order: b → d → a → c → e."]},
+        {"book": true, "q": ["Which sentence comes first?", "पहला वाक्य", "Pehla vaakya", ["Chandra Shekhar was born in village Bhabra in Jhabua district.", "As a revolutionary, he adopted the surname ‘Azad’.", "A special award will be presented at Bhopal on Balidan Diwas."], "Chandra Shekhar was born in village Bhabra in Jhabua district."]},
+        {"book": true, "q": ["Which sentence comes second?", "दूसरा वाक्य", "Doosra vaakya", ["For higher education he went to Sanskrit Pathshala at Varanasi.", "He was deeply hurt by the Jallianwala Bagh massacre in 1919.", "A special award will be presented at Bhopal on Balidan Diwas."], "For higher education he went to Sanskrit Pathshala at Varanasi."]},
+        {"book": true, "q": ["Which sentence comes last?", "आख़िरी वाक्य", "Aakhiri vaakya", ["A special award will be presented at Bhopal on Balidan Diwas.", "Chandra Shekhar was born in village Bhabra in Jhabua district.", "For higher education he went to Sanskrit Pathshala at Varanasi."], "A special award will be presented at Bhopal on Balidan Diwas."]},
+        {"book": true, "build": ["उन्होंने उपनाम ‘आज़ाद’ अपनाया।", "Unhone upnaam ‘Azad’ apnaaya.", "Tell the surname he took as a revolutionary.", "He adopted the surname Azad.", "उन्होंने उपनाम आज़ाद अपनाया।", "Unhone upnaam Azad apnaaya."]}
+      ]
+    },
+    {
+      "emoji": "🎲", "title": ["चलो करके देखें: पहचानो कौन?", "Chalo karke dekhein: pehchaano kaun?", "Let's Do It: guess who"], "book": true,
+      "skills": ["book.activity", "grammar.relative"],
+      "steps": [
+        {"card": ["किताब: पाँच देशभक्त नेताओं की तस्वीरें चिपकाओ और हर एक पर पाँच वाक्य लिखो। फिर कक्षा का खेल: तीन बातें बताओ, दूसरी टीम पहचाने। उदाहरण: This is the girl who wears glasses, is very punctual and sings very well.", "Kitaab: paanch deshbhakt netaaon ki tasveerein chipkaao aur har ek par paanch vaakya likho. Phir kaksha ka khel: teen baatein batao, doosri team pehchaane. Udaaharan: This is the girl who wears glasses, is very punctual and sings very well.", "The book: paste pictures of five patriotic leaders and write five sentences on each. Then the class game: say three things, the other team guesses. Example: This is the girl who wears glasses, is very punctual and sings very well."]},
+        {"book": true, "q": ["This is the man who was born in Bhabra, was Bhagat Singh's mentor and was never caught alive.", "पहचानो कौन?", "Pehchaano kaun?", ["Chandra Shekhar Azad", "Mahatma Gandhi", "Jawaharlal Nehru"], "Chandra Shekhar Azad"]},
+        {"q": ["This is the man who led the Salt March, believed in non-violence and is called the Father of the Nation.", "पहचानो कौन?", "Pehchaano kaun?", ["Mahatma Gandhi", "Bhagat Singh", "Subhas Chandra Bose"], "Mahatma Gandhi"]},
+        {"q": ["This is the leader who formed the Azad Hind Fauj and said ‘Give me blood, and I will give you freedom’.", "पहचानो कौन?", "Pehchaano kaun?", ["Subhas Chandra Bose", "Chandra Shekhar Azad", "Sardar Patel"], "Subhas Chandra Bose"]},
+        {"q": ["Azad's favourite couplet ends with ...", "आज़ाद का प्रिय शेर", "Azad ka priya sher", ["‘Azad hee rahe hain, Azad hee rahenge.’", "‘Saare jahan se achha’", "‘Jai Jawan Jai Kisan’"], "‘Azad hee rahe hain, Azad hee rahenge.’"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 14 का टेस्ट", "Paath 14 ka test", "Lesson 14 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["When and where was Chandra Shekhar born?", "कब और कहाँ?", "Kab aur kahan?", ["on 23rd July 1906 in Bhabra, Jhabua district", "in 1931 in Allahabad", "in 1919 in Amritsar"], "on 23rd July 1906 in Bhabra, Jhabua district"]},
+        {"book": true, "q": ["What did he give as his residence before the magistrate?", "निवास क्या बताया?", "Nivaas kya bataaya?", ["Prison", "Bhabra", "Varanasi"], "Prison"]},
+        {"book": true, "q": ["Who was Chandra Shekhar Azad the mentor of?", "किसके मार्गदर्शक?", "Kiske maargdarshak?", ["Bhagat Singh", "Jawaharlal Nehru", "Mahatma Gandhi"], "Bhagat Singh"]},
+        {"book": true, "skills": ["book.words"], "q": ["r r e t o r → ?", "अक्षर सुलझाओ", "Akshar suljhaao", ["terror", "retro", "error"], "terror"]},
+        {"book": true, "skills": ["book.words", "grammar.prefix_suffix"], "fb": ["The mice ___ as soon as they saw the cat.", "disappeared", ["disappeared", "disagreed", "disabled"], "चूहे ग़ायब हो गए।", "Choohe gaayab ho gaye."]},
+        {"book": true, "skills": ["book.words"], "fb": ["The lion caught its ___.", "prey", ["prey", "pray"], "शेर ने शिकार पकड़ा।", "Sher ne shikaar pakda."]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "q": ["Asha: \"I don't want to play today.\"", "रिपोर्ट करो", "Report karo", ["She said that she didn't want to play that day.", "She said that I don't want to play today.", "She said that she doesn't want to play today."], "She said that she didn't want to play that day."]},
+        {"book": true, "skills": ["book.talk"], "q": ["How long is the lunch break?", "लंच कितनी देर?", "Lunch kitni der?", ["35 minutes", "1 hour", "20 minutes"], "35 minutes"]},
+        {"book": true, "q": ["“Bhagat Singh became a symbol of freedom.” Who said this?", "किसने कहा?", "Kisne kaha?", ["Pandit Jawaharlal Nehru", "Mahatma Gandhi", "Chandra Shekhar Azad"], "Pandit Jawaharlal Nehru"]},
+        {"book": true, "q": ["‘valiantly’ means ...", "मतलब", "Matlab", ["very bravely", "very slowly", "very sadly"], "very bravely"]}
+      ]
+    }
+  ]
+}

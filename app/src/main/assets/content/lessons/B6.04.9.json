@@ -1,0 +1,112 @@
+{
+  "id": "B6.04.9",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.04.9.S01",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "Gandhiji is called the ‘Father of the ...’",
+      "questionMeaning": {
+        "hi": "गांधीजी को ‘... का पिता’ कहते हैं।",
+        "hinglish": "Gandhiji ko ‘... ka pita’ kehte hain."
+      },
+      "options": [
+        "Nation",
+        "Village",
+        "School"
+      ],
+      "answer": "Nation",
+      "modelAnswer": "Gandhiji is called the Father of the Nation. We lovingly call him Bapu.",
+      "modelMeaning": {
+        "hi": "गांधीजी को राष्ट्रपिता कहते हैं। हम प्यार से उन्हें बापू कहते हैं।",
+        "hinglish": "Gandhiji ko Rashtrapita kehte hain. Hum pyaar se unhe Baapu kehte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.9.S02",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "On which day do we celebrate Gandhi Jayanti?",
+      "questionMeaning": {
+        "hi": "गांधी जयंती कब मनाते हैं?",
+        "hinglish": "Gandhi Jayanti kab manaate hain?"
+      },
+      "options": [
+        "2nd October",
+        "14th November",
+        "5th September"
+      ],
+      "answer": "2nd October"
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.04.9.S03",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "इन बड़े दिनों को जोड़ो",
+        "hinglish": "In bade dinon ko jodo",
+        "en": "Join the special days"
+      },
+      "pairs": [
+        {
+          "left": "Gandhi Jayanti",
+          "right": "2nd October",
+          "meaning": {
+            "hi": "2 अक्टूबर",
+            "hinglish": "2 October"
+          }
+        },
+        {
+          "left": "Children's Day",
+          "right": "14th November",
+          "meaning": {
+            "hi": "14 नवंबर",
+            "hinglish": "14 November"
+          }
+        },
+        {
+          "left": "Teachers' Day",
+          "right": "5th September",
+          "meaning": {
+            "hi": "5 सितंबर",
+            "hinglish": "5 September"
+          }
+        },
+        {
+          "left": "Independence Day",
+          "right": "15th August",
+          "meaning": {
+            "hi": "15 अगस्त",
+            "hinglish": "15 August"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.9.S04",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "sentence": "We should always speak the ___.",
+      "answer": "truth",
+      "options": [
+        "truth",
+        "lies",
+        "loudly"
+      ],
+      "meaning": {
+        "hi": "हमें हमेशा सच बोलना चाहिए।",
+        "hinglish": "Humein hamesha sach bolna chahiye."
+      }
+    }
+  ]
+}

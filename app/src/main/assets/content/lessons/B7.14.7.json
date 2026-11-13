@@ -1,0 +1,202 @@
+{
+  "id": "B7.14.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.14.7.S02",
+    "B7.14.7.S03",
+    "B7.14.7.S04",
+    "B7.14.7.S05",
+    "B7.14.7.S06",
+    "B7.14.7.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.14.7.S01",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब के पेज 107-108 पर भीमबेटका के बारे में पाठ पढ़ो। ये भोपाल के पास की गुफ़ाएँ हैं, जिनमें हज़ारों साल पुराने चित्र हैं।",
+        "hinglish": "Kitaab ke page 107-108 par Bhimbetka ke baare mein paath padho. Yeh Bhopal ke paas ki gufaayein hain, jinmein hazaaron saal puraane chitra hain.",
+        "en": "Read the passage on Bhimbetka on pages 107–108 of your book. These caves near Bhopal have paintings thousands of years old."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.7.S02",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "How far is Bhimbetka from Bhopal?",
+      "questionMeaning": {
+        "hi": "भीमबेटका भोपाल से कितनी दूर है?",
+        "hinglish": "Bhimbetka Bhopal se kitni door hai?"
+      },
+      "options": [
+        "46 km south of Bhopal",
+        "460 km north of Bhopal",
+        "4 km east of Bhopal"
+      ],
+      "answer": "46 km south of Bhopal",
+      "modelAnswer": "Bhimbetka is 46 km south of Bhopal.",
+      "modelMeaning": {
+        "hi": "भीमबेटका भोपाल से 46 किलोमीटर दक्षिण में है।",
+        "hinglish": "Bhimbetka Bhopal se 46 kilometre dakshin mein hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.7.S03",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "Whose life is depicted in the paintings?",
+      "questionMeaning": {
+        "hi": "चित्रों में किसका जीवन दिखाया गया है?",
+        "hinglish": "Chitron mein kiska jeevan dikhaaya gaya hai?"
+      },
+      "options": [
+        "the pre-historic cave-dwellers",
+        "the Mughal kings",
+        "the British"
+      ],
+      "answer": "the pre-historic cave-dwellers",
+      "modelAnswer": "The paintings depict the life of the pre-historic cave-dwellers.",
+      "modelMeaning": {
+        "hi": "चित्रों में प्राचीन गुफ़ा-वासियों का जीवन दिखाया गया है।",
+        "hinglish": "Chitron mein praacheen gufaa-vaasiyon ka jeevan dikhaaya gaya hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.7.S04",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "What are the colours used in these paintings?",
+      "questionMeaning": {
+        "hi": "इन चित्रों में कौन से रंग हैं?",
+        "hinglish": "In chitron mein kaun se rang hain?"
+      },
+      "options": [
+        "mainly red and white, sometimes green and yellow",
+        "only blue",
+        "black and pink"
+      ],
+      "answer": "mainly red and white, sometimes green and yellow",
+      "modelAnswer": "The paintings are mainly in red and white, with the occasional use of green and yellow.",
+      "modelMeaning": {
+        "hi": "चित्र ज़्यादातर लाल और सफ़ेद हैं, कभी-कभी हरा और पीला भी।",
+        "hinglish": "Chitra zyaadatar laal aur safed hain, kabhi-kabhi hara aur peela bhi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.7.S05",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "Name the animals seen in these paintings.",
+      "questionMeaning": {
+        "hi": "इन चित्रों में कौन से जानवर दिखते हैं?",
+        "hinglish": "In chitron mein kaun se jaanwar dikhte hain?"
+      },
+      "options": [
+        "bisons, tigers, lions, bears, elephants and crocodiles",
+        "penguins and kangaroos",
+        "only cats"
+      ],
+      "answer": "bisons, tigers, lions, bears, elephants and crocodiles",
+      "modelAnswer": "Bisons, tigers, lions, bears, elephants, antelopes, dogs, lizards and crocodiles are seen in these paintings.",
+      "modelMeaning": {
+        "hi": "इन चित्रों में बाइसन, बाघ, शेर, भालू, हाथी, हिरण, कुत्ते, छिपकली और मगरमच्छ दिखते हैं।",
+        "hinglish": "In chitron mein bison, baagh, sher, bhaalu, haathi, hiran, kutte, chhipkali aur magarmachh dikhte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.7.S06",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "What shows that the same rock surface was used again and again?",
+      "questionMeaning": {
+        "hi": "कैसे पता चलता है कि एक ही चट्टान बार-बार इस्तेमाल हुई?",
+        "hinglish": "Kaise pata chalta hai ki ek hi chattaan baar-baar istemaal hui?"
+      },
+      "options": [
+        "the superimposition of paintings",
+        "the size of the caves",
+        "the colour of the rock"
+      ],
+      "answer": "the superimposition of paintings",
+      "modelAnswer": "The superimposition of paintings (one painting over another) shows that the same rock surface was used by different people at different times.",
+      "modelMeaning": {
+        "hi": "एक चित्र के ऊपर दूसरा चित्र बना होना दिखाता है कि अलग-अलग समय पर अलग लोगों ने एक ही चट्टान इस्तेमाल की।",
+        "hinglish": "Ek chitra ke upar doosra chitra bana hona dikhaata hai ki alag-alag samay par alag logon ne ek hi chattaan istemaal ki."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.14.7.S07",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "शब्दों को उनके मतलब से जोड़ो",
+        "hinglish": "Shabdon ko unke matlab se jodo",
+        "en": "Match the words with their meanings"
+      },
+      "pairs": [
+        {
+          "left": "dense",
+          "right": "thick",
+          "meaning": {
+            "hi": "घना",
+            "hinglish": "ghana"
+          }
+        },
+        {
+          "left": "depict",
+          "right": "show",
+          "meaning": {
+            "hi": "दिखाना",
+            "hinglish": "dikhaana"
+          }
+        },
+        {
+          "left": "occur",
+          "right": "happen",
+          "meaning": {
+            "hi": "होना, घटना",
+            "hinglish": "hona, ghatna"
+          }
+        },
+        {
+          "left": "frequently",
+          "right": "very often",
+          "meaning": {
+            "hi": "बार-बार",
+            "hinglish": "baar-baar"
+          }
+        },
+        {
+          "left": "superimpose",
+          "right": "write over",
+          "meaning": {
+            "hi": "ऊपर बनाना",
+            "hinglish": "upar banaana"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "grade": 6, "number": 2, "emoji": "🎢", "title": "The Swing", "pages": "6–9",
+  "sections": [
+    {
+      "emoji": "🎵", "title": ["सुनो और दोहराओ", "Suno aur dohraao", "Listen and Repeat"], "book": true,
+      "skills": ["book.words", "read.passage"],
+      "steps": [
+        {"card": ["यह कविता Robert Louis Stevenson की है। एक बच्चा झूले पर ऊपर जाकर क्या-क्या देखता है, यही इसमें है। पहले मैं पढ़ूँगा, फिर तुम पढ़ना।", "Yeh kavita Robert Louis Stevenson ki hai. Ek bachcha jhoole par upar jaakar kya-kya dekhta hai, yahi ismein hai. Pehle main padhunga, phir tum padhna.", "This poem is by Robert Louis Stevenson. A child goes up on a swing and tells us what he sees. I'll read first, then you read."]},
+        {"type": "read_along", "skills": ["read.passage", "speak.sentence"],
+          "title": ["झूला", "Jhoola", "The Swing"],
+          "sentences": ["How do you like to go up in a swing,", "Up in the air so blue?", "Oh, I do think it's the pleasantest thing", "Ever a child can do!", "", "Up in the air and over the wall,", "Till I can see so wide,", "Rivers and trees and cattle and all", "Over the countryside.", "", "Till I look down on the garden green,", "Down on the roof so brown,", "Up in the air I go flying again,", "Up in the air and down!"],
+          "lineMeanings": [
+            ["तुम्हें झूले पर ऊपर जाना कैसा लगता है,", "Tumhe jhoole par upar jaana kaisa lagta hai,"],
+            ["नीले-नीले आसमान में ऊपर?", "Neele-neele aasmaan mein upar?"],
+            ["मुझे तो लगता है यह सबसे मज़ेदार काम है", "Mujhe to lagta hai yeh sabse mazedaar kaam hai"],
+            ["जो कोई बच्चा कर सकता है!", "Jo koi bachcha kar sakta hai!"],
+            ["", ""],
+            ["हवा में ऊपर, दीवार के भी ऊपर,", "Hawa mein upar, deewaar ke bhi upar,"],
+            ["इतना ऊपर कि मैं दूर-दूर तक देख सकूँ,", "Itna upar ki main door-door tak dekh sakoon,"],
+            ["नदियाँ, पेड़, गाय-भैंस और सब कुछ", "Nadiyaan, ped, gaay-bhains aur sab kuchh"],
+            ["पूरे गाँव-देहात में।", "Poore gaanv-dehaat mein."],
+            ["", ""],
+            ["फिर मैं नीचे हरे बग़ीचे को देखता हूँ,", "Phir main neeche hare bageeche ko dekhta hoon,"],
+            ["नीचे भूरी-भूरी छत को,", "Neeche bhoori-bhoori chhat ko,"],
+            ["फिर से मैं हवा में ऊपर उड़ जाता हूँ,", "Phir se main hawa mein upar ud jaata hoon,"],
+            ["हवा में ऊपर, और फिर नीचे!", "Hawa mein upar, aur phir neeche!"]
+          ],
+          "words": [
+            {"english": "pleasantest", "hindi": "सबसे अच्छा, सबसे सुहाना", "hinglish": "sabse achha, sabse suhaana"},
+            {"english": "cattle", "hindi": "मवेशी (गाय-भैंस)", "hinglish": "maveshi (gaay-bhains)"},
+            {"english": "countryside", "hindi": "गाँव-देहात", "hinglish": "gaon-dehaat"},
+            {"english": "roof", "hindi": "छत", "hinglish": "chhat"}
+          ]},
+        {"card": ["किताब: इन शब्दों को सुनो और ज़ोर से दोहराओ। हर लाइन के शब्द एक जैसी आवाज़ पर ख़त्म होते हैं।", "Kitaab: in shabdon ko suno aur zor se dohraao. Har line ke shabd ek jaisi awaaz par khatm hote hain.", "The book: listen to these words and say them aloud. The words in each family end with the same sound."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर शब्द को उसके तुकबंदी परिवार में रखो", "Har shabd ko uske tukbandi parivaar mein rakho", "Put each word in its rhyming family"],
+          "groups": [
+            {"id": "ing", "name": "-ing (swing)", "emoji": "🎢", "meaning": ["इंग", "ing"]},
+            {"id": "ue", "name": "-ue (blue)", "emoji": "🔵", "meaning": ["ऊ", "oo"]},
+            {"id": "all", "name": "-all (wall)", "emoji": "🧱", "meaning": ["ऑल", "all"]},
+            {"id": "ide", "name": "-ide (wide)", "emoji": "↔️", "meaning": ["आइड", "aaid"]},
+            {"id": "own", "name": "-own (brown)", "emoji": "🟤", "meaning": ["आउन", "aaun"]}
+          ],
+          "items": [
+            {"text": "bring", "emoji": "🤲", "groups": ["ing"]},
+            {"text": "glue", "emoji": "🧴", "groups": ["ue"]},
+            {"text": "call", "emoji": "📞", "groups": ["all"]},
+            {"text": "side", "emoji": "⬅️", "groups": ["ide"]},
+            {"text": "crown", "emoji": "👑", "groups": ["own"]},
+            {"text": "thing", "emoji": "📦", "groups": ["ing"]},
+            {"text": "clue", "emoji": "🔍", "groups": ["ue"]},
+            {"text": "tall", "emoji": "🦒", "groups": ["all"]},
+            {"text": "ride", "emoji": "🚲", "groups": ["ide"]},
+            {"text": "down", "emoji": "⬇️", "groups": ["own"]}
+          ]},
+        {"sayw": ["pleasantest", "सबसे सुहाना", "sabse suhaana"], "skills": ["speak.word", "book.words"]},
+        {"sayw": ["countryside", "गाँव-देहात", "gaon-dehaat"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो: कविता पूरी करो", "Padho aur seekho: kavita poori karo", "Read and Learn: complete the poem"], "book": true,
+      "skills": ["book.words", "read.understand"],
+      "steps": [
+        {"card": ["किताब: कविता पढ़कर खाली जगह भरो।", "Kitaab: kavita padhkar khaali jagah bharo.", "The book: read the poem and fill in the blanks."]},
+        {"book": true, "fb": ["How do you like to go up in a ___,", "swing", ["swing", "wall", "roof"], "तुम्हें झूले पर ऊपर जाना कैसा लगता है,", "Tumhe jhoole par upar jaana kaisa lagta hai,"]},
+        {"book": true, "fb": ["Up in the air so ___?", "blue", ["blue", "brown", "green"], "इतनी नीली हवा में ऊपर?", "Itni neeli hawa mein upar?"]},
+        {"book": true, "fb": ["Oh, I do think it's the ___ thing", "pleasantest", ["pleasantest", "biggest", "saddest"], "मुझे लगता है यह सबसे सुहानी चीज़ है", "Mujhe lagta hai yeh sabse suhaani cheez hai"]},
+        {"book": true, "fb": ["Ever a ___ can do!", "child", ["child", "cow", "king"], "जो कोई बच्चा कर सकता है!", "Jo koi bachcha kar sakta hai!"]},
+        {"book": true, "fb": ["Till I look down on the garden ___.", "green", ["green", "blue", "brown"], "जब तक मैं नीचे हरे बग़ीचे को देखता हूँ।", "Jab tak main neeche hare bageeche ko dekhta hoon."]},
+        {"book": true, "fb": ["Down on the roof so ___,", "brown", ["brown", "blue", "green"], "नीचे इतनी भूरी छत पर,", "Neeche itni bhoori chhat par,"]},
+        {"book": true, "fb": ["Up in the air I go ___ again,", "flying", ["flying", "sleeping", "eating"], "मैं फिर से हवा में उड़ता हूँ,", "Main phir se hawa mein udta hoon,"]},
+        {"book": true, "fb": ["Up in the air and ___!", "down", ["down", "out", "in"], "ऊपर हवा में और नीचे!", "Upar hawa mein aur neeche!"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: झूले से क्या दिखता है?", "Shabd Shakti: jhoole se kya dikhta hai?", "Word Power: what can you see from a swing?"], "book": true,
+      "skills": ["book.words", "vocab.nature"],
+      "steps": [
+        {"card": ["किताब: झूले पर ऊपर जाकर जो चीज़ें दिखती हैं, उनके नाम कविता से ढूँढो।", "Kitaab: jhoole par upar jaakar jo cheezein dikhti hain, unke naam kavita se dhoondho.", "The book: find from the poem the names of things you can see when you go up in a swing."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["कौन सी चीज़ कविता में झूले से दिखती है?", "Kaun si cheez kavita mein jhoole se dikhti hai?", "Which things does the child see from the swing?"],
+          "groups": [
+            {"id": "yes", "name": "seen from the swing", "emoji": "👀", "meaning": ["झूले से दिखती है", "jhoole se dikhti hai"]},
+            {"id": "no", "name": "not in the poem", "emoji": "❌", "meaning": ["कविता में नहीं", "kavita mein nahi"]}
+          ],
+          "items": [
+            {"text": "wall", "emoji": "🧱", "groups": ["yes"]},
+            {"text": "rivers", "emoji": "🏞️", "groups": ["yes"]},
+            {"text": "trees", "emoji": "🌳", "groups": ["yes"]},
+            {"text": "cattle", "emoji": "🐄", "groups": ["yes"]},
+            {"text": "garden", "emoji": "🌷", "groups": ["yes"]},
+            {"text": "roof", "emoji": "🏠", "groups": ["yes"]},
+            {"text": "aeroplane", "emoji": "✈️", "groups": ["no"]},
+            {"text": "sea", "emoji": "🌊", "groups": ["no"]}
+          ]},
+        {"q": ["What colour is the roof in the poem?", "कविता में छत किस रंग की है?", "Kavita mein chhat kis rang ki hai?", ["brown", "red", "white"], "brown"]},
+        {"q": ["What colour is the garden in the poem?", "कविता में बगीचा किस रंग का है?", "Kavita mein bageecha kis rang ka hai?", ["green", "yellow", "blue"], "green"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"book": true, "q": ["What is the pleasantest thing a child can do?", "बच्चे के लिए सबसे सुहानी चीज़ क्या है?", "Bachche ke liye sabse suhaani cheez kya hai?", ["to go up in a swing", "to sleep", "to do homework"], "to go up in a swing", "Going up in a swing is the pleasantest thing a child can do.", "झूले पर ऊपर जाना बच्चे के लिए सबसे सुहानी चीज़ है।", "Jhoole par upar jaana bachche ke liye sabse suhaani cheez hai."]},
+        {"book": true, "q": ["What can you see while going up in a swing?", "झूले पर ऊपर जाते हुए क्या दिखता है?", "Jhoole par upar jaate hue kya dikhta hai?", ["the blue sky, rivers, trees and cattle", "only the floor", "the sea and ships"], "the blue sky, rivers, trees and cattle", "While going up in a swing, we can see the blue sky, rivers, trees and cattle over the countryside.", "झूले पर ऊपर जाते हुए नीला आसमान, नदियाँ, पेड़ और मवेशी दिखते हैं।", "Jhoole par upar jaate hue neela aasmaan, nadiyaan, ped aur maveshi dikhte hain."]},
+        {"book": true, "q": ["What does the child see in the countryside?", "बच्चा गाँव-देहात में क्या देखता है?", "Bachcha gaon-dehaat mein kya dekhta hai?", ["rivers, trees and cattle", "tall buildings", "cars and buses"], "rivers, trees and cattle", "The child sees rivers, trees and cattle over the countryside.", "बच्चा गाँव-देहात में नदियाँ, पेड़ और मवेशी देखता है।", "Bachcha gaon-dehaat mein nadiyaan, ped aur maveshi dekhta hai."]},
+        {"book": true, "q": ["What does the child see going down the swing?", "नीचे आते हुए बच्चा क्या देखता है?", "Neeche aate hue bachcha kya dekhta hai?", ["the green garden and the brown roof", "the blue sky", "the moon"], "the green garden and the brown roof", "Going down, the child sees the green garden and the brown roof.", "नीचे आते हुए बच्चा हरा बगीचा और भूरी छत देखता है।", "Neeche aate hue bachcha hara bageecha aur bhoori chhat dekhta hai."]},
+        {"book": true, "q": ["What does the child see when he is up in the air?", "ऊपर हवा में बच्चा क्या देखता है?", "Upar hawa mein bachcha kya dekhta hai?", ["over the wall, far and wide", "only his feet", "a closed door"], "over the wall, far and wide", "Up in the air, the child sees over the wall, far and wide: rivers, trees, cattle and the countryside.", "ऊपर हवा में बच्चा दीवार के पार, दूर-दूर तक देखता है: नदियाँ, पेड़, मवेशी और गाँव।", "Upar hawa mein bachcha deewaar ke paar, door-door tak dekhta hai: nadiyaan, ped, maveshi aur gaon."]},
+        {"says": ["Going up in a swing is the pleasantest thing.", "झूले पर ऊपर जाना सबसे सुहानी चीज़ है।", "Jhoole par upar jaana sabse suhaani cheez hai."], "skills": ["speak.sentence", "book.comprehension"]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: Can you?", "Chalo baat karein: Can you?", "Let's Talk: Can you?"], "book": true,
+      "skills": ["book.talk", "grammar.can"],
+      "steps": [
+        {"card": ["‘Can you ...?’ का जवाब: कर सकते हो तो ‘Yes, I can.’ नहीं तो ‘No, I can't.’ किताब का उदाहरण: I can swim. Can you? No, I can't.", "‘Can you ...?’ ka jawab: kar sakte ho to ‘Yes, I can.’ nahi to ‘No, I can't.’ Kitaab ka udaharan: I can swim. Can you? No, I can't.", "Answer ‘Can you ...?’ with ‘Yes, I can.’ or ‘No, I can't.’ The book's example: I can swim. Can you? No, I can't."]},
+        {"book": true, "type": "roleplay", "scene": "🤸", "turns": [
+          {"id": "bicycle", "tinku": "I can ride a bicycle. Can you?", "meaning": ["मैं साइकिल चला सकता हूँ। क्या तुम चला सकते हो?", "Main cycle chala sakta hoon. Kya tum chala sakte ho?"],
+            "replies": [
+              {"say": "Yes, I can.", "meaning": ["हाँ, मैं चला सकता/सकती हूँ।", "Haan, main chala sakta/sakti hoon."], "patterns": ["yes i can", "yes *", "yes"]},
+              {"say": "No, I can't.", "meaning": ["नहीं, मैं नहीं चला सकता/सकती।", "Nahi, main nahi chala sakta/sakti."], "patterns": ["no i cant", "no i cannot", "no *", "no"]}
+            ]},
+          {"id": "kite", "tinku": "I can fly a kite. Can you?", "meaning": ["मैं पतंग उड़ा सकता हूँ। तुम?", "Main patang uda sakta hoon. Tum?"],
+            "replies": [
+              {"say": "Yes, I can.", "meaning": ["हाँ, मैं उड़ा सकता/सकती हूँ।", "Haan, main uda sakta/sakti hoon."], "patterns": ["yes i can", "yes *", "yes"]},
+              {"say": "No, I can't.", "meaning": ["नहीं, मैं नहीं उड़ा सकता/सकती।", "Nahi, main nahi uda sakta/sakti."], "patterns": ["no i cant", "no i cannot", "no *", "no"]}
+            ]},
+          {"id": "cook", "tinku": "I can cook food. Can you?", "meaning": ["मैं खाना बना सकता हूँ। तुम?", "Main khaana bana sakta hoon. Tum?"],
+            "replies": [
+              {"say": "Yes, I can.", "meaning": ["हाँ, मैं बना सकता/सकती हूँ।", "Haan, main bana sakta/sakti hoon."], "patterns": ["yes i can", "yes *", "yes"]},
+              {"say": "No, I can't.", "meaning": ["नहीं, मैं नहीं बना सकता/सकती।", "Nahi, main nahi bana sakta/sakti."], "patterns": ["no i cant", "no i cannot", "no *", "no"]}
+            ]},
+          {"id": "jump", "tinku": "I can jump high. Can you?", "meaning": ["मैं ऊँचा कूद सकता हूँ। तुम?", "Main ooncha kood sakta hoon. Tum?"],
+            "replies": [
+              {"say": "Yes, I can.", "meaning": ["हाँ, मैं कूद सकता/सकती हूँ।", "Haan, main kood sakta/sakti hoon."], "patterns": ["yes i can", "yes *", "yes"], "next": "end"},
+              {"say": "No, I can't.", "meaning": ["नहीं, मैं नहीं कूद सकता/सकती।", "Nahi, main nahi kood sakta/sakti."], "patterns": ["no i cant", "no i cannot", "no *", "no"], "next": "end"}
+            ]}
+        ]},
+        {"book": true, "fb": ["I can swim. Can you? No, I ___.", "can't", ["can't", "can"], "मैं तैर सकता हूँ। तुम? नहीं, मैं नहीं तैर सकता।", "Main tair sakta hoon. Tum? Nahi, main nahi tair sakta."]},
+        {"fb": ["A fish ___ swim, but it can't fly.", "can", ["can", "can't"], "मछली तैर सकती है, पर उड़ नहीं सकती।", "Machhli tair sakti hai, par ud nahi sakti."]},
+        {"fb": ["A cow ___ fly.", "can't", ["can't", "can"], "गाय उड़ नहीं सकती।", "Gaay ud nahi sakti."]}
+      ]
+    },
+    {
+      "emoji": "🎨", "title": ["चलो करके देखें: झूले से दिखती दुनिया", "Chalo karke dekhein: jhoole se dikhti duniya", "Let's Do It: the world from a swing"], "book": true,
+      "skills": ["book.activity", "book.writing"],
+      "steps": [
+        {"card": ["किताब कहती है: झूले पर ऊपर जाकर जो दिखता है उसकी तस्वीर बनाओ और चीज़ों के नाम लिखो। चलो उसके वाक्य बनाते हैं।", "Kitaab kehti hai: jhoole par upar jaakar jo dikhta hai uski tasveer banao aur cheezon ke naam likho. Chalo uske vaakya banaate hain.", "The book says: draw what you see from a swing and write the names of the things. Let's make sentences for it."]},
+        {"book": true, "build": ["तस्वीर: मुझे नीला आसमान और हरे पेड़ दिखते हैं।", "Tasveer: mujhe neela aasmaan aur hare ped dikhte hain.", "Picture: say you see the blue sky and green trees.", "I can see the blue sky and green trees.", "मुझे नीला आसमान और हरे पेड़ दिखते हैं।", "Mujhe neela aasmaan aur hare ped dikhte hain."]},
+        {"book": true, "build": ["तस्वीर: मुझे एक नदी और कुछ गायें दिखती हैं।", "Tasveer: mujhe ek nadi aur kuch gaayein dikhti hain.", "Picture: say you see a river and some cows.", "I can see a river and some cows.", "मुझे एक नदी और कुछ गायें दिखती हैं।", "Mujhe ek nadi aur kuch gaayein dikhti hain."]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: खेल का मैदान", "Aur seekho: khel ka maidaan", "Learn more: the playground"], "book": false,
+      "skills": ["vocab.places"],
+      "steps": [
+        {"pairs": ["खेल के मैदान की चीज़ें जोड़ो", "Khel ke maidaan ki cheezein jodo", "Join the playground words", [
+          ["swing", "you sit and go back and forth", "झूला", "jhoola"],
+          ["slide", "you slip down it", "फिसलपट्टी", "phisalpatti"],
+          ["see-saw", "two children go up and down", "सी-सॉ (ऊपर-नीचे वाला झूला)", "see-saw (upar-neeche waala jhoola)"],
+          ["sandpit", "a place full of sand to play in", "रेत का गड्ढा", "ret ka gaddha"]]]},
+        {"q": ["Which word means the opposite of ‘up’?", "‘up’ का उल्टा?", "‘up’ ka ulta?", ["down", "over", "high"], "down"]},
+        {"fb": ["We should hold the ropes tightly on a ___.", "swing", ["swing", "book", "plate"], "झूले पर रस्सियाँ कसकर पकड़नी चाहिए।", "Jhoole par rassiyaan kaskar pakadni chahiye."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 2 का टेस्ट", "Paath 2 ka test", "Lesson 2 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What is the pleasantest thing a child can do?", "बच्चे के लिए सबसे सुहानी चीज़?", "Bachche ke liye sabse suhaani cheez?", ["to go up in a swing", "to sleep", "to do homework"], "to go up in a swing"]},
+        {"book": true, "q": ["What does the child see going down the swing?", "नीचे आते हुए बच्चा क्या देखता है?", "Neeche aate hue bachcha kya dekhta hai?", ["the green garden and the brown roof", "the blue sky", "the moon"], "the green garden and the brown roof"]},
+        {"book": true, "skills": ["book.words"], "fb": ["Up in the air so ___?", "blue", ["blue", "brown", "green"], "इतनी नीली हवा में ऊपर?", "Itni neeli hawa mein upar?"]},
+        {"book": true, "skills": ["book.words"], "fb": ["Down on the roof so ___,", "brown", ["brown", "blue", "green"], "इतनी भूरी छत पर,", "Itni bhoori chhat par,"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘wall’?", "‘wall’ से तुक मिलाने वाला शब्द?", "‘wall’ se tuk milaane waala shabd?", ["tall", "wide", "blue"], "tall"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘brown’?", "‘brown’ से तुक मिलाने वाला शब्द?", "‘brown’ se tuk milaane waala shabd?", ["crown", "clue", "side"], "crown"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which of these does the child see from the swing?", "झूले से बच्चा क्या देखता है?", "Jhoole se bachcha kya dekhta hai?", ["cattle", "aeroplane", "sea"], "cattle"]},
+        {"book": true, "skills": ["book.talk", "grammar.can"], "fb": ["I can swim. Can you? No, I ___.", "can't", ["can't", "can"], "मैं तैर सकता हूँ। तुम? नहीं।", "Main tair sakta hoon. Tum? Nahi."]},
+        {"book": true, "skills": ["book.talk", "grammar.can"], "q": ["‘Can you fly a kite?’ The answer if you can:", "अगर तुम उड़ा सकते हो तो जवाब:", "Agar tum uda sakte ho to jawab:", ["Yes, I can.", "Yes, I do.", "No, I can't."], "Yes, I can."]},
+        {"book": true, "skills": ["book.words"], "q": ["Who wrote ‘The Swing’?", "‘The Swing’ किसने लिखी?", "‘The Swing’ kisne likhi?", ["Robert Louis Stevenson", "Christina Rossetti", "Jane Taylor"], "Robert Louis Stevenson"]}
+      ]
+    }
+  ]
+}

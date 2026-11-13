@@ -1,0 +1,314 @@
+{
+  "id": "B8.03.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.6.S02",
+    "B8.03.6.S03",
+    "B8.03.6.S04",
+    "B8.03.6.S05",
+    "B8.03.6.S06",
+    "B8.03.6.S07",
+    "B8.03.6.S08",
+    "B8.03.6.S09",
+    "B8.03.6.S10",
+    "B8.03.6.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.03.6.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "text": {
+        "hi": "तीन डिग्री: positive (poor), comparative (poorer, दो में), superlative (poorest, सबमें)। लंबे शब्दों में more/most: beautiful, more beautiful, most beautiful। कुछ अलग: good, better, best; bad, worse, worst।",
+        "hinglish": "Teen degree: positive (poor), comparative (poorer, do mein), superlative (poorest, sabmein). Lambe shabdon mein more/most: beautiful, more beautiful, most beautiful. Kuchh alag: good, better, best; bad, worse, worst.",
+        "en": "Three degrees: positive (poor), comparative (poorer, of two), superlative (poorest, of all). Long words use more/most. Some are different: good, better, best; bad, worse, worst."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.03.6.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसकी डिग्री में रखो",
+        "hinglish": "Har shabd ko uski degree mein rakho",
+        "en": "Put each word in its degree"
+      },
+      "groups": [
+        {
+          "id": "pos",
+          "name": "positive",
+          "emoji": "1️⃣",
+          "meaning": {
+            "hi": "मूल रूप",
+            "hinglish": "mool roop"
+          }
+        },
+        {
+          "id": "comp",
+          "name": "comparative",
+          "emoji": "2️⃣",
+          "meaning": {
+            "hi": "दो की तुलना",
+            "hinglish": "do ki tulna"
+          }
+        },
+        {
+          "id": "sup",
+          "name": "superlative",
+          "emoji": "3️⃣",
+          "meaning": {
+            "hi": "सबसे",
+            "hinglish": "sabse"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "poor",
+          "emoji": "🪙",
+          "groups": [
+            "pos"
+          ]
+        },
+        {
+          "text": "longer",
+          "emoji": "📏",
+          "groups": [
+            "comp"
+          ]
+        },
+        {
+          "text": "greatest",
+          "emoji": "🏆",
+          "groups": [
+            "sup"
+          ]
+        },
+        {
+          "text": "sweet",
+          "emoji": "🍬",
+          "groups": [
+            "pos"
+          ]
+        },
+        {
+          "text": "sweeter",
+          "emoji": "🍯",
+          "groups": [
+            "comp"
+          ]
+        },
+        {
+          "text": "most beautiful",
+          "emoji": "🌸",
+          "groups": [
+            "sup"
+          ]
+        },
+        {
+          "text": "handsome",
+          "emoji": "🤵",
+          "groups": [
+            "pos"
+          ]
+        },
+        {
+          "text": "more handsome",
+          "emoji": "🎩",
+          "groups": [
+            "comp"
+          ]
+        },
+        {
+          "text": "poorest",
+          "emoji": "🥀",
+          "groups": [
+            "sup"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.6.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "___ / more intelligent / ___",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "intelligent, most intelligent",
+        "intelligenter, intelligentest",
+        "intelligent, more intelligenter"
+      ],
+      "answer": "intelligent, most intelligent"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.6.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "good / ___ / best",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "better",
+        "gooder",
+        "more good"
+      ],
+      "answer": "better"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.6.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "___ / ___ / prettiest",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "pretty, prettier",
+        "prety, pretier",
+        "pretty, more pretty"
+      ],
+      "answer": "pretty, prettier"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.6.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "___ / worse / worst",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "bad",
+        "worser",
+        "badly"
+      ],
+      "answer": "bad"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.6.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "easy / easier / ___",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "easiest",
+        "easyest",
+        "most easy"
+      ],
+      "answer": "easiest"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.6.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "___ / more difficult / ___",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "difficult, most difficult",
+        "difficulter, difficultest",
+        "difficult, difficultest"
+      ],
+      "answer": "difficult, most difficult"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.6.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "few / ___ / fewest",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "fewer",
+        "more few",
+        "lesser"
+      ],
+      "answer": "fewer"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.6.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "busy / ___ / ___",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "busier, busiest",
+        "busyer, busyest",
+        "more busy, most busiest"
+      ],
+      "answer": "busier, busiest"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.6.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "___ / more / most",
+      "questionMeaning": {
+        "hi": "ख़ाली जगह भरो",
+        "hinglish": "Khaali jagah bharo"
+      },
+      "options": [
+        "many / much",
+        "mostly",
+        "more than"
+      ],
+      "answer": "many / much",
+      "modelAnswer": "many (for things we count) or much (for things we don't count): many → more → most, much → more → most.",
+      "modelMeaning": {
+        "hi": "many (गिनने वाली चीज़ें) या much (न गिनने वाली): दोनों का more, most।",
+        "hinglish": "many (ginne waali cheezein) ya much (na ginne waali): dono ka more, most."
+      }
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "id": "B6.12.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.12.3.S02",
+    "B6.12.3.S03",
+    "B6.12.3.S04",
+    "B6.12.3.S05",
+    "B6.12.3.S06",
+    "B6.12.3.S08",
+    "B6.12.3.S09",
+    "B6.12.3.S10",
+    "B6.12.3.S11",
+    "B6.12.3.S12",
+    "B6.12.3.S13",
+    "B6.12.3.S14",
+    "B6.12.3.S15",
+    "B6.12.3.S16",
+    "B6.12.3.S17",
+    "B6.12.3.S18"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.12.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 69-73 पर नाटक पढ़ो। पहले Yes/No में जवाब दो।",
+        "hinglish": "Apni kitaab mein page 69-73 par naatak padho. Pehle Yes/No mein jawab do.",
+        "en": "Read the play on pages 69–73 of your book. First, answer Yes or No."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Birbal was the King.",
+      "questionMeaning": {
+        "hi": "बीरबल राजा थे।",
+        "hinglish": "Birbal raja the."
+      },
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "No",
+      "modelAnswer": "No. Akbar was the King; Birbal was his minister.",
+      "modelMeaning": {
+        "hi": "नहीं। अकबर राजा थे; बीरबल उनके मंत्री थे।",
+        "hinglish": "Nahi. Akbar raja the; Birbal unke mantri the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Akbar was a generous King.",
+      "questionMeaning": {
+        "hi": "अकबर उदार राजा थे।",
+        "hinglish": "Akbar udaar raja the."
+      },
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Denu was a minister.",
+      "questionMeaning": {
+        "hi": "देनू मंत्री था।",
+        "hinglish": "Denu mantri tha."
+      },
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "No",
+      "modelAnswer": "No. Denu was a washerman.",
+      "modelMeaning": {
+        "hi": "नहीं। देनू धोबी था।",
+        "hinglish": "Nahi. Denu dhobi tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The washerman was a greedy man.",
+      "questionMeaning": {
+        "hi": "धोबी लालची आदमी था।",
+        "hinglish": "Dhobi laalchi aadmi tha."
+      },
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "No",
+      "modelAnswer": "No. He was a poor man who wanted to live well.",
+      "modelMeaning": {
+        "hi": "नहीं। वह ग़रीब था और अच्छी ज़िंदगी चाहता था।",
+        "hinglish": "Nahi. Woh gareeb tha aur achhi zindagi chahta tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Kusum does not help her husband.",
+      "questionMeaning": {
+        "hi": "कुसुम अपने पति की मदद नहीं करती।",
+        "hinglish": "Kusum apne pati ki madad nahi karti."
+      },
+      "options": [
+        "No",
+        "Yes"
+      ],
+      "answer": "No",
+      "modelAnswer": "No. Kusum prayed for her husband the whole night.",
+      "modelMeaning": {
+        "hi": "नहीं। कुसुम ने पूरी रात पति के लिए प्रार्थना की।",
+        "hinglish": "Nahi. Kusum ne poori raat pati ke liye praarthana ki."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.12.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अब बताओ किसने किससे कहा।",
+        "hinglish": "Ab batao kisne kisse kaha.",
+        "en": "Now say who said it to whom."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "\"Water of this river is very cold.\" Who said to whom?",
+      "questionMeaning": {
+        "hi": "किसने किससे कहा?",
+        "hinglish": "Kisne kisse kaha?"
+      },
+      "options": [
+        "Akbar to Birbal",
+        "Denu to Kusum",
+        "Birbal to Akbar"
+      ],
+      "answer": "Akbar to Birbal"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "\"Win a hundred gold coins, challenge from the King.\" Who said it?",
+      "questionMeaning": {
+        "hi": "यह किसने कहा?",
+        "hinglish": "Yeh kisne kaha?"
+      },
+      "options": [
+        "the town-crier to the people",
+        "Birbal to Denu",
+        "Akbar to the courtiers"
+      ],
+      "answer": "the town-crier to the people"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "\"I kept on praying for your safety the whole night.\" Who said to whom?",
+      "questionMeaning": {
+        "hi": "किसने किससे कहा?",
+        "hinglish": "Kisne kisse kaha?"
+      },
+      "options": [
+        "Kusum to Denu",
+        "Akbar to Birbal",
+        "the messenger to Akbar"
+      ],
+      "answer": "Kusum to Denu"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "\"Your majesty, he is cooking food.\" Who said to whom?",
+      "questionMeaning": {
+        "hi": "किसने किससे कहा?",
+        "hinglish": "Kisne kisse kaha?"
+      },
+      "options": [
+        "the messenger to Akbar",
+        "Birbal to Akbar",
+        "Kusum to Denu"
+      ],
+      "answer": "the messenger to Akbar"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "\"Salutations, Your Majesty.\" Who said to whom?",
+      "questionMeaning": {
+        "hi": "किसने किससे कहा?",
+        "hinglish": "Kisne kisse kaha?"
+      },
+      "options": [
+        "Denu to Akbar",
+        "Birbal to Denu",
+        "the courtier to Kusum"
+      ],
+      "answer": "Denu to Akbar"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What was Akbar's challenge?",
+      "questionMeaning": {
+        "hi": "अकबर की चुनौती क्या थी?",
+        "hinglish": "Akbar ki chunauti kya thi?"
+      },
+      "options": [
+        "Anyone who stood in the cold river all night would get a reward.",
+        "Anyone who ran fastest would get a reward.",
+        "Anyone who cooked best would get a reward."
+      ],
+      "answer": "Anyone who stood in the cold river all night would get a reward.",
+      "modelAnswer": "Akbar's challenge was that anyone who stood in the cold water of the river all through the night would be rewarded.",
+      "modelMeaning": {
+        "hi": "अकबर की चुनौती थी कि जो पूरी रात नदी के ठंडे पानी में खड़ा रहेगा, उसे इनाम मिलेगा।",
+        "hinglish": "Akbar ki chunauti thi ki jo poori raat nadi ke thande paani mein khada rahega, use inaam milega."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S14",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why was Denu ready to accept the challenge?",
+      "questionMeaning": {
+        "hi": "देनू चुनौती लेने को क्यों तैयार था?",
+        "hinglish": "Denu chunauti lene ko kyon taiyaar tha?"
+      },
+      "options": [
+        "He was poor, wanted the reward and was used to cold water.",
+        "He wanted to become king.",
+        "He liked swimming."
+      ],
+      "answer": "He was poor, wanted the reward and was used to cold water.",
+      "modelAnswer": "Denu was ready because he was poor and wanted the reward to live well. He was used to washing clothes in cold water every day.",
+      "modelMeaning": {
+        "hi": "देनू तैयार था क्योंकि वह ग़रीब था और अच्छी ज़िंदगी के लिए इनाम चाहता था। वह रोज़ ठंडे पानी में कपड़े धोने का आदी था।",
+        "hinglish": "Denu taiyaar tha kyonki woh gareeb tha aur achhi zindagi ke liye inaam chahta tha. Woh roz thande paani mein kapde dhone ka aadi tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S15",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why didn't Denu's wife want him to accept the challenge?",
+      "questionMeaning": {
+        "hi": "देनू की पत्नी नहीं चाहती थी कि वह चुनौती ले, क्यों?",
+        "hinglish": "Denu ki patni nahi chahti thi ki woh chunauti le, kyon?"
+      },
+      "options": [
+        "She thought it was too risky; he could die.",
+        "She wanted the reward for herself.",
+        "She did not like the king."
+      ],
+      "answer": "She thought it was too risky; he could die.",
+      "modelAnswer": "Denu's wife did not want him to accept the challenge because it was very risky. He could die in the cold water.",
+      "modelMeaning": {
+        "hi": "देनू की पत्नी नहीं चाहती थी क्योंकि यह बहुत ख़तरनाक था। ठंडे पानी में उसकी जान जा सकती थी।",
+        "hinglish": "Denu ki patni nahi chahti thi kyonki yeh bahut khatarnaak tha. Thande paani mein uski jaan ja sakti thi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S16",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What was the courtier's objection?",
+      "questionMeaning": {
+        "hi": "दरबारी की आपत्ति क्या थी?",
+        "hinglish": "Darbaari ki aapatti kya thi?"
+      },
+      "options": [
+        "The lights of the palace kept the washerman warm.",
+        "Denu came late.",
+        "Denu was not a washerman."
+      ],
+      "answer": "The lights of the palace kept the washerman warm.",
+      "modelAnswer": "The courtier said Denu did not deserve the reward because the lights of the palace kept him warm all through the night.",
+      "modelMeaning": {
+        "hi": "दरबारी ने कहा कि देनू इनाम का हक़दार नहीं क्योंकि महल की रोशनी ने उसे पूरी रात गर्म रखा।",
+        "hinglish": "Darbaari ne kaha ki Denu inaam ka hakdaar nahi kyonki mahal ki roshni ne use poori raat garm rakha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S17",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How did Birbal bring justice to Denu?",
+      "questionMeaning": {
+        "hi": "बीरबल ने देनू को इंसाफ़ कैसे दिलाया?",
+        "hinglish": "Birbal ne Denu ko insaaf kaise dilaaya?"
+      },
+      "options": [
+        "He kept a cooking pot far above a fire to show the palace lights could not warm Denu.",
+        "He paid Denu himself.",
+        "He punished the courtier."
+      ],
+      "answer": "He kept a cooking pot far above a fire to show the palace lights could not warm Denu.",
+      "modelAnswer": "Birbal kept a cooking pot far above a fire. He showed Akbar that if this fire could not cook the food, the far-off palace lights could not warm Denu either.",
+      "modelMeaning": {
+        "hi": "बीरबल ने आग से बहुत ऊपर हांडी रखी। उन्होंने अकबर को दिखाया कि अगर यह आग खाना नहीं पका सकती, तो दूर की महल की रोशनी देनू को गर्म नहीं रख सकती।",
+        "hinglish": "Birbal ne aag se bahut upar haandi rakhi. Unhone Akbar ko dikhaaya ki agar yeh aag khaana nahi paka sakti, to door ki mahal ki roshni Denu ko garm nahi rakh sakti."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.3.S18",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why was Denu very happy at the end?",
+      "questionMeaning": {
+        "hi": "आख़िर में देनू बहुत ख़ुश क्यों था?",
+        "hinglish": "Aakhir mein Denu bahut khush kyon tha?"
+      },
+      "options": [
+        "He got the reward and justice.",
+        "He became a minister.",
+        "He got a new house from Birbal."
+      ],
+      "answer": "He got the reward and justice.",
+      "modelAnswer": "Denu was very happy because he finally got the reward and justice was done to him.",
+      "modelMeaning": {
+        "hi": "देनू बहुत ख़ुश था क्योंकि आख़िरकार उसे इनाम और इंसाफ़ मिला।",
+        "hinglish": "Denu bahut khush tha kyonki aakhirkaar use inaam aur insaaf mila."
+      }
+    }
+  ]
+}

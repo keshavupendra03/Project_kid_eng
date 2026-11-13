@@ -1,0 +1,271 @@
+{
+  "id": "B7.06.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.06.3.S02",
+    "B7.06.3.S04",
+    "B7.06.3.S05",
+    "B7.06.3.S06",
+    "B7.06.3.S07",
+    "B7.06.3.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.06.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब के ‘word square’ में कविता के 9 शब्द छिपे हैं, जैसे harm। यहाँ बताओ कौन सा शब्द कविता का है।",
+        "hinglish": "Kitaab ke ‘word square’ mein kavita ke 9 shabd chhipe hain, jaise harm. Yahan batao kaun sa shabd kavita ka hai.",
+        "en": "The book's word square hides 9 words from the poem, like harm. Here, sort out which words are from the poem."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.06.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को सही ग्रुप में रखो: कविता में है या नहीं?",
+        "hinglish": "Har shabd ko sahi group mein rakho: kavita mein hai ya nahi?",
+        "en": "Is each word in the poem or not?"
+      },
+      "groups": [
+        {
+          "id": "in",
+          "name": "in the poem",
+          "emoji": "✅",
+          "meaning": {
+            "hi": "कविता में है",
+            "hinglish": "kavita mein hai"
+          }
+        },
+        {
+          "id": "out",
+          "name": "not in the poem",
+          "emoji": "❌",
+          "meaning": {
+            "hi": "कविता में नहीं है",
+            "hinglish": "kavita mein nahi hai"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "harm",
+          "emoji": "🔤",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "love",
+          "emoji": "❤️",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "gentle",
+          "emoji": "🤲",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "tail",
+          "emoji": "🐈",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "coat",
+          "emoji": "🧥",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "milk",
+          "emoji": "🥛",
+          "groups": [
+            "out"
+          ]
+        },
+        {
+          "text": "food",
+          "emoji": "🍲",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "jump",
+          "emoji": "🦘",
+          "groups": [
+            "out"
+          ]
+        },
+        {
+          "text": "warm",
+          "emoji": "🔥",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "mouse",
+          "emoji": "🐭",
+          "groups": [
+            "out"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.06.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "Homophones: ऐसे शब्द जो एक जैसे बोले जाते हैं पर मतलब अलग है। tail (पूँछ) – tale (कहानी), see (देखना) – sea (समुद्र), hole (छेद) – whole (पूरा), write (लिखना) – right (सही), I (मैं) – eye (आँख)।",
+        "hinglish": "Homophones: aise shabd jo ek jaise bole jaate hain par matlab alag hai. tail (poonchh) – tale (kahani), see (dekhna) – sea (samudra), hole (chhed) – whole (poora), write (likhna) – right (sahi), I (main) – eye (aankh).",
+        "en": "Homophones sound the same but mean different things: tail – tale, see – sea, hole – whole, write – right, I – eye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The monkey has a long ___.",
+      "answer": "tail",
+      "options": [
+        "tail",
+        "tale"
+      ],
+      "meaning": {
+        "hi": "बंदर की लंबी पूँछ होती है।",
+        "hinglish": "Bandar ki lambi poonchh hoti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "I saw a man with one ___.",
+      "answer": "eye",
+      "options": [
+        "eye",
+        "I"
+      ],
+      "meaning": {
+        "hi": "मैंने एक आँख वाले आदमी को देखा।",
+        "hinglish": "Maine ek aankh waale aadmi ko dekha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "A snake lives in a ___.",
+      "answer": "hole",
+      "options": [
+        "hole",
+        "whole"
+      ],
+      "meaning": {
+        "hi": "साँप बिल में रहता है।",
+        "hinglish": "Saanp bil mein rehta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "___ a letter to your friend.",
+      "answer": "Write",
+      "options": [
+        "Write",
+        "Right"
+      ],
+      "meaning": {
+        "hi": "अपने दोस्त को चिट्ठी लिखो।",
+        "hinglish": "Apne dost ko chitthi likho."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Fishermen go to the ___ every day.",
+      "answer": "sea",
+      "options": [
+        "sea",
+        "see"
+      ],
+      "meaning": {
+        "hi": "मछुआरे हर दिन समुद्र में जाते हैं।",
+        "hinglish": "Machhuaare har din samudra mein jaate hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Grandmother told us a ___ about a king.",
+      "answer": "tale",
+      "options": [
+        "tale",
+        "tail"
+      ],
+      "meaning": {
+        "hi": "दादी ने हमें एक राजा की कहानी सुनाई।",
+        "hinglish": "Daadi ne humein ek raja ki kahani sunaayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.3.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "He ate the ___ pizza by himself!",
+      "answer": "whole",
+      "options": [
+        "whole",
+        "hole"
+      ],
+      "meaning": {
+        "hi": "उसने पूरा पिज़्ज़ा अकेले खा लिया!",
+        "hinglish": "Usne poora pizza akele kha liya!"
+      }
+    }
+  ]
+}

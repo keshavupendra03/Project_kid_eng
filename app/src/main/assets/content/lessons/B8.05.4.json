@@ -1,0 +1,233 @@
+{
+  "id": "B8.05.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.05.4.S02",
+    "B8.05.4.S03",
+    "B8.05.4.S04",
+    "B8.05.4.S05",
+    "B8.05.4.S06",
+    "B8.05.4.S07",
+    "B8.05.4.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.05.4.S01",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "text": {
+        "hi": "कुछ अक्षर लिखे जाते हैं पर बोले नहीं जाते। कविता में knelt है: k चुप है (नेल्ट)।",
+        "hinglish": "Kuchh akshar likhe jaate hain par bole nahi jaate. Kavita mein knelt hai: k chup hai (nelt).",
+        "en": "Some letters are written but not spoken. The poem has knelt: the k is silent."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.4.S02",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "Wednesday: which letter is silent?",
+      "questionMeaning": {
+        "hi": "कौन सा अक्षर चुप है?",
+        "hinglish": "Kaun sa akshar chup hai?"
+      },
+      "options": [
+        "d",
+        "w",
+        "y"
+      ],
+      "answer": "d",
+      "modelAnswer": "Wednesday is said ‘Wenz-day’; the first d is silent.",
+      "modelMeaning": {
+        "hi": "Wednesday को ‘वेन्ज़डे’ बोलते हैं; पहला d चुप है।",
+        "hinglish": "Wednesday ko ‘Wenz-day’ bolte hain; pehla d chup hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.4.S03",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "sign: which letter is silent?",
+      "questionMeaning": {
+        "hi": "कौन सा अक्षर चुप है?",
+        "hinglish": "Kaun sa akshar chup hai?"
+      },
+      "options": [
+        "g",
+        "s",
+        "n"
+      ],
+      "answer": "g"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.4.S04",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "comb: which letter is silent?",
+      "questionMeaning": {
+        "hi": "कौन सा अक्षर चुप है?",
+        "hinglish": "Kaun sa akshar chup hai?"
+      },
+      "options": [
+        "b",
+        "c",
+        "m"
+      ],
+      "answer": "b"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.4.S05",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "knife: which letter is silent?",
+      "questionMeaning": {
+        "hi": "कौन सा अक्षर चुप है?",
+        "hinglish": "Kaun sa akshar chup hai?"
+      },
+      "options": [
+        "k",
+        "f",
+        "n"
+      ],
+      "answer": "k"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.4.S06",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "walk: which letter is silent?",
+      "questionMeaning": {
+        "hi": "कौन सा अक्षर चुप है?",
+        "hinglish": "Kaun sa akshar chup hai?"
+      },
+      "options": [
+        "l",
+        "w",
+        "k"
+      ],
+      "answer": "l"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.4.S07",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "hour: which letter is silent?",
+      "questionMeaning": {
+        "hi": "कौन सा अक्षर चुप है?",
+        "hinglish": "Kaun sa akshar chup hai?"
+      },
+      "options": [
+        "h",
+        "r",
+        "u"
+      ],
+      "answer": "h"
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.05.4.S08",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "instruction": {
+        "hi": "किताब: पाँच और शब्द। चुप अक्षर के हिसाब से रखो",
+        "hinglish": "Kitaab: paanch aur shabd. Chup akshar ke hisaab se rakho",
+        "en": "The book: five more words. Sort by the silent letter"
+      },
+      "groups": [
+        {
+          "id": "k",
+          "name": "silent k",
+          "emoji": "🔪",
+          "meaning": {
+            "hi": "k चुप",
+            "hinglish": "k chup"
+          }
+        },
+        {
+          "id": "w",
+          "name": "silent w",
+          "emoji": "✍️",
+          "meaning": {
+            "hi": "w चुप",
+            "hinglish": "w chup"
+          }
+        },
+        {
+          "id": "b",
+          "name": "silent b",
+          "emoji": "💣",
+          "meaning": {
+            "hi": "b चुप",
+            "hinglish": "b chup"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "knee",
+          "emoji": "🦵",
+          "groups": [
+            "k"
+          ]
+        },
+        {
+          "text": "know",
+          "emoji": "💡",
+          "groups": [
+            "k"
+          ]
+        },
+        {
+          "text": "write",
+          "emoji": "✍️",
+          "groups": [
+            "w"
+          ]
+        },
+        {
+          "text": "wrong",
+          "emoji": "❌",
+          "groups": [
+            "w"
+          ]
+        },
+        {
+          "text": "thumb",
+          "emoji": "👍",
+          "groups": [
+            "b"
+          ]
+        },
+        {
+          "text": "climb",
+          "emoji": "🧗",
+          "groups": [
+            "b"
+          ]
+        }
+      ]
+    }
+  ]
+}

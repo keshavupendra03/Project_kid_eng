@@ -1,0 +1,196 @@
+{
+  "id": "B7.09.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.09.2.S02",
+    "B7.09.2.S03",
+    "B7.09.2.S04",
+    "B7.09.2.S05",
+    "B7.09.2.S06",
+    "B7.09.2.S07",
+    "B7.09.2.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.09.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 63 से 66 तक नाटक ‘The White Visitor’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 63 se 66 tak naatak ‘The White Visitor’ padho. Phir jawab do.",
+        "en": "Read the play ‘The White Visitor’ on pages 63 to 66 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did Dr. Dass need to buy a house?",
+      "questionMeaning": {
+        "hi": "डॉ. दास को घर क्यों ख़रीदना था?",
+        "hinglish": "Dr. Dass ko ghar kyon khareedna tha?"
+      },
+      "options": [
+        "He had come to live and work in Kali Ghat.",
+        "He wanted to sell it later.",
+        "His old house was haunted."
+      ],
+      "answer": "He had come to live and work in Kali Ghat.",
+      "modelAnswer": "Dr. Dass needed a house because he had come to live and work in Kali Ghat.",
+      "modelMeaning": {
+        "hi": "डॉ. दास को घर चाहिए था क्योंकि वे काली घाट में रहने और काम करने आए थे।",
+        "hinglish": "Dr. Dass ko ghar chahiye tha kyonki woh Kali Ghat mein rehne aur kaam karne aaye the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did he want to buy Shanti Bhawan?",
+      "questionMeaning": {
+        "hi": "वे शांति भवन क्यों ख़रीदना चाहते थे?",
+        "hinglish": "Woh Shanti Bhawan kyon khareedna chahte the?"
+      },
+      "options": [
+        "It was cheap and in the middle of the town.",
+        "It had a big garden.",
+        "Mr. Choudhary told him to buy it."
+      ],
+      "answer": "It was cheap and in the middle of the town.",
+      "modelAnswer": "He wanted to buy Shanti Bhawan because it was cheap, only three lakh, and it was in the middle of the town.",
+      "modelMeaning": {
+        "hi": "वे शांति भवन ख़रीदना चाहते थे क्योंकि वह सस्ता था, सिर्फ़ तीन लाख का, और शहर के बीच में था।",
+        "hinglish": "Woh Shanti Bhawan khareedna chahte the kyonki woh sasta tha, sirf teen laakh ka, aur shahar ke beech mein tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What reason did Mr. Choudhary give Dr. Dass so that he wouldn't buy Shanti Bhawan?",
+      "questionMeaning": {
+        "hi": "चौधरी ने डॉ. दास को शांति भवन न ख़रीदने का क्या कारण बताया?",
+        "hinglish": "Choudhary ne Dr. Dass ko Shanti Bhawan na khareedne ka kya kaaran bataaya?"
+      },
+      "options": [
+        "He said Mrs Ghosh's ghost visits the house at night.",
+        "He said the house was broken.",
+        "He said the house was very costly."
+      ],
+      "answer": "He said Mrs Ghosh's ghost visits the house at night.",
+      "modelAnswer": "Mr. Choudhary said there were strange stories about the house. People said the dead owner, Mrs Ghosh, came back at night to visit it.",
+      "modelMeaning": {
+        "hi": "चौधरी ने कहा कि घर के बारे में अजीब कहानियाँ हैं। लोग कहते हैं कि मरी हुई मालकिन श्रीमती घोष रात को घर आती हैं।",
+        "hinglish": "Choudhary ne kaha ki ghar ke baare mein ajeeb kahaaniyaan hain. Log kehte hain ki mari hui maalkin Shrimati Ghosh raat ko ghar aati hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did Dr. Dass want to spend a night in the house before buying it?",
+      "questionMeaning": {
+        "hi": "डॉ. दास ख़रीदने से पहले घर में एक रात क्यों बिताना चाहते थे?",
+        "hinglish": "Dr. Dass khareedne se pehle ghar mein ek raat kyon bitaana chahte the?"
+      },
+      "options": [
+        "To find out if the ghost stories were true.",
+        "Because he had no other place.",
+        "To meet Mr. Ghosh."
+      ],
+      "answer": "To find out if the ghost stories were true.",
+      "modelAnswer": "Dr. Dass wanted to spend a night there to find out the truth about the ghost stories. He did not believe in them.",
+      "modelMeaning": {
+        "hi": "डॉ. दास भूत की कहानियों का सच जानने के लिए वहाँ रात बिताना चाहते थे। वे उन पर विश्वास नहीं करते थे।",
+        "hinglish": "Dr. Dass bhoot ki kahaaniyon ka sach jaanne ke liye wahan raat bitaana chahte the. Woh un par vishwaas nahi karte the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who was the ‘White Visitor’?",
+      "questionMeaning": {
+        "hi": "‘सफ़ेद मेहमान’ कौन था?",
+        "hinglish": "‘Safed mehmaan’ kaun tha?"
+      },
+      "options": [
+        "Mr. Choudhary",
+        "Mrs Ghosh's ghost",
+        "Mr. Ghosh"
+      ],
+      "answer": "Mr. Choudhary",
+      "modelAnswer": "The White Visitor was Mr. Choudhary. Dr. Dass suspected him, so he said, \"Mr. Choudhary, I believe,\" as soon as he pulled off the cloth.",
+      "modelMeaning": {
+        "hi": "सफ़ेद मेहमान चौधरी थे। डॉ. दास को उन पर पहले से शक था।",
+        "hinglish": "Safed mehmaan Choudhary the. Dr. Dass ko un par pehle se shak tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What qualities of Dr. Dass helped him in buying the house?",
+      "questionMeaning": {
+        "hi": "डॉ. दास के किन गुणों ने घर ख़रीदने में मदद की?",
+        "hinglish": "Dr. Dass ke kin gunon ne ghar khareedne mein madad ki?"
+      },
+      "options": [
+        "He was brave, smart and did not believe in ghosts.",
+        "He was rich and lazy.",
+        "He was afraid and quiet."
+      ],
+      "answer": "He was brave, smart and did not believe in ghosts.",
+      "modelAnswer": "Dr. Dass was brave, smart and determined. He did not believe in ghosts, so he found out the truth.",
+      "modelMeaning": {
+        "hi": "डॉ. दास बहादुर, समझदार और पक्के इरादे वाले थे। वे भूतों पर विश्वास नहीं करते थे, इसलिए उन्होंने सच पता कर लिया।",
+        "hinglish": "Dr. Dass bahaadur, samajhdaar aur pakke iraade waale the. Woh bhooton par vishwaas nahi karte the, isliye unhone sach pata kar liya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did Mr. Choudhary ask Dr. Dass not to talk about this incident?",
+      "questionMeaning": {
+        "hi": "चौधरी ने डॉ. दास से इस घटना के बारे में किसी को न बताने को क्यों कहा?",
+        "hinglish": "Choudhary ne Dr. Dass se is ghatna ke baare mein kisi ko na bataane ko kyon kaha?"
+      },
+      "options": [
+        "He was afraid he would lose his business.",
+        "He was ashamed of his white cloth.",
+        "He wanted to keep the house."
+      ],
+      "answer": "He was afraid he would lose his business.",
+      "modelAnswer": "Mr. Choudhary asked him not to tell anyone because he would lose his business.",
+      "modelMeaning": {
+        "hi": "चौधरी ने किसी को न बताने को कहा क्योंकि उनका कारोबार चौपट हो जाता।",
+        "hinglish": "Choudhary ne kisi ko na bataane ko kaha kyonki unka kaarobaar chaupat ho jaata."
+      }
+    }
+  ]
+}

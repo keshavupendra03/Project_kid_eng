@@ -1,0 +1,260 @@
+{
+  "id": "B8.12.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.12.2.S02",
+    "B8.12.2.S05",
+    "B8.12.2.S06",
+    "B8.12.2.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.12.2.S01",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "text": {
+        "hi": "(A) चुप अक्षर ढूँढो और शब्द ज़ोर से बोलो: edge में d नहीं बोलते (एज)।",
+        "hinglish": "(A) Chup akshar dhoondho aur shabd zor se bolo: edge mein d nahi bolte (ej).",
+        "en": "(A) Find the silent letter and say the words aloud: in edge, the d is silent."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.12.2.S02",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "instruction": {
+        "hi": "चुप अक्षर के हिसाब से रखो",
+        "hinglish": "Chup akshar ke hisaab se rakho",
+        "en": "Sort by the silent letter"
+      },
+      "groups": [
+        {
+          "id": "d",
+          "name": "silent d",
+          "emoji": "🔷",
+          "meaning": {
+            "hi": "d चुप",
+            "hinglish": "d chup"
+          }
+        },
+        {
+          "id": "b",
+          "name": "silent b",
+          "emoji": "💣",
+          "meaning": {
+            "hi": "b चुप",
+            "hinglish": "b chup"
+          }
+        },
+        {
+          "id": "l",
+          "name": "silent l",
+          "emoji": "🌴",
+          "meaning": {
+            "hi": "l चुप",
+            "hinglish": "l chup"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "edge",
+          "emoji": "📐",
+          "groups": [
+            "d"
+          ]
+        },
+        {
+          "text": "adjective",
+          "emoji": "🔤",
+          "groups": [
+            "d"
+          ]
+        },
+        {
+          "text": "badge",
+          "emoji": "📛",
+          "groups": [
+            "d"
+          ]
+        },
+        {
+          "text": "tomb",
+          "emoji": "🕌",
+          "groups": [
+            "b"
+          ]
+        },
+        {
+          "text": "bomb",
+          "emoji": "💣",
+          "groups": [
+            "b"
+          ]
+        },
+        {
+          "text": "comb",
+          "emoji": "🪮",
+          "groups": [
+            "b"
+          ]
+        },
+        {
+          "text": "palm",
+          "emoji": "🌴",
+          "groups": [
+            "l"
+          ]
+        },
+        {
+          "text": "could",
+          "emoji": "🤔",
+          "groups": [
+            "l"
+          ]
+        },
+        {
+          "text": "walk",
+          "emoji": "🚶",
+          "groups": [
+            "l"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B8.12.2.S03",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "palm",
+        "emoji": "",
+        "hindi": "हथेली / ताड़",
+        "hinglish": "hatheli / taad"
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.12.2.S04",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "text": {
+        "hi": "(B) -ly जोड़ो: sudden + ly = suddenly। ध्यान: simple → simply (e हटता है)।",
+        "hinglish": "(B) -ly jodo: sudden + ly = suddenly. Dhyaan: simple → simply (e hat-ta hai).",
+        "en": "(B) Add -ly: sudden + ly = suddenly. Note: simple → simply (the e goes)."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.12.2.S05",
+      "skills": [
+        "book.words",
+        "grammar.adverbs"
+      ],
+      "instruction": {
+        "hi": "-ly वाला रूप जोड़ो",
+        "hinglish": "-ly waala roop jodo",
+        "en": "Join each word to its -ly form"
+      },
+      "pairs": [
+        {
+          "left": "beautiful",
+          "right": "beautifully",
+          "meaning": {
+            "hi": "सुंदरता से",
+            "hinglish": "sundarta se"
+          }
+        },
+        {
+          "left": "simple",
+          "right": "simply",
+          "meaning": {
+            "hi": "सादगी से",
+            "hinglish": "saadgi se"
+          }
+        },
+        {
+          "left": "general",
+          "right": "generally",
+          "meaning": {
+            "hi": "आम तौर पर",
+            "hinglish": "aam taur par"
+          }
+        },
+        {
+          "left": "quiet",
+          "right": "quietly",
+          "meaning": {
+            "hi": "चुपचाप",
+            "hinglish": "chupchaap"
+          }
+        },
+        {
+          "left": "main",
+          "right": "mainly",
+          "meaning": {
+            "hi": "मुख्य रूप से",
+            "hinglish": "mukhya roop se"
+          }
+        },
+        {
+          "left": "actual",
+          "right": "actually",
+          "meaning": {
+            "hi": "असल में",
+            "hinglish": "asal mein"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.12.2.S06",
+      "skills": [
+        "book.words",
+        "grammar.adverbs"
+      ],
+      "sentence": "The children sat ___ in the library.",
+      "answer": "quietly",
+      "options": [
+        "quietly",
+        "mainly",
+        "actually"
+      ],
+      "meaning": {
+        "hi": "बच्चे पुस्तकालय में चुपचाप बैठे।",
+        "hinglish": "Bachche pustakaalay mein chupchaap baithe."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.12.2.S07",
+      "skills": [
+        "book.words",
+        "grammar.adverbs"
+      ],
+      "sentence": "Bhils live ___ in Jhabua, Dhar and Barwani.",
+      "answer": "mainly",
+      "options": [
+        "mainly",
+        "quietly",
+        "beautifully"
+      ],
+      "meaning": {
+        "hi": "भील मुख्य रूप से झाबुआ, धार और बड़वानी में रहते हैं।",
+        "hinglish": "Bhil mukhya roop se Jhabua, Dhaar aur Badwaani mein rehte hain."
+      }
+    }
+  ]
+}

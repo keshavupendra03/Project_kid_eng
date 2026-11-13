@@ -1,0 +1,202 @@
+{
+  "id": "B7.10.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.10.T.S01",
+    "B7.10.T.S02",
+    "B7.10.T.S03",
+    "B7.10.T.S04",
+    "B7.10.T.S05",
+    "B7.10.T.S06",
+    "B7.10.T.S07",
+    "B7.10.T.S08",
+    "B7.10.T.S09",
+    "B7.10.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.10.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Whom does the poet invite?",
+      "questionMeaning": {
+        "hi": "कवयित्री किसे बुलाती है?",
+        "hinglish": "Kavayitri kise bulaati hai?"
+      },
+      "options": [
+        "her friend",
+        "her teacher",
+        "her mother"
+      ],
+      "answer": "her friend"
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What does she long to do?",
+      "questionMeaning": {
+        "hi": "वह क्या करने को तरस रही है?",
+        "hinglish": "Woh kya karne ko taras rahi hai?"
+      },
+      "options": [
+        "to take her friend for a ride in her rocket",
+        "to go to school",
+        "to buy a new car"
+      ],
+      "answer": "to take her friend for a ride in her rocket"
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Stars shine like ... in the sky.",
+      "questionMeaning": {
+        "hi": "तारे आसमान में किसकी तरह चमकते हैं?",
+        "hinglish": "Taare aasmaan mein kiski tarah chamakte hain?"
+      },
+      "options": [
+        "diamonds",
+        "lamps",
+        "eyes"
+      ],
+      "answer": "diamonds"
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘night’?",
+      "questionMeaning": {
+        "hi": "कौन सा शब्द ‘night’ से तुक मिलाता है?",
+        "hinglish": "Kaun sa shabd ‘night’ se tuk milaata hai?"
+      },
+      "options": [
+        "fight",
+        "fun",
+        "rope"
+      ],
+      "answer": "fight"
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.T.S05",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "The opposite of ‘pleasant’ is ...",
+      "questionMeaning": {
+        "hi": "‘pleasant’ का उल्टा?",
+        "hinglish": "‘pleasant’ ka ulta?"
+      },
+      "options": [
+        "unpleasant",
+        "repleasant",
+        "pleasantful"
+      ],
+      "answer": "unpleasant"
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.T.S06",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "The opposite of ‘natural’ is ...",
+      "questionMeaning": {
+        "hi": "‘natural’ का उल्टा?",
+        "hinglish": "‘natural’ ka ulta?"
+      },
+      "options": [
+        "unnatural",
+        "denatural",
+        "naturalless"
+      ],
+      "answer": "unnatural"
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "question": "Which sentence is in the right order?",
+      "questionMeaning": {
+        "hi": "कौन सा वाक्य सही क्रम में है?",
+        "hinglish": "Kaun sa vaakya sahi kram mein hai?"
+      },
+      "options": [
+        "My rocket is waiting just outside.",
+        "Rocket my waiting is outside just.",
+        "Just outside my is rocket waiting."
+      ],
+      "answer": "My rocket is waiting just outside."
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "question": "A sentence ends with a ...",
+      "questionMeaning": {
+        "hi": "वाक्य किससे ख़त्म होता है?",
+        "hinglish": "Vaakya kisse khatm hota hai?"
+      },
+      "options": [
+        "full stop",
+        "comma",
+        "capital letter"
+      ],
+      "answer": "full stop"
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.T.S09",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Which is the hottest planet?",
+      "questionMeaning": {
+        "hi": "सबसे गर्म ग्रह?",
+        "hinglish": "Sabse garm grah?"
+      },
+      "options": [
+        "Venus",
+        "Neptune",
+        "Mars"
+      ],
+      "answer": "Venus"
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.T.S10",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "People who go into space are called ...",
+      "questionMeaning": {
+        "hi": "अंतरिक्ष में जाने वाले कहलाते हैं ...",
+        "hinglish": "Antariksh mein jaane waale kehlaate hain ..."
+      },
+      "options": [
+        "astronauts",
+        "pilots",
+        "sailors"
+      ],
+      "answer": "astronauts"
+    }
+  ]
+}

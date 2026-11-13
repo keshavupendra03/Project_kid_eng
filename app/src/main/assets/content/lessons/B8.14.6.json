@@ -1,0 +1,161 @@
+{
+  "id": "B8.14.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.14.6.S02",
+    "B8.14.6.S03",
+    "B8.14.6.S04",
+    "B8.14.6.S05",
+    "B8.14.6.S06",
+    "B8.14.6.S07",
+    "B8.14.6.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.14.6.S01",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "कक्षा 8 का टाइम टेबल: 11.00 अंग्रेज़ी (R. Mishra), 11.35 गणित (Mr. Mathew), 12.10 हिंदी (R. K. Singh), 12.45 EVS (R. Khan), 1.20 से 1.55 लंच, 1.55 संस्कृत (T. Joshi), 2.30 विज्ञान (P. Shrivastava), 3.05 से 3.40 खेल (V. P. Patel)।",
+        "hinglish": "Kaksha 8 ka time table: 11.00 Angrezi (R. Mishra), 11.35 Ganit (Mr. Mathew), 12.10 Hindi (R. K. Singh), 12.45 EVS (R. Khan), 1.20 se 1.55 lunch, 1.55 Sanskrit (T. Joshi), 2.30 Vigyaan (P. Shrivastava), 3.05 se 3.40 khel (V. P. Patel).",
+        "en": "Class VIII timetable: 11.00 English (R. Mishra), 11.35 Maths (Mr. Mathew), 12.10 Hindi (R. K. Singh), 12.45 EVS (R. Khan), 1.20–1.55 lunch, 1.55 Sanskrit (T. Joshi), 2.30 Science (P. Shrivastava), 3.05–3.40 Sports (V. P. Patel)."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.6.S02",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "Who teaches us EVS?",
+      "questionMeaning": {
+        "hi": "EVS कौन पढ़ाते हैं?",
+        "hinglish": "EVS kaun padhaate hain?"
+      },
+      "options": [
+        "R. Khan",
+        "R. Mishra",
+        "T. Joshi"
+      ],
+      "answer": "R. Khan"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.6.S03",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "How long is the lunch break?",
+      "questionMeaning": {
+        "hi": "लंच कितनी देर का है?",
+        "hinglish": "Lunch kitni der ka hai?"
+      },
+      "options": [
+        "35 minutes",
+        "1 hour",
+        "20 minutes"
+      ],
+      "answer": "35 minutes"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.6.S04",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "When does the science class begin?",
+      "questionMeaning": {
+        "hi": "विज्ञान की कक्षा कब शुरू होती है?",
+        "hinglish": "Vigyaan ki kaksha kab shuru hoti hai?"
+      },
+      "options": [
+        "at 2.30",
+        "at 1.55",
+        "at 3.05"
+      ],
+      "answer": "at 2.30"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.6.S05",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "In which period do we have sports?",
+      "questionMeaning": {
+        "hi": "खेल किस पीरियड में है?",
+        "hinglish": "Khel kis period mein hai?"
+      },
+      "options": [
+        "in the 7th period",
+        "in the 1st period",
+        "in the 5th period"
+      ],
+      "answer": "in the 7th period"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.6.S06",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What does Mr. Mathew teach?",
+      "questionMeaning": {
+        "hi": "मैथ्यू सर क्या पढ़ाते हैं?",
+        "hinglish": "Mathew sir kya padhaate hain?"
+      },
+      "options": [
+        "Maths",
+        "Science",
+        "English"
+      ],
+      "answer": "Maths"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.6.S07",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What is taught in the fifth period?",
+      "questionMeaning": {
+        "hi": "पाँचवें पीरियड में क्या?",
+        "hinglish": "Paanchven period mein kya?"
+      },
+      "options": [
+        "Sanskrit",
+        "Science",
+        "Hindi"
+      ],
+      "answer": "Sanskrit"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.6.S08",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "At what time does the school close?",
+      "questionMeaning": {
+        "hi": "स्कूल कब बंद होता है?",
+        "hinglish": "School kab band hota hai?"
+      },
+      "options": [
+        "at 3.40",
+        "at 3.05",
+        "at 1.20"
+      ],
+      "answer": "at 3.40"
+    }
+  ]
+}

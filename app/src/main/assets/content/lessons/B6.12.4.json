@@ -1,0 +1,237 @@
+{
+  "id": "B6.12.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.12.4.S02",
+    "B6.12.4.S03",
+    "B6.12.4.S04",
+    "B6.12.4.S05",
+    "B6.12.4.S06",
+    "B6.12.4.S07",
+    "B6.12.4.S08",
+    "B6.12.4.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.12.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "text": {
+        "hi": "विशेषण (adjective) बताता है कोई कैसा है: a happy boy। क्रिया-विशेषण (adverb) बताता है काम कैसे हुआ: he smiled happily। ज़्यादातर में -ly लगता है। happy में y → i: happily।",
+        "hinglish": "Visheshan (adjective) bataata hai koi kaisa hai: a happy boy. Kriya-visheshan (adverb) bataata hai kaam kaise hua: he smiled happily. Zyaadatar mein -ly lagta hai. happy mein y → i: happily.",
+        "en": "An adjective tells what someone is like: a happy boy. An adverb tells how something is done: he smiled happily. Most add -ly; happy changes y to i: happily."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.12.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "instruction": {
+        "hi": "विशेषण को उसके -ly रूप से जोड़ो",
+        "hinglish": "Visheshan ko uske -ly roop se jodo",
+        "en": "Join each adjective to its adverb"
+      },
+      "pairs": [
+        {
+          "left": "loud",
+          "right": "loudly",
+          "meaning": {
+            "hi": "ज़ोर से",
+            "hinglish": "zor se"
+          }
+        },
+        {
+          "left": "quick",
+          "right": "quickly",
+          "meaning": {
+            "hi": "जल्दी से",
+            "hinglish": "jaldi se"
+          }
+        },
+        {
+          "left": "proper",
+          "right": "properly",
+          "meaning": {
+            "hi": "ठीक से",
+            "hinglish": "theek se"
+          }
+        },
+        {
+          "left": "successful",
+          "right": "successfully",
+          "meaning": {
+            "hi": "सफलता से",
+            "hinglish": "safalta se"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.12.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "instruction": {
+        "hi": "विशेषण को उसके -ly रूप से जोड़ो",
+        "hinglish": "Visheshan ko uske -ly roop se jodo",
+        "en": "Join each adjective to its adverb"
+      },
+      "pairs": [
+        {
+          "left": "thoughtful",
+          "right": "thoughtfully",
+          "meaning": {
+            "hi": "सोच-समझकर",
+            "hinglish": "soch-samajhkar"
+          }
+        },
+        {
+          "left": "beautiful",
+          "right": "beautifully",
+          "meaning": {
+            "hi": "सुंदरता से",
+            "hinglish": "sundarta se"
+          }
+        },
+        {
+          "left": "helpful",
+          "right": "helpfully",
+          "meaning": {
+            "hi": "मदद करते हुए",
+            "hinglish": "madad karte hue"
+          }
+        },
+        {
+          "left": "happy",
+          "right": "happily",
+          "meaning": {
+            "hi": "ख़ुशी से",
+            "hinglish": "khushi se"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "The teacher said ___, \"I will find a way to help you.\"",
+      "answer": "thoughtfully",
+      "options": [
+        "thoughtfully",
+        "loudly",
+        "sadly"
+      ],
+      "meaning": {
+        "hi": "टीचर ने सोच-समझकर कहा, ‘मैं तुम्हारी मदद का रास्ता निकालूँगा।’",
+        "hinglish": "Teacher ne soch-samajhkar kaha, ‘Main tumhari madad ka raasta nikaaloonga.’"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "The cap seller said ___, \"All my caps are gone.\"",
+      "answer": "sadly",
+      "options": [
+        "sadly",
+        "happily",
+        "comfortably"
+      ],
+      "meaning": {
+        "hi": "टोपीवाले ने दुखी होकर कहा, ‘मेरी सारी टोपियाँ चली गईं।’",
+        "hinglish": "Topiwaale ne dukhi hokar kaha, ‘Meri saari topiyaan chali gayin.’"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "The patient slept ___ after the doctor gave him some medicine.",
+      "answer": "comfortably",
+      "options": [
+        "comfortably",
+        "loudly",
+        "quickly"
+      ],
+      "meaning": {
+        "hi": "दवा के बाद मरीज़ आराम से सोया।",
+        "hinglish": "Dava ke baad mareez aaraam se soya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "Ramesh went home ___ after watching the play.",
+      "answer": "happily",
+      "options": [
+        "happily",
+        "loudly",
+        "sadly"
+      ],
+      "meaning": {
+        "hi": "नाटक देखकर रमेश ख़ुशी-ख़ुशी घर गया।",
+        "hinglish": "Naatak dekhkar Ramesh khushi-khushi ghar gaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "Once he got his money he went home ___.",
+      "answer": "quickly",
+      "options": [
+        "quickly",
+        "thoughtfully",
+        "really"
+      ],
+      "meaning": {
+        "hi": "पैसे मिलते ही वह जल्दी से घर गया।",
+        "hinglish": "Paise milte hi woh jaldi se ghar gaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "The lion roared ___, \"Who woke me up?\"",
+      "answer": "loudly",
+      "options": [
+        "loudly",
+        "comfortably",
+        "sadly"
+      ],
+      "meaning": {
+        "hi": "शेर ज़ोर से दहाड़ा, ‘मुझे किसने जगाया?’",
+        "hinglish": "Sher zor se dahaada, ‘Mujhe kisne jagaaya?’"
+      }
+    }
+  ]
+}

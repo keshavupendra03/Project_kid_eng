@@ -1,0 +1,220 @@
+{
+  "id": "B8.06.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.06.1.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.06.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "राजा कृष्णदेवराय ख़ुश होकर एक चित्रकार को मुख्यमंत्री बना देते हैं, पर उसे राज चलाना नहीं आता। तेनाली रामन एक बढ़ई से खाना बनवाकर राजा को उनकी गलती समझाते हैं!",
+        "hinglish": "Raja Krishnadevaraya khush hokar ek chitrakaar ko mukhyamantri bana dete hain, par use raaj chalaana nahi aata. Tenali Raman ek badhai se khaana banwaakar raja ko unki galti samjhaate hain!",
+        "en": "King Krishnadevaraya happily makes a painter his chief minister, but the painter cannot run the state. Tenali Raman has a carpenter cook a meal to show the king his mistake!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What is Tenali Raman famous for?",
+      "questionMeaning": {
+        "hi": "तेनाली रामन किस लिए मशहूर हैं?",
+        "hinglish": "Tenali Raman kis liye mashhoor hain?"
+      },
+      "options": [
+        "his wit and clever ideas",
+        "his paintings",
+        "his strength"
+      ],
+      "answer": "his wit and clever ideas",
+      "modelAnswer": "Tenali Raman was a poet in the court of King Krishnadevaraya. He is famous for his wit and clever solutions to problems.",
+      "modelMeaning": {
+        "hi": "तेनाली रामन राजा कृष्णदेवराय के दरबार में कवि थे। वे अपनी हाज़िरजवाबी और चतुर उपायों के लिए मशहूर हैं।",
+        "hinglish": "Tenali Raman Raja Krishnadevaraya ke darbaar mein kavi the. Woh apni haazirjawaabi aur chatur upaayon ke liye mashhoor hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.06.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "patronage",
+        "emoji": "",
+        "hindi": "संरक्षण, सहारा",
+        "hinglish": "sanrakshan, sahaara"
+      },
+      "meaning": "support given by a rich or powerful person",
+      "example": "The king was known for his patronage of poets.",
+      "exampleMeaning": {
+        "hi": "राजा कवियों को सहारा देने के लिए जाने जाते थे।",
+        "hinglish": "Raja kaviyon ko sahaara dene ke liye jaane jaate the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.06.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "portrait",
+        "emoji": "",
+        "hindi": "चित्र (किसी व्यक्ति का)",
+        "hinglish": "chitra (kisi vyakti ka)"
+      },
+      "meaning": "a painting of a person",
+      "example": "He drew the king's portrait.",
+      "exampleMeaning": {
+        "hi": "उसने राजा का चित्र बनाया।",
+        "hinglish": "Usne raja ka chitra banaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.06.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "prominent",
+        "emoji": "",
+        "hindi": "प्रमुख, जाना-माना",
+        "hinglish": "pramukh, jaana-maana"
+      },
+      "meaning": "important and well known",
+      "example": "She is a prominent writer.",
+      "exampleMeaning": {
+        "hi": "वह एक जानी-मानी लेखिका हैं।",
+        "hinglish": "Woh ek jaani-maani lekhika hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.06.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "inept",
+        "emoji": "",
+        "hindi": "अयोग्य, नाकाबिल",
+        "hinglish": "ayogya, naakaabil"
+      },
+      "meaning": "not able to do a job well",
+      "example": "The new minister was inept.",
+      "exampleMeaning": {
+        "hi": "नया मंत्री नाकाबिल था।",
+        "hinglish": "Naya mantri naakaabil tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.06.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "sumptuous",
+        "emoji": "",
+        "hindi": "शानदार (भोज)",
+        "hinglish": "shaandaar (bhoj)"
+      },
+      "meaning": "rich and grand, like a big feast",
+      "example": "They had a sumptuous dinner.",
+      "exampleMeaning": {
+        "hi": "उन्होंने शानदार भोजन किया।",
+        "hinglish": "Unhone shaandaar bhojan kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.06.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "morsel",
+        "emoji": "",
+        "hindi": "कौर, निवाला",
+        "hinglish": "kaur, nivaala"
+      },
+      "meaning": "a small piece of food",
+      "example": "He put the first morsel in his mouth.",
+      "exampleMeaning": {
+        "hi": "उसने पहला निवाला मुँह में डाला।",
+        "hinglish": "Usne pehla nivaala munh mein daala."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.06.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "livid",
+        "emoji": "",
+        "hindi": "बहुत ग़ुस्से में",
+        "hinglish": "bahut gusse mein"
+      },
+      "meaning": "very angry",
+      "example": "The king was livid.",
+      "exampleMeaning": {
+        "hi": "राजा बहुत ग़ुस्से में थे।",
+        "hinglish": "Raja bahut gusse mein the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.06.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "courteously",
+        "emoji": "",
+        "hindi": "विनम्रता से",
+        "hinglish": "vinamrata se"
+      },
+      "meaning": "politely",
+      "example": "He spoke courteously to the king.",
+      "exampleMeaning": {
+        "hi": "उसने राजा से विनम्रता से बात की।",
+        "hinglish": "Usne raja se vinamrata se baat ki."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.06.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "embarrassment",
+        "emoji": "",
+        "hindi": "शर्मिंदगी",
+        "hinglish": "sharmindagi"
+      }
+    }
+  ]
+}

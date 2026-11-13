@@ -1,0 +1,124 @@
+{
+  "id": "B8.09.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.09.6.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.09.6.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब: एक रिपोर्टर ज़िला परीक्षा में पहले आए दीपक का इंटरव्यू लेता है। Tinku रिपोर्टर है, तुम दीपक हो।",
+        "hinglish": "Kitaab: ek reporter zila pariksha mein pehle aaye Deepak ka interview leta hai. Tinku reporter hai, tum Deepak ho.",
+        "en": "The book: a reporter interviews Deepak, who came first in the district exam. Tinku is the reporter; you are Deepak."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B8.09.6.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🎤",
+      "turns": [
+        {
+          "id": "hi",
+          "tinku": "Congratulations, Deepak! I am from the Daily Times.",
+          "meaning": {
+            "hi": "बधाई हो दीपक! मैं डेली टाइम्स से हूँ।",
+            "hinglish": "Badhaai ho Deepak! Main Daily Times se hoon."
+          },
+          "replies": [
+            {
+              "say": "Thank you, Sir. Please have a seat.",
+              "meaning": {
+                "hi": "धन्यवाद सर। कृपया बैठिए।",
+                "hinglish": "Dhanyavaad sir. Kripya baithiye."
+              },
+              "patterns": [
+                "thank you *",
+                "thank you",
+                "thanks *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hours",
+          "tinku": "How many hours did you study every day?",
+          "meaning": {
+            "hi": "तुम रोज़ कितने घंटे पढ़ते थे?",
+            "hinglish": "Tum roz kitne ghante padhte the?"
+          },
+          "replies": [
+            {
+              "say": "I studied for five hours every day.",
+              "meaning": {
+                "hi": "मैं रोज़ पाँच घंटे पढ़ता था।",
+                "hinglish": "Main roz paanch ghante padhta tha."
+              },
+              "patterns": [
+                "i studied for *",
+                "* hours *",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "credit",
+          "tinku": "Who would you like to give the credit to?",
+          "meaning": {
+            "hi": "इस सफलता का श्रेय किसे दोगे?",
+            "hinglish": "Is safalta ka shrey kise doge?"
+          },
+          "replies": [
+            {
+              "say": "I give the credit to my parents and teachers.",
+              "meaning": {
+                "hi": "मैं श्रेय माता-पिता और शिक्षकों को देता हूँ।",
+                "hinglish": "Main shrey maata-pita aur shikshakon ko deta hoon."
+              },
+              "patterns": [
+                "i give the credit to *",
+                "my parents *",
+                "* teachers *",
+                "* parents *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "future",
+          "tinku": "What do you want to become?",
+          "meaning": {
+            "hi": "तुम क्या बनना चाहते हो?",
+            "hinglish": "Tum kya banna chahte ho?"
+          },
+          "replies": [
+            {
+              "say": "I want to become an astronaut.",
+              "meaning": {
+                "hi": "मैं अंतरिक्ष यात्री बनना चाहता हूँ।",
+                "hinglish": "Main antariksh yaatri banna chahta hoon."
+              },
+              "patterns": [
+                "i want to become *",
+                "* astronaut",
+                "an *",
+                "a *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

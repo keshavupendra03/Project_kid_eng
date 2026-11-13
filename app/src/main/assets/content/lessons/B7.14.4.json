@@ -1,0 +1,382 @@
+{
+  "id": "B7.14.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.14.4.S02",
+    "B7.14.4.S03",
+    "B7.14.4.S04",
+    "B7.14.4.S05",
+    "B7.14.4.S06",
+    "B7.14.4.S07",
+    "B7.14.4.S08",
+    "B7.14.4.S09",
+    "B7.14.4.S11",
+    "B7.14.4.S12",
+    "B7.14.4.S13",
+    "B7.14.4.S14"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.14.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "text": {
+        "hi": "सवाल को indirect में बदलते समय: said to → asked, सवाल का क्रम सीधे वाक्य जैसा, और ? हट जाता है। Ramu said to Mohan, \"Where are you going?\" → Ramu asked Mohan where he was going.",
+        "hinglish": "Sawaal ko indirect mein badalte samay: said to → asked, sawaal ka kram seedhe vaakya jaisa, aur ? hat jaata hai. Ramu said to Mohan, \"Where are you going?\" → Ramu asked Mohan where he was going.",
+        "en": "When reporting a question: said to → asked, the words go in normal sentence order, and the ? goes away. Ramu said to Mohan, \"Where are you going?\" → Ramu asked Mohan where he was going."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: He said to me, \"What are you doing?\"",
+        "hinglish": "Badlo: He said to me, \"What are you doing?\"",
+        "en": "Change: He said to me, \"What are you doing?\""
+      },
+      "answer": "He asked me what I was doing.",
+      "meaning": {
+        "hi": "उसने मुझसे पूछा कि मैं क्या कर रहा/रही था/थी।",
+        "hinglish": "Usne mujhse poochha ki main kya kar raha/rahi tha/thi."
+      },
+      "extra": [
+        "are",
+        "you"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Jyoti said to the boy, \"Where do you live?\"",
+        "hinglish": "Badlo: Jyoti said to the boy, \"Where do you live?\"",
+        "en": "Change: Jyoti said to the boy, \"Where do you live?\""
+      },
+      "answer": "Jyoti asked the boy where he lived.",
+      "meaning": {
+        "hi": "ज्योति ने लड़के से पूछा कि वह कहाँ रहता है।",
+        "hinglish": "Jyoti ne ladke se poochha ki woh kahan rehta hai."
+      },
+      "extra": [
+        "do",
+        "live"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Seema said to her son, \"Where are you going?\"",
+        "hinglish": "Badlo: Seema said to her son, \"Where are you going?\"",
+        "en": "Change: Seema said to her son, \"Where are you going?\""
+      },
+      "answer": "Seema asked her son where he was going.",
+      "meaning": {
+        "hi": "सीमा ने अपने बेटे से पूछा कि वह कहाँ जा रहा था।",
+        "hinglish": "Seema ne apne bete se poochha ki woh kahan ja raha tha."
+      },
+      "extra": [
+        "are"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: She said to her sister, \"What do you want?\"",
+        "hinglish": "Badlo: She said to her sister, \"What do you want?\"",
+        "en": "Change: She said to her sister, \"What do you want?\""
+      },
+      "answer": "She asked her sister what she wanted.",
+      "meaning": {
+        "hi": "उसने अपनी बहन से पूछा कि उसे क्या चाहिए था।",
+        "hinglish": "Usne apni behen se poochha ki use kya chahiye tha."
+      },
+      "extra": [
+        "do",
+        "want"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: He said to Sangita, \"What do you like the most?\"",
+        "hinglish": "Badlo: He said to Sangita, \"What do you like the most?\"",
+        "en": "Change: He said to Sangita, \"What do you like the most?\""
+      },
+      "answer": "He asked Sangita what she liked the most.",
+      "meaning": {
+        "hi": "उसने संगीता से पूछा कि उसे सबसे ज़्यादा क्या पसंद था।",
+        "hinglish": "Usne Sangita se poochha ki use sabse zyaada kya pasand tha."
+      },
+      "extra": [
+        "do",
+        "like"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: The headmaster said to the students, \"Which lesson are you reading today?\"",
+        "hinglish": "Badlo: The headmaster said to the students, \"Which lesson are you reading today?\"",
+        "en": "Change the headmaster's question into indirect speech."
+      },
+      "answer": "The headmaster asked the students which lesson they were reading that day.",
+      "meaning": {
+        "hi": "हेडमास्टर ने बच्चों से पूछा कि वे उस दिन कौन सा पाठ पढ़ रहे थे।",
+        "hinglish": "Headmaster ne bachchon se poochha ki woh us din kaun sa paath padh rahe the."
+      },
+      "extra": [
+        "today",
+        "are"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: The landlady said to the student, \"When will you be back from Bhopal?\"",
+        "hinglish": "Badlo: The landlady said to the student, \"When will you be back from Bhopal?\"",
+        "en": "Change the landlady's question into indirect speech."
+      },
+      "answer": "The landlady asked the student when he would be back from Bhopal.",
+      "meaning": {
+        "hi": "मकान मालकिन ने छात्र से पूछा कि वह भोपाल से कब लौटेगा।",
+        "hinglish": "Makaan maalkin ne chhaatra se poochha ki woh Bhopal se kab lautega."
+      },
+      "extra": [
+        "will"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: The students said to the teacher, \"When shall we visit Van Vihar?\"",
+        "hinglish": "Badlo: The students said to the teacher, \"When shall we visit Van Vihar?\"",
+        "en": "Change the students' question into indirect speech."
+      },
+      "answer": "The students asked the teacher when they would visit Van Vihar.",
+      "meaning": {
+        "hi": "छात्रों ने टीचर से पूछा कि वे वन विहार कब जाएँगे।",
+        "hinglish": "Chhaatron ne teacher se poochha ki woh Van Vihar kab jaayenge."
+      },
+      "extra": [
+        "shall",
+        "we"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.14.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "text": {
+        "hi": "किताब: एक ही शब्द के दो रूप। sweet (मीठा, विशेषण) → sweetness (मिठास, संज्ञा)। I enjoy the sweetness of honey.",
+        "hinglish": "Kitaab: ek hi shabd ke do roop. sweet (meetha, visheshan) → sweetness (mithaas, sangya). I enjoy the sweetness of honey.",
+        "en": "The book: two forms of one word. sweet (adjective) → sweetness (noun). I enjoy the sweetness of honey."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.14.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "instruction": {
+        "hi": "संज्ञा (noun) को उसके विशेषण (adjective) से जोड़ो",
+        "hinglish": "Sangya (noun) ko uske visheshan (adjective) se jodo",
+        "en": "Match each noun with its adjective"
+      },
+      "pairs": [
+        {
+          "left": "goodness",
+          "right": "good",
+          "meaning": {
+            "hi": "अच्छाई / अच्छा",
+            "hinglish": "achhaai / achha"
+          }
+        },
+        {
+          "left": "help",
+          "right": "helpful",
+          "meaning": {
+            "hi": "मदद / मददगार",
+            "hinglish": "madad / madadgaar"
+          }
+        },
+        {
+          "left": "skill",
+          "right": "skilful",
+          "meaning": {
+            "hi": "हुनर / हुनरमंद",
+            "hinglish": "hunar / hunarmand"
+          }
+        },
+        {
+          "left": "courage",
+          "right": "courageous",
+          "meaning": {
+            "hi": "हिम्मत / हिम्मती",
+            "hinglish": "himmat / himmati"
+          }
+        },
+        {
+          "left": "mischief",
+          "right": "mischievous",
+          "meaning": {
+            "hi": "शरारत / शरारती",
+            "hinglish": "sharaarat / sharaarati"
+          }
+        },
+        {
+          "left": "labour",
+          "right": "laborious",
+          "meaning": {
+            "hi": "मेहनत / मेहनत वाला",
+            "hinglish": "mehnat / mehnat waala"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.14.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "The soldier was very ___.",
+      "answer": "courageous",
+      "options": [
+        "courageous",
+        "courage"
+      ],
+      "meaning": {
+        "hi": "सैनिक बहुत हिम्मती था।",
+        "hinglish": "Sainik bahut himmati tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.14.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "The little monkey is very ___.",
+      "answer": "mischievous",
+      "options": [
+        "mischievous",
+        "mischief"
+      ],
+      "meaning": {
+        "hi": "छोटा बंदर बहुत शरारती है।",
+        "hinglish": "Chhota bandar bahut sharaarati hai."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.14.4.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "instruction": {
+        "hi": "झुंड वाले शब्द जोड़ो (Match the following)",
+        "hinglish": "Jhund waale shabd jodo (Match the following)",
+        "en": "Match the following"
+      },
+      "pairs": [
+        {
+          "left": "galaxy",
+          "right": "stars",
+          "meaning": {
+            "hi": "तारों की आकाशगंगा",
+            "hinglish": "taaron ki aakaashganga"
+          }
+        },
+        {
+          "left": "flock",
+          "right": "sheep",
+          "meaning": {
+            "hi": "भेड़ों का झुंड",
+            "hinglish": "bhedon ka jhund"
+          }
+        },
+        {
+          "left": "team",
+          "right": "cricketers",
+          "meaning": {
+            "hi": "क्रिकेट खिलाड़ियों की टीम",
+            "hinglish": "cricket khilaadiyon ki team"
+          }
+        },
+        {
+          "left": "pride of",
+          "right": "lions",
+          "meaning": {
+            "hi": "शेरों का झुंड",
+            "hinglish": "sheron ka jhund"
+          }
+        },
+        {
+          "left": "choir",
+          "right": "singers",
+          "meaning": {
+            "hi": "गायकों की मंडली",
+            "hinglish": "gaayakon ki mandali"
+          }
+        },
+        {
+          "left": "band",
+          "right": "musicians",
+          "meaning": {
+            "hi": "संगीतकारों का बैंड",
+            "hinglish": "sangeetkaaron ka band"
+          }
+        }
+      ]
+    }
+  ]
+}

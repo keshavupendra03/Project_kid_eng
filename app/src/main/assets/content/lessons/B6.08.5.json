@@ -1,0 +1,112 @@
+{
+  "id": "B6.08.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.08.5.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.08.5.S01",
+      "skills": [
+        "book.talk",
+        "grammar.have_has"
+      ],
+      "text": {
+        "hi": "किताब का खेल: सबके नाम की पर्चियाँ मिला दी गई हैं। अपनी पर्ची ढूँढने के लिए पूछो: Do you have my name slip with you? जवाब: Yes, I have. / No, I don't have.",
+        "hinglish": "Kitaab ka khel: sabke naam ki parchiyaan mila di gayi hain. Apni parchi dhoondhne ke liye poochho: Do you have my name slip with you? Jawab: Yes, I have. / No, I don't have.",
+        "en": "The book's game: everyone's name slips are mixed up. To find yours, ask: Do you have my name slip with you? Answer: Yes, I have. / No, I don't have."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.08.5.S02",
+      "skills": [
+        "book.talk",
+        "grammar.have_has"
+      ],
+      "scene": "📝",
+      "turns": [
+        {
+          "id": "ask",
+          "tinku": "Hello! Do you have my name slip with you?",
+          "meaning": {
+            "hi": "हेलो! क्या मेरी नाम की पर्ची तुम्हारे पास है?",
+            "hinglish": "Hello! Kya meri naam ki parchi tumhare paas hai?"
+          },
+          "replies": [
+            {
+              "say": "No, I don't have.",
+              "meaning": {
+                "hi": "नहीं, मेरे पास नहीं है।",
+                "hinglish": "Nahi, mere paas nahi hai."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ]
+            },
+            {
+              "say": "Yes, I have.",
+              "meaning": {
+                "hi": "हाँ, मेरे पास है।",
+                "hinglish": "Haan, mere paas hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ],
+              "next": "found"
+            }
+          ]
+        },
+        {
+          "id": "your",
+          "tinku": "Okay. Now you ask me.",
+          "meaning": {
+            "hi": "ठीक है। अब तुम मुझसे पूछो।",
+            "hinglish": "Theek hai. Ab tum mujhse poochho."
+          },
+          "replies": [
+            {
+              "say": "Do you have my name slip with you?",
+              "meaning": {
+                "hi": "क्या मेरी पर्ची तुम्हारे पास है?",
+                "hinglish": "Kya meri parchi tumhare paas hai?"
+              },
+              "patterns": [
+                "do you have my name slip *",
+                "do you have my *",
+                "do you have *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "found",
+          "tinku": "Yes, I have! Here it is.",
+          "meaning": {
+            "hi": "हाँ, मेरे पास है! यह लो।",
+            "hinglish": "Haan, mere paas hai! Yeh lo."
+          },
+          "replies": [
+            {
+              "say": "Thank you!",
+              "meaning": {
+                "hi": "धन्यवाद!",
+                "hinglish": "Dhanyavaad!"
+              },
+              "patterns": [
+                "thank you *",
+                "thank you",
+                "thanks *",
+                "thanks"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

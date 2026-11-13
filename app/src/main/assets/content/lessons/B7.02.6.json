@@ -1,0 +1,149 @@
+{
+  "id": "B7.02.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.02.6.S02",
+    "B7.02.6.S03",
+    "B7.02.6.S04",
+    "B7.02.6.S05",
+    "B7.02.6.S07",
+    "B7.02.6.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.02.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब कहती है: दिए गए शब्दों से पैराग्राफ़ लिखो। चलो कहानी को अपने वाक्यों में लिखते हैं।",
+        "hinglish": "Kitaab kehti hai: diye gaye shabdon se paragraph likho. Chalo kahani ko apne vaakyon mein likhte hain.",
+        "en": "The book says: write a paragraph with the given words. Let's write the story in our own sentences."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: horse trainer, market, sell, horse",
+        "hinglish": "Shabd: horse trainer, market, sell, horse",
+        "en": "Words: horse trainer, market, sell, horse"
+      },
+      "answer": "The horse trainer went to the market to sell his horse.",
+      "meaning": {
+        "hi": "घोड़ा सिखाने वाला अपना घोड़ा बेचने बाज़ार गया।",
+        "hinglish": "Ghoda sikhaane waala apna ghoda bechne baazaar gaya."
+      },
+      "extra": [
+        "sold"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: Bhola, exchange, donkey, sheep",
+        "hinglish": "Shabd: Bhola, exchange, donkey, sheep",
+        "en": "Words: Bhola, exchange, donkey, sheep"
+      },
+      "answer": "Bhola exchanged the donkey for a sheep.",
+      "meaning": {
+        "hi": "भोला ने गधे के बदले भेड़ ले ली।",
+        "hinglish": "Bhola ne gadhe ke badle bhed le li."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: sheep, hen",
+        "hinglish": "Shabd: sheep, hen",
+        "en": "Words: sheep, hen"
+      },
+      "answer": "Then he exchanged the sheep for a hen.",
+      "meaning": {
+        "hi": "फिर उसने भेड़ के बदले मुर्गी ले ली।",
+        "hinglish": "Phir usne bhed ke badle murgi le li."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: a girl, hen, green mangoes",
+        "hinglish": "Shabd: a girl, hen, green mangoes",
+        "en": "Words: a girl, hen, green mangoes"
+      },
+      "answer": "A girl gave him green mangoes for the hen.",
+      "meaning": {
+        "hi": "एक लड़की ने मुर्गी के बदले उसे हरे आम दिए।",
+        "hinglish": "Ek ladki ne murgi ke badle use hare aam diye."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.02.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "अब आम पर पैराग्राफ़ (किताब का दूसरा सवाल)। ऐसे लिखो: The mango is the king of fruits. A mango tree gives us cool shade. Raw mangoes are green and sour. Ripe mangoes are yellow and sweet. We make jam, jelly, pickle and juice from mangoes. I love mangoes!",
+        "hinglish": "Ab aam par paragraph (kitaab ka doosra sawaal). Aise likho: The mango is the king of fruits. A mango tree gives us cool shade. Raw mangoes are green and sour. Ripe mangoes are yellow and sweet. We make jam, jelly, pickle and juice from mangoes. I love mangoes!",
+        "en": "Now the paragraph on mangoes (the book's second task). Write: The mango is the king of fruits. A mango tree gives us cool shade. Raw mangoes are green and sour. Ripe mangoes are yellow and sweet. We make jam, jelly, pickle and juice from mangoes. I love mangoes!"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.6.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "आम के बारे में: कच्चे आम हरे और खट्टे होते हैं।",
+        "hinglish": "Aam ke baare mein: kachche aam hare aur khatte hote hain.",
+        "en": "About mangoes: say what raw mangoes are like."
+      },
+      "answer": "Raw mangoes are green and sour.",
+      "meaning": {
+        "hi": "कच्चे आम हरे और खट्टे होते हैं।",
+        "hinglish": "Kachche aam hare aur khatte hote hain."
+      },
+      "extra": [
+        "sweet"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.6.S08",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "आम के बारे में: पके आम पीले और मीठे होते हैं।",
+        "hinglish": "Aam ke baare mein: pake aam peele aur meethe hote hain.",
+        "en": "About mangoes: say what ripe mangoes are like."
+      },
+      "answer": "Ripe mangoes are yellow and sweet.",
+      "meaning": {
+        "hi": "पके आम पीले और मीठे होते हैं।",
+        "hinglish": "Pake aam peele aur meethe hote hain."
+      },
+      "extra": [
+        "sour"
+      ]
+    }
+  ]
+}

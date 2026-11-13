@@ -1,0 +1,220 @@
+{
+  "id": "B7.02.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.02.5.S02",
+    "B7.02.5.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.02.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब कहती है: पालतू जानवरों और पक्षियों की लिस्ट बनाओ। पहले उन्हें छाँटो।",
+        "hinglish": "Kitaab kehti hai: paaltu jaanwaron aur pakshiyon ki list banao. Pehle unhe chhaanto.",
+        "en": "The book says: make a list of domestic animals and birds. First, sort them."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.02.5.S02",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "हर जानवर को पक्षी या पालतू जानवर में रखो",
+        "hinglish": "Har jaanwar ko pakshi ya paaltu jaanwar mein rakho",
+        "en": "Put each one in birds or domestic animals"
+      },
+      "groups": [
+        {
+          "id": "birds",
+          "name": "birds",
+          "emoji": "🐦",
+          "meaning": {
+            "hi": "पक्षी",
+            "hinglish": "pakshi"
+          }
+        },
+        {
+          "id": "animals",
+          "name": "domestic animals",
+          "emoji": "🏠",
+          "meaning": {
+            "hi": "पालतू जानवर",
+            "hinglish": "paaltu jaanwar"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "sparrow",
+          "emoji": "🐦",
+          "groups": [
+            "birds"
+          ]
+        },
+        {
+          "text": "cow",
+          "emoji": "🐄",
+          "groups": [
+            "animals"
+          ]
+        },
+        {
+          "text": "pigeon",
+          "emoji": "🕊️",
+          "groups": [
+            "birds"
+          ]
+        },
+        {
+          "text": "goat",
+          "emoji": "🐐",
+          "groups": [
+            "animals"
+          ]
+        },
+        {
+          "text": "parrot",
+          "emoji": "🦜",
+          "groups": [
+            "birds"
+          ]
+        },
+        {
+          "text": "dog",
+          "emoji": "🐕",
+          "groups": [
+            "animals"
+          ]
+        },
+        {
+          "text": "hen",
+          "emoji": "🐔",
+          "groups": [
+            "birds"
+          ]
+        },
+        {
+          "text": "buffalo",
+          "emoji": "🐃",
+          "groups": [
+            "animals"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.02.5.S03",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🐦",
+      "turns": [
+        {
+          "id": "bird",
+          "tinku": "Which is the most commonly seen bird in your neighbourhood?",
+          "meaning": {
+            "hi": "तुम्हारे मोहल्ले में सबसे ज़्यादा कौन सा पक्षी दिखता है?",
+            "hinglish": "Tumhare mohalle mein sabse zyaada kaun sa pakshi dikhta hai?"
+          },
+          "replies": [
+            {
+              "say": "The sparrow is the most commonly seen bird.",
+              "meaning": {
+                "hi": "गौरैया सबसे ज़्यादा दिखती है। (कोई और पक्षी भी बोल सकते हो)",
+                "hinglish": "Gauraiya sabse zyaada dikhti hai. (Koi aur pakshi bhi bol sakte ho)"
+              },
+              "patterns": [
+                "the * is *",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "animal",
+          "tinku": "Which animals are seen near or in your home?",
+          "meaning": {
+            "hi": "तुम्हारे घर के पास या घर में कौन से जानवर दिखते हैं?",
+            "hinglish": "Tumhare ghar ke paas ya ghar mein kaun se jaanwar dikhte hain?"
+          },
+          "replies": [
+            {
+              "say": "Cows and dogs are seen near my home.",
+              "meaning": {
+                "hi": "मेरे घर के पास गाय और कुत्ते दिखते हैं।",
+                "hinglish": "Mere ghar ke paas gaay aur kutte dikhte hain."
+              },
+              "patterns": [
+                "* are seen *",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "useful",
+          "tinku": "How are these animals useful to you?",
+          "meaning": {
+            "hi": "ये जानवर तुम्हारे किस काम आते हैं?",
+            "hinglish": "Yeh jaanwar tumhare kis kaam aate hain?"
+          },
+          "replies": [
+            {
+              "say": "The cow gives us milk and the dog guards our house.",
+              "meaning": {
+                "hi": "गाय हमें दूध देती है और कुत्ता हमारे घर की रखवाली करता है।",
+                "hinglish": "Gaay humein doodh deti hai aur kutta hamare ghar ki rakhwaali karta hai."
+              },
+              "patterns": [
+                "the cow *",
+                "* gives us *",
+                "*",
+                "* *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.02.5.S04",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "question": "How is a hen useful to us?",
+      "questionMeaning": {
+        "hi": "मुर्गी हमारे किस काम आती है?",
+        "hinglish": "Murgi hamare kis kaam aati hai?"
+      },
+      "options": [
+        "It gives us eggs.",
+        "It gives us wool.",
+        "It carries load."
+      ],
+      "answer": "It gives us eggs.",
+      "modelAnswer": "A hen is useful because it gives us eggs.",
+      "modelMeaning": {
+        "hi": "मुर्गी काम की है क्योंकि वह हमें अंडे देती है।",
+        "hinglish": "Murgi kaam ki hai kyonki woh humein ande deti hai."
+      }
+    }
+  ]
+}

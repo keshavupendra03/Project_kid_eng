@@ -1,0 +1,206 @@
+{
+  "id": "B7.05.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.05.7.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.05.7.S01",
+      "skills": [
+        "book.activity",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब में दीपिका फ़ायर स्टेशन को फ़ोन करती है। मैं फ़ायर ऑफ़िसर हूँ, तुम दीपिका बनो और उसकी लाइनें बोलो।",
+        "hinglish": "Kitaab mein Dipika fire station ko phone karti hai. Main fire officer hoon, tum Dipika bano aur uski lines bolo.",
+        "en": "In the book, Dipika calls the fire station. I am the fire officer; you be Dipika and say her lines."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.05.7.S02",
+      "skills": [
+        "book.activity",
+        "speak.sentence"
+      ],
+      "scene": "🚒",
+      "turns": [
+        {
+          "id": "start",
+          "tinku": "Hello, fire station. Who is calling?",
+          "meaning": {
+            "hi": "हेलो, फ़ायर स्टेशन। कौन बोल रहा है?",
+            "hinglish": "Hello, fire station. Kaun bol raha hai?"
+          },
+          "replies": [
+            {
+              "say": "Hello! Is this the fire station?",
+              "meaning": {
+                "hi": "हेलो! क्या यह फ़ायर स्टेशन है?",
+                "hinglish": "Hello! Kya yeh fire station hai?"
+              },
+              "patterns": [
+                "hello is this the fire station",
+                "is this the fire station",
+                "hello *",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "problem",
+          "tinku": "Yes, please. What's the problem?",
+          "meaning": {
+            "hi": "जी हाँ। क्या समस्या है?",
+            "hinglish": "Ji haan. Kya samasya hai?"
+          },
+          "replies": [
+            {
+              "say": "I am Dipika calling from Jail Road.",
+              "meaning": {
+                "hi": "मैं जेल रोड से दीपिका बोल रही हूँ।",
+                "hinglish": "Main Jail Road se Dipika bol rahi hoon."
+              },
+              "patterns": [
+                "i am * calling from *",
+                "i am *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "what",
+          "tinku": "Yes, please. What has happened?",
+          "meaning": {
+            "hi": "जी, बताइए। क्या हुआ है?",
+            "hinglish": "Ji, bataiye. Kya hua hai?"
+          },
+          "replies": [
+            {
+              "say": "My neighbour's house is on fire.",
+              "meaning": {
+                "hi": "मेरे पड़ोसी के घर में आग लगी है।",
+                "hinglish": "Mere padosi ke ghar mein aag lagi hai."
+              },
+              "patterns": [
+                "my neighbours house is on fire",
+                "* house is on fire",
+                "* on fire",
+                "* fire *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "address",
+          "tinku": "Give us the exact address, please.",
+          "meaning": {
+            "hi": "कृपया हमें पूरा पता बताइए।",
+            "hinglish": "Kripya humein poora pata bataiye."
+          },
+          "replies": [
+            {
+              "say": "Come to the Gandhi Eye Hospital. It's the third house on your right.",
+              "meaning": {
+                "hi": "गांधी आई हॉस्पिटल आइए। दाईं ओर तीसरा घर है।",
+                "hinglish": "Gandhi Eye Hospital aaiye. Daayin or teesra ghar hai."
+              },
+              "patterns": [
+                "come to the gandhi eye hospital *",
+                "come to *",
+                "* hospital *",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "coming",
+          "tinku": "Alright, we are just coming!",
+          "meaning": {
+            "hi": "ठीक है, हम अभी आ रहे हैं!",
+            "hinglish": "Theek hai, hum abhi aa rahe hain!"
+          },
+          "replies": [
+            {
+              "say": "Thank you! Please come quickly.",
+              "meaning": {
+                "hi": "शुक्रिया! जल्दी आइए।",
+                "hinglish": "Shukriya! Jaldi aaiye."
+              },
+              "patterns": [
+                "thank you *",
+                "thank you",
+                "please come *",
+                "*"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.7.S03",
+      "skills": [
+        "book.activity",
+        "speak.sentence"
+      ],
+      "question": "Which number do you call for the fire brigade in India?",
+      "questionMeaning": {
+        "hi": "भारत में फ़ायर ब्रिगेड के लिए कौन सा नंबर मिलाते हैं?",
+        "hinglish": "Bharat mein fire brigade ke liye kaun sa number milaate hain?"
+      },
+      "options": [
+        "101",
+        "108",
+        "100"
+      ],
+      "answer": "101",
+      "modelAnswer": "We call 101 for the fire brigade. 112 also works for all emergencies.",
+      "modelMeaning": {
+        "hi": "फ़ायर ब्रिगेड के लिए 101 मिलाते हैं। 112 हर मुसीबत में काम करता है।",
+        "hinglish": "Fire brigade ke liye 101 milaate hain. 112 har museebat mein kaam karta hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.05.7.S04",
+      "skills": [
+        "book.activity",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब का दूसरा काम: रेलवे रिज़र्वेशन फ़ॉर्म भरना। उसमें ये चीज़ें लिखते हैं: Name (नाम), Age (उम्र), Train number (ट्रेन नंबर), From (कहाँ से), To (कहाँ तक), Date of journey (यात्रा की तारीख़), Class (क्लास)।",
+        "hinglish": "Kitaab ka doosra kaam: railway reservation form bharna. Usmein yeh cheezein likhte hain: Name (naam), Age (umar), Train number, From (kahan se), To (kahan tak), Date of journey (yaatra ki taareekh), Class.",
+        "en": "The book's second task: filling a railway reservation form. It asks for: Name, Age, Train number, From, To, Date of journey and Class."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.7.S05",
+      "skills": [
+        "book.activity",
+        "speak.sentence"
+      ],
+      "question": "In a reservation form, what do you write under ‘From’?",
+      "questionMeaning": {
+        "hi": "रिज़र्वेशन फ़ॉर्म में ‘From’ में क्या लिखते हैं?",
+        "hinglish": "Reservation form mein ‘From’ mein kya likhte hain?"
+      },
+      "options": [
+        "the station where the journey starts",
+        "your father's name",
+        "the price of the ticket"
+      ],
+      "answer": "the station where the journey starts"
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "id": "B7.11.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.11.1.S02",
+    "B7.11.1.S08",
+    "B7.11.1.S10",
+    "B7.11.1.S11",
+    "B7.11.1.S12",
+    "B7.11.1.S13",
+    "B7.11.1.S14",
+    "B7.11.1.S15",
+    "B7.11.1.S16",
+    "B7.11.1.S17",
+    "B7.11.1.S18"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.11.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "यह कविता लोहड़ी के त्योहार के बारे में है, जो जनवरी में उत्तर भारत में मनाया जाता है। कवि कहता है कि त्योहार मनाओ, पर पर्यावरण को नुक़सान पहुँचाए बिना।",
+        "hinglish": "Yeh kavita Lohri ke tyohaar ke baare mein hai, jo January mein uttar Bharat mein manaaya jaata hai. Kavi kehta hai ki tyohaar manaao, par paryaavaran ko nuksaan pahunchaaye bina.",
+        "en": "This poem is about Lohri, a festival celebrated in North India in January. The poet says: celebrate, but without harming the environment."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.11.1.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🎉",
+      "turns": [
+        {
+          "id": "name",
+          "tinku": "Which festival do you like the most?",
+          "meaning": {
+            "hi": "तुम्हें कौन सा त्योहार सबसे ज़्यादा पसंद है?",
+            "hinglish": "Tumhe kaun sa tyohaar sabse zyaada pasand hai?"
+          },
+          "replies": [
+            {
+              "say": "I like Diwali the most.",
+              "meaning": {
+                "hi": "मुझे दिवाली सबसे ज़्यादा पसंद है।",
+                "hinglish": "Mujhe Diwali sabse zyaada pasand hai."
+              },
+              "patterns": [
+                "i like *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "how",
+          "tinku": "How do you celebrate it?",
+          "meaning": {
+            "hi": "तुम उसे कैसे मनाते हो?",
+            "hinglish": "Tum use kaise manaate ho?"
+          },
+          "replies": [
+            {
+              "say": "We light lamps and share sweets.",
+              "meaning": {
+                "hi": "हम दीये जलाते हैं और मिठाई बाँटते हैं।",
+                "hinglish": "Hum diye jalaate hain aur mithaai baant-te hain."
+              },
+              "patterns": [
+                "we *",
+                "*",
+                "* *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.11.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "twig",
+        "emoji": "",
+        "hindi": "पतली टहनी",
+        "hinglish": "patli tahni"
+      },
+      "meaning": "a small thin branch of a tree",
+      "example": "The bird made a nest with twigs.",
+      "exampleMeaning": {
+        "hi": "चिड़िया ने टहनियों से घोंसला बनाया।",
+        "hinglish": "Chidiya ne tahniyon se ghonsla banaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.11.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "bonfire",
+        "emoji": "",
+        "hindi": "अलाव, बड़ी आग",
+        "hinglish": "alaav, badi aag"
+      },
+      "meaning": "a big fire made outdoors",
+      "example": "We sat around the bonfire on a cold night.",
+      "exampleMeaning": {
+        "hi": "ठंडी रात में हम अलाव के चारों ओर बैठे।",
+        "hinglish": "Thandi raat mein hum alaav ke chaaron or baithe."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.11.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "consume",
+        "emoji": "",
+        "hindi": "खपत करना, ख़र्च करना",
+        "hinglish": "khapat karna, kharch karna"
+      },
+      "meaning": "to use up",
+      "example": "Big cars consume a lot of petrol.",
+      "exampleMeaning": {
+        "hi": "बड़ी गाड़ियाँ बहुत पेट्रोल ख़र्च करती हैं।",
+        "hinglish": "Badi gaadiyaan bahut petrol kharch karti hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.11.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "polluted",
+        "emoji": "",
+        "hindi": "प्रदूषित, गंदा",
+        "hinglish": "pradooshit, ganda"
+      },
+      "meaning": "made dirty and harmful",
+      "example": "The river is polluted with waste.",
+      "exampleMeaning": {
+        "hi": "नदी कचरे से प्रदूषित है।",
+        "hinglish": "Nadi kachre se pradooshit hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.11.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "hatred",
+        "emoji": "",
+        "hindi": "नफ़रत",
+        "hinglish": "nafrat"
+      },
+      "meaning": "a very strong feeling of not liking",
+      "example": "Love is better than hatred.",
+      "exampleMeaning": {
+        "hi": "प्यार नफ़रत से बेहतर है।",
+        "hinglish": "Pyaar nafrat se behtar hai."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.11.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "एक जैसी आवाज़ वाले शब्द जोड़ो",
+        "hinglish": "Ek jaisi awaaz waale shabd jodo",
+        "en": "Join the words that sound alike"
+      },
+      "pairs": [
+        {
+          "left": "mine",
+          "right": "shine",
+          "meaning": {
+            "hi": "मेरा / चमकना",
+            "hinglish": "mera / chamakna"
+          }
+        },
+        {
+          "left": "pine",
+          "right": "fine",
+          "meaning": {
+            "hi": "चीड़ का पेड़ / अच्छा",
+            "hinglish": "cheed ka ped / achha"
+          }
+        },
+        {
+          "left": "mile",
+          "right": "pile",
+          "meaning": {
+            "hi": "मील / ढेर",
+            "hinglish": "meel / dher"
+          }
+        },
+        {
+          "left": "land",
+          "right": "band",
+          "meaning": {
+            "hi": "ज़मीन / बैंड",
+            "hinglish": "zameen / band"
+          }
+        },
+        {
+          "left": "now",
+          "right": "vow",
+          "meaning": {
+            "hi": "अभी / वचन",
+            "hinglish": "abhi / vachan"
+          }
+        },
+        {
+          "left": "wood",
+          "right": "hood",
+          "meaning": {
+            "hi": "लकड़ी / टोपी (हुड)",
+            "hinglish": "lakdi / topi (hood)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.11.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: कविता सुनकर खाली जगह भरो।",
+        "hinglish": "Kitaab: kavita sunkar khaali jagah bharo.",
+        "en": "The book: listen to the poem and fill in the gaps."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "___ in the South, the days are fine.",
+      "answer": "Down",
+      "options": [
+        "Down",
+        "Up",
+        "Out"
+      ],
+      "meaning": {
+        "hi": "दक्षिण में दिन अच्छे होते हैं।",
+        "hinglish": "Dakshin mein din achhe hote hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.1.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "When ___ comes around.",
+      "answer": "January",
+      "options": [
+        "January",
+        "June",
+        "Lohri"
+      ],
+      "meaning": {
+        "hi": "जब जनवरी आती है।",
+        "hinglish": "Jab January aati hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.1.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "But up in the ___, and in the hills and so forth.",
+      "answer": "North",
+      "options": [
+        "North",
+        "South",
+        "sky"
+      ],
+      "meaning": {
+        "hi": "पर ऊपर उत्तर में, और पहाड़ों में।",
+        "hinglish": "Par upar uttar mein, aur pahaadon mein."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.1.S13",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "January's ___ time.",
+      "answer": "Lohri",
+      "options": [
+        "Lohri",
+        "Holi",
+        "Diwali"
+      ],
+      "meaning": {
+        "hi": "जनवरी लोहड़ी का समय है।",
+        "hinglish": "January Lohri ka samay hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.1.S14",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word from the poem rhymes with ‘blame’?",
+      "questionMeaning": {
+        "hi": "कविता का कौन सा शब्द ‘blame’ से तुक मिलाता है?",
+        "hinglish": "Kavita ka kaun sa shabd ‘blame’ se tuk milaata hai?"
+      },
+      "options": [
+        "flame",
+        "wood",
+        "smoke"
+      ],
+      "answer": "flame"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.1.S15",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word from the poem rhymes with ‘letter’?",
+      "questionMeaning": {
+        "hi": "कविता का कौन सा शब्द ‘letter’ से तुक मिलाता है?",
+        "hinglish": "Kavita ka kaun sa shabd ‘letter’ se tuk milaata hai?"
+      },
+      "options": [
+        "better",
+        "leaves",
+        "high"
+      ],
+      "answer": "better"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.1.S16",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word from the poem rhymes with ‘cuts’?",
+      "questionMeaning": {
+        "hi": "कविता का कौन सा शब्द ‘cuts’ से तुक मिलाता है?",
+        "hinglish": "Kavita ka kaun sa shabd ‘cuts’ se tuk milaata hai?"
+      },
+      "options": [
+        "nuts",
+        "twigs",
+        "hills"
+      ],
+      "answer": "nuts"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.1.S17",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word from the poem rhymes with ‘file’?",
+      "questionMeaning": {
+        "hi": "कविता का कौन सा शब्द ‘file’ से तुक मिलाता है?",
+        "hinglish": "Kavita ka kaun sa shabd ‘file’ se tuk milaata hai?"
+      },
+      "options": [
+        "pile",
+        "fine",
+        "wood"
+      ],
+      "answer": "pile"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.1.S18",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which word from the poem rhymes with ‘turn’?",
+      "questionMeaning": {
+        "hi": "कविता का कौन सा शब्द ‘turn’ से तुक मिलाता है?",
+        "hinglish": "Kavita ka kaun sa shabd ‘turn’ se tuk milaata hai?"
+      },
+      "options": [
+        "burn",
+        "send",
+        "leap"
+      ],
+      "answer": "burn"
+    }
+  ]
+}

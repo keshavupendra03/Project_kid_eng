@@ -1,0 +1,296 @@
+{
+  "id": "B7.04.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.04.7.S02",
+    "B7.04.7.S03",
+    "B7.04.7.S04",
+    "B7.04.7.S05",
+    "B7.04.7.S06",
+    "B7.04.7.S08",
+    "B7.04.7.S09",
+    "B7.04.7.S10",
+    "B7.04.7.S11",
+    "B7.04.7.S12"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.04.7.S01",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "किताब कहती है: जानवरों के बारे में लिखो। पहले पहचानो कि कौन सा जानवर है।",
+        "hinglish": "Kitaab kehti hai: jaanwaron ke baare mein likho. Pehle pehchaano ki kaun sa jaanwar hai.",
+        "en": "The book says: write about animals. First, find which animal it is."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.7.S02",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "question": "The animal which carries load and is used by a washerman.",
+      "questionMeaning": {
+        "hi": "वह जानवर जो बोझ ढोता है और धोबी के काम आता है।",
+        "hinglish": "Woh jaanwar jo bojh dhota hai aur dhobi ke kaam aata hai."
+      },
+      "options": [
+        "donkey",
+        "dog",
+        "cat"
+      ],
+      "answer": "donkey",
+      "modelAnswer": "The donkey carries load and is used by a washerman.",
+      "modelMeaning": {
+        "hi": "गधा बोझ ढोता है और धोबी के काम आता है।",
+        "hinglish": "Gadha bojh dhota hai aur dhobi ke kaam aata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.7.S03",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "question": "The animal which gives wool.",
+      "questionMeaning": {
+        "hi": "वह जानवर जो ऊन देता है।",
+        "hinglish": "Woh jaanwar jo oon deta hai."
+      },
+      "options": [
+        "sheep",
+        "cow",
+        "horse"
+      ],
+      "emojis": [
+        "🐑",
+        "🐄",
+        "🐎"
+      ],
+      "answer": "sheep",
+      "modelAnswer": "The sheep gives us wool.",
+      "modelMeaning": {
+        "hi": "भेड़ हमें ऊन देती है।",
+        "hinglish": "Bhed humein oon deti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.7.S04",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "question": "The animal which is called \"The ship of the desert.\"",
+      "questionMeaning": {
+        "hi": "वह जानवर जिसे ‘रेगिस्तान का जहाज़’ कहते हैं।",
+        "hinglish": "Woh jaanwar jise ‘registaan ka jahaaz’ kehte hain."
+      },
+      "options": [
+        "camel",
+        "elephant",
+        "horse"
+      ],
+      "emojis": [
+        "🐪",
+        "🐘",
+        "🐎"
+      ],
+      "answer": "camel",
+      "modelAnswer": "The camel is called the ship of the desert.",
+      "modelMeaning": {
+        "hi": "ऊँट को रेगिस्तान का जहाज़ कहते हैं।",
+        "hinglish": "Oont ko registaan ka jahaaz kehte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.7.S05",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "question": "The animal which gives milk and is worshipped in the society.",
+      "questionMeaning": {
+        "hi": "वह जानवर जो दूध देता है और जिसकी पूजा की जाती है।",
+        "hinglish": "Woh jaanwar jo doodh deta hai aur jiski pooja ki jaati hai."
+      },
+      "options": [
+        "cow",
+        "goat",
+        "dog"
+      ],
+      "emojis": [
+        "🐄",
+        "🐐",
+        "🐕"
+      ],
+      "answer": "cow",
+      "modelAnswer": "The cow gives us milk and is worshipped in our society.",
+      "modelMeaning": {
+        "hi": "गाय हमें दूध देती है और समाज में उसकी पूजा होती है।",
+        "hinglish": "Gaay humein doodh deti hai aur samaaj mein uski pooja hoti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.7.S06",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "question": "The animal which has a long trunk.",
+      "questionMeaning": {
+        "hi": "वह जानवर जिसकी लंबी सूँड होती है।",
+        "hinglish": "Woh jaanwar jiski lambi soond hoti hai."
+      },
+      "options": [
+        "elephant",
+        "camel",
+        "lion"
+      ],
+      "emojis": [
+        "🐘",
+        "🐪",
+        "🦁"
+      ],
+      "answer": "elephant",
+      "modelAnswer": "The elephant has a long trunk.",
+      "modelMeaning": {
+        "hi": "हाथी की लंबी सूँड होती है।",
+        "hinglish": "Haathi ki lambi soond hoti hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.04.7.S07",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "अब किताब के नोट्स से मटरू बंदर के बारे में वाक्य बनाते हैं। नोट्स में लिखा है: घर पेड़, खाना फल, रंग सलेटी और भूरा।",
+        "hinglish": "Ab kitaab ke notes se Matroo bandar ke baare mein vaakya banaate hain. Notes mein likha hai: ghar ped, khaana phal, rang saleti aur bhoora.",
+        "en": "Now let's use the book's notes to write about Matroo the monkey: home trees, food fruits, colour gray and brown."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.04.7.S08",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "prompt": {
+        "hi": "नोट्स: home : trees। बताओ मटरू कहाँ रहता है।",
+        "hinglish": "Notes: home : trees. Batao Matroo kahan rehta hai.",
+        "en": "Notes: home : trees. Say where Matroo lives."
+      },
+      "answer": "Matroo monkey lives on the trees.",
+      "extra": [
+        "live"
+      ],
+      "meaning": {
+        "hi": "मटरू बंदर पेड़ों पर रहता है।",
+        "hinglish": "Matroo bandar pedon par rehta hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.04.7.S09",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "prompt": {
+        "hi": "नोट्स: likes : playing and jumping on the tree। बताओ उसे क्या पसंद है।",
+        "hinglish": "Notes: likes : playing and jumping on the tree. Batao use kya pasand hai.",
+        "en": "Notes: likes : playing and jumping on the tree. Say what he likes."
+      },
+      "answer": "He likes playing and jumping on the trees.",
+      "extra": [
+        "like"
+      ],
+      "meaning": {
+        "hi": "उसे पेड़ों पर खेलना और कूदना पसंद है।",
+        "hinglish": "Use pedon par khelna aur koodna pasand hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.04.7.S10",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "prompt": {
+        "hi": "नोट्स: food : fruits। बताओ वह क्या खाता है।",
+        "hinglish": "Notes: food : fruits. Batao woh kya khaata hai.",
+        "en": "Notes: food : fruits. Say what he eats."
+      },
+      "answer": "He eats fruits.",
+      "extra": [
+        "eat"
+      ],
+      "meaning": {
+        "hi": "वह फल खाता है।",
+        "hinglish": "Woh phal khaata hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.04.7.S11",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "prompt": {
+        "hi": "नोट्स: colour : gray, brown। उसका रंग बताओ।",
+        "hinglish": "Notes: colour : gray, brown. Uska rang batao.",
+        "en": "Notes: colour : gray, brown. Say his colour."
+      },
+      "answer": "He is gray and brown in colour.",
+      "meaning": {
+        "hi": "उसका रंग सलेटी और भूरा है।",
+        "hinglish": "Uska rang saleti aur bhoora hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.04.7.S12",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "prompt": {
+        "hi": "नोट्स: face : black, red। बताओ उसका चेहरा कैसा है।",
+        "hinglish": "Notes: face : black, red. Batao uska chehra kaisa hai.",
+        "en": "Notes: face : black, red. Say what his face looks like."
+      },
+      "answer": "His face is black and red.",
+      "meaning": {
+        "hi": "उसका चेहरा काला और लाल है।",
+        "hinglish": "Uska chehra kaala aur laal hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.04.7.S13",
+      "skills": [
+        "book.writing",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "पूरा पैराग्राफ़ अपनी कॉपी में ऐसे लिखो: Matroo monkey lives on the trees. His family and friends are monkeys and children. He likes playing and jumping on the trees. He eats fruits. He is always happy. He is gray and brown in colour. He is of medium size. His face is black and red.",
+        "hinglish": "Poora paragraph apni copy mein aise likho: Matroo monkey lives on the trees. His family and friends are monkeys and children. He likes playing and jumping on the trees. He eats fruits. He is always happy. He is gray and brown in colour. He is of medium size. His face is black and red.",
+        "en": "Write the whole paragraph in your notebook like this: Matroo monkey lives on the trees. His family and friends are monkeys and children. He likes playing and jumping on the trees. He eats fruits. He is always happy. He is gray and brown in colour. He is of medium size. His face is black and red."
+      }
+    }
+  ]
+}

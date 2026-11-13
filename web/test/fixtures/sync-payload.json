@@ -22,5 +22,9 @@
   "skills": [
     { "skill": "sound.th", "mastery": 0.25, "attempts": 6 },
     { "skill": "vocab.body", "mastery": 0.9, "attempts": 8 }
+  ],
+  "chapters": [
+    { "chapter": "B7.04", "done": 3, "total": 9, "stars": 7, "testStars": null },
+    { "chapter": "B7.01", "done": 9, "total": 9, "stars": 24, "testStars": 3 }
   ]
 }

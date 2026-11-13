@@ -1,0 +1,200 @@
+{
+  "id": "B6.04.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.04.T.S01",
+    "B6.04.T.S02",
+    "B6.04.T.S03",
+    "B6.04.T.S04",
+    "B6.04.T.S05",
+    "B6.04.T.S06",
+    "B6.04.T.S07",
+    "B6.04.T.S08",
+    "B6.04.T.S09",
+    "B6.04.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.04.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What was the task that Mr. Giles set?",
+      "questionMeaning": {
+        "hi": "मिस्टर जाइल्स ने क्या काम दिया?",
+        "hinglish": "Mister Giles ne kya kaam diya?"
+      },
+      "options": [
+        "He gave five words to write as a spelling exercise.",
+        "He asked them to draw a picture.",
+        "He asked them to sing a song."
+      ],
+      "answer": "He gave five words to write as a spelling exercise."
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why didn't Gandhiji copy?",
+      "questionMeaning": {
+        "hi": "गांधीजी ने नक़ल क्यों नहीं की?",
+        "hinglish": "Gandhiji ne nakal kyon nahi ki?"
+      },
+      "options": [
+        "He was honest and did not want to cheat.",
+        "He did not see his neighbour.",
+        "He knew all the spellings."
+      ],
+      "answer": "He was honest and did not want to cheat."
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Which word did Gandhiji misspell?",
+      "questionMeaning": {
+        "hi": "गांधीजी ने कौन सी स्पेलिंग गलत लिखी?",
+        "hinglish": "Gandhiji ne kaun si spelling galat likhi?"
+      },
+      "options": [
+        "kettle",
+        "kitten",
+        "kennel"
+      ],
+      "answer": "kettle"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "He taught us the ___ of non-violence.",
+      "answer": "power",
+      "options": [
+        "power",
+        "lie",
+        "copied"
+      ],
+      "meaning": {
+        "hi": "उन्होंने हमें अहिंसा की ताक़त सिखाई।",
+        "hinglish": "Unhone humein ahinsa ki taakat sikhaayi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.T.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The past form of ‘write’ is ...",
+      "questionMeaning": {
+        "hi": "‘write’ का बीता रूप?",
+        "hinglish": "‘write’ ka beeta roop?"
+      },
+      "options": [
+        "wrote",
+        "writed",
+        "written"
+      ],
+      "answer": "wrote"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The past form of ‘copy’ is ...",
+      "questionMeaning": {
+        "hi": "‘copy’ का बीता रूप?",
+        "hinglish": "‘copy’ ka beeta roop?"
+      },
+      "options": [
+        "copied",
+        "copyed",
+        "copies"
+      ],
+      "answer": "copied"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "He ___ to market yesterday. (go)",
+      "answer": "went",
+      "options": [
+        "went",
+        "goed",
+        "goes"
+      ],
+      "meaning": {
+        "hi": "वह कल बाज़ार गया।",
+        "hinglish": "Woh kal baazaar gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.T.S08",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Mahatma Gandhi was born on ...",
+      "questionMeaning": {
+        "hi": "महात्मा गांधी का जन्म?",
+        "hinglish": "Mahatma Gandhi ka janm?"
+      },
+      "options": [
+        "2nd October 1869",
+        "15th August 1947",
+        "26th January 1950"
+      ],
+      "answer": "2nd October 1869"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.T.S09",
+      "skills": [
+        "book.words"
+      ],
+      "question": "True or false? Gandhiji misspelt the word kettle.",
+      "questionMeaning": {
+        "hi": "गांधीजी ने kettle गलत लिखा।",
+        "hinglish": "Gandhiji ne kettle galat likha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.T.S10",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "‘Truthfulness’ means ...",
+      "questionMeaning": {
+        "hi": "‘Truthfulness’ का मतलब?",
+        "hinglish": "‘Truthfulness’ ka matlab?"
+      },
+      "options": [
+        "always telling the truth",
+        "never hurting anyone",
+        "living simply"
+      ],
+      "answer": "always telling the truth"
+    }
+  ]
+}

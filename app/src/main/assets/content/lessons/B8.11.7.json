@@ -1,0 +1,172 @@
+{
+  "id": "B8.11.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.11.7.S02",
+    "B8.11.7.S03",
+    "B8.11.7.S04",
+    "B8.11.7.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.11.7.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "बिजली पानी (हाइड्रो), कोयले (थर्मल) और परमाणु धातुओं (न्यूक्लियर) से बनती है। किताब: ‘Saving Electricity’ पर पैराग्राफ़ लिखो।",
+        "hinglish": "Bijli paani (hydro), koyle (thermal) aur parmaanu dhaatuon (nuclear) se banti hai. Kitaab: ‘Saving Electricity’ par paragraph likho.",
+        "en": "Electricity is made from water (hydroelectric), coal (thermal) and radioactive metals (nuclear). The book: write a paragraph on ‘Saving Electricity’."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.11.7.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "instruction": {
+        "hi": "बिजलीघर को उसके ईंधन से जोड़ो",
+        "hinglish": "Bijlighar ko uske eendhan se jodo",
+        "en": "Join each power station to what it uses"
+      },
+      "pairs": [
+        {
+          "left": "hydroelectric",
+          "right": "water at dams",
+          "meaning": {
+            "hi": "जलविद्युत — बाँध का पानी",
+            "hinglish": "jalvidyut — baandh ka paani"
+          }
+        },
+        {
+          "left": "thermal",
+          "right": "coal",
+          "meaning": {
+            "hi": "ताप बिजलीघर — कोयला",
+            "hinglish": "taap bijlighar — koyla"
+          }
+        },
+        {
+          "left": "nuclear",
+          "right": "radioactive metals",
+          "meaning": {
+            "hi": "परमाणु — रेडियोधर्मी धातु",
+            "hinglish": "parmaanu — radiodharmi dhaatu"
+          }
+        }
+      ]
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.11.7.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "instruction": {
+        "hi": "बिजली बचाने के लिए: अच्छी आदत या बुरी आदत?",
+        "hinglish": "Bijli bachaane ke liye: achhi aadat ya buri aadat?",
+        "en": "To save electricity: good habit or bad habit?"
+      },
+      "groups": [
+        {
+          "id": "good",
+          "name": "saves power",
+          "emoji": "✅",
+          "meaning": {
+            "hi": "बिजली बचाता है",
+            "hinglish": "bijli bachaata hai"
+          }
+        },
+        {
+          "id": "bad",
+          "name": "wastes power",
+          "emoji": "⛔",
+          "meaning": {
+            "hi": "बिजली बर्बाद करता है",
+            "hinglish": "bijli barbaad karta hai"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "switch off lights",
+          "emoji": "💡",
+          "groups": [
+            "good"
+          ]
+        },
+        {
+          "text": "use LED lamps",
+          "emoji": "🔆",
+          "groups": [
+            "good"
+          ]
+        },
+        {
+          "text": "work in daylight",
+          "emoji": "☀️",
+          "groups": [
+            "good"
+          ]
+        },
+        {
+          "text": "TV on with no one watching",
+          "emoji": "📺",
+          "groups": [
+            "bad"
+          ]
+        },
+        {
+          "text": "too many decoration lights",
+          "emoji": "🎆",
+          "groups": [
+            "bad"
+          ]
+        },
+        {
+          "text": "fan on in an empty room",
+          "emoji": "🌀",
+          "groups": [
+            "bad"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.11.7.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "कमरे से निकलते समय लाइट बंद करो।",
+        "hinglish": "Kamre se nikalte samay light band karo.",
+        "en": "Tell what to do with lights when leaving a room."
+      },
+      "answer": "Switch off the lights when you leave the room.",
+      "meaning": {
+        "hi": "कमरे से निकलते समय लाइट बंद करो।",
+        "hinglish": "Kamre se nikalte samay light band karo."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.11.7.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "हमें बिजली बचाने वाले बल्ब इस्तेमाल करने चाहिए।",
+        "hinglish": "Humein bijli bachaane waale bulb istemaal karne chahiye.",
+        "en": "Advise using bulbs that use less power."
+      },
+      "answer": "We should use power saving lamps.",
+      "meaning": {
+        "hi": "हमें बिजली बचाने वाले बल्ब इस्तेमाल करने चाहिए।",
+        "hinglish": "Humein bijli bachaane waale bulb istemaal karne chahiye."
+      }
+    }
+  ]
+}

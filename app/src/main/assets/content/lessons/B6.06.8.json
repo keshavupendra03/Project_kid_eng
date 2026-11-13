@@ -1,0 +1,89 @@
+{
+  "id": "B6.06.8",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B6.06.8.S01",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "तीरंदाज़ी के शब्द जोड़ो",
+        "hinglish": "Teerandaazi ke shabd jodo",
+        "en": "Join the archery words"
+      },
+      "pairs": [
+        {
+          "left": "bow",
+          "right": "a curved stick with a string to shoot arrows",
+          "meaning": {
+            "hi": "धनुष",
+            "hinglish": "dhanush"
+          }
+        },
+        {
+          "left": "arrow",
+          "right": "a thin stick with a sharp point",
+          "meaning": {
+            "hi": "तीर",
+            "hinglish": "teer"
+          }
+        },
+        {
+          "left": "archer",
+          "right": "a person who shoots with a bow",
+          "meaning": {
+            "hi": "धनुर्धर",
+            "hinglish": "dhanurdhar"
+          }
+        },
+        {
+          "left": "aim",
+          "right": "to point at a target",
+          "meaning": {
+            "hi": "निशाना साधना",
+            "hinglish": "nishaana saadhna"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.8.S02",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "What is the lesson of this story?",
+      "questionMeaning": {
+        "hi": "इस कहानी की सीख क्या है?",
+        "hinglish": "Is kahani ki seekh kya hai?"
+      },
+      "options": [
+        "Focus only on your goal to succeed.",
+        "Look at many things at once.",
+        "Birds live in trees."
+      ],
+      "answer": "Focus only on your goal to succeed."
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.06.8.S03",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "sentence": "To do well in exams, we must ___ on our studies.",
+      "answer": "concentrate",
+      "options": [
+        "concentrate",
+        "sleep",
+        "play"
+      ],
+      "meaning": {
+        "hi": "परीक्षा में अच्छा करने के लिए हमें पढ़ाई पर ध्यान लगाना चाहिए।",
+        "hinglish": "Pariksha mein achha karne ke liye humein padhaai par dhyaan lagaana chahiye."
+      }
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "B7.02.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.02.7.S02",
+    "B7.02.7.S03",
+    "B7.02.7.S04",
+    "B7.02.7.S05",
+    "B7.02.7.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.02.7.S01",
+      "skills": [
+        "book.activity",
+        "grammar.should"
+      ],
+      "text": {
+        "hi": "‘should’ का मतलब ‘चाहिए’। We should plant trees = हमें पेड़ लगाने चाहिए। ‘should not’ = नहीं चाहिए। We should not waste water.",
+        "hinglish": "‘should’ ka matlab ‘chahiye’. We should plant trees = Humein ped lagaane chahiye. ‘should not’ = nahi chahiye. We should not waste water.",
+        "en": "‘Should’ tells us what is right to do. We should plant trees. ‘Should not’ tells us what not to do. We should not waste water."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.7.S02",
+      "skills": [
+        "book.activity",
+        "grammar.should"
+      ],
+      "prompt": {
+        "hi": "‘should’ से लिखो: Never cut green trees.",
+        "hinglish": "‘should’ se likho: Never cut green trees.",
+        "en": "Rewrite with ‘should’: Never cut green trees."
+      },
+      "answer": "We should never cut green trees.",
+      "meaning": {
+        "hi": "हमें कभी हरे पेड़ नहीं काटने चाहिए।",
+        "hinglish": "Humein kabhi hare ped nahi kaatne chahiye."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.7.S03",
+      "skills": [
+        "book.activity",
+        "grammar.should"
+      ],
+      "prompt": {
+        "hi": "‘should’ से लिखो: Do not hurt animals and birds.",
+        "hinglish": "‘should’ se likho: Do not hurt animals and birds.",
+        "en": "Rewrite with ‘should’: Do not hurt animals and birds."
+      },
+      "answer": "We should not hurt animals and birds.",
+      "meaning": {
+        "hi": "हमें जानवरों और पक्षियों को चोट नहीं पहुँचानी चाहिए।",
+        "hinglish": "Humein jaanwaron aur pakshiyon ko chot nahi pahunchaani chahiye."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.7.S04",
+      "skills": [
+        "book.activity",
+        "grammar.should"
+      ],
+      "prompt": {
+        "hi": "‘should’ से लिखो: Don't be cruel to animals.",
+        "hinglish": "‘should’ se likho: Don't be cruel to animals.",
+        "en": "Rewrite with ‘should’: Don't be cruel to animals."
+      },
+      "answer": "We should not be cruel to animals.",
+      "meaning": {
+        "hi": "हमें जानवरों के साथ बुरा बर्ताव नहीं करना चाहिए।",
+        "hinglish": "Humein jaanwaron ke saath bura bartaav nahi karna chahiye."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.7.S05",
+      "skills": [
+        "book.activity",
+        "grammar.should"
+      ],
+      "prompt": {
+        "hi": "‘should’ से लिखो: Feed our pets properly.",
+        "hinglish": "‘should’ se likho: Feed our pets properly.",
+        "en": "Rewrite with ‘should’: Feed our pets properly."
+      },
+      "answer": "We should feed our pets properly.",
+      "meaning": {
+        "hi": "हमें अपने पालतू जानवरों को ठीक से खाना खिलाना चाहिए।",
+        "hinglish": "Humein apne paaltu jaanwaron ko theek se khaana khilaana chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.7.S06",
+      "skills": [
+        "book.activity",
+        "grammar.should"
+      ],
+      "sentence": "We should get up ___ in the morning.",
+      "answer": "early",
+      "options": [
+        "early",
+        "late"
+      ],
+      "meaning": {
+        "hi": "हमें सुबह जल्दी उठना चाहिए।",
+        "hinglish": "Humein subah jaldi uthna chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.7.S07",
+      "skills": [
+        "book.activity",
+        "grammar.should"
+      ],
+      "sentence": "We should ___ waste water.",
+      "answer": "not",
+      "options": [
+        "not",
+        "always"
+      ],
+      "meaning": {
+        "hi": "हमें पानी बर्बाद नहीं करना चाहिए।",
+        "hinglish": "Humein paani barbaad nahi karna chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.7.S08",
+      "skills": [
+        "book.activity",
+        "grammar.should"
+      ],
+      "sentence": "We should ___ our teachers.",
+      "answer": "respect",
+      "options": [
+        "respect",
+        "tease"
+      ],
+      "meaning": {
+        "hi": "हमें अपने टीचर का सम्मान करना चाहिए।",
+        "hinglish": "Humein apne teacher ka sammaan karna chahiye."
+      }
+    },
+    {
+      "type": "spot_mistake",
+      "id": "B7.02.7.S09",
+      "skills": [
+        "book.activity",
+        "grammar.should"
+      ],
+      "words": [
+        "We",
+        "should",
+        "not",
+        "wastes",
+        "food."
+      ],
+      "wrong": 3,
+      "fix": "waste",
+      "meaning": {
+        "hi": "हमें खाना बर्बाद नहीं करना चाहिए।",
+        "hinglish": "Humein khaana barbaad nahi karna chahiye."
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "B7.10.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.10.3.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.10.3.S01",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "text": {
+        "hi": "शब्द के आगे ‘un’ लगाने से उल्टा मतलब: ease → unease (बेचैनी)।",
+        "hinglish": "Shabd ke aage ‘un’ lagaane se ulta matlab: ease → unease (bechaini).",
+        "en": "Adding ‘un’ in front gives the opposite: ease → unease."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.10.3.S02",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके उल्टे (un-) शब्द से जोड़ो",
+        "hinglish": "Har shabd ko uske ulte (un-) shabd se jodo",
+        "en": "Join each word to its un- opposite"
+      },
+      "pairs": [
+        {
+          "left": "pleasant",
+          "right": "unpleasant",
+          "meaning": {
+            "hi": "अच्छा / बुरा, नापसंद",
+            "hinglish": "achha / bura, naapasand"
+          }
+        },
+        {
+          "left": "happy",
+          "right": "unhappy",
+          "meaning": {
+            "hi": "ख़ुश / दुखी",
+            "hinglish": "khush / dukhi"
+          }
+        },
+        {
+          "left": "wanted",
+          "right": "unwanted",
+          "meaning": {
+            "hi": "चाहा हुआ / अनचाहा",
+            "hinglish": "chaaha hua / anchaaha"
+          }
+        },
+        {
+          "left": "natural",
+          "right": "unnatural",
+          "meaning": {
+            "hi": "स्वाभाविक / अस्वाभाविक",
+            "hinglish": "swaabhaavik / aswaabhaavik"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.10.3.S03",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "The smell of the dustbin was very ___.",
+      "answer": "unpleasant",
+      "options": [
+        "unpleasant",
+        "pleasant",
+        "natural"
+      ],
+      "meaning": {
+        "hi": "कूड़ेदान की बदबू बहुत बुरी थी।",
+        "hinglish": "Koodedaan ki badboo bahut buri thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.10.3.S04",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "She was ___ because she lost her pen.",
+      "answer": "unhappy",
+      "options": [
+        "unhappy",
+        "happy",
+        "wanted"
+      ],
+      "meaning": {
+        "hi": "वह दुखी थी क्योंकि उसका पेन खो गया।",
+        "hinglish": "Woh dukhi thi kyonki uska pen kho gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.10.3.S05",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "What is the opposite of ‘kind’?",
+      "questionMeaning": {
+        "hi": "‘kind’ का उल्टा क्या है?",
+        "hinglish": "‘kind’ ka ulta kya hai?"
+      },
+      "options": [
+        "unkind",
+        "rekind",
+        "kindful"
+      ],
+      "answer": "unkind"
+    }
+  ]
+}

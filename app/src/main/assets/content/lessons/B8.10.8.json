@@ -1,0 +1,516 @@
+{
+  "id": "B8.10.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.10.8.S01",
+    "B8.10.8.S02",
+    "B8.10.8.S03",
+    "B8.10.8.S04",
+    "B8.10.8.S05",
+    "B8.10.8.S06",
+    "B8.10.8.S07",
+    "B8.10.8.S08",
+    "B8.10.8.S09",
+    "B8.10.8.S10",
+    "B8.10.8.S11",
+    "B8.10.8.S12",
+    "B8.10.8.S13",
+    "B8.10.8.S14",
+    "B8.10.8.S15",
+    "B8.10.8.S16",
+    "B8.10.8.S17",
+    "B8.10.8.S19",
+    "B8.10.8.S20",
+    "B8.10.8.S21",
+    "B8.10.8.S22",
+    "B8.10.8.S23",
+    "B8.10.8.S24",
+    "B8.10.8.S25"
+  ],
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "The king invited the artist ___ the court.",
+      "answer": "to",
+      "options": [
+        "to",
+        "for"
+      ],
+      "meaning": {
+        "hi": "राजा ने चित्रकार को दरबार में बुलाया।",
+        "hinglish": "Raja ne chitrakaar ko darbaar mein bulaaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "He was well known ___ his genius.",
+      "answer": "for",
+      "options": [
+        "for",
+        "of"
+      ],
+      "meaning": {
+        "hi": "वह अपनी प्रतिभा के लिए मशहूर था।",
+        "hinglish": "Woh apni pratibha ke liye mashhoor tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Divide these sweets ___ all the students.",
+      "answer": "among",
+      "options": [
+        "among",
+        "between"
+      ],
+      "meaning": {
+        "hi": "ये मिठाइयाँ सब छात्रों में बाँट दो।",
+        "hinglish": "Yeh mithaaiyaan sab chhaatron mein baant do."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "I have been reading this novel ___ 3 o'clock.",
+      "answer": "since",
+      "options": [
+        "since",
+        "for"
+      ],
+      "meaning": {
+        "hi": "मैं 3 बजे से यह उपन्यास पढ़ रहा हूँ।",
+        "hinglish": "Main 3 baje se yeh upanyaas padh raha hoon."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "The teacher is pleased ___ the students.",
+      "answer": "with",
+      "options": [
+        "with",
+        "to"
+      ],
+      "meaning": {
+        "hi": "टीचर छात्रों से ख़ुश हैं।",
+        "hinglish": "Teacher chhaatron se khush hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "The bell rang and all the students ran ___ their classrooms.",
+      "answer": "to",
+      "options": [
+        "to",
+        "by"
+      ],
+      "meaning": {
+        "hi": "घंटी बजी और सब छात्र कक्षाओं की ओर भागे।",
+        "hinglish": "Ghanti baji aur sab chhaatra kakshaaon ki or bhaage."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "We travelled ___ bus.",
+      "answer": "by",
+      "options": [
+        "by",
+        "with"
+      ],
+      "meaning": {
+        "hi": "हमने बस से सफ़र किया।",
+        "hinglish": "Humne bus se safar kiya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "The doctor is sitting ___ his clinic.",
+      "answer": "in",
+      "options": [
+        "in",
+        "into"
+      ],
+      "meaning": {
+        "hi": "डॉक्टर अपने क्लिनिक में बैठे हैं।",
+        "hinglish": "Doctor apne clinic mein baithe hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Give me a glass of milk ___ a loaf of bread.",
+      "answer": "and",
+      "options": [
+        "and",
+        "but"
+      ],
+      "meaning": {
+        "hi": "मुझे एक गिलास दूध और एक डबलरोटी दो।",
+        "hinglish": "Mujhe ek gilaas doodh aur ek doubleroti do."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "She is a good player ___ not a good reader.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "वह अच्छी खिलाड़ी है पर अच्छी पाठक नहीं।",
+        "hinglish": "Woh achhi khilaadi hai par achhi paathak nahi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "The doctors did their best ___ the patient died.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "डॉक्टरों ने पूरी कोशिश की पर मरीज़ नहीं बचा।",
+        "hinglish": "Doctoron ne poori koshish ki par mareez nahi bacha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Aryan came first in science ___ in English.",
+      "answer": "and",
+      "options": [
+        "and",
+        "but"
+      ],
+      "meaning": {
+        "hi": "आर्यन विज्ञान और अंग्रेज़ी में पहले आया।",
+        "hinglish": "Aryan vigyaan aur angrezi mein pehle aaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "She delivered a good speech ___ many of us could not hear her.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "उसने अच्छा भाषण दिया पर हम में से कई सुन नहीं पाए।",
+        "hinglish": "Usne achha bhaashan diya par hum mein se kai sun nahi paaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "He did his work ___.",
+      "answer": "badly",
+      "options": [
+        "badly",
+        "beautifully",
+        "foolishly"
+      ],
+      "meaning": {
+        "hi": "उसने अपना काम बुरी तरह किया।",
+        "hinglish": "Usne apna kaam buri tarah kiya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "I ___ thought that everyone would solve the puzzle.",
+      "answer": "foolishly",
+      "options": [
+        "foolishly",
+        "patiently",
+        "beautifully"
+      ],
+      "meaning": {
+        "hi": "मैंने बेवकूफ़ी से सोचा कि सब पहेली हल कर लेंगे।",
+        "hinglish": "Maine bevkoofi se socha ki sab paheli hal kar lenge."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S16",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "The teacher listened to me ___.",
+      "answer": "patiently",
+      "options": [
+        "patiently",
+        "badly",
+        "foolishly"
+      ],
+      "meaning": {
+        "hi": "टीचर ने धैर्य से मेरी बात सुनी।",
+        "hinglish": "Teacher ne dhairya se meri baat suni."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.10.8.S17",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "They danced ___.",
+      "answer": "beautifully",
+      "options": [
+        "beautifully",
+        "foolishly",
+        "patiently"
+      ],
+      "meaning": {
+        "hi": "उन्होंने सुंदर नृत्य किया।",
+        "hinglish": "Unhone sundar nritya kiya."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.10.8.S18",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "text": {
+        "hi": "किताब पेज 86-87: ‘Not gold but only men can make’ कविता और यात्रा में चोरी वाला पैराग्राफ़ पढ़ो।",
+        "hinglish": "Kitaab page 86-87: ‘Not gold but only men can make’ kavita aur yaatra mein chori waala paragraph padho.",
+        "en": "Book pages 86–87: read the poem ‘Not gold but only men can make’ and the passage about theft while travelling."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.8.S19",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "What sort of men can make a nation great?",
+      "questionMeaning": {
+        "hi": "कैसे लोग देश को महान बनाते हैं?",
+        "hinglish": "Kaise log desh ko mahaan banaate hain?"
+      },
+      "options": [
+        "brave, honest men who work hard while others sleep",
+        "rich men with gold",
+        "men who sleep a lot"
+      ],
+      "answer": "brave, honest men who work hard while others sleep"
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.10.8.S20",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "instruction": {
+        "hi": "कविता से तुकबंदी वाले शब्द जोड़ो",
+        "hinglish": "Kavita se tukbandi waale shabd jodo",
+        "en": "Join the rhyming words from the poem"
+      },
+      "pairs": [
+        {
+          "left": "make",
+          "right": "sake",
+          "meaning": {
+            "hi": "बनाना — ख़ातिर",
+            "hinglish": "banaana — khaatir"
+          }
+        },
+        {
+          "left": "strong",
+          "right": "long",
+          "meaning": {
+            "hi": "मज़बूत — लंबा",
+            "hinglish": "mazboot — lamba"
+          }
+        },
+        {
+          "left": "sleep",
+          "right": "deep",
+          "meaning": {
+            "hi": "सोना — गहरा",
+            "hinglish": "sona — gehra"
+          }
+        },
+        {
+          "left": "fly",
+          "right": "sky",
+          "meaning": {
+            "hi": "भागना — आसमान",
+            "hinglish": "bhaagna — aasmaan"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.8.S21",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "A suitable title for the poem:",
+      "questionMeaning": {
+        "hi": "कविता का उचित शीर्षक",
+        "hinglish": "Kavita ka uchit sheershak"
+      },
+      "options": [
+        "A Nation's Strength",
+        "The Gold Mine",
+        "Sleeping Men"
+      ],
+      "answer": "A Nation's Strength"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.8.S22",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "What incidents can take place with passengers?",
+      "questionMeaning": {
+        "hi": "यात्रियों के साथ क्या हो सकता है?",
+        "hinglish": "Yaatriyon ke saath kya ho sakta hai?"
+      },
+      "options": [
+        "theft of luggage and pickpocketing",
+        "free tickets",
+        "early arrival"
+      ],
+      "answer": "theft of luggage and pickpocketing"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.8.S23",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "How are passengers warned?",
+      "questionMeaning": {
+        "hi": "यात्रियों को कैसे सावधान किया जाता है?",
+        "hinglish": "Yaatriyon ko kaise saavdhaan kiya jaata hai?"
+      },
+      "options": [
+        "by warnings in bold letters and announcements",
+        "by songs",
+        "by sending letters home"
+      ],
+      "answer": "by warnings in bold letters and announcements"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.8.S24",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "What may happen if someone takes eatables from strangers?",
+      "questionMeaning": {
+        "hi": "अजनबी से खाना लेने पर क्या हो सकता है?",
+        "hinglish": "Ajnabi se khaana lene par kya ho sakta hai?"
+      },
+      "options": [
+        "They may fall into the trap of criminals.",
+        "They will make new friends.",
+        "Nothing at all."
+      ],
+      "answer": "They may fall into the trap of criminals."
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.8.S25",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "A suitable title for the passage:",
+      "questionMeaning": {
+        "hi": "पैराग्राफ़ का शीर्षक",
+        "hinglish": "Paragraph ka sheershak"
+      },
+      "options": [
+        "Be Careful While Travelling",
+        "My Favourite Train",
+        "A Happy Journey"
+      ],
+      "answer": "Be Careful While Travelling"
+    }
+  ]
+}

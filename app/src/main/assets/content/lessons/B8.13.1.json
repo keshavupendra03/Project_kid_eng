@@ -1,0 +1,230 @@
+{
+  "id": "B8.13.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.13.1.S02",
+    "B8.13.1.S03",
+    "B8.13.1.S04"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.13.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "महाभारत की कहानी: प्यासे पांडव एक तालाब पर पहुँचते हैं। यक्ष कहता है कि पहले सवालों के जवाब दो, फिर पानी पियो। चार भाई बात नहीं मानते, पर युधिष्ठिर समझदारी से जवाब देते हैं।",
+        "hinglish": "Mahabharat ki kahani: pyaase Pandav ek taalaab par pahunchte hain. Yaksha kehta hai ki pehle sawaalon ke jawab do, phir paani piyo. Chaar bhai baat nahi maante, par Yudhishthir samajhdaari se jawab dete hain.",
+        "en": "A story from the Mahabharata: the thirsty Pandavas reach a pool. A Yaksha says: answer my questions first, then drink. Four brothers don't listen, but Yudhishthira answers wisely."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What do you know about the Mahabharata?",
+      "questionMeaning": {
+        "hi": "महाभारत के बारे में क्या जानते हो?",
+        "hinglish": "Mahabharat ke baare mein kya jaante ho?"
+      },
+      "options": [
+        "It is an epic about the Pandavas and the Kauravas.",
+        "It is a modern novel.",
+        "It is a film song."
+      ],
+      "answer": "It is an epic about the Pandavas and the Kauravas.",
+      "modelAnswer": "The Mahabharata is a great Indian epic written by Ved Vyas. It tells the story of the war between the Pandavas and the Kauravas.",
+      "modelMeaning": {
+        "hi": "महाभारत वेद व्यास का लिखा महान भारतीय महाकाव्य है। इसमें पांडवों और कौरवों के युद्ध की कहानी है।",
+        "hinglish": "Mahabharat Ved Vyas ka likha mahaan Bharatiya mahaakaavya hai. Ismein Pandavon aur Kauravon ke yuddh ki kahani hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Why were the Pandavas sent into exile?",
+      "questionMeaning": {
+        "hi": "पांडवों को वनवास क्यों मिला?",
+        "hinglish": "Pandavon ko vanvaas kyon mila?"
+      },
+      "options": [
+        "They lost a game of dice to the Kauravas.",
+        "They broke a law.",
+        "They wanted to travel."
+      ],
+      "answer": "They lost a game of dice to the Kauravas.",
+      "modelAnswer": "The Pandavas were sent into exile because Yudhishthira lost a game of dice to the Kauravas, who cheated.",
+      "modelMeaning": {
+        "hi": "पांडवों को वनवास मिला क्योंकि युधिष्ठिर कौरवों से जुए (चौसर) में हार गए, जिसमें धोखा हुआ था।",
+        "hinglish": "Pandavon ko vanvaas mila kyonki Yudhishthir Kauravon se jue (chausar) mein haar gaye, jismein dhokha hua tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What difficulties did they face in exile?",
+      "questionMeaning": {
+        "hi": "वनवास में क्या मुश्किलें आईं?",
+        "hinglish": "Vanvaas mein kya mushkilein aayin?"
+      },
+      "options": [
+        "They lived in forests without food, water or comfort.",
+        "They lived in palaces.",
+        "They had no difficulties."
+      ],
+      "answer": "They lived in forests without food, water or comfort.",
+      "modelAnswer": "In exile they wandered in forests, faced hunger, thirst, wild animals and many dangers.",
+      "modelMeaning": {
+        "hi": "वनवास में वे जंगलों में भटके और भूख, प्यास, जंगली जानवरों और कई ख़तरों का सामना किया।",
+        "hinglish": "Vanvaas mein woh junglon mein bhatke aur bhookh, pyaas, jungli jaanwaron aur kai khatron ka saamna kiya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.13.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "virtue",
+        "emoji": "",
+        "hindi": "सद्गुण",
+        "hinglish": "sadgun"
+      },
+      "meaning": "goodness, good behaviour",
+      "example": "Virtue is the best road to heaven.",
+      "exampleMeaning": {
+        "hi": "सद्गुण स्वर्ग का सबसे अच्छा रास्ता है।",
+        "hinglish": "Sadgun swarg ka sabse achha raasta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.13.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "exile",
+        "emoji": "",
+        "hindi": "वनवास, देश-निकाला",
+        "hinglish": "vanvaas, desh-nikaala"
+      },
+      "meaning": "being sent away from home",
+      "example": "The Pandavas lived in exile.",
+      "exampleMeaning": {
+        "hi": "पांडव वनवास में रहे।",
+        "hinglish": "Pandav vanvaas mein rahe."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.13.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "heed",
+        "emoji": "",
+        "hindi": "ध्यान",
+        "hinglish": "dhyaan"
+      },
+      "meaning": "attention",
+      "example": "Nakula paid no heed to the voice.",
+      "exampleMeaning": {
+        "hi": "नकुल ने आवाज़ पर ध्यान नहीं दिया।",
+        "hinglish": "Nakul ne awaaz par dhyaan nahi diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.13.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "divine",
+        "emoji": "",
+        "hindi": "दैवी",
+        "hinglish": "daivi"
+      },
+      "meaning": "connected with God",
+      "example": "It was a divine voice.",
+      "exampleMeaning": {
+        "hi": "वह एक दैवी आवाज़ थी।",
+        "hinglish": "Woh ek daivi awaaz thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.13.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "boon",
+        "emoji": "",
+        "hindi": "वरदान",
+        "hinglish": "vardaan"
+      },
+      "meaning": "a gift or blessing",
+      "example": "The Yaksha gave him a boon.",
+      "exampleMeaning": {
+        "hi": "यक्ष ने उसे वरदान दिया।",
+        "hinglish": "Yaksha ne use vardaan diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.13.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "contented",
+        "emoji": "",
+        "hindi": "संतुष्ट",
+        "hinglish": "santusht"
+      },
+      "meaning": "happy with what you have",
+      "example": "A contented man is rich.",
+      "exampleMeaning": {
+        "hi": "संतुष्ट आदमी अमीर है।",
+        "hinglish": "Santusht aadmi ameer hai."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.13.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "virtue",
+        "emoji": "",
+        "hindi": "सद्गुण",
+        "hinglish": "sadgun"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "B8.13.9",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.13.9.S01",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब: महान लोगों और पौराणिक नायकों की और कहानियाँ पढ़ो और कक्षा में सुनाओ।",
+        "hinglish": "Kitaab: mahaan logon aur pauraanik naayakon ki aur kahaniyaan padho aur kaksha mein sunaao.",
+        "en": "The book: read more stories of great people and mythological heroes and tell them in class."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.9.S02",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "question": "Who wrote the Mahabharata?",
+      "questionMeaning": {
+        "hi": "महाभारत किसने लिखी?",
+        "hinglish": "Mahabharat kisne likhi?"
+      },
+      "options": [
+        "Ved Vyas",
+        "Valmiki",
+        "Tulsidas"
+      ],
+      "answer": "Ved Vyas"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.9.S03",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "question": "How many Pandava brothers were there?",
+      "questionMeaning": {
+        "hi": "पांडव कितने भाई थे?",
+        "hinglish": "Pandav kitne bhai the?"
+      },
+      "options": [
+        "five",
+        "four",
+        "a hundred"
+      ],
+      "answer": "five"
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.9.S04",
+      "skills": [
+        "vocab.meaning",
+        "book.activity"
+      ],
+      "question": "Who was the Yaksha really?",
+      "questionMeaning": {
+        "hi": "यक्ष असल में कौन थे?",
+        "hinglish": "Yaksha asal mein kaun the?"
+      },
+      "options": [
+        "Dharma, the God of Justice",
+        "Indra, the king of gods",
+        "a forest tiger"
+      ],
+      "answer": "Dharma, the God of Justice"
+    }
+  ]
+}

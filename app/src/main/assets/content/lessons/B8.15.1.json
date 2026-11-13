@@ -1,0 +1,106 @@
+{
+  "id": "B8.15.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.15.1.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.15.1.S01",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 135 पर कविता ‘A Secret’ पढ़ो। एक बच्चा, एक रॉबिन चिड़िया और चेरी का पेड़ मिलकर एक राज़ छिपा रहे हैं। ख़ाली जगहों में छिपा राज़ तुम पहचान सकते हो? पहले ये शब्द सीख लो।",
+        "hinglish": "Apni kitaab mein page 135 par kavita ‘A Secret’ padho. Ek bachcha, ek robin chidiya aur cherry ka ped milkar ek raaz chhipa rahe hain. Khaali jagahon mein chhipa raaz tum pehchaan sakte ho? Pehle yeh shabd seekh lo.",
+        "en": "Read the poem ‘A Secret’ on page 135 of your book. A child, a robin and a cherry tree share a secret. Can you guess the secret hidden in the blanks? First learn these words."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.15.1.S02",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "word": {
+        "english": "secret",
+        "emoji": "",
+        "hindi": "राज़",
+        "hinglish": "raaz"
+      },
+      "meaning": "something only a few people know",
+      "example": "Can you keep a secret?",
+      "exampleMeaning": {
+        "hi": "क्या तुम राज़ रख सकते हो?",
+        "hinglish": "Kya tum raaz rakh sakte ho?"
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.15.1.S03",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "word": {
+        "english": "robin",
+        "emoji": "",
+        "hindi": "रॉबिन (एक छोटी चिड़िया)",
+        "hinglish": "robin (ek chhoti chidiya)"
+      },
+      "meaning": "a small bird with a red chest",
+      "example": "The robin built a nest.",
+      "exampleMeaning": {
+        "hi": "रॉबिन ने घोंसला बनाया।",
+        "hinglish": "Robin ne ghonsla banaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.15.1.S04",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "word": {
+        "english": "peep",
+        "emoji": "",
+        "hindi": "राज़ खोलना, झाँकना",
+        "hinglish": "raaz kholna, jhaankna"
+      },
+      "meaning": "to look quickly; here, to tell a secret",
+      "example": "Don't peep, keep the secret!",
+      "exampleMeaning": {
+        "hi": "राज़ मत खोलना!",
+        "hinglish": "Raaz mat kholna!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.1.S05",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "question": "Where do birds lay their eggs?",
+      "questionMeaning": {
+        "hi": "चिड़ियाँ अंडे कहाँ देती हैं?",
+        "hinglish": "Chidiyaan ande kahan deti hain?"
+      },
+      "options": [
+        "in their nests",
+        "in the water",
+        "in the sky"
+      ],
+      "answer": "in their nests",
+      "modelAnswer": "Birds live in trees and lay their eggs in nests which they build with twigs, grass and straw.",
+      "modelMeaning": {
+        "hi": "चिड़ियाँ पेड़ों पर रहती हैं और तिनकों, घास से बने घोंसलों में अंडे देती हैं।",
+        "hinglish": "Chidiyaan pedon par rehti hain aur tinkon, ghaas se bane ghonslon mein ande deti hain."
+      }
+    }
+  ]
+}

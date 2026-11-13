@@ -1,5 +1,9 @@
 package com.samjhoenglish.ui.parent
 
+import android.Manifest
+import android.os.Build
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -52,7 +56,9 @@ import com.samjhoenglish.i18n.AppLanguage
 import com.samjhoenglish.i18n.LocalAppLanguage
 import com.samjhoenglish.i18n.UiStrings
 import com.samjhoenglish.i18n.text
+import com.samjhoenglish.ui.components.BigButton
 import com.samjhoenglish.ui.components.EmojiButton
+import com.samjhoenglish.ui.test.ParentTestResultsScreen
 import com.samjhoenglish.ui.theme.ChartBar
 import com.samjhoenglish.ui.theme.Leaf
 import kotlinx.coroutines.launch
@@ -79,6 +85,7 @@ fun ParentArea(
     var showingKidMode by remember { mutableStateOf(false) }
     var openingSettings by remember { mutableStateOf(false) }
     var schoolChild by remember { mutableStateOf<Child?>(null) }
+    var testsChild by remember { mutableStateOf<Child?>(null) }
 
     DisposableEffect(Unit) {
         container.stopAudio()
@@ -94,10 +101,12 @@ fun ParentArea(
             changingPin = false
             showingKidMode = false
             schoolChild = null
+            testsChild = null
         }
     }
 
     val linking = schoolChild
+    val reviewing = testsChild
 
     when {
         !unlocked -> ParentGate(container.settings, onDone = { unlocked = true }, onClose = onClose)
@@ -108,6 +117,7 @@ fun ParentArea(
             onClose = { changingPin = false },
         )
         linking != null -> SchoolLinkScreen(container, linking, onBack = { schoolChild = null })
+        reviewing != null -> ParentTestResultsScreen(container, reviewing, onBack = { testsChild = null })
         showingKidMode -> KidModeScreen(
             container = container,
             children = children,
@@ -124,6 +134,7 @@ fun ParentArea(
             onChangePin = { changingPin = true },
             onOpenKidMode = { showingKidMode = true },
             onOpenSchool = { schoolChild = it },
+            onOpenTests = { testsChild = it },
             onChildDeleted,
         )
     }
@@ -139,6 +150,7 @@ private fun Dashboard(
     onChangePin: () -> Unit,
     onOpenKidMode: () -> Unit,
     onOpenSchool: (Child) -> Unit,
+    onOpenTests: (Child) -> Unit,
     onChildDeleted: (Long) -> Unit,
 ) {
     var selectedId by remember { mutableStateOf(currentChild?.id) }
@@ -196,6 +208,22 @@ private fun Dashboard(
             Column(Modifier.padding(16.dp)) {
                 Text("🏫 ${UiStrings.school.text()}", style = MaterialTheme.typography.titleLarge)
                 Text(UiStrings.schoolCardText.text(), style = MaterialTheme.typography.bodyMedium)
+            }
+        }
+
+        val link by remember(child.id) { container.school.link(child.id) }.collectAsStateWithLifecycle(null)
+        if (link?.needsTestsConsent == true) TestsConsentCard(container, child)
+        if (link != null) {
+            Surface(
+                onClick = { onOpenTests(child) },
+                shape = RoundedCornerShape(20.dp),
+                color = MaterialTheme.colorScheme.primaryContainer,
+                modifier = Modifier.fillMaxWidth(),
+            ) {
+                Column(Modifier.padding(16.dp)) {
+                    Text(UiStrings.parentTestResults.text(), style = MaterialTheme.typography.titleLarge)
+                    Text(UiStrings.parentTestResultsText.text(), style = MaterialTheme.typography.bodyMedium)
+                }
             }
         }
 
@@ -324,6 +352,31 @@ private fun Dashboard(
                 }
             },
         )
+    }
+}
+
+/** The school started sending tests: the parent agrees once to share chapter progress and test answers. */
+@Composable
+private fun TestsConsentCard(container: AppContainer, child: Child) {
+    val scope = rememberCoroutineScope()
+    var problem by remember { mutableStateOf(false) }
+    val askNotifications = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { }
+    Surface(shape = RoundedCornerShape(20.dp), color = MaterialTheme.colorScheme.tertiaryContainer, modifier = Modifier.fillMaxWidth()) {
+        Column(Modifier.padding(16.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+            Text(UiStrings.schoolTestsConsentTitle.text(), style = MaterialTheme.typography.titleLarge)
+            Text(UiStrings.schoolTestsConsentText.text(), style = MaterialTheme.typography.bodyLarge)
+            if (problem) Text(UiStrings.schoolNoConnection.text(), style = MaterialTheme.typography.titleMedium, color = MaterialTheme.colorScheme.error)
+            BigButton(
+                text = UiStrings.schoolTestsAgree.text(),
+                emoji = "✅",
+                onClick = {
+                    problem = false
+                    // So the parent hears about new tests even when the app is closed.
+                    if (Build.VERSION.SDK_INT >= 33) askNotifications.launch(Manifest.permission.POST_NOTIFICATIONS)
+                    scope.launch { if (!container.school.acceptTestsConsent(child.id)) problem = true }
+                },
+            )
+        }
     }
 }
 

@@ -1,0 +1,111 @@
+{
+  "id": "B8.13.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.13.8.S02",
+    "B8.13.8.S03",
+    "B8.13.8.S04",
+    "B8.13.8.S05",
+    "B8.13.8.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.13.8.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "संदेश के चार हिस्से: तारीख़ और समय, संबोधन (Nidhi), बात (content), और लिखने वाले का नाम। रीना ने फ़ोन किया: 26 नवंबर शाम 7 बजे डिफ़ेंस कॉलोनी के निरूला में जन्मदिन है, कल तक पक्का करना है। आभा, निधि के लिए संदेश लिखती है।",
+        "hinglish": "Sandesh ke chaar hisse: taareekh aur samay, sambodhan (Nidhi), baat (content), aur likhne waale ka naam. Reena ne phone kiya: 26 November shaam 7 baje Defence Colony ke Nirula's mein janmdin hai, kal tak pakka karna hai. Abha, Nidhi ke liye sandesh likhti hai.",
+        "en": "A message has four parts: date and time, salutation (Nidhi), content, and the signatory. Reena called: her birthday is on 26th Nov at 7 pm at Nirula's, Defence Colony; please confirm by tomorrow. Abha writes the message for Nidhi."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.13.8.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तुम्हारी दोस्त रीना ने फ़ोन किया था।",
+        "hinglish": "Tumhaari dost Reena ne phone kiya tha.",
+        "en": "Start the message: say who called."
+      },
+      "answer": "Your friend Reena rang up.",
+      "meaning": {
+        "hi": "तुम्हारी दोस्त रीना ने फ़ोन किया था।",
+        "hinglish": "Tumhaari dost Reena ne phone kiya tha."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.13.8.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "वह 26 नवंबर को अपना जन्मदिन मना रही है।",
+        "hinglish": "Woh 26 November ko apna janmdin mana rahi hai.",
+        "en": "Tell what she is celebrating and when."
+      },
+      "answer": "She is celebrating her birthday on 26th November.",
+      "meaning": {
+        "hi": "वह 26 नवंबर को अपना जन्मदिन मना रही है।",
+        "hinglish": "Woh 26 November ko apna janmdin mana rahi hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.13.8.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शाम 7 बजे डिफ़ेंस कॉलोनी के निरूला पहुँचना।",
+        "hinglish": "Shaam 7 baje Defence Colony ke Nirula's pahunchna.",
+        "en": "Tell the time and place to reach."
+      },
+      "answer": "Please reach Nirula's at 7 pm.",
+      "meaning": {
+        "hi": "कृपया शाम 7 बजे निरूला पहुँचना।",
+        "hinglish": "Kripya shaam 7 baje Nirula's pahunchna."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.13.8.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "कल तक उसे पक्का बता देना।",
+        "hinglish": "Kal tak use pakka bata dena.",
+        "en": "Ask Nidhi to reply by tomorrow."
+      },
+      "answer": "Please confirm by tomorrow.",
+      "meaning": {
+        "hi": "कल तक पक्का बता देना।",
+        "hinglish": "Kal tak pakka bata dena."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.8.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Who will sign this message?",
+      "questionMeaning": {
+        "hi": "संदेश पर किसका नाम होगा?",
+        "hinglish": "Sandesh par kiska naam hoga?"
+      },
+      "options": [
+        "Abha",
+        "Reena",
+        "Nidhi"
+      ],
+      "answer": "Abha"
+    }
+  ]
+}

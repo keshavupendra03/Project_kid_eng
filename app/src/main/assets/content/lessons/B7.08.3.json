@@ -1,0 +1,123 @@
+{
+  "id": "B7.08.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.08.3.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.08.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "Duckling = बत्तख का बच्चा। -let या -ette लगने से चीज़ का छोटा रूप या जानवर का बच्चा बनता है: pig → piglet (सूअर का बच्चा), book → booklet (छोटी किताब)।",
+        "hinglish": "Duckling = battakh ka bachcha. -let ya -ette lagne se cheez ka chhota roop ya jaanwar ka bachcha banta hai: pig → piglet (suar ka bachcha), book → booklet (chhoti kitaab).",
+        "en": "Duckling = a baby duck. -let or -ette makes a smaller thing or a baby creature: pig → piglet, book → booklet."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.08.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके छोटे रूप से जोड़ो",
+        "hinglish": "Har shabd ko uske chhote roop se jodo",
+        "en": "Match each word to its small form"
+      },
+      "pairs": [
+        {
+          "left": "pig",
+          "right": "piglet",
+          "meaning": {
+            "hi": "सूअर का बच्चा",
+            "hinglish": "suar ka bachcha"
+          }
+        },
+        {
+          "left": "owl",
+          "right": "owlet",
+          "meaning": {
+            "hi": "उल्लू का बच्चा",
+            "hinglish": "ulloo ka bachcha"
+          }
+        },
+        {
+          "left": "swan",
+          "right": "cygnet",
+          "meaning": {
+            "hi": "हंस का बच्चा",
+            "hinglish": "hans ka bachcha"
+          }
+        },
+        {
+          "left": "book",
+          "right": "booklet",
+          "meaning": {
+            "hi": "छोटी किताब",
+            "hinglish": "chhoti kitaab"
+          }
+        },
+        {
+          "left": "river",
+          "right": "rivulet",
+          "meaning": {
+            "hi": "छोटी नदी",
+            "hinglish": "chhoti nadi"
+          }
+        },
+        {
+          "left": "kitchen",
+          "right": "kitchenette",
+          "meaning": {
+            "hi": "छोटी रसोई",
+            "hinglish": "chhoti rasoi"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The duck was swimming with her ___.",
+      "answer": "ducklings",
+      "options": [
+        "ducklings",
+        "piglets",
+        "booklets"
+      ],
+      "meaning": {
+        "hi": "बत्तख अपने बच्चों के साथ तैर रही थी।",
+        "hinglish": "Battakh apne bachchon ke saath tair rahi thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The teacher gave us a small ___ about the Olympics.",
+      "answer": "booklet",
+      "options": [
+        "booklet",
+        "rivulet",
+        "owlet"
+      ],
+      "meaning": {
+        "hi": "टीचर ने हमें ओलंपिक पर एक छोटी किताब दी।",
+        "hinglish": "Teacher ne humein Olympic par ek chhoti kitaab di."
+      }
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "id": "B7.08.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.08.4.S02",
+    "B7.08.4.S03",
+    "B7.08.4.S04",
+    "B7.08.4.S05",
+    "B7.08.4.S06",
+    "B7.08.4.S08",
+    "B7.08.4.S09",
+    "B7.08.4.S10",
+    "B7.08.4.S11",
+    "B7.08.4.S12",
+    "B7.08.4.S13",
+    "B7.08.4.S14",
+    "B7.08.4.S15"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.08.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "बीती बात के लिए क्रिया का दूसरा रूप: win → won, hear → heard, seem → seemed, wait → waited। ‘has’ के बाद तीसरा रूप: has won।",
+        "hinglish": "Beeti baat ke liye kriya ka doosra roop: win → won, hear → heard, seem → seemed, wait → waited. ‘has’ ke baad teesra roop: has won.",
+        "en": "For the past, use the past form: win → won, hear → heard, seem → seemed, wait → waited. After ‘has’, use the third form: has won."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Our Indian Cricket Team ___ the World Cup in 1983.",
+      "answer": "won",
+      "options": [
+        "won",
+        "win",
+        "wins"
+      ],
+      "meaning": {
+        "hi": "हमारी भारतीय क्रिकेट टीम ने 1983 में वर्ल्ड कप जीता।",
+        "hinglish": "Hamari Bharatiya cricket team ne 1983 mein World Cup jeeta."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "There was complete silence outside. Suddenly I ___ a noise.",
+      "answer": "heard",
+      "options": [
+        "heard",
+        "hear",
+        "hearing"
+      ],
+      "meaning": {
+        "hi": "बाहर पूरा सन्नाटा था। अचानक मैंने एक आवाज़ सुनी।",
+        "hinglish": "Baahar poora sannaata tha. Achaanak maine ek awaaz suni."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Milkha Singh was leading in the race. It ___ that he would win the race.",
+      "answer": "seemed",
+      "options": [
+        "seemed",
+        "seems",
+        "seeming"
+      ],
+      "meaning": {
+        "hi": "मिल्खा सिंह आगे था। ऐसा लगा कि वह रेस जीत जाएगा।",
+        "hinglish": "Milkha Singh aage tha. Aisa laga ki woh race jeet jaayega."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "We couldn't play the match because of heavy rains. We ___ until the rain stopped.",
+      "answer": "waited",
+      "options": [
+        "waited",
+        "wait",
+        "waits"
+      ],
+      "meaning": {
+        "hi": "भारी बारिश की वजह से हम मैच नहीं खेल सके। हम बारिश रुकने तक इंतज़ार करते रहे।",
+        "hinglish": "Bhaari baarish ki wajah se hum match nahi khel sake. Hum baarish rukne tak intezaar karte rahe."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Kamal is the 800 metre champion. So far he has ___ many races and never lost any.",
+      "answer": "won",
+      "options": [
+        "won",
+        "win",
+        "winning"
+      ],
+      "meaning": {
+        "hi": "कमल 800 मीटर का चैंपियन है। अब तक वह कई रेस जीत चुका है।",
+        "hinglish": "Kamal 800 metre ka champion hai. Ab tak woh kai race jeet chuka hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.08.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "Prepositions छोटे शब्द हैं जो जगह या तरीका बताते हैं: on (ऊपर), in (अंदर), into (अंदर की तरफ़ जाते हुए), across (आर-पार), with (के साथ), to (की ओर), by (से, जैसे by bus)।",
+        "hinglish": "Prepositions chhote shabd hain jo jagah ya tareeka bataate hain: on (upar), in (andar), into (andar ki taraf jaate hue), across (aar-paar), with (ke saath), to (ki or), by (se, jaise by bus).",
+        "en": "Prepositions are small words for place or way: on, in, into, across, with, to, by (as in by bus)."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "We should not write ___ walls.",
+      "answer": "on",
+      "options": [
+        "on",
+        "into",
+        "by"
+      ],
+      "meaning": {
+        "hi": "हमें दीवारों पर नहीं लिखना चाहिए।",
+        "hinglish": "Humein deewaaron par nahi likhna chahiye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "There is plenty of water ___ the jug.",
+      "answer": "in",
+      "options": [
+        "in",
+        "across",
+        "with"
+      ],
+      "meaning": {
+        "hi": "जग में बहुत पानी है।",
+        "hinglish": "Jug mein bahut paani hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Children are playing ___ a football.",
+      "answer": "with",
+      "options": [
+        "with",
+        "on",
+        "across"
+      ],
+      "meaning": {
+        "hi": "बच्चे फ़ुटबॉल से खेल रहे हैं।",
+        "hinglish": "Bachche football se khel rahe hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Ashu drew a line ___ the page.",
+      "answer": "across",
+      "options": [
+        "across",
+        "into",
+        "with"
+      ],
+      "meaning": {
+        "hi": "आशु ने पन्ने के आर-पार एक लाइन खींची।",
+        "hinglish": "Ashu ne panne ke aar-paar ek line kheenchi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Abu jumped ___ the river.",
+      "answer": "into",
+      "options": [
+        "into",
+        "on",
+        "by"
+      ],
+      "meaning": {
+        "hi": "अबू नदी में कूद गया।",
+        "hinglish": "Abu nadi mein kood gaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "We go ___ school by bus.",
+      "answer": "to",
+      "options": [
+        "to",
+        "on",
+        "with"
+      ],
+      "meaning": {
+        "hi": "हम बस से स्कूल जाते हैं।",
+        "hinglish": "Hum bus se school jaate hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "We go to school ___ bus.",
+      "answer": "by",
+      "options": [
+        "by",
+        "in",
+        "across"
+      ],
+      "meaning": {
+        "hi": "हम बस से स्कूल जाते हैं।",
+        "hinglish": "Hum bus se school jaate hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.4.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Mehak kept the book ___ her bag.",
+      "answer": "in",
+      "options": [
+        "in",
+        "on",
+        "across"
+      ],
+      "meaning": {
+        "hi": "महक ने किताब अपने बैग में रखी।",
+        "hinglish": "Mehak ne kitaab apne bag mein rakhi."
+      }
+    }
+  ]
+}

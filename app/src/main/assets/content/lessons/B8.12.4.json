@@ -1,0 +1,220 @@
+{
+  "id": "B8.12.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.12.4.S02",
+    "B8.12.4.S03",
+    "B8.12.4.S04",
+    "B8.12.4.S05",
+    "B8.12.4.S06",
+    "B8.12.4.S07",
+    "B8.12.4.S08",
+    "B8.12.4.S09",
+    "B8.12.4.S10",
+    "B8.12.4.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.12.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "Active: करने वाला पहले: The hunter killed the tiger। Passive: जिस पर काम हुआ वह पहले: The tiger was killed by the hunter। Object कर्ता बनता है, क्रिया be + तीसरा रूप, और by + करने वाला।",
+        "hinglish": "Active: karne waala pehle: The hunter killed the tiger. Passive: jis par kaam hua woh pehle: The tiger was killed by the hunter. Object karta banta hai, kriya be + teesra roop, aur by + karne waala.",
+        "en": "Active: the doer comes first: The hunter killed the tiger. Passive: the receiver comes first: The tiger was killed by the hunter. The object becomes the subject, the verb is be + 3rd form, then by + the doer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The children are flying kites.",
+      "questionMeaning": {
+        "hi": "Passive बनाओ (are being flown)",
+        "hinglish": "Passive banao (are being flown)"
+      },
+      "options": [
+        "Kites are being flown by the children.",
+        "Kites are flown by the children.",
+        "The children are being flown by kites."
+      ],
+      "answer": "Kites are being flown by the children."
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "I have done the work.",
+      "questionMeaning": {
+        "hi": "Passive बनाओ (has been done)",
+        "hinglish": "Passive banao (has been done)"
+      },
+      "options": [
+        "The work has been done by me.",
+        "The work has done by me.",
+        "The work was done by I."
+      ],
+      "answer": "The work has been done by me."
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "She cooked food.",
+      "questionMeaning": {
+        "hi": "Passive बनाओ (was cooked)",
+        "hinglish": "Passive banao (was cooked)"
+      },
+      "options": [
+        "Food was cooked by her.",
+        "Food was cooked by she.",
+        "Food is cooked by her."
+      ],
+      "answer": "Food was cooked by her."
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "They were painting the house.",
+      "questionMeaning": {
+        "hi": "Passive बनाओ (was being painted)",
+        "hinglish": "Passive banao (was being painted)"
+      },
+      "options": [
+        "The house was being painted by them.",
+        "The house was painted by they.",
+        "The house is being painted by them."
+      ],
+      "answer": "The house was being painted by them."
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "You had sold the car.",
+      "questionMeaning": {
+        "hi": "Passive बनाओ (had been sold)",
+        "hinglish": "Passive banao (had been sold)"
+      },
+      "options": [
+        "The car had been sold by you.",
+        "The car has been sold by you.",
+        "The car had sold by you."
+      ],
+      "answer": "The car had been sold by you."
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The villagers will guide you.",
+      "questionMeaning": {
+        "hi": "Passive बनाओ (will be guided)",
+        "hinglish": "Passive banao (will be guided)"
+      },
+      "options": [
+        "You will be guided by the villagers.",
+        "You will guided by the villagers.",
+        "The villagers will be guided by you."
+      ],
+      "answer": "You will be guided by the villagers."
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "We will have done our work.",
+      "questionMeaning": {
+        "hi": "Passive बनाओ (will have been done)",
+        "hinglish": "Passive banao (will have been done)"
+      },
+      "options": [
+        "Our work will have been done by us.",
+        "Our work will have done by us.",
+        "Our work will be done by we."
+      ],
+      "answer": "Our work will have been done by us."
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "A Gond woman is painting the walls.",
+      "questionMeaning": {
+        "hi": "Passive बनाओ (are being painted)",
+        "hinglish": "Passive banao (are being painted)"
+      },
+      "options": [
+        "The walls are being painted by a Gond woman.",
+        "The walls is being painted by a Gond woman.",
+        "The walls are painted by a Gond woman."
+      ],
+      "answer": "The walls are being painted by a Gond woman."
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The boy gave me a toy.",
+      "questionMeaning": {
+        "hi": "Passive बनाओ (was given)",
+        "hinglish": "Passive banao (was given)"
+      },
+      "options": [
+        "I was given a toy by the boy.",
+        "I was give a toy by the boy.",
+        "The boy was given a toy by me."
+      ],
+      "answer": "I was given a toy by the boy."
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.12.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "prompt": {
+        "hi": "मेरी माँ जासूसी कहानियाँ लिखती हैं (Passive में)।",
+        "hinglish": "Meri maa jaasoosi kahaniyaan likhti hain (Passive mein).",
+        "en": "Make it passive: My mother writes detective stories."
+      },
+      "answer": "Detective stories are written by my mother.",
+      "meaning": {
+        "hi": "जासूसी कहानियाँ मेरी माँ द्वारा लिखी जाती हैं।",
+        "hinglish": "Jaasoosi kahaniyaan meri maa dwaara likhi jaati hain."
+      }
+    }
+  ]
+}

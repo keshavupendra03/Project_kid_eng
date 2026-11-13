@@ -1,0 +1,198 @@
+{
+  "id": "B6.01.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.01.T.S01",
+    "B6.01.T.S02",
+    "B6.01.T.S03",
+    "B6.01.T.S04",
+    "B6.01.T.S05",
+    "B6.01.T.S06",
+    "B6.01.T.S07",
+    "B6.01.T.S08",
+    "B6.01.T.S09"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.01.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What do the village children do when they get tired?",
+      "questionMeaning": {
+        "hi": "थकने पर बच्चे क्या करते हैं?",
+        "hinglish": "Thakne par bachche kya karte hain?"
+      },
+      "options": [
+        "They sleep under its shade.",
+        "They go home.",
+        "They climb to the top."
+      ],
+      "answer": "They sleep under its shade."
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Where do we get fresh air from?",
+      "questionMeaning": {
+        "hi": "ताज़ी हवा कहाँ से मिलती है?",
+        "hinglish": "Taazi hawa kahan se milti hai?"
+      },
+      "options": [
+        "from trees",
+        "from cars",
+        "from factories"
+      ],
+      "answer": "from trees"
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What should we do for the tree?",
+      "questionMeaning": {
+        "hi": "हमें पेड़ के लिए क्या करना चाहिए?",
+        "hinglish": "Humein ped ke liye kya karna chahiye?"
+      },
+      "options": [
+        "We should love and care for it.",
+        "We should cut it.",
+        "We should break its branches."
+      ],
+      "answer": "We should love and care for it."
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "rain + coat = ?",
+      "questionMeaning": {
+        "hi": "नया शब्द?",
+        "hinglish": "Naya shabd?"
+      },
+      "options": [
+        "raincoat",
+        "rainbow",
+        "rainwater"
+      ],
+      "answer": "raincoat"
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word is hidden in ‘banyan’?",
+      "questionMeaning": {
+        "hi": "‘banyan’ में कौन सा शब्द छिपा है?",
+        "hinglish": "‘banyan’ mein kaun sa shabd chhipa hai?"
+      },
+      "options": [
+        "any",
+        "boy",
+        "tree"
+      ],
+      "answer": "any"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "My mother makes ___ and juice with them.",
+      "answer": "pickles",
+      "options": [
+        "pickles",
+        "village",
+        "tree"
+      ],
+      "meaning": {
+        "hi": "मेरी माँ उनसे अचार और जूस बनाती हैं।",
+        "hinglish": "Meri maa unse achaar aur juice banaati hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "deep → deeper → ?",
+      "questionMeaning": {
+        "hi": "deep का ‘सबसे’ वाला रूप?",
+        "hinglish": "deep ka ‘sabse’ waala roop?"
+      },
+      "options": [
+        "deepest",
+        "deeper",
+        "most deep"
+      ],
+      "answer": "deepest"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.01.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.yes_no_questions"
+      ],
+      "sentence": "Do you like mangoes? Yes, ___.",
+      "answer": "I do",
+      "options": [
+        "I do",
+        "I don't"
+      ],
+      "meaning": {
+        "hi": "क्या तुम्हें आम पसंद हैं? हाँ।",
+        "hinglish": "Kya tumhe aam pasand hain? Haan."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.T.S09",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Trees give out ...",
+      "questionMeaning": {
+        "hi": "पेड़ क्या छोड़ते हैं?",
+        "hinglish": "Ped kya chhodte hain?"
+      },
+      "options": [
+        "oxygen",
+        "smoke",
+        "dust"
+      ],
+      "answer": "oxygen"
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.T.S10",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "The thick main stem of a tree is the ...",
+      "questionMeaning": {
+        "hi": "पेड़ का मोटा मुख्य हिस्सा?",
+        "hinglish": "Ped ka mota mukhya hissa?"
+      },
+      "options": [
+        "trunk",
+        "leaf",
+        "root"
+      ],
+      "answer": "trunk"
+    }
+  ]
+}

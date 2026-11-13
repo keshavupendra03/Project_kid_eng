@@ -1,0 +1,201 @@
+{
+  "id": "B8.04.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.T.S01",
+    "B8.04.T.S02",
+    "B8.04.T.S03",
+    "B8.04.T.S04",
+    "B8.04.T.S05",
+    "B8.04.T.S06",
+    "B8.04.T.S07",
+    "B8.04.T.S08",
+    "B8.04.T.S09",
+    "B8.04.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.04.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why did the factory workers come to Gopeshwar?",
+      "questionMeaning": {
+        "hi": "मज़दूर क्यों आए?",
+        "hinglish": "Mazdoor kyon aaye?"
+      },
+      "options": [
+        "to cut ash trees for railway sleepers",
+        "to plant new trees",
+        "to build a school"
+      ],
+      "answer": "to cut ash trees for railway sleepers"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? In 1953, a group of people from a factory arrived at Gopeshwar.",
+      "questionMeaning": {
+        "hi": "1953 में लोग गोपेश्वर आए।",
+        "hinglish": "1953 mein log Gopeshwar aaye."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.T.S03",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "agree → ?",
+      "questionMeaning": {
+        "hi": "उल्टा शब्द",
+        "hinglish": "Ulta shabd"
+      },
+      "options": [
+        "disagree",
+        "unagree",
+        "inagree"
+      ],
+      "answer": "disagree"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.T.S04",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "kind → ?",
+      "questionMeaning": {
+        "hi": "उल्टा शब्द",
+        "hinglish": "Ulta shabd"
+      },
+      "options": [
+        "unkind",
+        "diskind",
+        "inkind"
+      ],
+      "answer": "unkind"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "We can ___ to new ways of living.",
+      "answer": "adapt",
+      "options": [
+        "adapt",
+        "adopt"
+      ],
+      "meaning": {
+        "hi": "हम नए तरीक़ों में ढल सकते हैं।",
+        "hinglish": "Hum naye tareeqon mein dhal sakte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "fore + ___ = a compound word",
+      "questionMeaning": {
+        "hi": "संयुक्त शब्द",
+        "hinglish": "Sanyukt shabd"
+      },
+      "options": [
+        "head",
+        "pot",
+        "coat"
+      ],
+      "answer": "head"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "The thief ___ away before the police came.",
+      "answer": "had run",
+      "options": [
+        "had run",
+        "had ran",
+        "has run"
+      ],
+      "meaning": {
+        "hi": "पुलिस के आने से पहले चोर भाग चुका था।",
+        "hinglish": "Police ke aane se pehle chor bhaag chuka tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.04.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.he_she_it"
+      ],
+      "sentence": "Mother and father have come. ___ are glad.",
+      "answer": "They",
+      "options": [
+        "They",
+        "She",
+        "It"
+      ],
+      "meaning": {
+        "hi": "माँ और पिताजी आए हैं। वे ख़ुश हैं।",
+        "hinglish": "Maa aur pitaji aaye hain. Woh khush hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.T.S09",
+      "skills": [
+        "book.talk",
+        "grammar.wh_questions"
+      ],
+      "question": "Ans: We came back at 9 o'clock.",
+      "questionMeaning": {
+        "hi": "सवाल चुनो",
+        "hinglish": "Sawaal chuno"
+      },
+      "options": [
+        "When did you come back?",
+        "Where did you go?",
+        "Who went with you?"
+      ],
+      "answer": "When did you come back?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Which word means ‘complete and enthusiastic’?",
+      "questionMeaning": {
+        "hi": "पूरे जोश वाला",
+        "hinglish": "Poore josh waala"
+      },
+      "options": [
+        "wholehearted",
+        "minimum",
+        "premises"
+      ],
+      "answer": "wholehearted"
+    }
+  ]
+}

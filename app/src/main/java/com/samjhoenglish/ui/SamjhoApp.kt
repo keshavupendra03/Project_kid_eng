@@ -46,6 +46,7 @@ import com.samjhoenglish.ui.words.WordPowerScreen
 import com.samjhoenglish.ui.words.WordPowerViewModel
 import com.samjhoenglish.ui.components.LocalTinkuPieces
 import com.samjhoenglish.ui.home.HomeScreen
+import com.samjhoenglish.ui.test.SchoolTestScreen
 import com.samjhoenglish.ui.home.JourneyViewModel
 import com.samjhoenglish.ui.language.LanguagePickerScreen
 import com.samjhoenglish.ui.lesson.LessonScreen
@@ -53,6 +54,8 @@ import com.samjhoenglish.ui.lesson.LocalChildName
 import com.samjhoenglish.ui.theme.SamjhoTheme
 import com.samjhoenglish.ui.lesson.LessonViewModel
 import com.samjhoenglish.ui.level.LevelScreen
+import com.samjhoenglish.ui.book.BookScreen
+import com.samjhoenglish.ui.book.ChapterScreen
 import com.samjhoenglish.ui.parent.ParentArea
 import com.samjhoenglish.ui.parent.TimeUpScreen
 import com.samjhoenglish.ui.placement.PlacementScreen
@@ -96,6 +99,12 @@ private object ReadingRoute
 private object WordPowerRoute
 
 @Serializable
+private object BookRoute
+
+@Serializable
+private data class ChapterRoute(val chapterId: String)
+
+@Serializable
 private object ExpressRoute
 
 @Serializable
@@ -106,6 +115,9 @@ private object ParentRoute
 
 @Serializable
 private object TimeUpRoute
+
+@Serializable
+private data class SchoolTestRoute(val testId: Long)
 
 @Composable
 fun SamjhoApp(container: AppContainer) {
@@ -228,6 +240,7 @@ fun SamjhoApp(container: AppContainer) {
                         factory = JourneyViewModel.factory(c.id, container.content, container.progress, container.parent, c.classGrade),
                     )
                     val journeyState by journey.uiState.collectAsStateWithLifecycle()
+                    val tests by remember(c.id) { container.school.activeTests(c.id) }.collectAsStateWithLifecycle(emptyList())
                     HomeScreen(
                         child = c,
                         journey = journeyState,
@@ -241,6 +254,45 @@ fun SamjhoApp(container: AppContainer) {
                         onOpenReading = dropUnlessResumed { nav.navigate(ReadingRoute) },
                         onOpenExpress = dropUnlessResumed { nav.navigate(ExpressRoute) },
                         onOpenWordPower = dropUnlessResumed { nav.navigate(WordPowerRoute) },
+                        onOpenBook = dropUnlessResumed { nav.navigate(BookRoute) },
+                        activeTests = tests,
+                        onOpenTest = { id -> nav.navigate(SchoolTestRoute(id)) },
+                    )
+                }
+            }
+            composable<SchoolTestRoute> { entry ->
+                val testId = entry.toRoute<SchoolTestRoute>().testId
+                WithChild(child) { c ->
+                    SchoolTestScreen(container, c, testId, onBack = dropUnlessResumed { nav.popBackStack() })
+                }
+            }
+            composable<BookRoute> {
+                WithChild(child) { c ->
+                    val journey: JourneyViewModel = viewModel(
+                        key = "journey-${c.id}",
+                        factory = JourneyViewModel.factory(c.id, container.content, container.progress, container.parent, c.classGrade),
+                    )
+                    val journeyState by journey.uiState.collectAsStateWithLifecycle()
+                    BookScreen(
+                        journey = journeyState,
+                        onBack = dropUnlessResumed { nav.popBackStack() },
+                        onOpenChapter = { id -> nav.navigate(ChapterRoute(id)) },
+                    )
+                }
+            }
+            composable<ChapterRoute> { entry ->
+                val chapterId = entry.toRoute<ChapterRoute>().chapterId
+                WithChild(child) { c ->
+                    val journey: JourneyViewModel = viewModel(
+                        key = "journey-${c.id}",
+                        factory = JourneyViewModel.factory(c.id, container.content, container.progress, container.parent, c.classGrade),
+                    )
+                    val journeyState by journey.uiState.collectAsStateWithLifecycle()
+                    ChapterScreen(
+                        journey = journeyState,
+                        chapterId = chapterId,
+                        onBack = dropUnlessResumed { nav.popBackStack() },
+                        onOpenSection = { id -> openLesson(c, LessonRoute(id)) },
                     )
                 }
             }

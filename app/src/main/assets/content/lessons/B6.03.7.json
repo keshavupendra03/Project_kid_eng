@@ -1,0 +1,137 @@
+{
+  "id": "B6.03.7",
+  "level": 6,
+  "bookSteps": [
+    "B6.03.7.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.03.7.S01",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "किताब कहती है: कुछ कीड़े हमारे काम के हैं, कुछ नुक़सान करते हैं। हर एक को सही ग्रुप में रखो।",
+        "hinglish": "Kitaab kehti hai: kuch keede hamare kaam ke hain, kuch nuksaan karte hain. Har ek ko sahi group mein rakho.",
+        "en": "The book says: some insects are useful to us and some are harmful. Put each in the right group."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B6.03.7.S02",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "हर कीड़े को उपयोगी या हानिकारक में रखो",
+        "hinglish": "Har keede ko upyogi ya haanikaarak mein rakho",
+        "en": "Is each insect useful or harmful?"
+      },
+      "groups": [
+        {
+          "id": "useful",
+          "name": "useful insects",
+          "emoji": "👍",
+          "meaning": {
+            "hi": "उपयोगी कीड़े",
+            "hinglish": "upyogi keede"
+          }
+        },
+        {
+          "id": "harmful",
+          "name": "harmful insects",
+          "emoji": "⚠️",
+          "meaning": {
+            "hi": "हानिकारक कीड़े",
+            "hinglish": "haanikaarak keede"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "honeybee",
+          "emoji": "🐝",
+          "groups": [
+            "useful"
+          ]
+        },
+        {
+          "text": "mosquito",
+          "emoji": "🦟",
+          "groups": [
+            "harmful"
+          ]
+        },
+        {
+          "text": "silkworm",
+          "emoji": "🐛",
+          "groups": [
+            "useful"
+          ]
+        },
+        {
+          "text": "housefly",
+          "emoji": "🗑️",
+          "groups": [
+            "harmful"
+          ]
+        },
+        {
+          "text": "ladybird",
+          "emoji": "🐞",
+          "groups": [
+            "useful"
+          ]
+        },
+        {
+          "text": "cockroach",
+          "emoji": "🧹",
+          "groups": [
+            "harmful"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.7.S03",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "Why is the honeybee useful?",
+      "questionMeaning": {
+        "hi": "मधुमक्खी क्यों उपयोगी है?",
+        "hinglish": "Madhumakkhi kyon upyogi hai?"
+      },
+      "options": [
+        "It gives us honey and helps plants grow fruits.",
+        "It spreads malaria.",
+        "It eats our clothes."
+      ],
+      "answer": "It gives us honey and helps plants grow fruits."
+    },
+    {
+      "type": "choice",
+      "id": "B6.03.7.S04",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "Why is the mosquito harmful?",
+      "questionMeaning": {
+        "hi": "मच्छर क्यों हानिकारक है?",
+        "hinglish": "Machchhar kyon haanikaarak hai?"
+      },
+      "options": [
+        "It spreads diseases like malaria.",
+        "It gives us silk.",
+        "It makes honey."
+      ],
+      "answer": "It spreads diseases like malaria."
+    }
+  ]
+}

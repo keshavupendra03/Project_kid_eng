@@ -1,0 +1,129 @@
+{
+  "id": "B7.07.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.07.6.S02",
+    "B7.07.6.S03",
+    "B7.07.6.S04",
+    "B7.07.6.S05",
+    "B7.07.6.S06",
+    "B7.07.6.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.07.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब कहती है: सोचो तुम कहानी वाला ऊँट हो। ‘मैं’ से कहानी लिखो। इन शब्दों का इस्तेमाल करो: lake, tracks, footprints, went back, happy, leaves, lost, sand।",
+        "hinglish": "Kitaab kehti hai: socho tum kahani waala oont ho. ‘Main’ se kahani likho. In shabdon ka istemaal karo: lake, tracks, footprints, went back, happy, leaves, lost, sand.",
+        "en": "The book says: imagine you are the camel in the story. Write the story as ‘I’, using: lake, tracks, footprints, went back, happy, leaves, lost, sand."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.07.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "ऊँट बोलता है: एक दिन मैं रेगिस्तान में खो गया।",
+        "hinglish": "Oont bolta hai: ek din main registaan mein kho gaya.",
+        "en": "As the camel: say you got lost in the desert."
+      },
+      "answer": "One day I got lost in the desert.",
+      "meaning": {
+        "hi": "एक दिन मैं रेगिस्तान में खो गया।",
+        "hinglish": "Ek din main registaan mein kho gaya."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.07.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: leaves — मैंने रास्ते की झाड़ियों के पत्ते खाए।",
+        "hinglish": "Shabd: leaves — maine raaste ki jhaadiyon ke patte khaaye.",
+        "en": "Word: leaves. Say you ate leaves on the way."
+      },
+      "answer": "I ate the leaves of the bushes on the way.",
+      "meaning": {
+        "hi": "मैंने रास्ते में झाड़ियों के पत्ते खाए।",
+        "hinglish": "Maine raaste mein jhaadiyon ke patte khaaye."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.07.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: lake — मैं पानी पीने एक झील पर गया।",
+        "hinglish": "Shabd: lake — main paani peene ek jheel par gaya.",
+        "en": "Word: lake. Say you went to a lake to drink water."
+      },
+      "answer": "I went to a lake to drink water.",
+      "meaning": {
+        "hi": "मैं पानी पीने एक झील पर गया।",
+        "hinglish": "Main paani peene ek jheel par gaya."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.07.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: footprints, sand — मेरे पैरों के निशान रेत पर रह गए।",
+        "hinglish": "Shabd: footprints, sand — mere pairon ke nishaan ret par reh gaye.",
+        "en": "Words: footprints, sand. Say your footprints stayed on the sand."
+      },
+      "answer": "My footprints were left on the sand.",
+      "meaning": {
+        "hi": "मेरे पैरों के निशान रेत पर रह गए।",
+        "hinglish": "Mere pairon ke nishaan ret par reh gaye."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.07.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "शब्द: went back, happy — मैं अपने मालिकों के पास वापस गया और ख़ुश था।",
+        "hinglish": "Shabd: went back, happy — main apne maalikon ke paas waapas gaya aur khush tha.",
+        "en": "Words: went back, happy. Say you went back to your owners and were happy."
+      },
+      "answer": "I went back to my owners and I was very happy.",
+      "meaning": {
+        "hi": "मैं अपने मालिकों के पास वापस गया और बहुत ख़ुश था।",
+        "hinglish": "Main apne maalikon ke paas waapas gaya aur bahut khush tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.07.6.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Give a title to your story. Which title fits best?",
+      "questionMeaning": {
+        "hi": "अपनी कहानी को नाम दो। कौन सा नाम सबसे अच्छा है?",
+        "hinglish": "Apni kahani ko naam do. Kaun sa naam sabse achha hai?"
+      },
+      "options": [
+        "The Camel Who Came Back",
+        "A Day at School",
+        "The Flying Fish"
+      ],
+      "answer": "The Camel Who Came Back"
+    }
+  ]
+}

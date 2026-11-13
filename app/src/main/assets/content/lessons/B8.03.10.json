@@ -1,0 +1,148 @@
+{
+  "id": "B8.03.10",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.10.S04",
+    "B8.03.10.S05",
+    "B8.03.10.S06",
+    "B8.03.10.S07",
+    "B8.03.10.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.03.10.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: तस्वीरों और सुरागों से कहानी लिखो: सफ़र में अजनबी से खाने की चीज़ें लेना ख़तरनाक है। उनमें नशे की दवा हो सकती है, और तुम्हारा सामान चोरी हो सकता है।",
+        "hinglish": "Kitaab: tasveeron aur suraagon se kahani likho: safar mein ajnabi se khaane ki cheezein lena khatarnaak hai. Unmein nashe ki dava ho sakti hai, aur tumhara saamaan chori ho sakta hai.",
+        "en": "The book: write a story from the pictures and clues: it is dangerous to take eatables from a stranger while travelling. They may have drugs, and you may lose your belongings."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.03.10.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "word": {
+        "english": "stranger",
+        "emoji": "",
+        "hindi": "अजनबी",
+        "hinglish": "ajnabi"
+      },
+      "meaning": "a person you do not know",
+      "example": "Do not talk to strangers.",
+      "exampleMeaning": {
+        "hi": "अजनबियों से बात मत करो।",
+        "hinglish": "Ajnabiyon se baat mat karo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.03.10.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "word": {
+        "english": "rogue",
+        "emoji": "",
+        "hindi": "बदमाश, ठग",
+        "hinglish": "badmaash, thag"
+      },
+      "meaning": "a dishonest person",
+      "example": "The rogue stole his bag.",
+      "exampleMeaning": {
+        "hi": "ठग ने उसका बैग चुरा लिया।",
+        "hinglish": "Thag ne uska bag chura liya."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.03.10.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "रमेश ट्रेन से सफ़र कर रहा था।",
+        "hinglish": "Ramesh train se safar kar raha tha.",
+        "en": "Begin the story: Ramesh is on a train journey."
+      },
+      "answer": "Ramesh was travelling by train.",
+      "meaning": {
+        "hi": "रमेश ट्रेन से सफ़र कर रहा था।",
+        "hinglish": "Ramesh train se safar kar raha tha."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.03.10.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "एक अजनबी ने उसे मिठाई दी।",
+        "hinglish": "Ek ajnabi ne use mithaai di.",
+        "en": "Tell what the stranger offered."
+      },
+      "answer": "A stranger offered him some sweets.",
+      "meaning": {
+        "hi": "एक अजनबी ने उसे कुछ मिठाई दी।",
+        "hinglish": "Ek ajnabi ne use kuchh mithaai di."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.03.10.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मिठाई खाकर वह सो गया।",
+        "hinglish": "Mithaai khaakar woh so gaya.",
+        "en": "Tell what happened after he ate."
+      },
+      "answer": "He fell asleep after eating the sweets.",
+      "meaning": {
+        "hi": "मिठाई खाकर वह सो गया।",
+        "hinglish": "Mithaai khaakar woh so gaya."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.03.10.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "जब वह जागा, उसका बैग गायब था।",
+        "hinglish": "Jab woh jaaga, uska bag gaayab tha.",
+        "en": "Tell what he found when he woke up."
+      },
+      "answer": "When he woke up, his bag was missing.",
+      "meaning": {
+        "hi": "जब वह जागा, उसका बैग गायब था।",
+        "hinglish": "Jab woh jaaga, uska bag gaayab tha."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.03.10.S08",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "सफ़र में कभी अजनबी से खाना मत लो।",
+        "hinglish": "Safar mein kabhi ajnabi se khaana mat lo.",
+        "en": "End with the lesson of the story."
+      },
+      "answer": "Never take food from a stranger while travelling.",
+      "meaning": {
+        "hi": "सफ़र में कभी अजनबी से खाना मत लो।",
+        "hinglish": "Safar mein kabhi ajnabi se khaana mat lo."
+      }
+    }
+  ]
+}

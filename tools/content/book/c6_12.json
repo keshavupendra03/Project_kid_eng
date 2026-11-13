@@ -1,0 +1,231 @@
+{
+  "grade": 6, "number": 12, "emoji": "👑", "title": "Birbal and the Washerman", "pages": "69–80",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["यह अकबर-बीरबल का एक नाटक है। एक ग़रीब धोबी ठंडी नदी में पूरी रात खड़ा रहता है, पर उसे इनाम नहीं मिलता। बीरबल अपनी चतुराई से उसे इंसाफ़ दिलाते हैं!", "Yeh Akbar-Birbal ka ek naatak hai. Ek gareeb dhobi thandi nadi mein poori raat khada rehta hai, par use inaam nahi milta. Birbal apni chaturaai se use insaaf dilaate hain!", "This is an Akbar-Birbal play. A poor washerman stands in a cold river all night but is not given the reward. Birbal cleverly gets him justice!"]},
+        {"book": true, "q": ["What was Birbal known for?", "बीरबल किस बात के लिए मशहूर थे?", "Birbal kis baat ke liye mashhoor the?", ["his wisdom and wit", "his strength", "his singing"], "his wisdom and wit", "Birbal was known for his wisdom and wit. He was one of the nine gems (Navratnas) of Akbar's court.", "बीरबल अपनी बुद्धि और हाज़िरजवाबी के लिए मशहूर थे। वे अकबर के दरबार के नवरत्नों में से एक थे।", "Birbal apni buddhi aur haazirjawaabi ke liye mashhoor the. Woh Akbar ke darbaar ke navratnon mein se ek the."]},
+        {"word": ["courtier", "दरबारी", "darbaari", "a person who works in a king's court", "The courtier bowed to the king.", "दरबारी ने राजा को झुककर प्रणाम किया।", "Darbaari ne raja ko jhukkar pranaam kiya."]},
+        {"word": ["challenge", "चुनौती", "chunauti", "a difficult task that tests you", "Climbing the hill was a challenge.", "पहाड़ी पर चढ़ना एक चुनौती थी।", "Pahaadi par chadhna ek chunauti thi."]},
+        {"word": ["reward", "इनाम", "inaam", "something given for doing well", "He got a reward for his honesty.", "उसे ईमानदारी का इनाम मिला।", "Use imaandaari ka inaam mila."]},
+        {"word": ["shivering", "काँपना (ठंड से)", "kaanpna (thand se)", "shaking because of cold or fear", "The boy was shivering in the cold.", "लड़का ठंड में काँप रहा था।", "Ladka thand mein kaanp raha tha."]},
+        {"word": ["justice", "इंसाफ़, न्याय", "insaaf, nyaay", "fair treatment", "Birbal got justice for Denu.", "बीरबल ने देनू को इंसाफ़ दिलाया।", "Birbal ne Denu ko insaaf dilaaya."]},
+        {"word": ["punctual", "समय का पाबंद", "samay ka paaband", "always on time", "Our teacher is very punctual.", "हमारे टीचर समय के बहुत पाबंद हैं।", "Hamare teacher samay ke bahut paaband hain."]},
+        {"sayw": ["justice", "इंसाफ़", "insaaf"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: राजा की पहेली", "Shabd Shakti: raja ki paheli", "Word Power: the king's crossword"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["किताब की पहेली: सुराग पढ़कर शब्द भरो। पहला शब्द courtier भरा हुआ है।", "Kitaab ki paheli: suraag padhkar shabd bharo. Pehla shabd courtier bhara hua hai.", "The book's crossword: read the clues and fill in the words. The first word, courtier, is filled in."]},
+        {"book": true, "type": "crossword", "entries": [
+          {"number": 1, "answer": "courtier", "across": false, "clue": "A person who works in a King's court: ___", "given": true},
+          {"number": 2, "answer": "emperor", "across": true, "clue": "He is also a King: ___"},
+          {"number": 3, "answer": "crown", "across": true, "clue": "Kings wear this on their head: ___"},
+          {"number": 4, "answer": "throne", "across": true, "clue": "A King's seat: ___"}
+        ]},
+        {"pairs": ["दरबार के शब्द जोड़ो", "Darbaar ke shabd jodo", "Join the royal words", [
+          ["emperor", "a great king", "सम्राट", "samraat"],
+          ["crown", "a king's gold headwear", "मुकुट", "mukut"],
+          ["throne", "a king's seat", "सिंहासन", "sinhaasan"],
+          ["palace", "a king's house", "महल", "mahal"],
+          ["town-crier", "a man who announces news with a drum", "मुनादी करने वाला", "munaadi karne waala"]]]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 69-73 पर नाटक पढ़ो। पहले Yes/No में जवाब दो।", "Apni kitaab mein page 69-73 par naatak padho. Pehle Yes/No mein jawab do.", "Read the play on pages 69–73 of your book. First, answer Yes or No."]},
+        {"book": true, "q": ["Birbal was the King.", "बीरबल राजा थे।", "Birbal raja the.", ["No", "Yes"], "No", "No. Akbar was the King; Birbal was his minister.", "नहीं। अकबर राजा थे; बीरबल उनके मंत्री थे।", "Nahi. Akbar raja the; Birbal unke mantri the."]},
+        {"book": true, "q": ["Akbar was a generous King.", "अकबर उदार राजा थे।", "Akbar udaar raja the.", ["Yes", "No"], "Yes"]},
+        {"book": true, "q": ["Denu was a minister.", "देनू मंत्री था।", "Denu mantri tha.", ["No", "Yes"], "No", "No. Denu was a washerman.", "नहीं। देनू धोबी था।", "Nahi. Denu dhobi tha."]},
+        {"book": true, "q": ["The washerman was a greedy man.", "धोबी लालची आदमी था।", "Dhobi laalchi aadmi tha.", ["No", "Yes"], "No", "No. He was a poor man who wanted to live well.", "नहीं। वह ग़रीब था और अच्छी ज़िंदगी चाहता था।", "Nahi. Woh gareeb tha aur achhi zindagi chahta tha."]},
+        {"book": true, "q": ["Kusum does not help her husband.", "कुसुम अपने पति की मदद नहीं करती।", "Kusum apne pati ki madad nahi karti.", ["No", "Yes"], "No", "No. Kusum prayed for her husband the whole night.", "नहीं। कुसुम ने पूरी रात पति के लिए प्रार्थना की।", "Nahi. Kusum ne poori raat pati ke liye praarthana ki."]},
+        {"card": ["अब बताओ किसने किससे कहा।", "Ab batao kisne kisse kaha.", "Now say who said it to whom."]},
+        {"book": true, "q": ["\"Water of this river is very cold.\" Who said to whom?", "किसने किससे कहा?", "Kisne kisse kaha?", ["Akbar to Birbal", "Denu to Kusum", "Birbal to Akbar"], "Akbar to Birbal"]},
+        {"book": true, "q": ["\"Win a hundred gold coins, challenge from the King.\" Who said it?", "यह किसने कहा?", "Yeh kisne kaha?", ["the town-crier to the people", "Birbal to Denu", "Akbar to the courtiers"], "the town-crier to the people"]},
+        {"book": true, "q": ["\"I kept on praying for your safety the whole night.\" Who said to whom?", "किसने किससे कहा?", "Kisne kisse kaha?", ["Kusum to Denu", "Akbar to Birbal", "the messenger to Akbar"], "Kusum to Denu"]},
+        {"book": true, "q": ["\"Your majesty, he is cooking food.\" Who said to whom?", "किसने किससे कहा?", "Kisne kisse kaha?", ["the messenger to Akbar", "Birbal to Akbar", "Kusum to Denu"], "the messenger to Akbar"]},
+        {"book": true, "q": ["\"Salutations, Your Majesty.\" Who said to whom?", "किसने किससे कहा?", "Kisne kisse kaha?", ["Denu to Akbar", "Birbal to Denu", "the courtier to Kusum"], "Denu to Akbar"]},
+        {"book": true, "q": ["What was Akbar's challenge?", "अकबर की चुनौती क्या थी?", "Akbar ki chunauti kya thi?", ["Anyone who stood in the cold river all night would get a reward.", "Anyone who ran fastest would get a reward.", "Anyone who cooked best would get a reward."], "Anyone who stood in the cold river all night would get a reward.", "Akbar's challenge was that anyone who stood in the cold water of the river all through the night would be rewarded.", "अकबर की चुनौती थी कि जो पूरी रात नदी के ठंडे पानी में खड़ा रहेगा, उसे इनाम मिलेगा।", "Akbar ki chunauti thi ki jo poori raat nadi ke thande paani mein khada rahega, use inaam milega."]},
+        {"book": true, "q": ["Why was Denu ready to accept the challenge?", "देनू चुनौती लेने को क्यों तैयार था?", "Denu chunauti lene ko kyon taiyaar tha?", ["He was poor, wanted the reward and was used to cold water.", "He wanted to become king.", "He liked swimming."], "He was poor, wanted the reward and was used to cold water.", "Denu was ready because he was poor and wanted the reward to live well. He was used to washing clothes in cold water every day.", "देनू तैयार था क्योंकि वह ग़रीब था और अच्छी ज़िंदगी के लिए इनाम चाहता था। वह रोज़ ठंडे पानी में कपड़े धोने का आदी था।", "Denu taiyaar tha kyonki woh gareeb tha aur achhi zindagi ke liye inaam chahta tha. Woh roz thande paani mein kapde dhone ka aadi tha."]},
+        {"book": true, "q": ["Why didn't Denu's wife want him to accept the challenge?", "देनू की पत्नी नहीं चाहती थी कि वह चुनौती ले, क्यों?", "Denu ki patni nahi chahti thi ki woh chunauti le, kyon?", ["She thought it was too risky; he could die.", "She wanted the reward for herself.", "She did not like the king."], "She thought it was too risky; he could die.", "Denu's wife did not want him to accept the challenge because it was very risky. He could die in the cold water.", "देनू की पत्नी नहीं चाहती थी क्योंकि यह बहुत ख़तरनाक था। ठंडे पानी में उसकी जान जा सकती थी।", "Denu ki patni nahi chahti thi kyonki yeh bahut khatarnaak tha. Thande paani mein uski jaan ja sakti thi."]},
+        {"book": true, "q": ["What was the courtier's objection?", "दरबारी की आपत्ति क्या थी?", "Darbaari ki aapatti kya thi?", ["The lights of the palace kept the washerman warm.", "Denu came late.", "Denu was not a washerman."], "The lights of the palace kept the washerman warm.", "The courtier said Denu did not deserve the reward because the lights of the palace kept him warm all through the night.", "दरबारी ने कहा कि देनू इनाम का हक़दार नहीं क्योंकि महल की रोशनी ने उसे पूरी रात गर्म रखा।", "Darbaari ne kaha ki Denu inaam ka hakdaar nahi kyonki mahal ki roshni ne use poori raat garm rakha."]},
+        {"book": true, "q": ["How did Birbal bring justice to Denu?", "बीरबल ने देनू को इंसाफ़ कैसे दिलाया?", "Birbal ne Denu ko insaaf kaise dilaaya?", ["He kept a cooking pot far above a fire to show the palace lights could not warm Denu.", "He paid Denu himself.", "He punished the courtier."], "He kept a cooking pot far above a fire to show the palace lights could not warm Denu.", "Birbal kept a cooking pot far above a fire. He showed Akbar that if this fire could not cook the food, the far-off palace lights could not warm Denu either.", "बीरबल ने आग से बहुत ऊपर हांडी रखी। उन्होंने अकबर को दिखाया कि अगर यह आग खाना नहीं पका सकती, तो दूर की महल की रोशनी देनू को गर्म नहीं रख सकती।", "Birbal ne aag se bahut upar haandi rakhi. Unhone Akbar ko dikhaaya ki agar yeh aag khaana nahi paka sakti, to door ki mahal ki roshni Denu ko garm nahi rakh sakti."]},
+        {"book": true, "q": ["Why was Denu very happy at the end?", "आख़िर में देनू बहुत ख़ुश क्यों था?", "Aakhir mein Denu bahut khush kyon tha?", ["He got the reward and justice.", "He became a minister.", "He got a new house from Birbal."], "He got the reward and justice.", "Denu was very happy because he finally got the reward and justice was done to him.", "देनू बहुत ख़ुश था क्योंकि आख़िरकार उसे इनाम और इंसाफ़ मिला।", "Denu bahut khush tha kyonki aakhirkaar use inaam aur insaaf mila."]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: विशेषण से क्रिया-विशेषण (-ly)", "Grammar: visheshan se kriya-visheshan (-ly)", "Grammar in Use: adjectives to adverbs (-ly)"], "book": true,
+      "skills": ["book.grammar", "grammar.adverbs"],
+      "steps": [
+        {"card": ["विशेषण (adjective) बताता है कोई कैसा है: a happy boy। क्रिया-विशेषण (adverb) बताता है काम कैसे हुआ: he smiled happily। ज़्यादातर में -ly लगता है। happy में y → i: happily।", "Visheshan (adjective) bataata hai koi kaisa hai: a happy boy. Kriya-visheshan (adverb) bataata hai kaam kaise hua: he smiled happily. Zyaadatar mein -ly lagta hai. happy mein y → i: happily.", "An adjective tells what someone is like: a happy boy. An adverb tells how something is done: he smiled happily. Most add -ly; happy changes y to i: happily."]},
+        {"book": true, "pairs": ["विशेषण को उसके -ly रूप से जोड़ो", "Visheshan ko uske -ly roop se jodo", "Join each adjective to its adverb", [
+          ["loud", "loudly", "ज़ोर से", "zor se"],
+          ["quick", "quickly", "जल्दी से", "jaldi se"],
+          ["proper", "properly", "ठीक से", "theek se"],
+          ["successful", "successfully", "सफलता से", "safalta se"]]]},
+        {"book": true, "pairs": ["विशेषण को उसके -ly रूप से जोड़ो", "Visheshan ko uske -ly roop se jodo", "Join each adjective to its adverb", [
+          ["thoughtful", "thoughtfully", "सोच-समझकर", "soch-samajhkar"],
+          ["beautiful", "beautifully", "सुंदरता से", "sundarta se"],
+          ["helpful", "helpfully", "मदद करते हुए", "madad karte hue"],
+          ["happy", "happily", "ख़ुशी से", "khushi se"]]]},
+        {"book": true, "fb": ["The teacher said ___, \"I will find a way to help you.\"", "thoughtfully", ["thoughtfully", "loudly", "sadly"], "टीचर ने सोच-समझकर कहा, ‘मैं तुम्हारी मदद का रास्ता निकालूँगा।’", "Teacher ne soch-samajhkar kaha, ‘Main tumhari madad ka raasta nikaaloonga.’"]},
+        {"book": true, "fb": ["The cap seller said ___, \"All my caps are gone.\"", "sadly", ["sadly", "happily", "comfortably"], "टोपीवाले ने दुखी होकर कहा, ‘मेरी सारी टोपियाँ चली गईं।’", "Topiwaale ne dukhi hokar kaha, ‘Meri saari topiyaan chali gayin.’"]},
+        {"book": true, "fb": ["The patient slept ___ after the doctor gave him some medicine.", "comfortably", ["comfortably", "loudly", "quickly"], "दवा के बाद मरीज़ आराम से सोया।", "Dava ke baad mareez aaraam se soya."]},
+        {"book": true, "fb": ["Ramesh went home ___ after watching the play.", "happily", ["happily", "loudly", "sadly"], "नाटक देखकर रमेश ख़ुशी-ख़ुशी घर गया।", "Naatak dekhkar Ramesh khushi-khushi ghar gaya."]},
+        {"book": true, "fb": ["Once he got his money he went home ___.", "quickly", ["quickly", "thoughtfully", "really"], "पैसे मिलते ही वह जल्दी से घर गया।", "Paise milte hi woh jaldi se ghar gaya."]},
+        {"book": true, "fb": ["The lion roared ___, \"Who woke me up?\"", "loudly", ["loudly", "comfortably", "sadly"], "शेर ज़ोर से दहाड़ा, ‘मुझे किसने जगाया?’", "Sher zor se dahaada, ‘Mujhe kisne jagaaya?’"]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: किसने क्या किया है?", "Chalo baat karein: kisne kya kiya hai?", "Let's Talk: who has ...?"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब: दोस्तों से पता करो किसने ये काम किए हैं। जवाब: Yes, I have. / No, I haven't.", "Kitaab: doston se pata karo kisne yeh kaam kiye hain. Jawab: Yes, I have. / No, I haven't.", "The book: find out who has done these things. Answer: Yes, I have. / No, I haven't."]},
+        {"book": true, "type": "roleplay", "scene": "🐍", "turns": [
+          {"id": "snake", "tinku": "Have you ever seen a snake?", "meaning": ["क्या तुमने कभी साँप देखा है?", "Kya tumne kabhi saanp dekha hai?"],
+            "replies": [
+              {"say": "Yes, I have.", "meaning": ["हाँ, देखा है।", "Haan, dekha hai."], "patterns": ["yes i have", "yes *", "yes"]},
+              {"say": "No, I haven't.", "meaning": ["नहीं, नहीं देखा।", "Nahi, nahi dekha."], "patterns": ["no i havent", "no i have not", "no *", "no"]}
+            ]},
+          {"id": "taj", "tinku": "Have you visited the Taj Mahal?", "meaning": ["क्या तुम ताजमहल गए हो?", "Kya tum Taj Mahal gaye ho?"],
+            "replies": [
+              {"say": "Yes, I have.", "meaning": ["हाँ, गया/गई हूँ।", "Haan, gaya/gayi hoon."], "patterns": ["yes i have", "yes *", "yes"]},
+              {"say": "No, I haven't.", "meaning": ["नहीं, नहीं गया/गई।", "Nahi, nahi gaya/gayi."], "patterns": ["no i havent", "no i have not", "no *", "no"]}
+            ]},
+          {"id": "boat", "tinku": "Have you sailed in a boat?", "meaning": ["क्या तुमने नाव में सैर की है?", "Kya tumne naav mein sair ki hai?"],
+            "replies": [
+              {"say": "Yes, I have.", "meaning": ["हाँ, की है।", "Haan, ki hai."], "patterns": ["yes i have", "yes *", "yes"]},
+              {"say": "No, I haven't.", "meaning": ["नहीं, नहीं की।", "Nahi, nahi ki."], "patterns": ["no i havent", "no i have not", "no *", "no"]}
+            ]},
+          {"id": "help", "tinku": "Have you helped someone in need?", "meaning": ["क्या तुमने किसी ज़रूरतमंद की मदद की है?", "Kya tumne kisi zaroorat-mand ki madad ki hai?"],
+            "replies": [
+              {"say": "Yes, I have.", "meaning": ["हाँ, की है।", "Haan, ki hai."], "patterns": ["yes i have", "yes *", "yes"], "next": "end"},
+              {"say": "No, I haven't.", "meaning": ["नहीं, नहीं की।", "Nahi, nahi ki."], "patterns": ["no i havent", "no i have not", "no *", "no"], "next": "end"}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: अकबर-बीरबल की कहानी", "Chalo likhein: Akbar-Birbal ki kahani", "Let's Write: an Akbar-Birbal story"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: अकबर-बीरबल की कहानी अपने शब्दों में लिखो। चलो इसी कहानी को छोटे वाक्यों में लिखते हैं।", "Kitaab: Akbar-Birbal ki kahani apne shabdon mein likho. Chalo isi kahani ko chhote vaakyon mein likhte hain.", "The book: write an Akbar-Birbal story in your own words. Let's write this story in short sentences."]},
+        {"book": true, "build": ["अकबर ने एक चुनौती दी।", "Akbar ne ek chunauti di.", "Say that Akbar gave a challenge.", "Akbar gave a challenge to the people.", "अकबर ने लोगों को एक चुनौती दी।", "Akbar ne logon ko ek chunauti di."]},
+        {"book": true, "build": ["एक धोबी पूरी रात ठंडे पानी में खड़ा रहा।", "Ek dhobi poori raat thande paani mein khada raha.", "A washerman: in the cold river, the whole night.", "A washerman stood in the cold water all night.", "एक धोबी पूरी रात ठंडे पानी में खड़ा रहा।", "Ek dhobi poori raat thande paani mein khada raha."]},
+        {"book": true, "build": ["एक दरबारी की वजह से उसे इनाम नहीं मिला।", "Ek darbaari ki wajah se use inaam nahi mila.", "A courtier stopped him from getting the reward.", "He did not get the reward because of a courtier.", "एक दरबारी की वजह से उसे इनाम नहीं मिला।", "Ek darbaari ki wajah se use inaam nahi mila."]},
+        {"book": true, "build": ["बीरबल ने चतुराई से अकबर को उसकी गलती दिखाई।", "Birbal ne chaturaai se Akbar ko uski galti dikhaayi.", "Birbal used his clever mind to show the King he was wrong.", "Birbal cleverly showed Akbar his mistake.", "बीरबल ने चतुराई से अकबर को उसकी गलती दिखाई।", "Birbal ne chaturaai se Akbar ko uski galti dikhaayi."]},
+        {"book": true, "build": ["आख़िर में धोबी को इनाम मिला।", "Aakhir mein dhobi ko inaam mila.", "At last, the reward goes to the washerman.", "In the end the washerman got the reward.", "आख़िर में धोबी को इनाम मिला।", "Aakhir mein dhobi ko inaam mila."]}
+      ]
+    },
+    {
+      "emoji": "🤴", "title": ["चलो करके देखें: अकबर के गुण", "Chalo karke dekhein: Akbar ke gun", "Let's Do It: Akbar's qualities"], "book": true,
+      "skills": ["book.activity"],
+      "steps": [
+        {"card": ["किताब: अकबर के गुणों का चार्ट पूरा करो: brave (बहादुर), wise (समझदार)... और कौन से शब्द उन पर ठीक बैठते हैं?", "Kitaab: Akbar ke gunon ka chart poora karo: brave (bahaadur), wise (samajhdaar)... aur kaun se shabd un par theek baithte hain?", "The book: complete the chart of Akbar's qualities: brave, wise... which other words describe him?"]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["कौन से शब्द अकबर के गुण बताते हैं?", "Kaun se shabd Akbar ke gun bataate hain?", "Which words describe Akbar's qualities?"],
+          "groups": [
+            {"id": "yes", "name": "Akbar's qualities", "emoji": "👑", "meaning": ["अकबर के गुण", "Akbar ke gun"]},
+            {"id": "no", "name": "not Akbar", "emoji": "❌", "meaning": ["अकबर के नहीं", "Akbar ke nahi"]}
+          ],
+          "items": [
+            {"text": "brave", "emoji": "🦁", "groups": ["yes"]},
+            {"text": "wise", "emoji": "🦉", "groups": ["yes"]},
+            {"text": "generous", "emoji": "🎁", "groups": ["yes"]},
+            {"text": "just", "emoji": "⚖️", "groups": ["yes"]},
+            {"text": "lazy", "emoji": "😴", "groups": ["no"]},
+            {"text": "cruel", "emoji": "👿", "groups": ["no"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "🔁", "title": ["दोहराव 3 (पाठ 9–12)", "Dohraav 3 (paath 9–12)", "Revision Exercises 3 (Lessons 9–12)"], "book": true,
+      "skills": ["book.words", "book.grammar"],
+      "steps": [
+        {"card": ["किताब के पेज 76-77 पर पूरे साल का दोहराव है।", "Kitaab ke page 76-77 par poore saal ka dohraav hai.", "Pages 76–77 of your book revise the whole year."]},
+        {"book": true, "fb": ["Once a neighbouring king ___ his country.", "attacked", ["attacked", "favour", "save"], "एक बार पड़ोसी राजा ने उसके देश पर हमला किया।", "Ek baar padosi raja ne uske desh par hamla kiya."]},
+        {"book": true, "fb": ["Luck did not ___ him.", "favour", ["favour", "battle", "cave"], "क़िस्मत ने उसका साथ नहीं दिया।", "Kismat ne uska saath nahi diya."]},
+        {"book": true, "fb": ["He lost the ___.", "battle", ["battle", "house", "soldiers"], "वह युद्ध हार गया।", "Woh yuddh haar gaya."]},
+        {"book": true, "fb": ["Many of his soldiers were killed and others ran away to ___ their lives.", "save", ["save", "favour", "attacked"], "उसके कई सैनिक मारे गए और बाकी जान बचाकर भागे।", "Uske kai sainik maare gaye aur baaki jaan bachaakar bhaage."]},
+        {"book": true, "fb": ["The king ___ had to hide in a cave.", "himself", ["himself", "house", "battle"], "राजा को ख़ुद एक गुफ़ा में छिपना पड़ा।", "Raja ko khud ek gufaa mein chhipna pada."]},
+        {"book": true, "q": ["Opposite of ‘strong’", "‘strong’ का उल्टा", "‘strong’ ka ulta", ["weak", "tall", "brave"], "weak"]},
+        {"book": true, "q": ["Opposite of ‘unhappy’", "‘unhappy’ का उल्टा", "‘unhappy’ ka ulta", ["happy", "sad", "angry"], "happy"]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘branch’ is ...", "‘branch’ का बहुवचन", "‘branch’ ka bahuvachan", ["branches", "branchs", "branchies"], "branches"]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘sheep’ is ...", "‘sheep’ का बहुवचन", "‘sheep’ ka bahuvachan", ["sheep", "sheeps", "sheepes"], "sheep"]},
+        {"card": ["शब्द से संज्ञा बनाओ: teach → teacher (जो सिखाता है)।", "Shabd se sangya banao: teach → teacher (jo sikhaata hai).", "Make nouns: teach → teacher (one who teaches)."]},
+        {"book": true, "pairs": ["काम से करने वाले का नाम बनाओ", "Kaam se karne waale ka naam banao", "Make nouns from the words", [
+          ["play", "player", "खिलाड़ी", "khilaadi"],
+          ["clean", "cleaner", "सफ़ाई करने वाला", "safaai karne waala"],
+          ["think", "thinker", "विचारक", "vichaarak"],
+          ["write", "writer", "लेखक", "lekhak"],
+          ["bowl", "bowler", "गेंदबाज़", "gendbaaz"],
+          ["cricket", "cricketer", "क्रिकेट खिलाड़ी", "cricket khilaadi"]]]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["My father ___ up early in the morning. (wakes → past)", "woke", ["woke", "wakes", "waked"], "मेरे पिता सुबह जल्दी उठे।", "Mere pita subah jaldi uthe."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["Girls ___ a race. (run → past)", "ran", ["ran", "run", "runned"], "लड़कियों ने दौड़ लगाई।", "Ladkiyon ne daud lagaayi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["Like Gandhi he ___ the truth. (speaks → past)", "spoke", ["spoke", "speaks", "speaked"], "गांधी की तरह उसने सच बोला।", "Gandhi ki tarah usne sach bola."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["Arjun ___ at the right eye of the bird. (shoots → past)", "shot", ["shot", "shooted", "shoots"], "अर्जुन ने चिड़िया की दाईं आँख पर निशाना लगाया।", "Arjun ne chidiya ki daayin aankh par nishaana lagaaya."]},
+        {"book": true, "tf": ["The boy kept the breakfast in the bookshelf because the beggar refused to take it.", "लड़के ने नाश्ता इसलिए रखा क्योंकि भिखारी ने मना कर दिया।", "Ladke ne naashta isliye rakha kyonki bhikhaari ne mana kar diya.", false, "False. The beggar did not come, so the boy kept it for him.", "गलत। भिखारी आया ही नहीं, इसलिए लड़के ने उसके लिए रखा।", "Galat. Bhikhaari aaya hi nahi, isliye ladke ne uske liye rakha."]},
+        {"book": true, "tf": ["Gandhiji spelt ‘kettle’ correctly.", "गांधीजी ने kettle सही लिखा।", "Gandhiji ne kettle sahi likha.", false]},
+        {"card": ["किताब: ‘A Cow’ (गाय) पर पाँच वाक्य लिखो: The cow is a domestic animal. It has four legs, two horns and a tail. It gives us milk. It eats grass. We should take good care of it.", "Kitaab: ‘A Cow’ (gaay) par paanch vaakya likho: The cow is a domestic animal. It has four legs, two horns and a tail. It gives us milk. It eats grass. We should take good care of it.", "The book: write five sentences on ‘A Cow’: The cow is a domestic animal. It has four legs, two horns and a tail. It gives us milk. It eats grass. We should take good care of it."]},
+        {"book": true, "build": ["गाय: यह हमें दूध देती है।", "Gaay: yeh humein doodh deti hai.", "Cow: say it gives us milk.", "The cow gives us milk.", "गाय हमें दूध देती है।", "Gaay humein doodh deti hai."]}
+      ]
+    },
+    {
+      "emoji": "📋", "title": ["वार्षिक परीक्षा का अभ्यास", "Vaarshik pariksha ka abhyaas", "Annual exam practice"], "book": true,
+      "skills": ["book.comprehension", "book.words"],
+      "steps": [
+        {"card": ["किताब के पेज 78-80 पर वार्षिक परीक्षा (Annual Evaluation) का नमूना पेपर है। यह पूरे साल का पक्का अभ्यास है!", "Kitaab ke page 78-80 par vaarshik pariksha (Annual Evaluation) ka namoona paper hai. Yeh poore saal ka pakka abhyaas hai!", "Pages 78–80 of your book have a sample Annual Evaluation paper. It is great practice for the whole year!"]},
+        {"book": true, "fb": ["The boy went to the kitchen and brought his ___.", "breakfast", ["breakfast", "beggar", "window"], "लड़का रसोई में गया और अपना नाश्ता लाया।", "Ladka rasoi mein gaya aur apna naashta laaya."]},
+        {"book": true, "fb": ["... when a ___ came to the window.", "beggar", ["beggar", "breakfast", "mother"], "तभी एक भिखारी खिड़की पर आया।", "Tabhi ek bhikhaari khidki par aaya."]},
+        {"book": true, "pairs": ["लोगों को उनके काम से जोड़ो", "Logon ko unke kaam se jodo", "Match the people with the work they do", [
+          ["goldsmith", "makes ornaments of gold", "सुनार", "sunaar"],
+          ["carpenter", "makes tables and chairs", "बढ़ई", "badhai"],
+          ["barber", "cuts your hair", "नाई", "naai"],
+          ["cobbler", "makes and mends shoes", "मोची", "mochi"],
+          ["tailor", "makes garments", "दर्ज़ी", "darzi"]]]},
+        {"book": true, "q": ["Opposite of ‘rich’", "‘rich’ का उल्टा", "‘rich’ ka ulta", ["poor", "happy", "tall"], "poor"]},
+        {"book": true, "q": ["Opposite of ‘ugly’", "‘ugly’ का उल्टा", "‘ugly’ ka ulta", ["beautiful", "dark", "sad"], "beautiful"]},
+        {"book": true, "q": ["Rhyming word: along → ?", "तुकबंदी वाला शब्द", "Tukbandi waala shabd", ["song", "long time", "alone"], "song"]},
+        {"book": true, "q": ["Rhyming word: sky → ?", "तुकबंदी वाला शब्द", "Tukbandi waala shabd", ["high", "sea", "sun"], "high"]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["Where ___ they last month?", "were", ["were", "are", "was"], "पिछले महीने वे कहाँ थे?", "Pichhle mahine woh kahan the?"]},
+        {"book": true, "skills": ["book.grammar", "grammar.plurals"], "q": ["The plural of ‘calf’ is ...", "‘calf’ का बहुवचन", "‘calf’ ka bahuvachan", ["calves", "calfs", "calfes"], "calves"]},
+        {"book": true, "skills": ["book.grammar", "grammar.adverbs"], "fb": ["Ramesh went home ___ after losing the match.", "sadly", ["sadly", "happily", "loudly"], "मैच हारने के बाद रमेश दुखी होकर घर गया।", "Match haarne ke baad Ramesh dukhi hokar ghar gaya."]},
+        {"book": true, "tf": ["Birbal was a king.", "बीरबल राजा थे।", "Birbal raja the.", false]},
+        {"book": true, "tf": ["The fairies made the shoes.", "परियों ने जूते बनाए।", "Pariyon ne joote banaaye.", true]},
+        {"book": true, "q": ["Did Denu succeed?", "क्या देनू सफल हुआ?", "Kya Denu safal hua?", ["Yes, he stood in the cold water all night.", "No, he ran away.", "No, he never tried."], "Yes, he stood in the cold water all night."]},
+        {"book": true, "q": ["When does the moonbeam come over your bed?", "चाँद की किरण कब आती है?", "Chaand ki kiran kab aati hai?", ["deep in the night, when all is still", "in the afternoon", "early in the morning"], "deep in the night, when all is still"]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: अकबर का दरबार", "Aur seekho: Akbar ka darbaar", "Learn more: Akbar's court"], "book": false,
+      "skills": ["vocab.meaning"],
+      "steps": [
+        {"q": ["Birbal was one of Akbar's ‘nine gems’. What are they called?", "बीरबल अकबर के ‘नौ रत्नों’ में से एक थे। उन्हें क्या कहते हैं?", "Birbal Akbar ke ‘nau ratnon’ mein se ek the. Unhe kya kehte hain?", ["Navratnas", "Panchatantra", "Pandavas"], "Navratnas"]},
+        {"q": ["Which famous singer was also one of Akbar's Navratnas?", "कौन से मशहूर गायक भी अकबर के नवरत्न थे?", "Kaun se mashhoor gaayak bhi Akbar ke navratna the?", ["Tansen", "Kalidas", "Tulsidas"], "Tansen", "Tansen, the great singer, was one of Akbar's Navratnas. He was born near Gwalior in Madhya Pradesh.", "महान गायक तानसेन अकबर के नवरत्नों में से एक थे। उनका जन्म मध्य प्रदेश के ग्वालियर के पास हुआ था।", "Mahaan gaayak Tansen Akbar ke navratnon mein se ek the. Unka janm Madhya Pradesh ke Gwalior ke paas hua tha."]},
+        {"q": ["What is the lesson of this story?", "इस कहानी की सीख क्या है?", "Is kahani ki seekh kya hai?", ["Be fair and think wisely before judging.", "Never help the poor.", "Kings are always right."], "Be fair and think wisely before judging."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 12 का टेस्ट", "Paath 12 ka test", "Lesson 12 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What was the courtier's objection?", "दरबारी की आपत्ति क्या थी?", "Darbaari ki aapatti kya thi?", ["The lights of the palace kept the washerman warm.", "Denu came late.", "Denu was not a washerman."], "The lights of the palace kept the washerman warm."]},
+        {"book": true, "q": ["How did Birbal bring justice to Denu?", "बीरबल ने इंसाफ़ कैसे दिलाया?", "Birbal ne insaaf kaise dilaaya?", ["He kept a cooking pot far above a fire to show the palace lights could not warm Denu.", "He paid Denu himself.", "He punished the courtier."], "He kept a cooking pot far above a fire to show the palace lights could not warm Denu."]},
+        {"book": true, "q": ["\"I kept on praying for your safety the whole night.\" Who said it?", "यह किसने कहा?", "Yeh kisne kaha?", ["Kusum to Denu", "Akbar to Birbal", "the messenger to Akbar"], "Kusum to Denu"]},
+        {"book": true, "skills": ["book.words"], "q": ["A King's seat is a ...", "राजा की सीट?", "Raja ki seat?", ["throne", "crown", "court"], "throne"]},
+        {"book": true, "skills": ["book.words"], "q": ["Kings wear this on their head:", "राजा सिर पर क्या पहनते हैं?", "Raja sir par kya pehente hain?", ["crown", "throne", "tray"], "crown"]},
+        {"book": true, "skills": ["book.grammar", "grammar.adverbs"], "q": ["The adverb of ‘beautiful’ is ...", "‘beautiful’ का -ly रूप", "‘beautiful’ ka -ly roop", ["beautifully", "beautifuly", "beautyly"], "beautifully"]},
+        {"book": true, "skills": ["book.grammar", "grammar.adverbs"], "fb": ["The lion roared ___.", "loudly", ["loudly", "comfortably", "sadly"], "शेर ज़ोर से दहाड़ा।", "Sher zor se dahaada."]},
+        {"book": true, "skills": ["book.grammar"], "q": ["write → ?", "करने वाले का नाम", "Karne waale ka naam", ["writer", "writeer", "writting"], "writer"]},
+        {"book": true, "skills": ["book.talk"], "q": ["Have you seen a snake? (no)", "नहीं में जवाब", "Nahi mein jawab", ["No, I haven't.", "No, I don't.", "No, I can't."], "No, I haven't."]},
+        {"book": true, "skills": ["book.activity"], "q": ["Which word describes Akbar?", "अकबर के लिए कौन सा शब्द?", "Akbar ke liye kaun sa shabd?", ["just", "lazy", "cruel"], "just"]}
+      ]
+    }
+  ]
+}

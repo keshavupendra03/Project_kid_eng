@@ -1,0 +1,133 @@
+{
+  "id": "B7.05.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.05.8.S01",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "instruction": {
+        "hi": "रेल यात्रा के शब्दों को उनके मतलब से जोड़ो",
+        "hinglish": "Rail yaatra ke shabdon ko unke matlab se jodo",
+        "en": "Join the train words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "berth",
+          "right": "a bed on a train",
+          "meaning": {
+            "hi": "ट्रेन की सोने वाली सीट",
+            "hinglish": "train ki sone waali seat"
+          }
+        },
+        {
+          "left": "booking counter",
+          "right": "where you buy tickets",
+          "meaning": {
+            "hi": "टिकट खिड़की",
+            "hinglish": "ticket khidki"
+          }
+        },
+        {
+          "left": "engine",
+          "right": "the front part that pulls the train",
+          "meaning": {
+            "hi": "इंजन",
+            "hinglish": "engine"
+          }
+        },
+        {
+          "left": "track",
+          "right": "the rails a train runs on",
+          "meaning": {
+            "hi": "पटरी",
+            "hinglish": "patri"
+          }
+        },
+        {
+          "left": "signal",
+          "right": "a light that tells a train to stop or go",
+          "meaning": {
+            "hi": "सिग्नल",
+            "hinglish": "signal"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.8.S02",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "sentence": "The train stopped at the red ___.",
+      "answer": "signal",
+      "options": [
+        "signal",
+        "berth",
+        "fare"
+      ],
+      "meaning": {
+        "hi": "ट्रेन लाल सिग्नल पर रुकी।",
+        "hinglish": "Train laal signal par ruki."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.8.S03",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "sentence": "Please stand behind the yellow line on the ___.",
+      "answer": "platform",
+      "options": [
+        "platform",
+        "ticket",
+        "luggage"
+      ],
+      "meaning": {
+        "hi": "कृपया प्लेटफ़ॉर्म पर पीली लाइन के पीछे खड़े रहें।",
+        "hinglish": "Kripya platform par peeli line ke peechhe khade rahein."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.8.S04",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "question": "Which is the right thing to do on a train?",
+      "questionMeaning": {
+        "hi": "ट्रेन में क्या करना सही है?",
+        "hinglish": "Train mein kya karna sahi hai?"
+      },
+      "options": [
+        "Keep your ticket safe and your luggage with you.",
+        "Throw garbage out of the window.",
+        "Pull the chain for fun."
+      ],
+      "answer": "Keep your ticket safe and your luggage with you."
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.8.S05",
+      "skills": [
+        "vocab.vehicles"
+      ],
+      "question": "Bhopal and Indore are cities of which state?",
+      "questionMeaning": {
+        "hi": "भोपाल और इंदौर किस राज्य के शहर हैं?",
+        "hinglish": "Bhopal aur Indore kis rajya ke shahar hain?"
+      },
+      "options": [
+        "Madhya Pradesh",
+        "Bihar",
+        "Kerala"
+      ],
+      "answer": "Madhya Pradesh"
+    }
+  ]
+}

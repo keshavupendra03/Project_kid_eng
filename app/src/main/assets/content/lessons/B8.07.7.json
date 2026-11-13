@@ -1,0 +1,109 @@
+{
+  "id": "B8.07.7",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.07.7.S01",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब के पेज 62 पर एक रेल टिकट की तस्वीर है। यहाँ अभ्यास के लिए एक टिकट है: टिकट नं. 45821, भोपाल से जबलपुर, 2 यात्री, किराया ₹ 320, दूरी 336 किमी।",
+        "hinglish": "Kitaab ke page 62 par ek rail ticket ki tasveer hai. Yahan abhyaas ke liye ek ticket hai: ticket no. 45821, Bhopal se Jabalpur, 2 yaatri, kiraaya ₹ 320, doori 336 km.",
+        "en": "Page 62 of your book has a picture of a railway ticket. Here is a practice ticket: Ticket No. 45821, Bhopal to Jabalpur, 2 passengers, fare ₹ 320, distance 336 km."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.7.S02",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "How many people travelled on this ticket?",
+      "questionMeaning": {
+        "hi": "इस टिकट पर कितने लोग गए?",
+        "hinglish": "Is ticket par kitne log gaye?"
+      },
+      "options": [
+        "two",
+        "one",
+        "five"
+      ],
+      "answer": "two"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.7.S03",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What is the fare?",
+      "questionMeaning": {
+        "hi": "किराया कितना है?",
+        "hinglish": "Kiraaya kitna hai?"
+      },
+      "options": [
+        "₹ 320",
+        "₹ 45821",
+        "336 km"
+      ],
+      "answer": "₹ 320"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.7.S04",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "Where did they board the train?",
+      "questionMeaning": {
+        "hi": "उन्होंने ट्रेन कहाँ से पकड़ी?",
+        "hinglish": "Unhone train kahan se pakdi?"
+      },
+      "options": [
+        "Bhopal",
+        "Jabalpur",
+        "Indore"
+      ],
+      "answer": "Bhopal"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.7.S05",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What is the distance between the two stations?",
+      "questionMeaning": {
+        "hi": "दोनों स्टेशनों के बीच दूरी?",
+        "hinglish": "Dono stationon ke beech doori?"
+      },
+      "options": [
+        "336 km",
+        "320 km",
+        "45 km"
+      ],
+      "answer": "336 km"
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.07.7.S06",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अब अपनी किताब के टिकट को देखकर यही छह सवाल अपने साथी से पूछो।",
+        "hinglish": "Ab apni kitaab ke ticket ko dekhkar yahi chhah sawaal apne saathi se poochho.",
+        "en": "Now look at the ticket in your book and ask your partner the same six questions."
+      }
+    }
+  ]
+}

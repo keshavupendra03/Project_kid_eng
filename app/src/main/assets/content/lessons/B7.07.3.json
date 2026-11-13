@@ -1,0 +1,264 @@
+{
+  "id": "B7.07.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.07.3.S01",
+    "B7.07.3.S02",
+    "B7.07.3.S03",
+    "B7.07.3.S04",
+    "B7.07.3.S05",
+    "B7.07.3.S06",
+    "B7.07.3.S07",
+    "B7.07.3.S08",
+    "B7.07.3.S09",
+    "B7.07.3.S10",
+    "B7.07.3.S11"
+  ],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.07.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "शब्दों को उनके मतलब से जोड़ो",
+        "hinglish": "Shabdon ko unke matlab se jodo",
+        "en": "Match the words with their meanings"
+      },
+      "pairs": [
+        {
+          "left": "calmly",
+          "right": "without excitement",
+          "meaning": {
+            "hi": "शांति से",
+            "hinglish": "shaanti se"
+          }
+        },
+        {
+          "left": "bee",
+          "right": "a tiny insect",
+          "meaning": {
+            "hi": "मधुमक्खी",
+            "hinglish": "madhumakkhi"
+          }
+        },
+        {
+          "left": "merchant",
+          "right": "a person who buys and sells goods",
+          "meaning": {
+            "hi": "व्यापारी",
+            "hinglish": "vyaapaari"
+          }
+        },
+        {
+          "left": "lame",
+          "right": "disabled in the leg or foot",
+          "meaning": {
+            "hi": "लंगड़ा",
+            "hinglish": "langda"
+          }
+        },
+        {
+          "left": "footprint",
+          "right": "the mark left by a foot or shoe",
+          "meaning": {
+            "hi": "पैर का निशान",
+            "hinglish": "pair ka nishaan"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Bhola was ___ for his ball.",
+      "answer": "searching",
+      "options": [
+        "searching",
+        "carrying",
+        "angry"
+      ],
+      "meaning": {
+        "hi": "भोला अपनी गेंद ढूँढ रहा था।",
+        "hinglish": "Bhola apni gend dhoondh raha tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The truck was ___ bags of onions.",
+      "answer": "carrying",
+      "options": [
+        "carrying",
+        "searching",
+        "understand"
+      ],
+      "meaning": {
+        "hi": "ट्रक में प्याज़ की बोरियाँ लदी थीं।",
+        "hinglish": "Truck mein pyaaz ki boriyaan ladi thin."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The teacher was ___ because Suraj did not do his work.",
+      "answer": "angry",
+      "options": [
+        "angry",
+        "foolproof",
+        "carrying"
+      ],
+      "meaning": {
+        "hi": "टीचर नाराज़ थे क्योंकि सूरज ने अपना काम नहीं किया।",
+        "hinglish": "Teacher naaraaz the kyonki Suraj ne apna kaam nahi kiya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "No one could ___ the story told by Ramesh.",
+      "answer": "understand",
+      "options": [
+        "understand",
+        "carrying",
+        "angry"
+      ],
+      "meaning": {
+        "hi": "रमेश की सुनाई कहानी कोई नहीं समझ सका।",
+        "hinglish": "Ramesh ki sunaayi kahani koi nahi samajh saka."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The police ___ when they saw the thief was running away.",
+      "answer": "turned a blind eye",
+      "options": [
+        "turned a blind eye",
+        "worked hard",
+        "left footprints"
+      ],
+      "meaning": {
+        "hi": "चोर को भागते देखकर पुलिस ने अनदेखा कर दिया।",
+        "hinglish": "Chor ko bhaagte dekhkar police ne andekha kar diya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "The camel is known as ___.",
+      "answer": "the ship of the desert",
+      "options": [
+        "the ship of the desert",
+        "a lame excuse",
+        "foolproof"
+      ],
+      "meaning": {
+        "hi": "ऊँट को रेगिस्तान का जहाज़ कहते हैं।",
+        "hinglish": "Oont ko registaan ka jahaaz kehte hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Ramesh had not done his homework, so he made ___ of falling sick.",
+      "answer": "a lame excuse",
+      "options": [
+        "a lame excuse",
+        "the ship of the desert",
+        "foolproof"
+      ],
+      "meaning": {
+        "hi": "रमेश ने होमवर्क नहीं किया था, इसलिए उसने बीमार होने का कमज़ोर बहाना बनाया।",
+        "hinglish": "Ramesh ne homework nahi kiya tha, isliye usne beemaar hone ka kamzor bahaana banaaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Some products in the market claim to be a ___ remedy for illness.",
+      "answer": "foolproof",
+      "options": [
+        "foolproof",
+        "angry",
+        "lame excuse"
+      ],
+      "meaning": {
+        "hi": "बाज़ार में कुछ चीज़ें बीमारी का पक्का इलाज होने का दावा करती हैं।",
+        "hinglish": "Baazaar mein kuch cheezein beemaari ka pakka ilaaj hone ka daava karti hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.3.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Shyama has ___ to secure good marks.",
+      "answer": "to work hard",
+      "options": [
+        "to work hard",
+        "to turn a blind eye",
+        "leave footprints"
+      ],
+      "meaning": {
+        "hi": "अच्छे नंबर लाने के लिए श्यामा को मेहनत करनी है।",
+        "hinglish": "Achhe number laane ke liye Shyama ko mehnat karni hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.07.3.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "If you ___ on the sand at a beach, the sea is sure to wash them away.",
+      "answer": "leave footprints",
+      "options": [
+        "leave footprints",
+        "work hard",
+        "understand"
+      ],
+      "meaning": {
+        "hi": "अगर तुम समुद्र किनारे रेत पर पैरों के निशान छोड़ो, तो समुद्र उन्हें बहा ले जाएगा।",
+        "hinglish": "Agar tum samudra kinaare ret par pairon ke nishaan chhodo, to samudra unhe baha le jaayega."
+      }
+    }
+  ]
+}

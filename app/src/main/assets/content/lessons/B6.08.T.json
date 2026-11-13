@@ -1,0 +1,196 @@
+{
+  "id": "B6.08.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.08.T.S01",
+    "B6.08.T.S02",
+    "B6.08.T.S03",
+    "B6.08.T.S04",
+    "B6.08.T.S05",
+    "B6.08.T.S06",
+    "B6.08.T.S07",
+    "B6.08.T.S08",
+    "B6.08.T.S09",
+    "B6.08.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.08.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What is the cargo of the elephant?",
+      "questionMeaning": {
+        "hi": "हाथी पर क्या लदा है?",
+        "hinglish": "Haathi par kya lada hai?"
+      },
+      "options": [
+        "children",
+        "bananas",
+        "wood"
+      ],
+      "answer": "children"
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What did the children do to the elephant?",
+      "questionMeaning": {
+        "hi": "बच्चों ने हाथी के साथ क्या किया?",
+        "hinglish": "Bachchon ne haathi ke saath kya kiya?"
+      },
+      "options": [
+        "They crowned him with may flowers.",
+        "They hit him.",
+        "They washed him."
+      ],
+      "answer": "They crowned him with may flowers."
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.T.S03",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘nose’?",
+      "questionMeaning": {
+        "hi": "‘nose’ से तुक?",
+        "hinglish": "‘nose’ se tuk?"
+      },
+      "options": [
+        "rose",
+        "pin",
+        "way"
+      ],
+      "answer": "rose"
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which is a farm animal?",
+      "questionMeaning": {
+        "hi": "कौन सा फ़ार्म का जानवर है?",
+        "hinglish": "Kaun sa farm ka jaanwar hai?"
+      },
+      "options": [
+        "cow",
+        "tiger",
+        "parrot"
+      ],
+      "answer": "cow"
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "The young one of a horse is a ...",
+      "questionMeaning": {
+        "hi": "घोड़े का बच्चा?",
+        "hinglish": "Ghode ka bachcha?"
+      },
+      "options": [
+        "foal",
+        "lamb",
+        "calf"
+      ],
+      "answer": "foal"
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "The young one of a sheep is a ...",
+      "questionMeaning": {
+        "hi": "भेड़ का बच्चा?",
+        "hinglish": "Bhed ka bachcha?"
+      },
+      "options": [
+        "lamb",
+        "chick",
+        "piglet"
+      ],
+      "answer": "lamb"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.T.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "sentence": "Here comes the elephant swaying along with his ___ of children.",
+      "answer": "cargo",
+      "options": [
+        "cargo",
+        "song",
+        "way"
+      ],
+      "meaning": {
+        "hi": "बच्चों से लदा हाथी झूमता आता है।",
+        "hinglish": "Bachchon se lada haathi jhoomta aata hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.T.S08",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Do you have my name slip? (You don't have it.)",
+      "questionMeaning": {
+        "hi": "क्या मेरी पर्ची तुम्हारे पास है? (नहीं है)",
+        "hinglish": "Kya meri parchi tumhare paas hai? (Nahi hai)"
+      },
+      "options": [
+        "No, I don't have.",
+        "Yes, I have.",
+        "No, I can't."
+      ],
+      "answer": "No, I don't have."
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.T.S09",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? Yudhishtir is a Kaurav prince.",
+      "questionMeaning": {
+        "hi": "युधिष्ठिर कौरव राजकुमार है।",
+        "hinglish": "Yudhishthir Kaurav raajkumaar hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? The elephant has wide ears.",
+      "questionMeaning": {
+        "hi": "हाथी के कान चौड़े होते हैं।",
+        "hinglish": "Haathi ke kaan chaude hote hain."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    }
+  ]
+}

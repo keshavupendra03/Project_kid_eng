@@ -1,0 +1,271 @@
+{
+  "id": "B7.03.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.03.3.S02",
+    "B7.03.3.S03",
+    "B7.03.3.S04",
+    "B7.03.3.S05",
+    "B7.03.3.S06",
+    "B7.03.3.S07",
+    "B7.03.3.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.03.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "आम को ‘फलों का राजा’ कहते हैं। ऐसे ही कुछ और ख़ास नाम हैं। इनमें से कई मध्य प्रदेश के हैं!",
+        "hinglish": "Aam ko ‘phalon ka raja’ kehte hain. Aise hi kuch aur khaas naam hain. Inmein se kai Madhya Pradesh ke hain!",
+        "en": "The mango is called the king of fruits. Here are more special names, many from Madhya Pradesh!"
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.03.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर ख़ास नाम को सही जगह या चीज़ से जोड़ो",
+        "hinglish": "Har khaas naam ko sahi jagah ya cheez se jodo",
+        "en": "Match each special name"
+      },
+      "pairs": [
+        {
+          "left": "The Queen of Satpura",
+          "right": "Pachmarhi",
+          "meaning": {
+            "hi": "पचमढ़ी (सतपुड़ा की रानी)",
+            "hinglish": "Pachmarhi (Satpura ki rani)"
+          }
+        },
+        {
+          "left": "The King of the forest",
+          "right": "lion",
+          "meaning": {
+            "hi": "शेर (जंगल का राजा)",
+            "hinglish": "sher (jangal ka raja)"
+          }
+        },
+        {
+          "left": "The life line of Madhya Pradesh",
+          "right": "the Narmada",
+          "meaning": {
+            "hi": "नर्मदा नदी",
+            "hinglish": "Narmada nadi"
+          }
+        },
+        {
+          "left": "A dream in marble",
+          "right": "the Taj Mahal",
+          "meaning": {
+            "hi": "ताजमहल",
+            "hinglish": "Taj Mahal"
+          }
+        },
+        {
+          "left": "The ship of the desert",
+          "right": "camel",
+          "meaning": {
+            "hi": "ऊँट",
+            "hinglish": "oont"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Pick the odd word out: man, gentleman, sir, madam",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "man",
+        "gentleman",
+        "sir",
+        "madam"
+      ],
+      "answer": "madam",
+      "modelAnswer": "madam, because it is for a woman. The others are for men.",
+      "modelMeaning": {
+        "hi": "madam, क्योंकि यह औरत के लिए है।",
+        "hinglish": "madam, kyonki yeh aurat ke liye hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Pick the odd word out: girl, little fairy, little queen, boy",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "girl",
+        "little fairy",
+        "little queen",
+        "boy"
+      ],
+      "answer": "boy",
+      "modelAnswer": "boy, because the others are girls.",
+      "modelMeaning": {
+        "hi": "boy, क्योंकि बाकी सब लड़कियाँ हैं।",
+        "hinglish": "boy, kyonki baaki sab ladkiyaan hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Pick the odd word out: mango, apple, knife, orange",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "mango",
+        "apple",
+        "knife",
+        "orange"
+      ],
+      "answer": "knife",
+      "modelAnswer": "knife, because it is not a fruit.",
+      "modelMeaning": {
+        "hi": "चाकू, क्योंकि यह फल नहीं है।",
+        "hinglish": "Chaaku, kyonki yeh phal nahi hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Pick the odd word out: thug, thief, robber, constable",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "thug",
+        "thief",
+        "robber",
+        "constable"
+      ],
+      "answer": "constable",
+      "modelAnswer": "constable, because he catches thieves. The others do wrong.",
+      "modelMeaning": {
+        "hi": "सिपाही, क्योंकि वह चोर पकड़ता है।",
+        "hinglish": "Sipaahi, kyonki woh chor pakadta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Pick the odd word out: smile, laugh, weep, chuckle",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "smile",
+        "laugh",
+        "weep",
+        "chuckle"
+      ],
+      "answer": "weep",
+      "modelAnswer": "weep, because it means to cry. The others are happy.",
+      "modelMeaning": {
+        "hi": "weep यानी रोना। बाकी सब ख़ुशी के हैं।",
+        "hinglish": "weep yaani rona. Baaki sab khushi ke hain."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.03.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर जानवर को उसकी आवाज़ से जोड़ो",
+        "hinglish": "Har jaanwar ko uski awaaz se jodo",
+        "en": "Join each animal to its sound"
+      },
+      "pairs": [
+        {
+          "left": "a horse",
+          "right": "neighs",
+          "meaning": {
+            "hi": "हिनहिनाता है",
+            "hinglish": "hinhinaata hai"
+          }
+        },
+        {
+          "left": "a donkey",
+          "right": "brays",
+          "meaning": {
+            "hi": "रेंकता है",
+            "hinglish": "renkta hai"
+          }
+        },
+        {
+          "left": "a cat",
+          "right": "mews",
+          "meaning": {
+            "hi": "म्याऊँ करती है",
+            "hinglish": "myaaun karti hai"
+          }
+        },
+        {
+          "left": "a dog",
+          "right": "barks",
+          "meaning": {
+            "hi": "भौंकता है",
+            "hinglish": "bhaunkta hai"
+          }
+        },
+        {
+          "left": "a lion",
+          "right": "roars",
+          "meaning": {
+            "hi": "दहाड़ता है",
+            "hinglish": "dahaadta hai"
+          }
+        },
+        {
+          "left": "a sheep",
+          "right": "bleats",
+          "meaning": {
+            "hi": "मिमियाती है",
+            "hinglish": "mimiyaati hai"
+          }
+        }
+      ]
+    }
+  ]
+}

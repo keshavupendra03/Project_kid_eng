@@ -1,0 +1,385 @@
+{
+  "id": "B7.05.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.05.3.S01",
+    "B7.05.3.S02",
+    "B7.05.3.S03",
+    "B7.05.3.S04",
+    "B7.05.3.S05",
+    "B7.05.3.S06",
+    "B7.05.3.S07",
+    "B7.05.3.S08",
+    "B7.05.3.S09",
+    "B7.05.3.S10",
+    "B7.05.3.S11",
+    "B7.05.3.S12",
+    "B7.05.3.S14"
+  ],
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "B7.05.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "He is a ___ person.",
+      "answer": "well-dressed",
+      "options": [
+        "well-dressed",
+        "vacant seat",
+        "valid ticket"
+      ],
+      "meaning": {
+        "hi": "वह अच्छे कपड़े पहनने वाला इंसान है।",
+        "hinglish": "Woh achhe kapde pehenne waala insaan hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "A ___ lady walked into the shop.",
+      "answer": "poorly-dressed",
+      "options": [
+        "poorly-dressed",
+        "highly priced",
+        "over-crowded"
+      ],
+      "meaning": {
+        "hi": "फटे-पुराने कपड़ों वाली एक औरत दुकान में आई।",
+        "hinglish": "Phate-puraane kapdon waali ek aurat dukaan mein aayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Meena bought a ___ dress.",
+      "answer": "highly priced",
+      "options": [
+        "highly priced",
+        "over-crowded",
+        "valid ticket"
+      ],
+      "meaning": {
+        "hi": "मीना ने एक महँगी ड्रेस ख़रीदी।",
+        "hinglish": "Meena ne ek mehngi dress khareedi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "My coat is really ___.",
+      "answer": "worn-out",
+      "options": [
+        "worn-out",
+        "vacant seat",
+        "valid ticket"
+      ],
+      "meaning": {
+        "hi": "मेरा कोट सच में घिस गया है।",
+        "hinglish": "Mera coat sach mein ghis gaya hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "Rashid found that the train was ___.",
+      "answer": "over-crowded",
+      "options": [
+        "over-crowded",
+        "highly priced",
+        "vacant seat"
+      ],
+      "meaning": {
+        "hi": "राशिद ने देखा कि ट्रेन में बहुत भीड़ थी।",
+        "hinglish": "Rashid ne dekha ki train mein bahut bheed thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "It was very difficult to find a ___ in the over-crowded train.",
+      "answer": "vacant seat",
+      "options": [
+        "vacant seat",
+        "valid ticket",
+        "worn-out"
+      ],
+      "meaning": {
+        "hi": "भीड़ वाली ट्रेन में खाली सीट ढूँढना बहुत मुश्किल था।",
+        "hinglish": "Bheed waali train mein khaali seat dhoondhna bahut mushkil tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "sentence": "We must have a ___ for travelling in a train.",
+      "answer": "valid ticket",
+      "options": [
+        "valid ticket",
+        "vacant seat",
+        "well-dressed"
+      ],
+      "meaning": {
+        "hi": "ट्रेन में सफ़र के लिए हमारे पास सही टिकट होना चाहिए।",
+        "hinglish": "Train mein safar ke liye hamare paas sahi ticket hona chahiye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Encircle the odd word: coach, compartment, carriage, box",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "coach",
+        "compartment",
+        "carriage",
+        "box"
+      ],
+      "answer": "box",
+      "modelAnswer": "box, because the others are parts of a train.",
+      "modelMeaning": {
+        "hi": "box, क्योंकि बाकी सब ट्रेन के डिब्बे हैं।",
+        "hinglish": "box, kyonki baaki sab train ke dibbe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Encircle the odd word: T.T.E., air-hostess, bus conductor, passenger",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "T.T.E.",
+        "air-hostess",
+        "bus conductor",
+        "passenger"
+      ],
+      "answer": "passenger",
+      "modelAnswer": "passenger, because the others work on trains, planes or buses.",
+      "modelMeaning": {
+        "hi": "यात्री, क्योंकि बाकी सब वहाँ काम करते हैं।",
+        "hinglish": "Yaatri, kyonki baaki sab wahan kaam karte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.3.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Encircle the odd word: driver, pilot, guard, taxi driver",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "driver",
+        "pilot",
+        "guard",
+        "taxi driver"
+      ],
+      "answer": "guard",
+      "modelAnswer": "guard, because the others drive or fly vehicles.",
+      "modelMeaning": {
+        "hi": "गार्ड, क्योंकि बाकी सब गाड़ी चलाते हैं।",
+        "hinglish": "Guard, kyonki baaki sab gaadi chalaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.3.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Encircle the odd word: crowd, pupil, herd, swarm",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "crowd",
+        "pupil",
+        "herd",
+        "swarm"
+      ],
+      "answer": "pupil",
+      "modelAnswer": "pupil, because the others are words for groups.",
+      "modelMeaning": {
+        "hi": "pupil (छात्र), क्योंकि बाकी सब झुंड वाले शब्द हैं।",
+        "hinglish": "pupil (chhaatra), kyonki baaki sab jhund waale shabd hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.3.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Encircle the odd word: train, bus, house, aeroplane",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "train",
+        "bus",
+        "house",
+        "aeroplane"
+      ],
+      "answer": "house",
+      "modelAnswer": "house, because it is not a vehicle.",
+      "modelMeaning": {
+        "hi": "घर, क्योंकि यह गाड़ी नहीं है।",
+        "hinglish": "Ghar, kyonki yeh gaadi nahi hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.05.3.S13",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "अब किताब की पहेली! हर सुराग (clue) पढ़ो और सही शब्द चुनो।",
+        "hinglish": "Ab kitaab ki paheli! Har suraag (clue) padho aur sahi shabd chuno.",
+        "en": "Now the book's crossword! Read each clue and pick the right word."
+      }
+    },
+    {
+      "type": "crossword",
+      "id": "B7.05.3.S14",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "entries": [
+        {
+          "number": 1,
+          "answer": "passenger",
+          "across": false,
+          "clue": "One who travels on a public or private conveyance: ___",
+          "given": true,
+          "row": 1,
+          "col": 8
+        },
+        {
+          "number": 2,
+          "answer": "train",
+          "across": true,
+          "clue": "This runs on rails: ___",
+          "row": 10,
+          "col": 2
+        },
+        {
+          "number": 3,
+          "answer": "ticket",
+          "across": false,
+          "clue": "A piece of paper that gives the right to travel in a train or a bus: ___",
+          "row": 1,
+          "col": 1
+        },
+        {
+          "number": 4,
+          "answer": "platform",
+          "across": false,
+          "clue": "A place near a railway track for passengers to get on and off the trains: ___",
+          "row": 7,
+          "col": 2
+        },
+        {
+          "number": 5,
+          "answer": "crowd",
+          "across": false,
+          "clue": "A large number of people gathered together: ___",
+          "row": 1,
+          "col": 6
+        },
+        {
+          "number": 6,
+          "answer": "coach",
+          "across": true,
+          "clue": "A luxury bus used for longer journeys: ___",
+          "row": 12,
+          "col": 1
+        },
+        {
+          "number": 7,
+          "answer": "bridge",
+          "across": true,
+          "clue": "A structure across a river, road, etc.: ___",
+          "row": 5,
+          "col": 3
+        },
+        {
+          "number": 8,
+          "answer": "luggage",
+          "across": true,
+          "clue": "Suitcases or other bags of a traveller: ___",
+          "row": 8,
+          "col": 2
+        },
+        {
+          "number": 9,
+          "answer": "river",
+          "across": true,
+          "clue": "A natural flow of water from one place to another: ___",
+          "row": 2,
+          "col": 0
+        },
+        {
+          "number": 10,
+          "answer": "airport",
+          "across": false,
+          "clue": "A place where aeroplanes land and take off: ___",
+          "row": 0,
+          "col": 4
+        }
+      ],
+      "rows": 15,
+      "cols": 9
+    }
+  ]
+}

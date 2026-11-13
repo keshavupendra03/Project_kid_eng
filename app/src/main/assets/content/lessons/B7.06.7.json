@@ -1,0 +1,125 @@
+{
+  "id": "B7.06.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.06.7.S02",
+    "B7.06.7.S03",
+    "B7.06.7.S04",
+    "B7.06.7.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.06.7.S01",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "किताब कहती है: पालतू जानवरों की तस्वीरें इकट्ठा करो और उनके नाम लिखो। पहले यहाँ नाम पहचानो।",
+        "hinglish": "Kitaab kehti hai: paaltu jaanwaron ki tasveerein ikattha karo aur unke naam likho. Pehle yahan naam pehchaano.",
+        "en": "The book says: collect pictures of pet animals and write their names. First, name them here."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.7.S02",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "Which pet is this? 🐇",
+      "questionMeaning": {
+        "hi": "यह कौन सा पालतू जानवर है?",
+        "hinglish": "Yeh kaun sa paaltu jaanwar hai?"
+      },
+      "options": [
+        "rabbit",
+        "rat",
+        "goat"
+      ],
+      "answer": "rabbit"
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.7.S03",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "Which pet is this? 🦜",
+      "questionMeaning": {
+        "hi": "यह कौन सा पालतू पक्षी है?",
+        "hinglish": "Yeh kaun sa paaltu pakshi hai?"
+      },
+      "options": [
+        "parrot",
+        "crow",
+        "hen"
+      ],
+      "answer": "parrot"
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.7.S04",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "Which pet is this? 🐟",
+      "questionMeaning": {
+        "hi": "यह कौन सा पालतू जानवर है?",
+        "hinglish": "Yeh kaun sa paaltu jaanwar hai?"
+      },
+      "options": [
+        "fish",
+        "frog",
+        "duck"
+      ],
+      "answer": "fish"
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.7.S05",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "Which pet is this? 🐢",
+      "questionMeaning": {
+        "hi": "यह कौन सा पालतू जानवर है?",
+        "hinglish": "Yeh kaun sa paaltu jaanwar hai?"
+      },
+      "options": [
+        "tortoise",
+        "snake",
+        "lizard"
+      ],
+      "answer": "tortoise"
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.7.S06",
+      "skills": [
+        "book.activity",
+        "vocab.animals"
+      ],
+      "question": "Which of these is NOT a pet animal?",
+      "questionMeaning": {
+        "hi": "इनमें से कौन पालतू जानवर नहीं है?",
+        "hinglish": "Inmein se kaun paaltu jaanwar nahi hai?"
+      },
+      "options": [
+        "tiger",
+        "dog",
+        "cat"
+      ],
+      "answer": "tiger",
+      "emojis": [
+        "🐅",
+        "🐕",
+        "🐈"
+      ]
+    }
+  ]
+}

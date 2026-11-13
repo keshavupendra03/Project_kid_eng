@@ -1,0 +1,154 @@
+{
+  "id": "B8.14.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.14.5.S02",
+    "B8.14.5.S03",
+    "B8.14.5.S05",
+    "B8.14.5.S06",
+    "B8.14.5.S07",
+    "B8.14.5.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.14.5.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "text": {
+        "hi": "किसी की बात आगे बताते समय: I → she, today → that day, this → that, और समय पीछे: is → was, has bought → had bought, would like → would like।",
+        "hinglish": "Kisi ki baat aage bataate samay: I → she, today → that day, this → that, aur samay peechhe: is → was, has bought → had bought, would like → would like.",
+        "en": "When reporting: I → she, today → that day, this → that, and the tense moves back: is → was, has bought → had bought."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.5.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Asha: \"I don't want to play today.\"",
+      "questionMeaning": {
+        "hi": "रिपोर्ट करो",
+        "hinglish": "Report karo"
+      },
+      "options": [
+        "She said that she didn't want to play that day.",
+        "She said that I don't want to play today.",
+        "She said that she doesn't want to play today."
+      ],
+      "answer": "She said that she didn't want to play that day."
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.5.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Asha: \"I am buying this pair of jeans.\"",
+      "questionMeaning": {
+        "hi": "रिपोर्ट करो",
+        "hinglish": "Report karo"
+      },
+      "options": [
+        "She said that she was buying that pair of jeans.",
+        "She said that I am buying this pair of jeans.",
+        "She said that she is buying this pair of jeans."
+      ],
+      "answer": "She said that she was buying that pair of jeans."
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.14.5.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "text": {
+        "hi": "मनुजा ने अपनी दादी के बारे में बताया। अनिल को बताओ। उदाहरण: She told that her grandmother was widely travelled.",
+        "hinglish": "Manuja ne apni daadi ke baare mein bataaya. Anil ko batao. Udaaharan: She told that her grandmother was widely travelled.",
+        "en": "Manuja told you about her grandmother. Tell Anil. Example: She told that her grandmother was widely travelled."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.5.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Manuja: \"She's recently bought a new dress.\"",
+      "questionMeaning": {
+        "hi": "अनिल को बताओ",
+        "hinglish": "Anil ko batao"
+      },
+      "options": [
+        "She told that her grandmother had recently bought a new dress.",
+        "She told that my grandmother has recently bought a new dress.",
+        "She told that her grandmother buys a new dress."
+      ],
+      "answer": "She told that her grandmother had recently bought a new dress."
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.5.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Manuja: \"She's written a number of books.\"",
+      "questionMeaning": {
+        "hi": "अनिल को बताओ",
+        "hinglish": "Anil ko batao"
+      },
+      "options": [
+        "She told that her grandmother had written a number of books.",
+        "She told that her grandmother has wrote a number of books.",
+        "She told that my grandmother had written a number of books."
+      ],
+      "answer": "She told that her grandmother had written a number of books."
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.5.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Manuja: \"She's very interesting company.\"",
+      "questionMeaning": {
+        "hi": "अनिल को बताओ",
+        "hinglish": "Anil ko batao"
+      },
+      "options": [
+        "She told that her grandmother was very interesting company.",
+        "She told that her grandmother is very interesting company.",
+        "She told that my grandmother was very interesting company."
+      ],
+      "answer": "She told that her grandmother was very interesting company."
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.5.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Manuja: \"She's recently broken her left foot.\"",
+      "questionMeaning": {
+        "hi": "अनिल को बताओ",
+        "hinglish": "Anil ko batao"
+      },
+      "options": [
+        "She told that her grandmother had recently broken her left foot.",
+        "She told that her grandmother has recently broke her left foot.",
+        "She told that my grandmother had broken my left foot."
+      ],
+      "answer": "She told that her grandmother had recently broken her left foot."
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "B6.01.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.01.5.S02",
+    "B6.01.5.S03",
+    "B6.01.5.S04"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.01.5.S01",
+      "skills": [
+        "book.talk",
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "किताब कहती है: ग्रुप में बात करो कि पेड़ हमारे किस काम आते हैं। संकेत: बारिश, ऑक्सीजन, लकड़ी की मेज़, पेंसिल, कागज़, दवाइयाँ।",
+        "hinglish": "Kitaab kehti hai: group mein baat karo ki ped hamare kis kaam aate hain. Sanket: baarish, oxygen, lakdi ki mez, pencil, kaagaz, davaaiyaan.",
+        "en": "The book says: discuss in groups the uses of trees. Hints: rainfall, oxygen, wooden tables, pencils, paper, medicines."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.01.5.S02",
+      "skills": [
+        "book.talk",
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "पेड़ से मिलने वाली चीज़ को उसके काम से जोड़ो",
+        "hinglish": "Ped se milne waali cheez ko uske kaam se jodo",
+        "en": "Join what trees give with how it helps us"
+      },
+      "pairs": [
+        {
+          "left": "oxygen",
+          "right": "we breathe it to live",
+          "meaning": {
+            "hi": "ऑक्सीजन, जिससे हम साँस लेते हैं",
+            "hinglish": "oxygen, jisse hum saans lete hain"
+          }
+        },
+        {
+          "left": "wood",
+          "right": "we make tables and chairs",
+          "meaning": {
+            "hi": "लकड़ी से मेज़-कुर्सी",
+            "hinglish": "lakdi se mez-kursi"
+          }
+        },
+        {
+          "left": "paper",
+          "right": "we write and read on it",
+          "meaning": {
+            "hi": "कागज़ पर लिखना-पढ़ना",
+            "hinglish": "kaagaz par likhna-padhna"
+          }
+        },
+        {
+          "left": "medicines",
+          "right": "they make us well",
+          "meaning": {
+            "hi": "दवाइयाँ हमें ठीक करती हैं",
+            "hinglish": "davaaiyaan humein theek karti hain"
+          }
+        },
+        {
+          "left": "fruits",
+          "right": "we eat them",
+          "meaning": {
+            "hi": "फल हम खाते हैं",
+            "hinglish": "phal hum khaate hain"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.5.S03",
+      "skills": [
+        "book.talk",
+        "vocab.nature"
+      ],
+      "question": "Trees take in carbon dioxide and give out ...",
+      "questionMeaning": {
+        "hi": "पेड़ कार्बन डाइऑक्साइड लेते हैं और ... छोड़ते हैं।",
+        "hinglish": "Ped carbon dioxide lete hain aur ... chhodte hain."
+      },
+      "options": [
+        "oxygen",
+        "smoke",
+        "dust"
+      ],
+      "answer": "oxygen",
+      "modelAnswer": "Trees take in carbon dioxide and give out oxygen.",
+      "modelMeaning": {
+        "hi": "पेड़ कार्बन डाइऑक्साइड लेते हैं और ऑक्सीजन छोड़ते हैं।",
+        "hinglish": "Ped carbon dioxide lete hain aur oxygen chhodte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.5.S04",
+      "skills": [
+        "book.talk",
+        "vocab.nature"
+      ],
+      "question": "How do trees help in rainfall?",
+      "questionMeaning": {
+        "hi": "पेड़ बारिश में कैसे मदद करते हैं?",
+        "hinglish": "Ped baarish mein kaise madad karte hain?"
+      },
+      "options": [
+        "More trees bring more rain.",
+        "Trees stop the rain.",
+        "Trees have nothing to do with rain."
+      ],
+      "answer": "More trees bring more rain.",
+      "modelAnswer": "Trees help to bring rain. Places with many trees get more rainfall.",
+      "modelMeaning": {
+        "hi": "पेड़ बारिश लाने में मदद करते हैं। जहाँ ज़्यादा पेड़ हों, वहाँ ज़्यादा बारिश होती है।",
+        "hinglish": "Ped baarish laane mein madad karte hain. Jahan zyaada ped hon, wahan zyaada baarish hoti hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "B6.01.5.S05",
+      "skills": [
+        "speak.sentence",
+        "book.talk"
+      ],
+      "sentence": "Trees give us fresh air, fruits and shade.",
+      "meaning": {
+        "hi": "पेड़ हमें ताज़ी हवा, फल और छाँव देते हैं।",
+        "hinglish": "Ped humein taazi hawa, phal aur chhaanv dete hain.",
+        "en": "Trees give us fresh air, fruits and shade."
+      }
+    }
+  ]
+}

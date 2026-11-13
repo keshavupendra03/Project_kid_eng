@@ -1,0 +1,171 @@
+{
+  "id": "B8.05.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.05.2.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.05.2.S01",
+      "skills": [
+        "book.words"
+      ],
+      "text": {
+        "hi": "किताब की सूची: हर परिवार के शब्द एक जैसी आवाज़ पर ख़त्म होते हैं: hole, role, sole।",
+        "hinglish": "Kitaab ki soochi: har parivaar ke shabd ek jaisi awaaz par khatm hote hain: hole, role, sole.",
+        "en": "The book's list: each family of words ends with the same sound: hole, role, sole."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.05.2.S02",
+      "skills": [
+        "book.words"
+      ],
+      "instruction": {
+        "hi": "एक जैसी आवाज़ वाले शब्द साथ रखो",
+        "hinglish": "Ek jaisi awaaz waale shabd saath rakho",
+        "en": "Put the rhyming words together"
+      },
+      "groups": [
+        {
+          "id": "ole",
+          "name": "-ole",
+          "emoji": "🕳️",
+          "meaning": {
+            "hi": "hole जैसे",
+            "hinglish": "hole jaise"
+          }
+        },
+        {
+          "id": "easure",
+          "name": "-easure",
+          "emoji": "💎",
+          "meaning": {
+            "hi": "treasure जैसे",
+            "hinglish": "treasure jaise"
+          }
+        },
+        {
+          "id": "old",
+          "name": "-old",
+          "emoji": "🪙",
+          "meaning": {
+            "hi": "gold जैसे",
+            "hinglish": "gold jaise"
+          }
+        },
+        {
+          "id": "atter",
+          "name": "-atter",
+          "emoji": "🔔",
+          "meaning": {
+            "hi": "clatter जैसे",
+            "hinglish": "clatter jaise"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "hole",
+          "emoji": "🕳️",
+          "groups": [
+            "ole"
+          ]
+        },
+        {
+          "text": "role",
+          "emoji": "🎭",
+          "groups": [
+            "ole"
+          ]
+        },
+        {
+          "text": "sole",
+          "emoji": "👟",
+          "groups": [
+            "ole"
+          ]
+        },
+        {
+          "text": "treasure",
+          "emoji": "💎",
+          "groups": [
+            "easure"
+          ]
+        },
+        {
+          "text": "pleasure",
+          "emoji": "😊",
+          "groups": [
+            "easure"
+          ]
+        },
+        {
+          "text": "measure",
+          "emoji": "📏",
+          "groups": [
+            "easure"
+          ]
+        },
+        {
+          "text": "gold",
+          "emoji": "🪙",
+          "groups": [
+            "old"
+          ]
+        },
+        {
+          "text": "bold",
+          "emoji": "💪",
+          "groups": [
+            "old"
+          ]
+        },
+        {
+          "text": "hold",
+          "emoji": "✋",
+          "groups": [
+            "old"
+          ]
+        },
+        {
+          "text": "clatter",
+          "emoji": "🔔",
+          "groups": [
+            "atter"
+          ]
+        },
+        {
+          "text": "matter",
+          "emoji": "❓",
+          "groups": [
+            "atter"
+          ]
+        },
+        {
+          "text": "batter",
+          "emoji": "🏏",
+          "groups": [
+            "atter"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B8.05.2.S03",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "treasure",
+        "emoji": "",
+        "hindi": "ख़ज़ाना",
+        "hinglish": "khazaana"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "B7.13.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.13.8.S01",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "question": "Each ticket costs Rs 3. How much for five friends?",
+      "questionMeaning": {
+        "hi": "एक टिकट 3 रुपये का है। पाँच दोस्तों के लिए कितने?",
+        "hinglish": "Ek ticket 3 rupaye ka hai. Paanch doston ke liye kitne?"
+      },
+      "options": [
+        "Rs 15",
+        "Rs 8",
+        "Rs 10"
+      ],
+      "answer": "Rs 15",
+      "modelAnswer": "Five tickets at Rs 3 each cost Rs 15.",
+      "modelMeaning": {
+        "hi": "3 रुपये के पाँच टिकट = 15 रुपये।",
+        "hinglish": "3 rupaye ke paanch ticket = 15 rupaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.8.S02",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "question": "They had Rs 5 and Krishan had saved Rs 10. Was it enough?",
+      "questionMeaning": {
+        "hi": "उनके पास 5 रुपये थे और कृष्ण ने 10 बचाए थे। क्या काफ़ी था?",
+        "hinglish": "Unke paas 5 rupaye the aur Krishan ne 10 bachaaye the. Kya kaafi tha?"
+      },
+      "options": [
+        "Yes, exactly Rs 15.",
+        "No, they needed Rs 20.",
+        "No, they needed Rs 30."
+      ],
+      "answer": "Yes, exactly Rs 15."
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.13.8.S03",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "instruction": {
+        "hi": "पैसे से जुड़े शब्द जोड़ो",
+        "hinglish": "Paise se jude shabd jodo",
+        "en": "Join the money words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "save",
+          "right": "keep money to use later",
+          "meaning": {
+            "hi": "बचाना",
+            "hinglish": "bachaana"
+          }
+        },
+        {
+          "left": "spend",
+          "right": "use money to buy things",
+          "meaning": {
+            "hi": "ख़र्च करना",
+            "hinglish": "kharch karna"
+          }
+        },
+        {
+          "left": "piggy bank",
+          "right": "a small box to keep coins",
+          "meaning": {
+            "hi": "गुल्लक",
+            "hinglish": "gullak"
+          }
+        },
+        {
+          "left": "change",
+          "right": "money you get back after paying",
+          "meaning": {
+            "hi": "छुट्टे / बाकी पैसे",
+            "hinglish": "chhutte / baaki paise"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.13.8.S04",
+      "skills": [
+        "vocab.numbers"
+      ],
+      "question": "What is the lesson of the story?",
+      "questionMeaning": {
+        "hi": "कहानी की सीख क्या है?",
+        "hinglish": "Kahani ki seekh kya hai?"
+      },
+      "options": [
+        "Plan ahead and save some money for later.",
+        "Spend all your money at once.",
+        "Never go to a fair."
+      ],
+      "answer": "Plan ahead and save some money for later."
+    }
+  ]
+}

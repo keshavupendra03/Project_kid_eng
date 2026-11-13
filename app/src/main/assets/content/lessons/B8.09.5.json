@@ -1,0 +1,221 @@
+{
+  "id": "B8.09.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.09.5.S02",
+    "B8.09.5.S03",
+    "B8.09.5.S04",
+    "B8.09.5.S05",
+    "B8.09.5.S06",
+    "B8.09.5.S07",
+    "B8.09.5.S08",
+    "B8.09.5.S09",
+    "B8.09.5.S10",
+    "B8.09.5.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.09.5.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "text": {
+        "hi": "कुछ शब्दों के साथ हमेशा ख़ास preposition आता है: agree to (प्रस्ताव), popular with, congratulate on, interest in, beware of, taller than, senior to, prefer to।",
+        "hinglish": "Kuchh shabdon ke saath hamesha khaas preposition aata hai: agree to (prastaav), popular with, congratulate on, interest in, beware of, taller than, senior to, prefer to.",
+        "en": "Some words always take a fixed preposition: agree to (a proposal), popular with, congratulate on, interest in, beware of, taller than, senior to, prefer to."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.5.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Do not agree ___ his proposal.",
+      "answer": "to",
+      "options": [
+        "to",
+        "with",
+        "about"
+      ],
+      "meaning": {
+        "hi": "उसके प्रस्ताव से सहमत मत होना।",
+        "hinglish": "Uske prastaav se sahmat mat hona."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.5.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Rohan is popular ___ his classmates.",
+      "answer": "with",
+      "options": [
+        "with",
+        "among",
+        "to"
+      ],
+      "meaning": {
+        "hi": "रोहन अपने सहपाठियों में लोकप्रिय है।",
+        "hinglish": "Rohan apne sahpaathiyon mein lokpriya hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.5.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "They congratulated the team ___ its success.",
+      "answer": "on",
+      "options": [
+        "on",
+        "about",
+        "from"
+      ],
+      "meaning": {
+        "hi": "उन्होंने टीम को जीत की बधाई दी।",
+        "hinglish": "Unhone team ko jeet ki badhaai di."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.5.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Hari takes interest ___ his studies.",
+      "answer": "in",
+      "options": [
+        "in",
+        "about",
+        "over"
+      ],
+      "meaning": {
+        "hi": "हरि पढ़ाई में रुचि लेता है।",
+        "hinglish": "Hari padhaai mein ruchi leta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.5.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Beware ___ the dog.",
+      "answer": "of",
+      "options": [
+        "of",
+        "from",
+        "about"
+      ],
+      "meaning": {
+        "hi": "कुत्ते से सावधान।",
+        "hinglish": "Kutte se saavdhaan."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.5.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Mr. Das was late for his work ___ an hour.",
+      "answer": "by",
+      "options": [
+        "by",
+        "in",
+        "of"
+      ],
+      "meaning": {
+        "hi": "दास जी काम पर एक घंटा देर से पहुँचे।",
+        "hinglish": "Das ji kaam par ek ghanta der se pahunche."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.5.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Jeetu is taller ___ Aslam.",
+      "answer": "than",
+      "options": [
+        "than",
+        "to",
+        "by"
+      ],
+      "meaning": {
+        "hi": "जीतू असलम से लंबा है।",
+        "hinglish": "Jeetu Aslam se lamba hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.5.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "He is senior ___ me in service.",
+      "answer": "to",
+      "options": [
+        "to",
+        "than",
+        "by"
+      ],
+      "meaning": {
+        "hi": "वह नौकरी में मुझसे सीनियर है।",
+        "hinglish": "Woh naukri mein mujhse senior hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.5.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Good health is necessary ___ success in life.",
+      "answer": "for",
+      "options": [
+        "for",
+        "with",
+        "of"
+      ],
+      "meaning": {
+        "hi": "जीवन में सफलता के लिए अच्छी सेहत ज़रूरी है।",
+        "hinglish": "Jeevan mein safalta ke liye achhi sehat zaroori hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.5.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "I prefer milk ___ tea.",
+      "answer": "to",
+      "options": [
+        "to",
+        "than",
+        "from"
+      ],
+      "meaning": {
+        "hi": "मुझे चाय से ज़्यादा दूध पसंद है।",
+        "hinglish": "Mujhe chaay se zyaada doodh pasand hai."
+      }
+    }
+  ]
+}

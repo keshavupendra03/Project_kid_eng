@@ -1,0 +1,181 @@
+{
+  "id": "B7.01.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.01.5.S01",
+    "B7.01.5.S02",
+    "B7.01.5.S04"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.01.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "question": "In which season is a rainbow often seen in the sky?",
+      "questionMeaning": {
+        "hi": "आसमान में इंद्रधनुष अक्सर किस मौसम में दिखता है?",
+        "hinglish": "Aasmaan mein indradhanush aksar kis mausam mein dikhta hai?"
+      },
+      "options": [
+        "in the rainy season",
+        "in the winter",
+        "in the summer"
+      ],
+      "answer": "in the rainy season",
+      "modelAnswer": "A rainbow is often seen in the rainy season.",
+      "modelMeaning": {
+        "hi": "इंद्रधनुष अक्सर बारिश के मौसम में दिखता है।",
+        "hinglish": "Indradhanush aksar baarish ke mausam mein dikhta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.5.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "question": "How many colours are there in a rainbow?",
+      "questionMeaning": {
+        "hi": "इंद्रधनुष में कितने रंग होते हैं?",
+        "hinglish": "Indradhanush mein kitne rang hote hain?"
+      },
+      "options": [
+        "seven",
+        "five",
+        "ten"
+      ],
+      "answer": "seven",
+      "modelAnswer": "There are seven colours in a rainbow.",
+      "modelMeaning": {
+        "hi": "इंद्रधनुष में सात रंग होते हैं।",
+        "hinglish": "Indradhanush mein saat rang hote hain."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.01.5.S03",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🌈",
+      "turns": [
+        {
+          "id": "seen",
+          "tinku": "Have you ever seen a rainbow?",
+          "meaning": {
+            "hi": "क्या तुमने कभी इंद्रधनुष देखा है?",
+            "hinglish": "Kya tumne kabhi indradhanush dekha hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have seen a rainbow.",
+              "meaning": {
+                "hi": "हाँ, मैंने इंद्रधनुष देखा है।",
+                "hinglish": "Haan, maine indradhanush dekha hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I have not seen a rainbow.",
+              "meaning": {
+                "hi": "नहीं, मैंने इंद्रधनुष नहीं देखा।",
+                "hinglish": "Nahi, maine indradhanush nahi dekha."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "colour",
+          "tinku": "Which colour of the rainbow do you like the most?",
+          "meaning": {
+            "hi": "इंद्रधनुष का कौन सा रंग तुम्हें सबसे ज़्यादा पसंद है?",
+            "hinglish": "Indradhanush ka kaun sa rang tumhe sabse zyaada pasand hai?"
+          },
+          "replies": [
+            {
+              "say": "I like blue the most.",
+              "meaning": {
+                "hi": "मुझे नीला सबसे ज़्यादा पसंद है। (कोई और रंग भी बोल सकते हो)",
+                "hinglish": "Mujhe neela sabse zyaada pasand hai. (Koi aur rang bhi bol sakte ho)"
+              },
+              "patterns": [
+                "i like *",
+                "*",
+                "* *",
+                "* * *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.01.5.S04",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "instruction": {
+        "hi": "किताब के दोनों कॉलम मिलाओ (Match the two columns)",
+        "hinglish": "Kitaab ke dono column milaao (Match the two columns)",
+        "en": "Match the two columns"
+      },
+      "pairs": [
+        {
+          "left": "A rainbow",
+          "right": "in rainy season",
+          "meaning": {
+            "hi": "इंद्रधनुष बारिश के मौसम में",
+            "hinglish": "Indradhanush baarish ke mausam mein"
+          }
+        },
+        {
+          "left": "A rocket",
+          "right": "in space",
+          "meaning": {
+            "hi": "रॉकेट अंतरिक्ष में",
+            "hinglish": "Rocket antariksh mein"
+          }
+        },
+        {
+          "left": "An aeroplane",
+          "right": "flies in the sky",
+          "meaning": {
+            "hi": "हवाई जहाज़ आसमान में उड़ता है",
+            "hinglish": "Hawaai jahaaz aasmaan mein udta hai"
+          }
+        },
+        {
+          "left": "A bridge",
+          "right": "over the river",
+          "meaning": {
+            "hi": "पुल नदी के ऊपर",
+            "hinglish": "Pul nadi ke upar"
+          }
+        },
+        {
+          "left": "A road",
+          "right": "from one place to another place",
+          "meaning": {
+            "hi": "सड़क एक जगह से दूसरी जगह तक",
+            "hinglish": "Sadak ek jagah se doosri jagah tak"
+          }
+        }
+      ]
+    }
+  ]
+}

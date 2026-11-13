@@ -1,0 +1,96 @@
+{
+  "id": "B6.01.7",
+  "level": 6,
+  "bookSteps": [
+    "B6.01.7.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.01.7.S01",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "किताब कहती है: अलग-अलग पेड़ों की पत्तियाँ इकट्ठा करके कॉपी में चिपकाओ। हर पत्ती के नीचे पेड़ का इंग्लिश नाम लिखो।",
+        "hinglish": "Kitaab kehti hai: alag-alag pedon ki pattiyaan ikattha karke copy mein chipkaao. Har patti ke neeche ped ka English naam likho.",
+        "en": "The book says: collect leaves of different trees and paste them in your notebook. Write the tree's English name under each leaf."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.01.7.S02",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "पेड़ों के हिंदी और इंग्लिश नाम जोड़ो",
+        "hinglish": "Pedon ke Hindi aur English naam jodo",
+        "en": "Join the English names of trees with their Hindi names"
+      },
+      "pairs": [
+        {
+          "left": "neem",
+          "right": "नीम",
+          "meaning": {
+            "hi": "नीम",
+            "hinglish": "neem"
+          }
+        },
+        {
+          "left": "peepal",
+          "right": "पीपल",
+          "meaning": {
+            "hi": "पीपल",
+            "hinglish": "peepal"
+          }
+        },
+        {
+          "left": "banyan",
+          "right": "बरगद",
+          "meaning": {
+            "hi": "बरगद",
+            "hinglish": "bargad"
+          }
+        },
+        {
+          "left": "mango",
+          "right": "आम",
+          "meaning": {
+            "hi": "आम",
+            "hinglish": "aam"
+          }
+        },
+        {
+          "left": "tamarind",
+          "right": "इमली",
+          "meaning": {
+            "hi": "इमली",
+            "hinglish": "imli"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.01.7.S03",
+      "skills": [
+        "book.activity",
+        "vocab.nature"
+      ],
+      "question": "Which tree's leaves are used as medicine and to keep insects away?",
+      "questionMeaning": {
+        "hi": "किस पेड़ की पत्तियाँ दवा और कीड़े भगाने के काम आती हैं?",
+        "hinglish": "Kis ped ki pattiyaan dava aur keede bhagaane ke kaam aati hain?"
+      },
+      "options": [
+        "neem",
+        "mango",
+        "banana"
+      ],
+      "answer": "neem"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "id": "B6.04.8",
+  "level": 6,
+  "bookSteps": [
+    "B6.04.8.S02",
+    "B6.04.8.S03",
+    "B6.04.8.S04",
+    "B6.04.8.S05",
+    "B6.04.8.S06",
+    "B6.04.8.S07",
+    "B6.04.8.S08",
+    "B6.04.8.S09",
+    "B6.04.8.S10",
+    "B6.04.8.S11",
+    "B6.04.8.S12",
+    "B6.04.8.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.04.8.S01",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "text": {
+        "hi": "किताब के पेज 22-24 पर तिमाही परीक्षा (Quarterly Evaluation) का नमूना पेपर है। ये सवाल परीक्षा जैसे हैं!",
+        "hinglish": "Kitaab ke page 22-24 par timaahi pariksha (Quarterly Evaluation) ka namoona paper hai. Yeh sawaal pariksha jaise hain!",
+        "en": "Pages 22–24 of your book have a sample Quarterly Evaluation paper. These questions are just like the exam!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.8.S02",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? The spider did not succeed in climbing.",
+      "questionMeaning": {
+        "hi": "मकड़ी चढ़ने में सफल नहीं हुई।",
+        "hinglish": "Makdi chadhne mein safal nahi hui."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. At last the spider succeeded in climbing the wall.",
+      "modelMeaning": {
+        "hi": "गलत। आख़िर में मकड़ी दीवार पर चढ़ गई।",
+        "hinglish": "Galat. Aakhir mein makdi deewaar par chadh gayi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.8.S03",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? It is a pleasant thing to sway in a swing.",
+      "questionMeaning": {
+        "hi": "झूले पर झूलना सुहानी चीज़ है।",
+        "hinglish": "Jhoole par jhoolna suhaani cheez hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.8.S04",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? It was a fifty-year-old mango tree.",
+      "questionMeaning": {
+        "hi": "वह पचास साल पुराना आम का पेड़ था।",
+        "hinglish": "Woh pachaas saal puraana aam ka ped tha."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. It was a fifty-year-old banyan tree.",
+      "modelMeaning": {
+        "hi": "गलत। वह पचास साल पुराना बरगद का पेड़ था।",
+        "hinglish": "Galat. Woh pachaas saal puraana bargad ka ped tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.8.S05",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? Gandhiji left Porbandar at the age of eight.",
+      "questionMeaning": {
+        "hi": "गांधीजी आठ साल की उम्र में पोरबंदर छोड़कर गए।",
+        "hinglish": "Gandhiji aath saal ki umar mein Porbandar chhodkar gaye."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. He was about seven when his father left Porbandar for Rajkot.",
+      "modelMeaning": {
+        "hi": "गलत। वे लगभग सात साल के थे जब उनके पिता पोरबंदर से राजकोट गए।",
+        "hinglish": "Galat. Woh lagbhag saat saal ke the jab unke pita Porbandar se Rajkot gaye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.8.S06",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? Gandhiji misspelt the word kettle.",
+      "questionMeaning": {
+        "hi": "गांधीजी ने kettle की गलत स्पेलिंग लिखी।",
+        "hinglish": "Gandhiji ne kettle ki galat spelling likhi."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.8.S07",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "Opposite: pass → f____",
+      "questionMeaning": {
+        "hi": "उल्टा शब्द",
+        "hinglish": "Ulta shabd"
+      },
+      "options": [
+        "fail",
+        "fall",
+        "fine"
+      ],
+      "answer": "fail"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.8.S08",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "Opposite: sad → h____",
+      "questionMeaning": {
+        "hi": "उल्टा शब्द",
+        "hinglish": "Ulta shabd"
+      },
+      "options": [
+        "happy",
+        "high",
+        "hard"
+      ],
+      "answer": "happy"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.8.S09",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "Rhyming word: wide → ?",
+      "questionMeaning": {
+        "hi": "तुकबंदी वाला शब्द",
+        "hinglish": "Tukbandi waala shabd"
+      },
+      "options": [
+        "side",
+        "wind",
+        "white"
+      ],
+      "answer": "side"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.8.S10",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "Rhyming word: blue → ?",
+      "questionMeaning": {
+        "hi": "तुकबंदी वाला शब्द",
+        "hinglish": "Tukbandi waala shabd"
+      },
+      "options": [
+        "glue",
+        "blow",
+        "black"
+      ],
+      "answer": "glue"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.8.S11",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "Make a new word: hand + ...",
+      "questionMeaning": {
+        "hi": "नया शब्द बनाओ",
+        "hinglish": "Naya shabd banao"
+      },
+      "options": [
+        "handbag",
+        "handrain",
+        "handbath"
+      ],
+      "answer": "handbag"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.8.S12",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "sentence": "a ___ of stars",
+      "answer": "cluster",
+      "options": [
+        "cluster",
+        "herd",
+        "fleet"
+      ],
+      "meaning": {
+        "hi": "तारों का गुच्छा",
+        "hinglish": "Taaron ka guchchha"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.8.S13",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "sentence": "Do you like trees? Yes, ___.",
+      "answer": "I do",
+      "options": [
+        "I do",
+        "I don't"
+      ],
+      "meaning": {
+        "hi": "क्या तुम्हें पेड़ पसंद हैं? हाँ।",
+        "hinglish": "Kya tumhe ped pasand hain? Haan."
+      }
+    }
+  ]
+}

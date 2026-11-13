@@ -1,0 +1,122 @@
+{
+  "id": "B8.07.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.07.6.S01",
+    "B8.07.6.S02",
+    "B8.07.6.S03",
+    "B8.07.6.S04",
+    "B8.07.6.S05",
+    "B8.07.6.S06"
+  ],
+  "steps": [
+    {
+      "type": "build_sentence",
+      "id": "B8.07.6.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "कीटनाशक छिड़कना ज़रूरी है।",
+        "hinglish": "Keetnaashak chhidakna zaroori hai.",
+        "en": "Arrange: important / spray / it / pesticides / is / to"
+      },
+      "answer": "It is important to spray pesticides.",
+      "meaning": {
+        "hi": "कीटनाशक छिड़कना ज़रूरी है।",
+        "hinglish": "Keetnaashak chhidakna zaroori hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.07.6.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "पानी साफ़ करने के लिए क्लोरीन की गोलियाँ इस्तेमाल करो।",
+        "hinglish": "Paani saaf karne ke liye chlorine ki goliyaan istemaal karo.",
+        "en": "Arrange: purify / to / water / use / chlorine / tablets"
+      },
+      "answer": "Use chlorine tablets to purify water.",
+      "meaning": {
+        "hi": "पानी साफ़ करने के लिए क्लोरीन की गोलियाँ इस्तेमाल करो।",
+        "hinglish": "Paani saaf karne ke liye chlorine ki goliyaan istemaal karo."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.07.6.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "इलाज से बचाव बेहतर है।",
+        "hinglish": "Ilaaj se bachaav behtar hai.",
+        "en": "Arrange: cure / prevention / is / than / better"
+      },
+      "answer": "Prevention is better than cure.",
+      "meaning": {
+        "hi": "इलाज से बचाव बेहतर है।",
+        "hinglish": "Ilaaj se bachaav behtar hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.07.6.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "मूसलाधार बारिश हो रही है।",
+        "hinglish": "Moosladhaar baarish ho rahi hai.",
+        "en": "Arrange: dogs / raining / cats / is / it / and"
+      },
+      "answer": "It is raining cats and dogs.",
+      "meaning": {
+        "hi": "मूसलाधार बारिश हो रही है।",
+        "hinglish": "Moosladhaar baarish ho rahi hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.07.6.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "बाँध हमारे लिए उपयोगी हैं।",
+        "hinglish": "Baandh hamaare liye upyogi hain.",
+        "en": "Arrange: useful / are / dams / us / for"
+      },
+      "answer": "Dams are useful for us.",
+      "meaning": {
+        "hi": "बाँध हमारे लिए उपयोगी हैं।",
+        "hinglish": "Baandh hamaare liye upyogi hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.07.6.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.word_order"
+      ],
+      "prompt": {
+        "hi": "हमें ज़्यादा पेड़ लगाने चाहिए।",
+        "hinglish": "Humein zyaada ped lagaane chahiye.",
+        "en": "Arrange: should / plant / trees / we / more"
+      },
+      "answer": "We should plant more trees.",
+      "meaning": {
+        "hi": "हमें ज़्यादा पेड़ लगाने चाहिए।",
+        "hinglish": "Humein zyaada ped lagaane chahiye."
+      }
+    }
+  ]
+}

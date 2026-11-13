@@ -1,0 +1,171 @@
+{
+  "grade": 7, "number": 13, "emoji": "🎠", "title": "One-Way Ticket-II", "pages": "93–100",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["पाँचों दोस्त धौलपुर के मेले में पहुँच गए हैं! अब वे झूले झूलेंगे, खाना खाएँगे, और फिर एक मुश्किल आएगी। पहले किताब के सवाल।", "Paanchon dost Dholpur ke mele mein pahunch gaye hain! Ab woh jhoole jhoolenge, khaana khaayenge, aur phir ek mushkil aayegi. Pehle kitaab ke sawaal.", "The five friends have reached the Dholpur fair! They will enjoy the rides and food, and then face a problem. First, the book's questions."]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "🎡", "turns": [
+          {"id": "swings", "tinku": "Do you like swings?", "meaning": ["क्या तुम्हें झूले पसंद हैं?", "Kya tumhe jhoole pasand hain?"],
+            "replies": [
+              {"say": "Yes, I like swings very much.", "meaning": ["हाँ, मुझे झूले बहुत पसंद हैं।", "Haan, mujhe jhoole bahut pasand hain."], "patterns": ["yes *", "yes"]},
+              {"say": "No, swings make me dizzy.", "meaning": ["नहीं, झूलों से मुझे चक्कर आते हैं।", "Nahi, jhoolon se mujhe chakkar aate hain."], "patterns": ["no *", "no"]}
+            ]},
+          {"id": "ride", "tinku": "Which ride have you enjoyed the most?", "meaning": ["तुम्हें कौन सा झूला सबसे ज़्यादा अच्छा लगा?", "Tumhe kaun sa jhoola sabse zyaada achha laga?"],
+            "replies": [{"say": "I enjoyed the giant wheel the most.", "meaning": ["मुझे बड़ा झूला सबसे ज़्यादा अच्छा लगा।", "Mujhe bada jhoola sabse zyaada achha laga."], "patterns": ["i enjoyed *", "i like *", "*", "* *", "* * *"], "next": "end"}]}
+        ]},
+        {"word": ["filling", "पेट भरने वाला", "pet bharne waala", "food that makes your stomach full", "Dal and rice is a filling meal.", "दाल-चावल पेट भरने वाला खाना है।", "Daal-chaawal pet bharne waala khaana hai."]},
+        {"word": ["dizzy", "चक्कर आना", "chakkar aana", "feeling that things are spinning round you", "The fast swing made me dizzy.", "तेज़ झूले से मुझे चक्कर आ गए।", "Tez jhoole se mujhe chakkar aa gaye."]},
+        {"word": ["wooden", "लकड़ी का", "lakdi ka", "made of wood", "We have a wooden table.", "हमारे पास लकड़ी की मेज़ है।", "Hamare paas lakdi ki mez hai."]},
+        {"word": ["pool", "(पैसे) मिलाना", "(paise) milaana", "to put money together with others", "We pooled our money to buy a cake.", "हमने केक ख़रीदने के लिए पैसे मिलाए।", "Humne cake khareedne ke liye paise milaaye."]},
+        {"word": ["available", "उपलब्ध, मिलने वाला", "uplabdh, milne waala", "that you can get or use", "Tickets are available at the counter.", "टिकट काउंटर पर मिलते हैं।", "Ticket counter par milte hain."]},
+        {"word": ["journey", "यात्रा, सफ़र", "yaatra, safar", "travelling from one place to another", "The journey to Delhi takes ten hours.", "दिल्ली का सफ़र दस घंटे का है।", "Delhi ka safar das ghante ka hai."]},
+        {"sayw": ["available", "उपलब्ध", "uplabdh"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 93 से 95 तक ‘One-Way Ticket-II’ पढ़ो। फिर जवाब दो।", "Apni kitaab mein page 93 se 95 tak ‘One-Way Ticket-II’ padho. Phir jawab do.", "Read ‘One-Way Ticket-II’ on pages 93 to 95 of your book. Then answer."]},
+        {"book": true, "q": ["What did the children like most when they reached the fair?", "मेले पहुँचकर बच्चों को सबसे ज़्यादा क्या अच्छा लगा?", "Mele pahunchkar bachchon ko sabse zyaada kya achha laga?", ["the beautiful lights", "the jalebies", "the bus"], "the beautiful lights", "When they reached the fair, the children liked the beautiful lights the most.", "मेले पहुँचकर बच्चों को सुंदर रोशनी सबसे अच्छी लगी।", "Mele pahunchkar bachchon ko sundar roshni sabse achhi lagi."]},
+        {"book": true, "q": ["Why did the children decide to stay together?", "बच्चों ने साथ रहने का फ़ैसला क्यों किया?", "Bachchon ne saath rehne ka faisla kyon kiya?", ["so that nobody got lost in the crowd", "because it was cold", "because they had one ticket"], "so that nobody got lost in the crowd", "They decided to stay together so that nobody got lost in the crowd. It is difficult to trace anyone who gets lost.", "उन्होंने साथ रहने का फ़ैसला किया ताकि कोई भीड़ में खो न जाए। खोए हुए को ढूँढना मुश्किल होता है।", "Unhone saath rehne ka faisla kiya taaki koi bheed mein kho na jaaye. Khoye hue ko dhoondhna mushkil hota hai."]},
+        {"book": true, "q": ["Why do you think jalebies and bhajias are filling?", "जलेबी और भजिया पेट भरने वाले क्यों हैं?", "Jalebi aur bhajia pet bharne waale kyon hain?", ["They are fried and heavy, so they fill the stomach.", "They are very light.", "They are made of water."], "They are fried and heavy, so they fill the stomach.", "Jalebies and bhajias are filling because they are fried and heavy food, so they fill the stomach quickly.", "जलेबी और भजिया तले हुए भारी खाने हैं, इसलिए पेट जल्दी भर जाता है।", "Jalebi aur bhajia tale hue bhaari khaane hain, isliye pet jaldi bhar jaata hai."]},
+        {"book": true, "q": ["Why do you like a caterpillar-train ride?", "तुम्हें इल्ली (caterpillar) जैसी ट्रेन की सवारी क्यों अच्छी लगती है?", "Tumhe illi (caterpillar) jaisi train ki sawaari kyon achhi lagti hai?", ["It is a joy ride that takes us round the fair.", "It is very slow and boring.", "It goes to Delhi."], "It is a joy ride that takes us round the fair.", "I like the caterpillar-train ride because it is a joy ride and it takes us round the whole fair.", "मुझे यह सवारी अच्छी लगती है क्योंकि यह मज़ेदार है और पूरे मेले का चक्कर लगवाती है।", "Mujhe yeh sawaari achhi lagti hai kyonki yeh mazedaar hai aur poore mele ka chakkar lagwaati hai."]},
+        {"book": true, "q": ["What kind of seats does a merry-go-round have?", "घोड़ों वाले झूले (merry-go-round) में कैसी सीटें होती हैं?", "Ghodon waale jhoole (merry-go-round) mein kaisi seatein hoti hain?", ["decorated wooden horses", "bus seats", "beds"], "decorated wooden horses", "A merry-go-round has decorated wooden horses as seats.", "उसमें सजे हुए लकड़ी के घोड़े सीट होते हैं।", "Usmein saje hue lakdi ke ghode seat hote hain."]},
+        {"book": true, "q": ["Why did Lambu want to go on a merry-go-round?", "लंबू घोड़ों वाले झूले पर क्यों जाना चाहता था?", "Lambu ghodon waale jhoole par kyon jaana chahta tha?", ["because he could ride a horse there", "because it was free", "because it was slow"], "because he could ride a horse there", "Lambu wanted to go on the merry-go-round because he could ride a horse there.", "लंबू उस झूले पर जाना चाहता था क्योंकि वहाँ घोड़े की सवारी कर सकते थे।", "Lambu us jhoole par jaana chahta tha kyonki wahan ghode ki sawaari kar sakte the."]},
+        {"book": true, "q": ["Why is the story called ‘One-Way Ticket’?", "कहानी का नाम ‘One-Way Ticket’ क्यों है?", "Kahani ka naam ‘One-Way Ticket’ kyon hai?", ["They had money only for one way; Krishan's savings paid for the return.", "The bus went only one way.", "They never came back."], "They had money only for one way; Krishan's savings paid for the return.", "The story is called ‘One-Way Ticket’ because the children had money only for one way. Krishan's saved money paid for their tickets back home.", "कहानी का नाम ‘वन-वे टिकट’ है क्योंकि बच्चों के पास सिर्फ़ एक तरफ़ के पैसे थे। कृष्ण के बचाए पैसों से वापसी के टिकट आए।", "Kahani ka naam ‘One-Way Ticket’ hai kyonki bachchon ke paas sirf ek taraf ke paise the. Krishan ke bachaaye paison se waapsi ke ticket aaye."]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["किताब का उदाहरण: The four friends pooled their money to buy bus tickets. अब सही phrase चुनो।", "Kitaab ka udaharan: The four friends pooled their money to buy bus tickets. Ab sahi phrase chuno.", "The book's example: The four friends pooled their money to buy bus tickets. Now pick the right phrase."]},
+        {"book": true, "fb": ["I have put my pen somewhere. I am not able to ___.", "trace it", ["trace it", "opt for", "go round"], "मैंने पेन कहीं रख दिया। मैं उसे ढूँढ नहीं पा रहा/रही।", "Maine pen kahin rakh diya. Main use dhoondh nahi pa raha/rahi."]},
+        {"book": true, "fb": ["What will you ___ after matriculation: Arts, Science or Commerce?", "opt for", ["opt for", "get lost", "find out"], "दसवीं के बाद तुम क्या चुनोगे: आर्ट्स, साइंस या कॉमर्स?", "Dasvi ke baad tum kya chunoge: Arts, Science ya Commerce?"]},
+        {"book": true, "fb": ["The child held his mother's hand tightly so that he may not ___.", "get lost", ["get lost", "get dizzy", "go round"], "बच्चे ने माँ का हाथ कसकर पकड़ा ताकि वह खो न जाए।", "Bachche ne maa ka haath kaskar pakda taaki woh kho na jaaye."]},
+        {"book": true, "fb": ["___ the correct solution of this sum.", "Find out", ["Find out", "Opt for", "Pool money"], "इस सवाल का सही हल निकालो।", "Is sawaal ka sahi hal nikaalo."]},
+        {"book": true, "fb": ["There were several ___ at the fair.", "joy rides", ["joy rides", "get dizzy", "trace it"], "मेले में कई मज़ेदार झूले थे।", "Mele mein kai mazedaar jhoole the."]},
+        {"book": true, "fb": ["If you stand under the hot sun you will ___.", "get dizzy", ["get dizzy", "opt for", "joy rides"], "तेज़ धूप में खड़े रहोगे तो चक्कर आएँगे।", "Tez dhoop mein khade rahoge to chakkar aayenge."]},
+        {"book": true, "fb": ["The principal likes to ___ the school to see all the classes.", "go round", ["go round", "get lost", "pool money"], "प्रिंसिपल सारी क्लासें देखने के लिए स्कूल का चक्कर लगाना पसंद करते हैं।", "Principal saari classein dekhne ke liye school ka chakkar lagaana pasand karte hain."]},
+        {"book": true, "pairs": ["एक जैसी आवाज़ वाले शब्दों को सही मतलब से जोड़ो", "Ek jaisi awaaz waale shabdon ko sahi matlab se jodo", "Match the sound-alike words with their meanings", [
+          ["fare", "money paid for a ticket", "किराया", "kiraaya"],
+          ["fair", "a gathering of shops and rides for fun", "मेला", "mela"],
+          ["here", "opposite of ‘there’", "यहाँ", "yahan"],
+          ["hear", "receiving sounds by ear", "सुनना", "sunna"]]]},
+        {"book": true, "fb": ["The bus ___ to Dholpur was three rupees.", "fare", ["fare", "fair"], "धौलपुर का बस किराया तीन रुपये था।", "Dholpur ka bus kiraaya teen rupaye tha."]},
+        {"book": true, "fb": ["I can't ___ you. Please speak loudly.", "hear", ["hear", "here"], "मैं तुम्हें सुन नहीं पा रहा। कृपया ज़ोर से बोलो।", "Main tumhe sun nahi pa raha. Kripya zor se bolo."]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: वाक्य जोड़ो, too, विराम चिह्न", "Grammar: vaakya jodo, too, viraam chihn", "Grammar in Use: joining, too, punctuation"], "book": true,
+      "skills": ["book.grammar", "grammar.relative"],
+      "steps": [
+        {"card": ["किताब का उदाहरण: Sheila wants to live in a house. Shyam lives there. (where) → Sheila wants to live in the house where Shyam lives.", "Kitaab ka udaharan: Sheila wants to live in a house. Shyam lives there. (where) → Sheila wants to live in the house where Shyam lives.", "The book's example: Sheila wants to live in a house. Shyam lives there. (where) → Sheila wants to live in the house where Shyam lives."]},
+        {"book": true, "build": ["जोड़ो (when): I entered the room. Sheila was sleeping.", "Jodo (when): I entered the room. Sheila was sleeping.", "Join with ‘when’: I entered the room. Sheila was sleeping.", "Sheila was sleeping when I entered the room.", "जब मैं कमरे में गया/गई, तब शीला सो रही थी।", "Jab main kamre mein gaya/gayi, tab Sheela so rahi thi.", ["where"]]},
+        {"book": true, "build": ["जोड़ो (where): Mohan has gone. I do not know.", "Jodo (where): Mohan has gone. I do not know.", "Join with ‘where’: Mohan has gone. I do not know.", "I do not know where Mohan has gone.", "मुझे नहीं पता मोहन कहाँ गया है।", "Mujhe nahi pata Mohan kahan gaya hai.", ["when"]]},
+        {"book": true, "build": ["जोड़ो (when): The doctor came. The patient had died.", "Jodo (when): The doctor came. The patient had died.", "Join with ‘when’: The doctor came. The patient had died.", "The patient had died when the doctor came.", "जब डॉक्टर आए, तब तक मरीज़ मर चुका था।", "Jab doctor aaye, tab tak mareez mar chuka tha.", ["who"]]},
+        {"book": true, "build": ["जोड़ो (where): Mother kept the milk on the shelf. The cat could not reach it.", "Jodo (where): Mother kept the milk on the shelf. The cat could not reach it.", "Join with ‘where’ (milk and the cat).", "Mother kept the milk on the shelf where the cat could not reach it.", "माँ ने दूध उस ताक पर रखा जहाँ बिल्ली नहीं पहुँच सकती थी।", "Maa ne doodh us taak par rakha jahan billi nahi pahunch sakti thi.", ["when"]]},
+        {"book": true, "build": ["जोड़ो (what): You want something. I do not know.", "Jodo (what): You want something. I do not know.", "Join with ‘what’: You want something. I do not know.", "I do not know what you want.", "मुझे नहीं पता तुम क्या चाहते हो।", "Mujhe nahi pata tum kya chahte ho.", ["where"]]},
+        {"book": true, "build": ["जोड़ो (who): The police caught the thief. He had stolen the necklace.", "Jodo (who): The police caught the thief. He had stolen the necklace.", "Join with ‘who’ (the thief and the necklace).", "The police caught the thief who had stolen the necklace.", "पुलिस ने उस चोर को पकड़ा जिसने हार चुराया था।", "Police ne us chor ko pakda jisne haar churaaya tha.", ["which"]]},
+        {"card": ["अब उल्टा: ‘so ... that ... can't’ को ‘too’ से लिखो। The door is so small that I can't enter it. → The door is too small for me to enter.", "Ab ulta: ‘so ... that ... can't’ ko ‘too’ se likho. The door is so small that I can't enter it. → The door is too small for me to enter.", "Now the other way: rewrite ‘so ... that ... can't’ with ‘too’. The door is so small that I can't enter it. → The door is too small for me to enter."]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "build": ["‘too’ से लिखो: This exercise is so difficult that I can't do it.", "‘too’ se likho: This exercise is so difficult that I can't do it.", "Use ‘too’: This exercise is so difficult that I can't do it.", "This exercise is too difficult for me to do.", "यह अभ्यास मेरे लिए इतना मुश्किल है कि मैं नहीं कर सकता/सकती।", "Yeh abhyaas mere liye itna mushkil hai ki main nahi kar sakta/sakti.", ["so"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "build": ["‘too’ से लिखो: It is so hot that I can't walk outside.", "‘too’ se likho: It is so hot that I can't walk outside.", "Use ‘too’: It is so hot that I can't walk outside.", "It is too hot for me to walk outside.", "इतनी गर्मी है कि मैं बाहर नहीं चल सकता/सकती।", "Itni garmi hai ki main baahar nahi chal sakta/sakti.", ["so"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "build": ["‘too’ से लिखो: It is so dark that one can't see.", "‘too’ se likho: It is so dark that one can't see.", "Use ‘too’: It is so dark that one can't see.", "It is too dark to see.", "इतना अँधेरा है कि कुछ दिखता नहीं।", "Itna andhera hai ki kuch dikhta nahi.", ["so"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "build": ["‘too’ से लिखो: She is so young that she can't do such hard work.", "‘too’ se likho: She is so young that she can't do such hard work.", "Use ‘too’: She is so young that she can't do such hard work.", "She is too young to do such hard work.", "वह इतना कठिन काम करने के लिए बहुत छोटी है।", "Woh itna kathin kaam karne ke liye bahut chhoti hai.", ["so"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "build": ["‘too’ से लिखो: The bed is so hard that no one can sleep on it.", "‘too’ se likho: The bed is so hard that no one can sleep on it.", "Use ‘too’: The bed is so hard that no one can sleep on it.", "The bed is too hard to sleep on.", "बिस्तर इतना सख़्त है कि उस पर सोया नहीं जा सकता।", "Bistar itna sakht hai ki us par soya nahi ja sakta.", ["so"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.punctuation"], "q": ["Which part is punctuated correctly?", "कौन सा हिस्सा सही विराम चिह्नों के साथ है?", "Kaun sa hissa sahi viraam chihnon ke saath hai?", ["Bishni said, \"What is this model about?\"", "bishni said what is this model about", "Bishni said. what is this model about!"], "Bishni said, \"What is this model about?\""]},
+        {"book": true, "skills": ["book.grammar", "grammar.punctuation"], "q": ["Where do inverted commas (\" \") go?", "उद्धरण चिह्न (\" \") कहाँ लगते हैं?", "Uddharan chihn (\" \") kahan lagte hain?", ["around the exact words someone says", "after every name", "at the end of a paragraph"], "around the exact words someone says"]},
+        {"card": ["किताब का पूरा सही जवाब: Once Bishni, Kishto, Gittu and Lambu went to see a Bal Mela in the nearby high school. There they saw many science models made by the students. Bishni said, \"What is this model about?\" Kishto explained, \"This tells you how water is pumped up with the help of an electric motor.\" Bishni said, \"I can see water coming out of the tap!\" Lambu said, \"Such models are called working models.\"", "Kitaab ka poora sahi jawab: Once Bishni, Kishto, Gittu and Lambu went to see a Bal Mela in the nearby high school. There they saw many science models made by the students. Bishni said, \"What is this model about?\" Kishto explained, \"This tells you how water is pumped up with the help of an electric motor.\" Bishni said, \"I can see water coming out of the tap!\" Lambu said, \"Such models are called working models.\"", "The full answer: Once Bishni, Kishto, Gittu and Lambu went to see a Bal Mela in the nearby high school. There they saw many science models made by the students. Bishni said, \"What is this model about?\" Kishto explained, \"This tells you how water is pumped up with the help of an electric motor.\" Bishni said, \"I can see water coming out of the tap!\" Lambu said, \"Such models are called working models.\""]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: मेले की पसंद", "Chalo baat karein: mele ki pasand", "Let's Talk: favourites at the fair"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"book": true, "type": "roleplay", "scene": "🍥", "turns": [
+          {"id": "name", "tinku": "What's your name?", "meaning": ["तुम्हारा नाम क्या है?", "Tumhara naam kya hai?"],
+            "replies": [{"say": "My name is {child}.", "meaning": ["मेरा नाम ... है।", "Mera naam ... hai."], "patterns": ["my name is *", "i am *", "*"]}]},
+          {"id": "sweet", "tinku": "Which sweets and dishes do you like most?", "meaning": ["तुम्हें कौन सी मिठाई और पकवान सबसे ज़्यादा पसंद हैं?", "Tumhe kaun si mithaai aur pakwaan sabse zyaada pasand hain?"],
+            "replies": [{"say": "I like jalebi and samosa most.", "meaning": ["मुझे जलेबी और समोसा सबसे ज़्यादा पसंद हैं।", "Mujhe jalebi aur samosa sabse zyaada pasand hain."], "patterns": ["i like *", "*", "* *", "* * *"]}]},
+          {"id": "swing", "tinku": "Which swings do you prefer?", "meaning": ["तुम्हें कौन से झूले ज़्यादा पसंद हैं?", "Tumhe kaun se jhoole zyaada pasand hain?"],
+            "replies": [{"say": "I prefer the giant wheel.", "meaning": ["मुझे बड़ा झूला ज़्यादा पसंद है।", "Mujhe bada jhoola zyaada pasand hai."], "patterns": ["i prefer *", "i like *", "*", "* *"]}]},
+          {"id": "rides", "tinku": "What rides did you take in the fair you visited last?", "meaning": ["पिछली बार मेले में तुमने कौन सी सवारी की?", "Pichhli baar mele mein tumne kaun si sawaari ki?"],
+            "replies": [{"say": "I took the train ride and the horse ride.", "meaning": ["मैंने ट्रेन और घोड़े की सवारी की।", "Maine train aur ghode ki sawaari ki."], "patterns": ["i took *", "*", "* *", "* * *"], "next": "end"}]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: सोनम का काम", "Chalo likhein: Sonam ka kaam", "Let's Write: Sonam's plan"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब के पेज 99-100 पर सोनम और उसके पापा की फ़ोन पर बातचीत पढ़ो। मोंटू कल भोपाल आ रहा है। अब सोनम का पैराग्राफ़ पूरा करो।", "Kitaab ke page 99-100 par Sonam aur uske papa ki phone par baatcheet padho. Montu kal Bhopal aa raha hai. Ab Sonam ka paragraph poora karo.", "Read the phone talk between Sonam and her father on pages 99–100. Montu is coming to Bhopal tomorrow. Now complete Sonam's paragraph."]},
+        {"book": true, "fb": ["I'll ___ Montu at Habibganj railway station.", "receive", ["receive", "leave", "bring"], "मैं मोंटू को हबीबगंज स्टेशन पर लेने जाऊँगी।", "Main Montu ko Habibganj station par lene jaaungi."]},
+        {"book": true, "fb": ["I'll receive Montu at ___ railway station.", "Habibganj", ["Habibganj", "Delhi", "Arera Colony"], "मैं मोंटू को हबीबगंज रेलवे स्टेशन पर लूँगी।", "Main Montu ko Habibganj railway station par loongi."]},
+        {"book": true, "fb": ["Then I'll ___ Montu to our house at Professors' Colony.", "bring", ["bring", "receive", "have"], "फिर मैं मोंटू को प्रोफ़ेसर्स कॉलोनी वाले घर ले आऊँगी।", "Phir main Montu ko Professors' Colony waale ghar le aaungi."]},
+        {"book": true, "fb": ["We'll then ___ breakfast.", "have", ["have", "leave", "receive"], "फिर हम नाश्ता करेंगे।", "Phir hum naashta karenge."]},
+        {"book": true, "fb": ["Then we'll ___ for the NIIT computer centre.", "leave", ["leave", "bring", "have"], "फिर हम एनआईआईटी कंप्यूटर सेंटर के लिए निकलेंगे।", "Phir hum NIIT computer centre ke liye niklenge."]},
+        {"book": true, "fb": ["Montu will then take his ___.", "test", ["test", "luggage", "train"], "फिर मोंटू अपना टेस्ट देगा।", "Phir Montu apna test dega."]},
+        {"book": true, "fb": ["He will be free by ___.", "5 p.m.", ["5 p.m.", "9.30 a.m.", "7.30 p.m."], "वह शाम 5 बजे तक फ़्री हो जाएगा।", "Woh shaam 5 baje tak free ho jaayega."]},
+        {"book": true, "fb": ["We will pick up his ___ and then go to the main station at Bhopal.", "luggage", ["luggage", "test", "breakfast"], "हम उसका सामान लेंगे और फिर भोपाल के मुख्य स्टेशन जाएँगे।", "Hum uska saamaan lenge aur phir Bhopal ke mukhya station jaayenge."]},
+        {"q": ["At what time does Montu's train to Delhi leave?", "मोंटू की दिल्ली वाली ट्रेन कब छूटेगी?", "Montu ki Delhi waali train kab chhootegi?", ["7.30 p.m.", "9.30 a.m.", "5 p.m."], "7.30 p.m."]}
+      ]
+    },
+    {
+      "emoji": "🎪", "title": ["चलो करके देखें: मेले की चीज़ें", "Chalo karke dekhein: mele ki cheezein", "Let's Do It: things at a fair"], "book": true,
+      "skills": ["book.activity"],
+      "steps": [
+        {"card": ["किताब कहती है: मेले में जो अच्छा लगा उसकी लिस्ट बनाओ और तस्वीर बनाओ। पहले इन चीज़ों को छाँटो।", "Kitaab kehti hai: mele mein jo achha laga uski list banao aur tasveer banao. Pehle in cheezon ko chhaanto.", "The book says: list the things you enjoyed at a fair and draw a picture. First, sort these things."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर चीज़ को खाने या झूले/सवारी में रखो", "Har cheez ko khaane ya jhoole/sawaari mein rakho", "Is it food, or a swing or ride?"],
+          "groups": [
+            {"id": "food", "name": "sweets and dishes", "emoji": "🍽️", "meaning": ["मिठाई और पकवान", "mithaai aur pakwaan"]},
+            {"id": "ride", "name": "swings and rides", "emoji": "🎡", "meaning": ["झूले और सवारी", "jhoole aur sawaari"]}
+          ],
+          "items": [
+            {"text": "jalebi", "emoji": "🍥", "groups": ["food"]},
+            {"text": "merry-go-round", "emoji": "🎠", "groups": ["ride"]},
+            {"text": "samosa", "emoji": "🥟", "groups": ["food"]},
+            {"text": "giant wheel", "emoji": "🎡", "groups": ["ride"]},
+            {"text": "kulfi", "emoji": "🍦", "groups": ["food"]},
+            {"text": "see-saw", "emoji": "⚖️", "groups": ["ride"]},
+            {"text": "pani-puri", "emoji": "🍲", "groups": ["food"]},
+            {"text": "train ride", "emoji": "🚂", "groups": ["ride"]}
+          ]},
+        {"build": ["अपनी तस्वीर के बारे में: मेले में बहुत भीड़ और रोशनी थी।", "Apni tasveer ke baare mein: mele mein bahut bheed aur roshni thi.", "About your picture: the fair was crowded and full of lights.", "The fair was crowded and full of lights.", "मेले में बहुत भीड़ और रोशनी थी।", "Mele mein bahut bheed aur roshni thi."]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: पैसे बचाना", "Aur seekho: paise bachaana", "Learn more: saving money"], "book": false,
+      "skills": ["vocab.numbers"],
+      "steps": [
+        {"q": ["Each ticket costs Rs 3. How much for five friends?", "एक टिकट 3 रुपये का है। पाँच दोस्तों के लिए कितने?", "Ek ticket 3 rupaye ka hai. Paanch doston ke liye kitne?", ["Rs 15", "Rs 8", "Rs 10"], "Rs 15", "Five tickets at Rs 3 each cost Rs 15.", "3 रुपये के पाँच टिकट = 15 रुपये।", "3 rupaye ke paanch ticket = 15 rupaye."]},
+        {"q": ["They had Rs 5 and Krishan had saved Rs 10. Was it enough?", "उनके पास 5 रुपये थे और कृष्ण ने 10 बचाए थे। क्या काफ़ी था?", "Unke paas 5 rupaye the aur Krishan ne 10 bachaaye the. Kya kaafi tha?", ["Yes, exactly Rs 15.", "No, they needed Rs 20.", "No, they needed Rs 30."], "Yes, exactly Rs 15."]},
+        {"pairs": ["पैसे से जुड़े शब्द जोड़ो", "Paise se jude shabd jodo", "Join the money words to their meanings", [
+          ["save", "keep money to use later", "बचाना", "bachaana"],
+          ["spend", "use money to buy things", "ख़र्च करना", "kharch karna"],
+          ["piggy bank", "a small box to keep coins", "गुल्लक", "gullak"],
+          ["change", "money you get back after paying", "छुट्टे / बाकी पैसे", "chhutte / baaki paise"]]]},
+        {"q": ["What is the lesson of the story?", "कहानी की सीख क्या है?", "Kahani ki seekh kya hai?", ["Plan ahead and save some money for later.", "Spend all your money at once.", "Never go to a fair."], "Plan ahead and save some money for later."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 13 का टेस्ट", "Paath 13 ka test", "Lesson 13 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Why did the children decide to stay together?", "बच्चे साथ क्यों रहे?", "Bachche saath kyon rahe?", ["so that nobody got lost in the crowd", "because it was cold", "because they had one ticket"], "so that nobody got lost in the crowd"]},
+        {"book": true, "q": ["What kind of seats does a merry-go-round have?", "merry-go-round में कैसी सीटें होती हैं?", "Merry-go-round mein kaisi seatein hoti hain?", ["decorated wooden horses", "bus seats", "beds"], "decorated wooden horses"]},
+        {"book": true, "q": ["Who saved money for the return tickets?", "वापसी के टिकट के पैसे किसने बचाए?", "Waapsi ke ticket ke paise kisne bachaaye?", ["Krishan", "Lambu", "Bishni"], "Krishan"]},
+        {"book": true, "skills": ["book.words"], "fb": ["The child held his mother's hand tightly so that he may not ___.", "get lost", ["get lost", "get dizzy", "go round"], "बच्चे ने हाथ कसकर पकड़ा ताकि खो न जाए।", "Bachche ne haath kaskar pakda taaki kho na jaaye."]},
+        {"book": true, "skills": ["book.words"], "q": ["‘fare’ means ...", "‘fare’ का मतलब?", "‘fare’ ka matlab?", ["money paid for a ticket", "a gathering of shops", "opposite of there"], "money paid for a ticket"]},
+        {"book": true, "skills": ["book.grammar", "grammar.relative"], "q": ["Join: You want something. I do not know. (what)", "जोड़ो", "Jodo", ["I do not know what you want.", "I do not know who you want.", "What I do not know you want."], "I do not know what you want."]},
+        {"book": true, "skills": ["book.grammar", "grammar.too_so"], "q": ["It is so dark that one can't see. =", "बराबर वाक्य", "Baraabar vaakya", ["It is too dark to see.", "It is too dark that one can see.", "It is so dark to see."], "It is too dark to see."]},
+        {"book": true, "skills": ["book.grammar", "grammar.punctuation"], "q": ["Which mark ends a question?", "सवाल किस चिह्न पर ख़त्म होता है?", "Sawaal kis chihn par khatm hota hai?", ["question mark (?)", "full stop (.)", "comma (,)"], "question mark (?)"]},
+        {"book": true, "skills": ["book.writing"], "fb": ["I'll ___ Montu at Habibganj railway station.", "receive", ["receive", "leave", "bring"], "मैं मोंटू को स्टेशन पर लेने जाऊँगी।", "Main Montu ko station par lene jaaungi."]},
+        {"book": true, "skills": ["book.activity"], "q": ["Which one is a ride, not food?", "कौन सा झूला है, खाना नहीं?", "Kaun sa jhoola hai, khaana nahi?", ["giant wheel", "kulfi", "samosa"], "giant wheel"]}
+      ]
+    }
+  ]
+}

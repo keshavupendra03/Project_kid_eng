@@ -1,0 +1,200 @@
+{
+  "id": "B7.01.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.01.T.S01",
+    "B7.01.T.S02",
+    "B7.01.T.S03",
+    "B7.01.T.S04",
+    "B7.01.T.S05",
+    "B7.01.T.S06",
+    "B7.01.T.S08",
+    "B7.01.T.S09",
+    "B7.01.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.01.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What do you think the poem is about?",
+      "questionMeaning": {
+        "hi": "यह कविता किसके बारे में है?",
+        "hinglish": "Yeh kavita kiske baare mein hai?"
+      },
+      "options": [
+        "clouds",
+        "bridges",
+        "rainbow"
+      ],
+      "answer": "rainbow"
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "The rainbow makes a bridge ...",
+      "questionMeaning": {
+        "hi": "इंद्रधनुष एक पुल बनाता है ...",
+        "hinglish": "Indradhanush ek pul banaata hai ..."
+      },
+      "options": [
+        "over trains",
+        "from the earth to the sky",
+        "over tall buildings"
+      ],
+      "answer": "from the earth to the sky"
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.T.S03",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Pick the odd word out: green - orange - yellow - flower",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "green",
+        "orange",
+        "yellow",
+        "flower"
+      ],
+      "answer": "flower"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Ships ___ on seas.",
+      "answer": "sail",
+      "options": [
+        "sail",
+        "pretty",
+        "clouds"
+      ],
+      "meaning": {
+        "hi": "जहाज़ समुद्र में चलते हैं।",
+        "hinglish": "Jahaaz samudra mein chalte hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Natural beauty always ___ me.",
+      "answer": "pleases",
+      "options": [
+        "pleases",
+        "clouds",
+        "pretty"
+      ],
+      "meaning": {
+        "hi": "प्रकृति की सुंदरता मुझे हमेशा अच्छी लगती है।",
+        "hinglish": "Prakriti ki sundarta mujhe hamesha achhi lagti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘king’?",
+      "questionMeaning": {
+        "hi": "कौन सा शब्द ‘king’ से तुक मिलाता है?",
+        "hinglish": "Kaun sa shabd ‘king’ se tuk milaata hai?"
+      },
+      "options": [
+        "sing",
+        "cake",
+        "log"
+      ],
+      "answer": "sing"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.01.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "sentence": "The sun is ___ than the moon.",
+      "answer": "brighter",
+      "options": [
+        "brighter",
+        "brightest",
+        "bright"
+      ],
+      "meaning": {
+        "hi": "सूरज चाँद से ज़्यादा चमकीला है।",
+        "hinglish": "Sooraj chaand se zyaada chamkeela hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "wise → wiser → ?",
+      "questionMeaning": {
+        "hi": "wise का ‘सबसे’ वाला रूप?",
+        "hinglish": "wise ka ‘sabse’ waala roop?"
+      },
+      "options": [
+        "wisest",
+        "wiseest",
+        "most wise"
+      ],
+      "answer": "wisest"
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.T.S09",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "How many colours are there in a rainbow?",
+      "questionMeaning": {
+        "hi": "इंद्रधनुष में कितने रंग होते हैं?",
+        "hinglish": "Indradhanush mein kitne rang hote hain?"
+      },
+      "options": [
+        "seven",
+        "five",
+        "ten"
+      ],
+      "answer": "seven"
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.T.S10",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Match: A rocket ...",
+      "questionMeaning": {
+        "hi": "मिलाओ: रॉकेट ...",
+        "hinglish": "Milaao: Rocket ..."
+      },
+      "options": [
+        "in space",
+        "over the river",
+        "in rainy season"
+      ],
+      "answer": "in space"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "B7.05.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.05.6.S02",
+    "B7.05.6.S03",
+    "B7.05.6.S04",
+    "B7.05.6.S05",
+    "B7.05.6.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.05.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब का पहला सवाल: अपनी किसी यात्रा के बारे में लिखो। सवालों के जवाब देते जाओ, पैराग्राफ़ बन जाएगा: कब और कहाँ गए? कौन साथ था? क्या देखा?",
+        "hinglish": "Kitaab ka pehla sawaal: apni kisi yaatra ke baare mein likho. Sawaalon ke jawab dete jaao, paragraph ban jaayega: kab aur kahan gaye? Kaun saath tha? Kya dekha?",
+        "en": "The book's first task: write about a journey. Answer the questions one by one and you have a paragraph: when and where did you go? Who was with you? What did you see?"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "कब और कहाँ गए: पिछली गर्मियों में मैं उज्जैन गया/गई।",
+        "hinglish": "Kab aur kahan gaye: pichhli garmiyon mein main Ujjain gaya/gayi.",
+        "en": "Say when and where you went (Ujjain, last summer)."
+      },
+      "answer": "Last summer I went to Ujjain by train.",
+      "meaning": {
+        "hi": "पिछली गर्मियों में मैं ट्रेन से उज्जैन गया/गई।",
+        "hinglish": "Pichhli garmiyon mein main train se Ujjain gaya/gayi."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तैयारी: हमने एक हफ़्ता पहले टिकट बुक किए।",
+        "hinglish": "Taiyaari: humne ek hafta pehle ticket book kiye.",
+        "en": "Say how you planned the journey."
+      },
+      "answer": "We booked our tickets a week before.",
+      "meaning": {
+        "hi": "हमने एक हफ़्ता पहले टिकट बुक किए।",
+        "hinglish": "Humne ek hafta pehle ticket book kiye."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "कौन साथ था: मेरे मम्मी-पापा और बहन साथ थे।",
+        "hinglish": "Kaun saath tha: mere mummy-papa aur behen saath the.",
+        "en": "Say who went with you."
+      },
+      "answer": "My parents and my sister went with me.",
+      "meaning": {
+        "hi": "मेरे मम्मी-पापा और बहन मेरे साथ गए।",
+        "hinglish": "Mere mummy-papa aur behen mere saath gaye."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "अनुभव: सफ़र बहुत मज़ेदार था।",
+        "hinglish": "Anubhav: safar bahut mazedaar tha.",
+        "en": "Say how the journey was."
+      },
+      "answer": "The journey was very enjoyable.",
+      "meaning": {
+        "hi": "सफ़र बहुत मज़ेदार था।",
+        "hinglish": "Safar bahut mazedaar tha."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.05.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब का दूसरा सवाल: प्रिंसिपल को चार दिन की छुट्टी की अर्ज़ी। परीक्षा में यह ढाँचा याद रखो: To, The Principal, (School name). Subject: Application for four days' leave. Sir/Madam, I am a student of class VII. I have to go out of station with my family. So I request you to grant me leave for four days. Thanking you. Yours obediently, (Your name), Class VII.",
+        "hinglish": "Kitaab ka doosra sawaal: principal ko chaar din ki chhutti ki arzi. Pariksha mein yeh dhaancha yaad rakho: To, The Principal, (School name). Subject: Application for four days' leave. Sir/Madam, I am a student of class VII. I have to go out of station with my family. So I request you to grant me leave for four days. Thanking you. Yours obediently, (Your name), Class VII.",
+        "en": "The book's second task: a leave application to the principal. Remember this format for the exam: To, The Principal, (School name). Subject: Application for four days' leave. Sir/Madam, I am a student of class VII. I have to go out of station with my family. So I request you to grant me leave for four days. Thanking you. Yours obediently, (Your name), Class VII."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.05.6.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "अर्ज़ी की मुख्य लाइन: कृपया मुझे चार दिन की छुट्टी दें।",
+        "hinglish": "Arzi ki mukhya line: kripya mujhe chaar din ki chhutti dein.",
+        "en": "The main line of the application: ask for four days' leave."
+      },
+      "answer": "I request you to grant me leave for four days.",
+      "meaning": {
+        "hi": "कृपया मुझे चार दिन की छुट्टी देने की कृपा करें।",
+        "hinglish": "Kripya mujhe chaar din ki chhutti dene ki kripa karein."
+      },
+      "extra": [
+        "give"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.6.S08",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "How does a leave application to the principal end?",
+      "questionMeaning": {
+        "hi": "प्रिंसिपल को अर्ज़ी कैसे ख़त्म होती है?",
+        "hinglish": "Principal ko arzi kaise khatm hoti hai?"
+      },
+      "options": [
+        "Thanking you. Yours obediently,",
+        "Bye bye! See you,",
+        "Your best friend,"
+      ],
+      "answer": "Thanking you. Yours obediently,"
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.6.S09",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "What do we write first in a leave application?",
+      "questionMeaning": {
+        "hi": "छुट्टी की अर्ज़ी में सबसे पहले क्या लिखते हैं?",
+        "hinglish": "Chhutti ki arzi mein sabse pehle kya likhte hain?"
+      },
+      "options": [
+        "To, The Principal,",
+        "Dear friend,",
+        "Thanking you."
+      ],
+      "answer": "To, The Principal,"
+    }
+  ]
+}

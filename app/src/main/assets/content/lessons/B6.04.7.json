@@ -1,0 +1,278 @@
+{
+  "id": "B6.04.7",
+  "level": 6,
+  "bookSteps": [
+    "B6.04.7.S02",
+    "B6.04.7.S03",
+    "B6.04.7.S04",
+    "B6.04.7.S05",
+    "B6.04.7.S06",
+    "B6.04.7.S07",
+    "B6.04.7.S08",
+    "B6.04.7.S09",
+    "B6.04.7.S10",
+    "B6.04.7.S11",
+    "B6.04.7.S12",
+    "B6.04.7.S13",
+    "B6.04.7.S14"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.04.7.S01",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "text": {
+        "hi": "किताब के पेज 20-21 पर पहले चार पाठों का दोहराव है। परीक्षा की अच्छी तैयारी!",
+        "hinglish": "Kitaab ke page 20-21 par pehle chaar paathon ka dohraav hai. Pariksha ki achhi taiyaari!",
+        "en": "Pages 20–21 of your book revise the first four lessons. Good practice for the exam!"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.7.S02",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "Many of his ___ were killed.",
+      "answer": "soldiers",
+      "options": [
+        "soldiers",
+        "branches",
+        "worried"
+      ],
+      "meaning": {
+        "hi": "उसके कई सैनिक मारे गए।",
+        "hinglish": "Uske kai sainik maare gaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.7.S03",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "He was very sad and ___.",
+      "answer": "worried",
+      "options": [
+        "worried",
+        "buried",
+        "prompt"
+      ],
+      "meaning": {
+        "hi": "वह बहुत दुखी और परेशान था।",
+        "hinglish": "Woh bahut dukhi aur pareshaan tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.7.S04",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "The tree spread its ___.",
+      "answer": "branches",
+      "options": [
+        "branches",
+        "soldiers",
+        "childhood"
+      ],
+      "meaning": {
+        "hi": "पेड़ ने अपनी डालियाँ फैलाईं।",
+        "hinglish": "Ped ne apni daaliyaan phailaayin."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.7.S05",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "The teacher tried to ___ Gandhiji.",
+      "answer": "prompt",
+      "options": [
+        "prompt",
+        "bury",
+        "worry"
+      ],
+      "meaning": {
+        "hi": "टीचर ने गांधीजी को इशारा करने की कोशिश की।",
+        "hinglish": "Teacher ne Gandhiji ko ishaara karne ki koshish ki."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.7.S06",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "sentence": "A little seed was ___ deep in the soil.",
+      "answer": "buried",
+      "options": [
+        "buried",
+        "worried",
+        "branches"
+      ],
+      "meaning": {
+        "hi": "एक छोटा बीज मिट्टी में गहरा दबा था।",
+        "hinglish": "Ek chhota beej mitti mein gehra daba tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.7.S07",
+      "skills": [
+        "book.words",
+        "book.comprehension"
+      ],
+      "question": "What did the King do after watching the spider?",
+      "questionMeaning": {
+        "hi": "मकड़ी को देखकर राजा ने क्या किया?",
+        "hinglish": "Makdi ko dekhkar raja ne kya kiya?"
+      },
+      "options": [
+        "He united his soldiers and defeated his enemy.",
+        "He stayed in the cave.",
+        "He went to sleep."
+      ],
+      "answer": "He united his soldiers and defeated his enemy."
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.7.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Radha ___ Sita are two friends.",
+      "answer": "and",
+      "options": [
+        "and",
+        "but"
+      ],
+      "meaning": {
+        "hi": "राधा और सीता दो सहेलियाँ हैं।",
+        "hinglish": "Radha aur Sita do saheliyaan hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.7.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Radha is intelligent and hardworking ___ Sita is dull and lazy.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "राधा होशियार और मेहनती है लेकिन सीता सुस्त और आलसी है।",
+        "hinglish": "Radha hoshiyaar aur mehnati hai lekin Sita sust aur aalsi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.04.7.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Radha likes to go to school ___ Sita does not like school at all.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "राधा को स्कूल पसंद है लेकिन सीता को बिल्कुल नहीं।",
+        "hinglish": "Radha ko school pasand hai lekin Sita ko bilkul nahi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.7.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "high → higher → ?",
+      "questionMeaning": {
+        "hi": "high का ‘सबसे’ वाला रूप?",
+        "hinglish": "high ka ‘sabse’ waala roop?"
+      },
+      "options": [
+        "highest",
+        "highier",
+        "most high"
+      ],
+      "answer": "highest"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.7.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "slow → ? → slowest",
+      "questionMeaning": {
+        "hi": "बीच वाला रूप?",
+        "hinglish": "Beech waala roop?"
+      },
+      "options": [
+        "slower",
+        "slowly",
+        "more slow"
+      ],
+      "answer": "slower"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.7.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The past form of ‘climb’ is ...",
+      "questionMeaning": {
+        "hi": "‘climb’ का बीता रूप?",
+        "hinglish": "‘climb’ ka beeta roop?"
+      },
+      "options": [
+        "climbed",
+        "clumb",
+        "climbs"
+      ],
+      "answer": "climbed"
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.7.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The past form of ‘slip’ is ...",
+      "questionMeaning": {
+        "hi": "‘slip’ का बीता रूप?",
+        "hinglish": "‘slip’ ka beeta roop?"
+      },
+      "options": [
+        "slipped",
+        "sliped",
+        "slips"
+      ],
+      "answer": "slipped"
+    }
+  ]
+}

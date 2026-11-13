@@ -1,0 +1,201 @@
+{
+  "id": "B8.09.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.09.T.S01",
+    "B8.09.T.S02",
+    "B8.09.T.S03",
+    "B8.09.T.S04",
+    "B8.09.T.S05",
+    "B8.09.T.S06",
+    "B8.09.T.S07",
+    "B8.09.T.S08",
+    "B8.09.T.S09",
+    "B8.09.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.09.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "When and where was Kalpana Chawla born?",
+      "questionMeaning": {
+        "hi": "कब और कहाँ जन्म?",
+        "hinglish": "Kab aur kahan janm?"
+      },
+      "options": [
+        "on 1 July 1961 in Karnal, Haryana",
+        "on 1 February 2003 in Texas",
+        "in 1984 in Delhi"
+      ],
+      "answer": "on 1 July 1961 in Karnal, Haryana"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who inspired her to fly?",
+      "questionMeaning": {
+        "hi": "किसने प्रेरणा दी?",
+        "hinglish": "Kisne prerna di?"
+      },
+      "options": [
+        "J. R. D. Tata, the pioneering Indian pilot",
+        "Rakesh Sharma",
+        "her teacher"
+      ],
+      "answer": "J. R. D. Tata, the pioneering Indian pilot"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "How many experiments did the STS-107 crew perform?",
+      "questionMeaning": {
+        "hi": "कितने प्रयोग?",
+        "hinglish": "Kitne prayog?"
+      },
+      "options": [
+        "eighty",
+        "eighteen",
+        "eight"
+      ],
+      "answer": "eighty"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "interupt → ?",
+      "questionMeaning": {
+        "hi": "सही स्पेलिंग",
+        "hinglish": "Sahi spelling"
+      },
+      "options": [
+        "interrupt",
+        "interrapt",
+        "enterupt"
+      ],
+      "answer": "interrupt"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Alexander Graham Bell is known for the ...",
+      "questionMeaning": {
+        "hi": "ग्राहम बेल",
+        "hinglish": "Graham Bell"
+      },
+      "options": [
+        "telephone",
+        "law of gravitation",
+        "space flight"
+      ],
+      "answer": "telephone"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "The soldiers fought bravely. Adverb?",
+      "questionMeaning": {
+        "hi": "क्रिया-विशेषण (Adverb) कौन सा है?",
+        "hinglish": "Kriya-visheshan (Adverb) kaun sa hai?"
+      },
+      "options": [
+        "bravely",
+        "fought",
+        "soldiers"
+      ],
+      "answer": "bravely"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Beware ___ the dog.",
+      "answer": "of",
+      "options": [
+        "of",
+        "from",
+        "about"
+      ],
+      "meaning": {
+        "hi": "कुत्ते से सावधान।",
+        "hinglish": "Kutte se saavdhaan."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.09.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "I prefer milk ___ tea.",
+      "answer": "to",
+      "options": [
+        "to",
+        "than",
+        "from"
+      ],
+      "meaning": {
+        "hi": "मुझे चाय से ज़्यादा दूध पसंद है।",
+        "hinglish": "Mujhe chaay se zyaada doodh pasand hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.T.S09",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What is data?",
+      "questionMeaning": {
+        "hi": "डेटा क्या है?",
+        "hinglish": "Data kya hai?"
+      },
+      "options": [
+        "all the information that is fed into a computer",
+        "a kind of computer",
+        "a computer game"
+      ],
+      "answer": "all the information that is fed into a computer"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "‘in a flash’ means ...",
+      "questionMeaning": {
+        "hi": "मतलब",
+        "hinglish": "Matlab"
+      },
+      "options": [
+        "in very little time",
+        "with a camera",
+        "very brightly"
+      ],
+      "answer": "in very little time"
+    }
+  ]
+}

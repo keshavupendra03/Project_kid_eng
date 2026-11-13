@@ -1,0 +1,205 @@
+{
+  "id": "B8.04.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.1.S02",
+    "B8.04.1.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "उत्तराखंड के गाँव वालों ने पेड़ों से लिपटकर उन्हें कटने से बचाया। यही ‘चिपको आंदोलन’ है, बिना हिंसा का एक बड़ा आंदोलन।",
+        "hinglish": "Uttarakhand ke gaanv waalon ne pedon se lipatkar unhe katne se bachaaya. Yahi ‘Chipko Aandolan’ hai, bina hinsa ka ek bada aandolan.",
+        "en": "Villagers in Uttarakhand hugged trees to stop them from being cut. This is the ‘Chipko Movement’, a great non-violent movement."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What do we get from trees?",
+      "questionMeaning": {
+        "hi": "पेड़ों से हमें क्या मिलता है?",
+        "hinglish": "Pedon se humein kya milta hai?"
+      },
+      "options": [
+        "fruit, wood, fodder, medicine and fresh air",
+        "only plastic",
+        "nothing"
+      ],
+      "answer": "fruit, wood, fodder, medicine and fresh air",
+      "modelAnswer": "We get fruit, wood, fuel, fodder for cattle, herbs for medicine, shade and fresh air from trees. Trees also stop floods and soil erosion.",
+      "modelMeaning": {
+        "hi": "पेड़ों से हमें फल, लकड़ी, ईंधन, पशुओं का चारा, दवा की जड़ी-बूटियाँ, छाया और ताज़ी हवा मिलती है। पेड़ बाढ़ और मिट्टी का कटाव भी रोकते हैं।",
+        "hinglish": "Pedon se humein phal, lakdi, eendhan, pashuon ka chaara, dava ki jadi-bootiyaan, chhaaya aur taazi hawa milti hai. Ped baadh aur mitti ka kataav bhi rokte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Name a kind of tree.",
+      "questionMeaning": {
+        "hi": "किसी पेड़ का नाम बताओ",
+        "hinglish": "Kisi ped ka naam batao"
+      },
+      "options": [
+        "neem",
+        "rose",
+        "grass"
+      ],
+      "answer": "neem",
+      "modelAnswer": "Some kinds of trees: neem, mango, banyan, peepal, teak, sal, deodar.",
+      "modelMeaning": {
+        "hi": "कुछ पेड़: नीम, आम, बरगद, पीपल, सागौन, साल, देवदार।",
+        "hinglish": "Kuchh ped: neem, aam, bargad, peepal, saagaun, saal, devdaar."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.04.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "deforestation",
+        "emoji": "",
+        "hindi": "जंगलों की कटाई",
+        "hinglish": "junglon ki kataai"
+      },
+      "meaning": "cutting down forests",
+      "example": "Deforestation causes floods.",
+      "exampleMeaning": {
+        "hi": "जंगलों की कटाई से बाढ़ आती है।",
+        "hinglish": "Junglon ki kataai se baadh aati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.04.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "fodder",
+        "emoji": "",
+        "hindi": "चारा",
+        "hinglish": "chaara"
+      },
+      "meaning": "food for cattle",
+      "example": "Trees give fodder for cattle.",
+      "exampleMeaning": {
+        "hi": "पेड़ पशुओं को चारा देते हैं।",
+        "hinglish": "Ped pashuon ko chaara dete hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.04.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "precious",
+        "emoji": "",
+        "hindi": "क़ीमती",
+        "hinglish": "keemti"
+      },
+      "meaning": "of great value",
+      "example": "Let us save our precious trees.",
+      "exampleMeaning": {
+        "hi": "आओ अपने क़ीमती पेड़ बचाएँ।",
+        "hinglish": "Aao apne keemti ped bachaayein."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.04.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "procession",
+        "emoji": "",
+        "hindi": "जुलूस",
+        "hinglish": "juloos"
+      },
+      "meaning": "people walking together in a line",
+      "example": "The village marched in a procession.",
+      "exampleMeaning": {
+        "hi": "पूरा गाँव जुलूस में चला।",
+        "hinglish": "Poora gaanv juloos mein chala."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.04.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "non-violent",
+        "emoji": "",
+        "hindi": "अहिंसक",
+        "hinglish": "ahinsak"
+      },
+      "meaning": "without fighting or hurting",
+      "example": "Chipko was a non-violent movement.",
+      "exampleMeaning": {
+        "hi": "चिपको एक अहिंसक आंदोलन था।",
+        "hinglish": "Chipko ek ahinsak aandolan tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.04.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "conservation",
+        "emoji": "",
+        "hindi": "संरक्षण",
+        "hinglish": "sanrakshan"
+      },
+      "meaning": "protecting nature from harm",
+      "example": "Forest conservation is important.",
+      "exampleMeaning": {
+        "hi": "जंगलों का संरक्षण ज़रूरी है।",
+        "hinglish": "Junglon ka sanrakshan zaroori hai."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.04.1.S10",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "conservation",
+        "emoji": "",
+        "hindi": "संरक्षण",
+        "hinglish": "sanrakshan"
+      }
+    }
+  ]
+}

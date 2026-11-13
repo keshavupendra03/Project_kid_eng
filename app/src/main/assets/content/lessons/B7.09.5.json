@@ -1,0 +1,176 @@
+{
+  "id": "B7.09.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.09.5.S01",
+    "B7.09.5.S02",
+    "B7.09.5.S03",
+    "B7.09.5.S04",
+    "B7.09.5.S05",
+    "B7.09.5.S06",
+    "B7.09.5.S07"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.09.5.S01",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What stories did Mr. Choudhary tell about ‘Shanti Bhawan’?",
+      "questionMeaning": {
+        "hi": "चौधरी ने शांति भवन के बारे में क्या कहानियाँ सुनाईं?",
+        "hinglish": "Choudhary ne Shanti Bhawan ke baare mein kya kahaaniyaan sunaayin?"
+      },
+      "options": [
+        "that the dead owner comes back at night",
+        "that it has gold inside",
+        "that a king lived there"
+      ],
+      "answer": "that the dead owner comes back at night"
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.5.S02",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "Does Dr. Dass believe in Mr. Choudhary's stories?",
+      "questionMeaning": {
+        "hi": "क्या डॉ. दास चौधरी की कहानियों पर विश्वास करते हैं?",
+        "hinglish": "Kya Dr. Dass Choudhary ki kahaaniyon par vishwaas karte hain?"
+      },
+      "options": [
+        "No, he does not.",
+        "Yes, he does.",
+        "He is not sure."
+      ],
+      "answer": "No, he does not."
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.5.S03",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "How does he plan to find out the truth?",
+      "questionMeaning": {
+        "hi": "वे सच कैसे पता करने की सोचते हैं?",
+        "hinglish": "Woh sach kaise pata karne ki sochte hain?"
+      },
+      "options": [
+        "by spending a night in the house",
+        "by asking the police",
+        "by reading a book about ghosts"
+      ],
+      "answer": "by spending a night in the house"
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.5.S04",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What happens in Shanti Bhawan after midnight?",
+      "questionMeaning": {
+        "hi": "आधी रात के बाद शांति भवन में क्या होता है?",
+        "hinglish": "Aadhi raat ke baad Shanti Bhawan mein kya hota hai?"
+      },
+      "options": [
+        "Someone dressed in white comes into the room.",
+        "The lamp goes out.",
+        "Mr. Ghosh arrives."
+      ],
+      "answer": "Someone dressed in white comes into the room."
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.5.S05",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "What does Dr. Dass say to the White Visitor?",
+      "questionMeaning": {
+        "hi": "डॉ. दास सफ़ेद मेहमान से क्या कहते हैं?",
+        "hinglish": "Dr. Dass safed mehmaan se kya kehte hain?"
+      },
+      "options": [
+        "Go away. I want to finish this book.",
+        "Please take the house.",
+        "I am very afraid of you."
+      ],
+      "answer": "Go away. I want to finish this book."
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.5.S06",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "question": "How does Dr. Dass find out the truth?",
+      "questionMeaning": {
+        "hi": "डॉ. दास सच कैसे पता करते हैं?",
+        "hinglish": "Dr. Dass sach kaise pata karte hain?"
+      },
+      "options": [
+        "He throws his book and pulls the white cloth off the Visitor's face.",
+        "He calls the police.",
+        "He runs out of the house."
+      ],
+      "answer": "He throws his book and pulls the white cloth off the Visitor's face."
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.09.5.S07",
+      "skills": [
+        "book.talk",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "सवाल (A) को जवाब (B) से जोड़ो",
+        "hinglish": "Sawaal (A) ko jawab (B) se jodo",
+        "en": "Match the answers in B with the questions in A"
+      },
+      "pairs": [
+        {
+          "left": "I feel sorry for Mr. Choudhary, don't you?",
+          "right": "No, I don't.",
+          "meaning": {
+            "hi": "मुझे चौधरी पर तरस आता है, तुम्हें नहीं? / नहीं।",
+            "hinglish": "Mujhe Choudhary par taras aata hai, tumhe nahi? / Nahi."
+          }
+        },
+        {
+          "left": "Why don't you?",
+          "right": "I think Mr. Choudhary was trying to cheat.",
+          "meaning": {
+            "hi": "क्यों नहीं? / मुझे लगता है वह धोखा देना चाहते थे।",
+            "hinglish": "Kyon nahi? / Mujhe lagta hai woh dhokha dena chahte the."
+          }
+        },
+        {
+          "left": "Do you think Dr. Dass was right?",
+          "right": "Yes, he was.",
+          "meaning": {
+            "hi": "क्या डॉ. दास सही थे? / हाँ।",
+            "hinglish": "Kya Dr. Dass sahi the? / Haan."
+          }
+        },
+        {
+          "left": "Dr. Dass taught him a lesson, didn't he?",
+          "right": "Yes, he did.",
+          "meaning": {
+            "hi": "डॉ. दास ने उन्हें सबक सिखाया, है ना? / हाँ।",
+            "hinglish": "Dr. Dass ne unhe sabak sikhaaya, hai na? / Haan."
+          }
+        }
+      ]
+    }
+  ]
+}

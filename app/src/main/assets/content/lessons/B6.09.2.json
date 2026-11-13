@@ -1,0 +1,435 @@
+{
+  "id": "B6.09.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.09.2.S01",
+    "B6.09.2.S03",
+    "B6.09.2.S04",
+    "B6.09.2.S05",
+    "B6.09.2.S06",
+    "B6.09.2.S07",
+    "B6.09.2.S09",
+    "B6.09.2.S10",
+    "B6.09.2.S11",
+    "B6.09.2.S12",
+    "B6.09.2.S13"
+  ],
+  "steps": [
+    {
+      "type": "sort_groups",
+      "id": "B6.09.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "चमड़े से बनी चीज़ें कौन सी हैं?",
+        "hinglish": "Chamde se bani cheezein kaun si hain?",
+        "en": "Which things are made of leather?"
+      },
+      "groups": [
+        {
+          "id": "leather",
+          "name": "made of leather",
+          "emoji": "👜",
+          "meaning": {
+            "hi": "चमड़े से बनी",
+            "hinglish": "chamde se bani"
+          }
+        },
+        {
+          "id": "not",
+          "name": "not leather",
+          "emoji": "❌",
+          "meaning": {
+            "hi": "चमड़े की नहीं",
+            "hinglish": "chamde ki nahi"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "bags",
+          "emoji": "👜",
+          "groups": [
+            "leather"
+          ]
+        },
+        {
+          "text": "shoes",
+          "emoji": "👞",
+          "groups": [
+            "leather"
+          ]
+        },
+        {
+          "text": "belt",
+          "emoji": "🧷",
+          "groups": [
+            "leather"
+          ]
+        },
+        {
+          "text": "purse",
+          "emoji": "👛",
+          "groups": [
+            "leather"
+          ]
+        },
+        {
+          "text": "jacket",
+          "emoji": "🧥",
+          "groups": [
+            "leather"
+          ]
+        },
+        {
+          "text": "glass",
+          "emoji": "🥛",
+          "groups": [
+            "not"
+          ]
+        },
+        {
+          "text": "pencil",
+          "emoji": "✏️",
+          "groups": [
+            "not"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.09.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "उल्टे शब्द (opposites): happy → unhappy। अब बाकी के उल्टे बताओ।",
+        "hinglish": "Ulte shabd (opposites): happy → unhappy. Ab baaki ke ulte batao.",
+        "en": "Opposites: happy → unhappy. Now find the rest."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Opposite of ‘kind’",
+      "questionMeaning": {
+        "hi": "‘kind’ का उल्टा",
+        "hinglish": "‘kind’ ka ulta"
+      },
+      "options": [
+        "unkind",
+        "kindly",
+        "rekind"
+      ],
+      "answer": "unkind"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Opposite of ‘night’",
+      "questionMeaning": {
+        "hi": "‘night’ का उल्टा",
+        "hinglish": "‘night’ ka ulta"
+      },
+      "options": [
+        "day",
+        "dark",
+        "moon"
+      ],
+      "answer": "day"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Opposite of ‘beautiful’",
+      "questionMeaning": {
+        "hi": "‘beautiful’ का उल्टा",
+        "hinglish": "‘beautiful’ ka ulta"
+      },
+      "options": [
+        "ugly",
+        "pretty",
+        "lovely"
+      ],
+      "answer": "ugly"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Opposite of ‘bright’",
+      "questionMeaning": {
+        "hi": "‘bright’ का उल्टा",
+        "hinglish": "‘bright’ ka ulta"
+      },
+      "options": [
+        "dull",
+        "shining",
+        "light"
+      ],
+      "answer": "dull"
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.09.2.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "लोगों को उनके काम से जोड़ो",
+        "hinglish": "Logon ko unke kaam se jodo",
+        "en": "Match the people with the work they do"
+      },
+      "pairs": [
+        {
+          "left": "dentist",
+          "right": "looks after your teeth",
+          "meaning": {
+            "hi": "दाँतों का डॉक्टर",
+            "hinglish": "daanton ka doctor"
+          }
+        },
+        {
+          "left": "goldsmith",
+          "right": "makes ornaments of gold",
+          "meaning": {
+            "hi": "सुनार",
+            "hinglish": "sunaar"
+          }
+        },
+        {
+          "left": "cobbler",
+          "right": "makes and mends shoes",
+          "meaning": {
+            "hi": "मोची",
+            "hinglish": "mochi"
+          }
+        },
+        {
+          "left": "barber",
+          "right": "cuts your hair",
+          "meaning": {
+            "hi": "नाई",
+            "hinglish": "naai"
+          }
+        },
+        {
+          "left": "carpenter",
+          "right": "makes tables and chairs",
+          "meaning": {
+            "hi": "बढ़ई",
+            "hinglish": "badhai"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.09.2.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "बड़े शब्द में छोटे शब्द छिपे होते हैं: leather में eat और her।",
+        "hinglish": "Bade shabd mein chhote shabd chhipe hote hain: leather mein eat aur her.",
+        "en": "Bigger words hide smaller words: leather hides eat and her."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.2.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which small word is in ‘teacher’?",
+      "questionMeaning": {
+        "hi": "‘teacher’ में कौन सा छोटा शब्द है?",
+        "hinglish": "‘teacher’ mein kaun sa chhota shabd hai?"
+      },
+      "options": [
+        "tea",
+        "toe",
+        "ten"
+      ],
+      "answer": "tea",
+      "modelAnswer": "teacher hides tea, each and ache.",
+      "modelMeaning": {
+        "hi": "teacher में tea, each और ache छिपे हैं।",
+        "hinglish": "teacher mein tea, each aur ache chhipe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.2.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which small word is in ‘chair’?",
+      "questionMeaning": {
+        "hi": "‘chair’ में कौन सा छोटा शब्द है?",
+        "hinglish": "‘chair’ mein kaun sa chhota shabd hai?"
+      },
+      "options": [
+        "hair",
+        "chin",
+        "car"
+      ],
+      "answer": "hair",
+      "modelAnswer": "chair hides hair and air.",
+      "modelMeaning": {
+        "hi": "chair में hair और air छिपे हैं।",
+        "hinglish": "chair mein hair aur air chhipe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.2.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which small word is in ‘carpet’?",
+      "questionMeaning": {
+        "hi": "‘carpet’ में कौन सा छोटा शब्द है?",
+        "hinglish": "‘carpet’ mein kaun sa chhota shabd hai?"
+      },
+      "options": [
+        "pet",
+        "cap",
+        "pot"
+      ],
+      "answer": "pet",
+      "modelAnswer": "carpet hides car and pet.",
+      "modelMeaning": {
+        "hi": "carpet में car और pet छिपे हैं।",
+        "hinglish": "carpet mein car aur pet chhipe hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.2.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Which small word is in ‘fairy’?",
+      "questionMeaning": {
+        "hi": "‘fairy’ में कौन सा छोटा शब्द है?",
+        "hinglish": "‘fairy’ mein kaun sa chhota shabd hai?"
+      },
+      "options": [
+        "fair",
+        "fry",
+        "fire"
+      ],
+      "answer": "fair",
+      "modelAnswer": "fairy hides fair and air.",
+      "modelMeaning": {
+        "hi": "fairy में fair और air छिपे हैं।",
+        "hinglish": "fairy mein fair aur air chhipe hain."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.09.2.S13",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "तुकबंदी वाली जोड़ियाँ बनाओ",
+        "hinglish": "Tukbandi waali jodiyaan banao",
+        "en": "Find the rhyming pairs"
+      },
+      "pairs": [
+        {
+          "left": "fear",
+          "right": "dear",
+          "meaning": {
+            "hi": "डर / प्यारा",
+            "hinglish": "dar / pyaara"
+          }
+        },
+        {
+          "left": "leather",
+          "right": "weather",
+          "meaning": {
+            "hi": "चमड़ा / मौसम",
+            "hinglish": "chamda / mausam"
+          }
+        },
+        {
+          "left": "bright",
+          "right": "night",
+          "meaning": {
+            "hi": "चमकीला / रात",
+            "hinglish": "chamkeela / raat"
+          }
+        },
+        {
+          "left": "greedy",
+          "right": "needy",
+          "meaning": {
+            "hi": "लालची / ज़रूरतमंद",
+            "hinglish": "laalchi / zaroorat-mand"
+          }
+        },
+        {
+          "left": "wife",
+          "right": "knife",
+          "meaning": {
+            "hi": "पत्नी / चाकू",
+            "hinglish": "patni / chaaku"
+          }
+        },
+        {
+          "left": "hide",
+          "right": "wide",
+          "meaning": {
+            "hi": "छिपना / चौड़ा",
+            "hinglish": "chhipna / chauda"
+          }
+        },
+        {
+          "left": "find",
+          "right": "kind",
+          "meaning": {
+            "hi": "ढूँढना / दयालु",
+            "hinglish": "dhoondhna / dayaalu"
+          }
+        },
+        {
+          "left": "shop",
+          "right": "flop",
+          "meaning": {
+            "hi": "दुकान / गिरना",
+            "hinglish": "dukaan / girna"
+          }
+        }
+      ]
+    }
+  ]
+}

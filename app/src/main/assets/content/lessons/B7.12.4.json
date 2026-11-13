@@ -1,0 +1,232 @@
+{
+  "id": "B7.12.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.12.4.S02",
+    "B7.12.4.S03",
+    "B7.12.4.S04",
+    "B7.12.4.S05",
+    "B7.12.4.S07",
+    "B7.12.4.S08",
+    "B7.12.4.S09",
+    "B7.12.4.S10",
+    "B7.12.4.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.12.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "text": {
+        "hi": "दो वाक्य who (कौन), which (कौन सा), when (जब), where (जहाँ) से जुड़ते हैं। किताब का उदाहरण: Ranjana wants to buy a book. Ramu has the same book. → Ranjana wants to buy the same book which Ramu has.",
+        "hinglish": "Do vaakya who (kaun), which (kaun sa), when (jab), where (jahan) se judte hain. Kitaab ka udaharan: Ranjana wants to buy a book. Ramu has the same book. → Ranjana wants to buy the same book which Ramu has.",
+        "en": "Two sentences can be joined with who, which, when or where. The book's example: Ranjana wants to buy a book. Ramu has the same book. → Ranjana wants to buy the same book which Ramu has."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो (when): Mother went to market. Ramu was sleeping.",
+        "hinglish": "Jodo (when): Mother went to market. Ramu was sleeping.",
+        "en": "Join with ‘when’: Mother went to market. Ramu was sleeping."
+      },
+      "answer": "Mother went to market when Ramu was sleeping.",
+      "meaning": {
+        "hi": "जब रामू सो रहा था, तब माँ बाज़ार गईं।",
+        "hinglish": "Jab Ramu so raha tha, tab maa baazaar gayin."
+      },
+      "extra": [
+        "where"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो (where): I found the pen. I had kept it.",
+        "hinglish": "Jodo (where): I found the pen. I had kept it.",
+        "en": "Join with ‘where’: I found the pen. I had kept it."
+      },
+      "answer": "I found the pen where I had kept it.",
+      "meaning": {
+        "hi": "मुझे पेन वहीं मिला जहाँ मैंने उसे रखा था।",
+        "hinglish": "Mujhe pen wahin mila jahan maine use rakha tha."
+      },
+      "extra": [
+        "when"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो (when): Sona called me. I was reading.",
+        "hinglish": "Jodo (when): Sona called me. I was reading.",
+        "en": "Join with ‘when’: Sona called me. I was reading."
+      },
+      "answer": "Sona called me when I was reading.",
+      "meaning": {
+        "hi": "जब मैं पढ़ रहा/रही था/थी, तब सोना ने मुझे बुलाया।",
+        "hinglish": "Jab main padh raha/rahi tha/thi, tab Sona ne mujhe bulaaya."
+      },
+      "extra": [
+        "who"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो (who): The teacher punished the boy. He was making a noise.",
+        "hinglish": "Jodo (who): The teacher punished the boy. He was making a noise.",
+        "en": "Join with ‘who’: The teacher punished the boy. He was making a noise."
+      },
+      "answer": "The teacher punished the boy who was making a noise.",
+      "meaning": {
+        "hi": "टीचर ने उस लड़के को सज़ा दी जो शोर कर रहा था।",
+        "hinglish": "Teacher ne us ladke ko saza di jo shor kar raha tha."
+      },
+      "extra": [
+        "which"
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.12.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "text": {
+        "hi": "‘too ... to’ = इतना ज़्यादा कि नहीं हो सकता। इसे ‘so ... that ... cannot’ से लिख सकते हैं। Tea is too hot to drink. → Tea is so hot that it cannot be drunk। (drink, drank, drunk)",
+        "hinglish": "‘too ... to’ = itna zyaada ki nahi ho sakta. Ise ‘so ... that ... cannot’ se likh sakte hain. Tea is too hot to drink. → Tea is so hot that it cannot be drunk. (drink, drank, drunk)",
+        "en": "‘too ... to’ means so much that it can't be done. We can rewrite it with ‘so ... that ... cannot’. Tea is too hot to drink. → Tea is so hot that it cannot be drunk. (drink, drank, drunk)"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "prompt": {
+        "hi": "‘too’ हटाओ: The ceiling is too high to reach.",
+        "hinglish": "‘too’ hatao: The ceiling is too high to reach.",
+        "en": "Remove ‘too’: The ceiling is too high to reach."
+      },
+      "answer": "The ceiling is so high that it cannot be reached.",
+      "meaning": {
+        "hi": "छत इतनी ऊँची है कि उस तक पहुँचा नहीं जा सकता।",
+        "hinglish": "Chhat itni oonchi hai ki us tak pahuncha nahi ja sakta."
+      },
+      "extra": [
+        "too"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "prompt": {
+        "hi": "‘too’ हटाओ: The shirt is too big to wear.",
+        "hinglish": "‘too’ hatao: The shirt is too big to wear.",
+        "en": "Remove ‘too’: The shirt is too big to wear."
+      },
+      "answer": "The shirt is so big that it cannot be worn.",
+      "meaning": {
+        "hi": "कमीज़ इतनी बड़ी है कि पहनी नहीं जा सकती।",
+        "hinglish": "Kameez itni badi hai ki pehni nahi ja sakti."
+      },
+      "extra": [
+        "too"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "prompt": {
+        "hi": "‘too’ हटाओ: This dress is too costly to buy.",
+        "hinglish": "‘too’ hatao: This dress is too costly to buy.",
+        "en": "Remove ‘too’: This dress is too costly to buy."
+      },
+      "answer": "This dress is so costly that it cannot be bought.",
+      "meaning": {
+        "hi": "यह ड्रेस इतनी महँगी है कि ख़रीदी नहीं जा सकती।",
+        "hinglish": "Yeh dress itni mehngi hai ki khareedi nahi ja sakti."
+      },
+      "extra": [
+        "too"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "prompt": {
+        "hi": "‘too’ हटाओ: My school is too far to walk to.",
+        "hinglish": "‘too’ hatao: My school is too far to walk to.",
+        "en": "Remove ‘too’: My school is too far to walk to."
+      },
+      "answer": "My school is so far that I cannot walk to it.",
+      "meaning": {
+        "hi": "मेरा स्कूल इतना दूर है कि मैं पैदल नहीं जा सकता/सकती।",
+        "hinglish": "Mera school itna door hai ki main paidal nahi ja sakta/sakti."
+      },
+      "extra": [
+        "too"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.too_so"
+      ],
+      "prompt": {
+        "hi": "‘too’ हटाओ: This picture is too large to hang.",
+        "hinglish": "‘too’ hatao: This picture is too large to hang.",
+        "en": "Remove ‘too’: This picture is too large to hang."
+      },
+      "answer": "This picture is so large that it cannot be hung.",
+      "meaning": {
+        "hi": "यह तस्वीर इतनी बड़ी है कि टाँगी नहीं जा सकती।",
+        "hinglish": "Yeh tasveer itni badi hai ki taangi nahi ja sakti."
+      },
+      "extra": [
+        "too"
+      ]
+    }
+  ]
+}

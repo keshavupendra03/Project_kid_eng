@@ -1,0 +1,200 @@
+{
+  "id": "B8.12.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.12.T.S01",
+    "B8.12.T.S02",
+    "B8.12.T.S03",
+    "B8.12.T.S04",
+    "B8.12.T.S05",
+    "B8.12.T.S06",
+    "B8.12.T.S07",
+    "B8.12.T.S08",
+    "B8.12.T.S09",
+    "B8.12.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.12.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What does ‘Bhil’ stand for?",
+      "questionMeaning": {
+        "hi": "‘भील’ का मतलब",
+        "hinglish": "‘Bhil’ ka matlab"
+      },
+      "options": [
+        "bow, from the Dravidian word ‘bil’",
+        "forest",
+        "brave"
+      ],
+      "answer": "bow, from the Dravidian word ‘bil’"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What is ‘Gatla’?",
+      "questionMeaning": {
+        "hi": "गाटला क्या है?",
+        "hinglish": "Gatla kya hai?"
+      },
+      "options": [
+        "a stone-carved, oil-painted memory pillar",
+        "a kind of dance",
+        "a festival food"
+      ],
+      "answer": "a stone-carved, oil-painted memory pillar"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "The Bhagoria Haat is held ...",
+      "questionMeaning": {
+        "hi": "भगोरिया हाट कब?",
+        "hinglish": "Bhagoria Haat kab?"
+      },
+      "options": [
+        "a week before Holi",
+        "on Diwali night",
+        "in the rainy season"
+      ],
+      "answer": "a week before Holi"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.T.S04",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Is Teejan Bai famous for singing Pandvani?",
+      "questionMeaning": {
+        "hi": "तीजन बाई?",
+        "hinglish": "Teejan Bai?"
+      },
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "comb: which letter is silent?",
+      "questionMeaning": {
+        "hi": "चुप अक्षर",
+        "hinglish": "Chup akshar"
+      },
+      "options": [
+        "b",
+        "c",
+        "m"
+      ],
+      "answer": "b"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "could: which letter is silent?",
+      "questionMeaning": {
+        "hi": "चुप अक्षर",
+        "hinglish": "Chup akshar"
+      },
+      "options": [
+        "l",
+        "c",
+        "d"
+      ],
+      "answer": "l"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.T.S07",
+      "skills": [
+        "book.words",
+        "grammar.adverbs"
+      ],
+      "question": "simple + ly = ?",
+      "questionMeaning": {
+        "hi": "-ly जोड़ो",
+        "hinglish": "-ly jodo"
+      },
+      "options": [
+        "simply",
+        "simplely",
+        "simpley"
+      ],
+      "answer": "simply"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "She cooked food. (passive)",
+      "questionMeaning": {
+        "hi": "Passive वाक्य बनाओ",
+        "hinglish": "Passive vaakya banao"
+      },
+      "options": [
+        "Food was cooked by her.",
+        "Food was cooked by she.",
+        "Food is cooked by her."
+      ],
+      "answer": "Food was cooked by her."
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.T.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The boy gave me a toy. (passive)",
+      "questionMeaning": {
+        "hi": "Passive वाक्य बनाओ",
+        "hinglish": "Passive vaakya banao"
+      },
+      "options": [
+        "I was given a toy by the boy.",
+        "I was give a toy by the boy.",
+        "The boy was given a toy by me."
+      ],
+      "answer": "I was given a toy by the boy."
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Pema Fatya is a ... artist.",
+      "questionMeaning": {
+        "hi": "पेमा फत्या किस जनजाति के कलाकार?",
+        "hinglish": "Pema Fatya kis janjaati ke kalaakaar?"
+      },
+      "options": [
+        "Bhil",
+        "Gond",
+        "Korku"
+      ],
+      "answer": "Bhil"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "id": "B6.06.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.06.2.S05",
+    "B6.06.2.S06",
+    "B6.06.2.S07",
+    "B6.06.2.S08",
+    "B6.06.2.S09",
+    "B6.06.2.S11",
+    "B6.06.2.S12"
+  ],
+  "steps": [
+    {
+      "type": "learn_word",
+      "id": "B6.06.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "target",
+        "emoji": "",
+        "hindi": "निशाना",
+        "hinglish": "nishaana"
+      },
+      "meaning": "the thing you aim at",
+      "example": "He hit the target with his arrow.",
+      "exampleMeaning": {
+        "hi": "उसने तीर से निशाना लगाया।",
+        "hinglish": "Usne teer se nishaana lagaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.06.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "successful",
+        "emoji": "",
+        "hindi": "सफल",
+        "hinglish": "safal"
+      },
+      "meaning": "doing what you wanted to do",
+      "example": "Hard work makes us successful.",
+      "exampleMeaning": {
+        "hi": "मेहनत हमें सफल बनाती है।",
+        "hinglish": "Mehnat humein safal banaati hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.06.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "concentrate",
+        "emoji": "",
+        "hindi": "ध्यान लगाना",
+        "hinglish": "dhyaan lagaana"
+      },
+      "meaning": "to think about only one thing",
+      "example": "Concentrate on your studies.",
+      "exampleMeaning": {
+        "hi": "अपनी पढ़ाई पर ध्यान लगाओ।",
+        "hinglish": "Apni padhaai par dhyaan lagaao."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.06.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: इन शब्दों से अपने वाक्य बनाओ: ride, tree, arrow, target, successful।",
+        "hinglish": "Kitaab: in shabdon se apne vaakya banao: ride, tree, arrow, target, successful.",
+        "en": "The book: make your own sentences with ride, tree, arrow, target, successful."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.06.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "prompt": {
+        "hi": "‘ride’ से वाक्य: मैं साइकिल चला सकता/सकती हूँ।",
+        "hinglish": "‘ride’ se vaakya: main cycle chala sakta/sakti hoon.",
+        "en": "A sentence with ‘ride’."
+      },
+      "answer": "I can ride a bicycle.",
+      "meaning": {
+        "hi": "मैं साइकिल चला सकता/सकती हूँ।",
+        "hinglish": "Main cycle chala sakta/sakti hoon."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.06.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "prompt": {
+        "hi": "‘tree’ से वाक्य: पेड़ पर एक चिड़िया है।",
+        "hinglish": "‘tree’ se vaakya: ped par ek chidiya hai.",
+        "en": "A sentence with ‘tree’."
+      },
+      "answer": "There is a bird in the tree.",
+      "meaning": {
+        "hi": "पेड़ पर एक चिड़िया है।",
+        "hinglish": "Ped par ek chidiya hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.06.2.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "prompt": {
+        "hi": "‘arrow’ से वाक्य: अर्जुन ने तीर चलाया।",
+        "hinglish": "‘arrow’ se vaakya: Arjun ne teer chalaaya.",
+        "en": "A sentence with ‘arrow’."
+      },
+      "answer": "Arjun shot an arrow.",
+      "meaning": {
+        "hi": "अर्जुन ने तीर चलाया।",
+        "hinglish": "Arjun ne teer chalaaya."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.06.2.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "prompt": {
+        "hi": "‘target’ से वाक्य: चिड़िया की आँख निशाना थी।",
+        "hinglish": "‘target’ se vaakya: chidiya ki aankh nishaana thi.",
+        "en": "A sentence with ‘target’."
+      },
+      "answer": "The bird's eye was the target.",
+      "meaning": {
+        "hi": "चिड़िया की आँख निशाना थी।",
+        "hinglish": "Chidiya ki aankh nishaana thi."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.06.2.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "prompt": {
+        "hi": "‘successful’ से वाक्य: मेहनत करने वाले सफल होते हैं।",
+        "hinglish": "‘successful’ se vaakya: mehnat karne waale safal hote hain.",
+        "en": "A sentence with ‘successful’."
+      },
+      "answer": "Hard-working people are successful.",
+      "meaning": {
+        "hi": "मेहनत करने वाले लोग सफल होते हैं।",
+        "hinglish": "Mehnat karne waale log safal hote hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.06.2.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब में जन्मदिन की पार्टी की तस्वीर है। चीज़ों को उनके नाम से जोड़ो।",
+        "hinglish": "Kitaab mein janmdin ki party ki tasveer hai. Cheezon ko unke naam se jodo.",
+        "en": "The book has a picture of a birthday party. Match the things with their names."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.06.2.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "चीज़ को उसके नाम से जोड़ो",
+        "hinglish": "Cheez ko uske naam se jodo",
+        "en": "Match each thing with its name"
+      },
+      "pairs": [
+        {
+          "left": "🎈",
+          "right": "balloons",
+          "meaning": {
+            "hi": "गुब्बारे",
+            "hinglish": "gubbaare"
+          }
+        },
+        {
+          "left": "🎂",
+          "right": "cake",
+          "meaning": {
+            "hi": "केक",
+            "hinglish": "cake"
+          }
+        },
+        {
+          "left": "🕯️",
+          "right": "candles",
+          "meaning": {
+            "hi": "मोमबत्तियाँ",
+            "hinglish": "mombattiyaan"
+          }
+        },
+        {
+          "left": "🤡",
+          "right": "clown",
+          "meaning": {
+            "hi": "जोकर",
+            "hinglish": "joker"
+          }
+        },
+        {
+          "left": "🎁",
+          "right": "gift",
+          "meaning": {
+            "hi": "तोहफ़ा",
+            "hinglish": "tohfa"
+          }
+        },
+        {
+          "left": "🧚",
+          "right": "fairy",
+          "meaning": {
+            "hi": "परी",
+            "hinglish": "pari"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.06.2.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "फलों को उनके नाम से जोड़ो",
+        "hinglish": "Phalon ko unke naam se jodo",
+        "en": "Match each fruit with its name"
+      },
+      "pairs": [
+        {
+          "left": "🍎",
+          "right": "apple",
+          "meaning": {
+            "hi": "सेब",
+            "hinglish": "seb"
+          }
+        },
+        {
+          "left": "🥭",
+          "right": "mango",
+          "meaning": {
+            "hi": "आम",
+            "hinglish": "aam"
+          }
+        },
+        {
+          "left": "🍇",
+          "right": "grapes",
+          "meaning": {
+            "hi": "अंगूर",
+            "hinglish": "angoor"
+          }
+        },
+        {
+          "left": "🍌",
+          "right": "bananas",
+          "meaning": {
+            "hi": "केले",
+            "hinglish": "kele"
+          }
+        },
+        {
+          "left": "🧃",
+          "right": "juice",
+          "meaning": {
+            "hi": "जूस",
+            "hinglish": "juice"
+          }
+        }
+      ]
+    }
+  ]
+}

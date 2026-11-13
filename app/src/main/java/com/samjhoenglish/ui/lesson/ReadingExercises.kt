@@ -27,6 +27,7 @@ import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
+import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
@@ -37,6 +38,7 @@ import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableLongStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.runtime.staticCompositionLocalOf
 import androidx.compose.ui.Alignment
@@ -116,6 +118,8 @@ internal fun ReadAlongStep(step: ReadAlong, feedback: Feedback, onAnswer: OnAnsw
     var status by remember(step) { mutableStateOf<ReadingStatus?>(null) }
     var stuckWord by remember(step) { mutableIntStateOf(-1) }
     var shownMeaning by remember(step) { mutableStateOf<String?>(null) }
+    // Line-by-line Hindi under a poem: on by default, the child can hide it to read on their own.
+    var showLineMeanings by rememberSaveable(step.id) { mutableStateOf(true) }
     var startedAt by remember(step) { mutableLongStateOf(0L) }
     var lastProgressAt by remember(step) { mutableLongStateOf(0L) }
     var finishedOnce by remember(step) { mutableStateOf(false) }
@@ -241,6 +245,20 @@ internal fun ReadAlongStep(step: ReadAlong, feedback: Feedback, onAnswer: OnAnsw
         }
         Spacer(Modifier.height(12.dp))
 
+        if (step.lineMeanings.isNotEmpty()) {
+            Row(
+                verticalAlignment = Alignment.CenterVertically,
+                modifier = Modifier.fillMaxWidth().padding(bottom = 6.dp),
+            ) {
+                Text(
+                    "🇮🇳 ${UiStrings.showLineMeanings.text()}",
+                    style = MaterialTheme.typography.titleSmall,
+                    modifier = Modifier.weight(1f),
+                )
+                Switch(checked = showLineMeanings, onCheckedChange = { showLineMeanings = it })
+            }
+        }
+
         // The passage: one row of word chips per sentence.
         Surface(
             shape = RoundedCornerShape(24.dp),
@@ -273,6 +291,18 @@ internal fun ReadAlongStep(step: ReadAlong, feedback: Feedback, onAnswer: OnAnsw
                                     }
                                     speakEnglish(plain)
                                 },
+                            )
+                        }
+                    }
+                    // What this line means, in the child's language, just under it.
+                    if (showLineMeanings) step.lineMeanings.getOrNull(s)?.let { m ->
+                        val meaning = if (language == AppLanguage.HINGLISH) m.hinglish else m.hi
+                        if (meaning.isNotBlank()) {
+                            Text(
+                                meaning,
+                                style = MaterialTheme.typography.bodyMedium,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                modifier = Modifier.padding(start = 4.dp, top = 2.dp),
                             )
                         }
                     }

@@ -1,0 +1,131 @@
+{
+  "id": "B7.01.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.01.7.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.01.7.S01",
+      "skills": [
+        "book.activity",
+        "vocab.colours"
+      ],
+      "text": {
+        "hi": "इंद्रधनुष के रंग याद करने की ट्रिक: VIBGYOR = Violet, Indigo, Blue, Green, Yellow, Orange, Red। किताब में इंद्रधनुष बनाओ और इन्हीं रंगों के नाम लिखो।",
+        "hinglish": "Indradhanush ke rang yaad karne ki trick: VIBGYOR = Violet, Indigo, Blue, Green, Yellow, Orange, Red. Kitaab mein indradhanush banao aur inhi rangon ke naam likho.",
+        "en": "A trick to remember the rainbow's colours: VIBGYOR = Violet, Indigo, Blue, Green, Yellow, Orange, Red. Draw a rainbow in your book and write these colour names."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.01.7.S02",
+      "skills": [
+        "book.activity",
+        "vocab.colours"
+      ],
+      "instruction": {
+        "hi": "इंद्रधनुष के हर रंग को उसके हिंदी नाम से जोड़ो",
+        "hinglish": "Indradhanush ke har rang ko uske Hindi naam se jodo",
+        "en": "Join each rainbow colour to its Hindi name"
+      },
+      "pairs": [
+        {
+          "left": "violet",
+          "right": "बैंगनी",
+          "meaning": {
+            "hi": "बैंगनी",
+            "hinglish": "baingani"
+          }
+        },
+        {
+          "left": "indigo",
+          "right": "जामुनी (गहरा नीला)",
+          "meaning": {
+            "hi": "जामुनी",
+            "hinglish": "jaamuni"
+          }
+        },
+        {
+          "left": "blue",
+          "right": "नीला",
+          "meaning": {
+            "hi": "नीला",
+            "hinglish": "neela"
+          }
+        },
+        {
+          "left": "green",
+          "right": "हरा",
+          "meaning": {
+            "hi": "हरा",
+            "hinglish": "hara"
+          }
+        },
+        {
+          "left": "yellow",
+          "right": "पीला",
+          "meaning": {
+            "hi": "पीला",
+            "hinglish": "peela"
+          }
+        },
+        {
+          "left": "orange",
+          "right": "नारंगी",
+          "meaning": {
+            "hi": "नारंगी",
+            "hinglish": "naarangi"
+          }
+        },
+        {
+          "left": "red",
+          "right": "लाल",
+          "meaning": {
+            "hi": "लाल",
+            "hinglish": "laal"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.7.S03",
+      "skills": [
+        "book.activity",
+        "vocab.colours"
+      ],
+      "question": "Which is the first colour of a rainbow (VIBGYOR)?",
+      "questionMeaning": {
+        "hi": "इंद्रधनुष का पहला रंग कौन सा है?",
+        "hinglish": "Indradhanush ka pehla rang kaun sa hai?"
+      },
+      "options": [
+        "violet",
+        "red",
+        "green"
+      ],
+      "answer": "violet"
+    },
+    {
+      "type": "choice",
+      "id": "B7.01.7.S04",
+      "skills": [
+        "book.activity",
+        "vocab.colours"
+      ],
+      "question": "Which is the last colour of a rainbow (VIBGYOR)?",
+      "questionMeaning": {
+        "hi": "इंद्रधनुष का आख़िरी रंग कौन सा है?",
+        "hinglish": "Indradhanush ka aakhiri rang kaun sa hai?"
+      },
+      "options": [
+        "red",
+        "blue",
+        "yellow"
+      ],
+      "answer": "red"
+    }
+  ]
+}

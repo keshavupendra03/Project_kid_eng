@@ -1,0 +1,202 @@
+{
+  "id": "B8.09.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.09.7.S02",
+    "B8.09.7.S03",
+    "B8.09.7.S04",
+    "B8.09.7.S05",
+    "B8.09.7.S06",
+    "B8.09.7.S07",
+    "B8.09.7.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.09.7.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 78 पर कंप्यूटर वाला पैराग्राफ़ पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 78 par computer waala paragraph padho, phir jawab do.",
+        "en": "Read the passage about the computer on page 78 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.7.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What two things could Charles Babbage's first computer do?",
+      "questionMeaning": {
+        "hi": "बैबेज का पहला कंप्यूटर कौन से दो काम कर सकता था?",
+        "hinglish": "Babbage ka pehla computer kaun se do kaam kar sakta tha?"
+      },
+      "options": [
+        "carry out long calculations and print the results",
+        "play chess and sing",
+        "think and decide"
+      ],
+      "answer": "carry out long calculations and print the results"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.7.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is data?",
+      "questionMeaning": {
+        "hi": "डेटा क्या है?",
+        "hinglish": "Data kya hai?"
+      },
+      "options": [
+        "all the information that is fed into a computer",
+        "a kind of computer",
+        "a computer game"
+      ],
+      "answer": "all the information that is fed into a computer"
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.7.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is a computer programme?",
+      "questionMeaning": {
+        "hi": "कंप्यूटर प्रोग्राम क्या है?",
+        "hinglish": "Computer programme kya hai?"
+      },
+      "options": [
+        "the information and the instructions together",
+        "only the screen",
+        "the machine itself"
+      ],
+      "answer": "the information and the instructions together",
+      "modelAnswer": "The information (data) and the clear instructions about what to do with it make up a computer programme.",
+      "modelMeaning": {
+        "hi": "डेटा और उससे क्या करना है, इसके साफ़ निर्देश मिलकर कंप्यूटर प्रोग्राम बनाते हैं।",
+        "hinglish": "Data aur usse kya karna hai, iske saaf nirdesh milkar computer programme banaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.7.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "In what way is a computer like a human brain?",
+      "questionMeaning": {
+        "hi": "कंप्यूटर इंसानी दिमाग़ जैसा कैसे है?",
+        "hinglish": "Computer insaani dimaag jaisa kaise hai?"
+      },
+      "options": [
+        "It has a memory and can store information.",
+        "It can feel happy.",
+        "It can think up new ideas."
+      ],
+      "answer": "It has a memory and can store information."
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.7.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "In what way is the computer better than the human brain?",
+      "questionMeaning": {
+        "hi": "कंप्यूटर दिमाग़ से बेहतर कैसे है?",
+        "hinglish": "Computer dimaag se behtar kaise hai?"
+      },
+      "options": [
+        "It solves problems much faster and more accurately.",
+        "It takes decisions.",
+        "It has feelings."
+      ],
+      "answer": "It solves problems much faster and more accurately."
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.7.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "In what way is the human brain better than the computer?",
+      "questionMeaning": {
+        "hi": "इंसानी दिमाग़ कंप्यूटर से बेहतर कैसे है?",
+        "hinglish": "Insaani dimaag computer se behtar kaise hai?"
+      },
+      "options": [
+        "It can take decisions and think up new ideas.",
+        "It is faster at sums.",
+        "It never forgets."
+      ],
+      "answer": "It can take decisions and think up new ideas."
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.09.7.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "(B) शब्दों को उनके मतलब से जोड़ो",
+        "hinglish": "(B) Shabdon ko unke matlab se jodo",
+        "en": "(B) Match the words with their meanings"
+      },
+      "pairs": [
+        {
+          "left": "in a flash",
+          "right": "in very little time",
+          "meaning": {
+            "hi": "पल भर में",
+            "hinglish": "pal bhar mein"
+          }
+        },
+        {
+          "left": "accurately",
+          "right": "correctly, without any mistake",
+          "meaning": {
+            "hi": "बिल्कुल सही",
+            "hinglish": "bilkul sahi"
+          }
+        },
+        {
+          "left": "complicated",
+          "right": "long and complex",
+          "meaning": {
+            "hi": "उलझा हुआ",
+            "hinglish": "uljha hua"
+          }
+        },
+        {
+          "left": "expert",
+          "right": "who can do something really well",
+          "meaning": {
+            "hi": "माहिर",
+            "hinglish": "maahir"
+          }
+        },
+        {
+          "left": "accurate",
+          "right": "exact",
+          "meaning": {
+            "hi": "सटीक",
+            "hinglish": "sateek"
+          }
+        }
+      ]
+    }
+  ]
+}

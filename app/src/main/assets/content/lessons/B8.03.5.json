@@ -1,0 +1,141 @@
+{
+  "id": "B8.03.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.5.S02",
+    "B8.03.5.S03",
+    "B8.03.5.S04",
+    "B8.03.5.S05",
+    "B8.03.5.S06",
+    "B8.03.5.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.03.5.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "text": {
+        "hi": "a/an किसी भी एक चीज़ के लिए (a cat, an elephant)। the उस चीज़ के लिए जिसकी बात पहले हो चुकी है या जो ख़ास है (the cat = वही बिल्ली)।",
+        "hinglish": "a/an kisi bhi ek cheez ke liye (a cat, an elephant). the us cheez ke liye jiski baat pehle ho chuki hai ya jo khaas hai (the cat = wahi billi).",
+        "en": "a/an for any one thing (a cat, an elephant). the for something already mentioned or particular (the cat = that same cat)."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.03.5.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "One day ___ cat climbed up a tree.",
+      "answer": "a",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "meaning": {
+        "hi": "एक दिन एक बिल्ली पेड़ पर चढ़ गई।",
+        "hinglish": "Ek din ek billi ped par chadh gayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.03.5.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "There lived ___ elephant at a nearby place.",
+      "answer": "an",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "meaning": {
+        "hi": "पास में एक हाथी रहता था।",
+        "hinglish": "Paas mein ek haathi rehta tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.03.5.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "It was ___ good friend of the cat.",
+      "answer": "a",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "meaning": {
+        "hi": "वह बिल्ली का अच्छा दोस्त था।",
+        "hinglish": "Woh billi ka achha dost tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.03.5.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "It heard ___ cry of the cat.",
+      "answer": "the",
+      "options": [
+        "the",
+        "an",
+        "a"
+      ],
+      "meaning": {
+        "hi": "उसने बिल्ली की पुकार सुनी।",
+        "hinglish": "Usne billi ki pukaar suni."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.03.5.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "It ran fast to help ___ cat.",
+      "answer": "the",
+      "options": [
+        "the",
+        "an",
+        "a"
+      ],
+      "meaning": {
+        "hi": "वह बिल्ली की मदद को तेज़ी से दौड़ा।",
+        "hinglish": "Woh billi ki madad ko tezi se dauda."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.03.5.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "Without climbing up the tree, ___ elephant caught the cat in his trunk.",
+      "answer": "the",
+      "options": [
+        "the",
+        "a",
+        "an"
+      ],
+      "meaning": {
+        "hi": "पेड़ पर चढ़े बिना हाथी ने बिल्ली को सूँड़ में पकड़ा।",
+        "hinglish": "Ped par chadhe bina haathi ne billi ko soond mein pakda."
+      }
+    }
+  ]
+}

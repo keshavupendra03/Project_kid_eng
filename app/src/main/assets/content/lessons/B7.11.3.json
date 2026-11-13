@@ -1,0 +1,433 @@
+{
+  "id": "B7.11.3",
+  "level": 7,
+  "bookSteps": [
+    "B7.11.3.S02",
+    "B7.11.3.S03",
+    "B7.11.3.S04",
+    "B7.11.3.S05",
+    "B7.11.3.S06",
+    "B7.11.3.S07",
+    "B7.11.3.S08",
+    "B7.11.3.S09",
+    "B7.11.3.S11",
+    "B7.11.3.S12",
+    "B7.11.3.S13",
+    "B7.11.3.S14",
+    "B7.11.3.S15",
+    "B7.11.3.S17"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.11.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: उलझे अक्षरों से सही शब्द बनाओ। उदाहरण: semunoc = consume।",
+        "hinglish": "Kitaab: uljhe aksharon se sahi shabd banao. Udaharan: semunoc = consume.",
+        "en": "The book: rearrange the jumbled letters. Example: semunoc = consume."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "sillh = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: sillh",
+        "hinglish": "Uljhe akshar: sillh"
+      },
+      "options": [
+        "hills",
+        "shell",
+        "hails"
+      ],
+      "answer": "hills"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "amfle = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: amfle",
+        "hinglish": "Uljhe akshar: amfle"
+      },
+      "options": [
+        "flame",
+        "female",
+        "fame"
+      ],
+      "answer": "flame"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "wsigt = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: wsigt",
+        "hinglish": "Uljhe akshar: wsigt"
+      },
+      "options": [
+        "twigs",
+        "wigs",
+        "gifts"
+      ],
+      "answer": "twigs"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "sntu = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: sntu",
+        "hinglish": "Uljhe akshar: sntu"
+      },
+      "options": [
+        "nuts",
+        "stun",
+        "tuns"
+      ],
+      "answer": "nuts"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "lipe = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: lipe",
+        "hinglish": "Uljhe akshar: lipe"
+      },
+      "options": [
+        "pile",
+        "lip",
+        "pale"
+      ],
+      "answer": "pile"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "yelolw = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: yelolw",
+        "hinglish": "Uljhe akshar: yelolw"
+      },
+      "options": [
+        "yellow",
+        "lowly",
+        "willow"
+      ],
+      "answer": "yellow"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "dowo = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: dowo",
+        "hinglish": "Uljhe akshar: dowo"
+      },
+      "options": [
+        "wood",
+        "word",
+        "door"
+      ],
+      "answer": "wood"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "lkof = ?",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: lkof",
+        "hinglish": "Uljhe akshar: lkof"
+      },
+      "options": [
+        "folk",
+        "flock",
+        "fork"
+      ],
+      "answer": "folk"
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.11.3.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "अब किताब का भाग B: हर वाक्य में दो खाली जगह हैं; एक में शब्द, दूसरी में उसका उल्टा।",
+        "hinglish": "Ab kitaab ka bhaag B: har vaakya mein do khaali jagah hain; ek mein shabd, doosri mein uska ulta.",
+        "en": "Now part B: each sentence has two gaps, one for a word and one for its opposite."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Sohan always does the ___ thing first and leaves the ___ one. (difficult / easy)",
+      "questionMeaning": {
+        "hi": "सही क्रम चुनो",
+        "hinglish": "Sahi kram chuno"
+      },
+      "options": [
+        "easy ... difficult",
+        "difficult ... easy"
+      ],
+      "answer": "easy ... difficult",
+      "modelAnswer": "Sohan always does the easy thing first and leaves the difficult one.",
+      "modelMeaning": {
+        "hi": "सोहन हमेशा आसान काम पहले करता है और मुश्किल वाला छोड़ देता है।",
+        "hinglish": "Sohan hamesha aasaan kaam pehle karta hai aur mushkil waala chhod deta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Owls ___ in the day and ___ in the night. (sleep / wake up)",
+      "questionMeaning": {
+        "hi": "सही क्रम चुनो",
+        "hinglish": "Sahi kram chuno"
+      },
+      "options": [
+        "sleep ... wake up",
+        "wake up ... sleep"
+      ],
+      "answer": "sleep ... wake up",
+      "modelAnswer": "Owls sleep in the day and wake up in the night.",
+      "modelMeaning": {
+        "hi": "उल्लू दिन में सोते हैं और रात में जागते हैं।",
+        "hinglish": "Ulloo din mein sote hain aur raat mein jaagte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S13",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Chandra is ___ and smart whereas her friend Chandini is ___ and lazy. (wise / foolish)",
+      "questionMeaning": {
+        "hi": "सही क्रम चुनो",
+        "hinglish": "Sahi kram chuno"
+      },
+      "options": [
+        "wise ... foolish",
+        "foolish ... wise"
+      ],
+      "answer": "wise ... foolish",
+      "modelAnswer": "Chandra is wise and smart whereas her friend Chandini is foolish and lazy.",
+      "modelMeaning": {
+        "hi": "चंद्रा समझदार और होशियार है जबकि उसकी दोस्त चाँदनी मूर्ख और आलसी है।",
+        "hinglish": "Chandra samajhdaar aur hoshiyaar hai jabki uski dost Chaandni moorkh aur aalsi hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S14",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "It is very ___ in the park but it is ___ here. (noisy / quiet)",
+      "questionMeaning": {
+        "hi": "सही क्रम चुनो",
+        "hinglish": "Sahi kram chuno"
+      },
+      "options": [
+        "noisy ... quiet",
+        "quiet ... noisy"
+      ],
+      "answer": "noisy ... quiet",
+      "modelAnswer": "It is very noisy in the park but it is quiet here.",
+      "modelMeaning": {
+        "hi": "पार्क में बहुत शोर है पर यहाँ शांति है।",
+        "hinglish": "Park mein bahut shor hai par yahan shaanti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.3.S15",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Silk is ___ but handmade cloth is ___. (smooth / rough)",
+      "questionMeaning": {
+        "hi": "सही क्रम चुनो",
+        "hinglish": "Sahi kram chuno"
+      },
+      "options": [
+        "smooth ... rough",
+        "rough ... smooth"
+      ],
+      "answer": "smooth ... rough",
+      "modelAnswer": "Silk is smooth but handmade cloth is rough.",
+      "modelMeaning": {
+        "hi": "रेशम चिकना होता है पर हाथ का बना कपड़ा खुरदरा होता है।",
+        "hinglish": "Resham chikna hota hai par haath ka bana kapda khurdara hota hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.11.3.S16",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "‘g’ दो तरह से बोला जाता है: gap में ‘ग’ जैसा, और gem में ‘ज’ जैसा। अक्सर g के बाद e, i, y हो तो ‘ज’ (gem, giant), नहीं तो ‘ग’ (gap, grow)। पर give और get अपवाद हैं!",
+        "hinglish": "‘g’ do tarah se bola jaata hai: gap mein ‘ga’ jaisa, aur gem mein ‘ja’ jaisa. Aksar g ke baad e, i, y ho to ‘ja’ (gem, giant), nahi to ‘ga’ (gap, grow). Par give aur get apvaad hain!",
+        "en": "‘g’ has two sounds: like ‘g’ in gap and like ‘j’ in gem. Usually g before e, i or y sounds like j (gem, giant); otherwise like g (gap, grow). But give and get are exceptions!"
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.11.3.S17",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसकी g की आवाज़ के हिसाब से रखो",
+        "hinglish": "Har shabd ko uski g ki awaaz ke hisaab se rakho",
+        "en": "Sort the words by their g sound"
+      },
+      "groups": [
+        {
+          "id": "gem",
+          "name": "g as in gem (j sound)",
+          "emoji": "💎",
+          "meaning": {
+            "hi": "‘ज’ की आवाज़",
+            "hinglish": "‘ja’ ki awaaz"
+          }
+        },
+        {
+          "id": "gap",
+          "name": "g as in gap",
+          "emoji": "🕳️",
+          "meaning": {
+            "hi": "‘ग’ की आवाज़",
+            "hinglish": "‘ga’ ki awaaz"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "give",
+          "emoji": "🎁",
+          "groups": [
+            "gap"
+          ]
+        },
+        {
+          "text": "ginger",
+          "emoji": "🍵",
+          "groups": [
+            "gem"
+          ]
+        },
+        {
+          "text": "grow",
+          "emoji": "🌱",
+          "groups": [
+            "gap"
+          ]
+        },
+        {
+          "text": "get",
+          "emoji": "🤲",
+          "groups": [
+            "gap"
+          ]
+        },
+        {
+          "text": "geometry",
+          "emoji": "📐",
+          "groups": [
+            "gem"
+          ]
+        },
+        {
+          "text": "grass",
+          "emoji": "🌿",
+          "groups": [
+            "gap"
+          ]
+        },
+        {
+          "text": "guest",
+          "emoji": "🧳",
+          "groups": [
+            "gap"
+          ]
+        },
+        {
+          "text": "giant",
+          "emoji": "🗿",
+          "groups": [
+            "gem"
+          ]
+        },
+        {
+          "text": "geography",
+          "emoji": "🗺️",
+          "groups": [
+            "gem"
+          ]
+        },
+        {
+          "text": "judge",
+          "emoji": "⚖️",
+          "groups": [
+            "gem"
+          ]
+        }
+      ]
+    }
+  ]
+}

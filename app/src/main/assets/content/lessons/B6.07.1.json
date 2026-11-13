@@ -1,0 +1,294 @@
+{
+  "id": "B6.07.1",
+  "level": 6,
+  "bookSteps": [
+    "B6.07.1.S09",
+    "B6.07.1.S10",
+    "B6.07.1.S11",
+    "B6.07.1.S12",
+    "B6.07.1.S13",
+    "B6.07.1.S14",
+    "B6.07.1.S15"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.07.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "इस पाठ में स्कूल के खेल दिवस पर छह लड़कियों की 200 मीटर की दौड़ है। सबसे छोटी और पतली मीना जीत जाती है! पहले नए शब्द।",
+        "hinglish": "Is paath mein school ke khel diwas par chhah ladkiyon ki 200 metre ki daud hai. Sabse chhoti aur patli Mina jeet jaati hai! Pehle naye shabd.",
+        "en": "In this lesson six girls run a 200 metre race on Sports Day. The smallest, thinnest girl, Mina, wins! First, new words."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.07.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "assembled",
+        "emoji": "",
+        "hindi": "इकट्ठा हुए",
+        "hinglish": "ikattha hue"
+      },
+      "meaning": "came together in one place",
+      "example": "All the students assembled in the hall.",
+      "exampleMeaning": {
+        "hi": "सारे छात्र हॉल में इकट्ठा हुए।",
+        "hinglish": "Saare chhaatra hall mein ikattha hue."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.07.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "signal",
+        "emoji": "",
+        "hindi": "इशारा, संकेत",
+        "hinglish": "ishaara, sanket"
+      },
+      "meaning": "a sign that tells you to start or stop",
+      "example": "The teacher gave the signal to start.",
+      "exampleMeaning": {
+        "hi": "टीचर ने शुरू करने का इशारा दिया।",
+        "hinglish": "Teacher ne shuru karne ka ishaara diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.07.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "steadily",
+        "emoji": "",
+        "hindi": "लगातार, बिना रुके",
+        "hinglish": "lagaataar, bina ruke"
+      },
+      "meaning": "at an even speed, without stopping",
+      "example": "The tortoise walked steadily.",
+      "exampleMeaning": {
+        "hi": "कछुआ लगातार चलता रहा।",
+        "hinglish": "Kachhua lagaataar chalta raha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.07.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "curious",
+        "emoji": "",
+        "hindi": "जानने को उत्सुक",
+        "hinglish": "jaanne ko utsuk"
+      },
+      "meaning": "wanting to know something",
+      "example": "The cat was curious about the box.",
+      "exampleMeaning": {
+        "hi": "बिल्ली डिब्बे के बारे में जानने को उत्सुक थी।",
+        "hinglish": "Billi dibbe ke baare mein jaanne ko utsuk thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.07.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "carelessly",
+        "emoji": "",
+        "hindi": "लापरवाही से",
+        "hinglish": "laaparwaahi se"
+      },
+      "meaning": "without care",
+      "example": "He wrote carelessly and made mistakes.",
+      "exampleMeaning": {
+        "hi": "उसने लापरवाही से लिखा और गलतियाँ कीं।",
+        "hinglish": "Usne laaparwaahi se likha aur galtiyaan kin."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.07.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "trophy",
+        "emoji": "",
+        "hindi": "ट्रॉफ़ी, इनाम का कप",
+        "hinglish": "trophy, inaam ka cup"
+      },
+      "meaning": "a cup given to the winner",
+      "example": "Mina was awarded the trophy.",
+      "exampleMeaning": {
+        "hi": "मीना को ट्रॉफ़ी दी गई।",
+        "hinglish": "Mina ko trophy di gayi."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.07.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब: उलझे अक्षरों से खेलों के नाम बनाओ। उदाहरण: hessc = chess।",
+        "hinglish": "Kitaab: uljhe aksharon se khelon ke naam banao. Udaharan: hessc = chess.",
+        "en": "The book: rearrange the letters to spell the names of games. Example: hessc = chess."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "oldu = ? (indoor)",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: oldu",
+        "hinglish": "Uljhe akshar: oldu"
+      },
+      "options": [
+        "ludo",
+        "loud",
+        "load"
+      ],
+      "answer": "ludo"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "aracm = ? (indoor)",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: aracm",
+        "hinglish": "Uljhe akshar: aracm"
+      },
+      "options": [
+        "carrom",
+        "camera",
+        "cream"
+      ],
+      "answer": "carrom"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.1.S11",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "mintnadab = ? (indoor)",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: mintnadab",
+        "hinglish": "Uljhe akshar: mintnadab"
+      },
+      "options": [
+        "badminton",
+        "bandit",
+        "tennis"
+      ],
+      "answer": "badminton"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.1.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "toolfalb = ? (outdoor)",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: toolfalb",
+        "hinglish": "Uljhe akshar: toolfalb"
+      },
+      "options": [
+        "football",
+        "footfall",
+        "fullball"
+      ],
+      "answer": "football"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.1.S13",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "keycho = ? (outdoor)",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: keycho",
+        "hinglish": "Uljhe akshar: keycho"
+      },
+      "options": [
+        "hockey",
+        "choke",
+        "hockay"
+      ],
+      "answer": "hockey"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.1.S14",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "iddabka = ? (outdoor)",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: iddabka",
+        "hinglish": "Uljhe akshar: iddabka"
+      },
+      "options": [
+        "kabaddi",
+        "kadabbi",
+        "badkid"
+      ],
+      "answer": "kabaddi"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.1.S15",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "trickec = ? (outdoor)",
+      "questionMeaning": {
+        "hi": "उलझे अक्षर: trickec",
+        "hinglish": "Uljhe akshar: trickec"
+      },
+      "options": [
+        "cricket",
+        "tricky",
+        "ticket"
+      ],
+      "answer": "cricket"
+    }
+  ]
+}

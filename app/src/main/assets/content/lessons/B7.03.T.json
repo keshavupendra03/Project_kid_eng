@@ -1,0 +1,200 @@
+{
+  "id": "B7.03.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.03.T.S01",
+    "B7.03.T.S02",
+    "B7.03.T.S03",
+    "B7.03.T.S04",
+    "B7.03.T.S05",
+    "B7.03.T.S06",
+    "B7.03.T.S07",
+    "B7.03.T.S08",
+    "B7.03.T.S09",
+    "B7.03.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.03.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who won the bet?",
+      "questionMeaning": {
+        "hi": "शर्त किसने जीती?",
+        "hinglish": "Shart kisne jeeti?"
+      },
+      "options": [
+        "Bhola",
+        "the thugs",
+        "Shanti's brother"
+      ],
+      "answer": "Bhola"
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "How much money was offered in the bet?",
+      "questionMeaning": {
+        "hi": "शर्त में कितने पैसे थे?",
+        "hinglish": "Shart mein kitne paise the?"
+      },
+      "options": [
+        "A hundred rupees",
+        "Ten thousand rupees",
+        "One thousand rupees"
+      ],
+      "answer": "One thousand rupees"
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "How did Bhola plan to spend the money?",
+      "questionMeaning": {
+        "hi": "भोला पैसे कैसे ख़र्च करेगा?",
+        "hinglish": "Bhola paise kaise kharch karega?"
+      },
+      "options": [
+        "He would buy another horse.",
+        "He would buy a house.",
+        "He would give it to the Nawab."
+      ],
+      "answer": "He would buy another horse."
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "The ship of the desert",
+      "questionMeaning": {
+        "hi": "रेगिस्तान का जहाज़",
+        "hinglish": "Registaan ka jahaaz"
+      },
+      "options": [
+        "camel",
+        "lion",
+        "horse"
+      ],
+      "answer": "camel"
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "A donkey ...",
+      "questionMeaning": {
+        "hi": "गधा ...",
+        "hinglish": "Gadha ..."
+      },
+      "options": [
+        "brays",
+        "neighs",
+        "bleats"
+      ],
+      "answer": "brays"
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Pick the odd word out: thug, thief, robber, constable",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "thug",
+        "thief",
+        "robber",
+        "constable"
+      ],
+      "answer": "constable"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "I exchanged the donkey ___ a sheep.",
+      "answer": "for",
+      "options": [
+        "for",
+        "to"
+      ],
+      "meaning": {
+        "hi": "मैंने गधे के बदले भेड़ ली।",
+        "hinglish": "Maine gadhe ke badle bhed li."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.to_for"
+      ],
+      "sentence": "They made a plan ___ deceive him.",
+      "answer": "to",
+      "options": [
+        "to",
+        "for"
+      ],
+      "meaning": {
+        "hi": "उन्होंने उसे धोखा देने की योजना बनाई।",
+        "hinglish": "Unhone use dhokha dene ki yojana banaayi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.T.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.few_little"
+      ],
+      "sentence": "They have ___ coins.",
+      "answer": "a few",
+      "options": [
+        "a few",
+        "a little",
+        "little"
+      ],
+      "meaning": {
+        "hi": "उनके पास कुछ सिक्के हैं।",
+        "hinglish": "Unke paas kuch sikke hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.T.S10",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Was Deepak a good friend?",
+      "questionMeaning": {
+        "hi": "क्या दीपक अच्छा दोस्त था?",
+        "hinglish": "Kya Deepak achha dost tha?"
+      },
+      "options": [
+        "No, he left Bhola alone in danger.",
+        "Yes, he was very brave.",
+        "Yes, he helped Bhola."
+      ],
+      "answer": "No, he left Bhola alone in danger."
+    }
+  ]
+}

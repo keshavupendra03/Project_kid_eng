@@ -1,0 +1,173 @@
+{
+  "id": "B8.15.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.15.4.S01",
+    "B8.15.4.S02",
+    "B8.15.4.S03",
+    "B8.15.4.S04",
+    "B8.15.4.S05",
+    "B8.15.4.S06",
+    "B8.15.4.S07"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.15.4.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who is the speaker in the poem?",
+      "questionMeaning": {
+        "hi": "कविता में बोलने वाला कौन है?",
+        "hinglish": "Kavita mein bolne waala kaun hai?"
+      },
+      "options": [
+        "a child",
+        "the robin",
+        "the tree"
+      ],
+      "answer": "a child",
+      "modelAnswer": "The speaker in the poem is a child.",
+      "modelMeaning": {
+        "hi": "कविता में बोलने वाला एक बच्चा है।",
+        "hinglish": "Kavita mein bolne waala ek bachcha hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.4.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who told the secret to the boy?",
+      "questionMeaning": {
+        "hi": "बच्चे को राज़ किसने बताया?",
+        "hinglish": "Bachche ko raaz kisne bataaya?"
+      },
+      "options": [
+        "the tree",
+        "the robin",
+        "his mother"
+      ],
+      "answer": "the tree",
+      "modelAnswer": "The cherry tree told the secret to the boy.",
+      "modelMeaning": {
+        "hi": "चेरी के पेड़ ने बच्चे को राज़ बताया।",
+        "hinglish": "Cherry ke ped ne bachche ko raaz bataaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.4.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does the poet mean by ‘four little ...’?",
+      "questionMeaning": {
+        "hi": "‘four little’ का मतलब?",
+        "hinglish": "‘four little’ ka matlab?"
+      },
+      "options": [
+        "four little eggs",
+        "four little birds",
+        "four little leaves"
+      ],
+      "answer": "four little eggs",
+      "modelAnswer": "By ‘four little’ the poet means four little eggs laid by the robin in her nest.",
+      "modelMeaning": {
+        "hi": "‘four little’ का मतलब है रॉबिन के घोंसले में रखे चार छोटे अंडे।",
+        "hinglish": "‘four little’ ka matlab hai robin ke ghonsle mein rakhe chaar chhote ande."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.4.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who told the secret to the tree?",
+      "questionMeaning": {
+        "hi": "पेड़ को राज़ किसने बताया?",
+        "hinglish": "Ped ko raaz kisne bataaya?"
+      },
+      "options": [
+        "the bird (the robin)",
+        "the boy",
+        "the wind"
+      ],
+      "answer": "the bird (the robin)"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.4.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When will the secret be out?",
+      "questionMeaning": {
+        "hi": "राज़ कब खुलेगा?",
+        "hinglish": "Raaz kab khulega?"
+      },
+      "options": [
+        "when the little birds fly out",
+        "tomorrow morning",
+        "when it rains"
+      ],
+      "answer": "when the little birds fly out",
+      "modelAnswer": "The secret will be out when the little birds hatch and fly out of the nest.",
+      "modelMeaning": {
+        "hi": "राज़ तब खुलेगा जब छोटे बच्चे अंडों से निकलकर घोंसले से उड़ जाएँगे।",
+        "hinglish": "Raaz tab khulega jab chhote bachche andon se nikalkar ghonsle se ud jaayenge."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.4.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the secret?",
+      "questionMeaning": {
+        "hi": "राज़ क्या है?",
+        "hinglish": "Raaz kya hai?"
+      },
+      "options": [
+        "The robin has built a nest in the cherry tree and laid four eggs.",
+        "The tree is going to fall.",
+        "The boy found money."
+      ],
+      "answer": "The robin has built a nest in the cherry tree and laid four eggs.",
+      "modelAnswer": "The secret is that the robin has built a nest in the cherry tree and laid four little eggs in it.",
+      "modelMeaning": {
+        "hi": "राज़ यह है कि रॉबिन ने चेरी के पेड़ पर घोंसला बनाया है और उसमें चार छोटे अंडे दिए हैं।",
+        "hinglish": "Raaz yeh hai ki robin ne cherry ke ped par ghonsla banaaya hai aur usmein chaar chhote ande diye hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.4.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "‘Just we three’: the bird, the poet and ...?",
+      "questionMeaning": {
+        "hi": "तीसरा कौन?",
+        "hinglish": "Teesra kaun?"
+      },
+      "options": [
+        "the cherry tree",
+        "the mother",
+        "the cat"
+      ],
+      "answer": "the cherry tree"
+    }
+  ]
+}

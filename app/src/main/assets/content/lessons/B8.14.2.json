@@ -1,0 +1,181 @@
+{
+  "id": "B8.14.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.14.2.S02",
+    "B8.14.2.S03",
+    "B8.14.2.S04",
+    "B8.14.2.S05",
+    "B8.14.2.S06",
+    "B8.14.2.S07",
+    "B8.14.2.S08",
+    "B8.14.2.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.14.2.S01",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "text": {
+        "hi": "अक्षरों को सही क्रम में लगाकर पाठ के शब्द बनाओ।",
+        "hinglish": "Aksharon ko sahi kram mein lagaakar paath ke shabd banao.",
+        "en": "Rearrange the letters to make words from the lesson."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.2.S02",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "s e e p a c",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "escape",
+        "peaces",
+        "spaces"
+      ],
+      "answer": "escape"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.2.S03",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "o t m n e r",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "mentor",
+        "monster",
+        "torment"
+      ],
+      "answer": "mentor"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.2.S04",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "l p d g e e",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "pledge",
+        "pegged",
+        "ledges"
+      ],
+      "answer": "pledge"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.2.S05",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "t n e r a d",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "ardent",
+        "ranted",
+        "trader"
+      ],
+      "answer": "ardent"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.2.S06",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "l y r e a",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "early",
+        "layer",
+        "relay"
+      ],
+      "answer": "early"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.2.S07",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "r s e t p i",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "priest",
+        "stripe",
+        "sprite"
+      ],
+      "answer": "priest"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.2.S08",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "u r e g c a o",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "courage",
+        "cougar",
+        "grocer"
+      ],
+      "answer": "courage"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.2.S09",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "r r e t o r",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "terror",
+        "retro",
+        "error"
+      ],
+      "answer": "terror"
+    }
+  ]
+}

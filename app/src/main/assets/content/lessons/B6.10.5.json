@@ -1,0 +1,192 @@
+{
+  "id": "B6.10.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.10.5.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.10.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब: अपने साथी से छुट्टियों के बारे में पूछो। आज मैं तुमसे पूछता हूँ।",
+        "hinglish": "Kitaab: apne saathi se chhuttiyon ke baare mein poochho. Aaj main tumse poochhta hoon.",
+        "en": "The book: ask your partner about the holidays. Today I'll ask you."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.10.5.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🧳",
+      "turns": [
+        {
+          "id": "where",
+          "tinku": "Where did you go?",
+          "meaning": {
+            "hi": "तुम कहाँ गए थे?",
+            "hinglish": "Tum kahan gaye the?"
+          },
+          "replies": [
+            {
+              "say": "I went to Agra.",
+              "meaning": {
+                "hi": "मैं आगरा गया/गई। (अपनी जगह बोलो)",
+                "hinglish": "Main Agra gaya/gayi. (Apni jagah bolo)"
+              },
+              "patterns": [
+                "i went to *",
+                "to *",
+                "*"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "when",
+          "tinku": "When did you go?",
+          "meaning": {
+            "hi": "तुम कब गए?",
+            "hinglish": "Tum kab gaye?"
+          },
+          "replies": [
+            {
+              "say": "I went in May.",
+              "meaning": {
+                "hi": "मैं मई में गया/गई।",
+                "hinglish": "Main May mein gaya/gayi."
+              },
+              "patterns": [
+                "i went in *",
+                "in *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "how",
+          "tinku": "How did you travel?",
+          "meaning": {
+            "hi": "तुम कैसे गए?",
+            "hinglish": "Tum kaise gaye?"
+          },
+          "replies": [
+            {
+              "say": "I travelled by train.",
+              "meaning": {
+                "hi": "मैं ट्रेन से गया/गई।",
+                "hinglish": "Main train se gaya/gayi."
+              },
+              "patterns": [
+                "i travelled by *",
+                "by *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "stay",
+          "tinku": "Where did you stay?",
+          "meaning": {
+            "hi": "तुम कहाँ ठहरे?",
+            "hinglish": "Tum kahan thehre?"
+          },
+          "replies": [
+            {
+              "say": "I stayed with my uncle.",
+              "meaning": {
+                "hi": "मैं अपने चाचा के यहाँ ठहरा/ठहरी।",
+                "hinglish": "Main apne chacha ke yahan thehra/thehri."
+              },
+              "patterns": [
+                "i stayed *",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "long",
+          "tinku": "How long did you stay there?",
+          "meaning": {
+            "hi": "तुम वहाँ कितने दिन रुके?",
+            "hinglish": "Tum wahan kitne din ruke?"
+          },
+          "replies": [
+            {
+              "say": "I stayed there for five days.",
+              "meaning": {
+                "hi": "मैं वहाँ पाँच दिन रुका/रुकी।",
+                "hinglish": "Main wahan paanch din ruka/ruki."
+              },
+              "patterns": [
+                "i stayed there for *",
+                "for *",
+                "*",
+                "* *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "see",
+          "tinku": "What did you see?",
+          "meaning": {
+            "hi": "तुमने क्या देखा?",
+            "hinglish": "Tumne kya dekha?"
+          },
+          "replies": [
+            {
+              "say": "I saw the Taj Mahal.",
+              "meaning": {
+                "hi": "मैंने ताजमहल देखा।",
+                "hinglish": "Maine Taj Mahal dekha."
+              },
+              "patterns": [
+                "i saw *",
+                "*",
+                "* *",
+                "* * *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "enjoy",
+          "tinku": "Did you enjoy the holiday?",
+          "meaning": {
+            "hi": "क्या तुम्हें छुट्टी में मज़ा आया?",
+            "hinglish": "Kya tumhe chhutti mein mazaa aaya?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I enjoyed it very much.",
+              "meaning": {
+                "hi": "हाँ, बहुत मज़ा आया।",
+                "hinglish": "Haan, bahut mazaa aaya."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

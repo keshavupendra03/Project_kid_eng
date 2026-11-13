@@ -1,0 +1,242 @@
+{
+  "id": "B7.05.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.05.2.S02",
+    "B7.05.2.S03",
+    "B7.05.2.S04",
+    "B7.05.2.S05",
+    "B7.05.2.S06",
+    "B7.05.2.S08",
+    "B7.05.2.S09",
+    "B7.05.2.S10",
+    "B7.05.2.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.05.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 26 और 27 पर ‘The Crowded Train’ पढ़ो। फिर सही विकल्प चुनो।",
+        "hinglish": "Apni kitaab mein page 26 aur 27 par ‘The Crowded Train’ padho. Phir sahi vikalp chuno.",
+        "en": "Read ‘The Crowded Train’ on pages 26 and 27 of your book. Then choose the right option."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where did Vinod go?",
+      "questionMeaning": {
+        "hi": "विनोद कहाँ गया?",
+        "hinglish": "Vinod kahan gaya?"
+      },
+      "options": [
+        "Bhopal",
+        "Indore",
+        "Gwalior"
+      ],
+      "answer": "Bhopal",
+      "modelAnswer": "Vinod went to Bhopal on an official visit.",
+      "modelMeaning": {
+        "hi": "विनोद दफ़्तर के काम से भोपाल गया।",
+        "hinglish": "Vinod daftar ke kaam se Bhopal gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did Vinod decide to travel by A/C class?",
+      "questionMeaning": {
+        "hi": "विनोद ने एसी क्लास में जाने का फ़ैसला क्यों किया?",
+        "hinglish": "Vinod ne AC class mein jaane ka faisla kyon kiya?"
+      },
+      "options": [
+        "He had a lot of money.",
+        "The train was overcrowded.",
+        "He was sick."
+      ],
+      "answer": "The train was overcrowded.",
+      "modelAnswer": "Vinod decided to travel by A/C class because the train was overcrowded.",
+      "modelMeaning": {
+        "hi": "विनोद ने एसी में जाने का फ़ैसला किया क्योंकि ट्रेन में बहुत भीड़ थी।",
+        "hinglish": "Vinod ne AC mein jaane ka faisla kiya kyonki train mein bahut bheed thi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The other passengers in the coach ...",
+      "questionMeaning": {
+        "hi": "डिब्बे के बाकी यात्री ...",
+        "hinglish": "Dibbe ke baaki yaatri ..."
+      },
+      "options": [
+        "did not look to be rich",
+        "were poorly dressed",
+        "had valid tickets"
+      ],
+      "answer": "had valid tickets"
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The young man who got in just when the train moved ...",
+      "questionMeaning": {
+        "hi": "जो नौजवान ट्रेन चलते ही चढ़ा, वह ...",
+        "hinglish": "Jo naujawaan train chalte hi chadha, woh ..."
+      },
+      "options": [
+        "was well dressed",
+        "did not seem to have a job",
+        "was carrying a new suitcase"
+      ],
+      "answer": "did not seem to have a job"
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who did not have a valid ticket?",
+      "questionMeaning": {
+        "hi": "किसके पास सही टिकट नहीं था?",
+        "hinglish": "Kiske paas sahi ticket nahi tha?"
+      },
+      "options": [
+        "Vinod",
+        "All other passengers",
+        "The young man"
+      ],
+      "answer": "Vinod",
+      "modelAnswer": "Vinod did not have a valid ticket for the A/C coach, so he paid the difference. The young man had a valid ticket.",
+      "modelMeaning": {
+        "hi": "विनोद के पास एसी का सही टिकट नहीं था, इसलिए उसने बाकी पैसे दिए। नौजवान के पास सही टिकट था।",
+        "hinglish": "Vinod ke paas AC ka sahi ticket nahi tha, isliye usne baaki paise diye. Naujawaan ke paas sahi ticket tha."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.05.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अब किताब का दूसरा सवाल: घटनाओं को सही क्रम में लगाओ। सोचो, पहले क्या हुआ, फिर क्या।",
+        "hinglish": "Ab kitaab ka doosra sawaal: ghatnaaon ko sahi kram mein lagao. Socho, pehle kya hua, phir kya.",
+        "en": "Now the book's second task: put the events in order. Think: what happened first, then what?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which of these happened first?",
+      "questionMeaning": {
+        "hi": "इनमें से सबसे पहले क्या हुआ?",
+        "hinglish": "Inmein se sabse pehle kya hua?"
+      },
+      "options": [
+        "Vinod wanted to go back to Indore.",
+        "The T.T.E. appeared.",
+        "Vinod paid the difference."
+      ],
+      "answer": "Vinod wanted to go back to Indore."
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.2.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What happened after Vinod saw the large crowd on the platform?",
+      "questionMeaning": {
+        "hi": "प्लेटफ़ॉर्म पर भीड़ देखने के बाद क्या हुआ?",
+        "hinglish": "Platform par bheed dekhne ke baad kya hua?"
+      },
+      "options": [
+        "He noticed some seats were vacant in the A/C coach.",
+        "Vinod paid the difference.",
+        "The T.T.E. appeared."
+      ],
+      "answer": "He noticed some seats were vacant in the A/C coach."
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.2.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What happened just after the poorly-dressed young man jumped in?",
+      "questionMeaning": {
+        "hi": "फटे कपड़ों वाले नौजवान के चढ़ने के ठीक बाद क्या हुआ?",
+        "hinglish": "Phate kapdon waale naujawaan ke chadhne ke theek baad kya hua?"
+      },
+      "options": [
+        "All the passengers were surprised to see such a man in the A/C coach.",
+        "Vinod wanted to go back to Indore.",
+        "He noticed some seats were vacant."
+      ],
+      "answer": "All the passengers were surprised to see such a man in the A/C coach."
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.2.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What happened just before Vinod paid the difference?",
+      "questionMeaning": {
+        "hi": "विनोद के पैसे देने से ठीक पहले क्या हुआ?",
+        "hinglish": "Vinod ke paise dene se theek pehle kya hua?"
+      },
+      "options": [
+        "The T.T.E. appeared.",
+        "Vinod wanted to go back to Indore.",
+        "He saw a large crowd on the platform."
+      ],
+      "answer": "The T.T.E. appeared."
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.05.2.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "सही क्रम: 3. Vinod wanted to go back to Indore. 6. He was surprised to see an unusually large crowd on the platform. 5. He noticed some seats were vacant in the A/C coach. 7. A poorly-dressed young man jumped into the coach. 4. All the passengers were surprised to see such a man. 2. The T.T.E. appeared. 1. Vinod paid the difference.",
+        "hinglish": "Sahi kram: 3. Vinod wanted to go back to Indore. 6. He was surprised to see an unusually large crowd on the platform. 5. He noticed some seats were vacant in the A/C coach. 7. A poorly-dressed young man jumped into the coach. 4. All the passengers were surprised to see such a man. 2. The T.T.E. appeared. 1. Vinod paid the difference.",
+        "en": "The right order: 3. Vinod wanted to go back to Indore. 6. He was surprised to see an unusually large crowd on the platform. 5. He noticed some seats were vacant in the A/C coach. 7. A poorly-dressed young man jumped into the coach. 4. All the passengers were surprised to see such a man. 2. The T.T.E. appeared. 1. Vinod paid the difference."
+      }
+    }
+  ]
+}

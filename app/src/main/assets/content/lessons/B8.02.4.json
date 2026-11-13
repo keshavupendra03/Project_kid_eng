@@ -1,0 +1,190 @@
+{
+  "id": "B8.02.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.4.S02",
+    "B8.02.4.S03",
+    "B8.02.4.S04",
+    "B8.02.4.S05",
+    "B8.02.4.S06",
+    "B8.02.4.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.4.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 6-8 पर बातचीत पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 6-8 par baatcheet padho, phir jawab do.",
+        "en": "Read the dialogue on pages 6–8 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.4.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is Kanha Kisli?",
+      "questionMeaning": {
+        "hi": "कान्हा किसली क्या है?",
+        "hinglish": "Kanha Kisli kya hai?"
+      },
+      "options": [
+        "a beautiful National Park",
+        "a big city",
+        "a river"
+      ],
+      "answer": "a beautiful National Park",
+      "modelAnswer": "Kanha Kisli is a very beautiful National Park in Madhya Pradesh.",
+      "modelMeaning": {
+        "hi": "कान्हा किसली मध्य प्रदेश का एक बहुत सुंदर नेशनल पार्क है।",
+        "hinglish": "Kanha Kisli Madhya Pradesh ka ek bahut sundar National Park hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.4.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where is it situated?",
+      "questionMeaning": {
+        "hi": "यह कहाँ स्थित है?",
+        "hinglish": "Yeh kahan sthit hai?"
+      },
+      "options": [
+        "in Mandla district near Jabalpur",
+        "in Bhopal city",
+        "near Indore"
+      ],
+      "answer": "in Mandla district near Jabalpur",
+      "modelAnswer": "It is situated in Mandla district near Jabalpur in M.P. It is 83 km away from Balaghat.",
+      "modelMeaning": {
+        "hi": "यह म.प्र. में जबलपुर के पास मंडला ज़िले में है। बालाघाट से 83 किमी दूर है।",
+        "hinglish": "Yeh M.P. mein Jabalpur ke paas Mandla zile mein hai. Balaghat se 83 km door hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.4.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When did Kanha National Park come into existence?",
+      "questionMeaning": {
+        "hi": "कान्हा नेशनल पार्क कब बना?",
+        "hinglish": "Kanha National Park kab bana?"
+      },
+      "options": [
+        "in 1955",
+        "in 1947",
+        "in 2006"
+      ],
+      "answer": "in 1955",
+      "modelAnswer": "Kanha National Park came into existence in 1955.",
+      "modelMeaning": {
+        "hi": "कान्हा नेशनल पार्क 1955 में बना।",
+        "hinglish": "Kanha National Park 1955 mein bana."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.4.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What attracts the tourists there?",
+      "questionMeaning": {
+        "hi": "वहाँ पर्यटकों को क्या खींचता है?",
+        "hinglish": "Wahan paryatakon ko kya kheenchta hai?"
+      },
+      "options": [
+        "the tigers, wildlife and natural scenery",
+        "the shopping malls",
+        "the cinema halls"
+      ],
+      "answer": "the tigers, wildlife and natural scenery",
+      "modelAnswer": "The tigers, wild animals, birds and natural scenery attract the tourists there.",
+      "modelMeaning": {
+        "hi": "बाघ, जंगली जानवर, पक्षी और प्राकृतिक नज़ारे पर्यटकों को खींचते हैं।",
+        "hinglish": "Baagh, jungli jaanwar, pakshi aur praakritik nazaare paryatakon ko kheenchte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.4.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What type of huts are there at Kanha?",
+      "questionMeaning": {
+        "hi": "कान्हा में कैसी झोपड़ियाँ हैं?",
+        "hinglish": "Kanha mein kaisi jhopdiyaan hain?"
+      },
+      "options": [
+        "log huts",
+        "mud huts",
+        "glass huts"
+      ],
+      "answer": "log huts",
+      "modelAnswer": "There are log huts (Baghira log huts) at Kisli.",
+      "modelMeaning": {
+        "hi": "किसली में लकड़ी के लट्ठों से बनी झोपड़ियाँ (बघीरा लॉग हट्स) हैं।",
+        "hinglish": "Kisli mein lakdi ke latthon se bani jhopdiyaan (Baghira log huts) hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.4.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What else can be seen at Kanha besides animals?",
+      "questionMeaning": {
+        "hi": "जानवरों के अलावा कान्हा में और क्या दिखता है?",
+        "hinglish": "Jaanwaron ke alaava Kanha mein aur kya dikhta hai?"
+      },
+      "options": [
+        "about 200 species of birds",
+        "big factories",
+        "old palaces"
+      ],
+      "answer": "about 200 species of birds",
+      "modelAnswer": "Besides animals, about 200 species of birds can be seen at Kanha, like doves, hawks, eagles and woodpeckers.",
+      "modelMeaning": {
+        "hi": "जानवरों के अलावा कान्हा में पक्षियों की लगभग 200 प्रजातियाँ दिखती हैं, जैसे फ़ाख़्ता, बाज़, चील और कठफोड़वा।",
+        "hinglish": "Jaanwaron ke alaava Kanha mein pakshiyon ki lagbhag 200 prajaatiyaan dikhti hain, jaise faakhta, baaz, cheel aur kathphodva."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.4.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why should visitors reach Kisli before sunset?",
+      "questionMeaning": {
+        "hi": "सूरज ढलने से पहले किसली क्यों पहुँचें?",
+        "hinglish": "Sooraj dhalne se pehle Kisli kyon pahunchein?"
+      },
+      "options": [
+        "Vehicles are not allowed in the park after sunset.",
+        "The huts close at noon.",
+        "Tigers sleep at sunset."
+      ],
+      "answer": "Vehicles are not allowed in the park after sunset."
+    }
+  ]
+}

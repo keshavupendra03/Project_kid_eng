@@ -1,0 +1,177 @@
+{
+  "id": "B8.03.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.2.S01",
+    "B8.03.2.S03",
+    "B8.03.2.S04",
+    "B8.03.2.S05",
+    "B8.03.2.S06",
+    "B8.03.2.S07"
+  ],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B8.03.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "(A) कॉलम मिलाओ",
+        "hinglish": "(A) Column milaao",
+        "en": "(A) Match the columns"
+      },
+      "pairs": [
+        {
+          "left": "woodcutter",
+          "right": "one who cuts wood",
+          "meaning": {
+            "hi": "लकड़हारा",
+            "hinglish": "lakadhaara"
+          }
+        },
+        {
+          "left": "exhausted",
+          "right": "tired",
+          "meaning": {
+            "hi": "थका हुआ",
+            "hinglish": "thaka hua"
+          }
+        },
+        {
+          "left": "ornaments",
+          "right": "jewellery",
+          "meaning": {
+            "hi": "गहने",
+            "hinglish": "gehne"
+          }
+        },
+        {
+          "left": "ungrateful",
+          "right": "thankless",
+          "meaning": {
+            "hi": "एहसान फ़रामोश",
+            "hinglish": "ehsaan faraamosh"
+          }
+        },
+        {
+          "left": "release",
+          "right": "to free",
+          "meaning": {
+            "hi": "आज़ाद करना",
+            "hinglish": "aazaad karna"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.03.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(B) काम करने वाले को क्या कहते हैं? cut wood → woodcutter।",
+        "hinglish": "(B) Kaam karne waale ko kya kehte hain? cut wood → woodcutter.",
+        "en": "(B) What do we call them? cuts wood → woodcutter."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.2.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "one who cuts wood",
+      "questionMeaning": {
+        "hi": "लकड़ी काटने वाला",
+        "hinglish": "Lakdi kaatne waala"
+      },
+      "options": [
+        "woodcutter",
+        "wooder",
+        "carpenter"
+      ],
+      "answer": "woodcutter"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.2.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "one who makes jewellery",
+      "questionMeaning": {
+        "hi": "गहने बनाने वाला",
+        "hinglish": "Gehne banaane waala"
+      },
+      "options": [
+        "jeweller",
+        "jewelman",
+        "goldsmithy"
+      ],
+      "answer": "jeweller"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.2.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "one who saves others",
+      "questionMeaning": {
+        "hi": "दूसरों को बचाने वाला",
+        "hinglish": "Doosron ko bachaane waala"
+      },
+      "options": [
+        "saviour",
+        "saver man",
+        "savant"
+      ],
+      "answer": "saviour"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.2.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "one who travels",
+      "questionMeaning": {
+        "hi": "यात्रा करने वाला",
+        "hinglish": "Yaatra karne waala"
+      },
+      "options": [
+        "traveller",
+        "travelist",
+        "travelor"
+      ],
+      "answer": "traveller"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.2.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "one who makes sculptures",
+      "questionMeaning": {
+        "hi": "मूर्तियाँ बनाने वाला",
+        "hinglish": "Moortiyaan banaane waala"
+      },
+      "options": [
+        "sculptor",
+        "sculpturer",
+        "sculpter"
+      ],
+      "answer": "sculptor"
+    }
+  ]
+}

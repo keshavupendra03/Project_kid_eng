@@ -1,0 +1,199 @@
+{
+  "id": "B8.14.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.14.T.S01",
+    "B8.14.T.S02",
+    "B8.14.T.S03",
+    "B8.14.T.S04",
+    "B8.14.T.S05",
+    "B8.14.T.S06",
+    "B8.14.T.S07",
+    "B8.14.T.S08",
+    "B8.14.T.S09",
+    "B8.14.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.14.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "When and where was Chandra Shekhar born?",
+      "questionMeaning": {
+        "hi": "कब और कहाँ?",
+        "hinglish": "Kab aur kahan?"
+      },
+      "options": [
+        "on 23rd July 1906 in Bhabra, Jhabua district",
+        "in 1931 in Allahabad",
+        "in 1919 in Amritsar"
+      ],
+      "answer": "on 23rd July 1906 in Bhabra, Jhabua district"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What did he give as his residence before the magistrate?",
+      "questionMeaning": {
+        "hi": "निवास क्या बताया?",
+        "hinglish": "Nivaas kya bataaya?"
+      },
+      "options": [
+        "Prison",
+        "Bhabra",
+        "Varanasi"
+      ],
+      "answer": "Prison"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who was Chandra Shekhar Azad the mentor of?",
+      "questionMeaning": {
+        "hi": "किसके मार्गदर्शक?",
+        "hinglish": "Kiske maargdarshak?"
+      },
+      "options": [
+        "Bhagat Singh",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Bhagat Singh"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "r r e t o r → ?",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "terror",
+        "retro",
+        "error"
+      ],
+      "answer": "terror"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.T.S05",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "sentence": "The mice ___ as soon as they saw the cat.",
+      "answer": "disappeared",
+      "options": [
+        "disappeared",
+        "disagreed",
+        "disabled"
+      ],
+      "meaning": {
+        "hi": "चूहे ग़ायब हो गए।",
+        "hinglish": "Choohe gaayab ho gaye."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.14.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "The lion caught its ___.",
+      "answer": "prey",
+      "options": [
+        "prey",
+        "pray"
+      ],
+      "meaning": {
+        "hi": "शेर ने शिकार पकड़ा।",
+        "hinglish": "Sher ne shikaar pakda."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Asha: \"I don't want to play today.\"",
+      "questionMeaning": {
+        "hi": "रिपोर्ट करो",
+        "hinglish": "Report karo"
+      },
+      "options": [
+        "She said that she didn't want to play that day.",
+        "She said that I don't want to play today.",
+        "She said that she doesn't want to play today."
+      ],
+      "answer": "She said that she didn't want to play that day."
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.T.S08",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "How long is the lunch break?",
+      "questionMeaning": {
+        "hi": "लंच कितनी देर?",
+        "hinglish": "Lunch kitni der?"
+      },
+      "options": [
+        "35 minutes",
+        "1 hour",
+        "20 minutes"
+      ],
+      "answer": "35 minutes"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.T.S09",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "“Bhagat Singh became a symbol of freedom.” Who said this?",
+      "questionMeaning": {
+        "hi": "किसने कहा?",
+        "hinglish": "Kisne kaha?"
+      },
+      "options": [
+        "Pandit Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Chandra Shekhar Azad"
+      ],
+      "answer": "Pandit Jawaharlal Nehru"
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "‘valiantly’ means ...",
+      "questionMeaning": {
+        "hi": "मतलब",
+        "hinglish": "Matlab"
+      },
+      "options": [
+        "very bravely",
+        "very slowly",
+        "very sadly"
+      ],
+      "answer": "very bravely"
+    }
+  ]
+}

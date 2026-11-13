@@ -1,0 +1,169 @@
+{
+  "id": "B6.04.3",
+  "level": 6,
+  "bookSteps": [
+    "B6.04.3.S02",
+    "B6.04.3.S03",
+    "B6.04.3.S04",
+    "B6.04.3.S05",
+    "B6.04.3.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.04.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब के पेज 16 पर ‘My Childhood’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab ke page 16 par ‘My Childhood’ padho. Phir jawab do.",
+        "en": "Read ‘My Childhood’ on page 16 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What was the task that Mr. Giles set?",
+      "questionMeaning": {
+        "hi": "मिस्टर जाइल्स ने क्या काम दिया?",
+        "hinglish": "Mister Giles ne kya kaam diya?"
+      },
+      "options": [
+        "He gave five words to write as a spelling exercise.",
+        "He asked them to draw a picture.",
+        "He asked them to sing a song."
+      ],
+      "answer": "He gave five words to write as a spelling exercise.",
+      "modelAnswer": "Mr. Giles gave the students five words to write as a spelling exercise.",
+      "modelMeaning": {
+        "hi": "मिस्टर जाइल्स ने बच्चों को स्पेलिंग के अभ्यास के लिए पाँच शब्द लिखने को दिए।",
+        "hinglish": "Mister Giles ne bachchon ko spelling ke abhyaas ke liye paanch shabd likhne ko diye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why didn't Gandhiji copy?",
+      "questionMeaning": {
+        "hi": "गांधीजी ने नक़ल क्यों नहीं की?",
+        "hinglish": "Gandhiji ne nakal kyon nahi ki?"
+      },
+      "options": [
+        "He was honest and did not want to cheat.",
+        "He did not see his neighbour.",
+        "He knew all the spellings."
+      ],
+      "answer": "He was honest and did not want to cheat.",
+      "modelAnswer": "Gandhiji did not copy because he was honest. He did not want to cheat, even when the teacher tried to prompt him.",
+      "modelMeaning": {
+        "hi": "गांधीजी ने नक़ल नहीं की क्योंकि वे ईमानदार थे। टीचर के इशारे के बाद भी वे धोखा नहीं देना चाहते थे।",
+        "hinglish": "Gandhiji ne nakal nahi ki kyonki woh imaandaar the. Teacher ke ishaare ke baad bhi woh dhokha nahi dena chahte the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What left a lasting impression on Gandhiji's mind?",
+      "questionMeaning": {
+        "hi": "गांधीजी के मन पर गहरी छाप किसने छोड़ी?",
+        "hinglish": "Gandhiji ke man par gehri chhaap kisne chhodi?"
+      },
+      "options": [
+        "the book about Shravana and his picture carrying his blind parents",
+        "a film about kings",
+        "a trip to London"
+      ],
+      "answer": "the book about Shravana and his picture carrying his blind parents",
+      "modelAnswer": "The book ‘Shravana Pitrabhakti Natak’ and the picture of Shravana carrying his blind parents left a lasting impression on his mind.",
+      "modelMeaning": {
+        "hi": "‘श्रवण पितृभक्ति नाटक’ किताब और अंधे माता-पिता को काँवड़ में ले जाते श्रवण की तस्वीर ने उनके मन पर गहरी छाप छोड़ी।",
+        "hinglish": "‘Shravan Pitrabhakti Naatak’ kitaab aur andhe maata-pita ko kaanwad mein le jaate Shravan ki tasveer ne unke man par gehri chhaap chhodi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why were ‘Shravana’ and ‘Harishchandra’ important to Mahatma Gandhi?",
+      "questionMeaning": {
+        "hi": "श्रवण और हरिश्चंद्र गांधीजी के लिए क्यों ज़रूरी थे?",
+        "hinglish": "Shravan aur Harishchandra Gandhiji ke liye kyon zaroori the?"
+      },
+      "options": [
+        "They taught him love for parents and truthfulness.",
+        "They were his school friends.",
+        "They gave him money."
+      ],
+      "answer": "They taught him love for parents and truthfulness.",
+      "modelAnswer": "Shravana taught him love and service for parents, and Harishchandra taught him to always speak the truth. They were living realities for him.",
+      "modelMeaning": {
+        "hi": "श्रवण ने उन्हें माता-पिता की सेवा और हरिश्चंद्र ने हमेशा सच बोलना सिखाया। वे उनके लिए जीवित सच्चाई थे।",
+        "hinglish": "Shravan ne unhe maata-pita ki seva aur Harishchandra ne hamesha sach bolna sikhaaya. Woh unke liye jeevit sachchaai the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Are they important to you and why?",
+      "questionMeaning": {
+        "hi": "क्या वे तुम्हारे लिए ज़रूरी हैं, और क्यों?",
+        "hinglish": "Kya woh tumhare liye zaroori hain, aur kyon?"
+      },
+      "options": [
+        "Yes, they teach us to be truthful and to love our parents.",
+        "No, they are only old stories.",
+        "I don't know them."
+      ],
+      "answer": "Yes, they teach us to be truthful and to love our parents.",
+      "modelAnswer": "Yes, they are important to me because they teach me to always tell the truth and to love and serve my parents.",
+      "modelMeaning": {
+        "hi": "हाँ, वे मेरे लिए ज़रूरी हैं क्योंकि वे सिखाते हैं कि हमेशा सच बोलो और माता-पिता की सेवा करो।",
+        "hinglish": "Haan, woh mere liye zaroori hain kyonki woh sikhaate hain ki hamesha sach bolo aur maata-pita ki seva karo."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.04.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Gandhiji copied the spelling from his neighbour.",
+      "questionMeaning": {
+        "hi": "गांधीजी ने पड़ोसी से स्पेलिंग नक़ल की।",
+        "hinglish": "Gandhiji ne padosi se spelling nakal ki."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. He did not copy.",
+      "modelMeaning": {
+        "hi": "गलत। उन्होंने नक़ल नहीं की।",
+        "hinglish": "Galat. Unhone nakal nahi ki."
+      }
+    }
+  ]
+}

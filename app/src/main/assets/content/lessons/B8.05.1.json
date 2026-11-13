@@ -1,0 +1,125 @@
+{
+  "id": "B8.05.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.05.1.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.05.1.S01",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 34 पर कविता ‘The Miser and his Gold’ पढ़ो। एक कंजूस अपना सोना गड्ढे में छिपाकर रोज़ बस देखने आता है। एक दिन चोर सोना ले जाता है, तो पड़ोसी कहते हैं: अब रोज़ आकर गड्ढा देखते रहो! पहले ये शब्द सीख लो।",
+        "hinglish": "Apni kitaab mein page 34 par kavita ‘The Miser and his Gold’ padho. Ek kanjoos apna sona gaddhe mein chhipaakar roz bas dekhne aata hai. Ek din chor sona le jaata hai, to padosi kehte hain: ab roz aakar gaddha dekhte raho! Pehle yeh shabd seekh lo.",
+        "en": "Read the poem ‘The Miser and his Gold’ on page 34 of your book. A miser hides his gold in a hole and comes every day just to look at it. One day a robber takes it, and the neighbours say: now come every day and look at the hole! First learn these words."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.05.1.S02",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "word": {
+        "english": "miser",
+        "emoji": "",
+        "hindi": "कंजूस",
+        "hinglish": "kanjoos"
+      },
+      "meaning": "a person who hates to spend money",
+      "example": "The miser never bought anything.",
+      "exampleMeaning": {
+        "hi": "कंजूस ने कभी कुछ नहीं ख़रीदा।",
+        "hinglish": "Kanjoos ne kabhi kuchh nahi khareeda."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.05.1.S03",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "word": {
+        "english": "treasure",
+        "emoji": "",
+        "hindi": "ख़ज़ाना",
+        "hinglish": "khazaana"
+      },
+      "meaning": "a collection of valuable things",
+      "example": "He hid his treasure in a hole.",
+      "exampleMeaning": {
+        "hi": "उसने अपना ख़ज़ाना गड्ढे में छिपाया।",
+        "hinglish": "Usne apna khazaana gaddhe mein chhipaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.05.1.S04",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "word": {
+        "english": "knelt",
+        "emoji": "",
+        "hindi": "घुटनों के बल बैठा",
+        "hinglish": "ghutnon ke bal baitha"
+      },
+      "meaning": "went down on the knees",
+      "example": "He knelt by the hole.",
+      "exampleMeaning": {
+        "hi": "वह गड्ढे के पास घुटनों के बल बैठा।",
+        "hinglish": "Woh gaddhe ke paas ghutnon ke bal baitha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.05.1.S05",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "word": {
+        "english": "clatter",
+        "emoji": "",
+        "hindi": "शोर-शराबा",
+        "hinglish": "shor-sharaaba"
+      },
+      "meaning": "a loud noise",
+      "example": "He made a terrible clatter.",
+      "exampleMeaning": {
+        "hi": "उसने बहुत शोर मचाया।",
+        "hinglish": "Usne bahut shor machaaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.1.S06",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "question": "Think of a popular saying about a miser.",
+      "questionMeaning": {
+        "hi": "कंजूस पर कोई कहावत सोचो।",
+        "hinglish": "Kanjoos par koi kahaavat socho."
+      },
+      "options": [
+        "चमड़ी जाए पर दमड़ी न जाए",
+        "जल ही जीवन है"
+      ],
+      "answer": "चमड़ी जाए पर दमड़ी न जाए",
+      "modelAnswer": "In Hindi: ‘Chamdi jaaye par damdi na jaaye’ (he would lose his skin but not a penny). In English: ‘He would skin a flea for its hide.’",
+      "modelMeaning": {
+        "hi": "हिंदी में: ‘चमड़ी जाए पर दमड़ी न जाए’। अंग्रेज़ी में: ‘He would skin a flea for its hide.’",
+        "hinglish": "Hindi mein: ‘Chamdi jaaye par damdi na jaaye’. English mein: ‘He would skin a flea for its hide.’"
+      }
+    }
+  ]
+}

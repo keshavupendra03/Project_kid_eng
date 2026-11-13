@@ -1,0 +1,243 @@
+{
+  "id": "B8.15.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.15.3.S01",
+    "B8.15.3.S02",
+    "B8.15.3.S03",
+    "B8.15.3.S05"
+  ],
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "B8.15.3.S01",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "sentence": "We are three under the sweet cherry ___.",
+      "answer": "tree",
+      "options": [
+        "tree",
+        "wrong",
+        "weep"
+      ],
+      "meaning": {
+        "hi": "हम तीनों मीठे चेरी के पेड़ के नीचे हैं।",
+        "hinglish": "Hum teeno meethe cherry ke ped ke neeche hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.3.S02",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "sentence": "When I sing a song, I am never ___.",
+      "answer": "wrong",
+      "options": [
+        "wrong",
+        "tree",
+        "weep"
+      ],
+      "meaning": {
+        "hi": "जब मैं गाना गाता हूँ, कभी गलत नहीं होता।",
+        "hinglish": "Jab main gaana gaata hoon, kabhi galat nahi hota."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.3.S03",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "sentence": "When I sleep I never ___.",
+      "answer": "weep",
+      "options": [
+        "weep",
+        "wrong",
+        "tree"
+      ],
+      "meaning": {
+        "hi": "जब मैं सोता हूँ, कभी नहीं रोता।",
+        "hinglish": "Jab main sota hoon, kabhi nahi rota."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.15.3.S04",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "text": {
+        "hi": "g की दो आवाज़ें: page में ‘ज’ (giraffe), pig में ‘ग’ (glass)। अक्सर e, i, y से पहले g ‘ज’ बोलता है।",
+        "hinglish": "g ki do awaazein: page mein ‘j’ (giraffe), pig mein ‘g’ (glass). Aksar e, i, y se pehle g ‘j’ bolta hai.",
+        "en": "g has two sounds: ‘j’ as in page (giraffe) and ‘g’ as in pig (glass). Before e, i or y, g often sounds like j."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B8.15.3.S05",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "instruction": {
+        "hi": "g की आवाज़ के हिसाब से रखो",
+        "hinglish": "g ki awaaz ke hisaab se rakho",
+        "en": "Sort by the sound of g"
+      },
+      "groups": [
+        {
+          "id": "j",
+          "name": "g as in page",
+          "emoji": "🦒",
+          "meaning": {
+            "hi": "‘ज’ की आवाज़",
+            "hinglish": "‘j’ ki awaaz"
+          }
+        },
+        {
+          "id": "g",
+          "name": "g as in pig",
+          "emoji": "🐷",
+          "meaning": {
+            "hi": "‘ग’ की आवाज़",
+            "hinglish": "‘g’ ki awaaz"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "giraffe",
+          "emoji": "🦒",
+          "groups": [
+            "j"
+          ]
+        },
+        {
+          "text": "bridge",
+          "emoji": "🌉",
+          "groups": [
+            "j"
+          ]
+        },
+        {
+          "text": "cage",
+          "emoji": "🐦",
+          "groups": [
+            "j"
+          ]
+        },
+        {
+          "text": "gem",
+          "emoji": "💎",
+          "groups": [
+            "j"
+          ]
+        },
+        {
+          "text": "giant",
+          "emoji": "🧌",
+          "groups": [
+            "j"
+          ]
+        },
+        {
+          "text": "gypsy",
+          "emoji": "🎪",
+          "groups": [
+            "j"
+          ]
+        },
+        {
+          "text": "age",
+          "emoji": "🎂",
+          "groups": [
+            "j"
+          ]
+        },
+        {
+          "text": "message",
+          "emoji": "✉️",
+          "groups": [
+            "j"
+          ]
+        },
+        {
+          "text": "leg",
+          "emoji": "🦵",
+          "groups": [
+            "g"
+          ]
+        },
+        {
+          "text": "gun",
+          "emoji": "🔫",
+          "groups": [
+            "g"
+          ]
+        },
+        {
+          "text": "gate",
+          "emoji": "🚪",
+          "groups": [
+            "g"
+          ]
+        },
+        {
+          "text": "glass",
+          "emoji": "🥛",
+          "groups": [
+            "g"
+          ]
+        },
+        {
+          "text": "go",
+          "emoji": "🟢",
+          "groups": [
+            "g"
+          ]
+        },
+        {
+          "text": "bag",
+          "emoji": "👜",
+          "groups": [
+            "g"
+          ]
+        },
+        {
+          "text": "grass",
+          "emoji": "🌿",
+          "groups": [
+            "g"
+          ]
+        },
+        {
+          "text": "twig",
+          "emoji": "🌱",
+          "groups": [
+            "g"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "say_word",
+      "id": "B8.15.3.S06",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "giraffe",
+        "emoji": "",
+        "hindi": "जिराफ़",
+        "hinglish": "jiraaf"
+      }
+    }
+  ]
+}

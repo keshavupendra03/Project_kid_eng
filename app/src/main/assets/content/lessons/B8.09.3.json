@@ -1,0 +1,259 @@
+{
+  "id": "B8.09.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.09.3.S02",
+    "B8.09.3.S03",
+    "B8.09.3.S04",
+    "B8.09.3.S05",
+    "B8.09.3.S06",
+    "B8.09.3.S08",
+    "B8.09.3.S09",
+    "B8.09.3.S10",
+    "B8.09.3.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.09.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 73-75 पर इंटरव्यू पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 73-75 par interview padho, phir jawab do.",
+        "en": "Read the interview on pages 73–75 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When and where was Kalpana Chawla born?",
+      "questionMeaning": {
+        "hi": "कल्पना चावला कब और कहाँ पैदा हुईं?",
+        "hinglish": "Kalpana Chawla kab aur kahan paida huin?"
+      },
+      "options": [
+        "on 1 July 1961 in Karnal, Haryana",
+        "on 1 February 2003 in Texas",
+        "in 1984 in Delhi"
+      ],
+      "answer": "on 1 July 1961 in Karnal, Haryana",
+      "modelAnswer": "Kalpana Chawla was born on 1 July 1961 in Karnal, Haryana.",
+      "modelMeaning": {
+        "hi": "कल्पना चावला का जन्म 1 जुलाई 1961 को करनाल, हरियाणा में हुआ।",
+        "hinglish": "Kalpana Chawla ka janm 1 July 1961 ko Karnal, Haryana mein hua."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What were her hobbies?",
+      "questionMeaning": {
+        "hi": "उनके शौक़ क्या थे?",
+        "hinglish": "Unke shauk kya the?"
+      },
+      "options": [
+        "reading, flying, hiking and bird-watching",
+        "cooking and dancing",
+        "cricket and chess"
+      ],
+      "answer": "reading, flying, hiking and bird-watching",
+      "modelAnswer": "Her hobbies were reading, flying, hiking and bird-watching.",
+      "modelMeaning": {
+        "hi": "उनके शौक़ थे पढ़ना, उड़ान भरना, पहाड़ों पर पैदल घूमना और पक्षी देखना।",
+        "hinglish": "Unke shauk the padhna, udaan bharna, pahaadon par paidal ghoomna aur pakshi dekhna."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who inspired her to fly?",
+      "questionMeaning": {
+        "hi": "उन्हें उड़ने की प्रेरणा किसने दी?",
+        "hinglish": "Unhe udne ki prerna kisne di?"
+      },
+      "options": [
+        "J. R. D. Tata, the pioneering Indian pilot",
+        "Rakesh Sharma",
+        "her teacher"
+      ],
+      "answer": "J. R. D. Tata, the pioneering Indian pilot",
+      "modelAnswer": "She was inspired by the pioneering Indian pilot J. R. D. Tata.",
+      "modelMeaning": {
+        "hi": "उन्हें भारत के अग्रणी पायलट जे. आर. डी. टाटा से प्रेरणा मिली।",
+        "hinglish": "Unhe Bharat ke agrani pilot J. R. D. Tata se prerna mili."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When did she first fly into space?",
+      "questionMeaning": {
+        "hi": "वे पहली बार अंतरिक्ष में कब गईं?",
+        "hinglish": "Woh pehli baar antariksh mein kab gayin?"
+      },
+      "options": [
+        "on 19 November 1997",
+        "on 16 January 2003",
+        "in 1988"
+      ],
+      "answer": "on 19 November 1997",
+      "modelAnswer": "She first flew into space on 19 November 1997 in the Space Shuttle Columbia (flight STS-87).",
+      "modelMeaning": {
+        "hi": "वे पहली बार 19 नवंबर 1997 को स्पेस शटल कोलंबिया (STS-87) में अंतरिक्ष गईं।",
+        "hinglish": "Woh pehli baar 19 November 1997 ko Space Shuttle Columbia (STS-87) mein antariksh gayin."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How many experiments did the crew of Flight STS-107 perform?",
+      "questionMeaning": {
+        "hi": "STS-107 के दल ने कितने प्रयोग किए?",
+        "hinglish": "STS-107 ke dal ne kitne prayog kiye?"
+      },
+      "options": [
+        "eighty",
+        "eighteen",
+        "eight"
+      ],
+      "answer": "eighty",
+      "modelAnswer": "The crew of Flight STS-107 successfully performed eighty experiments in space.",
+      "modelMeaning": {
+        "hi": "STS-107 के दल ने अंतरिक्ष में अस्सी प्रयोग सफलता से किए।",
+        "hinglish": "STS-107 ke dal ne antariksh mein assi prayog safalta se kiye."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.09.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "(B) अब लंबे जवाब (3-5 वाक्य)।",
+        "hinglish": "(B) Ab lambe jawab (3-5 vaakya).",
+        "en": "(B) Now the longer answers (3–5 sentences)."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What courses did Kalpana Chawla go through to become an astronaut?",
+      "questionMeaning": {
+        "hi": "अंतरिक्ष यात्री बनने के लिए उन्होंने कौन से कोर्स किए?",
+        "hinglish": "Antariksh yaatri banne ke liye unhone kaun se course kiye?"
+      },
+      "options": [
+        "B.E. in Aeronautical Engineering, then M.S. and Ph.D. in Aerospace Engineering",
+        "only a pilot's licence",
+        "a medical degree"
+      ],
+      "answer": "B.E. in Aeronautical Engineering, then M.S. and Ph.D. in Aerospace Engineering",
+      "modelAnswer": "After passing Higher Secondary from Tagore School, Karnal in 1976, she did her Bachelor's in Aeronautical Engineering from Punjab Engineering College, Chandigarh in 1982. She did her Master's in Aerospace Engineering from the University of Texas in 1984 and her Ph.D. from the University of Colorado in 1988.",
+      "modelMeaning": {
+        "hi": "1976 में करनाल के टैगोर स्कूल से हायर सेकेंडरी के बाद उन्होंने 1982 में पंजाब इंजीनियरिंग कॉलेज, चंडीगढ़ से एयरोनॉटिकल इंजीनियरिंग की डिग्री ली। 1984 में टेक्सास यूनिवर्सिटी से एयरोस्पेस इंजीनियरिंग में मास्टर्स और 1988 में कोलोराडो यूनिवर्सिटी से पीएच.डी. की।",
+        "hinglish": "1976 mein Karnal ke Tagore School se Higher Secondary ke baad unhone 1982 mein Punjab Engineering College, Chandigarh se Aeronautical Engineering ki degree li. 1984 mein Texas University se Aerospace Engineering mein Master's aur 1988 mein Colorado University se Ph.D. ki."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Describe her first space mission.",
+      "questionMeaning": {
+        "hi": "उनके पहले अंतरिक्ष मिशन के बारे में बताओ।",
+        "hinglish": "Unke pehle antariksh mission ke baare mein batao."
+      },
+      "options": [
+        "Columbia flight STS-87 in 1997; she was mission specialist and robotic arm operator.",
+        "She flew alone to the moon.",
+        "She stayed on Mars."
+      ],
+      "answer": "Columbia flight STS-87 in 1997; she was mission specialist and robotic arm operator.",
+      "modelAnswer": "Her first space mission was in the Space Shuttle Columbia on 19 November 1997. The flight was called STS-87. She worked with a six-member crew as a mission specialist and prime robotic arm operator. She enjoyed every moment of it.",
+      "modelMeaning": {
+        "hi": "उनका पहला मिशन 19 नवंबर 1997 को स्पेस शटल कोलंबिया में था। उड़ान का नाम STS-87 था। उन्होंने छह लोगों के दल के साथ मिशन विशेषज्ञ और रोबोटिक आर्म चलाने वाली के रूप में काम किया। उन्हें हर पल अच्छा लगा।",
+        "hinglish": "Unka pehla mission 19 November 1997 ko Space Shuttle Columbia mein tha. Udaan ka naam STS-87 tha. Unhone chhah logon ke dal ke saath mission specialist aur robotic arm chalaane waali ke roop mein kaam kiya. Unhe har pal achha laga."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.3.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Describe her last space mission.",
+      "questionMeaning": {
+        "hi": "उनके आख़िरी मिशन के बारे में बताओ।",
+        "hinglish": "Unke aakhiri mission ke baare mein batao."
+      },
+      "options": [
+        "Columbia STS-107 in 2003; 80 experiments, but it broke up 16 minutes before landing.",
+        "It landed safely on the moon.",
+        "It never took off."
+      ],
+      "answer": "Columbia STS-107 in 2003; 80 experiments, but it broke up 16 minutes before landing.",
+      "modelAnswer": "Her last mission was Columbia flight STS-107. It took off on 16 January 2003 for science and research. The crew performed eighty experiments. Sadly, 16 minutes before landing the spacecraft developed a snag, and Columbia perished with her crew on 1 February 2003.",
+      "modelMeaning": {
+        "hi": "उनका आख़िरी मिशन कोलंबिया STS-107 था, जो 16 जनवरी 2003 को गया। दल ने अस्सी प्रयोग किए। दुख की बात है कि उतरने से 16 मिनट पहले यान में ख़राबी आई और 1 फ़रवरी 2003 को कोलंबिया अपने दल के साथ नष्ट हो गया।",
+        "hinglish": "Unka aakhiri mission Columbia STS-107 tha, jo 16 January 2003 ko gaya. Dal ne assi prayog kiye. Dukh ki baat hai ki utarne se 16 minute pehle yaan mein kharaabi aayi aur 1 February 2003 ko Columbia apne dal ke saath nasht ho gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.3.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which is an honour given to Kalpana Chawla after her death?",
+      "questionMeaning": {
+        "hi": "मृत्यु के बाद उन्हें कौन सा सम्मान मिला?",
+        "hinglish": "Mrityu ke baad unhe kaun sa sammaan mila?"
+      },
+      "options": [
+        "A hill on Mars is named after her.",
+        "A river was named after her.",
+        "She became Prime Minister."
+      ],
+      "answer": "A hill on Mars is named after her.",
+      "modelAnswer": "An asteroid (51826) and a hill on Mars are named after her. India named its weather satellites ‘Kalpana’. The University of Texas named a hall after her, and NASA dedicated a supercomputer to her.",
+      "modelMeaning": {
+        "hi": "एक क्षुद्रग्रह (51826) और मंगल की एक पहाड़ी उनके नाम पर है। भारत ने मौसम उपग्रहों का नाम ‘कल्पना’ रखा। टेक्सास यूनिवर्सिटी में एक हॉल और नासा का एक सुपर कंप्यूटर उनके नाम है।",
+        "hinglish": "Ek kshudragrah (51826) aur Mangal ki ek pahaadi unke naam par hai. Bharat ne mausam upgrahon ka naam ‘Kalpana’ rakha. Texas University mein ek hall aur NASA ka ek super computer unke naam hai."
+      }
+    }
+  ]
+}

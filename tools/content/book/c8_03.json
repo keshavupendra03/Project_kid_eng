@@ -1,0 +1,231 @@
+{
+  "grade": 8, "number": 3, "emoji": "💍", "title": "The Ungrateful Jeweller", "pages": "15–24",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["एक ग़रीब लकड़हारा कुएँ में फँसे बंदर, बाघ, साँप और एक सुनार को बाहर निकालता है। जानवर उसका एहसान चुकाते हैं, पर सुनार धोखा देता है। कौन कृतज्ञ निकला और कौन नहीं?", "Ek gareeb lakadhaara kuen mein phanse bandar, baagh, saanp aur ek sunaar ko baahar nikaalta hai. Jaanwar uska ehsaan chukaate hain, par sunaar dhokha deta hai. Kaun kritagya nikla aur kaun nahi?", "A poor woodcutter pulls a monkey, a tiger, a snake and a jeweller out of a well. The animals repay him, but the jeweller cheats him. Who was grateful, and who was not?"]},
+        {"book": true, "q": ["Have you ever helped anyone? How?", "क्या तुमने कभी किसी की मदद की है? कैसे?", "Kya tumne kabhi kisi ki madad ki hai? Kaise?", ["Yes, I helped an old man cross the road.", "No, I never help."], "Yes, I helped an old man cross the road.", "Answer about yourself, for example: Yes, I helped an old man cross the road. / I helped my friend with his homework.", "अपने बारे में बताओ, जैसे: हाँ, मैंने एक बूढ़े आदमी को सड़क पार कराई।", "Apne baare mein batao, jaise: Haan, maine ek boodhe aadmi ko sadak paar karaayi."]},
+        {"word": ["peep", "झाँकना", "jhaankna", "to look quickly through a small space", "He peeped into the well.", "उसने कुएँ में झाँका।", "Usne kuen mein jhaanka."]},
+        {"word": ["trapped", "फँसा हुआ", "phansa hua", "caught and unable to escape", "A cat was trapped on the roof.", "एक बिल्ली छत पर फँसी थी।", "Ek billi chhat par phansi thi."]},
+        {"word": ["in a fix", "दुविधा में", "duvidha mein", "in a difficult situation", "I was in a fix about what to do.", "मैं दुविधा में था कि क्या करूँ।", "Main duvidha mein tha ki kya karoon."]},
+        {"word": ["saviour", "रक्षक, बचाने वाला", "rakshak, bachaane waala", "one who saves others", "The woodcutter was their saviour.", "लकड़हारा उनका रक्षक था।", "Lakadhaara unka rakshak tha."]},
+        {"word": ["exhausted", "बहुत थका हुआ", "bahut thaka hua", "very tired", "He was exhausted after work.", "काम के बाद वह बहुत थका था।", "Kaam ke baad woh bahut thaka tha."]},
+        {"word": ["ungrateful", "एहसान फ़रामोश", "ehsaan faraamosh", "not thankful for help", "The jeweller was ungrateful.", "सुनार एहसान फ़रामोश था।", "Sunaar ehsaan faraamosh tha."]},
+        {"word": ["recover", "ठीक हो जाना", "theek ho jaana", "to become well again", "The queen recovered fully.", "रानी पूरी तरह ठीक हो गई।", "Rani poori tarah theek ho gayi."]},
+        {"word": ["release", "छोड़ देना, आज़ाद करना", "chhod dena, aazaad karna", "to set free", "The woodcutter was released from prison.", "लकड़हारे को जेल से छोड़ दिया गया।", "Lakadhaare ko jail se chhod diya gaya."]},
+        {"sayw": ["ungrateful", "एहसान फ़रामोश", "ehsaan faraamosh"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति: मिलान और ‘करने वाले’", "Shabd Shakti: milaan aur ‘karne waale’", "Word Power: match and name the doer"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"book": true, "pairs": ["(A) कॉलम मिलाओ", "(A) Column milaao", "(A) Match the columns", [
+          ["woodcutter", "one who cuts wood", "लकड़हारा", "lakadhaara"],
+          ["exhausted", "tired", "थका हुआ", "thaka hua"],
+          ["ornaments", "jewellery", "गहने", "gehne"],
+          ["ungrateful", "thankless", "एहसान फ़रामोश", "ehsaan faraamosh"],
+          ["release", "to free", "आज़ाद करना", "aazaad karna"]]]},
+        {"card": ["(B) काम करने वाले को क्या कहते हैं? cut wood → woodcutter।", "(B) Kaam karne waale ko kya kehte hain? cut wood → woodcutter.", "(B) What do we call them? cuts wood → woodcutter."]},
+        {"book": true, "q": ["one who cuts wood", "लकड़ी काटने वाला", "Lakdi kaatne waala", ["woodcutter", "wooder", "carpenter"], "woodcutter"]},
+        {"book": true, "q": ["one who makes jewellery", "गहने बनाने वाला", "Gehne banaane waala", ["jeweller", "jewelman", "goldsmithy"], "jeweller"]},
+        {"book": true, "q": ["one who saves others", "दूसरों को बचाने वाला", "Doosron ko bachaane waala", ["saviour", "saver man", "savant"], "saviour"]},
+        {"book": true, "q": ["one who travels", "यात्रा करने वाला", "Yaatra karne waala", ["traveller", "travelist", "travelor"], "traveller"]},
+        {"book": true, "q": ["one who makes sculptures", "मूर्तियाँ बनाने वाला", "Moortiyaan banaane waala", ["sculptor", "sculpturer", "sculpter"], "sculptor"]}
+      ]
+    },
+    {
+      "emoji": "🙏", "title": ["शब्द शक्ति (C): -ful वाले शब्द", "Shabd Shakti (C): -ful waale shabd", "Word Power (C): adjectives with -ful"], "book": true,
+      "skills": ["book.words", "grammar.prefix_suffix"],
+      "steps": [
+        {"card": ["संज्ञा + full = विशेषण, पर एक l हट जाता है: tact + full = tactful। कुछ शब्दों में आख़िरी अक्षर बदलता है: beauty → beautiful (y → i)।", "Sangya + full = visheshan, par ek l hat jaata hai: tact + full = tactful. Kuchh shabdon mein aakhiri akshar badalta hai: beauty → beautiful (y → i).", "Noun + full = adjective, but one l is dropped: tact + full = tactful. In some words the last letter changes: beauty → beautiful (y → i)."]},
+        {"book": true, "type": "crossword", "entries": [
+          {"number": 1, "answer": "thankful", "across": true, "clue": "thank + full = ___"},
+          {"number": 2, "answer": "graceful", "across": false, "clue": "grace + full = ___"},
+          {"number": 3, "answer": "peaceful", "across": true, "clue": "peace + full = ___"},
+          {"number": 4, "answer": "helpful", "across": false, "clue": "help + full = ___"},
+          {"number": 5, "answer": "painful", "across": true, "clue": "pain + full = ___"}
+        ]},
+        {"book": true, "q": ["meaning + full = ?", "-ful जोड़ो", "-ful jodo", ["meaningful", "meaningfull", "meanful"], "meaningful"]},
+        {"book": true, "q": ["wonder + full = ?", "-ful जोड़ो", "-ful jodo", ["wonderful", "wonderfull", "wondeful"], "wonderful"]},
+        {"book": true, "q": ["power + full = ?", "-ful जोड़ो", "-ful jodo", ["powerful", "powerfull", "powful"], "powerful"]},
+        {"book": true, "q": ["hope + full = ?", "-ful जोड़ो", "-ful jodo", ["hopeful", "hopefull", "hopful"], "hopeful"]},
+        {"q": ["beauty + full = ?", "-ful जोड़ो (y बदलेगा)", "-ful jodo (y badlega)", ["beautiful", "beautyful", "beautifull"], "beautiful"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 15-17 पर कहानी पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 15-17 par kahani padho, phir jawab do.", "Read the story on pages 15–17 of your book, then answer."]},
+        {"book": true, "q": ["When could the woodcutter not earn any money?", "लकड़हारा कब पैसे नहीं कमा पाता था?", "Lakadhaara kab paise nahi kama paata tha?", ["during the rainy season", "in summer", "on Sundays"], "during the rainy season", "The woodcutter could not earn any money during the rainy season.", "बरसात के मौसम में लकड़हारा पैसे नहीं कमा पाता था।", "Barsaat ke mausam mein lakadhaara paise nahi kama paata tha."]},
+        {"book": true, "q": ["Who were trapped in the well?", "कुएँ में कौन फँसे थे?", "Kuen mein kaun phanse the?", ["a monkey, a tiger, a snake and a jeweller", "a cat and a dog", "the king and the queen"], "a monkey, a tiger, a snake and a jeweller", "A monkey, a tiger, a snake and a jeweller were trapped in the well.", "कुएँ में एक बंदर, एक बाघ, एक साँप और एक सुनार फँसे थे।", "Kuen mein ek bandar, ek baagh, ek saanp aur ek sunaar phanse the."]},
+        {"book": true, "q": ["How did the tiger, the monkey and the snake help the woodcutter?", "बाघ, बंदर और साँप ने लकड़हारे की मदद कैसे की?", "Baagh, bandar aur saanp ne lakadhaare ki madad kaise ki?", ["The monkey gave fruit, the tiger gave gold ornaments, the snake got him freed.", "They all gave him money.", "They built him a house."], "The monkey gave fruit, the tiger gave gold ornaments, the snake got him freed.", "The monkey dropped sweet fruit for him, the tiger gave him a set of gold ornaments, and the snake helped him get out of prison and win the king's favour.", "बंदर ने मीठे फल गिराए, बाघ ने सोने के गहने दिए, और साँप ने उसे जेल से छुड़ाकर राजा की कृपा दिलाई।", "Bandar ne meethe phal giraaye, baagh ne sone ke gehne diye, aur saanp ne use jail se chhudaakar raja ki kripa dilaayi."]},
+        {"book": true, "q": ["Why was the woodcutter put in prison?", "लकड़हारे को जेल में क्यों डाला गया?", "Lakadhaare ko jail mein kyon daala gaya?", ["The jeweller told the king the ornaments were the princess's lost ones.", "He stole from the market.", "He killed the tiger."], "The jeweller told the king the ornaments were the princess's lost ones.", "The woodcutter was put in prison because the jeweller took the ornaments to the king and said they were the princess's lost ornaments.", "लकड़हारे को जेल हुई क्योंकि सुनार ने गहने राजा को दिखाकर कहा कि ये राजकुमारी के खोए हुए गहने हैं।", "Lakadhaare ko jail hui kyonki sunaar ne gehne raja ko dikhaakar kaha ki yeh raajkumaari ke khoye hue gehne hain."]},
+        {"book": true, "q": ["Who among the four proved ungrateful? How?", "चारों में से कौन एहसान फ़रामोश निकला? कैसे?", "Chaaron mein se kaun ehsaan faraamosh nikla? Kaise?", ["the jeweller; he got his saviour arrested", "the tiger; he attacked him", "the snake; he bit him"], "the jeweller; he got his saviour arrested", "The jeweller proved ungrateful. Instead of helping his saviour, he took the ornaments to the king and got the woodcutter arrested.", "सुनार एहसान फ़रामोश निकला। अपने रक्षक की मदद करने के बजाय उसने गहने राजा को दिए और लकड़हारे को गिरफ़्तार करवा दिया।", "Sunaar ehsaan faraamosh nikla. Apne rakshak ki madad karne ke bajaay usne gehne raja ko diye aur lakadhaare ko giraftaar karwa diya."]},
+        {"book": true, "q": ["What did the snake do to help the woodcutter?", "साँप ने लकड़हारे की मदद कैसे की?", "Saanp ne lakadhaare ki madad kaise ki?", ["It bit the queen so only the woodcutter's axe could cure her.", "It bit the jeweller.", "It brought him food in prison."], "It bit the queen so only the woodcutter's axe could cure her.", "The snake bit the queen and said she would recover only if the woodcutter touched her forehead with his axe. So the woodcutter saved her and won the king's favour.", "साँप ने रानी को काटा और कहा कि वह तभी ठीक होगी जब लकड़हारा अपनी कुल्हाड़ी उसके माथे से छुआएगा। इस तरह लकड़हारे ने रानी को बचाया और राजा की कृपा पाई।", "Saanp ne rani ko kaata aur kaha ki woh tabhi theek hogi jab lakadhaara apni kulhaadi uske maathe se chhuaayega. Is tarah lakadhaare ne rani ko bachaaya aur raja ki kripa paayi."]},
+        {"book": true, "q": ["What happened to the jeweller in the end?", "आख़िर में सुनार का क्या हुआ?", "Aakhir mein sunaar ka kya hua?", ["He was very much ashamed of his act.", "He became the king.", "He got a reward."], "He was very much ashamed of his act.", "In the end, the ungrateful jeweller was very much ashamed of his act.", "आख़िर में एहसान फ़रामोश सुनार अपने काम पर बहुत शर्मिंदा हुआ।", "Aakhir mein ehsaan faraamosh sunaar apne kaam par bahut sharminda hua."]}
+      ]
+    },
+    {
+      "emoji": "🐘", "title": ["सीखो (A): a, an, the", "Seekho (A): a, an, the", "Let's Learn (A): articles"], "book": true,
+      "skills": ["book.grammar", "grammar.articles"],
+      "steps": [
+        {"card": ["a/an किसी भी एक चीज़ के लिए (a cat, an elephant)। the उस चीज़ के लिए जिसकी बात पहले हो चुकी है या जो ख़ास है (the cat = वही बिल्ली)।", "a/an kisi bhi ek cheez ke liye (a cat, an elephant). the us cheez ke liye jiski baat pehle ho chuki hai ya jo khaas hai (the cat = wahi billi).", "a/an for any one thing (a cat, an elephant). the for something already mentioned or particular (the cat = that same cat)."]},
+        {"book": true, "fb": ["One day ___ cat climbed up a tree.", "a", ["a", "an", "the"], "एक दिन एक बिल्ली पेड़ पर चढ़ गई।", "Ek din ek billi ped par chadh gayi."]},
+        {"book": true, "fb": ["There lived ___ elephant at a nearby place.", "an", ["an", "a", "the"], "पास में एक हाथी रहता था।", "Paas mein ek haathi rehta tha."]},
+        {"book": true, "fb": ["It was ___ good friend of the cat.", "a", ["a", "an", "the"], "वह बिल्ली का अच्छा दोस्त था।", "Woh billi ka achha dost tha."]},
+        {"book": true, "fb": ["It heard ___ cry of the cat.", "the", ["the", "an", "a"], "उसने बिल्ली की पुकार सुनी।", "Usne billi ki pukaar suni."]},
+        {"book": true, "fb": ["It ran fast to help ___ cat.", "the", ["the", "an", "a"], "वह बिल्ली की मदद को तेज़ी से दौड़ा।", "Woh billi ki madad ko tezi se dauda."]},
+        {"book": true, "fb": ["Without climbing up the tree, ___ elephant caught the cat in his trunk.", "the", ["the", "a", "an"], "पेड़ पर चढ़े बिना हाथी ने बिल्ली को सूँड़ में पकड़ा।", "Ped par chadhe bina haathi ne billi ko soond mein pakda."]}
+      ]
+    },
+    {
+      "emoji": "📊", "title": ["सीखो (B): विशेषण की डिग्री", "Seekho (B): visheshan ki degree", "Let's Learn (B): degrees of adjectives"], "book": true,
+      "skills": ["book.grammar", "grammar.comparison"],
+      "steps": [
+        {"card": ["तीन डिग्री: positive (poor), comparative (poorer, दो में), superlative (poorest, सबमें)। लंबे शब्दों में more/most: beautiful, more beautiful, most beautiful। कुछ अलग: good, better, best; bad, worse, worst।", "Teen degree: positive (poor), comparative (poorer, do mein), superlative (poorest, sabmein). Lambe shabdon mein more/most: beautiful, more beautiful, most beautiful. Kuchh alag: good, better, best; bad, worse, worst.", "Three degrees: positive (poor), comparative (poorer, of two), superlative (poorest, of all). Long words use more/most. Some are different: good, better, best; bad, worse, worst."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर शब्द को उसकी डिग्री में रखो", "Har shabd ko uski degree mein rakho", "Put each word in its degree"],
+          "groups": [
+            {"id": "pos", "name": "positive", "emoji": "1️⃣", "meaning": ["मूल रूप", "mool roop"]},
+            {"id": "comp", "name": "comparative", "emoji": "2️⃣", "meaning": ["दो की तुलना", "do ki tulna"]},
+            {"id": "sup", "name": "superlative", "emoji": "3️⃣", "meaning": ["सबसे", "sabse"]}
+          ],
+          "items": [
+            {"text": "poor", "emoji": "🪙", "groups": ["pos"]},
+            {"text": "longer", "emoji": "📏", "groups": ["comp"]},
+            {"text": "greatest", "emoji": "🏆", "groups": ["sup"]},
+            {"text": "sweet", "emoji": "🍬", "groups": ["pos"]},
+            {"text": "sweeter", "emoji": "🍯", "groups": ["comp"]},
+            {"text": "most beautiful", "emoji": "🌸", "groups": ["sup"]},
+            {"text": "handsome", "emoji": "🤵", "groups": ["pos"]},
+            {"text": "more handsome", "emoji": "🎩", "groups": ["comp"]},
+            {"text": "poorest", "emoji": "🥀", "groups": ["sup"]}
+          ]},
+        {"book": true, "q": ["___ / more intelligent / ___", "ख़ाली जगह भरो", "Khaali jagah bharo", ["intelligent, most intelligent", "intelligenter, intelligentest", "intelligent, more intelligenter"], "intelligent, most intelligent"]},
+        {"book": true, "q": ["good / ___ / best", "ख़ाली जगह भरो", "Khaali jagah bharo", ["better", "gooder", "more good"], "better"]},
+        {"book": true, "q": ["___ / ___ / prettiest", "ख़ाली जगह भरो", "Khaali jagah bharo", ["pretty, prettier", "prety, pretier", "pretty, more pretty"], "pretty, prettier"]},
+        {"book": true, "q": ["___ / worse / worst", "ख़ाली जगह भरो", "Khaali jagah bharo", ["bad", "worser", "badly"], "bad"]},
+        {"book": true, "q": ["easy / easier / ___", "ख़ाली जगह भरो", "Khaali jagah bharo", ["easiest", "easyest", "most easy"], "easiest"]},
+        {"book": true, "q": ["___ / more difficult / ___", "ख़ाली जगह भरो", "Khaali jagah bharo", ["difficult, most difficult", "difficulter, difficultest", "difficult, difficultest"], "difficult, most difficult"]},
+        {"book": true, "q": ["few / ___ / fewest", "ख़ाली जगह भरो", "Khaali jagah bharo", ["fewer", "more few", "lesser"], "fewer"]},
+        {"book": true, "q": ["busy / ___ / ___", "ख़ाली जगह भरो", "Khaali jagah bharo", ["busier, busiest", "busyer, busyest", "more busy, most busiest"], "busier, busiest"]},
+        {"book": true, "q": ["___ / more / most", "ख़ाली जगह भरो", "Khaali jagah bharo", ["many / much", "mostly", "more than"], "many / much", "many (for things we count) or much (for things we don't count): many → more → most, much → more → most.", "many (गिनने वाली चीज़ें) या much (न गिनने वाली): दोनों का more, most।", "many (ginne waali cheezein) ya much (na ginne waali): dono ka more, most."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: नोबेल पुरस्कार", "Chalo baat karein: Nobel puraskaar", "Let's Talk: the Nobel Prize"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब: जोड़ी में नोबेल पुरस्कार पर सवाल-जवाब करो। Tinku पूछेगा, तुम जवाब दो।", "Kitaab: jodi mein Nobel puraskaar par sawaal-jawaab karo. Tinku poochhega, tum jawab do.", "The book: ask and answer about the Nobel Prize in pairs. Tinku asks, you reply."]},
+        {"book": true, "type": "roleplay", "scene": "🏅", "turns": [
+          {"id": "what", "tinku": "What is the highest award in the world?", "meaning": ["दुनिया का सबसे बड़ा पुरस्कार कौन सा है?", "Duniya ka sabse bada puraskaar kaun sa hai?"],
+            "replies": [
+              {"say": "The Nobel Prize is the highest award in the world.", "meaning": ["नोबेल पुरस्कार दुनिया का सबसे बड़ा पुरस्कार है।", "Nobel puraskaar duniya ka sabse bada puraskaar hai."], "patterns": ["the nobel prize *", "nobel prize *", "nobel prize", "the nobel prize"]}
+            ]},
+          {"id": "why", "tinku": "Why is it given?", "meaning": ["यह क्यों दिया जाता है?", "Yeh kyon diya jaata hai?"],
+            "replies": [
+              {"say": "It is given for special work in peace, science and literature.", "meaning": ["यह शांति, विज्ञान और साहित्य में ख़ास काम के लिए दिया जाता है।", "Yeh shaanti, vigyaan aur saahitya mein khaas kaam ke liye diya jaata hai."], "patterns": ["it is given for *", "for special work *", "for *"]}
+            ]},
+          {"id": "who", "tinku": "Who gives the Nobel Prize?", "meaning": ["नोबेल पुरस्कार कौन देता है?", "Nobel puraskaar kaun deta hai?"],
+            "replies": [
+              {"say": "Committees in Sweden and Norway give it.", "meaning": ["स्वीडन और नॉर्वे की समितियाँ देती हैं।", "Sweden aur Norway ki samitiyaan deti hain."], "patterns": ["committees in sweden and norway *", "* sweden *", "sweden and norway"]}
+            ]},
+          {"id": "sen", "tinku": "Who got the Nobel Prize in Economics?", "meaning": ["अर्थशास्त्र में नोबेल किसे मिला?", "Arthashaastra mein Nobel kise mila?"],
+            "replies": [
+              {"say": "Amartya Sen got the Nobel Prize in Economics.", "meaning": ["अमर्त्य सेन को अर्थशास्त्र का नोबेल मिला।", "Amartya Sen ko arthashaastra ka Nobel mila."], "patterns": ["amartya sen *", "amartya sen", "* sen *"], "next": "end"}
+            ]}
+        ]},
+        {"book": true, "q": ["In which of these fields is the Nobel Prize given?", "नोबेल किस क्षेत्र में दिया जाता है?", "Nobel kis kshetra mein diya jaata hai?", ["Physics", "Cricket", "Cooking"], "Physics", "It is given for Peace, Physics, Chemistry, Literature, Economics and Medicine.", "यह शांति, भौतिकी, रसायन, साहित्य, अर्थशास्त्र और चिकित्सा में दिया जाता है।", "Yeh shaanti, bhautiki, rasaayan, saahitya, arthashaastra aur chikitsa mein diya jaata hai."]}
+      ]
+    },
+    {
+      "emoji": "📰", "title": ["चलो पढ़ें: अख़बार की ख़बरें", "Chalo padhein: akhbaar ki khabrein", "Let's Read: newspaper cuttings"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 21 पर अख़बार की तीन ख़बरें पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 21 par akhbaar ki teen khabrein padho, phir jawab do.", "Read the three newspaper cuttings on page 21 of your book, then answer."]},
+        {"book": true, "q": ["The three news items are about ...", "तीन ख़बरें किस बारे में हैं?", "Teen khabrein kis baare mein hain?", ["a woman fighting a leopard, giant animals on islands, and the Delhi metro", "a cricket match, a film and the weather", "three new schools"], "a woman fighting a leopard, giant animals on islands, and the Delhi metro", "a. A woman fights a leopard to save her son. b. Isolated islands have giant species. c. The third phase of the Delhi metro was inaugurated.", "a. एक औरत ने बेटे को बचाने के लिए तेंदुए से लड़ाई की। b. अलग-थलग द्वीपों पर विशाल जीव। c. दिल्ली मेट्रो के तीसरे चरण का उद्घाटन।", "a. Ek aurat ne bete ko bachaane ke liye tendue se ladaai ki. b. Alag-thalag dweepon par vishaal jeev. c. Delhi metro ke teesre charan ka udghaatan."]},
+        {"book": true, "q": ["Who is the man-eater?", "आदमखोर कौन है?", "Aadamkhor kaun hai?", ["a leopard", "a tiger", "a crocodile"], "a leopard", "The man-eater is a leopard.", "आदमखोर एक तेंदुआ है।", "Aadamkhor ek tendua hai."]},
+        {"book": true, "q": ["Why do animals on islands evolve into gigantic versions?", "द्वीपों पर जानवर विशाल क्यों हो जाते हैं?", "Dweepon par jaanwar vishaal kyon ho jaate hain?", ["because of isolation and lack of competition", "because they eat sugar", "because of the cold"], "because of isolation and lack of competition", "Animals on islands evolve into gigantic versions because of isolation and a lack of competition.", "द्वीपों पर जानवर अकेलेपन और मुक़ाबले की कमी की वजह से विशाल हो जाते हैं।", "Dweepon par jaanwar akelepan aur muqaable ki kami ki wajah se vishaal ho jaate hain."]},
+        {"book": true, "q": ["Who is Sue Lieberman?", "सू लीबरमैन कौन हैं?", "Sue Lieberman kaun hain?", ["an evolutionary biologist at WWF International", "a film actress", "the Prime Minister"], "an evolutionary biologist at WWF International", "Sue Lieberman is an evolutionary biologist and director of the global species programme for WWF International.", "सू लीबरमैन एक जीव-विकास वैज्ञानिक और WWF इंटरनेशनल के वैश्विक प्रजाति कार्यक्रम की निदेशक हैं।", "Sue Lieberman ek jeev-vikaas vaigyaanik aur WWF International ke vaishvik prajaati kaaryakram ki nideshak hain."]},
+        {"book": true, "q": ["Which is the longest stretch of the Delhi metro rail?", "दिल्ली मेट्रो का सबसे लंबा हिस्सा कौन सा है?", "Delhi metro ka sabse lamba hissa kaun sa hai?", ["Rajiv Chowk to Dwarka (22.8 km)", "Kashmere Gate to Rohini", "Delhi to Agra"], "Rajiv Chowk to Dwarka (22.8 km)", "The 22.8 km stretch from Rajiv Chowk to Dwarka is the longest for the Delhi metro rail.", "राजीव चौक से द्वारका तक 22.8 किमी का हिस्सा दिल्ली मेट्रो का सबसे लंबा है।", "Rajiv Chowk se Dwarka tak 22.8 km ka hissa Delhi metro ka sabse lamba hai."]},
+        {"book": true, "q": ["What are Komodo dragons?", "कोमोडो ड्रैगन क्या हैं?", "Komodo dragon kya hain?", ["the world's largest lizards", "flying snakes", "big birds"], "the world's largest lizards", "Komodo dragons are the world's largest lizards. They can be 3 metres long and weigh up to 225 kg.", "कोमोडो ड्रैगन दुनिया की सबसे बड़ी छिपकलियाँ हैं। ये 3 मीटर लंबी और 225 किलो तक भारी हो सकती हैं।", "Komodo dragon duniya ki sabse badi chhipkaliyaan hain. Yeh 3 meter lambi aur 225 kilo tak bhaari ho sakti hain."]}
+      ]
+    },
+    {
+      "emoji": "✒️", "title": ["चलो लिखें (I): विराम चिह्न", "Chalo likhein (I): viraam chihn", "Let's Write (I): punctuation"], "book": true,
+      "skills": ["book.writing", "grammar.punctuation"],
+      "steps": [
+        {"card": ["याद रखो: वाक्य और नाम (Seema, Mumbai) बड़े अक्षर से। सवाल पर ?, हैरानी पर !, सूची में कॉमा (,)।", "Yaad rakho: vaakya aur naam (Seema, Mumbai) bade akshar se. Sawaal par ?, hairaani par !, soochi mein comma (,).", "Remember: sentences and names (Seema, Mumbai) start with capitals. ? for questions, ! for surprise, commas in a list."]},
+        {"book": true, "q": ["seema says they will leave for mumbai", "सही विराम चिह्न वाला वाक्य चुनो", "Sahi viraam chihn waala vaakya chuno", ["Seema says they will leave for Mumbai.", "seema says they will leave for mumbai.", "Seema says they will leave for Mumbai?"], "Seema says they will leave for Mumbai."]},
+        {"book": true, "q": ["have you heard about missiles", "सही विराम चिह्न वाला वाक्य चुनो", "Sahi viraam chihn waala vaakya chuno", ["Have you heard about missiles?", "Have you heard about missiles.", "have you heard about missiles!"], "Have you heard about missiles?"]},
+        {"book": true, "q": ["what a beautiful building", "सही विराम चिह्न वाला वाक्य चुनो", "Sahi viraam chihn waala vaakya chuno", ["What a beautiful building!", "What a beautiful building?", "what a beautiful building."], "What a beautiful building!"]},
+        {"book": true, "q": ["ram mohan sohan twinkle are friends", "सही विराम चिह्न वाला वाक्य चुनो", "Sahi viraam chihn waala vaakya chuno", ["Ram, Mohan, Sohan, Twinkle are friends.", "ram, mohan, sohan, twinkle are friends.", "Ram Mohan Sohan Twinkle are friends?"], "Ram, Mohan, Sohan, Twinkle are friends."]},
+        {"book": true, "q": ["can you put these articles on the rack", "सही विराम चिह्न वाला वाक्य चुनो", "Sahi viraam chihn waala vaakya chuno", ["Can you put these articles on the rack?", "Can you put these articles on the rack.", "can you put these articles on the Rack?"], "Can you put these articles on the rack?"]},
+        {"book": true, "q": ["do you know how rumours spread", "सही विराम चिह्न वाला वाक्य चुनो", "Sahi viraam chihn waala vaakya chuno", ["Do you know how rumours spread?", "Do you know how rumours spread!", "do you know how rumours spread."], "Do you know how rumours spread?"]},
+        {"book": true, "q": ["the poem is about the winter season", "सही विराम चिह्न वाला वाक्य चुनो", "Sahi viraam chihn waala vaakya chuno", ["The poem is about the winter season.", "The poem is about the winter season?", "the Poem is about the Winter season."], "The poem is about the winter season."]},
+        {"book": true, "q": ["if you came across a helpless man what would you do", "सही विराम चिह्न वाला वाक्य चुनो", "Sahi viraam chihn waala vaakya chuno", ["If you came across a helpless man, what would you do?", "If you came across a helpless man. What would you do.", "if you came across a helpless man, what would you do!"], "If you came across a helpless man, what would you do?"]}
+      ]
+    },
+    {
+      "emoji": "🍬", "title": ["चलो लिखें (II): अजनबी से खाना मत लो", "Chalo likhein (II): ajnabi se khaana mat lo", "Let's Write (II): never take food from strangers"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: तस्वीरों और सुरागों से कहानी लिखो: सफ़र में अजनबी से खाने की चीज़ें लेना ख़तरनाक है। उनमें नशे की दवा हो सकती है, और तुम्हारा सामान चोरी हो सकता है।", "Kitaab: tasveeron aur suraagon se kahani likho: safar mein ajnabi se khaane ki cheezein lena khatarnaak hai. Unmein nashe ki dava ho sakti hai, aur tumhara saamaan chori ho sakta hai.", "The book: write a story from the pictures and clues: it is dangerous to take eatables from a stranger while travelling. They may have drugs, and you may lose your belongings."]},
+        {"word": ["stranger", "अजनबी", "ajnabi", "a person you do not know", "Do not talk to strangers.", "अजनबियों से बात मत करो।", "Ajnabiyon se baat mat karo."]},
+        {"word": ["rogue", "बदमाश, ठग", "badmaash, thag", "a dishonest person", "The rogue stole his bag.", "ठग ने उसका बैग चुरा लिया।", "Thag ne uska bag chura liya."]},
+        {"book": true, "build": ["रमेश ट्रेन से सफ़र कर रहा था।", "Ramesh train se safar kar raha tha.", "Begin the story: Ramesh is on a train journey.", "Ramesh was travelling by train.", "रमेश ट्रेन से सफ़र कर रहा था।", "Ramesh train se safar kar raha tha."]},
+        {"book": true, "build": ["एक अजनबी ने उसे मिठाई दी।", "Ek ajnabi ne use mithaai di.", "Tell what the stranger offered.", "A stranger offered him some sweets.", "एक अजनबी ने उसे कुछ मिठाई दी।", "Ek ajnabi ne use kuchh mithaai di."]},
+        {"book": true, "build": ["मिठाई खाकर वह सो गया।", "Mithaai khaakar woh so gaya.", "Tell what happened after he ate.", "He fell asleep after eating the sweets.", "मिठाई खाकर वह सो गया।", "Mithaai khaakar woh so gaya."]},
+        {"book": true, "build": ["जब वह जागा, उसका बैग गायब था।", "Jab woh jaaga, uska bag gaayab tha.", "Tell what he found when he woke up.", "When he woke up, his bag was missing.", "जब वह जागा, उसका बैग गायब था।", "Jab woh jaaga, uska bag gaayab tha."]},
+        {"book": true, "build": ["सफ़र में कभी अजनबी से खाना मत लो।", "Safar mein kabhi ajnabi se khaana mat lo.", "End with the lesson of the story.", "Never take food from a stranger while travelling.", "सफ़र में कभी अजनबी से खाना मत लो।", "Safar mein kabhi ajnabi se khaana mat lo."]}
+      ]
+    },
+    {
+      "emoji": "🏳️", "title": ["चलो करके देखें: आदर्श वाक्य (Mottos)", "Chalo karke dekhein: aadarsh vaakya (Mottos)", "Let's Do It: mottos"], "book": true,
+      "skills": ["book.activity"],
+      "steps": [
+        {"card": ["किताब: कुछ आदर्श वाक्य (mottos) ढूँढो, चार्ट पर मोटे अक्षरों में लिखो और कक्षा में टाँगो। उदाहरण: TRUTH ALONE WINS।", "Kitaab: kuchh aadarsh vaakya (mottos) dhoondho, chart par mote aksharon mein likho aur kaksha mein taango. Udaaharan: TRUTH ALONE WINS.", "The book: find some mottos, write them in bold letters on a chart and hang it in your classroom. Example: TRUTH ALONE WINS."]},
+        {"book": true, "q": ["India's motto ‘Satyameva Jayate’ means ...", "‘सत्यमेव जयते’ का मतलब", "‘Satyameva Jayate’ ka matlab", ["Truth alone wins.", "Work is worship.", "Unity is strength."], "Truth alone wins."]},
+        {"pairs": ["हिंदी आदर्श वाक्य को अंग्रेज़ी से जोड़ो", "Hindi aadarsh vaakya ko English se jodo", "Join each motto to its English meaning", [
+          ["Satyameva Jayate", "Truth alone wins.", "सत्यमेव जयते", "Satyameva Jayate"],
+          ["Vasudhaiva Kutumbakam", "The world is one family.", "वसुधैव कुटुम्बकम्", "Vasudhaiva Kutumbakam"],
+          ["Karm hi pooja hai", "Work is worship.", "कर्म ही पूजा है", "Karm hi pooja hai"],
+          ["Ekta mein shakti hai", "Unity is strength.", "एकता में शक्ति है", "Ekta mein shakti hai"]]]},
+        {"says": ["Truth alone wins.", "सत्य की ही जीत होती है।", "Satya ki hi jeet hoti hai."], "skills": ["speak.sentence", "book.activity"]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: भारत के नोबेल विजेता", "Aur seekho: Bharat ke Nobel vijeta", "Learn more: India's Nobel winners"], "book": false,
+      "skills": ["vocab.meaning"],
+      "steps": [
+        {"pairs": ["विजेता को उसके क्षेत्र से जोड़ो", "Vijeta ko uske kshetra se jodo", "Join each winner to the field", [
+          ["Rabindranath Tagore", "Literature", "रवींद्रनाथ टैगोर — साहित्य", "Rabindranath Tagore — saahitya"],
+          ["C. V. Raman", "Physics", "सी. वी. रमन — भौतिकी", "C. V. Raman — bhautiki"],
+          ["Mother Teresa", "Peace", "मदर टेरेसा — शांति", "Mother Teresa — shaanti"],
+          ["Amartya Sen", "Economics", "अमर्त्य सेन — अर्थशास्त्र", "Amartya Sen — arthashaastra"]]]},
+        {"q": ["Kailash Satyarthi, who won the Nobel Peace Prize in 2014 for helping children, was born in which M.P. town?", "बच्चों की मदद के लिए 2014 में नोबेल शांति पुरस्कार पाने वाले कैलाश सत्यार्थी म.प्र. के किस शहर में जन्मे?", "Bachchon ki madad ke liye 2014 mein Nobel shaanti puraskaar paane waale Kailash Satyarthi M.P. ke kis shahar mein janme?", ["Vidisha", "Indore", "Rewa"], "Vidisha"]},
+        {"q": ["The lesson of ‘The Ungrateful Jeweller’ is ...", "कहानी की सीख", "Kahani ki seekh", ["Always be grateful to those who help you.", "Never help anyone.", "Animals are dangerous."], "Always be grateful to those who help you."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 3 का टेस्ट", "Paath 3 ka test", "Lesson 3 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Who among the four proved ungrateful?", "कौन एहसान फ़रामोश निकला?", "Kaun ehsaan faraamosh nikla?", ["the jeweller", "the tiger", "the snake"], "the jeweller"]},
+        {"book": true, "q": ["When could the woodcutter not earn money?", "कब पैसे नहीं कमा पाता था?", "Kab paise nahi kama paata tha?", ["during the rainy season", "in summer", "on Sundays"], "during the rainy season"]},
+        {"book": true, "skills": ["book.words"], "q": ["exhausted means ...", "मतलब", "Matlab", ["tired", "thankless", "to free"], "tired"]},
+        {"book": true, "skills": ["book.words"], "q": ["one who makes sculptures", "मूर्तियाँ बनाने वाला", "Moortiyaan banaane waala", ["sculptor", "sculpturer", "sculpter"], "sculptor"]},
+        {"book": true, "skills": ["book.words", "grammar.prefix_suffix"], "q": ["peace + full = ?", "-ful जोड़ो", "-ful jodo", ["peaceful", "peacefull", "peacful"], "peaceful"]},
+        {"book": true, "skills": ["book.grammar", "grammar.articles"], "fb": ["There lived ___ elephant nearby.", "an", ["an", "a", "the"], "पास में एक हाथी रहता था।", "Paas mein ek haathi rehta tha."]},
+        {"book": true, "skills": ["book.grammar", "grammar.comparison"], "q": ["good / better / ___", "डिग्री", "Degree", ["best", "goodest", "most good"], "best"]},
+        {"book": true, "skills": ["book.grammar", "grammar.comparison"], "q": ["busy / ___ / busiest", "डिग्री", "Degree", ["busier", "busyer", "more busy"], "busier"]},
+        {"book": true, "skills": ["book.writing", "grammar.punctuation"], "q": ["what a beautiful building", "विराम चिह्न", "Viraam chihn", ["What a beautiful building!", "What a beautiful building?", "what a beautiful building."], "What a beautiful building!"]},
+        {"book": true, "q": ["What are Komodo dragons?", "कोमोडो ड्रैगन?", "Komodo dragon?", ["the world's largest lizards", "flying snakes", "big birds"], "the world's largest lizards"]}
+      ]
+    }
+  ]
+}

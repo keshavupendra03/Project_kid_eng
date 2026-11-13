@@ -1,0 +1,96 @@
+{
+  "id": "B7.11.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.11.7.S02",
+    "B7.11.7.S03",
+    "B7.11.7.S04",
+    "B7.11.7.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.11.7.S01",
+      "skills": [
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब कहती है: त्योहारों की तस्वीरें इकट्ठा करके कॉपी में चिपकाओ। पहले यहाँ तस्वीर से त्योहार पहचानो।",
+        "hinglish": "Kitaab kehti hai: tyohaaron ki tasveerein ikattha karke copy mein chipkaao. Pehle yahan tasveer se tyohaar pehchaano.",
+        "en": "The book says: collect festival pictures and paste them in your notebook. First, name the festival from the picture here."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.7.S02",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which festival is this? 🪔",
+      "questionMeaning": {
+        "hi": "यह कौन सा त्योहार है?",
+        "hinglish": "Yeh kaun sa tyohaar hai?"
+      },
+      "options": [
+        "Diwali",
+        "Christmas",
+        "Holi"
+      ],
+      "answer": "Diwali"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.7.S03",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which festival is this? 🎄",
+      "questionMeaning": {
+        "hi": "यह कौन सा त्योहार है?",
+        "hinglish": "Yeh kaun sa tyohaar hai?"
+      },
+      "options": [
+        "Christmas",
+        "Id",
+        "Lohri"
+      ],
+      "answer": "Christmas"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.7.S04",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which festival is this? 🌙",
+      "questionMeaning": {
+        "hi": "यह कौन सा त्योहार है?",
+        "hinglish": "Yeh kaun sa tyohaar hai?"
+      },
+      "options": [
+        "Id",
+        "Diwali",
+        "Holi"
+      ],
+      "answer": "Id"
+    },
+    {
+      "type": "choice",
+      "id": "B7.11.7.S05",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which festival is this? 🪁",
+      "questionMeaning": {
+        "hi": "यह कौन सा त्योहार है?",
+        "hinglish": "Yeh kaun sa tyohaar hai?"
+      },
+      "options": [
+        "Makar Sankranti",
+        "Christmas",
+        "Id"
+      ],
+      "answer": "Makar Sankranti"
+    }
+  ]
+}

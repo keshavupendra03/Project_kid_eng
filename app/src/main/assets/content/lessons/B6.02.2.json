@@ -1,0 +1,181 @@
+{
+  "id": "B6.02.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.02.2.S02",
+    "B6.02.2.S03",
+    "B6.02.2.S04",
+    "B6.02.2.S05",
+    "B6.02.2.S06",
+    "B6.02.2.S07",
+    "B6.02.2.S08",
+    "B6.02.2.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.02.2.S01",
+      "skills": [
+        "book.words",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब: कविता पढ़कर खाली जगह भरो।",
+        "hinglish": "Kitaab: kavita padhkar khaali jagah bharo.",
+        "en": "The book: read the poem and fill in the blanks."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.2.S02",
+      "skills": [
+        "book.words",
+        "read.understand"
+      ],
+      "sentence": "How do you like to go up in a ___,",
+      "answer": "swing",
+      "options": [
+        "swing",
+        "wall",
+        "roof"
+      ],
+      "meaning": {
+        "hi": "तुम्हें झूले पर ऊपर जाना कैसा लगता है,",
+        "hinglish": "Tumhe jhoole par upar jaana kaisa lagta hai,"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.2.S03",
+      "skills": [
+        "book.words",
+        "read.understand"
+      ],
+      "sentence": "Up in the air so ___?",
+      "answer": "blue",
+      "options": [
+        "blue",
+        "brown",
+        "green"
+      ],
+      "meaning": {
+        "hi": "इतनी नीली हवा में ऊपर?",
+        "hinglish": "Itni neeli hawa mein upar?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.2.S04",
+      "skills": [
+        "book.words",
+        "read.understand"
+      ],
+      "sentence": "Oh, I do think it's the ___ thing",
+      "answer": "pleasantest",
+      "options": [
+        "pleasantest",
+        "biggest",
+        "saddest"
+      ],
+      "meaning": {
+        "hi": "मुझे लगता है यह सबसे सुहानी चीज़ है",
+        "hinglish": "Mujhe lagta hai yeh sabse suhaani cheez hai"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.2.S05",
+      "skills": [
+        "book.words",
+        "read.understand"
+      ],
+      "sentence": "Ever a ___ can do!",
+      "answer": "child",
+      "options": [
+        "child",
+        "cow",
+        "king"
+      ],
+      "meaning": {
+        "hi": "जो कोई बच्चा कर सकता है!",
+        "hinglish": "Jo koi bachcha kar sakta hai!"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.2.S06",
+      "skills": [
+        "book.words",
+        "read.understand"
+      ],
+      "sentence": "Till I look down on the garden ___.",
+      "answer": "green",
+      "options": [
+        "green",
+        "blue",
+        "brown"
+      ],
+      "meaning": {
+        "hi": "जब तक मैं नीचे हरे बग़ीचे को देखता हूँ।",
+        "hinglish": "Jab tak main neeche hare bageeche ko dekhta hoon."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.2.S07",
+      "skills": [
+        "book.words",
+        "read.understand"
+      ],
+      "sentence": "Down on the roof so ___,",
+      "answer": "brown",
+      "options": [
+        "brown",
+        "blue",
+        "green"
+      ],
+      "meaning": {
+        "hi": "नीचे इतनी भूरी छत पर,",
+        "hinglish": "Neeche itni bhoori chhat par,"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.2.S08",
+      "skills": [
+        "book.words",
+        "read.understand"
+      ],
+      "sentence": "Up in the air I go ___ again,",
+      "answer": "flying",
+      "options": [
+        "flying",
+        "sleeping",
+        "eating"
+      ],
+      "meaning": {
+        "hi": "मैं फिर से हवा में उड़ता हूँ,",
+        "hinglish": "Main phir se hawa mein udta hoon,"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.02.2.S09",
+      "skills": [
+        "book.words",
+        "read.understand"
+      ],
+      "sentence": "Up in the air and ___!",
+      "answer": "down",
+      "options": [
+        "down",
+        "out",
+        "in"
+      ],
+      "meaning": {
+        "hi": "ऊपर हवा में और नीचे!",
+        "hinglish": "Upar hawa mein aur neeche!"
+      }
+    }
+  ]
+}

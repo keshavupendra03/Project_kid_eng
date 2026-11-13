@@ -1,0 +1,191 @@
+{
+  "grade": 8, "number": 10, "emoji": "🎈", "title": "The Balloon Man", "pages": "80–87",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["यह कविता Rose Fyleman की है। बाज़ार के दिन एक गुब्बारे वाला रंग-बिरंगे गुब्बारों का गुच्छा लेकर आता है। हवा चलने पर गुब्बारे डोर खींचते हैं, और बच्चे सोचते हैं कि किसी दिन वह उन्हें आसमान में छोड़ देगा!", "Yeh kavita Rose Fyleman ki hai. Baazaar ke din ek gubbaare waala rang-birange gubbaaron ka guchchha lekar aata hai. Hawa chalne par gubbaare dor kheenchte hain, aur bachche sochte hain ki kisi din woh unhe aasmaan mein chhod dega!", "This poem is by Rose Fyleman. On market days a balloon man comes with a bunch of colourful balloons. When the wind blows they tug at the string, and the children hope that one day he will let them fly into the sky!"]},
+        {"book": true, "q": ["Why do you like balloons?", "तुम्हें गुब्बारे क्यों पसंद हैं?", "Tumhe gubbaare kyon pasand hain?", ["They are colourful and fun to play with.", "They are heavy."], "They are colourful and fun to play with.", "Answer about yourself: I like balloons because they are colourful, light and fun to play with.", "अपने बारे में बताओ: मुझे गुब्बारे पसंद हैं क्योंकि वे रंग-बिरंगे, हल्के और खेलने में मज़ेदार हैं।", "Apne baare mein batao: Mujhe gubbaare pasand hain kyonki woh rang-birange, halke aur khelne mein mazedaar hain."]},
+        {"book": true, "q": ["On what occasions do you use balloons?", "गुब्बारे किन मौक़ों पर लगाते हो?", "Gubbaare kin maukon par lagaate ho?", ["birthdays, weddings and festivals", "only exams", "never"], "birthdays, weddings and festivals", "We use balloons on birthdays, weddings, festivals, fairs and school functions.", "हम जन्मदिन, शादी, त्योहार, मेले और स्कूल के कार्यक्रमों में गुब्बारे लगाते हैं।", "Hum janmdin, shaadi, tyohaar, mele aur school ke kaaryakramon mein gubbaare lagaate hain."]},
+        {"word": ["bunch", "गुच्छा", "guchchha", "a group of things held together", "He holds a bunch of balloons.", "उसके हाथ में गुब्बारों का गुच्छा है।", "Uske haath mein gubbaaron ka guchchha hai."]},
+        {"word": ["market square", "बाज़ार का चौक", "baazaar ka chauk", "an open place in the market", "He stays in the market square.", "वह बाज़ार के चौक में रहता है।", "Woh baazaar ke chauk mein rehta hai."]},
+        {"word": ["tug", "झटके से खींचना", "jhatke se kheenchna", "to pull hard", "The balloons tug at the string.", "गुब्बारे डोर खींचते हैं।", "Gubbaare dor kheenchte hain."]},
+        {"word": ["sailing", "तैरते हुए जाना", "tairte hue jaana", "moving smoothly through air or water", "We shall see them sailing high.", "हम उन्हें ऊपर तैरते देखेंगे।", "Hum unhe upar tairte dekhenge."]},
+        {"sayw": ["balloon", "गुब्बारा", "gubbaara"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "👂", "title": ["सुनो और दोहराओ", "Suno aur dohraao", "Listen and Repeat"], "book": true,
+      "skills": ["book.words"],
+      "steps": [
+        {"book": true, "type": "sort_groups",
+          "instruction": ["एक जैसी आवाज़ वाले शब्द साथ रखो", "Ek jaisi awaaz waale shabd saath rakho", "Put the rhyming words together"],
+          "groups": [
+            {"id": "ays", "name": "-ays", "emoji": "☀️", "meaning": ["days जैसे", "days jaise"]},
+            {"id": "unch", "name": "-unch", "emoji": "🍱", "meaning": ["lunch जैसे", "lunch jaise"]},
+            {"id": "een", "name": "-een", "emoji": "🟢", "meaning": ["green जैसे", "green jaise"]},
+            {"id": "igh", "name": "-igh / -ie", "emoji": "⬆️", "meaning": ["high जैसे", "high jaise"]}
+          ],
+          "items": [
+            {"text": "days", "emoji": "📅", "groups": ["ays"]},
+            {"text": "stays", "emoji": "🏠", "groups": ["ays"]},
+            {"text": "rays", "emoji": "🌞", "groups": ["ays"]},
+            {"text": "bunch", "emoji": "🎈", "groups": ["unch"]},
+            {"text": "lunch", "emoji": "🍱", "groups": ["unch"]},
+            {"text": "munch", "emoji": "😋", "groups": ["unch"]},
+            {"text": "green", "emoji": "🟢", "groups": ["een"]},
+            {"text": "teen", "emoji": "🧑", "groups": ["een"]},
+            {"text": "between", "emoji": "↔️", "groups": ["een"]},
+            {"text": "high", "emoji": "⬆️", "groups": ["igh"]},
+            {"text": "sigh", "emoji": "😮‍💨", "groups": ["igh"]},
+            {"text": "tie", "emoji": "👔", "groups": ["igh"]}
+          ]},
+        {"sayw": ["between", "बीच में", "beech mein"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["(A) कविता से तुकबंदी वाले शब्द ढूँढो।", "(A) Kavita se tukbandi waale shabd dhoondho.", "(A) Find the rhyming words in the poem."]},
+        {"book": true, "pairs": ["कविता से तुकबंदी वाला शब्द जोड़ो", "Kavita se tukbandi waala shabd jodo", "Join each word to its rhyme from the poem", [
+          ["folds", "holds", "मोड़ता — पकड़ता", "modta — pakadta"],
+          ["funny", "sunny", "मज़ेदार — धूप वाला", "mazedaar — dhoop waala"],
+          ["dining", "shining", "खाना खाना — चमकना", "khaana khaana — chamakna"],
+          ["mug", "tug", "मग — खींचना", "mug — kheenchna"],
+          ["failing", "sailing", "फ़ेल होना — तैरना", "fail hona — tairna"]]]},
+        {"card": ["(B) घेरे वाले शब्द (cart, sky, market, balloon, string) सही मतलब के आगे लिखो।", "(B) Ghere waale shabd (cart, sky, market, balloon, string) sahi matlab ke aage likho.", "(B) Write the circled words (cart, sky, market, balloon, string) against their meanings."]},
+        {"book": true, "q": ["where things are sold", "जहाँ चीज़ें बिकती हैं", "Jahan cheezein bikti hain", ["market", "cart", "sky"], "market"]},
+        {"book": true, "q": ["a bag of thin rubber that becomes larger and rounder when filled with air", "हवा भरने पर बड़ा और गोल होने वाला रबर का थैला", "Hawa bharne par bada aur gol hone waala rubber ka thaila", ["balloon", "string", "market"], "balloon"]},
+        {"book": true, "q": ["a vehicle with two or four wheels pulled by a horse", "घोड़े से खींची जाने वाली गाड़ी", "Ghode se kheenchi jaane waali gaadi", ["cart", "balloon", "sky"], "cart"]},
+        {"book": true, "q": ["a thread used to tie the balloon", "गुब्बारा बाँधने का धागा", "Gubbaara baandhne ka dhaaga", ["string", "cart", "market"], "string"]},
+        {"book": true, "q": ["the space above the earth that you see when you look up", "ऊपर देखने पर दिखने वाली जगह", "Upar dekhne par dikhne waali jagah", ["sky", "market", "balloon"], "sky"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 80 पर कविता पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 80 par kavita padho, phir jawab do.", "Read the poem on page 80 of your book, then answer."]},
+        {"book": true, "q": ["Who always comes on market days?", "बाज़ार के दिन हमेशा कौन आता है?", "Baazaar ke din hamesha kaun aata hai?", ["the balloon man", "the postman", "the milkman"], "the balloon man", "The balloon man always comes on market days.", "बाज़ार के दिन हमेशा गुब्बारे वाला आता है।", "Baazaar ke din hamesha gubbaare waala aata hai."]},
+        {"book": true, "q": ["What does he hold?", "वह क्या पकड़े रहता है?", "Woh kya pakde rehta hai?", ["a lovely bunch of balloons", "a basket of fruit", "a drum"], "a lovely bunch of balloons", "He holds a lovely bunch of balloons.", "वह गुब्बारों का एक सुंदर गुच्छा पकड़े रहता है।", "Woh gubbaaron ka ek sundar guchchha pakde rehta hai."]},
+        {"book": true, "q": ["What colours are the balloons that shine far away?", "दूर से चमकने वाले गुब्बारे किस रंग के हैं?", "Door se chamakne waale gubbaare kis rang ke hain?", ["red, purple, blue and green", "black and white", "only yellow"], "red, purple, blue and green", "The balloons are red and purple, blue and green.", "गुब्बारे लाल, बैंगनी, नीले और हरे हैं।", "Gubbaare laal, baingani, neele aur hare hain."]},
+        {"book": true, "q": ["What would the balloons look like in the sky?", "आसमान में गुब्बारे कैसे दिखेंगे?", "Aasmaan mein gubbaare kaise dikhenge?", ["very pretty", "very ugly", "like birds' nests"], "very pretty", "The balloons would look pretty sailing high in the sky.", "आसमान में ऊँचे तैरते गुब्बारे बहुत सुंदर दिखेंगे।", "Aasmaan mein oonche tairte gubbaare bahut sundar dikhenge."]},
+        {"book": true, "q": ["What does the poet say in the third stanza?", "तीसरे पद में कवि क्या कहता है?", "Teesre pad mein kavi kya kehta hai?", ["Some balloons are big, some small, tied with a string; in the wind they tug hard.", "The balloon man sells sweets.", "The balloons burst in the sun."], "Some balloons are big, some small, tied with a string; in the wind they tug hard.", "In the third stanza the poet says that some balloons are big and some are small. They are all tied together with a string, and when the wind blows they tug and tug like anything.", "तीसरे पद में कवि कहता है कि कुछ गुब्बारे बड़े और कुछ छोटे हैं। सब एक डोर से बँधे हैं, और हवा चलने पर ज़ोर-ज़ोर से खिंचते हैं।", "Teesre pad mein kavi kehta hai ki kuchh gubbaare bade aur kuchh chhote hain. Sab ek dor se bandhe hain, aur hawa chalne par zor-zor se khinchte hain."]},
+        {"q": ["Why do we see the balloons even when carts and people get between?", "गाड़ियाँ और लोग बीच में हों, फिर भी गुब्बारे क्यों दिखते हैं?", "Gaadiyaan aur log beech mein hon, phir bhi gubbaare kyon dikhte hain?", ["They are high up and shine in the sun.", "They are on the ground.", "They make a loud noise."], "They are high up and shine in the sun."]}
+      ]
+    },
+    {
+      "emoji": "🙉", "title": ["चलो पढ़ें: बहरा दोस्त", "Chalo padhein: behra dost", "Let's Read: the deaf friend"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 82-83 पर बहरे दोस्त की मज़ेदार कहानी पढ़ो। वह पहले से जवाब सोचकर जाता है, पर बीमार दोस्त के जवाब कुछ और निकलते हैं!", "Apni kitaab mein page 82-83 par behre dost ki mazedaar kahani padho. Woh pehle se jawab sochkar jaata hai, par beemaar dost ke jawab kuchh aur nikalte hain!", "Read the funny story of the deaf friend on pages 82–83. He plans the answers in advance, but his sick friend says something else!"]},
+        {"book": true, "q": ["Where did the rich man live?", "अमीर आदमी कहाँ रहता था?", "Ameer aadmi kahan rehta tha?", ["in a small village", "in a big city", "in a palace"], "in a small village"]},
+        {"book": true, "q": ["Why did the deaf friend visit the rich man?", "बहरा दोस्त अमीर आदमी से मिलने क्यों गया?", "Behra dost ameer aadmi se milne kyon gaya?", ["He was ill, and the friend wanted to make him happy.", "To borrow money.", "To sell him rice."], "He was ill, and the friend wanted to make him happy.", "The deaf friend learned that the rich man was ill, so he went to visit him and try to make him happy.", "बहरे दोस्त को पता चला कि अमीर आदमी बीमार है, इसलिए वह उसे ख़ुश करने मिलने गया।", "Behre dost ko pata chala ki ameer aadmi beemaar hai, isliye woh use khush karne milne gaya."]},
+        {"book": true, "fb": ["The ___ man was ill.", "rich", ["rich", "deaf"], "अमीर आदमी बीमार था।", "Ameer aadmi beemaar tha."]},
+        {"book": true, "fb": ["The deaf man wanted to make the rich man ___.", "happy", ["happy", "angry"], "बहरा आदमी अमीर आदमी को ख़ुश करना चाहता था।", "Behra aadmi ameer aadmi ko khush karna chahta tha."]},
+        {"book": true, "tf": ["The deaf man's questions made the rich man happy.", "बहरे आदमी के सवालों से अमीर ख़ुश हुआ।", "Behre aadmi ke sawaalon se ameer khush hua.", false, "False. They made him angry.", "गलत। सवालों से वह नाराज़ हुआ।", "Galat. Sawaalon se woh naaraaz hua."]},
+        {"book": true, "tf": ["The deaf man said all the ‘wrong’ things because he could not hear the rich man's answers.", "बहरा आदमी जवाब नहीं सुन सका, इसलिए गलत बातें कहीं।", "Behra aadmi jawab nahi sun saka, isliye galat baatein kahin.", true]},
+        {"book": true, "tf": ["The deaf man went home, thinking that he had made his friend happy.", "बहरा आदमी यह सोचकर घर गया कि उसने दोस्त को ख़ुश कर दिया।", "Behra aadmi yeh sochkar ghar gaya ki usne dost ko khush kar diya.", true]}
+      ]
+    },
+    {
+      "emoji": "🎡", "title": ["चलो लिखें: मेले का गुब्बारे वाला", "Chalo likhein: mele ka gubbaare waala", "Let's Write: the balloon seller at the fair"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: मेले में देखे गुब्बारे वाले पर पैराग्राफ़ लिखो: गुब्बारों के आकार, रंग और वह और क्या बेचता है। शुरुआत: Once I had been to a fair near my village...", "Kitaab: mele mein dekhe gubbaare waale par paragraph likho: gubbaaron ke aakaar, rang aur woh aur kya bechta hai. Shuruaat: Once I had been to a fair near my village...", "The book: write a paragraph about a balloon seller at a fair: the shapes and colours of balloons and other things he sells. Begin: Once I had been to a fair near my village..."]},
+        {"book": true, "build": ["वहाँ मैंने एक गुब्बारे वाला देखा।", "Wahan maine ek gubbaare waala dekha.", "Tell whom you noticed at the fair.", "There I saw a balloon seller.", "वहाँ मैंने एक गुब्बारे वाला देखा।", "Wahan maine ek gubbaare waala dekha."]},
+        {"book": true, "build": ["उसके गुब्बारे लाल, पीले और नीले थे।", "Uske gubbaare laal, peele aur neele the.", "Tell the colours of his balloons.", "His balloons were red, yellow and blue.", "उसके गुब्बारे लाल, पीले और नीले थे।", "Uske gubbaare laal, peele aur neele the."]},
+        {"book": true, "build": ["कुछ गुब्बारे जानवरों के आकार के थे।", "Kuchh gubbaare jaanwaron ke aakaar ke the.", "Tell about their shapes.", "Some balloons were shaped like animals.", "कुछ गुब्बारे जानवरों के आकार के थे।", "Kuchh gubbaare jaanwaron ke aakaar ke the."]},
+        {"book": true, "build": ["वह सीटियाँ और फिरकियाँ भी बेचता था।", "Woh seetiyaan aur phirkiyaan bhi bechta tha.", "Tell what else he was selling.", "He also sold whistles and pinwheels.", "वह सीटियाँ और फिरकियाँ भी बेचता था।", "Woh seetiyaan aur phirkiyaan bhi bechta tha."]}
+      ]
+    },
+    {
+      "emoji": "🔁", "title": ["दोहराव 2: शब्द और समझ", "Dohraav 2: shabd aur samajh", "Revision Exercises 2: words and comprehension"], "book": true,
+      "skills": ["book.words", "book.comprehension"],
+      "steps": [
+        {"card": ["किताब के पेज 84-87 पर पाठ 6 से 10 का दोहराव है।", "Kitaab ke page 84-87 par paath 6 se 10 ka dohraav hai.", "Pages 84–87 of your book revise Lessons 6 to 10."]},
+        {"book": true, "fb": ["Krishna Devaraya rewarded the artist with the ___.", "chief ministership", ["chief ministership", "prime ministership"], "कृष्णदेवराय ने चित्रकार को मुख्यमंत्री पद दिया।", "Krishnadevaraya ne chitrakaar ko mukhyamantri pad diya."]},
+        {"book": true, "fb": ["Raja Varma was a brilliant ___.", "artist", ["artist", "cook"], "राजा वर्मा एक प्रतिभाशाली चित्रकार थे।", "Raja Varma ek pratibhaashaali chitrakaar the."]},
+        {"book": true, "skills": ["book.words", "grammar.prefix_suffix"], "type": "sort_groups",
+          "instruction": ["किताब: un/in वाले शब्द। सही उपसर्ग में रखो", "Kitaab: un/in waale shabd. Sahi upsarg mein rakho", "The book: words with un/in. Sort by the prefix"],
+          "groups": [
+            {"id": "un", "name": "un-", "emoji": "🔵", "meaning": ["un वाले", "un waale"]},
+            {"id": "in", "name": "in-", "emoji": "🟣", "meaning": ["in वाले", "in waale"]}
+          ],
+          "items": [
+            {"text": "unhappy", "emoji": "😞", "groups": ["un"]},
+            {"text": "unkind", "emoji": "😠", "groups": ["un"]},
+            {"text": "unable", "emoji": "🚫", "groups": ["un"]},
+            {"text": "unexpected", "emoji": "😲", "groups": ["un"]},
+            {"text": "incorrect", "emoji": "❌", "groups": ["in"]},
+            {"text": "incomplete", "emoji": "⏳", "groups": ["in"]},
+            {"text": "invisible", "emoji": "👻", "groups": ["in"]},
+            {"text": "independent", "emoji": "🗽", "groups": ["in"]}
+          ]},
+        {"book": true, "q": ["Odd one out: clock, watch, tractor, timepiece", "अलग शब्द", "Alag shabd", ["tractor", "clock", "watch", "timepiece"], "tractor"]},
+        {"book": true, "q": ["Odd one out: thieves, ducks, robbers, pickpockets", "अलग शब्द", "Alag shabd", ["ducks", "thieves", "robbers", "pickpockets"], "ducks"]},
+        {"book": true, "q": ["A synonym of ‘join’ is ...", "‘join’ का समानार्थी", "‘join’ ka samaanaarthi", ["connect", "break", "leave"], "connect"]},
+        {"book": true, "q": ["A synonym of ‘move’ is ...", "‘move’ का समानार्थी", "‘move’ ka samaanaarthi", ["shift", "stay", "stop"], "shift"]},
+        {"book": true, "q": ["A rhyming word for ‘string’ is ...", "‘string’ से तुक", "‘string’ se tuk", ["thing", "strong", "stand"], "thing"]},
+        {"book": true, "q": ["A rhyming word for ‘high’ is ...", "‘high’ से तुक", "‘high’ se tuk", ["sky", "hay", "hug"], "sky"]},
+        {"book": true, "q": ["How did the king in ‘Measure for Measure’ realise his mistake?", "राजा को गलती कैसे समझ आई?", "Raja ko galti kaise samajh aayi?", ["A carpenter cooked bad food, like an artist running the state.", "The queen scolded him.", "He read a book."], "A carpenter cooked bad food, like an artist running the state."]},
+        {"book": true, "q": ["What is a disaster?", "आपदा क्या है?", "Aapda kya hai?", ["an unexpected event like a flood or fire that causes great damage", "a big festival", "a kind of rain"], "an unexpected event like a flood or fire that causes great damage"]},
+        {"book": true, "q": ["What were Kalpana Chawla's hobbies?", "कल्पना चावला के शौक़?", "Kalpana Chawla ke shauk?", ["reading, flying, hiking and bird-watching", "cooking and dancing", "cricket and chess"], "reading, flying, hiking and bird-watching"]},
+        {"book": true, "q": ["What is the dog doing in the poem ‘The Moon’?", "कुत्ता क्या कर रहा है?", "Kutta kya kar raha hai?", ["howling by the door of the house", "sleeping in bed", "chasing the moon"], "howling by the door of the house"]}
+      ]
+    },
+    {
+      "emoji": "📚", "title": ["दोहराव 2: ग्रामर और पढ़ना", "Dohraav 2: grammar aur padhna", "Revision Exercises 2: grammar and reading"], "book": true,
+      "skills": ["book.grammar", "book.comprehension"],
+      "steps": [
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["The king invited the artist ___ the court.", "to", ["to", "for"], "राजा ने चित्रकार को दरबार में बुलाया।", "Raja ne chitrakaar ko darbaar mein bulaaya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["He was well known ___ his genius.", "for", ["for", "of"], "वह अपनी प्रतिभा के लिए मशहूर था।", "Woh apni pratibha ke liye mashhoor tha."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["Divide these sweets ___ all the students.", "among", ["among", "between"], "ये मिठाइयाँ सब छात्रों में बाँट दो।", "Yeh mithaaiyaan sab chhaatron mein baant do."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["I have been reading this novel ___ 3 o'clock.", "since", ["since", "for"], "मैं 3 बजे से यह उपन्यास पढ़ रहा हूँ।", "Main 3 baje se yeh upanyaas padh raha hoon."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["The teacher is pleased ___ the students.", "with", ["with", "to"], "टीचर छात्रों से ख़ुश हैं।", "Teacher chhaatron se khush hain."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["The bell rang and all the students ran ___ their classrooms.", "to", ["to", "by"], "घंटी बजी और सब छात्र कक्षाओं की ओर भागे।", "Ghanti baji aur sab chhaatra kakshaaon ki or bhaage."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["We travelled ___ bus.", "by", ["by", "with"], "हमने बस से सफ़र किया।", "Humne bus se safar kiya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["The doctor is sitting ___ his clinic.", "in", ["in", "into"], "डॉक्टर अपने क्लिनिक में बैठे हैं।", "Doctor apne clinic mein baithe hain."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Give me a glass of milk ___ a loaf of bread.", "and", ["and", "but"], "मुझे एक गिलास दूध और एक डबलरोटी दो।", "Mujhe ek gilaas doodh aur ek doubleroti do."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["She is a good player ___ not a good reader.", "but", ["but", "and"], "वह अच्छी खिलाड़ी है पर अच्छी पाठक नहीं।", "Woh achhi khilaadi hai par achhi paathak nahi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["The doctors did their best ___ the patient died.", "but", ["but", "and"], "डॉक्टरों ने पूरी कोशिश की पर मरीज़ नहीं बचा।", "Doctoron ne poori koshish ki par mareez nahi bacha."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Aryan came first in science ___ in English.", "and", ["and", "but"], "आर्यन विज्ञान और अंग्रेज़ी में पहले आया।", "Aryan vigyaan aur angrezi mein pehle aaya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["She delivered a good speech ___ many of us could not hear her.", "but", ["but", "and"], "उसने अच्छा भाषण दिया पर हम में से कई सुन नहीं पाए।", "Usne achha bhaashan diya par hum mein se kai sun nahi paaye."]},
+        {"book": true, "skills": ["book.grammar", "grammar.adverbs"], "fb": ["He did his work ___.", "badly", ["badly", "beautifully", "foolishly"], "उसने अपना काम बुरी तरह किया।", "Usne apna kaam buri tarah kiya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.adverbs"], "fb": ["I ___ thought that everyone would solve the puzzle.", "foolishly", ["foolishly", "patiently", "beautifully"], "मैंने बेवकूफ़ी से सोचा कि सब पहेली हल कर लेंगे।", "Maine bevkoofi se socha ki sab paheli hal kar lenge."]},
+        {"book": true, "skills": ["book.grammar", "grammar.adverbs"], "fb": ["The teacher listened to me ___.", "patiently", ["patiently", "badly", "foolishly"], "टीचर ने धैर्य से मेरी बात सुनी।", "Teacher ne dhairya se meri baat suni."]},
+        {"book": true, "skills": ["book.grammar", "grammar.adverbs"], "fb": ["They danced ___.", "beautifully", ["beautifully", "foolishly", "patiently"], "उन्होंने सुंदर नृत्य किया।", "Unhone sundar nritya kiya."]},
+        {"card": ["किताब पेज 86-87: ‘Not gold but only men can make’ कविता और यात्रा में चोरी वाला पैराग्राफ़ पढ़ो।", "Kitaab page 86-87: ‘Not gold but only men can make’ kavita aur yaatra mein chori waala paragraph padho.", "Book pages 86–87: read the poem ‘Not gold but only men can make’ and the passage about theft while travelling."]},
+        {"book": true, "q": ["What sort of men can make a nation great?", "कैसे लोग देश को महान बनाते हैं?", "Kaise log desh ko mahaan banaate hain?", ["brave, honest men who work hard while others sleep", "rich men with gold", "men who sleep a lot"], "brave, honest men who work hard while others sleep"]},
+        {"book": true, "pairs": ["कविता से तुकबंदी वाले शब्द जोड़ो", "Kavita se tukbandi waale shabd jodo", "Join the rhyming words from the poem", [
+          ["make", "sake", "बनाना — ख़ातिर", "banaana — khaatir"],
+          ["strong", "long", "मज़बूत — लंबा", "mazboot — lamba"],
+          ["sleep", "deep", "सोना — गहरा", "sona — gehra"],
+          ["fly", "sky", "भागना — आसमान", "bhaagna — aasmaan"]]]},
+        {"book": true, "q": ["A suitable title for the poem:", "कविता का उचित शीर्षक", "Kavita ka uchit sheershak", ["A Nation's Strength", "The Gold Mine", "Sleeping Men"], "A Nation's Strength"]},
+        {"book": true, "q": ["What incidents can take place with passengers?", "यात्रियों के साथ क्या हो सकता है?", "Yaatriyon ke saath kya ho sakta hai?", ["theft of luggage and pickpocketing", "free tickets", "early arrival"], "theft of luggage and pickpocketing"]},
+        {"book": true, "q": ["How are passengers warned?", "यात्रियों को कैसे सावधान किया जाता है?", "Yaatriyon ko kaise saavdhaan kiya jaata hai?", ["by warnings in bold letters and announcements", "by songs", "by sending letters home"], "by warnings in bold letters and announcements"]},
+        {"book": true, "q": ["What may happen if someone takes eatables from strangers?", "अजनबी से खाना लेने पर क्या हो सकता है?", "Ajnabi se khaana lene par kya ho sakta hai?", ["They may fall into the trap of criminals.", "They will make new friends.", "Nothing at all."], "They may fall into the trap of criminals."]},
+        {"book": true, "q": ["A suitable title for the passage:", "पैराग्राफ़ का शीर्षक", "Paragraph ka sheershak", ["Be Careful While Travelling", "My Favourite Train", "A Happy Journey"], "Be Careful While Travelling"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 10 का टेस्ट", "Paath 10 ka test", "Lesson 10 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Who always comes on market days?", "कौन आता है?", "Kaun aata hai?", ["the balloon man", "the postman", "the milkman"], "the balloon man"]},
+        {"book": true, "q": ["What colours are the balloons?", "गुब्बारों के रंग", "Gubbaaron ke rang", ["red, purple, blue and green", "black and white", "only yellow"], "red, purple, blue and green"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word from the poem rhymes with ‘mug’?", "तुकबंदी", "Tukbandi", ["tug", "mud", "much"], "tug"]},
+        {"book": true, "skills": ["book.words"], "q": ["a thread used to tie the balloon", "धागा", "Dhaaga", ["string", "cart", "market"], "string"]},
+        {"book": true, "tf": ["The deaf man's questions made the rich man happy.", "सवालों से अमीर ख़ुश हुआ।", "Sawaalon se ameer khush hua.", false]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["Divide these sweets ___ all the students.", "among", ["among", "between"], "मिठाइयाँ सब में बाँटो।", "Mithaaiyaan sab mein baanto."]},
+        {"book": true, "skills": ["book.grammar", "grammar.where_prepositions"], "fb": ["I have been reading ___ 3 o'clock.", "since", ["since", "for"], "मैं 3 बजे से पढ़ रहा हूँ।", "Main 3 baje se padh raha hoon."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["The doctors did their best ___ the patient died.", "but", ["but", "and"], "डॉक्टरों ने कोशिश की पर मरीज़ नहीं बचा।", "Doctoron ne koshish ki par mareez nahi bacha."]},
+        {"book": true, "skills": ["book.grammar", "grammar.adverbs"], "fb": ["The teacher listened to me ___.", "patiently", ["patiently", "badly", "foolishly"], "टीचर ने धैर्य से सुना।", "Teacher ne dhairya se suna."]},
+        {"book": true, "q": ["Odd one out: clock, watch, tractor, timepiece", "अलग शब्द", "Alag shabd", ["tractor", "clock", "watch", "timepiece"], "tractor"]}
+      ]
+    }
+  ]
+}

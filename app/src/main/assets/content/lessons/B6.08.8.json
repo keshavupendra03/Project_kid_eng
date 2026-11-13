@@ -1,0 +1,285 @@
+{
+  "id": "B6.08.8",
+  "level": 6,
+  "bookSteps": [
+    "B6.08.8.S02",
+    "B6.08.8.S03",
+    "B6.08.8.S04",
+    "B6.08.8.S05",
+    "B6.08.8.S06",
+    "B6.08.8.S07",
+    "B6.08.8.S08",
+    "B6.08.8.S09",
+    "B6.08.8.S10",
+    "B6.08.8.S11",
+    "B6.08.8.S12",
+    "B6.08.8.S14"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.08.8.S01",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "text": {
+        "hi": "किताब के पेज 51-53 पर अर्धवार्षिक परीक्षा (Half Yearly Evaluation) का नमूना पेपर है।",
+        "hinglish": "Kitaab ke page 51-53 par ardhvaarshik pariksha (Half Yearly Evaluation) ka namoona paper hai.",
+        "en": "Pages 51–53 of your book have a sample Half Yearly Evaluation paper."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.8.S02",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? Meena is tall, strong and well-built.",
+      "questionMeaning": {
+        "hi": "मीना लंबी और ताक़तवर है।",
+        "hinglish": "Meena lambi aur taakatvar hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. Meena (Mina) is thin and short.",
+      "modelMeaning": {
+        "hi": "गलत। मीना पतली और छोटी है।",
+        "hinglish": "Galat. Meena patli aur chhoti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.8.S03",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? Yudhishtir is a Kaurav prince.",
+      "questionMeaning": {
+        "hi": "युधिष्ठिर कौरव राजकुमार है।",
+        "hinglish": "Yudhishthir Kaurav raajkumaar hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. Yudhishtir is a Pandav prince.",
+      "modelMeaning": {
+        "hi": "गलत। युधिष्ठिर पांडव राजकुमार है।",
+        "hinglish": "Galat. Yudhishthir Pandav raajkumaar hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.8.S04",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? The elephant has wide ears.",
+      "questionMeaning": {
+        "hi": "हाथी के कान चौड़े होते हैं।",
+        "hinglish": "Haathi ke kaan chaude hote hain."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.8.S05",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? The traveller does not like the stars.",
+      "questionMeaning": {
+        "hi": "यात्री को तारे पसंद नहीं।",
+        "hinglish": "Yaatri ko taare pasand nahi."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. The traveller thanks the star for its light.",
+      "modelMeaning": {
+        "hi": "गलत। यात्री तारे को उसकी रोशनी के लिए धन्यवाद देता है।",
+        "hinglish": "Galat. Yaatri taare ko uski roshni ke liye dhanyavaad deta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.8.S06",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "True or false? The twinkle of the stars is wonderful.",
+      "questionMeaning": {
+        "hi": "तारों का टिमटिमाना अद्भुत है।",
+        "hinglish": "Taaron ka timtimaana adbhut hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.8.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Meena is beautiful ___ Seema is not so beautiful.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "मीना सुंदर है लेकिन सीमा उतनी सुंदर नहीं।",
+        "hinglish": "Meena sundar hai lekin Seema utni sundar nahi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.8.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Seema ___ Meena both like to sing.",
+      "answer": "and",
+      "options": [
+        "and",
+        "but"
+      ],
+      "meaning": {
+        "hi": "सीमा और मीना दोनों को गाना पसंद है।",
+        "hinglish": "Seema aur Meena dono ko gaana pasand hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.8.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.punctuation"
+      ],
+      "question": "Which one has proper punctuation and capitals?",
+      "questionMeaning": {
+        "hi": "किसमें सही विराम चिह्न और बड़े अक्षर हैं?",
+        "hinglish": "Kismein sahi viraam chihn aur bade akshar hain?"
+      },
+      "options": [
+        "Once Mr. Giles came for inspection. He gave five words to write as a spelling exercise. One of the words was ‘kettle’. I misspelt it.",
+        "once mr giles came for inspection he gave five words to write",
+        "Once mr. giles came. for inspection he gave Five words."
+      ],
+      "answer": "Once Mr. Giles came for inspection. He gave five words to write as a spelling exercise. One of the words was ‘kettle’. I misspelt it."
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.8.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Raman says, \"I want to be a teacher.\" =",
+      "questionMeaning": {
+        "hi": "बिना उद्धरण चिह्न के",
+        "hinglish": "Bina uddharan chihn ke"
+      },
+      "options": [
+        "Raman says that he wants to be a teacher.",
+        "Raman says that I want to be a teacher.",
+        "Raman says he want teacher."
+      ],
+      "answer": "Raman says that he wants to be a teacher."
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.8.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "I say, \"I want to be a lawyer.\" =",
+      "questionMeaning": {
+        "hi": "बिना उद्धरण चिह्न के",
+        "hinglish": "Bina uddharan chihn ke"
+      },
+      "options": [
+        "I say that I want to be a lawyer.",
+        "I say that he wants to be a lawyer.",
+        "I says that I want lawyer."
+      ],
+      "answer": "I say that I want to be a lawyer."
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.8.S12",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "question": "What makes you a winner?",
+      "questionMeaning": {
+        "hi": "तुम्हें विजेता क्या बनाता है?",
+        "hinglish": "Tumhe vijeta kya banaata hai?"
+      },
+      "options": [
+        "self-confidence and hard work",
+        "being tall",
+        "luck only"
+      ],
+      "answer": "self-confidence and hard work",
+      "modelAnswer": "Self-confidence and hard work make you a winner.",
+      "modelMeaning": {
+        "hi": "आत्मविश्वास और मेहनत तुम्हें विजेता बनाते हैं।",
+        "hinglish": "Aatmavishwaas aur mehnat tumhe vijeta banaate hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.08.8.S13",
+      "skills": [
+        "book.comprehension",
+        "book.words"
+      ],
+      "text": {
+        "hi": "किताब का आख़िरी सवाल: दोस्त को संदेश लिखो कि तुम उसकी जन्मदिन पार्टी में नहीं आ सकते क्योंकि दादी के घर जा रहे हो। ऐसे लिखो: Dear Rohan, I am sorry I cannot come to your birthday party, as I am going to my grandma's home. Happy birthday! Have fun. Your friend, Amit.",
+        "hinglish": "Kitaab ka aakhiri sawaal: dost ko sandesh likho ki tum uski janmdin party mein nahi aa sakte kyonki daadi ke ghar ja rahe ho. Aise likho: Dear Rohan, I am sorry I cannot come to your birthday party, as I am going to my grandma's home. Happy birthday! Have fun. Your friend, Amit.",
+        "en": "The paper's last question: write a message to your friend that you cannot come to the birthday party because you are going to your grandma's home. Write: Dear Rohan, I am sorry I cannot come to your birthday party, as I am going to my grandma's home. Happy birthday! Have fun. Your friend, Amit."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.08.8.S14",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "संदेश: माफ़ करना, मैं तुम्हारी पार्टी में नहीं आ सकता/सकती।",
+        "hinglish": "Sandesh: maaf karna, main tumhari party mein nahi aa sakta/sakti.",
+        "en": "Message: say sorry, you can't come to the party."
+      },
+      "answer": "I am sorry I cannot come to your party.",
+      "meaning": {
+        "hi": "माफ़ करना, मैं तुम्हारी पार्टी में नहीं आ सकता/सकती।",
+        "hinglish": "Maaf karna, main tumhari party mein nahi aa sakta/sakti."
+      }
+    }
+  ]
+}

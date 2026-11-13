@@ -1,0 +1,219 @@
+{
+  "id": "B6.03.1",
+  "level": 6,
+  "bookSteps": [
+    "B6.03.1.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.03.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "यह कहानी एक राजा की है जो लड़ाई हार गया और गुफ़ा में छिप गया। वहाँ एक मकड़ी को बार-बार गिरकर भी दीवार चढ़ते देखकर उसे हिम्मत मिली। सीख: Try, try, try till you succeed!",
+        "hinglish": "Yeh kahani ek raja ki hai jo ladaai haar gaya aur gufaa mein chhip gaya. Wahan ek makdi ko baar-baar girkar bhi deewaar chadhte dekhkar use himmat mili. Seekh: Try, try, try till you succeed!",
+        "en": "This is the story of a king who lost a battle and hid in a cave. There he saw a spider fall again and again but still climb the wall, and he got his courage back. The lesson: Try, try, try till you succeed!"
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.03.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "ruler",
+        "emoji": "",
+        "hindi": "शासक, राजा",
+        "hinglish": "shaasak, raja"
+      },
+      "meaning": "a person who rules a country",
+      "example": "Ashoka was a great ruler.",
+      "exampleMeaning": {
+        "hi": "अशोक एक महान शासक थे।",
+        "hinglish": "Ashok ek mahaan shaasak the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.03.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "battle",
+        "emoji": "",
+        "hindi": "युद्ध, लड़ाई",
+        "hinglish": "yuddh, ladaai"
+      },
+      "meaning": "a fight between two armies",
+      "example": "The king won the battle.",
+      "exampleMeaning": {
+        "hi": "राजा ने युद्ध जीता।",
+        "hinglish": "Raja ne yuddh jeeta."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.03.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "cave",
+        "emoji": "",
+        "hindi": "गुफ़ा",
+        "hinglish": "gufaa"
+      },
+      "meaning": "a big hole in the side of a hill",
+      "example": "Bats live in the cave.",
+      "exampleMeaning": {
+        "hi": "चमगादड़ गुफ़ा में रहते हैं।",
+        "hinglish": "Chamgaadad gufaa mein rehte hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.03.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "succeed",
+        "emoji": "",
+        "hindi": "सफल होना",
+        "hinglish": "safal hona"
+      },
+      "meaning": "to do what you tried to do",
+      "example": "If you work hard, you will succeed.",
+      "exampleMeaning": {
+        "hi": "मेहनत करोगे तो सफल होगे।",
+        "hinglish": "Mehnat karoge to safal hoge."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.03.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "confidence",
+        "emoji": "",
+        "hindi": "आत्मविश्वास",
+        "hinglish": "aatmavishwaas"
+      },
+      "meaning": "a feeling that you can do something",
+      "example": "She spoke with confidence.",
+      "exampleMeaning": {
+        "hi": "उसने आत्मविश्वास से बात की।",
+        "hinglish": "Usne aatmavishwaas se baat ki."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B6.03.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "defeat",
+        "emoji": "",
+        "hindi": "हराना",
+        "hinglish": "haraana"
+      },
+      "meaning": "to win against someone",
+      "example": "Our team defeated the other team.",
+      "exampleMeaning": {
+        "hi": "हमारी टीम ने दूसरी टीम को हराया।",
+        "hinglish": "Hamari team ne doosri team ko haraaya."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.03.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "किताब के phrases को उनके मतलब से जोड़ो",
+        "hinglish": "Kitaab ke phrases ko unke matlab se jodo",
+        "en": "Join the book's phrases to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "once upon a time",
+          "right": "long, long ago",
+          "meaning": {
+            "hi": "बहुत समय पहले",
+            "hinglish": "bahut samay pehle"
+          }
+        },
+        {
+          "left": "run away",
+          "right": "to escape quickly",
+          "meaning": {
+            "hi": "भाग जाना",
+            "hinglish": "bhaag jaana"
+          }
+        },
+        {
+          "left": "give up",
+          "right": "to stop trying",
+          "meaning": {
+            "hi": "हार मान लेना",
+            "hinglish": "haar maan lena"
+          }
+        },
+        {
+          "left": "again and again",
+          "right": "many times",
+          "meaning": {
+            "hi": "बार-बार",
+            "hinglish": "baar-baar"
+          }
+        },
+        {
+          "left": "fell down",
+          "right": "dropped to the ground",
+          "meaning": {
+            "hi": "नीचे गिर गया",
+            "hinglish": "neeche gir gaya"
+          }
+        },
+        {
+          "left": "slipped",
+          "right": "slid and fell by mistake",
+          "meaning": {
+            "hi": "फिसल गया",
+            "hinglish": "phisal gaya"
+          }
+        }
+      ]
+    },
+    {
+      "type": "say_sentence",
+      "id": "B6.03.1.S09",
+      "skills": [
+        "speak.sentence",
+        "book.words"
+      ],
+      "sentence": "Try, try, try till you succeed.",
+      "meaning": {
+        "hi": "कोशिश करते रहो जब तक सफल न हो जाओ।",
+        "hinglish": "Koshish karte raho jab tak safal na ho jaao.",
+        "en": "Try, try, try till you succeed."
+      }
+    }
+  ]
+}

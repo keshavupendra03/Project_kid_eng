@@ -38,6 +38,11 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.samjhoenglish.content.Blend
+import com.samjhoenglish.content.BuildSentence
+import com.samjhoenglish.content.Choice
+import com.samjhoenglish.content.Crossword
+import com.samjhoenglish.content.MatchPairs
+import com.samjhoenglish.content.SortGroups
 import com.samjhoenglish.content.FillBlank
 import com.samjhoenglish.content.FindEnglish
 import com.samjhoenglish.content.ListenRead
@@ -75,6 +80,12 @@ import com.samjhoenglish.ui.theme.Leaf
 /** Reports an answer: right or wrong, plus the pronunciation slip if one was recognised. */
 typealias OnAnswer = (correct: Boolean, mistake: Mistake?) -> Unit
 
+/**
+ * Hears what the child picked or built, just before the answer is reported. Lessons ignore it;
+ * a school test keeps it so the parent and teacher can see the child's answer beside the right one.
+ */
+val LocalAnswerLog = androidx.compose.runtime.staticCompositionLocalOf<(String) -> Unit> { {} }
+
 @Composable
 fun StepContent(step: Step, feedback: Feedback, onAnswer: OnAnswer, onSkip: () -> Unit) {
     when (step) {
@@ -98,6 +109,11 @@ fun StepContent(step: Step, feedback: Feedback, onAnswer: OnAnswer, onSkip: () -
         is StoryQuestion -> StoryQuestionStep(step, feedback, onAnswer)
         is LearnWord -> LearnWordStep(step)
         is SpellWord -> SpellWordStep(step, feedback, onAnswer)
+        is Choice -> ChoiceStep(step, feedback, onAnswer)
+        is MatchPairs -> MatchPairsStep(step, feedback, onAnswer)
+        is Crossword -> CrosswordStep(step, feedback, onAnswer)
+        is SortGroups -> SortGroupsStep(step, feedback, onAnswer)
+        is BuildSentence -> BuildSentenceStep(step, feedback, onAnswer)
     }
 }
 
@@ -157,6 +173,7 @@ private fun WordCard(word: Word, onClick: () -> Unit) {
 
 @Composable
 private fun ListenTapStep(step: ListenTap, feedback: Feedback, onAnswer: OnAnswer) {
+    val logAnswer = LocalAnswerLog.current
     val speaker = LocalSpeaker.current
     val language = LocalAppLanguage.current
     val options = remember(step) { step.options.shuffled() }
@@ -183,6 +200,7 @@ private fun ListenTapStep(step: ListenTap, feedback: Feedback, onAnswer: OnAnswe
                             state = state,
                             onClick = {
                                 if (feedback.isDone || option.english in wrong) return@OptionTile
+                                logAnswer(option.english)
                                 if (isAnswer) onAnswer(true, null) else {
                                     wrong = wrong + option.english
                                     onAnswer(false, null)
@@ -211,6 +229,7 @@ private fun ListenTapStep(step: ListenTap, feedback: Feedback, onAnswer: OnAnswe
 
 @Composable
 private fun WordPickStep(step: WordPick, feedback: Feedback, onAnswer: OnAnswer) {
+    val logAnswer = LocalAnswerLog.current
     val speaker = LocalSpeaker.current
     val language = LocalAppLanguage.current
     val options = remember(step) { step.options.shuffled() }
@@ -236,6 +255,7 @@ private fun WordPickStep(step: WordPick, feedback: Feedback, onAnswer: OnAnswer)
                     state = optionState(isAnswer, option in wrong, feedback),
                     onClick = {
                         if (feedback.isDone || option in wrong) return@OptionTile
+                        logAnswer(option)
                         if (isAnswer) onAnswer(true, null) else {
                             wrong = wrong + option
                             onAnswer(false, null)
@@ -374,6 +394,7 @@ private fun LearnSoundStep(step: LearnSound) {
 
 @Composable
 private fun MinimalPairStep(step: MinimalPair, feedback: Feedback, onAnswer: OnAnswer) {
+    val logAnswer = LocalAnswerLog.current
     val speaker = LocalSpeaker.current
     val language = LocalAppLanguage.current
     val options = remember(step) { step.options.shuffled() }
@@ -396,6 +417,7 @@ private fun MinimalPairStep(step: MinimalPair, feedback: Feedback, onAnswer: OnA
                     state = optionState(isAnswer, option in wrong, feedback),
                     onClick = {
                         if (feedback.isDone || option in wrong) return@OptionTile
+                        logAnswer(option)
                         if (isAnswer) onAnswer(true, null) else {
                             wrong = wrong + option
                             onAnswer(false, null)

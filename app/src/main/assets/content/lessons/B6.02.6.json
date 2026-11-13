@@ -1,0 +1,59 @@
+{
+  "id": "B6.02.6",
+  "level": 6,
+  "bookSteps": [
+    "B6.02.6.S02",
+    "B6.02.6.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.02.6.S01",
+      "skills": [
+        "book.activity",
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब कहती है: झूले पर ऊपर जाकर जो दिखता है उसकी तस्वीर बनाओ और चीज़ों के नाम लिखो। चलो उसके वाक्य बनाते हैं।",
+        "hinglish": "Kitaab kehti hai: jhoole par upar jaakar jo dikhta hai uski tasveer banao aur cheezon ke naam likho. Chalo uske vaakya banaate hain.",
+        "en": "The book says: draw what you see from a swing and write the names of the things. Let's make sentences for it."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.02.6.S02",
+      "skills": [
+        "book.activity",
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तस्वीर: मुझे नीला आसमान और हरे पेड़ दिखते हैं।",
+        "hinglish": "Tasveer: mujhe neela aasmaan aur hare ped dikhte hain.",
+        "en": "Picture: say you see the blue sky and green trees."
+      },
+      "answer": "I can see the blue sky and green trees.",
+      "meaning": {
+        "hi": "मुझे नीला आसमान और हरे पेड़ दिखते हैं।",
+        "hinglish": "Mujhe neela aasmaan aur hare ped dikhte hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.02.6.S03",
+      "skills": [
+        "book.activity",
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तस्वीर: मुझे एक नदी और कुछ गायें दिखती हैं।",
+        "hinglish": "Tasveer: mujhe ek nadi aur kuch gaayein dikhti hain.",
+        "en": "Picture: say you see a river and some cows."
+      },
+      "answer": "I can see a river and some cows.",
+      "meaning": {
+        "hi": "मुझे एक नदी और कुछ गायें दिखती हैं।",
+        "hinglish": "Mujhe ek nadi aur kuch gaayein dikhti hain."
+      }
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "id": "B8.09.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.09.1.S02",
+    "B8.09.1.S03",
+    "B8.09.1.S04"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.09.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "कल्पना चावला अंतरिक्ष में जाने वाली पहली भारतीय महिला थीं। यह पाठ उनके स्कूल के बच्चों का एक काल्पनिक इंटरव्यू है: उनका बचपन, पढ़ाई, नासा और अंतरिक्ष की यात्राएँ।",
+        "hinglish": "Kalpana Chawla antariksh mein jaane waali pehli Bharatiya mahila thin. Yeh paath unke school ke bachchon ka ek kaalpanik interview hai: unka bachpan, padhaai, NASA aur antariksh ki yaatraayein.",
+        "en": "Kalpana Chawla was the first Indian woman to go into space. This lesson is an imaginary interview by children of her school: her childhood, studies, NASA and her space missions."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Who was the first person to travel into space?",
+      "questionMeaning": {
+        "hi": "अंतरिक्ष में जाने वाले पहले इंसान कौन थे?",
+        "hinglish": "Antariksh mein jaane waale pehle insaan kaun the?"
+      },
+      "options": [
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "Rakesh Sharma"
+      ],
+      "answer": "Yuri Gagarin",
+      "modelAnswer": "Yuri Gagarin of the Soviet Union was the first person to travel into space, in 1961.",
+      "modelMeaning": {
+        "hi": "सोवियत संघ के यूरी गागरिन 1961 में अंतरिक्ष में जाने वाले पहले इंसान थे।",
+        "hinglish": "Soviet Sangh ke Yuri Gagarin 1961 mein antariksh mein jaane waale pehle insaan the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Who was the first Indian to travel into space?",
+      "questionMeaning": {
+        "hi": "अंतरिक्ष में जाने वाले पहले भारतीय कौन थे?",
+        "hinglish": "Antariksh mein jaane waale pehle Bharatiya kaun the?"
+      },
+      "options": [
+        "Rakesh Sharma",
+        "Kalpana Chawla",
+        "A. P. J. Abdul Kalam"
+      ],
+      "answer": "Rakesh Sharma",
+      "modelAnswer": "Rakesh Sharma was the first Indian to travel into space, in 1984.",
+      "modelMeaning": {
+        "hi": "राकेश शर्मा 1984 में अंतरिक्ष में जाने वाले पहले भारतीय थे।",
+        "hinglish": "Rakesh Sharma 1984 mein antariksh mein jaane waale pehle Bharatiya the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Who was the first Indian woman to go into space?",
+      "questionMeaning": {
+        "hi": "अंतरिक्ष में जाने वाली पहली भारतीय महिला?",
+        "hinglish": "Antariksh mein jaane waali pehli Bharatiya mahila?"
+      },
+      "options": [
+        "Kalpana Chawla",
+        "Sunita Williams",
+        "Indira Gandhi"
+      ],
+      "answer": "Kalpana Chawla"
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.09.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "astronaut",
+        "emoji": "",
+        "hindi": "अंतरिक्ष यात्री",
+        "hinglish": "antariksh yaatri"
+      },
+      "meaning": "a person who travels into space",
+      "example": "Kalpana Chawla was an astronaut.",
+      "exampleMeaning": {
+        "hi": "कल्पना चावला अंतरिक्ष यात्री थीं।",
+        "hinglish": "Kalpana Chawla antariksh yaatri thin."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.09.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "aeronautics",
+        "emoji": "",
+        "hindi": "वैमानिकी",
+        "hinglish": "vaimaaniki"
+      },
+      "meaning": "the science of building and flying aircraft",
+      "example": "She studied aeronautics.",
+      "exampleMeaning": {
+        "hi": "उन्होंने वैमानिकी पढ़ी।",
+        "hinglish": "Unhone vaimaaniki padhi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.09.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "inspiration",
+        "emoji": "",
+        "hindi": "प्रेरणा",
+        "hinglish": "prerna"
+      },
+      "meaning": "someone or something that makes you want to do well",
+      "example": "She is an inspiration to young girls.",
+      "exampleMeaning": {
+        "hi": "वे लड़कियों की प्रेरणा हैं।",
+        "hinglish": "Woh ladkiyon ki prerna hain."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.09.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "colleagues",
+        "emoji": "",
+        "hindi": "सहकर्मी",
+        "hinglish": "sahkarmi"
+      },
+      "meaning": "people who work with you",
+      "example": "She was liked by her colleagues.",
+      "exampleMeaning": {
+        "hi": "उनके सहकर्मी उन्हें पसंद करते थे।",
+        "hinglish": "Unke sahkarmi unhe pasand karte the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.09.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "perished",
+        "emoji": "",
+        "hindi": "मारे गए, नष्ट हुए",
+        "hinglish": "maare gaye, nasht hue"
+      },
+      "meaning": "died or was destroyed",
+      "example": "Columbia perished with her crew.",
+      "exampleMeaning": {
+        "hi": "कोलंबिया अपने दल के साथ नष्ट हो गया।",
+        "hinglish": "Columbia apne dal ke saath nasht ho gaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.09.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "immortal",
+        "emoji": "",
+        "hindi": "अमर",
+        "hinglish": "amar"
+      },
+      "meaning": "living forever",
+      "example": "She is immortal in our hearts.",
+      "exampleMeaning": {
+        "hi": "वे हमारे दिलों में अमर हैं।",
+        "hinglish": "Woh hamaare dilon mein amar hain."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.09.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "astronaut",
+        "emoji": "",
+        "hindi": "अंतरिक्ष यात्री",
+        "hinglish": "antariksh yaatri"
+      }
+    }
+  ]
+}

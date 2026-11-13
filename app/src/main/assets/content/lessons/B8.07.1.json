@@ -1,0 +1,224 @@
+{
+  "id": "B8.07.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.07.1.S02",
+    "B8.07.1.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.07.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "तेज़ बारिश के दिन गाँव के स्कूल के हेडमास्टर बच्चों को बाढ़ के कारण, नुक़सान और बचाव के तरीक़े बताते हैं। यह पाठ तुम्हारी जान भी बचा सकता है!",
+        "hinglish": "Tez baarish ke din gaanv ke school ke headmaster bachchon ko baadh ke kaaran, nuksaan aur bachaav ke tareeqe bataate hain. Yeh paath tumhari jaan bhi bacha sakta hai!",
+        "en": "On a very rainy day, a village headmaster tells students the causes and effects of floods, and how to stay safe. This lesson could save your life!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What happens when it rains heavily?",
+      "questionMeaning": {
+        "hi": "तेज़ बारिश होने पर क्या होता है?",
+        "hinglish": "Tez baarish hone par kya hota hai?"
+      },
+      "options": [
+        "Rivers rise and there can be floods.",
+        "It becomes very hot.",
+        "Nothing happens."
+      ],
+      "answer": "Rivers rise and there can be floods.",
+      "modelAnswer": "When it rains heavily, rivers and streams overflow, roads get blocked, and there can be floods.",
+      "modelMeaning": {
+        "hi": "तेज़ बारिश में नदी-नाले उफ़न जाते हैं, रास्ते बंद हो जाते हैं और बाढ़ आ सकती है।",
+        "hinglish": "Tez baarish mein nadi-naale ufan jaate hain, raaste band ho jaate hain aur baadh aa sakti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "What will you do in case there is a flood?",
+      "questionMeaning": {
+        "hi": "बाढ़ आए तो तुम क्या करोगे?",
+        "hinglish": "Baadh aaye to tum kya karoge?"
+      },
+      "options": [
+        "Move to a higher, safe place with my family.",
+        "Go near the river to watch.",
+        "Climb a tree."
+      ],
+      "answer": "Move to a higher, safe place with my family.",
+      "modelAnswer": "In case of a flood, I will not panic. I will move with my family to a higher, safe place like the school building.",
+      "modelMeaning": {
+        "hi": "बाढ़ आने पर मैं घबराऊँगा नहीं। परिवार के साथ ऊँची, सुरक्षित जगह जैसे स्कूल भवन में चला जाऊँगा।",
+        "hinglish": "Baadh aane par main ghabraaunga nahi. Parivaar ke saath oonchi, surakshit jagah jaise school bhavan mein chala jaaunga."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "‘It's raining cats and dogs’ means ...",
+      "questionMeaning": {
+        "hi": "इस मुहावरे का मतलब?",
+        "hinglish": "Is muhaavare ka matlab?"
+      },
+      "options": [
+        "It is raining heavily.",
+        "Cats and dogs are falling.",
+        "Animals are playing in the rain."
+      ],
+      "answer": "It is raining heavily."
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.07.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "disaster",
+        "emoji": "",
+        "hindi": "आपदा",
+        "hinglish": "aapda"
+      },
+      "meaning": "a sudden event that causes great damage",
+      "example": "A flood is a disaster.",
+      "exampleMeaning": {
+        "hi": "बाढ़ एक आपदा है।",
+        "hinglish": "Baadh ek aapda hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.07.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "cloudburst",
+        "emoji": "",
+        "hindi": "बादल फटना",
+        "hinglish": "baadal phatna"
+      },
+      "meaning": "very heavy rain in a short time",
+      "example": "A cloudburst can cause floods.",
+      "exampleMeaning": {
+        "hi": "बादल फटने से बाढ़ आ सकती है।",
+        "hinglish": "Baadal phatne se baadh aa sakti hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.07.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "embankment",
+        "emoji": "",
+        "hindi": "तटबंध",
+        "hinglish": "tatbandh"
+      },
+      "meaning": "a wall of earth along a river",
+      "example": "The river broke the embankment.",
+      "exampleMeaning": {
+        "hi": "नदी ने तटबंध तोड़ दिया।",
+        "hinglish": "Nadi ne tatbandh tod diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.07.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "epidemic",
+        "emoji": "",
+        "hindi": "महामारी",
+        "hinglish": "mahaamaari"
+      },
+      "meaning": "a disease that spreads to many people",
+      "example": "Cholera can become an epidemic.",
+      "exampleMeaning": {
+        "hi": "हैज़ा महामारी बन सकता है।",
+        "hinglish": "Haiza mahaamaari ban sakta hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.07.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "panicky",
+        "emoji": "",
+        "hindi": "घबराया हुआ",
+        "hinglish": "ghabraaya hua"
+      },
+      "meaning": "very afraid and unable to think",
+      "example": "Don't get panicky.",
+      "exampleMeaning": {
+        "hi": "घबराओ मत।",
+        "hinglish": "Ghabraao mat."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.07.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "veterinary",
+        "emoji": "",
+        "hindi": "पशु-चिकित्सा का",
+        "hinglish": "pashu-chikitsa ka"
+      },
+      "meaning": "about the treatment of animals",
+      "example": "Take the cattle to a veterinary hospital.",
+      "exampleMeaning": {
+        "hi": "पशुओं को पशु-अस्पताल ले जाओ।",
+        "hinglish": "Pashuon ko pashu-aspataal le jaao."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.07.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "disaster",
+        "emoji": "",
+        "hindi": "आपदा",
+        "hinglish": "aapda"
+      }
+    }
+  ]
+}

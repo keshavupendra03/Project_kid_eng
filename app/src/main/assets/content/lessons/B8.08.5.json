@@ -1,0 +1,170 @@
+{
+  "id": "B8.08.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.08.5.S02",
+    "B8.08.5.S03",
+    "B8.08.5.S04",
+    "B8.08.5.S05",
+    "B8.08.5.S06",
+    "B8.08.5.S07",
+    "B8.08.5.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.08.5.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 70 पर पतंग वाली छोटी कविता पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 70 par patang waali chhoti kavita padho, phir jawab do.",
+        "en": "Read the little kite poem on page 70 of your book, then answer."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.08.5.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "What shall you ___?",
+      "answer": "buy",
+      "options": [
+        "buy",
+        "fly",
+        "try"
+      ],
+      "meaning": {
+        "hi": "तुम क्या ख़रीदोगे?",
+        "hinglish": "Tum kya khareedoge?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.08.5.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "A ___ that will fly",
+      "answer": "kite",
+      "options": [
+        "kite",
+        "bird",
+        "plane"
+      ],
+      "meaning": {
+        "hi": "एक पतंग जो उड़ेगी",
+        "hinglish": "Ek patang jo udegi"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.08.5.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "Up to the ___",
+      "answer": "moon",
+      "options": [
+        "moon",
+        "sun",
+        "tree"
+      ],
+      "meaning": {
+        "hi": "चाँद तक ऊपर",
+        "hinglish": "Chaand tak upar"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.08.5.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "sentence": "All through the ___!",
+      "answer": "sky",
+      "options": [
+        "sky",
+        "night",
+        "air"
+      ],
+      "meaning": {
+        "hi": "पूरे आसमान में!",
+        "hinglish": "Poore aasmaan mein!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.5.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Is there a man on the moon?",
+      "questionMeaning": {
+        "hi": "क्या चाँद पर कोई आदमी है?",
+        "hinglish": "Kya chaand par koi aadmi hai?"
+      },
+      "options": [
+        "No, it is only the poet's imagination.",
+        "Yes, he lives there."
+      ],
+      "answer": "No, it is only the poet's imagination.",
+      "modelAnswer": "No, there is no man on the moon. The ‘man in the moon’ is only the poet's imagination.",
+      "modelMeaning": {
+        "hi": "नहीं, चाँद पर कोई आदमी नहीं है। यह सिर्फ़ कवि की कल्पना है।",
+        "hinglish": "Nahi, chaand par koi aadmi nahi hai. Yeh sirf kavi ki kalpana hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.5.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does ‘paw’ mean in the poem?",
+      "questionMeaning": {
+        "hi": "‘paw’ का मतलब?",
+        "hinglish": "‘paw’ ka matlab?"
+      },
+      "options": [
+        "a hand (an animal's foot)",
+        "a kite string",
+        "a door"
+      ],
+      "answer": "a hand (an animal's foot)",
+      "modelAnswer": "A paw is the foot of an animal; here it means the hand of the man in the moon.",
+      "modelMeaning": {
+        "hi": "paw जानवर का पंजा होता है; यहाँ इसका मतलब चाँद वाले आदमी का हाथ है।",
+        "hinglish": "paw jaanwar ka panja hota hai; yahan iska matlab chaand waale aadmi ka haath hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.5.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "In ‘when it gets there’, ‘gets’ means ...",
+      "questionMeaning": {
+        "hi": "यहाँ ‘gets’ का मतलब",
+        "hinglish": "Yahan ‘gets’ ka matlab"
+      },
+      "options": [
+        "reaches",
+        "buys",
+        "becomes"
+      ],
+      "answer": "reaches"
+    }
+  ]
+}

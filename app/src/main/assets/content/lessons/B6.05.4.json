@@ -1,0 +1,172 @@
+{
+  "id": "B6.05.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.05.4.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.05.4.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब: एक यात्री रेलवे की पूछताछ खिड़की (enquiry counter) पर ट्रेन के आने (arrive) और जाने (depart) का समय पूछता है। मैं क्लर्क हूँ, तुम यात्री बनकर पूछो।",
+        "hinglish": "Kitaab: ek yaatri railway ki poochhtaachh khidki (enquiry counter) par train ke aane (arrive) aur jaane (depart) ka samay poochhta hai. Main clerk hoon, tum yaatri bankar poochho.",
+        "en": "The book: a traveller asks the enquiry clerk when a train arrives and departs. I'm the clerk; you ask as the traveller."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.05.4.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🚉",
+      "turns": [
+        {
+          "id": "start",
+          "tinku": "Good evening. How can I help you?",
+          "meaning": {
+            "hi": "नमस्ते। मैं आपकी क्या मदद करूँ?",
+            "hinglish": "Namaste. Main aapki kya madad karoon?"
+          },
+          "replies": [
+            {
+              "say": "When does the Narmada Express arrive?",
+              "meaning": {
+                "hi": "नर्मदा एक्सप्रेस कब आती है?",
+                "hinglish": "Narmada Express kab aati hai?"
+              },
+              "patterns": [
+                "when does the narmada express arrive",
+                "when does * arrive",
+                "when *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "arrive",
+          "tinku": "At 9:30 p.m., Sir.",
+          "meaning": {
+            "hi": "रात 9:30 बजे।",
+            "hinglish": "Raat 9:30 baje."
+          },
+          "replies": [
+            {
+              "say": "When does it depart?",
+              "meaning": {
+                "hi": "वह कब छूटती है?",
+                "hinglish": "Woh kab chhootti hai?"
+              },
+              "patterns": [
+                "when does it depart",
+                "when does it leave",
+                "when does *",
+                "when *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "depart",
+          "tinku": "At 9:45 p.m., Sir.",
+          "meaning": {
+            "hi": "रात 9:45 बजे।",
+            "hinglish": "Raat 9:45 baje."
+          },
+          "replies": [
+            {
+              "say": "Thank you very much.",
+              "meaning": {
+                "hi": "बहुत-बहुत धन्यवाद।",
+                "hinglish": "Bahut-bahut dhanyavaad."
+              },
+              "patterns": [
+                "thank you *",
+                "thank you",
+                "thanks *",
+                "thanks"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.05.4.S03",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "arrive = आना, पहुँचना। depart = जाना, छूटना। a.m. = सुबह (आधी रात से दोपहर 12 तक), p.m. = दोपहर 12 के बाद से रात तक।",
+        "hinglish": "arrive = aana, pahunchna. depart = jaana, chhootna. a.m. = subah (aadhi raat se dopahar 12 tak), p.m. = dopahar 12 ke baad se raat tak.",
+        "en": "arrive = come in; depart = leave. a.m. is from midnight to noon; p.m. is from noon to midnight."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.4.S04",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "question": "The train arrives at 9:30 p.m. and departs at 9:45 p.m. How long does it stop?",
+      "questionMeaning": {
+        "hi": "ट्रेन 9:30 पर आती है और 9:45 पर जाती है। कितनी देर रुकती है?",
+        "hinglish": "Train 9:30 par aati hai aur 9:45 par jaati hai. Kitni der rukti hai?"
+      },
+      "options": [
+        "15 minutes",
+        "30 minutes",
+        "45 minutes"
+      ],
+      "answer": "15 minutes"
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.4.S05",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "question": "‘depart’ means ...",
+      "questionMeaning": {
+        "hi": "‘depart’ का मतलब?",
+        "hinglish": "‘depart’ ka matlab?"
+      },
+      "options": [
+        "to leave",
+        "to arrive",
+        "to stop"
+      ],
+      "answer": "to leave"
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.4.S06",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "question": "9:30 p.m. is in the ...",
+      "questionMeaning": {
+        "hi": "9:30 p.m. कब होता है?",
+        "hinglish": "9:30 p.m. kab hota hai?"
+      },
+      "options": [
+        "night",
+        "morning",
+        "afternoon"
+      ],
+      "answer": "night"
+    }
+  ]
+}

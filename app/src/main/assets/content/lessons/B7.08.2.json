@@ -1,0 +1,338 @@
+{
+  "id": "B7.08.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.08.2.S02",
+    "B7.08.2.S03",
+    "B7.08.2.S04",
+    "B7.08.2.S05",
+    "B7.08.2.S06",
+    "B7.08.2.S07",
+    "B7.08.2.S08",
+    "B7.08.2.S10",
+    "B7.08.2.S11",
+    "B7.08.2.S12",
+    "B7.08.2.S13",
+    "B7.08.2.S14",
+    "B7.08.2.S15"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.08.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 56 और 57 पर ‘The Olympic Champion’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 56 aur 57 par ‘The Olympic Champion’ padho. Phir jawab do.",
+        "en": "Read ‘The Olympic Champion’ on pages 56 and 57 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do we know about the ancient Olympic Games?",
+      "questionMeaning": {
+        "hi": "हम पुराने ओलंपिक खेलों के बारे में क्या जानते हैं?",
+        "hinglish": "Hum puraane Olympic khelon ke baare mein kya jaante hain?"
+      },
+      "options": [
+        "They were held in Greece in 776 B.C. at Olympia.",
+        "They were held in India in 1928.",
+        "They were held in Sydney."
+      ],
+      "answer": "They were held in Greece in 776 B.C. at Olympia.",
+      "modelAnswer": "We know only a few things about the ancient Olympic Games. An Olympic sports festival was held in Greece in 776 B.C. at Olympia.",
+      "modelMeaning": {
+        "hi": "हम पुराने ओलंपिक के बारे में थोड़ा ही जानते हैं। 776 ईसा पूर्व में ग्रीस के ओलंपिया में एक खेल उत्सव हुआ था।",
+        "hinglish": "Hum puraane Olympic ke baare mein thoda hi jaante hain. 776 isa poorv mein Greece ke Olympia mein ek khel utsav hua tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where did the Olympic Games get their name from?",
+      "questionMeaning": {
+        "hi": "ओलंपिक खेलों का नाम कहाँ से आया?",
+        "hinglish": "Olympic khelon ka naam kahan se aaya?"
+      },
+      "options": [
+        "from Olympia, the place in Greece where they were held",
+        "from a king called Olympus",
+        "from a river"
+      ],
+      "answer": "from Olympia, the place in Greece where they were held",
+      "modelAnswer": "The Olympic Games got their name from Olympia, the place in Greece where they were first held.",
+      "modelMeaning": {
+        "hi": "ओलंपिक का नाम ग्रीस की जगह ओलंपिया से आया, जहाँ ये पहली बार हुए।",
+        "hinglish": "Olympic ka naam Greece ki jagah Olympia se aaya, jahan yeh pehli baar hue."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who won a gold medal for rowing in the Olympic Games of 1928?",
+      "questionMeaning": {
+        "hi": "1928 के ओलंपिक में नाव-दौड़ का स्वर्ण पदक किसने जीता?",
+        "hinglish": "1928 ke Olympic mein naav-daud ka swarn padak kisne jeeta?"
+      },
+      "options": [
+        "Bobby Pearce",
+        "Ken Myers",
+        "Milkha Singh"
+      ],
+      "answer": "Bobby Pearce",
+      "modelAnswer": "Bobby Pearce won a gold medal for rowing in the Olympic Games of 1928.",
+      "modelMeaning": {
+        "hi": "बॉबी पियर्स ने 1928 के ओलंपिक में नाव-दौड़ का स्वर्ण पदक जीता।",
+        "hinglish": "Bobby Pearce ne 1928 ke Olympic mein naav-daud ka swarn padak jeeta."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "At what age did he win the first race?",
+      "questionMeaning": {
+        "hi": "उसने पहली रेस किस उम्र में जीती?",
+        "hinglish": "Usne pehli race kis umar mein jeeti?"
+      },
+      "options": [
+        "six",
+        "fourteen",
+        "twenty"
+      ],
+      "answer": "six",
+      "modelAnswer": "He won his first race at the age of six, against fourteen-year-olds.",
+      "modelMeaning": {
+        "hi": "उसने छह साल की उम्र में पहली रेस जीती, चौदह साल के लड़कों के ख़िलाफ़।",
+        "hinglish": "Usne chhah saal ki umar mein pehli race jeeti, chaudah saal ke ladkon ke khilaaf."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who did he compete with in the finals of the Amsterdam Olympics?",
+      "questionMeaning": {
+        "hi": "एम्स्टर्डम ओलंपिक के फ़ाइनल में उसका मुक़ाबला किससे था?",
+        "hinglish": "Amsterdam Olympic ke final mein uska mukaabla kisse tha?"
+      },
+      "options": [
+        "Ken Myers of America",
+        "his father",
+        "a Dutch boy"
+      ],
+      "answer": "Ken Myers of America",
+      "modelAnswer": "He competed against Ken Myers of America in the finals.",
+      "modelMeaning": {
+        "hi": "फ़ाइनल में उसका मुक़ाबला अमेरिका के केन मायर्स से था।",
+        "hinglish": "Final mein uska mukaabla America ke Ken Myers se tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What caused Bobby to slow down in the middle of the race?",
+      "questionMeaning": {
+        "hi": "रेस के बीच में बॉबी ने रफ़्तार क्यों कम की?",
+        "hinglish": "Race ke beech mein Bobby ne raftaar kyon kam ki?"
+      },
+      "options": [
+        "A duck and her ducklings were swimming across his path.",
+        "His boat broke.",
+        "He was tired."
+      ],
+      "answer": "A duck and her ducklings were swimming across his path.",
+      "modelAnswer": "Bobby slowed down because a duck and her ducklings were swimming across the waterway into the path of his boat.",
+      "modelMeaning": {
+        "hi": "बॉबी ने रफ़्तार कम की क्योंकि एक बत्तख और उसके बच्चे उसकी नाव के रास्ते में तैर रहे थे।",
+        "hinglish": "Bobby ne raftaar kam ki kyonki ek battakh aur uske bachche uski naav ke raaste mein tair rahe the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did he do when he saw a duck and her ducklings swimming across the waterway?",
+      "questionMeaning": {
+        "hi": "बत्तख और उसके बच्चों को देखकर उसने क्या किया?",
+        "hinglish": "Battakh aur uske bachchon ko dekhkar usne kya kiya?"
+      },
+      "options": [
+        "He slowed down and waited till they were out of danger.",
+        "He went faster.",
+        "He stopped the race and went home."
+      ],
+      "answer": "He slowed down and waited till they were out of danger.",
+      "modelAnswer": "He slowed down his boat and waited until all the ducklings were out of danger. Then he picked up speed and won the race.",
+      "modelMeaning": {
+        "hi": "उसने नाव धीमी की और बच्चों के सुरक्षित निकलने तक रुका। फिर तेज़ होकर रेस जीत गया।",
+        "hinglish": "Usne naav dheemi ki aur bachchon ke surakshit nikalne tak ruka. Phir tez hokar race jeet gaya."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.08.2.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अब किताब का True/False।",
+        "hinglish": "Ab kitaab ka True/False.",
+        "en": "Now the book's true or false."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Athletes come from all the countries to take part in the Olympic Games.",
+      "questionMeaning": {
+        "hi": "ओलंपिक में सब देशों के खिलाड़ी आते हैं।",
+        "hinglish": "Olympic mein sab deshon ke khilaadi aate hain."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Bobby Pearce's father was a great wrestler.",
+      "questionMeaning": {
+        "hi": "बॉबी के पिता बड़े पहलवान थे।",
+        "hinglish": "Bobby ke pita bade pahalwaan the."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. His father was a great sculling (rowing) champion.",
+      "modelMeaning": {
+        "hi": "गलत। उसके पिता नाव-दौड़ के चैंपियन थे।",
+        "hinglish": "Galat. Uske pita naav-daud ke champion the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? At the age of six, Bobby won the first race.",
+      "questionMeaning": {
+        "hi": "छह साल की उम्र में बॉबी ने पहली रेस जीती।",
+        "hinglish": "Chhah saal ki umar mein Bobby ne pehli race jeeti."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The people on the bank were silent.",
+      "questionMeaning": {
+        "hi": "किनारे पर लोग चुप थे।",
+        "hinglish": "Kinaare par log chup the."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. They were cheering and shouting.",
+      "modelMeaning": {
+        "hi": "गलत। वे चिल्ला रहे थे और हौसला बढ़ा रहे थे।",
+        "hinglish": "Galat. Woh chilla rahe the aur hausla badha rahe the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S14",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? His friends in the Australian Olympic team were not surprised.",
+      "questionMeaning": {
+        "hi": "उसके दोस्त हैरान नहीं थे।",
+        "hinglish": "Uske dost hairaan nahi the."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.2.S15",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? In all these years he lost a few races.",
+      "questionMeaning": {
+        "hi": "इन सालों में वह कुछ रेस हारा।",
+        "hinglish": "In saalon mein woh kuch race haara."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. He never lost a single race.",
+      "modelMeaning": {
+        "hi": "गलत। वह एक भी रेस नहीं हारा।",
+        "hinglish": "Galat. Woh ek bhi race nahi haara."
+      }
+    }
+  ]
+}

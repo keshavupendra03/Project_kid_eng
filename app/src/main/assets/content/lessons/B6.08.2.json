@@ -1,0 +1,150 @@
+{
+  "id": "B6.08.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.08.2.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.08.2.S01",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "text": {
+        "hi": "जानवरों के तीन समूह: wild animals (जंगली), farm animals (खेत/फ़ार्म के), pet animals (पालतू)।",
+        "hinglish": "Jaanwaron ke teen samooh: wild animals (jangli), farm animals (khet/farm ke), pet animals (paaltu).",
+        "en": "Animals can be in three groups: wild animals, farm animals and pet animals."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B6.08.2.S02",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "हर जानवर को सही समूह में रखो",
+        "hinglish": "Har jaanwar ko sahi samooh mein rakho",
+        "en": "Put each animal in its group"
+      },
+      "groups": [
+        {
+          "id": "wild",
+          "name": "wild animals",
+          "emoji": "🌳",
+          "meaning": {
+            "hi": "जंगली जानवर",
+            "hinglish": "jangli jaanwar"
+          }
+        },
+        {
+          "id": "farm",
+          "name": "farm animals",
+          "emoji": "🚜",
+          "meaning": {
+            "hi": "फ़ार्म के जानवर",
+            "hinglish": "farm ke jaanwar"
+          }
+        },
+        {
+          "id": "pet",
+          "name": "pet animals",
+          "emoji": "🏠",
+          "meaning": {
+            "hi": "पालतू जानवर",
+            "hinglish": "paaltu jaanwar"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "elephant",
+          "emoji": "🐘",
+          "groups": [
+            "wild"
+          ]
+        },
+        {
+          "text": "cow",
+          "emoji": "🐄",
+          "groups": [
+            "farm"
+          ]
+        },
+        {
+          "text": "dog",
+          "emoji": "🐕",
+          "groups": [
+            "pet"
+          ]
+        },
+        {
+          "text": "tiger",
+          "emoji": "🐅",
+          "groups": [
+            "wild"
+          ]
+        },
+        {
+          "text": "sheep",
+          "emoji": "🐑",
+          "groups": [
+            "farm"
+          ]
+        },
+        {
+          "text": "cat",
+          "emoji": "🐈",
+          "groups": [
+            "pet"
+          ]
+        },
+        {
+          "text": "lion",
+          "emoji": "🦁",
+          "groups": [
+            "wild"
+          ]
+        },
+        {
+          "text": "hen",
+          "emoji": "🐔",
+          "groups": [
+            "farm"
+          ]
+        },
+        {
+          "text": "parrot",
+          "emoji": "🦜",
+          "groups": [
+            "pet"
+          ]
+        },
+        {
+          "text": "monkey",
+          "emoji": "🐒",
+          "groups": [
+            "wild"
+          ]
+        },
+        {
+          "text": "horse",
+          "emoji": "🐎",
+          "groups": [
+            "farm"
+          ]
+        },
+        {
+          "text": "rabbit",
+          "emoji": "🐇",
+          "groups": [
+            "pet"
+          ]
+        }
+      ]
+    }
+  ]
+}

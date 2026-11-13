@@ -1,0 +1,112 @@
+{
+  "id": "B7.08.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.08.7.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.08.7.S01",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "किताब के पेज 61 पर चार ख़बरें हैं, पर उनकी हेडलाइन मिल गई हैं। हर ख़बर पढ़ो और सही हेडलाइन जोड़ो। हेडलाइन = ख़बर का छोटा शीर्षक।",
+        "hinglish": "Kitaab ke page 61 par chaar khabrein hain, par unki headline mil gayi hain. Har khabar padho aur sahi headline jodo. Headline = khabar ka chhota sheershak.",
+        "en": "Page 61 of your book has four news items with mixed-up headlines. Read each one and join it to the right headline. A headline is the short title of a news item."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.08.7.S02",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "हर हेडलाइन को उसकी ख़बर से जोड़ो",
+        "hinglish": "Har headline ko uski khabar se jodo",
+        "en": "Match each headline with its news item"
+      },
+      "pairs": [
+        {
+          "left": "Indians make junior golf final",
+          "right": "An Indian team won its qualifier and reached the World Junior golf finals.",
+          "meaning": {
+            "hi": "भारत की टीम जूनियर गोल्फ़ फ़ाइनल में",
+            "hinglish": "Bharat ki team junior golf final mein"
+          }
+        },
+        {
+          "left": "MP tableau thrills kids",
+          "right": "MP's Mowgli tableau at the Republic Day parade delighted the children.",
+          "meaning": {
+            "hi": "मध्य प्रदेश की झाँकी ने बच्चों को रोमांचित किया",
+            "hinglish": "Madhya Pradesh ki jhaanki ne bachchon ko romaanchit kiya"
+          }
+        },
+        {
+          "left": "Lok Adalat on Jan 30",
+          "right": "A Lok Adalat will be held at the Bhopal District Court to settle cases.",
+          "meaning": {
+            "hi": "30 जनवरी को लोक अदालत",
+            "hinglish": "30 January ko Lok Adalat"
+          }
+        },
+        {
+          "left": "Cabinet approves Governor's address",
+          "right": "The State Cabinet, chaired by the Chief Minister, approved the Governor's speech.",
+          "meaning": {
+            "hi": "कैबिनेट ने राज्यपाल का भाषण मंज़ूर किया",
+            "hinglish": "Cabinet ne Rajyapaal ka bhaashan manzoor kiya"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.7.S03",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "Mowgli is the hero of which famous book?",
+      "questionMeaning": {
+        "hi": "मोगली किस मशहूर किताब का हीरो है?",
+        "hinglish": "Mowgli kis mashhoor kitaab ka hero hai?"
+      },
+      "options": [
+        "The Jungle Book",
+        "The Lost Camel",
+        "Panchatantra"
+      ],
+      "answer": "The Jungle Book",
+      "modelAnswer": "Mowgli is the hero of Rudyard Kipling's The Jungle Book. Its forest is the Pench forest of Madhya Pradesh.",
+      "modelMeaning": {
+        "hi": "मोगली रुडयार्ड किपलिंग की ‘द जंगल बुक’ का हीरो है। उसका जंगल मध्य प्रदेश का पेंच है।",
+        "hinglish": "Mowgli Rudyard Kipling ki ‘The Jungle Book’ ka hero hai. Uska jangal Madhya Pradesh ka Pench hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.7.S04",
+      "skills": [
+        "book.activity",
+        "read.understand"
+      ],
+      "question": "What is a headline?",
+      "questionMeaning": {
+        "hi": "हेडलाइन क्या होती है?",
+        "hinglish": "Headline kya hoti hai?"
+      },
+      "options": [
+        "the short title of a news item",
+        "the last line of a letter",
+        "a long story"
+      ],
+      "answer": "the short title of a news item"
+    }
+  ]
+}

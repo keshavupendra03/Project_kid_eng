@@ -1,0 +1,121 @@
+{
+  "id": "B8.13.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.13.5.S02",
+    "B8.13.5.S03",
+    "B8.13.5.S04",
+    "B8.13.5.S05",
+    "B8.13.5.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.13.5.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "text": {
+        "hi": "किसी के बारे में और जानकारी जोड़ने के लिए , who ... , लगाओ: Nakul, who was Madri's son, looked all over the forest.",
+        "hinglish": "Kisi ke baare mein aur jaankaari jodne ke liye , who ... , lagaao: Nakul, who was Madri's son, looked all over the forest.",
+        "en": "Add extra information about a person with , who ... ,: Nakul, who was Madri's son, looked all over the forest."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.5.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "question": "The Yaksha asked many questions. (a divine spirit)",
+      "questionMeaning": {
+        "hi": "who से जोड़ो",
+        "hinglish": "who se jodo"
+      },
+      "options": [
+        "The Yaksha, who was a divine spirit, asked many questions.",
+        "The Yaksha asked many questions, who was a divine spirit.",
+        "The Yaksha, which was a divine spirit, asked many questions."
+      ],
+      "answer": "The Yaksha, who was a divine spirit, asked many questions."
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.5.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "question": "Bhima paid no heed to the strange voice. (very strong)",
+      "questionMeaning": {
+        "hi": "who से जोड़ो",
+        "hinglish": "who se jodo"
+      },
+      "options": [
+        "Bhima, who was very strong, paid no heed to the strange voice.",
+        "Bhima paid no heed, who was very strong, to the voice.",
+        "Bhima, whom was very strong, paid no heed to the strange voice."
+      ],
+      "answer": "Bhima, who was very strong, paid no heed to the strange voice."
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.5.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "question": "Arjun was a great warrior. (very good at archery)",
+      "questionMeaning": {
+        "hi": "who से जोड़ो",
+        "hinglish": "who se jodo"
+      },
+      "options": [
+        "Arjun, who was very good at archery, was a great warrior.",
+        "Arjun was a great warrior who archery.",
+        "Arjun, which was good at archery, was a great warrior."
+      ],
+      "answer": "Arjun, who was very good at archery, was a great warrior."
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.5.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "question": "Sahadeva failed to return. (the youngest Pandava)",
+      "questionMeaning": {
+        "hi": "who से जोड़ो",
+        "hinglish": "who se jodo"
+      },
+      "options": [
+        "Sahadeva, who was the youngest Pandava, failed to return.",
+        "Sahadeva failed, who was the youngest, to return.",
+        "Sahadeva, whose the youngest Pandava, failed to return."
+      ],
+      "answer": "Sahadeva, who was the youngest Pandava, failed to return."
+    },
+    {
+      "type": "choice",
+      "id": "B8.13.5.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "question": "Yudhishthira answered all the questions very well. (famous for his justice)",
+      "questionMeaning": {
+        "hi": "who से जोड़ो",
+        "hinglish": "who se jodo"
+      },
+      "options": [
+        "Yudhishthira, who was famous for his justice, answered all the questions very well.",
+        "Yudhishthira answered, who was famous, all the questions.",
+        "Yudhishthira, which was famous for his justice, answered all the questions."
+      ],
+      "answer": "Yudhishthira, who was famous for his justice, answered all the questions very well."
+    }
+  ]
+}

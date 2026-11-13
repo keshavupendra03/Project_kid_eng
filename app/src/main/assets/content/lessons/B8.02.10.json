@@ -1,0 +1,111 @@
+{
+  "id": "B8.02.10",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.10.S02",
+    "B8.02.10.S03",
+    "B8.02.10.S04",
+    "B8.02.10.S05",
+    "B8.02.10.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.10.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: दोस्त को कान्हा किसली की यात्रा के बारे में चिट्ठी लिखो। ढाँचा: ऊपर दाईं ओर पता और तारीख़, फिर Dear Amit, फिर बात, आख़िर में Yours affectionately और नाम।",
+        "hinglish": "Kitaab: dost ko Kanha Kisli ki yaatra ke baare mein chitthi likho. Dhaancha: upar daayin or pata aur taareekh, phir Dear Amit, phir baat, aakhir mein Yours affectionately aur naam.",
+        "en": "The book: write a letter to a friend about your visit to Kanha Kisli. Layout: address and date at the top right, then Dear Amit, then the letter, and at the end Yours affectionately and your name."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.10.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "How do we end a letter to a friend?",
+      "questionMeaning": {
+        "hi": "दोस्त को चिट्ठी कैसे ख़त्म करें?",
+        "hinglish": "Dost ko chitthi kaise khatm karein?"
+      },
+      "options": [
+        "Yours affectionately",
+        "Yours faithfully, Sir",
+        "Thank you, Principal"
+      ],
+      "answer": "Yours affectionately"
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.02.10.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मैं हाल ही में कान्हा किसली गया था।",
+        "hinglish": "Main haal hi mein Kanha Kisli gaya tha.",
+        "en": "Start by telling your friend about your recent trip."
+      },
+      "answer": "I recently visited Kanha Kisli.",
+      "meaning": {
+        "hi": "मैं हाल ही में कान्हा किसली गया था।",
+        "hinglish": "Main haal hi mein Kanha Kisli gaya tha."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.02.10.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मैंने हाथी पर बैठकर एक बाघ देखा।",
+        "hinglish": "Maine haathi par baithkar ek baagh dekha.",
+        "en": "Tell what you saw from the elephant's back."
+      },
+      "answer": "I saw a tiger from an elephant's back.",
+      "meaning": {
+        "hi": "मैंने हाथी पर बैठकर एक बाघ देखा।",
+        "hinglish": "Maine haathi par baithkar ek baagh dekha."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.02.10.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "वहाँ बहुत सुंदर पक्षी भी थे।",
+        "hinglish": "Wahan bahut sundar pakshi bhi the.",
+        "en": "Tell about the birds there."
+      },
+      "answer": "There were many beautiful birds too.",
+      "meaning": {
+        "hi": "वहाँ बहुत सारे सुंदर पक्षी भी थे।",
+        "hinglish": "Wahan bahut saare sundar pakshi bhi the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.02.10.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तुम्हें भी एक बार वहाँ जाना चाहिए।",
+        "hinglish": "Tumhe bhi ek baar wahan jaana chahiye.",
+        "en": "Advise your friend to go there."
+      },
+      "answer": "You should also visit it once.",
+      "meaning": {
+        "hi": "तुम्हें भी एक बार वहाँ जाना चाहिए।",
+        "hinglish": "Tumhe bhi ek baar wahan jaana chahiye."
+      }
+    }
+  ]
+}

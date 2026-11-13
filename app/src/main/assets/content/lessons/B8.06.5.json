@@ -1,0 +1,424 @@
+{
+  "id": "B8.06.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.06.5.S02",
+    "B8.06.5.S03",
+    "B8.06.5.S04",
+    "B8.06.5.S05",
+    "B8.06.5.S06",
+    "B8.06.5.S07",
+    "B8.06.5.S08",
+    "B8.06.5.S10",
+    "B8.06.5.S11",
+    "B8.06.5.S12",
+    "B8.06.5.S13",
+    "B8.06.5.S14",
+    "B8.06.5.S15",
+    "B8.06.5.S16",
+    "B8.06.5.S17",
+    "B8.06.5.S18",
+    "B8.06.5.S19"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.06.5.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "text": {
+        "hi": "नकारात्मक वाक्य में not सहायक क्रिया के बाद आता है: They are not coming। छोटा रूप: doesn't, didn't, weren't, wasn't, isn't, don't, haven't।",
+        "hinglish": "Nakaaraatmak vaakya mein not sahaayak kriya ke baad aata hai: They are not coming. Chhota roop: doesn't, didn't, weren't, wasn't, isn't, don't, haven't.",
+        "en": "In a negative sentence, not comes after the helping verb: They are not coming. Short forms: doesn't, didn't, weren't, wasn't, isn't, don't, haven't."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.5.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "sentence": "The house ___ look very beautiful.",
+      "answer": "doesn't",
+      "options": [
+        "doesn't",
+        "don't",
+        "isn't"
+      ],
+      "meaning": {
+        "hi": "घर बहुत सुंदर नहीं दिखता।",
+        "hinglish": "Ghar bahut sundar nahi dikhta."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.5.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "sentence": "The people who lived there before Ravi ___ look after it very well.",
+      "answer": "didn't",
+      "options": [
+        "didn't",
+        "doesn't",
+        "wasn't"
+      ],
+      "meaning": {
+        "hi": "रवि से पहले रहने वालों ने उसकी अच्छी देखभाल नहीं की।",
+        "hinglish": "Ravi se pehle rehne waalon ne uski achhi dekhbhaal nahi ki."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.5.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "sentence": "And they ___ very good at gardening.",
+      "answer": "weren't",
+      "options": [
+        "weren't",
+        "wasn't",
+        "didn't"
+      ],
+      "meaning": {
+        "hi": "और वे बाग़बानी में अच्छे नहीं थे।",
+        "hinglish": "Aur woh baagbaani mein achhe nahi the."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.5.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "sentence": "It ___ very expensive.",
+      "answer": "wasn't",
+      "options": [
+        "wasn't",
+        "weren't",
+        "don't"
+      ],
+      "meaning": {
+        "hi": "वह बहुत महँगा नहीं था।",
+        "hinglish": "Woh bahut mahanga nahi tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.5.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "sentence": "But he ___ interested in doing anything to it.",
+      "answer": "isn't",
+      "options": [
+        "isn't",
+        "don't",
+        "haven't"
+      ],
+      "meaning": {
+        "hi": "पर उसे उसमें कुछ करने में दिलचस्पी नहीं है।",
+        "hinglish": "Par use usmein kuchh karne mein dilchaspi nahi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.5.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "sentence": "I ___ know him very well.",
+      "answer": "don't",
+      "options": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "meaning": {
+        "hi": "मैं उसे अच्छी तरह नहीं जानती।",
+        "hinglish": "Main use achhi tarah nahi jaanti."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.06.5.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "sentence": "I ___ seen him for a while, actually.",
+      "answer": "haven't",
+      "options": [
+        "haven't",
+        "didn't",
+        "wasn't"
+      ],
+      "meaning": {
+        "hi": "असल में मैंने उसे कुछ समय से नहीं देखा।",
+        "hinglish": "Asal mein maine use kuchh samay se nahi dekha."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.06.5.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "text": {
+        "hi": "(D) वाक्य बदलो: A star shines. → A star does not shine. → Does a star shine?",
+        "hinglish": "(D) Vaakya badlo: A star shines. → A star does not shine. → Does a star shine?",
+        "en": "(D) Change the sentences: A star shines. → A star does not shine. → Does a star shine?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.5.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "There is a park in front of my house. (negative)",
+      "questionMeaning": {
+        "hi": "नकारात्मक बनाओ",
+        "hinglish": "Nakaaraatmak banao"
+      },
+      "options": [
+        "There is not a park in front of my house.",
+        "There not is a park in front of my house.",
+        "There does not a park in front of my house."
+      ],
+      "answer": "There is not a park in front of my house.",
+      "modelAnswer": "Negative: There is not a park in front of my house. Question: Is there a park in front of my house?",
+      "modelMeaning": {
+        "hi": "नकारात्मक: There is not a park in front of my house. सवाल: Is there a park in front of my house?",
+        "hinglish": "Nakaaraatmak: There is not a park in front of my house. Sawaal: Is there a park in front of my house?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.5.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "All birds fly in the sky. (negative)",
+      "questionMeaning": {
+        "hi": "नकारात्मक बनाओ",
+        "hinglish": "Nakaaraatmak banao"
+      },
+      "options": [
+        "All birds do not fly in the sky.",
+        "All birds not fly in the sky.",
+        "All birds does not fly in the sky."
+      ],
+      "answer": "All birds do not fly in the sky.",
+      "modelAnswer": "Negative: All birds do not fly in the sky. Question: Do all birds fly in the sky?",
+      "modelMeaning": {
+        "hi": "नकारात्मक: All birds do not fly in the sky. सवाल: Do all birds fly in the sky?",
+        "hinglish": "Nakaaraatmak: All birds do not fly in the sky. Sawaal: Do all birds fly in the sky?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.5.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "They will help her. (question)",
+      "questionMeaning": {
+        "hi": "प्रश्नवाचक बनाओ",
+        "hinglish": "Prashnavaachak banao"
+      },
+      "options": [
+        "Will they help her?",
+        "Do they will help her?",
+        "They will help her?"
+      ],
+      "answer": "Will they help her?",
+      "modelAnswer": "Negative: They will not help her. Question: Will they help her?",
+      "modelMeaning": {
+        "hi": "नकारात्मक: They will not help her. सवाल: Will they help her?",
+        "hinglish": "Nakaaraatmak: They will not help her. Sawaal: Will they help her?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.5.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "We should keep our promises. (question)",
+      "questionMeaning": {
+        "hi": "प्रश्नवाचक बनाओ",
+        "hinglish": "Prashnavaachak banao"
+      },
+      "options": [
+        "Should we keep our promises?",
+        "Do we should keep our promises?",
+        "We should keep our promises?"
+      ],
+      "answer": "Should we keep our promises?",
+      "modelAnswer": "Negative: We should not keep our promises. Question: Should we keep our promises?",
+      "modelMeaning": {
+        "hi": "नकारात्मक: We should not keep our promises. सवाल: Should we keep our promises?",
+        "hinglish": "Nakaaraatmak: We should not keep our promises. Sawaal: Should we keep our promises?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.5.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "The postman was delivering the letters. (negative)",
+      "questionMeaning": {
+        "hi": "नकारात्मक बनाओ",
+        "hinglish": "Nakaaraatmak banao"
+      },
+      "options": [
+        "The postman was not delivering the letters.",
+        "The postman did not delivering the letters.",
+        "The postman not was delivering the letters."
+      ],
+      "answer": "The postman was not delivering the letters.",
+      "modelAnswer": "Negative: The postman was not delivering the letters. Question: Was the postman delivering the letters?",
+      "modelMeaning": {
+        "hi": "नकारात्मक: The postman was not delivering the letters. सवाल: Was the postman delivering the letters?",
+        "hinglish": "Nakaaraatmak: The postman was not delivering the letters. Sawaal: Was the postman delivering the letters?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.5.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "Ashok has written this letter. (question)",
+      "questionMeaning": {
+        "hi": "प्रश्नवाचक बनाओ",
+        "hinglish": "Prashnavaachak banao"
+      },
+      "options": [
+        "Has Ashok written this letter?",
+        "Did Ashok has written this letter?",
+        "Does Ashok written this letter?"
+      ],
+      "answer": "Has Ashok written this letter?",
+      "modelAnswer": "Negative: Ashok has not written this letter. Question: Has Ashok written this letter?",
+      "modelMeaning": {
+        "hi": "नकारात्मक: Ashok has not written this letter. सवाल: Has Ashok written this letter?",
+        "hinglish": "Nakaaraatmak: Ashok has not written this letter. Sawaal: Has Ashok written this letter?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.5.S16",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "Meera is cooking the dinner. (negative)",
+      "questionMeaning": {
+        "hi": "नकारात्मक बनाओ",
+        "hinglish": "Nakaaraatmak banao"
+      },
+      "options": [
+        "Meera is not cooking the dinner.",
+        "Meera does not cooking the dinner.",
+        "Meera not is cooking the dinner."
+      ],
+      "answer": "Meera is not cooking the dinner.",
+      "modelAnswer": "Negative: Meera is not cooking the dinner. Question: Is Meera cooking the dinner?",
+      "modelMeaning": {
+        "hi": "नकारात्मक: Meera is not cooking the dinner. सवाल: Is Meera cooking the dinner?",
+        "hinglish": "Nakaaraatmak: Meera is not cooking the dinner. Sawaal: Is Meera cooking the dinner?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.5.S17",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "Lightning had struck the house. (question)",
+      "questionMeaning": {
+        "hi": "प्रश्नवाचक बनाओ",
+        "hinglish": "Prashnavaachak banao"
+      },
+      "options": [
+        "Had lightning struck the house?",
+        "Did lightning had struck the house?",
+        "Has lightning struck the house?"
+      ],
+      "answer": "Had lightning struck the house?",
+      "modelAnswer": "Negative: Lightning had not struck the house. Question: Had lightning struck the house?",
+      "modelMeaning": {
+        "hi": "नकारात्मक: Lightning had not struck the house. सवाल: Had lightning struck the house?",
+        "hinglish": "Nakaaraatmak: Lightning had not struck the house. Sawaal: Had lightning struck the house?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.5.S18",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "He has bought a new car. (negative)",
+      "questionMeaning": {
+        "hi": "नकारात्मक बनाओ",
+        "hinglish": "Nakaaraatmak banao"
+      },
+      "options": [
+        "He has not bought a new car.",
+        "He did not has bought a new car.",
+        "He not has bought a new car."
+      ],
+      "answer": "He has not bought a new car.",
+      "modelAnswer": "Negative: He has not bought a new car. Question: Has he bought a new car?",
+      "modelMeaning": {
+        "hi": "नकारात्मक: He has not bought a new car. सवाल: Has he bought a new car?",
+        "hinglish": "Nakaaraatmak: He has not bought a new car. Sawaal: Has he bought a new car?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.5.S19",
+      "skills": [
+        "book.grammar",
+        "grammar.not"
+      ],
+      "question": "The farmer has sown the seeds. (question)",
+      "questionMeaning": {
+        "hi": "प्रश्नवाचक बनाओ",
+        "hinglish": "Prashnavaachak banao"
+      },
+      "options": [
+        "Has the farmer sown the seeds?",
+        "Does the farmer has sown the seeds?",
+        "Did the farmer sown the seeds?"
+      ],
+      "answer": "Has the farmer sown the seeds?",
+      "modelAnswer": "Negative: The farmer has not sown the seeds. Question: Has the farmer sown the seeds?",
+      "modelMeaning": {
+        "hi": "नकारात्मक: The farmer has not sown the seeds. सवाल: Has the farmer sown the seeds?",
+        "hinglish": "Nakaaraatmak: The farmer has not sown the seeds. Sawaal: Has the farmer sown the seeds?"
+      }
+    }
+  ]
+}

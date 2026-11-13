@@ -1,0 +1,203 @@
+{
+  "id": "B8.03.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.T.S01",
+    "B8.03.T.S02",
+    "B8.03.T.S03",
+    "B8.03.T.S04",
+    "B8.03.T.S05",
+    "B8.03.T.S06",
+    "B8.03.T.S07",
+    "B8.03.T.S08",
+    "B8.03.T.S09",
+    "B8.03.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.03.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who among the four proved ungrateful?",
+      "questionMeaning": {
+        "hi": "कौन एहसान फ़रामोश निकला?",
+        "hinglish": "Kaun ehsaan faraamosh nikla?"
+      },
+      "options": [
+        "the jeweller",
+        "the tiger",
+        "the snake"
+      ],
+      "answer": "the jeweller"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "When could the woodcutter not earn money?",
+      "questionMeaning": {
+        "hi": "कब पैसे नहीं कमा पाता था?",
+        "hinglish": "Kab paise nahi kama paata tha?"
+      },
+      "options": [
+        "during the rainy season",
+        "in summer",
+        "on Sundays"
+      ],
+      "answer": "during the rainy season"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.T.S03",
+      "skills": [
+        "book.words"
+      ],
+      "question": "exhausted means ...",
+      "questionMeaning": {
+        "hi": "मतलब",
+        "hinglish": "Matlab"
+      },
+      "options": [
+        "tired",
+        "thankless",
+        "to free"
+      ],
+      "answer": "tired"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "one who makes sculptures",
+      "questionMeaning": {
+        "hi": "मूर्तियाँ बनाने वाला",
+        "hinglish": "Moortiyaan banaane waala"
+      },
+      "options": [
+        "sculptor",
+        "sculpturer",
+        "sculpter"
+      ],
+      "answer": "sculptor"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.T.S05",
+      "skills": [
+        "book.words",
+        "grammar.prefix_suffix"
+      ],
+      "question": "peace + full = ?",
+      "questionMeaning": {
+        "hi": "-ful जोड़ो",
+        "hinglish": "-ful jodo"
+      },
+      "options": [
+        "peaceful",
+        "peacefull",
+        "peacful"
+      ],
+      "answer": "peaceful"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.03.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "There lived ___ elephant nearby.",
+      "answer": "an",
+      "options": [
+        "an",
+        "a",
+        "the"
+      ],
+      "meaning": {
+        "hi": "पास में एक हाथी रहता था।",
+        "hinglish": "Paas mein ek haathi rehta tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "good / better / ___",
+      "questionMeaning": {
+        "hi": "डिग्री",
+        "hinglish": "Degree"
+      },
+      "options": [
+        "best",
+        "goodest",
+        "most good"
+      ],
+      "answer": "best"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.comparison"
+      ],
+      "question": "busy / ___ / busiest",
+      "questionMeaning": {
+        "hi": "डिग्री",
+        "hinglish": "Degree"
+      },
+      "options": [
+        "busier",
+        "busyer",
+        "more busy"
+      ],
+      "answer": "busier"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.T.S09",
+      "skills": [
+        "book.writing",
+        "grammar.punctuation"
+      ],
+      "question": "what a beautiful building",
+      "questionMeaning": {
+        "hi": "विराम चिह्न",
+        "hinglish": "Viraam chihn"
+      },
+      "options": [
+        "What a beautiful building!",
+        "What a beautiful building?",
+        "what a beautiful building."
+      ],
+      "answer": "What a beautiful building!"
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What are Komodo dragons?",
+      "questionMeaning": {
+        "hi": "कोमोडो ड्रैगन?",
+        "hinglish": "Komodo dragon?"
+      },
+      "options": [
+        "the world's largest lizards",
+        "flying snakes",
+        "big birds"
+      ],
+      "answer": "the world's largest lizards"
+    }
+  ]
+}

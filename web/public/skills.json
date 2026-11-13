@@ -8,6 +8,34 @@
         "vocab.meaning"
     ],
     "names": {
+        "book.activity": {
+            "en": "Textbook activities",
+            "hi": "किताब की गतिविधियाँ"
+        },
+        "book.comprehension": {
+            "en": "Answering questions on the chapter",
+            "hi": "पाठ समझकर जवाब देना"
+        },
+        "book.grammar": {
+            "en": "Textbook grammar",
+            "hi": "किताब की ग्रामर"
+        },
+        "book.talk": {
+            "en": "Speaking on the chapter's questions",
+            "hi": "किताब के सवालों पर बोलना"
+        },
+        "book.words": {
+            "en": "New words from the textbook",
+            "hi": "किताब के नए शब्द"
+        },
+        "book.writing": {
+            "en": "Writing tasks from the textbook",
+            "hi": "किताब के हिसाब से लिखना"
+        },
+        "grammar.adverbs": {
+            "en": "Adverbs: how it was done (-ly)",
+            "hi": "काम कैसे हुआ (-ly शब्द)"
+        },
         "grammar.articles": {
             "en": "a / an / the",
             "hi": "a / an / the"
@@ -15,6 +43,30 @@
         "grammar.can": {
             "en": "I can",
             "hi": "I can"
+        },
+        "grammar.comparison": {
+            "en": "Comparing (tall, taller, tallest)",
+            "hi": "तुलना (tall, taller, tallest)"
+        },
+        "grammar.conjunctions": {
+            "en": "Joining with and / but / because",
+            "hi": "and / but / because से जोड़ना"
+        },
+        "grammar.contractions": {
+            "en": "Short forms (I'm, don't)",
+            "hi": "छोटे रूप (I'm, don't)"
+        },
+        "grammar.did_questions": {
+            "en": "Questions with Did",
+            "hi": "Did से सवाल बनाना"
+        },
+        "grammar.few_little": {
+            "en": "few / a few / little / a little",
+            "hi": "few / a few / little / a little"
+        },
+        "grammar.gender": {
+            "en": "he / she / it",
+            "hi": "he / she / it"
         },
         "grammar.have_has": {
             "en": "have / has",
@@ -28,6 +80,10 @@
             "en": "I am",
             "hi": "I am"
         },
+        "grammar.indirect_speech": {
+            "en": "Reporting what someone said (indirect speech)",
+            "hi": "किसी की कही बात बताना (indirect speech)"
+        },
         "grammar.like": {
             "en": "I like / She likes",
             "hi": "I like / She likes"
@@ -35,6 +91,26 @@
         "grammar.not": {
             "en": "not",
             "hi": "not (नहीं)"
+        },
+        "grammar.plurals": {
+            "en": "Plurals (one and many)",
+            "hi": "एक से अनेक (plurals)"
+        },
+        "grammar.prefix_suffix": {
+            "en": "New words with re, un, ful",
+            "hi": "re, un, ful से नए शब्द"
+        },
+        "grammar.punctuation": {
+            "en": "Punctuation (capitals, full stops, commas)",
+            "hi": "विराम चिह्न (capital, full stop, comma)"
+        },
+        "grammar.relative": {
+            "en": "Joining sentences with who / which",
+            "hi": "who / which से वाक्य जोड़ना"
+        },
+        "grammar.should": {
+            "en": "should / should not",
+            "hi": "should / should not (चाहिए)"
         },
         "grammar.simple_present": {
             "en": "Every-day sentences (He plays)",
@@ -44,6 +120,10 @@
             "en": "Spotting mistakes",
             "hi": "गलती पहचानना"
         },
+        "grammar.tenses": {
+            "en": "Using the right verb form (tenses)",
+            "hi": "क्रिया का सही रूप (tense)"
+        },
         "grammar.there_is": {
             "en": "There is / There are",
             "hi": "There is / There are"
@@ -51,6 +131,18 @@
         "grammar.this_that": {
             "en": "This / That",
             "hi": "This / That"
+        },
+        "grammar.to_for": {
+            "en": "Using to / for",
+            "hi": "to / for का इस्तेमाल"
+        },
+        "grammar.too_so": {
+            "en": "too ... to / so ... that",
+            "hi": "too ... to / so ... that"
+        },
+        "grammar.uncountable": {
+            "en": "Words we don't count (bread, soap)",
+            "hi": "न गिने जाने वाले शब्द (bread, soap)"
         },
         "grammar.want": {
             "en": "I want",

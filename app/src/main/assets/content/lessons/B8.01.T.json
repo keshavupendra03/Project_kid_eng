@@ -1,0 +1,178 @@
+{
+  "id": "B8.01.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.01.T.S01",
+    "B8.01.T.S02",
+    "B8.01.T.S03",
+    "B8.01.T.S04",
+    "B8.01.T.S05",
+    "B8.01.T.S06",
+    "B8.01.T.S07",
+    "B8.01.T.S08"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.01.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What does it take to make a brand new start?",
+      "questionMeaning": {
+        "hi": "नई शुरुआत के लिए क्या चाहिए?",
+        "hinglish": "Nayi shuruaat ke liye kya chahiye?"
+      },
+      "options": [
+        "a deep desire to try with all our heart",
+        "a new day",
+        "a lot of money"
+      ],
+      "answer": "a deep desire to try with all our heart"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why should we never give up in despair?",
+      "questionMeaning": {
+        "hi": "हार क्यों नहीं माननी चाहिए?",
+        "hinglish": "Haar kyon nahi maanni chahiye?"
+      },
+      "options": [
+        "There is always a tomorrow and hope of starting anew.",
+        "Because others will laugh.",
+        "Because despair is fun."
+      ],
+      "answer": "There is always a tomorrow and hope of starting anew."
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.T.S03",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Opposite of ‘shallow’",
+      "questionMeaning": {
+        "hi": "‘shallow’ का उल्टा",
+        "hinglish": "‘shallow’ ka ulta"
+      },
+      "options": [
+        "deep",
+        "wide",
+        "fresh"
+      ],
+      "answer": "deep"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Opposite of ‘hope’",
+      "questionMeaning": {
+        "hi": "‘hope’ का उल्टा",
+        "hinglish": "‘hope’ ka ulta"
+      },
+      "options": [
+        "despair",
+        "wish",
+        "desire"
+      ],
+      "answer": "despair"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "forg _ ve",
+      "questionMeaning": {
+        "hi": "सही स्वर",
+        "hinglish": "Sahi swar"
+      },
+      "options": [
+        "i",
+        "e",
+        "a"
+      ],
+      "answer": "i"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘through’?",
+      "questionMeaning": {
+        "hi": "तुकबंदी",
+        "hinglish": "Tukbandi"
+      },
+      "options": [
+        "new",
+        "though",
+        "tough"
+      ],
+      "answer": "new"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.T.S07",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who was defeated in the crow story?",
+      "questionMeaning": {
+        "hi": "कौन हारा?",
+        "hinglish": "Kaun haara?"
+      },
+      "options": [
+        "the first crow",
+        "the second crow",
+        "both crows"
+      ],
+      "answer": "the first crow"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.T.S08",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What was in the second crow's sack?",
+      "questionMeaning": {
+        "hi": "दूसरे कौवे के थैले में?",
+        "hinglish": "Doosre kauve ke thaile mein?"
+      },
+      "options": [
+        "salt",
+        "cotton",
+        "stones"
+      ],
+      "answer": "salt"
+    },
+    {
+      "type": "choice",
+      "id": "B8.01.T.S09",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Decode: 8 15 16 5",
+      "questionMeaning": {
+        "hi": "संदेश खोलो",
+        "hinglish": "Sandesh kholo"
+      },
+      "options": [
+        "HOPE",
+        "ROPE",
+        "HOME"
+      ],
+      "answer": "HOPE"
+    }
+  ]
+}

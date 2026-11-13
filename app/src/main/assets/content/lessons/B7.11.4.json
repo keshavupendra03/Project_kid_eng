@@ -1,0 +1,270 @@
+{
+  "id": "B7.11.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.11.4.S02",
+    "B7.11.4.S03",
+    "B7.11.4.S04",
+    "B7.11.4.S05",
+    "B7.11.4.S06",
+    "B7.11.4.S08",
+    "B7.11.4.S09",
+    "B7.11.4.S10",
+    "B7.11.4.S11",
+    "B7.11.4.S12",
+    "B7.11.4.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.11.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "text": {
+        "hi": "between = दो के बीच में; among = कई के बीच में; into = अंदर की ओर; across = आर-पार; up = ऊपर।",
+        "hinglish": "between = do ke beech mein; among = kai ke beech mein; into = andar ki or; across = aar-paar; up = upar.",
+        "en": "between = in the middle of two; among = in the middle of many; into = going inside; across = from one side to the other; up = higher."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Letter Q comes ___ letters P and R of the English alphabet.",
+      "answer": "between",
+      "options": [
+        "between",
+        "among",
+        "across"
+      ],
+      "meaning": {
+        "hi": "अंग्रेज़ी वर्णमाला में Q, P और R के बीच आता है।",
+        "hinglish": "Angrezi varnamaala mein Q, P aur R ke beech aata hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Smoke goes ___ in the sky.",
+      "answer": "up",
+      "options": [
+        "up",
+        "into",
+        "between"
+      ],
+      "meaning": {
+        "hi": "धुआँ आसमान में ऊपर जाता है।",
+        "hinglish": "Dhuaan aasmaan mein upar jaata hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "Don't throw waste paper anywhere. Put it ___ a dustbin.",
+      "answer": "into",
+      "options": [
+        "into",
+        "among",
+        "up"
+      ],
+      "meaning": {
+        "hi": "रद्दी कागज़ इधर-उधर मत फेंको। उसे कूड़ेदान में डालो।",
+        "hinglish": "Raddi kaagaz idhar-udhar mat phenko. Use koodedaan mein daalo."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "The cat ran ___ the room quickly.",
+      "answer": "across",
+      "options": [
+        "across",
+        "between",
+        "up"
+      ],
+      "meaning": {
+        "hi": "बिल्ली तेज़ी से कमरे के आर-पार दौड़ी।",
+        "hinglish": "Billi tezi se kamre ke aar-paar daudi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.11.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "sentence": "She works ___ the poor.",
+      "answer": "among",
+      "options": [
+        "among",
+        "between",
+        "into"
+      ],
+      "meaning": {
+        "hi": "वह ग़रीबों के बीच काम करती है।",
+        "hinglish": "Woh gareebon ke beech kaam karti hai."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.11.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.where_prepositions"
+      ],
+      "text": {
+        "hi": "अब बातचीत को indirect speech में बदलो। किताब का उदाहरण: Rani: Seema, where did you go last Sunday? → Rani asked Seema where she had gone last Sunday। (did go → had gone, yesterday → the day before, today → that day, will → would)",
+        "hinglish": "Ab baatcheet ko indirect speech mein badlo. Kitaab ka udaharan: Rani: Seema, where did you go last Sunday? → Rani asked Seema where she had gone last Sunday. (did go → had gone, yesterday → the day before, today → that day, will → would)",
+        "en": "Now change the conversation into indirect speech. The book's example: Rani: Seema, where did you go last Sunday? → Rani asked Seema where she had gone last Sunday. (did go → had gone, yesterday → the day before, today → that day, will → would)"
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.11.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Bala: Vinita, where did you go yesterday?",
+        "hinglish": "Badlo: Bala: Vinita, where did you go yesterday?",
+        "en": "Change: Bala: Vinita, where did you go yesterday?"
+      },
+      "answer": "Bala asked Vinita where she had gone the day before.",
+      "meaning": {
+        "hi": "बाला ने विनीता से पूछा कि वह एक दिन पहले कहाँ गई थी।",
+        "hinglish": "Bala ne Vinita se poochha ki woh ek din pehle kahan gayi thi."
+      },
+      "extra": [
+        "yesterday",
+        "did"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.11.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Vinita: I went to the market yesterday.",
+        "hinglish": "Badlo: Vinita: I went to the market yesterday.",
+        "en": "Change: Vinita: I went to the market yesterday."
+      },
+      "answer": "Vinita said that she had gone to the market the day before.",
+      "meaning": {
+        "hi": "विनीता ने कहा कि वह एक दिन पहले बाज़ार गई थी।",
+        "hinglish": "Vinita ne kaha ki woh ek din pehle baazaar gayi thi."
+      },
+      "extra": [
+        "I",
+        "went"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.11.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Bala: What did you buy there?",
+        "hinglish": "Badlo: Bala: What did you buy there?",
+        "en": "Change: Bala: What did you buy there?"
+      },
+      "answer": "Bala asked what she had bought there.",
+      "meaning": {
+        "hi": "बाला ने पूछा कि उसने वहाँ क्या ख़रीदा था।",
+        "hinglish": "Bala ne poochha ki usne wahan kya khareeda tha."
+      },
+      "extra": [
+        "did",
+        "buy"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.11.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Vinita: I bought some vegetables and fruits.",
+        "hinglish": "Badlo: Vinita: I bought some vegetables and fruits.",
+        "en": "Change: Vinita: I bought some vegetables and fruits."
+      },
+      "answer": "Vinita said that she had bought some vegetables and fruits.",
+      "meaning": {
+        "hi": "विनीता ने कहा कि उसने कुछ सब्ज़ियाँ और फल ख़रीदे थे।",
+        "hinglish": "Vinita ne kaha ki usne kuch sabziyaan aur phal khareede the."
+      },
+      "extra": [
+        "I"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.11.4.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Bala: Will you come with me today?",
+        "hinglish": "Badlo: Bala: Will you come with me today?",
+        "en": "Change: Bala: Will you come with me today?"
+      },
+      "answer": "Bala asked if she would come with him that day.",
+      "meaning": {
+        "hi": "बाला ने पूछा कि क्या वह उस दिन उसके साथ चलेगी।",
+        "hinglish": "Bala ne poochha ki kya woh us din uske saath chalegi."
+      },
+      "extra": [
+        "will",
+        "today"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.11.4.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "prompt": {
+        "hi": "बदलो: Vinita: Yes, I will.",
+        "hinglish": "Badlo: Vinita: Yes, I will.",
+        "en": "Change: Vinita: Yes, I will."
+      },
+      "answer": "Vinita said that she would.",
+      "meaning": {
+        "hi": "विनीता ने कहा कि वह चलेगी।",
+        "hinglish": "Vinita ne kaha ki woh chalegi."
+      },
+      "extra": [
+        "will"
+      ]
+    }
+  ]
+}

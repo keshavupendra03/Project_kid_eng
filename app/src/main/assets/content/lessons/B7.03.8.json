@@ -1,0 +1,135 @@
+{
+  "id": "B7.03.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.03.8.S01",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "इंग्लिश कहावतों को उनके मतलब से जोड़ो",
+        "hinglish": "English kahaavaton ko unke matlab se jodo",
+        "en": "Join the English sayings to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "A friend in need is a friend indeed.",
+          "right": "a true friend helps in bad times",
+          "meaning": {
+            "hi": "सच्चा दोस्त मुसीबत में काम आता है",
+            "hinglish": "sachcha dost museebat mein kaam aata hai"
+          }
+        },
+        {
+          "left": "Honesty is the best policy.",
+          "right": "always be honest",
+          "meaning": {
+            "hi": "ईमानदारी सबसे अच्छी नीति है",
+            "hinglish": "imaandaari sabse achhi neeti hai"
+          }
+        },
+        {
+          "left": "Look before you leap.",
+          "right": "think before you act",
+          "meaning": {
+            "hi": "सोच-समझकर काम करो",
+            "hinglish": "soch-samajhkar kaam karo"
+          }
+        },
+        {
+          "left": "Don't count your chickens before they hatch.",
+          "right": "don't plan with what you don't have yet",
+          "meaning": {
+            "hi": "काम होने से पहले सपने मत देखो",
+            "hinglish": "kaam hone se pehle sapne mat dekho"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.8.S02",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "Which river is called the life line of Madhya Pradesh?",
+      "questionMeaning": {
+        "hi": "किस नदी को मध्य प्रदेश की जीवन रेखा कहते हैं?",
+        "hinglish": "Kis nadi ko Madhya Pradesh ki jeevan rekha kehte hain?"
+      },
+      "options": [
+        "the Narmada",
+        "the Ganga",
+        "the Yamuna"
+      ],
+      "answer": "the Narmada",
+      "modelAnswer": "The Narmada is called the life line of Madhya Pradesh.",
+      "modelMeaning": {
+        "hi": "नर्मदा को मध्य प्रदेश की जीवन रेखा कहते हैं।",
+        "hinglish": "Narmada ko Madhya Pradesh ki jeevan rekha kehte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.8.S03",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "Pachmarhi, the Queen of Satpura, is a ...",
+      "questionMeaning": {
+        "hi": "पचमढ़ी, सतपुड़ा की रानी, एक ... है।",
+        "hinglish": "Pachmarhi, Satpura ki rani, ek ... hai."
+      },
+      "options": [
+        "hill station",
+        "desert",
+        "sea beach"
+      ],
+      "answer": "hill station",
+      "modelAnswer": "Pachmarhi is a hill station in Madhya Pradesh.",
+      "modelMeaning": {
+        "hi": "पचमढ़ी मध्य प्रदेश का एक हिल स्टेशन है।",
+        "hinglish": "Pachmarhi Madhya Pradesh ka ek hill station hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.8.S04",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "sentence": "Bhola was not a fool. He was very ___.",
+      "answer": "wise",
+      "options": [
+        "wise",
+        "angry",
+        "sour"
+      ],
+      "meaning": {
+        "hi": "भोला मूर्ख नहीं था। वह बहुत समझदार था।",
+        "hinglish": "Bhola moorkh nahi tha. Woh bahut samajhdaar tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.03.8.S05",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "sentence": "Shanti made sweet and ___ chutney.",
+      "answer": "sour",
+      "options": [
+        "sour",
+        "eager",
+        "cheap"
+      ],
+      "meaning": {
+        "hi": "शांति ने मीठी और खट्टी चटनी बनाई।",
+        "hinglish": "Shanti ne meethi aur khatti chatni banaayi."
+      }
+    }
+  ]
+}

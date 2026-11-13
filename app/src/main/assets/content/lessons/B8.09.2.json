@@ -1,0 +1,269 @@
+{
+  "id": "B8.09.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.09.2.S02",
+    "B8.09.2.S03",
+    "B8.09.2.S04",
+    "B8.09.2.S05",
+    "B8.09.2.S06",
+    "B8.09.2.S07",
+    "B8.09.2.S08",
+    "B8.09.2.S09",
+    "B8.09.2.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.09.2.S01",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "text": {
+        "hi": "(A) किताब के ये शब्द गलत लिखे हैं। सही स्पेलिंग चुनो।",
+        "hinglish": "(A) Kitaab ke yeh shabd galat likhe hain. Sahi spelling chuno.",
+        "en": "(A) These words in the book are misspelt. Choose the correct spelling."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.2.S02",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "strickt → ?",
+      "questionMeaning": {
+        "hi": "सही स्पेलिंग",
+        "hinglish": "Sahi spelling"
+      },
+      "options": [
+        "strict",
+        "strikt",
+        "stricct"
+      ],
+      "answer": "strict",
+      "modelAnswer": "strict = कड़ा, सख़्त (firm about rules).",
+      "modelMeaning": {
+        "hi": "strict = कड़ा, सख़्त।",
+        "hinglish": "strict = kada, sakht."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.2.S03",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "mision → ?",
+      "questionMeaning": {
+        "hi": "सही स्पेलिंग",
+        "hinglish": "Sahi spelling"
+      },
+      "options": [
+        "mission",
+        "misson",
+        "mishion"
+      ],
+      "answer": "mission",
+      "modelAnswer": "mission = मिशन, ख़ास काम (an important task or journey).",
+      "modelMeaning": {
+        "hi": "mission = ख़ास काम या यात्रा।",
+        "hinglish": "mission = khaas kaam ya yaatra."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.2.S04",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "intresting → ?",
+      "questionMeaning": {
+        "hi": "सही स्पेलिंग",
+        "hinglish": "Sahi spelling"
+      },
+      "options": [
+        "interesting",
+        "intresteing",
+        "interisting"
+      ],
+      "answer": "interesting",
+      "modelAnswer": "interesting = दिलचस्प.",
+      "modelMeaning": {
+        "hi": "interesting = दिलचस्प।",
+        "hinglish": "interesting = dilchasp."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.2.S05",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "inspier → ?",
+      "questionMeaning": {
+        "hi": "सही स्पेलिंग",
+        "hinglish": "Sahi spelling"
+      },
+      "options": [
+        "inspire",
+        "inspare",
+        "enspire"
+      ],
+      "answer": "inspire",
+      "modelAnswer": "inspire = प्रेरित करना.",
+      "modelMeaning": {
+        "hi": "inspire = प्रेरित करना।",
+        "hinglish": "inspire = prerit karna."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.2.S06",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "entyre → ?",
+      "questionMeaning": {
+        "hi": "सही स्पेलिंग",
+        "hinglish": "Sahi spelling"
+      },
+      "options": [
+        "entire",
+        "entier",
+        "intire"
+      ],
+      "answer": "entire",
+      "modelAnswer": "entire = पूरा (whole).",
+      "modelMeaning": {
+        "hi": "entire = पूरा।",
+        "hinglish": "entire = poora."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.2.S07",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "genral → ?",
+      "questionMeaning": {
+        "hi": "सही स्पेलिंग",
+        "hinglish": "Sahi spelling"
+      },
+      "options": [
+        "general",
+        "genaral",
+        "jeneral"
+      ],
+      "answer": "general",
+      "modelAnswer": "general = आम, सामान्य.",
+      "modelMeaning": {
+        "hi": "general = आम, सामान्य।",
+        "hinglish": "general = aam, saamaanya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.2.S08",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "interupt → ?",
+      "questionMeaning": {
+        "hi": "सही स्पेलिंग",
+        "hinglish": "Sahi spelling"
+      },
+      "options": [
+        "interrupt",
+        "interrapt",
+        "enterupt"
+      ],
+      "answer": "interrupt",
+      "modelAnswer": "interrupt = बीच में टोकना.",
+      "modelMeaning": {
+        "hi": "interrupt = बीच में टोकना।",
+        "hinglish": "interrupt = beech mein tokna."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.09.2.S09",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "question": "purfarm → ?",
+      "questionMeaning": {
+        "hi": "सही स्पेलिंग",
+        "hinglish": "Sahi spelling"
+      },
+      "options": [
+        "perform",
+        "parform",
+        "perfrom"
+      ],
+      "answer": "perform",
+      "modelAnswer": "perform = करना, प्रदर्शन करना.",
+      "modelMeaning": {
+        "hi": "perform = करना, प्रदर्शन करना।",
+        "hinglish": "perform = karna, pradarshan karna."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.09.2.S10",
+      "skills": [
+        "book.words",
+        "spell.word"
+      ],
+      "instruction": {
+        "hi": "(B) कॉलम मिलाओ",
+        "hinglish": "(B) Column milaao",
+        "en": "(B) Match the columns"
+      },
+      "pairs": [
+        {
+          "left": "Rakesh Sharma",
+          "right": "astronaut",
+          "meaning": {
+            "hi": "राकेश शर्मा — अंतरिक्ष यात्री",
+            "hinglish": "Rakesh Sharma — antariksh yaatri"
+          }
+        },
+        {
+          "left": "Dr. A. P. J. Abdul Kalam",
+          "right": "scientist",
+          "meaning": {
+            "hi": "डॉ. कलाम — वैज्ञानिक",
+            "hinglish": "Dr. Kalam — vaigyaanik"
+          }
+        },
+        {
+          "left": "Sir Isaac Newton",
+          "right": "law of gravitation",
+          "meaning": {
+            "hi": "न्यूटन — गुरुत्वाकर्षण का नियम",
+            "hinglish": "Newton — gurutvaakarshan ka niyam"
+          }
+        },
+        {
+          "left": "Alexander Graham Bell",
+          "right": "telephone",
+          "meaning": {
+            "hi": "ग्राहम बेल — टेलीफ़ोन",
+            "hinglish": "Graham Bell — telephone"
+          }
+        }
+      ]
+    }
+  ]
+}

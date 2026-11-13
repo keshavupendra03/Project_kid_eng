@@ -1,0 +1,251 @@
+{
+  "id": "B6.06.1",
+  "level": 6,
+  "bookSteps": [
+    "B6.06.1.S02",
+    "B6.06.1.S03",
+    "B6.06.1.S04",
+    "B6.06.1.S06",
+    "B6.06.1.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.06.1.S01",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "text": {
+        "hi": "यह पाठ एक नाटक है: गुरु द्रोण पांडव और कौरव राजकुमारों की परीक्षा लेते हैं। पहले किताब के सवाल।",
+        "hinglish": "Yeh paath ek naatak hai: Guru Dron Pandav aur Kaurav raajkumaaron ki pariksha lete hain. Pehle kitaab ke sawaal.",
+        "en": "This lesson is a play: Guru Dron tests the Pandav and Kaurav princes. First, the book's questions."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.1.S02",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "question": "Who are Yudhisthir, Bhim, Arjun, Nakul and Sahadev?",
+      "questionMeaning": {
+        "hi": "युधिष्ठिर, भीम, अर्जुन, नकुल और सहदेव कौन हैं?",
+        "hinglish": "Yudhishthir, Bheem, Arjun, Nakul aur Sahadev kaun hain?"
+      },
+      "options": [
+        "the five Pandav brothers",
+        "five Kaurav princes",
+        "five teachers"
+      ],
+      "answer": "the five Pandav brothers",
+      "modelAnswer": "They are the five Pandav brothers from the Mahabharata.",
+      "modelMeaning": {
+        "hi": "वे महाभारत के पाँच पांडव भाई हैं।",
+        "hinglish": "Woh Mahabharat ke paanch Pandav bhai hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.1.S03",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "question": "What was Arjun famous for?",
+      "questionMeaning": {
+        "hi": "अर्जुन किस बात के लिए मशहूर थे?",
+        "hinglish": "Arjun kis baat ke liye mashhoor the?"
+      },
+      "options": [
+        "archery (shooting with a bow and arrow)",
+        "wrestling",
+        "cooking"
+      ],
+      "answer": "archery (shooting with a bow and arrow)",
+      "modelAnswer": "Arjun was famous for archery. He was a very good archer.",
+      "modelMeaning": {
+        "hi": "अर्जुन तीरंदाज़ी के लिए मशहूर थे। वे बहुत अच्छे धनुर्धर थे।",
+        "hinglish": "Arjun teerandaazi ke liye mashhoor the. Woh bahut achhe dhanurdhar the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.1.S04",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "question": "Who was their teacher?",
+      "questionMeaning": {
+        "hi": "उनके गुरु कौन थे?",
+        "hinglish": "Unke guru kaun the?"
+      },
+      "options": [
+        "Dronacharya",
+        "Duryodhan",
+        "Bhim"
+      ],
+      "answer": "Dronacharya",
+      "modelAnswer": "Their teacher was Dronacharya (Guru Dron).",
+      "modelMeaning": {
+        "hi": "उनके गुरु द्रोणाचार्य थे।",
+        "hinglish": "Unke guru Dronaachaarya the."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.06.1.S05",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "text": {
+        "hi": "कुछ शब्दों का बहुवचन (plural) अलग होता है, s नहीं लगता: man → men, child → children। इन्हें याद कर लो।",
+        "hinglish": "Kuch shabdon ka bahuvachan (plural) alag hota hai, s nahi lagta: man → men, child → children. Inhe yaad kar lo.",
+        "en": "Some words have special plurals with no s: man → men, child → children. Learn them."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.06.1.S06",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "instruction": {
+        "hi": "एक को उसके बहुवचन से जोड़ो",
+        "hinglish": "Ek ko uske bahuvachan se jodo",
+        "en": "Join each word to its plural"
+      },
+      "pairs": [
+        {
+          "left": "man",
+          "right": "men",
+          "meaning": {
+            "hi": "आदमी",
+            "hinglish": "aadmi"
+          }
+        },
+        {
+          "left": "woman",
+          "right": "women",
+          "meaning": {
+            "hi": "औरतें",
+            "hinglish": "auratein"
+          }
+        },
+        {
+          "left": "tooth",
+          "right": "teeth",
+          "meaning": {
+            "hi": "दाँत",
+            "hinglish": "daant"
+          }
+        },
+        {
+          "left": "foot",
+          "right": "feet",
+          "meaning": {
+            "hi": "पैर",
+            "hinglish": "pair"
+          }
+        },
+        {
+          "left": "child",
+          "right": "children",
+          "meaning": {
+            "hi": "बच्चे",
+            "hinglish": "bachche"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.06.1.S07",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "instruction": {
+        "hi": "एक को उसके बहुवचन से जोड़ो",
+        "hinglish": "Ek ko uske bahuvachan se jodo",
+        "en": "Join each word to its plural"
+      },
+      "pairs": [
+        {
+          "left": "mouse",
+          "right": "mice",
+          "meaning": {
+            "hi": "चूहे",
+            "hinglish": "choohe"
+          }
+        },
+        {
+          "left": "louse",
+          "right": "lice",
+          "meaning": {
+            "hi": "जूँएँ",
+            "hinglish": "joonein"
+          }
+        },
+        {
+          "left": "goose",
+          "right": "geese",
+          "meaning": {
+            "hi": "हंस (बत्तख जैसे)",
+            "hinglish": "hans (battakh jaise)"
+          }
+        },
+        {
+          "left": "deer",
+          "right": "deer",
+          "meaning": {
+            "hi": "हिरण (वही रहता है)",
+            "hinglish": "hiran (wahi rehta hai)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.06.1.S08",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "sentence": "The dentist checked my ___.",
+      "answer": "teeth",
+      "options": [
+        "teeth",
+        "tooths",
+        "toothes"
+      ],
+      "meaning": {
+        "hi": "डॉक्टर ने मेरे दाँत देखे।",
+        "hinglish": "Doctor ne mere daant dekhe."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.06.1.S09",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "sentence": "Many ___ are playing in the park.",
+      "answer": "children",
+      "options": [
+        "children",
+        "childs",
+        "childrens"
+      ],
+      "meaning": {
+        "hi": "पार्क में बहुत से बच्चे खेल रहे हैं।",
+        "hinglish": "Park mein bahut se bachche khel rahe hain."
+      }
+    }
+  ]
+}

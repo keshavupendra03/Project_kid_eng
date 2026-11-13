@@ -1,0 +1,444 @@
+{
+  "id": "B8.05.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.05.8.S01",
+    "B8.05.8.S02",
+    "B8.05.8.S03",
+    "B8.05.8.S04",
+    "B8.05.8.S05",
+    "B8.05.8.S06",
+    "B8.05.8.S07",
+    "B8.05.8.S08",
+    "B8.05.8.S09",
+    "B8.05.8.S11",
+    "B8.05.8.S12",
+    "B8.05.8.S13",
+    "B8.05.8.S14",
+    "B8.05.8.S15",
+    "B8.05.8.S16",
+    "B8.05.8.S18",
+    "B8.05.8.S19",
+    "B8.05.8.S20",
+    "B8.05.8.S21",
+    "B8.05.8.S22"
+  ],
+  "steps": [
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "When they arrived, the party ___ already. (begin)",
+      "answer": "had begun",
+      "options": [
+        "had begun",
+        "had began",
+        "has begun"
+      ],
+      "meaning": {
+        "hi": "जब वे पहुँचे, पार्टी पहले ही शुरू हो चुकी थी।",
+        "hinglish": "Jab woh pahunche, party pehle hi shuru ho chuki thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "The bell ___ before we entered the class. (ring)",
+      "answer": "had rung",
+      "options": [
+        "had rung",
+        "had rang",
+        "has rung"
+      ],
+      "meaning": {
+        "hi": "हमारे कक्षा में आने से पहले घंटी बज चुकी थी।",
+        "hinglish": "Hamaare kaksha mein aane se pehle ghanti baj chuki thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "I went for a walk after I ___ my dinner. (eat)",
+      "answer": "had eaten",
+      "options": [
+        "had eaten",
+        "had ate",
+        "have eaten"
+      ],
+      "meaning": {
+        "hi": "रात का खाना खाने के बाद मैं घूमने गया।",
+        "hinglish": "Raat ka khaana khaane ke baad main ghoomne gaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "The train ___ when she arrived. (leave)",
+      "answer": "had left",
+      "options": [
+        "had left",
+        "has left",
+        "had leave"
+      ],
+      "meaning": {
+        "hi": "जब वह पहुँची, ट्रेन जा चुकी थी।",
+        "hinglish": "Jab woh pahunchi, train ja chuki thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Did you post the letter after you ___ it? (write)",
+      "answer": "had written",
+      "options": [
+        "had written",
+        "had wrote",
+        "has written"
+      ],
+      "meaning": {
+        "hi": "क्या तुमने लिखने के बाद चिट्ठी डाली?",
+        "hinglish": "Kya tumne likhne ke baad chitthi daali?"
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Mona enjoyed the food as soon as she ___ it. (taste)",
+      "answer": "had tasted",
+      "options": [
+        "had tasted",
+        "has tasted",
+        "had taste"
+      ],
+      "meaning": {
+        "hi": "चखते ही मोना को खाना अच्छा लगा।",
+        "hinglish": "Chakhte hi Mona ko khaana achha laga."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "I hurried to see him after I ___ the news. (hear)",
+      "answer": "had heard",
+      "options": [
+        "had heard",
+        "had hear",
+        "has heard"
+      ],
+      "meaning": {
+        "hi": "ख़बर सुनने के बाद मैं जल्दी से उससे मिलने गया।",
+        "hinglish": "Khabar sunne ke baad main jaldi se usse milne gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.8.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘cargo’ is ...",
+      "questionMeaning": {
+        "hi": "‘cargo’ का बहुवचन",
+        "hinglish": "‘cargo’ ka bahuvachan"
+      },
+      "options": [
+        "cargoes",
+        "cargo's",
+        "cargoies"
+      ],
+      "answer": "cargoes",
+      "modelAnswer": "cargoes (cargos is also used, but cargoes is the usual school answer).",
+      "modelMeaning": {
+        "hi": "cargoes (cargos भी चलता है, पर स्कूल में cargoes लिखो)।",
+        "hinglish": "cargoes (cargos bhi chalta hai, par school mein cargoes likho)."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.8.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘glass’ is ...",
+      "questionMeaning": {
+        "hi": "‘glass’ का बहुवचन",
+        "hinglish": "‘glass’ ka bahuvachan"
+      },
+      "options": [
+        "glasses",
+        "glasss",
+        "glassies"
+      ],
+      "answer": "glasses"
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.05.8.S10",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "text": {
+        "hi": "कछुए और ख़रगोश की कहानी में a, an, the भरो।",
+        "hinglish": "Kachhue aur khargosh ki kahani mein a, an, the bharo.",
+        "en": "Fill in a, an, the in the story of the tortoise and the hare."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "Once ___ tortoise was walking alone very slowly.",
+      "answer": "a",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "meaning": {
+        "hi": "एक बार एक कछुआ अकेला धीरे-धीरे चल रहा था।",
+        "hinglish": "Ek baar ek kachhua akela dheere-dheere chal raha tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S12",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "He met a hare. ___ hare made fun of him.",
+      "answer": "The",
+      "options": [
+        "The",
+        "A",
+        "An"
+      ],
+      "meaning": {
+        "hi": "उसे एक ख़रगोश मिला। ख़रगोश ने उसका मज़ाक़ उड़ाया।",
+        "hinglish": "Use ek khargosh mila. Khargosh ne uska mazaak udaaya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S13",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "The tortoise said that he could beat him in ___ race.",
+      "answer": "a",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "meaning": {
+        "hi": "कछुए ने कहा कि वह उसे दौड़ में हरा सकता है।",
+        "hinglish": "Kachhue ne kaha ki woh use daud mein hara sakta hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S14",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "The hare thought he would take ___ little nap.",
+      "answer": "a",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "meaning": {
+        "hi": "ख़रगोश ने सोचा थोड़ी झपकी ले ले।",
+        "hinglish": "Khargosh ne socha thodi jhapki le le."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S15",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "When the hare awoke, he ran like ___ tiger.",
+      "answer": "a",
+      "options": [
+        "a",
+        "an",
+        "the"
+      ],
+      "meaning": {
+        "hi": "जागकर ख़रगोश बाघ की तरह भागा।",
+        "hinglish": "Jaagkar khargosh baagh ki tarah bhaaga."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.05.8.S16",
+      "skills": [
+        "book.grammar",
+        "grammar.articles"
+      ],
+      "sentence": "The tortoise had won ___ race.",
+      "answer": "the",
+      "options": [
+        "the",
+        "a",
+        "an"
+      ],
+      "meaning": {
+        "hi": "कछुआ दौड़ जीत चुका था।",
+        "hinglish": "Kachhua daud jeet chuka tha."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.05.8.S17",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "text": {
+        "hi": "किताब पेज 41: ‘Pack up your troubles’ गाना और मक्खियों वाला पैराग्राफ़ पढ़ो।",
+        "hinglish": "Kitaab page 41: ‘Pack up your troubles’ gaana aur makkhiyon waala paragraph padho.",
+        "en": "Book page 41: read the song ‘Pack up your troubles’ and the passage about flies."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.8.S18",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "What should we pack?",
+      "questionMeaning": {
+        "hi": "हमें क्या बाँधना चाहिए?",
+        "hinglish": "Humein kya baandhna chahiye?"
+      },
+      "options": [
+        "our troubles, in our old kit bag",
+        "our books",
+        "our clothes"
+      ],
+      "answer": "our troubles, in our old kit bag"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.8.S19",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "Why should we not worry?",
+      "questionMeaning": {
+        "hi": "हमें चिंता क्यों नहीं करनी चाहिए?",
+        "hinglish": "Humein chinta kyon nahi karni chahiye?"
+      },
+      "options": [
+        "Worrying is never worthwhile.",
+        "Worrying makes us rich.",
+        "Our parents will worry."
+      ],
+      "answer": "Worrying is never worthwhile."
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.8.S20",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "What organ do flies use to taste things?",
+      "questionMeaning": {
+        "hi": "मक्खियाँ किससे स्वाद लेती हैं?",
+        "hinglish": "Makkhiyaan kisse swaad leti hain?"
+      },
+      "options": [
+        "their feet",
+        "their wings",
+        "their eyes"
+      ],
+      "answer": "their feet"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.8.S21",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "Where do flies collect germs from?",
+      "questionMeaning": {
+        "hi": "मक्खियाँ कीटाणु कहाँ से लाती हैं?",
+        "hinglish": "Makkhiyaan keetaanu kahan se laati hain?"
+      },
+      "options": [
+        "rotten food and plants",
+        "clean water",
+        "fresh fruit"
+      ],
+      "answer": "rotten food and plants"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.8.S22",
+      "skills": [
+        "book.grammar",
+        "book.comprehension"
+      ],
+      "question": "How do germs get into a man's body?",
+      "questionMeaning": {
+        "hi": "कीटाणु आदमी के शरीर में कैसे जाते हैं?",
+        "hinglish": "Keetaanu aadmi ke shareer mein kaise jaate hain?"
+      },
+      "options": [
+        "by eating food a fly has pumped its juice on",
+        "by sleeping",
+        "by reading"
+      ],
+      "answer": "by eating food a fly has pumped its juice on",
+      "modelAnswer": "If a fly pumps its stomach juice on our food and we eat it, the germs get into our body.",
+      "modelMeaning": {
+        "hi": "अगर मक्खी हमारे खाने पर अपने पेट का रस डाले और हम वह खा लें, तो कीटाणु शरीर में चले जाते हैं।",
+        "hinglish": "Agar makkhi hamaare khaane par apne pet ka ras daale aur hum woh kha lein, to keetaanu shareer mein chale jaate hain."
+      }
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": "B8.03.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.4.S02",
+    "B8.03.4.S03",
+    "B8.03.4.S04",
+    "B8.03.4.S05",
+    "B8.03.4.S06",
+    "B8.03.4.S07",
+    "B8.03.4.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.03.4.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 15-17 पर कहानी पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 15-17 par kahani padho, phir jawab do.",
+        "en": "Read the story on pages 15–17 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.4.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When could the woodcutter not earn any money?",
+      "questionMeaning": {
+        "hi": "लकड़हारा कब पैसे नहीं कमा पाता था?",
+        "hinglish": "Lakadhaara kab paise nahi kama paata tha?"
+      },
+      "options": [
+        "during the rainy season",
+        "in summer",
+        "on Sundays"
+      ],
+      "answer": "during the rainy season",
+      "modelAnswer": "The woodcutter could not earn any money during the rainy season.",
+      "modelMeaning": {
+        "hi": "बरसात के मौसम में लकड़हारा पैसे नहीं कमा पाता था।",
+        "hinglish": "Barsaat ke mausam mein lakadhaara paise nahi kama paata tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.4.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who were trapped in the well?",
+      "questionMeaning": {
+        "hi": "कुएँ में कौन फँसे थे?",
+        "hinglish": "Kuen mein kaun phanse the?"
+      },
+      "options": [
+        "a monkey, a tiger, a snake and a jeweller",
+        "a cat and a dog",
+        "the king and the queen"
+      ],
+      "answer": "a monkey, a tiger, a snake and a jeweller",
+      "modelAnswer": "A monkey, a tiger, a snake and a jeweller were trapped in the well.",
+      "modelMeaning": {
+        "hi": "कुएँ में एक बंदर, एक बाघ, एक साँप और एक सुनार फँसे थे।",
+        "hinglish": "Kuen mein ek bandar, ek baagh, ek saanp aur ek sunaar phanse the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.4.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How did the tiger, the monkey and the snake help the woodcutter?",
+      "questionMeaning": {
+        "hi": "बाघ, बंदर और साँप ने लकड़हारे की मदद कैसे की?",
+        "hinglish": "Baagh, bandar aur saanp ne lakadhaare ki madad kaise ki?"
+      },
+      "options": [
+        "The monkey gave fruit, the tiger gave gold ornaments, the snake got him freed.",
+        "They all gave him money.",
+        "They built him a house."
+      ],
+      "answer": "The monkey gave fruit, the tiger gave gold ornaments, the snake got him freed.",
+      "modelAnswer": "The monkey dropped sweet fruit for him, the tiger gave him a set of gold ornaments, and the snake helped him get out of prison and win the king's favour.",
+      "modelMeaning": {
+        "hi": "बंदर ने मीठे फल गिराए, बाघ ने सोने के गहने दिए, और साँप ने उसे जेल से छुड़ाकर राजा की कृपा दिलाई।",
+        "hinglish": "Bandar ne meethe phal giraaye, baagh ne sone ke gehne diye, aur saanp ne use jail se chhudaakar raja ki kripa dilaayi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.4.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why was the woodcutter put in prison?",
+      "questionMeaning": {
+        "hi": "लकड़हारे को जेल में क्यों डाला गया?",
+        "hinglish": "Lakadhaare ko jail mein kyon daala gaya?"
+      },
+      "options": [
+        "The jeweller told the king the ornaments were the princess's lost ones.",
+        "He stole from the market.",
+        "He killed the tiger."
+      ],
+      "answer": "The jeweller told the king the ornaments were the princess's lost ones.",
+      "modelAnswer": "The woodcutter was put in prison because the jeweller took the ornaments to the king and said they were the princess's lost ornaments.",
+      "modelMeaning": {
+        "hi": "लकड़हारे को जेल हुई क्योंकि सुनार ने गहने राजा को दिखाकर कहा कि ये राजकुमारी के खोए हुए गहने हैं।",
+        "hinglish": "Lakadhaare ko jail hui kyonki sunaar ne gehne raja ko dikhaakar kaha ki yeh raajkumaari ke khoye hue gehne hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.4.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who among the four proved ungrateful? How?",
+      "questionMeaning": {
+        "hi": "चारों में से कौन एहसान फ़रामोश निकला? कैसे?",
+        "hinglish": "Chaaron mein se kaun ehsaan faraamosh nikla? Kaise?"
+      },
+      "options": [
+        "the jeweller; he got his saviour arrested",
+        "the tiger; he attacked him",
+        "the snake; he bit him"
+      ],
+      "answer": "the jeweller; he got his saviour arrested",
+      "modelAnswer": "The jeweller proved ungrateful. Instead of helping his saviour, he took the ornaments to the king and got the woodcutter arrested.",
+      "modelMeaning": {
+        "hi": "सुनार एहसान फ़रामोश निकला। अपने रक्षक की मदद करने के बजाय उसने गहने राजा को दिए और लकड़हारे को गिरफ़्तार करवा दिया।",
+        "hinglish": "Sunaar ehsaan faraamosh nikla. Apne rakshak ki madad karne ke bajaay usne gehne raja ko diye aur lakadhaare ko giraftaar karwa diya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.4.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the snake do to help the woodcutter?",
+      "questionMeaning": {
+        "hi": "साँप ने लकड़हारे की मदद कैसे की?",
+        "hinglish": "Saanp ne lakadhaare ki madad kaise ki?"
+      },
+      "options": [
+        "It bit the queen so only the woodcutter's axe could cure her.",
+        "It bit the jeweller.",
+        "It brought him food in prison."
+      ],
+      "answer": "It bit the queen so only the woodcutter's axe could cure her.",
+      "modelAnswer": "The snake bit the queen and said she would recover only if the woodcutter touched her forehead with his axe. So the woodcutter saved her and won the king's favour.",
+      "modelMeaning": {
+        "hi": "साँप ने रानी को काटा और कहा कि वह तभी ठीक होगी जब लकड़हारा अपनी कुल्हाड़ी उसके माथे से छुआएगा। इस तरह लकड़हारे ने रानी को बचाया और राजा की कृपा पाई।",
+        "hinglish": "Saanp ne rani ko kaata aur kaha ki woh tabhi theek hogi jab lakadhaara apni kulhaadi uske maathe se chhuaayega. Is tarah lakadhaare ne rani ko bachaaya aur raja ki kripa paayi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.4.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What happened to the jeweller in the end?",
+      "questionMeaning": {
+        "hi": "आख़िर में सुनार का क्या हुआ?",
+        "hinglish": "Aakhir mein sunaar ka kya hua?"
+      },
+      "options": [
+        "He was very much ashamed of his act.",
+        "He became the king.",
+        "He got a reward."
+      ],
+      "answer": "He was very much ashamed of his act.",
+      "modelAnswer": "In the end, the ungrateful jeweller was very much ashamed of his act.",
+      "modelMeaning": {
+        "hi": "आख़िर में एहसान फ़रामोश सुनार अपने काम पर बहुत शर्मिंदा हुआ।",
+        "hinglish": "Aakhir mein ehsaan faraamosh sunaar apne kaam par bahut sharminda hua."
+      }
+    }
+  ]
+}

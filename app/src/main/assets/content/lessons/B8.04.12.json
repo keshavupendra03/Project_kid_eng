@@ -1,0 +1,61 @@
+{
+  "id": "B8.04.12",
+  "level": 8,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.04.12.S01",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "In 1974, the brave woman who led the women of Reni village to hug trees was ...",
+      "questionMeaning": {
+        "hi": "1974 में रेणी गाँव की औरतों का नेतृत्व किसने किया?",
+        "hinglish": "1974 mein Reni gaanv ki auraton ka netritva kisne kiya?"
+      },
+      "options": [
+        "Gaura Devi",
+        "Indira Gandhi",
+        "Lata Mangeshkar"
+      ],
+      "answer": "Gaura Devi"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.12.S02",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "Long before Chipko, in 1730, Amrita Devi and the Bishnoi people gave their lives to save which trees in Rajasthan?",
+      "questionMeaning": {
+        "hi": "1730 में अमृता देवी और बिश्नोई लोगों ने राजस्थान में किन पेड़ों के लिए जान दी?",
+        "hinglish": "1730 mein Amrita Devi aur Bishnoi logon ne Rajasthan mein kin pedon ke liye jaan di?"
+      },
+      "options": [
+        "khejri trees",
+        "apple trees",
+        "coconut trees"
+      ],
+      "answer": "khejri trees"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.12.S03",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "Which leader is famous for the Chipko Movement?",
+      "questionMeaning": {
+        "hi": "चिपको आंदोलन के लिए कौन से नेता मशहूर हैं?",
+        "hinglish": "Chipko aandolan ke liye kaun se neta mashhoor hain?"
+      },
+      "options": [
+        "Sunderlal Bahuguna",
+        "Sachin Tendulkar",
+        "A. R. Rahman"
+      ],
+      "answer": "Sunderlal Bahuguna"
+    }
+  ]
+}

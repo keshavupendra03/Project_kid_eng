@@ -1,0 +1,131 @@
+{
+  "id": "B7.11.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.11.5.S02",
+    "B7.11.5.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.11.5.S01",
+      "skills": [
+        "book.talk",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब कहती है: दिवाली, ईद और क्रिसमस के बारे में जानकारी इकट्ठा करके तालिका भरो: कब, कैसे और क्यों मनाते हैं।",
+        "hinglish": "Kitaab kehti hai: Diwali, Id aur Christmas ke baare mein jaankari ikattha karke taalika bharo: kab, kaise aur kyon manaate hain.",
+        "en": "The book says: collect information about Diwali, Id and Christmas and fill the chart: when, how and why they are celebrated."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.11.5.S02",
+      "skills": [
+        "book.talk",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर त्योहार को यह बताओ कि वह क्यों मनाते हैं",
+        "hinglish": "Har tyohaar ko yeh batao ki woh kyon manaate hain",
+        "en": "Match each festival with why it is celebrated"
+      },
+      "pairs": [
+        {
+          "left": "Diwali",
+          "right": "Lord Rama came back to Ayodhya",
+          "meaning": {
+            "hi": "भगवान राम अयोध्या लौटे",
+            "hinglish": "Bhagwaan Ram Ayodhya laute"
+          }
+        },
+        {
+          "left": "Id",
+          "right": "the end of the month of fasting (Ramzan)",
+          "meaning": {
+            "hi": "रमज़ान के रोज़ों का अंत",
+            "hinglish": "Ramzan ke rozon ka ant"
+          }
+        },
+        {
+          "left": "Christmas",
+          "right": "the birthday of Jesus Christ",
+          "meaning": {
+            "hi": "ईसा मसीह का जन्मदिन",
+            "hinglish": "Isa Maseeh ka janmdin"
+          }
+        },
+        {
+          "left": "Lohri",
+          "right": "the end of winter and the new harvest",
+          "meaning": {
+            "hi": "सर्दी का अंत और नई फ़सल",
+            "hinglish": "sardi ka ant aur nayi fasal"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.11.5.S03",
+      "skills": [
+        "book.talk",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "हर त्योहार को यह बताओ कि वह कब आता है",
+        "hinglish": "Har tyohaar ko yeh batao ki woh kab aata hai",
+        "en": "Match each festival with when it comes"
+      },
+      "pairs": [
+        {
+          "left": "Christmas",
+          "right": "on 25th December",
+          "meaning": {
+            "hi": "25 दिसंबर को",
+            "hinglish": "25 December ko"
+          }
+        },
+        {
+          "left": "Lohri",
+          "right": "in January",
+          "meaning": {
+            "hi": "जनवरी में",
+            "hinglish": "January mein"
+          }
+        },
+        {
+          "left": "Diwali",
+          "right": "in October or November",
+          "meaning": {
+            "hi": "अक्टूबर या नवंबर में",
+            "hinglish": "October ya November mein"
+          }
+        },
+        {
+          "left": "Holi",
+          "right": "in March",
+          "meaning": {
+            "hi": "मार्च में",
+            "hinglish": "March mein"
+          }
+        }
+      ]
+    },
+    {
+      "type": "say_sentence",
+      "id": "B7.11.5.S04",
+      "skills": [
+        "speak.sentence",
+        "book.talk"
+      ],
+      "sentence": "We celebrate Diwali by lighting lamps.",
+      "meaning": {
+        "hi": "हम दीये जलाकर दिवाली मनाते हैं।",
+        "hinglish": "Hum diye jalaakar Diwali manaate hain.",
+        "en": "We celebrate Diwali by lighting lamps."
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "B8.03.11",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.11.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.03.11.S01",
+      "skills": [
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब: कुछ आदर्श वाक्य (mottos) ढूँढो, चार्ट पर मोटे अक्षरों में लिखो और कक्षा में टाँगो। उदाहरण: TRUTH ALONE WINS।",
+        "hinglish": "Kitaab: kuchh aadarsh vaakya (mottos) dhoondho, chart par mote aksharon mein likho aur kaksha mein taango. Udaaharan: TRUTH ALONE WINS.",
+        "en": "The book: find some mottos, write them in bold letters on a chart and hang it in your classroom. Example: TRUTH ALONE WINS."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.11.S02",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "India's motto ‘Satyameva Jayate’ means ...",
+      "questionMeaning": {
+        "hi": "‘सत्यमेव जयते’ का मतलब",
+        "hinglish": "‘Satyameva Jayate’ ka matlab"
+      },
+      "options": [
+        "Truth alone wins.",
+        "Work is worship.",
+        "Unity is strength."
+      ],
+      "answer": "Truth alone wins."
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.03.11.S03",
+      "skills": [
+        "book.activity"
+      ],
+      "instruction": {
+        "hi": "हिंदी आदर्श वाक्य को अंग्रेज़ी से जोड़ो",
+        "hinglish": "Hindi aadarsh vaakya ko English se jodo",
+        "en": "Join each motto to its English meaning"
+      },
+      "pairs": [
+        {
+          "left": "Satyameva Jayate",
+          "right": "Truth alone wins.",
+          "meaning": {
+            "hi": "सत्यमेव जयते",
+            "hinglish": "Satyameva Jayate"
+          }
+        },
+        {
+          "left": "Vasudhaiva Kutumbakam",
+          "right": "The world is one family.",
+          "meaning": {
+            "hi": "वसुधैव कुटुम्बकम्",
+            "hinglish": "Vasudhaiva Kutumbakam"
+          }
+        },
+        {
+          "left": "Karm hi pooja hai",
+          "right": "Work is worship.",
+          "meaning": {
+            "hi": "कर्म ही पूजा है",
+            "hinglish": "Karm hi pooja hai"
+          }
+        },
+        {
+          "left": "Ekta mein shakti hai",
+          "right": "Unity is strength.",
+          "meaning": {
+            "hi": "एकता में शक्ति है",
+            "hinglish": "Ekta mein shakti hai"
+          }
+        }
+      ]
+    },
+    {
+      "type": "say_sentence",
+      "id": "B8.03.11.S04",
+      "skills": [
+        "speak.sentence",
+        "book.activity"
+      ],
+      "sentence": "Truth alone wins.",
+      "meaning": {
+        "hi": "सत्य की ही जीत होती है।",
+        "hinglish": "Satya ki hi jeet hoti hai.",
+        "en": "Truth alone wins."
+      }
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "B7.05.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.05.T.S01",
+    "B7.05.T.S02",
+    "B7.05.T.S03",
+    "B7.05.T.S04",
+    "B7.05.T.S05",
+    "B7.05.T.S06",
+    "B7.05.T.S07",
+    "B7.05.T.S08",
+    "B7.05.T.S09",
+    "B7.05.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.05.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why did Vinod decide to travel by A/C class?",
+      "questionMeaning": {
+        "hi": "विनोद ने एसी क्लास क्यों चुनी?",
+        "hinglish": "Vinod ne AC class kyon chuni?"
+      },
+      "options": [
+        "He had a lot of money.",
+        "The train was overcrowded.",
+        "He was sick."
+      ],
+      "answer": "The train was overcrowded."
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "The young man who got in just when the train moved ...",
+      "questionMeaning": {
+        "hi": "चलती ट्रेन में चढ़ने वाला नौजवान ...",
+        "hinglish": "Chalti train mein chadhne waala naujawaan ..."
+      },
+      "options": [
+        "was well dressed",
+        "did not seem to have a job",
+        "was carrying a new suitcase"
+      ],
+      "answer": "did not seem to have a job"
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Which happened last?",
+      "questionMeaning": {
+        "hi": "आख़िर में क्या हुआ?",
+        "hinglish": "Aakhir mein kya hua?"
+      },
+      "options": [
+        "Vinod paid the difference.",
+        "The T.T.E. appeared.",
+        "Vinod wanted to go back to Indore."
+      ],
+      "answer": "Vinod paid the difference."
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.05.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "We must have a ___ for travelling in a train.",
+      "answer": "valid ticket",
+      "options": [
+        "valid ticket",
+        "vacant seat",
+        "well-dressed"
+      ],
+      "meaning": {
+        "hi": "ट्रेन में सफ़र के लिए सही टिकट होना चाहिए।",
+        "hinglish": "Train mein safar ke liye sahi ticket hona chahiye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Encircle the odd word: train, bus, house, aeroplane",
+      "questionMeaning": {
+        "hi": "अलग शब्द चुनो",
+        "hinglish": "Alag shabd chuno"
+      },
+      "options": [
+        "train",
+        "bus",
+        "house",
+        "aeroplane"
+      ],
+      "answer": "house"
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "A place where aeroplanes land and take off",
+      "questionMeaning": {
+        "hi": "जहाँ हवाई जहाज़ उतरते और उड़ते हैं",
+        "hinglish": "Jahan hawaai jahaaz utarte aur udte hain"
+      },
+      "options": [
+        "airport",
+        "platform",
+        "bridge"
+      ],
+      "answer": "airport"
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.did_questions"
+      ],
+      "question": "Make a question: Vinod lived in Indore.",
+      "questionMeaning": {
+        "hi": "सवाल बनाओ",
+        "hinglish": "Sawaal banao"
+      },
+      "options": [
+        "Did Vinod live in Indore?",
+        "Did Vinod lived in Indore?",
+        "Vinod did live in Indore?"
+      ],
+      "answer": "Did Vinod live in Indore?"
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "question": "un + comfortable = ?",
+      "questionMeaning": {
+        "hi": "un लगाकर नया शब्द",
+        "hinglish": "un lagaakar naya shabd"
+      },
+      "options": [
+        "uncomfortable",
+        "recomfortable",
+        "comfortableful"
+      ],
+      "answer": "uncomfortable"
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.T.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "question": "What does ‘hopeful’ mean?",
+      "questionMeaning": {
+        "hi": "‘hopeful’ का मतलब?",
+        "hinglish": "‘hopeful’ ka matlab?"
+      },
+      "options": [
+        "full of hope",
+        "without hope",
+        "hope again"
+      ],
+      "answer": "full of hope"
+    },
+    {
+      "type": "choice",
+      "id": "B7.05.T.S10",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "A leave application to the principal begins with ...",
+      "questionMeaning": {
+        "hi": "प्रिंसिपल को अर्ज़ी शुरू होती है ...",
+        "hinglish": "Principal ko arzi shuru hoti hai ..."
+      },
+      "options": [
+        "To, The Principal,",
+        "Dear Rahul,",
+        "Thanking you."
+      ],
+      "answer": "To, The Principal,"
+    }
+  ]
+}

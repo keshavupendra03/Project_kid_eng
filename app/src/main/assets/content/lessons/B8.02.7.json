@@ -1,0 +1,302 @@
+{
+  "id": "B8.02.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.02.7.S02",
+    "B8.02.7.S03",
+    "B8.02.7.S04",
+    "B8.02.7.S06",
+    "B8.02.7.S07",
+    "B8.02.7.S08",
+    "B8.02.7.S09",
+    "B8.02.7.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.02.7.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "text": {
+        "hi": "पुल्लिंग से स्त्रीलिंग: कई में -ess लगता है (actor → actress), कई का शब्द ही अलग है (horse → mare, fox → vixen)।",
+        "hinglish": "Pulling se streeling: kai mein -ess lagta hai (actor → actress), kai ka shabd hi alag hai (horse → mare, fox → vixen).",
+        "en": "Masculine to feminine: many add -ess (actor → actress), some are different words (horse → mare, fox → vixen)."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.02.7.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "instruction": {
+        "hi": "उल्टा लिंग जोड़ो",
+        "hinglish": "Ulta ling jodo",
+        "en": "Join the opposite gender"
+      },
+      "pairs": [
+        {
+          "left": "actor",
+          "right": "actress",
+          "meaning": {
+            "hi": "अभिनेता — अभिनेत्री",
+            "hinglish": "abhineta — abhinetri"
+          }
+        },
+        {
+          "left": "horse",
+          "right": "mare",
+          "meaning": {
+            "hi": "घोड़ा — घोड़ी",
+            "hinglish": "ghoda — ghodi"
+          }
+        },
+        {
+          "left": "king",
+          "right": "queen",
+          "meaning": {
+            "hi": "राजा — रानी",
+            "hinglish": "raja — rani"
+          }
+        },
+        {
+          "left": "aunt",
+          "right": "uncle",
+          "meaning": {
+            "hi": "चाची — चाचा",
+            "hinglish": "chaachi — chaacha"
+          }
+        },
+        {
+          "left": "madam",
+          "right": "sir",
+          "meaning": {
+            "hi": "मैडम — सर",
+            "hinglish": "madam — sir"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.02.7.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "instruction": {
+        "hi": "उल्टा लिंग जोड़ो",
+        "hinglish": "Ulta ling jodo",
+        "en": "Join the opposite gender"
+      },
+      "pairs": [
+        {
+          "left": "wife",
+          "right": "husband",
+          "meaning": {
+            "hi": "पत्नी — पति",
+            "hinglish": "patni — pati"
+          }
+        },
+        {
+          "left": "father",
+          "right": "mother",
+          "meaning": {
+            "hi": "पिता — माता",
+            "hinglish": "pita — maata"
+          }
+        },
+        {
+          "left": "man",
+          "right": "woman",
+          "meaning": {
+            "hi": "आदमी — औरत",
+            "hinglish": "aadmi — aurat"
+          }
+        },
+        {
+          "left": "fox",
+          "right": "vixen",
+          "meaning": {
+            "hi": "लोमड़ — लोमड़ी",
+            "hinglish": "lomad — lomdi"
+          }
+        },
+        {
+          "left": "son",
+          "right": "daughter",
+          "meaning": {
+            "hi": "बेटा — बेटी",
+            "hinglish": "beta — beti"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.02.7.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "instruction": {
+        "hi": "उल्टा लिंग जोड़ो",
+        "hinglish": "Ulta ling jodo",
+        "en": "Join the opposite gender"
+      },
+      "pairs": [
+        {
+          "left": "host",
+          "right": "hostess",
+          "meaning": {
+            "hi": "मेज़बान (पु.) — मेज़बान (स्त्री.)",
+            "hinglish": "mezbaan (pu.) — mezbaan (stri.)"
+          }
+        },
+        {
+          "left": "milkman",
+          "right": "milkmaid",
+          "meaning": {
+            "hi": "दूधवाला — दूधवाली",
+            "hinglish": "doodhwaala — doodhwaali"
+          }
+        },
+        {
+          "left": "cow",
+          "right": "bull",
+          "meaning": {
+            "hi": "गाय — बैल",
+            "hinglish": "gaay — bail"
+          }
+        },
+        {
+          "left": "lion",
+          "right": "lioness",
+          "meaning": {
+            "hi": "शेर — शेरनी",
+            "hinglish": "sher — sherni"
+          }
+        },
+        {
+          "left": "master",
+          "right": "mistress",
+          "meaning": {
+            "hi": "मालिक — मालकिन",
+            "hinglish": "maalik — maalkin"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.02.7.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "text": {
+        "hi": "(4) अब पूरे वाक्य का लिंग बदलो। हर संज्ञा और he/his जैसे शब्द भी बदलेंगे।",
+        "hinglish": "(4) Ab poore vaakya ka ling badlo. Har sangya aur he/his jaise shabd bhi badlenge.",
+        "en": "(4) Now change the gender in whole sentences. Every noun and words like he/his change too."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.7.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "question": "The poet received the prize from the queen.",
+      "questionMeaning": {
+        "hi": "लिंग बदलकर सही वाक्य चुनो",
+        "hinglish": "Ling badalkar sahi vaakya chuno"
+      },
+      "options": [
+        "The poetess received the prize from the king.",
+        "The poet received the prize from the king.",
+        "The poetess received the prize from the queen."
+      ],
+      "answer": "The poetess received the prize from the king."
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.7.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "question": "The priest blessed the heiress with the crown.",
+      "questionMeaning": {
+        "hi": "लिंग बदलकर सही वाक्य चुनो",
+        "hinglish": "Ling badalkar sahi vaakya chuno"
+      },
+      "options": [
+        "The priestess blessed the heir with the crown.",
+        "The priestess blessed the heiress with the crown.",
+        "The priest blessed the heir with the crown."
+      ],
+      "answer": "The priestess blessed the heir with the crown."
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.7.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "question": "The hunter shot a peacock.",
+      "questionMeaning": {
+        "hi": "लिंग बदलकर सही वाक्य चुनो",
+        "hinglish": "Ling badalkar sahi vaakya chuno"
+      },
+      "options": [
+        "The huntress shot a peahen.",
+        "The huntress shot a peacock.",
+        "The hunter shot a peahen."
+      ],
+      "answer": "The huntress shot a peahen."
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.7.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "question": "Mrs. Chopra is a good actress.",
+      "questionMeaning": {
+        "hi": "लिंग बदलकर सही वाक्य चुनो",
+        "hinglish": "Ling badalkar sahi vaakya chuno"
+      },
+      "options": [
+        "Mr. Chopra is a good actor.",
+        "Mr. Chopra is a good actress.",
+        "Mrs. Chopra is a good actor."
+      ],
+      "answer": "Mr. Chopra is a good actor."
+    },
+    {
+      "type": "choice",
+      "id": "B8.02.7.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "question": "The hero of the film took the horse with him.",
+      "questionMeaning": {
+        "hi": "लिंग बदलकर सही वाक्य चुनो",
+        "hinglish": "Ling badalkar sahi vaakya chuno"
+      },
+      "options": [
+        "The heroine of the film took the mare with her.",
+        "The heroine of the film took the horse with him.",
+        "The hero of the film took the mare with her."
+      ],
+      "answer": "The heroine of the film took the mare with her."
+    }
+  ]
+}

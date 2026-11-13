@@ -1,0 +1,199 @@
+{
+  "id": "B7.14.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.14.T.S01",
+    "B7.14.T.S02",
+    "B7.14.T.S03",
+    "B7.14.T.S04",
+    "B7.14.T.S05",
+    "B7.14.T.S06",
+    "B7.14.T.S07",
+    "B7.14.T.S08",
+    "B7.14.T.S09",
+    "B7.14.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.14.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What are the cenotaphs at Orchha called?",
+      "questionMeaning": {
+        "hi": "ओरछा के स्मारक क्या कहलाते हैं?",
+        "hinglish": "Orchha ke smaarak kya kehlaate hain?"
+      },
+      "options": [
+        "chhatries",
+        "tombs",
+        "murals"
+      ],
+      "answer": "chhatries"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who built the buildings at Orchha?",
+      "questionMeaning": {
+        "hi": "ओरछा की इमारतें किसने बनवाईं?",
+        "hinglish": "Orchha ki imaaratein kisne banwaayin?"
+      },
+      "options": [
+        "the Bundela kings",
+        "the Mughal kings",
+        "the British"
+      ],
+      "answer": "the Bundela kings"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who looks after old monuments and buildings?",
+      "questionMeaning": {
+        "hi": "पुराने स्मारकों की देखभाल कौन करता है?",
+        "hinglish": "Puraane smaarakon ki dekhbhaal kaun karta hai?"
+      },
+      "options": [
+        "the Archaeological Department",
+        "the Railway Department",
+        "the school"
+      ],
+      "answer": "the Archaeological Department"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "The Taj Mahal is a ...",
+      "questionMeaning": {
+        "hi": "ताजमहल एक ... है।",
+        "hinglish": "Taj Mahal ek ... hai."
+      },
+      "options": [
+        "tomb",
+        "cenotaph"
+      ],
+      "answer": "tomb"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "One word: a meeting place of rivers",
+      "questionMeaning": {
+        "hi": "नदियों के मिलने की जगह",
+        "hinglish": "Nadiyon ke milne ki jagah"
+      },
+      "options": [
+        "confluence",
+        "monument",
+        "archaeology"
+      ],
+      "answer": "confluence"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "a pride of ...",
+      "questionMeaning": {
+        "hi": "किसका झुंड?",
+        "hinglish": "Kiska jhund?"
+      },
+      "options": [
+        "lions",
+        "sheep",
+        "stars"
+      ],
+      "answer": "lions"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Jyoti said to the boy, \"Where do you live?\" In indirect speech:",
+      "questionMeaning": {
+        "hi": "indirect speech में",
+        "hinglish": "Indirect speech mein"
+      },
+      "options": [
+        "Jyoti asked the boy where he lived.",
+        "Jyoti asked the boy where do you live.",
+        "Jyoti said the boy where he live?"
+      ],
+      "answer": "Jyoti asked the boy where he lived."
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.prefix_suffix"
+      ],
+      "question": "The adjective of ‘skill’ is ...",
+      "questionMeaning": {
+        "hi": "‘skill’ का विशेषण?",
+        "hinglish": "‘skill’ ka visheshan?"
+      },
+      "options": [
+        "skilful",
+        "skillness",
+        "skilled-ful"
+      ],
+      "answer": "skilful"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.T.S09",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "How far is Bhimbetka from Bhopal?",
+      "questionMeaning": {
+        "hi": "भीमबेटका भोपाल से कितनी दूर है?",
+        "hinglish": "Bhimbetka Bhopal se kitni door hai?"
+      },
+      "options": [
+        "46 km south of Bhopal",
+        "460 km north of Bhopal",
+        "4 km east of Bhopal"
+      ],
+      "answer": "46 km south of Bhopal"
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.T.S10",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "‘dense’ means ...",
+      "questionMeaning": {
+        "hi": "‘dense’ का मतलब?",
+        "hinglish": "‘dense’ ka matlab?"
+      },
+      "options": [
+        "thick",
+        "happen",
+        "show"
+      ],
+      "answer": "thick"
+    }
+  ]
+}

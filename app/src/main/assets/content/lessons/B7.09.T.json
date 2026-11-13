@@ -1,0 +1,200 @@
+{
+  "id": "B7.09.T",
+  "level": 7,
+  "bookSteps": [
+    "B7.09.T.S01",
+    "B7.09.T.S02",
+    "B7.09.T.S03",
+    "B7.09.T.S04",
+    "B7.09.T.S05",
+    "B7.09.T.S06",
+    "B7.09.T.S07",
+    "B7.09.T.S08",
+    "B7.09.T.S09",
+    "B7.09.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.09.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who was the ‘White Visitor’?",
+      "questionMeaning": {
+        "hi": "सफ़ेद मेहमान कौन था?",
+        "hinglish": "Safed mehmaan kaun tha?"
+      },
+      "options": [
+        "Mr. Choudhary",
+        "Mrs Ghosh's ghost",
+        "Mr. Ghosh"
+      ],
+      "answer": "Mr. Choudhary"
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why did Dr. Dass need to buy a house?",
+      "questionMeaning": {
+        "hi": "डॉ. दास को घर क्यों चाहिए था?",
+        "hinglish": "Dr. Dass ko ghar kyon chahiye tha?"
+      },
+      "options": [
+        "He had come to live and work in Kali Ghat.",
+        "He wanted to sell it later.",
+        "His old house was haunted."
+      ],
+      "answer": "He had come to live and work in Kali Ghat."
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why did Mr. Choudhary ask Dr. Dass not to talk about this incident?",
+      "questionMeaning": {
+        "hi": "चौधरी ने किसी को न बताने को क्यों कहा?",
+        "hinglish": "Choudhary ne kisi ko na bataane ko kyon kaha?"
+      },
+      "options": [
+        "He was afraid he would lose his business.",
+        "He was ashamed of his cloth.",
+        "He wanted to keep the house."
+      ],
+      "answer": "He was afraid he would lose his business."
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "one who rents out a house",
+      "questionMeaning": {
+        "hi": "जो मकान किराये पर देता है",
+        "hinglish": "Jo makaan kiraaye par deta hai"
+      },
+      "options": [
+        "landlord",
+        "builder",
+        "moneylender"
+      ],
+      "answer": "landlord"
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word describes Mr. Choudhary?",
+      "questionMeaning": {
+        "hi": "कौन सा शब्द चौधरी के लिए है?",
+        "hinglish": "Kaun sa shabd Choudhary ke liye hai?"
+      },
+      "options": [
+        "greedy",
+        "brave",
+        "determined"
+      ],
+      "answer": "greedy"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.09.T.S06",
+      "skills": [
+        "book.grammar"
+      ],
+      "sentence": "I am not ___ ghosts.",
+      "answer": "afraid of",
+      "options": [
+        "afraid of",
+        "dressed in",
+        "by the light of"
+      ],
+      "meaning": {
+        "hi": "मैं भूतों से नहीं डरता/डरती।",
+        "hinglish": "Main bhooton se nahi darta/darti."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.09.T.S07",
+      "skills": [
+        "book.grammar"
+      ],
+      "sentence": "She was wearing black clothes from ___.",
+      "answer": "head to foot",
+      "options": [
+        "head to foot",
+        "at the end",
+        "to visit"
+      ],
+      "meaning": {
+        "hi": "उसने सिर से पैर तक काले कपड़े पहने थे।",
+        "hinglish": "Usne sir se pair tak kaale kapde pehne the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.indirect_speech"
+      ],
+      "question": "Geeta said, \"I am going to my grandmother's place.\" In indirect speech:",
+      "questionMeaning": {
+        "hi": "indirect speech में:",
+        "hinglish": "Indirect speech mein:"
+      },
+      "options": [
+        "Geeta said that she was going to her grandmother's place.",
+        "Geeta said that I am going to my grandmother's place.",
+        "Geeta said she is going to my place."
+      ],
+      "answer": "Geeta said that she was going to her grandmother's place."
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.T.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.gender"
+      ],
+      "question": "‘lioness’ is ...",
+      "questionMeaning": {
+        "hi": "‘lioness’ के लिए ...",
+        "hinglish": "‘lioness’ ke liye ..."
+      },
+      "options": [
+        "she",
+        "he",
+        "it"
+      ],
+      "answer": "she"
+    },
+    {
+      "type": "choice",
+      "id": "B7.09.T.S10",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Dr. Dass taught him a lesson, didn't he?",
+      "questionMeaning": {
+        "hi": "डॉ. दास ने उन्हें सबक सिखाया, है ना?",
+        "hinglish": "Dr. Dass ne unhe sabak sikhaaya, hai na?"
+      },
+      "options": [
+        "Yes, he did.",
+        "No, I don't.",
+        "Yes, he was."
+      ],
+      "answer": "Yes, he did."
+    }
+  ]
+}

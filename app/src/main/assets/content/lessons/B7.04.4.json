@@ -1,0 +1,109 @@
+{
+  "id": "B7.04.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.04.4.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.04.4.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "किताब की पहेली! हर लाइन में खाली जगह भरो। शब्द पहेली के डिब्बों में अपने आप भर जाएगा। पहला शब्द ‘courtyard’ पहले से भरा है।",
+        "hinglish": "Kitaab ki paheli! Har line mein khaali jagah bharo. Shabd paheli ke dabbon mein apne aap bhar jaayega. Pehla shabd ‘courtyard’ pehle se bhara hai.",
+        "en": "The book's puzzle! Fill the gap in each line. The word drops into the puzzle by itself. The first word, ‘courtyard’, is already filled in."
+      }
+    },
+    {
+      "type": "crossword",
+      "id": "B7.04.4.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "rows": 11,
+      "cols": 10,
+      "entries": [
+        {
+          "number": 1,
+          "answer": "courtyard",
+          "row": 2,
+          "col": 5,
+          "across": false,
+          "clue": "The banana tree was in Anita's ___.",
+          "given": true
+        },
+        {
+          "number": 2,
+          "answer": "gobble",
+          "row": 3,
+          "col": 4,
+          "across": true,
+          "clue": "Elephants can ___ up a whole tree."
+        },
+        {
+          "number": 3,
+          "answer": "ride",
+          "row": 0,
+          "col": 9,
+          "across": false,
+          "clue": "The Mahout took the children for a ___."
+        },
+        {
+          "number": 4,
+          "answer": "excited",
+          "row": 6,
+          "col": 1,
+          "across": true,
+          "clue": "Anita was very ___ that day."
+        },
+        {
+          "number": 5,
+          "answer": "balance",
+          "row": 0,
+          "col": 1,
+          "across": false,
+          "clue": "Anita thought she can never ___ on the back of an elephant."
+        },
+        {
+          "number": 6,
+          "answer": "watch",
+          "row": 8,
+          "col": 4,
+          "across": true,
+          "clue": "Anita's mother wanted to ___ the elephant eating."
+        },
+        {
+          "number": 7,
+          "answer": "scared",
+          "row": 10,
+          "col": 0,
+          "across": true,
+          "clue": "Anita and her friends were a little ___ while sitting on the howdah."
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.04.4.S03",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "Do not climb the wall. You may ___.",
+      "answer": "fall off",
+      "options": [
+        "fall off",
+        "right there",
+        "at one go"
+      ],
+      "meaning": {
+        "hi": "दीवार पर मत चढ़ो। तुम गिर सकते हो।",
+        "hinglish": "Deewaar par mat chadho. Tum gir sakte ho."
+      }
+    }
+  ]
+}

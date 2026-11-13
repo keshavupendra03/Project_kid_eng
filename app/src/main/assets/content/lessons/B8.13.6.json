@@ -1,0 +1,177 @@
+{
+  "id": "B8.13.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.13.6.S02",
+    "B8.13.6.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.13.6.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब: एक समूह कॉलम A के सवाल पूछेगा, दूसरा कॉलम B से जवाब देगा। आज Tinku यक्ष है, तुम युधिष्ठिर!",
+        "hinglish": "Kitaab: ek samooh column A ke sawaal poochhega, doosra column B se jawab dega. Aaj Tinku Yaksha hai, tum Yudhishthir!",
+        "en": "The book: one group asks the questions in column A, the other answers from column B. Today Tinku is the Yaksha and you are Yudhishthira!"
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B8.13.6.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🪷",
+      "turns": [
+        {
+          "id": "road",
+          "tinku": "Which is the best road to Heaven?",
+          "meaning": {
+            "hi": "स्वर्ग का सबसे अच्छा रास्ता कौन सा है?",
+            "hinglish": "Swarg ka sabse achha raasta kaun sa hai?"
+          },
+          "replies": [
+            {
+              "say": "Virtue is the best road to Heaven.",
+              "meaning": {
+                "hi": "सद्गुण स्वर्ग का सबसे अच्छा रास्ता है।",
+                "hinglish": "Sadgun swarg ka sabse achha raasta hai."
+              },
+              "patterns": [
+                "virtue *",
+                "virtue"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "enemy",
+          "tinku": "Which is the worst enemy of man?",
+          "meaning": {
+            "hi": "इंसान का सबसे बड़ा दुश्मन कौन है?",
+            "hinglish": "Insaan ka sabse bada dushman kaun hai?"
+          },
+          "replies": [
+            {
+              "say": "Anger is the worst enemy of man.",
+              "meaning": {
+                "hi": "क्रोध इंसान का सबसे बड़ा दुश्मन है।",
+                "hinglish": "Krodh insaan ka sabse bada dushman hai."
+              },
+              "patterns": [
+                "anger *",
+                "anger"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "heavy",
+          "tinku": "What is heavier than the earth and the clouds?",
+          "meaning": {
+            "hi": "धरती और बादलों से भारी क्या है?",
+            "hinglish": "Dharti aur baadalon se bhaari kya hai?"
+          },
+          "replies": [
+            {
+              "say": "The love of parents.",
+              "meaning": {
+                "hi": "माता-पिता का प्यार।",
+                "hinglish": "Maata-pita ka pyaar."
+              },
+              "patterns": [
+                "the love of parents",
+                "love of parents",
+                "* parents *",
+                "* parents"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "happy",
+          "tinku": "What is the way to be happy?",
+          "meaning": {
+            "hi": "ख़ुश रहने का तरीक़ा क्या है?",
+            "hinglish": "Khush rehne ka tareeqa kya hai?"
+          },
+          "replies": [
+            {
+              "say": "To tell the truth and be kind.",
+              "meaning": {
+                "hi": "सच बोलना और दयालु रहना।",
+                "hinglish": "Sach bolna aur dayaalu rehna."
+              },
+              "patterns": [
+                "to tell the truth *",
+                "tell the truth *",
+                "* truth *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.13.6.S03",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "instruction": {
+        "hi": "सवाल को जवाब से जोड़ो",
+        "hinglish": "Sawaal ko jawab se jodo",
+        "en": "Join each question to its answer"
+      },
+      "pairs": [
+        {
+          "left": "Which man is rich and poor at the same time?",
+          "right": "The man who has much but gives nothing.",
+          "meaning": {
+            "hi": "जिसके पास बहुत है पर देता कुछ नहीं",
+            "hinglish": "jiske paas bahut hai par deta kuchh nahi"
+          }
+        },
+        {
+          "left": "How may a poor man become rich?",
+          "right": "By being contented.",
+          "meaning": {
+            "hi": "संतोष से",
+            "hinglish": "santosh se"
+          }
+        },
+        {
+          "left": "Who is the greatest man?",
+          "right": "One who is unaffected by joy and sorrow.",
+          "meaning": {
+            "hi": "जिस पर सुख-दुख का असर न हो",
+            "hinglish": "jis par sukh-dukh ka asar na ho"
+          }
+        },
+        {
+          "left": "Who was Yaksha?",
+          "right": "The spirit of the woods.",
+          "meaning": {
+            "hi": "जंगल की आत्मा",
+            "hinglish": "jungle ki aatma"
+          }
+        },
+        {
+          "left": "Who was the eldest Pandava?",
+          "right": "Yudhishthira.",
+          "meaning": {
+            "hi": "युधिष्ठिर",
+            "hinglish": "Yudhishthir"
+          }
+        }
+      ]
+    }
+  ]
+}

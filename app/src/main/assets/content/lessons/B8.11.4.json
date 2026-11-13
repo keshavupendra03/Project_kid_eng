@@ -1,0 +1,236 @@
+{
+  "id": "B8.11.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.11.4.S02",
+    "B8.11.4.S03",
+    "B8.11.4.S04",
+    "B8.11.4.S05",
+    "B8.11.4.S06",
+    "B8.11.4.S07",
+    "B8.11.4.S08",
+    "B8.11.4.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.11.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "text": {
+        "hi": "बीते समय का काम जो अब ख़त्म हो गया: lives → lived, writes → wrote। ज़्यादातर में -ed, पर कुछ बदल जाते हैं: speak → spoke, think → thought, run → ran।",
+        "hinglish": "Beete samay ka kaam jo ab khatm ho gaya: lives → lived, writes → wrote. Zyaadatar mein -ed, par kuchh badal jaate hain: speak → spoke, think → thought, run → ran.",
+        "en": "Finished actions in the past: lives → lived, writes → wrote. Most add -ed; some change: speak → spoke, think → thought, run → ran."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "A small river ___ near the village.",
+      "answer": "flowed",
+      "options": [
+        "flowed",
+        "flows",
+        "flew"
+      ],
+      "meaning": {
+        "hi": "गाँव के पास एक छोटी नदी बहती थी।",
+        "hinglish": "Gaanv ke paas ek chhoti nadi behti thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Priya ___ in Itarsi.",
+      "answer": "lived",
+      "options": [
+        "lived",
+        "lives",
+        "liveed"
+      ],
+      "meaning": {
+        "hi": "प्रिया इटारसी में रहती थी।",
+        "hinglish": "Priya Itarsi mein rehti thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "Mayank ___ a letter from Priya.",
+      "answer": "received",
+      "options": [
+        "received",
+        "receives",
+        "receved"
+      ],
+      "meaning": {
+        "hi": "मयंक को प्रिया की चिट्ठी मिली।",
+        "hinglish": "Mayank ko Priya ki chitthi mili."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "He ___ her efforts.",
+      "answer": "appreciated",
+      "options": [
+        "appreciated",
+        "appreciates",
+        "appreciate"
+      ],
+      "meaning": {
+        "hi": "उसने उसकी कोशिशों की सराहना की।",
+        "hinglish": "Usne uski koshishon ki saraahna ki."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "She ___ to write an article.",
+      "answer": "wanted",
+      "options": [
+        "wanted",
+        "wants",
+        "wanting"
+      ],
+      "meaning": {
+        "hi": "वह एक लेख लिखना चाहती थी।",
+        "hinglish": "Woh ek lekh likhna chahti thi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "People ___ a lot about water conservation.",
+      "answer": "spoke",
+      "options": [
+        "spoke",
+        "speaked",
+        "speak"
+      ],
+      "meaning": {
+        "hi": "लोगों ने जल संरक्षण पर बहुत बात की।",
+        "hinglish": "Logon ne jal sanrakshan par bahut baat ki."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "I always ___ ahead.",
+      "answer": "thought",
+      "options": [
+        "thought",
+        "thinked",
+        "think"
+      ],
+      "meaning": {
+        "hi": "मैं हमेशा आगे की सोचता था।",
+        "hinglish": "Main hamesha aage ki sochta tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.11.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "sentence": "They ___ fast.",
+      "answer": "ran",
+      "options": [
+        "ran",
+        "runned",
+        "run"
+      ],
+      "meaning": {
+        "hi": "वे तेज़ भागे।",
+        "hinglish": "Woh tez bhaage."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.11.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "instruction": {
+        "hi": "क्रिया का बीता रूप जोड़ो",
+        "hinglish": "Kriya ka beeta roop jodo",
+        "en": "Join each verb to its past form"
+      },
+      "pairs": [
+        {
+          "left": "speak",
+          "right": "spoke",
+          "meaning": {
+            "hi": "बोलना — बोला",
+            "hinglish": "bolna — bola"
+          }
+        },
+        {
+          "left": "think",
+          "right": "thought",
+          "meaning": {
+            "hi": "सोचना — सोचा",
+            "hinglish": "sochna — socha"
+          }
+        },
+        {
+          "left": "run",
+          "right": "ran",
+          "meaning": {
+            "hi": "भागना — भागा",
+            "hinglish": "bhaagna — bhaaga"
+          }
+        },
+        {
+          "left": "write",
+          "right": "wrote",
+          "meaning": {
+            "hi": "लिखना — लिखा",
+            "hinglish": "likhna — likha"
+          }
+        },
+        {
+          "left": "flow",
+          "right": "flowed",
+          "meaning": {
+            "hi": "बहना — बहा",
+            "hinglish": "behna — baha"
+          }
+        }
+      ]
+    }
+  ]
+}

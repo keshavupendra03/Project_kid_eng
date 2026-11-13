@@ -1,0 +1,101 @@
+{
+  "id": "B6.05.5",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.05.5.S01",
+      "skills": [
+        "vocab.nature"
+      ],
+      "text": {
+        "hi": "तारे असल में बहुत बड़े और बहुत दूर होते हैं, इसलिए छोटे दिखते हैं। सूरज भी एक तारा है! वह हमारे सबसे पास का तारा है।",
+        "hinglish": "Taare asal mein bahut bade aur bahut door hote hain, isliye chhote dikhte hain. Sooraj bhi ek taara hai! Woh hamare sabse paas ka taara hai.",
+        "en": "Stars are really very big and very far away, so they look small. The sun is a star too! It is the star nearest to us."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.05.5.S02",
+      "skills": [
+        "vocab.nature"
+      ],
+      "instruction": {
+        "hi": "रात के आसमान के शब्द जोड़ो",
+        "hinglish": "Raat ke aasmaan ke shabd jodo",
+        "en": "Join the night sky words"
+      },
+      "pairs": [
+        {
+          "left": "moon",
+          "right": "it shines at night and changes shape",
+          "meaning": {
+            "hi": "चाँद",
+            "hinglish": "chaand"
+          }
+        },
+        {
+          "left": "star",
+          "right": "a tiny point of light in the night sky",
+          "meaning": {
+            "hi": "तारा",
+            "hinglish": "taara"
+          }
+        },
+        {
+          "left": "sun",
+          "right": "the star that gives us day",
+          "meaning": {
+            "hi": "सूरज",
+            "hinglish": "sooraj"
+          }
+        },
+        {
+          "left": "sky",
+          "right": "the space above the earth",
+          "meaning": {
+            "hi": "आसमान",
+            "hinglish": "aasmaan"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.5.S03",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "Which is the star nearest to the earth?",
+      "questionMeaning": {
+        "hi": "पृथ्वी के सबसे पास का तारा कौन सा है?",
+        "hinglish": "Prithvi ke sabse paas ka taara kaun sa hai?"
+      },
+      "options": [
+        "the sun",
+        "the moon",
+        "Mars"
+      ],
+      "answer": "the sun"
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.5.S04",
+      "skills": [
+        "vocab.nature"
+      ],
+      "question": "Which animal flies at night and sleeps upside down?",
+      "questionMeaning": {
+        "hi": "कौन सा जानवर रात में उड़ता है और उल्टा लटककर सोता है?",
+        "hinglish": "Kaun sa jaanwar raat mein udta hai aur ulta latakkar sota hai?"
+      },
+      "options": [
+        "bat",
+        "parrot",
+        "cat"
+      ],
+      "answer": "bat"
+    }
+  ]
+}

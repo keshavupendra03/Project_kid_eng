@@ -1,0 +1,240 @@
+{
+  "id": "B8.05.5",
+  "level": 8,
+  "bookSteps": [
+    "B8.05.5.S02",
+    "B8.05.5.S03",
+    "B8.05.5.S04",
+    "B8.05.5.S06",
+    "B8.05.5.S07",
+    "B8.05.5.S08",
+    "B8.05.5.S09",
+    "B8.05.5.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.05.5.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "(A) सही जवाब पर निशान लगाओ।",
+        "hinglish": "(A) Sahi jawab par nishaan lagaao.",
+        "en": "(A) Tick the correct answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.5.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The poem is about ...",
+      "questionMeaning": {
+        "hi": "कविता किस बारे में है?",
+        "hinglish": "Kavita kis baare mein hai?"
+      },
+      "options": [
+        "a miser",
+        "a king",
+        "a teacher",
+        "a thief"
+      ],
+      "answer": "a miser"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.5.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The miser came to the hole to see his ...",
+      "questionMeaning": {
+        "hi": "कंजूस गड्ढे पर क्या देखने आता था?",
+        "hinglish": "Kanjoos gaddhe par kya dekhne aata tha?"
+      },
+      "options": [
+        "treasure",
+        "hens",
+        "coins",
+        "pots"
+      ],
+      "answer": "treasure"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.5.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "The neighbours who came running did not know ...",
+      "questionMeaning": {
+        "hi": "पड़ोसियों को क्या नहीं पता था?",
+        "hinglish": "Padosiyon ko kya nahi pata tha?"
+      },
+      "options": [
+        "why the miser was shouting",
+        "who the miser was",
+        "what the miser was doing"
+      ],
+      "answer": "why the miser was shouting"
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.05.5.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "(B) सवालों के जवाब दो।",
+        "hinglish": "(B) Sawaalon ke jawab do.",
+        "en": "(B) Answer the questions."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.5.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What was the only pleasure of the miser?",
+      "questionMeaning": {
+        "hi": "कंजूस की इकलौती ख़ुशी क्या थी?",
+        "hinglish": "Kanjoos ki iklauti khushi kya thi?"
+      },
+      "options": [
+        "to come every day and see his treasure",
+        "to spend money",
+        "to help his neighbours"
+      ],
+      "answer": "to come every day and see his treasure",
+      "modelAnswer": "The only pleasure of the miser was to come every day to see his treasure in the hole.",
+      "modelMeaning": {
+        "hi": "कंजूस की इकलौती ख़ुशी थी रोज़ आकर गड्ढे में अपना ख़ज़ाना देखना।",
+        "hinglish": "Kanjoos ki iklauti khushi thi roz aakar gaddhe mein apna khazaana dekhna."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.5.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the robber do with the gold?",
+      "questionMeaning": {
+        "hi": "चोर ने सोने का क्या किया?",
+        "hinglish": "Chor ne sone ka kya kiya?"
+      },
+      "options": [
+        "He came back the same night and took it away.",
+        "He gave it to the king.",
+        "He put more gold in it."
+      ],
+      "answer": "He came back the same night and took it away.",
+      "modelAnswer": "The robber came back the very same night and took away the gold.",
+      "modelMeaning": {
+        "hi": "चोर उसी रात वापस आया और सोना ले गया।",
+        "hinglish": "Chor usi raat waapas aaya aur sona le gaya."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.5.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the miser make a terrible clatter?",
+      "questionMeaning": {
+        "hi": "कंजूस ने इतना शोर क्यों मचाया?",
+        "hinglish": "Kanjoos ne itna shor kyon machaaya?"
+      },
+      "options": [
+        "because his treasure was gone",
+        "because he was happy",
+        "because he saw a snake"
+      ],
+      "answer": "because his treasure was gone",
+      "modelAnswer": "The miser made a terrible clatter because he found that his treasure was gone.",
+      "modelMeaning": {
+        "hi": "कंजूस ने बहुत शोर मचाया क्योंकि उसका ख़ज़ाना गायब था।",
+        "hinglish": "Kanjoos ne bahut shor machaaya kyonki uska khazaana gaayab tha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.5.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the neighbours ask the miser?",
+      "questionMeaning": {
+        "hi": "पड़ोसियों ने कंजूस से क्या पूछा?",
+        "hinglish": "Padosiyon ne kanjoos se kya poochha?"
+      },
+      "options": [
+        "What did you do with the gold before it was gone?",
+        "Where is the robber?",
+        "Can you lend us money?"
+      ],
+      "answer": "What did you do with the gold before it was gone?",
+      "modelAnswer": "The neighbours asked him what he did with the gold before it was gone.",
+      "modelMeaning": {
+        "hi": "पड़ोसियों ने पूछा कि सोना जाने से पहले तुम उसका क्या करते थे।",
+        "hinglish": "Padosiyon ne poochha ki sona jaane se pehle tum uska kya karte the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.5.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did the miser say in reply?",
+      "questionMeaning": {
+        "hi": "कंजूस ने क्या जवाब दिया?",
+        "hinglish": "Kanjoos ne kya jawab diya?"
+      },
+      "options": [
+        "He came every day to see it.",
+        "He spent it on food.",
+        "He gave it to the poor."
+      ],
+      "answer": "He came every day to see it.",
+      "modelAnswer": "The miser replied that he came every day to see it, and now he did not know what to do.",
+      "modelMeaning": {
+        "hi": "कंजूस ने कहा कि वह रोज़ उसे देखने आता था, और अब क्या करे।",
+        "hinglish": "Kanjoos ne kaha ki woh roz use dekhne aata tha, aur ab kya kare."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.5.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did the friend say ‘look at the hole instead’?",
+      "questionMeaning": {
+        "hi": "दोस्त ने ‘गड्ढा देखते रहो’ क्यों कहा?",
+        "hinglish": "Dost ne ‘gaddha dekhte raho’ kyon kaha?"
+      },
+      "options": [
+        "The gold was of no use to the miser anyway.",
+        "The hole was very beautiful.",
+        "The robber would bring the gold back."
+      ],
+      "answer": "The gold was of no use to the miser anyway."
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "B7.06.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.06.2.S01",
+    "B7.06.2.S02",
+    "B7.06.2.S03",
+    "B7.06.2.S04",
+    "B7.06.2.S05"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B7.06.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the poem about?",
+      "questionMeaning": {
+        "hi": "यह कविता किसके बारे में है?",
+        "hinglish": "Yeh kavita kiske baare mein hai?"
+      },
+      "options": [
+        "a little cat",
+        "a big dog",
+        "a farm"
+      ],
+      "answer": "a little cat",
+      "modelAnswer": "The poem is about a little cat (pussy) and a child who loves her.",
+      "modelMeaning": {
+        "hi": "यह कविता एक छोटी बिल्ली और उससे प्यार करने वाले बच्चे के बारे में है।",
+        "hinglish": "Yeh kavita ek chhoti billi aur usse pyaar karne waale bachche ke baare mein hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does the poet say about the cat's coat?",
+      "questionMeaning": {
+        "hi": "कवि बिल्ली के बालों (coat) के बारे में क्या कहता है?",
+        "hinglish": "Kavi billi ke baalon (coat) ke baare mein kya kehta hai?"
+      },
+      "options": [
+        "Her coat is so warm.",
+        "Her coat is red.",
+        "Her coat is wet."
+      ],
+      "answer": "Her coat is so warm.",
+      "modelAnswer": "The poet says that the cat's coat is so warm.",
+      "modelMeaning": {
+        "hi": "कवि कहता है कि बिल्ली के बाल बहुत गर्म हैं।",
+        "hinglish": "Kavi kehta hai ki billi ke baal bahut garm hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What will the child do with the pussy?",
+      "questionMeaning": {
+        "hi": "बच्चा बिल्ली के साथ क्या करेगा?",
+        "hinglish": "Bachcha billi ke saath kya karega?"
+      },
+      "options": [
+        "The child will play gently with her.",
+        "The child will pull her tail.",
+        "The child will drive her away."
+      ],
+      "answer": "The child will play gently with her.",
+      "modelAnswer": "The child will not pull her tail or drive her away. The child will play gently with her.",
+      "modelMeaning": {
+        "hi": "बच्चा उसकी पूँछ नहीं खींचेगा, उसे भगाएगा नहीं, बल्कि प्यार से उसके साथ खेलेगा।",
+        "hinglish": "Bachcha uski poonchh nahi kheenchega, use bhagaayega nahi, balki pyaar se uske saath khelega."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Where will the pussy sit?",
+      "questionMeaning": {
+        "hi": "बिल्ली कहाँ बैठेगी?",
+        "hinglish": "Billi kahan baithegi?"
+      },
+      "options": [
+        "by the child's side",
+        "on the roof",
+        "in the kitchen"
+      ],
+      "answer": "by the child's side",
+      "modelAnswer": "The pussy will sit by the child's side.",
+      "modelMeaning": {
+        "hi": "बिल्ली बच्चे के पास बैठेगी।",
+        "hinglish": "Billi bachche ke paas baithegi."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why will the pussy like the child?",
+      "questionMeaning": {
+        "hi": "बिल्ली बच्चे को क्यों पसंद करेगी?",
+        "hinglish": "Billi bachche ko kyon pasand karegi?"
+      },
+      "options": [
+        "because the child is gentle and good",
+        "because the child is tall",
+        "because the child sings"
+      ],
+      "answer": "because the child is gentle and good",
+      "modelAnswer": "The pussy will like the child because the child is gentle and good.",
+      "modelMeaning": {
+        "hi": "बिल्ली बच्चे को पसंद करेगी क्योंकि बच्चा कोमल और अच्छा है।",
+        "hinglish": "Billi bachche ko pasand karegi kyonki bachcha komal aur achha hai."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "B7.06.2.S06",
+      "skills": [
+        "speak.sentence",
+        "book.comprehension"
+      ],
+      "sentence": "She'll like me because I am gentle and good.",
+      "meaning": {
+        "hi": "वह मुझे पसंद करेगी क्योंकि मैं कोमल और अच्छा/अच्छी हूँ।",
+        "hinglish": "Woh mujhe pasand karegi kyonki main komal aur achha/achhi hoon.",
+        "en": "She'll like me because I am gentle and good."
+      }
+    }
+  ]
+}

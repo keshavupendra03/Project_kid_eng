@@ -234,6 +234,78 @@ test("bad sync data is refused", async () => {
   assert.equal((await call("POST", "/api/device/sync", { token: "not-a-token", body: fixture })).status, 401);
 });
 
+// ---------- Syllabus and school tests ----------
+
+let testId;
+const indianDate = (offsetDays) => new Date(Date.now() + 330 * 60_000 + offsetDays * 86_400_000).toISOString().slice(0, 10);
+const testQuestions = [["L1.U01", "L1.U01.S03"], ["L1.U01", "L1.U01.S05"]];
+const newTest = (lastDate) => ({ kind: "course", title: "Unit 1 test", lessons: ["L1.U01"], questions: testQuestions, minutes: 10, lastDate });
+
+test("tests and chapters need the parent's newer consent first", async () => {
+  const r = await call("GET", "/api/device/tests", { token: deviceSister });
+  assert.equal(r.status, 200);
+  assert.equal(r.body.needsConsent, true);
+  // A phone still on the older consent sent chapters with its sync; they were not kept.
+  const before = (await call("GET", `/api/classes/${classFive}/syllabus`, { cookie: teacherA })).body;
+  assert.deepEqual(before.students.find((s) => s.id === sisterId).chapters, {});
+  assert.equal((await call("POST", "/api/device/consent", { token: deviceSister, body: { consent: true, consentVersion: "2026-11-v3" } })).status, 400);
+  assert.equal((await call("POST", "/api/device/consent", { token: deviceSister, body: { consent: true, consentVersion: "2026-11-v4" } })).status, 200);
+});
+
+test("chapter progress reaches the syllabus page, only for the class's teacher", async () => {
+  assert.equal((await call("POST", "/api/device/sync", { token: deviceSister, body: fixture })).status, 200);
+  const syllabus = (await call("GET", `/api/classes/${classFive}/syllabus`, { cookie: teacherA })).body;
+  assert.deepEqual(syllabus.students.find((s) => s.id === sisterId).chapters["B7.04"], { done: 3, total: 9, stars: 7, testStars: null });
+  assert.equal((await call("GET", `/api/classes/${classFive}/syllabus`, { cookie: teacherOther })).status, 404);
+  const report = (await call("GET", `/api/students/${sisterId}/report`, { cookie: teacherA })).body;
+  assert.equal(report.chapters["B7.01"].testStars, 3);
+});
+
+test("a teacher sets a test and the child's phone gets it", async () => {
+  assert.equal((await call("POST", `/api/classes/${classFive}/tests`, { cookie: teacherA, body: newTest(indianDate(-2)) })).body.error, "bad_date");
+  assert.equal((await call("POST", `/api/classes/${classSeven}/tests`, { cookie: teacherA, body: newTest(indianDate(3)) })).status, 404);
+  assert.equal((await call("POST", `/api/classes/${classFive}/tests`, { cookie: teacherA, body: { ...newTest(indianDate(3)), questions: [] } })).status, 400);
+  const made = await call("POST", `/api/classes/${classFive}/tests`, { cookie: teacherA, body: newTest(indianDate(3)) });
+  assert.equal(made.status, 201);
+  testId = made.body.id;
+
+  const phone = (await call("GET", "/api/device/tests", { token: deviceSister })).body;
+  assert.equal(phone.needsConsent, false);
+  const got = phone.tests.find((x) => x.id === testId);
+  assert.deepEqual(got.questions, testQuestions);
+  assert.equal(got.minutes, 10);
+  assert.equal(got.done, false);
+});
+
+test("the phone hands in a test once, and the teacher sees every answer", async () => {
+  const answers = [{ s: "L1.U01.S03", ok: true, given: "cat" }, { s: "L1.U01.S05", ok: false, given: "dog" }];
+  assert.equal((await call("POST", `/api/device/tests/${testId}/result`, { token: deviceSister, body: { answers: [...answers].reverse(), seconds: 120 } })).status, 400);
+  const sent = await call("POST", `/api/device/tests/${testId}/result`, { token: deviceSister, body: { answers, seconds: 120 } });
+  assert.equal(sent.status, 200);
+  assert.equal(sent.body.score, 1);
+  const again = await call("POST", `/api/device/tests/${testId}/result`, { token: deviceSister, body: { answers: answers.map((a) => ({ ...a, ok: true })), seconds: 5 } });
+  assert.equal(again.body.duplicate, true);
+
+  const detail = (await call("GET", `/api/tests/${testId}`, { cookie: teacherA })).body;
+  assert.equal(detail.students.find((s) => s.id === sisterId).result.score, 1);
+  assert.deepEqual(detail.perQuestion.map((q) => q.right), [1, 0]);
+  const answersSeen = (await call("GET", `/api/tests/${testId}/students/${sisterId}`, { cookie: teacherA })).body;
+  assert.equal(answersSeen.result.answers[1].given, "dog");
+
+  assert.equal((await call("GET", `/api/tests/${testId}`, { cookie: teacherOther })).status, 404);
+  assert.equal((await call("GET", `/api/tests/${testId}`, { cookie: headB })).status, 404);
+  assert.equal((await call("GET", "/api/tests", { cookie: headA })).body.tests.find((x) => x.id === testId).done, 1);
+  assert.equal((await call("GET", `/api/students/${sisterId}/report`, { cookie: teacherA })).body.tests.find((x) => x.id === testId).result.score, 1);
+  assert.equal((await call("GET", "/api/device/tests", { token: deviceSister })).body.tests.find((x) => x.id === testId).done, true);
+});
+
+test("a deleted test is gone everywhere", async () => {
+  assert.equal((await call("DELETE", `/api/tests/${testId}`, { cookie: teacherOther })).status, 404);
+  assert.equal((await call("DELETE", `/api/tests/${testId}`, { cookie: teacherA })).status, 200);
+  assert.equal((await call("GET", `/api/tests/${testId}`, { cookie: headA })).status, 404);
+  assert.equal((await call("POST", `/api/device/tests/${testId}/result`, { token: deviceSister, body: { answers: [], seconds: 1 } })).status, 404);
+});
+
 test("disconnecting deletes what was shared", async () => {
   const joined = await call("POST", "/api/device/join", { body: { code: codeBrother, consent: true, consentVersion: CONSENT } });
   await call("POST", "/api/device/sync", { token: joined.body.token, body: fixture });

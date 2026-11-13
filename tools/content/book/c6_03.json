@@ -1,0 +1,178 @@
+{
+  "grade": 6, "number": 3, "emoji": "🕷️", "title": "The King and the Spider", "pages": "10–15",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["यह कहानी एक राजा की है जो लड़ाई हार गया और गुफ़ा में छिप गया। वहाँ एक मकड़ी को बार-बार गिरकर भी दीवार चढ़ते देखकर उसे हिम्मत मिली। सीख: Try, try, try till you succeed!", "Yeh kahani ek raja ki hai jo ladaai haar gaya aur gufaa mein chhip gaya. Wahan ek makdi ko baar-baar girkar bhi deewaar chadhte dekhkar use himmat mili. Seekh: Try, try, try till you succeed!", "This is the story of a king who lost a battle and hid in a cave. There he saw a spider fall again and again but still climb the wall, and he got his courage back. The lesson: Try, try, try till you succeed!"]},
+        {"word": ["ruler", "शासक, राजा", "shaasak, raja", "a person who rules a country", "Ashoka was a great ruler.", "अशोक एक महान शासक थे।", "Ashok ek mahaan shaasak the."]},
+        {"word": ["battle", "युद्ध, लड़ाई", "yuddh, ladaai", "a fight between two armies", "The king won the battle.", "राजा ने युद्ध जीता।", "Raja ne yuddh jeeta."]},
+        {"word": ["cave", "गुफ़ा", "gufaa", "a big hole in the side of a hill", "Bats live in the cave.", "चमगादड़ गुफ़ा में रहते हैं।", "Chamgaadad gufaa mein rehte hain."]},
+        {"word": ["succeed", "सफल होना", "safal hona", "to do what you tried to do", "If you work hard, you will succeed.", "मेहनत करोगे तो सफल होगे।", "Mehnat karoge to safal hoge."]},
+        {"word": ["confidence", "आत्मविश्वास", "aatmavishwaas", "a feeling that you can do something", "She spoke with confidence.", "उसने आत्मविश्वास से बात की।", "Usne aatmavishwaas se baat ki."]},
+        {"word": ["defeat", "हराना", "haraana", "to win against someone", "Our team defeated the other team.", "हमारी टीम ने दूसरी टीम को हराया।", "Hamari team ne doosri team ko haraaya."]},
+        {"book": true, "pairs": ["किताब के phrases को उनके मतलब से जोड़ो", "Kitaab ke phrases ko unke matlab se jodo", "Join the book's phrases to their meanings", [
+          ["once upon a time", "long, long ago", "बहुत समय पहले", "bahut samay pehle"],
+          ["run away", "to escape quickly", "भाग जाना", "bhaag jaana"],
+          ["give up", "to stop trying", "हार मान लेना", "haar maan lena"],
+          ["again and again", "many times", "बार-बार", "baar-baar"],
+          ["fell down", "dropped to the ground", "नीचे गिर गया", "neeche gir gaya"],
+          ["slipped", "slid and fell by mistake", "फिसल गया", "phisal gaya"]]]},
+        {"says": ["Try, try, try till you succeed.", "कोशिश करते रहो जब तक सफल न हो जाओ।", "Koshish karte raho jab tak safal na ho jaao."], "skills": ["speak.sentence", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["किताब: पाठ के शब्दों से पैराग्राफ़ पूरा करो।", "Kitaab: paath ke shabdon se paragraph poora karo.", "The book: complete the paragraph with words from the lesson."]},
+        {"book": true, "fb": ["The King was a wise, brave and ___ ruler.", "kind", ["kind", "lazy", "cruel"], "राजा समझदार, बहादुर और दयालु शासक था।", "Raja samajhdaar, bahaadur aur dayaalu shaasak tha."]},
+        {"book": true, "fb": ["After he lost the battle, he had to hide in a ___.", "cave", ["cave", "palace", "tree"], "लड़ाई हारने के बाद उसे एक गुफ़ा में छिपना पड़ा।", "Ladaai haarne ke baad use ek gufaa mein chhipna pada."]},
+        {"book": true, "fb": ["On watching the spider he regained his ___.", "confidence", ["confidence", "crown", "cave"], "मकड़ी को देखकर उसका आत्मविश्वास लौट आया।", "Makdi ko dekhkar uska aatmavishwaas laut aaya."]},
+        {"book": true, "fb": ["He united his soldiers and ___ his enemy to get his kingdom back.", "defeated", ["defeated", "helped", "fed"], "उसने अपने सैनिकों को इकट्ठा किया और राज्य वापस पाने के लिए दुश्मन को हराया।", "Usne apne sainikon ko ikattha kiya aur raajya waapas paane ke liye dushman ko haraaya."]},
+        {"card": ["झुंड वाले शब्द (collective nouns): a crowd of people (लोगों की भीड़), a herd of cattle (मवेशियों का झुंड)।", "Jhund waale shabd (collective nouns): a crowd of people (logon ki bheed), a herd of cattle (maveshiyon ka jhund).", "Group words (collective nouns): a crowd of people, a herd of cattle."]},
+        {"book": true, "pairs": ["सही झुंड वाला शब्द जोड़ो", "Sahi jhund waala shabd jodo", "Complete the phrases", [
+          ["a crowd of", "people", "लोगों की भीड़", "logon ki bheed"],
+          ["a herd of", "cattle", "मवेशियों का झुंड", "maveshiyon ka jhund"],
+          ["a bunch of", "bananas", "केलों का गुच्छा", "kelon ka guchchha"],
+          ["a team of", "players", "खिलाड़ियों की टीम", "khilaadiyon ki team"],
+          ["a flock of", "sheep", "भेड़ों का झुंड", "bhedon ka jhund"]]]},
+        {"book": true, "pairs": ["सही झुंड वाला शब्द जोड़ो", "Sahi jhund waala shabd jodo", "Complete the phrases", [
+          ["a bundle of", "sticks", "लकड़ियों का गट्ठर", "lakdiyon ka gatthar"],
+          ["an army of", "soldiers", "सैनिकों की सेना", "sainikon ki sena"],
+          ["a pair of", "shoes", "जूतों की जोड़ी", "jooton ki jodi"],
+          ["a fleet of", "ships", "जहाज़ों का बेड़ा", "jahaazon ka beda"],
+          ["a cluster of", "stars", "तारों का गुच्छा", "taaron ka guchchha"]]]},
+        {"card": ["अब किताब की पहेली: उल्टे शब्द (opposites) भरो। पहला शब्द ‘succeed’ (fail का उल्टा) पहले से भरा है।", "Ab kitaab ki paheli: ulte shabd (opposites) bharo. Pehla shabd ‘succeed’ (fail ka ulta) pehle se bhara hai.", "Now the book's puzzle: write the opposites. The first one, ‘succeed’ (opposite of fail), is filled in."]},
+        {"book": true, "type": "crossword", "entries": [
+          {"number": 1, "answer": "succeed", "across": false, "clue": "Opposite of fail: ___", "given": true},
+          {"number": 2, "answer": "lose", "across": true, "clue": "Opposite of win: ___"},
+          {"number": 3, "answer": "many", "across": true, "clue": "Opposite of few: ___"},
+          {"number": 4, "answer": "enemy", "across": true, "clue": "Opposite of friend: ___"},
+          {"number": 5, "answer": "strength", "across": true, "clue": "Opposite of weakness: ___"},
+          {"number": 6, "answer": "tall", "across": true, "clue": "Opposite of short: ___"},
+          {"number": 7, "answer": "sad", "across": true, "clue": "Opposite of happy: ___"}
+        ]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: विराम चिह्न, and / but", "Grammar: viraam chihn, and / but", "Grammar in Use: punctuation, and / but"], "book": true,
+      "skills": ["book.grammar", "grammar.punctuation"],
+      "steps": [
+        {"card": ["नामों के पहले अक्षर बड़े लिखो (Laxmi Bai, Jhansi, Indian)। वाक्य के अंत में full stop लगाओ।", "Naamon ke pehle akshar bade likho (Laxmi Bai, Jhansi, Indian). Vaakya ke ant mein full stop lagao.", "Names start with capital letters (Laxmi Bai, Jhansi, Indian). Put a full stop at the end of a sentence."]},
+        {"book": true, "q": ["Which one has proper punctuation?", "किसमें सही विराम चिह्न हैं?", "Kismein sahi viraam chihn hain?", ["Maharani Laxmi Bai was a brave queen. She fought against her enemies with great courage and is remembered in Indian history as Jhansi ki Rani.", "maharani laxmi bai was a brave queen she fought against her enemies with great courage", "Maharani laxmi bai was a brave Queen, she fought against her Enemies."], "Maharani Laxmi Bai was a brave queen. She fought against her enemies with great courage and is remembered in Indian history as Jhansi ki Rani."]},
+        {"card": ["‘and’ दो मिलती-जुलती बातों को जोड़ता है (और)। ‘but’ दो उल्टी बातों को जोड़ता है (लेकिन)। Ram is tall but Shyam is short.", "‘and’ do milti-julti baaton ko jodta hai (aur). ‘but’ do ulti baaton ko jodta hai (lekin). Ram is tall but Shyam is short.", "‘and’ joins two similar ideas. ‘but’ joins two opposite ideas. Ram is tall but Shyam is short."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Ram ___ Shyam both like to play.", "and", ["and", "but"], "राम और श्याम दोनों को खेलना पसंद है।", "Ram aur Shyam dono ko khelna pasand hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Ram likes to go to school ___ Shyam does not like school at all.", "but", ["but", "and"], "राम को स्कूल जाना पसंद है लेकिन श्याम को स्कूल बिल्कुल पसंद नहीं।", "Ram ko school jaana pasand hai lekin Shyam ko school bilkul pasand nahi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Ram keeps his room neat ___ tidy.", "and", ["and", "but"], "राम अपना कमरा साफ़ और सुथरा रखता है।", "Ram apna kamra saaf aur suthra rakhta hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Ram keeps his room tidy ___ Shyam keeps his room untidy.", "but", ["but", "and"], "राम कमरा साफ़ रखता है लेकिन श्याम गंदा रखता है।", "Ram kamra saaf rakhta hai lekin Shyam ganda rakhta hai."]},
+        {"skills": ["book.grammar", "grammar.conjunctions"], "fb": ["The spider fell many times ___ it did not give up.", "but", ["but", "and"], "मकड़ी कई बार गिरी लेकिन उसने हार नहीं मानी।", "Makdi kai baar giri lekin usne haar nahi maani."]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 10-11 पर ‘The King and the Spider’ पढ़ो। पहले बताओ कि कहानी में क्या पहले हुआ।", "Apni kitaab mein page 10-11 par ‘The King and the Spider’ padho. Pehle batao ki kahani mein kya pehle hua.", "Read ‘The King and the Spider’ on pages 10–11 of your book. First, tell what happened first in the story."]},
+        {"book": true, "q": ["Which comes first in the story?", "कहानी में सबसे पहले क्या आता है?", "Kahani mein sabse pehle kya aata hai?", ["The King was wise, brave and kind.", "The King was sad and worried.", "Many of his soldiers were killed."], "The King was wise, brave and kind."]},
+        {"book": true, "q": ["What comes just after ‘People were very happy in his kingdom’?", "‘लोग राज्य में ख़ुश थे’ के ठीक बाद क्या आता है?", "‘Log raajya mein khush the’ ke theek baad kya aata hai?", ["Once a neighbouring King attacked his country.", "The King was sad and worried.", "The King was wise, brave and kind."], "Once a neighbouring King attacked his country."]},
+        {"book": true, "q": ["Which comes last of these?", "इनमें से आख़िर में क्या आता है?", "Inmein se aakhir mein kya aata hai?", ["The King was sad and worried.", "Many of his soldiers were killed.", "Once a neighbouring King attacked his country."], "The King was sad and worried."]},
+        {"card": ["सही क्रम: 3. The King was wise, brave and kind. 5. People were very happy in his kingdom. 4. Once a neighbouring King attacked his country. 2. Many of his soldiers were killed. 1. The King was sad and worried.", "Sahi kram: 3. The King was wise, brave and kind. 5. People were very happy in his kingdom. 4. Once a neighbouring King attacked his country. 2. Many of his soldiers were killed. 1. The King was sad and worried.", "The right order: 3. The King was wise, brave and kind. 5. People were very happy in his kingdom. 4. Once a neighbouring King attacked his country. 2. Many of his soldiers were killed. 1. The King was sad and worried."]},
+        {"book": true, "q": ["What kind of ruler was the King?", "राजा कैसा शासक था?", "Raja kaisa shaasak tha?", ["wise, brave and kind", "cruel and lazy", "weak and afraid"], "wise, brave and kind", "The King was a wise, brave and kind ruler.", "राजा समझदार, बहादुर और दयालु शासक था।", "Raja samajhdaar, bahaadur aur dayaalu shaasak tha."]},
+        {"book": true, "q": ["Who attacked his country?", "उसके देश पर किसने हमला किया?", "Uske desh par kisne hamla kiya?", ["a neighbouring king", "a spider", "his own soldiers"], "a neighbouring king", "A neighbouring king attacked his country.", "एक पड़ोसी राजा ने उसके देश पर हमला किया।", "Ek padosi raja ne uske desh par hamla kiya."]},
+        {"book": true, "q": ["What happened to the King and his soldiers in the battle?", "लड़ाई में राजा और सैनिकों का क्या हुआ?", "Ladaai mein raja aur sainikon ka kya hua?", ["He lost; many soldiers were killed and others ran away.", "They won easily.", "They all went home happily."], "He lost; many soldiers were killed and others ran away.", "The King lost the battle. Many of his soldiers were killed and others ran away to save their lives. The King had to hide in a cave.", "राजा लड़ाई हार गया। कई सैनिक मारे गए और बाकी जान बचाकर भाग गए। राजा को गुफ़ा में छिपना पड़ा।", "Raja ladaai haar gaya. Kai sainik maare gaye aur baaki jaan bachaakar bhaag gaye. Raja ko gufaa mein chhipna pada."]},
+        {"book": true, "q": ["What did the King see in the cave?", "राजा ने गुफ़ा में क्या देखा?", "Raja ne gufaa mein kya dekha?", ["a spider trying again and again to climb the wall", "a lion sleeping", "a box of gold"], "a spider trying again and again to climb the wall", "In the cave, the King saw a spider trying again and again to climb the wall. At last it succeeded.", "गुफ़ा में राजा ने एक मकड़ी को बार-बार दीवार पर चढ़ने की कोशिश करते देखा। आख़िर में वह सफल हुई।", "Gufaa mein raja ne ek makdi ko baar-baar deewaar par chadhne ki koshish karte dekha. Aakhir mein woh safal hui."]},
+        {"book": true, "q": ["What did the King do after watching the spider?", "मकड़ी को देखकर राजा ने क्या किया?", "Makdi ko dekhkar raja ne kya kiya?", ["He united his soldiers, attacked again and defeated his enemy.", "He stayed in the cave forever.", "He gave his kingdom away."], "He united his soldiers, attacked again and defeated his enemy.", "After watching the spider, the King got his confidence back. He united his soldiers, attacked his enemy and finally defeated him.", "मकड़ी को देखकर राजा का आत्मविश्वास लौट आया। उसने सैनिकों को इकट्ठा किया, हमला किया और दुश्मन को हरा दिया।", "Makdi ko dekhkar raja ka aatmavishwaas laut aaya. Usne sainikon ko ikattha kiya, hamla kiya aur dushman ko hara diya."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें", "Chalo baat karein", "Let's Talk"], "book": true,
+      "skills": ["book.talk", "read.understand"],
+      "steps": [
+        {"card": ["किताब के पेज 14 पर रविंदर तेजपाल के बारे में पैराग्राफ़ पढ़ो। फिर सवालों के जवाब दो। उदाहरण: What does Ravinder Tejpal do? He is a police officer.", "Kitaab ke page 14 par Ravinder Tejpal ke baare mein paragraph padho. Phir sawaalon ke jawab do. Udaharan: What does Ravinder Tejpal do? He is a police officer.", "Read the paragraph about Ravinder Tejpal on page 14. Then answer. Example: What does Ravinder Tejpal do? He is a police officer."]},
+        {"book": true, "q": ["How old is he?", "उसकी उम्र कितनी है?", "Uski umar kitni hai?", ["about 35 years old", "25 years old", "50 years old"], "about 35 years old", "He is about 35 years old.", "उसकी उम्र लगभग 35 साल है।", "Uski umar lagbhag 35 saal hai."]},
+        {"book": true, "q": ["What is his father's name?", "उसके पिता का नाम क्या है?", "Uske pita ka naam kya hai?", ["Mohindra Tejpal", "Sumant", "Hemant"], "Mohindra Tejpal", "His father's name is Mohindra Tejpal.", "उसके पिता का नाम मोहिंद्र तेजपाल है।", "Uske pita ka naam Mohindra Tejpal hai."]},
+        {"book": true, "q": ["What are the names of his children?", "उसके बच्चों के नाम क्या हैं?", "Uske bachchon ke naam kya hain?", ["Sumant and Hemant", "Monika and Mohindra", "Ravi and Raju"], "Sumant and Hemant", "His children are Sumant and Hemant.", "उसके बच्चों के नाम सुमंत और हेमंत हैं।", "Uske bachchon ke naam Sumant aur Hemant hain."]},
+        {"book": true, "q": ["What does he play with his sons?", "वह अपने बेटों के साथ क्या खेलता है?", "Woh apne beton ke saath kya khelta hai?", ["cricket", "football", "chess"], "cricket", "He plays cricket with his sons in the evening.", "वह शाम को अपने बेटों के साथ क्रिकेट खेलता है।", "Woh shaam ko apne beton ke saath cricket khelta hai."]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "🙋", "turns": [
+          {"id": "name", "tinku": "What's your name?", "meaning": ["तुम्हारा नाम क्या है?", "Tumhara naam kya hai?"],
+            "replies": [{"say": "My name is {child}.", "meaning": ["मेरा नाम ... है।", "Mera naam ... hai."], "patterns": ["my name is *", "i am *", "*"]}]},
+          {"id": "age", "tinku": "How old are you?", "meaning": ["तुम कितने साल के हो?", "Tum kitne saal ke ho?"],
+            "replies": [{"say": "I am eleven years old.", "meaning": ["मैं ग्यारह साल का/की हूँ। (अपनी उम्र बोलो)", "Main gyaarah saal ka/ki hoon. (Apni umar bolo)"], "patterns": ["i am * years old", "i am *", "* years old", "*"]}]},
+          {"id": "like", "tinku": "What things do you like?", "meaning": ["तुम्हें कौन सी चीज़ें पसंद हैं?", "Tumhe kaun si cheezein pasand hain?"],
+            "replies": [{"say": "I like books and cricket.", "meaning": ["मुझे किताबें और क्रिकेट पसंद हैं।", "Mujhe kitaabein aur cricket pasand hain."], "patterns": ["i like *", "*", "* *"]}]},
+          {"id": "mother", "tinku": "What's your mother?", "meaning": ["तुम्हारी माँ क्या करती हैं?", "Tumhari maa kya karti hain?"],
+            "replies": [{"say": "My mother is a teacher.", "meaning": ["मेरी माँ टीचर हैं। (या: homemaker, farmer...)", "Meri maa teacher hain. (Ya: homemaker, farmer...)"], "patterns": ["my mother is *", "she is *", "*", "* *"]}]},
+          {"id": "father", "tinku": "What's your father?", "meaning": ["तुम्हारे पिता क्या करते हैं?", "Tumhare pita kya karte hain?"],
+            "replies": [{"say": "My father is a farmer.", "meaning": ["मेरे पिता किसान हैं। (अपने पिता का काम बोलो)", "Mere pita kisaan hain. (Apne pita ka kaam bolo)"], "patterns": ["my father is *", "he is *", "*", "* *"], "next": "end"}]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: तस्वीर के बारे में", "Chalo likhein: tasveer ke baare mein", "Let's Write: about the picture"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: तस्वीर में राजा गुफ़ा में मकड़ी को देख रहा है। इसके बारे में पाँच वाक्य लिखो।", "Kitaab: tasveer mein raja gufaa mein makdi ko dekh raha hai. Iske baare mein paanch vaakya likho.", "The book: the picture shows the king watching a spider in the cave. Write five sentences about it."]},
+        {"book": true, "build": ["तस्वीर: राजा एक गुफ़ा में बैठा है।", "Tasveer: raja ek gufaa mein baitha hai.", "Picture: say the king is sitting in a cave.", "The king is sitting in a cave.", "राजा एक गुफ़ा में बैठा है।", "Raja ek gufaa mein baitha hai."]},
+        {"book": true, "build": ["तस्वीर: वह दुखी और परेशान है।", "Tasveer: woh dukhi aur pareshaan hai.", "Picture: say he is sad and worried.", "He is sad and worried.", "वह दुखी और परेशान है।", "Woh dukhi aur pareshaan hai."]},
+        {"book": true, "build": ["तस्वीर: एक मकड़ी दीवार पर चढ़ रही है।", "Tasveer: ek makdi deewaar par chadh rahi hai.", "Picture: say a spider is climbing the wall.", "A spider is climbing the wall.", "एक मकड़ी दीवार पर चढ़ रही है।", "Ek makdi deewaar par chadh rahi hai."]},
+        {"book": true, "build": ["तस्वीर: मकड़ी बार-बार गिरती है।", "Tasveer: makdi baar-baar girti hai.", "Picture: say the spider falls again and again.", "The spider falls again and again.", "मकड़ी बार-बार गिरती है।", "Makdi baar-baar girti hai."]},
+        {"book": true, "build": ["तस्वीर: राजा ध्यान से मकड़ी को देख रहा है।", "Tasveer: raja dhyaan se makdi ko dekh raha hai.", "Picture: say the king is watching the spider carefully.", "The king is watching the spider carefully.", "राजा ध्यान से मकड़ी को देख रहा है।", "Raja dhyaan se makdi ko dekh raha hai."]}
+      ]
+    },
+    {
+      "emoji": "🐝", "title": ["चलो करके देखें: उपयोगी और हानिकारक कीड़े", "Chalo karke dekhein: upyogi aur haanikaarak keede", "Let's Do It: useful and harmful insects"], "book": true,
+      "skills": ["book.activity", "vocab.animals"],
+      "steps": [
+        {"card": ["किताब कहती है: कुछ कीड़े हमारे काम के हैं, कुछ नुक़सान करते हैं। हर एक को सही ग्रुप में रखो।", "Kitaab kehti hai: kuch keede hamare kaam ke hain, kuch nuksaan karte hain. Har ek ko sahi group mein rakho.", "The book says: some insects are useful to us and some are harmful. Put each in the right group."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर कीड़े को उपयोगी या हानिकारक में रखो", "Har keede ko upyogi ya haanikaarak mein rakho", "Is each insect useful or harmful?"],
+          "groups": [
+            {"id": "useful", "name": "useful insects", "emoji": "👍", "meaning": ["उपयोगी कीड़े", "upyogi keede"]},
+            {"id": "harmful", "name": "harmful insects", "emoji": "⚠️", "meaning": ["हानिकारक कीड़े", "haanikaarak keede"]}
+          ],
+          "items": [
+            {"text": "honeybee", "emoji": "🐝", "groups": ["useful"]},
+            {"text": "mosquito", "emoji": "🦟", "groups": ["harmful"]},
+            {"text": "silkworm", "emoji": "🐛", "groups": ["useful"]},
+            {"text": "housefly", "emoji": "🗑️", "groups": ["harmful"]},
+            {"text": "ladybird", "emoji": "🐞", "groups": ["useful"]},
+            {"text": "cockroach", "emoji": "🧹", "groups": ["harmful"]}
+          ]},
+        {"q": ["Why is the honeybee useful?", "मधुमक्खी क्यों उपयोगी है?", "Madhumakkhi kyon upyogi hai?", ["It gives us honey and helps plants grow fruits.", "It spreads malaria.", "It eats our clothes."], "It gives us honey and helps plants grow fruits."]},
+        {"q": ["Why is the mosquito harmful?", "मच्छर क्यों हानिकारक है?", "Machchhar kyon haanikaarak hai?", ["It spreads diseases like malaria.", "It gives us silk.", "It makes honey."], "It spreads diseases like malaria."]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: कभी हार मत मानो", "Aur seekho: kabhi haar mat maano", "Learn more: never give up"], "book": false,
+      "skills": ["vocab.meaning"],
+      "steps": [
+        {"card": ["मकड़ी आठ पैरों वाला जीव है और जाला बनाती है। वैज्ञानिक तौर पर मकड़ी कीड़ा (insect) नहीं है, क्योंकि कीड़ों के छह पैर होते हैं!", "Makdi aath pairon waala jeev hai aur jaala banaati hai. Vaigyaanik taur par makdi keeda (insect) nahi hai, kyonki keedon ke chhah pair hote hain!", "A spider has eight legs and spins a web. Scientifically a spider is not an insect, because insects have six legs!"]},
+        {"q": ["How many legs does a spider have?", "मकड़ी के कितने पैर होते हैं?", "Makdi ke kitne pair hote hain?", ["eight", "six", "four"], "eight"]},
+        {"pairs": ["हिम्मत वाले शब्द जोड़ो", "Himmat waale shabd jodo", "Join the words about courage", [
+          ["brave", "not afraid", "बहादुर", "bahaadur"],
+          ["patient", "able to wait calmly", "धैर्यवान", "dhairyavaan"],
+          ["hard-working", "working with great effort", "मेहनती", "mehnati"],
+          ["web", "the net a spider makes", "जाला", "jaala"]]]},
+        {"fb": ["If at first you don't succeed, try ___.", "again", ["again", "never", "less"], "अगर पहली बार में सफल न हो, तो फिर कोशिश करो।", "Agar pehli baar mein safal na ho, to phir koshish karo."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 3 का टेस्ट", "Paath 3 ka test", "Lesson 3 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What kind of ruler was the King?", "राजा कैसा शासक था?", "Raja kaisa shaasak tha?", ["wise, brave and kind", "cruel and lazy", "weak and afraid"], "wise, brave and kind"]},
+        {"book": true, "q": ["What did the King see in the cave?", "राजा ने गुफ़ा में क्या देखा?", "Raja ne gufaa mein kya dekha?", ["a spider trying again and again to climb the wall", "a lion sleeping", "a box of gold"], "a spider trying again and again to climb the wall"]},
+        {"book": true, "skills": ["book.words"], "q": ["a fleet of ...", "किसका बेड़ा?", "Kiska beda?", ["ships", "sticks", "stars"], "ships"]},
+        {"book": true, "skills": ["book.words"], "q": ["a bundle of ...", "किसका गट्ठर?", "Kiska gatthar?", ["sticks", "players", "people"], "sticks"]},
+        {"book": true, "skills": ["book.words"], "q": ["The opposite of ‘friend’ is ...", "‘friend’ का उल्टा?", "‘friend’ ka ulta?", ["enemy", "brother", "king"], "enemy"]},
+        {"book": true, "skills": ["book.words"], "q": ["The opposite of ‘weakness’ is ...", "‘weakness’ का उल्टा?", "‘weakness’ ka ulta?", ["strength", "sadness", "kindness"], "strength"]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Ram likes to go to school ___ Shyam does not like school at all.", "but", ["but", "and"], "राम को स्कूल पसंद है लेकिन श्याम को नहीं।", "Ram ko school pasand hai lekin Shyam ko nahi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.punctuation"], "q": ["Which word must start with a capital letter?", "कौन सा शब्द बड़े अक्षर से शुरू होगा?", "Kaun sa shabd bade akshar se shuru hoga?", ["Jhansi", "queen", "brave"], "Jhansi"]},
+        {"book": true, "skills": ["book.talk"], "q": ["What does Ravinder Tejpal do?", "रविंदर तेजपाल क्या करता है?", "Ravinder Tejpal kya karta hai?", ["He is a police officer.", "He is a farmer.", "He is a teacher."], "He is a police officer."]},
+        {"book": true, "skills": ["book.activity"], "q": ["Which insect is useful?", "कौन सा कीड़ा उपयोगी है?", "Kaun sa keeda upyogi hai?", ["honeybee", "mosquito", "cockroach"], "honeybee"]}
+      ]
+    }
+  ]
+}

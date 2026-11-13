@@ -1,7 +1,12 @@
 package com.samjhoenglish.learning
 
 import com.samjhoenglish.content.Blend
+import com.samjhoenglish.content.BuildSentence
+import com.samjhoenglish.content.Choice
+import com.samjhoenglish.content.Crossword
 import com.samjhoenglish.content.FillBlank
+import com.samjhoenglish.content.MatchPairs
+import com.samjhoenglish.content.SortGroups
 import com.samjhoenglish.content.FindEnglish
 import com.samjhoenglish.content.LearnCard
 import com.samjhoenglish.content.ListenRead
@@ -44,6 +49,11 @@ object Hints {
         is ReadAlong -> 2
         is SpotMistake -> minOf(OTHER_TRIES, step.words.size - 1)
         is FindEnglish -> minOf(OTHER_TRIES, step.words.count { it.en == null })
+        is Choice -> step.options.size - 1
+        // Many small answers in one exercise: one slip each is allowed before the rest are shown.
+        is MatchPairs -> step.pairs.size
+        is Crossword -> step.entries.count { !it.given }
+        is SortGroups -> maxOf(OTHER_TRIES, step.items.size / 3)
         else -> OTHER_TRIES
     }.coerceAtLeast(1)
 
@@ -75,14 +85,33 @@ object Hints {
         is StoryQuestion -> Hint(LOOK_IN_THE_STORY)
         is SpellWord -> spelling(step.word.english.lowercase(), wrongTries)
         is ReadAlong -> Hint(READ_ONCE_MORE)
+        is Choice -> choice(step, wrongTries)
+        is MatchPairs -> Hint(EASY_ONES_FIRST)
+        is Crossword -> Hint(COUNT_THE_BOXES)
+        is SortGroups -> Hint(rule(step) ?: WHICH_GROUP)
+        is BuildSentence -> if (wrongTries == 1) {
+            val first = step.tiles.first()
+            Hint(L("पहला शब्द है: ‘$first’", "Pehla shabd hai: ‘$first’", "The first word is: ‘$first’"), listOf(first))
+        } else {
+            Hint(rule(step) ?: SAY_WITH_ME, listOf(step.answer))
+        }
         else -> null
+    }
+
+    /** First the question in Hindi (if the child may not have understood it), then where to look. */
+    private fun choice(step: Choice, wrongTries: Int): Hint {
+        val meaning = step.questionMeaning
+        if (wrongTries == 1 && meaning != null) {
+            return Hint(L("सवाल का मतलब: ${meaning.hi}", "Sawaal ka matlab: ${meaning.hinglish}", "Read the question again slowly."), listOf(step.question))
+        }
+        return Hint(if ("book.comprehension" in step.skills) LOOK_IN_THE_BOOK else rule(step) ?: READ_WHOLE_LINE)
     }
 
     /** Extra teaching when the answer is shown. Null means the usual message. */
     fun forReveal(step: Step): Hint? = when (step) {
         is MinimalPair -> Hint(LISTEN_TO_BOTH, step.options.filter { it != step.answer } + step.answer)
         is ReadAlong -> Hint(TINKU_WILL_READ)
-        is FillBlank, is SpotMistake, is SentenceTrain, is TeachTinku -> rule(step)?.let { Hint(it) }
+        is FillBlank, is SpotMistake, is SentenceTrain, is TeachTinku, is BuildSentence -> rule(step)?.let { Hint(it) }
         else -> null
     }
 
@@ -188,7 +217,11 @@ object Hints {
     private val LOOK_IN_THE_STORY = L("जवाब कहानी में छिपा है। याद करो, क्या पढ़ा था?", "Jawab kahani mein chhipa hai. Yaad karo, kya padha tha?", "The answer is in the story. Think back: what did you read?")
     private val READ_ONCE_MORE = L("बढ़िया कोशिश! एक बार फिर पढ़ो। मुश्किल शब्द को छूकर सुन लो।", "Badhiya koshish! Ek baar phir padho. Mushkil shabd ko chhookar sun lo.", "Good try! Read it once more. Tap a hard word to hear it first.")
     private val TINKU_WILL_READ = L("कोई बात नहीं। अब मैं पढ़ता हूँ, तुम साथ-साथ देखो।", "Koi baat nahi. Ab main padhta hoon, tum saath-saath dekho.", "That's okay. Now I'll read, and you follow along.")
-    private val LIKE_SCHOOL_BUS_PHONE = L("सोचो: कौन सा शब्द स्कूल, बस या फ़ोन जैसा है?", "Socho: kaun sa shabd school, bus ya phone jaisa hai?", "Think: which word is like school, bus or phone?")
+    private val LOOK_IN_THE_BOOK = L("किताब में कहानी फिर से देखो। जवाब वहीं लिखा है।", "Kitaab mein kahani phir se dekho. Jawab wahin likha hai.", "Look at the story in your book again. The answer is written there.")
+    private val EASY_ONES_FIRST = L("जो जोड़ी पक्की पता है, वो पहले जोड़ो। बाकी आसान हो जाएँगी।", "Jo jodi pakki pata hai, woh pehle jodo. Baaki aasaan ho jaayengi.", "Join the pairs you are sure of first. The rest get easier.")
+    private val COUNT_THE_BOXES = L("खाली जगह वाली लाइन पढ़ो, और ग्रिड में डिब्बे गिनो। शब्द में उतने ही अक्षर होंगे।", "Khaali jagah waali line padho, aur grid mein dabbe gino. Shabd mein utne hi akshar honge.", "Read the line with the gap and count the boxes in the grid. The word has that many letters.")
+    private val WHICH_GROUP = L("सोचो, यह कहाँ रहता है और कैसा है? फिर उसका ग्रुप चुनो।", "Socho, yeh kahan rehta hai aur kaisa hai? Phir uska group chuno.", "Think: where does it live, and what is it like? Then pick its group.")
+    private val LIKE_SCHOOL_BUS_PHONE =L("सोचो: कौन सा शब्द स्कूल, बस या फ़ोन जैसा है?", "Socho: kaun sa shabd school, bus ya phone jaisa hai?", "Think: which word is like school, bus or phone?")
 }
 
 /** When a child stays weak in a skill: a different explanation first, then easier questions. */
@@ -215,6 +248,9 @@ object StuckHelp {
         is MatchMeaning -> step.copy(options = narrowed(step.options) { it == step.answer })
         is FillBlank -> step.copy(options = narrowed(step.options) { it == step.answer })
         is StoryQuestion -> step.copy(options = narrowed(step.options) { it == step.answer })
+        // Pictures must stay with their options, so a question with pictures keeps all of them.
+        is Choice -> if (step.emojis.isEmpty()) step.copy(options = narrowed(step.options) { it == step.answer }) else step
+        is BuildSentence -> step.copy(extra = emptyList())
         // Letter tiles instead of the keyboard.
         is SpellWord -> step.copy(typed = false)
         is SentenceTrain -> step.copy(extra = emptyList())

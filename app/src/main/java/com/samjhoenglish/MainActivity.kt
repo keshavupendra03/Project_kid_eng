@@ -6,6 +6,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.SystemBarStyle
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import com.samjhoenglish.data.TestCheckWorker
 import com.samjhoenglish.ui.SamjhoApp
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
@@ -22,6 +23,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             SamjhoApp(container)
         }
+        // Looks for new school tests about once an hour (does nothing without a school connection).
+        TestCheckWorker.schedule(this)
     }
 
     override fun onStart() {
@@ -43,6 +46,8 @@ class MainActivity : ComponentActivity() {
             delay(1_500)
             // A failed send must never disturb a child's lesson. It is retried next time.
             runCatching { container.school.syncAll() }
+            // The app is open, so new tests show on Home; no notification needed.
+            runCatching { container.school.checkTests() }
         }
     }
 }

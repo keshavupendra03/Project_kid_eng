@@ -1,0 +1,123 @@
+{
+  "id": "B6.09.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.09.4.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.09.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "text": {
+        "hi": "f या fe पर ख़त्म होने वाले कई शब्दों में बहुवचन में ves लगता है: leaf → leaves, knife → knives।",
+        "hinglish": "f ya fe par khatm hone waale kai shabdon mein bahuvachan mein ves lagta hai: leaf → leaves, knife → knives.",
+        "en": "Many words ending in f or fe change to ves in the plural: leaf → leaves, knife → knives."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.09.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "instruction": {
+        "hi": "एक को अनेक से जोड़ो",
+        "hinglish": "Ek ko anek se jodo",
+        "en": "Match one with many"
+      },
+      "pairs": [
+        {
+          "left": "leaf",
+          "right": "leaves",
+          "meaning": {
+            "hi": "पत्तियाँ",
+            "hinglish": "pattiyaan"
+          }
+        },
+        {
+          "left": "shelf",
+          "right": "shelves",
+          "meaning": {
+            "hi": "अलमारी के ख़ाने",
+            "hinglish": "almaari ke khaane"
+          }
+        },
+        {
+          "left": "knife",
+          "right": "knives",
+          "meaning": {
+            "hi": "चाकू",
+            "hinglish": "chaaku"
+          }
+        },
+        {
+          "left": "half",
+          "right": "halves",
+          "meaning": {
+            "hi": "आधे",
+            "hinglish": "aadhe"
+          }
+        },
+        {
+          "left": "wolf",
+          "right": "wolves",
+          "meaning": {
+            "hi": "भेड़िए",
+            "hinglish": "bhediye"
+          }
+        },
+        {
+          "left": "calf",
+          "right": "calves",
+          "meaning": {
+            "hi": "बछड़े",
+            "hinglish": "bachhde"
+          }
+        }
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.09.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "sentence": "The tree has many green ___.",
+      "answer": "leaves",
+      "options": [
+        "leaves",
+        "leafs",
+        "leafes"
+      ],
+      "meaning": {
+        "hi": "पेड़ पर बहुत सी हरी पत्तियाँ हैं।",
+        "hinglish": "Ped par bahut si hari pattiyaan hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.09.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "sentence": "Cut the apple into two ___.",
+      "answer": "halves",
+      "options": [
+        "halves",
+        "halfs",
+        "half"
+      ],
+      "meaning": {
+        "hi": "सेब को दो आधे हिस्सों में काटो।",
+        "hinglish": "Seb ko do aadhe hisson mein kaato."
+      }
+    }
+  ]
+}

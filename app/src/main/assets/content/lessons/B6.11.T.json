@@ -1,0 +1,196 @@
+{
+  "id": "B6.11.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.11.T.S01",
+    "B6.11.T.S02",
+    "B6.11.T.S03",
+    "B6.11.T.S04",
+    "B6.11.T.S05",
+    "B6.11.T.S06",
+    "B6.11.T.S07",
+    "B6.11.T.S08",
+    "B6.11.T.S09",
+    "B6.11.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.11.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Where does the moonbeam take you?",
+      "questionMeaning": {
+        "hi": "चाँद की किरण कहाँ ले जाती है?",
+        "hinglish": "Chaand ki kiran kahan le jaati hai?"
+      },
+      "options": [
+        "to the land of dreams",
+        "to school",
+        "to the market"
+      ],
+      "answer": "to the land of dreams"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What does the moonbeam have in its hand?",
+      "questionMeaning": {
+        "hi": "चाँद की किरण के हाथ में क्या है?",
+        "hinglish": "Chaand ki kiran ke haath mein kya hai?"
+      },
+      "options": [
+        "a pinch of gold and some fairy sand",
+        "a book",
+        "a candle"
+      ],
+      "answer": "a pinch of gold and some fairy sand"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? The moonbeam climbs a tree.",
+      "questionMeaning": {
+        "hi": "चाँद की किरण पेड़ पर चढ़ती है।",
+        "hinglish": "Chaand ki kiran ped par chadhti hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.T.S04",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "True or false? It wants to take you to the land of dreams.",
+      "questionMeaning": {
+        "hi": "वह तुम्हें सपनों की दुनिया में ले जाना चाहती है।",
+        "hinglish": "Woh tumhe sapnon ki duniya mein le jaana chahti hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘sleep’?",
+      "questionMeaning": {
+        "hi": "‘sleep’ से तुक?",
+        "hinglish": "‘sleep’ se tuk?"
+      },
+      "options": [
+        "keep",
+        "sill",
+        "gold"
+      ],
+      "answer": "keep"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘beams’?",
+      "questionMeaning": {
+        "hi": "‘beams’ से तुक?",
+        "hinglish": "‘beams’ se tuk?"
+      },
+      "options": [
+        "dreams",
+        "eyes",
+        "night"
+      ],
+      "answer": "dreams"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.T.S07",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Which one is a utensil?",
+      "questionMeaning": {
+        "hi": "कौन सा बर्तन है?",
+        "hinglish": "Kaun sa bartan hai?"
+      },
+      "options": [
+        "cup",
+        "doll",
+        "sweater"
+      ],
+      "answer": "cup"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.T.S08",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which planet do we live on?",
+      "questionMeaning": {
+        "hi": "हम किस ग्रह पर रहते हैं?",
+        "hinglish": "Hum kis grah par rehte hain?"
+      },
+      "options": [
+        "Earth",
+        "Mars",
+        "Venus"
+      ],
+      "answer": "Earth"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.T.S09",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which is the biggest planet?",
+      "questionMeaning": {
+        "hi": "सबसे बड़ा ग्रह?",
+        "hinglish": "Sabse bada grah?"
+      },
+      "options": [
+        "Jupiter",
+        "Mercury",
+        "Earth"
+      ],
+      "answer": "Jupiter"
+    },
+    {
+      "type": "choice",
+      "id": "B6.11.T.S10",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "‘A moonbeam’ means ...",
+      "questionMeaning": {
+        "hi": "‘moonbeam’ का मतलब?",
+        "hinglish": "‘moonbeam’ ka matlab?"
+      },
+      "options": [
+        "a ray of light from the moon",
+        "a kind of bean",
+        "a dream"
+      ],
+      "answer": "a ray of light from the moon"
+    }
+  ]
+}

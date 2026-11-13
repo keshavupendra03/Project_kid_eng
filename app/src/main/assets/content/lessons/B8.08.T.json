@@ -1,0 +1,203 @@
+{
+  "id": "B8.08.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.08.T.S01",
+    "B8.08.T.S02",
+    "B8.08.T.S03",
+    "B8.08.T.S04",
+    "B8.08.T.S05",
+    "B8.08.T.S06",
+    "B8.08.T.S07",
+    "B8.08.T.S08",
+    "B8.08.T.S09",
+    "B8.08.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.08.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Where do the birdies sleep?",
+      "questionMeaning": {
+        "hi": "चिड़ियाँ कहाँ सोती हैं?",
+        "hinglish": "Chidiyaan kahan soti hain?"
+      },
+      "options": [
+        "in the forks of the trees",
+        "in the house",
+        "on the wall"
+      ],
+      "answer": "in the forks of the trees"
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "‘Cuddle’ means:",
+      "questionMeaning": {
+        "hi": "मतलब",
+        "hinglish": "Matlab"
+      },
+      "options": [
+        "hug",
+        "lie down",
+        "rest",
+        "close"
+      ],
+      "answer": "hug"
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What is the moon's face like?",
+      "questionMeaning": {
+        "hi": "चाँद का चेहरा किसकी तरह?",
+        "hinglish": "Chaand ka chehra kiski tarah?"
+      },
+      "options": [
+        "the clock in the hall",
+        "a boat",
+        "a banana"
+      ],
+      "answer": "the clock in the hall"
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Odd one out: glow, dark, shine, illumine",
+      "questionMeaning": {
+        "hi": "अलग शब्द",
+        "hinglish": "Alag shabd"
+      },
+      "options": [
+        "dark",
+        "glow",
+        "shine",
+        "illumine"
+      ],
+      "answer": "dark"
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Odd one out: evening, week, afternoon, morning",
+      "questionMeaning": {
+        "hi": "अलग शब्द",
+        "hinglish": "Alag shabd"
+      },
+      "options": [
+        "week",
+        "evening",
+        "afternoon",
+        "morning"
+      ],
+      "answer": "week"
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.T.S06",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "question": "A donkey ...",
+      "questionMeaning": {
+        "hi": "गधे की आवाज़",
+        "hinglish": "Gadhe ki awaaz"
+      },
+      "options": [
+        "brays",
+        "neighs",
+        "roars"
+      ],
+      "answer": "brays"
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.T.S07",
+      "skills": [
+        "book.words",
+        "vocab.animals"
+      ],
+      "question": "A horse ...",
+      "questionMeaning": {
+        "hi": "घोड़े की आवाज़",
+        "hinglish": "Ghode ki awaaz"
+      },
+      "options": [
+        "neighs",
+        "brays",
+        "buzzes"
+      ],
+      "answer": "neighs"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.08.T.S08",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "a ___ mouse",
+      "answer": "squeaking",
+      "options": [
+        "squeaking",
+        "squalling",
+        "trumpeting",
+        "howling"
+      ],
+      "meaning": {
+        "hi": "चीं-चीं करता चूहा",
+        "hinglish": "cheen-cheen karta chooha"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.T.S09",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Which word rhymes with ‘field’?",
+      "questionMeaning": {
+        "hi": "तुकबंदी",
+        "hinglish": "Tukbandi"
+      },
+      "options": [
+        "shield",
+        "filled",
+        "feel"
+      ],
+      "answer": "shield"
+    },
+    {
+      "type": "choice",
+      "id": "B8.08.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Is there a man on the moon?",
+      "questionMeaning": {
+        "hi": "चाँद पर आदमी?",
+        "hinglish": "Chaand par aadmi?"
+      },
+      "options": [
+        "No, it is only the poet's imagination.",
+        "Yes, he lives there."
+      ],
+      "answer": "No, it is only the poet's imagination."
+    }
+  ]
+}

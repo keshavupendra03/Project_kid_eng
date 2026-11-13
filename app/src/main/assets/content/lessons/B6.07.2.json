@@ -1,0 +1,379 @@
+{
+  "id": "B6.07.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.07.2.S02",
+    "B6.07.2.S03",
+    "B6.07.2.S04",
+    "B6.07.2.S06",
+    "B6.07.2.S07",
+    "B6.07.2.S08",
+    "B6.07.2.S09",
+    "B6.07.2.S10",
+    "B6.07.2.S11",
+    "B6.07.2.S12",
+    "B6.07.2.S13",
+    "B6.07.2.S14",
+    "B6.07.2.S15",
+    "B6.07.2.S16",
+    "B6.07.2.S17"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.07.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 36-37 पर ‘The Race’ पढ़ो। पहले बताओ कहानी में लड़कियाँ किस क्रम में आती हैं।",
+        "hinglish": "Apni kitaab mein page 36-37 par ‘The Race’ padho. Pehle batao kahani mein ladkiyaan kis kram mein aati hain.",
+        "en": "Read ‘The Race’ on pages 36–37 of your book. First, tell the order in which the girls appear."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who falls down first and is out of the race?",
+      "questionMeaning": {
+        "hi": "सबसे पहले कौन गिरकर दौड़ से बाहर होती है?",
+        "hinglish": "Sabse pehle kaun girkar daud se baahar hoti hai?"
+      },
+      "options": [
+        "Shobha",
+        "Rani",
+        "Mala"
+      ],
+      "answer": "Shobha"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who leads after Shobha falls, but slows down in her joy?",
+      "questionMeaning": {
+        "hi": "शोभा के गिरने के बाद कौन आगे होती है पर ख़ुशी में धीमी हो जाती है?",
+        "hinglish": "Shobha ke girne ke baad kaun aage hoti hai par khushi mein dheemi ho jaati hai?"
+      },
+      "options": [
+        "Rani",
+        "Lata",
+        "Neerja"
+      ],
+      "answer": "Rani"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who looks back and gives others a chance to go ahead?",
+      "questionMeaning": {
+        "hi": "कौन पीछे मुड़कर देखती है और दूसरों को आगे जाने का मौक़ा देती है?",
+        "hinglish": "Kaun peechhe mudkar dekhti hai aur doosron ko aage jaane ka mauka deti hai?"
+      },
+      "options": [
+        "Neerja",
+        "Mala",
+        "Mina"
+      ],
+      "answer": "Neerja"
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.07.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "कहानी का क्रम: Shobha, Rani, Lata, Neerja, Mala, Mina।",
+        "hinglish": "Kahani ka kram: Shobha, Rani, Lata, Neerja, Mala, Mina.",
+        "en": "The order in the story: Shobha, Rani, Lata, Neerja, Mala, Mina."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Mina is tall, strong and well-built.",
+      "questionMeaning": {
+        "hi": "मीना लंबी, ताक़तवर और तगड़ी है।",
+        "hinglish": "Mina lambi, taakatvar aur tagdi hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. Mina is thin and short.",
+      "modelMeaning": {
+        "hi": "गलत। मीना पतली और छोटी है।",
+        "hinglish": "Galat. Mina patli aur chhoti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Rani loses her balance and falls down.",
+      "questionMeaning": {
+        "hi": "रानी का संतुलन बिगड़ता है और वह गिर जाती है।",
+        "hinglish": "Rani ka santulan bigadta hai aur woh gir jaati hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. Shobha loses her balance and falls down.",
+      "modelMeaning": {
+        "hi": "गलत। शोभा का संतुलन बिगड़ता है और वह गिरती है।",
+        "hinglish": "Galat. Shobha ka santulan bigadta hai aur woh girti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Neerja looks back and loses her lead.",
+      "questionMeaning": {
+        "hi": "नीरजा पीछे देखती है और पिछड़ जाती है।",
+        "hinglish": "Neerja peechhe dekhti hai aur pichhad jaati hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? Mala runs carelessly.",
+      "questionMeaning": {
+        "hi": "माला लापरवाही से दौड़ती है।",
+        "hinglish": "Mala laaparwaahi se daudti hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True"
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "True or false? The whole crowd cheers Mala.",
+      "questionMeaning": {
+        "hi": "सारी भीड़ माला का हौसला बढ़ाती है।",
+        "hinglish": "Saari bheed Mala ka hausla badhaati hai."
+      },
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "False",
+      "modelAnswer": "False. The whole crowd cheers Mina.",
+      "modelMeaning": {
+        "hi": "गलत। सारी भीड़ मीना का हौसला बढ़ाती है।",
+        "hinglish": "Galat. Saari bheed Mina ka hausla badhaati hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why have the students assembled on the playground?",
+      "questionMeaning": {
+        "hi": "छात्र खेल के मैदान में क्यों इकट्ठा हुए हैं?",
+        "hinglish": "Chhaatra khel ke maidaan mein kyon ikattha hue hain?"
+      },
+      "options": [
+        "to celebrate the Annual Sports Day",
+        "for a picnic",
+        "for an exam"
+      ],
+      "answer": "to celebrate the Annual Sports Day",
+      "modelAnswer": "The students have assembled on the playground because the Annual Sports Day is being celebrated.",
+      "modelMeaning": {
+        "hi": "छात्र मैदान में इकट्ठा हुए हैं क्योंकि वार्षिक खेल दिवस मनाया जा रहा है।",
+        "hinglish": "Chhaatra maidaan mein ikattha hue hain kyonki vaarshik khel diwas manaaya ja raha hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What event is about to begin?",
+      "questionMeaning": {
+        "hi": "कौन सी प्रतियोगिता शुरू होने वाली है?",
+        "hinglish": "Kaun si pratiyogita shuru hone waali hai?"
+      },
+      "options": [
+        "the 200 metre race",
+        "a football match",
+        "a song contest"
+      ],
+      "answer": "the 200 metre race",
+      "modelAnswer": "The 200 metre race is about to begin.",
+      "modelMeaning": {
+        "hi": "200 मीटर की दौड़ शुरू होने वाली है।",
+        "hinglish": "200 metre ki daud shuru hone waali hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How many girls are taking part in the race?",
+      "questionMeaning": {
+        "hi": "दौड़ में कितनी लड़कियाँ हैं?",
+        "hinglish": "Daud mein kitni ladkiyaan hain?"
+      },
+      "options": [
+        "six",
+        "five",
+        "ten"
+      ],
+      "answer": "six",
+      "modelAnswer": "Six girls are taking part in the race.",
+      "modelMeaning": {
+        "hi": "दौड़ में छह लड़कियाँ हिस्सा ले रही हैं।",
+        "hinglish": "Daud mein chhah ladkiyaan hissa le rahi hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S14",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why do the girls feel that Mina would not win?",
+      "questionMeaning": {
+        "hi": "लड़कियों को क्यों लगता है कि मीना नहीं जीतेगी?",
+        "hinglish": "Ladkiyon ko kyon lagta hai ki Mina nahi jeetegi?"
+      },
+      "options": [
+        "Because she is thin and short.",
+        "Because she is ill.",
+        "Because she is new."
+      ],
+      "answer": "Because she is thin and short.",
+      "modelAnswer": "The girls feel Mina would not win because she is thin and short, while the others are tall, strong and well-built.",
+      "modelMeaning": {
+        "hi": "लड़कियों को लगता है मीना नहीं जीतेगी क्योंकि वह पतली और छोटी है, जबकि बाकी लंबी और ताक़तवर हैं।",
+        "hinglish": "Ladkiyon ko lagta hai Mina nahi jeetegi kyonki woh patli aur chhoti hai, jabki baaki lambi aur taakatvar hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S15",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who gives the signal to start the race?",
+      "questionMeaning": {
+        "hi": "दौड़ शुरू करने का इशारा कौन देता है?",
+        "hinglish": "Daud shuru karne ka ishaara kaun deta hai?"
+      },
+      "options": [
+        "the games teacher",
+        "the Headmistress",
+        "Mina"
+      ],
+      "answer": "the games teacher",
+      "modelAnswer": "The games teacher gives the signal to start the race.",
+      "modelMeaning": {
+        "hi": "खेल शिक्षक दौड़ शुरू करने का इशारा देते हैं।",
+        "hinglish": "Khel shikshak daud shuru karne ka ishaara dete hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S16",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How does Mina run all through the race?",
+      "questionMeaning": {
+        "hi": "मीना पूरी दौड़ में कैसे दौड़ती है?",
+        "hinglish": "Mina poori daud mein kaise daudti hai?"
+      },
+      "options": [
+        "slowly but steadily, and fast at the end",
+        "very carelessly",
+        "she walks"
+      ],
+      "answer": "slowly but steadily, and fast at the end",
+      "modelAnswer": "Mina runs slowly but steadily all through the race. At the end she puts in all her strength and runs fast.",
+      "modelMeaning": {
+        "hi": "मीना पूरी दौड़ में धीरे पर लगातार दौड़ती है। आख़िर में पूरी ताक़त लगाकर तेज़ दौड़ती है।",
+        "hinglish": "Mina poori daud mein dheere par lagaataar daudti hai. Aakhir mein poori taakat lagaakar tez daudti hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.2.S17",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do you think helped Mina?",
+      "questionMeaning": {
+        "hi": "तुम्हें क्या लगता है, मीना को किस चीज़ ने मदद की?",
+        "hinglish": "Tumhe kya lagta hai, Mina ko kis cheez ne madad ki?"
+      },
+      "options": [
+        "her self-confidence and steady running",
+        "her height",
+        "luck only"
+      ],
+      "answer": "her self-confidence and steady running",
+      "modelAnswer": "Mina's self-confidence and her slow but steady running helped her to win.",
+      "modelMeaning": {
+        "hi": "मीना के आत्मविश्वास और धीरे पर लगातार दौड़ने ने उसे जिताया।",
+        "hinglish": "Mina ke aatmavishwaas aur dheere par lagaataar daudne ne use jitaaya."
+      }
+    }
+  ]
+}

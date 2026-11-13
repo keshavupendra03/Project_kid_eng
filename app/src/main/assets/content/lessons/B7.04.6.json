@@ -1,0 +1,179 @@
+{
+  "id": "B7.04.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.04.6.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.04.6.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब में पालतू जानवरों के बारे में तीन सवाल हैं। मैं पूछूँगा, तुम इंग्लिश में जवाब दो।",
+        "hinglish": "Kitaab mein paaltu jaanwaron ke baare mein teen sawaal hain. Main poochhunga, tum English mein jawab do.",
+        "en": "The book has three questions about pets. I'll ask, and you answer in English."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.04.6.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🐶",
+      "turns": [
+        {
+          "id": "share",
+          "tinku": "Would you like to share your room with your pet animals?",
+          "meaning": {
+            "hi": "क्या तुम अपना कमरा अपने पालतू जानवरों के साथ बाँटना चाहोगे?",
+            "hinglish": "Kya tum apna kamra apne paaltu jaanwaron ke saath baantna chahoge?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I would like to share my room with my pet.",
+              "meaning": {
+                "hi": "हाँ, मैं अपना कमरा अपने पालतू के साथ बाँटना चाहूँगा/चाहूँगी।",
+                "hinglish": "Haan, main apna kamra apne paaltu ke saath baantna chahunga/chahungi."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, I would not like to share my room.",
+              "meaning": {
+                "hi": "नहीं, मैं अपना कमरा नहीं बाँटना चाहूँगा/चाहूँगी।",
+                "hinglish": "Nahi, main apna kamra nahi baantna chahunga/chahungi."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "parents",
+          "tinku": "Will your parents agree to it?",
+          "meaning": {
+            "hi": "क्या तुम्हारे मम्मी-पापा इसके लिए मान जाएँगे?",
+            "hinglish": "Kya tumhare mummy-papa iske liye maan jaayenge?"
+          },
+          "replies": [
+            {
+              "say": "Yes, my parents will agree.",
+              "meaning": {
+                "hi": "हाँ, मेरे मम्मी-पापा मान जाएँगे।",
+                "hinglish": "Haan, mere mummy-papa maan jaayenge."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ]
+            },
+            {
+              "say": "No, my parents will not agree.",
+              "meaning": {
+                "hi": "नहीं, मेरे मम्मी-पापा नहीं मानेंगे।",
+                "hinglish": "Nahi, mere mummy-papa nahi maanenge."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "space",
+          "tinku": "Does this pet take a lot of space?",
+          "meaning": {
+            "hi": "क्या यह पालतू जानवर बहुत जगह लेता है?",
+            "hinglish": "Kya yeh paaltu jaanwar bahut jagah leta hai?"
+          },
+          "replies": [
+            {
+              "say": "No, a bird needs only a small cage.",
+              "meaning": {
+                "hi": "नहीं, चिड़िया को बस एक छोटा पिंजरा चाहिए।",
+                "hinglish": "Nahi, chidiya ko bas ek chhota pinjra chahiye."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ]
+            },
+            {
+              "say": "Yes, a dog takes a lot of space.",
+              "meaning": {
+                "hi": "हाँ, कुत्ता बहुत जगह लेता है।",
+                "hinglish": "Haan, kutta bahut jagah leta hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bye",
+          "tinku": "Thank you! Now ask your friends and fill the table in your book.",
+          "meaning": {
+            "hi": "शुक्रिया! अब अपने दोस्तों से पूछो और किताब की तालिका भरो।",
+            "hinglish": "Shukriya! Ab apne doston se poochho aur kitaab ki taalika bharo."
+          },
+          "replies": [
+            {
+              "say": "Okay, I will.",
+              "meaning": {
+                "hi": "ठीक है, मैं भरूँगा/भरूँगी।",
+                "hinglish": "Theek hai, main bharunga/bharungi."
+              },
+              "patterns": [
+                "okay *",
+                "okay",
+                "ok *",
+                "ok",
+                "yes *",
+                "yes",
+                "i will"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.04.6.S03",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "question": "In the book's table, Anju likes birds. How much space do they take?",
+      "questionMeaning": {
+        "hi": "किताब की तालिका में अंजू को पक्षी पसंद हैं। वे कितनी जगह लेते हैं?",
+        "hinglish": "Kitaab ki taalika mein Anju ko pakshi pasand hain. Woh kitni jagah lete hain?"
+      },
+      "options": [
+        "a small cage",
+        "a big room",
+        "a whole house"
+      ],
+      "answer": "a small cage",
+      "modelAnswer": "Anju likes birds. Her parents say yes. Birds need only a small cage.",
+      "modelMeaning": {
+        "hi": "अंजू को पक्षी पसंद हैं। उसके मम्मी-पापा हाँ कहते हैं। पक्षियों को बस एक छोटा पिंजरा चाहिए।",
+        "hinglish": "Anju ko pakshi pasand hain. Uske mummy-papa haan kehte hain. Pakshiyon ko bas ek chhota pinjra chahiye."
+      }
+    }
+  ]
+}

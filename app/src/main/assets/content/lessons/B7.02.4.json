@@ -1,0 +1,176 @@
+{
+  "id": "B7.02.4",
+  "level": 7,
+  "bookSteps": [
+    "B7.02.4.S03",
+    "B7.02.4.S04",
+    "B7.02.4.S05",
+    "B7.02.4.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.02.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "text": {
+        "hi": "दो वाक्यों में एक ही इंसान हो, तो उन्हें ‘who’ से जोड़ सकते हैं। ‘who’ का मतलब है ‘जो’। The girl is Sarita. The girl is wearing a red sweater. → The girl who is wearing a red sweater is Sarita.",
+        "hinglish": "Do vaakyon mein ek hi insaan ho, to unhe ‘who’ se jod sakte hain. ‘who’ ka matlab hai ‘jo’. The girl is Sarita. The girl is wearing a red sweater. → The girl who is wearing a red sweater is Sarita.",
+        "en": "When two sentences are about the same person, join them with ‘who’. The girl is Sarita. The girl is wearing a red sweater. → The girl who is wearing a red sweater is Sarita."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B7.02.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "text": {
+        "hi": "याद रखो: ‘who’ लोगों के लिए है। जानवरों और चीज़ों के लिए ‘which’ लगाते हैं: The dog which barks is mine.",
+        "hinglish": "Yaad rakho: ‘who’ logon ke liye hai. Jaanwaron aur cheezon ke liye ‘which’ lagaate hain: The dog which barks is mine.",
+        "en": "Remember: ‘who’ is for people. For animals and things we use ‘which’: The dog which barks is mine."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो: The boy is wearing a blue cap. + The boy is the tallest boy in the class.",
+        "hinglish": "Jodo: The boy is wearing a blue cap. + The boy is the tallest boy in the class.",
+        "en": "Join: The boy is wearing a blue cap. + He is the tallest boy in the class."
+      },
+      "answer": "The boy who is wearing a blue cap is the tallest boy in the class.",
+      "meaning": {
+        "hi": "जो लड़का नीली टोपी पहने है, वह क्लास का सबसे लंबा लड़का है।",
+        "hinglish": "Jo ladka neeli topi pehne hai, woh class ka sabse lamba ladka hai."
+      },
+      "extra": [
+        "which"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो: Seema studies in class VIII. + Seema is the most brilliant student of the class.",
+        "hinglish": "Jodo: Seema studies in class VIII. + Seema is the most brilliant student of the class.",
+        "en": "Join the two sentences about Seema."
+      },
+      "answer": "Seema, who studies in class VIII, is the most brilliant student of the class.",
+      "meaning": {
+        "hi": "सीमा, जो आठवीं कक्षा में पढ़ती है, क्लास की सबसे होशियार छात्रा है।",
+        "hinglish": "Seema, jo aathvi kaksha mein padhti hai, class ki sabse hoshiyaar chhaatra hai."
+      },
+      "extra": [
+        "which"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो: John is a good story teller. + John is telling an interesting story.",
+        "hinglish": "Jodo: John is a good story teller. + John is telling an interesting story.",
+        "en": "Join the two sentences about John."
+      },
+      "answer": "John, who is a good story teller, is telling an interesting story.",
+      "meaning": {
+        "hi": "जॉन, जो अच्छा कहानी सुनाने वाला है, एक मज़ेदार कहानी सुना रहा है।",
+        "hinglish": "John, jo achha kahani sunaane waala hai, ek mazedaar kahani suna raha hai."
+      },
+      "extra": [
+        "which"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.02.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "prompt": {
+        "hi": "जोड़ो: Gurmeet helps the boy. + The boy is blind.",
+        "hinglish": "Jodo: Gurmeet helps the boy. + The boy is blind.",
+        "en": "Join: Gurmeet helps the boy. + The boy is blind."
+      },
+      "answer": "Gurmeet helps the boy who is blind.",
+      "meaning": {
+        "hi": "गुरमीत उस लड़के की मदद करता है जो देख नहीं सकता।",
+        "hinglish": "Gurmeet us ladke ki madad karta hai jo dekh nahi sakta."
+      },
+      "extra": [
+        "which"
+      ]
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "sentence": "The man ___ sells mangoes is my uncle.",
+      "answer": "who",
+      "options": [
+        "who",
+        "which"
+      ],
+      "meaning": {
+        "hi": "जो आदमी आम बेचता है, वह मेरे चाचा हैं।",
+        "hinglish": "Jo aadmi aam bechta hai, woh mere chacha hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "sentence": "The dog ___ barks at night is very old.",
+      "answer": "which",
+      "options": [
+        "which",
+        "who"
+      ],
+      "meaning": {
+        "hi": "जो कुत्ता रात को भौंकता है, वह बहुत बूढ़ा है।",
+        "hinglish": "Jo kutta raat ko bhaunkta hai, woh bahut boodha hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.02.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.relative"
+      ],
+      "sentence": "I know a girl ___ can sing very well.",
+      "answer": "who",
+      "options": [
+        "who",
+        "which"
+      ],
+      "meaning": {
+        "hi": "मैं एक लड़की को जानता/जानती हूँ जो बहुत अच्छा गाती है।",
+        "hinglish": "Main ek ladki ko jaanta/jaanti hoon jo bahut achha gaati hai."
+      }
+    }
+  ]
+}

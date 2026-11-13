@@ -1,0 +1,151 @@
+{
+  "id": "B8.01.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.01.6.S04",
+    "B8.01.6.S05",
+    "B8.01.6.S06",
+    "B8.01.6.S07",
+    "B8.01.6.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.01.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: ‘A night before the examination’ पर पैराग्राफ़ लिखो। शब्द: worry, confusion, books and notes scattered, cramming, last revision, no sleep, fear of examination। चलो छोटे-छोटे वाक्य बनाएँ।",
+        "hinglish": "Kitaab: ‘A night before the examination’ par paragraph likho. Shabd: worry, confusion, books and notes scattered, cramming, last revision, no sleep, fear of examination. Chalo chhote-chhote vaakya banaayein.",
+        "en": "The book: write a paragraph on ‘A night before the examination’ using: worry, confusion, books and notes scattered, cramming, last revision, no sleep, fear of examination. Let's build short sentences."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "word": {
+        "english": "cramming",
+        "emoji": "",
+        "hindi": "रटना",
+        "hinglish": "ratna"
+      },
+      "meaning": "learning a lot quickly just before a test",
+      "example": "Cramming at night is not a good habit.",
+      "exampleMeaning": {
+        "hi": "रात को रटना अच्छी आदत नहीं है।",
+        "hinglish": "Raat ko ratna achhi aadat nahi hai."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.01.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "word": {
+        "english": "scattered",
+        "emoji": "",
+        "hindi": "बिखरा हुआ",
+        "hinglish": "bikhra hua"
+      },
+      "meaning": "spread here and there",
+      "example": "My notes were scattered on the bed.",
+      "exampleMeaning": {
+        "hi": "मेरे नोट्स बिस्तर पर बिखरे थे।",
+        "hinglish": "Mere notes bistar par bikhre the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.01.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "परीक्षा से पहले की रात मैं बहुत चिंता में था।",
+        "hinglish": "Pariksha se pehle ki raat main bahut chinta mein tha.",
+        "en": "Tell how you felt the night before the exam."
+      },
+      "answer": "I was very worried the night before the examination.",
+      "meaning": {
+        "hi": "परीक्षा से पहले की रात मैं बहुत चिंता में था।",
+        "hinglish": "Pariksha se pehle ki raat main bahut chinta mein tha."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.01.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मेरी किताबें और नोट्स चारों तरफ़ बिखरे थे।",
+        "hinglish": "Meri kitaabein aur notes chaaron taraf bikhre the.",
+        "en": "Tell where your study things were."
+      },
+      "answer": "My books and notes were scattered everywhere.",
+      "meaning": {
+        "hi": "मेरी किताबें और नोट्स चारों तरफ़ बिखरे थे।",
+        "hinglish": "Meri kitaabein aur notes chaaron taraf bikhre the."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.01.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मैंने आख़िरी बार दोहराया।",
+        "hinglish": "Maine aakhiri baar dohraaya.",
+        "en": "Tell what you did with your lessons one final time."
+      },
+      "answer": "I did the last revision.",
+      "meaning": {
+        "hi": "मैंने आख़िरी बार दोहराया।",
+        "hinglish": "Maine aakhiri baar dohraaya."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.01.6.S07",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "मैं पूरी रात सो नहीं पाया।",
+        "hinglish": "Main poori raat so nahi paaya.",
+        "en": "Tell about your sleep that night."
+      },
+      "answer": "I could not sleep the whole night.",
+      "meaning": {
+        "hi": "मैं पूरी रात सो नहीं पाया।",
+        "hinglish": "Main poori raat so nahi paaya."
+      },
+      "extra": [
+        "slept"
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B8.01.6.S08",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "अब मैं रोज़ पढ़ूँगा ताकि डर न लगे।",
+        "hinglish": "Ab main roz padhoonga taaki dar na lage.",
+        "en": "Make a promise about studying every day."
+      },
+      "answer": "Now I will study every day.",
+      "meaning": {
+        "hi": "अब मैं रोज़ पढ़ूँगा।",
+        "hinglish": "Ab main roz padhoonga."
+      }
+    }
+  ]
+}

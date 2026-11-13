@@ -1,0 +1,206 @@
+{
+  "id": "B6.06.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.06.T.S01",
+    "B6.06.T.S02",
+    "B6.06.T.S03",
+    "B6.06.T.S04",
+    "B6.06.T.S05",
+    "B6.06.T.S06",
+    "B6.06.T.S07",
+    "B6.06.T.S08",
+    "B6.06.T.S09",
+    "B6.06.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.06.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "___ was ‘the target’ in the test.",
+      "questionMeaning": {
+        "hi": "निशाना क्या था?",
+        "hinglish": "Nishaana kya tha?"
+      },
+      "options": [
+        "The bird",
+        "The tree",
+        "The bird's right eye",
+        "The fruit"
+      ],
+      "answer": "The bird's right eye"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Why didn't he allow the other princes to shoot?",
+      "questionMeaning": {
+        "hi": "बाकी राजकुमारों को तीर क्यों नहीं चलाने दिया?",
+        "hinglish": "Baaki raajkumaaron ko teer kyon nahi chalaane diya?"
+      },
+      "options": [
+        "They failed to concentrate on the target.",
+        "They were too young.",
+        "They had no arrows."
+      ],
+      "answer": "They failed to concentrate on the target."
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "___ is a Kaurav prince.",
+      "questionMeaning": {
+        "hi": "कौरव राजकुमार कौन?",
+        "hinglish": "Kaurav raajkumaar kaun?"
+      },
+      "options": [
+        "Yudhisthir",
+        "Duryodhan",
+        "Dronacharya",
+        "Sahadev"
+      ],
+      "answer": "Duryodhan"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.T.S04",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘mouse’ is ...",
+      "questionMeaning": {
+        "hi": "‘mouse’ का बहुवचन?",
+        "hinglish": "‘mouse’ ka bahuvachan?"
+      },
+      "options": [
+        "mice",
+        "mouses",
+        "mices"
+      ],
+      "answer": "mice"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.T.S05",
+      "skills": [
+        "book.words",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘deer’ is ...",
+      "questionMeaning": {
+        "hi": "‘deer’ का बहुवचन?",
+        "hinglish": "‘deer’ ka bahuvachan?"
+      },
+      "options": [
+        "deer",
+        "deers",
+        "deeres"
+      ],
+      "answer": "deer"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘family’ is ...",
+      "questionMeaning": {
+        "hi": "‘family’ का बहुवचन?",
+        "hinglish": "‘family’ ka bahuvachan?"
+      },
+      "options": [
+        "families",
+        "familys",
+        "familyes"
+      ],
+      "answer": "families"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.plurals"
+      ],
+      "question": "The plural of ‘bush’ is ...",
+      "questionMeaning": {
+        "hi": "‘bush’ का बहुवचन?",
+        "hinglish": "‘bush’ ka bahuvachan?"
+      },
+      "options": [
+        "bushes",
+        "bushs",
+        "bushies"
+      ],
+      "answer": "bushes"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.contractions"
+      ],
+      "question": "won't = ?",
+      "questionMeaning": {
+        "hi": "won't का पूरा रूप?",
+        "hinglish": "won't ka poora roop?"
+      },
+      "options": [
+        "will not",
+        "would not",
+        "want not"
+      ],
+      "answer": "will not"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.T.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.contractions"
+      ],
+      "question": "I've = ?",
+      "questionMeaning": {
+        "hi": "I've का पूरा रूप?",
+        "hinglish": "I've ka poora roop?"
+      },
+      "options": [
+        "I have",
+        "I give",
+        "I am"
+      ],
+      "answer": "I have"
+    },
+    {
+      "type": "choice",
+      "id": "B6.06.T.S10",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "Arjun was a very good ...",
+      "questionMeaning": {
+        "hi": "अर्जुन बहुत अच्छे ... थे।",
+        "hinglish": "Arjun bahut achhe ... the."
+      },
+      "options": [
+        "archer",
+        "cook",
+        "singer"
+      ],
+      "answer": "archer"
+    }
+  ]
+}

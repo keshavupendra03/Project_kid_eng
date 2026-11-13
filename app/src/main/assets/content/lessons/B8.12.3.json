@@ -1,0 +1,314 @@
+{
+  "id": "B8.12.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.12.3.S02",
+    "B8.12.3.S03",
+    "B8.12.3.S04",
+    "B8.12.3.S05",
+    "B8.12.3.S06",
+    "B8.12.3.S07",
+    "B8.12.3.S08",
+    "B8.12.3.S10",
+    "B8.12.3.S11",
+    "B8.12.3.S12",
+    "B8.12.3.S13",
+    "B8.12.3.S14"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.12.3.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 102-105 पर बातचीत पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 102-105 par baatcheet padho, phir jawab do.",
+        "en": "Read the dialogue on pages 102–105 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does the word ‘Bhil’ stand for?",
+      "questionMeaning": {
+        "hi": "‘भील’ शब्द का मतलब?",
+        "hinglish": "‘Bhil’ shabd ka matlab?"
+      },
+      "options": [
+        "bow, from the Dravidian word ‘bil’",
+        "forest",
+        "brave"
+      ],
+      "answer": "bow, from the Dravidian word ‘bil’",
+      "modelAnswer": "The word ‘Bhil’ is believed to come from the Dravidian word ‘bil’, meaning bow, which is their characteristic weapon.",
+      "modelMeaning": {
+        "hi": "माना जाता है कि ‘भील’ शब्द द्रविड़ शब्द ‘बिल’ (धनुष) से बना है, जो उनका ख़ास हथियार है।",
+        "hinglish": "Maana jaata hai ki ‘Bhil’ shabd Dravid shabd ‘bil’ (dhanush) se bana hai, jo unka khaas hathiyaar hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Name the tribal-rich areas of M.P.",
+      "questionMeaning": {
+        "hi": "म.प्र. के आदिवासी बहुल इलाक़े",
+        "hinglish": "M.P. ke aadivaasi bahul ilaake"
+      },
+      "options": [
+        "Jhabua, Dhar, Khargone, Barwani and Ratlam",
+        "Bhopal, Indore and Gwalior city",
+        "Sagar and Rewa only"
+      ],
+      "answer": "Jhabua, Dhar, Khargone, Barwani and Ratlam",
+      "modelAnswer": "The tribal-rich areas of M.P. are mainly Jhabua, Dhar, Khargone, Barwani and Ratlam districts.",
+      "modelMeaning": {
+        "hi": "म.प्र. के आदिवासी बहुल इलाक़े मुख्य रूप से झाबुआ, धार, खरगोन, बड़वानी और रतलाम ज़िले हैं।",
+        "hinglish": "M.P. ke aadivaasi bahul ilaake mukhya roop se Jhabua, Dhaar, Khargone, Badwaani aur Ratlaam zile hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is ‘Gatla’?",
+      "questionMeaning": {
+        "hi": "‘गाटला’ क्या है?",
+        "hinglish": "‘Gatla’ kya hai?"
+      },
+      "options": [
+        "a stone-carved, oil-painted memory pillar",
+        "a kind of dance",
+        "a festival food"
+      ],
+      "answer": "a stone-carved, oil-painted memory pillar",
+      "modelAnswer": "A Gatla is a stone-carved and oil-painted memory pillar. The Bhils erect it in memory of a family member who met with an unnatural death.",
+      "modelMeaning": {
+        "hi": "गाटला पत्थर पर नक़्क़ाशी किया और तेल रंग से रंगा स्मृति स्तंभ है। भील इसे अचानक मरे परिवार के सदस्य की याद में खड़ा करते हैं।",
+        "hinglish": "Gatla patthar par nakkaashi kiya aur tel rang se ranga smriti stambh hai. Bhil ise achaanak mare parivaar ke sadasya ki yaad mein khada karte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What kind of dresses do Bhil women wear?",
+      "questionMeaning": {
+        "hi": "भील औरतें कैसे कपड़े पहनती हैं?",
+        "hinglish": "Bhil auratein kaise kapde pehenti hain?"
+      },
+      "options": [
+        "colourful ghaghara with polka and kanchali",
+        "dhoti and turban",
+        "jeans and T-shirts"
+      ],
+      "answer": "colourful ghaghara with polka and kanchali",
+      "modelAnswer": "Bhil women wear colourful ghaghara with polka, kanchali and so on.",
+      "modelMeaning": {
+        "hi": "भील औरतें रंग-बिरंगा घाघरा, पोलका, कांचली आदि पहनती हैं।",
+        "hinglish": "Bhil auratein rang-biranga ghaaghra, polka, kaanchli aadi pehenti hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What are the important dance forms of the Bhils?",
+      "questionMeaning": {
+        "hi": "भीलों के मुख्य नृत्य?",
+        "hinglish": "Bheelon ke mukhya nritya?"
+      },
+      "options": [
+        "Solo, Lahari, Pali, Dandavadi, Ghodo, Dang Solo and Chalavadi",
+        "Bharatanatyam and Kathak",
+        "Garba only"
+      ],
+      "answer": "Solo, Lahari, Pali, Dandavadi, Ghodo, Dang Solo and Chalavadi"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Name tribal personalities with international recognition.",
+      "questionMeaning": {
+        "hi": "विश्व में पहचाने गए आदिवासी कलाकार",
+        "hinglish": "Vishva mein pehchaane gaye aadivaasi kalaakaar"
+      },
+      "options": [
+        "Pema Fatya, Ram Singh Urveti and Teejan Bai",
+        "Sachin Tendulkar and Lata Mangeshkar",
+        "Akbar and Birbal"
+      ],
+      "answer": "Pema Fatya, Ram Singh Urveti and Teejan Bai",
+      "modelAnswer": "Pema Fatya (Bhil artist), Ram Singh Urveti (Gond artist) and Teejan Bai (Pandvani singer) have got international recognition.",
+      "modelMeaning": {
+        "hi": "पेमा फत्या (भील कलाकार), राम सिंह उर्वेती (गोंड कलाकार) और तीजन बाई (पंडवानी गायिका) को अंतरराष्ट्रीय पहचान मिली है।",
+        "hinglish": "Pema Fatya (Bhil kalaakaar), Ram Singh Urveti (Gond kalaakaar) aur Teejan Bai (Pandvani gaayika) ko antarraashtriya pehchaan mili hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the Bhagoria Haat?",
+      "questionMeaning": {
+        "hi": "भगोरिया हाट क्या है?",
+        "hinglish": "Bhagoria Haat kya hai?"
+      },
+      "options": [
+        "a weekly market a week before Holi, celebrated with dance and gulal",
+        "a cattle fair in winter",
+        "a school sports day"
+      ],
+      "answer": "a weekly market a week before Holi, celebrated with dance and gulal",
+      "modelAnswer": "The weekly market held a week before Holi is celebrated as Bhagoria. People dance, apply gulal on the faces of relatives and friends, and offer sweets, snacks and ice-candies. Children enjoy rides on swings.",
+      "modelMeaning": {
+        "hi": "होली से एक हफ़्ते पहले लगने वाला साप्ताहिक हाट भगोरिया के रूप में मनाया जाता है। लोग नाचते हैं, रिश्तेदारों-दोस्तों को गुलाल लगाते हैं, मिठाई और नाश्ता खिलाते हैं। बच्चे झूलों का मज़ा लेते हैं।",
+        "hinglish": "Holi se ek hafte pehle lagne waala saaptaahik haat Bhagoria ke roop mein manaaya jaata hai. Log naachte hain, rishtedaaron-doston ko gulaal lagaate hain, mithaai aur naashta khilaate hain. Bachche jhoolon ka maza lete hain."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.12.3.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "(B) Yes या No में जवाब दो।",
+        "hinglish": "(B) Yes ya No mein jawab do.",
+        "en": "(B) Answer Yes or No."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Do the Bhils live in pucca houses?",
+      "questionMeaning": {
+        "hi": "क्या भील पक्के घरों में रहते हैं?",
+        "hinglish": "Kya Bhil pakke gharon mein rehte hain?"
+      },
+      "options": [
+        "No, mostly in wood and bamboo houses.",
+        "Yes, all of them."
+      ],
+      "answer": "No, mostly in wood and bamboo houses.",
+      "modelAnswer": "No. Their houses are mainly made of wood and bamboo with tiled roofs, though some people build pucca and semi-pucca houses.",
+      "modelMeaning": {
+        "hi": "नहीं। उनके घर मुख्य रूप से लकड़ी और बाँस के, खपरैल की छत वाले होते हैं; हालाँकि कुछ लोग पक्के घर भी बनाते हैं।",
+        "hinglish": "Nahi. Unke ghar mukhya roop se lakdi aur baans ke, khapraal ki chhat waale hote hain; haalaanki kuchh log pakke ghar bhi banaate hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S11",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Are they fond of tattooing?",
+      "questionMeaning": {
+        "hi": "क्या उन्हें गोदना पसंद है?",
+        "hinglish": "Kya unhe godna pasand hai?"
+      },
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes",
+      "modelAnswer": "Yes. Tattooing, called ‘Godana’, is customary among them.",
+      "modelMeaning": {
+        "hi": "हाँ। गोदना उनमें एक रिवाज़ है।",
+        "hinglish": "Haan. Godna unmein ek rivaaz hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S12",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Are the Bhils proficient in stone craft?",
+      "questionMeaning": {
+        "hi": "क्या भील पत्थर की कारीगरी में माहिर हैं?",
+        "hinglish": "Kya Bhil patthar ki kaarigari mein maahir hain?"
+      },
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes",
+      "modelAnswer": "Yes. They carve stone memory pillars called Gatla.",
+      "modelMeaning": {
+        "hi": "हाँ। वे पत्थर के गाटला स्तंभ तराशते हैं।",
+        "hinglish": "Haan. Woh patthar ke Gatla stambh taraashte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S13",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Is Teejan Bai famous for singing Pandvani?",
+      "questionMeaning": {
+        "hi": "क्या तीजन बाई पंडवानी के लिए मशहूर हैं?",
+        "hinglish": "Kya Teejan Bai Pandvani ke liye mashhoor hain?"
+      },
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "type": "choice",
+      "id": "B8.12.3.S14",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Do the Bhils like colourful dresses?",
+      "questionMeaning": {
+        "hi": "क्या भीलों को रंग-बिरंगे कपड़े पसंद हैं?",
+        "hinglish": "Kya Bheelon ko rang-birange kapde pasand hain?"
+      },
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes"
+    }
+  ]
+}

@@ -44,9 +44,12 @@ data class Mission(val id: String, val emoji: String, val needLessons: Int, val 
 /** All lesson ids in learning order, across levels. */
 val List<LevelInfo>.lessonOrder: List<String> get() = flatMap { level -> level.lessons.map { it.id } }
 
-/** assets/content/lessons/<id>.json */
+/**
+ * assets/content/lessons/<id>.json. [bookSteps] are questions copied exactly from the school textbook
+ * (they can come in the exam), shown with a "Book question" badge.
+ */
 @Serializable
-data class Lesson(val id: String, val level: Int, val steps: List<Step>)
+data class Lesson(val id: String, val level: Int, val steps: List<Step>, val bookSteps: List<String> = emptyList())
 
 /**
  * A word with its picture: "bus" + 🚌. [hindi] is the Hindi word in Devanagari (बस, सेब) and
@@ -293,7 +296,8 @@ data class Roleplay(
 /**
  * Read along: Tinku reads the passage first, then the child reads it aloud and each word turns
  * green as it is heard. [sentences] may contain "" for a paragraph break. [words] are the key
- * words taught before reading, with their Hindi meanings.
+ * words taught before reading, with their Hindi meanings. [lineMeanings], when given, has one entry
+ * per line of [sentences] (blank for a paragraph break) so the child sees what each line means.
  */
 @Serializable
 @SerialName("read_along")
@@ -303,6 +307,7 @@ data class ReadAlong(
     val title: L,
     val sentences: List<String>,
     val words: List<Word> = emptyList(),
+    val lineMeanings: List<Meaning> = emptyList(),
 ) : Step {
     /** The words the child reads, in order, with their punctuation. */
     val readingWords: List<String> get() = sentences.filter { it.isNotBlank() }.flatMap { it.split(" ") }.filter { it.isNotBlank() }
@@ -342,6 +347,97 @@ data class SpellWord(
     val typed: Boolean = false,
 ) : Step
 
+// ---------- Exercises for school textbook chapters ----------
+
+/**
+ * A written question with choices: a textbook comprehension question, a riddle, a table cell.
+ * [modelAnswer] is the full answer to write in the exam, shown and read out once answered.
+ * [emojis], if given, is a picture for each option in the same order.
+ */
+@Serializable
+@SerialName("choice")
+data class Choice(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val question: String,
+    val questionMeaning: Meaning? = null,
+    val options: List<String>,
+    val answer: String,
+    val emojis: List<String> = emptyList(),
+    val modelAnswer: String? = null,
+    val modelMeaning: Meaning? = null,
+) : Step
+
+/** One word and its meaning; [meaning] is the Hindi shown once the pair is matched. */
+@Serializable
+data class MatchPair(val left: String, val right: String, val meaning: Meaning? = null)
+
+/** Tap a word, then its meaning, until every pair is joined. */
+@Serializable
+@SerialName("match_pairs")
+data class MatchPairs(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val instruction: L,
+    val pairs: List<MatchPair>,
+) : Step
+
+/** One word of a crossword. [clue] holds ___ where the word goes. [given] words start filled in. */
+@Serializable
+data class CrosswordEntry(
+    val number: Int,
+    val answer: String,
+    val row: Int,
+    val col: Int,
+    val across: Boolean,
+    val clue: String,
+    val given: Boolean = false,
+)
+
+/** Fill each clue's blank from a word bank; the word drops into the grid. */
+@Serializable
+@SerialName("crossword")
+data class Crossword(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val rows: Int,
+    val cols: Int,
+    val entries: List<CrosswordEntry>,
+) : Step
+
+@Serializable
+data class SortGroup(val id: String, val name: String, val emoji: String, val meaning: Meaning)
+
+/** [groups] lists every group the item rightly belongs to (a crocodile is a water animal and a wild one). */
+@Serializable
+data class SortItem(val text: String, val emoji: String, val groups: List<String>)
+
+/** Put each item into its group. */
+@Serializable
+@SerialName("sort_groups")
+data class SortGroups(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val instruction: L,
+    val groups: List<SortGroup>,
+    val items: List<SortItem>,
+) : Step
+
+/** Build an English sentence from word tiles, guided by [prompt]. [also] are other right orders. */
+@Serializable
+@SerialName("build_sentence")
+data class BuildSentence(
+    override val id: String,
+    override val skills: List<String> = emptyList(),
+    val prompt: L,
+    val answer: String,
+    val meaning: Meaning,
+    val extra: List<String> = emptyList(),
+    val also: List<String> = emptyList(),
+) : Step {
+    val tiles: List<String> get() = answer.split(" ").filter { it.isNotBlank() }
+}
+
 /** Used as a reply's [RoleplayReply.next] to finish the conversation. */
 const val END_CONVERSATION = "end"
 
@@ -374,7 +470,9 @@ val Step.answerSpeech: String?
         is TeachTinku -> answer
         is StoryQuestion -> answer
         is SpellWord -> word.english
-        is LearnCard, is LearnSound, is Roleplay, is ReadAlong, is LearnWord -> null
+        is Choice -> modelAnswer ?: answer
+        is BuildSentence -> answer
+        is LearnCard, is LearnSound, is Roleplay, is ReadAlong, is LearnWord, is MatchPairs, is Crossword, is SortGroups -> null
     }
 
 /** Reading passages have their own ladder (R1.P01 …), separate from the lesson journey. */

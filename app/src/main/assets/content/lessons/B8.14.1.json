@@ -1,0 +1,200 @@
+{
+  "id": "B8.14.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.14.1.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.14.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "चंद्रशेखर आज़ाद का जन्म हमारे मध्य प्रदेश के झाबुआ ज़िले के भाबरा गाँव में हुआ था। उन्होंने क़सम खाई थी कि अंग्रेज़ उन्हें कभी ज़िंदा नहीं पकड़ पाएँगे, और उन्होंने यह क़सम निभाई।",
+        "hinglish": "Chandrashekhar Azad ka janm hamaare Madhya Pradesh ke Jhabua zile ke Bhabra gaanv mein hua tha. Unhone kasam khaayi thi ki angrez unhe kabhi zinda nahi pakad paayenge, aur unhone yeh kasam nibhaayi.",
+        "en": "Chandra Shekhar Azad was born in Bhabra village in Jhabua district of our Madhya Pradesh. He pledged that the British would never catch him alive, and he kept that pledge."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.14.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Name any freedom fighter from Madhya Pradesh.",
+      "questionMeaning": {
+        "hi": "म.प्र. का कोई स्वतंत्रता सेनानी",
+        "hinglish": "M.P. ka koi swatantrata senaani"
+      },
+      "options": [
+        "Chandra Shekhar Azad",
+        "Subhas Chandra Bose",
+        "Bhagat Singh"
+      ],
+      "answer": "Chandra Shekhar Azad",
+      "modelAnswer": "Chandra Shekhar Azad (born in Bhabra, Jhabua) and Rani Avantibai Lodhi of Ramgarh are freedom fighters from Madhya Pradesh. Tantya Bhil of Nimar also fought the British.",
+      "modelMeaning": {
+        "hi": "चंद्रशेखर आज़ाद (भाबरा, झाबुआ) और रामगढ़ की रानी अवंतीबाई लोधी म.प्र. के स्वतंत्रता सेनानी हैं। निमाड़ के टंट्या भील भी अंग्रेज़ों से लड़े।",
+        "hinglish": "Chandrashekhar Azad (Bhabra, Jhabua) aur Ramgarh ki Rani Avantibai Lodhi M.P. ke swatantrata senaani hain. Nimaad ke Tantya Bhil bhi angrezon se lade."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.14.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "ardent",
+        "emoji": "",
+        "hindi": "उत्साही, सच्चा",
+        "hinglish": "utsaahi, sachcha"
+      },
+      "meaning": "full of strong feeling",
+      "example": "He was an ardent follower of Hanuman.",
+      "exampleMeaning": {
+        "hi": "वे हनुमान के सच्चे भक्त थे।",
+        "hinglish": "Woh Hanuman ke sachche bhakt the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.14.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "disguise",
+        "emoji": "",
+        "hindi": "भेस बदलना",
+        "hinglish": "bhes badalna"
+      },
+      "meaning": "to change how you look so no one knows you",
+      "example": "He disguised himself as a priest.",
+      "exampleMeaning": {
+        "hi": "उन्होंने पुजारी का भेस बनाया।",
+        "hinglish": "Unhone pujaari ka bhes banaaya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.14.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "provoke",
+        "emoji": "",
+        "hindi": "भड़काना",
+        "hinglish": "bhadkaana"
+      },
+      "meaning": "to make someone angry",
+      "example": "His answer provoked the magistrate.",
+      "exampleMeaning": {
+        "hi": "उनके जवाब ने मजिस्ट्रेट को भड़का दिया।",
+        "hinglish": "Unke jawab ne magistrate ko bhadka diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.14.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "mentor",
+        "emoji": "",
+        "hindi": "मार्गदर्शक, गुरु",
+        "hinglish": "maargdarshak, guru"
+      },
+      "meaning": "a person who guides you",
+      "example": "Azad was the mentor of Bhagat Singh.",
+      "exampleMeaning": {
+        "hi": "आज़ाद भगत सिंह के मार्गदर्शक थे।",
+        "hinglish": "Azad Bhagat Singh ke maargdarshak the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.14.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "betray",
+        "emoji": "",
+        "hindi": "धोखा देना",
+        "hinglish": "dhokha dena"
+      },
+      "meaning": "to be disloyal to someone who trusts you",
+      "example": "An informer betrayed him.",
+      "exampleMeaning": {
+        "hi": "एक मुख़बिर ने उन्हें धोखा दिया।",
+        "hinglish": "Ek mukhbir ne unhe dhokha diya."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.14.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "valiantly",
+        "emoji": "",
+        "hindi": "बहादुरी से",
+        "hinglish": "bahaaduri se"
+      },
+      "meaning": "very bravely",
+      "example": "Azad fought valiantly.",
+      "exampleMeaning": {
+        "hi": "आज़ाद बहादुरी से लड़े।",
+        "hinglish": "Azad bahaaduri se lade."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.14.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "pledge",
+        "emoji": "",
+        "hindi": "प्रतिज्ञा, क़सम",
+        "hinglish": "pratigya, kasam"
+      },
+      "meaning": "a serious promise",
+      "example": "He kept his pledge.",
+      "exampleMeaning": {
+        "hi": "उन्होंने अपनी प्रतिज्ञा निभाई।",
+        "hinglish": "Unhone apni pratigya nibhaayi."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.14.1.S10",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "martyr",
+        "emoji": "",
+        "hindi": "शहीद",
+        "hinglish": "shaheed"
+      }
+    }
+  ]
+}

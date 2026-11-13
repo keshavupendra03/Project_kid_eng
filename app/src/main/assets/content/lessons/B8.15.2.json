@@ -1,0 +1,145 @@
+{
+  "id": "B8.15.2",
+  "level": 8,
+  "bookSteps": [
+    "B8.15.2.S01"
+  ],
+  "steps": [
+    {
+      "type": "sort_groups",
+      "id": "B8.15.2.S01",
+      "skills": [
+        "book.words"
+      ],
+      "instruction": {
+        "hi": "एक जैसी आवाज़ वाले शब्द साथ रखो",
+        "hinglish": "Ek jaisi awaaz waale shabd saath rakho",
+        "en": "Put the rhyming words together"
+      },
+      "groups": [
+        {
+          "id": "ee",
+          "name": "-ee",
+          "emoji": "🌳",
+          "meaning": {
+            "hi": "tree जैसे",
+            "hinglish": "tree jaise"
+          }
+        },
+        {
+          "id": "est",
+          "name": "-est",
+          "emoji": "🪺",
+          "meaning": {
+            "hi": "nest जैसे",
+            "hinglish": "nest jaise"
+          }
+        },
+        {
+          "id": "eep",
+          "name": "-eep",
+          "emoji": "👀",
+          "meaning": {
+            "hi": "peep जैसे",
+            "hinglish": "peep jaise"
+          }
+        },
+        {
+          "id": "aid",
+          "name": "-aid / -ade",
+          "emoji": "🥚",
+          "meaning": {
+            "hi": "laid जैसे",
+            "hinglish": "laid jaise"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "three",
+          "emoji": "3️⃣",
+          "groups": [
+            "ee"
+          ]
+        },
+        {
+          "text": "tree",
+          "emoji": "🌳",
+          "groups": [
+            "ee"
+          ]
+        },
+        {
+          "text": "free",
+          "emoji": "🕊️",
+          "groups": [
+            "ee"
+          ]
+        },
+        {
+          "text": "best",
+          "emoji": "🥇",
+          "groups": [
+            "est"
+          ]
+        },
+        {
+          "text": "rest",
+          "emoji": "😴",
+          "groups": [
+            "est"
+          ]
+        },
+        {
+          "text": "chest",
+          "emoji": "🧰",
+          "groups": [
+            "est"
+          ]
+        },
+        {
+          "text": "peep",
+          "emoji": "👀",
+          "groups": [
+            "eep"
+          ]
+        },
+        {
+          "text": "keep",
+          "emoji": "🔑",
+          "groups": [
+            "eep"
+          ]
+        },
+        {
+          "text": "beep",
+          "emoji": "📢",
+          "groups": [
+            "eep"
+          ]
+        },
+        {
+          "text": "laid",
+          "emoji": "🥚",
+          "groups": [
+            "aid"
+          ]
+        },
+        {
+          "text": "afraid",
+          "emoji": "😨",
+          "groups": [
+            "aid"
+          ]
+        },
+        {
+          "text": "grade",
+          "emoji": "🅰️",
+          "groups": [
+            "aid"
+          ]
+        }
+      ]
+    }
+  ]
+}

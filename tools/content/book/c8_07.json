@@ -1,0 +1,204 @@
+{
+  "grade": 8, "number": 7, "emoji": "🌊", "title": "Water Water Everywhere", "pages": "56–65",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": false,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["तेज़ बारिश के दिन गाँव के स्कूल के हेडमास्टर बच्चों को बाढ़ के कारण, नुक़सान और बचाव के तरीक़े बताते हैं। यह पाठ तुम्हारी जान भी बचा सकता है!", "Tez baarish ke din gaanv ke school ke headmaster bachchon ko baadh ke kaaran, nuksaan aur bachaav ke tareeqe bataate hain. Yeh paath tumhari jaan bhi bacha sakta hai!", "On a very rainy day, a village headmaster tells students the causes and effects of floods, and how to stay safe. This lesson could save your life!"]},
+        {"book": true, "q": ["What happens when it rains heavily?", "तेज़ बारिश होने पर क्या होता है?", "Tez baarish hone par kya hota hai?", ["Rivers rise and there can be floods.", "It becomes very hot.", "Nothing happens."], "Rivers rise and there can be floods.", "When it rains heavily, rivers and streams overflow, roads get blocked, and there can be floods.", "तेज़ बारिश में नदी-नाले उफ़न जाते हैं, रास्ते बंद हो जाते हैं और बाढ़ आ सकती है।", "Tez baarish mein nadi-naale ufan jaate hain, raaste band ho jaate hain aur baadh aa sakti hai."]},
+        {"book": true, "q": ["What will you do in case there is a flood?", "बाढ़ आए तो तुम क्या करोगे?", "Baadh aaye to tum kya karoge?", ["Move to a higher, safe place with my family.", "Go near the river to watch.", "Climb a tree."], "Move to a higher, safe place with my family.", "In case of a flood, I will not panic. I will move with my family to a higher, safe place like the school building.", "बाढ़ आने पर मैं घबराऊँगा नहीं। परिवार के साथ ऊँची, सुरक्षित जगह जैसे स्कूल भवन में चला जाऊँगा।", "Baadh aane par main ghabraaunga nahi. Parivaar ke saath oonchi, surakshit jagah jaise school bhavan mein chala jaaunga."]},
+        {"q": ["‘It's raining cats and dogs’ means ...", "इस मुहावरे का मतलब?", "Is muhaavare ka matlab?", ["It is raining heavily.", "Cats and dogs are falling.", "Animals are playing in the rain."], "It is raining heavily."]},
+        {"word": ["disaster", "आपदा", "aapda", "a sudden event that causes great damage", "A flood is a disaster.", "बाढ़ एक आपदा है।", "Baadh ek aapda hai."]},
+        {"word": ["cloudburst", "बादल फटना", "baadal phatna", "very heavy rain in a short time", "A cloudburst can cause floods.", "बादल फटने से बाढ़ आ सकती है।", "Baadal phatne se baadh aa sakti hai."]},
+        {"word": ["embankment", "तटबंध", "tatbandh", "a wall of earth along a river", "The river broke the embankment.", "नदी ने तटबंध तोड़ दिया।", "Nadi ne tatbandh tod diya."]},
+        {"word": ["epidemic", "महामारी", "mahaamaari", "a disease that spreads to many people", "Cholera can become an epidemic.", "हैज़ा महामारी बन सकता है।", "Haiza mahaamaari ban sakta hai."]},
+        {"word": ["panicky", "घबराया हुआ", "ghabraaya hua", "very afraid and unable to think", "Don't get panicky.", "घबराओ मत।", "Ghabraao mat."]},
+        {"word": ["veterinary", "पशु-चिकित्सा का", "pashu-chikitsa ka", "about the treatment of animals", "Take the cattle to a veterinary hospital.", "पशुओं को पशु-अस्पताल ले जाओ।", "Pashuon ko pashu-aspataal le jaao."]},
+        {"sayw": ["disaster", "आपदा", "aapda"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "👂", "title": ["शब्द शक्ति: एक जैसी आवाज़ वाले शब्द", "Shabd Shakti: ek jaisi awaaz waale shabd", "Word Power: homophones"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["Homophones: बोलने में एक जैसे, पर मतलब और स्पेलिंग अलग: hear (सुनना) – here (यहाँ), weather (मौसम) – whether (क्या/कि)।", "Homophones: bolne mein ek jaise, par matlab aur spelling alag: hear (sunna) – here (yahan), weather (mausam) – whether (kya/ki).", "Homophones sound the same but have different meanings and spellings: hear – here, weather – whether."]},
+        {"book": true, "pairs": ["एक जैसी आवाज़ वाले शब्द जोड़ो", "Ek jaisi awaaz waale shabd jodo", "Join the homophones", [
+          ["steel", "steal", "इस्पात — चुराना", "ispaat — churaana"],
+          ["due", "dew", "बाक़ी/देय — ओस", "baaki/dey — os"],
+          ["knew", "new", "जानता था — नया", "jaanta tha — naya"],
+          ["way", "weigh", "रास्ता — तौलना", "raasta — taulna"]]]},
+        {"book": true, "pairs": ["एक जैसी आवाज़ वाले शब्द जोड़ो", "Ek jaisi awaaz waale shabd jodo", "Join the homophones", [
+          ["aloud", "allowed", "ज़ोर से — इजाज़त दी", "zor se — ijaazat di"],
+          ["pain", "pane", "दर्द — शीशे का पल्ला", "dard — sheeshe ka palla"],
+          ["our", "hour", "हमारा — घंटा", "hamaara — ghanta"]]]},
+        {"fb": ["The ___ on the grass shines in the morning.", "dew", ["dew", "due"], "सुबह घास पर ओस चमकती है।", "Subah ghaas par os chamakti hai."]},
+        {"fb": ["Please ___ these apples.", "weigh", ["weigh", "way"], "कृपया ये सेब तौल दो।", "Kripya yeh seb taul do."]},
+        {"fb": ["The thief tried to ___ my bag.", "steal", ["steal", "steel"], "चोर ने मेरा बैग चुराने की कोशिश की।", "Chor ne mera bag churaane ki koshish ki."]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 56-58 पर बातचीत पढ़ो, फिर जवाब दो।", "Apni kitaab mein page 56-58 par baatcheet padho, phir jawab do.", "Read the dialogue on pages 56–58 of your book, then answer."]},
+        {"book": true, "q": ["What is a disaster?", "आपदा क्या है?", "Aapda kya hai?", ["an unexpected event like a flood or fire that causes great damage", "a big festival", "a kind of rain"], "an unexpected event like a flood or fire that causes great damage", "A disaster is an unexpected event, such as an accident, a flood or a fire. It kills or injures a lot of people or causes a lot of damage to property.", "आपदा एक अचानक होने वाली घटना है, जैसे दुर्घटना, बाढ़ या आग। इसमें बहुत लोग मरते या घायल होते हैं, या संपत्ति का बहुत नुक़सान होता है।", "Aapda ek achaanak hone waali ghatna hai, jaise durghatna, baadh ya aag. Ismein bahut log marte ya ghaayal hote hain, ya sampatti ka bahut nuksaan hota hai."]},
+        {"book": true, "q": ["What are epidemics?", "महामारी क्या है?", "Mahaamaari kya hai?", ["infectious diseases that spread over a large population", "heavy rains", "broken dams"], "infectious diseases that spread over a large population", "Epidemics are infectious diseases which spread over a large population through contaminated water, food and air.", "महामारी ऐसी संक्रामक बीमारियाँ हैं जो गंदे पानी, खाने और हवा से बहुत लोगों में फैलती हैं।", "Mahaamaari aisi sankraamak beemaariyaan hain jo gande paani, khaane aur hawa se bahut logon mein phailti hain."]},
+        {"book": true, "q": ["What are the ill effects of floods?", "बाढ़ के बुरे असर क्या हैं?", "Baadh ke bure asar kya hain?", ["loss of life and property, epidemics and soil erosion", "more fish for everyone", "cooler weather"], "loss of life and property, epidemics and soil erosion", "The ill effects of floods are destruction of life and property, epidemics like cholera and malaria, and soil erosion.", "बाढ़ से जान-माल का नुक़सान, हैज़ा-मलेरिया जैसी महामारियाँ और मिट्टी का कटाव होता है।", "Baadh se jaan-maal ka nuksaan, haiza-malaria jaisi mahaamaariyaan aur mitti ka kataav hota hai."]},
+        {"book": true, "q": ["How are human beings responsible for causing floods?", "बाढ़ के लिए इंसान कैसे ज़िम्मेदार हैं?", "Baadh ke liye insaan kaise zimmedaar hain?", ["by deforestation, faulty dams and breaches in embankments", "by planting trees", "by saving water"], "by deforestation, faulty dams and breaches in embankments", "Human beings cause floods by deforestation, faulty dam construction and breaches in embankments, for example by railway routes near river banks.", "इंसान जंगल काटकर, गलत बाँध बनाकर और तटबंधों में दरार डालकर (जैसे नदी किनारे रेल लाइन) बाढ़ का कारण बनते हैं।", "Insaan jungle kaatkar, galat baandh banaakar aur tatbandhon mein daraar daalkar (jaise nadi kinaare rail line) baadh ka kaaran bante hain."]},
+        {"book": true, "q": ["How is our life affected by floods?", "बाढ़ से हमारी ज़िंदगी पर क्या असर होता है?", "Baadh se hamaari zindagi par kya asar hota hai?", ["We lose homes, cattle and health, and diseases spread.", "We get a long holiday only.", "Nothing changes."], "We lose homes, cattle and health, and diseases spread.", "Floods destroy our homes, crops and cattle. Diseases like cholera, malaria and diarrhoea spread, and the soil is washed away.", "बाढ़ से घर, फ़सलें और पशु बर्बाद होते हैं। हैज़ा, मलेरिया, दस्त जैसी बीमारियाँ फैलती हैं और मिट्टी बह जाती है।", "Baadh se ghar, fasalein aur pashu barbaad hote hain. Haiza, malaria, dast jaisi beemaariyaan phailti hain aur mitti beh jaati hai."]},
+        {"card": ["(B) बाढ़ में बचाव के तरीक़े: सही को ‘करो’ में, गलत को ‘मत करो’ में रखो।", "(B) Baadh mein bachaav ke tareeqe: sahi ko ‘karo’ mein, galat ko ‘mat karo’ mein rakho.", "(B) Safety measures during a flood: put each one in Do or Don't."]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["बाढ़ में क्या करें, क्या न करें?", "Baadh mein kya karein, kya na karein?", "In a flood: do or don't?"],
+          "groups": [
+            {"id": "do", "name": "Do", "emoji": "✅", "meaning": ["करो", "karo"]},
+            {"id": "dont", "name": "Don't", "emoji": "⛔", "meaning": ["मत करो", "mat karo"]}
+          ],
+          "items": [
+            {"text": "stay calm", "emoji": "😌", "groups": ["do"]},
+            {"text": "move to a higher place", "emoji": "⛰️", "groups": ["do"]},
+            {"text": "free the cattle", "emoji": "🐄", "groups": ["do"]},
+            {"text": "take a torch and food", "emoji": "🔦", "groups": ["do"]},
+            {"text": "go near the river", "emoji": "🌊", "groups": ["dont"]},
+            {"text": "climb a tree", "emoji": "🌳", "groups": ["dont"]},
+            {"text": "get panicky", "emoji": "😱", "groups": ["dont"]}
+          ]},
+        {"book": true, "q": ["(C) What are the ways to purify drinking water?", "पीने का पानी कैसे साफ़ करें?", "Peene ka paani kaise saaf karein?", ["Use chlorine tablets or boil it.", "Add sugar.", "Keep it in the sun for a minute."], "Use chlorine tablets or boil it.", "We can purify drinking water by using chlorine tablets or by boiling it.", "पीने का पानी क्लोरीन की गोली डालकर या उबालकर साफ़ कर सकते हैं।", "Peene ka paani chlorine ki goli daalkar ya ubaalkar saaf kar sakte hain."]}
+      ]
+    },
+    {
+      "emoji": "🔗", "title": ["सीखो (A): and, but, or", "Seekho (A): and, but, or", "Let's Learn (A): and, but, or"], "book": true,
+      "skills": ["book.grammar", "grammar.conjunctions"],
+      "steps": [
+        {"card": ["and = मिलती-जुलती बातें, but = उल्टी बातें, or = विकल्प या चेतावनी (वरना)। You must take care, or you will fall sick.", "and = milti-julti baatein, but = ulti baatein, or = vikalp ya chetaavni (varna). You must take care, or you will fall sick.", "and joins similar ideas, but joins opposite ideas, or joins alternatives (or a warning). You must take care, or you will fall sick."]},
+        {"book": true, "fb": ["Give me a pen ___ a pencil.", "or", ["or", "but", "and"], "मुझे पेन या पेंसिल दो।", "Mujhe pen ya pencil do."]},
+        {"book": true, "fb": ["He works very hard ___ he gets a low salary.", "but", ["but", "and", "or"], "वह बहुत मेहनत करता है पर उसे कम तनख़्वाह मिलती है।", "Woh bahut mehnat karta hai par use kam tankhwaah milti hai."]},
+        {"book": true, "fb": ["Hurry up ___ you will be late.", "or", ["or", "and", "but"], "जल्दी करो वरना देर हो जाएगी।", "Jaldi karo varna der ho jaayegi."]},
+        {"book": true, "fb": ["We knocked at the door ___ no one answered.", "but", ["but", "or", "and"], "हमने दरवाज़ा खटखटाया पर किसी ने जवाब नहीं दिया।", "Humne darwaaza khatkhataaya par kisi ne jawab nahi diya."]},
+        {"book": true, "fb": ["Man discovered fire ___ he learnt to cook.", "and", ["and", "or", "but"], "इंसान ने आग खोजी और खाना पकाना सीखा।", "Insaan ne aag khoji aur khaana pakaana seekha."]},
+        {"book": true, "fb": ["He is slow ___ sure.", "but", ["but", "or", "and"], "वह धीमा है पर पक्का है।", "Woh dheema hai par pakka hai."]},
+        {"book": true, "fb": ["Sanjana worked hard ___ she won a scholarship.", "and", ["and", "but", "or"], "संजना ने मेहनत की और उसे छात्रवृत्ति मिली।", "Sanjana ne mehnat ki aur use chhaatravritti mili."]},
+        {"book": true, "fb": ["Priya can come early ___ Reshma can't.", "but", ["but", "and", "or"], "प्रिया जल्दी आ सकती है पर रेशमा नहीं।", "Priya jaldi aa sakti hai par Reshma nahi."]},
+        {"book": true, "fb": ["Abu should go home early ___ his mother will be worried.", "or", ["or", "and", "but"], "अबू को जल्दी घर जाना चाहिए वरना माँ चिंता करेंगी।", "Abu ko jaldi ghar jaana chahiye varna maa chinta karengi."]},
+        {"book": true, "fb": ["Sunil must learn to use a computer ___ he will not get a good job.", "or", ["or", "and", "but"], "सुनील को कंप्यूटर सीखना होगा वरना अच्छी नौकरी नहीं मिलेगी।", "Sunil ko computer seekhna hoga varna achhi naukri nahi milegi."]}
+      ]
+    },
+    {
+      "emoji": "🔁", "title": ["सीखो (B): उपसर्ग (prefix)", "Seekho (B): upsarg (prefix)", "Let's Learn (B): prefixes"], "book": true,
+      "skills": ["book.grammar", "grammar.prefix_suffix"],
+      "steps": [
+        {"card": ["in, un, dis, non = नहीं; over = बहुत ज़्यादा; re = फिर से; fore = पहले। जैसे: redo (फिर करना), overeat (ज़्यादा खाना)।", "in, un, dis, non = nahi; over = bahut zyaada; re = phir se; fore = pehle. Jaise: redo (phir karna), overeat (zyaada khaana).", "in, un, dis, non = not; over = too much; re = again; fore = before. Example: redo, overeat."]},
+        {"book": true, "fb": ["Many drivers ___ the speed restriction on roads. (obey)", "disobey", ["disobey", "unobey", "reobey"], "बहुत से ड्राइवर सड़क पर गति सीमा नहीं मानते।", "Bahut se driver sadak par gati seema nahi maante."]},
+        {"book": true, "fb": ["I had to ___ the directions because I couldn't understand them. (read)", "reread", ["reread", "overread", "unread"], "मुझे निर्देश फिर से पढ़ने पड़े क्योंकि समझ नहीं आए।", "Mujhe nirdesh phir se padhne pade kyonki samajh nahi aaye."]},
+        {"book": true, "fb": ["The garden hasn't been mown, so weeds have ___. (grown)", "overgrown", ["overgrown", "regrown", "ungrown"], "बग़ीचे की घास नहीं कटी, इसलिए खरपतवार बहुत बढ़ गई है।", "Bageeche ki ghaas nahi kati, isliye kharpatwaar bahut badh gayi hai."]},
+        {"book": true, "fb": ["I ___ the ball she had lost. (placed)", "replaced", ["replaced", "displaced", "overplaced"], "उसकी खोई गेंद की जगह मैंने नई गेंद दे दी।", "Uski khoyi gend ki jagah maine nayi gend de di."]},
+        {"book": true, "fb": ["These slippers are made of ___ plastic. (cycled)", "recycled", ["recycled", "uncycled", "overcycled"], "ये चप्पलें दोबारा इस्तेमाल हुए प्लास्टिक से बनी हैं।", "Yeh chappalein dobaara istemaal hue plastic se bani hain."]},
+        {"card": ["(b) fore = पहले: forecast (पहले से अनुमान), foretell (भविष्य बताना), forenoon (दोपहर से पहले), forefront (सबसे आगे), forefathers (पूर्वज)।", "(b) fore = pehle: forecast (pehle se anumaan), foretell (bhavishya bataana), forenoon (dopahar se pehle), forefront (sabse aage), forefathers (poorvaj).", "(b) fore = before: forecast, foretell, forenoon, forefront, forefathers."]},
+        {"book": true, "type": "crossword", "entries": [
+          {"number": 1, "answer": "forecast", "across": true, "clue": "According to last evening's weather ___, it may rain today."},
+          {"number": 2, "answer": "foretell", "across": false, "clue": "Astrologers claim that they can ___ your future."},
+          {"number": 3, "answer": "forenoon", "across": true, "clue": "He has applied for half a day's leave in the ___ today."},
+          {"number": 4, "answer": "forefront", "across": false, "clue": "A true leader is always in the ___."},
+          {"number": 5, "answer": "forefathers", "across": true, "clue": "We don't often realise that we owe a lot to our ___."}
+        ]}
+      ]
+    },
+    {
+      "emoji": "🧱", "title": ["सीखो (C): वाक्य सही क्रम में लगाओ", "Seekho (C): vaakya sahi kram mein lagaao", "Let's Learn (C): rearrange the words"], "book": true,
+      "skills": ["book.grammar", "grammar.word_order"],
+      "steps": [
+        {"book": true, "build": ["कीटनाशक छिड़कना ज़रूरी है।", "Keetnaashak chhidakna zaroori hai.", "Arrange: important / spray / it / pesticides / is / to", "It is important to spray pesticides.", "कीटनाशक छिड़कना ज़रूरी है।", "Keetnaashak chhidakna zaroori hai."]},
+        {"book": true, "build": ["पानी साफ़ करने के लिए क्लोरीन की गोलियाँ इस्तेमाल करो।", "Paani saaf karne ke liye chlorine ki goliyaan istemaal karo.", "Arrange: purify / to / water / use / chlorine / tablets", "Use chlorine tablets to purify water.", "पानी साफ़ करने के लिए क्लोरीन की गोलियाँ इस्तेमाल करो।", "Paani saaf karne ke liye chlorine ki goliyaan istemaal karo."]},
+        {"book": true, "build": ["इलाज से बचाव बेहतर है।", "Ilaaj se bachaav behtar hai.", "Arrange: cure / prevention / is / than / better", "Prevention is better than cure.", "इलाज से बचाव बेहतर है।", "Ilaaj se bachaav behtar hai."]},
+        {"book": true, "build": ["मूसलाधार बारिश हो रही है।", "Moosladhaar baarish ho rahi hai.", "Arrange: dogs / raining / cats / is / it / and", "It is raining cats and dogs.", "मूसलाधार बारिश हो रही है।", "Moosladhaar baarish ho rahi hai."]},
+        {"book": true, "build": ["बाँध हमारे लिए उपयोगी हैं।", "Baandh hamaare liye upyogi hain.", "Arrange: useful / are / dams / us / for", "Dams are useful for us.", "बाँध हमारे लिए उपयोगी हैं।", "Baandh hamaare liye upyogi hain."]},
+        {"book": true, "build": ["हमें ज़्यादा पेड़ लगाने चाहिए।", "Humein zyaada ped lagaane chahiye.", "Arrange: should / plant / trees / we / more", "We should plant more trees.", "हमें ज़्यादा पेड़ लगाने चाहिए।", "Humein zyaada ped lagaane chahiye."]}
+      ]
+    },
+    {
+      "emoji": "🎫", "title": ["चलो बात करें: रेल टिकट", "Chalo baat karein: rail ticket", "Let's Talk: a railway ticket"], "book": false,
+      "skills": ["book.talk", "read.understand"],
+      "steps": [
+        {"card": ["किताब के पेज 62 पर एक रेल टिकट की तस्वीर है। यहाँ अभ्यास के लिए एक टिकट है: टिकट नं. 45821, भोपाल से जबलपुर, 2 यात्री, किराया ₹ 320, दूरी 336 किमी।", "Kitaab ke page 62 par ek rail ticket ki tasveer hai. Yahan abhyaas ke liye ek ticket hai: ticket no. 45821, Bhopal se Jabalpur, 2 yaatri, kiraaya ₹ 320, doori 336 km.", "Page 62 of your book has a picture of a railway ticket. Here is a practice ticket: Ticket No. 45821, Bhopal to Jabalpur, 2 passengers, fare ₹ 320, distance 336 km."]},
+        {"q": ["How many people travelled on this ticket?", "इस टिकट पर कितने लोग गए?", "Is ticket par kitne log gaye?", ["two", "one", "five"], "two"]},
+        {"q": ["What is the fare?", "किराया कितना है?", "Kiraaya kitna hai?", ["₹ 320", "₹ 45821", "336 km"], "₹ 320"]},
+        {"q": ["Where did they board the train?", "उन्होंने ट्रेन कहाँ से पकड़ी?", "Unhone train kahan se pakdi?", ["Bhopal", "Jabalpur", "Indore"], "Bhopal"]},
+        {"q": ["What is the distance between the two stations?", "दोनों स्टेशनों के बीच दूरी?", "Dono stationon ke beech doori?", ["336 km", "320 km", "45 km"], "336 km"]},
+        {"card": ["अब अपनी किताब के टिकट को देखकर यही छह सवाल अपने साथी से पूछो।", "Ab apni kitaab ke ticket ko dekhkar yahi chhah sawaal apne saathi se poochho.", "Now look at the ticket in your book and ask your partner the same six questions."]}
+      ]
+    },
+    {
+      "emoji": "🦟", "title": ["चलो पढ़ें: मच्छरों से होने वाली बीमारियाँ", "Chalo padhein: machchharon se hone waali beemaariyaan", "Let's Read: diseases from mosquitoes"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 62-63 पर डेंगू, मलेरिया और चिकनगुनिया वाला पैराग्राफ़ पढ़ो।", "Apni kitaab mein page 62-63 par dengue, malaria aur chikungunya waala paragraph padho.", "Read the passage about dengue, malaria and chikungunya on pages 62–63 of your book."]},
+        {"book": true, "q": ["Name the diseases mentioned in the passage.", "पैराग्राफ़ में कौन सी बीमारियाँ हैं?", "Paragraph mein kaun si beemaariyaan hain?", ["dengue, malaria and chikungunya", "cold, cough and flu", "polio and measles"], "dengue, malaria and chikungunya"]},
+        {"book": true, "q": ["Is there any vaccine for these diseases?", "क्या इनका कोई टीका है?", "Kya inka koi teeka hai?", ["No, there is no vaccine for all these diseases.", "Yes, one vaccine for all.", "Yes, a tablet."], "No, there is no vaccine for all these diseases."]},
+        {"book": true, "q": ["What should we do if we have fever?", "बुख़ार हो तो क्या करें?", "Bukhaar ho to kya karein?", ["See a doctor and get a lab test.", "Ignore it.", "Eat spicy food."], "See a doctor and get a lab test.", "If we have fever, we should go to a doctor. Only a doctor, after laboratory tests, can find out which disease it is.", "बुख़ार हो तो डॉक्टर के पास जाना चाहिए। सिर्फ़ डॉक्टर ही जाँच के बाद बीमारी पहचान सकते हैं।", "Bukhaar ho to doctor ke paas jaana chahiye. Sirf doctor hi jaanch ke baad beemaari pehchaan sakte hain."]},
+        {"book": true, "q": ["Which is a preventive measure against these diseases?", "बचाव का कौन सा तरीक़ा सही है?", "Bachaav ka kaun sa tareeqa sahi hai?", ["Drain stagnant water from coolers and pots.", "Keep water standing in coolers.", "Sleep without a net."], "Drain stagnant water from coolers and pots.", "Use mosquito nets, wear protective clothing, don't let water stagnate, drain coolers and potted plants, and spray pesticides.", "मच्छरदानी लगाओ, पूरे कपड़े पहनो, पानी जमा न होने दो, कूलर और गमलों का पानी निकालो, और दवा छिड़को।", "Machchhardaani lagaao, poore kapde pehno, paani jama na hone do, cooler aur gamlon ka paani nikaalo, aur dava chhidko."]},
+        {"card": ["(5) उलझे अक्षर ठीक करके शब्द बनाओ।", "(5) Uljhe akshar theek karke shabd banao.", "(5) Arrange the jumbled letters to make words."]},
+        {"book": true, "q": ["sediases → ?", "अक्षर सुलझाओ", "Akshar suljhaao", ["diseases", "seasides", "decides"], "diseases"]},
+        {"book": true, "q": ["aidrn → ?", "अक्षर सुलझाओ", "Akshar suljhaao", ["drain", "rain", "dinar"], "drain"]},
+        {"book": true, "q": ["alamiar → ?", "अक्षर सुलझाओ", "Akshar suljhaao", ["malaria", "alarm", "Malaria Day"], "malaria"]},
+        {"book": true, "q": ["vefer → ?", "अक्षर सुलझाओ", "Akshar suljhaao", ["fever", "never", "fewer"], "fever"]}
+      ]
+    },
+    {
+      "emoji": "🤒", "title": ["चलो लिखें: कक्षा का सर्वे", "Chalo likhein: kaksha ka survey", "Let's Write: a class survey"], "book": true,
+      "skills": ["book.writing", "book.talk"],
+      "steps": [
+        {"card": ["किताब: कक्षा में घूमकर दोस्तों से ये सवाल पूछो और तालिका भरो। पहले Tinku तुमसे पूछेगा।", "Kitaab: kaksha mein ghoomkar doston se yeh sawaal poochho aur taalika bharo. Pehle Tinku tumse poochhega.", "The book: go round the class, ask these questions and fill in the table. First, Tinku will ask you."]},
+        {"book": true, "type": "roleplay", "scene": "📋", "turns": [
+          {"id": "had", "tinku": "Have you ever had flu or fever?", "meaning": ["क्या तुम्हें कभी फ़्लू या बुख़ार हुआ है?", "Kya tumhe kabhi flu ya bukhaar hua hai?"],
+            "replies": [
+              {"say": "Yes, I have.", "meaning": ["हाँ, हुआ है।", "Haan, hua hai."], "patterns": ["yes i have", "yes *", "yes"]},
+              {"say": "No, I haven't.", "meaning": ["नहीं, नहीं हुआ।", "Nahi, nahi hua."], "patterns": ["no i havent", "no i have not", "no *", "no"], "next": "end"}
+            ]},
+          {"id": "bed", "tinku": "How long were you in bed?", "meaning": ["तुम कितने दिन बिस्तर पर रहे?", "Tum kitne din bistar par rahe?"],
+            "replies": [
+              {"say": "I was in bed for three days.", "meaning": ["मैं तीन दिन बिस्तर पर रहा।", "Main teen din bistar par raha."], "patterns": ["i was in bed for *", "for * days", "* days", "*"]}
+            ]},
+          {"id": "medicine", "tinku": "What medicine was prescribed?", "meaning": ["कौन सी दवा दी गई?", "Kaun si dava di gayi?"],
+            "replies": [
+              {"say": "Tablets were prescribed.", "meaning": ["गोलियाँ दी गईं।", "Goliyaan di gayin."], "patterns": ["tablets *", "tablets", "* tablets *"]},
+              {"say": "An injection was given.", "meaning": ["इंजेक्शन लगा।", "Injection laga."], "patterns": ["an injection *", "* injection *", "injection"]}
+            ]},
+          {"id": "care", "tinku": "What precautions were you supposed to take?", "meaning": ["तुम्हें क्या सावधानियाँ रखनी थीं?", "Tumhe kya saavdhaaniyaan rakhni thin?"],
+            "replies": [
+              {"say": "I was told not to eat spicy food.", "meaning": ["मुझे तीखा न खाने को कहा गया।", "Mujhe teekha na khaane ko kaha gaya."], "patterns": ["i was told *", "no spicy food", "* spicy *", "* * *"], "next": "end"}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "🩹", "title": ["चलो करके देखें: फ़र्स्ट एड किट", "Chalo karke dekhein: first aid kit", "Let's Do It: a first aid kit"], "book": true,
+      "skills": ["book.activity", "vocab.meaning"],
+      "steps": [
+        {"card": ["किताब: टीचर और दोस्तों की मदद से कक्षा के लिए फ़र्स्ट एड किट बनाओ। किताब में सामान की सूची है।", "Kitaab: teacher aur doston ki madad se kaksha ke liye first aid kit banao. Kitaab mein saamaan ki soochi hai.", "The book: make a first aid kit for your class with your teacher and friends. The book lists the items."]},
+        {"book": true, "pairs": ["सामान को उसके काम से जोड़ो", "Saamaan ko uske kaam se jodo", "Join each item to its use", [
+          ["antiseptic lotion", "cleans a wound", "घाव साफ़ करने का घोल", "ghaav saaf karne ka ghol"],
+          ["bandage", "covers a wound", "पट्टी", "patti"],
+          ["thermometer", "checks fever", "थर्मामीटर — बुख़ार नापना", "thermometer — bukhaar naapna"],
+          ["tweezers", "pulls out a thorn", "चिमटी — काँटा निकालना", "chimti — kaanta nikaalna"],
+          ["scissors", "cuts the bandage", "कैंची — पट्टी काटना", "kainchi — patti kaatna"]]]},
+        {"q": ["Medicines should be given only ...", "दवा कब देनी चाहिए?", "Dava kab deni chahiye?", ["by an adult or a doctor", "by any child", "without asking"], "by an adult or a doctor"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 7 का टेस्ट", "Paath 7 ka test", "Lesson 7 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["What are epidemics?", "महामारी क्या है?", "Mahaamaari kya hai?", ["infectious diseases that spread over a large population", "heavy rains", "broken dams"], "infectious diseases that spread over a large population"]},
+        {"book": true, "q": ["How can we purify drinking water?", "पानी कैसे साफ़ करें?", "Paani kaise saaf karein?", ["Use chlorine tablets or boil it.", "Add sugar.", "Keep it in the sun for a minute."], "Use chlorine tablets or boil it."]},
+        {"book": true, "q": ["During a flood, should we climb a tree?", "क्या पेड़ पर चढ़ें?", "Kya ped par chadhein?", ["No, move to a higher place like a school building.", "Yes, always.", "Yes, the tallest tree."], "No, move to a higher place like a school building."]},
+        {"book": true, "skills": ["book.words"], "q": ["The homophone of ‘our’ is ...", "समान आवाज़ वाला शब्द", "Samaan awaaz waala shabd", ["hour", "are", "ore"], "hour"]},
+        {"book": true, "skills": ["book.words"], "q": ["The homophone of ‘pain’ is ...", "समान आवाज़ वाला शब्द", "Samaan awaaz waala shabd", ["pane", "paint", "pan"], "pane"]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["Hurry up ___ you will be late.", "or", ["or", "and", "but"], "जल्दी करो वरना देर हो जाएगी।", "Jaldi karo varna der ho jaayegi."]},
+        {"book": true, "skills": ["book.grammar", "grammar.conjunctions"], "fb": ["He is slow ___ sure.", "but", ["but", "or", "and"], "वह धीमा है पर पक्का है।", "Woh dheema hai par pakka hai."]},
+        {"book": true, "skills": ["book.grammar", "grammar.prefix_suffix"], "q": ["Astrologers claim they can ___ your future.", "fore- वाला शब्द", "fore- waala shabd", ["foretell", "forecast", "forenoon"], "foretell"]},
+        {"book": true, "skills": ["book.grammar", "grammar.prefix_suffix"], "q": ["Many drivers ___ the speed limit. (obey)", "उपसर्ग", "Upsarg", ["disobey", "unobey", "reobey"], "disobey"]},
+        {"book": true, "q": ["vefer → ?", "अक्षर सुलझाओ", "Akshar suljhaao", ["fever", "never", "fewer"], "fever"]}
+      ]
+    }
+  ]
+}

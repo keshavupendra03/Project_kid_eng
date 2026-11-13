@@ -1,0 +1,190 @@
+{
+  "id": "B8.10.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.10.3.S02",
+    "B8.10.3.S04",
+    "B8.10.3.S05",
+    "B8.10.3.S06",
+    "B8.10.3.S07",
+    "B8.10.3.S08"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.10.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(A) कविता से तुकबंदी वाले शब्द ढूँढो।",
+        "hinglish": "(A) Kavita se tukbandi waale shabd dhoondho.",
+        "en": "(A) Find the rhyming words in the poem."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.10.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "कविता से तुकबंदी वाला शब्द जोड़ो",
+        "hinglish": "Kavita se tukbandi waala shabd jodo",
+        "en": "Join each word to its rhyme from the poem"
+      },
+      "pairs": [
+        {
+          "left": "folds",
+          "right": "holds",
+          "meaning": {
+            "hi": "मोड़ता — पकड़ता",
+            "hinglish": "modta — pakadta"
+          }
+        },
+        {
+          "left": "funny",
+          "right": "sunny",
+          "meaning": {
+            "hi": "मज़ेदार — धूप वाला",
+            "hinglish": "mazedaar — dhoop waala"
+          }
+        },
+        {
+          "left": "dining",
+          "right": "shining",
+          "meaning": {
+            "hi": "खाना खाना — चमकना",
+            "hinglish": "khaana khaana — chamakna"
+          }
+        },
+        {
+          "left": "mug",
+          "right": "tug",
+          "meaning": {
+            "hi": "मग — खींचना",
+            "hinglish": "mug — kheenchna"
+          }
+        },
+        {
+          "left": "failing",
+          "right": "sailing",
+          "meaning": {
+            "hi": "फ़ेल होना — तैरना",
+            "hinglish": "fail hona — tairna"
+          }
+        }
+      ]
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.10.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(B) घेरे वाले शब्द (cart, sky, market, balloon, string) सही मतलब के आगे लिखो।",
+        "hinglish": "(B) Ghere waale shabd (cart, sky, market, balloon, string) sahi matlab ke aage likho.",
+        "en": "(B) Write the circled words (cart, sky, market, balloon, string) against their meanings."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "where things are sold",
+      "questionMeaning": {
+        "hi": "जहाँ चीज़ें बिकती हैं",
+        "hinglish": "Jahan cheezein bikti hain"
+      },
+      "options": [
+        "market",
+        "cart",
+        "sky"
+      ],
+      "answer": "market"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "a bag of thin rubber that becomes larger and rounder when filled with air",
+      "questionMeaning": {
+        "hi": "हवा भरने पर बड़ा और गोल होने वाला रबर का थैला",
+        "hinglish": "Hawa bharne par bada aur gol hone waala rubber ka thaila"
+      },
+      "options": [
+        "balloon",
+        "string",
+        "market"
+      ],
+      "answer": "balloon"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "a vehicle with two or four wheels pulled by a horse",
+      "questionMeaning": {
+        "hi": "घोड़े से खींची जाने वाली गाड़ी",
+        "hinglish": "Ghode se kheenchi jaane waali gaadi"
+      },
+      "options": [
+        "cart",
+        "balloon",
+        "sky"
+      ],
+      "answer": "cart"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "a thread used to tie the balloon",
+      "questionMeaning": {
+        "hi": "गुब्बारा बाँधने का धागा",
+        "hinglish": "Gubbaara baandhne ka dhaaga"
+      },
+      "options": [
+        "string",
+        "cart",
+        "market"
+      ],
+      "answer": "string"
+    },
+    {
+      "type": "choice",
+      "id": "B8.10.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "the space above the earth that you see when you look up",
+      "questionMeaning": {
+        "hi": "ऊपर देखने पर दिखने वाली जगह",
+        "hinglish": "Upar dekhne par dikhne waali jagah"
+      },
+      "options": [
+        "sky",
+        "market",
+        "balloon"
+      ],
+      "answer": "sky"
+    }
+  ]
+}

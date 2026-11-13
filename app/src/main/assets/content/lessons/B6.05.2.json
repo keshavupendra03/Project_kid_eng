@@ -1,0 +1,160 @@
+{
+  "id": "B6.05.2",
+  "level": 6,
+  "bookSteps": [
+    "B6.05.2.S03",
+    "B6.05.2.S04",
+    "B6.05.2.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.05.2.S01",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "किताब में इसी कविता का एक मज़ेदार रूप भी है, Lewis Carroll का, जिसमें तारे की जगह चमगादड़ (bat) है! इसे पढ़ो और बताओ कौन सी अच्छी लगी।",
+        "hinglish": "Kitaab mein isi kavita ka ek mazedaar roop bhi hai, Lewis Carroll ka, jismein taare ki jagah chamgaadad (bat) hai! Ise padho aur batao kaun si achhi lagi.",
+        "en": "The book also has a funny version of this poem by Lewis Carroll, with a bat instead of a star! Read it and say which one you like better."
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "B6.05.2.S02",
+      "skills": [
+        "read.passage",
+        "speak.sentence"
+      ],
+      "title": {
+        "hi": "छोटा चमगादड़",
+        "hinglish": "Chhota chamgaadad",
+        "en": "Twinkle, Twinkle, Little Bat"
+      },
+      "sentences": [
+        "Twinkle, twinkle, little bat!",
+        "How I wonder what you're at!",
+        "Up above the world you fly,",
+        "Like a tea tray in the sky."
+      ],
+      "lineMeanings": [
+        {
+          "hi": "टिमटिम करते छोटे चमगादड़!",
+          "hinglish": "Timtim karte chhote chamgaadad!"
+        },
+        {
+          "hi": "मैं सोचता हूँ, तुम क्या कर रहे हो!",
+          "hinglish": "Main sochta hoon, tum kya kar rahe ho!"
+        },
+        {
+          "hi": "दुनिया के ऊपर तुम उड़ते हो,",
+          "hinglish": "Duniya ke upar tum udte ho,"
+        },
+        {
+          "hi": "आसमान में चाय की ट्रे की तरह।",
+          "hinglish": "Aasmaan mein chaay ki tray ki tarah."
+        }
+      ],
+      "words": [
+        {
+          "english": "bat",
+          "hindi": "चमगादड़",
+          "hinglish": "chamgaadad"
+        },
+        {
+          "english": "tray",
+          "hindi": "थाली, ट्रे",
+          "hinglish": "thaali, tray"
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.2.S03",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "question": "In the second poem, the bat is like a ... in the sky.",
+      "questionMeaning": {
+        "hi": "दूसरी कविता में चमगादड़ आसमान में किसकी तरह है?",
+        "hinglish": "Doosri kavita mein chamgaadad aasmaan mein kiski tarah hai?"
+      },
+      "options": [
+        "tea tray",
+        "diamond",
+        "kite"
+      ],
+      "answer": "tea tray"
+    },
+    {
+      "type": "choice",
+      "id": "B6.05.2.S04",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "question": "In the first poem, the star is like a ... in the sky.",
+      "questionMeaning": {
+        "hi": "पहली कविता में तारा आसमान में किसकी तरह है?",
+        "hinglish": "Pehli kavita mein taara aasmaan mein kiski tarah hai?"
+      },
+      "options": [
+        "diamond",
+        "tea tray",
+        "ball"
+      ],
+      "answer": "diamond"
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.05.2.S05",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🌙",
+      "turns": [
+        {
+          "id": "which",
+          "tinku": "Which poem do you like better, the star or the bat?",
+          "meaning": {
+            "hi": "तुम्हें कौन सी कविता ज़्यादा अच्छी लगी, तारे वाली या चमगादड़ वाली?",
+            "hinglish": "Tumhe kaun si kavita zyaada achhi lagi, taare waali ya chamgaadad waali?"
+          },
+          "replies": [
+            {
+              "say": "I like the star poem better because it is beautiful.",
+              "meaning": {
+                "hi": "मुझे तारे वाली अच्छी लगी क्योंकि वह सुंदर है।",
+                "hinglish": "Mujhe taare waali achhi lagi kyonki woh sundar hai."
+              },
+              "patterns": [
+                "* star *",
+                "star *",
+                "* star",
+                "star"
+              ],
+              "next": "end"
+            },
+            {
+              "say": "I like the bat poem better because it is funny.",
+              "meaning": {
+                "hi": "मुझे चमगादड़ वाली अच्छी लगी क्योंकि वह मज़ेदार है।",
+                "hinglish": "Mujhe chamgaadad waali achhi lagi kyonki woh mazedaar hai."
+              },
+              "patterns": [
+                "* bat *",
+                "bat *",
+                "* bat",
+                "bat"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

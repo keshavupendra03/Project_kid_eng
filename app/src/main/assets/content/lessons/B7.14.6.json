@@ -1,0 +1,110 @@
+{
+  "id": "B7.14.6",
+  "level": 7,
+  "bookSteps": [
+    "B7.14.6.S02",
+    "B7.14.6.S03",
+    "B7.14.6.S04",
+    "B7.14.6.S05"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.14.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब का ढाँचा: Arera Colony, Bhopal - 462 016, 25 December, 2005. Dear Ashish, ... Yours affectionately, (नाम)। बीच में कान्हा की सैर के बारे में लिखो।",
+        "hinglish": "Kitaab ka dhaancha: Arera Colony, Bhopal - 462 016, 25 December, 2005. Dear Ashish, ... Yours affectionately, (naam). Beech mein Kanha ki sair ke baare mein likho.",
+        "en": "The book's format: Arera Colony, Bhopal - 462 016, 25 December, 2005. Dear Ashish, ... Yours affectionately, (name). In the middle, write about your visit to Kanha."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चिट्ठी: पिछले हफ़्ते मैं कान्हा नेशनल पार्क गया/गई।",
+        "hinglish": "Chitthi: pichhle hafte main Kanha National Park gaya/gayi.",
+        "en": "Letter: say you visited Kanha National Park last week."
+      },
+      "answer": "Last week I visited Kanha National Park.",
+      "meaning": {
+        "hi": "पिछले हफ़्ते मैं कान्हा नेशनल पार्क गया/गई।",
+        "hinglish": "Pichhle hafte main Kanha National Park gaya/gayi."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चिट्ठी: हम ट्रेन से नैनपुर गए।",
+        "hinglish": "Chitthi: hum train se Nainpur gaye.",
+        "en": "Letter: say you went to Nainpur by train."
+      },
+      "answer": "We went to Nainpur by train.",
+      "meaning": {
+        "hi": "हम ट्रेन से नैनपुर गए।",
+        "hinglish": "Hum train se Nainpur gaye."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चिट्ठी: हमने घने जंगल में हिरण और हाथी देखे।",
+        "hinglish": "Chitthi: humne ghane jangal mein hiran aur haathi dekhe.",
+        "en": "Letter: say you saw deer and elephants in the dense forest."
+      },
+      "answer": "We saw deer and elephants in the dense forest.",
+      "meaning": {
+        "hi": "हमने घने जंगल में हिरण और हाथी देखे।",
+        "hinglish": "Humne ghane jangal mein hiran aur haathi dekhe."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.14.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "चिट्ठी: सबसे अच्छी बात थी कि हमने एक बाघ देखा!",
+        "hinglish": "Chitthi: sabse achhi baat thi ki humne ek baagh dekha!",
+        "en": "Letter: say the best part was seeing a tiger."
+      },
+      "answer": "The best part was that we saw a tiger!",
+      "meaning": {
+        "hi": "सबसे अच्छी बात यह थी कि हमने एक बाघ देखा!",
+        "hinglish": "Sabse achhi baat yeh thi ki humne ek baagh dekha!"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "question": "How does this letter to a friend end?",
+      "questionMeaning": {
+        "hi": "दोस्त को यह चिट्ठी कैसे ख़त्म होती है?",
+        "hinglish": "Dost ko yeh chitthi kaise khatm hoti hai?"
+      },
+      "options": [
+        "Yours affectionately,",
+        "Yours obediently,",
+        "To, The Principal,"
+      ],
+      "answer": "Yours affectionately,"
+    }
+  ]
+}

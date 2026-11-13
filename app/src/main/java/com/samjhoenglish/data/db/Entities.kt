@@ -99,6 +99,50 @@ data class SchoolLink(
     val skillsSentUntil: Long = 0,
     /** What was last sent, so an unchanged summary isn't sent again. */
     val lastSummary: String = "",
+    /** The school has tests waiting, but the parent hasn't yet agreed to the newer consent that covers them. */
+    @ColumnInfo(defaultValue = "0") val needsTestsConsent: Boolean = false,
+)
+
+/**
+ * A test a teacher set for this child's class. [questions] is a JSON list of [lessonId, stepId];
+ * the questions themselves are already in the app.
+ */
+@Entity(tableName = "school_tests", primaryKeys = ["childId", "testId"])
+data class SchoolTest(
+    val childId: Long,
+    val testId: Long,
+    /** "book" = textbook questions, "course" = the app's main course. */
+    val kind: String,
+    val title: String,
+    val minutes: Int,
+    val closesAt: Long,
+    val questions: String,
+    val receivedAt: Long,
+    /** The parent's phone has shown the "new test" notification for it. */
+    val notified: Boolean = false,
+    /** The school says this child already handed it in (e.g. on another phone). */
+    val doneOnServer: Boolean = false,
+)
+
+/**
+ * A child's go at a school test, saved after every answer so a closed app can carry on.
+ * [answers] is a JSON list of {l, s, ok, given}. [submittedAt] is set when handed in;
+ * [uploaded] once the school has it.
+ */
+@Entity(tableName = "test_attempts", primaryKeys = ["childId", "testId"])
+data class TestAttempt(
+    val childId: Long,
+    val testId: Long,
+    val kind: String,
+    val title: String,
+    val minutes: Int,
+    val startedAt: Long,
+    val submittedAt: Long? = null,
+    val score: Int = 0,
+    val total: Int,
+    val seconds: Int = 0,
+    val answers: String = "[]",
+    val uploaded: Boolean = false,
 )
 
 /** One reading of a passage aloud: how much was read, how fast, and which sounds slipped. */

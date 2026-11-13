@@ -103,7 +103,8 @@ interface ProgressDao {
     @Query("SELECT * FROM reading_results WHERE childId = :childId ORDER BY timestamp DESC LIMIT :limit")
     fun readingResults(childId: Long, limit: Int): Flow<List<ReadingResult>>
 
-    @Query("SELECT COUNT(DISTINCT lessonId) FROM reading_results WHERE childId = :childId")
+    // Only the Reading ladder's stories (R1.P01 …), not textbook poems read aloud.
+    @Query("SELECT COUNT(DISTINCT lessonId) FROM reading_results WHERE childId = :childId AND lessonId LIKE 'R%'")
     fun passagesRead(childId: Long): Flow<Int>
 
     // Word Power
@@ -146,6 +147,49 @@ interface ProgressDao {
 
     @Query("DELETE FROM school_links WHERE childId = :childId")
     suspend fun deleteSchoolLink(childId: Long)
+
+    // School tests
+    @Query("SELECT * FROM school_tests WHERE childId = :childId AND testId = :testId")
+    suspend fun schoolTest(childId: Long, testId: Long): SchoolTest?
+
+    @Query("SELECT * FROM school_tests WHERE childId = :childId")
+    suspend fun schoolTestsNow(childId: Long): List<SchoolTest>
+
+    /** Tests still to take: open, not handed in on this phone or another. */
+    @Query(
+        """SELECT t.* FROM school_tests t LEFT JOIN test_attempts a ON a.childId = t.childId AND a.testId = t.testId
+           WHERE t.childId = :childId AND t.closesAt > :now AND t.doneOnServer = 0 AND a.submittedAt IS NULL
+           ORDER BY t.closesAt""",
+    )
+    fun activeTests(childId: Long, now: Long): Flow<List<SchoolTest>>
+
+    @Upsert
+    suspend fun upsertSchoolTests(tests: List<SchoolTest>)
+
+    @Query("DELETE FROM school_tests WHERE childId = :childId AND testId NOT IN (:keep)")
+    suspend fun deleteSchoolTestsExcept(childId: Long, keep: List<Long>)
+
+    @Query("UPDATE school_tests SET notified = 1 WHERE childId = :childId AND testId IN (:ids)")
+    suspend fun markTestsNotified(childId: Long, ids: List<Long>)
+
+    @Query("SELECT * FROM test_attempts WHERE childId = :childId AND testId = :testId")
+    suspend fun testAttempt(childId: Long, testId: Long): TestAttempt?
+
+    /** Handed-in tests, newest first: the child's and the parent's result list. */
+    @Query("SELECT * FROM test_attempts WHERE childId = :childId AND submittedAt IS NOT NULL ORDER BY submittedAt DESC")
+    fun testResults(childId: Long): Flow<List<TestAttempt>>
+
+    @Query("SELECT * FROM test_attempts WHERE submittedAt IS NOT NULL AND uploaded = 0")
+    suspend fun testsToUpload(): List<TestAttempt>
+
+    @Upsert
+    suspend fun upsertTestAttempt(attempt: TestAttempt)
+
+    @Query("DELETE FROM school_tests WHERE childId = :childId")
+    suspend fun deleteSchoolTests(childId: Long)
+
+    @Query("DELETE FROM test_attempts WHERE childId = :childId")
+    suspend fun deleteTestAttempts(childId: Long)
 
     @Query("SELECT * FROM skill_state WHERE childId = :childId AND updatedAt > :since")
     suspend fun skillsChangedSince(childId: Long, since: Long): List<SkillState>
@@ -204,6 +248,8 @@ interface ProgressDao {
         deleteSchoolLink(childId)
         deleteReadingResults(childId)
         deleteExpressResults(childId)
+        deleteSchoolTests(childId)
+        deleteTestAttempts(childId)
         deleteChildRow(childId)
     }
 }

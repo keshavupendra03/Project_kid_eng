@@ -1,0 +1,140 @@
+{
+  "id": "B6.06.5",
+  "level": 6,
+  "bookSteps": [
+    "B6.06.5.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.06.5.S01",
+      "skills": [
+        "book.talk",
+        "grammar.like"
+      ],
+      "text": {
+        "hi": "किताब: दोस्तों से पूछो उन्हें कौन से खेल पसंद हैं और कौन से नहीं। जवाब: I like ... या I don't like ...",
+        "hinglish": "Kitaab: doston se poochho unhe kaun se khel pasand hain aur kaun se nahi. Jawab: I like ... ya I don't like ...",
+        "en": "The book: ask your friends which games they like and don't like. Answer: I like ... or I don't like ..."
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B6.06.5.S02",
+      "skills": [
+        "book.talk",
+        "grammar.like"
+      ],
+      "scene": "🏏",
+      "turns": [
+        {
+          "id": "cricket",
+          "tinku": "Do you like cricket?",
+          "meaning": {
+            "hi": "क्या तुम्हें क्रिकेट पसंद है?",
+            "hinglish": "Kya tumhe cricket pasand hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I like cricket.",
+              "meaning": {
+                "hi": "हाँ, मुझे क्रिकेट पसंद है।",
+                "hinglish": "Haan, mujhe cricket pasand hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes",
+                "i like *"
+              ]
+            },
+            {
+              "say": "No, I don't like cricket.",
+              "meaning": {
+                "hi": "नहीं, मुझे क्रिकेट पसंद नहीं।",
+                "hinglish": "Nahi, mujhe cricket pasand nahi."
+              },
+              "patterns": [
+                "no *",
+                "no",
+                "i dont like *",
+                "i do not like *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "swim",
+          "tinku": "Do you like swimming?",
+          "meaning": {
+            "hi": "क्या तुम्हें तैरना पसंद है?",
+            "hinglish": "Kya tumhe tairna pasand hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I like swimming.",
+              "meaning": {
+                "hi": "हाँ, मुझे तैरना पसंद है।",
+                "hinglish": "Haan, mujhe tairna pasand hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes",
+                "i like *"
+              ]
+            },
+            {
+              "say": "No, I don't like swimming.",
+              "meaning": {
+                "hi": "नहीं, मुझे तैरना पसंद नहीं।",
+                "hinglish": "Nahi, mujhe tairna pasand nahi."
+              },
+              "patterns": [
+                "no *",
+                "no",
+                "i dont like *",
+                "i do not like *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "archery",
+          "tinku": "Do you like archery, like Arjun?",
+          "meaning": {
+            "hi": "क्या तुम्हें अर्जुन की तरह तीरंदाज़ी पसंद है?",
+            "hinglish": "Kya tumhe Arjun ki tarah teerandaazi pasand hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I like archery.",
+              "meaning": {
+                "hi": "हाँ, मुझे तीरंदाज़ी पसंद है।",
+                "hinglish": "Haan, mujhe teerandaazi pasand hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes",
+                "i like *"
+              ],
+              "next": "end"
+            },
+            {
+              "say": "No, I don't like archery.",
+              "meaning": {
+                "hi": "नहीं, मुझे तीरंदाज़ी पसंद नहीं।",
+                "hinglish": "Nahi, mujhe teerandaazi pasand nahi."
+              },
+              "patterns": [
+                "no *",
+                "no",
+                "i dont like *",
+                "i do not like *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

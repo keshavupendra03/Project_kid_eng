@@ -1,0 +1,146 @@
+{
+  "grade": 6, "number": 7, "emoji": "🏃‍♀️", "title": "The Race", "pages": "36–42",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["इस पाठ में स्कूल के खेल दिवस पर छह लड़कियों की 200 मीटर की दौड़ है। सबसे छोटी और पतली मीना जीत जाती है! पहले नए शब्द।", "Is paath mein school ke khel diwas par chhah ladkiyon ki 200 metre ki daud hai. Sabse chhoti aur patli Mina jeet jaati hai! Pehle naye shabd.", "In this lesson six girls run a 200 metre race on Sports Day. The smallest, thinnest girl, Mina, wins! First, new words."]},
+        {"word": ["assembled", "इकट्ठा हुए", "ikattha hue", "came together in one place", "All the students assembled in the hall.", "सारे छात्र हॉल में इकट्ठा हुए।", "Saare chhaatra hall mein ikattha hue."]},
+        {"word": ["signal", "इशारा, संकेत", "ishaara, sanket", "a sign that tells you to start or stop", "The teacher gave the signal to start.", "टीचर ने शुरू करने का इशारा दिया।", "Teacher ne shuru karne ka ishaara diya."]},
+        {"word": ["steadily", "लगातार, बिना रुके", "lagaataar, bina ruke", "at an even speed, without stopping", "The tortoise walked steadily.", "कछुआ लगातार चलता रहा।", "Kachhua lagaataar chalta raha."]},
+        {"word": ["curious", "जानने को उत्सुक", "jaanne ko utsuk", "wanting to know something", "The cat was curious about the box.", "बिल्ली डिब्बे के बारे में जानने को उत्सुक थी।", "Billi dibbe ke baare mein jaanne ko utsuk thi."]},
+        {"word": ["carelessly", "लापरवाही से", "laaparwaahi se", "without care", "He wrote carelessly and made mistakes.", "उसने लापरवाही से लिखा और गलतियाँ कीं।", "Usne laaparwaahi se likha aur galtiyaan kin."]},
+        {"word": ["trophy", "ट्रॉफ़ी, इनाम का कप", "trophy, inaam ka cup", "a cup given to the winner", "Mina was awarded the trophy.", "मीना को ट्रॉफ़ी दी गई।", "Mina ko trophy di gayi."]},
+        {"card": ["किताब: उलझे अक्षरों से खेलों के नाम बनाओ। उदाहरण: hessc = chess।", "Kitaab: uljhe aksharon se khelon ke naam banao. Udaharan: hessc = chess.", "The book: rearrange the letters to spell the names of games. Example: hessc = chess."]},
+        {"book": true, "q": ["oldu = ? (indoor)", "उलझे अक्षर: oldu", "Uljhe akshar: oldu", ["ludo", "loud", "load"], "ludo"]},
+        {"book": true, "q": ["aracm = ? (indoor)", "उलझे अक्षर: aracm", "Uljhe akshar: aracm", ["carrom", "camera", "cream"], "carrom"]},
+        {"book": true, "q": ["mintnadab = ? (indoor)", "उलझे अक्षर: mintnadab", "Uljhe akshar: mintnadab", ["badminton", "bandit", "tennis"], "badminton"]},
+        {"book": true, "q": ["toolfalb = ? (outdoor)", "उलझे अक्षर: toolfalb", "Uljhe akshar: toolfalb", ["football", "footfall", "fullball"], "football"]},
+        {"book": true, "q": ["keycho = ? (outdoor)", "उलझे अक्षर: keycho", "Uljhe akshar: keycho", ["hockey", "choke", "hockay"], "hockey"]},
+        {"book": true, "q": ["iddabka = ? (outdoor)", "उलझे अक्षर: iddabka", "Uljhe akshar: iddabka", ["kabaddi", "kadabbi", "badkid"], "kabaddi"]},
+        {"book": true, "q": ["trickec = ? (outdoor)", "उलझे अक्षर: trickec", "Uljhe akshar: trickec", ["cricket", "tricky", "ticket"], "cricket"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 36-37 पर ‘The Race’ पढ़ो। पहले बताओ कहानी में लड़कियाँ किस क्रम में आती हैं।", "Apni kitaab mein page 36-37 par ‘The Race’ padho. Pehle batao kahani mein ladkiyaan kis kram mein aati hain.", "Read ‘The Race’ on pages 36–37 of your book. First, tell the order in which the girls appear."]},
+        {"book": true, "q": ["Who falls down first and is out of the race?", "सबसे पहले कौन गिरकर दौड़ से बाहर होती है?", "Sabse pehle kaun girkar daud se baahar hoti hai?", ["Shobha", "Rani", "Mala"], "Shobha"]},
+        {"book": true, "q": ["Who leads after Shobha falls, but slows down in her joy?", "शोभा के गिरने के बाद कौन आगे होती है पर ख़ुशी में धीमी हो जाती है?", "Shobha ke girne ke baad kaun aage hoti hai par khushi mein dheemi ho jaati hai?", ["Rani", "Lata", "Neerja"], "Rani"]},
+        {"book": true, "q": ["Who looks back and gives others a chance to go ahead?", "कौन पीछे मुड़कर देखती है और दूसरों को आगे जाने का मौक़ा देती है?", "Kaun peechhe mudkar dekhti hai aur doosron ko aage jaane ka mauka deti hai?", ["Neerja", "Mala", "Mina"], "Neerja"]},
+        {"card": ["कहानी का क्रम: Shobha, Rani, Lata, Neerja, Mala, Mina।", "Kahani ka kram: Shobha, Rani, Lata, Neerja, Mala, Mina.", "The order in the story: Shobha, Rani, Lata, Neerja, Mala, Mina."]},
+        {"book": true, "tf": ["Mina is tall, strong and well-built.", "मीना लंबी, ताक़तवर और तगड़ी है।", "Mina lambi, taakatvar aur tagdi hai.", false, "False. Mina is thin and short.", "गलत। मीना पतली और छोटी है।", "Galat. Mina patli aur chhoti hai."]},
+        {"book": true, "tf": ["Rani loses her balance and falls down.", "रानी का संतुलन बिगड़ता है और वह गिर जाती है।", "Rani ka santulan bigadta hai aur woh gir jaati hai.", false, "False. Shobha loses her balance and falls down.", "गलत। शोभा का संतुलन बिगड़ता है और वह गिरती है।", "Galat. Shobha ka santulan bigadta hai aur woh girti hai."]},
+        {"book": true, "tf": ["Neerja looks back and loses her lead.", "नीरजा पीछे देखती है और पिछड़ जाती है।", "Neerja peechhe dekhti hai aur pichhad jaati hai.", true]},
+        {"book": true, "tf": ["Mala runs carelessly.", "माला लापरवाही से दौड़ती है।", "Mala laaparwaahi se daudti hai.", true]},
+        {"book": true, "tf": ["The whole crowd cheers Mala.", "सारी भीड़ माला का हौसला बढ़ाती है।", "Saari bheed Mala ka hausla badhaati hai.", false, "False. The whole crowd cheers Mina.", "गलत। सारी भीड़ मीना का हौसला बढ़ाती है।", "Galat. Saari bheed Mina ka hausla badhaati hai."]},
+        {"book": true, "q": ["Why have the students assembled on the playground?", "छात्र खेल के मैदान में क्यों इकट्ठा हुए हैं?", "Chhaatra khel ke maidaan mein kyon ikattha hue hain?", ["to celebrate the Annual Sports Day", "for a picnic", "for an exam"], "to celebrate the Annual Sports Day", "The students have assembled on the playground because the Annual Sports Day is being celebrated.", "छात्र मैदान में इकट्ठा हुए हैं क्योंकि वार्षिक खेल दिवस मनाया जा रहा है।", "Chhaatra maidaan mein ikattha hue hain kyonki vaarshik khel diwas manaaya ja raha hai."]},
+        {"book": true, "q": ["What event is about to begin?", "कौन सी प्रतियोगिता शुरू होने वाली है?", "Kaun si pratiyogita shuru hone waali hai?", ["the 200 metre race", "a football match", "a song contest"], "the 200 metre race", "The 200 metre race is about to begin.", "200 मीटर की दौड़ शुरू होने वाली है।", "200 metre ki daud shuru hone waali hai."]},
+        {"book": true, "q": ["How many girls are taking part in the race?", "दौड़ में कितनी लड़कियाँ हैं?", "Daud mein kitni ladkiyaan hain?", ["six", "five", "ten"], "six", "Six girls are taking part in the race.", "दौड़ में छह लड़कियाँ हिस्सा ले रही हैं।", "Daud mein chhah ladkiyaan hissa le rahi hain."]},
+        {"book": true, "q": ["Why do the girls feel that Mina would not win?", "लड़कियों को क्यों लगता है कि मीना नहीं जीतेगी?", "Ladkiyon ko kyon lagta hai ki Mina nahi jeetegi?", ["Because she is thin and short.", "Because she is ill.", "Because she is new."], "Because she is thin and short.", "The girls feel Mina would not win because she is thin and short, while the others are tall, strong and well-built.", "लड़कियों को लगता है मीना नहीं जीतेगी क्योंकि वह पतली और छोटी है, जबकि बाकी लंबी और ताक़तवर हैं।", "Ladkiyon ko lagta hai Mina nahi jeetegi kyonki woh patli aur chhoti hai, jabki baaki lambi aur taakatvar hain."]},
+        {"book": true, "q": ["Who gives the signal to start the race?", "दौड़ शुरू करने का इशारा कौन देता है?", "Daud shuru karne ka ishaara kaun deta hai?", ["the games teacher", "the Headmistress", "Mina"], "the games teacher", "The games teacher gives the signal to start the race.", "खेल शिक्षक दौड़ शुरू करने का इशारा देते हैं।", "Khel shikshak daud shuru karne ka ishaara dete hain."]},
+        {"book": true, "q": ["How does Mina run all through the race?", "मीना पूरी दौड़ में कैसे दौड़ती है?", "Mina poori daud mein kaise daudti hai?", ["slowly but steadily, and fast at the end", "very carelessly", "she walks"], "slowly but steadily, and fast at the end", "Mina runs slowly but steadily all through the race. At the end she puts in all her strength and runs fast.", "मीना पूरी दौड़ में धीरे पर लगातार दौड़ती है। आख़िर में पूरी ताक़त लगाकर तेज़ दौड़ती है।", "Mina poori daud mein dheere par lagaataar daudti hai. Aakhir mein poori taakat lagaakar tez daudti hai."]},
+        {"book": true, "q": ["What do you think helped Mina?", "तुम्हें क्या लगता है, मीना को किस चीज़ ने मदद की?", "Tumhe kya lagta hai, Mina ko kis cheez ne madad ki?", ["her self-confidence and steady running", "her height", "luck only"], "her self-confidence and steady running", "Mina's self-confidence and her slow but steady running helped her to win.", "मीना के आत्मविश्वास और धीरे पर लगातार दौड़ने ने उसे जिताया।", "Mina ke aatmavishwaas aur dheere par lagaataar daudne ne use jitaaya."]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: वह कहती है कि ... (says that)", "Grammar: woh kehti hai ki ... (says that)", "Grammar in Use: says that ..."], "book": true,
+      "skills": ["book.grammar", "grammar.indirect_speech"],
+      "steps": [
+        {"card": ["किसी की बात बताते समय: Mala says, \"I want to be a doctor.\" → Mala says that she wants to be a doctor। I → she/he, want → wants।", "Kisi ki baat bataate samay: Mala says, \"I want to be a doctor.\" → Mala says that she wants to be a doctor. I → she/he, want → wants.", "To report what someone says: Mala says, \"I want to be a doctor.\" → Mala says that she wants to be a doctor. I → she/he, want → wants."]},
+        {"book": true, "build": ["बदलो: Mina says, \"I want to be an engineer.\"", "Badlo: Mina says, \"I want to be an engineer.\"", "Change: Mina says, \"I want to be an engineer.\"", "Mina says that she wants to be an engineer.", "मीना कहती है कि वह इंजीनियर बनना चाहती है।", "Mina kehti hai ki woh engineer banna chahti hai.", ["I", "want"]]},
+        {"book": true, "build": ["बदलो: Gautam says, \"I want to be a lawyer.\"", "Badlo: Gautam says, \"I want to be a lawyer.\"", "Change: Gautam says, \"I want to be a lawyer.\"", "Gautam says that he wants to be a lawyer.", "गौतम कहता है कि वह वकील बनना चाहता है।", "Gautam kehta hai ki woh vakeel banna chahta hai.", ["I", "want"]]},
+        {"book": true, "build": ["बदलो: Ravi says, \"I want to be a teacher.\"", "Badlo: Ravi says, \"I want to be a teacher.\"", "Change: Ravi says, \"I want to be a teacher.\"", "Ravi says that he wants to be a teacher.", "रवि कहता है कि वह टीचर बनना चाहता है।", "Ravi kehta hai ki woh teacher banna chahta hai.", ["I", "want"]]},
+        {"book": true, "build": ["बदलो: Arif says, \"I want to be a pilot.\"", "Badlo: Arif says, \"I want to be a pilot.\"", "Change: Arif says, \"I want to be a pilot.\"", "Arif says that he wants to be a pilot.", "आरिफ़ कहता है कि वह पायलट बनना चाहता है।", "Aarif kehta hai ki woh pilot banna chahta hai.", ["I", "want"]]},
+        {"book": true, "build": ["बदलो: Radha says, \"I want to be an inspector.\"", "Badlo: Radha says, \"I want to be an inspector.\"", "Change: Radha says, \"I want to be an inspector.\"", "Radha says that she wants to be an inspector.", "राधा कहती है कि वह इंस्पेक्टर बनना चाहती है।", "Radha kehti hai ki woh inspector banna chahti hai.", ["I", "want"]]},
+        {"card": ["किताब: रिपोर्टर ने मीना से सवाल पूछे। मीना की बातों को ‘Meena says that ...’ से लिखो। उदाहरण: Meena says that she gets up early in the morning.", "Kitaab: reporter ne Meena se sawaal poochhe. Meena ki baaton ko ‘Meena says that ...’ se likho. Udaharan: Meena says that she gets up early in the morning.", "The book: a reporter asked Meena questions. Write her answers with ‘Meena says that ...’. Example: Meena says that she gets up early in the morning."]},
+        {"book": true, "build": ["मीना: \"I run 4 kilometres everyday.\"", "Meena: \"I run 4 kilometres everyday.\"", "Meena: \"I run 4 kilometres everyday.\"", "Meena says that she runs 4 kilometres every day.", "मीना कहती है कि वह हर दिन 4 किलोमीटर दौड़ती है।", "Meena kehti hai ki woh har din 4 kilometre daudti hai.", ["run"]]},
+        {"book": true, "build": ["मीना: \"I have milk and parathas after the exercise.\"", "Meena: \"I have milk and parathas after the exercise.\"", "Meena: \"I have milk and parathas after the exercise.\"", "Meena says that she has milk and parathas after the exercise.", "मीना कहती है कि वह कसरत के बाद दूध और पराठे खाती है।", "Meena kehti hai ki woh kasrat ke baad doodh aur paraathe khaati hai.", ["have"]]},
+        {"book": true, "build": ["मीना: \"I go to school at 11.00 o'clock.\"", "Meena: \"I go to school at 11.00 o'clock.\"", "Meena: \"I go to school at 11.00 o'clock.\"", "Meena says that she goes to school at 11 o'clock.", "मीना कहती है कि वह 11 बजे स्कूल जाती है।", "Meena kehti hai ki woh 11 baje school jaati hai.", ["go"]]},
+        {"book": true, "build": ["मीना: \"I am there till 5.00 o'clock.\"", "Meena: \"I am there till 5.00 o'clock.\"", "Meena: \"I am there till 5.00 o'clock.\"", "Meena says that she is there till 5 o'clock.", "मीना कहती है कि वह 5 बजे तक वहाँ रहती है।", "Meena kehti hai ki woh 5 baje tak wahan rehti hai.", ["am"]]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: तुम कौन सा खेल खेलते हो?", "Chalo baat karein: tum kaun sa khel khelte ho?", "Let's Talk: which game do you play?"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"book": true, "type": "roleplay", "scene": "🏸", "turns": [
+          {"id": "which", "tinku": "Which game do you play?", "meaning": ["तुम कौन सा खेल खेलते हो?", "Tum kaun sa khel khelte ho?"],
+            "replies": [{"say": "I play badminton.", "meaning": ["मैं बैडमिंटन खेलता/खेलती हूँ। (अपना खेल बोलो)", "Main badminton khelta/khelti hoon. (Apna khel bolo)"], "patterns": ["i play *", "*", "* *"]}]},
+          {"id": "kind", "tinku": "Is it an indoor game or an outdoor game?", "meaning": ["यह घर के अंदर का खेल है या बाहर का?", "Yeh ghar ke andar ka khel hai ya baahar ka?"],
+            "replies": [
+              {"say": "It is an outdoor game.", "meaning": ["यह बाहर का खेल है।", "Yeh baahar ka khel hai."], "patterns": ["* outdoor *", "outdoor *", "outdoor", "* outdoor"]},
+              {"say": "It is an indoor game.", "meaning": ["यह अंदर का खेल है।", "Yeh andar ka khel hai."], "patterns": ["* indoor *", "indoor *", "indoor", "* indoor"]}
+            ]},
+          {"id": "net", "tinku": "Do you use a net in this game?", "meaning": ["क्या इस खेल में जाल (net) लगता है?", "Kya is khel mein jaal (net) lagta hai?"],
+            "replies": [
+              {"say": "Yes, we use a net.", "meaning": ["हाँ, जाल लगता है।", "Haan, jaal lagta hai."], "patterns": ["yes *", "yes"]},
+              {"say": "No, we don't use a net.", "meaning": ["नहीं, जाल नहीं लगता।", "Nahi, jaal nahi lagta."], "patterns": ["no *", "no"]}
+            ]},
+          {"id": "players", "tinku": "How many players take part in this game?", "meaning": ["इस खेल में कितने खिलाड़ी होते हैं?", "Is khel mein kitne khilaadi hote hain?"],
+            "replies": [{"say": "Two or four players take part.", "meaning": ["दो या चार खिलाड़ी होते हैं।", "Do ya chaar khilaadi hote hain."], "patterns": ["*", "* *", "* * *"], "next": "end"}]}
+        ]},
+        {"pairs": ["हर खेल को उसकी चीज़ से जोड़ो", "Har khel ko uski cheez se jodo", "Join each game to what you use", [
+          ["cricket", "a bat and a ball", "बल्ला और गेंद", "balla aur gend"],
+          ["hockey", "a stick and a ball", "हॉकी स्टिक और गेंद", "hockey stick aur gend"],
+          ["badminton", "a racket, a shuttle and a net", "रैकेट, चिड़िया और जाल", "racket, chidiya aur jaal"],
+          ["kabaddi", "nothing but strong players", "कुछ नहीं, बस खिलाड़ी", "kuch nahi, bas khilaadi"]]]},
+        {"q": ["How many players are there in a cricket team?", "क्रिकेट टीम में कितने खिलाड़ी होते हैं?", "Cricket team mein kitne khilaadi hote hain?", ["eleven", "six", "five"], "eleven"]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: तस्वीरें देखकर", "Chalo likhein: tasveerein dekhkar", "Let's Write: from the pictures"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब: तस्वीरें देखो और संकेतों से 4-5 वाक्य लिखो: about to start, Sona leading, Mona trailing behind, clapping। शुरुआत: The race is about to start.", "Kitaab: tasveerein dekho aur sanketon se 4-5 vaakya likho: about to start, Sona leading, Mona trailing behind, clapping. Shuruaat: The race is about to start.", "The book: look at the pictures and write 4–5 sentences with the clues: about to start, Sona leading, Mona trailing behind, clapping. Start: The race is about to start."]},
+        {"book": true, "build": ["संकेत: Sona leading", "Sanket: Sona leading", "Clue: Sona leading", "Sona is leading the race.", "सोना दौड़ में सबसे आगे है।", "Sona daud mein sabse aage hai."]},
+        {"book": true, "build": ["संकेत: Mona trailing behind", "Sanket: Mona trailing behind", "Clue: Mona trailing behind", "Mona is trailing behind.", "मोना पीछे रह गई है।", "Mona peechhe reh gayi hai."]},
+        {"book": true, "build": ["संकेत: clapping", "Sanket: clapping", "Clue: clapping", "The children are clapping and cheering.", "बच्चे ताली बजा रहे हैं और हौसला बढ़ा रहे हैं।", "Bachche taali baja rahe hain aur hausla badha rahe hain."]},
+        {"book": true, "build": ["आख़िरी वाक्य: सोना दौड़ जीत जाती है।", "Aakhiri vaakya: Sona daud jeet jaati hai.", "Last line: say that Sona wins.", "Sona wins the race.", "सोना दौड़ जीत जाती है।", "Sona daud jeet jaati hai."]}
+      ]
+    },
+    {
+      "emoji": "🧺", "title": ["चलो करके देखें: पिकनिक का संदेश", "Chalo karke dekhein: picnic ka sandesh", "Let's Do It: a picnic message"], "book": true,
+      "skills": ["book.activity", "book.writing"],
+      "steps": [
+        {"card": ["किताब: क्लास 6 बुधवार को पिकनिक जा रही है। राम, मीना, माया और रवि आज नहीं आए। उन्हें संदेश भेजो: जगह, तारीख़ और दिन, फ़ीस, मिलने की जगह, और क्या लाना है।", "Kitaab: class 6 Budhwaar ko picnic ja rahi hai. Ram, Meena, Maya aur Ravi aaj nahi aaye. Unhe sandesh bhejo: jagah, taareekh aur din, fees, milne ki jagah, aur kya laana hai.", "The book: Class VI is going on a picnic on Wednesday. Ram, Meena, Maya and Ravi are absent today. Send them a message with the place, the date and day, the fee, the meeting point and what to bring."]},
+        {"card": ["संदेश ऐसे लिखो: Ram, We are going on a picnic. Date / Day: 20th January, Wednesday. Place of picnic: Van Vihar, Bhopal. Fee: Rs 50. Meeting point: the school gate at 8 a.m. Materials to bring: lunch, water bottle and a ball. Do come. Bye. Amit.", "Sandesh aise likho: Ram, We are going on a picnic. Date / Day: 20th January, Wednesday. Place of picnic: Van Vihar, Bhopal. Fee: Rs 50. Meeting point: the school gate at 8 a.m. Materials to bring: lunch, water bottle and a ball. Do come. Bye. Amit.", "Write the message like this: Ram, We are going on a picnic. Date / Day: 20th January, Wednesday. Place of picnic: Van Vihar, Bhopal. Fee: Rs 50. Meeting point: the school gate at 8 a.m. Materials to bring: lunch, water bottle and a ball. Do come. Bye. Amit."]},
+        {"book": true, "build": ["संदेश की पहली लाइन: हम पिकनिक पर जा रहे हैं।", "Sandesh ki pehli line: hum picnic par ja rahe hain.", "The first line of the message.", "We are going on a picnic.", "हम पिकनिक पर जा रहे हैं।", "Hum picnic par ja rahe hain."]},
+        {"book": true, "build": ["मिलने की जगह: सुबह 8 बजे स्कूल के गेट पर मिलो।", "Milne ki jagah: subah 8 baje school ke gate par milo.", "Say where and when to meet.", "Meet at the school gate at 8 a.m.", "सुबह 8 बजे स्कूल के गेट पर मिलो।", "Subah 8 baje school ke gate par milo."]},
+        {"book": true, "build": ["क्या लाना है: अपना खाना और पानी की बोतल लाना।", "Kya laana hai: apna khaana aur paani ki botal laana.", "Say what to bring.", "Bring your lunch and a water bottle.", "अपना खाना और पानी की बोतल लाना।", "Apna khaana aur paani ki botal laana."]},
+        {"q": ["Which is NOT needed in the picnic message?", "पिकनिक संदेश में किसकी ज़रूरत नहीं है?", "Picnic sandesh mein kiski zaroorat nahi hai?", ["your favourite film", "the meeting point", "the date and day"], "your favourite film"]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: खेल दिवस", "Aur seekho: khel diwas", "Learn more: Sports Day"], "book": false,
+      "skills": ["vocab.meaning"],
+      "steps": [
+        {"pairs": ["दौड़ के शब्द जोड़ो", "Daud ke shabd jodo", "Join the race words", [
+          ["starting line", "where the race begins", "शुरुआत की लाइन", "shuruaat ki line"],
+          ["finish line", "where the race ends", "आख़िरी लाइन", "aakhiri line"],
+          ["winner", "the one who comes first", "विजेता", "vijeta"],
+          ["runner-up", "the one who comes second", "दूसरे नंबर वाला", "doosre number waala"]]]},
+        {"q": ["‘Slow and steady wins the race.’ Who is like this in the story?", "‘धीरे पर लगातार चलने वाला जीतता है।’ कहानी में ऐसा कौन है?", "‘Dheere par lagaataar chalne waala jeetta hai.’ Kahani mein aisa kaun hai?", ["Mina", "Mala", "Rani"], "Mina"]},
+        {"fb": ["Mina was ___ of winning the race.", "confident", ["confident", "careless", "afraid"], "मीना को दौड़ जीतने का भरोसा था।", "Mina ko daud jeetne ka bharosa tha."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 7 का टेस्ट", "Paath 7 ka test", "Lesson 7 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["How many girls are taking part in the race?", "दौड़ में कितनी लड़कियाँ हैं?", "Daud mein kitni ladkiyaan hain?", ["six", "five", "ten"], "six"]},
+        {"book": true, "q": ["Why do the girls feel that Mina would not win?", "लड़कियों को क्यों लगता है मीना नहीं जीतेगी?", "Ladkiyon ko kyon lagta hai Mina nahi jeetegi?", ["Because she is thin and short.", "Because she is ill.", "Because she is new."], "Because she is thin and short."]},
+        {"book": true, "tf": ["The whole crowd cheers Mala.", "भीड़ माला का हौसला बढ़ाती है।", "Bheed Mala ka hausla badhaati hai.", false]},
+        {"book": true, "tf": ["Neerja looks back and loses her lead.", "नीरजा पीछे देखकर पिछड़ जाती है।", "Neerja peechhe dekhkar pichhad jaati hai.", true]},
+        {"book": true, "skills": ["book.words"], "q": ["snnite = ?", "उलझे अक्षर", "Uljhe akshar", ["tennis", "tenses", "sitting"], "tennis"]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "q": ["Ravi says, \"I want to be a teacher.\" =", "बराबर वाक्य", "Baraabar vaakya", ["Ravi says that he wants to be a teacher.", "Ravi says that I want to be a teacher.", "Ravi says he want be teacher."], "Ravi says that he wants to be a teacher."]},
+        {"book": true, "skills": ["book.grammar", "grammar.indirect_speech"], "q": ["Meena: \"I go to school at 11 o'clock.\" =", "बराबर वाक्य", "Baraabar vaakya", ["Meena says that she goes to school at 11 o'clock.", "Meena says that I go to school.", "Meena says she go to school."], "Meena says that she goes to school at 11 o'clock."]},
+        {"book": true, "skills": ["book.talk"], "q": ["In which game do you use a stick?", "किस खेल में स्टिक लगती है?", "Kis khel mein stick lagti hai?", ["hockey", "chess", "carrom"], "hockey"]},
+        {"book": true, "skills": ["book.writing"], "q": ["‘Mona is trailing behind’ means Mona is ...", "‘Mona is trailing behind’ का मतलब?", "‘Mona is trailing behind’ ka matlab?", ["behind the others", "leading the race", "clapping"], "behind the others"]},
+        {"book": true, "skills": ["book.activity"], "q": ["What should a picnic message tell?", "पिकनिक संदेश में क्या बताना चाहिए?", "Picnic sandesh mein kya bataana chahiye?", ["the place, date, fee, meeting point and things to bring", "only your name", "a story"], "the place, date, fee, meeting point and things to bring"]}
+      ]
+    }
+  ]
+}

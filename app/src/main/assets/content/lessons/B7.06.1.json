@@ -1,0 +1,271 @@
+{
+  "id": "B7.06.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.06.1.S03",
+    "B7.06.1.S04"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.06.1.S01",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "यह छोटी सी कविता एक बिल्ली (pussy) के बारे में है। Pussy यानी प्यारी बिल्ली। पहले मैं पढ़ूँगा, फिर तुम पढ़ना।",
+        "hinglish": "Yeh chhoti si kavita ek billi (pussy) ke baare mein hai. Pussy yaani pyaari billi. Pehle main padhunga, phir tum padhna.",
+        "en": "This little poem is about a cat. ‘Pussy’ is a pet name for a cat. I'll read first, then you read."
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "B7.06.1.S02",
+      "skills": [
+        "read.passage",
+        "speak.sentence"
+      ],
+      "title": {
+        "hi": "मुझे छोटी बिल्ली प्यारी है",
+        "hinglish": "Mujhe chhoti billi pyaari hai",
+        "en": "I Love Little Pussy"
+      },
+      "sentences": [
+        "I love little pussy,",
+        "Her coat is so warm,",
+        "And if I don't hurt her,",
+        "She'll do no harm.",
+        "",
+        "So I'll not pull her tail,",
+        "Or drive her away,",
+        "But pussy and I,",
+        "Very gently will play.",
+        "",
+        "She'll sit by my side,",
+        "And I'll give her food,",
+        "And she'll like me because,",
+        "I am gentle and good."
+      ],
+      "lineMeanings": [
+        {
+          "hi": "मुझे छोटी बिल्ली प्यारी है,",
+          "hinglish": "Mujhe chhoti billi pyaari hai,"
+        },
+        {
+          "hi": "उसके बाल बहुत गर्म हैं,",
+          "hinglish": "Uske baal bahut garm hain,"
+        },
+        {
+          "hi": "और अगर मैं उसे चोट न पहुँचाऊँ,",
+          "hinglish": "Aur agar main use chot na pahunchaaun,"
+        },
+        {
+          "hi": "तो वह भी कोई नुक़सान नहीं करेगी।",
+          "hinglish": "To woh bhi koi nuksaan nahi karegi."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "इसलिए मैं उसकी पूँछ नहीं खींचूँगा,",
+          "hinglish": "Isliye main uski poonchh nahi kheenchoonga,"
+        },
+        {
+          "hi": "न उसे भगाऊँगा,",
+          "hinglish": "Na use bhagaaunga,"
+        },
+        {
+          "hi": "बल्कि बिल्ली और मैं",
+          "hinglish": "Balki billi aur main"
+        },
+        {
+          "hi": "बहुत प्यार से खेलेंगे।",
+          "hinglish": "Bahut pyaar se khelenge."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "वह मेरे पास बैठेगी,",
+          "hinglish": "Woh mere paas baithegi,"
+        },
+        {
+          "hi": "और मैं उसे खाना दूँगा,",
+          "hinglish": "Aur main use khaana doonga,"
+        },
+        {
+          "hi": "और वह मुझे पसंद करेगी क्योंकि",
+          "hinglish": "Aur woh mujhe pasand karegi kyonki"
+        },
+        {
+          "hi": "मैं नरम और अच्छा हूँ।",
+          "hinglish": "Main naram aur achha hoon."
+        }
+      ],
+      "words": [
+        {
+          "english": "coat",
+          "hindi": "(यहाँ) बिल्ली के बाल",
+          "hinglish": "(yahan) billi ke baal"
+        },
+        {
+          "english": "harm",
+          "hindi": "नुक़सान",
+          "hinglish": "nuksaan"
+        },
+        {
+          "english": "gently",
+          "hindi": "प्यार से, धीरे से",
+          "hinglish": "pyaar se, dheere se"
+        },
+        {
+          "english": "gentle",
+          "hindi": "नरम दिल, कोमल",
+          "hinglish": "naram dil, komal"
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B7.06.1.S03",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "instruction": {
+        "hi": "एक जैसी आवाज़ वाले शब्द जोड़ो (Listen and Repeat)",
+        "hinglish": "Ek jaisi awaaz waale shabd jodo (Listen and Repeat)",
+        "en": "Join the words that sound alike"
+      },
+      "pairs": [
+        {
+          "left": "coat",
+          "right": "boat",
+          "meaning": {
+            "hi": "कोट / नाव",
+            "hinglish": "coat / naav"
+          }
+        },
+        {
+          "left": "tail",
+          "right": "mail",
+          "meaning": {
+            "hi": "पूँछ / डाक",
+            "hinglish": "poonchh / daak"
+          }
+        },
+        {
+          "left": "side",
+          "right": "ride",
+          "meaning": {
+            "hi": "बगल / सवारी",
+            "hinglish": "bagal / sawaari"
+          }
+        },
+        {
+          "left": "harm",
+          "right": "farm",
+          "meaning": {
+            "hi": "नुक़सान / खेत",
+            "hinglish": "nuksaan / khet"
+          }
+        }
+      ]
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.06.1.S04",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "🐾",
+      "turns": [
+        {
+          "id": "pet",
+          "tinku": "Do you have a pet?",
+          "meaning": {
+            "hi": "क्या तुम्हारे पास कोई पालतू जानवर है?",
+            "hinglish": "Kya tumhare paas koi paaltu jaanwar hai?"
+          },
+          "replies": [
+            {
+              "say": "Yes, I have a pet dog.",
+              "meaning": {
+                "hi": "हाँ, मेरे पास एक पालतू कुत्ता है।",
+                "hinglish": "Haan, mere paas ek paaltu kutta hai."
+              },
+              "patterns": [
+                "yes *",
+                "yes"
+              ],
+              "next": "name"
+            },
+            {
+              "say": "No, I do not have a pet.",
+              "meaning": {
+                "hi": "नहीं, मेरे पास कोई पालतू जानवर नहीं है।",
+                "hinglish": "Nahi, mere paas koi paaltu jaanwar nahi hai."
+              },
+              "patterns": [
+                "no *",
+                "no"
+              ],
+              "next": "like"
+            }
+          ]
+        },
+        {
+          "id": "name",
+          "tinku": "What do you call it?",
+          "meaning": {
+            "hi": "तुम उसे किस नाम से बुलाते हो?",
+            "hinglish": "Tum use kis naam se bulaate ho?"
+          },
+          "replies": [
+            {
+              "say": "I call it Moti.",
+              "meaning": {
+                "hi": "मैं उसे मोती बुलाता/बुलाती हूँ। (अपने पालतू का नाम बोलो)",
+                "hinglish": "Main use Moti bulaata/bulaati hoon. (Apne paaltu ka naam bolo)"
+              },
+              "patterns": [
+                "i call it *",
+                "its name is *",
+                "*",
+                "* *"
+              ],
+              "next": "end"
+            }
+          ]
+        },
+        {
+          "id": "like",
+          "tinku": "Which pet would you like to have?",
+          "meaning": {
+            "hi": "तुम कौन सा पालतू रखना चाहोगे?",
+            "hinglish": "Tum kaun sa paaltu rakhna chahoge?"
+          },
+          "replies": [
+            {
+              "say": "I would like to have a cat.",
+              "meaning": {
+                "hi": "मैं बिल्ली रखना चाहूँगा/चाहूँगी।",
+                "hinglish": "Main billi rakhna chahunga/chahungi."
+              },
+              "patterns": [
+                "i would like *",
+                "*",
+                "* *"
+              ],
+              "next": "end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

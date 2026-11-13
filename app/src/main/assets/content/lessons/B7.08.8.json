@@ -1,0 +1,148 @@
+{
+  "id": "B7.08.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.08.8.S01",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "खेल के शब्द जोड़ो",
+        "hinglish": "Khel ke shabd jodo",
+        "en": "Join the sports words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "medal",
+          "right": "a metal prize for the winner",
+          "meaning": {
+            "hi": "पदक",
+            "hinglish": "padak"
+          }
+        },
+        {
+          "left": "trophy",
+          "right": "a cup given to the winner",
+          "meaning": {
+            "hi": "ट्रॉफ़ी, जीत का कप",
+            "hinglish": "trophy, jeet ka cup"
+          }
+        },
+        {
+          "left": "referee",
+          "right": "the person who makes sure the rules are followed",
+          "meaning": {
+            "hi": "रेफ़री",
+            "hinglish": "referee"
+          }
+        },
+        {
+          "left": "stadium",
+          "right": "a big ground with seats for watching sports",
+          "meaning": {
+            "hi": "स्टेडियम",
+            "hinglish": "stadium"
+          }
+        },
+        {
+          "left": "team",
+          "right": "a group of players who play together",
+          "meaning": {
+            "hi": "टीम",
+            "hinglish": "team"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.8.S02",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "How many rings are there on the Olympic flag?",
+      "questionMeaning": {
+        "hi": "ओलंपिक झंडे पर कितने छल्ले हैं?",
+        "hinglish": "Olympic jhande par kitne chhalle hain?"
+      },
+      "options": [
+        "five",
+        "three",
+        "seven"
+      ],
+      "answer": "five",
+      "modelAnswer": "The Olympic flag has five rings. They stand for five parts of the world.",
+      "modelMeaning": {
+        "hi": "ओलंपिक झंडे पर पाँच छल्ले हैं। ये दुनिया के पाँच हिस्सों के लिए हैं।",
+        "hinglish": "Olympic jhande par paanch chhalle hain. Yeh duniya ke paanch hisson ke liye hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.8.S03",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "Which Indian won a gold medal in javelin throw at the Tokyo Olympics?",
+      "questionMeaning": {
+        "hi": "टोक्यो ओलंपिक में भाला फेंक का स्वर्ण पदक किस भारतीय ने जीता?",
+        "hinglish": "Tokyo Olympic mein bhaala phenk ka swarn padak kis Bhaarateeya ne jeeta?"
+      },
+      "options": [
+        "Neeraj Chopra",
+        "Sachin Tendulkar",
+        "Milkha Singh"
+      ],
+      "answer": "Neeraj Chopra",
+      "modelAnswer": "Neeraj Chopra won a gold medal in javelin throw at the Tokyo Olympics.",
+      "modelMeaning": {
+        "hi": "नीरज चोपड़ा ने टोक्यो ओलंपिक में भाला फेंक का स्वर्ण पदक जीता।",
+        "hinglish": "Neeraj Chopra ne Tokyo Olympic mein bhaala phenk ka swarn padak jeeta."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.08.8.S04",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "What made Bobby Pearce a true champion?",
+      "questionMeaning": {
+        "hi": "बॉबी पियर्स को सच्चा चैंपियन क्या बनाता है?",
+        "hinglish": "Bobby Pearce ko sachcha champion kya banaata hai?"
+      },
+      "options": [
+        "He was kind to the ducklings and still won.",
+        "He was very rich.",
+        "He never practised."
+      ],
+      "answer": "He was kind to the ducklings and still won.",
+      "modelAnswer": "Bobby was a true champion because he was kind and still won the race.",
+      "modelMeaning": {
+        "hi": "बॉबी सच्चा चैंपियन था क्योंकि वह दयालु था और फिर भी रेस जीता।",
+        "hinglish": "Bobby sachcha champion tha kyonki woh dayaalu tha aur phir bhi race jeeta."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.08.8.S05",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "sentence": "Our school team won a big ___ at the sports meet.",
+      "answer": "trophy",
+      "options": [
+        "trophy",
+        "referee",
+        "stadium"
+      ],
+      "meaning": {
+        "hi": "हमारी स्कूल टीम ने खेल प्रतियोगिता में एक बड़ी ट्रॉफ़ी जीती।",
+        "hinglish": "Hamari school team ne khel pratiyogita mein ek badi trophy jeeti."
+      }
+    }
+  ]
+}

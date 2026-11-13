@@ -1,0 +1,152 @@
+{
+  "grade": 6, "number": 5, "emoji": "⭐", "title": "The Star", "pages": "25–27",
+  "sections": [
+    {
+      "emoji": "🎵", "title": ["सुनो और दोहराओ", "Suno aur dohraao", "Listen and Repeat"], "book": true,
+      "skills": ["book.words", "read.passage"],
+      "steps": [
+        {"card": ["यह मशहूर कविता Jane Taylor की है। कवि रात में चमकते तारे से बात करता है। पहले मैं पढ़ूँगा, फिर तुम पढ़ना।", "Yeh mashhoor kavita Jane Taylor ki hai. Kavi raat mein chamakte taare se baat karta hai. Pehle main padhunga, phir tum padhna.", "This famous poem is by Jane Taylor. The poet talks to a star shining at night. I'll read first, then you read."]},
+        {"type": "read_along", "skills": ["read.passage", "speak.sentence"],
+          "title": ["तारा", "Taara", "The Star"],
+          "sentences": ["Twinkle, twinkle, little star,", "How I wonder what you are!", "Up above the world so high,", "Like a diamond in the sky.", "", "When the blazing sun is gone,", "When there nothing shines upon,", "Then you show your little light,", "Twinkle, twinkle, all the night.", "", "Then the traveller in the dark", "Thanks you for your tiny spark;", "He could not see which way to go,", "If you did not twinkle so."],
+          "lineMeanings": [
+            ["टिमटिम करते छोटे तारे,", "Timtim karte chhote taare,"],
+            ["मैं सोचता हूँ, तुम क्या हो!", "Main sochta hoon, tum kya ho!"],
+            ["दुनिया से इतने ऊपर,", "Duniya se itne upar,"],
+            ["आसमान में हीरे की तरह।", "Aasmaan mein heere ki tarah."],
+            ["", ""],
+            ["जब तेज़ जलता सूरज चला जाता है,", "Jab tez jalta sooraj chala jaata hai,"],
+            ["जब उसकी रोशनी किसी पर नहीं पड़ती,", "Jab uski roshni kisi par nahi padti,"],
+            ["तब तुम अपनी छोटी सी रोशनी दिखाते हो,", "Tab tum apni chhoti si roshni dikhaate ho,"],
+            ["पूरी रात टिमटिमाते हो।", "Poori raat timtimaate ho."],
+            ["", ""],
+            ["तब अँधेरे में चलता यात्री", "Tab andhere mein chalta yaatri"],
+            ["तुम्हारी छोटी सी चमक के लिए तुम्हें धन्यवाद देता है;", "Tumhaari chhoti si chamak ke liye tumhe dhanyavaad deta hai;"],
+            ["उसे रास्ता नहीं दिखता,", "Use raasta nahi dikhta,"],
+            ["अगर तुम ऐसे न टिमटिमाते।", "Agar tum aise na timtimaate."]
+          ],
+          "words": [
+            {"english": "twinkle", "hindi": "टिमटिमाना", "hinglish": "timtimaana"},
+            {"english": "wonder", "hindi": "सोचना, हैरान होना", "hinglish": "sochna, hairaan hona"},
+            {"english": "blazing", "hindi": "तेज़ जलता हुआ", "hinglish": "tez jalta hua"},
+            {"english": "spark", "hindi": "चिंगारी, छोटी रोशनी", "hinglish": "chingaari, chhoti roshni"}
+          ]},
+        {"book": true, "type": "sort_groups",
+          "instruction": ["हर शब्द को उसके तुकबंदी परिवार में रखो", "Har shabd ko uske tukbandi parivaar mein rakho", "Put each word in its rhyming family"],
+          "groups": [
+            {"id": "inkle", "name": "-inkle (twinkle)", "emoji": "✨", "meaning": ["इंकल", "inkal"]},
+            {"id": "ar", "name": "-ar (star)", "emoji": "⭐", "meaning": ["आर", "aar"]},
+            {"id": "y", "name": "-y (sky)", "emoji": "🌌", "meaning": ["आइ", "aai"]},
+            {"id": "ark", "name": "-ark (spark)", "emoji": "🎇", "meaning": ["आर्क", "aark"]}
+          ],
+          "items": [
+            {"text": "sprinkle", "emoji": "💧", "groups": ["inkle"]},
+            {"text": "scar", "emoji": "🩹", "groups": ["ar"]},
+            {"text": "sly", "emoji": "🦊", "groups": ["y"]},
+            {"text": "stark", "emoji": "⛰️", "groups": ["ark"]},
+            {"text": "wrinkle", "emoji": "👴", "groups": ["inkle"]},
+            {"text": "far", "emoji": "🔭", "groups": ["ar"]},
+            {"text": "my", "emoji": "🙋", "groups": ["y"]},
+            {"text": "dark", "emoji": "🌑", "groups": ["ark"]}
+          ]}
+      ]
+    },
+    {
+      "emoji": "🦇", "title": ["पढ़ो और सीखो: दो कविताएँ", "Padho aur seekho: do kavitaayein", "Read and Learn: two poems"], "book": true,
+      "skills": ["book.words", "read.passage"],
+      "steps": [
+        {"card": ["किताब में इसी कविता का एक मज़ेदार रूप भी है, Lewis Carroll का, जिसमें तारे की जगह चमगादड़ (bat) है! इसे पढ़ो और बताओ कौन सी अच्छी लगी।", "Kitaab mein isi kavita ka ek mazedaar roop bhi hai, Lewis Carroll ka, jismein taare ki jagah chamgaadad (bat) hai! Ise padho aur batao kaun si achhi lagi.", "The book also has a funny version of this poem by Lewis Carroll, with a bat instead of a star! Read it and say which one you like better."]},
+        {"type": "read_along", "skills": ["read.passage", "speak.sentence"],
+          "title": ["छोटा चमगादड़", "Chhota chamgaadad", "Twinkle, Twinkle, Little Bat"],
+          "sentences": ["Twinkle, twinkle, little bat!", "How I wonder what you're at!", "Up above the world you fly,", "Like a tea tray in the sky."],
+          "lineMeanings": [
+            ["टिमटिम करते छोटे चमगादड़!", "Timtim karte chhote chamgaadad!"],
+            ["मैं सोचता हूँ, तुम क्या कर रहे हो!", "Main sochta hoon, tum kya kar rahe ho!"],
+            ["दुनिया के ऊपर तुम उड़ते हो,", "Duniya ke upar tum udte ho,"],
+            ["आसमान में चाय की ट्रे की तरह।", "Aasmaan mein chaay ki tray ki tarah."]
+          ],
+          "words": [
+            {"english": "bat", "hindi": "चमगादड़", "hinglish": "chamgaadad"},
+            {"english": "tray", "hindi": "थाली, ट्रे", "hinglish": "thaali, tray"}
+          ]},
+        {"book": true, "q": ["In the second poem, the bat is like a ... in the sky.", "दूसरी कविता में चमगादड़ आसमान में किसकी तरह है?", "Doosri kavita mein chamgaadad aasmaan mein kiski tarah hai?", ["tea tray", "diamond", "kite"], "tea tray"]},
+        {"book": true, "q": ["In the first poem, the star is like a ... in the sky.", "पहली कविता में तारा आसमान में किसकी तरह है?", "Pehli kavita mein taara aasmaan mein kiski tarah hai?", ["diamond", "tea tray", "ball"], "diamond"]},
+        {"book": true, "type": "roleplay", "skills": ["book.talk", "speak.sentence"], "scene": "🌙", "turns": [
+          {"id": "which", "tinku": "Which poem do you like better, the star or the bat?", "meaning": ["तुम्हें कौन सी कविता ज़्यादा अच्छी लगी, तारे वाली या चमगादड़ वाली?", "Tumhe kaun si kavita zyaada achhi lagi, taare waali ya chamgaadad waali?"],
+            "replies": [
+              {"say": "I like the star poem better because it is beautiful.", "meaning": ["मुझे तारे वाली अच्छी लगी क्योंकि वह सुंदर है।", "Mujhe taare waali achhi lagi kyonki woh sundar hai."], "patterns": ["* star *", "star *", "* star", "star"], "next": "end"},
+              {"say": "I like the bat poem better because it is funny.", "meaning": ["मुझे चमगादड़ वाली अच्छी लगी क्योंकि वह मज़ेदार है।", "Mujhe chamgaadad waali achhi lagi kyonki woh mazedaar hai."], "patterns": ["* bat *", "bat *", "* bat", "bat"], "next": "end"}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["किताब: कविता की खाली जगह भरो।", "Kitaab: kavita ki khaali jagah bharo.", "The book: fill in the blanks to complete the poem."]},
+        {"book": true, "fb": ["When the ___ sun is gone,", "blazing", ["blazing", "tiny", "little"], "जब तेज़ जलता सूरज चला जाता है,", "Jab tez jalta sooraj chala jaata hai,"]},
+        {"book": true, "fb": ["When there nothing shines ___,", "upon", ["upon", "under", "away"], "जब किसी चीज़ पर कुछ नहीं चमकता,", "Jab kisi cheez par kuch nahi chamakta,"]},
+        {"book": true, "fb": ["Then you show your ___ light,", "little", ["little", "blazing", "dark"], "तब तुम अपनी छोटी सी रोशनी दिखाते हो,", "Tab tum apni chhoti si roshni dikhaate ho,"]},
+        {"book": true, "fb": ["Twinkle, twinkle, all the ___.", "night", ["night", "day", "sky"], "सारी रात टिमटिमाते हो।", "Saari raat timtimaate ho."]},
+        {"book": true, "fb": ["Then the ___ in the dark", "traveller", ["traveller", "teacher", "farmer"], "तब अँधेरे में यात्री", "Tab andhere mein yaatri"]},
+        {"book": true, "fb": ["Thanks you for your tiny ___;", "spark", ["spark", "star", "sky"], "तुम्हारी छोटी सी रोशनी के लिए धन्यवाद देता है;", "Tumhari chhoti si roshni ke liye dhanyavaad deta hai;"]},
+        {"book": true, "fb": ["He could not see which ___ to go,", "way", ["way", "day", "star"], "उसे दिखता नहीं कि किस रास्ते जाए,", "Use dikhta nahi ki kis raaste jaaye,"]},
+        {"book": true, "fb": ["If you did not ___ so.", "twinkle", ["twinkle", "sleep", "cry"], "अगर तुम ऐसे न टिमटिमाते।", "Agar tum aise na timtimaate."]},
+        {"book": true, "q": ["What happens when the sun goes away?", "सूरज के जाने पर क्या होता है?", "Sooraj ke jaane par kya hota hai?", ["The star shows its little light all night.", "It starts raining.", "The moon goes to sleep."], "The star shows its little light all night.", "When the sun goes away, the star shows its little light and twinkles all the night.", "सूरज के जाने पर तारा अपनी छोटी रोशनी दिखाता है और सारी रात टिमटिमाता है।", "Sooraj ke jaane par taara apni chhoti roshni dikhaata hai aur saari raat timtimaata hai."]},
+        {"book": true, "q": ["Who does the traveller thank?", "यात्री किसे धन्यवाद देता है?", "Yaatri kise dhanyavaad deta hai?", ["the little star", "the sun", "his friend"], "the little star", "The traveller thanks the little star.", "यात्री छोटे तारे को धन्यवाद देता है।", "Yaatri chhote taare ko dhanyavaad deta hai."]},
+        {"book": true, "q": ["Why does he thank it?", "वह उसे धन्यवाद क्यों देता है?", "Woh use dhanyavaad kyon deta hai?", ["Its light shows him which way to go in the dark.", "It gives him food.", "It sings to him."], "Its light shows him which way to go in the dark.", "He thanks the star because its tiny spark shows him which way to go in the dark.", "वह तारे को धन्यवाद देता है क्योंकि उसकी छोटी रोशनी अँधेरे में रास्ता दिखाती है।", "Woh taare ko dhanyavaad deta hai kyonki uski chhoti roshni andhere mein raasta dikhaati hai."]},
+        {"book": true, "q": ["What lights the traveller?", "यात्री को रोशनी कौन देता है?", "Yaatri ko roshni kaun deta hai?", ["the bright and tiny spark of the star", "a torch", "a fire"], "the bright and tiny spark of the star", "The bright and tiny spark of the star lights the traveller in the dark.", "तारे की चमकीली छोटी रोशनी अँधेरे में यात्री को रास्ता दिखाती है।", "Taare ki chamkeeli chhoti roshni andhere mein yaatri ko raasta dikhaati hai."]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: पूछताछ खिड़की", "Chalo baat karein: poochhtaachh khidki", "Let's Talk: at the enquiry counter"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब: एक यात्री रेलवे की पूछताछ खिड़की (enquiry counter) पर ट्रेन के आने (arrive) और जाने (depart) का समय पूछता है। मैं क्लर्क हूँ, तुम यात्री बनकर पूछो।", "Kitaab: ek yaatri railway ki poochhtaachh khidki (enquiry counter) par train ke aane (arrive) aur jaane (depart) ka samay poochhta hai. Main clerk hoon, tum yaatri bankar poochho.", "The book: a traveller asks the enquiry clerk when a train arrives and departs. I'm the clerk; you ask as the traveller."]},
+        {"book": true, "type": "roleplay", "scene": "🚉", "turns": [
+          {"id": "start", "tinku": "Good evening. How can I help you?", "meaning": ["नमस्ते। मैं आपकी क्या मदद करूँ?", "Namaste. Main aapki kya madad karoon?"],
+            "replies": [{"say": "When does the Narmada Express arrive?", "meaning": ["नर्मदा एक्सप्रेस कब आती है?", "Narmada Express kab aati hai?"], "patterns": ["when does the narmada express arrive", "when does * arrive", "when *"]}]},
+          {"id": "arrive", "tinku": "At 9:30 p.m., Sir.", "meaning": ["रात 9:30 बजे।", "Raat 9:30 baje."],
+            "replies": [{"say": "When does it depart?", "meaning": ["वह कब छूटती है?", "Woh kab chhootti hai?"], "patterns": ["when does it depart", "when does it leave", "when does *", "when *"]}]},
+          {"id": "depart", "tinku": "At 9:45 p.m., Sir.", "meaning": ["रात 9:45 बजे।", "Raat 9:45 baje."],
+            "replies": [{"say": "Thank you very much.", "meaning": ["बहुत-बहुत धन्यवाद।", "Bahut-bahut dhanyavaad."], "patterns": ["thank you *", "thank you", "thanks *", "thanks"], "next": "end"}]}
+        ]},
+        {"card": ["arrive = आना, पहुँचना। depart = जाना, छूटना। a.m. = सुबह (आधी रात से दोपहर 12 तक), p.m. = दोपहर 12 के बाद से रात तक।", "arrive = aana, pahunchna. depart = jaana, chhootna. a.m. = subah (aadhi raat se dopahar 12 tak), p.m. = dopahar 12 ke baad se raat tak.", "arrive = come in; depart = leave. a.m. is from midnight to noon; p.m. is from noon to midnight."]},
+        {"q": ["The train arrives at 9:30 p.m. and departs at 9:45 p.m. How long does it stop?", "ट्रेन 9:30 पर आती है और 9:45 पर जाती है। कितनी देर रुकती है?", "Train 9:30 par aati hai aur 9:45 par jaati hai. Kitni der rukti hai?", ["15 minutes", "30 minutes", "45 minutes"], "15 minutes"]},
+        {"q": ["‘depart’ means ...", "‘depart’ का मतलब?", "‘depart’ ka matlab?", ["to leave", "to arrive", "to stop"], "to leave"]},
+        {"q": ["9:30 p.m. is in the ...", "9:30 p.m. कब होता है?", "9:30 p.m. kab hota hai?", ["night", "morning", "afternoon"], "night"]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: रात का आसमान", "Aur seekho: raat ka aasmaan", "Learn more: the night sky"], "book": false,
+      "skills": ["vocab.nature"],
+      "steps": [
+        {"card": ["तारे असल में बहुत बड़े और बहुत दूर होते हैं, इसलिए छोटे दिखते हैं। सूरज भी एक तारा है! वह हमारे सबसे पास का तारा है।", "Taare asal mein bahut bade aur bahut door hote hain, isliye chhote dikhte hain. Sooraj bhi ek taara hai! Woh hamare sabse paas ka taara hai.", "Stars are really very big and very far away, so they look small. The sun is a star too! It is the star nearest to us."]},
+        {"pairs": ["रात के आसमान के शब्द जोड़ो", "Raat ke aasmaan ke shabd jodo", "Join the night sky words", [
+          ["moon", "it shines at night and changes shape", "चाँद", "chaand"],
+          ["star", "a tiny point of light in the night sky", "तारा", "taara"],
+          ["sun", "the star that gives us day", "सूरज", "sooraj"],
+          ["sky", "the space above the earth", "आसमान", "aasmaan"]]]},
+        {"q": ["Which is the star nearest to the earth?", "पृथ्वी के सबसे पास का तारा कौन सा है?", "Prithvi ke sabse paas ka taara kaun sa hai?", ["the sun", "the moon", "Mars"], "the sun"]},
+        {"q": ["Which animal flies at night and sleeps upside down?", "कौन सा जानवर रात में उड़ता है और उल्टा लटककर सोता है?", "Kaun sa jaanwar raat mein udta hai aur ulta latakkar sota hai?", ["bat", "parrot", "cat"], "bat"]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 5 का टेस्ट", "Paath 5 ka test", "Lesson 5 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["Who does the traveller thank?", "यात्री किसे धन्यवाद देता है?", "Yaatri kise dhanyavaad deta hai?", ["the little star", "the sun", "his friend"], "the little star"]},
+        {"book": true, "q": ["Why does he thank it?", "क्यों?", "Kyon?", ["Its light shows him which way to go in the dark.", "It gives him food.", "It sings to him."], "Its light shows him which way to go in the dark."]},
+        {"book": true, "fb": ["Like a ___ in the sky.", "diamond", ["diamond", "tea tray", "kite"], "आसमान में हीरे की तरह।", "Aasmaan mein heere ki tarah."]},
+        {"book": true, "fb": ["When the ___ sun is gone,", "blazing", ["blazing", "tiny", "little"], "जब तेज़ जलता सूरज चला जाता है,", "Jab tez jalta sooraj chala jaata hai,"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘spark’?", "‘spark’ से तुक मिलाने वाला शब्द?", "‘spark’ se tuk milaane waala shabd?", ["dark", "star", "sky"], "dark"]},
+        {"book": true, "skills": ["book.words"], "q": ["Which word rhymes with ‘twinkle’?", "‘twinkle’ से तुक?", "‘twinkle’ se tuk?", ["wrinkle", "star", "far"], "wrinkle"]},
+        {"book": true, "skills": ["book.words"], "q": ["In the funny poem, the bat is like a ...", "मज़ेदार कविता में चमगादड़ किसकी तरह है?", "Mazedaar kavita mein chamgaadad kiski tarah hai?", ["tea tray", "diamond", "lamp"], "tea tray"]},
+        {"book": true, "skills": ["book.talk"], "q": ["‘When does the train ___?’ (to leave)", "छूटने के लिए कौन सा शब्द?", "Chhootne ke liye kaun sa shabd?", ["depart", "arrive", "stop"], "depart"]},
+        {"book": true, "skills": ["book.talk"], "q": ["The Narmada Express arrives at ...", "नर्मदा एक्सप्रेस कब आती है?", "Narmada Express kab aati hai?", ["9:30 p.m.", "9:45 p.m.", "9:30 a.m."], "9:30 p.m."]},
+        {"book": true, "skills": ["book.comprehension"], "q": ["What lights the traveller in the dark?", "अँधेरे में यात्री को रोशनी कौन देता है?", "Andhere mein yaatri ko roshni kaun deta hai?", ["the tiny spark of the star", "a torch", "a fire"], "the tiny spark of the star"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": "B8.06.7",
+  "level": 8,
+  "bookSteps": [
+    "B8.06.7.S02",
+    "B8.06.7.S03",
+    "B8.06.7.S04",
+    "B8.06.7.S05",
+    "B8.06.7.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.06.7.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 53 पर मोटरबाइक का पंक्चर ठीक करने का फ़्लो चार्ट पढ़ो। तीर क्रम बताते हैं।",
+        "hinglish": "Apni kitaab mein page 53 par motorbike ka puncture theek karne ka flow chart padho. Teer kram bataate hain.",
+        "en": "Read the flow chart for repairing a motorbike puncture on page 53 of your book. The arrows show the order."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.7.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do you do if there is a fault in the valve?",
+      "questionMeaning": {
+        "hi": "वाल्व ख़राब हो तो क्या करें?",
+        "hinglish": "Valve kharaab ho to kya karein?"
+      },
+      "options": [
+        "Replace it.",
+        "Pump more air.",
+        "Remove the wheel."
+      ],
+      "answer": "Replace it.",
+      "modelAnswer": "If there is a fault in the valve, we replace it.",
+      "modelMeaning": {
+        "hi": "अगर वाल्व ख़राब हो, तो उसे बदल देते हैं।",
+        "hinglish": "Agar valve kharaab ho, to use badal dete hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.7.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do you do after removing the wheel?",
+      "questionMeaning": {
+        "hi": "पहिया निकालने के बाद क्या करें?",
+        "hinglish": "Pahiya nikaalne ke baad kya karein?"
+      },
+      "options": [
+        "Remove the tube from the tyre.",
+        "Fit the wheel back.",
+        "Check the valve."
+      ],
+      "answer": "Remove the tube from the tyre.",
+      "modelAnswer": "After removing the wheel, we remove the tube from the tyre.",
+      "modelMeaning": {
+        "hi": "पहिया निकालने के बाद टायर से ट्यूब निकालते हैं।",
+        "hinglish": "Pahiya nikaalne ke baad tyre se tube nikaalte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.7.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How do you check the tube for leakage?",
+      "questionMeaning": {
+        "hi": "ट्यूब में छेद कैसे देखें?",
+        "hinglish": "Tube mein chhed kaise dekhein?"
+      },
+      "options": [
+        "Pump air into it, put it in water and look for bubbles.",
+        "Smell it.",
+        "Shake it hard."
+      ],
+      "answer": "Pump air into it, put it in water and look for bubbles.",
+      "modelAnswer": "We pump air into the tube, put it in water and check for leakage (bubbles come out of the hole).",
+      "modelMeaning": {
+        "hi": "ट्यूब में हवा भरकर उसे पानी में डालते हैं; जहाँ से बुलबुले निकलें, वहाँ छेद है।",
+        "hinglish": "Tube mein hawa bharkar use paani mein daalte hain; jahan se bulbule niklein, wahan chhed hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.7.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What do you do after you have found the leakage?",
+      "questionMeaning": {
+        "hi": "छेद मिलने के बाद क्या करें?",
+        "hinglish": "Chhed milne ke baad kya karein?"
+      },
+      "options": [
+        "Mark the place of leakage and take the tube out.",
+        "Throw the tube away.",
+        "Fit the wheel."
+      ],
+      "answer": "Mark the place of leakage and take the tube out.",
+      "modelAnswer": "After finding the leakage, we mark the place and take the tube out of the water.",
+      "modelMeaning": {
+        "hi": "छेद मिलने पर उस जगह निशान लगाकर ट्यूब पानी से बाहर निकालते हैं।",
+        "hinglish": "Chhed milne par us jagah nishaan lagaakar tube paani se baahar nikaalte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.06.7.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "How do you repair the puncture?",
+      "questionMeaning": {
+        "hi": "पंक्चर कैसे ठीक करें?",
+        "hinglish": "Puncture kaise theek karein?"
+      },
+      "options": [
+        "with puncture solution and a piece of rubber",
+        "with glue and paper",
+        "with a hammer"
+      ],
+      "answer": "with puncture solution and a piece of rubber",
+      "modelAnswer": "We repair the tube with puncture solution and a piece of rubber. Then we fit the wheel in the bike.",
+      "modelMeaning": {
+        "hi": "ट्यूब को पंक्चर सॉल्यूशन और रबर के टुकड़े से ठीक करते हैं। फिर पहिया बाइक में लगा देते हैं।",
+        "hinglish": "Tube ko puncture solution aur rubber ke tukde se theek karte hain. Phir pahiya bike mein laga dete hain."
+      }
+    }
+  ]
+}

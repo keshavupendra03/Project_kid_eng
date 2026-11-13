@@ -1,0 +1,148 @@
+{
+  "id": "B7.06.8",
+  "level": 7,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B7.06.8.S01",
+      "skills": [
+        "vocab.animals"
+      ],
+      "instruction": {
+        "hi": "बिल्ली से जुड़े शब्द जोड़ो",
+        "hinglish": "Billi se jude shabd jodo",
+        "en": "Join the cat words to their meanings"
+      },
+      "pairs": [
+        {
+          "left": "kitten",
+          "right": "a baby cat",
+          "meaning": {
+            "hi": "बिल्ली का बच्चा",
+            "hinglish": "billi ka bachcha"
+          }
+        },
+        {
+          "left": "paw",
+          "right": "the foot of a cat or dog",
+          "meaning": {
+            "hi": "पंजा",
+            "hinglish": "panja"
+          }
+        },
+        {
+          "left": "whiskers",
+          "right": "long hairs near a cat's mouth",
+          "meaning": {
+            "hi": "मूँछें",
+            "hinglish": "moonchhein"
+          }
+        },
+        {
+          "left": "purr",
+          "right": "the soft happy sound of a cat",
+          "meaning": {
+            "hi": "ख़ुश बिल्ली की गुर्राहट",
+            "hinglish": "khush billi ki gurraahat"
+          }
+        },
+        {
+          "left": "claws",
+          "right": "sharp nails of a cat",
+          "meaning": {
+            "hi": "नाख़ून",
+            "hinglish": "naakhoon"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.8.S02",
+      "skills": [
+        "vocab.animals"
+      ],
+      "question": "‘It is raining cats and dogs.’ What does it mean?",
+      "questionMeaning": {
+        "hi": "‘It is raining cats and dogs’ का क्या मतलब है?",
+        "hinglish": "‘It is raining cats and dogs’ ka kya matlab hai?"
+      },
+      "options": [
+        "It is raining very heavily.",
+        "Cats are falling from the sky.",
+        "It is not raining."
+      ],
+      "answer": "It is raining very heavily.",
+      "modelAnswer": "‘Raining cats and dogs’ means raining very heavily.",
+      "modelMeaning": {
+        "hi": "इसका मतलब है बहुत तेज़ बारिश हो रही है।",
+        "hinglish": "Iska matlab hai bahut tez baarish ho rahi hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.8.S03",
+      "skills": [
+        "vocab.animals"
+      ],
+      "sentence": "The little ___ was playing with a ball of wool.",
+      "answer": "kitten",
+      "options": [
+        "kitten",
+        "puppy",
+        "calf"
+      ],
+      "meaning": {
+        "hi": "बिल्ली का बच्चा ऊन के गोले से खेल रहा था।",
+        "hinglish": "Billi ka bachcha oon ke gole se khel raha tha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B7.06.8.S04",
+      "skills": [
+        "vocab.animals"
+      ],
+      "sentence": "We should be ___ with animals.",
+      "answer": "gentle",
+      "options": [
+        "gentle",
+        "cruel",
+        "rough"
+      ],
+      "meaning": {
+        "hi": "हमें जानवरों के साथ प्यार से पेश आना चाहिए।",
+        "hinglish": "Humein jaanwaron ke saath pyaar se pesh aana chahiye."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.06.8.S05",
+      "skills": [
+        "vocab.animals"
+      ],
+      "question": "Which big cat lives in the forests of Madhya Pradesh?",
+      "questionMeaning": {
+        "hi": "मध्य प्रदेश के जंगलों में कौन सी बड़ी बिल्ली रहती है?",
+        "hinglish": "Madhya Pradesh ke jangalon mein kaun si badi billi rehti hai?"
+      },
+      "options": [
+        "tiger",
+        "camel",
+        "penguin"
+      ],
+      "answer": "tiger",
+      "modelAnswer": "The tiger lives in the forests of Madhya Pradesh. MP is called the Tiger State of India.",
+      "modelMeaning": {
+        "hi": "बाघ मध्य प्रदेश के जंगलों में रहता है। मध्य प्रदेश को ‘टाइगर स्टेट’ कहते हैं।",
+        "hinglish": "Baagh Madhya Pradesh ke jangalon mein rehta hai. Madhya Pradesh ko ‘Tiger State’ kehte hain."
+      },
+      "emojis": [
+        "🐅",
+        "🐪",
+        "🐧"
+      ]
+    }
+  ]
+}

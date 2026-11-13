@@ -1,0 +1,308 @@
+{
+  "id": "B6.08.1",
+  "level": 6,
+  "bookSteps": [
+    "B6.08.1.S03"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.08.1.S01",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "text": {
+        "hi": "यह कविता Herbert Asquith की है: एक हाथी बच्चों को पीठ पर बिठाकर झूमता हुआ चलता है। पहले मैं पढ़ूँगा, फिर तुम पढ़ना।",
+        "hinglish": "Yeh kavita Herbert Asquith ki hai: ek haathi bachchon ko peeth par bithaakar jhoomta hua chalta hai. Pehle main padhunga, phir tum padhna.",
+        "en": "This poem is by Herbert Asquith: an elephant sways along with children on his back. I'll read first, then you read."
+      }
+    },
+    {
+      "type": "read_along",
+      "id": "B6.08.1.S02",
+      "skills": [
+        "read.passage",
+        "speak.sentence"
+      ],
+      "title": {
+        "hi": "हाथी",
+        "hinglish": "Haathi",
+        "en": "The Elephant"
+      },
+      "sentences": [
+        "Here comes the elephant",
+        "Swaying along",
+        "With his cargo of children",
+        "All singing a song:",
+        "To the tinkle of laughter",
+        "He goes on his way,",
+        "And his cargo of children",
+        "Have crowned him with may.",
+        "",
+        "His legs are in leather",
+        "And padded his toes;",
+        "He can root up an oak",
+        "With a whisk of his nose.",
+        "",
+        "With a wave of his trunk",
+        "And a turn of his chin",
+        "He can pull down a house,",
+        "Or pick up a pin.",
+        "",
+        "Beneath his grey forehead",
+        "A little eye peers;",
+        "Of what is he thinking",
+        "Between those wide ears?"
+      ],
+      "lineMeanings": [
+        {
+          "hi": "यह आ रहा है हाथी",
+          "hinglish": "Yeh aa raha hai haathi"
+        },
+        {
+          "hi": "झूमता हुआ,",
+          "hinglish": "Jhoomta hua,"
+        },
+        {
+          "hi": "पीठ पर बच्चों को लादे हुए,",
+          "hinglish": "Peeth par bachchon ko laade hue,"
+        },
+        {
+          "hi": "जो सब गाना गा रहे हैं:",
+          "hinglish": "Jo sab gaana ga rahe hain:"
+        },
+        {
+          "hi": "हँसी की खनखनाहट के साथ",
+          "hinglish": "Hansi ki khankhanaahat ke saath"
+        },
+        {
+          "hi": "वह अपने रास्ते चलता है,",
+          "hinglish": "Woh apne raaste chalta hai,"
+        },
+        {
+          "hi": "और पीठ पर बैठे बच्चों ने",
+          "hinglish": "Aur peeth par baithe bachchon ne"
+        },
+        {
+          "hi": "उसे फूलों का ताज पहनाया है।",
+          "hinglish": "Use phoolon ka taaj pehnaaya hai."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "उसके पैरों पर चमड़े जैसी खाल है",
+          "hinglish": "Uske pairon par chamde jaisi khaal hai"
+        },
+        {
+          "hi": "और उसके पंजों में गद्दी है;",
+          "hinglish": "Aur uske panjon mein gaddi hai;"
+        },
+        {
+          "hi": "वह बलूत का पेड़ उखाड़ सकता है",
+          "hinglish": "Woh baloot ka ped ukhaad sakta hai"
+        },
+        {
+          "hi": "अपनी सूँड़ के एक झटके से।",
+          "hinglish": "Apni soond ke ek jhatke se."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "अपनी सूँड़ हिलाकर",
+          "hinglish": "Apni soond hilaakar"
+        },
+        {
+          "hi": "और ठोड़ी घुमाकर",
+          "hinglish": "Aur thodi ghumaakar"
+        },
+        {
+          "hi": "वह घर भी गिरा सकता है,",
+          "hinglish": "Woh ghar bhi gira sakta hai,"
+        },
+        {
+          "hi": "या एक सुई भी उठा सकता है।",
+          "hinglish": "Ya ek sui bhi utha sakta hai."
+        },
+        {
+          "hi": "",
+          "hinglish": ""
+        },
+        {
+          "hi": "उसके स्लेटी माथे के नीचे",
+          "hinglish": "Uske sleti maathe ke neeche"
+        },
+        {
+          "hi": "एक छोटी सी आँख झाँकती है;",
+          "hinglish": "Ek chhoti si aankh jhaankti hai;"
+        },
+        {
+          "hi": "वह क्या सोच रहा होगा",
+          "hinglish": "Woh kya soch raha hoga"
+        },
+        {
+          "hi": "उन बड़े-बड़े कानों के बीच?",
+          "hinglish": "Un bade-bade kaanon ke beech?"
+        }
+      ],
+      "words": [
+        {
+          "english": "swaying",
+          "hindi": "झूमते हुए",
+          "hinglish": "jhoomte hue"
+        },
+        {
+          "english": "cargo",
+          "hindi": "लदा हुआ सामान (यहाँ बच्चे)",
+          "hinglish": "lada hua saamaan (yahan bachche)"
+        },
+        {
+          "english": "may",
+          "hindi": "नागफनी झाड़ी के सफ़ेद-गुलाबी फूल",
+          "hinglish": "naagphani jhaadi ke safed-gulaabi phool"
+        },
+        {
+          "english": "peers",
+          "hindi": "झाँकती है",
+          "hinglish": "jhaankti hai"
+        }
+      ]
+    },
+    {
+      "type": "sort_groups",
+      "id": "B6.08.1.S03",
+      "skills": [
+        "book.words",
+        "read.passage"
+      ],
+      "instruction": {
+        "hi": "हर शब्द को उसके तुकबंदी परिवार में रखो",
+        "hinglish": "Har shabd ko uske tukbandi parivaar mein rakho",
+        "en": "Put each word in its rhyming family"
+      },
+      "groups": [
+        {
+          "id": "ong",
+          "name": "-ong (song)",
+          "emoji": "🎶",
+          "meaning": {
+            "hi": "ॉन्ग",
+            "hinglish": "ong"
+          }
+        },
+        {
+          "id": "ay",
+          "name": "-ay (way)",
+          "emoji": "🛣️",
+          "meaning": {
+            "hi": "ए",
+            "hinglish": "ay"
+          }
+        },
+        {
+          "id": "ose",
+          "name": "-ose (nose)",
+          "emoji": "👃",
+          "meaning": {
+            "hi": "ओज़",
+            "hinglish": "oz"
+          }
+        },
+        {
+          "id": "in",
+          "name": "-in (pin)",
+          "emoji": "📌",
+          "meaning": {
+            "hi": "इन",
+            "hinglish": "in"
+          }
+        },
+        {
+          "id": "ears",
+          "name": "-ears (ears)",
+          "emoji": "👂",
+          "meaning": {
+            "hi": "इअर्स",
+            "hinglish": "iyars"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "along",
+          "emoji": "➡️",
+          "groups": [
+            "ong"
+          ]
+        },
+        {
+          "text": "may",
+          "emoji": "🌸",
+          "groups": [
+            "ay"
+          ]
+        },
+        {
+          "text": "toes",
+          "emoji": "🦶",
+          "groups": [
+            "ose"
+          ]
+        },
+        {
+          "text": "chin",
+          "emoji": "🙂",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "peers",
+          "emoji": "👀",
+          "groups": [
+            "ears"
+          ]
+        },
+        {
+          "text": "wrong",
+          "emoji": "❌",
+          "groups": [
+            "ong"
+          ]
+        },
+        {
+          "text": "say",
+          "emoji": "💬",
+          "groups": [
+            "ay"
+          ]
+        },
+        {
+          "text": "rose",
+          "emoji": "🌹",
+          "groups": [
+            "ose"
+          ]
+        },
+        {
+          "text": "bin",
+          "emoji": "🗑️",
+          "groups": [
+            "in"
+          ]
+        },
+        {
+          "text": "cheers",
+          "emoji": "🎉",
+          "groups": [
+            "ears"
+          ]
+        }
+      ]
+    }
+  ]
+}

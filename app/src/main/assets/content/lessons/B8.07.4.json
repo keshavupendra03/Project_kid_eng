@@ -1,0 +1,221 @@
+{
+  "id": "B8.07.4",
+  "level": 8,
+  "bookSteps": [
+    "B8.07.4.S02",
+    "B8.07.4.S03",
+    "B8.07.4.S04",
+    "B8.07.4.S05",
+    "B8.07.4.S06",
+    "B8.07.4.S07",
+    "B8.07.4.S08",
+    "B8.07.4.S09",
+    "B8.07.4.S10",
+    "B8.07.4.S11"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.07.4.S01",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "text": {
+        "hi": "and = मिलती-जुलती बातें, but = उल्टी बातें, or = विकल्प या चेतावनी (वरना)। You must take care, or you will fall sick.",
+        "hinglish": "and = milti-julti baatein, but = ulti baatein, or = vikalp ya chetaavni (varna). You must take care, or you will fall sick.",
+        "en": "and joins similar ideas, but joins opposite ideas, or joins alternatives (or a warning). You must take care, or you will fall sick."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.4.S02",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Give me a pen ___ a pencil.",
+      "answer": "or",
+      "options": [
+        "or",
+        "but",
+        "and"
+      ],
+      "meaning": {
+        "hi": "मुझे पेन या पेंसिल दो।",
+        "hinglish": "Mujhe pen ya pencil do."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.4.S03",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "He works very hard ___ he gets a low salary.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and",
+        "or"
+      ],
+      "meaning": {
+        "hi": "वह बहुत मेहनत करता है पर उसे कम तनख़्वाह मिलती है।",
+        "hinglish": "Woh bahut mehnat karta hai par use kam tankhwaah milti hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.4.S04",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Hurry up ___ you will be late.",
+      "answer": "or",
+      "options": [
+        "or",
+        "and",
+        "but"
+      ],
+      "meaning": {
+        "hi": "जल्दी करो वरना देर हो जाएगी।",
+        "hinglish": "Jaldi karo varna der ho jaayegi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.4.S05",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "We knocked at the door ___ no one answered.",
+      "answer": "but",
+      "options": [
+        "but",
+        "or",
+        "and"
+      ],
+      "meaning": {
+        "hi": "हमने दरवाज़ा खटखटाया पर किसी ने जवाब नहीं दिया।",
+        "hinglish": "Humne darwaaza khatkhataaya par kisi ne jawab nahi diya."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.4.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Man discovered fire ___ he learnt to cook.",
+      "answer": "and",
+      "options": [
+        "and",
+        "or",
+        "but"
+      ],
+      "meaning": {
+        "hi": "इंसान ने आग खोजी और खाना पकाना सीखा।",
+        "hinglish": "Insaan ne aag khoji aur khaana pakaana seekha."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.4.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "He is slow ___ sure.",
+      "answer": "but",
+      "options": [
+        "but",
+        "or",
+        "and"
+      ],
+      "meaning": {
+        "hi": "वह धीमा है पर पक्का है।",
+        "hinglish": "Woh dheema hai par pakka hai."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.4.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Sanjana worked hard ___ she won a scholarship.",
+      "answer": "and",
+      "options": [
+        "and",
+        "but",
+        "or"
+      ],
+      "meaning": {
+        "hi": "संजना ने मेहनत की और उसे छात्रवृत्ति मिली।",
+        "hinglish": "Sanjana ne mehnat ki aur use chhaatravritti mili."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.4.S09",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Priya can come early ___ Reshma can't.",
+      "answer": "but",
+      "options": [
+        "but",
+        "and",
+        "or"
+      ],
+      "meaning": {
+        "hi": "प्रिया जल्दी आ सकती है पर रेशमा नहीं।",
+        "hinglish": "Priya jaldi aa sakti hai par Reshma nahi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.4.S10",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Abu should go home early ___ his mother will be worried.",
+      "answer": "or",
+      "options": [
+        "or",
+        "and",
+        "but"
+      ],
+      "meaning": {
+        "hi": "अबू को जल्दी घर जाना चाहिए वरना माँ चिंता करेंगी।",
+        "hinglish": "Abu ko jaldi ghar jaana chahiye varna maa chinta karengi."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.07.4.S11",
+      "skills": [
+        "book.grammar",
+        "grammar.conjunctions"
+      ],
+      "sentence": "Sunil must learn to use a computer ___ he will not get a good job.",
+      "answer": "or",
+      "options": [
+        "or",
+        "and",
+        "but"
+      ],
+      "meaning": {
+        "hi": "सुनील को कंप्यूटर सीखना होगा वरना अच्छी नौकरी नहीं मिलेगी।",
+        "hinglish": "Sunil ko computer seekhna hoga varna achhi naukri nahi milegi."
+      }
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "B6.02.4",
+  "level": 6,
+  "bookSteps": [
+    "B6.02.4.S01",
+    "B6.02.4.S02",
+    "B6.02.4.S03",
+    "B6.02.4.S04",
+    "B6.02.4.S05"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.02.4.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the pleasantest thing a child can do?",
+      "questionMeaning": {
+        "hi": "बच्चे के लिए सबसे सुहानी चीज़ क्या है?",
+        "hinglish": "Bachche ke liye sabse suhaani cheez kya hai?"
+      },
+      "options": [
+        "to go up in a swing",
+        "to sleep",
+        "to do homework"
+      ],
+      "answer": "to go up in a swing",
+      "modelAnswer": "Going up in a swing is the pleasantest thing a child can do.",
+      "modelMeaning": {
+        "hi": "झूले पर ऊपर जाना बच्चे के लिए सबसे सुहानी चीज़ है।",
+        "hinglish": "Jhoole par upar jaana bachche ke liye sabse suhaani cheez hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.4.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What can you see while going up in a swing?",
+      "questionMeaning": {
+        "hi": "झूले पर ऊपर जाते हुए क्या दिखता है?",
+        "hinglish": "Jhoole par upar jaate hue kya dikhta hai?"
+      },
+      "options": [
+        "the blue sky, rivers, trees and cattle",
+        "only the floor",
+        "the sea and ships"
+      ],
+      "answer": "the blue sky, rivers, trees and cattle",
+      "modelAnswer": "While going up in a swing, we can see the blue sky, rivers, trees and cattle over the countryside.",
+      "modelMeaning": {
+        "hi": "झूले पर ऊपर जाते हुए नीला आसमान, नदियाँ, पेड़ और मवेशी दिखते हैं।",
+        "hinglish": "Jhoole par upar jaate hue neela aasmaan, nadiyaan, ped aur maveshi dikhte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.4.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does the child see in the countryside?",
+      "questionMeaning": {
+        "hi": "बच्चा गाँव-देहात में क्या देखता है?",
+        "hinglish": "Bachcha gaon-dehaat mein kya dekhta hai?"
+      },
+      "options": [
+        "rivers, trees and cattle",
+        "tall buildings",
+        "cars and buses"
+      ],
+      "answer": "rivers, trees and cattle",
+      "modelAnswer": "The child sees rivers, trees and cattle over the countryside.",
+      "modelMeaning": {
+        "hi": "बच्चा गाँव-देहात में नदियाँ, पेड़ और मवेशी देखता है।",
+        "hinglish": "Bachcha gaon-dehaat mein nadiyaan, ped aur maveshi dekhta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.4.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does the child see going down the swing?",
+      "questionMeaning": {
+        "hi": "नीचे आते हुए बच्चा क्या देखता है?",
+        "hinglish": "Neeche aate hue bachcha kya dekhta hai?"
+      },
+      "options": [
+        "the green garden and the brown roof",
+        "the blue sky",
+        "the moon"
+      ],
+      "answer": "the green garden and the brown roof",
+      "modelAnswer": "Going down, the child sees the green garden and the brown roof.",
+      "modelMeaning": {
+        "hi": "नीचे आते हुए बच्चा हरा बगीचा और भूरी छत देखता है।",
+        "hinglish": "Neeche aate hue bachcha hara bageecha aur bhoori chhat dekhta hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.02.4.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What does the child see when he is up in the air?",
+      "questionMeaning": {
+        "hi": "ऊपर हवा में बच्चा क्या देखता है?",
+        "hinglish": "Upar hawa mein bachcha kya dekhta hai?"
+      },
+      "options": [
+        "over the wall, far and wide",
+        "only his feet",
+        "a closed door"
+      ],
+      "answer": "over the wall, far and wide",
+      "modelAnswer": "Up in the air, the child sees over the wall, far and wide: rivers, trees, cattle and the countryside.",
+      "modelMeaning": {
+        "hi": "ऊपर हवा में बच्चा दीवार के पार, दूर-दूर तक देखता है: नदियाँ, पेड़, मवेशी और गाँव।",
+        "hinglish": "Upar hawa mein bachcha deewaar ke paar, door-door tak dekhta hai: nadiyaan, ped, maveshi aur gaon."
+      }
+    },
+    {
+      "type": "say_sentence",
+      "id": "B6.02.4.S06",
+      "skills": [
+        "speak.sentence",
+        "book.comprehension"
+      ],
+      "sentence": "Going up in a swing is the pleasantest thing.",
+      "meaning": {
+        "hi": "झूले पर ऊपर जाना सबसे सुहानी चीज़ है।",
+        "hinglish": "Jhoole par upar jaana sabse suhaani cheez hai.",
+        "en": "Going up in a swing is the pleasantest thing."
+      }
+    }
+  ]
+}

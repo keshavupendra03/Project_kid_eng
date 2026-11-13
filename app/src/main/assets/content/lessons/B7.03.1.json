@@ -1,0 +1,259 @@
+{
+  "id": "B7.03.1",
+  "level": 7,
+  "bookSteps": [
+    "B7.03.1.S12",
+    "B7.03.1.S13"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.03.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "भोला की कहानी आगे बढ़ती है। बाज़ार में दो ठग उसे धोखा देना चाहते हैं। पहले नए शब्द सीखो।",
+        "hinglish": "Bhola ki kahani aage badhti hai. Baazaar mein do thag use dhokha dena chahte hain. Pehle naye shabd seekho.",
+        "en": "Bhola's story goes on. Two thugs in the market want to trick him. First, learn the new words."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.03.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "thug",
+        "emoji": "",
+        "hindi": "ठग",
+        "hinglish": "thag"
+      },
+      "meaning": "a person who cheats or robs people",
+      "example": "The thug tried to cheat the old man.",
+      "exampleMeaning": {
+        "hi": "ठग ने बूढ़े आदमी को ठगने की कोशिश की।",
+        "hinglish": "Thag ne boodhe aadmi ko thagne ki koshish ki."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.03.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "deceive",
+        "emoji": "",
+        "hindi": "धोखा देना",
+        "hinglish": "dhokha dena"
+      },
+      "meaning": "to make someone believe something that is not true",
+      "example": "Never deceive your friends.",
+      "exampleMeaning": {
+        "hi": "अपने दोस्तों को कभी धोखा मत दो।",
+        "hinglish": "Apne doston ko kabhi dhokha mat do."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.03.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "eager",
+        "emoji": "",
+        "hindi": "उत्सुक",
+        "hinglish": "utsuk"
+      },
+      "meaning": "wanting to do something very much",
+      "example": "The children were eager to go out and play.",
+      "exampleMeaning": {
+        "hi": "बच्चे बाहर खेलने जाने के लिए उत्सुक थे।",
+        "hinglish": "Bachche baahar khelne jaane ke liye utsuk the."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.03.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "decision",
+        "emoji": "",
+        "hindi": "फ़ैसला",
+        "hinglish": "faisla"
+      },
+      "meaning": "a choice you make after thinking",
+      "example": "Going to bed early was a good decision.",
+      "exampleMeaning": {
+        "hi": "जल्दी सोना एक अच्छा फ़ैसला था।",
+        "hinglish": "Jaldi sona ek achha faisla tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.03.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "bet",
+        "emoji": "",
+        "hindi": "शर्त",
+        "hinglish": "shart"
+      },
+      "meaning": "an agreement to pay money if you are wrong",
+      "example": "I made a bet with my brother.",
+      "exampleMeaning": {
+        "hi": "मैंने अपने भाई के साथ शर्त लगाई।",
+        "hinglish": "Maine apne bhai ke saath shart lagaayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.03.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "stranger",
+        "emoji": "",
+        "hindi": "अजनबी",
+        "hinglish": "ajnabi"
+      },
+      "meaning": "a person you do not know",
+      "example": "Do not talk to strangers.",
+      "exampleMeaning": {
+        "hi": "अजनबियों से बात मत करो।",
+        "hinglish": "Ajnabiyon se baat mat karo."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.03.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "conversation",
+        "emoji": "",
+        "hindi": "बातचीत",
+        "hinglish": "baatcheet"
+      },
+      "meaning": "a talk between two or more people",
+      "example": "We had a long conversation on the phone.",
+      "exampleMeaning": {
+        "hi": "हमने फ़ोन पर लंबी बातचीत की।",
+        "hinglish": "Humne phone par lambi baatcheet ki."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B7.03.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "sour",
+        "emoji": "",
+        "hindi": "खट्टा",
+        "hinglish": "khatta"
+      },
+      "meaning": "having a taste like lemon",
+      "example": "Raw mangoes are sour.",
+      "exampleMeaning": {
+        "hi": "कच्चे आम खट्टे होते हैं।",
+        "hinglish": "Kachche aam khatte hote hain."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.03.1.S10",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "conversation",
+        "emoji": "",
+        "hindi": "बातचीत",
+        "hinglish": "baatcheet"
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B7.03.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "stranger",
+        "emoji": "",
+        "hindi": "अजनबी",
+        "hinglish": "ajnabi"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.1.S12",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Who are thugs?",
+      "questionMeaning": {
+        "hi": "ठग कौन होते हैं?",
+        "hinglish": "Thag kaun hote hain?"
+      },
+      "options": [
+        "people who cheat and rob others",
+        "people who help others",
+        "people who sell mangoes"
+      ],
+      "answer": "people who cheat and rob others",
+      "modelAnswer": "Thugs are people who cheat and rob others.",
+      "modelMeaning": {
+        "hi": "ठग वे लोग होते हैं जो दूसरों को धोखा देकर लूटते हैं।",
+        "hinglish": "Thag woh log hote hain jo doosron ko dhokha dekar loot-te hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.03.1.S13",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Are they always successful?",
+      "questionMeaning": {
+        "hi": "क्या वे हमेशा कामयाब होते हैं?",
+        "hinglish": "Kya woh hamesha kaamyaab hote hain?"
+      },
+      "options": [
+        "No, a wise person can beat them.",
+        "Yes, always.",
+        "They never try."
+      ],
+      "answer": "No, a wise person can beat them.",
+      "modelAnswer": "No, thugs are not always successful. A wise person like Bhola can beat them.",
+      "modelMeaning": {
+        "hi": "नहीं, ठग हमेशा कामयाब नहीं होते। भोला जैसा समझदार इंसान उन्हें हरा सकता है।",
+        "hinglish": "Nahi, thag hamesha kaamyaab nahi hote. Bhola jaisa samajhdaar insaan unhe hara sakta hai."
+      }
+    }
+  ]
+}

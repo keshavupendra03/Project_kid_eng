@@ -1,0 +1,187 @@
+{
+  "grade": 7, "number": 7, "emoji": "🐪", "title": "The Lost Camel", "pages": "47–55",
+  "sections": [
+    {
+      "emoji": "📖", "title": ["पढ़ो और सीखो", "Padho aur seekho", "Read and Learn"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"card": ["इस पाठ में एक बूढ़ा आदमी सिर्फ़ पैरों के निशान देखकर खोए हुए ऊँट के बारे में सब बता देता है! पहले किताब का सवाल: क्या तुम पैरों के निशान पहचान सकते हो?", "Is paath mein ek boodha aadmi sirf pairon ke nishaan dekhkar khoye hue oont ke baare mein sab bata deta hai! Pehle kitaab ka sawaal: kya tum pairon ke nishaan pehchaan sakte ho?", "In this lesson an old man tells everything about a lost camel just by looking at footprints! First the book's question: can you recognise the footprints of an animal?"]},
+        {"book": true, "q": ["Whose footprints are big and round, like a plate?", "किसके पैरों के निशान थाली जैसे बड़े और गोल होते हैं?", "Kiske pairon ke nishaan thaali jaise bade aur gol hote hain?", ["elephant", "duck", "man"], "elephant", "", "", "", ["🐘", "🦆", "🧍"]]},
+        {"book": true, "q": ["Whose footprints look like a fan with three toes joined by skin?", "किसके पैरों के निशान पंखे जैसे, तीन उँगलियों वाले होते हैं?", "Kiske pairon ke nishaan pankhe jaise, teen ungliyon waale hote hain?", ["duck", "lion", "camel"], "duck", "", "", "", ["🦆", "🦁", "🐪"]]},
+        {"word": ["merchant", "व्यापारी", "vyaapaari", "a person who buys and sells goods", "The merchant sold cloth in the market.", "व्यापारी बाज़ार में कपड़ा बेचता था।", "Vyaapaari baazaar mein kapda bechta tha."]},
+        {"word": ["desert", "रेगिस्तान", "registaan", "a dry place with sand and very little rain", "Camels live in the desert.", "ऊँट रेगिस्तान में रहते हैं।", "Oont registaan mein rehte hain."]},
+        {"word": ["footprints", "पैरों के निशान", "pairon ke nishaan", "marks left by feet or shoes", "We saw footprints on the wet sand.", "हमने गीली रेत पर पैरों के निशान देखे।", "Humne geeli ret par pairon ke nishaan dekhe."]},
+        {"word": ["lame", "लंगड़ा", "langda", "not able to walk well because of a bad leg", "The old horse was lame.", "बूढ़ा घोड़ा लंगड़ा था।", "Boodha ghoda langda tha."]},
+        {"word": ["calmly", "शांति से", "shaanti se", "without getting angry or excited", "She answered calmly.", "उसने शांति से जवाब दिया।", "Usne shaanti se jawab diya."]},
+        {"word": ["dragged", "घसीटा", "ghaseeta", "pulled someone or something along with force", "The dog dragged the stick.", "कुत्ते ने लकड़ी को घसीटा।", "Kutte ne lakdi ko ghaseeta."]},
+        {"word": ["perhaps", "शायद", "shaayad", "maybe", "Perhaps it will rain today.", "शायद आज बारिश होगी।", "Shaayad aaj baarish hogi."]},
+        {"book": true, "pairs": ["किताब के मुहावरों को उनके मतलब से जोड़ो", "Kitaab ke muhaavron ko unke matlab se jodo", "Join the book's phrases to their meanings", [
+          ["a lame excuse", "a weak reason that nobody believes", "कमज़ोर बहाना", "kamzor bahaana"],
+          ["foolproof", "so good that it cannot fail", "पक्का, जो फ़ेल न हो", "pakka, jo fail na ho"],
+          ["to turn a blind eye", "to pretend not to see", "अनदेखा करना", "andekha karna"],
+          ["to work hard", "to put in a lot of effort", "मेहनत करना", "mehnat karna"],
+          ["the ship of the desert", "the camel", "ऊँट", "oont"]]]},
+        {"sayw": ["merchant", "व्यापारी", "vyaapaari"], "skills": ["speak.word", "book.words"]},
+        {"sayw": ["footprints", "पैरों के निशान", "pairon ke nishaan"], "skills": ["speak.word", "book.words"]}
+      ]
+    },
+    {
+      "emoji": "❓", "title": ["समझकर जवाब दो", "Samajhkar jawab do", "Comprehension"], "book": true,
+      "skills": ["book.comprehension", "read.understand"],
+      "steps": [
+        {"card": ["अपनी किताब में पेज 47 से 49 तक ‘The Lost Camel’ पढ़ो। फिर किताब के सवालों के जवाब दो।", "Apni kitaab mein page 47 se 49 tak ‘The Lost Camel’ padho. Phir kitaab ke sawaalon ke jawab do.", "Read ‘The Lost Camel’ on pages 47 to 49 of your book. Then answer the book's questions."]},
+        {"book": true, "q": ["Why were the two merchants surprised at the old man's questions?", "व्यापारी बूढ़े आदमी के सवालों से हैरान क्यों थे?", "Vyaapaari boodhe aadmi ke sawaalon se hairaan kyon the?", ["Because all his questions about the camel were correct.", "Because he could not speak.", "Because he asked for money."], "Because all his questions about the camel were correct.", "The merchants were surprised because the old man's questions were all correct. The camel was old, lame and blind in the left eye.", "व्यापारी हैरान थे क्योंकि बूढ़े आदमी की सारी बातें सही थीं। ऊँट बूढ़ा, लंगड़ा और बाईं आँख से अंधा था।", "Vyaapaari hairaan the kyonki boodhe aadmi ki saari baatein sahi thin. Oont boodha, langda aur baayin aankh se andha tha."]},
+        {"book": true, "q": ["Why did the merchants think that the old man had seen the camel?", "व्यापारियों को क्यों लगा कि बूढ़े आदमी ने ऊँट देखा है?", "Vyaapaariyon ko kyon laga ki boodhe aadmi ne oont dekha hai?", ["He knew it was carrying wheat and honey.", "He was riding the camel.", "He had the camel's rope."], "He knew it was carrying wheat and honey.", "They thought he had seen the camel because he knew so much about it, even that it was carrying wheat and honey.", "उन्हें लगा उसने ऊँट देखा है क्योंकि वह सब जानता था, यहाँ तक कि ऊँट पर गेहूँ और शहद था।", "Unhe laga usne oont dekha hai kyonki woh sab jaanta tha, yahan tak ki oont par gehoon aur shahad tha."]},
+        {"book": true, "q": ["Why did they take the old man to the Khalifa?", "वे बूढ़े आदमी को ख़लीफ़ा के पास क्यों ले गए?", "Woh boodhe aadmi ko Khalifa ke paas kyon le gaye?", ["They thought he had stolen the goods and killed the camel.", "He wanted to meet the Khalifa.", "The Khalifa was his friend."], "They thought he had stolen the goods and killed the camel.", "They took him to the Khalifa because they thought he had stolen the goods and killed the camel.", "वे उसे ख़लीफ़ा के पास ले गए क्योंकि उन्हें लगा कि उसने सामान चुराया और ऊँट को मार दिया।", "Woh use Khalifa ke paas le gaye kyonki unhe laga ki usne saamaan churaaya aur oont ko maar diya."]},
+        {"book": true, "q": ["How did the old man know that the camel was blind?", "बूढ़े आदमी को कैसे पता चला कि ऊँट अंधा है?", "Boodhe aadmi ko kaise pata chala ki oont andha hai?", ["It had eaten leaves only on one side of the road.", "He saw its eyes.", "The merchants told him."], "It had eaten leaves only on one side of the road.", "He knew the camel was blind in one eye because it had eaten the leaves of the bushes only on one side of the road.", "उसे पता था कि ऊँट एक आँख से अंधा है क्योंकि उसने सड़क के सिर्फ़ एक तरफ़ की झाड़ियों के पत्ते खाए थे।", "Use pata tha ki oont ek aankh se andha hai kyonki usne sadak ke sirf ek taraf ki jhaadiyon ke patte khaaye the."]},
+        {"book": true, "q": ["Why were the bees flying only on one side of the road?", "मधुमक्खियाँ सड़क के सिर्फ़ एक तरफ़ क्यों उड़ रही थीं?", "Madhumakkhiyaan sadak ke sirf ek taraf kyon ud rahi thin?", ["Because honey had dropped on that side.", "Because there were flowers there.", "Because it was sunny there."], "Because honey had dropped on that side.", "The bees were flying on one side because the camel was carrying honey on that side and some honey had dropped there.", "मधुमक्खियाँ एक तरफ़ उड़ रही थीं क्योंकि ऊँट उस तरफ़ शहद ले जा रहा था और वहाँ शहद गिरा था।", "Madhumakkhiyaan ek taraf ud rahi thin kyonki oont us taraf shahad le ja raha tha aur wahan shahad gira tha."]},
+        {"book": true, "q": ["Why did the Khalifa not punish the old man?", "ख़लीफ़ा ने बूढ़े आदमी को सज़ा क्यों नहीं दी?", "Khalifa ne boodhe aadmi ko saza kyon nahi di?", ["He was innocent; he had only used his eyes.", "He paid money to the Khalifa.", "He ran away."], "He was innocent; he had only used his eyes.", "The Khalifa did not punish the old man because he was innocent. He had only used his eyes to look at things carefully.", "ख़लीफ़ा ने उसे सज़ा नहीं दी क्योंकि वह बेक़सूर था। उसने बस ध्यान से चीज़ें देखी थीं।", "Khalifa ne use saza nahi di kyonki woh bekasoor tha. Usne bas dhyaan se cheezein dekhi thin."]},
+        {"card": ["अब किताब का दूसरा भाग: सही विकल्प से वाक्य पूरा करो।", "Ab kitaab ka doosra bhaag: sahi vikalp se vaakya poora karo.", "Now part B of the book: complete each sentence with the correct option."]},
+        {"book": true, "q": ["The two merchants were looking ...", "दोनों व्यापारी ढूँढ रहे थे ...", "Dono vyaapaari dhoondh rahe the ...", ["for their friend", "for their lost camel", "for their family members"], "for their lost camel"]},
+        {"book": true, "q": ["The old man's answers were in the form of ...", "बूढ़े आदमी के जवाब किस रूप में थे?", "Boodhe aadmi ke jawab kis roop mein the?", ["silence", "statements", "questions"], "questions"]},
+        {"book": true, "q": ["The old man asked whether ...", "बूढ़े आदमी ने पूछा कि क्या ...", "Boodhe aadmi ne poochha ki kya ...", ["the camel could not walk fast", "the camel carried a heavy load", "the camel was lame"], "the camel was lame"]},
+        {"book": true, "q": ["The merchants were angry because ...", "व्यापारी नाराज़ थे क्योंकि ...", "Vyaapaari naaraaz the kyonki ...", ["they thought the old man had stolen the goods and killed the camel.", "they thought the old man was making fun of them.", "they thought they would never get their camel back."], "they thought the old man had stolen the goods and killed the camel."]},
+        {"book": true, "q": ["The old man knew the camel was lame because ...", "बूढ़ा आदमी जानता था कि ऊँट लंगड़ा है क्योंकि ...", "Boodha aadmi jaanta tha ki oont langda hai kyonki ...", ["one of its footprints could hardly be seen", "the ants carried fallen grains from one side of the road", "he had seen the camel before"], "one of its footprints could hardly be seen"]},
+        {"book": true, "q": ["The Khalifa said that the old man knew so much about the camel because ...", "ख़लीफ़ा ने कहा बूढ़ा आदमी इतना जानता था क्योंकि ...", "Khalifa ne kaha boodha aadmi itna jaanta tha kyonki ...", ["he was an expert", "he had killed the camel", "he used his eyes to look at things carefully"], "he used his eyes to look at things carefully"]},
+        {"book": true, "q": ["The merchants went to ...", "व्यापारी किसके पास गए?", "Vyaapaari kiske paas gaye?", ["the camel", "the khalifa", "the king"], "the khalifa"]},
+        {"book": true, "q": ["The camel was ...", "ऊँट ...", "Oont ...", ["lame in one leg", "blind in one eye", "both lame in one leg and blind in one eye"], "both lame in one leg and blind in one eye"]},
+        {"book": true, "q": ["The Khalifa said to the merchants ...", "ख़लीफ़ा ने व्यापारियों से कहा ...", "Khalifa ne vyaapaariyon se kaha ...", ["use your ears", "use your eyes", "use your mouth"], "use your eyes"]},
+        {"book": true, "q": ["The old man had ...", "बूढ़े आदमी ने ...", "Boodhe aadmi ne ...", ["stolen the camel", "killed the camel", "never seen the camel"], "never seen the camel"]}
+      ]
+    },
+    {
+      "emoji": "🔤", "title": ["शब्द शक्ति", "Shabd Shakti", "Word Power"], "book": true,
+      "skills": ["book.words", "vocab.meaning"],
+      "steps": [
+        {"book": true, "pairs": ["शब्दों को उनके मतलब से जोड़ो", "Shabdon ko unke matlab se jodo", "Match the words with their meanings", [
+          ["calmly", "without excitement", "शांति से", "shaanti se"],
+          ["bee", "a tiny insect", "मधुमक्खी", "madhumakkhi"],
+          ["merchant", "a person who buys and sells goods", "व्यापारी", "vyaapaari"],
+          ["lame", "disabled in the leg or foot", "लंगड़ा", "langda"],
+          ["footprint", "the mark left by a foot or shoe", "पैर का निशान", "pair ka nishaan"]]]},
+        {"book": true, "fb": ["Bhola was ___ for his ball.", "searching", ["searching", "carrying", "angry"], "भोला अपनी गेंद ढूँढ रहा था।", "Bhola apni gend dhoondh raha tha."]},
+        {"book": true, "fb": ["The truck was ___ bags of onions.", "carrying", ["carrying", "searching", "understand"], "ट्रक में प्याज़ की बोरियाँ लदी थीं।", "Truck mein pyaaz ki boriyaan ladi thin."]},
+        {"book": true, "fb": ["The teacher was ___ because Suraj did not do his work.", "angry", ["angry", "foolproof", "carrying"], "टीचर नाराज़ थे क्योंकि सूरज ने अपना काम नहीं किया।", "Teacher naaraaz the kyonki Suraj ne apna kaam nahi kiya."]},
+        {"book": true, "fb": ["No one could ___ the story told by Ramesh.", "understand", ["understand", "carrying", "angry"], "रमेश की सुनाई कहानी कोई नहीं समझ सका।", "Ramesh ki sunaayi kahani koi nahi samajh saka."]},
+        {"book": true, "fb": ["The police ___ when they saw the thief was running away.", "turned a blind eye", ["turned a blind eye", "worked hard", "left footprints"], "चोर को भागते देखकर पुलिस ने अनदेखा कर दिया।", "Chor ko bhaagte dekhkar police ne andekha kar diya."]},
+        {"book": true, "fb": ["The camel is known as ___.", "the ship of the desert", ["the ship of the desert", "a lame excuse", "foolproof"], "ऊँट को रेगिस्तान का जहाज़ कहते हैं।", "Oont ko registaan ka jahaaz kehte hain."]},
+        {"book": true, "fb": ["Ramesh had not done his homework, so he made ___ of falling sick.", "a lame excuse", ["a lame excuse", "the ship of the desert", "foolproof"], "रमेश ने होमवर्क नहीं किया था, इसलिए उसने बीमार होने का कमज़ोर बहाना बनाया।", "Ramesh ne homework nahi kiya tha, isliye usne beemaar hone ka kamzor bahaana banaaya."]},
+        {"book": true, "fb": ["Some products in the market claim to be a ___ remedy for illness.", "foolproof", ["foolproof", "angry", "lame excuse"], "बाज़ार में कुछ चीज़ें बीमारी का पक्का इलाज होने का दावा करती हैं।", "Baazaar mein kuch cheezein beemaari ka pakka ilaaj hone ka daava karti hain."]},
+        {"book": true, "fb": ["Shyama has ___ to secure good marks.", "to work hard", ["to work hard", "to turn a blind eye", "leave footprints"], "अच्छे नंबर लाने के लिए श्यामा को मेहनत करनी है।", "Achhe number laane ke liye Shyama ko mehnat karni hai."]},
+        {"book": true, "fb": ["If you ___ on the sand at a beach, the sea is sure to wash them away.", "leave footprints", ["leave footprints", "work hard", "understand"], "अगर तुम समुद्र किनारे रेत पर पैरों के निशान छोड़ो, तो समुद्र उन्हें बहा ले जाएगा।", "Agar tum samudra kinaare ret par pairon ke nishaan chhodo, to samudra unhe baha le jaayega."]}
+      ]
+    },
+    {
+      "emoji": "✏️", "title": ["ग्रामर: क्रिया का सही रूप और Wh- सवाल", "Grammar: kriya ka sahi roop aur Wh- sawaal", "Grammar in Use: verb forms and wh- questions"], "book": true,
+      "skills": ["book.grammar", "grammar.tenses"],
+      "steps": [
+        {"card": ["बीते समय में जो काम चल रहा था, उसके लिए was/were + ing: Two boys were playing (दो लड़के खेल रहे थे)। जो काम हो गया, उसके लिए दूसरा रूप: They ran (वे दौड़े)।", "Beete samay mein jo kaam chal raha tha, uske liye was/were + ing: Two boys were playing (do ladke khel rahe the). Jo kaam ho gaya, uske liye doosra roop: They ran (woh daude).", "For an action going on in the past, use was/were + ing: Two boys were playing. For a finished action, use the past form: They ran."]},
+        {"book": true, "fb": ["Two boys ___ in the ground with a ball. (play)", "were playing", ["were playing", "plays", "is playing"], "दो लड़के मैदान में गेंद से खेल रहे थे।", "Do ladke maidaan mein gend se khel rahe the."]},
+        {"book": true, "fb": ["A few boys ___ them. (watch)", "were watching", ["were watching", "watches", "was watch"], "कुछ लड़के उन्हें देख रहे थे।", "Kuch ladke unhe dekh rahe the."]},
+        {"book": true, "fb": ["All of them ___ their free time. (enjoy)", "were enjoying", ["were enjoying", "enjoys", "is enjoy"], "वे सब अपने खाली समय का मज़ा ले रहे थे।", "Woh sab apne khaali samay ka mazaa le rahe the."]},
+        {"book": true, "fb": ["Suddenly it started ___. (rain)", "raining", ["raining", "rains", "rained"], "अचानक बारिश होने लगी।", "Achaanak baarish hone lagi."]},
+        {"book": true, "fb": ["Now all of them ___ back to their rooms. (run)", "ran", ["ran", "runs", "running"], "अब वे सब दौड़कर अपने कमरों में चले गए।", "Ab woh sab daudkar apne kamron mein chale gaye."]},
+        {"book": true, "fb": ["One of them ___ up the ball. (pick)", "picked", ["picked", "picks", "picking"], "उनमें से एक ने गेंद उठा ली।", "Unmein se ek ne gend utha li."]},
+        {"card": ["अब जवाब से सवाल बनाओ। किताब का उदाहरण: Suman has her lunch at office. (where) → Where does Suman have her lunch?", "Ab jawab se sawaal banao. Kitaab ka udaharan: Suman has her lunch at office. (where) → Where does Suman have her lunch?", "Now make questions from answers. The book's example: Suman has her lunch at office. (where) → Where does Suman have her lunch?"]},
+        {"book": true, "skills": ["book.grammar", "grammar.wh_questions"], "build": ["जवाब: She has her lunch at 10 o'clock. (when)", "Jawab: She has her lunch at 10 o'clock. (when)", "Answer: She has her lunch at 10 o'clock. Ask with ‘when’.", "When does she have her lunch?", "वह दोपहर का खाना कब खाती है?", "Woh dopahar ka khaana kab khaati hai?", ["has"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.wh_questions"], "build": ["जवाब: She has chappaties and vegetables for lunch. (what)", "Jawab: She has chappaties and vegetables for lunch. (what)", "Answer: She has chappaties and vegetables. Ask with ‘what’.", "What does she have for lunch?", "वह दोपहर में क्या खाती है?", "Woh dopahar mein kya khaati hai?", ["has"]]},
+        {"book": true, "skills": ["book.grammar", "grammar.wh_questions"], "build": ["जवाब: She had dinner at her friend's home last night. (where)", "Jawab: She had dinner at her friend's home last night. (where)", "Answer: She had dinner at her friend's home. Ask with ‘where’.", "Where did she have dinner last night?", "कल रात उसने खाना कहाँ खाया?", "Kal raat usne khaana kahan khaaya?", ["had"]]},
+        {"card": ["किताब का एक नोट: apostrophe (’)। एक के लिए ’s (the man's story), कई (s वाले) के लिए s’ (the merchants' story)।", "Kitaab ka ek note: apostrophe (’). Ek ke liye ’s (the man's story), kai (s waale) ke liye s’ (the merchants' story).", "A note from the book: the apostrophe. One person: ’s (the man's story). More than one, ending in s: s’ (the merchants' story)."]},
+        {"book": true, "q": ["The story of the two merchants is ...", "दोनों व्यापारियों की कहानी = ...", "Dono vyaapaariyon ki kahani = ...", ["the merchants' story", "the merchant's story", "the merchants story's"], "the merchants' story"]}
+      ]
+    },
+    {
+      "emoji": "💬", "title": ["चलो बात करें: दोस्त से फ़ोन पर", "Chalo baat karein: dost se phone par", "Let's Talk: a phone call with a friend"], "book": true,
+      "skills": ["book.talk", "speak.sentence"],
+      "steps": [
+        {"card": ["किताब कहती है: तुम्हारा दोस्त छुट्टियों में घूमकर लौटा है। फ़ोन पर उससे उसकी यात्रा के बारे में सवाल पूछो। मैं दोस्त बनता हूँ, तुम सवाल पूछो!", "Kitaab kehti hai: tumhara dost chhuttiyon mein ghoomkar lauta hai. Phone par usse uski yaatra ke baare mein sawaal poochho. Main dost banta hoon, tum sawaal poochho!", "The book says: your friend is back from a holiday trip. Ask about the journey on the phone. I'll be your friend; you ask the questions!"]},
+        {"book": true, "type": "roleplay", "scene": "📞", "turns": [
+          {"id": "hi", "tinku": "Hello! I am back from my holiday trip.", "meaning": ["हेलो! मैं छुट्टियों की यात्रा से लौट आया।", "Hello! Main chhuttiyon ki yaatra se laut aaya."],
+            "replies": [
+              {"say": "Where did you go?", "meaning": ["तुम कहाँ गए थे?", "Tum kahan gaye the?"], "patterns": ["where did you go", "where did you go *", "where *"]}
+            ]},
+          {"id": "where", "tinku": "I went to Pachmarhi.", "meaning": ["मैं पचमढ़ी गया था।", "Main Pachmarhi gaya tha."],
+            "replies": [
+              {"say": "How did you go there?", "meaning": ["तुम वहाँ कैसे गए?", "Tum wahan kaise gaye?"], "patterns": ["how did you go there", "how did you go *", "how *"]}
+            ]},
+          {"id": "how", "tinku": "I went there by bus with my family.", "meaning": ["मैं परिवार के साथ बस से गया।", "Main parivaar ke saath bus se gaya."],
+            "replies": [
+              {"say": "What's the weather like at Pachmarhi?", "meaning": ["पचमढ़ी में मौसम कैसा है?", "Pachmarhi mein mausam kaisa hai?"], "patterns": ["whats the weather like *", "what is the weather like *", "how is the weather *", "* weather *"]}
+            ]},
+          {"id": "weather", "tinku": "It's really fine. It is cool and green.", "meaning": ["बहुत अच्छा है। ठंडा और हरा-भरा है।", "Bahut achha hai. Thanda aur hara-bhara hai."],
+            "replies": [
+              {"say": "What did you see there?", "meaning": ["तुमने वहाँ क्या देखा?", "Tumne wahan kya dekha?"], "patterns": ["what did you see there", "what did you see *", "what did you *"]}
+            ]},
+          {"id": "see", "tinku": "I saw waterfalls and caves. Bee Fall was beautiful!", "meaning": ["मैंने झरने और गुफ़ाएँ देखीं। बी फ़ॉल बहुत सुंदर था!", "Maine jharne aur gufaayein dekhin. Bee Fall bahut sundar tha!"],
+            "replies": [
+              {"say": "Did you enjoy your trip?", "meaning": ["क्या तुम्हें यात्रा में मज़ा आया?", "Kya tumhe yaatra mein mazaa aaya?"], "patterns": ["did you enjoy your trip", "did you enjoy *", "did you like *"]}
+            ]},
+          {"id": "enjoy", "tinku": "Yes, very much! I will show you the photos. Bye!", "meaning": ["हाँ, बहुत! मैं तुम्हें फ़ोटो दिखाऊँगा। बाय!", "Haan, bahut! Main tumhe photo dikhaaunga. Bye!"],
+            "replies": [
+              {"say": "Bye! See you soon.", "meaning": ["बाय! जल्दी मिलते हैं।", "Bye! Jaldi milte hain."], "patterns": ["bye *", "bye", "goodbye *", "goodbye", "see you *"]}
+            ]}
+        ]}
+      ]
+    },
+    {
+      "emoji": "📝", "title": ["चलो लिखें: मैं खोया हुआ ऊँट हूँ", "Chalo likhein: main khoya hua oont hoon", "Let's Write: I am the lost camel"], "book": true,
+      "skills": ["book.writing"],
+      "steps": [
+        {"card": ["किताब कहती है: सोचो तुम कहानी वाला ऊँट हो। ‘मैं’ से कहानी लिखो। इन शब्दों का इस्तेमाल करो: lake, tracks, footprints, went back, happy, leaves, lost, sand।", "Kitaab kehti hai: socho tum kahani waala oont ho. ‘Main’ se kahani likho. In shabdon ka istemaal karo: lake, tracks, footprints, went back, happy, leaves, lost, sand.", "The book says: imagine you are the camel in the story. Write the story as ‘I’, using: lake, tracks, footprints, went back, happy, leaves, lost, sand."]},
+        {"book": true, "build": ["ऊँट बोलता है: एक दिन मैं रेगिस्तान में खो गया।", "Oont bolta hai: ek din main registaan mein kho gaya.", "As the camel: say you got lost in the desert.", "One day I got lost in the desert.", "एक दिन मैं रेगिस्तान में खो गया।", "Ek din main registaan mein kho gaya."]},
+        {"book": true, "build": ["शब्द: leaves — मैंने रास्ते की झाड़ियों के पत्ते खाए।", "Shabd: leaves — maine raaste ki jhaadiyon ke patte khaaye.", "Word: leaves. Say you ate leaves on the way.", "I ate the leaves of the bushes on the way.", "मैंने रास्ते में झाड़ियों के पत्ते खाए।", "Maine raaste mein jhaadiyon ke patte khaaye."]},
+        {"book": true, "build": ["शब्द: lake — मैं पानी पीने एक झील पर गया।", "Shabd: lake — main paani peene ek jheel par gaya.", "Word: lake. Say you went to a lake to drink water.", "I went to a lake to drink water.", "मैं पानी पीने एक झील पर गया।", "Main paani peene ek jheel par gaya."]},
+        {"book": true, "build": ["शब्द: footprints, sand — मेरे पैरों के निशान रेत पर रह गए।", "Shabd: footprints, sand — mere pairon ke nishaan ret par reh gaye.", "Words: footprints, sand. Say your footprints stayed on the sand.", "My footprints were left on the sand.", "मेरे पैरों के निशान रेत पर रह गए।", "Mere pairon ke nishaan ret par reh gaye."]},
+        {"book": true, "build": ["शब्द: went back, happy — मैं अपने मालिकों के पास वापस गया और ख़ुश था।", "Shabd: went back, happy — main apne maalikon ke paas waapas gaya aur khush tha.", "Words: went back, happy. Say you went back to your owners and were happy.", "I went back to my owners and I was very happy.", "मैं अपने मालिकों के पास वापस गया और बहुत ख़ुश था।", "Main apne maalikon ke paas waapas gaya aur bahut khush tha."]},
+        {"book": true, "q": ["Give a title to your story. Which title fits best?", "अपनी कहानी को नाम दो। कौन सा नाम सबसे अच्छा है?", "Apni kahani ko naam do. Kaun sa naam sabse achha hai?", ["The Camel Who Came Back", "A Day at School", "The Flying Fish"], "The Camel Who Came Back"]}
+      ]
+    },
+    {
+      "emoji": "🐫", "title": ["चलो करके देखें: जानवर पहचानो और ऊँट के बारे में पढ़ो", "Chalo karke dekhein: jaanwar pehchaano aur oont ke baare mein padho", "Let's Do It: name the animals and read about the camel"], "book": true,
+      "skills": ["book.activity", "vocab.animals"],
+      "steps": [
+        {"book": true, "q": ["The largest land animal, long trunk, eats leaves and fruits.", "सबसे बड़ा ज़मीनी जानवर, लंबी सूँड, पत्ते और फल खाता है।", "Sabse bada zameeni jaanwar, lambi soond, patte aur phal khaata hai.", ["elephant", "camel", "zebra"], "elephant", "", "", "", ["🐘", "🐪", "🦓"]]},
+        {"book": true, "q": ["A wild animal with black and white stripes, eats leaves.", "काली-सफ़ेद धारियों वाला जंगली जानवर, पत्ते खाता है।", "Kaali-safed dhaariyon waala jangli jaanwar, patte khaata hai.", ["zebra", "tiger", "giraffe"], "zebra", "", "", "", ["🦓", "🐅", "🦒"]]},
+        {"book": true, "q": ["A flightless bird, white and black, eats fish.", "न उड़ने वाला सफ़ेद-काला पक्षी, मछली खाता है।", "Na udne waala safed-kaala pakshi, machhli khaata hai.", ["penguin", "crow", "parrot"], "penguin", "", "", "", ["🐧", "🐦", "🦜"]]},
+        {"book": true, "q": ["A tall animal with a long neck, eats leaves.", "लंबी गर्दन वाला ऊँचा जानवर, पत्ते खाता है।", "Lambi gardan waala ooncha jaanwar, patte khaata hai.", ["giraffe", "horse", "deer"], "giraffe", "", "", "", ["🦒", "🐎", "🦌"]]},
+        {"card": ["अब किताब के पेज 54-55 पर ऊँट वाला पाठ पढ़ो। फिर सवालों के जवाब दो।", "Ab kitaab ke page 54-55 par oont waala paath padho. Phir sawaalon ke jawab do.", "Now read the passage about the camel on pages 54–55 of your book. Then answer the questions."]},
+        {"book": true, "q": ["In what ways can the camel help us in agriculture?", "ऊँट खेती में हमारी कैसे मदद करता है?", "Oont kheti mein hamari kaise madad karta hai?", ["It pulls ploughs, turns wheels to water fields and carries goods to the market.", "It catches fish.", "It guards the house."], "It pulls ploughs, turns wheels to water fields and carries goods to the market.", "Camels pull ploughs, turn wheels to irrigate fields and carry goods to the market.", "ऊँट हल खींचते हैं, खेतों में पानी के लिए पहिए घुमाते हैं और सामान बाज़ार ले जाते हैं।", "Oont hal kheenchte hain, kheton mein paani ke liye pahiye ghumaate hain aur saamaan baazaar le jaate hain."]},
+        {"book": true, "q": ["What's the use of the camel's hump?", "ऊँट के कूबड़ का क्या काम है?", "Oont ke koobad ka kya kaam hai?", ["It gives energy when food and water are scarce.", "It stores sand.", "It helps it to swim."], "It gives energy when food and water are scarce.", "The camel's hump is a source of energy when food and water are scarce.", "जब खाना-पानी कम हो, तब ऊँट का कूबड़ उसे ताक़त देता है।", "Jab khaana-paani kam ho, tab oont ka koobad use taakat deta hai."]},
+        {"book": true, "q": ["How is the camel's body suited to the desert's hard conditions?", "ऊँट का शरीर रेगिस्तान के लिए कैसे बना है?", "Oont ka shareer registaan ke liye kaise bana hai?", ["Broad soft feet, thick skin, three eyelids and special ears and nose.", "Short legs and wings.", "Thin skin and small feet."], "Broad soft feet, thick skin, three eyelids and special ears and nose.", "The camel has broad soft feet for the sand, a thick skin against heat and cold, three eyelids to keep out sand, and ears and nose that keep out sand storms.", "ऊँट के चौड़े नरम पैर, मोटी खाल, तीन पलकें, और रेत रोकने वाले कान-नाक होते हैं।", "Oont ke chaude naram pair, moti khaal, teen palkein, aur ret rokne waale kaan-naak hote hain."]},
+        {"book": true, "q": ["What does the camel eat?", "ऊँट क्या खाता है?", "Oont kya khaata hai?", ["grass, dates and grain; dry leaves and seeds in the desert", "meat and fish", "only milk"], "grass, dates and grain; dry leaves and seeds in the desert", "Camels eat grass, dates and grain. Deep in the desert they live on dry leaves and seeds.", "ऊँट घास, खजूर और अनाज खाते हैं। रेगिस्तान में सूखे पत्ते और बीज खाकर रहते हैं।", "Oont ghaas, khajoor aur anaaj khaate hain. Registaan mein sookhe patte aur beej khaakar rehte hain."]},
+        {"book": true, "q": ["Give a suitable title to the passage.", "इस पाठ का सही शीर्षक दो।", "Is paath ka sahi sheershak do.", ["The Ship of the Desert", "The King of the Forest", "My Pet Cat"], "The Ship of the Desert"]}
+      ]
+    },
+    {
+      "emoji": "🌟", "title": ["और सीखो: जासूस बनो!", "Aur seekho: jaasoos bano!", "Learn more: be a detective!"], "book": false,
+      "skills": ["vocab.nature"],
+      "steps": [
+        {"card": ["बूढ़े आदमी ने सिर्फ़ ध्यान से देखकर सब पता कर लिया। इसे observation (ध्यान से देखना) कहते हैं। अच्छे जासूस और वैज्ञानिक यही करते हैं!", "Boodhe aadmi ne sirf dhyaan se dekhkar sab pata kar liya. Ise observation (dhyaan se dekhna) kehte hain. Achhe jaasoos aur vaigyaanik yahi karte hain!", "The old man found out everything just by looking carefully. This is called observation. Good detectives and scientists do the same!"]},
+        {"pairs": ["रेगिस्तान के शब्द जोड़ो", "Registaan ke shabd jodo", "Join the desert words to their meanings", [
+          ["oasis", "a place in the desert with water and trees", "नख़लिस्तान (रेगिस्तान में पानी वाली जगह)", "nakhlistaan (registaan mein paani waali jagah)"],
+          ["sand dune", "a hill of sand", "रेत का टीला", "ret ka teela"],
+          ["cactus", "a desert plant with thorns", "नागफनी", "naagphani"],
+          ["hump", "the round lump on a camel's back", "कूबड़", "koobad"]]]},
+        {"q": ["You see wet footprints going from the bathroom to the kitchen. What can you say?", "बाथरूम से रसोई तक गीले पैरों के निशान हैं। क्या पता चलता है?", "Bathroom se rasoi tak geele pairon ke nishaan hain. Kya pata chalta hai?", ["Someone walked from the bathroom to the kitchen.", "It rained inside.", "Nobody is at home."], "Someone walked from the bathroom to the kitchen."]},
+        {"q": ["Which Indian state has the Thar desert?", "थार रेगिस्तान भारत के किस राज्य में है?", "Thar registaan Bharat ke kis rajya mein hai?", ["Rajasthan", "Kerala", "Assam"], "Rajasthan", "The Thar desert is in Rajasthan.", "थार रेगिस्तान राजस्थान में है।", "Thar registaan Rajasthan mein hai."]},
+        {"fb": ["A camel can drink up to 100 litres of water in ten ___.", "minutes", ["minutes", "years", "days"], "ऊँट दस मिनट में 100 लीटर तक पानी पी सकता है।", "Oont das minute mein 100 litre tak paani pee sakta hai."]}
+      ]
+    },
+    {
+      "emoji": "🏆", "title": ["पाठ 7 का टेस्ट", "Paath 7 ka test", "Lesson 7 test"], "test": true,
+      "skills": ["book.comprehension"],
+      "steps": [
+        {"book": true, "q": ["The two merchants were looking ...", "दोनों व्यापारी ढूँढ रहे थे ...", "Dono vyaapaari dhoondh rahe the ...", ["for their friend", "for their lost camel", "for their family members"], "for their lost camel"]},
+        {"book": true, "q": ["The old man knew the camel was lame because ...", "बूढ़े आदमी को कैसे पता था कि ऊँट लंगड़ा है?", "Boodhe aadmi ko kaise pata tha ki oont langda hai?", ["one of its footprints could hardly be seen", "the ants carried fallen grains", "he had seen the camel before"], "one of its footprints could hardly be seen"]},
+        {"book": true, "q": ["The Khalifa said to the merchants ...", "ख़लीफ़ा ने व्यापारियों से कहा ...", "Khalifa ne vyaapaariyon se kaha ...", ["use your ears", "use your eyes", "use your mouth"], "use your eyes"]},
+        {"book": true, "q": ["The old man had ...", "बूढ़े आदमी ने ...", "Boodhe aadmi ne ...", ["stolen the camel", "killed the camel", "never seen the camel"], "never seen the camel"]},
+        {"book": true, "skills": ["book.words"], "q": ["What does ‘merchant’ mean?", "‘merchant’ का मतलब?", "‘merchant’ ka matlab?", ["a person who buys and sells goods", "a tiny insect", "without excitement"], "a person who buys and sells goods"]},
+        {"book": true, "skills": ["book.words"], "fb": ["Ramesh had not done his homework, so he made ___ of falling sick.", "a lame excuse", ["a lame excuse", "foolproof", "the ship of the desert"], "रमेश ने बीमार होने का कमज़ोर बहाना बनाया।", "Ramesh ne beemaar hone ka kamzor bahaana banaaya."]},
+        {"book": true, "skills": ["book.grammar", "grammar.tenses"], "fb": ["Two boys ___ in the ground with a ball.", "were playing", ["were playing", "plays", "is playing"], "दो लड़के मैदान में गेंद से खेल रहे थे।", "Do ladke maidaan mein gend se khel rahe the."]},
+        {"book": true, "skills": ["book.grammar", "grammar.wh_questions"], "q": ["She has her lunch at 10 o'clock. Ask with ‘when’.", "‘when’ से सवाल बनाओ", "‘when’ se sawaal banao", ["When does she have her lunch?", "When she has her lunch?", "When does she has her lunch?"], "When does she have her lunch?"]},
+        {"book": true, "skills": ["book.activity"], "q": ["What's the use of the camel's hump?", "ऊँट के कूबड़ का क्या काम है?", "Oont ke koobad ka kya kaam hai?", ["It gives energy when food and water are scarce.", "It stores sand.", "It helps it to swim."], "It gives energy when food and water are scarce."]},
+        {"book": true, "skills": ["book.activity"], "q": ["A flightless bird, white and black, eats fish.", "न उड़ने वाला पक्षी, मछली खाता है।", "Na udne waala pakshi, machhli khaata hai.", ["penguin", "crow", "parrot"], "penguin"]}
+      ]
+    }
+  ]
+}

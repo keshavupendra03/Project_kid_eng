@@ -1,0 +1,89 @@
+{
+  "id": "B6.08.9",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.08.9.S01",
+      "skills": [
+        "vocab.animals"
+      ],
+      "question": "Which is the largest land animal?",
+      "questionMeaning": {
+        "hi": "ज़मीन पर सबसे बड़ा जानवर कौन सा है?",
+        "hinglish": "Zameen par sabse bada jaanwar kaun sa hai?"
+      },
+      "options": [
+        "elephant",
+        "giraffe",
+        "horse"
+      ],
+      "answer": "elephant",
+      "modelAnswer": "The elephant is the largest land animal.",
+      "modelMeaning": {
+        "hi": "हाथी ज़मीन पर रहने वाला सबसे बड़ा जानवर है।",
+        "hinglish": "Haathi zameen par rehne waala sabse bada jaanwar hai."
+      },
+      "emojis": [
+        "🐘",
+        "🦒",
+        "🐎"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.08.9.S02",
+      "skills": [
+        "vocab.animals"
+      ],
+      "question": "What does an elephant eat?",
+      "questionMeaning": {
+        "hi": "हाथी क्या खाता है?",
+        "hinglish": "Haathi kya khaata hai?"
+      },
+      "options": [
+        "grass, leaves, bananas and sugarcane",
+        "meat",
+        "fish"
+      ],
+      "answer": "grass, leaves, bananas and sugarcane"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.9.S03",
+      "skills": [
+        "vocab.animals"
+      ],
+      "sentence": "The baby of an elephant is called a ___.",
+      "answer": "calf",
+      "options": [
+        "calf",
+        "cub",
+        "kitten"
+      ],
+      "meaning": {
+        "hi": "हाथी के बच्चे को calf कहते हैं।",
+        "hinglish": "Haathi ke bachche ko calf kehte hain."
+      }
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.08.9.S04",
+      "skills": [
+        "vocab.animals"
+      ],
+      "sentence": "An elephant uses its ___ like a hand.",
+      "answer": "trunk",
+      "options": [
+        "trunk",
+        "tail",
+        "ear"
+      ],
+      "meaning": {
+        "hi": "हाथी अपनी सूँड का इस्तेमाल हाथ की तरह करता है।",
+        "hinglish": "Haathi apni soond ka istemaal haath ki tarah karta hai."
+      }
+    }
+  ]
+}

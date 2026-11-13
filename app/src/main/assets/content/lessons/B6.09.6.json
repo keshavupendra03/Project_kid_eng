@@ -1,0 +1,193 @@
+{
+  "id": "B6.09.6",
+  "level": 6,
+  "bookSteps": [
+    "B6.09.6.S01",
+    "B6.09.6.S02",
+    "B6.09.6.S03",
+    "B6.09.6.S05",
+    "B6.09.6.S06"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.09.6.S01",
+      "skills": [
+        "book.writing",
+        "vocab.jobs"
+      ],
+      "question": "A bow of colours in the sky: r____",
+      "questionMeaning": {
+        "hi": "आसमान में रंगों का धनुष",
+        "hinglish": "Aasmaan mein rangon ka dhanush"
+      },
+      "options": [
+        "rainbow",
+        "rain",
+        "river"
+      ],
+      "answer": "rainbow"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.6.S02",
+      "skills": [
+        "book.writing",
+        "vocab.jobs"
+      ],
+      "question": "A big animal that eats sugarcane: e____",
+      "questionMeaning": {
+        "hi": "गन्ना खाने वाला बड़ा जानवर",
+        "hinglish": "Ganna khaane waala bada jaanwar"
+      },
+      "options": [
+        "elephant",
+        "eagle",
+        "emu"
+      ],
+      "answer": "elephant"
+    },
+    {
+      "type": "choice",
+      "id": "B6.09.6.S03",
+      "skills": [
+        "book.writing",
+        "vocab.jobs"
+      ],
+      "question": "Something that goes with you all the time: s____",
+      "questionMeaning": {
+        "hi": "जो हर समय तुम्हारे साथ जाती है",
+        "hinglish": "Jo har samay tumhare saath jaati hai"
+      },
+      "options": [
+        "shadow",
+        "school",
+        "sun"
+      ],
+      "answer": "shadow"
+    },
+    {
+      "type": "learn_card",
+      "id": "B6.09.6.S04",
+      "skills": [
+        "book.writing",
+        "vocab.jobs"
+      ],
+      "text": {
+        "hi": "किताब के बॉक्स में दस पेशे (professions) छिपे हैं, जैसे architect। यहाँ हर पेशे को उसके काम से जोड़ो।",
+        "hinglish": "Kitaab ke box mein das peshe (professions) chhipe hain, jaise architect. Yahan har peshe ko uske kaam se jodo.",
+        "en": "The box in the book hides ten professions, like architect. Here, join each profession to its work."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.09.6.S05",
+      "skills": [
+        "book.writing",
+        "vocab.jobs"
+      ],
+      "instruction": {
+        "hi": "पेशे को उसके काम से जोड़ो",
+        "hinglish": "Peshe ko uske kaam se jodo",
+        "en": "Join each profession to its work"
+      },
+      "pairs": [
+        {
+          "left": "architect",
+          "right": "plans buildings",
+          "meaning": {
+            "hi": "भवन का नक़्शा बनाने वाला",
+            "hinglish": "bhavan ka naksha banaane waala"
+          }
+        },
+        {
+          "left": "nurse",
+          "right": "looks after patients",
+          "meaning": {
+            "hi": "नर्स",
+            "hinglish": "nurse"
+          }
+        },
+        {
+          "left": "driver",
+          "right": "drives a bus or car",
+          "meaning": {
+            "hi": "ड्राइवर",
+            "hinglish": "driver"
+          }
+        },
+        {
+          "left": "gardener",
+          "right": "looks after plants",
+          "meaning": {
+            "hi": "माली",
+            "hinglish": "maali"
+          }
+        },
+        {
+          "left": "advocate",
+          "right": "fights cases in court",
+          "meaning": {
+            "hi": "वकील",
+            "hinglish": "vakeel"
+          }
+        },
+        {
+          "left": "pilot",
+          "right": "flies an aeroplane",
+          "meaning": {
+            "hi": "पायलट",
+            "hinglish": "pilot"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B6.09.6.S06",
+      "skills": [
+        "book.writing",
+        "vocab.jobs"
+      ],
+      "instruction": {
+        "hi": "पेशे को उसके काम से जोड़ो",
+        "hinglish": "Peshe ko uske kaam se jodo",
+        "en": "Join each profession to its work"
+      },
+      "pairs": [
+        {
+          "left": "teacher",
+          "right": "teaches students",
+          "meaning": {
+            "hi": "शिक्षक",
+            "hinglish": "shikshak"
+          }
+        },
+        {
+          "left": "painter",
+          "right": "paints walls or pictures",
+          "meaning": {
+            "hi": "पेंटर",
+            "hinglish": "painter"
+          }
+        },
+        {
+          "left": "engineer",
+          "right": "builds machines and roads",
+          "meaning": {
+            "hi": "इंजीनियर",
+            "hinglish": "engineer"
+          }
+        },
+        {
+          "left": "artist",
+          "right": "draws and paints pictures",
+          "meaning": {
+            "hi": "कलाकार",
+            "hinglish": "kalaakaar"
+          }
+        }
+      ]
+    }
+  ]
+}

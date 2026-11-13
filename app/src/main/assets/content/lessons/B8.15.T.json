@@ -1,0 +1,198 @@
+{
+  "id": "B8.15.T",
+  "level": 8,
+  "bookSteps": [
+    "B8.15.T.S01",
+    "B8.15.T.S02",
+    "B8.15.T.S03",
+    "B8.15.T.S04",
+    "B8.15.T.S05",
+    "B8.15.T.S06",
+    "B8.15.T.S07",
+    "B8.15.T.S08",
+    "B8.15.T.S09",
+    "B8.15.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B8.15.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What is the secret?",
+      "questionMeaning": {
+        "hi": "राज़ क्या है?",
+        "hinglish": "Raaz kya hai?"
+      },
+      "options": [
+        "The robin has built a nest in the cherry tree and laid four eggs.",
+        "The tree is going to fall.",
+        "The boy found money."
+      ],
+      "answer": "The robin has built a nest in the cherry tree and laid four eggs."
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "When will the secret be out?",
+      "questionMeaning": {
+        "hi": "राज़ कब खुलेगा?",
+        "hinglish": "Raaz kab khulega?"
+      },
+      "options": [
+        "when the little birds fly out",
+        "tomorrow morning",
+        "when it rains"
+      ],
+      "answer": "when the little birds fly out"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Who told the secret to the tree?",
+      "questionMeaning": {
+        "hi": "पेड़ को किसने बताया?",
+        "hinglish": "Ped ko kisne bataaya?"
+      },
+      "options": [
+        "the bird (the robin)",
+        "the boy",
+        "the wind"
+      ],
+      "answer": "the bird (the robin)"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "In which word does g sound like the g in ‘page’?",
+      "questionMeaning": {
+        "hi": "page वाली g",
+        "hinglish": "page waali g"
+      },
+      "options": [
+        "giant",
+        "glass",
+        "twig"
+      ],
+      "answer": "giant"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "In which word does g sound like the g in ‘pig’?",
+      "questionMeaning": {
+        "hi": "pig वाली g",
+        "hinglish": "pig waali g"
+      },
+      "options": [
+        "grass",
+        "cage",
+        "gem"
+      ],
+      "answer": "grass"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.T.S06",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "When I sleep I never ___.",
+      "answer": "weep",
+      "options": [
+        "weep",
+        "wrong",
+        "tree"
+      ],
+      "meaning": {
+        "hi": "सोते समय मैं कभी नहीं रोता।",
+        "hinglish": "Sote samay main kabhi nahi rota."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.T.S07",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What did the leaves say in the autumn?",
+      "questionMeaning": {
+        "hi": "पतझड़ में?",
+        "hinglish": "Patjhad mein?"
+      },
+      "options": [
+        "Aren't we all gay?",
+        "Weary are we.",
+        "Here we are."
+      ],
+      "answer": "Aren't we all gay?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.T.S08",
+      "skills": [
+        "book.grammar",
+        "grammar.tenses"
+      ],
+      "question": "The children make toys. (passive)",
+      "questionMeaning": {
+        "hi": "Passive वाक्य बनाओ",
+        "hinglish": "Passive vaakya banao"
+      },
+      "options": [
+        "Toys are made by the children.",
+        "Toys were made by the children.",
+        "Toys is made by the children."
+      ],
+      "answer": "Toys are made by the children."
+    },
+    {
+      "type": "fill_blank",
+      "id": "B8.15.T.S09",
+      "skills": [
+        "book.words"
+      ],
+      "sentence": "I write in my ___ every night.",
+      "answer": "diary",
+      "options": [
+        "diary",
+        "dairy"
+      ],
+      "meaning": {
+        "hi": "मैं हर रात डायरी लिखता हूँ।",
+        "hinglish": "Main har raat diary likhta hoon."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.15.T.S10",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "Where do children go with their elders on Eid?",
+      "questionMeaning": {
+        "hi": "ईद पर कहाँ?",
+        "hinglish": "Eid par kahan?"
+      },
+      "options": [
+        "to the Eidgah",
+        "to school",
+        "to the market only"
+      ],
+      "answer": "to the Eidgah"
+    }
+  ]
+}

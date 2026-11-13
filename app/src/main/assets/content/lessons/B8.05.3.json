@@ -1,0 +1,244 @@
+{
+  "id": "B8.05.3",
+  "level": 8,
+  "bookSteps": [
+    "B8.05.3.S02",
+    "B8.05.3.S03",
+    "B8.05.3.S04",
+    "B8.05.3.S05",
+    "B8.05.3.S06",
+    "B8.05.3.S07",
+    "B8.05.3.S09",
+    "B8.05.3.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.05.3.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(A) हर शब्द के दो मतलब दिए हैं। सही वाला चुनो।",
+        "hinglish": "(A) Har shabd ke do matlab diye hain. Sahi waala chuno.",
+        "en": "(A) Two meanings are given for each word. Choose the correct one."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.3.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "pleasure",
+      "questionMeaning": {
+        "hi": "सही मतलब चुनो",
+        "hinglish": "Sahi matlab chuno"
+      },
+      "options": [
+        "feeling of happiness",
+        "long walk"
+      ],
+      "answer": "feeling of happiness"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.3.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "terrible",
+      "questionMeaning": {
+        "hi": "सही मतलब चुनो",
+        "hinglish": "Sahi matlab chuno"
+      },
+      "options": [
+        "very unpleasant",
+        "glorious"
+      ],
+      "answer": "very unpleasant"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.3.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "treasure",
+      "questionMeaning": {
+        "hi": "सही मतलब चुनो",
+        "hinglish": "Sahi matlab chuno"
+      },
+      "options": [
+        "collection of valuable things",
+        "refreshing"
+      ],
+      "answer": "collection of valuable things"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.3.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "miser",
+      "questionMeaning": {
+        "hi": "सही मतलब चुनो",
+        "hinglish": "Sahi matlab chuno"
+      },
+      "options": [
+        "one who hates to spend money",
+        "driver"
+      ],
+      "answer": "one who hates to spend money"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.3.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "chanced",
+      "questionMeaning": {
+        "hi": "सही मतलब चुनो",
+        "hinglish": "Sahi matlab chuno"
+      },
+      "options": [
+        "happened",
+        "shopping"
+      ],
+      "answer": "happened"
+    },
+    {
+      "type": "choice",
+      "id": "B8.05.3.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "robber",
+      "questionMeaning": {
+        "hi": "सही मतलब चुनो",
+        "hinglish": "Sahi matlab chuno"
+      },
+      "options": [
+        "one who steals",
+        "an animal"
+      ],
+      "answer": "one who steals"
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.05.3.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "(B) एक ही शब्द के अलग जगह अलग उल्टे होते हैं: hard luck → good luck, पर hard sum → easy sum।",
+        "hinglish": "(B) Ek hi shabd ke alag jagah alag ulte hote hain: hard luck → good luck, par hard sum → easy sum.",
+        "en": "(B) One word can have different opposites in different places: hard luck → good luck, but hard sum → easy sum."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.05.3.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "सही उल्टा शब्द जोड़ो",
+        "hinglish": "Sahi ulta shabd jodo",
+        "en": "Join with the right antonym"
+      },
+      "pairs": [
+        {
+          "left": "hard luck",
+          "right": "good luck",
+          "meaning": {
+            "hi": "बुरी क़िस्मत — अच्छी क़िस्मत",
+            "hinglish": "buri kismat — achhi kismat"
+          }
+        },
+        {
+          "left": "hard sum",
+          "right": "easy sum",
+          "meaning": {
+            "hi": "कठिन सवाल — आसान सवाल",
+            "hinglish": "kathin sawaal — aasaan sawaal"
+          }
+        },
+        {
+          "left": "light weight",
+          "right": "heavy weight",
+          "meaning": {
+            "hi": "हल्का वज़न — भारी वज़न",
+            "hinglish": "halka vazan — bhaari vazan"
+          }
+        },
+        {
+          "left": "light colour",
+          "right": "dark colour",
+          "meaning": {
+            "hi": "हल्का रंग — गहरा रंग",
+            "hinglish": "halka rang — gehra rang"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.05.3.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "सही उल्टा शब्द जोड़ो",
+        "hinglish": "Sahi ulta shabd jodo",
+        "en": "Join with the right antonym"
+      },
+      "pairs": [
+        {
+          "left": "fair work",
+          "right": "unfair work",
+          "meaning": {
+            "hi": "सही काम — गलत काम",
+            "hinglish": "sahi kaam — galat kaam"
+          }
+        },
+        {
+          "left": "fair complexion",
+          "right": "dark complexion",
+          "meaning": {
+            "hi": "गोरा रंग — साँवला रंग",
+            "hinglish": "gora rang — saanvla rang"
+          }
+        },
+        {
+          "left": "harsh voice",
+          "right": "soft voice",
+          "meaning": {
+            "hi": "कड़वी आवाज़ — मीठी आवाज़",
+            "hinglish": "kadvi awaaz — meethi awaaz"
+          }
+        },
+        {
+          "left": "harsh punishment",
+          "right": "mild punishment",
+          "meaning": {
+            "hi": "कड़ी सज़ा — हल्की सज़ा",
+            "hinglish": "kadi saza — halki saza"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "B7.14.2",
+  "level": 7,
+  "bookSteps": [
+    "B7.14.2.S02",
+    "B7.14.2.S03",
+    "B7.14.2.S04",
+    "B7.14.2.S05",
+    "B7.14.2.S06",
+    "B7.14.2.S07",
+    "B7.14.2.S08",
+    "B7.14.2.S09"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.14.2.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 101 से 103 तक ‘A Visit to Orchha’ पढ़ो। फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 101 se 103 tak ‘A Visit to Orchha’ padho. Phir jawab do.",
+        "en": "Read ‘A Visit to Orchha’ on pages 101 to 103 of your book. Then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.2.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why were the students of class VII happy?",
+      "questionMeaning": {
+        "hi": "क्लास 7 के बच्चे ख़ुश क्यों थे?",
+        "hinglish": "Class 7 ke bachche khush kyon the?"
+      },
+      "options": [
+        "They had visited Orchha and were discussing it.",
+        "They had a holiday.",
+        "They won a prize."
+      ],
+      "answer": "They had visited Orchha and were discussing it.",
+      "modelAnswer": "The students of class VII were happy because they had visited Orchha and were excited to discuss their visit.",
+      "modelMeaning": {
+        "hi": "क्लास 7 के बच्चे ख़ुश थे क्योंकि वे ओरछा घूमकर आए थे और उसके बारे में बात करने को उत्साहित थे।",
+        "hinglish": "Class 7 ke bachche khush the kyonki woh Orchha ghoomkar aaye the aur uske baare mein baat karne ko utsaahit the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.2.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is the meeting place of rivers called?",
+      "questionMeaning": {
+        "hi": "नदियों के मिलने की जगह को क्या कहते हैं?",
+        "hinglish": "Nadiyon ke milne ki jagah ko kya kehte hain?"
+      },
+      "options": [
+        "Sangam or confluence",
+        "a dam",
+        "a bridge"
+      ],
+      "answer": "Sangam or confluence",
+      "modelAnswer": "The meeting place of rivers is called Sangam. In English it is called a confluence.",
+      "modelMeaning": {
+        "hi": "नदियों के मिलने की जगह को संगम कहते हैं। इंग्लिश में इसे confluence कहते हैं।",
+        "hinglish": "Nadiyon ke milne ki jagah ko sangam kehte hain. English mein ise confluence kehte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.2.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What is a cenotaph?",
+      "questionMeaning": {
+        "hi": "cenotaph क्या है?",
+        "hinglish": "Cenotaph kya hai?"
+      },
+      "options": [
+        "a monument built in memory of people who died in far away places",
+        "a big river",
+        "a kind of painting"
+      ],
+      "answer": "a monument built in memory of people who died in far away places",
+      "modelAnswer": "A cenotaph is a monument built in memory of soldiers, sailors or others who died in some far away places.",
+      "modelMeaning": {
+        "hi": "cenotaph उन लोगों की याद में बना स्मारक है जो कहीं दूर मरे।",
+        "hinglish": "Cenotaph un logon ki yaad mein bana smaarak hai jo kahin door mare."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.2.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What are the cenotaphs at Orchha called?",
+      "questionMeaning": {
+        "hi": "ओरछा के स्मारकों को क्या कहते हैं?",
+        "hinglish": "Orchha ke smaarakon ko kya kehte hain?"
+      },
+      "options": [
+        "chhatries",
+        "tombs",
+        "murals"
+      ],
+      "answer": "chhatries",
+      "modelAnswer": "The cenotaphs at Orchha are called chhatries.",
+      "modelMeaning": {
+        "hi": "ओरछा के स्मारकों को छतरियाँ कहते हैं।",
+        "hinglish": "Orchha ke smaarakon ko chhatriyaan kehte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.2.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who built the buildings at Orchha?",
+      "questionMeaning": {
+        "hi": "ओरछा की इमारतें किसने बनवाईं?",
+        "hinglish": "Orchha ki imaaratein kisne banwaayin?"
+      },
+      "options": [
+        "the Bundela kings",
+        "the Mughal kings",
+        "the British"
+      ],
+      "answer": "the Bundela kings",
+      "modelAnswer": "The Bundela kings built the buildings at Orchha.",
+      "modelMeaning": {
+        "hi": "ओरछा की इमारतें बुंदेला राजाओं ने बनवाईं।",
+        "hinglish": "Orchha ki imaaratein Bundela raajaon ne banwaayin."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.2.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which style do the wall paintings at Orchha belong to?",
+      "questionMeaning": {
+        "hi": "ओरछा की दीवारों के चित्र किस शैली के हैं?",
+        "hinglish": "Orchha ki deewaaron ke chitra kis shaili ke hain?"
+      },
+      "options": [
+        "the Bundela style",
+        "the Mughal style",
+        "the Kangra style"
+      ],
+      "answer": "the Bundela style",
+      "modelAnswer": "The wall paintings at Orchha belong to the Bundela style, a part of the Rajput style.",
+      "modelMeaning": {
+        "hi": "ओरछा के भित्ति चित्र बुंदेला शैली के हैं, जो राजपूत शैली का हिस्सा है।",
+        "hinglish": "Orchha ke bhitti chitra Bundela shaili ke hain, jo Rajput shaili ka hissa hai."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.2.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "When were the wall paintings very popular?",
+      "questionMeaning": {
+        "hi": "दीवार के चित्र कब बहुत लोकप्रिय थे?",
+        "hinglish": "Deewaar ke chitra kab bahut lokpriya the?"
+      },
+      "options": [
+        "in the 16th and 17th centuries",
+        "in the 20th century",
+        "last year"
+      ],
+      "answer": "in the 16th and 17th centuries",
+      "modelAnswer": "Wall paintings were very popular in the 16th and 17th centuries.",
+      "modelMeaning": {
+        "hi": "दीवार के चित्र 16वीं और 17वीं सदी में बहुत लोकप्रिय थे।",
+        "hinglish": "Deewaar ke chitra 16vi aur 17vi sadi mein bahut lokpriya the."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B7.14.2.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who looks after old monuments and buildings?",
+      "questionMeaning": {
+        "hi": "पुराने स्मारकों की देखभाल कौन करता है?",
+        "hinglish": "Puraane smaarakon ki dekhbhaal kaun karta hai?"
+      },
+      "options": [
+        "the Archaeological Department",
+        "the Railway Department",
+        "the school"
+      ],
+      "answer": "the Archaeological Department",
+      "modelAnswer": "The Archaeological Department looks after old monuments and buildings.",
+      "modelMeaning": {
+        "hi": "पुरातत्व विभाग पुराने स्मारकों और इमारतों की देखभाल करता है।",
+        "hinglish": "Puraatatva vibhaag puraane smaarakon aur imaaraton ki dekhbhaal karta hai."
+      }
+    }
+  ]
+}

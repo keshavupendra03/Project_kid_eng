@@ -1,0 +1,110 @@
+{
+  "id": "B6.03.6",
+  "level": 6,
+  "bookSteps": [
+    "B6.03.6.S02",
+    "B6.03.6.S03",
+    "B6.03.6.S04",
+    "B6.03.6.S05",
+    "B6.03.6.S06"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B6.03.6.S01",
+      "skills": [
+        "book.writing"
+      ],
+      "text": {
+        "hi": "किताब: तस्वीर में राजा गुफ़ा में मकड़ी को देख रहा है। इसके बारे में पाँच वाक्य लिखो।",
+        "hinglish": "Kitaab: tasveer mein raja gufaa mein makdi ko dekh raha hai. Iske baare mein paanch vaakya likho.",
+        "en": "The book: the picture shows the king watching a spider in the cave. Write five sentences about it."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.03.6.S02",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तस्वीर: राजा एक गुफ़ा में बैठा है।",
+        "hinglish": "Tasveer: raja ek gufaa mein baitha hai.",
+        "en": "Picture: say the king is sitting in a cave."
+      },
+      "answer": "The king is sitting in a cave.",
+      "meaning": {
+        "hi": "राजा एक गुफ़ा में बैठा है।",
+        "hinglish": "Raja ek gufaa mein baitha hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.03.6.S03",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तस्वीर: वह दुखी और परेशान है।",
+        "hinglish": "Tasveer: woh dukhi aur pareshaan hai.",
+        "en": "Picture: say he is sad and worried."
+      },
+      "answer": "He is sad and worried.",
+      "meaning": {
+        "hi": "वह दुखी और परेशान है।",
+        "hinglish": "Woh dukhi aur pareshaan hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.03.6.S04",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तस्वीर: एक मकड़ी दीवार पर चढ़ रही है।",
+        "hinglish": "Tasveer: ek makdi deewaar par chadh rahi hai.",
+        "en": "Picture: say a spider is climbing the wall."
+      },
+      "answer": "A spider is climbing the wall.",
+      "meaning": {
+        "hi": "एक मकड़ी दीवार पर चढ़ रही है।",
+        "hinglish": "Ek makdi deewaar par chadh rahi hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.03.6.S05",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तस्वीर: मकड़ी बार-बार गिरती है।",
+        "hinglish": "Tasveer: makdi baar-baar girti hai.",
+        "en": "Picture: say the spider falls again and again."
+      },
+      "answer": "The spider falls again and again.",
+      "meaning": {
+        "hi": "मकड़ी बार-बार गिरती है।",
+        "hinglish": "Makdi baar-baar girti hai."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B6.03.6.S06",
+      "skills": [
+        "book.writing"
+      ],
+      "prompt": {
+        "hi": "तस्वीर: राजा ध्यान से मकड़ी को देख रहा है।",
+        "hinglish": "Tasveer: raja dhyaan se makdi ko dekh raha hai.",
+        "en": "Picture: say the king is watching the spider carefully."
+      },
+      "answer": "The king is watching the spider carefully.",
+      "meaning": {
+        "hi": "राजा ध्यान से मकड़ी को देख रहा है।",
+        "hinglish": "Raja dhyaan se makdi ko dekh raha hai."
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "B6.07.7",
+  "level": 6,
+  "bookSteps": [],
+  "steps": [
+    {
+      "type": "match_pairs",
+      "id": "B6.07.7.S01",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "instruction": {
+        "hi": "दौड़ के शब्द जोड़ो",
+        "hinglish": "Daud ke shabd jodo",
+        "en": "Join the race words"
+      },
+      "pairs": [
+        {
+          "left": "starting line",
+          "right": "where the race begins",
+          "meaning": {
+            "hi": "शुरुआत की लाइन",
+            "hinglish": "shuruaat ki line"
+          }
+        },
+        {
+          "left": "finish line",
+          "right": "where the race ends",
+          "meaning": {
+            "hi": "आख़िरी लाइन",
+            "hinglish": "aakhiri line"
+          }
+        },
+        {
+          "left": "winner",
+          "right": "the one who comes first",
+          "meaning": {
+            "hi": "विजेता",
+            "hinglish": "vijeta"
+          }
+        },
+        {
+          "left": "runner-up",
+          "right": "the one who comes second",
+          "meaning": {
+            "hi": "दूसरे नंबर वाला",
+            "hinglish": "doosre number waala"
+          }
+        }
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "B6.07.7.S02",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "question": "‘Slow and steady wins the race.’ Who is like this in the story?",
+      "questionMeaning": {
+        "hi": "‘धीरे पर लगातार चलने वाला जीतता है।’ कहानी में ऐसा कौन है?",
+        "hinglish": "‘Dheere par lagaataar chalne waala jeetta hai.’ Kahani mein aisa kaun hai?"
+      },
+      "options": [
+        "Mina",
+        "Mala",
+        "Rani"
+      ],
+      "answer": "Mina"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.07.7.S03",
+      "skills": [
+        "vocab.meaning"
+      ],
+      "sentence": "Mina was ___ of winning the race.",
+      "answer": "confident",
+      "options": [
+        "confident",
+        "careless",
+        "afraid"
+      ],
+      "meaning": {
+        "hi": "मीना को दौड़ जीतने का भरोसा था।",
+        "hinglish": "Mina ko daud jeetne ka bharosa tha."
+      }
+    }
+  ]
+}

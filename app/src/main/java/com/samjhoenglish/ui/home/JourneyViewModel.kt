@@ -5,6 +5,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.initializer
 import androidx.lifecycle.viewmodel.viewModelFactory
+import com.samjhoenglish.content.BookClass
 import com.samjhoenglish.content.ContentRepository
 import com.samjhoenglish.content.LessonRef
 import com.samjhoenglish.content.LevelInfo
@@ -44,6 +45,8 @@ data class JourneyUiState(
     val nextPassage: LessonRef? = null,
     /** A word from the child's Word Power band, different every day. */
     val wordOfDay: PowerWord? = null,
+    /** The child's own school textbook, if its chapters are in the app (Classes 6–8). */
+    val myBook: BookClass? = null,
 ) {
     /** "R2 · 3/6": the level the child is reading at and how far through it they are. */
     val readingLevelNow: LevelInfo? get() = readingLevels.lastOrNull { level -> level.lessons.firstOrNull()?.id in readingUnlocked }
@@ -101,10 +104,12 @@ class JourneyViewModel(
         parent.missionStates(childId),
         flow { emit(content.missions()) },
         combine(flow { emit(content.wordPower()) }, progress.lessonStatus(childId), ::wordOfDay),
-    ) { state, missionStates, missions, word ->
+        flow { emit(content.book().classes.firstOrNull { it.grade == classGrade && it.chapters.isNotEmpty() }) },
+    ) { state, missionStates, missions, word, book ->
         val approved = missionStates.filter { it.approved }.map { it.missionId }.toSet()
         val currentId = Learning.currentMission(missions.map { it.id to it.needLessons }, approved, state.passed.size)
         state.copy(
+            myBook = book,
             wordOfDay = word,
             mission = missions.firstOrNull { it.id == currentId },
             missionPending = missionStates.any { it.missionId == currentId && !it.approved },

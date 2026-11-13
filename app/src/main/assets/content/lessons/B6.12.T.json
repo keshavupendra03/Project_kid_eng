@@ -1,0 +1,200 @@
+{
+  "id": "B6.12.T",
+  "level": 6,
+  "bookSteps": [
+    "B6.12.T.S01",
+    "B6.12.T.S02",
+    "B6.12.T.S03",
+    "B6.12.T.S04",
+    "B6.12.T.S05",
+    "B6.12.T.S06",
+    "B6.12.T.S07",
+    "B6.12.T.S08",
+    "B6.12.T.S09",
+    "B6.12.T.S10"
+  ],
+  "steps": [
+    {
+      "type": "choice",
+      "id": "B6.12.T.S01",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "What was the courtier's objection?",
+      "questionMeaning": {
+        "hi": "दरबारी की आपत्ति क्या थी?",
+        "hinglish": "Darbaari ki aapatti kya thi?"
+      },
+      "options": [
+        "The lights of the palace kept the washerman warm.",
+        "Denu came late.",
+        "Denu was not a washerman."
+      ],
+      "answer": "The lights of the palace kept the washerman warm."
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.T.S02",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "How did Birbal bring justice to Denu?",
+      "questionMeaning": {
+        "hi": "बीरबल ने इंसाफ़ कैसे दिलाया?",
+        "hinglish": "Birbal ne insaaf kaise dilaaya?"
+      },
+      "options": [
+        "He kept a cooking pot far above a fire to show the palace lights could not warm Denu.",
+        "He paid Denu himself.",
+        "He punished the courtier."
+      ],
+      "answer": "He kept a cooking pot far above a fire to show the palace lights could not warm Denu."
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.T.S03",
+      "skills": [
+        "book.comprehension"
+      ],
+      "question": "\"I kept on praying for your safety the whole night.\" Who said it?",
+      "questionMeaning": {
+        "hi": "यह किसने कहा?",
+        "hinglish": "Yeh kisne kaha?"
+      },
+      "options": [
+        "Kusum to Denu",
+        "Akbar to Birbal",
+        "the messenger to Akbar"
+      ],
+      "answer": "Kusum to Denu"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.T.S04",
+      "skills": [
+        "book.words"
+      ],
+      "question": "A King's seat is a ...",
+      "questionMeaning": {
+        "hi": "राजा की सीट?",
+        "hinglish": "Raja ki seat?"
+      },
+      "options": [
+        "throne",
+        "crown",
+        "court"
+      ],
+      "answer": "throne"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.T.S05",
+      "skills": [
+        "book.words"
+      ],
+      "question": "Kings wear this on their head:",
+      "questionMeaning": {
+        "hi": "राजा सिर पर क्या पहनते हैं?",
+        "hinglish": "Raja sir par kya pehente hain?"
+      },
+      "options": [
+        "crown",
+        "throne",
+        "tray"
+      ],
+      "answer": "crown"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.T.S06",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "question": "The adverb of ‘beautiful’ is ...",
+      "questionMeaning": {
+        "hi": "‘beautiful’ का -ly रूप",
+        "hinglish": "‘beautiful’ ka -ly roop"
+      },
+      "options": [
+        "beautifully",
+        "beautifuly",
+        "beautyly"
+      ],
+      "answer": "beautifully"
+    },
+    {
+      "type": "fill_blank",
+      "id": "B6.12.T.S07",
+      "skills": [
+        "book.grammar",
+        "grammar.adverbs"
+      ],
+      "sentence": "The lion roared ___.",
+      "answer": "loudly",
+      "options": [
+        "loudly",
+        "comfortably",
+        "sadly"
+      ],
+      "meaning": {
+        "hi": "शेर ज़ोर से दहाड़ा।",
+        "hinglish": "Sher zor se dahaada."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.T.S08",
+      "skills": [
+        "book.grammar"
+      ],
+      "question": "write → ?",
+      "questionMeaning": {
+        "hi": "करने वाले का नाम",
+        "hinglish": "Karne waale ka naam"
+      },
+      "options": [
+        "writer",
+        "writeer",
+        "writting"
+      ],
+      "answer": "writer"
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.T.S09",
+      "skills": [
+        "book.talk"
+      ],
+      "question": "Have you seen a snake? (no)",
+      "questionMeaning": {
+        "hi": "नहीं में जवाब",
+        "hinglish": "Nahi mein jawab"
+      },
+      "options": [
+        "No, I haven't.",
+        "No, I don't.",
+        "No, I can't."
+      ],
+      "answer": "No, I haven't."
+    },
+    {
+      "type": "choice",
+      "id": "B6.12.T.S10",
+      "skills": [
+        "book.activity"
+      ],
+      "question": "Which word describes Akbar?",
+      "questionMeaning": {
+        "hi": "अकबर के लिए कौन सा शब्द?",
+        "hinglish": "Akbar ke liye kaun sa shabd?"
+      },
+      "options": [
+        "just",
+        "lazy",
+        "cruel"
+      ],
+      "answer": "just"
+    }
+  ]
+}

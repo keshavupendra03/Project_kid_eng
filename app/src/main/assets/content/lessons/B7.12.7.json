@@ -1,0 +1,134 @@
+{
+  "id": "B7.12.7",
+  "level": 7,
+  "bookSteps": [
+    "B7.12.7.S02",
+    "B7.12.7.S03",
+    "B7.12.7.S04"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.12.7.S01",
+      "skills": [
+        "book.activity"
+      ],
+      "text": {
+        "hi": "किताब की दो तस्वीरें हैं: एक दादाजी और एक स्कूल की लड़की। इन शब्दों से वर्णन करो: round face, old man, young girl, wears spectacles, big eyes, short hair, bald।",
+        "hinglish": "Kitaab ki do tasveerein hain: ek daadaji aur ek school ki ladki. In shabdon se varnan karo: round face, old man, young girl, wears spectacles, big eyes, short hair, bald.",
+        "en": "The book has two pictures: a grandfather and a school girl. Describe them with: round face, old man, young girl, wears spectacles, big eyes, short hair, bald."
+      }
+    },
+    {
+      "type": "sort_groups",
+      "id": "B7.12.7.S02",
+      "skills": [
+        "book.activity"
+      ],
+      "instruction": {
+        "hi": "हर वाक्यांश को दादाजी या स्कूल की लड़की के पास रखो",
+        "hinglish": "Har vaakyansh ko daadaji ya school ki ladki ke paas rakho",
+        "en": "Put each clue with the grandfather or the school girl"
+      },
+      "groups": [
+        {
+          "id": "old",
+          "name": "the grandfather",
+          "emoji": "👴",
+          "meaning": {
+            "hi": "दादाजी",
+            "hinglish": "daadaji"
+          }
+        },
+        {
+          "id": "girl",
+          "name": "the school girl",
+          "emoji": "👧",
+          "meaning": {
+            "hi": "स्कूल की लड़की",
+            "hinglish": "school ki ladki"
+          }
+        }
+      ],
+      "items": [
+        {
+          "text": "old man",
+          "emoji": "👴",
+          "groups": [
+            "old"
+          ]
+        },
+        {
+          "text": "young girl",
+          "emoji": "🎒",
+          "groups": [
+            "girl"
+          ]
+        },
+        {
+          "text": "bald",
+          "emoji": "🧑‍🦲",
+          "groups": [
+            "old"
+          ]
+        },
+        {
+          "text": "wears spectacles",
+          "emoji": "👓",
+          "groups": [
+            "old"
+          ]
+        },
+        {
+          "text": "short hair",
+          "emoji": "💇",
+          "groups": [
+            "girl"
+          ]
+        },
+        {
+          "text": "big eyes",
+          "emoji": "👀",
+          "groups": [
+            "girl",
+            "old"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.7.S03",
+      "skills": [
+        "book.activity"
+      ],
+      "prompt": {
+        "hi": "दादाजी का वर्णन: वे चश्मा पहनते हैं।",
+        "hinglish": "Daadaji ka varnan: woh chashma pehente hain.",
+        "en": "Describe the grandfather: he wears spectacles."
+      },
+      "answer": "The old man wears spectacles.",
+      "meaning": {
+        "hi": "बूढ़े आदमी चश्मा पहनते हैं।",
+        "hinglish": "Boodhe aadmi chashma pehente hain."
+      }
+    },
+    {
+      "type": "build_sentence",
+      "id": "B7.12.7.S04",
+      "skills": [
+        "book.activity"
+      ],
+      "prompt": {
+        "hi": "लड़की का वर्णन: उसकी बड़ी आँखें और छोटे बाल हैं।",
+        "hinglish": "Ladki ka varnan: uski badi aankhein aur chhote baal hain.",
+        "en": "Describe the girl: big eyes and short hair."
+      },
+      "answer": "The girl has big eyes and short hair.",
+      "meaning": {
+        "hi": "लड़की की बड़ी आँखें और छोटे बाल हैं।",
+        "hinglish": "Ladki ki badi aankhein aur chhote baal hain."
+      }
+    }
+  ]
+}

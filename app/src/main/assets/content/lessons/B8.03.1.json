@@ -1,0 +1,219 @@
+{
+  "id": "B8.03.1",
+  "level": 8,
+  "bookSteps": [
+    "B8.03.1.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.03.1.S01",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "text": {
+        "hi": "एक ग़रीब लकड़हारा कुएँ में फँसे बंदर, बाघ, साँप और एक सुनार को बाहर निकालता है। जानवर उसका एहसान चुकाते हैं, पर सुनार धोखा देता है। कौन कृतज्ञ निकला और कौन नहीं?",
+        "hinglish": "Ek gareeb lakadhaara kuen mein phanse bandar, baagh, saanp aur ek sunaar ko baahar nikaalta hai. Jaanwar uska ehsaan chukaate hain, par sunaar dhokha deta hai. Kaun kritagya nikla aur kaun nahi?",
+        "en": "A poor woodcutter pulls a monkey, a tiger, a snake and a jeweller out of a well. The animals repay him, but the jeweller cheats him. Who was grateful, and who was not?"
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.03.1.S02",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "question": "Have you ever helped anyone? How?",
+      "questionMeaning": {
+        "hi": "क्या तुमने कभी किसी की मदद की है? कैसे?",
+        "hinglish": "Kya tumne kabhi kisi ki madad ki hai? Kaise?"
+      },
+      "options": [
+        "Yes, I helped an old man cross the road.",
+        "No, I never help."
+      ],
+      "answer": "Yes, I helped an old man cross the road.",
+      "modelAnswer": "Answer about yourself, for example: Yes, I helped an old man cross the road. / I helped my friend with his homework.",
+      "modelMeaning": {
+        "hi": "अपने बारे में बताओ, जैसे: हाँ, मैंने एक बूढ़े आदमी को सड़क पार कराई।",
+        "hinglish": "Apne baare mein batao, jaise: Haan, maine ek boodhe aadmi ko sadak paar karaayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.03.1.S03",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "peep",
+        "emoji": "",
+        "hindi": "झाँकना",
+        "hinglish": "jhaankna"
+      },
+      "meaning": "to look quickly through a small space",
+      "example": "He peeped into the well.",
+      "exampleMeaning": {
+        "hi": "उसने कुएँ में झाँका।",
+        "hinglish": "Usne kuen mein jhaanka."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.03.1.S04",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "trapped",
+        "emoji": "",
+        "hindi": "फँसा हुआ",
+        "hinglish": "phansa hua"
+      },
+      "meaning": "caught and unable to escape",
+      "example": "A cat was trapped on the roof.",
+      "exampleMeaning": {
+        "hi": "एक बिल्ली छत पर फँसी थी।",
+        "hinglish": "Ek billi chhat par phansi thi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.03.1.S05",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "in a fix",
+        "emoji": "",
+        "hindi": "दुविधा में",
+        "hinglish": "duvidha mein"
+      },
+      "meaning": "in a difficult situation",
+      "example": "I was in a fix about what to do.",
+      "exampleMeaning": {
+        "hi": "मैं दुविधा में था कि क्या करूँ।",
+        "hinglish": "Main duvidha mein tha ki kya karoon."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.03.1.S06",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "saviour",
+        "emoji": "",
+        "hindi": "रक्षक, बचाने वाला",
+        "hinglish": "rakshak, bachaane waala"
+      },
+      "meaning": "one who saves others",
+      "example": "The woodcutter was their saviour.",
+      "exampleMeaning": {
+        "hi": "लकड़हारा उनका रक्षक था।",
+        "hinglish": "Lakadhaara unka rakshak tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.03.1.S07",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "exhausted",
+        "emoji": "",
+        "hindi": "बहुत थका हुआ",
+        "hinglish": "bahut thaka hua"
+      },
+      "meaning": "very tired",
+      "example": "He was exhausted after work.",
+      "exampleMeaning": {
+        "hi": "काम के बाद वह बहुत थका था।",
+        "hinglish": "Kaam ke baad woh bahut thaka tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.03.1.S08",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "ungrateful",
+        "emoji": "",
+        "hindi": "एहसान फ़रामोश",
+        "hinglish": "ehsaan faraamosh"
+      },
+      "meaning": "not thankful for help",
+      "example": "The jeweller was ungrateful.",
+      "exampleMeaning": {
+        "hi": "सुनार एहसान फ़रामोश था।",
+        "hinglish": "Sunaar ehsaan faraamosh tha."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.03.1.S09",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "recover",
+        "emoji": "",
+        "hindi": "ठीक हो जाना",
+        "hinglish": "theek ho jaana"
+      },
+      "meaning": "to become well again",
+      "example": "The queen recovered fully.",
+      "exampleMeaning": {
+        "hi": "रानी पूरी तरह ठीक हो गई।",
+        "hinglish": "Rani poori tarah theek ho gayi."
+      }
+    },
+    {
+      "type": "learn_word",
+      "id": "B8.03.1.S10",
+      "skills": [
+        "book.words",
+        "vocab.meaning"
+      ],
+      "word": {
+        "english": "release",
+        "emoji": "",
+        "hindi": "छोड़ देना, आज़ाद करना",
+        "hinglish": "chhod dena, aazaad karna"
+      },
+      "meaning": "to set free",
+      "example": "The woodcutter was released from prison.",
+      "exampleMeaning": {
+        "hi": "लकड़हारे को जेल से छोड़ दिया गया।",
+        "hinglish": "Lakadhaare ko jail se chhod diya gaya."
+      }
+    },
+    {
+      "type": "say_word",
+      "id": "B8.03.1.S11",
+      "skills": [
+        "speak.word",
+        "book.words"
+      ],
+      "word": {
+        "english": "ungrateful",
+        "emoji": "",
+        "hindi": "एहसान फ़रामोश",
+        "hinglish": "ehsaan faraamosh"
+      }
+    }
+  ]
+}

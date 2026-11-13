@@ -1,0 +1,304 @@
+{
+  "id": "B8.11.6",
+  "level": 8,
+  "bookSteps": [
+    "B8.11.6.S02",
+    "B8.11.6.S03",
+    "B8.11.6.S04",
+    "B8.11.6.S05",
+    "B8.11.6.S06",
+    "B8.11.6.S08",
+    "B8.11.6.S09",
+    "B8.11.6.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.11.6.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 98-99 पर एक पिता का अपने बेटे के टीचर को पत्र पढ़ो, फिर जवाब दो।",
+        "hinglish": "Apni kitaab mein page 98-99 par ek pita ka apne bete ke teacher ko patra padho, phir jawab do.",
+        "en": "Read a father's letter to his son's teacher on pages 98–99 of your book, then answer."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.6.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who is the writer of this letter?",
+      "questionMeaning": {
+        "hi": "पत्र किसने लिखा?",
+        "hinglish": "Patra kisne likha?"
+      },
+      "options": [
+        "Abraham Lincoln",
+        "Mayank",
+        "Mahatma Gandhi"
+      ],
+      "answer": "Abraham Lincoln"
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.6.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Why did he write the letter?",
+      "questionMeaning": {
+        "hi": "उन्होंने पत्र क्यों लिखा?",
+        "hinglish": "Unhone patra kyon likha?"
+      },
+      "options": [
+        "to ask the teacher to teach his son good values for life",
+        "to complain about the school fees",
+        "to ask for a holiday"
+      ],
+      "answer": "to ask the teacher to teach his son good values for life",
+      "modelAnswer": "He wrote the letter to request the teacher to teach his son good values and lessons for life.",
+      "modelMeaning": {
+        "hi": "उन्होंने टीचर से अपने बेटे को ज़िंदगी के अच्छे मूल्य और सबक़ सिखाने का अनुरोध करने के लिए पत्र लिखा।",
+        "hinglish": "Unhone teacher se apne bete ko zindagi ke achhe moolya aur sabak sikhaane ka anurodh karne ke liye patra likha."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.6.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Who did he write the letter to?",
+      "questionMeaning": {
+        "hi": "पत्र किसे लिखा?",
+        "hinglish": "Patra kise likha?"
+      },
+      "options": [
+        "his son's teacher",
+        "his son",
+        "the President"
+      ],
+      "answer": "his son's teacher"
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.6.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What did he ask the teacher to teach his son? (any one)",
+      "questionMeaning": {
+        "hi": "उन्होंने बेटे को क्या सिखाने को कहा?",
+        "hinglish": "Unhone bete ko kya sikhaane ko kaha?"
+      },
+      "options": [
+        "It is far more honourable to fail than to cheat.",
+        "Always follow the crowd.",
+        "Never read books."
+      ],
+      "answer": "It is far more honourable to fail than to cheat."
+    },
+    {
+      "type": "choice",
+      "id": "B8.11.6.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "In whom should one have sublime faith, and why?",
+      "questionMeaning": {
+        "hi": "किसमें गहरी आस्था रखनी चाहिए और क्यों?",
+        "hinglish": "Kismein gehri aastha rakhni chahiye aur kyon?"
+      },
+      "options": [
+        "in the creator and in oneself, so one has faith in mankind",
+        "in money, to be rich",
+        "in luck, to win games"
+      ],
+      "answer": "in the creator and in oneself, so one has faith in mankind",
+      "modelAnswer": "One should have sublime faith in the creator and in oneself, because then one will always have faith in mankind.",
+      "modelMeaning": {
+        "hi": "हमें ईश्वर और ख़ुद पर गहरी आस्था रखनी चाहिए, क्योंकि तब हम इंसानियत पर भी भरोसा रखेंगे।",
+        "hinglish": "Humein Ishwar aur khud par gehri aastha rakhni chahiye, kyonki tab hum insaaniyat par bhi bharosa rakhenge."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.11.6.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "(B) क्रिया (verb) से संज्ञा (noun) बनाओ: laugh → laughter।",
+        "hinglish": "(B) Kriya (verb) se sangya (noun) banao: laugh → laughter.",
+        "en": "(B) Make nouns from verbs: laugh → laughter."
+      }
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.11.6.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "Verb को उसके noun से जोड़ो",
+        "hinglish": "Verb ko uske noun se jodo",
+        "en": "Join each verb to its noun"
+      },
+      "pairs": [
+        {
+          "left": "know",
+          "right": "knowledge",
+          "meaning": {
+            "hi": "जानना — ज्ञान",
+            "hinglish": "jaanna — gyaan"
+          }
+        },
+        {
+          "left": "think",
+          "right": "thought",
+          "meaning": {
+            "hi": "सोचना — विचार",
+            "hinglish": "sochna — vichaar"
+          }
+        },
+        {
+          "left": "dedicate",
+          "right": "dedication",
+          "meaning": {
+            "hi": "समर्पित करना — समर्पण",
+            "hinglish": "samarpit karna — samarpan"
+          }
+        },
+        {
+          "left": "earn",
+          "right": "earning",
+          "meaning": {
+            "hi": "कमाना — कमाई",
+            "hinglish": "kamaana — kamaai"
+          }
+        },
+        {
+          "left": "enjoy",
+          "right": "enjoyment",
+          "meaning": {
+            "hi": "आनंद लेना — आनंद",
+            "hinglish": "aanand lena — aanand"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.11.6.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "Verb को उसके noun से जोड़ो",
+        "hinglish": "Verb ko uske noun se jodo",
+        "en": "Join each verb to its noun"
+      },
+      "pairs": [
+        {
+          "left": "laugh",
+          "right": "laughter",
+          "meaning": {
+            "hi": "हँसना — हँसी",
+            "hinglish": "hansna — hansi"
+          }
+        },
+        {
+          "left": "fail",
+          "right": "failure",
+          "meaning": {
+            "hi": "फ़ेल होना — असफलता",
+            "hinglish": "fail hona — asafalta"
+          }
+        },
+        {
+          "left": "filter",
+          "right": "filtration",
+          "meaning": {
+            "hi": "छानना — छनाई",
+            "hinglish": "chhaanna — chhanaai"
+          }
+        },
+        {
+          "left": "create",
+          "right": "creator",
+          "meaning": {
+            "hi": "बनाना — रचयिता",
+            "hinglish": "banaana — rachayita"
+          }
+        }
+      ]
+    },
+    {
+      "type": "match_pairs",
+      "id": "B8.11.6.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "instruction": {
+        "hi": "(C) कॉलम मिलाओ",
+        "hinglish": "(C) Column milaao",
+        "en": "(C) Match the columns"
+      },
+      "pairs": [
+        {
+          "left": "Try to give him the strength",
+          "right": "not to follow the crowd.",
+          "meaning": {
+            "hi": "भीड़ के पीछे न चलने की ताक़त",
+            "hinglish": "bheed ke peechhe na chalne ki taakat"
+          }
+        },
+        {
+          "left": "To stand and fight",
+          "right": "if he thinks he is right.",
+          "meaning": {
+            "hi": "सही हो तो डटकर लड़ना",
+            "hinglish": "sahi ho to datkar ladna"
+          }
+        },
+        {
+          "left": "Treat him gently but do not cuddle him,",
+          "right": "only the test of fire makes fine steel.",
+          "meaning": {
+            "hi": "आग की परीक्षा से ही अच्छा इस्पात बनता है",
+            "hinglish": "aag ki pareeksha se hi achha ispaat banta hai"
+          }
+        },
+        {
+          "left": "It is far more honourable",
+          "right": "to fail than to cheat.",
+          "meaning": {
+            "hi": "नक़ल से फ़ेल होना बेहतर",
+            "hinglish": "nakal se fail hona behtar"
+          }
+        },
+        {
+          "left": "Teach him to have faith in his own ideas",
+          "right": "even if everyone tells him they are wrong.",
+          "meaning": {
+            "hi": "अपने विचारों पर भरोसा",
+            "hinglish": "apne vichaaron par bharosa"
+          }
+        }
+      ]
+    }
+  ]
+}

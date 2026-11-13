@@ -1,0 +1,168 @@
+{
+  "id": "B7.07.5",
+  "level": 7,
+  "bookSteps": [
+    "B7.07.5.S02"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B7.07.5.S01",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "text": {
+        "hi": "किताब कहती है: तुम्हारा दोस्त छुट्टियों में घूमकर लौटा है। फ़ोन पर उससे उसकी यात्रा के बारे में सवाल पूछो। मैं दोस्त बनता हूँ, तुम सवाल पूछो!",
+        "hinglish": "Kitaab kehti hai: tumhara dost chhuttiyon mein ghoomkar lauta hai. Phone par usse uski yaatra ke baare mein sawaal poochho. Main dost banta hoon, tum sawaal poochho!",
+        "en": "The book says: your friend is back from a holiday trip. Ask about the journey on the phone. I'll be your friend; you ask the questions!"
+      }
+    },
+    {
+      "type": "roleplay",
+      "id": "B7.07.5.S02",
+      "skills": [
+        "book.talk",
+        "speak.sentence"
+      ],
+      "scene": "📞",
+      "turns": [
+        {
+          "id": "hi",
+          "tinku": "Hello! I am back from my holiday trip.",
+          "meaning": {
+            "hi": "हेलो! मैं छुट्टियों की यात्रा से लौट आया।",
+            "hinglish": "Hello! Main chhuttiyon ki yaatra se laut aaya."
+          },
+          "replies": [
+            {
+              "say": "Where did you go?",
+              "meaning": {
+                "hi": "तुम कहाँ गए थे?",
+                "hinglish": "Tum kahan gaye the?"
+              },
+              "patterns": [
+                "where did you go",
+                "where did you go *",
+                "where *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "where",
+          "tinku": "I went to Pachmarhi.",
+          "meaning": {
+            "hi": "मैं पचमढ़ी गया था।",
+            "hinglish": "Main Pachmarhi gaya tha."
+          },
+          "replies": [
+            {
+              "say": "How did you go there?",
+              "meaning": {
+                "hi": "तुम वहाँ कैसे गए?",
+                "hinglish": "Tum wahan kaise gaye?"
+              },
+              "patterns": [
+                "how did you go there",
+                "how did you go *",
+                "how *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "how",
+          "tinku": "I went there by bus with my family.",
+          "meaning": {
+            "hi": "मैं परिवार के साथ बस से गया।",
+            "hinglish": "Main parivaar ke saath bus se gaya."
+          },
+          "replies": [
+            {
+              "say": "What's the weather like at Pachmarhi?",
+              "meaning": {
+                "hi": "पचमढ़ी में मौसम कैसा है?",
+                "hinglish": "Pachmarhi mein mausam kaisa hai?"
+              },
+              "patterns": [
+                "whats the weather like *",
+                "what is the weather like *",
+                "how is the weather *",
+                "* weather *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "weather",
+          "tinku": "It's really fine. It is cool and green.",
+          "meaning": {
+            "hi": "बहुत अच्छा है। ठंडा और हरा-भरा है।",
+            "hinglish": "Bahut achha hai. Thanda aur hara-bhara hai."
+          },
+          "replies": [
+            {
+              "say": "What did you see there?",
+              "meaning": {
+                "hi": "तुमने वहाँ क्या देखा?",
+                "hinglish": "Tumne wahan kya dekha?"
+              },
+              "patterns": [
+                "what did you see there",
+                "what did you see *",
+                "what did you *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "see",
+          "tinku": "I saw waterfalls and caves. Bee Fall was beautiful!",
+          "meaning": {
+            "hi": "मैंने झरने और गुफ़ाएँ देखीं। बी फ़ॉल बहुत सुंदर था!",
+            "hinglish": "Maine jharne aur gufaayein dekhin. Bee Fall bahut sundar tha!"
+          },
+          "replies": [
+            {
+              "say": "Did you enjoy your trip?",
+              "meaning": {
+                "hi": "क्या तुम्हें यात्रा में मज़ा आया?",
+                "hinglish": "Kya tumhe yaatra mein mazaa aaya?"
+              },
+              "patterns": [
+                "did you enjoy your trip",
+                "did you enjoy *",
+                "did you like *"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "enjoy",
+          "tinku": "Yes, very much! I will show you the photos. Bye!",
+          "meaning": {
+            "hi": "हाँ, बहुत! मैं तुम्हें फ़ोटो दिखाऊँगा। बाय!",
+            "hinglish": "Haan, bahut! Main tumhe photo dikhaaunga. Bye!"
+          },
+          "replies": [
+            {
+              "say": "Bye! See you soon.",
+              "meaning": {
+                "hi": "बाय! जल्दी मिलते हैं।",
+                "hinglish": "Bye! Jaldi milte hain."
+              },
+              "patterns": [
+                "bye *",
+                "bye",
+                "goodbye *",
+                "goodbye",
+                "see you *"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

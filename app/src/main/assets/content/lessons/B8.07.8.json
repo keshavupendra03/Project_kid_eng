@@ -1,0 +1,204 @@
+{
+  "id": "B8.07.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.07.8.S02",
+    "B8.07.8.S03",
+    "B8.07.8.S04",
+    "B8.07.8.S05",
+    "B8.07.8.S07",
+    "B8.07.8.S08",
+    "B8.07.8.S09",
+    "B8.07.8.S10"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.07.8.S01",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "अपनी किताब में पेज 62-63 पर डेंगू, मलेरिया और चिकनगुनिया वाला पैराग्राफ़ पढ़ो।",
+        "hinglish": "Apni kitaab mein page 62-63 par dengue, malaria aur chikungunya waala paragraph padho.",
+        "en": "Read the passage about dengue, malaria and chikungunya on pages 62–63 of your book."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.8.S02",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Name the diseases mentioned in the passage.",
+      "questionMeaning": {
+        "hi": "पैराग्राफ़ में कौन सी बीमारियाँ हैं?",
+        "hinglish": "Paragraph mein kaun si beemaariyaan hain?"
+      },
+      "options": [
+        "dengue, malaria and chikungunya",
+        "cold, cough and flu",
+        "polio and measles"
+      ],
+      "answer": "dengue, malaria and chikungunya"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.8.S03",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Is there any vaccine for these diseases?",
+      "questionMeaning": {
+        "hi": "क्या इनका कोई टीका है?",
+        "hinglish": "Kya inka koi teeka hai?"
+      },
+      "options": [
+        "No, there is no vaccine for all these diseases.",
+        "Yes, one vaccine for all.",
+        "Yes, a tablet."
+      ],
+      "answer": "No, there is no vaccine for all these diseases."
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.8.S04",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "What should we do if we have fever?",
+      "questionMeaning": {
+        "hi": "बुख़ार हो तो क्या करें?",
+        "hinglish": "Bukhaar ho to kya karein?"
+      },
+      "options": [
+        "See a doctor and get a lab test.",
+        "Ignore it.",
+        "Eat spicy food."
+      ],
+      "answer": "See a doctor and get a lab test.",
+      "modelAnswer": "If we have fever, we should go to a doctor. Only a doctor, after laboratory tests, can find out which disease it is.",
+      "modelMeaning": {
+        "hi": "बुख़ार हो तो डॉक्टर के पास जाना चाहिए। सिर्फ़ डॉक्टर ही जाँच के बाद बीमारी पहचान सकते हैं।",
+        "hinglish": "Bukhaar ho to doctor ke paas jaana chahiye. Sirf doctor hi jaanch ke baad beemaari pehchaan sakte hain."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.8.S05",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "Which is a preventive measure against these diseases?",
+      "questionMeaning": {
+        "hi": "बचाव का कौन सा तरीक़ा सही है?",
+        "hinglish": "Bachaav ka kaun sa tareeqa sahi hai?"
+      },
+      "options": [
+        "Drain stagnant water from coolers and pots.",
+        "Keep water standing in coolers.",
+        "Sleep without a net."
+      ],
+      "answer": "Drain stagnant water from coolers and pots.",
+      "modelAnswer": "Use mosquito nets, wear protective clothing, don't let water stagnate, drain coolers and potted plants, and spray pesticides.",
+      "modelMeaning": {
+        "hi": "मच्छरदानी लगाओ, पूरे कपड़े पहनो, पानी जमा न होने दो, कूलर और गमलों का पानी निकालो, और दवा छिड़को।",
+        "hinglish": "Machchhardaani lagaao, poore kapde pehno, paani jama na hone do, cooler aur gamlon ka paani nikaalo, aur dava chhidko."
+      }
+    },
+    {
+      "type": "learn_card",
+      "id": "B8.07.8.S06",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "text": {
+        "hi": "(5) उलझे अक्षर ठीक करके शब्द बनाओ।",
+        "hinglish": "(5) Uljhe akshar theek karke shabd banao.",
+        "en": "(5) Arrange the jumbled letters to make words."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.8.S07",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "sediases → ?",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "diseases",
+        "seasides",
+        "decides"
+      ],
+      "answer": "diseases"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.8.S08",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "aidrn → ?",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "drain",
+        "rain",
+        "dinar"
+      ],
+      "answer": "drain"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.8.S09",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "alamiar → ?",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "malaria",
+        "alarm",
+        "Malaria Day"
+      ],
+      "answer": "malaria"
+    },
+    {
+      "type": "choice",
+      "id": "B8.07.8.S10",
+      "skills": [
+        "book.comprehension",
+        "read.understand"
+      ],
+      "question": "vefer → ?",
+      "questionMeaning": {
+        "hi": "अक्षर सुलझाओ",
+        "hinglish": "Akshar suljhaao"
+      },
+      "options": [
+        "fever",
+        "never",
+        "fewer"
+      ],
+      "answer": "fever"
+    }
+  ]
+}

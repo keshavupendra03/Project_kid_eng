@@ -1,0 +1,155 @@
+{
+  "id": "B8.04.8",
+  "level": 8,
+  "bookSteps": [
+    "B8.04.8.S02",
+    "B8.04.8.S03",
+    "B8.04.8.S04",
+    "B8.04.8.S05",
+    "B8.04.8.S06",
+    "B8.04.8.S07"
+  ],
+  "steps": [
+    {
+      "type": "learn_card",
+      "id": "B8.04.8.S01",
+      "skills": [
+        "book.talk",
+        "grammar.wh_questions"
+      ],
+      "text": {
+        "hi": "तुम सुबह पार्क में घूमने गए थे। दोस्तों ने सवाल पूछे। जवाब दिए गए हैं, तुम सही सवाल चुनो।",
+        "hinglish": "Tum subah park mein ghoomne gaye the. Doston ne sawaal poochhe. Jawab diye gaye hain, tum sahi sawaal chuno.",
+        "en": "You went to a park for a morning walk. Your friends asked questions. The answers are given; choose the right question."
+      }
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.8.S02",
+      "skills": [
+        "book.talk",
+        "grammar.wh_questions"
+      ],
+      "question": "Ans: I went for a morning walk.",
+      "questionMeaning": {
+        "hi": "इस जवाब का सवाल चुनो",
+        "hinglish": "Is jawab ka sawaal chuno"
+      },
+      "options": [
+        "Where did you go this morning?",
+        "Who went with you?",
+        "When did you come back?"
+      ],
+      "answer": "Where did you go this morning?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.8.S03",
+      "skills": [
+        "book.talk",
+        "grammar.wh_questions"
+      ],
+      "question": "Ans: My mother and sister went with me.",
+      "questionMeaning": {
+        "hi": "इस जवाब का सवाल चुनो",
+        "hinglish": "Is jawab ka sawaal chuno"
+      },
+      "options": [
+        "Who went with you?",
+        "What did you see there?",
+        "Did you enjoy it?"
+      ],
+      "answer": "Who went with you?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.8.S04",
+      "skills": [
+        "book.talk",
+        "grammar.wh_questions"
+      ],
+      "question": "Ans: We saw a large number of people and children there.",
+      "questionMeaning": {
+        "hi": "इस जवाब का सवाल चुनो",
+        "hinglish": "Is jawab ka sawaal chuno"
+      },
+      "options": [
+        "What did you see there?",
+        "Where did you go?",
+        "When did you come back?"
+      ],
+      "answer": "What did you see there?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.8.S05",
+      "skills": [
+        "book.talk",
+        "grammar.wh_questions"
+      ],
+      "question": "Ans: Some were walking about, some were reading newspapers.",
+      "questionMeaning": {
+        "hi": "इस जवाब का सवाल चुनो",
+        "hinglish": "Is jawab ka sawaal chuno"
+      },
+      "options": [
+        "What were they doing?",
+        "Who went with you?",
+        "Did you enjoy it?"
+      ],
+      "answer": "What were they doing?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.8.S06",
+      "skills": [
+        "book.talk",
+        "grammar.wh_questions"
+      ],
+      "question": "Ans: We came back at 9 o'clock.",
+      "questionMeaning": {
+        "hi": "इस जवाब का सवाल चुनो",
+        "hinglish": "Is jawab ka sawaal chuno"
+      },
+      "options": [
+        "When did you come back?",
+        "Where did you go?",
+        "What did you see there?"
+      ],
+      "answer": "When did you come back?"
+    },
+    {
+      "type": "choice",
+      "id": "B8.04.8.S07",
+      "skills": [
+        "book.talk",
+        "grammar.wh_questions"
+      ],
+      "question": "Ans: Yes, we enjoyed and returned home full of energy.",
+      "questionMeaning": {
+        "hi": "इस जवाब का सवाल चुनो",
+        "hinglish": "Is jawab ka sawaal chuno"
+      },
+      "options": [
+        "Did you enjoy it?",
+        "Who went with you?",
+        "What were they doing?"
+      ],
+      "answer": "Did you enjoy it?"
+    },
+    {
+      "type": "say_sentence",
+      "id": "B8.04.8.S08",
+      "skills": [
+        "speak.sentence",
+        "book.talk"
+      ],
+      "sentence": "Where did you go this morning?",
+      "meaning": {
+        "hi": "तुम आज सुबह कहाँ गए थे?",
+        "hinglish": "Tum aaj subah kahan gaye the?",
+        "en": "Where did you go this morning?"
+      }
+    }
+  ]
+}
